@@ -1,0 +1,16 @@
+---
+layout: default
+title: The Setup
+---
+<ul id='interviews'>
+{% for post in site.posts %}
+	<li>
+    	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>
+			<img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='66' height='66' class='icon'>
+			<h2 class='person'>{{post.person}}</h2>
+		</a>
+		<p class='summary'>{{post.summary}}</p>
+		<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
+	</li>
+{% endfor %}
+</ul>

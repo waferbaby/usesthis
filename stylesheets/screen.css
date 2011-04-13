@@ -1,0 +1,188 @@
+a:link, a:visited {
+color: #fe2e9a;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+article.contents h3:before {
+counter-increment: questions;
+content: counter(questions);
+background-color: #eee;
+padding: 5px;
+margin: 0 10px 0 0;
+font-weight: bold;
+}
+
+article.contents ul, article.contents ol {
+list-style: disc;
+padding: 10px 25px;
+font-size: 80%;
+}
+
+aside#sidebar {
+float: right;
+width: 130px;
+padding: 20px 0 0 10px;
+font-size: 80%;
+}
+
+aside#sidebar img {
+margin-bottom: 10px;
+}
+
+aside#sidebar p {
+padding: 0;
+margin: 0 0 10px 0;
+}
+
+aside#sidebar .fusiontext a {
+color: #000;
+font-size: 90%;
+}
+
+body {
+counter-reset: questions;
+padding: 20px;
+margin: 0;
+font-family: "helvetica neue", helvetica, serif;
+font-size: 15px;
+}
+
+footer {
+clear: both;
+padding-top: 20px;
+color: #888;
+font-size: 80%;
+}
+
+h1 {
+float: left;
+padding: 10px 0;
+margin: 0 30px 0 0;
+font-size: 250%;
+}
+
+h1 a:link, h1 a:visited {
+color: #000 !important;
+}
+
+h2 {
+padding: 0;
+margin: 0;
+font-size: 150%;
+font-weight: normal;
+}
+
+h2 a:link, h2 a:visited {
+color: #000 !important;
+}
+
+h3 {
+padding: 0;
+margin: 20px 0 0 0;
+color: #555;
+font-size: 140%;
+font-weight: normal;
+}
+
+html {
+width: 702px;
+margin: auto;
+}
+
+img.icon {
+float: left;
+margin-right: 20px;
+}
+
+p#tagline {
+padding: 10px 0 0 0;
+margin: 0;
+color: #888;
+font-size: 80%;
+}
+
+p.summary {
+padding: 0;
+margin: 2px 0 0 0;
+font-size: 85%;
+color: #666;
+}
+
+nav ul {
+padding: 10px 0 20px 0;
+margin: 0;
+font-size: 120%;
+border-bottom: dotted 1px #aaa;
+}
+
+nav ul li {
+display: inline;
+}
+
+nav ul li.selected {
+font-weight: bold;
+}
+
+nav ul li:after {
+content: " / ";
+color: #ddd;
+}
+
+section#contents {
+width: 500px;
+padding: 20px 18px 0 0;
+line-height: 25px;
+}
+
+section#contents a:hover img {
+opacity: 0.9;
+}
+
+section#contents img {
+border: solid 1px #000;
+margin-bottom: 10px;
+}
+
+time {
+display: block;
+padding: 0;
+margin: 0;
+font-size: 70%;
+color: #888;
+}
+
+time:before {
+content: "Published on ";
+}
+
+ul, ol {
+padding: 10px;
+margin: 10px 20px;
+font-size: 85%;
+}
+
+ul#interviews {
+list-style: none inside;
+padding: 0;
+margin: 0;
+font-size: 100%;
+}
+
+ul#interviews li {
+clear: left;
+padding-bottom: 5px;
+margin-bottom: 15px;
+border-bottom: dotted 1px #ddd;
+}
+
+ul#interviews a h2 {
+color: #000;
+}
+
+ul#interviews a:hover h2 {
+color: #fe2e9a;
+}

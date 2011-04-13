@@ -1,0 +1,3 @@
+permalink: /interviews/:title.html
+markdown: rdiscount
+exclude: ['hardware', 'software']
