@@ -29,7 +29,7 @@ For many years, off in the back rooms at Sun I had a [SPARC T2000][sparc-t2000] 
 
 I'd like to use Free Software but I'm addicted to [Keynote][], [Lightroom][], suspend/resume that Always Just Works, and a competent outboard-display manager.
 
-Creative time is spent in [Aquamacs][] Emacs (blogging, coding in languages with poor IDE support like [Perl][] and [Erlang][]), [Eclipse][] ([Android][] development), [NetBeans][] ([Java][], [Ruby][], [Clojure][], and [C][] development), and [Gmail] (via a [Fluidized][fluid] Safari).
+Creative time is spent in [Aquamacs][] Emacs (blogging, coding in languages with poor IDE support like [Perl][] and [Erlang][]), [Eclipse][] ([Android][] development), [NetBeans][] ([Java][], [Ruby][], [Clojure][], and [C][] development), and [Gmail][] (via a [Fluidized][fluid] Safari).
 
 I use [Camino][] for browsing, [Adium][] for chat, [Colloquy][] for IRC, [NetNewsWire][] for watching the feeds, and [Tweetie][] for Twitter. Lightroom for photos with some [Photoshop Elements][photoshop-elements]. [Terminal.app][terminal] with a beige background and 12 point Courier New Bold. I don't use [screen][](1) or tabs, just lots of Terminal windows. My shell is [bash][] and I often pop up [Vim][] for quickie file changes, particularly on remote hosts. Which doesn't mean that [Emacs][] isn't the One True Editor.
 
