@@ -24,10 +24,13 @@ module Jekyll
 					base_name = File.basename(ware, ".yml")
 				
 					if slugs.include? base_name
-						data = YAML.load_file(ware)
-						content += "[#{base_name}]: " + data["url"] + "\"" + data["description"] + "\"\n"
+						begin
+							data = YAML.load_file(ware)
+							content += "[#{base_name}]: " + data["url"] + "\"" + data["description"] + "\"\n"
 						
-						slugs.delete(base_name)
+							slugs.delete(base_name)
+						rescue
+						end
 					end
 				end
 			end
