@@ -26,7 +26,7 @@ module Jekyll
 					if slugs.include? base_name
 						begin
 							data = YAML.load_file(ware)
-							content += "[#{base_name}]: " + data["url"] + "\"" + data["description"] + "\"\n"
+							content += "[#{base_name}]: " + data["url"] + " \"" + data["description"] + "\"\n"
 						
 							slugs.delete(base_name)
 						rescue
