@@ -1,3 +1,2 @@
-auto: true
 permalink: /interviews/:title.html
 exclude: ['hardware', 'software']
