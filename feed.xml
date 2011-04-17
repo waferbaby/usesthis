@@ -20,6 +20,7 @@ permalink: /feed/index.html
 		<content type='xhtml'>
 			<div xmlns='http://www.w3.org/1999/xhtml'>
 				<p><img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='335' class='portrait'></p>
+				{{post.content}}
 			</div>
 		</content>
 	</entry>
