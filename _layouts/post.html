@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<article class='overview'>
-	<img src='/images/portraits/{{page.slug}}.jpg' alt='{{page.person}}' width='500' height='335' class='portrait'>
-	<h2 class='person'>{{page.person}}</h2> 
-	<p class='summary'>{{page.summary}}</p> 
-	<time datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%B %d, %Y"}}</time>
+<article class="overview">
+	<img src="/images/portraits/{{page.slug}}.jpg" alt="{{page.person}}" width="500" height="335" class="portrait">
+	<h2 class="person">{{page.person}}</h2> 
+	<p class="summary">{{page.summary}}</p> 
+	<time datetime="{{page.date | date: "%Y-%m-%d"}}">{{page.date | date: "%B %d, %Y"}}</time>
 </article> 
-<article class='contents'>
+<article class="contents">
 	{{content}}
 </article>
