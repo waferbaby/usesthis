@@ -1,10 +1,11 @@
 ---
 layout: post
-title: An interview with Derek Powazek
-slug: derek.powazek
-person: Derek Powazek
-summary: Designer, writer, small dog appreciator
-credits: Photo by Heather Champ.
+title: "An interview with Derek Powazek"
+slug: "derek.powazek"
+person: "Derek Powazek"
+summary: "Designer, writer, small dog appreciator"
+credits:
+ name: "Heather Champ"
 ---
 ### Who are you, and what do you do?
 

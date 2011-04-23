@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with Tom Scott
-slug: tom.scott
-person: Tom Scott
-summary: Geek comedian
-credits: Photo by [Cristiano Betta](http://cristianobetta.com/ "Cristiano's website.").
+title: "An interview with Tom Scott"
+slug: "tom.scott"
+person: "Tom Scott"
+summary: "Geek comedian"
+credits:
+ name: "Cristiano Betta"
+ url: "http://cristianobetta.com/"
 ---
 ### Who are you, and what do you do?
 

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with Dave Shea
-slug: dave.shea
-person: Dave Shea
-summary: Designer, illustrator
-credits: Photo by [Tom Coates](http://www.flickr.com/photos/plasticbag/ "Tom's photos on Flickr.").
+title: "An interview with Dave Shea"
+slug: "dave.shea"
+person: "Dave Shea"
+summary: "Designer, illustrator"
+credits:
+ name: "Tom Coates"
+ url: "http://www.flickr.com/photos/plasticbag/"
 ---
 ### Who are you, and what do you do?
 

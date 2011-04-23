@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with James Thomson
-slug: james.thomson
-person: James Thomson
-summary: Mac developer (DragThing, PCalc)
-credits: Photo by [Ian Farrell](http://www.flickr.com/photos/iain "Ian's photos on Flickr.").
+title: "An interview with James Thomson"
+slug: "james.thomson"
+person: "James Thomson"
+summary: "Mac developer (DragThing, PCalc)"
+credits:
+ name: "Ian Farrell"
+ url: "http://www.flickr.com/photos/iain"
 ---
 ### Who are you and what do you do?
 

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with Eric Meyer
-slug: eric.meyer
-person: Eric Meyer
-summary: Web standards monkey
-credits: Photo by [Pete Karl II](http://www.flickr.com/photos/pete-karl/ "Pete's photos on Flickr.").
+title: "An interview with Eric Meyer"
+slug: "eric.meyer"
+person: "Eric Meyer"
+summary: "Web standards monkey"
+credits:
+ name: "Pete Karl II"
+ url: "http://www.flickr.com/photos/pete-karl/"
 ---
 ### Who are you, and what do you do?
 

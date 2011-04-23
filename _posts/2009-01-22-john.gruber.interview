@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with John Gruber
-slug: john.gruber
-person: John Gruber
-summary: Writer (Daring Fireball)
-credits: Photo by [George Del Barrio](http://superbiate.com/ "George's website.").
+title: "An interview with John Gruber"
+slug: "john.gruber"
+person: "John Gruber"
+summary: "Writer (Daring Fireball)"
+credits:
+ name: "George Del Barrio"
+ url: "http://superbiate.com/"
 ---
 ### Who are you and what do you do?
 

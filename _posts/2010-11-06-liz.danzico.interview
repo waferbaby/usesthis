@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with Liz Danzico
-slug: liz.danzico
-person: Liz Danzico
-summary: Designer, educator, editor
-credits: Photo by [Faruk Ates](http://farukat.es/ "Faruk's website.").
+title: "An interview with Liz Danzico"
+slug: "liz.danzico"
+person: "Liz Danzico"
+summary: "Designer, educator, editor"
+credits:
+ name: "Faruk Ates"
+ url: "http://farukat.es/"
 ---
 ### Who are you, and what do you do?
 

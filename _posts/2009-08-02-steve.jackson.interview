@@ -1,10 +1,11 @@
 ---
 layout: post
-title: An interview with Steve Jackson
-slug: steve.jackson
-person: Steve Jackson
-summary: Game designer
-credits: Image is © copyright Steve Jackson Games.
+title: "An interview with Steve Jackson"
+slug: "steve.jackson"
+person: "Steve Jackson"
+summary: "Game designer"
+credits:
+ name: "Steve Jackson Games"
 ---
 ### Who are you and what do you do?
 

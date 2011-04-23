@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with Bobbie Johnson
-slug: bobbie.johnson
-person: Bobbie Johnson
-summary: Writer
-credits: Photo by [Meg Pickard](http://www.flickr.com/photos/meg/ "Meg's photos on Flickr.").
+title: "An interview with Bobbie Johnson"
+slug: "bobbie.johnson"
+person: "Bobbie Johnson"
+summary: "Writer"
+credits:
+ name: "Meg Pickard"
+ url: "http://www.flickr.com/photos/meg/"
 ---
 ### Who are you, and what do you do?
 

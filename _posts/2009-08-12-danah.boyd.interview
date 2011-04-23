@@ -1,10 +1,12 @@
 ---
 layout: post
-title: An interview with danah boyd
-slug: danah.boyd
-person: danah boyd
-summary: Researcher, Microsoft Research New England
-credits: Photo by [Adam Tinworth](http://www.flickr.com/people/adders/ "Adam's photos.").
+title: "An interview with danah boyd"
+slug: "danah.boyd"
+person: "danah boyd"
+summary: "Researcher, Microsoft Research New England"
+credits:
+ name: "Adam Tinworth"
+ url: "http://www.flickr.com/people/adders/"
 ---
 ### Who are you and what do you do?
 
