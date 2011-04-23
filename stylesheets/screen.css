@@ -105,6 +105,14 @@ color: #888;
 font-size: 80%;
 }
 
+p.credits {
+float: right;
+padding: 0;
+margin: 0;
+color: #aaa;
+font-size: 80%;
+}
+
 p.summary {
 padding: 0;
 margin: 2px 0 0 0;
@@ -131,6 +139,7 @@ nav ul li:after {
 content: " / ";
 color: #ddd;
 }
+
 
 section#contents {
 width: 500px;
