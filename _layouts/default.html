@@ -2,9 +2,11 @@
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<title>{{page.title}}</title>
-		<link href="http://usesthis.com/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-		<link href="http://usesthis.com/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
+		<link href="{% if page.person %}http://usesthis.com{% endif %}/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+		<link href="{% if page.person %}http://usesthis.com{% endif %}/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
+		<script type="text/javascript" src="http://use.typekit.com/fic3sbg.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 		<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-18499179-1']);
@@ -21,14 +23,14 @@
 	</head>
 	<body>
 		<header>
-			<h1><a href="http://usesthis.com/" title="The most recent interviews.">The Setup</a></h1>
+			<h1><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">The Setup</a></h1>
 			<p id="tagline">A bunch of nerdy interviews. What do people use to get stuff done?</p>
 		</header>
 		<nav>
 			<ul>
-				<li><a href="http://usesthis.com/archives/" title="All the other interviews.">Archives</a></li>
-				<li><a href="http://usesthis.com/about/" title="A little more info about the site.">About</a></li>
-				<li><a href="http://usesthis.com/community/" title="Other interviews by people like you.">Community</a></li>
+				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/archives/" title="All the other interviews.">Archives</a></li>
+				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/about/" title="A little more info about the site.">About</a></li>
+				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/community/" title="Other interviews by people like you.">Community</a></li>
 			</ul>
 		</nav>
 		<aside id="sidebar">
