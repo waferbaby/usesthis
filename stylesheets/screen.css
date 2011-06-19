@@ -37,8 +37,8 @@ font-size: 90%;
 body {
 padding: 20px;
 margin: 0;
-font-family: "ff-nuvo-web-pro-1", "ff-nuvo-web-pro-2", "helvetica", sans-serif;
-font-size: 15px;
+font-family: "myriad-pro-semi-condensed-1", "myriad-pro-semi-condensed-2", sans-serif;
+font-size: 18px;
 }
 
 footer {
@@ -111,7 +111,7 @@ color: #666;
 }
 
 nav ul {
-padding: 0 0 20px 0;
+padding: 5px 0 20px 0;
 margin: 0;
 font-size: 120%;
 border-bottom: dotted 1px #aaa;
@@ -134,7 +134,7 @@ color: #ddd;
 section#contents {
 width: 500px;
 padding: 20px 18px 0 0;
-line-height: 25px;
+line-height: 27px;
 }
 
 section#contents a:hover img {
