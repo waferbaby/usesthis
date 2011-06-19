@@ -7,15 +7,6 @@ a:hover {
 text-decoration: underline;
 }
 
-article.contents h3:before {
-counter-increment: questions;
-content: counter(questions);
-background-color: #eee;
-padding: 5px;
-margin: 0 10px 0 0;
-font-weight: bold;
-}
-
 article.contents ul, article.contents ol {
 list-style: disc;
 padding: 10px 25px;
@@ -44,10 +35,9 @@ font-size: 90%;
 }
 
 body {
-counter-reset: questions;
 padding: 20px;
 margin: 0;
-font-family: "helvetica neue", helvetica, serif;
+font-family: "ff-nuvo-web-pro-1", "ff-nuvo-web-pro-2", "helvetica", sans-serif;
 font-size: 15px;
 }
 
@@ -60,7 +50,7 @@ font-size: 80%;
 
 h1 {
 float: left;
-padding: 10px 0;
+padding: 0;
 margin: 0 30px 0 0;
 font-size: 250%;
 }
@@ -82,7 +72,7 @@ color: #000 !important;
 
 h3 {
 padding: 0;
-margin: 20px 0 0 0;
+margin: 20px 0 5px 0;
 color: #555;
 font-size: 140%;
 font-weight: normal;
@@ -121,7 +111,7 @@ color: #666;
 }
 
 nav ul {
-padding: 10px 0 20px 0;
+padding: 0 0 20px 0;
 margin: 0;
 font-size: 120%;
 border-bottom: dotted 1px #aaa;
