@@ -35,10 +35,10 @@ font-size: 90%;
 }
 
 body {
-padding: 20px;
+padding: 40px 20px;
 margin: 0;
-font-family: "arvo-1", "arvo-2", sans-serif;
-font-size: 15px;
+font-family: "gesta-1","gesta-2",sans-serif;
+font-size: 16px;
 }
 
 footer {
