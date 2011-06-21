@@ -17,7 +17,7 @@ aside#sidebar {
 float: right;
 width: 130px;
 padding: 20px 0 0 10px;
-font-size: 80%;
+font-size: 75%;
 }
 
 aside#sidebar img {
@@ -37,8 +37,9 @@ font-size: 90%;
 body {
 padding: 40px 20px;
 margin: 0;
-font-family: "prenton-1","prenton-2",sans-serif;
-font-size: 18px;
+font-family: "helvetica neue", helvetica, sans-serif;
+font-size: 16px;
+font-weight: 400;
 }
 
 footer {
@@ -52,7 +53,8 @@ h1 {
 float: left;
 padding: 0;
 margin: 0 30px 0 0;
-font-size: 270%;
+font-size: 230%;
+font-weight: 800;
 }
 
 h1 a:link, h1 a:visited {
@@ -62,8 +64,8 @@ color: #000 !important;
 h2 {
 padding: 0;
 margin: 0;
-font-size: 150%;
-font-weight: normal;
+font-size: 170%;
+font-weight: 300;
 }
 
 h2 a:link, h2 a:visited {
@@ -75,7 +77,7 @@ padding: 0;
 margin: 20px 0 5px 0;
 color: #555;
 font-size: 140%;
-font-weight: normal;
+font-weight: 300;
 }
 
 html {
@@ -89,10 +91,10 @@ margin-right: 20px;
 }
 
 p#tagline {
-padding: 10px 0 0 0;
+padding: 5px 0;
 margin: 0;
-color: #888;
-font-size: 70%;
+color: #555;
+font-size: 75%;
 }
 
 p.credits {
@@ -106,14 +108,14 @@ font-size: 80%;
 p.summary {
 padding: 0;
 margin: 2px 0 0 0;
-font-size: 85%;
-color: #666;
+font-size: 90%;
+color: #888;
 }
 
 nav ul {
-padding: 5px 0 20px 0;
+padding: 0 0 20px 0;
 margin: 0;
-font-size: 120%;
+font-size: 115%;
 border-bottom: dotted 1px #aaa;
 }
 
@@ -125,11 +127,14 @@ nav ul li.selected {
 font-weight: bold;
 }
 
-nav ul li:after {
+nav ul li:before {
 content: " / ";
 color: #ddd;
 }
 
+nav ul li:first-child:before {
+content: "";
+}
 
 section#contents {
 width: 500px;
@@ -151,7 +156,7 @@ display: block;
 padding: 0;
 margin: 0;
 font-size: 70%;
-color: #888;
+color: #aaa;
 }
 
 time:before {
