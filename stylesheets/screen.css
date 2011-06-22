@@ -17,7 +17,7 @@ aside#sidebar {
 float: right;
 width: 130px;
 padding: 20px 0 0 10px;
-font-size: 75%;
+font-size: 80%;
 }
 
 aside#sidebar img {
@@ -30,7 +30,7 @@ margin: 0 0 10px 0;
 }
 
 aside#sidebar .fusiontext a {
-color: #000;
+color: #888;
 font-size: 90%;
 }
 
@@ -52,8 +52,8 @@ font-size: 80%;
 h1 {
 float: left;
 padding: 0;
-margin: 0 30px 0 0;
-font-size: 230%;
+margin: 0 23px 0 0;
+font-size: 280%;
 font-weight: 800;
 }
 
@@ -91,10 +91,11 @@ margin-right: 20px;
 }
 
 p#tagline {
-padding: 5px 0;
+padding: 0 0 5px 0;
 margin: 0;
-color: #555;
-font-size: 75%;
+color: #999;
+font-size: 80%;
+font-weight: 300;
 }
 
 p.credits {
@@ -115,7 +116,7 @@ color: #888;
 nav ul {
 padding: 0 0 20px 0;
 margin: 0;
-font-size: 115%;
+font-size: 135%;
 border-bottom: dotted 1px #aaa;
 }
 
