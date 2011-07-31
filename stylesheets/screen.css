@@ -50,15 +50,14 @@ font-size: 80%;
 }
 
 h1 {
-float: left;
 padding: 0;
-margin: 0 23px 0 0;
+margin: 0;
 font-size: 250%;
 font-weight: 200;
 }
 
 h1 a:link, h1 a:visited {
-color: #000 !important;
+color: #333 !important;
 }
 
 h2 {
@@ -91,11 +90,11 @@ margin-right: 20px;
 }
 
 p#tagline {
-padding: 0 0 5px 0;
-margin: 0;
-color: #999;
-font-size: 80%;
-font-weight: 300;
+padding: 2px;
+margin: 0 0 10px 0;
+color: #777;
+font-size: 120%;
+font-weight: 200;
 }
 
 p.credits {
@@ -114,11 +113,12 @@ color: #888;
 }
 
 nav ul {
-padding: 0 0 20px 0;
+padding: 5px 0;
 margin: 0;
-font-size: 150%;
+font-size: 110%;
 font-weight: 200;
-border-bottom: dotted 1px #aaa;
+border-top: dotted 1px #ccc;
+border-bottom: dotted 1px #ccc;
 }
 
 nav ul li {
