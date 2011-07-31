@@ -21,11 +21,12 @@
 	</head>
 	<body>
 		<header>
-			<h1><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">The Setup</a></h1>
+			<h1>The Setup</h1>
 			<p id="tagline">A bunch of nerdy interviews. What do people use to get stuff done?</p>
 		</header>
 		<nav>
 			<ul>
+				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">Home</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/archives/" title="All the other interviews.">Archives</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/about/" title="A little more info about the site.">About</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/community/" title="Other interviews by people like you.">Community</a></li>
