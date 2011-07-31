@@ -53,8 +53,8 @@ h1 {
 float: left;
 padding: 0;
 margin: 0 23px 0 0;
-font-size: 280%;
-font-weight: 800;
+font-size: 250%;
+font-weight: 200;
 }
 
 h1 a:link, h1 a:visited {
@@ -116,16 +116,13 @@ color: #888;
 nav ul {
 padding: 0 0 20px 0;
 margin: 0;
-font-size: 135%;
+font-size: 150%;
+font-weight: 200;
 border-bottom: dotted 1px #aaa;
 }
 
 nav ul li {
 display: inline;
-}
-
-nav ul li.selected {
-font-weight: bold;
 }
 
 nav ul li:before {
