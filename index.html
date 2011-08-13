@@ -15,7 +15,7 @@ title: The Setup
 {% endfor %}
 {% for post in site.posts limit:9 offset:1 %}
 	<li>
-    	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>
+    		<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>
 			<img src='/images/thumbnails/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='100' class='portrait'>
 			<h2 class='person'>{{post.person}}</h2>
 		</a>
@@ -24,4 +24,4 @@ title: The Setup
 	</li>
 {% endfor %}
 </ul>
-<p>Hungry for <strong>more</strong>? There's plenty to read in <a href="http://usesthis.com/archives/" title="View all the interviews.">the archives!</a></p>
+<p>Don't panic - there's plenty <a href="http://usesthis.com/interviews/" title="View all the interviews.">more to read!</a></p>
