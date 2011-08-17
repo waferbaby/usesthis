@@ -10,7 +10,7 @@ title: The Setup
 			<h2 class='person'>{{post.person}}</h2>
 		</a>
 		<p class='summary'>{{post.summary}}</p>
-		{% if post.categories %}<p class='categories'>{% include categories.html %}</p>{% endif %}
+		{% include categories.html %}
 		<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
 	</li>
 {% endfor %}
@@ -21,7 +21,7 @@ title: The Setup
 			<h2 class='person'>{{post.person}}</h2>
 		</a>
 		<p class='summary'>{{post.summary}}</p>
-		{% if post.categories %}<p class='categories'>{% include categories.html %}</p>{% endif %}
+		{% include categories.html %}
 		<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
 	</li>
 {% endfor %}
