@@ -97,17 +97,6 @@ font-size: 120%;
 font-weight: 200;
 }
 
-p.categories {
-padding: 0;
-margin: 0;
-font-size: 80%;
-color: #555;
-}
-
-p.categories:before {
-content: "Filed under: ";
-}
-
 p.credits {
 float: right;
 padding: 0;
@@ -185,7 +174,7 @@ margin: 0;
 font-size: 100%;
 }
 
-ul#interviews li {
+ul#interviews > li {
 clear: left;
 padding-bottom: 5px;
 margin-bottom: 15px;
@@ -198,4 +187,29 @@ color: #000;
 
 ul#interviews a:hover h2 {
 color: #fe2e9a;
+}
+
+ul.categories {
+list-style: none inside;
+padding: 0;
+margin: 0;
+font-size: 80%;
+}
+
+ul.categories:before {
+content: "Filed under:";
+color: #999;
+}
+
+ul.categories li {
+display: inline;
+}
+
+ul.categories li:before {
+content: " / ";
+color: #bbb;
+}
+
+ul.categories li:first-child:before {
+content: "";
 }
