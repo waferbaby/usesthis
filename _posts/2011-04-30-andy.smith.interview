@@ -4,6 +4,7 @@ title: "An interview with Andy Smith"
 slug: "andy.smith"
 person: "Andy Smith"
 summary: "Software developer (OpenStack for Rackspace)"
+categories: ['mac', 'linux', 'developer', 'software']
 credits:
  name: "Jason Samsa"
  url: "http://www.flickr.com/photos/jsamsa/3402960203/"
