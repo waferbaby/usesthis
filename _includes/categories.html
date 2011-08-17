@@ -1,0 +1,3 @@
+{% for category in post.categories %}
+<a href="/interviews/{{category}}" title="View all interviews filed under '{{category}}'.">{{category}}</a>{% if forloop.last %}{% else %},{% endif %}
+{% endfor %}
