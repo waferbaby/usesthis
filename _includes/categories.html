@@ -1,3 +1,13 @@
-{% for category in post.categories %}
-<a href="/interviews/{{category}}" title="View all interviews filed under '{{category}}'.">{{category}}</a>{% if forloop.last %}{% else %},{% endif %}
-{% endfor %}
+{% if post.categories %}
+	{% assign categories=post.categories %}
+{% elsif page.categories %}
+	{% assign categories=page.categories %}
+{% endif %}
+
+{% if categories %}
+<ul class='categories'>
+	{% for category in categories %}
+	<li><a href="/interviews/{{category}}" title="View all interviews filed under '{{category}}'.">{{category}}</a></li>
+	{% endfor %}
+</ul>
+{% endif %}
