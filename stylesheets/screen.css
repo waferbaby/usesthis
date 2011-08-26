@@ -1,3 +1,5 @@
+/* Defaults shared between the sizes */
+
 a:link, a:visited {
 color: #fe2e9a;
 text-decoration: none;
@@ -7,39 +9,10 @@ a:hover {
 text-decoration: underline;
 }
 
-article.contents ul, article.contents ol {
-list-style: disc;
-padding: 10px 25px;
-font-size: 80%;
-}
-
-aside#sidebar {
-float: right;
-width: 130px;
-padding: 20px 0 0 10px;
-font-size: 80%;
-}
-
-aside#sidebar img {
-margin-bottom: 10px;
-}
-
-aside#sidebar p {
-padding: 0;
-margin: 0 0 10px 0;
-}
-
-aside#sidebar .fusiontext a {
-color: #888;
-font-size: 90%;
-}
-
 body {
-padding: 40px 20px;
-margin: 0;
 font-family: "helvetica neue", helvetica, sans-serif;
-font-size: 15px;
 font-weight: 400;
+font-size: 15px;
 }
 
 footer {
@@ -73,15 +46,9 @@ color: #000 !important;
 
 h3 {
 padding: 0;
-margin: 20px 0 5px 0;
 color: #555;
 font-size: 140%;
 font-weight: 300;
-}
-
-html {
-width: 702px;
-margin: auto;
 }
 
 img.icon {
@@ -89,9 +56,31 @@ float: left;
 margin-right: 20px;
 }
 
+nav ul {
+padding: 5px 0;
+margin: 0;
+font-size: 110%;
+font-weight: 200;
+border-top: solid 1px #eee;
+border-bottom: solid 1px #eee;
+}
+
+nav ul li {
+display: inline;
+}
+
+nav ul li:before {
+content: " / ";
+color: #ddd;
+}
+
+nav ul li:first-child:before {
+content: "";
+}
+
 p#tagline {
 padding: 2px;
-margin: 0 0 10px 0;
+margin: 0 0 10px 0;	
 color: #777;
 font-size: 120%;
 font-weight: 200;
@@ -112,32 +101,8 @@ font-size: 90%;
 color: #888;
 }
 
-nav ul {
-padding: 5px 0;
-margin: 0;
-font-size: 110%;
-font-weight: 200;
-border-top: dotted 1px #ccc;
-border-bottom: dotted 1px #ccc;
-}
-
-nav ul li {
-display: inline;
-}
-
-nav ul li:before {
-content: " / ";
-color: #ddd;
-}
-
-nav ul li:first-child:before {
-content: "";
-}
-
 section#contents {
-width: 500px;
-padding: 20px 18px 0 0;
-line-height: 27px;
+line-height: 23px;
 }
 
 section#contents a:hover img {
@@ -159,12 +124,6 @@ color: #aaa;
 
 time:before {
 content: "Published on ";
-}
-
-ul, ol {
-padding: 10px;
-margin: 10px 20px;
-font-size: 85%;
 }
 
 ul#interviews {
@@ -212,4 +171,88 @@ color: #bbb;
 
 ul.categories li:first-child:before {
 content: "";
+}
+
+/* Small/mobile devices */
+
+@media screen and (max-device-width: 480px), screen and (max-width: 800px) {
+	
+	aside {
+	display: none;
+	}
+	
+	body {
+	padding: 15px;
+	margin: 0;
+	font-size: 20px;
+	}
+	
+	h2 {
+	padding: 10px 0;
+	}
+	
+	nav ul {
+	margin-bottom: 15px;
+	}
+	
+	ul.categories:before {
+	font-size: 110%;
+	}
+}
+
+/* Bigger screens get the full thing */
+
+@media screen and (min-width: 800px) {
+	
+	article.contents ul, article.contents ol {
+	list-style: disc;
+	padding: 10px 25px;
+	font-size: 80%;
+	}
+
+	aside#sidebar {
+	float: right;
+	width: 130px;
+	padding: 20px 0 0 10px;
+	font-size: 80%;
+	}
+
+	aside#sidebar img {
+	margin-bottom: 10px;
+	}
+
+	aside#sidebar p {
+	padding: 0;
+	margin: 0 0 10px 0;
+	}
+
+	aside#sidebar .fusiontext a {
+	color: #888;
+	font-size: 90%;
+	}
+
+	body {
+	padding: 40px 20px;
+	margin: 0;
+	}
+
+	h3 {
+	margin: 20px 0 5px 0;
+	}
+
+	html {
+	width: 702px;
+	margin: auto;
+	}
+
+	section#contents {
+	width: 500px;
+	padding: 20px 18px 0 0;
+	}
+
+	ul, ol {
+	padding: 10px;
+	margin: 10px 20px;
+	font-size: 85%;
+	}
 }
