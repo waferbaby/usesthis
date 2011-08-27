@@ -1,0 +1,23 @@
+---
+layout: post
+title: "An interview with Fabian Pross"
+slug: "fabian.pross"
+person: "Fabian Pross"
+summary: "Technical director (Polynoid)"
+categories: ['mac', 'windows', 'artist', 'film']
+---
+### Who are you, and what do you do?
+
+My name is Pit (my real name is Fabian Pross), [I'm](http://www.monophyl.com/ "The Monophyl site.") part and technical director of the [Polynoid](http://www.polynoid.tv/ "The Polynoid site.") collective. We are a bunch of filmmakers/nerds, conceptualizing and producing CG short films and commercials.
+
+### What hardware are you using?
+
+I have a core i7 workstation under my desk, rocking 12 gigs of RAM. Not sure what kind of graphics card I have there - I grew up as a Mac user, so I don't know much about the internals of computers. We share a QNAP NAS called Biberbau at the studio which is running on a RAID5 setup. Peripheral wise I'm using an M sized [Wacom Intous 4][intuos] in combination with a cheap keyboard and mouse. I'm looking at a 20" [Apple Cinema Display][cinema-display], a 24" [Dell U 2410][u2410] and a [Canon EOS 500d][eos-500d] lying on my desk which I hardly use, sadly. Our office pet is a [Goliath KackelDackel][kackel-dackel], which has been suffering from obstipation lately because it's taken for a walk so rarely. When I'm not sitting in my white [IKEA Verner][verner], I carry a yellow [Burton Shooter Case][shooter-case] man purse with an [iPad][] (for emails, tv shows, games and comic books on the go) and an [iPhone][] classic besides some random paper stuff. The iPhone is my backup phone which I ditched for a [Palm Pixie Plus][pixie-plus]. I love my Pixie although it's always so thirsty for power. I also use a 13" [Macbook Pro][macbook-pro] on my couch socializing and reloading the [Polynoid Vimeo](http://vimeo.com/polynoid "The Polynoid page on Vimeo.") page.
+
+### And what software?
+
+Our main production software is [Autodesk Softimage][softimage], which I use with several plugins like emPolygonizer, emRPC, emFluid and lately Arnold for rendering. For distributed rendering we use [Royal Render][royal-render]. [Eyeon Fusion][fusion] serves for comp work besides [Photoshop][] and [After Effects][after-effects] as well as [Chrome][] and [Firefox][] for Browsing and [Google Docs][google-docs] for Spreadsheets and Word Processing. I love [Mac OS][mac-os-x] on my Mac, but my workstation is running [Windows 7][windows-7] because there is no Mac version of Softimage. It took us two weeks to set up our [Ubuntu 64][ubuntu-server] server, but since then, we never had a problem with it.
+
+### What would be your dream setup?
+
+When you're dealing with 3D production, there is (and never will be) a setup that can handle your stuff as fast as you'd like it to. It's a vicious cycle: the more horsepower you have, the more you crank up settings and polycounts. No matter what hardware there will be in the future, I will always hope for something faster...
