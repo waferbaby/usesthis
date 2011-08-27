@@ -38,7 +38,7 @@ Since 10.6, I prefer the built-in [Terminal.app][terminal] over 3rd-party termin
 
 Some of the day-to-day tools I use are [Transmit][], [Propane][], [Adium][], [Skitch][] and [Textual][].
 
-For my virtualization needs (I need to test on IE6, IE7, IE8 and FF/Chrome on Linux) I keep well-cared-for virtual machines handy. I use [VMWare Fusion][fusion], which has been very stable for me.
+For my virtualization needs (I need to test on IE6, IE7, IE8 and FF/Chrome on Linux) I keep well-cared-for virtual machines handy. I use [VMWare Fusion][vmware-fusion], which has been very stable for me.
 
 We use web applications extensively for collaboration ([Campfire][]) and server monitoring ([ServerDensity][server-density], [Pingdom][], [Clicky][]), and for email support we're working on our own support software, charmingly named [Charm][].
  

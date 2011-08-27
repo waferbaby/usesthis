@@ -52,7 +52,7 @@ On the communication side of things, I prefer [Safari][] as my web browser. I al
 
 Everything we work on at the Iconfactory is done under version control: [Versions][] and [Kaleidoscope][] make this much more palatable for everyone involved. (Although I still have a minimum of four [Terminal][] windows going at all times!)
 
-For software development, I stick with [Xcode][]. When doing web development, I use a combination of [BBEdit][] and [Coda][]. I inevitably have a copy of [Pcalc][] running for quick calculations. [Acorn][] and [xScope][] are also great graphics tools to have at my side. It's also hard to remember life before [VMware Fusion][fusion] and its ability to run any OS without having to restart my machine.
+For software development, I stick with [Xcode][]. When doing web development, I use a combination of [BBEdit][] and [Coda][]. I inevitably have a copy of [Pcalc][] running for quick calculations. [Acorn][] and [xScope][] are also great graphics tools to have at my side. It's also hard to remember life before [VMware Fusion][vmware-fusion] and its ability to run any OS without having to restart my machine.
 
 I also manage servers in my garage and in a rack we share with Panic in Portland, Oregon. A combination of [Remote Desktop][remote-desktop] over VPN and ssh makes this easy.
 
