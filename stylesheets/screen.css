@@ -1,4 +1,4 @@
-/* Defaults shared between the sizes */
+/* Default styles */
 
 a:link, a:visited {
 color: #fe2e9a;
@@ -9,7 +9,36 @@ a:hover {
 text-decoration: underline;
 }
 
+article.contents ul, article.contents ol {
+list-style: disc;
+padding: 10px 25px;
+font-size: 80%;
+}
+
+aside#sidebar {
+float: right;
+width: 130px;
+padding: 20px 0 0 10px;
+font-size: 80%;
+}
+
+aside#sidebar img {
+margin-bottom: 10px;
+}
+
+aside#sidebar p {
+padding: 0;
+margin: 0 0 10px 0;
+}
+
+aside#sidebar .fusiontext a {
+color: #888;
+font-size: 90%;
+}
+
 body {
+padding: 40px 20px;
+margin: 0;	
 font-family: "helvetica neue", helvetica, sans-serif;
 font-weight: 400;
 font-size: 15px;
@@ -46,9 +75,15 @@ color: #000 !important;
 
 h3 {
 padding: 0;
+margin: 20px 0 5px 0;
 color: #555;
 font-size: 140%;
 font-weight: 300;
+}
+
+html {
+width: 702px;
+margin: auto;
 }
 
 img.icon {
@@ -80,7 +115,7 @@ content: "";
 
 p#tagline {
 padding: 2px;
-margin: 0 0 10px 0;	
+margin: 0 0 10px 0;
 color: #777;
 font-size: 120%;
 font-weight: 200;
@@ -99,6 +134,12 @@ padding: 0;
 margin: 2px 0 0 0;
 font-size: 90%;
 color: #888;
+}
+
+section#contents {
+width: 500px;
+padding: 20px 18px 0 0;
+line-height: 25px;
 }
 
 section#contents a:hover img {
@@ -120,6 +161,12 @@ color: #aaa;
 
 time:before {
 content: "Published on ";
+}
+
+ul, ol {
+padding: 10px;
+margin: 10px 20px;
+font-size: 85%;
 }
 
 ul#interviews {
@@ -169,9 +216,9 @@ ul.categories li:first-child:before {
 content: "";
 }
 
-/* Small/mobile devices */
+/* iPhone-type devices here */
 
-@media screen and (max-device-width: 480px), screen and (max-width: 800px) {
+@media screen and (max-device-width: 480px) {
 	
 	aside {
 	display: none;
@@ -183,6 +230,11 @@ content: "";
 	font-size: 20px;
 	}
 	
+	html {
+	width: auto;
+	margin: 0;
+	}
+	
 	h2 {
 	padding: 10px 0;
 	}
@@ -192,68 +244,11 @@ content: "";
 	}
 	
 	section#contents {
+	width: auto;
 	line-height: 32px;
 	}
 
 	ul.categories:before {
 	font-size: 110%;
-	}
-}
-
-/* Bigger screens get the full thing */
-
-@media screen and (min-width: 800px) {
-	
-	article.contents ul, article.contents ol {
-	list-style: disc;
-	padding: 10px 25px;
-	font-size: 80%;
-	}
-
-	aside#sidebar {
-	float: right;
-	width: 130px;
-	padding: 20px 0 0 10px;
-	font-size: 80%;
-	}
-
-	aside#sidebar img {
-	margin-bottom: 10px;
-	}
-
-	aside#sidebar p {
-	padding: 0;
-	margin: 0 0 10px 0;
-	}
-
-	aside#sidebar .fusiontext a {
-	color: #888;
-	font-size: 90%;
-	}
-
-	body {
-	padding: 40px 20px;
-	margin: 0;
-	}
-
-	h3 {
-	margin: 20px 0 5px 0;
-	}
-
-	html {
-	width: 702px;
-	margin: auto;
-	}
-
-	section#contents {
-	width: 500px;
-	padding: 20px 18px 0 0;
-	line-height: 25px;
-	}
-
-	ul, ol {
-	padding: 10px;
-	margin: 10px 20px;
-	font-size: 85%;
 	}
 }
