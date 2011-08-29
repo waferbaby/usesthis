@@ -193,7 +193,7 @@ color: #fe2e9a;
 
 ul.categories {
 list-style: none inside;
-padding: 0;
+padding: 10px 0 0 0;
 margin: 0;
 font-size: 80%;
 }
@@ -225,18 +225,24 @@ content: "";
 	}
 	
 	body {
-	padding: 15px;
+	padding: 20px;
 	margin: 0;
 	font-size: 20px;
 	}
 	
 	html {
-	width: auto;
+	width: 500px;
 	margin: 0;
 	}
 	
 	h2 {
 	padding: 10px 0;
+	}
+	
+	img.portrait {
+	margin-left: -20px;
+	border-left: 0 !important;
+	border-right: 0 !important;
 	}
 	
 	nav ul {
@@ -247,7 +253,7 @@ content: "";
 	width: auto;
 	line-height: 32px;
 	}
-
+	
 	ul.categories:before {
 	font-size: 110%;
 	}
