@@ -10,7 +10,7 @@ categories: ['linux', 'windows', 'developer', 'software']
 
 My name is Yusuke Endoh. I'm one of the developers of the Ruby programming language. I'm involved in bug fixes, test maintenance and release engineering of Ruby.
 
-I have another face. I'm a Quine programmer. [Quine](http://www.nyx.net/~gthompso/quine.htm "Information about Quines.") is a program that prints the program itself. I also love [esoteric programming languages](http://en.wikipedia.org/wiki/Esoteric_programming_language "The Wikipedia article on esoteric programming languages."), and playing with even normal languages in an esoteric way, especially, writing an esoteric Quine. Some of my creations are:
+I have another face. I'm a Quine programmer. A [Quine](http://www.nyx.net/~gthompso/quine.htm "Information about Quines.") is a program that prints the program itself. I also love [esoteric programming languages](http://en.wikipedia.org/wiki/Esoteric_programming_language "The Wikipedia article on esoteric programming languages."), and playing with even normal languages in an esoteric way, especially, writing an esoteric Quine. Some of my creations are:
 
  - [Quine Relay](http://asiajin.com/blog/2009/09/22/uroboros-programming-with-11-programming-languages/ "Details about Quine Relay."), a Quine that goes through 11 different programming languages
  - [the Qlobe](http://mamememo.blogspot.com/2010/09/qlobe.html "Yusuke's post about the Qlobe."), a Quine with a rotating globe embedded, and
