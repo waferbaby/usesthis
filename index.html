@@ -2,17 +2,12 @@
 layout: default
 title: The Setup
 ---
-<ul id='interviews'>
+
 {% for post in site.posts limit:10 %}
-	<li>
-		<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>
-			<img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='335' class='portrait'>
-			<h2 class='person'>{{post.person}}</h2>
-		</a>
-		<p class='summary'>{{post.summary}}</p>
-		{% include categories.html %}
-		<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
-	</li>
+	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='335' class='portrait'></a>
+	<h2 class='person'><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
+	<p class='summary'>{{post.summary}}</p>
+	<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
 {% endfor %}
-</ul>
-<p>Don't panic - there's plenty <a href="http://usesthis.com/interviews/" title="View all the interviews.">more to read!</a></p>
+
+<p>There's plenty <a href="http://usesthis.com/interviews/" title="View all the interviews.">more to read!</a></p>
