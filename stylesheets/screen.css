@@ -65,7 +65,7 @@ color: #333 !important;
 h2 {
 padding: 0;
 margin: 0;
-font-size: 170%;
+font-size: 180%;
 font-weight: 300;
 }
 
@@ -129,10 +129,17 @@ color: #aaa;
 font-size: 80%;
 }
 
+p.details {
+color: #aaa;
+padding: 5px 0;
+margin: 5px 0 10px 0;
+font-size: 80%;
+}
+
 p.summary {
 padding: 0;
-margin: 2px 0 0 0;
-font-size: 90%;
+margin: 5px 0 0 0;
+font-size: 110%;
 color: #888;
 }
 
@@ -149,18 +156,6 @@ opacity: 0.9;
 section#contents img {
 border: solid 1px #000;
 margin-bottom: 10px;
-}
-
-time {
-display: block;
-padding: 0;
-margin: 0;
-font-size: 70%;
-color: #aaa;
-}
-
-time:before {
-content: "Published on ";
 }
 
 ul, ol {
@@ -180,40 +175,6 @@ ul#interviews > li {
 clear: left;
 padding-bottom: 5px;
 margin-bottom: 15px;
-border-bottom: dotted 1px #ddd;
-}
-
-ul#interviews a h2 {
-color: #000;
-}
-
-ul#interviews a:hover h2 {
-color: #fe2e9a;
-}
-
-ul.categories {
-list-style: none inside;
-padding: 10px 0 0 0;
-margin: 0;
-font-size: 80%;
-}
-
-ul.categories:before {
-content: "Filed under:";
-color: #999;
-}
-
-ul.categories li {
-display: inline;
-}
-
-ul.categories li:before {
-content: " / ";
-color: #bbb;
-}
-
-ul.categories li:first-child:before {
-content: "";
 }
 
 /* iPhone-type devices here */
@@ -252,9 +213,5 @@ content: "";
 	section#contents {
 	width: auto;
 	line-height: 32px;
-	}
-	
-	ul.categories:before {
-	font-size: 110%;
-	}
+	}	
 }
