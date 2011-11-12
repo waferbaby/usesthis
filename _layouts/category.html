@@ -5,13 +5,10 @@ title: All of The Setup interviews in this category
 <ul id='interviews'>
 {% for post in site.categories.[page.category] %}
 	<li>
-    	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>
-			<img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'>
-			<h2 class='person'>{{post.person}}</h2>
-		</a>
-		<p class='summary'>{{post.summary}}</p>
-		{% include categories.html %}
-		<time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%B %d, %Y"}}</time>
+    	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'></a>
+	<h2><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
+	<p class='summary'>{{post.summary}}</p>
+	<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
 	</li>
 {% endfor %}
 </ul>
