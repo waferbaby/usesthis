@@ -6,8 +6,7 @@ layout: default
 	{% if page.credits %}<p class="credits">Credits: {% if page.credits.url %}<a href="{{page.credits.url}}" title="{{page.person}} by {{page.credits.name}}.">{{page.credits.name}}</a>{% else %}{{page.credits.name}}{% endif %}</p>{% endif %}
 	<h2 class="person">{{page.person}}</h2> 
 	<p class="summary">{{page.summary}}</p>
-	{% include categories.html %}
-	<time datetime="{{page.date | date: "%Y-%m-%d"}}">{{page.date | date: "%B %d, %Y"}}</time>
+	<p class='details'>Posted <time datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
 </article> 
 <article class="contents">
 	{{content}}
