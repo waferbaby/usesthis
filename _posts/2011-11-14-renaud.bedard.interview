@@ -12,7 +12,7 @@ My name is Renaud Bédard and I'm working on the game [FEZ](http://polytroncorpo
 
 ### What hardware are you using?
 
-I do all my work on a PC laptop, an [Asus N51Vn][n51vn] something that I bought in 2009. It has a Core 2 Duo Intel CPU, and the best mobile GPU I could find for my budget at the time, which is a GeForce 240M 1GB, and a 15.4" screen at 1366x768. It's bulky.
+I do all my work on a PC laptop, an [Asus N51Vn][n51vn] that I bought in 2009. It has a Core 2 Duo Intel CPU, and the best mobile GPU I could find for my budget at the time, which is a GeForce 240M 1GB, and a 15.4" screen at 1366x768. It's bulky.
 
 At work I have a big external HP monitor running at 1680x1050 and I feel super naked without it, when I work from home or anywhere else. So my primary monitor is my external one, positioned on top of my laptop monitor, both horizontally oriented.
 
@@ -42,7 +42,7 @@ I use [Dropbox][] to share files with friends and collaborators, [FileZilla][] f
 
 I recently found the [Zeta Resource Editor][zeta-resource-editor] to play with .resx resource files and many languages at once, it's free and quite handy.
 
-For bugtracking I have to connect to Microsoft's Product Studio database by Virtual Desktop-ing to their Redmond servers, it's slow and it suuuuucks. We rent an SVN server from [SourceRepo][], for no particular reason. It just appeared in our Google searches, it's pretty cheap and reliable. I just didn't want to go into the trouble of setting an SVN instance on our web server, and I don't think it's even possible with MediaTemple (our provider).
+For bugtracking I have to connect to Microsoft's Product Studio database by Remote Desktop-ing to their Redmond servers, it's slow and it suuuuucks. We rent an SVN server from [SourceRepo][], for no particular reason. It just appeared in our Google searches, it's pretty cheap and reliable. I just didn't want to go into the trouble of setting an SVN instance on our web server, and I don't think it's even possible with MediaTemple (our provider).
 
 ### What would be your dream setup?
 
