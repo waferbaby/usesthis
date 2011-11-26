@@ -1,0 +1,40 @@
+---
+layout: post
+title: "An interview with Coda Hale"
+slug: "coda.hale"
+person: "Coda Hale"
+summary: "Infrastructure architect (Yammer)"
+categories: ['mac', 'developer', 'software']
+credits:
+ name: "Dave Fayram"
+ url: "http://www.flickr.com/photos/davefayram/4329110146/"
+---
+### Who are you, and what do you do?
+
+I'm the infrastructure architect at [Yammer][], where I write a lot of [Java][] and worry about things breaking or not going fast enough.
+
+### What hardware are you using?
+
+I've got a [MacBook Pro][macbook-pro] running [Lion][mac-os-x] because I'm super original. Every two or three years, I fliff out enough for a top-of-the-line MBP, so right now I've got 8GB of RAM, four i7 cores, and a big ol' SSD. It's easily the fastest computer I've ever had. An [iPhone 4][iphone-4] and a [Time Capsule][time-capsule] in the closet rounds out the computational hardware.
+
+I started out a die-hard overclocking modding build-it-myselfer, but as time passes I find myself giving less and less fucks about the actual hardware. I don't even have stickers on my laptop at this point. Should I find myself with some money burning a hole in my pocket, I'd probably bump the 'book up to 16GB of RAM.
+
+I don't own an iPad or Kindle or tablet.
+
+### And what software?
+
+There's really three broad categories of software I use on a regular basis: personal stuff, work stuff, and random utilities.
+
+I'm mostly a [Java][] programmer these days, so I always have [IntelliJ IDEA][intellij-idea] open. I spent a long time using [TextMate][], but it seems to be suffering the same sort of lingering death that [Quicksilver][] did, so I've recently settled on [Sublime Text 2][sublime-text-2] which is funky but surprisingly modern. I more or less always have [Terminal][] open, where I run [Bash][], a lot of bash-completion scripts, the usual collection of Unix tools, and a bunch of executables installed via [MacPorts][], including [csshX][], [curl][], [git][], [git-flow][], [Maven][], [ack][], [pv][], [Scala][], [jsawk][], [tig][], and GNU watch. In addition to that, I also use [RStudio][], [YourKit][], [VisualVM][], [Soulver][], [Wireshark][], and [JD-GUI][].
+
+I have no idea what I'd do without [GitHub][]. And naturally, I spend a lot of time on [Yammer][], which I've found to be as invaluable a tool for 200 people as it was for 20.
+
+As far as general internet usage, [Chrome Beta][chrome], [Sparrow][], [iChat][], [Rdio][], [Reeder][], and [LimeChat][] serve to keep me fairly distracted, and [Dropbox][] (plus [GrabBox][]) keeps everything synced.
+
+In terms of organizational software, I use [iCal][], [Fantastical][], and [Things][] to keep track of what I'm doing (something-something-beta-OTA-sync), [Papers 2][papers] to manage my rather pathological collection of academic papers, and [1Password][] to deal with the proliferation of shared secrets that is the modern human condition.
+
+Rounding it all out is [LaunchBar][], which I couldn't live without, [Divvy][], [Stay][], [AppZapper][], [Transmission][], and [Movist][].
+
+### What would be your dream setup?
+
+My dream setup is any arrangement which removes an entity without sacrificing functionality. I'm a one-pair-of-shoes sort of person, so whenever a distinct tool gets merged into the background (iOS cloud syncing, for example, or Time Machine) it makes me happy. That frees up cognitive room for more interesting things.
