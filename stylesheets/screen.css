@@ -9,6 +9,10 @@ a:hover {
 text-decoration: underline;
 }
 
+a:hover img.portrait {
+opacity: 0.9;
+}
+
 article.contents ul, article.contents ol {
 list-style: disc;
 padding: 10px 25px;
@@ -91,6 +95,12 @@ float: left;
 margin-right: 20px;
 }
 
+img.portrait {
+border: solid 1px #000;
+margin-bottom: 20px;
+display: block;
+}
+
 nav ul {
 padding: 5px 0;
 margin: 0;
@@ -147,15 +157,6 @@ section#contents {
 width: 500px;
 padding: 20px 18px 0 0;
 line-height: 25px;
-}
-
-section#contents a:hover img {
-opacity: 0.9;
-}
-
-section#contents img {
-border: solid 1px #000;
-margin-bottom: 10px;
 }
 
 ul, ol {
