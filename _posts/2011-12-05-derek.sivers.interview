@@ -41,9 +41,9 @@ I do almost everything in the terminal and [Vim][]. Even email, I run my own [Po
 
 I have an aversion to installing a big GUI software when my little terminal is good-enough.
 
-Music or movies? [Mplayer][].  
-Accounting? [Ledger][].  
-Image editing? [ImageMagick][].  
+Music or movies? [Mplayer][]. 
+Accounting? [Ledger][]. 
+Image editing? [ImageMagick][]. 
 PDFs? [xpdf][].
 
 But two GUI apps I'm happy to use:
@@ -60,4 +60,4 @@ No apps on my phone. When I'm away from my computer, I enjoy being pretty discon
 
 I'm very happy with this. Any shortcomings are my own, not my gear's.
 
-I wish I could piece together laptops like I can desktops.  I'll take this shell, this keyboard, that display, this CPU, that GPU, this drive, that mouse, etc.  I could upgrade certain parts when needed, but keep the rest as-is.
+I wish I could piece together laptops like I can desktops. I'll take this shell, this keyboard, that display, this CPU, that GPU, this drive, that mouse, etc. I could upgrade certain parts when needed, but keep the rest as-is.
