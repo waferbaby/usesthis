@@ -1,0 +1,47 @@
+---
+layout: post
+title: "An interview with Toby Boudreaux"
+slug: "toby.boudreaux"
+person: "Toby Boudreaux"
+summary: "Technologist, programmer, product designer"
+categories: ['mac', 'windows', 'developer', 'designer', 'interface']
+---
+### Who are you, and what do you do?
+
+I'm [Toby Joe Boudreaux](http://www.tobyjoe.com/ "Toby's website."), aka tobyjoe. I'm a UX-obsessed technologist, programmer, and product design guy. I'm a partner at a technology and design company called [Control Group](http://www.controlgroup.com/ "Control Group's site."). I like everything from C++ to observational research. Mostly, I enjoy hiding technology and making folks enjoy whatever it is they're up to more than they thought they could. 
+
+### What hardware are you using?
+
+At work and home, my primary laptop is a 15 inch i7 [Macbook Pro][macbook-pro] with a matte screen (because I'm not mentally broken, like glare-loving glossy freaks), 8GB of memory, and a non-SSD. I really should get on the SSD bandwagon, but I always duck it due to the principle of paying the upgrade costs. Does Moore's law apply to the price of SSD tech?  
+
+My (stand-up) desk at work also currently has a daisy-chained quartet of low-bezel 46" LCD displays mounted to plywood and a very precarious system of struts. This is to test a big environmental sensor-based project for a big event. I also have a bizarre Alienware PC desktop with an AMD HD 6990 card powering those displays, mostly as a test rig and Visual Studio 2010 compiler for Cinder projects. There are [Kinects][kinect] rigged to the ceiling and webcams of various sorts dangling all over.
+
+I also run a [Mac Pro][mac-pro] with twin 27" [Apple displays][cinema-display] powered by an AMD 5870 card. This machine is used for projects that leverage Quicktime APIs more heavily, Quartz Composer prototypes, and, of course, Cinder projects.
+
+My office is littered with ~70 people and an order of magnitude more in disparate hardware pieces, from RFID sensors to tablets to every known touchable mobile device to soldering kits to photography gear. It's an interesting, cluttered place, and my hardware reach is as schizophrenic as our portfolio.
+
+At home, I'm mostly on my Macbook Pro, for work (mostly Xcode stuff - C++, Obj-C, and OpenGL) and for playing EvE Online. It's a modest enough little laptop, but it treats me well.
+
+My [Fitbit][] is always with me and my [Withings scale][wifi-body-scale] and [BP monitor][blood-pressure-monitor] are newish fetish objects. 
+
+### And what software?
+
+When on the Mac, I spend a ton of time in [Xcode][]. I also use [TextMate][] for project searches and basic textual stuff. I use [IDEA][intellij-idea] for Java/Android projects. The two pieces of software I mindlessly purchase and install on as many devices as possible are [LaunchBar][] and [1Password][]. I swear, I could get by with [ZSH][], [LLVM][], and those two apps. 
+
+My partners are all bizarre Google fetishists, and our company thus uses Google products for everything from [mail][gmail] to [docs][google-docs] to [Google+][google-plus] (ok, just kidding on the last one). Still, I refuse to work in a browser all day, and take advantage of good ol' Apple products like [Mail][] and [Keynote][] and [Pages][] and the like. I use [iChat][] instead of [Adium][], just to be contrarian. I love bits and pieces of [Sparrow][]	, but stick with the classics for now. 
+
+I purchase nearly everything I can find, and support indy dev strongly - even if I end up rolling back to canonical products due to habit. [Acorn][] is an excellent piece of software. [OmniGraffle Pro][omnigraffle-pro], of course. [Scrivener][] makes me want to write more, but I tend to fall back to TextMate or Mail for writing drafts. 
+
+On mobile, I spend a lot of time with Mail, [Feedler][feedler-ios], [iClone][iclone-for-eve-online-ios], various games, [Weightbot][weightbot-ios]/[Withings][wiscale-ios], and a rotating set of games that happen to fit a NYC commute perfectly. My iPad is essentially a giant Kindle that happens to have a software version of a Korg MS-20. It works for me...
+
+For OS, I run [Lion][mac-os-x] at home and Snow Leopard and [Windows 7][windows-7] at work. For my personal devices, iOS 5 in various stages of beta.  
+
+### What would be your dream setup?
+
+I don't know that it will ever exist, but I'd love a laptop that allowed me to be a fairly schizo developer as well as a casual gamer and spotty writer. 
+
+Something that could run and seamlessly switch between various operating systems without an emulation cost, power a couple of 30" displays, have at least one of every semi-standard input (powered, where possible), and automagic continual delta backups. Every SDK concurrently and every test harness. Low barrier to entry for prototyping those shower ideas and testing cross platform projects. 
+
+Given what's generally available, I think a pair of heavy desktop boxes - a Mac Pro and a solid PC - both with powerful, stable graphics cards, managed by a KVM and powering a couple of big Apple displays is just about right. Aside from the KVM, this basically describes my desk at work, so I'm pretty solid at the moment.
+
+It is missing a [Leica M9][m9] and proper PrimeSense camera at the moment, though.
