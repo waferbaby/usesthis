@@ -26,7 +26,7 @@ On servers I mostly run FreeBSD 8.0, but a few systems are still on 7.x (simply 
 
 The exception to the above is the [EC2][] instance which runs the Tarsnap service: Unfortunately this is running [Ubuntu][], since FreeBSD doesn't yet run in EC2. I'm hoping this will be remedied soon (and want to hear from anyone else who wants to run FreeBSD on EC2 -- see [my recent blog post](http://www.daemonology.net/blog/2010-04-05-FreeBSD-EC2.html "Colin's post on FreeBSD and EC2.")), since I much prefer FreeBSD.
 
-I run the standard [Android][] code on my phone, with [Twidroid][] installed for accessing Twitter, and [ConnectBot][] for SSH.
+I run the standard [Android][] code on my phone, with [Twidroid][twidroid-android] installed for accessing Twitter, and [ConnectBot][] for SSH.
 
 ### What would be your dream setup?
 

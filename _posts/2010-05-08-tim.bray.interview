@@ -36,7 +36,7 @@ I use [Camino][] for browsing, [Adium][] for chat, [Colloquy][] for IRC, [NetNew
 
 I wrote a [big long blog post](http://www.tbray.org/ongoing/When/200x/2009/08/27/How-To-Use-The-Dock "How Tim uses the Dock.") on how I organize and use OS X.
 
-On the Android I use mostly the built-in stuff. Then there's [Twidroid][] for Twitter, [Connectbot][] for ssh, and [Tunes remote][tunesremote] for controlling music at home. I pay for [Spanning Sync][spanning-sync], thus my contacts and schedule up to date on the Mac, on Google, and on the Android phone. It's really magic. I use [doubleTwist][] to move music from the Mac to the Android; it's only OK.
+On the Android I use mostly the built-in stuff. Then there's [Twidroid][twidroid-android] for Twitter, [Connectbot][] for ssh, and [Tunes remote][tunesremote] for controlling music at home. I pay for [Spanning Sync][spanning-sync], thus my contacts and schedule up to date on the Mac, on Google, and on the Android phone. It's really magic. I use [doubleTwist][] to move music from the Mac to the Android; it's only OK.
 
 On the server, everything I work on seems to involve some combination of [Debian][] Linux or [OpenSolaris][], Apache [httpd][], Ruby, [Rack][], and [MySQL][]. I prefer Ruby to all other programming languages although I'm probably more proficient in C, and have a big soft spot for Erlang.
 
