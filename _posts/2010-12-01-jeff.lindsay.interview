@@ -24,7 +24,7 @@ I rarely use external monitors for some reason. I have one, but I'd probably use
  
 I think [Chrome][], [TextMate][], [Quicksilver][], and [Terminal][] are my most used OS X apps. Other favorites that I don't use as often are [Keynote][], [Skitch][], [Dropbox][], [VLC][], and [Growl][] (mostly with [Notify.io][notify-io]).
  
-My most used command line tools are probably [git][], [ssh][openssh], [python][], [ruby][]/[irb][], [curl][], and [vim][]. Other favorites are [netcat][] (nc), [localtunnel][], and [this script I wrote](https://gist.github.com/466293 "Jeff's gist for piping stuff into QS.") that lets me pipe stuff into Quicksilver's Large Text action. Oh, and I use [rake][] for a lot for things.
+My most used command line tools are probably [git][], [ssh][], [python][], [ruby][]/[irb][], [curl][], and [vim][]. Other favorites are [netcat][] (nc), [localtunnel][], and [this script I wrote](https://gist.github.com/466293 "Jeff's gist for piping stuff into QS.") that lets me pipe stuff into Quicksilver's Large Text action. Oh, and I use [rake][] for a lot for things.
  
 Everything else is web-based. I use a lot of Google apps, like [Gmail][], [Google Calendar][google-calendar], etc. We power most of Hacker Dojo on [Google Apps][google-apps] and [App Engine][app-engine], so we effectively have no physical servers. In fact, most of the organizations I've worked with recently rely heavily on Google Apps.
  
