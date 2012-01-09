@@ -85,7 +85,7 @@ For task management, I use [OmniFocus][] on my MacBook Air, my iPhone and my iPa
 
 My wife and I keep our phones, laptops and iPads synced with about six different [Google Calendars][google-calendar], so that we can play secretary for each other. I'm a fan of the appointment-scheduling feature of Google Calendar, which lets students sign up for my office hours without much hassle to me.
 
-I use [DropBox][] to sync low-security files between devices, and I run a secure WebDAV server on my linode for syncing high-security files over [SVN][].
+I use [DropBox][] to sync low-security files between devices, and I run a secure WebDAV server on my linode for syncing high-security files over [SVN][subversion].
 
 My hand-rolled personal note-taking wiki on my linode has been replaced by [Evernote][] on my MacBook Air, iPhone and iPad.
 
