@@ -5,10 +5,13 @@ title: All of The Setup interviews
 <ul id='interviews'>
 {% for post in site.posts %}
 	<li>
-    	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'></a>
-	<h2><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
-	<p class='summary'>{{post.summary}}</p>
-	<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
+		<figure>
+	    		<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/icons/{{post.slug}}.jpg' alt='{{post.person}}' width='80' height='80' class='icon'></a>
+		</figure>
+		
+		<h2><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
+		<p class='summary'>{{post.summary}}</p>
+		<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
 	</li>
 {% endfor %}
 </ul>
