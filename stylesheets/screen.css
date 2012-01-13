@@ -48,6 +48,17 @@ font-weight: 400;
 font-size: 15px;
 }
 
+figure {
+padding: 0;
+margin: 0;
+}
+
+figcaption {
+float: right;
+color: #aaa;
+font-size: 80%;
+}
+
 footer {
 clear: both;
 padding-top: 20px;
@@ -96,7 +107,7 @@ border: solid 1px #000;
 margin-right: 20px;
 }
 
-img.portrait {
+img.portrait, img.thumbnail {
 border: solid 1px #000;
 margin-bottom: 20px;
 display: block;
@@ -130,14 +141,6 @@ margin: 0 0 10px 0;
 color: #777;
 font-size: 120%;
 font-weight: 200;
-}
-
-p.credits {
-float: right;
-padding: 0;
-margin: 0;
-color: #aaa;
-font-size: 80%;
 }
 
 p.details {
