@@ -4,10 +4,11 @@ title: The Setup
 ---
 
 {% for post in site.posts limit:10 %}
-	<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/portraits/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='335' class='portrait'></a>
+	<figure>
+		<a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'><img src='/images/{% if forloop.first %}portraits{% else %}thumbnails{% endif %}/{{post.slug}}.jpg' alt='{{post.person}}' width='500' height='{% if forloop.first %}335{% else %}100{% endif %}' class='portrait'></a>
+	</figure>
+	
 	<h2 class='person'><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
 	<p class='summary'>{{post.summary}}</p>
 	<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
 {% endfor %}
-
-<p>There's plenty <a href="http://usesthis.com/interviews/" title="View all the interviews.">more to read!</a></p>
