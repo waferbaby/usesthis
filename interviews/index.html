@@ -11,7 +11,11 @@ title: All of The Setup interviews
 		
 		<h2><a href='http://{{post.slug}}.usesthis.com/' title='View an interview with {{post.person}}.'>{{post.person}}</a></h2>
 		<p class='summary'>{{post.summary}}</p>
-		<p class='details'>Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
+		<p class='details'>
+			Posted <time datetime='{{post.date | date: "%Y-%m-%d"}}'>{{post.date | date: "%b %d, %Y"}}</time> in 
+			{% assign categories=post.categories %}
+			{% include categories.html %}
+		</p>
 	</li>
 {% endfor %}
 </ul>

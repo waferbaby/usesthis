@@ -9,7 +9,11 @@ layout: default
 	
 	<h2 class="person">{{page.person}}</h2> 
 	<p class="summary">{{page.summary}}</p>
-	<p class='details'>Posted <time datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%b %d, %Y"}}</time> in {% include categories.html %}</p>
+	<p class='details'>
+		Posted <time datetime='{{page.date | date: "%Y-%m-%d"}}'>{{page.date | date: "%b %d, %Y"}}</time> in 
+		{% assign categories=page.categories %}
+		{% include categories.html %}
+	</p>
 </article> 
 <article class="contents">
 	{{content}}
