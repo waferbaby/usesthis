@@ -96,6 +96,14 @@ font-size: 140%;
 font-weight: 300;
 }
 
+h4 {
+padding: 0;
+margin: 10px 0;
+color: #777;
+font-size: 110%;
+font-weight: 300;
+}
+
 html {
 width: 702px;
 margin: auto;
