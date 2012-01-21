@@ -48,6 +48,11 @@ font-weight: 400;
 font-size: 15px;
 }
 
+dd {
+margin: 0;
+font-size: 90%;
+}
+
 figure {
 padding: 0;
 margin: 0;
@@ -96,7 +101,7 @@ font-size: 140%;
 font-weight: 300;
 }
 
-h4 {
+h4, dt {
 padding: 0;
 margin: 10px 0;
 color: #777;
