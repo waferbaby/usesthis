@@ -1,0 +1,4 @@
+---
+title: "swank-clojure"
+url: "https://github.com/technomancy/swank-clojure/"
+description: "A server for connecting SLIME to Clojure projects."
