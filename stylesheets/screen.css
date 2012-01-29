@@ -49,7 +49,7 @@ font-size: 15px;
 }
 
 dd {
-margin: 0;
+margin: 0 0 15px 0;
 font-size: 90%;
 }
 
@@ -93,19 +93,11 @@ h2 a:link, h2 a:visited {
 color: #000 !important;
 }
 
-h3 {
+h3, dt {
 padding: 0;
 margin: 20px 0 5px 0;
 color: #555;
 font-size: 140%;
-font-weight: 300;
-}
-
-h4, dt {
-padding: 0;
-margin: 10px 0;
-color: #777;
-font-size: 110%;
 font-weight: 300;
 }
 
