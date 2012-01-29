@@ -9,16 +9,16 @@
 	</head>
 	<body>
 		<header>
-			<h1>The Setup</h1>
+			<h1><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">The Setup</a></h1>
 			<p id="tagline">What do people use to get stuff done?</p>
 		</header>
 		<nav>
 			<ul>
-				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/" title="The most recent interviews.">Home</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/interviews/" title="All the other interviews.">Interviews</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/about/" title="A little more info about the site.">About</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/community/" title="Other interviews by people like you.">Community</a></li>
 				<li><a href="{% if page.person %}http://usesthis.com{% endif %}/feed/" title="The site's Atom feed.">Feed</a></li>
+				<li><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a></li>
 			</ul>
 		</nav>
 		<aside id="sidebar">
@@ -40,7 +40,7 @@
 		{{content}}
 		</section>
 		<footer>
-			<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. Follow us <a href="http://twitter.com/usesthis/" title="Our Twitter account.">on Twitter</a>, subscribe to <a href="http://usesthis.com/feed/" title="The Atom feed for the site.">the feed</a>, or grab <a href="http://github.com/waferbaby/usesthis/" title="The source code for this site.">the Ruby source code</a> (if you're into that sort of thing). Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
+			<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
 	  	</footer>
 	</body>
 </html>
