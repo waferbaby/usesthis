@@ -53,6 +53,13 @@ margin: 0 0 15px 0;
 font-size: 90%;
 }
 
+dt {
+padding: 0 0 5px 0;
+color: #777;
+font-size: 120%;
+font-weight: 300;
+}
+
 figure {
 padding: 0;
 margin: 0;
@@ -93,7 +100,7 @@ h2 a:link, h2 a:visited {
 color: #000 !important;
 }
 
-h3, dt {
+h3 {
 padding: 0;
 margin: 20px 0 5px 0;
 color: #555;
