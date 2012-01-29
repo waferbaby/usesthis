@@ -5,11 +5,27 @@ color: #fe2e9a;
 text-decoration: none;
 }
 
+a[rel] {
+background-color: #f9f9f9;
+border: solid 1px #eee;
+padding: 3px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+font-size: 90%;
+}
+
+a[rel]:hover {
+background-color: #ccc;
+text-decoration: none;
+border: solid 1px #aaa;
+color: #888;
+}
+
 a:hover {
 text-decoration: underline;
 }
 
-a:hover img.portrait {
+a:hover img.icon, a:hover img.portrait, a:hover img.thumbnail {
 opacity: 0.9;
 }
 
