@@ -35,7 +35,7 @@ I try and keep a pretty simple software catalog. I don't want too many apps clog
 
 To browse the interwebs, I use [Google Chrome][chrome]. I edit all sorts of documents with [Vim][] (I really like [MacVim][] + [Janus][] on OSX). I use [iTunes][] to listen to locally stored music. I use [iChat][]/[Adium][] (on OSX) or [Gajim][] (Ubuntu) for messaging; for IRC, I use [Scrollz][] (inside [screen][] (thinking about migrating to [tmux][]) on a shell). I use whatever generic terminal is available for my shells. To make my shell experience on OS X bearable, I use [homebrew][] (I shudder to think how things used to be on OSX). I use Dropbox and git to keep things wrapped together. I have been experimenting with keeping my data in encrypted sparse bundles stored in git/Dropbox.
 
-Inside the browser I use a bunch of software to get things done. I rely on Google Apps for a lot ([mail][gmail], [docs][google-docs], collaboration, SMS, voice, etc). I use [Simplenote][simplenote-ios] to keep track of random thoughts on my phone.
+Inside the browser I use a bunch of software to get things done. I rely on [Google Apps][google-apps] for a lot ([mail][gmail], [docs][google-docs], collaboration, SMS, voice, etc). I use [Simplenote][simplenote-ios] to keep track of random thoughts on my phone.
 
 I love and use [github][]. I was not a git convert at first, but github made sharing code and working collaboratively better than ever. It is an amazing tool. I now use git everyday and it has made me a better developer and collaborator.
 
