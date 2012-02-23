@@ -36,7 +36,7 @@ I'm not emotionally attached to any particular brand or operating system. Still,
 I use a very clever tool called [F.lux][] to automatically adjust my monitor's white-point based on the time of day. It takes a great amount of stress off your eyes and *I urge everyone to try it out* for a couple of days. It's cross platform, too.
 
 I've ditched OS X's own Terminal.app for [iTerm 2][iterm2], which sports proper fullscreen, split windows, auto-completion and much more.
-However, it's killer feature is the Hotkey window, which allows me to open a fast, fullscreen console no matter what I am currently doing. Using the awkwardly named [PCKeyboardHack][], I mapped my Caps Lock key to F13, which I then made the trigger for the Hotkey window – finally putting that key to a good use.
+However, its killer feature is the Hotkey window, which allows me to open a fast, fullscreen console no matter what I am currently doing. Using the awkwardly named [PCKeyboardHack][], I mapped my Caps Lock key to F13, which I then made the trigger for the Hotkey window – finally putting that key to a good use.
 
 Inside of iTerm 2, I run [zsh][] using the default theme + some plugins from [oh my zsh][oh-my-zsh].
 
