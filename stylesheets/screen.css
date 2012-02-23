@@ -233,7 +233,7 @@ margin-bottom: 15px;
 	padding: 10px 0;
 	}
 	
-	img.portrait {
+	img.portrait, img.thumbnail {
 	margin-left: -20px;
 	border-left: 0 !important;
 	border-right: 0 !important;
