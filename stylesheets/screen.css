@@ -15,10 +15,9 @@ font-size: 90%;
 }
 
 a[rel]:hover {
-background-color: #ccc;
+background-color: #ddd;
 text-decoration: none;
 border: solid 1px #aaa;
-color: #888;
 }
 
 a:hover {
