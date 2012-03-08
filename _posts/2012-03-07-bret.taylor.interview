@@ -1,0 +1,42 @@
+---
+layout: post
+title: "An interview with Bret Taylor"
+slug: "bret.taylor"
+person: "Bret Taylor"
+summary: "Facebook CTO, FriendFeed co-founder, creator of Google Maps"
+categories: ['mac', 'linux', 'developer', 'web']
+credits:
+ name: "Thomas Hawk"
+ url: "http://www.flickr.com/photos/thomashawk/3409168230/"
+---
+### Who are you, and what do you do?
+
+I'm Bret Taylor. I'm currently Chief Technology Officer at [Facebook][]. Before that, I was the co-founder and CEO of [FriendFeed][]. Facebook acquired FriendFeed in August 2009. Before FriendFeed, I worked at Google where I created [Google Maps][google-maps] and started Google's developer product group. Before that, I got a BS and MS in Computer Science from Stanford.
+
+### What hardware are you using?
+
+At FriendFeed, I used at custom-built desktop (4GB memory, four cores) running [Ubuntu Linux][ubuntu] for everything. Since coming to Facebook, I have slowly transitioned to using my 13" [MacBook Air][macbook-air] (4GB memory, 256GB SSD) almost exclusively. I still boot into Linux via [VMWare Fusion][vmware-fusion] most days, but the convenience and size of the Air has outweighed any advantages to my keeping around a desktop over the past couple years. I realize I just don't need much computing power for browsing the web and writing code, and I love the form factor of the Air.
+
+I use a 27" [Apple Thunderbolt Display][thunderbolt-display], Apple Wireless [Keyboard][keyboard], and Apple [Magic Mouse][magic-mouse] at work. I work directly on my laptop at home.
+
+I also have an iPhone and an iPad. The latter I (ironically) use almost exclusively to read Kindle books, but I like the hardware, web browser, and backlighting better than anything Amazon has produced so far.
+
+I use [Sennheiser HD 280 Pro headphones][hd-280-pro] to listen to music while I code at work.
+
+I have given away all my home backup systems and my gaming desktop. For backup, I switched to [Dropbox][], and I play whatever is available on Steam for Mac and just play fewer games now as a consequence.
+
+### And what software?
+
+90% of my computer use is [Google Chrome][chrome] and a terminal. I use the [zsh][] shell, and I am an [Emacs][] user. I write all my code in Emacs, and I despise IDEs.
+
+I use [Gmail][] for my personal email, and I use [Apple Mail][mail] for work email. I also use [Adobe Photoshop][photoshop] daily. I listen to [Pandora][] while I code.
+
+On my iPhone, I use (in rough order of frequency): [Safari][safari-ios], [Facebook][facebook-ios], [Facebook Messenger][facebook-messenger-ios], [Mail][mail-ios], [Calendar][calendar-ios], [Pandora][pandora-ios], [Twitter][twitter-ios], [Kindle][kindle-ios], and [Yelp][yelp-ios].
+
+I host all of the code I write on [Github][]. I have a couple of private repositories for all of my personal projects, and I open source everything else. For personal web development, I have moved almost all of the sites I maintain to Amazon Web Services.
+
+I use my Dropbox folder for everything so I can access my stuff anywhere, and I don't need to worry about backups anymore.
+
+### What would be your dream setup?
+
+My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I like minimalism and simplicity, and I like not having to deal with a bunch of different machines.
