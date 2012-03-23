@@ -134,7 +134,7 @@ border: solid 1px #000;
 margin-right: 20px;
 }
 
-img.portrait, img.thumbnail {
+img.portrait, img.thumbnail, img.detail {
 border: solid 1px #000;
 margin-bottom: 20px;
 display: block;
@@ -232,7 +232,7 @@ margin-bottom: 15px;
 	padding: 10px 0;
 	}
 	
-	img.portrait, img.thumbnail {
+	img.portrait, img.thumbnail, img.detail {
 	margin-left: -20px;
 	border-left: 0 !important;
 	border-right: 0 !important;
