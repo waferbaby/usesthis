@@ -3,18 +3,22 @@ layout: post
 title: "An interview with Max Shron"
 slug: "max.shron"
 person: "Max Shron"
-summary: "Data scientist (OkCupid)"
+summary: "Data scientist (Shron LLC, ex-OkCupid)"
 categories: ['mac', 'linux', 'data', 'scientist']
 ---
 ### Who are you, and what do you do?
 
-[I'm](http://max.shron.net/ "Max's website.") the Data Scientist at [OkCupid][]. It's actually more engineering than science; unfortunately Data Engineer sounds too manipulative, and Computational Information Designer (à la [Ben Fry](http://benfry.com/phd/ "Ben's PhD website.")) is a mouthful. In general my job is to filter and condense the massive amount of information we collect at OkCupid to help Christian Rudder write [OkTrends](http://blog.okcupid.com "OkCupid's weblog.") and to figure out more traditional business analysis kinds of things. I do a lot of summarizing and graphing and a smaller amount of statistics and interactivity.
+I run a data science consulting firm in New York. Organizations with too much data come to me to figure out what they should do with it. 
+
+For the most part, people know me because of my previous job as the Data Scientist at [OkCupid][]. My job was to munge and model the massive amount of information that OkCupid collected. Mostly it was helping Christian Rudder with his work on [OkTrends](http://blog.okcupid.com "OkCupid's weblog.") and doing more traditional business analysis kinds of things. 
 
 ### What hardware are you using?
 
-At work I've got an old [iMac][], but I spend most of my time at work connected to some of our powerful BSD and Linux boxes. Typically they have upwards of 16 cores and gobs of RAM. SSDs make everything better. To keep myself pain-free I've got a Fellowes wrist-rest, an [Evoluent vertical mouse][verticalmouse], and a Hag Capisco chair. The chair makes a huge difference; instead of sinking back into a blob all day, I spend probably half of the day leaning slightly forward with my legs engaged. My desk is sloped backwards a few degrees to help keep my wrists straight. 
+I’ve just slimmed down to one of the new 13" [MacBook Airs][macbook-air]. My apartment is typical tiny New York, and I got tired of having a giant screen taking up my kitchen table. I carry an [iPhone 4][iphone-4]. I often need a pen and paper, so I try to keep G-Tec-C pens and a Moleskine pretty much everywhere I go.
 
-At home, I've just slimmed down to one of the new 13" [MacBook Airs][macbook-air]. My apartment is typical tiny New York, and I got tired of having a giant screen taking up my kitchen table. I carry an [iPhone 4][iphone-4]. I often need a pen and paper, so I try to keep G-Tec-C pens and a Moleskine pretty much everywhere I go.
+When I’m doing analysis, I spend most of my time connected to powerful BSD and Linux boxes. Typically they have upwards of 16 cores and gobs of RAM. SSDs make everything better. 
+
+To keep myself pain-free I’ve got a Fellowes wrist-rest, an [Evoluent vertical mouse][verticalmouse], and a Hag Capisco chair. The chair makes a huge difference; instead of sinking back into a blob all day, I spend probably half of the day leaning slightly forward with my legs engaged. My desk is sloped backwards a few degrees to help keep my wrists straight.
 
 ### And what software?
 
