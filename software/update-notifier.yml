@@ -1,0 +1,5 @@
+---
+title: "Update Notifier"
+url: "http://packages.debian.org/stable/update-notifier"
+description: "A GNOME daemon that alerts a user to available updates."
+
