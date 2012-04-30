@@ -6,6 +6,7 @@ require 'slim'
 class TheSetup < Sinatra::Base
         
         configure do
+                Mongoon::Document.database = Mongo::Connection.new.db("usesthis")
                 Slim::Engine.set_default_options(:pretty => true)
         end
         
