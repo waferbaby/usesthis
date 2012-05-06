@@ -1,1 +1,11 @@
-== @interviews
+- for interview in @interviews do
+	figure 
+		a href='http://#{interview.slug}.usesthis.com/' title='View an interview with #{interview.name}.'
+			img.portrait src='/images/thumbnails/#{interview.slug}.jpg' width='500' height='335
+
+	h2.person
+		a href='http://#{interview.slug}.usesthis.com/' title='View an interview with #{interview.name}.'= interview.name
+	p.summary= interview.summary
+	p.details 
+		| Posted 
+		time datetime='#{interview.date}'= interview.date
