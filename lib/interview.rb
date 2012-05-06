@@ -3,7 +3,7 @@ $:.unshift File.dirname(__FILE__)
 require 'mongoon/document'
 
 class Interview < Mongoon::Document
-        attr_accessor :name, :slug, :date, :contents, :credits
+        attr_accessor :name, :slug, :date, :summary, :contents, :credits
         
         def self.find_recent
                 self.find({}, {:limit => 10}) # Sort by date here.
