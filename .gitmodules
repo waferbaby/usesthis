@@ -1,0 +1,3 @@
+[submodule "lib/mongoon"]
+	path = lib/mongoon
+	url = git@github.com:waferbaby/mongoon.git
