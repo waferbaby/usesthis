@@ -19,9 +19,11 @@ class TheSetup < Sinatra::Base
         end
         
         get '/about/?' do
+                slim :about
         end
         
         get '/community/?' do
+                slim :community
         end
         
 end
