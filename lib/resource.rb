@@ -5,7 +5,7 @@ class Resource
                 attr_accessor :database
         end
                 
-        def self.query(q)
+        def self.fetch(q)
                 items = []
                 
                 begin
@@ -17,9 +17,8 @@ class Resource
                                 end
                         
                                 items << item
-                        end
-                        
-                rescue Exception => e
+                        end  
+                rescue
                 end
                 
                 items
