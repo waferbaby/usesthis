@@ -1,21 +1,25 @@
 $:.unshift File.dirname(__FILE__)
 
-require 'mongoon/document'
+require 'resource'
 
-class Interview < Mongoon::Document
-        attr_accessor :name, :slug, :date, :summary, :contents, :credits
+class Interview < Resource
         
-        def self.find_recent
-                self.find({}, {:limit => 10}) # Sort by date here.
+        attr_accessor :slug, :name, :summary, :overview, :hardware, :software, :dream_setup, :date_create
+        attr_accessor :categories, :wares
+        
+        def initialize()
+                categories = []
+                wares = []
         end
         
-        def self.find_by_slug(slug)
-                self.find({'slug' => slug})[0]
-        end
-        
-        def self.find_by_category(category)
-        end
-        
-        def self.find_by_date(year, month = nil, day = nil)
+        def self.recent()
+                interviews = self.fetch("SELECT * FROM interviews ORDER BY date_create DESC")
+                
+                interviews.each do |interview|
+                        categories = Categories.for_interview(interview.slug)
+                        wares = Wares.for_interview(interview.slug)
+                end
+                
+                interviews
         end
 end
