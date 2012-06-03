@@ -18,7 +18,7 @@ class TheSetup < Sinatra::Base
         end
         
         get '/' do
-                @interviews = Interview.recent()
+                @interviews = Interview.recent(:summary => true)
                 slim :index
         end
         
