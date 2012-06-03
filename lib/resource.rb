@@ -10,10 +10,15 @@ class Resource
                 
                 begin
                         Resource.database.query(q).each do |row|
+
                                 item = self.new
                         
                                 row.each do |key, value|
-                                        item.send("#{key}=", value)
+                                        
+                                        begin
+                                                item.send("#{key}=", value)
+                                        rescue
+                                        end
                                 end
                         
                                 items << item
