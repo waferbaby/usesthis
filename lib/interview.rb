@@ -13,11 +13,8 @@ class Interview < Resource
                 wares = []
         end
         
-        def self.recent(options)
-                options = {:summary => false, :limit => 10}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, published_on" : "*"
-                
-                interviews = self.fetch("SELECT #{fields} FROM interviews ORDER BY published_on DESC LIMIT #{options[:limit]}")                
+        def self.fetch(query, options = {})
+                interviews = super(query, options)
                 
                 interviews.each do |interview|
                         interview.categories = Category.for_interview(interview.id)
@@ -25,5 +22,26 @@ class Interview < Resource
                 end
                 
                 interviews
+        end
+        
+        def self.recent(options = {})
+                options = {
+                        :summary => false,
+                        :limit => 10,
+                        :order_by => 'published_on DESC',
+                }.merge!(options)
+                
+                fields = options[:summary] ? "id, slug, name, summary, published_on" : "*"
+                
+                self.fetch("SELECT #{fields} FROM interviews", options)                
+        end
+        
+        def self.for_category(slug, options = {})
+                slug = Resource.database.escape(slug)
+                
+                options = {:summary => false, :order_by => 'i.published_on DESC'}.merge!(options)
+                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.published_on" : "i.*"
+                
+                self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}'", options)
         end
 end
