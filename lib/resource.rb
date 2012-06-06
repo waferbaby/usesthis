@@ -5,10 +5,15 @@ class Resource
                 attr_accessor :database
         end
                 
-        def self.fetch(q)
+        def self.fetch(query, options = {})
                 items = []
                 
-                Resource.database.query(q).each do |row|
+                query += " ORDER BY #{options[:order_by]}" if options[:order_by]
+                query += " LIMIT #{options[:limit]}" if options[:limit]
+                
+                puts query if options[:debug]
+                
+                Resource.database.query(query).each do |row|
                         item = self.new
                         
                         row.each do |key, value|
