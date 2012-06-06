@@ -8,23 +8,15 @@ class Resource
         def self.fetch(q)
                 items = []
                 
-                begin
-                        Resource.database.query(q).each do |row|
-
-                                item = self.new
+                Resource.database.query(q).each do |row|
+                        item = self.new
                         
-                                row.each do |key, value|
-                                        
-                                        begin
-                                                item.send("#{key}=", value)
-                                        rescue
-                                        end
-                                end
+                        row.each do |key, value|
+                                item.send("#{key}=", value) if item.respond_to?("#{key}=")
+                        end
                         
-                                items << item
-                        end  
-                rescue
-                end
+                        items << item
+                end  
                 
                 items
         end
