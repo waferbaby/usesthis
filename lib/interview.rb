@@ -36,7 +36,7 @@ class Interview < Resource
                 self.fetch("SELECT #{fields} FROM interviews", options)                
         end
         
-        def self.for_category(slug, options = {})
+        def self.for_category_slug(slug, options = {})
                 slug = Resource.database.escape(slug)
                 
                 options = {:summary => false, :order_by => 'i.published_on DESC'}.merge!(options)
