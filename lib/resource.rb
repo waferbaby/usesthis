@@ -26,4 +26,13 @@ class Resource
                 
                 items
         end
+        
+        def self.query(query)
+                result = Resource.database.query(query)
+                result.count < 1 ? [] : result.to_a
+        end
+        
+        def self.escape(string)
+                Resource.database.escape(string)
+        end
 end
