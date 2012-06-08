@@ -3,7 +3,7 @@ layout: post
 title: "An interview with Bhautik Joshi"
 slug: "bhautik.joshi"
 person: "Bhautik Joshi"
-summary: "Research engineer, ILM"
+summary: "Research engineer (ILM)"
 categories: ['mac', 'windows', 'researcher', 'developer']
 ---
 ### Who are you, and what do you do?
@@ -14,7 +14,7 @@ I'm a research engineer working at [Industrial Light & Magic](http://www.ilm.com
 
 I like to be as minimal as possible, and reliability trumps speed. I haven't owned a laptop in a long time and I don't miss having one. At home, I have three primary machines:
 
-A 2009 24-inch [iMac]: 3GB memory, 1.5TB hard-drive and a nVidia GT130 graphics card. This is my primary workhorse, mostly because of the good-quality display. I regularly calibrate it with a [Spyder express][spyder4-express] - it's worth noting though that the glossy glass panel sometimes confuses it. It's getting dated but Apple's excellent support for older machines means that I foresee using it for a long time to come.
+A 2009 24-inch [iMac][]: 3GB memory, 1.5TB hard-drive and a nVidia GT130 graphics card. This is my primary workhorse, mostly because of the good-quality display. I regularly calibrate it with a [Spyder express][spyder4-express] - it's worth noting though that the glossy glass panel sometimes confuses it. It's getting dated but Apple's excellent support for older machines means that I foresee using it for a long time to come.
 
 [D-Link DNS-323][dns-323] Network Attached Storage Enclosure with two 1.5TB hard-drives. I use this awesome little device for storage, but after [rooting](http://bernaerts.dyndns.org/linux/178-dns323-funplug "A guide to hacking the DNS-323.") it, it's my go-to Linux box for all my odd-job scripts; it's running cron jobs 24/7. At some point I'll move all of this functionality to an [EC2 server][ec2], but with [dyndns][] I can access it from anywhere anyway and there's something nice about having physical access to my own little server.
 
