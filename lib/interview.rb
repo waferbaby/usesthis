@@ -36,12 +36,25 @@ class Interview < Resource
                 self.fetch("SELECT #{fields} FROM interviews", options)                
         end
         
+        def self.by_year(year, options = {})
+                year = self.escape(year)
+                
+                options = {:summary => false, :order_by => 'published_on DESC'}.merge!(options)
+                fields = options[:summary] ? "id, slug, name, summary, published_on" : "*"
+                
+                self.fetch("SELECT * FROM interviews WHERE year(published_on) = '#{year}'", options)
+        end
+        
         def self.for_category_slug(slug, options = {})
-                slug = Resource.database.escape(slug)
+                slug = self.escape(slug)
                 
                 options = {:summary => false, :order_by => 'i.published_on DESC'}.merge!(options)
                 fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.published_on" : "i.*"
                 
                 self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}'", options)
         end
+
+        def self.counts()
+                Interview.query("SELECT year(published_on) AS year, count(*) AS count FROM interviews GROUP BY year ORDER BY year DESC")
+        end        
 end
