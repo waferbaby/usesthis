@@ -1,14 +1,14 @@
 doctype html
 html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"
 	head
-		title The Setup
+		title = "The Setup#{' / ' + @title if @title}"
 		link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css"
 		link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml"
 		meta charset="utf-8"
 		meta name="viewport" content="width=device-width, minimum-scale=0.6, maximum-scale=1.0"
 	body
 		head
-			h1 The Setup
+			h1 = "The Setup#{' / ' + @title if @title}"
 			p#tagline What do people use to get stuff done?
 		nav
 			ul
