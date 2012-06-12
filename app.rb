@@ -18,6 +18,10 @@ class TheSetup < Sinatra::Base
                 end
         end
         
+        not_found do
+                slim :not_found
+        end
+        
         get '/' do
                 @interviews = Interview.recent(:summary => true)
                 slim :index
@@ -32,7 +36,14 @@ class TheSetup < Sinatra::Base
                 slim :interviews
         end
         
-        get %r{/interviews/([\d]{4})/?} do |year|
+        get '/interviews/in/?' do
+                @title = "Interview years"
+                @stats = Interview.counts()
+                
+                slim :interviews
+        end
+        
+        get %r{/interviews/in/([\d]{4})?/?} do |year|
                 
                 @interviews = Interview.by_year(year, :summary => true)
                 @title = "In #{year}" if @interviews.count
@@ -47,13 +58,22 @@ class TheSetup < Sinatra::Base
                 slim :index
         end
         
-        get '/about/?' do
-                @title = "About"
+        get '/interview/with/:slug/?' do |slug|
+                @interview = Interview.with_slug(slug)
+                raise Sinatra::NotFound unless @interview
                 
+                @title = @interview.name
+
+                slim :interview
+        end
+        
+        get '/about/?' do
+                @title = "About"             
                 slim :about
         end
         
         get '/community/?' do
+                @title = "Community"
                 slim :community
         end     
 end
