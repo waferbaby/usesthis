@@ -9,12 +9,13 @@ class TheSetup < Sinatra::Base
         configure do
                 begin
                         config = YAML::load_file(File.join(Dir.pwd, 'config.yml'))
-
-                        Resource.database = Mysql2::Client.new(config[:database])                
+                        
+                        Resource.database = Mysql2::Client.new(config[:database])
                         Slim::Engine.set_default_options(:pretty => true)
                         
                 rescue Exception => e
-                        puts e
+                        puts "Failed to configure database via config.yml - aborting."
+                        exit
                 end
         end
         
