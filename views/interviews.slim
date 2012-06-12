@@ -1,13 +1,13 @@
-h2 By year
-ul
-	- @stats.each do |row|
-		li
-			a href="/interviews/#{row['year']}" = row['year']
-			= " (#{row['count']} interview#{'s' if row['count'] != 1})"
-		
+- if @stats
+	h2 By year
+	ul#years
+		- @stats.each do |row|
+			li
+				a href="/interviews/in/#{row['year']}" = row['year']
+				= " (#{row['count']} interview#{'s' if row['count'] != 1})"
 
-h2 By category
-
-p
-	- @categories.each do |category|
-		a href="/interviews/#{category.slug}/" rel="#{category.slug}" = category.slug
+- if @categories
+	h2 By category
+	p
+		- @categories.each do |category|
+			a href="/interviews/#{category.slug}/" rel="#{category.slug}" = category.slug
