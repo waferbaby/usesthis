@@ -36,6 +36,13 @@ class Interview < Resource
                 self.fetch("SELECT #{fields} FROM interviews", options)                
         end
         
+        def self.with_slug(slug, options = {})
+                slug = self.escape(slug)
+                result = self.fetch("SELECT * FROM interviews WHERE slug='#{slug}'", options)
+                
+                result.length < 1 ? false : result[0]
+        end
+        
         def self.by_year(year, options = {})
                 year = self.escape(year)
                 
