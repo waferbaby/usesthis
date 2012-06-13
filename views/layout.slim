@@ -7,7 +7,7 @@ html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"
 		meta charset="utf-8"
 		meta name="viewport" content="width=device-width, minimum-scale=0.6, maximum-scale=1.0"
 	body
-		head
+		header
 			h1 = "The Setup#{' / ' + @title if @title}"
 			p#tagline What do people use to get stuff done?
 		nav
@@ -17,7 +17,6 @@ html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"
 				li: a href="/about/" title="A little more info about the site." About
 				li: a href="/community/" title="Other interviews by people like you." Community
 				li: a href="http://twitter.com/usesthis/" title="The site's Twitter account." Twitter
-		aside#sidebar
 		section#contents
 			== yield
 		footer
