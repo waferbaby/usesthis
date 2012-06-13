@@ -3,6 +3,7 @@ require 'sinatra/base'
 require 'lib/interview'
 require 'slim'
 require 'yaml'
+require 'kramdown'
 
 class TheSetup < Sinatra::Base
         
@@ -17,6 +18,31 @@ class TheSetup < Sinatra::Base
                         puts "Failed to configure database via config.yml - aborting."
                         exit
                 end
+        end
+        
+        helpers do
+                
+                def interview_markdown(interview)
+                        contents = "#### Who are you, and what do you do?\n\n"
+                        contents += interview.overview + "\n\n"
+                        contents += "#### What hardware do you use?\n\n"
+                        contents += interview.hardware + "\n\n"
+                        contents += "#### And what software?\n\n"
+                        contents += interview.software + "\n\n"
+                        contents += "#### What would be your dream setup?\n\n"
+                        contents += interview.dream_setup
+                
+                        if interview.wares
+                                contents += "\n\n"
+                        
+                                interview.wares.each do |ware|
+                                        contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+                                end
+                        end
+                
+                        contents
+                end
+                
         end
         
         not_found do
@@ -38,7 +64,7 @@ class TheSetup < Sinatra::Base
         end
         
         get '/interviews/in/?' do
-                @title = "Interview years"
+                @title = "Years"
                 @stats = Interview.counts()
                 
                 slim :interviews
