@@ -113,7 +113,7 @@ color: #ccc;
 p.summary {
 padding: 0;
 margin: 5px 0 0 0;
-font-size: 105%;
+font-size: 90%;
 color: #888;
 }
 
@@ -153,23 +153,20 @@ margin: 10px 0;
 @media screen and (min-width : 1200px) {
 
 	body {
-		max-width: 1200px;
+	max-width: 1030px;
 	}
 	
 	article#interviews {
-		-moz-column-count: 2;
-		-moz-column-gap: 20px;
-		-webkit-column-count: 2;
-		-webkit-column-gap: 20px;
-		column-count: 2;
-		column-gap: 20px;
+	column-width: 500px;
+	-moz-column-width: 500px;
+	-webkit-column-width: 500px;
 	}
 }
 
 @media screen and (max-width : 1200px) {
 
 	body {
-		width: 502px;
-		font-size: 130%;
+	width: 502px;
+	font-size: 20px;
 	}
 }
