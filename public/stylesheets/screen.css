@@ -21,9 +21,9 @@ text-decoration: none;
 border: solid 1px #aaa;
 }
 
-article#interview img.portrait {
+article#interview img.portrait, article#interview img.detail {
 float: right;
-margin: 0 0 20px 20px;
+margin: 0 0 30px 30px;
 }
 
 body {
@@ -61,36 +61,29 @@ font-size: 150%;
 h2 {
 padding: 0;
 margin: 0;
-font-weight: 200;
-font-size: 150%;
+font-weight: 400;
+font-size: 160%;
 }
 
 h2 a:link, h2 a:visited {
 color: #000;
 }
 
-h4 {
+h3 {
 padding: 0;
 margin: 15px 0 5px 0;
-font-weight: 200;
+font-weight: 400;
 }
 
 h4 {
 font-weight: 200;
 font-size: 120%;
-padding: 0 0 10px 0;
+padding: 0;
 margin: 0;
 color: #666;
-border-bottom: solid 1px #ccc;
 }
 
-img.icon {
-float: left;
-border: solid 1px #000;
-margin-right: 20px;
-}
-
-img.portrait, img.thumbnail, img.detail {
+img.portrait, img.detail {
 border: solid 1px #000;
 display: block;
 margin-bottom: 20px;
@@ -150,7 +143,7 @@ padding: 0;
 margin: 10px 0;
 }
 
-@media screen and (min-width : 1200px) {
+@media screen and (min-width: 1200px) {
 
 	body {
 	max-width: 1030px;
@@ -163,10 +156,19 @@ margin: 10px 0;
 	}
 }
 
-@media screen and (max-width : 1200px) {
+@media screen and (max-width: 1200px) {
 
 	body {
 	width: 502px;
 	font-size: 20px;
+	}
+}
+
+@media screen and (max-device-width: 480px) {
+
+	body {
+	width: 500px;
+	padding: 20px;
+	margin: 0;
 	}
 }
