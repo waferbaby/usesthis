@@ -1,5 +1,5 @@
-article#interviews
-	- for interview in @interviews do
+- for interview in @interviews do
+	article.interviewee
 		figure 
 			a href='http://#{interview.slug}.usesthis.com/' title='View an interview with #{interview.name}.'
 				img.portrait src='/images/portraits/#{interview.slug}.jpg' width='500' height='335'
