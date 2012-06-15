@@ -34,6 +34,23 @@ font-weight: 200;
 font-size: 23px;
 }
 
+dd {
+font-size: 90%;
+padding: 10px 30px;
+margin: 0;
+}
+
+dt {
+font-size: 110%;
+font-style: italic;
+}
+
+dt:before {
+content: "▸";
+font-style: normal;
+margin-right: 10px;
+}
+
 figure {
 padding: 0;
 margin: 0;
@@ -48,7 +65,7 @@ h1 {
 padding: 0;
 margin: 0;
 font-weight: 600;
-font-size: 180%;
+font-size: 220%;
 }
 
 h1:before {
@@ -62,7 +79,7 @@ h2 {
 padding: 0;
 margin: 0;
 font-weight: 400;
-font-size: 160%;
+font-size: 150%;
 }
 
 h2 a:link, h2 a:visited {
