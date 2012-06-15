@@ -9,7 +9,7 @@ class TheSetup < Sinatra::Base
         
         configure do
                 begin
-                        config = YAML::load_file(File.join(Dir.pwd, 'config.yml'))
+                        config = YAML::load_file(File.join(Dir.pwd, 'config', 'database.yml'))
                         
                         Resource.database = Mysql2::Client.new(config[:database])
                         Slim::Engine.set_default_options(:pretty => true)
