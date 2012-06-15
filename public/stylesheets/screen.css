@@ -128,7 +128,7 @@ color: #888;
 }
 
 nav ul {
-padding: 5px 0;
+padding: 5px 20px;
 margin: 0;
 font-size: 90%;
 font-weight: 200;
@@ -151,7 +151,7 @@ content: "";
 
 section#contents {
 line-height: 35px;
-padding: 25px 0;
+padding: 25px 20px;
 }
 
 ul#wares {
@@ -160,21 +160,28 @@ padding: 0;
 margin: 10px 0;
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 1000px) {
 
 	body {
-	max-width: 1030px;
+	max-width: 1100px;
 	}
 	
-	article#interviews {
-	column-width: 500px;
-	-moz-column-width: 500px;
-	-webkit-column-width: 500px;
+	article.interviewee {
+	float: left;
+	margin: 0 28px 20px 0;
+	}
+	
+	footer {
+	clear: left;
 	}
 }
 
 @media screen and (max-width: 1200px) {
 
+	article.interviewee {
+	float: none;
+	}
+	
 	body {
 	width: 502px;
 	font-size: 20px;
@@ -182,6 +189,15 @@ margin: 10px 0;
 	
 	h1 {
 	font-size: 190%;
+	}
+	
+	nav ul {
+	padding: 5px 0;
+	}
+	
+	section#contents {
+	line-height: 35px;
+	padding: 25px 0;
 	}
 }
 
@@ -192,4 +208,6 @@ margin: 10px 0;
 	padding: 20px;
 	margin: 0;
 	}
+	
+	
 }
