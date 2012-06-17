@@ -1,13 +1,17 @@
-- if @stats
-	h2 By year
-	ul#years
-		- @stats.each do |row|
-			li
-				a href="/interviews/in/#{row['year']}" = row['year']
-				= " (#{row['count']} interview#{'s' if row['count'] != 1})"
+<% if @stats %>
+<h2>By year</h2>
+	<ul id="years">
+	<% for row in @stats %>
+		<li><a href="/interviews/in/<%= row['year'] %>" title="View all the interviews from <%= row['year'] %>."><%= row['year'] %></a> (<%= row['count'] %> interview<% if row['count'] != 1 %><%= 's' %><% end %>)</li>
+	<% end %>
+	</ul>
+<% end %>
 
-- if @categories
-	h2 By category
-	p
-		- @categories.each do |category|
-			a href="/interviews/#{category.slug}/" rel="#{category.slug}" = category.slug
+<% if @categories %>
+<h2>By category</h2>
+<p>
+	<% for category in @categories %>
+		<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+	<% end %>
+</p>
+<% end %>

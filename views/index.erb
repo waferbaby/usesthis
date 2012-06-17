@@ -1,16 +1,16 @@
-- for interview in @interviews do
-	article.interviewee
-		figure 
-			a href='http://#{interview.slug}.usesthis.com/' title='View an interview with #{interview.name}.'
-				img.portrait src='/images/portraits/#{interview.slug}.jpg' width='500' height='335'
+<% for interview in @interviews %>
+	<article class="interviewee">
+		<figure>
+			<a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
+		</figure>
 
-		h2.person
-			a href='http://#{interview.slug}.usesthis.com/' title='View an interview with #{interview.name}.'= interview.name
-		p.summary= interview.summary
-		p.details 
-			| Posted 
-			time datetime='#{interview.published_on}'= interview.published_on
-			|  in 
-			- interview.categories.each do |category|
-				a href="/interviews/#{category.slug}/" rel="#{category.slug}" = category.slug
-				|  
+		<h2 class="person"><a href='http://<%= interview.slug %>.usesthis.com/' title='View an interview with <%= interview.name %>.'><%= interview.name %></a></h2>
+		<p class="summary"><%= interview.summary %></p>
+		<p class="details">
+			Posted <time datetime="<%= interview.published_on %>"><%= interview.published_on %> in
+			<% for category in interview.categories %>
+				<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+			<% end %>
+		</p>
+	</article>
+<% end %>

@@ -1,15 +1,13 @@
-article#interview
-	figure 
-		img.portrait src='/images/portraits/#{@interview.slug}.jpg' width='500' height='335
+<article id="interview">
+	<figure><img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>"></figure>
 
-	h2.person= @interview.name
-	p.summary= @interview.summary
-	p.details 
-		| Posted 
-		time datetime='#{@interview.published_on}'= @interview.published_on
-		|  in 
-		- @interview.categories.each do |category|
-			a href="/@interviews/#{category.slug}/" rel="#{category.slug}" = category.slug
-			|  
+	<h2 class="person"><%= @interview.name %></h2>
+	<p class="summary"><%= @interview.summary %></p>
+	<p class="details">
+		Posted <time datetime="<%= @interview.published_on %>"><%= @interview.published_on %> in
+		<% for category in @interview.categories %>
+			<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+		<% end %>
+	</p>
 
-	== markdown(interview_markdown(@interview))
+	<%= markdown(interview_markdown(@interview)) %>
