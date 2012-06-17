@@ -3,6 +3,7 @@ require 'sinatra/base'
 require 'lib/interview'
 require 'slim'
 require 'yaml'
+require 'erubis'
 require 'kramdown'
 
 class TheSetup < Sinatra::Base
@@ -46,12 +47,12 @@ class TheSetup < Sinatra::Base
         end
         
         not_found do
-                slim :not_found
+                erb :not_found
         end
         
         get '/' do
                 @interviews = Interview.recent(:summary => true)
-                slim :index
+                erb :index
         end
         
         get '/interviews/?' do
@@ -60,14 +61,14 @@ class TheSetup < Sinatra::Base
                 @stats = Interview.counts()
                 @categories = Category.all()
                 
-                slim :interviews
+                erb :archives
         end
         
         get '/interviews/in/?' do
                 @title = "Years"
                 @stats = Interview.counts()
                 
-                slim :interviews
+                erb :archives
         end
         
         get %r{/interviews/in/([\d]{4})?/?} do |year|
@@ -75,14 +76,14 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.by_year(year, :summary => true)
                 @title = "In #{year}" if @interviews.count
                 
-                slim :index
+                erb :index
         end
         
         get %r{/interviews/([a-z]+)/?} do |slug|
                 @interviews = Interview.for_category_slug(slug, :summary => true)
                 @title = slug.capitalize if @interviews.count
                 
-                slim :index
+                erb :index
         end
         
         get '/interview/with/:slug/?' do |slug|
@@ -91,16 +92,16 @@ class TheSetup < Sinatra::Base
                 
                 @title = @interview.name
 
-                slim :interview
+                erb :interview
         end
         
         get '/about/?' do
                 @title = "About"             
-                slim :about
+                erb :about
         end
         
         get '/community/?' do
                 @title = "Community"
-                slim :community
+                erb :community
         end     
 end
