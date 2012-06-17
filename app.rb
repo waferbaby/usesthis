@@ -22,13 +22,13 @@ class TheSetup < Sinatra::Base
         helpers do
                 
                 def interview_markdown(interview)
-                        contents = "#### Who are you, and what do you do?\n\n"
+                        contents = "### Who are you, and what do you do?\n\n"
                         contents += interview.overview + "\n\n"
-                        contents += "#### What hardware do you use?\n\n"
+                        contents += "### What hardware do you use?\n\n"
                         contents += interview.hardware + "\n\n"
-                        contents += "#### And what software?\n\n"
+                        contents += "### And what software?\n\n"
                         contents += interview.software + "\n\n"
-                        contents += "#### What would be your dream setup?\n\n"
+                        contents += "### What would be your dream setup?\n\n"
                         contents += interview.dream_setup
                 
                         if interview.wares
