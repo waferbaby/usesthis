@@ -166,8 +166,9 @@ margin: 10px 0;
 	max-width: 1100px;
 	}
 	
-	article.interviewee {
+	article.interviewee, article.localised, article.personal {
 	float: left;
+	width: 502px;
 	margin: 0 28px 20px 0;
 	}
 	
