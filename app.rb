@@ -51,7 +51,7 @@ class TheSetup < Sinatra::Base
                 @interview.slug = '404'
                 @interview.summary = "HTTP error code (The Internet)"
                 
-                @interview.overview = "I'm the error message sent when a requested page you're after can't be found online. I also do a wee bit of (very amateur) interpretative dance in my spare time."
+                @interview.overview = "I'm the error message sent when the requested page you're after can't be found online. I also do a wee bit of (very amateur) interpretative dance in my spare time."
                 @interview.hardware = "To be honest, I'm not entirely sure. It's something rack-mounted, I think. Or, y'know, a freaking *MacBook Pro*?!"
                 @interview.software = "I have a serious interest - and let's be honest, it's an obsession - with web server software. Always been there, can't explain it. But I'm a simple creature, so that's it for me, really."
                 @interview.dream_setup = "Truthfully, I'm pretty happy with my current setup. I would love it if people were more careful with the URLs they typed, though, y'know?"
