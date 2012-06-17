@@ -78,8 +78,8 @@ font-size: 150%;
 h2 {
 padding: 0;
 margin: 0;
-font-weight: 400;
-font-size: 150%;
+font-weight: 500;
+font-size: 160%;
 }
 
 h2 a:link, h2 a:visited {
@@ -90,14 +90,6 @@ h3 {
 padding: 0;
 margin: 15px 0 5px 0;
 font-weight: 400;
-}
-
-h4 {
-font-weight: 200;
-font-size: 120%;
-padding: 0;
-margin: 0;
-color: #666;
 }
 
 img.portrait, img.detail {
@@ -189,7 +181,7 @@ margin: 10px 0;
 	}
 	
 	h1 {
-	font-size: 190%;
+	font-size: 140%;
 	}
 	
 	nav ul {
