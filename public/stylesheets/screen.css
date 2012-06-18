@@ -32,12 +32,13 @@ margin: 0 auto;
 font-family: "helvetica neue", helvetica, sans-serif;
 font-weight: 200;
 font-size: 22px;
+background-color: #fff;
 }
 
 dd {
-font-size: 90%;
 padding: 10px 30px;
 margin: 0;
+font-size: 90%;
 }
 
 dt {
@@ -47,8 +48,8 @@ font-style: italic;
 
 dt:before {
 content: "▸";
-font-style: normal;
 margin-right: 10px;
+font-style: normal;
 }
 
 figure {
@@ -57,8 +58,10 @@ margin: 0;
 }
 
 footer {
+width: 100%;
 font-size: 60%;
 color: #aaa;
+border-top: solid 1px #eee;
 }
 
 h1 {
@@ -70,8 +73,8 @@ font-size: 220%;
 
 h1:before {
 content: "☻";
-margin-right: 20px;
 float: left;
+margin-right: 20px;
 font-size: 150%;
 }
 
@@ -120,11 +123,10 @@ color: #888;
 }
 
 nav ul {
-padding: 5px 20px;
+padding: 5px 20px 20px 20px;
 margin: 0;
-font-size: 90%;
+font-size: 110%;
 font-weight: 200;
-border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
 }
 
@@ -139,6 +141,22 @@ color: #ddd;
 
 nav ul li:first-child:before {
 content: "";
+}
+
+section#ad {
+float: right;
+width: 300px;
+font-size: 55%;
+margin: 10px;
+}
+
+section#ad .fusiontext a {
+color: #aaa;
+}
+
+section#ad img {
+float: right;
+margin-left: 10px;
 }
 
 section#contents {
@@ -175,17 +193,22 @@ margin: 10px 0;
 	float: none;
 	}
 	
+	section#ad {
+	display: none;
+	}
+	
 	body {
 	width: 502px;
 	font-size: 20px;
 	}
 	
 	h1 {
-	font-size: 140%;
+	font-size: 160%;
 	}
 	
 	nav ul {
 	padding: 5px 0;
+	font-size: 90%;
 	}
 	
 	section#contents {
