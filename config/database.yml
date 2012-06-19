@@ -1,5 +1,5 @@
 :database:
  :host: localhost
  :username: usesthis
- :password: password
+ :password: my-secret-awesome-password
  :database: usesthis
