@@ -18,6 +18,6 @@
 	Unpublished, filed in
 	<% end %>
 	<% for category in interview.categories %>
-		<a href="<%= url_for("/interviews/#{category.slug}/") %>" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+		<a href="<%= url_for("/interviews/#{category.slug}/") %>" rel="category" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
 	<% end %>
 </p>
