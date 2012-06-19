@@ -4,9 +4,13 @@
 	<h2 class="person"><%= @interview.name %></h2>
 	<p class="summary"><%= @interview.summary %></p>
 	<p class="details">
+		<% if @interview.published_on %>
 		Posted <time datetime="<%= @interview.published_on.strftime('%FT%TZ') %>"><%= @interview.published_on %> in
 		<% for category in @interview.categories %>
 			<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+		<% end %>
+		<% else %>
+		Unpublished
 		<% end %>
 	</p>
 
