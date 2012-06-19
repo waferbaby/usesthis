@@ -42,6 +42,10 @@ class TheSetup < Sinatra::Base
                         contents
                 end
                 
+                def url_for(url)
+                        @interview ? "http://usesthis.com" + url : url
+                end
+                
         end
         
         not_found do
