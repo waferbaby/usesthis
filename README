@@ -1,4 +1,4 @@
-The Setup is a website with nerdy interviews asking people what they use to get the job done. It's a simple static little thing, pushed out via Jekyll and rsync.
+The Setup is a website with nerdy interviews asking people what they use to get the job done. It's a very, very basic Sinatra app.
 
 Interested in cloning the site for your own interviews, similar or otherwise? DO IT! These are the questions I email people:
 
