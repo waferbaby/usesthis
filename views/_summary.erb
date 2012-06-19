@@ -1,0 +1,14 @@
+<figure><img src="<%= url_for("/images/portraits/#{interview.slug}.jpg") %>" width="500" height="335" class="portrait" alt="<%= interview.name %>"></figure>
+
+<h2 class="person"><%= interview.name %></h2>
+<p class="summary"><%= interview.summary %></p>
+<p class="details">
+	<% if interview.published_on %>
+	Posted <time datetime="<%= interview.published_on %>" pubdate><%= interview.published_on.strftime("%b %e, %Y") %></time> in
+	<% else %>
+	Unpublished, filed in
+	<% end %>
+	<% for category in interview.categories %>
+		<a href="<%= url_for("/interviews/#{category.slug}/") %>" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+	<% end %>
+</p>
