@@ -7,7 +7,7 @@
 		<h2 class="person"><a href='http://<%= interview.slug %>.usesthis.com/' title='View an interview with <%= interview.name %>.'><%= interview.name %></a></h2>
 		<p class="summary"><%= interview.summary %></p>
 		<p class="details">
-			Posted <time datetime="<%= interview.published_on %>"><%= interview.published_on %> in
+			Posted <time datetime="<%= interview.published_on.strftime('%FT%TZ') %>"><%= interview.published_on %> in
 			<% for category in interview.categories %>
 				<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
 			<% end %>
