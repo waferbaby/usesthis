@@ -5,7 +5,7 @@
 	<p class="summary"><%= @interview.summary %></p>
 	<p class="details">
 		<% if @interview.published_on %>
-		Posted <time datetime="<%= @interview.published_on.strftime('%FT%TZ') %>"><%= @interview.published_on %> in
+		Posted <time datetime="<%= @interview.published_on.strftime('%FT%TZ') %>"><%= @interview.published_on %></time> in
 		<% else %>
 		Unpublished, filed in
 		<% end %>
