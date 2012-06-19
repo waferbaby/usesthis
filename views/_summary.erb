@@ -1,6 +1,15 @@
-<figure><img src="<%= url_for("/images/portraits/#{interview.slug}.jpg") %>" width="500" height="335" class="portrait" alt="<%= interview.name %>"></figure>
+<figure>
+	<% unless @interview %><a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><% end %>
+	<img src="<%= url_for("/images/portraits/#{interview.slug}.jpg") %>" width="500" height="335" class="portrait" alt="<%= interview.name %>">
+	<% unless @interview %></a><% end %>
+</figure>
 
-<h2 class="person"><%= interview.name %></h2>
+<h2 class="person">
+	<% unless @interview %><a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><% end %>
+	<%= interview.name %>
+	<% unless @interview %></a><% end %>
+</h2>
+
 <p class="summary"><%= interview.summary %></p>
 <p class="details">
 	<% if interview.published_on %>
