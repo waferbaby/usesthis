@@ -1,5 +1,5 @@
 :database:
- :host: your-db-host
- :username: your-db-username
- :password: your-db-password
- :database: your-db-itself
+ :host: localhost
+ :username: usesthis
+ :password: password
+ :database: usesthis
