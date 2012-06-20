@@ -1,5 +1,5 @@
 <% for interview in @interviews %>
 	<article class="interviewee">
-		<%= erb :_summary, :locals => {:interview => interview, :selected => false} %>
+		<%= erb :summary, :locals => {:interview => interview, :selected => false} %>
 	</article>
 <% end %>
