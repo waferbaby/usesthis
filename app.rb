@@ -76,7 +76,7 @@ class TheSetup < Sinatra::Base
         get %r{/interviews/([a-z]+)/feed/?$} do |slug|
                 content_type "application/atom+xml"
                 
-                @interviews = Interview.for_category_slug(slug)
+                @interviews = Interview.for_category_slug(slug, :limit => 10)
                 @title = slug.capitalize if @interviews.count
                 
                 erb :feed, :layout => false
