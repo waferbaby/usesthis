@@ -86,7 +86,7 @@ class TheSetup < Sinatra::Base
                 erb :archives
         end
         
-        get %r{/interviews/in/([\d]{4})?/?} do |year|
+        get %r{/interviews/in/([\d]{4})?/?$} do |year|
                 
                 @interviews = Interview.by_year(year, :summary => true)
                 @title = "In #{year}" if @interviews.count
@@ -94,7 +94,7 @@ class TheSetup < Sinatra::Base
                 erb :index
         end
         
-        get %r{/interviews/([a-z]+)/?} do |slug|
+        get %r{/interviews/([a-z]+)/?$} do |slug|
                 @interviews = Interview.for_category_slug(slug, :summary => true)
                 @title = slug.capitalize if @interviews.count
                 
