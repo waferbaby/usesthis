@@ -63,5 +63,27 @@ class Interview < Resource
 
         def self.counts()
                 Interview.query("SELECT year(published_on) AS year, count(*) AS count FROM interviews WHERE published_on > 0 GROUP BY year ORDER BY year DESC")
-        end        
+        end
+        
+        def contents
+                contents = "### Who are you, and what do you do?\n\n"
+                contents += self.overview + "\n\n"
+                contents += "### What hardware do you use?\n\n"
+                contents += self.hardware + "\n\n"
+                contents += "### And what software?\n\n"
+                contents += self.software + "\n\n"
+                contents += "### What would be your dream setup?\n\n"
+                contents += self.dream_setup
+                
+                if self.wares
+                        contents += "\n\n"
+                        
+                        self.wares.each do |ware|
+                                contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+                        end
+                end
+                
+                contents
+        end
+
 end
