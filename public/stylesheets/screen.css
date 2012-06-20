@@ -112,7 +112,11 @@ p.details {
 padding: 0;
 margin: 0 0 20px 0;
 font-size: 60%;
-color: #ccc;
+color: #999;
+}
+
+p.details a:link, p.details a:visited {
+color: #777;
 }
 
 p.summary {
@@ -123,9 +127,9 @@ color: #888;
 }
 
 nav ul {
-padding: 5px 20px 20px 20px;
+padding: 5px 20px 10px 20px;
 margin: 0;
-font-size: 110%;
+font-size: 105%;
 font-weight: 200;
 border-bottom: solid 1px #eee;
 }
