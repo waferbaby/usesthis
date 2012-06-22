@@ -1,4 +1,5 @@
-a:link, a:visited {
+a:link,
+a:visited {
 color: #fe2e9a;
 text-decoration: none;
 }
@@ -21,7 +22,8 @@ text-decoration: none;
 border: solid 1px #aaa;
 }
 
-article#interview img.portrait, article#interview img.detail {
+article#interview img.portrait,
+article#interview img.detail {
 float: right;
 margin: 0 0 30px 30px;
 }
@@ -95,7 +97,8 @@ margin: 15px 0 5px 0;
 font-weight: 400;
 }
 
-img.portrait, img.detail {
+img.detail,
+img.portrait {
 border: solid 1px #000;
 display: block;
 margin-bottom: 20px;
@@ -115,7 +118,8 @@ font-size: 60%;
 color: #999;
 }
 
-p.details a:link, p.details a:visited {
+p.details a:link,
+p.details a:visited {
 color: #777;
 }
 
@@ -180,7 +184,11 @@ margin: 10px 0;
 	max-width: 1100px;
 	}
 	
-	article.interviewee, article.localised, article.personal, article.dates, article.categories {
+	article.categories,
+	article.dates,
+	article.interviewee,
+	article.localised,
+	article.personal {
 	float: left;
 	width: 502px;
 	margin: 0 28px 20px 0;
@@ -203,16 +211,10 @@ margin: 10px 0;
 	
 	body {
 	width: 502px;
-	font-size: 20px;
-	}
-	
-	h1 {
-	font-size: 160%;
 	}
 	
 	nav ul {
 	padding: 5px 0;
-	font-size: 90%;
 	}
 	
 	section#contents {
