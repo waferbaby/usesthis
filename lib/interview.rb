@@ -5,7 +5,7 @@ require 'ware'
 
 class Interview < Resource
         
-        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :overview, :hardware, :software, :dream_setup, :published_on, :date_create, :date_update
+        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :published_on, :date_create, :date_update
         attr_accessor :categories, :wares
         
         def initialize()
@@ -65,25 +65,18 @@ class Interview < Resource
                 Interview.query("SELECT year(published_on) AS year, count(*) AS count FROM interviews WHERE published_on > 0 GROUP BY year ORDER BY year DESC")
         end
         
-        def contents
-                contents = "### Who are you, and what do you do?\n\n"
-                contents += self.overview + "\n\n"
-                contents += "### What hardware do you use?\n\n"
-                contents += self.hardware + "\n\n"
-                contents += "### And what software?\n\n"
-                contents += self.software + "\n\n"
-                contents += "### What would be your dream setup?\n\n"
-                contents += self.dream_setup
+        def to_markdown
+                markdown = self.answers
                 
-                if self.wares
-                        contents += "\n\n"
+                if self.wares.length > 0
+                        markdown += "\n\n"
                         
                         self.wares.each do |ware|
-                                contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+                                markdown += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
                         end
                 end
                 
-                contents
+                markdown
         end
 
 end
