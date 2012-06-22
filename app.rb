@@ -52,7 +52,7 @@ class TheSetup < Sinatra::Base
         get '/interviews/?' do
                 @title = "Interviews"
                 
-                @stats = Interview.counts()
+                @counts = Interview.counts()
                 @categories = Category.all()
                 
                 erb :archives
@@ -60,7 +60,7 @@ class TheSetup < Sinatra::Base
         
         get '/interviews/in/?' do
                 @title = "Years"
-                @stats = Interview.counts()
+                @counts = Interview.counts()
                 
                 erb :archives
         end
