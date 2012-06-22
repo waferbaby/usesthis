@@ -20,8 +20,7 @@
 	<% for category in interview.categories %>
 		<a href="<%= url_for("/interviews/#{category.slug}/") %>" rel="category" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
 	<% end %>
-	<% if selected && interview.credit_name %>
-	<br>
-	Photo credit: <% if interview.credit_url %><a href="<%= interview.credit_url %>" title="More from <%= interview.credit_name %>."><% end %><%= interview.credit_name %><% if interview.credit_url %></a><% end %>
+	<% if selected && !interview.credit_name.empty? %>
+	(photo by <% if interview.credit_url %><a href="<%= interview.credit_url %>" title="More from <%= interview.credit_name %>."><% end %><%= interview.credit_name %><% if interview.credit_url %></a><% end %>)
 	<% end %>
 </p>
