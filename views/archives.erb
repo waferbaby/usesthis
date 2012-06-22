@@ -1,17 +1,23 @@
+<h2>All the interviews</h2>
+
 <% if @stats %>
-<h2>By year</h2>
+<article class="dates">
+<h3>By year</h3>
 	<ul id="years">
 	<% for row in @stats %>
 		<li><a href="/interviews/in/<%= row['year'] %>" title="View all the interviews from <%= row['year'] %>."><%= row['year'] %></a> (<%= row['count'] %> interview<% if row['count'] != 1 %><%= 's' %><% end %>)</li>
 	<% end %>
 	</ul>
+</article>
 <% end %>
 
 <% if @categories %>
-<h2>By category</h2>
+<article class="categories">
+<h3>By category</h3>
 <p>
 	<% for category in @categories %>
 		<a href="/interviews/<%= category.slug %>/" rel="<%= category.slug %>" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
 	<% end %>
 </p>
+</article>
 <% end %>
