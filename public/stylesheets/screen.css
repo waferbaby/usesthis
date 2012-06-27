@@ -213,6 +213,10 @@ margin: 10px 0;
 	width: 502px;
 	}
 	
+	h1 {
+	font-size: 170%;
+	}
+	
 	nav ul {
 	padding: 5px 0;
 	}
