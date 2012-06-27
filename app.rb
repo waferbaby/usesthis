@@ -93,7 +93,8 @@ class TheSetup < Sinatra::Base
                 @interview = Interview.with_slug(slug)
                 raise Sinatra::NotFound unless @interview
                 
-                @title = [@interview.name, "Interview"]
+                @title = @interview.name
+                @heading = "Interview"
 
                 erb :interview
         end
