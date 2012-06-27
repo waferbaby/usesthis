@@ -14,7 +14,7 @@ class TheSetup < Sinatra::Base
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                 rescue Exception => e
-                        puts "Failed to configure database via config.yml - aborting."
+                        puts "Failed to configure database via config - I'ma quit now."
                         exit
                 end
         end
