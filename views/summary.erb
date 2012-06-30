@@ -13,12 +13,15 @@
 <p class="summary"><%= interview.summary %></p>
 <p class="details">
 	<% if interview.published_on %>
-	Posted <time datetime="<%= interview.published_on %>" pubdate><%= interview.published_on.strftime("%b %e, %Y") %></time> in
+	Posted <time datetime="<%= interview.published_on %>" pubdate><%= interview.published_on.strftime("%b %e, %Y") %></time>
 	<% else %>
-	Unpublished, filed in
+	Unpublished
 	<% end %>
+	<% if interview.categories %>
+	in
 	<% for category in interview.categories %>
 		<a href="<%= url_for("/interviews/#{category.slug}/") %>" rel="category" title="View all of the '<%= category.slug %>' interviews."><%= category.slug %></a>
+	<% end %>
 	<% end %>
 	<% if selected && interview.credit_name && !interview.credit_name.empty? %>
 	(photo by <% if interview.credit_url %><a href="<%= interview.credit_url %>" title="More from <%= interview.credit_name %>."><% end %><%= interview.credit_name %><% if interview.credit_url %></a><% end %>)
