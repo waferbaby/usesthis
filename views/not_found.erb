@@ -1,0 +1,19 @@
+<article id="interview">
+	<%= erb :summary, :locals => {:interview => @interview, :selected => true} %>
+	<%= markdown("
+### Who are you, and what do you do?
+
+I'm the error message sent when the requested page you're after can't be found online. I also do a wee bit of (very amateur) interpretative dance in my spare time.
+
+### What hardware do you use?
+
+To be honest, I'm not entirely sure. It's something rack-mounted, I think. Or, y'know, a freaking *MacBook Pro*?!
+
+### And what software?
+
+I have a serious interest - let's be honest, it's an obsession - with web server software. Always been there, can't explain it. But I'm a simple creature, so that's it for me, really.
+
+### What would be your dream setup?
+
+Truthfully, I'm pretty happy with my current setup. I would love it if people were more careful with the URLs they typed, though, y'know?") %>
+</article>
