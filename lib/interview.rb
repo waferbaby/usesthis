@@ -5,7 +5,7 @@ require 'ware'
 
 class Interview < Resource
         
-        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :published_on, :date_create, :date_update
+        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :is_published, :published_on, :date_create, :date_update
         attr_accessor :categories, :wares
         
         def initialize()
@@ -31,7 +31,7 @@ class Interview < Resource
                         :order_by => 'published_on DESC',
                 }.merge!(options)
                 
-                fields = options[:summary] ? "id, slug, name, summary, published_on" : "*"
+                fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1", options)
         end
@@ -47,7 +47,7 @@ class Interview < Resource
                 year = self.escape(year)
                 
                 options = {:summary => false, :order_by => 'published_on DESC'}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, published_on" : "*"
+                fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
                 
                 self.fetch("SELECT * FROM interviews WHERE year(published_on) = '#{year}' AND is_published=1", options)
         end
@@ -56,7 +56,7 @@ class Interview < Resource
                 slug = self.escape(slug)
                 
                 options = {:summary => false, :order_by => 'i.published_on DESC'}.merge!(options)
-                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.published_on" : "i.*"
+                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.published_on" : "i.*"
                 
                 self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1", options)
         end
