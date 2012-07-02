@@ -12,7 +12,7 @@
 
 <p class="summary"><%= interview.summary %></p>
 <p class="details">
-	<% if interview.published_on %>
+	<% if interview.is_published %>
 	Posted <time datetime="<%= interview.published_on %>" pubdate><%= interview.published_on.strftime("%b %e, %Y") %></time>
 	<% else %>
 	Unpublished
