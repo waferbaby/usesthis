@@ -24,13 +24,13 @@ class Interview < Resource
                 interviews
         end
         
+        def self.all(options = {})
+                options = {:summary => false, :order_by => 'published_on DESC'}.merge!(options)
+                self.fetch("SELECT * FROM interviews", options)          
+        end
+        
         def self.recent(options = {})
-                options = {
-                        :summary => false,
-                        :limit => 10,
-                        :order_by => 'published_on DESC',
-                }.merge!(options)
-                
+                options = {:summary => false, :limit => 10, :order_by => 'published_on DESC'}.merge!(options)
                 fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1", options)
