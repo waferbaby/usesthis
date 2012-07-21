@@ -9,9 +9,6 @@ class Resource
         def self.fetch(query, options = {})
                 items = []
                 
-                query += " ORDER BY #{options[:order_by]}" if options[:order_by]
-                query += " LIMIT #{options[:limit]}" if options[:limit]
-                
                 puts query if options[:debug]
                 
                 Resource.database.query(query).each do |row|
