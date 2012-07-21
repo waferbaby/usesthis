@@ -25,15 +25,15 @@ class Interview < Resource
         end
         
         def self.all(options = {})
-                options = {:summary => false, :order_by => 'published_on DESC'}.merge!(options)
-                self.fetch("SELECT * FROM interviews", options)          
+                options = {:summary => false}.merge!(options)
+                self.fetch("SELECT * FROM interviews ORDER BY published_on DESC", options)          
         end
         
         def self.recent(options = {})
-                options = {:summary => false, :limit => 10, :order_by => 'published_on DESC'}.merge!(options)
+                options = {:summary => false}.merge!(options)
                 fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
                 
-                self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1", options)
+                self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY published_on DESC LIMIT 10", options)
         end
         
         def self.with_slug(slug, options = {})
@@ -46,19 +46,19 @@ class Interview < Resource
         def self.by_year(year, options = {})
                 year = self.escape(year)
                 
-                options = {:summary => false, :order_by => 'published_on DESC'}.merge!(options)
+                options = {:summary => false}.merge!(options)
                 fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
                 
-                self.fetch("SELECT * FROM interviews WHERE year(published_on) = '#{year}' AND is_published=1", options)
+                self.fetch("SELECT * FROM interviews WHERE year(published_on) = '#{year}' AND is_published=1 ORDER BY published_on DESC", options)
         end
         
         def self.for_category_slug(slug, options = {})
                 slug = self.escape(slug)
                 
-                options = {:summary => false, :order_by => 'i.published_on DESC'}.merge!(options)
+                options = {:summary => false}.merge!(options)
                 fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.published_on" : "i.*"
                 
-                self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1", options)
+                self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.published_on DESC", options)
         end
 
         def self.counts()
