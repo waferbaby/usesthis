@@ -52,7 +52,7 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml"
                 
                 @interviews = Interview.recent
-                erb :feed, :layout => false
+                erb :'feeds/interviews', :layout => false
         end
         
         get '/interviews/?' do
