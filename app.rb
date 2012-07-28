@@ -112,7 +112,9 @@ class TheSetup < Sinatra::Base
         
         get '/community/?' do
                 @title = "Community"
-                @links = Link.all()
+                
+                @inspired_links = Link.inspired_by
+                @personal_links = Link.personal
                 
                 erb :community
         end     
