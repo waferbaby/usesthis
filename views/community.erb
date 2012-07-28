@@ -4,19 +4,15 @@
 <article class="localised">
 <h3>Localised or inspired by</h3>
 <ul>
-<% for link in @links %>
-<% if link.type == 1 %>
+<% for link in @inspired_links %>
 <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><% unless link.description.empty? %> (<%= link.description %>)<% end %><% end %></li>
-<% end %>
 </ul>
 </article>
 
 <article class="personal">
 <h3>Personal</h3>
 <ul>
-<% for link in @links %>
-<% if link.type == 2 %>
+<% for link in @personal_links %>
 <li><a href="<%= link.url %>" title="View an interview with <%= link.name %>."><%= link.name %></a><% end %></li>
-<% end %>
 </ul>
 </article>
