@@ -65,6 +65,10 @@ class Interview < Resource
                 Interview.query("SELECT year(published_on) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
         end
         
+        def self.years()
+                Interview.query("SELECT year(published_on) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
+        end
+        
         def to_markdown
                 markdown = self.answers
                 
