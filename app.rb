@@ -49,24 +49,34 @@ class TheSetup < Sinatra::Base
         end
         
         get '/feed/?' do
-                content_type "application/atom+xml"
+                content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.recent
                 erb :'feeds/interviews', :layout => false
         end
         
+        get '/sitemap/?' do
+                @interviews = Interview.all
+                @counts = Interview.years
+                @categories = Category.all
+                
+                content_type "application/xml;charset=utf-8"
+                
+                erb :sitemap, :layout => false
+        end
+        
         get '/interviews/?' do
                 @title = "Interviews"
                 
-                @counts = Interview.counts()
-                @categories = Category.all()
+                @counts = Interview.counts
+                @categories = Category.all
                 
                 erb :archives
         end
         
         get '/interviews/in/?' do
                 @title = "Years"
-                @counts = Interview.counts()
+                @counts = Interview.counts
                 
                 erb :archives
         end
@@ -80,7 +90,7 @@ class TheSetup < Sinatra::Base
         end
 
         get %r{/interviews/([a-z]+)/feed/?$} do |slug|
-                content_type "application/atom+xml"
+                content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.for_category_slug(slug, :limit => 10)
                 @title = slug.capitalize if @interviews.count
