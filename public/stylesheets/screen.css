@@ -22,16 +22,6 @@ text-decoration: none;
 border: solid 1px #aaa;
 }
 
-article#interview h3:before {
-content: counter(question);
-counter-increment: question;
-background-color: #000;
-color: #fff;
-padding: 0 5px;
-margin-right: 10px;
-border-radius: 5px;
-}
-
 article#interview img.portrait,
 article#interview img.detail {
 float: right;
