@@ -54,7 +54,7 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.recent
-                erb :'services/feeds/interviews', :layout => false
+                erb :'feeds/interviews', :layout => false
         end
         
         get '/sitemap/?' do
@@ -97,7 +97,7 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.for_category_slug(slug, :limit => 10)
                 @title = slug.capitalize if @interviews.count
                 
-                erb :'services/feeds/interviews', :layout => false
+                erb :'feeds/interviews', :layout => false
         end
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
