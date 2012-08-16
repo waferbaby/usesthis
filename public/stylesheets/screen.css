@@ -22,6 +22,16 @@ text-decoration: none;
 border: solid 1px #aaa;
 }
 
+article#interview h3:before {
+content: counter(question);
+counter-increment: question;
+background-color: #000;
+color: #fff;
+padding: 0 5px;
+margin-right: 10px;
+border-radius: 5px;
+}
+
 article#interview img.portrait,
 article#interview img.detail {
 float: right;
@@ -90,17 +100,6 @@ padding: 0;
 margin: 15px 0 5px 0;
 font-size: 120%;
 font-weight: 400;
-}
-
-article#interview h3:before {
-content: counter(question);
-counter-increment: question;
-background-color: #eee;
-color: #777;
-padding: 0 5px;
-margin-right: 10px;
-border-radius: 5px;
-border: solid 1px #ccc;
 }
 
 img.detail,
