@@ -13,6 +13,8 @@ class TheSetup < Sinatra::Base
                         config = YAML::load_file(File.join(Dir.pwd, 'config', 'database.yml'))                        
                         Resource.database = Mysql2::Client.new(config[:database])
                         
+                        set :markdown, :auto_ids => false
+                        
                 rescue Exception => e
                         puts "Failed to configure database via config - I'ma quit now."
                         exit
@@ -52,7 +54,7 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.recent
-                erb :'feeds/interviews', :layout => false
+                erb :'services/feeds/interviews', :layout => false
         end
         
         get '/sitemap/?' do
@@ -95,7 +97,7 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.for_category_slug(slug, :limit => 10)
                 @title = slug.capitalize if @interviews.count
                 
-                erb :feed, :layout => false
+                erb :'services/feeds/interviews', :layout => false
         end
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
@@ -127,5 +129,5 @@ class TheSetup < Sinatra::Base
                 @personal_links = Link.personal
                 
                 erb :community
-        end     
+        end
 end
