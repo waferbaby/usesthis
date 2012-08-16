@@ -24,7 +24,7 @@ class TheSetup < Sinatra::Base
         helpers do
                 
                 def url_for(url)
-                        @interview ? "http://usesthis.com" + url : url
+                        @interview && settings.environment == :production ? "http://usesthis.com" + url : url
                 end
                 
         end
