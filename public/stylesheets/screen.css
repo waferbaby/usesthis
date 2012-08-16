@@ -73,18 +73,12 @@ font-weight: 600;
 font-size: 220%;
 }
 
-h1:before {
-content: "☻";
-float: left;
-margin-right: 20px;
-font-size: 150%;
-}
-
 h2 {
 padding: 0;
 margin: 0;
 font-weight: 500;
 font-size: 160%;
+counter-reset: question;
 }
 
 h2 a:link, h2 a:visited {
@@ -94,7 +88,19 @@ color: #000;
 h3 {
 padding: 0;
 margin: 15px 0 5px 0;
+font-size: 120%;
 font-weight: 400;
+}
+
+article#interview h3:before {
+content: counter(question);
+counter-increment: question;
+background-color: #eee;
+color: #777;
+padding: 0 5px;
+margin-right: 10px;
+border-radius: 5px;
+border: solid 1px #ccc;
 }
 
 img.detail,
@@ -131,7 +137,7 @@ color: #888;
 }
 
 nav ul {
-padding: 5px 20px 10px 20px;
+padding: 5px 0 10px 0;
 margin: 0;
 font-size: 105%;
 font-weight: 200;
@@ -169,7 +175,7 @@ margin-left: 10px;
 
 section#contents {
 line-height: 35px;
-padding: 25px 20px;
+padding: 25px 0;
 }
 
 ul#wares {
@@ -214,7 +220,7 @@ margin: 10px 0;
 	}
 	
 	h1 {
-	font-size: 170%;
+	font-size: 190%;
 	}
 	
 	nav ul {
