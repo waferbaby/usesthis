@@ -73,14 +73,14 @@ class TheSetup < Sinatra::Base
                 @counts = Interview.counts
                 @categories = Category.all
                 
-                erb :archives
+                erb :interviews
         end
         
         get '/interviews/in/?' do
                 @title = "Years"
                 @counts = Interview.counts
                 
-                erb :archives
+                erb :interviews
         end
         
         get %r{/interviews/in/([\d]{4})/?$} do |year|
