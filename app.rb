@@ -93,7 +93,7 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.by_year(year, :summary => true)
                 @title = "In #{year}" if @interviews.count
                 
-                erb :index
+                erb :year_index
         end
 
         get %r{/interviews/([a-z]+)/feed/?$} do |slug|
@@ -109,7 +109,7 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.for_category_slug(slug, :summary => true)
                 @title = slug.capitalize if @interviews.count
                 
-                erb :index
+                erb :category_index
         end
         
         get '/interview/with/:slug/?' do |slug|
