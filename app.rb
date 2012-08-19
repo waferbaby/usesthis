@@ -50,22 +50,26 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.recent(:summary => true)
                 erb :index
         end
-        
+
+        get '/about/?' do
+                @title = "About"             
+                erb :about
+        end
+
+        get '/community/?' do
+                @title = "Community"
+                
+                @inspired_links = Link.inspired_by
+                @personal_links = Link.personal
+                
+                erb :community
+        end
+                
         get '/feed/?' do
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.recent
                 erb :'feeds/interviews', :layout => false
-        end
-        
-        get '/sitemap/?' do
-                @interviews = Interview.all
-                @counts = Interview.years
-                @categories = Category.all
-                
-                content_type "application/xml;charset=utf-8"
-                
-                erb :sitemap, :layout => false
         end
         
         get '/interviews/?' do
@@ -117,21 +121,7 @@ class TheSetup < Sinatra::Base
 
                 erb :interview
         end
-        
-        get '/about/?' do
-                @title = "About"             
-                erb :about
-        end
-        
-        get '/community/?' do
-                @title = "Community"
-                
-                @inspired_links = Link.inspired_by
-                @personal_links = Link.personal
-                
-                erb :community
-        end
-        
+
         get '/services/atom/?' do
                 content_type "application/atomserv+xml;charset=utf-8"
                 erb :'services/atom/workspace', :layout => false
@@ -148,5 +138,15 @@ class TheSetup < Sinatra::Base
         end
         
         get '/services/atom/wares/?' do
+        end
+
+        get '/sitemap/?' do
+                @interviews = Interview.all
+                @counts = Interview.years
+                @categories = Category.all
+                
+                content_type "application/xml;charset=utf-8"
+                
+                erb :sitemap, :layout => false
         end
 end
