@@ -122,24 +122,6 @@ class TheSetup < Sinatra::Base
                 erb :interview
         end
 
-        get '/services/atom/?' do
-                content_type "application/atomserv+xml;charset=utf-8"
-                erb :'services/atom/workspace', :layout => false
-        end
-        
-        get '/services/atom/interviews/?' do
-                content_type "application/atom+xml;charset=utf-8"
-                
-                @interviews = Interview.all
-                erb :'services/atom/interviews', :layout => false
-        end
-        
-        get '/services/atom/links/?' do
-        end
-        
-        get '/services/atom/wares/?' do
-        end
-
         get '/sitemap/?' do
                 @interviews = Interview.all
                 @counts = Interview.years
