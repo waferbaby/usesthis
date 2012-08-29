@@ -31,11 +31,11 @@ class TheSetup < Sinatra::Base
         end
         
         not_found do
-                @interview = Interview.new
-                
-                @interview.name = "Four O'Four"
-                @interview.slug = '404'
-                @interview.summary = "HTTP error code (The Internet)"
+                @fake_interview = Interview.new
+
+                @fake_interview.name = "Four O'Four"
+                @fake_interview.slug = '404'
+                @fake_interview.summary = "HTTP error code (The Internet)"
                 
                 @title = "What's that?"
                 erb :not_found
