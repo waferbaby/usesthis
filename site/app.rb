@@ -1,17 +1,18 @@
 require 'rubygems'
 require 'sinatra/base'
-require 'lib/interview'
-require 'lib/link'
 require 'yaml'
 require 'erubis'
 require 'kramdown'
 require 'cgi'
 
+require '../lib/interview'
+require '../lib/link'
+
 class TheSetup < Sinatra::Base
         
         configure do
                 begin
-                        config = YAML::load_file(File.join(Dir.pwd, 'config', 'database.yml'))                        
+                        config = YAML::load_file('../config/database.yml')                        
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                         set :markdown, :auto_ids => false
