@@ -1,11 +1,10 @@
-a:link,
-a:visited {
-color: #fe2e9a;
-text-decoration: none;
+a:link, a:visited {
+color: #000;
+text-decoration: underline;
 }
 
 a:hover {
-text-decoration: underline;
+color: #fe2e9a !important;
 }
 
 a[rel] {
@@ -14,16 +13,15 @@ border: solid 1px #eee;
 padding: 0 5px;
 border-radius: 5px;
 font-size: 90%;
+text-decoration: none !important;
 }
 
 a[rel]:hover {
 background-color: #ddd;
-text-decoration: none;
 border: solid 1px #aaa;
 }
 
-article#interview img.portrait,
-article#interview img.detail {
+article#interview img.portrait, article#interview img.detail {
 float: right;
 margin: 0 0 30px 30px;
 }
@@ -78,7 +76,6 @@ padding: 0;
 margin: 0;
 font-weight: 500;
 font-size: 160%;
-counter-reset: question;
 }
 
 h2 a:link, h2 a:visited {
@@ -113,8 +110,7 @@ font-size: 60%;
 color: #999;
 }
 
-p.details a:link,
-p.details a:visited {
+p.details a:link, p.details a:visited {
 color: #777;
 }
 
@@ -144,6 +140,18 @@ color: #ddd;
 
 nav ul li:first-child:before {
 content: "";
+}
+
+nav ul li a {
+padding: 4px;
+text-decoration: none !important;
+color: #fe2e9a !important;
+}
+
+nav ul li a:hover {
+background-color: #fe2e9a;
+color: #fff !important;
+border-radius: 5px;
 }
 
 section#ad {
@@ -179,11 +187,7 @@ margin: 10px 0;
 	max-width: 1060px;
 	}
 	
-	article.categories,
-	article.dates,
-	article.interviewee,
-	article.localised,
-	article.personal {
+	article.categories, article.dates, article.interviewee, article.localised, article.personal {
 	float: left;
 	width: 502px;
 	margin: 0 14px 20px 14px;
@@ -213,7 +217,7 @@ margin: 10px 0;
 	}
 	
 	nav ul {
-	padding: 5px 0;
+	font-size: 100%;
 	}
 	
 	section#contents {
