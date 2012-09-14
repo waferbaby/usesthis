@@ -1,6 +1,6 @@
-a:link, a:visited {
+a {
 color: #000;
-text-decoration: underline;
+text-decoration: none;
 }
 
 a:hover {
@@ -78,8 +78,9 @@ font-weight: 500;
 font-size: 160%;
 }
 
-h2 a:link, h2 a:visited {
+h2 a {
 color: #000;
+text-decoration: none !important;
 }
 
 h3 {
@@ -110,7 +111,7 @@ font-size: 60%;
 color: #999;
 }
 
-p.details a:link, p.details a:visited {
+p.details a {
 color: #777;
 }
 
@@ -144,7 +145,6 @@ content: "";
 
 nav ul li a {
 padding: 4px;
-text-decoration: none !important;
 color: #fe2e9a !important;
 }
 
@@ -163,6 +163,7 @@ margin: 10px;
 
 section#ad .fusiontext a {
 color: #aaa;
+text-decoration: none !important;
 }
 
 section#ad img {
@@ -173,6 +174,10 @@ margin-left: 10px;
 section#contents {
 line-height: 35px;
 padding: 25px 0;
+}
+
+section#contents a {
+text-decoration: underline;
 }
 
 ul#wares {
