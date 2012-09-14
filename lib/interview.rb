@@ -58,7 +58,10 @@ class Interview < Resource
                 options = {:summary => false}.merge!(options)
                 fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.published_on" : "i.*"
                 
-                self.fetch("SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.published_on DESC", options)
+                query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.published_on DESC"
+                query << " LIMIT #{options[:limit]}" if options[:limit]
+                
+                self.fetch(query, options)
         end
 
         def self.counts()
