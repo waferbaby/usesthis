@@ -5,7 +5,7 @@
 	<h3>By year</h3>
 	<ul id="years">
 	<% for row in @counts %>
-		<li><a href="/interviews/in/<%= row['year'] %>" title="View all the interviews from <%= row['year'] %>."><%= row['year'] %></a> (<%= row['count'] %> interview<% if row['count'] != 1 %><%= 's' %><% end %>)</li>
+		<li><a href="/interviews/in/<%= row['year'] %>" title="View all the interviews from <%= row['year'] %>."><%= row['year'] %></a> (<%= row['count'] %>)</li>
 	<% end %>
 	</ul>
 </article>
