@@ -16,6 +16,7 @@ class TheSetup < Sinatra::Base
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                         set :markdown, :auto_ids => false
+                        set :markdown, :entity_output => :numeric
                         
                 rescue Exception => e
                         puts "Failed to configure database via config - I'ma quit now."
@@ -70,7 +71,7 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.recent
-                erb :'feeds/interviews', :layout => false
+                erb :feed, :layout => false
         end
         
         get '/interviews/?' do
@@ -103,7 +104,7 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.for_category_slug(slug, :limit => 10)
                 @title = slug.capitalize if @interviews.count
                 
-                erb :'feeds/interviews', :layout => false
+                erb :feed, :layout => false
         end
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
