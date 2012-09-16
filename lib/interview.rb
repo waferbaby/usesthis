@@ -9,8 +9,7 @@ class Interview < Resource
         attr_accessor :categories, :wares
         
         def initialize()
-                categories = []
-                wares = []
+                categories, wares = []
         end
         
         def self.fetch(query, options = {})
