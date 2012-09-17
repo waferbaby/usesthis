@@ -1,4 +1,4 @@
 <article id="interview">
-	<%= erb :summary, :locals => {:interview => @interview, :selected => true} %>
+	<%= erb :interview_summary, :locals => {:interview => @interview, :selected => true} %>
 	<%= markdown(@interview.to_markdown) %>
 </article>
