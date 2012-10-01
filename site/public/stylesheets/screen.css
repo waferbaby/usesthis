@@ -207,6 +207,7 @@ margin: 10px 0;
 
 	article.interviewee {
 	float: none;
+	margin: 0;
 	}
 	
 	section#ad {
@@ -214,7 +215,7 @@ margin: 10px 0;
 	}
 	
 	body {
-	width: 502px;
+	width: 500px;
 	}
 	
 	h1 {
@@ -222,7 +223,7 @@ margin: 10px 0;
 	}
 	
 	nav ul {
-	font-size: 100%;
+	font-size: 95%;
 	}
 	
 	section#contents {
