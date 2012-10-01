@@ -5,7 +5,7 @@
 		<link href="<%= url_for('/stylesheets/screen.css') %>" media="screen" rel="stylesheet" type="text/css">
 		<link href="<%= url_for('/feed/') %>" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, minimum-scale=0.6, maximum-scale=1.0" />
+		<meta name="viewport" content="width=device-width;initial-scale=1.0" />
 	</head>
 	<body>
 		
@@ -36,7 +36,6 @@
 				<li><a href="<%= url_for('/interviews/') %>" title="All the other interviews.">Interviews</a></li>
 				<li><a href="<%= url_for('/about/') %>" title="A little more info about the site.">About</a></li>
 				<li><a href="<%= url_for('/community/') %>" title="Other interviews by people like you.">Community</a></li>
-				<li><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a></li>
 			</ul>
 		</nav>
 		
@@ -45,7 +44,7 @@
 		</section>
 		
 		<footer>
-			<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
+			<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. You can follow along via <a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed.">feed</a>. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
 	  	</footer>
 	</body>
 </html>
