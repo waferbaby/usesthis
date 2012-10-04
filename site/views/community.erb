@@ -5,7 +5,8 @@
 <h3>Localised or inspired by</h3>
 <ul>
 <% for link in @inspired_links %>
-<li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><% unless link.description.empty? %> (<%= link.description %>)<% end %><% end %></li>
+<li>
+	<a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><% unless link.description.empty? %> <span class="summary">(<%= link.description %>)</span><% end %><% end %></li>
 </ul>
 </article>
 
