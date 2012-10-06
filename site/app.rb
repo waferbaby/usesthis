@@ -3,7 +3,6 @@ require 'sinatra/base'
 require 'yaml'
 require 'erubis'
 require 'kramdown'
-require 'cgi'
 
 require '../lib/interview'
 require '../lib/link'
