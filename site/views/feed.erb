@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://usesthis.com/</id>
 	<title>The Setup<% if @title %> / <%= @title %><% end %></title>
 	<link href="http://usesthis.com/" />
 	<link href="http://usesthis.com/feed/" rel="self" />
-	<id>http://usesthis.com/</id>
 	<updated><%= @interviews[0].published_on.strftime('%FT%TZ') %></updated>
 	<author><name>Daniel Bogan</name></author>
 	<% for interview in @interviews %>
