@@ -5,9 +5,10 @@
 	<author><name>Daniel Bogan</name></author>
 	<% for interview in @interviews %>
 	<entry>
-		<id>interview.<%= interview.id %></id>
+		<id>http://<%= interview.slug %>.usesthis.com/</id>
 		<title><%= interview.name %></title>
 		<link href="http://<%= interview.slug %>.usesthis.com/" />
+		<link rel="edit" href="/interviews/<%= interview.slug %>" />
 		<published><%= interview.published_on.strftime('%FT%TZ') %></published>
 		<updated><%= interview.published_on.strftime('%FT%TZ') %></updated>
 		<content type="text"><%= CGI.escapeHTML(interview.answers) %></content>
