@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>usesthis.admin.interviews</id>
+	<updated><%= @interviews[0].published_on.strftime('%FT%TZ') %></updated>
+	<author><name>Daniel Bogan</name></author>
+	<% for interview in @interviews %>
+	<entry>
+		<id>interview.<%= interview.id %></id>
+		<title><%= interview.name %></title>
+		<link href="http://<%= interview.slug %>.usesthis.com/" />
+		<published><%= interview.published_on.strftime('%FT%TZ') %></published>
+		<updated><%= interview.published_on.strftime('%FT%TZ') %></updated>
+		<content type="text"><%= CGI.escapeHTML(interview.answers) %></content>
+	</entry>
+	<% end %>
+</feed>
