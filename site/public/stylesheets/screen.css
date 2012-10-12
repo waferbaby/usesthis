@@ -4,7 +4,7 @@ text-decoration: underline;
 }
 
 a:hover {
-color: #6ba3e2 !important;
+color: #fe2e9a !important;
 }
 
 a[rel] {
@@ -67,7 +67,7 @@ font-size: 220%;
 }
 
 h1 span {
-color: #6ba3e2;
+color: #fe2e9a;
 }
 
 h2 {
@@ -144,13 +144,13 @@ content: "";
 
 nav ul li a {
 padding: 4px;
-color: #6ba3e2 !important;
+color: #fe2e9a !important;
 text-decoration: none;
 border-radius: 4px;
 }
 
 nav ul li a:hover {
-background-color: #6ba3e2;
+background-color: #fe2e9a;
 color: #fff !important;
 }
 
