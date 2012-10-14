@@ -26,10 +26,14 @@ class Resource
         
         def self.query(query)
                 result = Resource.database.query(query)
-                result.count < 1 ? [] : result.to_a
+                !result.nil? && result.count < 1 ? [] : result.to_a
         end
         
         def self.escape(string)
-                Resource.database.escape(string)
+                Resource.database.escape(string.to_s)
+        end
+        
+        def self.join_hash(hash)
+                hash.map {|key, value| "#{key}='#{Resource.escape(value)}'" }.join(", ")
         end
 end
