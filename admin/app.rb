@@ -2,8 +2,8 @@ require 'rubygems'
 require 'sinatra/base'
 require 'yaml'
 require 'erubis'
-require 'kramdown'
 require 'cgi'
+require 'xmlsimple'
 
 require '../lib/interview'
 require '../lib/link'
@@ -24,6 +24,16 @@ class TheSetupAdmin < Sinatra::Base
                 end
         end
         
+        helpers do
+                
+                def parse_feed(xml)
+                        XmlSimple.xml_in(xml, {
+                                'ForceArray' => false,
+                                'NoAttr' => true,
+                        })
+                end
+        end
+        
         get '/' do
                 content_type 'application/atomserv+xml;charset=utf-8'
                 erb :index
@@ -34,6 +44,34 @@ class TheSetupAdmin < Sinatra::Base
                 
                 content_type 'application/atom+xml;charset=utf-8'
                 erb :interviews
+        end
+        
+        post '/interviews/?' do
+        end
+        
+        get '/interviews/:slug/?' do |slug|
+                @interviews = [Interview.with_slug(slug)]
+                
+                content_type 'application/atom+xml;charset=utf-8'
+                erb :interviews
+        end
+        
+        put '/interviews/:slug/?' do |slug|
+                
+                begin
+                        @interview = Interview.with_slug(slug)
+                        feed = parse_feed(request.body.read)
+                        
+                        @interview.update({
+                                'name'         => feed['title'],
+                                'answers'       => feed['content'],
+                                'is_published'  => (feed['control']['draft'] == 'no') ? 1 : 0
+                        })
+
+                        200
+                rescue
+                        500
+                end
         end
         
         get '/links/?' do
