@@ -13,6 +13,13 @@ class Ware < Resource
                 self.fetch("SELECT w.* FROM wares AS w, interview_wares AS i WHERE w.id=i.ware_id AND i.interview_id=#{id} ORDER BY w.slug")
         end
         
+        def self.with_slug(slug, options = {})
+                slug = self.escape(slug)
+                result = self.fetch("SELECT * FROM wares WHERE slug='#{slug}'", options)
+                
+                result.length < 1 ? false : result[0]
+        end
+        
         def self.popular_hardware(options = {})
                 self.popular(HARDWARE, options)
         end
