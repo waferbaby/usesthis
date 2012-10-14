@@ -48,6 +48,8 @@ class TheSetup < Sinatra::Base
         end
         
         get '/' do
+                @title = "Hello"
+                
                 @interviews = Interview.recent(:summary => true)
                 erb :index
         end
