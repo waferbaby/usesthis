@@ -122,11 +122,10 @@ color: #888;
 }
 
 nav ul {
-padding: 10px 0;
+padding: 0 0 10px 0;
 margin: 0;
 font-size: 130%;
 font-weight: 200;
-border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
 }
 
