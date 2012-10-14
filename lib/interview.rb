@@ -71,6 +71,38 @@ class Interview < Resource
                 Interview.query("SELECT year(published_on) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
         end
         
+        def update(params)
+                params['date_update'] = Time.now.to_i
+                
+                query = "UPDATE interviews SET "
+                query += Interview.join_hash(params)
+                query += " WHERE id=#{self.id}"
+                
+                Interview.query(query)
+                        
+                params.each_pair { |key, value| self.send("#{key}=", value) }
+                self.link_wares
+        end
+        
+        def link_wares
+                Interview.query("DELETE FROM interview_wares WHERE interview_id='#{self.id}'")
+                
+                self.wares = []
+                
+                self.answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
+                	slug = (link[1] ? link[1] : link[0].downcase)
+                        
+                        unless slug.nil?
+                                ware = Ware.with_slug(slug)
+
+                                unless ware.nil?
+                                        Interview.query("INSERT INTO interview_wares (interview_id, ware_id) VALUES ('#{self.id}', '#{ware.id}')")
+                                        self.wares << ware
+                                end
+                        end
+		end
+        end
+        
         def to_markdown
                 markdown = self.answers
                 
