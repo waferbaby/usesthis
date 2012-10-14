@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup<% if @title %> / <%= @title %><% end %></title>
+		<title>The Setup / <%= @title %></title>
 		<link href="<%= url_for('/stylesheets/screen.css') %>" media="screen" rel="stylesheet" type="text/css">
 		<link href="<%= url_for('/feed/') %>" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
@@ -26,7 +26,7 @@
 		</section>
 		
 		<header>
-			<h1>The Setup<% if @title || @heading %> / <span><%= @heading ? @heading : @title %></span><% end %></h1>
+			<h1>The Setup / <span><%= @heading ? @heading : @title %></span></h1>
 			<p id="tagline">What do people use to get stuff done?</p>
 		</header>
 		
