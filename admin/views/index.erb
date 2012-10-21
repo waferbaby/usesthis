@@ -4,6 +4,11 @@
 		<title>The Setup</title>
 		<collection href="/interviews/">
 			<title>Interviews</title>
+			<categories>
+				<% for category in @categories %>
+				<category term="<%= category.slug %>" />
+				<% end %>
+			</categories>
 		</collection>
 	</workspace>
 </service>
