@@ -28,14 +28,22 @@ class TheSetupAdmin < Sinatra::Base
                 
                 def parse_feed(xml)
                         feed = XmlSimple.xml_in(xml, {
+                                'KeyAttr' => 'term',
                                 'ForceArray' => false,
-                                'NoAttr' => true,
                         })
                         
+                        categories = []
+                        
+                        unless feed['category'].nil?
+                                categories = feed['category'].length == 1 ? feed['category']['term'].to_a : feed['category'].keys
+                        end
+                        
                         {
-                                'name'          => feed['title'],
-                                'answers'       => feed['content'],
+                                'name'          => feed['title']['content'],
+                                'summary'       => feed['summary']['content'],
+                                'answers'       => feed['content']['content'],
                                 'is_published'  => feed['control']['draft'] == 'no' ? 1 : 0,
+                                'categories'    => categories
                         }
                 end
         end
@@ -45,6 +53,8 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/' do
+                @categories = Category.all
+                
                 content_type 'application/atomserv+xml;charset=utf-8'
                 erb :index
         end
@@ -65,6 +75,7 @@ class TheSetupAdmin < Sinatra::Base
                 
                         interview.name = feed['name']
                         interview.slug = feed['name'].to_slug
+                        interview.summary = feed['summary']
                         interview.answers = feed['answers']
                         interview.is_published = feed['is_published']
                         
@@ -92,9 +103,10 @@ class TheSetupAdmin < Sinatra::Base
                 begin
                         @interview = Interview.with_slug(slug)
                         feed = parse_feed(request.body.read)
-                        
+
                         @interview.update({
                                 'name'          => feed['name'],
+                                'summary'       => feed['summary'],
                                 'answers'       => feed['answers'],
                                 'is_published'  => feed['is_published']
                         })
