@@ -36,8 +36,4 @@ class Resource
         def self.escape(string)
                 Resource.database.escape(string.to_s)
         end
-        
-        def self.join_hash(hash)
-                hash.map {|key, value| "#{key}='#{Resource.escape(value)}'" }.join(", ")
-        end
 end
