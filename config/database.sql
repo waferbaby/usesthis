@@ -41,7 +41,7 @@ CREATE TABLE `interviews` (
   `credit_url` varchar(250) DEFAULT NULL,
   `answers` text,
   `is_published` tinyint(1) DEFAULT NULL,
-  `published_on` date DEFAULT NULL,
+  `date_publish` date DEFAULT NULL,
   `date_create` datetime DEFAULT NULL,
   `date_update` datetime DEFAULT NULL,
   PRIMARY KEY (`id`),
