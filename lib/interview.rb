@@ -6,7 +6,7 @@ require 'ware'
 
 class Interview < Resource
         
-        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :is_published, :published_on, :date_create, :date_update
+        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :is_published, :date_publish, :date_create, :date_update
         attr_accessor :categories, :wares
         
         def initialize()
@@ -26,14 +26,14 @@ class Interview < Resource
         
         def self.all(options = {})
                 options = {:summary => false}.merge!(options)
-                self.fetch("SELECT * FROM interviews ORDER BY published_on DESC", options)          
+                self.fetch("SELECT * FROM interviews ORDER BY date_publish DESC", options)          
         end
         
         def self.recent(options = {})
                 options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
+                fields = options[:summary] ? "id, slug, name, summary, is_published, date_publish" : "*"
                 
-                self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY published_on DESC LIMIT 10", options)
+                self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY date_publish DESC LIMIT 10", options)
         end
         
         def self.with_slug(slug, options = {})
@@ -47,33 +47,34 @@ class Interview < Resource
                 year = self.escape(year)
                 
                 options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, is_published, published_on" : "*"
+                fields = options[:summary] ? "id, slug, name, summary, is_published, date_publish" : "*"
                 
-                self.fetch("SELECT * FROM interviews WHERE year(published_on) = '#{year}' AND is_published=1 ORDER BY published_on DESC", options)
+                self.fetch("SELECT * FROM interviews WHERE year(date_publish) = '#{year}' AND is_published=1 ORDER BY date_publish DESC", options)
         end
         
         def self.for_category_slug(slug, options = {})
                 slug = self.escape(slug)
                 
                 options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.published_on" : "i.*"
+                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish" : "i.*"
                 
-                query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.published_on DESC"
+                query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.date_publish DESC"
                 query << " LIMIT #{options[:limit]}" if options[:limit]
                 
                 self.fetch(query, options)
         end
 
         def self.counts()
-                Interview.query("SELECT year(published_on) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
+                Interview.query("SELECT year(date_publish) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
         end
         
         def self.years()
-                Interview.query("SELECT year(published_on) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
+                Interview.query("SELECT year(date_publish) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
         end
         
         def save
-		time = Time.now.strftime('%Y-%m-%d %H:%M:%S')
+		now = Time.now
+		time = now.strftime('%Y-%m-%d %H:%M:%S')
 		
                 params = {
                         'slug'          => self.slug,
@@ -96,15 +97,22 @@ class Interview < Resource
 		query += values.map {|value| "'#{Resource.escape(value)}'"}.join(", ")
 		query += ")"
 		
-                r = Interview.query(query)		
+                r = Interview.query(query)
+		
 		self.id = Interview.last_insert_id
+		
+		self.date_create = now
+		self.date_update = now
+		self.date_publish = now if self.is_published
+
+		self.link_wares
         end
         
         def update(params)
 		now = Time.now
 		
-                params['date_update'] = time.strftime('%Y-%m-%d %H:%M:%S')
-		params['date_publish'] = time.strftime('%Y-%m-%d') if params['is_published']
+                params['date_update'] = now.strftime('%Y-%m-%d %H:%M:%S')
+		params['date_publish'] = now.strftime('%Y-%m-%d') if params['is_published']
 		
                 query = "UPDATE interviews SET "
                 query += params.map {|key, value| "#{key}='#{Resource.escape(value)}'" }.join(", ")
