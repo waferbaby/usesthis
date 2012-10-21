@@ -4,15 +4,15 @@
 	<title>The Setup<% if @title %> / <%= @title %><% end %></title>
 	<link href="http://usesthis.com/" />
 	<link href="http://usesthis.com/feed/" rel="self" />
-	<updated><%= @interviews[0].published_on.strftime('%FT%TZ') %></updated>
+	<updated><%= @interviews[0].date_publish.strftime('%FT%TZ') %></updated>
 	<author><name>Daniel Bogan</name></author>
 	<% for interview in @interviews %>
 	<entry>
 		<id>http://<%= interview.slug %>.usesthis.com/</id>
 		<title><%= interview.name %></title>
 		<link href="http://<%= interview.slug %>.usesthis.com/" />
-		<published><%= interview.published_on.strftime('%FT%TZ') %></published>
-		<updated><%= interview.published_on.strftime('%FT%TZ') %></updated>
+		<published><%= interview.date_publish.strftime('%FT%TZ') %></published>
+		<updated><%= interview.date_publish.strftime('%FT%TZ') %></updated>
 		<% for category in interview.categories %><category term="<%= category.slug %>" /><% end %>
 		<content type="xhtml">
 			<div xmlns="http://www.w3.org/1999/xhtml">
