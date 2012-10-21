@@ -1,4 +1,4 @@
-The Setup is a website with nerdy interviews asking people what they use to get the job done. It's made up oftwo little Sinatra apps:
+The Setup is a website with nerdy interviews asking people what they use to get the job done. It's made up of two little Sinatra apps:
 
 	/site/ is the actual interview site.
 	/admin/ is a (not-quite-finished) AtomPub-based admin site.
