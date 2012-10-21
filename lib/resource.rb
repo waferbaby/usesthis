@@ -28,6 +28,10 @@ class Resource
                 result = Resource.database.query(query)
                 !result.nil? && result.count < 1 ? [] : result.to_a
         end
+	
+	def self.last_insert_id
+		Resource.database.last_id
+	end
         
         def self.escape(string)
                 Resource.database.escape(string.to_s)
