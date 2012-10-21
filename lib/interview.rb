@@ -1,6 +1,7 @@
 $:.unshift File.dirname(__FILE__)
 
 require 'category'
+require 'string'
 require 'ware'
 
 class Interview < Resource
@@ -71,11 +72,42 @@ class Interview < Resource
                 Interview.query("SELECT year(published_on) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
         end
         
-        def update(params)
-                params['date_update'] = Time.now.to_i
+        def save
+		time = Time.now.strftime('%Y-%m-%d %H:%M:%S')
+		
+                params = {
+                        'slug'          => self.slug,
+                        'name'          => self.name,
+                        'summary'       => self.summary,
+                        'credit_name'   => self.credit_name,
+                        'credit_url'    => self.credit_url,
+                        'answers'       => self.answers,
+			'is_published'	=> self.is_published,
+			'date_create'	=> time,
+			'date_update'	=> time,
+                }
+		
+		keys = params.keys
+		values = params.values
                 
+                query = "INSERT INTO interviews ("
+		query += keys.join(',')
+		query += ") VALUES ("
+		query += values.map {|value| "'#{Resource.escape(value)}'"}.join(", ")
+		query += ")"
+		
+                r = Interview.query(query)		
+		self.id = Interview.last_insert_id
+        end
+        
+        def update(params)
+		now = Time.now
+		
+                params['date_update'] = time.strftime('%Y-%m-%d %H:%M:%S')
+		params['date_publish'] = time.strftime('%Y-%m-%d') if params['is_published']
+		
                 query = "UPDATE interviews SET "
-                query += Interview.join_hash(params)
+                query += params.map {|key, value| "#{key}='#{Resource.escape(value)}'" }.join(", ")
                 query += " WHERE id=#{self.id}"
                 
                 Interview.query(query)
