@@ -121,7 +121,7 @@ class Interview < Resource
                 Interview.query(query)
                         
                 params.each_pair { |key, value| self.send("#{key}=", value) }
-                self.link_wares
+                self.link_wares unless self.answers == params['answers']
         end
         
         def link_wares
