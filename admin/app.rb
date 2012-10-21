@@ -27,11 +27,21 @@ class TheSetupAdmin < Sinatra::Base
         helpers do
                 
                 def parse_feed(xml)
-                        XmlSimple.xml_in(xml, {
+                        feed = XmlSimple.xml_in(xml, {
                                 'ForceArray' => false,
                                 'NoAttr' => true,
                         })
+                        
+                        {
+                                'name'          => feed['title'],
+                                'answers'       => feed['content'],
+                                'is_published'  => feed['control']['draft'] == 'no' ? 1 : 0,
+                        }
                 end
+        end
+        
+        error do
+                500
         end
         
         get '/' do
@@ -47,6 +57,27 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         post '/interviews/?' do
+                
+                begin
+                        feed = parse_feed(request.body.read)
+                
+                        interview = Interview.new
+                
+                        interview.name = feed['name']
+                        interview.slug = feed['name'].to_slug
+                        interview.answers = feed['answers']
+                        interview.is_published = feed['is_published']
+                        
+                        interview.save
+                        
+                        @interviews = [interview]
+                        
+                        content_type 'application/atom+xml;charset=utf-8'
+                        erb :interviews
+                        
+                rescue
+                        500
+                end                
         end
         
         get '/interviews/:slug/?' do |slug|
@@ -63,9 +94,9 @@ class TheSetupAdmin < Sinatra::Base
                         feed = parse_feed(request.body.read)
                         
                         @interview.update({
-                                'name'         => feed['title'],
-                                'answers'       => feed['content'],
-                                'is_published'  => (feed['control']['draft'] == 'no') ? 1 : 0
+                                'name'          => feed['name'],
+                                'answers'       => feed['answers'],
+                                'is_published'  => feed['is_published']
                         })
 
                         200
