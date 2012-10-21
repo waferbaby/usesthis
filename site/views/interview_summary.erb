@@ -12,8 +12,8 @@
 
 <p class="summary"><%= interview.summary %></p>
 <p class="details">
-	<% if interview.is_published %>
-	Posted <time datetime="<%= interview.published_on %>" pubdate><%= interview.published_on.strftime("%b %e, %Y") %></time>
+	<% if interview.is_published == true %>
+	Posted <time datetime="<%= interview.date_publish %>" pubdate><%= interview.date_publish.strftime("%b %e, %Y") %></time>
 	<% else %>
 	Unpublished
 	<% end %>
