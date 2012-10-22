@@ -79,6 +79,11 @@ class TheSetupAdmin < Sinatra::Base
                         interview.answers = feed['answers']
                         interview.is_published = feed['is_published']
                         
+			feed['categories'].each do |slug|
+				category = Category.with_slug(slug, true)
+				@interview.categories << category
+			end
+						
                         interview.save
                         
                         @interviews = [interview]
@@ -86,8 +91,8 @@ class TheSetupAdmin < Sinatra::Base
                         content_type 'application/atom+xml;charset=utf-8'
                         erb :interviews
                         
-                rescue
-                        500
+                rescue InterviewException => e
+                        halt 500, e.to_s
                 end                
         end
         
@@ -104,16 +109,22 @@ class TheSetupAdmin < Sinatra::Base
                         @interview = Interview.with_slug(slug)
                         feed = parse_feed(request.body.read)
 
-                        @interview.update({
+			@interview.categories = []
+			
+			feed['categories'].each do |slug|
+				category = Category.with_slug(slug, true)
+				@interview.categories << category
+			end
+			
+			@interview.update({
                                 'name'          => feed['name'],
                                 'summary'       => feed['summary'],
                                 'answers'       => feed['answers'],
                                 'is_published'  => feed['is_published']
                         })
-
-                        200
-                rescue
-                        500
+			
+                rescue InterviewException => e
+                        halt 500, e.to_s
                 end
         end
         
