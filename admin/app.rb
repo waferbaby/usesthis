@@ -25,7 +25,6 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         helpers do
-                
                 def parse_feed(xml)
                         feed = XmlSimple.xml_in(xml, {
                                 'KeyAttr' => 'term',
@@ -48,10 +47,6 @@ class TheSetupAdmin < Sinatra::Base
                 end
         end
         
-        error do
-                500
-        end
-        
         get '/' do
                 @categories = Category.all
                 
@@ -67,7 +62,6 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         post '/interviews/?' do
-                
                 begin
                         feed = parse_feed(request.body.read)
                 
@@ -78,33 +72,36 @@ class TheSetupAdmin < Sinatra::Base
                         interview.summary = feed['summary']
                         interview.answers = feed['answers']
                         interview.is_published = feed['is_published']
-                        
+			
 			feed['categories'].each do |slug|
 				category = Category.with_slug(slug, true)
-				@interview.categories << category
+				interview.categories << category
 			end
 						
-                        interview.save
-                        
+                        interview.save                        
                         @interviews = [interview]
                         
                         content_type 'application/atom+xml;charset=utf-8'
                         erb :interviews
-                        
-                rescue InterviewException => e
-                        halt 500, e.to_s
+			
+		rescue Exception => e
+			halt 500, e.to_s
                 end                
         end
         
         get '/interviews/:slug/?' do |slug|
-                @interviews = [Interview.with_slug(slug)]
+		begin
+	                @interviews = [Interview.with_slug(slug)]
                 
-                content_type 'application/atom+xml;charset=utf-8'
-                erb :interviews
+	                content_type 'application/atom+xml;charset=utf-8'
+	                erb :interviews
+			
+		rescue Exception => e
+			halt 500, e.to_s
+		end
         end
         
         put '/interviews/:slug/?' do |slug|
-                
                 begin
                         @interview = Interview.with_slug(slug)
                         feed = parse_feed(request.body.read)
@@ -123,7 +120,7 @@ class TheSetupAdmin < Sinatra::Base
                                 'is_published'  => feed['is_published']
                         })
 			
-                rescue InterviewException => e
+                rescue Exception => e
                         halt 500, e.to_s
                 end
         end
