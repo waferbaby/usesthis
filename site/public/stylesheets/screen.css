@@ -8,12 +8,12 @@ color: #fe2e9a !important;
 }
 
 a[rel] {
+padding: 0 5px;
 background-color: #f9f9f9;
 color: #888;
-border: solid 1px #eee;
-padding: 0 5px;
-border-radius: 5px;
 text-decoration: none !important;
+border: solid 1px #eee;
+border-radius: 4px;
 }
 
 a[rel]:hover {
@@ -22,29 +22,37 @@ color: #555 !important;
 border: solid 1px #aaa;
 }
 
-article#interview img.portrait, article#interview img.detail {
+aside {
+width: 130px;
 float: right;
-margin: 0 0 30px 30px;
+font-size: 80%;
+margin-left: 20px;
 }
 
 body {
-padding: 50px 0;
-margin: 0 auto;
+padding: 0;
+margin: 0;
 font-family: "helvetica neue", helvetica, sans-serif;
 font-weight: 200;
-font-size: 21px;
+font-size: 20px;
 background-color: #fff;
+color: #000;
 }
 
 dd {
-padding: 10px 25px;
+padding: 10px;
 margin: 0;
-font-size: 90%;
+}
+
+div {
+width: 500px;
+margin: 50px auto;
 }
 
 dt {
 font-size: 120%;
 font-style: italic;
+color: #888;
 }
 
 figure {
@@ -53,17 +61,17 @@ margin: 0;
 }
 
 footer {
-width: 100%;
-font-size: 60%;
-color: #aaa;
+margin: 20px 0 0 0;
+font-size: 95%;
+color: #999;
 border-top: solid 1px #eee;
 }
 
 h1 {
 padding: 0;
 margin: 0;
+font-size: 200%;
 font-weight: 600;
-font-size: 220%;
 }
 
 h1 span {
@@ -72,60 +80,37 @@ color: #fe2e9a;
 
 h2 {
 padding: 0;
-margin: 0;
+margin: 10px 0 0 0;
+font-size: 170%;
 font-weight: 500;
-font-size: 160%;
 }
 
-h2 a {
-color: #000;
+h2 a:link, h2 a.visited {
 text-decoration: none !important;
 }
 
 h3 {
 padding: 0;
-margin: 15px 0 5px 0;
-font-size: 120%;
-font-weight: 500;
+margin: 10px 0;
+font-size: 140%;
+font-weight: 300;
 }
 
-img.detail,
-img.portrait {
-border: solid 1px #000;
-display: block;
-margin-bottom: 20px;
-}
-
-p#tagline {
-font-size: 110%;
-color: #999;
-padding: 0;
-margin: 10px 0 20px 0;
-}
-
-p.details {
+header {
 padding: 0;
 margin: 0 0 20px 0;
-font-size: 60%;
-color: #999;
 }
 
-p.details a {
-color: #777;
-}
-
-p.summary {
-padding: 0;
-margin: 5px 0 0 0;
-font-size: 90%;
-color: #888;
+img.detail, img.portrait {
+border: solid 1px #000;
 }
 
 nav ul {
-padding: 0 0 10px 0;
+padding: 10px 0;
 margin: 0;
-font-size: 130%;
+font-size: 120%;
 font-weight: 200;
+border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
 }
 
@@ -144,8 +129,8 @@ content: "";
 
 nav ul li a {
 padding: 4px;
-color: #fe2e9a !important;
 text-decoration: none;
+color: #fe2e9a !important;
 border-radius: 4px;
 }
 
@@ -154,89 +139,62 @@ background-color: #fe2e9a;
 color: #fff !important;
 }
 
-section#ad {
-float: right;
-width: 300px;
-font-size: 55%;
-margin: 10px;
+nav ul li a.selected {
+font-weight: 500;
 }
 
-section#ad .fusiontext a {
+p#tagline {
+padding: 0;
+margin: 5px 0 15px 0;
+font-size: 95%;
 color: #aaa;
-text-decoration: none !important;
 }
 
-section#ad img {
-float: right;
-margin-left: 10px;
+p#tagline em {
+color: #999;
+}
+
+p.details {
+padding: 5px 0;
+margin: 0 0 20px 0;
+font-size: 70%;
+color: #888;
+border-bottom: solid 1px #eee;
+}
+
+p.summary {
+padding: 0;
+margin: 5px 0 0 0;
+font-size: 95%;
+color: #777;
 }
 
 section#contents {
 line-height: 35px;
-padding: 25px 0;
 }
 
 span.summary {
-color: #888;
+color: #777;
 }
 
 ul {
 list-style: none inside;
 padding: 0;
-margin: 10px 0;
+margin: 15px;
 }
 
-@media screen and (min-width: 1000px) {
-
-	body {
-	max-width: 1060px;
-	}
-	
-	article.categories, article.dates, article.interviewee, article.localised, article.personal {
-	float: left;
-	width: 502px;
-	margin: 0 14px 20px 14px;
-	}
-	
-	footer {
-	clear: left;
-	}
-}
 
 @media screen and (max-width: 1200px) {
 
-	article.interviewee {
-	float: none;
+	div {
+	padding: 40px;
 	margin: 0;
-	}
-	
-	section#ad {
-	display: none;
-	}
-	
-	body {
-	width: 500px;
-	padding: 20px;
-	}
-	
-	h1 {
-	font-size: 190%;
-	}
-	
-	nav ul {
-	font-size: 95%;
-	}
-	
-	section#contents {
-	line-height: 35px;
-	padding: 25px 0;
 	}
 }
 
 @media screen and (max-device-width: 480px) {
 
-	body {
-	width: 500px;
+	div {
 	padding: 20px;
 	margin: 0;
 	}
