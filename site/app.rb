@@ -30,6 +30,21 @@ class TheSetup < Sinatra::Base
                 end
                 
         end
+	
+	before do
+		@location = case request.path
+			when /^\/$/
+				'home'
+			when /^\/interviews?/
+				'interviews'
+			when /^\/about/
+				'about'
+			when /^\/community/
+				'community'
+			else
+				''
+			end
+	end
         
         not_found do
                 @fake_interview = Interview.new
@@ -37,7 +52,14 @@ class TheSetup < Sinatra::Base
                 @fake_interview.name = "Four O'Four"
                 @fake_interview.slug = '404'
                 @fake_interview.summary = "HTTP error code (The Internet)"
-                
+		
+		['error', '404'].each do |slug|
+			category = Category.new
+			category.slug = slug
+			
+			@fake_interview.categories << category
+		end
+		
                 @title = "What's that?"
                 erb :not_found
         end
@@ -110,6 +132,8 @@ class TheSetup < Sinatra::Base
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
                 @interviews = Interview.for_category_slug(slug, :summary => true)
+		halt 404 unless @interviews.length > 0
+		
                 @title = slug.capitalize if @interviews.count
                 
                 erb :category_index
@@ -117,7 +141,7 @@ class TheSetup < Sinatra::Base
         
         get '/interview/with/:slug/?' do |slug|
                 @interview = Interview.with_slug(slug)
-                raise Sinatra::NotFound unless @interview
+                halt 404 unless @interview
                 
                 @title = @interview.name
                 @heading = "Interview"
