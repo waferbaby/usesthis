@@ -25,7 +25,7 @@ border: solid 1px #aaa;
 aside {
 width: 130px;
 float: right;
-font-size: 65%;
+font-size: 60%;
 margin: 10px 0 0 20px;
 }
 
@@ -63,7 +63,7 @@ margin: 0;
 
 footer {
 margin: 20px 0 0 0;
-font-size: 95%;
+font-size: 85%;
 color: #999;
 border-top: solid 1px #eee;
 }
