@@ -25,8 +25,8 @@ border: solid 1px #aaa;
 aside {
 width: 130px;
 float: right;
-font-size: 80%;
-margin-left: 20px;
+font-size: 65%;
+margin: 10px 0 0 20px;
 }
 
 body {
@@ -46,7 +46,8 @@ margin: 0;
 
 div {
 width: 500px;
-margin: 50px auto;
+padding: 40px;
+margin: 0 auto;
 }
 
 dt {
@@ -181,21 +182,4 @@ ul {
 list-style: none inside;
 padding: 0;
 margin: 15px;
-}
-
-
-@media screen and (max-width: 1200px) {
-
-	div {
-	padding: 40px;
-	margin: 0;
-	}
-}
-
-@media screen and (max-device-width: 480px) {
-
-	div {
-	padding: 20px;
-	margin: 0;
-	}
 }
