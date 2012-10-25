@@ -78,7 +78,16 @@ class Interview < Resource
         end
 
         def self.counts()
-                Interview.query("SELECT year(date_publish) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
+                results = Interview.query("SELECT year(date_publish) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")		
+		counts = {'years' => {}, 'total' => 0}
+		
+		results.each do |row|
+			counts['years']["#{row['year']}"] = row['count']
+			counts['total'] += row['count']
+		end
+		
+		counts
+		
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews counts (#{e})")
         end
