@@ -1,19 +1,17 @@
 <h2>Interviews</h2>
+<p>There are currently <%= @counts['total'] %> interviews on the site.</p>
 
-<% if @counts %>
 <article class="dates">
 	<h3>By year</h3>
 	<ul id="years">
-	<% for row in @counts %>
+	<% for year, count in @counts['years'] %>
 		<li>
-			<a href="/interviews/in/<%= row['year'] %>" title="View all the interviews from <%= row['year'] %>."><%= row['year'] %></a> <span class="summary">(<%= row['count'] %> interview<% if row['count'] != 1 %>s<% end %>)</span>
+			<a href="/interviews/in/<%= year %>" title="View all the interviews from <%= year %>."><%= year %></a> <span class="summary">(<%= count %> interview<% if count != 1 %>s<% end %>)</span>
 		</li>
 	<% end %>
 	</ul>
 </article>
-<% end %>
 
-<% if @categories %>
 <article class="categories">
 	<h3>By category</h3>
 	<p>
@@ -22,4 +20,3 @@
 		<% end %>
 	</p>
 </article>
-<% end %>
