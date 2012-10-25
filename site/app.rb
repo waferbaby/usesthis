@@ -97,18 +97,11 @@ class TheSetup < Sinatra::Base
                 erb :feed, :layout => false
         end
         
-        get '/interviews/?' do
+	get %r{/interviews/?(in/?)?$} do
                 @title = "Interviews"
                 
                 @counts = Interview.counts
                 @categories = Category.all
-                
-                erb :interviews
-        end
-        
-        get '/interviews/in/?' do
-                @title = "Years"
-                @counts = Interview.counts
                 
                 erb :interviews
         end
