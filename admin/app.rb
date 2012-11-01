@@ -82,6 +82,9 @@ class TheSetupAdmin < Sinatra::Base
                         @interviews = [interview]
                         
                         content_type 'application/atom+xml;charset=utf-8'
+			status 201
+			headers "Location" => "http://#{interview.slug}.usesthis.com/"
+			
                         erb :interviews
 			
 		rescue Exception => e
