@@ -120,6 +120,8 @@ class TheSetupAdmin < Sinatra::Base
                                 'is_published'  => feed['is_published']
                         })
 			
+			200
+			
                 rescue Exception => e
                         halt 500, e.to_s
                 end
