@@ -19,7 +19,7 @@ class Interview < Resource
                 
                 interviews.each do |interview|
                         interview.categories = Category.for_interview(interview.id)
-                        interview.wares = Ware.for_interview(interview.id) unless options[:summary]
+                        interview.wares = Ware.for_interview(interview.id) if options[:with_wares]
                 end
                 
                 interviews
@@ -28,15 +28,15 @@ class Interview < Resource
         end
         
         def self.all(options = {})
-                options = {:summary => false}.merge!(options)
+                options = {:with_wares => false}.merge!(options)
                 self.fetch("SELECT * FROM interviews ORDER BY date_publish DESC", options)
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch all interviews (#{e})")
         end
         
         def self.recent(options = {})
-                options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, is_published, date_publish" : "*"
+                options = {:with_wares => false}.merge!(options)
+                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY date_publish DESC LIMIT 10", options)
 	rescue Exception => e
@@ -44,33 +44,28 @@ class Interview < Resource
         end
         
         def self.with_slug(slug, options = {})
-                slug = self.escape(slug)
-                result = self.fetch("SELECT * FROM interviews WHERE slug='#{slug}' LIMIT 1", options)
-                
+		options = {:with_wares => true}.merge!(options)
+                result = self.fetch("SELECT * FROM interviews WHERE slug='#{self.escape(slug)}' LIMIT 1", options)
                 result.length < 1 ? false : result[0]
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interview with slug '#{slug}' (#{e})")
         end
         
         def self.by_year(year, options = {})
-                year = self.escape(year)
+                options = {:with_wares => false}.merge!(options)
+                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish"
                 
-                options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "id, slug, name, summary, is_published, date_publish" : "*"
-                
-                self.fetch("SELECT * FROM interviews WHERE year(date_publish) = '#{year}' AND is_published=1 ORDER BY date_publish DESC", options)
+                self.fetch("SELECT #{fields} FROM interviews WHERE year(date_publish) = '#{self.escape(year)}' AND is_published=1 ORDER BY date_publish DESC", options)
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews from the year #{year} (#{e})")
         end
         
         def self.for_category_slug(slug, options = {})
-                slug = self.escape(slug)
+                options = {:with_wares => false}.merge!(options)
+                fields = options[:with_wares] ? "*" : "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish"
                 
-                options = {:summary => false}.merge!(options)
-                fields = options[:summary] ? "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish" : "i.*"
-                
-                query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{slug}' AND i.is_published=1 ORDER BY i.date_publish DESC"
-                query << " LIMIT #{options[:limit]}" if options[:limit]
+                query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{self.escape(slug)}' AND i.is_published=1 ORDER BY i.date_publish DESC"
+                query += " LIMIT #{options[:limit]}" if options[:limit]
                 
                 self.fetch(query, options)
 	rescue Exception => e
@@ -90,12 +85,6 @@ class Interview < Resource
 		
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews counts (#{e})")
-        end
-        
-        def self.years()
-                Interview.query("SELECT year(date_publish) AS year FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")
-	rescue Exception => e
-		raise InterviewException.new("Failed to fetch interview years (#{e})")
         end
         
         def save
