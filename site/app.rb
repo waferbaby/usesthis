@@ -72,7 +72,9 @@ class TheSetup < Sinatra::Base
         get '/' do
                 @title = "Hello"
                 
-                @interviews = Interview.recent
+                @interviews = Interview.recent		
+		last_modified @interviews[0].date_update
+		
                 erb :index
         end
 
@@ -92,8 +94,12 @@ class TheSetup < Sinatra::Base
                 
         get '/feed/?' do
                 content_type "application/atom+xml;charset=utf-8"
-                
+		
                 @interviews = Interview.recent(:with_wares => true)
+		
+		last_modified @interviews[0].date_update
+		etag @interviews[0].answers.to_sha1
+		
                 erb :feed, :layout => false
         end
         
@@ -118,7 +124,10 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.for_category_slug(slug, :with_wares => true, :limit => 10)
-                @title = slug.capitalize if @interviews.count
+                @title = slug.capitalize
+		
+		last_modified @interviews[0].date_update
+		etag @interviews[0].answers.to_sha1
                 
                 erb :feed, :layout => false
         end
@@ -138,6 +147,9 @@ class TheSetup < Sinatra::Base
                 
                 @title = @interview.name
                 @heading = "Interview"
+		
+		last_modified @interview.date_update
+		etag @interview.answers.to_sha1
 
                 erb :interview
         end
