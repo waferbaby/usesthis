@@ -72,7 +72,7 @@ class TheSetup < Sinatra::Base
         get '/' do
                 @title = "Hello"
                 
-                @interviews = Interview.recent(:summary => true)
+                @interviews = Interview.recent
                 erb :index
         end
 
@@ -93,7 +93,7 @@ class TheSetup < Sinatra::Base
         get '/feed/?' do
                 content_type "application/atom+xml;charset=utf-8"
                 
-                @interviews = Interview.recent
+                @interviews = Interview.recent(:with_wares => true)
                 erb :feed, :layout => false
         end
         
@@ -108,7 +108,7 @@ class TheSetup < Sinatra::Base
         
         get %r{/interviews/in/([\d]{4})/?$} do |year|
                 
-                @interviews = Interview.by_year(year, :summary => true)
+                @interviews = Interview.by_year(year)
                 @title = "In #{year}" if @interviews.count
                 
                 erb :year_index
@@ -117,14 +117,14 @@ class TheSetup < Sinatra::Base
         get %r{/interviews/([a-z]+)/feed/?$} do |slug|
                 content_type "application/atom+xml;charset=utf-8"
                 
-                @interviews = Interview.for_category_slug(slug, :limit => 10)
+                @interviews = Interview.for_category_slug(slug, :with_wares => true, :limit => 10)
                 @title = slug.capitalize if @interviews.count
                 
                 erb :feed, :layout => false
         end
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
-                @interviews = Interview.for_category_slug(slug, :summary => true)
+                @interviews = Interview.for_category_slug(slug)
 		halt 404 unless @interviews.length > 0
 		
                 @title = slug.capitalize if @interviews.count
@@ -140,15 +140,5 @@ class TheSetup < Sinatra::Base
                 @heading = "Interview"
 
                 erb :interview
-        end
-
-        get '/sitemap/?' do
-                @interviews = Interview.all
-                @counts = Interview.years
-                @categories = Category.all
-                
-                content_type "application/xml;charset=utf-8"
-                
-                erb :sitemap, :layout => false
         end
 end
