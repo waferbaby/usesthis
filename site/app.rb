@@ -121,7 +121,7 @@ class TheSetup < Sinatra::Base
                 halt 404 unless @interviews.length > 0
 		
 		@title = "In #{year}"
-		last_modified @interview[0].date_update
+		last_modified @interviews[0].date_update
 		
                 erb :year_index
         end
