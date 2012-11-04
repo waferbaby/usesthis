@@ -9,15 +9,9 @@ class Resource
         def self.fetch(query, options = {})
                 items = []
                 
-                puts query if options[:debug]
-                
                 Resource.database.query(query).each do |row|
-                        item = self.new
-                        
-                        row.each do |key, value|
-                                item.send("#{key}=", value) if item.respond_to?("#{key}=")
-                        end
-                        
+                        item = self.new                        
+                        row.each {|key, value| item.send("#{key}=", value) if item.respond_to?("#{key}=") }
                         items << item
                 end  
                 
@@ -25,8 +19,7 @@ class Resource
         end
         
         def self.query(query)
-                result = Resource.database.query(query)
-                !result.nil? && result.count < 1 ? [] : result.to_a
+                Resource.database.query(query)
         end
 	
 	def self.last_insert_id
