@@ -29,14 +29,16 @@ class Interview < Resource
         
         def self.all(options = {})
                 options = {:with_wares => false}.merge!(options)
-                self.fetch("SELECT * FROM interviews ORDER BY date_publish DESC", options)
+		fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
+		
+                self.fetch("SELECT #{fields} FROM interviews ORDER BY date_publish DESC", options)
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch all interviews (#{e})")
         end
         
         def self.recent(options = {})
                 options = {:with_wares => false}.merge!(options)
-                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish"
+                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY date_publish DESC LIMIT 10", options)
 	rescue Exception => e
@@ -53,7 +55,7 @@ class Interview < Resource
         
         def self.by_year(year, options = {})
                 options = {:with_wares => false}.merge!(options)
-                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish"
+                fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE year(date_publish) = '#{self.escape(year)}' AND is_published=1 ORDER BY date_publish DESC", options)
 	rescue Exception => e
@@ -62,7 +64,7 @@ class Interview < Resource
         
         def self.for_category_slug(slug, options = {})
                 options = {:with_wares => false}.merge!(options)
-                fields = options[:with_wares] ? "*" : "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish"
+                fields = options[:with_wares] ? "*" : "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish, i.date_create, i.date_update"
                 
                 query = "SELECT #{fields} FROM interviews AS i, interview_categories AS ic, categories AS c WHERE ic.interview_id=i.id AND ic.category_id=c.id AND c.slug = '#{self.escape(slug)}' AND i.is_published=1 ORDER BY i.date_publish DESC"
                 query += " LIMIT #{options[:limit]}" if options[:limit]
