@@ -72,7 +72,9 @@ class TheSetup < Sinatra::Base
         get '/' do
                 @title = "Hello"
                 
-                @interviews = Interview.recent		
+                @interviews = Interview.recent
+		halt 404 unless @interviews.length > 0
+			
 		last_modified @interviews[0].date_update
 		
                 erb :index
@@ -96,6 +98,7 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
 		
                 @interviews = Interview.recent(:with_wares => true)
+		halt 404 unless @interviews.length > 0
 		
 		last_modified @interviews[0].date_update
 		etag @interviews[0].answers.to_sha1
@@ -115,8 +118,11 @@ class TheSetup < Sinatra::Base
         get %r{/interviews/in/([\d]{4})/?$} do |year|
                 
                 @interviews = Interview.by_year(year)
-                @title = "In #{year}" if @interviews.count
-                
+                halt 404 unless @interviews.length > 0
+		
+		@title = "In #{year}"
+		last_modified @interview[0].date_update
+		
                 erb :year_index
         end
 
@@ -124,11 +130,11 @@ class TheSetup < Sinatra::Base
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.for_category_slug(slug, :with_wares => true, :limit => 10)
-                @title = slug.capitalize
+		halt 404 unless @interviews.length > 0
 		
 		last_modified @interviews[0].date_update
 		etag @interviews[0].answers.to_sha1
-                
+		
                 erb :feed, :layout => false
         end
         
@@ -136,7 +142,8 @@ class TheSetup < Sinatra::Base
                 @interviews = Interview.for_category_slug(slug)
 		halt 404 unless @interviews.length > 0
 		
-                @title = slug.capitalize if @interviews.count
+		@title = slug.capitalize
+		last_modified @interviews[0].date_update
                 
                 erb :category_index
         end
