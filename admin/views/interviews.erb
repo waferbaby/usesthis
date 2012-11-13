@@ -13,7 +13,7 @@
 		<updated><%= (interview.date_publish ? interview.date_publish : interview.date_create).strftime('%FT%TZ') %></updated>
 		<% for category in interview.categories %><category term="<%= category.slug %>" /><% end %>
 		<summary><%= interview.summary %></summary>
-		<content type="text"><%= CGI.escapeHTML(interview.answers) %></content>
+		<% if interview.answers %><content type="text"><%= CGI.escapeHTML(interview.answers) %></content><% end %>
 	</entry>
 	<% end %>
 </feed>
