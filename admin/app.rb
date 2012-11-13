@@ -55,7 +55,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/interviews/?' do
-                @interviews = Interview.all
+                @interviews = Interview.recent(:with_wares => true)
                 
                 content_type 'application/atom+xml;charset=utf-8'
                 erb :interviews
@@ -95,7 +95,7 @@ class TheSetupAdmin < Sinatra::Base
         get '/interviews/:slug/?' do |slug|
 		begin
 	                @interviews = [Interview.with_slug(slug)]
-                
+			
 	                content_type 'application/atom+xml;charset=utf-8'
 	                erb :interviews
 			
