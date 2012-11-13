@@ -137,7 +137,7 @@ class Interview < Resource
                 query = "UPDATE interviews SET "
                 query += params.map {|key, value| "#{key}='#{Interview.escape(value)}'" }.join(", ")
                 query += " WHERE id=#{@id}"
-                
+		
                 Interview.query(query)
                         
                 params.each_pair { |key, value| self.send("#{key}=", value) }
@@ -161,23 +161,21 @@ class Interview < Resource
 	end
 	
         def link_wares
-		if @wares.length > 0
-	                Interview.query("DELETE FROM interview_wares WHERE interview_id='#{@id}'")
+                Interview.query("DELETE FROM interview_wares WHERE interview_id='#{@id}'")
                 
-	                @wares = []
+                @wares = []
                 
-	                @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
-	                	slug = (link[1] ? link[1] : link[0].downcase)
+                @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
+                	slug = (link[1] ? link[1] : link[0].downcase)
                         
-	                        unless slug.nil?
-	                                ware = Ware.with_slug(slug)
+                        unless slug.nil?
+                                ware = Ware.with_slug(slug)
 
-	                                unless ware.nil?
-	                                        Interview.query("INSERT INTO interview_wares (interview_id, ware_id) VALUES ('#{@id}', '#{ware.id}')")
-	                                        @wares << ware
-	                                end
-	                        end
-			end
+                                unless ware.nil?
+                                        Interview.query("INSERT INTO interview_wares (interview_id, ware_id) VALUES ('#{@id}', '#{ware.id}')")
+                                        @wares << ware
+                                end
+                        end
 		end
 	rescue Exception => e
 		raise InterviewException.new("Failed to link wares for interview #{@id} (#{e})")
