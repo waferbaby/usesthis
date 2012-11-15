@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:app="http://www.w3.org/2007/app">
 	<id>usesthis.admin.interviews</id>
 	<updated><%= (@interviews[0].date_publish ? @interviews[0].date_publish : @interviews[0].date_create).strftime('%FT%TZ') %></updated>
 	<author><name>Daniel Bogan</name></author>
@@ -14,6 +14,9 @@
 		<% for category in interview.categories %><category term="<%= category.slug %>" /><% end %>
 		<summary><%= interview.summary %></summary>
 		<% if interview.answers %><content type="text"><%= CGI.escapeHTML(interview.answers) %></content><% end %>
+		<app:control>
+			<app:draft><%= interview.is_published == 1 ? 'no' : 'yes' %></app:draft>
+		</app:control>
 	</entry>
 	<% end %>
 </feed>
