@@ -31,7 +31,10 @@ class Interview < Resource
                 options = {:with_wares => false}.merge!(options)
 		fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
 		
-                self.fetch("SELECT #{fields} FROM interviews ORDER BY date_publish DESC", options)
+		query = "SELECT #{fields} FROM interviews ORDER BY date_publish DESC"
+		query += " LIMIT #{options[:limit]}" if options[:limit]
+		
+                self.fetch(query, options)
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch all interviews (#{e})")
         end
@@ -48,7 +51,7 @@ class Interview < Resource
         def self.with_slug(slug, options = {})
 		options = {:with_wares => true}.merge!(options)
                 result = self.fetch("SELECT * FROM interviews WHERE slug='#{self.escape(slug)}' LIMIT 1", options)
-                result.length < 1 ? false : result[0]
+                result.length < 1 ? nil : result[0]
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interview with slug '#{slug}' (#{e})")
         end
@@ -165,12 +168,12 @@ class Interview < Resource
                 
                 @wares = []
                 
-                @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
+                @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|			
                 	slug = (link[1] ? link[1] : link[0].downcase)
                         
                         unless slug.nil?
                                 ware = Ware.with_slug(slug)
-
+				
                                 unless ware.nil?
                                         Interview.query("INSERT INTO interview_wares (interview_id, ware_id) VALUES ('#{@id}', '#{ware.id}')")
                                         @wares << ware
