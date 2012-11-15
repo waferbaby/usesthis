@@ -1,0 +1,5 @@
+:database:
+ :host: localhost
+ :username: user_name
+ :password: my-secret-awesome-password
+ :database: db_name
