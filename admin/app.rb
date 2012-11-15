@@ -55,7 +55,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/interviews/?' do
-                @interviews = Interview.recent(:with_wares => true)
+                @interviews = Interview.all(:with_wares => true, :limit => 20)
                 
                 content_type 'application/atom+xml;charset=utf-8'
                 erb :interviews
