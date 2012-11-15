@@ -11,7 +11,7 @@ class TheSetup < Sinatra::Base
         
         configure do
                 begin
-                        config = YAML::load_file('../config/database.yml')                        
+                        config = YAML::load_file('config/database.yml')                        
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                         set :markdown, :auto_ids => false
