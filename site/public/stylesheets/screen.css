@@ -40,8 +40,9 @@ color: #000;
 }
 
 dd {
-padding: 10px;
+padding: 10px 20px;
 margin: 0;
+font-size: 95%;
 }
 
 div {
