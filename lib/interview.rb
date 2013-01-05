@@ -135,12 +135,15 @@ class Interview < Resource
 		now = Time.now
 		
                 params['date_update'] = now.strftime('%Y-%m-%d %H:%M:%S')
-		params['date_publish'] = now.strftime('%Y-%m-%d') if params['is_published']
+
+                unless self.date_publish
+			params['date_publish'] = now.strftime('%Y-%m-%d') if params['is_published']
+                end
 		
                 query = "UPDATE interviews SET "
                 query += params.map {|key, value| "#{key}='#{Interview.escape(value)}'" }.join(", ")
                 query += " WHERE id=#{@id}"
-		
+
                 Interview.query(query)
                         
                 params.each_pair { |key, value| self.send("#{key}=", value) }
