@@ -8,6 +8,7 @@ class Link < Resource
         PERSONAL = 2
         
         attr_accessor :id, :type, :name, :url, :description
+        @table_name = 'links'
         
         def self.all
                 self.fetch("SELECT * from links ORDER BY name")
