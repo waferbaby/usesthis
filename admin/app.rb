@@ -11,8 +11,9 @@ require '../lib/link'
 class TheSetupAdmin < Sinatra::Base
         
         configure do
+
                 begin
-                        config = YAML::load_file('config/database.yml')                        
+                        config = YAML::load_file('config/database.yml')
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                         set :markdown, :auto_ids => false
@@ -25,7 +26,9 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         helpers do
+
                 def parse_feed(xml)
+
                         feed = XmlSimple.xml_in(xml, {
                                 'KeyAttr' => 'term',
                                 'ForceArray' => false,
@@ -48,6 +51,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/' do
+
                 @categories = Category.all
                 
                 content_type 'application/atomserv+xml;charset=utf-8'
@@ -55,6 +59,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/interviews/?' do
+
                 @interviews = Interview.all(:with_wares => true, :limit => 20)
                 
                 content_type 'application/atom+xml;charset=utf-8'
@@ -62,6 +67,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         post '/interviews/?' do
+
                 begin
                         feed = parse_feed(request.body.read)
                 
@@ -93,6 +99,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         get '/interviews/:slug/?' do |slug|
+
 		begin
 	                @interviews = [Interview.with_slug(slug)]
 			
@@ -105,6 +112,7 @@ class TheSetupAdmin < Sinatra::Base
         end
         
         put '/interviews/:slug/?' do |slug|
+
                 begin
                         @interview = Interview.with_slug(slug)
                         feed = parse_feed(request.body.read)
@@ -128,15 +136,5 @@ class TheSetupAdmin < Sinatra::Base
                 rescue Exception => e
                         halt 500, e.to_s
                 end
-        end
-        
-        get '/links/?' do
-                content_type 'application/atom+xml;charset=utf-8'
-                erb :links
-        end
-        
-        get '/wares/?' do
-                content_type 'application/atom+xml;charset=utf-8'
-                erb :wares
-        end
+        end        
 end
