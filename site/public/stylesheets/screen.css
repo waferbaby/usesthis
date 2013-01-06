@@ -180,7 +180,7 @@ color: #777;
 }
 
 ul {
-list-style: none inside;
+list-style-position: inside;
 padding: 0;
-margin: 15px;
+margin: 15px 30px;
 }
