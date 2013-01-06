@@ -10,8 +10,9 @@ require '../lib/link'
 class TheSetup < Sinatra::Base
         
         configure do
+
                 begin
-                        config = YAML::load_file('config/database.yml')                        
+                        config = YAML::load_file('config/database.yml')
                         Resource.database = Mysql2::Client.new(config[:database])
                         
                         set :markdown, :auto_ids => false
@@ -32,6 +33,7 @@ class TheSetup < Sinatra::Base
         end
 	
 	before do
+
 		@location = case request.path
 			when /^\/$/
 				'home'
@@ -47,6 +49,7 @@ class TheSetup < Sinatra::Base
 	end
         
         not_found do
+
                 @fake_interview = Interview.new
 
                 @fake_interview.name = "Four O'Four"
@@ -65,11 +68,13 @@ class TheSetup < Sinatra::Base
         end
         
         error do
+
                 @title = "Uh oh"
                 erb :error
         end
         
         get '/' do
+
                 @title = "Hello"
                 
                 @interviews = Interview.recent
@@ -81,11 +86,13 @@ class TheSetup < Sinatra::Base
         end
 
         get '/about/?' do
+
                 @title = "About"             
                 erb :about
         end
 
         get '/community/?' do
+
                 @title = "Community"
                 
                 @inspired_links = Link.inspired_by
@@ -95,6 +102,7 @@ class TheSetup < Sinatra::Base
         end
                 
         get '/feed/?' do
+
                 content_type "application/atom+xml;charset=utf-8"
 		
                 @interviews = Interview.recent(:with_wares => true)
@@ -107,6 +115,7 @@ class TheSetup < Sinatra::Base
         end
         
 	get %r{/interviews/?(in/?)?$} do
+
                 @title = "Interviews"
                 
                 @counts = Interview.counts
@@ -127,6 +136,7 @@ class TheSetup < Sinatra::Base
         end
 
         get %r{/interviews/([a-z]+)/feed/?$} do |slug|
+
                 content_type "application/atom+xml;charset=utf-8"
                 
                 @interviews = Interview.for_category_slug(slug, :with_wares => true, :limit => 10)
@@ -139,6 +149,7 @@ class TheSetup < Sinatra::Base
         end
         
         get %r{/interviews/([a-z]+)/?$} do |slug|
+
                 @interviews = Interview.for_category_slug(slug)
 		halt 404 unless @interviews.length > 0
 		
@@ -149,6 +160,7 @@ class TheSetup < Sinatra::Base
         end
         
         get '/interview/with/:slug/?' do |slug|
+
                 @interview = Interview.with_slug(slug)
                 halt 404 unless @interview
                 
