@@ -6,15 +6,11 @@ require 'ware'
 
 class Interview < Resource
         
-        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :is_published, :date_publish, :date_create, :date_update
-        attr_accessor :categories, :wares
-        
-        def initialize()
-                @categories = []
-		@wares = []
-        end
-        
+        attr_accessor :id, :slug, :name, :summary, :credit_name, :credit_url, :answers, :is_published, :date_publish, :date_create, :date_update, :categories, :wares
+        @table_name = 'interviews'
+
         def self.fetch(query, options = {})
+        
                 interviews = super(query, options)
                 
                 interviews.each do |interview|
@@ -23,11 +19,13 @@ class Interview < Resource
                 end
                 
                 interviews
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews for query '#{query}' (#{e})")
         end
         
         def self.all(options = {})
+        
                 options = {:with_wares => false}.merge!(options)
 		fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
 		
@@ -35,37 +33,45 @@ class Interview < Resource
 		query += " LIMIT #{options[:limit]}" if options[:limit]
 		
                 self.fetch(query, options)
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch all interviews (#{e})")
         end
         
         def self.recent(options = {})
+        
                 options = {:with_wares => false}.merge!(options)
                 fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE is_published=1 ORDER BY date_publish DESC LIMIT 10", options)
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch recent interviews (#{e})")
         end
         
         def self.with_slug(slug, options = {})
-		options = {:with_wares => true}.merge!(options)
+	
+        	options = {:with_wares => true}.merge!(options)
                 result = self.fetch("SELECT * FROM interviews WHERE slug='#{self.escape(slug)}' LIMIT 1", options)
                 result.length < 1 ? nil : result[0]
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch interview with slug '#{slug}' (#{e})")
         end
         
         def self.by_year(year, options = {})
+                
                 options = {:with_wares => false}.merge!(options)
                 fields = options[:with_wares] ? "*" : "id, slug, name, summary, is_published, date_publish, date_create, date_update"
                 
                 self.fetch("SELECT #{fields} FROM interviews WHERE year(date_publish) = '#{self.escape(year)}' AND is_published=1 ORDER BY date_publish DESC", options)
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews from the year #{year} (#{e})")
         end
         
         def self.for_category_slug(slug, options = {})
+                
                 options = {:with_wares => false}.merge!(options)
                 fields = options[:with_wares] ? "*" : "i.id, i.slug, i.name, i.summary, i.is_published, i.date_publish, i.date_create, i.date_update"
                 
@@ -73,11 +79,13 @@ class Interview < Resource
                 query += " LIMIT #{options[:limit]}" if options[:limit]
                 
                 self.fetch(query, options)
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews for the category '#{slug}' (#{e})")
         end
 
-        def self.counts()
+        def self.counts
+                
                 results = Interview.query("SELECT year(date_publish) AS year, count(*) AS count FROM interviews WHERE is_published=1 GROUP BY year ORDER BY year DESC")		
 		counts = {'years' => {}, 'total' => 0}
 		
@@ -91,9 +99,15 @@ class Interview < Resource
 	rescue Exception => e
 		raise InterviewException.new("Failed to fetch interviews counts (#{e})")
         end
+
+        def initialize
+                @categories = []
+                @wares = []
+        end
         
         def save
-		now = Time.now
+		
+                now = Time.now
 		time = now.strftime('%Y-%m-%d %H:%M:%S')
 		
                 params = {
@@ -108,18 +122,7 @@ class Interview < Resource
 			'date_update'	=> time,
                 }
 		
-		keys = params.keys
-		values = params.values
-                
-                query = "INSERT INTO interviews ("
-		query += keys.join(',')
-		query += ") VALUES ("
-		query += values.map {|value| "'#{Interview.escape(value)}'"}.join(", ")
-		query += ")"
-		
-		Interview.query(query)
-		
-		@id = Interview.last_insert_id
+		@id = Interview.insert(params)
 		
 		@date_create = now
 		@date_update = now
@@ -127,11 +130,13 @@ class Interview < Resource
 
 		self.link_categories
 		self.link_wares
+
 	rescue Exception => e
 		raise InterviewException.new(e.to_s =~ /Duplicate entry/ ? "An interview with this slug already exists" : "Failed to save new interview (#{e})")
         end
         
         def update(params)
+
 		now = Time.now
 		
                 params['date_update'] = now.strftime('%Y-%m-%d %H:%M:%S')
@@ -140,33 +145,33 @@ class Interview < Resource
 			params['date_publish'] = now.strftime('%Y-%m-%d') if params['is_published']
                 end
 		
-                query = "UPDATE interviews SET "
-                query += params.map {|key, value| "#{key}='#{Interview.escape(value)}'" }.join(", ")
-                query += " WHERE id=#{@id}"
-
-                Interview.query(query)
+                Interview.update(@id, params)
                         
                 params.each_pair { |key, value| self.send("#{key}=", value) }
 		
 		self.link_categories
                 self.link_wares
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to update interview #{@id} (#{e})")
         end
         
 	def link_categories
-		if @categories.length > 0
+	
+        	if @categories.length > 0
 			Interview.query("DELETE FROM interview_categories WHERE interview_id='#{@id}'")
 		
 			@categories.each do |category|
 				Interview.query("INSERT INTO interview_categories (interview_id, category_id) VALUES ('#{@id}', '#{category.id}')")
 			end
 		end
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to link categories for interview #{@id} (#{e})")
 	end
 	
         def link_wares
+        
                 Interview.query("DELETE FROM interview_wares WHERE interview_id='#{@id}'")
                 
                 @wares = []
@@ -183,11 +188,13 @@ class Interview < Resource
                                 end
                         end
 		end
-	rescue Exception => e
+	
+        rescue Exception => e
 		raise InterviewException.new("Failed to link wares for interview #{@id} (#{e})")
         end
         
         def to_markdown
+        
                 markdown = @answers
                 
                 if @wares.length > 0
