@@ -20,7 +20,7 @@ class TheSetupAdmin < Sinatra::Base
                         set :markdown, :entity_output => :numeric
                         
                 rescue Exception => e
-                        puts "Failed to configure database via config - I'ma quit now."
+                        puts "Failed to configure database via config - I'ma quit now (#{e}."
                         exit
                 end
         end
