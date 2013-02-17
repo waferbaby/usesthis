@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: interviews/:title.html
-exclude: [hardware, software, README.md]
+exclude: [wares, README.md]
 
 kramdown:
   auto_ids: false
