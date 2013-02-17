@@ -1,0 +1,5 @@
+---
+name: "Mongrel"
+description: "A Ruby-based web server."
+type: software
+url: https://github.com/fauna/mongrel

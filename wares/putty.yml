@@ -1,0 +1,5 @@
+---
+name: "PuTTY"
+description: "A free Telnet/SSH client for Windows."
+type: software
+url: http://www.chiark.greenend.org.uk/~sgtatham/putty/

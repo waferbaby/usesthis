@@ -1,0 +1,5 @@
+---
+name: "Fitbit"
+description: "A personal fitness tracking device."
+type: hardware
+url: http://www.fitbit.com/

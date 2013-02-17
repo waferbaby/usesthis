@@ -1,0 +1,5 @@
+---
+name: "epresent"
+description: "A presentation system for Emacs."
+type: software
+url: https://github.com/technomancy/epresent

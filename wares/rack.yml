@@ -1,0 +1,5 @@
+---
+name: "Rack"
+description: "A Ruby framework interface."
+type: software
+url: http://rack.rubyforge.org/

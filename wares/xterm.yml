@@ -1,0 +1,5 @@
+---
+name: "xterm"
+description: "Terminal software for the X Window System."
+type: software
+url: http://en.wikipedia.org/wiki/Xterm

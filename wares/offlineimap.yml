@@ -1,0 +1,5 @@
+---
+name: "OfflineImap"
+description: "A tool for syncing mail from an IMAP server."
+type: software
+url: http://offlineimap.org/

@@ -1,0 +1,5 @@
+---
+name: "IDLE"
+description: "A Python IDE written in Python."
+type: software
+url: http://docs.python.org/2/library/idle.html

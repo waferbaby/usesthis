@@ -1,0 +1,5 @@
+---
+name: "yst"
+description: "A static site generator."
+type: software
+url: https://github.com/jgm/yst

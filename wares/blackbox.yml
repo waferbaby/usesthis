@@ -1,0 +1,5 @@
+---
+name: "Blackbox"
+description: "A lightweight window manager for X."
+type: software
+url: http://blackboxwm.sourceforge.net/

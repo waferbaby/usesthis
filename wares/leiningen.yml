@@ -1,0 +1,5 @@
+---
+name: "leiningen"
+description: "A tool for helping to automate Clojure projects."
+type: software
+url: https://github.com/technomancy/leiningen

@@ -1,0 +1,5 @@
+---
+name: "ERC"
+description: "An IRC client for Emacs."
+type: software
+url: http://www.emacswiki.org/emacs/ERC

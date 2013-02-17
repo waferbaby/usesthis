@@ -1,0 +1,5 @@
+---
+name: "xbindkeys"
+description: "A keyboard/mouse launcher tool for X11."
+type: software
+url: http://www.nongnu.org/xbindkeys/xbindkeys.html

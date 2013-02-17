@@ -1,0 +1,5 @@
+---
+name: "CoffeeScript"
+description: "A language that compiles into Javascript."
+type: software
+url: http://jashkenas.github.com/coffee-script/

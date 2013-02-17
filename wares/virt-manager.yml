@@ -1,0 +1,5 @@
+---
+name: "Virtual Machine Manager"
+description: "Software for managing virtual machines."
+type: software
+url: http://virt-manager.org/

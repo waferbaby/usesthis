@@ -1,0 +1,5 @@
+---
+name: "Blobstore"
+description: "An API for uploading and controlling large objects to Google App Engine."
+type: software
+url: https://developers.google.com/appengine/docs/java/blobstore/

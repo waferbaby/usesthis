@@ -1,0 +1,5 @@
+---
+name: "The Wayback Machine"
+description: "A service for pulling up archived copies of websites."
+type: software
+url: http://www.archive.org/web/web.php

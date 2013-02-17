@@ -1,0 +1,5 @@
+---
+name: "Gitit"
+description: "A wiki system backed by Git, darcs or Mecurial."
+type: software
+url: http://gitit.net/

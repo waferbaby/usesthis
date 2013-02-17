@@ -1,0 +1,5 @@
+---
+name: "Kumofs"
+description: "A distributed key/value storage system."
+type: software
+url: http://kumofs.sourceforge.net

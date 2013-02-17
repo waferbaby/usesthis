@@ -1,0 +1,5 @@
+---
+name: "c-ares"
+description: "A DNS library."
+type: software
+url: http://c-ares.haxx.se/

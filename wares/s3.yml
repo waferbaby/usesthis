@@ -1,0 +1,5 @@
+---
+name: "S3"
+description: "Cloud-based Internet storage magic."
+type: software
+url: http://aws.amazon.com/s3/

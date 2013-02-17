@@ -1,0 +1,5 @@
+---
+name: "Magma PCI"
+description: "An expansion system for adding new PCI/PCI-X cards."
+type: hardware
+url: http://www.magma.com/pciexpansion.asp

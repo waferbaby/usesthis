@@ -1,0 +1,5 @@
+---
+name: "OpenVZ"
+description: "Virtualisation software for *nix."
+type: software
+url: http://wiki.openvz.org/Main_Page

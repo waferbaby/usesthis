@@ -1,0 +1,5 @@
+---
+name: "IDA Pro"
+description: "A multi-processor disassembler/debugger for Windows/Linux."
+type: software
+url: http://www.hex-rays.com/idapro/

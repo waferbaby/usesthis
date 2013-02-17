@@ -1,0 +1,5 @@
+---
+name: "git-bzr-ng"
+description: "Git and Bazaar bridging software."
+type: software
+url: http://github.com/termie/git-bzr-ng

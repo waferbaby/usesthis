@@ -1,0 +1,5 @@
+---
+name: "Ledger"
+description: "A command-line accounting system."
+type: software
+url: http://ledger-cli.org/

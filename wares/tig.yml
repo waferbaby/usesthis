@@ -1,0 +1,5 @@
+---
+name: "Tig"
+description: "A text-mode interface for git."
+type: software
+url: http://jonas.nitro.dk/tig/

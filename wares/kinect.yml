@@ -1,0 +1,5 @@
+---
+name: "Kinect"
+description: "An adapter for the Xbox that uses your body as a controller."
+type: hardware
+url: http://www.xbox.com/en-US/kinect

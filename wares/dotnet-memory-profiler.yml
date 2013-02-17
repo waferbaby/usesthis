@@ -1,0 +1,5 @@
+---
+name: ".NET Memory Profiler"
+description: "A program for finding memory leaks in .NET programs."
+type: software
+url: http://memprofiler.com/

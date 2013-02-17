@@ -1,0 +1,5 @@
+---
+name: "WebScarab"
+description: "A Java-based HTTP/HTTPS analyser."
+type: software
+url: http://www.owasp.org/index.php/Category:OWASP_WebScarab_Project

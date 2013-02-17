@@ -1,0 +1,5 @@
+---
+name: "Magit"
+description: "A git mode for Emacs."
+type: software
+url: http://philjackson.github.com/magit/

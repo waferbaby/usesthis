@@ -1,0 +1,5 @@
+---
+name: "Debian"
+description: "A Linux distribution."
+type: software
+url: http://www.debian.org/

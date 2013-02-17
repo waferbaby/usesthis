@@ -1,0 +1,5 @@
+---
+name: "Taskwarrior"
+description: "A command-line to do manager."
+type: software
+url: http://taskwarrior.org/projects/show/taskwarrior

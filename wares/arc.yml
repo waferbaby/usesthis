@@ -1,0 +1,5 @@
+---
+name: "arc"
+description: "An audio device with two knobs."
+type: hardware
+url: http://monome.org/articles/2011/01/21/arc-details/

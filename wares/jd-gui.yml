@@ -1,0 +1,5 @@
+---
+name: "JD-GUI"
+description: "A developer tool for viewing the source code of Java .class files."
+type: software
+url: http://java.decompiler.free.fr/?q=jdgui

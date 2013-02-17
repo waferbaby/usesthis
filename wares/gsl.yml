@@ -1,0 +1,5 @@
+---
+name: "GSL"
+description: "A C/C++ numerical library."
+type: software
+url: http://www.gnu.org/software/gsl/

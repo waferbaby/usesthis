@@ -1,0 +1,5 @@
+---
+name: "Sphinx"
+description: "Documentation system software."
+type: software
+url: http://sphinx.pocoo.org/

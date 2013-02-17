@@ -1,0 +1,5 @@
+---
+name: "GNU screen"
+description: "Think of it as tabs for your *nix terminal."
+type: software
+url: http://www.gnu.org/software/screen/

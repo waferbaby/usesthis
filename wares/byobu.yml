@@ -1,0 +1,5 @@
+---
+name: "Byobu"
+description: "A wrapper tool for screen or tmux."
+type: software
+url: https://launchpad.net/byobu

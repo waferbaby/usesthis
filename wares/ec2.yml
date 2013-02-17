@@ -1,0 +1,5 @@
+---
+name: "EC2"
+description: "A web service for virtualised processing."
+type: software
+url: http://aws.amazon.com/ec2/

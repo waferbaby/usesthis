@@ -1,0 +1,5 @@
+---
+name: "EveryBlock"
+description: "A service for getting hyperlocal news."
+type: software
+url: http://www.everyblock.com/

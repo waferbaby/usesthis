@@ -1,0 +1,5 @@
+---
+name: "fun"
+description: "A collection of fun R games."
+type: software
+url: http://cran.r-project.org/web/packages/fun/

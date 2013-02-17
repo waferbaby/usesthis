@@ -1,0 +1,5 @@
+---
+name: "xargs"
+description: "A command-line tool to execute commands from standard input."
+type: software
+url: http://en.wikipedia.org/wiki/Xargs

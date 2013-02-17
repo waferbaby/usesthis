@@ -1,0 +1,5 @@
+---
+name: "etckeeper"
+description: "A tool for managing /etc with git."
+type: software
+url: http://joeyh.name/code/etckeeper/

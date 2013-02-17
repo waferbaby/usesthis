@@ -1,0 +1,5 @@
+---
+name: "VisualVM"
+description: "A Java development troubleshooting tool."
+type: software
+url: http://visualvm.java.net/

@@ -1,0 +1,5 @@
+---
+name: "OpenBSD"
+description: "An open-source operating system emphasising security and cryptography."
+type: software
+url: http://www.openbsd.org/

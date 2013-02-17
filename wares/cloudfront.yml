@@ -1,0 +1,5 @@
+---
+name: "CloudFront"
+description: "A content delivery service."
+type: software
+url: http://aws.amazon.com/cloudfront/

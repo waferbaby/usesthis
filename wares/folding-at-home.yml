@@ -1,0 +1,5 @@
+---
+name: "Folding@home"
+description: "A distributed computing project for understanding protein folding."
+type: software
+url: http://folding.stanford.edu/

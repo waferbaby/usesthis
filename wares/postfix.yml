@@ -1,0 +1,5 @@
+---
+name: "Postfix"
+description: "Mail server software."
+type: software
+url: http://www.postfix.org/

@@ -1,0 +1,5 @@
+---
+name: "nginx"
+description: "A very fast web/mail server."
+type: software
+url: http://nginx.org/

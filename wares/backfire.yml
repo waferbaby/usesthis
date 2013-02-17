@@ -1,0 +1,5 @@
+---
+name: "Backfire"
+description: "Saves CSS changes you make in Firebug back to the server."
+type: software
+url: http://code.google.com/p/backfire/

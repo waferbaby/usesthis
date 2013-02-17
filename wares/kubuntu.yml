@@ -1,0 +1,5 @@
+---
+name: "Kubuntu"
+description: "A version of Ubuntu that uses KDE instead of GNOME."
+type: software
+url: http://www.kubuntu.org/

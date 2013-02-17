@@ -1,0 +1,5 @@
+---
+name: "Linode"
+description: "A VPS hosting service."
+type: software
+url: http://linode.com/

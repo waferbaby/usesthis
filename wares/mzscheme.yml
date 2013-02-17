@@ -1,0 +1,5 @@
+---
+name: "MzScheme"
+description: "The core virtual machine for the PLT Scheme language."
+type: software
+url: http://plt-scheme.org/software/mzscheme/

@@ -1,0 +1,5 @@
+---
+name: "phpMyAdmin"
+description: "A web-based GUI for MySQL databases."
+type: software
+url: http://www.phpmyadmin.net/

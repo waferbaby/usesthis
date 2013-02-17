@@ -1,0 +1,5 @@
+---
+name: "rake"
+description: "A Ruby-based build tool, similar to make."
+type: software
+url: http://rake.rubyforge.org/

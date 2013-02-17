@@ -1,0 +1,5 @@
+---
+name: "Middleclick"
+description: "A software hack to make a triple taps register as a middle click on Macbooks."
+type: software
+url: http://clement.beffa.org/labs/projects/middleclick/

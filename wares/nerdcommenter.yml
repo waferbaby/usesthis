@@ -1,0 +1,5 @@
+---
+name: "NERD_commenter"
+description: "A code commenting plugin for vim."
+type: software
+url: https://github.com/scrooloose/nerdcommenter

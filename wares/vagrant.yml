@@ -1,0 +1,5 @@
+---
+name: "Vagrant"
+description: "Software for building and installing virtual dev environments."
+type: software
+url: http://vagrantup.com/

@@ -1,0 +1,5 @@
+---
+name: "Native Client"
+description: "A developer tool for running native OS code in a browser."
+type: software
+url: https://developers.google.com/native-client/

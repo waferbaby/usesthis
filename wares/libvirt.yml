@@ -1,0 +1,5 @@
+---
+name: "libvirt"
+description: "A library for interacting with various OS' virtualisation capabilities."
+type: software
+url: http://libvirt.org/

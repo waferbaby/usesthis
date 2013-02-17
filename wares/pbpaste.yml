@@ -1,0 +1,5 @@
+---
+name: "pbpaste"
+description: "An OS X command-line tool for pasting something from the Clipboard."
+type: software
+url: http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/pbcopy.1.htmlp

@@ -1,0 +1,5 @@
+---
+name: "SpamAssassin"
+description: "Server-side spam-fighting software."
+type: software
+url: http://spamassassin.apache.org/

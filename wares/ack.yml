@@ -1,0 +1,5 @@
+---
+name: "ack"
+description: "A command-line tool for searching text."
+type: software
+url: http://betterthangrep.com/

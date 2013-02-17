@@ -1,0 +1,5 @@
+---
+name: "MathJax"
+description: "A Javascript framework for displaying LaTeX/MathML."
+type: software
+url: http://www.mathjax.org/

@@ -1,0 +1,5 @@
+---
+name: "TextMate Git bundle"
+description: "A bundle for TextMate to add Git support."
+type: software
+url: http://gitorious.org/projects/git-tmbundle

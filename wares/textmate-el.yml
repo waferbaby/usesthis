@@ -1,0 +1,5 @@
+---
+name: "textmate-el"
+description: "A mode for Emacs that adds a bunch of Textmate's features."
+type: software
+url: https://github.com/defunkt/textmate.el

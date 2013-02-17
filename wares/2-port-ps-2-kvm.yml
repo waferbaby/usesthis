@@ -1,0 +1,5 @@
+---
+name: "2-port PS/2 KVM"
+description: "A KVM for sharing monitors, PS/2 mice and keyboards between two computers."
+type: hardware
+url: http://www.belkin.com/IWCatProductPage.process?Product_Id=262915

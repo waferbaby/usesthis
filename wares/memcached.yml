@@ -1,0 +1,5 @@
+---
+name: "memcached"
+description: "A memory object caching system."
+type: software
+url: http://memcached.org/

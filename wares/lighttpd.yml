@@ -1,0 +1,5 @@
+---
+name: "lighttpd"
+description: "An open-source web server."
+type: software
+url: http://www.lighttpd.net/

@@ -1,0 +1,5 @@
+---
+name: "ld"
+description: "An R implementation of the latent Dirichlet allocation."
+type: software
+url: http://cran.r-project.org/web/packages/lda/

@@ -1,0 +1,5 @@
+---
+name: "git-flow"
+description: "Extensions to git to work with a custom branching model."
+type: software
+url: https://github.com/nvie/gitflow

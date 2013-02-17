@@ -1,0 +1,5 @@
+---
+name: "GNOME Settings Daemon"
+description: "A daemon for controlling settings in a GNOME session."
+type: software
+url: http://packages.debian.org/stable/gnome-settings-daemon

@@ -1,0 +1,5 @@
+---
+name: "rsync"
+description: "An open-source file transfer/syncing tool."
+type: software
+url: http://samba.anu.edu.au/rsync/

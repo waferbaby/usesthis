@@ -1,0 +1,5 @@
+---
+name: "PCKeyboardHack"
+description: "A Mac tool to change the functionality of the Caps Lock key."
+type: hardware
+url: http://pqrs.org/macosx/keyremap4macbook/extra.html#t1

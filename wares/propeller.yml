@@ -1,0 +1,5 @@
+---
+name: "Propeller"
+description: "A chip for rapid embedded development."
+type: hardware
+url: http://www.parallax.com/propeller/

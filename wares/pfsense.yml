@@ -1,0 +1,5 @@
+---
+name: "pfSense"
+description: "A FreeBSD-based firewall/router OS."
+type: software
+url: http://www.pfsense.org/

@@ -1,0 +1,5 @@
+---
+name: "DrRacket"
+description: "Racket's graphical environment."
+type: software
+url: http://docs.racket-lang.org/drracket/index.html

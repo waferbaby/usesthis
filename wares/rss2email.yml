@@ -1,0 +1,5 @@
+---
+name: "rss2email"
+description: "A tool for delivering news from RSS feeds to an email address."
+type: software
+url: http://www.allthingsrss.com/rss2email/

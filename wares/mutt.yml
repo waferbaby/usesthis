@@ -1,0 +1,5 @@
+---
+name: "Mutt"
+description: "A command-line email client."
+type: software
+url: http://www.mutt.org/

@@ -1,0 +1,5 @@
+---
+name: "grep"
+description: "A command line tool for pattern matching in files."
+type: software
+url: http://www.gnu.org/s/grep/

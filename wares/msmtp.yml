@@ -1,0 +1,5 @@
+---
+name: "msmtp"
+description: "An SMTP client."
+type: software
+url: http://msmtp.sourceforge.net/

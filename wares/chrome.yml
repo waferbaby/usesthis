@@ -1,0 +1,5 @@
+---
+name: "Chrome"
+description: "A WebKit-based browser, where each tab runs in its own thread."
+type: software
+url: http://google.com/chrome

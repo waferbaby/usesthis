@@ -1,0 +1,5 @@
+---
+name: "OSSEC"
+description: "An open-source intrusion detection system."
+type: software
+url: http://www.ossec.net/

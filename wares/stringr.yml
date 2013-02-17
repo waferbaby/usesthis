@@ -1,0 +1,5 @@
+---
+name: "stringr"
+description: "An R wrapper for string functions."
+type: software
+url: https://github.com/hadley/stringr

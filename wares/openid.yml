@@ -1,0 +1,5 @@
+---
+name: "OpenID"
+description: "A system for logging into one site using existing credentials elsewhere."
+type: software
+url: http://openid.net/

@@ -1,0 +1,5 @@
+---
+name: "tcsh"
+description: "A command-line shell."
+type: software
+url: http://www.tcsh.org/

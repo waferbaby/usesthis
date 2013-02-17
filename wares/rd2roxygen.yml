@@ -1,0 +1,5 @@
+---
+name: "Rd2roxygen"
+description: "A tool for converting Rd to roxygen docs."
+type: software
+url: http://yihui.name/Rd2roxygen/

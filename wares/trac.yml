@@ -1,0 +1,5 @@
+---
+name: "Trac"
+description: "An issue tracker and wiki package for software development."
+type: software
+url: http://trac.edgewall.org/

@@ -1,0 +1,5 @@
+---
+name: "Stunnel"
+description: "A tool to make any TCP connection over SSL."
+type: software
+url: http://www.stunnel.org/

@@ -1,0 +1,5 @@
+---
+name: "Ghostview"
+description: "A PostScript viewer for X11."
+type: software
+url: http://pages.cs.wisc.edu/~ghost/gv/index.htm

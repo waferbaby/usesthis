@@ -1,0 +1,5 @@
+---
+name: "parallel"
+description: "A command line tool for executing processing at the same time across computers."
+type: software
+url: http://www.gnu.org/software/parallel/

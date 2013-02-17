@@ -1,0 +1,5 @@
+---
+name: "Weka"
+description: "Data mining software written in Java."
+type: software
+url: http://www.cs.waikato.ac.nz/ml/weka/

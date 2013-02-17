@@ -1,0 +1,5 @@
+---
+name: "glmnet"
+description: "Linear modelling procedures for R."
+type: software
+url: http://cran.r-project.org/web/packages/glmnet/

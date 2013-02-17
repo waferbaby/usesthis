@@ -1,0 +1,5 @@
+---
+name: "ssh"
+description: "A command-line tool for secure remote connections."
+type: software
+url: http://en.wikipedia.org/wiki/Secure_Shell

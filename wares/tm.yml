@@ -1,0 +1,5 @@
+---
+name: "tm"
+description: "A text mining framework for R."
+type: software
+url: http://cran.r-project.org/web/packages/tm/

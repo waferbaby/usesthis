@@ -1,0 +1,5 @@
+---
+name: "Web Inspector"
+description: "The developer tools included with WebKit."
+type: software
+url: http://trac.webkit.org/wiki/WebInspector

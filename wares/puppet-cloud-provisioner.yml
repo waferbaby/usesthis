@@ -1,0 +1,5 @@
+---
+name: "Puppet Cloud Provisioner"
+description: "A Puppet module for working with cloud instances."
+type: software
+url: https://github.com/puppetlabs/puppetlabs-cloud-provisioner

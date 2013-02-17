@@ -1,0 +1,5 @@
+---
+name: "UAD-1"
+description: "A PCI card with an on-board media processor."
+type: hardware
+url: http://en.wikipedia.org/wiki/UAD-1

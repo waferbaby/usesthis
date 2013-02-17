@@ -1,0 +1,5 @@
+---
+name: "Ubuntu Server"
+description: "The server version of the Ubuntu Linux distribution."
+type: software
+url: http://www.ubuntu.com/business/server/overview

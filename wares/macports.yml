@@ -1,0 +1,5 @@
+---
+name: "MacPorts"
+description: "A collection of *nix software ported to Mac OS X."
+type: software
+url: http://www.macports.org/

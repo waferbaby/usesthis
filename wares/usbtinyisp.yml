@@ -1,0 +1,5 @@
+---
+name: "USBtinyISP"
+description: "A USB programmer."
+type: hardware
+url: http://www.ladyada.net/make/usbtinyisp/

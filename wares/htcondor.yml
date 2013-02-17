@@ -1,0 +1,5 @@
+---
+name: "HTCondor"
+description: "Open-source distributed workload computing software."
+type: software
+url: http://research.cs.wisc.edu/htcondor/description.html

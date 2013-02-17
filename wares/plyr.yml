@@ -1,0 +1,5 @@
+---
+name: "plyr"
+description: "A split-apply-combine tool."
+type: software
+url: http://plyr.had.co.nz/

@@ -1,0 +1,5 @@
+---
+name: "Shiny"
+description: "An framework for building web apps out of R analyses."
+type: software
+url: http://www.rstudio.com/shiny/

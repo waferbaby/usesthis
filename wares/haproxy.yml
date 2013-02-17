@@ -1,0 +1,5 @@
+---
+name: "HAProxy"
+description: "TCP/HTTP load balancer software."
+type: software
+url: http://haproxy.1wt.eu/

@@ -1,0 +1,5 @@
+---
+name: "Travis"
+description: "A hosted continuous integration service."
+type: software
+url: http://travis-ci.org/

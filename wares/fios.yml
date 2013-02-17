@@ -1,0 +1,5 @@
+---
+name: "FiOS"
+description: "Fibre optic Internet connection."
+type: hardware
+url: http://www.verizon.com/fios/

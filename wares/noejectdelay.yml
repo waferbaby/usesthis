@@ -1,0 +1,5 @@
+---
+name: "NoEjectDelay"
+description: "Mac software to remove the delay when pressing the Eject key."
+type: software
+url: http://pqrs.org/macosx/keyremap4macbook/noejectdelay.html

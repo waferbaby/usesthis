@@ -1,0 +1,5 @@
+---
+name: "Gearman"
+description: "Powerful software for sending tasks across to multiple computers at once."
+type: software
+url: http://gearman.org/

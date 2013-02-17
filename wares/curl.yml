@@ -1,0 +1,5 @@
+---
+name: "curl"
+description: "A command line tool for transferring data from URLs."
+type: software
+url: http://curl.haxx.se/

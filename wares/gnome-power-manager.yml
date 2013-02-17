@@ -1,0 +1,5 @@
+---
+name: "GNOME Power Manager"
+description: "A power management daemon for GNOME."
+type: software
+url: http://packages.debian.org/stable/gnome-power-manager

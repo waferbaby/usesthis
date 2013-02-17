@@ -1,0 +1,5 @@
+---
+name: "DynDNS"
+description: "A dynamic DNS service."
+type: software
+url: http://dyn.com/dns/

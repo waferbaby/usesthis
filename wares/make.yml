@@ -1,0 +1,5 @@
+---
+name: "make"
+description: "Software to prepare code for compilation."
+type: software
+url: http://www.gnu.org/software/make/manual/make.html

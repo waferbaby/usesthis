@@ -1,0 +1,5 @@
+---
+name: "BrowserStack"
+description: "A service for testing a site live across a multitude of browsers."
+type: software
+url: http://www.browserstack.com/

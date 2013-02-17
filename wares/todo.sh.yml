@@ -1,0 +1,5 @@
+---
+name: "todo.sh"
+description: "A command-line interface for your todo.txt file."
+type: software
+url: http://ginatrapani.github.com/todo.txt-cli/

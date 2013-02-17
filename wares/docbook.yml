@@ -1,0 +1,5 @@
+---
+name: "DocBook"
+description: "A schema suited to writing books."
+type: software
+url: http://www.docbook.org/

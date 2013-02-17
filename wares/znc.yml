@@ -1,0 +1,5 @@
+---
+name: "znc"
+description: "An IRC bouncer."
+type: software
+url: https://github.com/technomancy/znc

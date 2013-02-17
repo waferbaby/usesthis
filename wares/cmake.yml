@@ -1,0 +1,5 @@
+---
+name: "CMake"
+description: "An open-source cross-platform build tool."
+type: software
+url: http://www.cmake.org/

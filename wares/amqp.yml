@@ -1,0 +1,5 @@
+---
+name: "AMQP"
+description: "A queueing protocol."
+type: software
+url: http://www.amqp.org/

@@ -1,0 +1,5 @@
+---
+name: "ELIM"
+description: "An IM daemon for Emacs."
+type: software
+url: http://savannah.nongnu.org/projects/elim

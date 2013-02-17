@@ -1,0 +1,5 @@
+---
+name: "coffee-mode"
+description: "A CoffeeScript mode for Emacs."
+type: software
+url: https://github.com/defunkt/coffee-mode

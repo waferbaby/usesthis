@@ -1,0 +1,5 @@
+---
+name: "irssi"
+description: "A popular CLI irc client."
+type: software
+url: http://irssi.org/

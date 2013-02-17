@@ -1,0 +1,5 @@
+---
+name: "procmail"
+description: "A mail delivery agent."
+type: software
+url: http://www.procmail.org/

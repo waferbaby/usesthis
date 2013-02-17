@@ -1,0 +1,5 @@
+---
+name: "JAGS"
+description: "A tool for analysing Bayesian hierarchial models."
+type: software
+url: http://mcmc-jags.sourceforge.net/

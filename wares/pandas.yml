@@ -1,0 +1,5 @@
+---
+name: "pandas"
+description: "A Python data analysis library."
+type: software
+url: http://pandas.pydata.org/

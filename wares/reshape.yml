@@ -1,0 +1,5 @@
+---
+name: "Reshape"
+description: "An R package for munging and aggregating data."
+type: software
+url: http://had.co.nz/reshape

@@ -1,0 +1,5 @@
+---
+name: "sed"
+description: "Text filtering software."
+type: software
+url: http://www.gnu.org/software/sed/

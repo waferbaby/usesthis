@@ -1,0 +1,5 @@
+---
+name: "Dovecot"
+description: "A secure IMAP server."
+type: software
+url: http://dovecot.org/

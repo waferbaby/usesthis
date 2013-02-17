@@ -1,0 +1,5 @@
+---
+name: "Chef"
+description: "Configuration management software."
+type: software
+url: http://www.opscode.com/chef/

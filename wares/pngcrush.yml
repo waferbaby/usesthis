@@ -1,0 +1,5 @@
+---
+name: "Pngcrush"
+description: "A command-line tool for compression PNG images."
+type: software
+url: http://pmt.sourceforge.net/pngcrush/

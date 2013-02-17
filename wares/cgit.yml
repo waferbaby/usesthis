@@ -1,0 +1,5 @@
+---
+name: "cgit"
+description: "A Git repository viewer."
+type: software
+url: http://hjemli.net/git/cgit/

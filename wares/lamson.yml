@@ -1,0 +1,5 @@
+---
+name: "Lamson"
+description: "A Python-based SMTP server."
+type: software
+url: http://lamsonproject.org/

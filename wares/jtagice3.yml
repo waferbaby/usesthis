@@ -1,0 +1,5 @@
+---
+name: "JTAGICE3"
+description: "A debugger/programmer for AVR microcontrollers."
+type: hardware
+url: http://store.atmel.com/PartDetail.aspx?q=p:10500269

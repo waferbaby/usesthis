@@ -1,0 +1,5 @@
+---
+name: "Drobo"
+description: "A hardware-based backup system."
+type: hardware
+url: http://drobo.com/Products/drobo.html

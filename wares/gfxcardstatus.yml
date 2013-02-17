@@ -1,0 +1,5 @@
+---
+name: "gfxCardStatus"
+description: "A Mac tool for switching between the integrated and dedicated GPUs in recent laptops."
+type: software
+url: http://codykrieger.com/gfxCardStatus

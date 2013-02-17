@@ -1,0 +1,5 @@
+---
+name: "Coverity Static Analysis"
+description: "Static analysis software for developers."
+type: software
+url: http://coverity.com/products/static-analysis.html

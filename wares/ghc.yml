@@ -1,0 +1,5 @@
+---
+name: "GHC"
+description: "An open-source Haskell compiler and interactive environment."
+type: software
+url: http://www.haskell.org/ghc/

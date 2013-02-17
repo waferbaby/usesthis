@@ -1,0 +1,5 @@
+---
+name: "Chromium"
+description: "Open-source builds of the Chrome web browser."
+type: software
+url: http://code.google.com/chromium/

@@ -1,0 +1,5 @@
+---
+name: "matplotlib"
+description: "A Python library for 2D plotting."
+type: software
+url: http://matplotlib.org/

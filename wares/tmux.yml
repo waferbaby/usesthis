@@ -1,0 +1,5 @@
+---
+name: "tmux"
+description: "A terminal multiplexer, similar to screen."
+type: software
+url: http://tmux.sourceforge.net/

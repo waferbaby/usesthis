@@ -1,0 +1,5 @@
+---
+name: "PostGIS"
+description: "A PostgreSQL add-on that adds geographic support."
+type: software
+url: http://www.postgis.org/

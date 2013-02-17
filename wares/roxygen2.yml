@@ -1,0 +1,5 @@
+---
+name: "roxygen2"
+description: "An R documentation system."
+type: software
+url: http://cran.r-project.org/web/packages/roxygen2/

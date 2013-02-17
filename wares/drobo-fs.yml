@@ -1,0 +1,5 @@
+---
+name: "Drobo FS"
+description: "A network attached storage device."
+type: hardware
+url: http://www.drobo.com/products/professionals/drobo-fs/

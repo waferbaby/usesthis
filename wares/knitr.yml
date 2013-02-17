@@ -1,0 +1,5 @@
+---
+name: "knitr"
+description: "A dynamic report generation tool for R."
+type: software
+url: https://github.com/yihui/knitr

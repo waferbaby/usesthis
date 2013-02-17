@@ -1,0 +1,5 @@
+---
+name: "ktrace"
+description: "A command line tool for analysing the kernel."
+type: software
+url: http://en.wikipedia.org/wiki/Ktrace

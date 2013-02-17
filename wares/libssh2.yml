@@ -1,0 +1,5 @@
+---
+name: "libssh2"
+description: "An SSH2 library."
+type: software
+url: http://www.libssh2.org/

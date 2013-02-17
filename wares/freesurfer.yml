@@ -1,0 +1,5 @@
+---
+name: "Freesurfer"
+description: "A collection of tools for analysing MRI data."
+type: software
+url: http://surfer.nmr.mgh.harvard.edu/fswiki

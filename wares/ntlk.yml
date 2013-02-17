@@ -1,0 +1,5 @@
+---
+name: "NTLK"
+description: "A Python toolkit for working with human langugaes."
+type: software
+url: http://nltk.org/

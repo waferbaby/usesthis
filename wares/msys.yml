@@ -1,0 +1,5 @@
+---
+name: "MSYS"
+description: "A Bash shell for Windows."
+type: software
+url: http://www.mingw.org/wiki/MSYS

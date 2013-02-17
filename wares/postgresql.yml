@@ -1,0 +1,5 @@
+---
+name: "PostgreSQL"
+description: "A popular relational database server."
+type: software
+url: http://www.postgresql.org/

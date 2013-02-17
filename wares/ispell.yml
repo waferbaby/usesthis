@@ -1,0 +1,5 @@
+---
+name: "Ispell"
+description: "A spell checking system."
+type: software
+url: https://www.gnu.org/software/ispell/

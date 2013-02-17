@@ -1,0 +1,5 @@
+---
+name: "Requests"
+description: "An HTTP library for Python."
+type: software
+url: http://docs.python-requests.org/en/latest/index.html

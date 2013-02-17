@@ -1,0 +1,5 @@
+---
+name: "WebHooks"
+description: "User-defined callbacks over HTTP."
+type: software
+url: http://www.webhooks.org/

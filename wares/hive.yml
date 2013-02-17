@@ -1,0 +1,5 @@
+---
+name: "Hive"
+description: "A tool for working with Hadoop systems."
+type: software
+url: http://hive.apache.org/

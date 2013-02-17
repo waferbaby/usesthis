@@ -1,0 +1,5 @@
+---
+name: "cpanminus"
+description: "A script for working with CPAN modules."
+type: software
+url: https://github.com/miyagawa/cpanminus

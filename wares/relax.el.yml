@@ -1,0 +1,5 @@
+---
+name: "relax.el"
+description: "An Emacs interface for CouchDB."
+type: software
+url: https://github.com/technomancy/relax.el

@@ -1,0 +1,5 @@
+---
+name: "CentOS"
+description: "A Linux distribution."
+type: software
+url: http://centos.org/

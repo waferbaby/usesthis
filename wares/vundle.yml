@@ -1,0 +1,5 @@
+---
+name: "Vundle"
+description: "A plug-in manager for vim."
+type: software
+url: https://github.com/gmarik/vundle

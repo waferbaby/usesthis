@@ -1,0 +1,5 @@
+---
+name: "citeulike"
+description: "A service for managing scholarly references."
+type: software
+url: http://www.citeulike.org/

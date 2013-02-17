@@ -1,0 +1,5 @@
+---
+name: "httpd"
+description: "A very popular web server."
+type: software
+url: http://httpd.apache.org/

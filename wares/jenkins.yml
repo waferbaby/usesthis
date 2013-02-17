@@ -1,0 +1,5 @@
+---
+name: "Jenkins"
+description: "A continuous integration server."
+type: software
+url: http://jenkins-ci.org/

@@ -1,0 +1,5 @@
+---
+name: "lubridate"
+description: "An R package for working with dates and time."
+type: software
+url: https://github.com/hadley/lubridate

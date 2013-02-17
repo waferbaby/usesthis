@@ -1,0 +1,5 @@
+---
+name: "Network Manager"
+description: "A network manager for GNOME."
+type: software
+url: http://projects.gnome.org/NetworkManager/

@@ -1,0 +1,5 @@
+---
+name: "scpaste"
+description: "An Emacs interface for pasting text over SSH."
+type: software
+url: https://github.com/technomancy/scpaste

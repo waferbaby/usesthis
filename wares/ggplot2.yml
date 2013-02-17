@@ -1,0 +1,5 @@
+---
+name: "ggplot2"
+description: "A plotting system for the R language."
+type: software
+url: http://had.co.nz/ggplot2/

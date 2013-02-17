@@ -1,0 +1,5 @@
+---
+name: "MacFUSE"
+description: "A system for adding third-party file systems to Mac OS X."
+type: software
+url: http://code.google.com/p/macfuse/

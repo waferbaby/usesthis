@@ -1,0 +1,5 @@
+---
+name: "PicoScope 2204"
+description: "A USB oscilloscope."
+type: hardware
+url: http://www.picotech.com/picoscope2200-specifications.html

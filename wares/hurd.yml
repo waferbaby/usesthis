@@ -1,0 +1,5 @@
+---
+name: "Hurd"
+description: "A replacement OS for UNIX."
+type: software
+url: https://www.gnu.org/software/hurd/hurd.html

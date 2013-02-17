@@ -1,0 +1,5 @@
+---
+name: "GnuPG"
+description: "Encryption and signing software."
+type: software
+url: http://gnupg.org/

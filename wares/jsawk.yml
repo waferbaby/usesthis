@@ -1,0 +1,5 @@
+---
+name: "jsawk"
+description: "A version of awk for working with JSON."
+type: software
+url: https://github.com/micha/jsawk

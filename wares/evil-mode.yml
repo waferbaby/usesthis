@@ -1,0 +1,5 @@
+---
+name: "Evil Mode"
+description: "An extension for Emacs to bring it vim-like features."
+type: software
+url: http://www.emacswiki.org/emacs/Evil

@@ -1,0 +1,5 @@
+---
+name: "Nessus"
+description: "Vulnerability scanner software."
+type: software
+url: http://www.nessus.org/nessus/

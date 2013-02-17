@@ -1,0 +1,5 @@
+---
+name: "virtualenv"
+description: "A tool for building self-contained Python environments."
+type: software
+url: http://pypi.python.org/pypi/virtualenv

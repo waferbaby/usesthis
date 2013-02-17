@@ -1,0 +1,5 @@
+---
+name: "FreeRouting"
+description: "Route tracing software for printed circuit board design."
+type: software
+url: http://freerouting.net/

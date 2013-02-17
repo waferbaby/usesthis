@@ -1,0 +1,5 @@
+---
+name: "AckMate"
+description: "A TextMate plugin for running Ack."
+type: software
+url: http://github.com/protocool/AckMate

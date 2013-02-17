@@ -1,0 +1,5 @@
+---
+name: "MPLAB ICD 3"
+description: "A hardware debugger/programmer."
+type: hardware
+url: http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1406&dDocName=en537580&redirects=icd3

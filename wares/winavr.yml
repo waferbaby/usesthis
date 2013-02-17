@@ -1,0 +1,5 @@
+---
+name: "WinAVR"
+description: "Development tools for the AVR microprocessor family."
+type: software
+url: http://winavr.sourceforge.net/

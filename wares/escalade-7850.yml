@@ -1,0 +1,5 @@
+---
+name: "Escalade 7850"
+description: "A hardware RAID controller."
+type: hardware
+url: http://www.xbitlabs.com/articles/storage/display/3ware-7850.html

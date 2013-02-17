@@ -1,0 +1,5 @@
+---
+name: "OpenWRT"
+description: "An embedded Linux distribution for wireless routers."
+type: software
+url: https://openwrt.org/

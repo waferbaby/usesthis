@@ -1,0 +1,5 @@
+---
+name: "Hadoop"
+description: "Open-source distributed data computing software."
+type: software
+url: http://hadoop.apache.org/

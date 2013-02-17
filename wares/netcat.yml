@@ -1,0 +1,5 @@
+---
+name: "netcat"
+description: "A tool for network debugging/exploring."
+type: software
+url: http://nc110.sourceforge.net/

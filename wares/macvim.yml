@@ -1,0 +1,5 @@
+---
+name: "MacVim"
+description: "A Mac GUI port of vim."
+type: software
+url: http://code.google.com/p/macvim/

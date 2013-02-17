@@ -1,0 +1,5 @@
+---
+name: "IFTTT"
+description: "A web service for applying rules to items, not unlike how you might filter your email."
+type: software
+url: http://ifttt.com/

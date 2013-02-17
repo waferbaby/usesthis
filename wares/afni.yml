@@ -1,0 +1,5 @@
+---
+name: "AFNI"
+description: "A collection of tools for analysing MRI data."
+type: software
+url: http://afni.nimh.nih.gov/afni

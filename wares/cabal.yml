@@ -1,0 +1,5 @@
+---
+name: "Cabal"
+description: "A packaging system for Haskell."
+type: software
+url: http://www.haskell.org/cabal/
