@@ -1,0 +1,32 @@
+---
+title: "Yihui Xie"
+summary: "PhD statistician, R developer"
+layout: interview
+categories: data, developer, linux
+---
+
+### Who are you, and what do you do?
+
+I'm [Yihui Xie](http://yihui.name/ "Yihui's website."), a PhD student in statistics at Iowa State University. I blog in both [Chinese](http://yihui.name/cn/ "Yihui's posts in Chinese.") and [English](http://yihui.name/en/ "Yihui's posts in English.") on statistical computing, graphics and programming. I founded an online community for statistics in China in 2006 called [Capital of Statistics](http://cos.name/ "The CoS website."), which is also the most popular community for [R][] in China. I'm very active on [Github](https://github.com/yihui/ "Yihui's Github account."). At the moment, I'm working on a book on [reproducible research](http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research "The Wikipedia entry for reproducible research.") with R and [knitr][].
+
+### What hardware do you use?
+
+I do not know or care a lot about hardware. I use a [Thinkpad T510][thinkpad-t510] (15.6-inch screen, 4GB RAM, Intel Core i5 CPU). I have to use a mouse since I'm very old-fashioned and uncomfortable with the touchpad; I have a wireless mouse for my laptop. I won a [Kindle][] from the Strata conference in 2011 by chance.
+
+### And what software?
+
+I work under [Ubuntu][] for the most of time with open source software packages. I dislike the default [Unity][unity.2] interface like others.
+
+For programming and data analysis, I primarily use R since I'm a statistician. I have created a bunch of R packages including [animation][], knitr, [formatR][], [Rd2roxygen][], [R2SWF][], [fun][] and [cranvas][], etc. I use other R packages like [ggplot2][], [gWidgets](), [roxygen2][], [Shiny][] and [XML][]. [Emacs][] was my editor before I switched to [RStudio][]; for small tasks, I just use the default editor [gedit][]. I also use [sed][], [awk][], [grep][] and shell scripts frequently.
+
+For typesetting I use [LyX][] which is a wrapper for [LaTeX][], and I have [argued](http://yihui.name/en/2012/10/lyx-vs-latex/ "Yihui's post on Lynx vs. LaTeX.") with other people for many times that writing raw LaTeX is not helpful after you have mastered LaTeX, although I absolutely love LaTeX and avoid [Word][]. I'm visually tired of [beamer][] slides (mainly because too many people use the same style), and I use [pandoc][] to create HTML5 slides.
+
+I love the web. Believe it or not, I learned building websites with [Macromedia Dreamweaver][dreamweaver], [ASP][] and [MS Access][access] when I was a Windows user back in 2003. Later I switched to [PHP][] and [MySQL][] (of course). I stuck with [WordPress][] for about 4 years. Finally I came to [Jekyll][], a blog engine for hackers. I'm pretty happy with it since I will never worry about databases; I just write simple [Markdown][] posts and push them to [Github][] via [Git][]. I learned a tiny bit of [Ruby][] during this process.
+
+Occasionally I write a little bit [JavaScript][] (often with [jQuery][]), [e.g.](http://vis.supstat.com/2012/11/contour-plots-with-d3-and-r "Yihui's example of using D3 with R.") with [D3][d3.js]. The other amazing JS application that I use is [MathJax][], which allows me to write LaTeX math in web [pages](http://vis.supstat.com/2012/11/brownian-motion-with-r/ "Yihui's post on animating Brownian Motion using R and MathJax."). I combine the [SciAnimator][] library with my animation package to create animations [on the web](http://vis.supstat.com/categories.html#Animation-ref "Yihui's animation examples."), which demonstrates concepts and methods in statistics. I also use the Shiny package to develop online and interactive stats demos like [ANOVA](http://glimmer.rstudio.com/yihui/06-anova/ "An interactive analysis of variance demo."). For debugging purposes, I use [Chrome][] when I develop web applications.
+
+I use my knitr package to generate reports directly from code ([literate programming](http://en.wikipedia.org/wiki/Literate_programming "The Wikipedia entry for literate programming.")); the "reports" may include [homework](https://github.com/yihui/stat579/downloads "Yihui's homework."), [blog posts](http://yihui.name/cn/2012/04/break-points-in-regression/ "Yihui's post on break points in regression (Chinese)."), [websites](http://vis.supstat.com/ "Yihui's stats graphics site."), [papers](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf "Yihui's paper on his R animation package (PDF).") and [books](https://github.com/yihui/knitr-book "Yihui's book on dynamic report generation with R."). I build interactive statistical graphics based on [Qt][] and R.
+
+### What would be your dream setup?
+
+I do not have a big dream. I guess a screen with a higher resolution will make me happier. By the way, I hope the Internet connection can be cut off for two months every year so I can focus on writing stuff other than coding. Then if you want to file a bug report to me, write me a mail with a return envelope.

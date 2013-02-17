@@ -1,0 +1,24 @@
+---
+title: "Henry Smith"
+summary: "Indie game developer (Spaceteam)"
+layout: interview
+categories: developer, game, mac
+---
+
+### Who are you, and what do you do?
+
+Hi, I'm [Henry Smith](http://www.sleepingbeastgames.com/blog/ "Henry's weblog."). I was a programmer in the video game industry for 10+ years, first at Irrational Games in Boston, and then at BioWare/EA in Edmonton and Montréal. My focus was on UI (user interface) and interaction design. I recently quit my job to live off my savings and make my own indie games! My first game is called [Spaceteam][spaceteam-ios]. It's a cooperative iOS party game for 2 to 4 players who shout technobabble at each other until their ship explodes.
+
+### What hardware do you use?
+
+My main computer is a [Mac Pro][mac-pro], but I also have an [11" MacBook Air][macbook-air] that I use in cafés and when travelling. I have two monitors, one landscape and one portrait. I have an [iPhone 4S][iphone-4s] and an [iPad][] (1st gen). I'm also borrowing an [iPad 2][ipad-2] from a friend because Spaceteam is multiplayer so I need as many test devices as possible! I use my partner's [Zoom H1][h1] audio recorder for sound effects. I have a [Roland XV-88][xv-88] piano/synthesizer that I sometimes hook up to my computer to write music, but I haven't touched it for a while :(
+
+Since my job is making games, I also have a variety of devices I use for "research" :) Namely an [Xbox 360][xbox-360], a [PlayStation 3][ps3], and a [Wii][], which I play projected onto my wall using an [Optima HD72][hd72] projector. I also have a [Nintendo DS][ds] and a [Sony PSP][psp]. And, they're not really hardware, but I have a collection of about 60 board games that I often look to for inspiration.
+
+### And what software?
+
+I've been using the [Cocos2d][] iPhone engine for my games so far. It's pretty lightweight and optimized for 2D games, and it has a great community. I use [Xcode][], [TextMate][], and [Dash][] for coding. For my iOS games I mostly write in [Objective-C++][objective-c-plusplus], but I sometime write tools in [Ruby][]. I love [Unity][] for prototyping. It's incredibly powerful but it's overkill for the games I'm working on at the moment. I also prototype in [Flash][], which is great for making small games. For source control I use [git][] through the [Tower][] client, and [Dropbox][] for online backups. I use [Photoshop][], [Inkscape][], [FilterForge][filter-forge], and [TexturePacker][] for graphics. [Bfxr][] and [Audacity][] for sound. [Evernote][], [Things][], and [Remember The Milk][remember-the-milk] for organization. [TestFlight][] has been fantastic for testing.
+
+### What would be your dream setup?
+
+I've always wanted a graphics tablet but I've never been able to justify getting one. I also think it would be cool to get a MIDI controller and hook it up to my games during development so I can tweak the parameters with physical knobs and sliders :) But my real dream is to become sustainable through my games so I can bring a laptop and work from anywhere in the world!

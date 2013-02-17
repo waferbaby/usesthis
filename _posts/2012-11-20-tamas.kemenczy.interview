@@ -1,0 +1,34 @@
+---
+title: "Tamas Kemenczy"
+summary: "Game designer (Kentucky Route Zero), web developer (Pitchfork)"
+layout: interview
+categories: artist, designer, game, hacker, linux, mac
+---
+
+### Who are you, and what do you do?
+
+I'm [Tamas Kemenczy](http://singlemaltmana.net/ "Tamas' website."), an artist, indie game designer and web developer based in Chicago. Right now I'm collaborating with [Jake Elliott](http://dai5ychain.net/ "Jake's website.") on [Kentucky Route Zero][kentucky-route-zero], a [Cardboard Computer](http://cardboardcomputer.com/ "Cardboard Computer's website.") game, as well as working as a developer for [Pitchfork](http://pitchfork.com/ "Pitchfork's website."), most recently working on the [Bat for Lashes](http://pitchfork.com/features/cover-story/reader/bat-for-lashes/ "A cover story on Bats for Lashes.") cover story. I also work on a homebrew [Arduino][] VGA synthesizer for [Arcanebolt](http://arcanebolt.net/ "Arcanebolt's website."), a video/noise project.
+
+### What hardware do you use?
+
+For my workhorse game dev setup, I sit on an old creaky farm chair in front of an Apple 27" [Cinema Display][cinema-display], driven by a 2010 11" [Macbook Air][macbook-air] with 2GB of RAM and a Nvidia Geforce 320M graphics card. I'm not in any rush to upgrade for the moment, and I don't mind the lower ceiling - I like to know that what I'm working on runs on somewhat more modest hardware. My tattered pair of [Sony MDR-7506][mdr-7506] headphones are a classic and they have good audio response.
+
+I do testing on a few other laptops sitting around: A 2011 13" [MacBook Pro][macbook-pro], an older 2009 MacBook Pro, a [Lenovo Thinkpad T60p][thinkpad-t60p], Lenovo 13" Thinkpad Edge, and a [Lenovo IdeaPad V570][ideapad-v570].
+
+On input devices: I use an old school optical 3-button/wheel mouse and an [Apple Wireless Keyboard][keyboard] with the caps lock remapped to control. While I depend on a multitouch trackpad/[Magic Mouse][magic-mouse] for day-to-day use, I find that it's just a bit too fuzzy and error-prone for the production tools I use. So the hard-wired buttons are an essential haptic.
+
+For Arcanebolt, I use a Lenovo Thinkpad Edge running some bygone version of [Ubuntu][] for flashing the Arduino boards. During performances we use an old XT keyboard that talks to the board. We use an obsolete Magnavox CRT screen to display the Arduino-generated VGA images, and on occasion an old IBM CRT as well. Old naive monitors like that are much more responsive to weird and corrupt video signals!
+
+### And what software?
+
+[Emacs][] is [home sweet home](https://github.com/tamask/emacs-conf "Tamas' Emacs configuration on Github.") and I use it across the board for development and pretty much anything text-related. Menlo is the monospace/programming font that I can't do without, it makes all the right changes to Bistream Vera Sans Mono. For general scripting I use [Python][] or [Javascript][], and [Bash][] to tie it all together. I like the webkit flavor of browsers, [Safari][] or [Chrome][]. [OS X][mac-os-x] generally has bash/Emacs-style key bindings which is really helpful, and although I don't really spend too much time with the built-in OS apps and features (other than [Messages][ichat]), Spotlight, Quick Look and the suite of screenshot commands are wonderful. I jot down text snippets with [Gist][].
+
+[Blender][] is my jam for computer graphics - fullscreened on that 27" display with the Elsyiun skin. I view Blender as the Emacs of its domain and the extensibility via the Python API is indispensable. For a tool that I spend so much time in, the UI hits the mark. I lug around a number of [Python scripts](https://gist.github.com/tamask "Tamas' Python scripts on Gist.") for my Blender/Unity workflow (mainly for working with obsolete vertex-based coloring and line art), and I've found myself tweaking the FBX exporter too. I also love the idea of using Blender as a headless, general purpose command-line renderer that uses Python for scripting. [Gimp/X11][gimp] does the job for image/texture editing and I fire up [Grapher][] occasionally to help visualize curves and filters for various shaders and procedural graphics.
+
+Kentucky Route Zero is being developed in [Unity Pro][unity] and we're using [Mono][]/[C#][c-sharp] for game components. We've set up the Unity project for external revision control and use [GitHub][] for code storage and issue tracking, and I use a [Tumblr][] to document my thought process and keep track of inspiring media for the game's art direction. I often end up with with long email chains talking through various game mechanics and possibilities so I guess [Gmail][] could count towards a project management tool. I find HTML/Javascript/CSS a great low-overhead prototyping environment to fallback on.
+
+For my Arcanebolt-related work, I use a custom [Makefile][make], [avr-gcc][] and [avrdude][] to compile Arduino projects via Ubuntu. This way I can comfortably work in Emacs instead of the bundled Arduino IDE (creature of habit). [GNU screen][screen] comes in handy for reading back serial output from the board.
+
+###What would be your dream setup?
+
+The setup I have right now does the trick. I used to have back problems from hunching over a laptop screen for long periods of time - getting a nice external monitor really helped, so I'm still coasting on that! Come to think of it, I'd love a portable display that was bright enought to easily see outdoors. It would be wonderful on a rooftop deck, or a porch.

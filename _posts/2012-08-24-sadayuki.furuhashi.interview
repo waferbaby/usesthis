@@ -1,0 +1,54 @@
+---
+title: "Sadayuki Furuhashi"
+summary: "Hacker (MessagePack, Fluentd)"
+layout: interview
+categories: developer, hacker, mac, software
+---
+
+### Who are you, and what do you do?
+
+My name is Sadayuki Furuhashi: a hacker who works hard to not work. 
+
+I'm the original author of [MessagePack][], an open source object serialization library. I'm also the author of [Fluentd][], a log collection tool. I recently co-founded [Treasure Data, Inc.](http://treasure-data.com/ "Treasure Data's website."), a cloud-based data warehousing and analytics service. I'm responsible for the design and implementation of the platform. My primary interest is in distributed systems: I strive to build complex yet practical distributed systems on top of fragile commodity servers.
+
+### What hardware do you use?
+
+Computer: My only machine is a 13" [MacBook Air][macbook-air]. I switched my daily partner from Linux boxes to Mac laptops 5 years ago. I love Macs since they work well with both UNIX tools and Adobe software.
+
+Peripherals: I have desktop setups at my home and at the office. I put the laptop into clamshell mode and connect it to a 27" [Apple Thunderbolt Display][thunderbolt-display]. I use a [Wacom Intuos tablet][intuos] instead of a mouse. People are surprised to see me using a pen tablet for everything (from coding to surfing the web), but I like the ability to click any part of the screen directly (the tablet surface and display are mapped 1:1). I haven't used a mouse for 6 years. I use a [Realforce][realforce-103u] keyboard and recommend it to all hackers. By the way, [Kenneth Reitz](http://kenneth.reitz.usesthis.com/ "Kenneth's interview.") uses [Happy Hacking Keyboard PRO][happy-hacking-keyboard], another awesome keyboard with replacement key switches made by the same manufacturer.
+
+I have two of each device so that I have the same configuration at home and at the office. 
+
+Servers: When I was a student, I built a "home datacenter" consisting of 8 servers so that I could research distributed systems without having to depend on school resources. With these servers (discreetly placed under my bed), I was able to implement the [Kumofs][] and [LS4][] storage systems. With the decreasing price of physical servers, I think it's a very good time to be working on distributed systems. 
+
+There days I'm using [Amazon EC2][ec2] instead of my own physical servers. There were advantages to having the hardware right there, but those servers were too noisy and hot to live with (imagine what happened when I ran benchmark scripts on all of these servers in my tiny apartment!). I think it's very good times to research even distributed systems because the price of physical servers is decreasing.
+
+Headphones: I listen to music while coding in order to block out distractions. I've been using a [JVC HA-FXC51][ha-fxc51] for a year now. Each time I buy a new pair, I'm impressed with how much the technology has progressed. 
+
+### And what software?
+
+I'm a traditionalist hacker and love using bash, vim, screen and many other small UNIX tools.
+
+[I](https://github.com/frsyuki "Sadayuki's Github account.") use [GitHub][] to publish code and communicate with collaborators. I test with [Jenkins][] or [Travis CI][travis], and deploy to servers with [Chef][].
+
+Because my open source work consists of performance-sensitive libraries, optimization work takes up a significant part of my free time. I used to use [gperftools][] for performance profiling, but I have recently switched to [Instruments][] (bundled with [Xcode][]). [Valgrind][] is another  indispensable tool.
+
+[Ruby][] is my language of choice. I used to use [C++][c-plusplus], but I was enchanted by the flexibility of Ruby: it lets me focus on creating the proper design and architecture for the system. [Java][] has an older style, but I sometimes use it to leverage the JVM (especially its garbage collector) and the multithread libraries. These features make Java one of the most mature platforms around. I'll also use [C][] if I need it for performance optimizations.
+
+As for desktop software, I use [Chrome][] for the web and [Sparrow][] for email. I use [Numbers][] to draw diagrams quickly for documentation. It may come across as an odd choice, but it's simple and just works for me. I also use [Illustrator][] to design websites (ex: [msgpack.org](http://msgpack.org/ "The MessagePack site.")) and use [InDesign][] to edit articles.
+
+[Twitter](https://twitter.com/frsyuki "Sadayuki on Twitter.") is an important channel for communicating with open source collaborators. I use [YoruFukurou][] on Mac OS X and [Echofon][echofon-ios] on iPhone for clients. I use search tabs to look for feedback on my programs on Twitter.
+
+I also like [Gyazo][], a simple tool to share screenshots quickly. It's like [Gist][] for screenshots.
+
+I want to mention [Quicksilver][] as well, a small but awesome launcher utility.
+
+### What would be your dream setup?
+
+If anything is possible, I want a magical compiler that turns designs in my brain into working code, but I am pretty happy with my current setup =)
+
+Footnotes:
+
+1: MessagePack now has a community for each language implementation, and development is modular. I oversee the overall direction and philosophy of the project, but development has been handed over to the experts of each language.
+
+2: My home servers were built from cheap parts, with the exception of Intel PRO/1000 NIC, which was needed to boost network performance.
