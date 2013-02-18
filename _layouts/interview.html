@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<article class="interview">
+	<figure><img src="/images/portraits/{{page.slug}}.jpg" width="500" height="335" class="portrait" alt="{{page.title}}"></figure>
+
+	<h2 class="person">{{page.title}}</h2>
+	<p class="summary">{{page.summary}}</p>
+	<p class="details">
+	Posted <time datetime="{{page.date}}" pubdate>{{page.date || date_to_long_string}}</time> in
+	{% for category in page.categories %}<a href="/interviews/{{category}}" rel="category">{{category}}</a>{% endfor %}
+	</p>
+	{{content}}
+</article>
