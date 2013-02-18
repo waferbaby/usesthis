@@ -1,0 +1,20 @@
+---
+layout: default
+title: Interviews
+---
+
+<h2>Interviews</h2>
+<p>There are currently {{site.posts | size}} interviews on the site.</p>
+
+<h3>By year</h3>
+<ul>
+{% for year in page.years %}
+	{% capture interview_count %}{{year[1] | size}}{% endcapture %}
+	<li><a href="/interviews/{{year[0]}}/" title="View all the interviews from {{year[0]}}.">{{year[0]}}</a> <span class="summary">({{interview_count}} interview{% if interview_count != 1%}s{% endif %})</span></li>
+{% endfor %}
+</ul>
+
+<h3>By category</h3>
+{% for category in site.categories %}
+<a href="/interviews/{{category[0]}}" rel="category" title="View all '{{category[0]}}' interviews.">{{category[0]}}</a>
+{% endfor %}
