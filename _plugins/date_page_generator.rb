@@ -2,7 +2,7 @@ module Jekyll
 
 	class DatePage < Page
 
-		def initialize(site, base, dir, posts, year)
+		def initialize(site, base, dir, year, posts)
 
 			@site = site
 			@base = base
@@ -17,6 +17,22 @@ module Jekyll
 		end
 	end
 
+	class DateIndexPage < Page
+
+		def initialize(site, base, dir, years)
+
+			@site = site
+			@base = base
+			@dir = dir
+			@name = 'index.html'
+
+			self.process(@name)
+			self.read_yaml(File.join(base, '_layouts'), 'interview_index.html')
+
+			self.data['years'] = years
+		end
+	end
+
 	class DatePageGenerator < Generator
 
 		safe true
@@ -24,13 +40,15 @@ module Jekyll
 		def generate(site)
 			years = {}
 
-			site.posts.each do |post|
+			site.posts.reverse.each do |post|
 				(years[post.date.year] ||= []) << post
 			end
 
 			years.each_pair do |year, posts|
-				site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s), posts.reverse, year)
+				site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s), year, posts)
 			end
+
+			site.pages << DateIndexPage.new(site, site.source, 'interviews', years)
 		end
 	end
 end
