@@ -1,0 +1,186 @@
+a {
+color: #000;
+text-decoration: underline;
+}
+
+a:hover {
+color: #fe2e9a !important;
+}
+
+a[rel] {
+padding: 0 5px;
+background-color: #f9f9f9;
+color: #888;
+text-decoration: none !important;
+border: solid 1px #eee;
+border-radius: 4px;
+}
+
+a[rel]:hover {
+background-color: #ddd;
+color: #555 !important;
+border: solid 1px #aaa;
+}
+
+aside {
+width: 130px;
+float: right;
+font-size: 60%;
+margin: 10px 0 0 20px;
+}
+
+body {
+padding: 0;
+margin: 0;
+font-family: "helvetica neue", helvetica, sans-serif;
+font-weight: 200;
+font-size: 19px;
+background-color: #fff;
+color: #000;
+}
+
+dd {
+padding: 10px 20px;
+margin: 0;
+font-size: 95%;
+}
+
+div {
+width: 500px;
+padding: 40px;
+margin: 0 auto;
+}
+
+dt {
+font-size: 120%;
+font-style: italic;
+color: #888;
+}
+
+figure {
+padding: 0;
+margin: 0;
+}
+
+footer {
+margin: 20px 0 0 0;
+font-size: 85%;
+color: #999;
+border-top: solid 1px #eee;
+}
+
+h1 {
+padding: 0;
+margin: 0;
+font-size: 200%;
+font-weight: 600;
+}
+
+h1 span {
+color: #fe2e9a;
+}
+
+h2 {
+padding: 0;
+margin: 10px 0 0 0;
+font-size: 170%;
+font-weight: 500;
+}
+
+h2 a:link, h2 a.visited {
+text-decoration: none !important;
+}
+
+h3 {
+padding: 0;
+margin: 10px 0;
+font-size: 140%;
+font-weight: 300;
+}
+
+header {
+padding: 0;
+margin: 0 0 20px 0;
+}
+
+img.detail, img.portrait {
+border: solid 1px #000;
+}
+
+nav ul {
+padding: 10px 0;
+margin: 0;
+font-size: 120%;
+font-weight: 200;
+border-top: solid 1px #eee;
+border-bottom: solid 1px #eee;
+}
+
+nav ul li {
+display: inline;
+}
+
+nav ul li:before {
+content: " / ";
+color: #ddd;
+}
+
+nav ul li:first-child:before {
+content: "";
+}
+
+nav ul li a {
+padding: 4px;
+text-decoration: none;
+color: #fe2e9a !important;
+border-radius: 4px;
+}
+
+nav ul li a:hover {
+background-color: #fe2e9a;
+color: #fff !important;
+}
+
+nav ul li a.selected {
+font-weight: 500;
+}
+
+p#tagline {
+padding: 0;
+margin: 5px 0 15px 0;
+font-size: 95%;
+color: #aaa;
+}
+
+p#tagline em {
+color: #999;
+}
+
+p.details {
+padding: 5px 0;
+margin: 0 0 20px 0;
+font-size: 70%;
+color: #888;
+border-bottom: solid 1px #eee;
+}
+
+p.summary {
+padding: 0;
+margin: 5px 0 0 0;
+font-size: 95%;
+color: #777;
+}
+
+section#contents {
+line-height: 35px;
+}
+
+span.summary {
+color: #777;
+}
+
+ul {
+list-style-position: inside;
+padding: 0;
+margin: 15px 30px;
+}
