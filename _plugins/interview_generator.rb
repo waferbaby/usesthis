@@ -3,6 +3,19 @@ module Jekyll
 
 		safe true
 
+		def initialize(config)
+			@wares = {}
+
+			Dir.glob(File.join(config['source'], 'wares', "*.yml")) do |path|
+				begin
+					@wares[File.basename(path, File.extname(path))] = YAML::load_file(path)
+				rescue
+				end
+			end
+
+			super(config)
+		end
+
 		def matches(extension)
 			extension =~ /interview/i
 		end
@@ -12,17 +25,6 @@ module Jekyll
 		end
 
 		def convert(content)
-
-			if @wares.nil?
-				@wares = {}
-
-				Dir.glob(File.join(@config['source'], 'wares', "*.yml")) do |path|
-					begin
-						@wares[File.basename(path, File.extname(path))] = YAML::load_file(path)
-					rescue
-					end
-				end
-			end
 
 			content += "\n\n"
 
