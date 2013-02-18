@@ -1,0 +1,10 @@
+<figure>
+	<a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}."><img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}"></a>
+</figure>
+
+<h2 class="person"><a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}.">{{interview.title}}</a></h2>
+<p class="summary">{{interview.summary}}</p>
+<p class="details">
+Posted <time datetime="{{interview.date}}" pubdate>{{interview.date || date_to_long_string}}</time> in
+{% for category in interview.categories %}<a href="/interviews/{{category}}" rel="category">{{category}}</a>{% endfor %}
+</p>
