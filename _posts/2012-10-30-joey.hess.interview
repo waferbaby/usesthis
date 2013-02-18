@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: joey.hess
 title: "Joey Hess"
 summary: "Software developer (Debian, git-annex)"
-layout: interview
 categories: developer, linux, software
 ---
 

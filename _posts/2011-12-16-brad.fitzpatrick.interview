@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: brad.fitzpatrick
 title: "Brad Fitzpatrick"
 summary: "Developer (LiveJournal, memcached)"
-layout: interview
 categories: developer, linux, mac, software, web
 ---
 

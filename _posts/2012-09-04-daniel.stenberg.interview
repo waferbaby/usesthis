@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: daniel.stenberg
 title: "Daniel Stenberg"
 summary: "Open source developer (cURL)"
-layout: interview
 categories: developer, linux, software
 ---
 

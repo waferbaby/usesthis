@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: john.resig
 title: "John Resig"
 summary: "Programmer (jQuery)"
-layout: interview
 categories: developer, mac, web, windows
 credits: Ben Alman, http://www.flickr.com/photos/rj3/5635241487/
 ---

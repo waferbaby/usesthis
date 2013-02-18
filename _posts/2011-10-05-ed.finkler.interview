@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: ed.finkler
 title: "Ed Finkler"
 summary: "Web developer (Gimme Bar, Spaz)"
-layout: interview
 categories: developer, linux, mac, web
 credits: Chris Shiflett, http://www.flickr.com/photos/shiflett/4022501283/
 ---

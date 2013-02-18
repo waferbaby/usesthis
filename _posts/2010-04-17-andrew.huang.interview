@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: andrew.huang
 title: "Andrew Huang"
 summary: "Hardware misfit"
-layout: interview
 categories: hacker, hardware, linux, windows
 ---
 

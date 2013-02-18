@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: steve.coast
 title: "Steve Coast"
 summary: "Founder, OpenStreetMap"
-layout: interview
 categories: developer, linux, mac, suit, web
 credits: Christian Petersen, http://www.flickr.com/photos/copetersen/3278884075/
 ---

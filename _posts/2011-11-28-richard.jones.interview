@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: richard.jones
 title: "Richard Jones"
 summary: "Developer (Last.fm, IRCCloud)"
-layout: interview
 categories: developer, linux, mac, software, web
 credits: James Wheare, http://www.flickr.com/photos/jwheare/5768164371/
 ---

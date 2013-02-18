@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: matt.might
 title: "Matt Might"
 summary: "CS Professor (University of Utah)"
-layout: interview
 categories: linux, mac, professor
 credits: David Van Horn, http://www.flickr.com/photos/dvanhorn/6165121629/
 ---

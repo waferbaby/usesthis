@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: tom.scott
 title: "Tom Scott"
 summary: "Geek comedian"
-layout: interview
 categories: comedian, windows
 credits: Cristiano Betta, http://cristianobetta.com/
 ---

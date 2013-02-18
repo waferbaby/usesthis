@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: sadayuki.furuhashi
 title: "Sadayuki Furuhashi"
 summary: "Hacker (MessagePack, Fluentd)"
-layout: interview
 categories: developer, hacker, mac, software
 ---
 

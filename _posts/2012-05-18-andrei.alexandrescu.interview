@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: andrei.alexandrescu
 title: "Andrei Alexandrescu"
 summary: "Research scientist (Facebook)"
-layout: interview
 categories: linux, mac, researcher, scientist
 ---
 

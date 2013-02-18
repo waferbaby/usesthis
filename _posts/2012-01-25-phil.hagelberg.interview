@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: phil.hagelberg
 title: "Phil Hagelberg"
 summary: "Hacker-errant (Heroku)"
-layout: interview
 categories: developer, linux, software
 credits: Lem Malabuyo, http://www.flickr.com/photos/malabooyah/5469920515/
 ---

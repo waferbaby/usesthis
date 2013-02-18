@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: andy.smith
 title: "Andy Smith"
 summary: "Software developer (OpenStack for Rackspace)"
-layout: interview
 categories: developer, linux, mac, software
 credits: Jason Samsa, http://www.flickr.com/photos/jsamsa/3402960203/
 ---

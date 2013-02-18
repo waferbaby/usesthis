@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: daniel.robbins
 title: "Daniel Robbins"
 summary: "Software developer, creator of Gentoo"
-layout: interview
 categories: developer, linux, mac, software
 ---
 

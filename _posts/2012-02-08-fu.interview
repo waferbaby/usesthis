@@ -1,7 +1,8 @@
 ---
+layout: interview
+slug: fu
 title: "Fu"
 summary: "Robot illustrator, sculptor, game creator"
-layout: interview
 categories: artist, developer, game, mac
 ---
 
