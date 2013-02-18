@@ -6,5 +6,5 @@
 <p class="summary">{{interview.summary}}</p>
 <p class="details">
 Posted <time datetime="{{interview.date}}" pubdate>{{interview.date || date_to_long_string}}</time> in
-{% for category in interview.categories %}<a href="/interviews/{{category}}" rel="category">{{category}}</a>{% endfor %}
+{% for category in interview.categories %}<a href="/interviews/{{category}}" rel="category" title="View all '{{category}}' interviews.">{{category}}</a>{% endfor %}
 </p>
