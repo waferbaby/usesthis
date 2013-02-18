@@ -1,0 +1,12 @@
+---
+layout: default
+title: Hello
+---
+
+{% for interview in site.posts limit:10 %}
+	<article class="interviewee">
+		{% include summary.html %}
+	</article>
+{% endfor %}
+
+<p><em>Hungry for more?</em> There's <a href="/interviews/" title="Keep reading the rest of the interviews!">hundreds of interviews!</a></p>
