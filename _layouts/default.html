@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>The Setup / {{page.title}}</title>
+		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width;initial-scale=1">
+	</head>
+	<body>
+		<div>
+			<header>
+				<h1>The Setup / <span>{{page.title}}</span></h1>
+				<p id="tagline">What do people use to get stuff done?</p>
+			
+				<nav>
+					<ul>
+						<li><a href="/" title="The most recent interviews.">Home</a></li>
+						<li><a href="/interviews/" title="All the other interviews.">Interviews</a></li>
+						<li><a href="/about/" title="A little more info about the site.">About</a></li>
+						<li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
+					</ul>
+				</nav>
+			</header>
+
+			<section id="contents">
+				{{content}}
+			</section>
+
+			<aside>
+				<p>
+				<!--[if IE]>
+				<script type="text/javascript">
+				document.write(unescape('%3Cscr' + 'ipt src="http://adn.fusionads.net/www/pull/get.php?zoneid=100&charset=UTF-8&withtext=1&cb=' + Math.floor(Math.random() * 99999999999) + '"%3E%3C/script%3E'));
+				</script>
+				<![endif]-->
+				<!--[if !IE]><!-->
+				<script defer="defer" type="text/javascript">
+				document.write(unescape('%3Cscr' + 'ipt src="http://adn.fusionads.net/www/pull/get.php?zoneid=100&charset=UTF-8&withtext=1&cb=' + Math.floor(Math.random() * 99999999999) + '"%3E%3C/script%3E'));
+				</script>
+				<!--<![endif]-->
+				<p>
+				<p><a href="http://fusionads.net/" title="Powered by Fusion Ads.">POWERED by FUSION</a></p>
+			</aside>
+
+			<footer>
+				<p>This is a <a href="http://waferbaby.com/" title="Some website.">waferbaby</a> snafu. You can follow along via <a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed.">feed</a>.</p>
+				<p>Published every <strong>Tuesday</strong> and <strong>Thursday</strong>, in theory.</p>
+				<p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/2.5/au/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
+			</footer>
+			</div>
+	</body>
+</html>
