@@ -3,7 +3,7 @@ layout: interview
 slug: jeff.lindsay
 title: "Jeff Lindsay"
 summary: "Hacker/Philosopher"
-categories: developer, hacker, mac, software
+categories: [developer, hacker, mac, software]
 ---
 
 ### Who are you, and what do you do?

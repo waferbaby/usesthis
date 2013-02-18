@@ -3,7 +3,7 @@ layout: interview
 slug: avery.edison
 title: "Avery Edison"
 summary: "Stand-up comedian, writer"
-categories: comedian, mac, writer
+categories: [comedian, mac, writer]
 ---
 
 ### Who are you, and what do you do?

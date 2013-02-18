@@ -3,7 +3,7 @@ layout: interview
 slug: aaron.boodman
 title: "Aaron Boodman"
 summary: "Developer (Greasemonkey, Google Chrome)"
-categories: developer, linux, mac, software, windows
+categories: [developer, linux, mac, software, windows]
 ---
 
 ### Who are you, and what do you do?

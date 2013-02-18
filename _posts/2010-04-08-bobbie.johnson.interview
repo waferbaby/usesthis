@@ -3,8 +3,8 @@ layout: interview
 slug: bobbie.johnson
 title: "Bobbie Johnson"
 summary: "Writer"
-categories: journalist, mac, writer
-credits: Meg Pickard, http://www.flickr.com/photos/meg/
+categories: [journalist, mac, writer]
+credits: {name: "Meg Pickard", url: "http://www.flickr.com/photos/meg/"}
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: sirron.norris
 title: "Sirron Norris"
 summary: "Artist, animator"
-categories: artist, mac
+categories: [artist, mac]
 ---
 
 ### Who are you, and what do you do?

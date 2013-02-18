@@ -3,7 +3,7 @@ layout: interview
 slug: nicole.jones
 title: "Nicole Jones"
 summary: "Writer, editor (Facebook)"
-categories: editor, mac, writer
+categories: [editor, mac, writer]
 ---
 
 ### Who are you, and what do you do?

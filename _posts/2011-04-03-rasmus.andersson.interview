@@ -3,7 +3,7 @@ layout: interview
 slug: rasmus.andersson
 title: "Rasmus Andersson"
 summary: "Designer, programmer (Spotify, Facebook)"
-categories: designer, developer, mac, web
+categories: [designer, developer, mac, web]
 ---
 
 ### Who are you, and what do you do?

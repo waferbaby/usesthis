@@ -3,7 +3,7 @@ layout: interview
 slug: john.macfarlane
 title: "John MacFarlane"
 summary: "Philosophy professor, developer (pandoc, gitit)"
-categories: developer, linux, mac, professor, software
+categories: [developer, linux, mac, professor, software]
 ---
 
 ### Who are you, and what do you do?

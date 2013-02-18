@@ -3,8 +3,8 @@ layout: interview
 slug: john.gruber
 title: "John Gruber"
 summary: "Writer (Daring Fireball)"
-categories: mac, writer
-credits: George Del Barrio, http://superbiate.com/
+categories: [mac, writer]
+credits: {name: "George Del Barrio", url: "http://superbiate.com/"}
 ---
 
 ### Who are you, and what do you do?

@@ -3,8 +3,8 @@ layout: interview
 slug: dave.shea
 title: "Dave Shea"
 summary: "Designer, illustrator"
-categories: artist, designer, mac, web
-credits: Tom Coates, http://www.flickr.com/photos/plasticbag/
+categories: [artist, designer, mac, web]
+credits: {name: "Tom Coates", url: "http://www.flickr.com/photos/plasticbag/"}
 ---
 
 ### Who are you, and what do you do?

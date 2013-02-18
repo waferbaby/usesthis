@@ -3,7 +3,7 @@ layout: interview
 slug: ed.hunsinger
 title: "Ed Hunsinger"
 summary: "Developer, blogger, fire artist"
-categories: artist, developer, mac, web
+categories: [artist, developer, mac, web]
 ---
 
 ### Who are you, and what do you do?

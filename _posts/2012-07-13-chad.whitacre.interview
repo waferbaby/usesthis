@@ -3,7 +3,7 @@ layout: interview
 slug: chad.whitacre
 title: "Chad Whitacre"
 summary: "Hacker, Founder (Gittip)"
-categories: developer, linux, mac, web, windows
+categories: [developer, linux, mac, web, windows]
 ---
 
 ### Who are you, and what do you do?

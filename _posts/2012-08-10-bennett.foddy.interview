@@ -3,7 +3,7 @@ layout: interview
 slug: bennett.foddy
 title: "Bennett Foddy"
 summary: "Moral philosopher, game developer"
-categories: game, mac, philosopher
+categories: [game, mac, philosopher]
 ---
 
 ### Who are you, and what do you do?

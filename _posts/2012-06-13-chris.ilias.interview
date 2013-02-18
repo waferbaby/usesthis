@@ -3,7 +3,7 @@ layout: interview
 slug: chris.ilias
 title: "Chris Ilias"
 summary: "Chef at Sweet Basil, Colorado"
-categories: chef, food, mac
+categories: [chef, food, mac]
 ---
 
 ### Who are you, and what do you do?

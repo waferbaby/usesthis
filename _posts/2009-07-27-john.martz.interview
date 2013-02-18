@@ -3,7 +3,7 @@ layout: interview
 slug: john.martz
 title: "John Martz"
 summary: "Illustrator, robot"
-categories: artist, mac
+categories: [artist, mac]
 ---
 
 ### Who are you, and what do you do?

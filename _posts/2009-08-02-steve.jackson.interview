@@ -3,8 +3,8 @@ layout: interview
 slug: steve.jackson
 title: "Steve Jackson"
 summary: "Game designer"
-categories: designer, game, mac
-credits: Steve Jackson Games
+categories: [designer, game, mac]
+credits: {name: "Steve Jackson Games"}
 ---
 
 ### Who are you, and what do you do?

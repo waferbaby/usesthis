@@ -3,7 +3,7 @@ layout: interview
 slug: rick.falkvinge
 title: "Rick Falkvinge"
 summary: "Founder of the Swedish Pirate Party"
-categories: entrepreneur, linux, politics
+categories: [entrepreneur, linux, politics]
 ---
 
 ### Who are you, and what do you do?

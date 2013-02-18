@@ -3,7 +3,7 @@ layout: interview
 slug: fu
 title: "Fu"
 summary: "Robot illustrator, sculptor, game creator"
-categories: artist, developer, game, mac
+categories: [artist, developer, game, mac]
 ---
 
 ### Who are you, and what do you do?

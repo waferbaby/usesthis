@@ -3,7 +3,7 @@ layout: interview
 slug: justin.smith
 title: "Justin Smith"
 summary: "Game developer (Enviro-Bear 2010)"
-categories: developer, game, windows
+categories: [developer, game, windows]
 ---
 
 ### Who are you, and what do you do?

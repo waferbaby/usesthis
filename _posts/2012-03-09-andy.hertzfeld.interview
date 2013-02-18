@@ -3,7 +3,7 @@ layout: interview
 slug: andy.hertzfeld
 title: "Andy Hertzfeld"
 summary: "Developer (Macintosh), software designer (Google+)"
-categories: designer, developer, interface, linux, mac, software
+categories: [designer, developer, interface, linux, mac, software]
 ---
 
 ### Who are you, and what do you do?

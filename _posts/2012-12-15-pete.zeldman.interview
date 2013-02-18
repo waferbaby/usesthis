@@ -3,7 +3,7 @@ layout: interview
 slug: pete.zeldman
 title: "Pete Zeldman"
 summary: "Drummer"
-categories: mac, musician
+categories: [mac, musician]
 ---
 
 ### Who are you and what do you do?

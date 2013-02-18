@@ -3,7 +3,7 @@ layout: interview
 slug: gabe.newell
 title: "Gabe Newell"
 summary: "Co-founder of Valve"
-categories: game, suit, windows
+categories: [game, suit, windows]
 ---
 
 ### Who are you, and what do you do?

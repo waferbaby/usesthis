@@ -3,7 +3,7 @@ layout: interview
 slug: greg.kh
 title: "Greg Kroah-Hartman"
 summary: "Linux kernel developer"
-categories: developer, linux, mac, software
+categories: [developer, linux, mac, software]
 ---
 
 ### Who are you, and what do you do?

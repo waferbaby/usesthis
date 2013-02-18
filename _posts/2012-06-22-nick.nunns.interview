@@ -3,7 +3,7 @@ layout: interview
 slug: nick.nunns
 title: "Nick Nunns"
 summary: "Owner, brewer (TRVE Brewing Company)"
-categories: food, mac
+categories: [food, mac]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: tom.preston-werner
 title: "Tom Preston-Werner"
 summary: "Co-founder of Github"
-categories: developer, mac, suit, web
+categories: [developer, mac, suit, web]
 ---
 
 ### Who are you, and what do you do?

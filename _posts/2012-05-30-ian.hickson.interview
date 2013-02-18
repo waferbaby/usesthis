@@ -3,7 +3,7 @@ layout: interview
 slug: ian.hickson
 title: "Ian Hickson"
 summary: "Standards editor, HTML specification"
-categories: editor, mac, web
+categories: [editor, mac, web]
 ---
 
 ### Who are you, and what do you do?

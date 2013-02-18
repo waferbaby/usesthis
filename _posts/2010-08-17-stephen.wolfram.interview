@@ -3,7 +3,7 @@ layout: interview
 slug: stephen.wolfram
 title: "Stephen Wolfram"
 summary: "Scientist, developer, mathematician"
-categories: developer, mac, scientist, software, windows
+categories: [developer, mac, scientist, software, windows]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: robert.hodgin
 title: "Robert Hodgin"
 summary: "Code artist"
-categories: artist, developer, mac, windows
+categories: [artist, developer, mac, windows]
 ---
 
 ### Who are you, and what do you do?

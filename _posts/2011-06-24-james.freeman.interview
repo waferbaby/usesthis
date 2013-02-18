@@ -3,7 +3,7 @@ layout: interview
 slug: james.freeman
 title: "James Freeman"
 summary: "Founder, Blue Bottle Coffee"
-categories: coffee, mac, suit
+categories: [coffee, mac, suit]
 ---
 
 ### Who are you, and what do you do?

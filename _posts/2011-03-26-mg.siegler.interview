@@ -3,7 +3,7 @@ layout: interview
 slug: mg.siegler
 title: "MG Siegler"
 summary: "Tech reporter (TechCrunch)"
-categories: developer, journalist, mac, web
+categories: [developer, journalist, mac, web]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: salvatore.sanfilippo
 title: "Salvatore Sanfilippo"
 summary: "Software developer (Redis)"
-categories: developer, linux, mac, software
+categories: [developer, linux, mac, software]
 ---
 
 ### Who are you, and what do you do?

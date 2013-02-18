@@ -3,7 +3,7 @@ layout: interview
 slug: joey.hess
 title: "Joey Hess"
 summary: "Software developer (Debian, git-annex)"
-categories: developer, linux, software
+categories: [developer, linux, software]
 ---
 
 ### Who are you, and what do you do?

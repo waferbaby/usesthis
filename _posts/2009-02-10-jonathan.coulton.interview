@@ -3,7 +3,7 @@ layout: interview
 slug: jonathan.coulton
 title: "Jonathan Coulton"
 summary: "Internet musical superstar"
-categories: mac, musician
+categories: [mac, musician]
 ---
 
 ### Who are you, and what do you do?

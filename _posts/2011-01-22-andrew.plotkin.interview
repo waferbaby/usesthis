@@ -3,7 +3,7 @@ layout: interview
 slug: andrew.plotkin
 title: "Andrew Plotkin"
 summary: "Hacker, IF Wizard"
-categories: developer, game, mac, writer
+categories: [developer, game, mac, writer]
 ---
 
 ### Who are you, and what do you do?

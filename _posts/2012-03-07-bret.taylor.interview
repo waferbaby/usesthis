@@ -3,8 +3,8 @@ layout: interview
 slug: bret.taylor
 title: "Bret Taylor"
 summary: "CTO (Facebook), co-founder (FriendFeed)"
-categories: developer, linux, mac, web
-credits: Thomas Hawk, http://www.flickr.com/photos/thomashawk/3409168230/
+categories: [developer, linux, mac, web]
+credits: {name: "Thomas Hawk", url: "http://www.flickr.com/photos/thomashawk/3409168230/"}
 ---
 
 ### Who are you, and what do you do?

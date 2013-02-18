@@ -3,7 +3,7 @@ layout: interview
 slug: anil.dash
 title: "Anil Dash"
 summary: "Blogger, director of Expert Labs"
-categories: developer, mac, suit, web
+categories: [developer, mac, suit, web]
 ---
 
 ### Who are you, and what do you do?

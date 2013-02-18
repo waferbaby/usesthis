@@ -3,7 +3,7 @@ layout: interview
 slug: jeff.lamarche
 title: "Jeff LaMarche"
 summary: "Author, software developer"
-categories: developer, mac, software, writer
+categories: [developer, mac, software, writer]
 ---
 
 ### Who are you, and what do you do?

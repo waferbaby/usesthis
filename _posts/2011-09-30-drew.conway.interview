@@ -3,7 +3,7 @@ layout: interview
 slug: drew.conway
 title: "Drew Conway"
 summary: "Researcher (terrorism, maths, stats, machine learning)"
-categories: data, linux, mac, politics, scientist
+categories: [data, linux, mac, politics, scientist]
 ---
 
 ### Who are you, and what do you do?

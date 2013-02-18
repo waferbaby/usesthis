@@ -3,7 +3,7 @@ layout: interview
 slug: lisa.congdon
 title: "Lisa Congdon"
 summary: "Artist, illustrator"
-categories: artist, mac
+categories: [artist, mac]
 ---
 
 ### Who are you, and what do you do?

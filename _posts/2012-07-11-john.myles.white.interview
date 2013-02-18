@@ -3,7 +3,7 @@ layout: interview
 slug: john.myles.white
 title: "John Myles White"
 summary: "Statistics hacker, PhD student"
-categories: data, developer, mac
+categories: [data, developer, mac]
 ---
 
 ### Who are you, and what do you do?

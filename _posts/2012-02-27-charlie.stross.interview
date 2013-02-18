@@ -3,7 +3,7 @@ layout: interview
 slug: charlie.stross
 title: "Charlie Stross"
 summary: "Novelist, recovering software developer"
-categories: developer, mac, software, writer
+categories: [developer, mac, software, writer]
 ---
 
 ### Who are you, and what do you do?

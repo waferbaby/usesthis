@@ -3,8 +3,8 @@ layout: interview
 slug: andrew.w.k
 title: "Andrew W.K."
 summary: "Professional partyer"
-categories: mac, musician, windows
-credits: Ashley Eberbach
+categories: [mac, musician, windows]
+credits: {name: "Ashley Eberbach"}
 ---
 
 ### Who are you, and what do you do?

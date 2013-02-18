@@ -3,8 +3,8 @@ layout: interview
 slug: matt.might
 title: "Matt Might"
 summary: "CS Professor (University of Utah)"
-categories: linux, mac, professor
-credits: David Van Horn, http://www.flickr.com/photos/dvanhorn/6165121629/
+categories: [linux, mac, professor]
+credits: {name: "David Van Horn", url: "http://www.flickr.com/photos/dvanhorn/6165121629/"}
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: jonas.m.luster
 title: "Jonas M. Luster"
 summary: "Food scientist (el Bulli), developer"
-categories: chef, developer, food, linux, software
+categories: [chef, developer, food, linux, software]
 ---
 
 ### Who are you, and what do you do?

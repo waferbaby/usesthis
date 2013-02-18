@@ -3,7 +3,7 @@ layout: interview
 slug: isa.chandra.moskowitz
 title: "Isa Chandra Moskowitz"
 summary: "Vegan cook, writer"
-categories: food, mac, writer
+categories: [food, mac, writer]
 ---
 
 ### Who are you, and what do you do?

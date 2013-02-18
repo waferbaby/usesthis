@@ -3,7 +3,7 @@ layout: interview
 slug: andrei.alexandrescu
 title: "Andrei Alexandrescu"
 summary: "Research scientist (Facebook)"
-categories: linux, mac, researcher, scientist
+categories: [linux, mac, researcher, scientist]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: matt.neuburg
 title: "Matt Neuburg"
 summary: "Developer, writer, contributing editor (TidBITS)"
-categories: developer, editor, software, writer
+categories: [developer, editor, software, writer]
 ---
 
 ### Who are you, and what do you do?

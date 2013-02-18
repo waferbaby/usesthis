@@ -3,7 +3,7 @@ layout: interview
 slug: yihui.xie
 title: "Yihui Xie"
 summary: "PhD statistician, R developer"
-categories: data, developer, linux
+categories: [data, developer, linux]
 ---
 
 ### Who are you, and what do you do?

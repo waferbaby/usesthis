@@ -3,7 +3,7 @@ layout: interview
 slug: kieran.healy
 title: "Kieran Healy"
 summary: "Sociologist"
-categories: mac, professor, researcher, scientist
+categories: [mac, professor, researcher, scientist]
 ---
 
 ### Who are you, and what do you do?

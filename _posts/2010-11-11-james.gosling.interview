@@ -3,7 +3,7 @@ layout: interview
 slug: james.gosling
 title: "James Gosling"
 summary: "Software engineer (Java)"
-categories: developer, linux, mac, software
+categories: [developer, linux, mac, software]
 ---
 
 ### Who are you, and what do you do?

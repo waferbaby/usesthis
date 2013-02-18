@@ -3,7 +3,7 @@ layout: interview
 slug: boris.vorontsov
 title: "Boris Vorontsov"
 summary: "Game developer, modder"
-categories: developer, game, modder, windows
+categories: [developer, game, modder, windows]
 ---
 
 ### Who are you, and what do you do?

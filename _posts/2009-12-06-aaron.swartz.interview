@@ -3,7 +3,7 @@ layout: interview
 slug: aaron.swartz
 title: "Aaron Swartz"
 summary: "Hacker, activist"
-categories: developer, hacker, linux, mac, web
+categories: [developer, hacker, linux, mac, web]
 ---
 
 ### Who are you, and what do you do?

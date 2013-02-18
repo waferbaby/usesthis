@@ -3,7 +3,7 @@ layout: interview
 slug: jason.rohrer
 title: "Jason Rohrer"
 summary: "Game developer (Passage)"
-categories: developer, game, linux, windows
+categories: [developer, game, linux, windows]
 ---
 
 ### Who are you, and what do you do?

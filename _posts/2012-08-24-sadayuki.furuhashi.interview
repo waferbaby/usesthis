@@ -3,7 +3,7 @@ layout: interview
 slug: sadayuki.furuhashi
 title: "Sadayuki Furuhashi"
 summary: "Hacker (MessagePack, Fluentd)"
-categories: developer, hacker, mac, software
+categories: [developer, hacker, mac, software]
 ---
 
 ### Who are you, and what do you do?

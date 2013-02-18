@@ -3,7 +3,7 @@ layout: interview
 slug: laura.jansen
 title: "Laura Jansen"
 summary: "Cosplayer"
-categories: artist, cosplay
+categories: [artist, cosplay]
 ---
 
 ### Who are you, and what do you do?

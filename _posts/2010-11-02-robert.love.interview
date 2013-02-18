@@ -3,7 +3,7 @@ layout: interview
 slug: robert.love
 title: "Robert Love"
 summary: "Software engineer (Google)"
-categories: developer, linux, mac, software, writer
+categories: [developer, linux, mac, software, writer]
 ---
 
 ### Who are you, and what do you do?

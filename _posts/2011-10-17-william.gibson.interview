@@ -3,7 +3,7 @@ layout: interview
 slug: william.gibson
 title: "William Gibson"
 summary: "Novelist"
-categories: mac, writer
+categories: [mac, writer]
 ---
 
 ### Who are you, and what do you do?

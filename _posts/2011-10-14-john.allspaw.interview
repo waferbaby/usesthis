@@ -3,8 +3,8 @@ layout: interview
 slug: john.allspaw
 title: "John Allspaw"
 summary: "SVP of TechOps, Etsy"
-categories: engineer, mac, service
-credits: zqr, http://www.flickr.com/photos/zsqr0000/6244726320/
+categories: [engineer, mac, service]
+credits: {name: "zqr", url: "http://www.flickr.com/photos/zsqr0000/6244726320/"}
 ---
 
 ### Who are you, and what do you do?

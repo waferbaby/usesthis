@@ -3,7 +3,7 @@ layout: interview
 slug: american.mcgee
 title: "American McGee"
 summary: "Game designer"
-categories: developer, game, mac, windows
+categories: [developer, game, mac, windows]
 ---
 
 ### Who are you, and what do you do?

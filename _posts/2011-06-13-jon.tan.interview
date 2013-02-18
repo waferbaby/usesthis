@@ -3,8 +3,8 @@ layout: interview
 slug: jon.tan
 title: "Jon Tan"
 summary: "Designer (Fontdeck, Mapalong, Brooklyn Beta)"
-categories: designer, mac, web
-credits: Samantha Cliffe, http://samanthacliffe.com/
+categories: [designer, mac, web]
+credits: {name: "Samantha Cliffe", url: "http://samanthacliffe.com/"}
 ---
 
 ### Who are you, and what do you do?

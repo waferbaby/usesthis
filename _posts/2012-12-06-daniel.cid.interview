@@ -3,7 +3,7 @@ layout: interview
 slug: daniel.cid
 title: "Daniel Cid"
 summary: "Security researcher, developer (OSSEC)"
-categories: bsd, developer, linux, security, software
+categories: [bsd, developer, linux, security, software]
 ---
 
 ### Who are you, and what do you do?

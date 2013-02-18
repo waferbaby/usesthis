@@ -3,7 +3,7 @@ layout: interview
 slug: tom.armitage
 title: "Tom Armitage"
 summary: "Game designer, technologist (Hide and Seek)"
-categories: designer, developer, game, mac, web
+categories: [designer, developer, game, mac, web]
 ---
 
 ### Who are you, and what do you do?

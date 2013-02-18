@@ -3,7 +3,7 @@ layout: interview
 slug: kevin.meredith
 title: "Kevin Meredith"
 summary: "Photographer, teacher"
-categories: mac, photographer
+categories: [mac, photographer]
 ---
 
 ### Who are you, and what do you do?

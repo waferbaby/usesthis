@@ -3,7 +3,7 @@ layout: interview
 slug: ben.welsh
 title: "Ben Welsh"
 summary: "Reporter, web developer (LA Times)"
-categories: developer, linux, reporter, web
+categories: [developer, linux, reporter, web]
 ---
 
 ### Who are you, and what do you do?

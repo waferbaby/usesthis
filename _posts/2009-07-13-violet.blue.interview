@@ -3,7 +3,7 @@ layout: interview
 slug: violet.blue
 title: "Violet Blue"
 summary: "Writer, speaker, sex educator"
-categories: mac, sex, writer
+categories: [mac, sex, writer]
 ---
 
 ### Who are you, and what do you do?

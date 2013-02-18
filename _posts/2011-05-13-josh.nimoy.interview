@@ -3,7 +3,7 @@ layout: interview
 slug: josh.nimoy
 title: "Josh Nimoy"
 summary: "Artist, designer, hacktivist, musician, developer"
-categories: artist, designer, developer, film, mac, musician, software
+categories: [artist, designer, developer, film, mac, musician, software]
 ---
 
 ### Who are you, and what do you do?

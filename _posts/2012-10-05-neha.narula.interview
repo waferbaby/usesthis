@@ -3,7 +3,7 @@ layout: interview
 slug: neha.narula
 title: "Neha Narula"
 summary: "PhD student, data scientist, developer"
-categories: developer, linux, mac, student, windows
+categories: [developer, linux, mac, student, windows]
 ---
 
 ### Who are you, and what do you do?

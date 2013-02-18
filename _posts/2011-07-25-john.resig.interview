@@ -3,8 +3,8 @@ layout: interview
 slug: john.resig
 title: "John Resig"
 summary: "Programmer (jQuery)"
-categories: developer, mac, web, windows
-credits: Ben Alman, http://www.flickr.com/photos/rj3/5635241487/
+categories: [developer, mac, web, windows]
+credits: {name: "Ben Alman", url: "http://www.flickr.com/photos/rj3/5635241487/"}
 ---
 
 ### Who are you, and what do you do?

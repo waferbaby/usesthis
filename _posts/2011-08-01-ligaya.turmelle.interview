@@ -3,8 +3,8 @@ layout: interview
 slug: ligaya.turmelle
 title: "Ligaya Turmelle"
 summary: "MySQL DBA, PHP developer"
-categories: developer, mac, software
-credits: Rob Allen, http://www.flickr.com/photos/akrabat/5762478709/
+categories: [developer, mac, software]
+credits: {name: "Rob Allen", url: "http://www.flickr.com/photos/akrabat/5762478709/"}
 ---
 
 ### Who are you, and what do you do?

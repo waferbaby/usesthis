@@ -3,7 +3,7 @@ layout: interview
 slug: john.siracusa
 title: "John Siracusa"
 summary: "Programmer, writer (Ars Technica)"
-categories: developer, mac, software, writer
+categories: [developer, mac, software, writer]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: jim.giles
 title: "Jim Giles"
 summary: "Journalist, co-founder of Matter"
-categories: journalist, mac
+categories: [journalist, mac]
 ---
 
 ### Who are you, and what do you do?

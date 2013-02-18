@@ -3,7 +3,7 @@ layout: interview
 slug: brad.fitzpatrick
 title: "Brad Fitzpatrick"
 summary: "Developer (LiveJournal, memcached)"
-categories: developer, linux, mac, software, web
+categories: [developer, linux, mac, software, web]
 ---
 
 ### Who are you, and what do you do?

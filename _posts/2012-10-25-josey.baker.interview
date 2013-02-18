@@ -3,8 +3,8 @@ layout: interview
 slug: josey.baker
 title: "Josey Baker"
 summary: "Baker"
-categories: baker
-credits: Anita Bowen
+categories: [baker]
+credits: {name: "Anita Bowen"}
 ---
 
 ### Who are you, and what do you do?

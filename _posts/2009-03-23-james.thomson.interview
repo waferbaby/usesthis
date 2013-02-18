@@ -3,8 +3,8 @@ layout: interview
 slug: james.thomson
 title: "James Thomson"
 summary: "Mac developer (DragThing, PCalc)"
-categories: developer, mac, software
-credits: Ian Farrell, http://www.flickr.com/photos/iain
+categories: [developer, mac, software]
+credits: {name: "Ian Farrell", url: "http://www.flickr.com/photos/iain"}
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: sue.allspaw
 title: "Sue Allspaw"
 summary: "Poet, information security analyst"
-categories: poet, security, windows
+categories: [poet, security, windows]
 ---
 
 ### Who are you, and what do you do?

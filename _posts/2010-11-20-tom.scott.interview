@@ -3,8 +3,8 @@ layout: interview
 slug: tom.scott
 title: "Tom Scott"
 summary: "Geek comedian"
-categories: comedian, windows
-credits: Cristiano Betta, http://cristianobetta.com/
+categories: [comedian, windows]
+credits: {name: "Cristiano Betta", url: "http://cristianobetta.com/"}
 ---
 
 ### Who are you, and what do you do?

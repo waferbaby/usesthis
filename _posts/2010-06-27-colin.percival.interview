@@ -3,7 +3,7 @@ layout: interview
 slug: colin.percival
 title: "Colin Percival"
 summary: "Developer, security officer (FreeBSD)"
-categories: bsd, developer, software
+categories: [bsd, developer, software]
 ---
 
 ### Who are you, and what do you do?

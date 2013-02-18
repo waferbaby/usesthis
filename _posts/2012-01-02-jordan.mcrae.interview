@@ -3,7 +3,7 @@ layout: interview
 slug: jordan.mcrae
 title: "Jordan McRae"
 summary: "Inventor"
-categories: hacker, hardware, linux, mac, windows
+categories: [hacker, hardware, linux, mac, windows]
 ---
 
 ### Who are you, and what do you do?

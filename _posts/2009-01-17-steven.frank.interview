@@ -3,7 +3,7 @@ layout: interview
 slug: steven.frank
 title: "Steven Frank"
 summary: "Mac developer, co-founder of Panic"
-categories: developer, mac, software
+categories: [developer, mac, software]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: mary.rose.cook
 title: "Mary Rose Cook"
 summary: "Coder, musician"
-categories: developer, mac, musician, web
+categories: [developer, mac, musician, web]
 ---
 
 ### Who are you, and what do you do?

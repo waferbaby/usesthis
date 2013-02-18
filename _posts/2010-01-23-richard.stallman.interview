@@ -3,7 +3,7 @@ layout: interview
 slug: richard.stallman
 title: "Richard Stallman"
 summary: "Freedom campaigner"
-categories: developer, linux, software
+categories: [developer, linux, software]
 ---
 
 ### Who are you, and what do you do?

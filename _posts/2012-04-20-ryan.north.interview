@@ -3,8 +3,8 @@ layout: interview
 slug: ryan.north
 title: "Ryan North"
 summary: "Cartoonist (Dinosaur comics)"
-categories: artist, mac, windows
-credits: Zack DeZon
+categories: [artist, mac, windows]
+credits: {name: "Zack DeZon"}
 ---
 
 ### Who are you, and what do you do?

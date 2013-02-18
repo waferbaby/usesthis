@@ -3,8 +3,8 @@ layout: interview
 slug: richard.jones
 title: "Richard Jones"
 summary: "Developer (Last.fm, IRCCloud)"
-categories: developer, linux, mac, software, web
-credits: James Wheare, http://www.flickr.com/photos/jwheare/5768164371/
+categories: [developer, linux, mac, software, web]
+credits: {name: "James Wheare", url: "http://www.flickr.com/photos/jwheare/5768164371/"}
 ---
 
 ### Who are you, and what do you do?

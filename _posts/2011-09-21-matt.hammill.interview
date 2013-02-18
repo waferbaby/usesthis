@@ -3,7 +3,7 @@ layout: interview
 slug: matt.hammill
 title: "Matt Hammill"
 summary: "Artist, animator, game designer"
-categories: artist, designer, game, windows
+categories: [artist, designer, game, windows]
 ---
 
 ### Who are you, and what do you do?

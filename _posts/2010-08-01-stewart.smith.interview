@@ -3,7 +3,7 @@ layout: interview
 slug: stewart.smith
 title: "Stewart Smith"
 summary: "Programmer, graphic designer"
-categories: designer, developer, software
+categories: [designer, developer, software]
 ---
 
 ### Who are you, and what do you do?

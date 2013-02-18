@@ -3,8 +3,8 @@ layout: interview
 slug: eric.meyer
 title: "Eric Meyer"
 summary: "Web standards monkey"
-categories: developer, mac, web, writer
-credits: Pete Karl II, http://www.flickr.com/photos/pete-karl/
+categories: [developer, mac, web, writer]
+credits: {name: "Pete Karl II", url: "http://www.flickr.com/photos/pete-karl/"}
 ---
 
 ### Who are you, and what do you do?

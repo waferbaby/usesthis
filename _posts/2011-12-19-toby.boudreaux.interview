@@ -3,7 +3,7 @@ layout: interview
 slug: toby.boudreaux
 title: "Toby Boudreaux"
 summary: "Technologist, programmer, product designer"
-categories: designer, developer, interface, mac, windows
+categories: [designer, developer, interface, mac, windows]
 ---
 
 ### Who are you, and what do you do?

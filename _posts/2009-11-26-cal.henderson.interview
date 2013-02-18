@@ -3,7 +3,7 @@ layout: interview
 slug: cal.henderson
 title: "Cal Henderson"
 summary: "Web developer, professional asshat"
-categories: developer, mac, web, windows
+categories: [developer, mac, web, windows]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: alex.payne
 title: "Alex Payne"
 summary: "Developer, API bitch at Twitter"
-categories: developer, mac, web
+categories: [developer, mac, web]
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ layout: interview
 slug: kevin.kelly
 title: "Kevin Kelly"
 summary: "Writer, co-founder of Wired"
-categories: editor, mac, writer
+categories: [editor, mac, writer]
 ---
 
 ### Who are you, and what do you do?

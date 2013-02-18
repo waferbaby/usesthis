@@ -3,7 +3,7 @@ layout: interview
 slug: missy.prince
 title: "Missy Prince"
 summary: "Photographer"
-categories: photographer, windows
+categories: [photographer, windows]
 ---
 
 ### Who are you, and what do you do?

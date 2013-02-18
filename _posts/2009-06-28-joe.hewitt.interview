@@ -3,7 +3,7 @@ layout: interview
 slug: joe.hewitt
 title: "Joe Hewitt"
 summary: "Creator of Firebug, iPhone developer (Facebook)"
-categories: developer, mac, software
+categories: [developer, mac, software]
 ---
 
 ### Who are you, and what do you do?

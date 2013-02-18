@@ -3,7 +3,7 @@ layout: interview
 slug: maria.bustillos
 title: "Maria Bustillos"
 summary: "Writer"
-categories: windows, writer
+categories: [windows, writer]
 ---
 
 ### Who are you, and what do you do?

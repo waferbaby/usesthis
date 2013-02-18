@@ -3,7 +3,7 @@ layout: interview
 slug: gabriel.roth
 title: "Gabriel Roth"
 summary: "Writer, web developer"
-categories: developer, mac, web, writer
+categories: [developer, mac, web, writer]
 ---
 
 ### Who are you, and what do you do?

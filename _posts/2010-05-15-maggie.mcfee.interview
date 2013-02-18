@@ -3,7 +3,7 @@ layout: interview
 slug: maggie.mcfee
 title: "Maggie McFee"
 summary: "Technologist"
-categories: artist, mac, sysadmin
+categories: [artist, mac, sysadmin]
 ---
 
 ### Who are you, and what do you do?

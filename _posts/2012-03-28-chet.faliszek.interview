@@ -3,7 +3,7 @@ layout: interview
 slug: chet.faliszek
 title: "Chet Faliszek"
 summary: "Writer of games (Portal 2, Left 4 Dead 2)"
-categories: game, windows, writer
+categories: [game, windows, writer]
 ---
 
 ### Who are you, and what do you do?

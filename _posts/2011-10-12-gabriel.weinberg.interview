@@ -3,7 +3,7 @@ layout: interview
 slug: gabriel.weinberg
 title: "Gabriel Weinberg"
 summary: "Web developer, founder of DuckDuckGo"
-categories: developer, web, windows
+categories: [developer, web, windows]
 ---
 
 ### Who are you, and what do you do?
