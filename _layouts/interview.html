@@ -9,6 +9,7 @@ layout: default
 	<p class="details">
 	Posted <time datetime="{{page.date}}" pubdate>{{page.date || date_to_long_string}}</time> in
 	{% for category in page.categories %}<a href="/interviews/{{category}}" rel="category">{{category}}</a>{% endfor %}
+	{% if page.credits %} (photo by {% if page.credits.url %}<a href="{{page.credits.url}}" title="View more about {{page.credits.name}}.">{{page.credits.name}}</a>{% else %}{{page.credits.name}}{% endif %}){% endif %}
 	</p>
 	{{content}}
 </article>
