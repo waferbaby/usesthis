@@ -1,0 +1,5 @@
+---
+name: "Knoppix"
+description: "A Debian-based Linux distribution running off of a CD or DVD."
+type: software
+url: http://www.knopper.net/knoppix/index-en.html
