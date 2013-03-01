@@ -1,0 +1,5 @@
+---
+name: "Clojurescript"
+description: "A Clojure to Javascript compiler."
+type: software
+url: http://www.clojurescript.net/

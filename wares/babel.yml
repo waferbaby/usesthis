@@ -1,0 +1,5 @@
+---
+name: "Babel"
+description: "A part of Org-mode that allows code execution."
+type: software
+url: http://orgmode.org/worg/org-contrib/babel/
