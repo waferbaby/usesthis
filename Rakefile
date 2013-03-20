@@ -27,6 +27,7 @@ categories: []
 INTERVIEW
 
 		File.open(path, 'w') { |f| f.write(template) }
+		sh "open #{path}"
 	end
 end
 
@@ -46,6 +47,7 @@ url: http://
 WARE
 
 		File.open(path, 'w') { |f| f.write(template) }
+		sh "open #{path}"
 	end
 end
 
