@@ -2,7 +2,7 @@
 
 <h2 class="person"><a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}.">{{interview.title}}</a></h2>
 <p class="summary">{{interview.summary}}</p>
-<p class="date">Posted <time datetime="{{interview.date}}" pubdate>{{interview.date || date_to_long_string}}.</time></p>
+<p class="date">Posted <time datetime="{{interview.date || date: "%Y-%m-%d"}}">{{interview.date || date_to_long_string}}.</time></p>
 <ul class="categories">
-{% for category in interview.categories %}<li><a href="/interviews/{{category}}" rel="category" title="View all the '{{category}}' interviews.">{{category}}</a></li>{% endfor %}
+{% for category in interview.categories %}<li><a href="/interviews/{{category}}" title="View all the '{{category}}' interviews.">{{category}}</a></li>{% endfor %}
 </ul>
