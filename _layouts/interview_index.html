@@ -15,6 +15,6 @@ title: Interviews
 </ul>
 
 <h3>By category</h3>
-{% for category in site.categories %}
-<a href="/interviews/{{category[0]}}" rel="category" title="View all '{{category[0]}}' interviews.">{{category[0]}}</a>
-{% endfor %}
+<ul class="categories">
+{% for category in site.categories %}<li><a href="/interviews/{{category[0]}}" rel="category" title="View all '{{category[0]}}' interviews.">{{category[0]}}</a></li>{% endfor %}
+</ul>
