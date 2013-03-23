@@ -83,6 +83,16 @@ padding: 30px;
 margin: auto;
 }
 
+dd {
+padding: 10px 0;
+margin: 0 0 10px 0;
+font-size: 95%;
+}
+
+dt {
+font-size: 110%;
+}
+
 footer {
 clear: left;
 padding: 10px 0;
@@ -162,6 +172,10 @@ margin: 5px 0 10px 0;
 color: #aaa;
 }
 
+span.summary {
+color: #777;
+}
+
 ul.categories {
 padding: 0;
 margin: 10px 0;
@@ -170,8 +184,8 @@ font-size: 85%;
 }
 
 ul.categories li {
-display: inline;
-margin-right: 5px;
+display: inline-block;
+margin: 0 5px 3px 0;
 }
 
 @media screen and (max-width: 1190px) {
