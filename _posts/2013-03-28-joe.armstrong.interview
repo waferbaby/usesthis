@@ -1,0 +1,85 @@
+---
+layout: interview
+slug: joe.armstrong
+title: "Joe Armstrong"
+summary: "Software developer (Erlang)"
+categories: [developer, linux, mac, software]
+---
+
+### Who are you, and what do you do?
+
+[Joe Armstrong](http://armstrongonsoftware.blogspot.ru/ "Joe's website."), software engineer. Best known for my work on [Erlang][].
+
+### What hardware do you use?
+
+At home I use a 15-inch [MacBook Pro][macbook-pro]. For travel, lectures etc. I have a 11-inch [MacBook Air][macbook-air]. I have a [iMac][] for picture editing.
+
+My NAS is a 4TB [Synology DS411slim][ds411slim].
+
+Then I have two [Raspberry Pi's][raspberry-pi], quite a lot of [Arduinos][arduino].
+
+At work I have a [Dell Latitude E6430][latitude-e6430] quad-core 2.9GHZ 8GB 250GB SSD running [Ubuntu][].
+
+Camera: A [Lumix G3][lumix-dmc-g3] - micro 4/3 with a fantastic Vario 1:4/4-14 lens.
+
+Music production: A [Roland Integra-7][integra-7] (fantastic machine - an entire orchestra in a box) and a [Roland RD-700NX][rd-700nx] stage piano.
+
+Oh, and Roland noise reducing headphones [QuietComfort 15][quietcomfort-15] - essential for long-distance flights.
+
+Sonos sound system for listening to music.
+
+### And what software?
+
+[Emacs][], [make][] and [bash][] for all programming.
+
+[Keynote][] for slides. [Pages][] for letters.
+
+[Photoshop Elements][photoshop-elements] for editing photos, [Aperture][] for organizing images.
+
+[Spotify][] and [Rdio][] for music.
+
+I write books using XML markup in emacs (nxml mode), and run the text
+through the spell checker ([aspell][]) and the Mac voice synthesizer.
+
+I write code in Emacs - I don't use any IDEs and use printf debugging, apart from [Javascript][] which I run in the [Chrome][] browser.
+
+I use [GitHub][] for collaborative projects, [Dropbox][] to transfer files between my work machines, and Dreamhost for backup and private
+projects.
+
+I use [git][] and [svn][subversion] for version control.
+
+I use Erlang, bash scripts, Javascript, [C][], [Prolog][], various [Lisps][lisp] and makefiles for most programming projects. 
+
+[Evernote][] for a web clipbook, and chandler to organise jobs.
+
+### What would be your dream setup?
+
+Software that's not broken. 
+
+An infinite supply of paper, and pens that don't leak.
+
+I'd like a 11-inch laptop with a few days battery. I can't think it
+would need more than 16GB memory and 500GB SSD.
+
+It would have high quality voice input.
+
+It would cache data off-machine into fault-tolerant storage.
+
+If the machine broke I would like to go to any other machine
+and resume work within a few seconds without losing any data.
+
+If my machine was stolen I would like it to be totally unusable
+after a short time - so nobody would bother to steal it.
+
+I would like the machine to recognize me, through some mechanism
+(fingerprints, retina scan, DNA - who knows) so I don't need passwords.
+
+I would like to access all my data, securely forever, and index it
+all so I could find things.
+
+I want a total backup solution that snapshots and guards my data so
+nothing ever gets accidentally lost or destroyed.
+
+I want zero viruses, trojans, malware.
+
+I'm trying to build some of these things - right now I'm still stuck on the first point - making software that's not broken.
