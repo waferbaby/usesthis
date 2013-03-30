@@ -21,7 +21,7 @@ layout: nil
 	<updated>{{post.date | date_to_xmlschema}}</updated>
 	<id>http://{{post.slug}}.usesthis.com/</id>
 	<content type="html">
-	{% capture interview %}<p><img src="/images/portraits/{{post.slug}}.jpg" width="500" height="325" alt="{{post.title}}"></p>{{post.content}}{% endcapture %}
+	{% capture interview %}<p><img src="http://usesthis.com/images/portraits/{{post.slug}}.jpg" width="500" height="325" alt="{{post.title}}"></p>{{post.content}}{% endcapture %}
 	{{interview | xml_escape}}
 </content>
 </entry>
