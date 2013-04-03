@@ -208,11 +208,11 @@ ul.months li:first-child:before {
 content: "";
 }
 
-ul.years li {
+ul.years > li {
 padding-right: 10px;
 }
 
-ul.years li a:after {
+ul.years > li > a:after {
 content: ": ";
 }
 
