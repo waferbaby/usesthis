@@ -188,6 +188,34 @@ color: #555 !important;
 border: solid 1px #aaa;
 }
 
+ul.months {
+display: inline;
+padding: 0;
+margin: 0;
+font-size: 90%;
+}
+
+ul.months li{
+display: inline;
+color: #aaa;
+}
+
+ul.months li:before {
+content: "/ ";
+}
+
+ul.months li:first-child:before {
+content: "";
+}
+
+ul.years li {
+padding-right: 10px;
+}
+
+ul.years li a:after {
+content: ": ";
+}
+
 @media screen and (max-width: 1190px) {
 
 	body {
