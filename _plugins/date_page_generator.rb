@@ -2,7 +2,7 @@ module Jekyll
 
 	class DatePage < Page
 
-		def initialize(site, base, dir, year, posts)
+		def initialize(site, base, dir, title, posts)
 
 			@site = site
 			@base = base
@@ -12,14 +12,14 @@ module Jekyll
 			self.process(@name)
 			self.read_yaml(File.join(base, '_layouts'), 'interview_date.html')
 
-			self.data['title'] = "In #{year}"
-			self.data['year_posts'] = posts
+			self.data['title'] = title
+			self.data['posts_by_date'] = posts
 		end
 	end
 
 	class DateIndexPage < Page
 
-		def initialize(site, base, dir, years)
+		def initialize(site, base, dir, archives)
 
 			@site = site
 			@base = base
@@ -29,7 +29,7 @@ module Jekyll
 			self.process(@name)
 			self.read_yaml(File.join(base, '_layouts'), 'interview_index.html')
 
-			self.data['years'] = years
+			self.data['archives'] = archives
 		end
 	end
 
@@ -38,17 +38,29 @@ module Jekyll
 		safe true
 
 		def generate(site)
-			years = {}
+			archives = {}
 
 			site.posts.reverse.each do |post|
-				(years[post.date.year] ||= []) << post
+
+				year = post.date.year
+				month = post.date.strftime('%m')
+
+				archives[year] ||= {}
+				(archives[year][month] ||= []) << post
 			end
 
-			years.each_pair do |year, posts|
-				site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s), year, posts)
+			archives.each_pair do |year, archive|
+
+				year_posts = []
+
+				archive.each_pair do |month, posts|
+					site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s, month.to_s), "#{posts[0].date.strftime('%B')}, #{year}", posts)
+				end
+
+				site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s), year, year_posts)
 			end
 
-			site.pages << DateIndexPage.new(site, site.source, 'interviews', years)
+			site.pages << DateIndexPage.new(site, site.source, 'interviews', archives)
 		end
 	end
 end
