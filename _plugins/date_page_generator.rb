@@ -54,6 +54,7 @@ module Jekyll
 				year_posts = []
 
 				archive.each_pair do |month, posts|
+					year_posts.concat(posts)
 					site.pages << DatePage.new(site, site.source, File.join('interviews', year.to_s, month.to_s), "#{posts[0].date.strftime('%B')}, #{year}", posts)
 				end
 
