@@ -27,8 +27,7 @@ categories: []
 INTERVIEW
 
 		File.open(path, 'w') { |f| f.write(template) }
-		sh "subl ."
-		sh "subl #{path}"
+		sh "subl . #{path}"
 	end
 end
 
@@ -48,8 +47,7 @@ url: http://
 WARE
 
 		File.open(path, 'w') { |f| f.write(template) }
-		sh "subl ."
-		sh "subl #{path}"
+		sh "subl . #{path}"
 	end
 end
 
