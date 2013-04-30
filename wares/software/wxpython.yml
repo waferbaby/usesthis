@@ -1,5 +1,4 @@
 ---
 name: "wxPython"
 description: "Python bindings for wxWidgets."
-type: software
 url: http://www.wxpython.org/

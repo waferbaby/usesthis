@@ -1,5 +1,4 @@
 ---
 name: "Rdio"
 description: "A music streaming service."
-type: software
 url: http://www.rdio.com/

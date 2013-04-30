@@ -1,5 +1,4 @@
 ---
 name: "Goodreads"
 description: "A service for tracking the book you've read."
-type: software
 url: http://www.goodreads.com/

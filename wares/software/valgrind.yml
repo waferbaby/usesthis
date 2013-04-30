@@ -1,5 +1,4 @@
 ---
 name: "Valgrid"
 description: "An instrumentation and analysis tool for developers."
-type: software
 url: http://valgrind.org/

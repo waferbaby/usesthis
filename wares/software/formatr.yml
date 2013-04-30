@@ -1,5 +1,4 @@
 ---
 name: "formatR"
 description: "A tool for formatting R code."
-type: software
 url: http://yihui.name/formatR/

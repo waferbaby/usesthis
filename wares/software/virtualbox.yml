@@ -1,5 +1,4 @@
 ---
 name: "VirtualBox"
 description: "Open-source virtualisation software."
-type: software
 url: http://www.virtualbox.org/

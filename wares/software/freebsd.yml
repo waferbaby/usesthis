@@ -1,5 +1,4 @@
 ---
 name: "FreeBSD"
 description: "An open source operating system."
-type: software
 url: http://freebsd.org/

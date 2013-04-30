@@ -1,5 +1,4 @@
 ---
 name: "Bamboo"
 description: "Continuous integration software."
-type: software
 url: http://www.atlassian.com/software/bamboo/overview

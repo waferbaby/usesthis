@@ -1,5 +1,4 @@
 ---
 name: "MySQL"
 description: "A popular relational database server."
-type: software
 url: http://mysql.com/

@@ -1,5 +1,4 @@
 ---
 name: "msysGit"
 description: "A Windows version of Git built on MSys."
-type: software
 url: https://github.com/msysgit/msysgit/

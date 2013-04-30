@@ -1,5 +1,4 @@
 ---
 name: "VLC"
 description: "An open-source media player."
-type: software
 url: http://www.videolan.org/vlc/

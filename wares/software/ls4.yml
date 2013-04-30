@@ -1,5 +1,4 @@
 ---
 name: "LS4"
 description: "A distributed storage system."
-type: software
 url: http://ls4.sourceforge.net/

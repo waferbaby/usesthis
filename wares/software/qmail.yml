@@ -1,5 +1,4 @@
 ---
 name: "qmail"
 description: "An SMTP server."
-type: software
 url: http://www.qmail.org/top.html

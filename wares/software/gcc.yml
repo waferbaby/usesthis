@@ -1,5 +1,4 @@
 ---
 name: "GCC"
 description: "Code compiler frontends."
-type: software
 url: http://gcc.gnu.org/

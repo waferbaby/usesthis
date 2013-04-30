@@ -1,5 +1,4 @@
 ---
 name: "Klocwork Insight"
 description: "Static analysis software for developers."
-type: software
 url: http://www.klocwork.com/products/insight/

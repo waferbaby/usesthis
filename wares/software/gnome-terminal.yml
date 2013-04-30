@@ -1,5 +1,4 @@
 ---
 name: "GNOME Terminal"
 description: "A terminal application."
-type: software
 url: http://library.gnome.org/users/gnome-terminal/stable/gnome-terminal-introduction.html.en

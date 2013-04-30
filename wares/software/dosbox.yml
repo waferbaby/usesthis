@@ -1,5 +1,4 @@
 ---
 name: "DOSBOX"
 description: "An x86/DOS emulator."
-type: software
 url: http://www.dosbox.com/

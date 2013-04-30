@@ -1,5 +1,4 @@
 ---
 name: "Tomcat"
 description: "A JavaServer Pages server."
-type: software
 url: http://tomcat.apache.org/

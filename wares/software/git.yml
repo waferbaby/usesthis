@@ -1,5 +1,4 @@
 ---
 name: "Git"
 description: "A version control system."
-type: software
 url: http://git-scm.com/

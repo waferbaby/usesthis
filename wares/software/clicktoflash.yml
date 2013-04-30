@@ -1,5 +1,4 @@
 ---
 name: "ClickToFlash"
 description: "A browser plugin to require clicking before Flash content loads."
-type: software
 url: http://clicktoflash.com/

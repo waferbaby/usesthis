@@ -1,5 +1,4 @@
 ---
 name: "Hping"
 description: "A command line packet analyser."
-type: software
 url: http://www.hping.org/

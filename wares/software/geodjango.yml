@@ -1,5 +1,4 @@
 ---
 name: "GeoDjango"
 description: "A geographic-based Python web framework."
-type: software
 url: http://geodjango.org/

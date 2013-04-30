@@ -1,5 +1,4 @@
 ---
 name: "FastMail"
 description: "An email hosting service."
-type: software
 url: http://fastmail.fm/

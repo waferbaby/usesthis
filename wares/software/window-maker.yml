@@ -1,5 +1,4 @@
 ---
 name: "Window Maker"
 description: "An X window manager inspired by NeXTStep's interface."
-type: software
 url: http://windowmaker.org/

@@ -1,5 +1,4 @@
 ---
 name: "Ethnio"
 description: "A web service for requesting user feedback/research."
-type: software
 url: http://ethn.io/

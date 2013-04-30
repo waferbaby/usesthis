@@ -1,5 +1,4 @@
 ---
 name: "Stripe"
 description: "A payment service."
-type: software
 url: https://stripe.com/

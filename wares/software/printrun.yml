@@ -1,5 +1,4 @@
 ---
 name: "Printrun"
 description: "A 3D printer driver."
-type: software
 url: https://github.com/kliment/Printrun

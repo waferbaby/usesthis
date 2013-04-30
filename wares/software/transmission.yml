@@ -1,5 +1,4 @@
 ---
 name: "Transmission"
 description: "A popular BitTorrent client."
-type: software
 url: http://transmissionbt.com/

@@ -1,5 +1,4 @@
 ---
 name: "Fluxbox"
 description: "A lightweight window manager for X."
-type: software
 url: http://fluxbox.org/

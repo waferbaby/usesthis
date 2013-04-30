@@ -1,5 +1,4 @@
 ---
 name: "djbdns"
 description: "DNS server software."
-type: software
 url: http://cr.yp.to/djbdns.html

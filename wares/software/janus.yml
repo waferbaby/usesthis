@@ -1,5 +1,4 @@
 ---
 name: "Janus"
 description: "A popular collection of Vim plugins."
-type: software
 url: https://github.com/carlhuda/janus

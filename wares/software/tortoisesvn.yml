@@ -1,5 +1,4 @@
 ---
 name: "TortoiseSVN"
 description: "A Subversion client for Windows."
-type: software
 url: http://tortoisesvn.net/

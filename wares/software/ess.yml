@@ -1,5 +1,4 @@
 ---
 name: "ESS"
 description: "An Emacs package for statistical analysis program support."
-type: software
 url: http://ess.r-project.org/

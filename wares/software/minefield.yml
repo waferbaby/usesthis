@@ -1,5 +1,4 @@
 ---
 name: "Minefield"
 description: "A trunk build of Firefox"
-type: software
 url: http://www.mozilla.org/projects/minefield/

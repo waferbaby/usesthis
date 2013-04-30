@@ -1,5 +1,4 @@
 ---
 name: "RE2"
 description: "A regular expression engine."
-type: software
 url: http://code.google.com/p/re2

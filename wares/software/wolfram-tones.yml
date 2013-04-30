@@ -1,5 +1,4 @@
 ---
 name: "Wolfram Tones"
 description: "An experimental audio generating web tool."
-type: software
 url: http://tones.wolfram.com/

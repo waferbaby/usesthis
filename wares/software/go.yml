@@ -1,5 +1,4 @@
 ---
 name: "Go"
 description: "A compiled programming language."
-type: software
 url: http://golang.org/

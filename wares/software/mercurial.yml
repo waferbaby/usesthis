@@ -1,5 +1,4 @@
 ---
 name: "Mercurial"
 description: "A version control system."
-type: software
 url: http://mercurial.selenic.com/

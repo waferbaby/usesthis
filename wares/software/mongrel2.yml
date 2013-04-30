@@ -1,5 +1,4 @@
 ---
 name: "Mongrel2"
 description: "Web server software."
-type: software
 url: http://mongrel2.org/

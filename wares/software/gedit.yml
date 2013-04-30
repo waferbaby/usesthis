@@ -1,5 +1,4 @@
 ---
 name: "gedit"
 description: "A text editor for GNOME."
-type: software
 url: http://projects.gnome.org/gedit/

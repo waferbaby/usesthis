@@ -1,5 +1,4 @@
 ---
 name: "animation"
 description: "An animation package for R."
-type: software
 url: http://yihui.name/animation/

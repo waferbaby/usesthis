@@ -1,5 +1,4 @@
 ---
 name: "homebrew"
 description: "Command-line package manager for OS X."
-type: software
 url: https://github.com/mxcl/homebrew/

@@ -1,5 +1,4 @@
 ---
 name: "Cassandra"
 description: "A distributed database system."
-type: software
 url: https://cassandra.apache.org/

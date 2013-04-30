@@ -1,5 +1,4 @@
 ---
 name: "Bip"
 description: "IRC proxy software."
-type: software
 url: http://bip.milkypond.org/

@@ -1,5 +1,4 @@
 ---
 name: "duplicity"
 description: "An rsync-based backup program."
-type: software
 url: http://duplicity.nongnu.org/

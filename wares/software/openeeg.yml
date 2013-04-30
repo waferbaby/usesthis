@@ -1,5 +1,4 @@
 ---
 name: "OpenEEG"
 description: "Open source software and plans for EEG devices."
-type: software
 url: http://openeeg.sourceforge.net/

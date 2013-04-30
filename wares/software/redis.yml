@@ -1,5 +1,4 @@
 ---
 name: "Redis"
 description: "A key-value data store and more."
-type: software
 url: http://code.google.com/p/redis/

@@ -1,5 +1,4 @@
 ---
 name: "Fluentd"
 description: "A log collector."
-type: software
 url: http://fluentd.org/

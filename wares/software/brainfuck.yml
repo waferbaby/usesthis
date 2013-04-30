@@ -1,5 +1,4 @@
 ---
 name: "brainfuck"
 description: "A minimalist programming language."
-type: software
 url: http://en.wikipedia.org/wiki/Brainfuck

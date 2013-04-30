@@ -1,5 +1,4 @@
 ---
 name: "StumbleUpon"
 description: "A web service for finding interesting sites for you."
-type: software
 url: http://www.stumbleupon.com/

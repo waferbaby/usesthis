@@ -1,5 +1,4 @@
 ---
 name: "Win2PDF"
 description: "A virtual printer for Windows used to 'print' PDF files."
-type: software
 url: http://www.win2pdf.com/

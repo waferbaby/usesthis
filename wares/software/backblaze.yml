@@ -1,5 +1,4 @@
 ---
 name: "Backblaze"
 description: "Online backup."
-type: software
 url: http://backblaze.com/internet-backup.html

@@ -1,5 +1,4 @@
 ---
 name: "Gimme Bar"
 description: "A web service for storing collections of things from the web."
-type: software
 url: http://gimmebar.com/

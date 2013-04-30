@@ -1,5 +1,4 @@
 ---
 name: "Sentry"
 description: "A realtime event logging tool for developers."
-type: software
 url: https://github.com/dcramer/sentry

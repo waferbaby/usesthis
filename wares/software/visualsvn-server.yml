@@ -1,5 +1,4 @@
 ---
 name: "VisualSVN Server"
 description: "A Subversion server for Windows."
-type: software
 url: http://www.visualsvn.com/server/

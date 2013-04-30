@@ -1,5 +1,4 @@
 ---
 name: "Perlbrew"
 description: "A tool for building self-contained Perl environments."
-type: software
 url: http://perlbrew.pl/

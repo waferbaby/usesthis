@@ -1,5 +1,4 @@
 ---
 name: "qlmarkdown"
 description: "A Quick Look plugin for Markdown files."
-type: software
 url: https://github.com/toland/qlmarkdown

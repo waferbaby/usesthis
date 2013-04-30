@@ -1,5 +1,4 @@
 ---
 name: "IPython"
 description: "An interactive shell for Python."
-type: software
 url: http://ipython.org/

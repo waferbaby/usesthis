@@ -1,5 +1,4 @@
 ---
 name: "Aquamacs"
 description: "An OS X native version of Emacs."
-type: software
 url: http://aquamacs.org/

@@ -1,5 +1,4 @@
 ---
 name: "Pandoc"
 description: "A Markdown document converter."
-type: software
 url: http://johnmacfarlane.net/pandoc/

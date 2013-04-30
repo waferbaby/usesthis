@@ -1,5 +1,4 @@
 ---
 name: "TortoiseGit"
 description: "A Git client for Windows."
-type: software
 url: https://code.google.com/p/tortoisegit/

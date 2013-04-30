@@ -1,5 +1,4 @@
 ---
 name: "Mapalong"
 description: "A web service for attaching stories, check-ins and tweets to maps."
-type: software
 url: https://mapalong.com/hello

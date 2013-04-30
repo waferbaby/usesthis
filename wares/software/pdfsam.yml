@@ -1,5 +1,4 @@
 ---
 name: "PDFsam"
 description: "Open source software for splitting/merging PDF files."
-type: software
 url: http://www.pdfsam.org/

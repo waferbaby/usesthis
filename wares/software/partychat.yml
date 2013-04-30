@@ -1,5 +1,4 @@
 ---
 name: "Partychat"
 description: "A chat room service based on top of Jabber."
-type: software
 url: http://partychapp.appspot.com/

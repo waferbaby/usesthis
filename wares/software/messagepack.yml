@@ -1,5 +1,4 @@
 ---
 name: "MessagePack"
 description: "A binary serialisation format, similar to JSON."
-type: software
 url: http://msgpack.org/

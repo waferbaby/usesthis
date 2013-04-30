@@ -1,5 +1,4 @@
 ---
 name: "NumPy"
 description: "A Python package for scientific computing."
-type: software
 url: http://numpy.scipy.org/

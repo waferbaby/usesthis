@@ -1,5 +1,4 @@
 ---
 name: "Bittorrent"
 description: "Distributed file sharing."
-type: software
 url: http://www.bittorrent.com/

@@ -1,5 +1,4 @@
 ---
 name: "Hunspell"
 description: "A spell checking system."
-type: software
 url: http://hunspell.sourceforge.net/

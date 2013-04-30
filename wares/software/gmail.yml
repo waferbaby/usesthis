@@ -1,5 +1,4 @@
 ---
 name: "Gmail"
 description: "Web-based email."
-type: software
 url: http://mail.google.com/

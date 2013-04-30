@@ -1,5 +1,4 @@
 ---
 name: "KGS Go (Client)"
 description: "A client for the KGS Go server."
-type: software
 url: http://www.gokgs.com/download.jsp

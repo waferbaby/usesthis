@@ -1,5 +1,4 @@
 ---
 name: "Stasis"
 description: "A Ruby-based static site generator."
-type: software
 url: http://stasis.me/

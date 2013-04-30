@@ -1,5 +1,4 @@
 ---
 name: "PIL"
 description: "An image library for Python."
-type: software
 url: http://www.pythonware.com/products/pil/

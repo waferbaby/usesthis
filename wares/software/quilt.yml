@@ -1,5 +1,4 @@
 ---
 name: "Quilt"
 description: "A patch tracking system."
-type: software
 url: http://savannah.nongnu.org/projects/quilt

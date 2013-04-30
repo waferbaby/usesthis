@@ -1,5 +1,4 @@
 ---
 name: "Obnam"
 description: "A backup tool."
-type: software
 url: http://liw.fi/obnam/

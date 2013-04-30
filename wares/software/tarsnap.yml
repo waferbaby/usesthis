@@ -1,5 +1,4 @@
 ---
 name: "Tarsnap"
 description: "An online backup system, aimed at *nix-based computers."
-type: software
 url: http://www.tarsnap.com/

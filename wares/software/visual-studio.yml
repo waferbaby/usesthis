@@ -1,5 +1,4 @@
 ---
 name: "Visual Studio"
 description: "A Windows development environment."
-type: software
 url: http://msdn.microsoft.com/en-us/vstudio/default.aspx
