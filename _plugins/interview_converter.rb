@@ -6,7 +6,7 @@ module Jekyll
 		def initialize(config)
 			@wares = {}
 
-			Dir.glob(File.join(config['source'], 'wares', "*.yml")) do |path|
+			Dir.glob(File.join(config['source'], 'wares', "**", "*.yml")) do |path|
 				begin
 					@wares[File.basename(path, File.extname(path))] = YAML::load_file(path)
 				rescue
