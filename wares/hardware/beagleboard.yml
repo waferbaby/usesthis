@@ -1,5 +1,4 @@
 ---
 name: "BeagleBoard"
 description: "An open development hardware board."
-type: hardware
 url: http://beagleboard.org/

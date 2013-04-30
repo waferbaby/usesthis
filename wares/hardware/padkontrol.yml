@@ -1,5 +1,4 @@
 ---
 name: "padKONTROL"
 description: "A MIDI studio controller."
-type: hardware
 url: http://www.korg.com/padkontrol

@@ -1,5 +1,4 @@
 ---
 name: "DNS-323"
 description: "A network storage device."
-type: hardware
 url: http://www.dlink.com/products/?pid=509

@@ -1,5 +1,4 @@
 ---
 name: "Arduino"
 description: "Open-source prototyping hardware."
-type: hardware
 url: http://arduino.cc/

@@ -1,5 +1,4 @@
 ---
 name: "iMate"
 description: "An ADB to USB dongle."
-type: hardware
 url: http://griffintechnology.com/products/imate/

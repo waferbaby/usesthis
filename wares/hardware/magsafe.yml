@@ -1,5 +1,4 @@
 ---
 name: "MagSafe"
 description: "Apple's proprietary magnetic power connector."
-type: hardware
 url: http://en.wikipedia.org/wiki/MagSafe

@@ -1,5 +1,4 @@
 ---
 name: "SHOWWX"
 description: "A laser pico projector."
-type: hardware
 url: http://www.microvision.com/showwx/

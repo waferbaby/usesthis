@@ -1,5 +1,4 @@
 ---
 name: "EyeTap"
 description: "A wearble computing device."
-type: hardware
 url: http://eyetap.org/

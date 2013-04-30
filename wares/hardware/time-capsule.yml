@@ -1,5 +1,4 @@
 ---
 name: "Time Capsule"
 description: "A WiFi access point and backup system."
-type: hardware
 url: http://www.apple.com/timecapsule/
