@@ -1,4 +1,4 @@
 ---
 name: "GSL"
 description: "A C/C++ numerical library."
-url: http://www.gnu.org/software/gsl/
+url: "http://www.gnu.org/software/gsl/"

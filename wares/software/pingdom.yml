@@ -1,4 +1,4 @@
 ---
 name: "Pingdom"
 description: "An uptime and performance web service."
-url: http://www.pingdom.com/
+url: "http://www.pingdom.com/"

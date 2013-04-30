@@ -1,4 +1,4 @@
 ---
 name: "wget"
 description: "A multi-protocol file downloading command-line tool."
-url: http://www.gnu.org/s/wget/
+url: "http://www.gnu.org/s/wget/"

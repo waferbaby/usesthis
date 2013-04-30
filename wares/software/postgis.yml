@@ -1,4 +1,4 @@
 ---
 name: "PostGIS"
 description: "A PostgreSQL add-on that adds geographic support."
-url: http://www.postgis.org/
+url: "http://www.postgis.org/"

@@ -1,4 +1,4 @@
 ---
 name: "Harvest"
 description: "A time-tracking and invoice web service."
-url: http://www.getharvest.com/
+url: "http://www.getharvest.com/"

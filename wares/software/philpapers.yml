@@ -1,4 +1,4 @@
 ---
 name: "PhilPapers"
 description: "A web-based philosophy research service."
-url: http://philpapers.org/
+url: "http://philpapers.org/"

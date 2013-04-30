@@ -1,4 +1,4 @@
 ---
 name: "PostgreSQL"
 description: "A popular relational database server."
-url: http://www.postgresql.org/
+url: "http://www.postgresql.org/"

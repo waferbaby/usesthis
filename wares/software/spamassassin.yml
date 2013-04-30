@@ -1,4 +1,4 @@
 ---
 name: "SpamAssassin"
 description: "Server-side spam-fighting software."
-url: http://spamassassin.apache.org/
+url: "http://spamassassin.apache.org/"

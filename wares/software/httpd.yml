@@ -1,4 +1,4 @@
 ---
 name: "httpd"
 description: "A very popular web server."
-url: http://httpd.apache.org/
+url: "http://httpd.apache.org/"

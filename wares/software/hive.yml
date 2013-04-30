@@ -1,4 +1,4 @@
 ---
 name: "Hive"
 description: "A tool for working with Hadoop systems."
-url: http://hive.apache.org/
+url: "http://hive.apache.org/"

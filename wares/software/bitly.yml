@@ -1,4 +1,4 @@
 ---
 name: "bitly"
 description: "A link shortening and tracking service."
-url: http://bitly.com/
+url: "http://bitly.com/"

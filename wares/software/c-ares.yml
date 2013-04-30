@@ -1,4 +1,4 @@
 ---
 name: "c-ares"
 description: "A DNS library."
-url: http://c-ares.haxx.se/
+url: "http://c-ares.haxx.se/"

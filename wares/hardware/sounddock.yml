@@ -1,4 +1,4 @@
 ---
 name: "Bose SoundDock"
 description: "A speaker system for iPods."
-url: http://www.bose.com/controller?event=DTC_LINKS_TARGET_EVENT&DTCLinkID=7475&src=SOUNDDOCK
+url: "http://www.bose.com/controller?event=DTC_LINKS_TARGET_EVENT&DTCLinkID=7475&src=SOUNDDOCK"

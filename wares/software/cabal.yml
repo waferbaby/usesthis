@@ -1,4 +1,4 @@
 ---
 name: "Cabal"
 description: "A packaging system for Haskell."
-url: http://www.haskell.org/cabal/
+url: "http://www.haskell.org/cabal/"

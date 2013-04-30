@@ -1,4 +1,4 @@
 ---
 name: "Kubuntu"
 description: "A version of Ubuntu that uses KDE instead of GNOME."
-url: http://www.kubuntu.org/
+url: "http://www.kubuntu.org/"

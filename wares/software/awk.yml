@@ -1,4 +1,4 @@
 ---
 name: "awk"
 description: "Data formatting software."
-url: http://www.gnu.org/software/gawk/
+url: "http://www.gnu.org/software/gawk/"

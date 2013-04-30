@@ -1,4 +1,4 @@
 ---
 name: "Server Density"
 description: "A server monitoring web service."
-url: http://www.serverdensity.com/
+url: "http://www.serverdensity.com/"

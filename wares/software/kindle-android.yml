@@ -1,4 +1,4 @@
 ---
 name: "Kindle (Android)"
 description: "A Kindle client for Android."
-url: https://market.android.com/details?id=com.amazon.kindle
+url: "https://market.android.com/details?id=com.amazon.kindle"

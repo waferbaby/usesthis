@@ -1,4 +1,4 @@
 ---
 name: "curl"
 description: "A command line tool for transferring data from URLs."
-url: http://curl.haxx.se/
+url: "http://curl.haxx.se/"

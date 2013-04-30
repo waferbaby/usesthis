@@ -1,4 +1,4 @@
 ---
 name: ".NET Memory Profiler"
 description: "A program for finding memory leaks in .NET programs."
-url: http://memprofiler.com/
+url: "http://memprofiler.com/"

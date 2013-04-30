@@ -1,4 +1,4 @@
 ---
 name: "Coverity Static Analysis"
 description: "Static analysis software for developers."
-url: http://coverity.com/products/static-analysis.html
+url: "http://coverity.com/products/static-analysis.html"

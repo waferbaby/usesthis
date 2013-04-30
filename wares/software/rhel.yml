@@ -1,4 +1,4 @@
 ---
 name: "Red Hat Enterprise"
 description: "A certified version of the Linux distribution."
-url: http://www.redhat.com/rhel/
+url: "http://www.redhat.com/rhel/"

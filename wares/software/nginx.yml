@@ -1,4 +1,4 @@
 ---
 name: "nginx"
 description: "A very fast web/mail server."
-url: http://nginx.org/
+url: "http://nginx.org/"

@@ -1,4 +1,4 @@
 ---
 name: "libvirt"
 description: "A library for interacting with various OS' virtualisation capabilities."
-url: http://libvirt.org/
+url: "http://libvirt.org/"

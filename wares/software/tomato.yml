@@ -1,4 +1,4 @@
 ---
 name: "Tomato"
 description: "Replacement firmware for the Linksys WRT54GL."
-url: http://polarcloud.com/tomato/
+url: "http://polarcloud.com/tomato/"

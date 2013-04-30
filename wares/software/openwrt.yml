@@ -1,4 +1,4 @@
 ---
 name: "OpenWRT"
 description: "An embedded Linux distribution for wireless routers."
-url: https://openwrt.org/
+url: "https://openwrt.org/"

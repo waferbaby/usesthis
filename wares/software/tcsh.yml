@@ -1,4 +1,4 @@
 ---
 name: "tcsh"
 description: "A command-line shell."
-url: http://www.tcsh.org/
+url: "http://www.tcsh.org/"

@@ -1,4 +1,4 @@
 ---
 name: "Cassandra"
 description: "A distributed database system."
-url: https://cassandra.apache.org/
+url: "https://cassandra.apache.org/"

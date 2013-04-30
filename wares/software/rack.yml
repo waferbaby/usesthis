@@ -1,4 +1,4 @@
 ---
 name: "Rack"
 description: "A Ruby framework interface."
-url: http://rack.rubyforge.org/
+url: "http://rack.rubyforge.org/"

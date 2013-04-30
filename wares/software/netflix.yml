@@ -1,4 +1,4 @@
 ---
 name: "Netflix"
 description: "A movie rental and streaming service."
-url: http://www.netflix.com/
+url: "http://www.netflix.com/"

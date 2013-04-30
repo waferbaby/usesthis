@@ -1,4 +1,4 @@
 ---
 name: "Nessus"
 description: "Vulnerability scanner software."
-url: http://www.nessus.org/nessus/
+url: "http://www.nessus.org/nessus/"

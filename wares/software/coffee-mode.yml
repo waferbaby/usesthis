@@ -1,4 +1,4 @@
 ---
 name: "coffee-mode"
 description: "A CoffeeScript mode for Emacs."
-url: https://github.com/defunkt/coffee-mode
+url: "https://github.com/defunkt/coffee-mode"

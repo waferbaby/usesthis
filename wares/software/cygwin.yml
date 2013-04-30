@@ -1,4 +1,4 @@
 ---
 name: "Cygwin"
 description: "A Linux-like environment for Windows."
-url: http://www.cygwin.com/
+url: "http://www.cygwin.com/"

@@ -1,4 +1,4 @@
 ---
 name: "Chrome"
 description: "A WebKit-based browser, where each tab runs in its own thread."
-url: http://google.com/chrome
+url: "http://google.com/chrome"

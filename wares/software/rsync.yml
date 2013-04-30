@@ -1,4 +1,4 @@
 ---
 name: "rsync"
 description: "An open-source file transfer/syncing tool."
-url: http://samba.anu.edu.au/rsync/
+url: "http://samba.anu.edu.au/rsync/"

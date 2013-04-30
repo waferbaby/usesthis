@@ -1,4 +1,4 @@
 ---
 name: "Reshape"
 description: "An R package for munging and aggregating data."
-url: http://had.co.nz/reshape
+url: "http://had.co.nz/reshape"
