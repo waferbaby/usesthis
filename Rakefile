@@ -35,15 +35,14 @@ namespace :ware do
 	task :new, [:slug, :is_hardware] do |t, args|
 		fail "Error: No slug provided" if args.slug.nil?
 
-		path = File.join(Dir.pwd, 'wares', "#{args.slug}.yml")
+		path = File.join(Dir.pwd, 'wares', args.is_hardware ? 'hardware' : 'software', "#{args.slug}.yml")
 		fail "Error: Ware already exists." if File.exists?(path)
 
 				template = <<WARE
 ---
 name: ""
 description: ""
-type: #{args.is_hardware ? 'hardware' : 'software'}
-url: http://
+url: ""
 WARE
 
 		File.open(path, 'w') { |f| f.write(template) }
