@@ -35,25 +35,9 @@ margin-left: 220px;
 }
 
 div#sellout {
-width: 350px;
-float: right;
-margin: 10px 0 10px 30px;
-font-size: 90%;
-}
-
-div#sellout br {
-display: none;
-}
-
-div#sellout img {
-float: left;
-padding: 0;
-margin: 0 15px 0 0;
-}
-
-div#sellout span.fusiontext a {
-display: block;
-color: #aaa;
+padding-top: 60px;
+color: #777;
+font-size: 80%;
 }
 
 div#stump {
@@ -222,19 +206,6 @@ content: ": ";
 	padding: 30px 0;
 	}
 
-	div#sellout {
-	width: 100%;
-	font-size: 90%;
-	padding-bottom: 20px;
-	margin-bottom: 10px;
-	border-bottom: dotted 1px #aaa;
-	}
-
-	div#sellout img {
-	float: left;
-	margin: 0 20px 0 0;
-	}
-
 	div#wrapper {
 	width: 720px;
 	}
@@ -257,6 +228,16 @@ content: ": ";
 
 	div#content {
 	margin-left: 0;
+	}
+
+	div#sellout {
+	padding: 0 0 15px 0;
+	border-bottom: dotted 1px #555;
+	}
+
+	div#sellout img {
+	float: left;
+	margin-right: 20px;
 	}
 
 	div#stump {
