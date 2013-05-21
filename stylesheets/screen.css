@@ -220,7 +220,7 @@ content: ": ";
 	}
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-device-width: 480px) {
 
 	body {
 	padding: 0;
