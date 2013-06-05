@@ -1,6 +1,7 @@
 markdown: kramdown
 permalink: interviews/:title.html
 exclude: [Rakefile, README.md, wares, links]
+paginate: 10
 
 kramdown:
   auto_ids: false
