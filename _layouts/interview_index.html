@@ -13,7 +13,7 @@ title: Interviews
 		<a href="/interviews/{{year[0]}}/" title="View all interviews from {{year[0]}}."><strong>{{year[0]}}</strong></a>
 		<ul class="months">
 		{% for month in year[1] reversed %}
-			{% capture month_name %}{{month[1][0].date | date: '%B'}}{% endcapture %}
+			{% capture month_name %}{{month[1][0].date | date: '%b'}}{% endcapture %}
 			<li><a href="/interviews/{{year[0]}}/{{month[0]}}/" title="View all interviews from {{month_name}}, {{year[0]}}.">{{month_name}}</a></li>
 		{% endfor %}
 		</ul>
