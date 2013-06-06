@@ -272,32 +272,36 @@ content: ": ";
 	font-size: 120%;
 	}
 
-	nav ul {
+	nav#main ul {
 	padding: 10px 0;
 	font-size: 120%;
 	border-top: solid 1px #eee;
 	border-bottom: solid 1px #eee;
 	}
 
-	nav ul li {
+	nav#main ul li {
 	display: inline;
 	}
 
-	nav ul li:before {
+	nav#main ul li:before {
 	content: "/ ";
 	color: #eee;
 	}
 
-	nav ul li:first-child:before {
+	nav#main ul li:first-child:before {
 	content: "";
 	}
 
-	nav ul li a:link, nav ul li a:visited {
+	nav#main ul li a:link, nav#main ul li a:visited {
 	display: inline;
 	border: 0;
 	}
 
 	p#tagline {
 	font-size: 120%;
+	}
+
+	ul.categories {
+	font-size: 100%;
 	}
 }
