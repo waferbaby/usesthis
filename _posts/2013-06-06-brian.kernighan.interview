@@ -24,7 +24,7 @@ The Macs are almost exclusively used as terminals to the Linux servers provided 
 
 As the last representative of the dinosaur era, I read mail mostly with [Alpine][], which is faster and easier than any web-based system I know, and does a nice job of storing my mail locally. It also keeps me pretty much immune to HTML-based attacks and irritants.
 
-I use Rob Pike's [Sam][] editor most of the time -- that's what I'm using right now -- and [vi][] the rest of the time, because I know it well enough that there's no need to think. Every once in a while I try [emacs][] but have never gotten fluent enough to make it worth switching.
+I use [Rob Pike's](http://rob.pike.usesthis.com/ "Rob Pike's interview on here.") [Sam][] editor most of the time -- that's what I'm using right now -- and [vi][] the rest of the time, because I know it well enough that there's no need to think. Every once in a while I try [emacs][] but have never gotten fluent enough to make it worth switching.
 
 I don't write as much code as I would like, and much of it is short examples for teaching; that means breadth over depth -- lots of small programs in lots of languages -- and often they are little more than sleazy hacks just to get something working. I write really short things in [Awk][], and use [Python][] for longer text processing applications. Some day I ought to learn [long list of languages] better.
 
