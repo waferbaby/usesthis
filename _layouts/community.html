@@ -5,16 +5,17 @@ title: Community
 
 <h2>Community</h2>
 <p>Some awesome people have taken the time to make localised Setup-style sites, picking the brains of the people around them. Others have written up personal interviews with themselves. They're listed here.</p>
+<p>And if you've made your own, send me a link!</p>
 
 <h3>Localised or inspired by</h3>
-<ul>
+<ul class="links">
 {% for link in page.links.inspired %}
 	<li><a href="{{link.url}}" title="View {{link.name}}.">{{link.name}}</a> <span class="summary">({{link.summary}})</span></li>
 {% endfor %}
 </ul>
 
 <h3>Personal</h3>
-<ul>
+<ul class="links">
 {% for link in page.links.personal %}
 	<li><a href="{{link.url}}" title="View the self-interview by {{link.name}}.">{{link.name}}</a></li>
 {% endfor %}
