@@ -183,6 +183,12 @@ color: #555 !important;
 border: solid 1px #aaa;
 }
 
+ul.links {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+}
+
 ul.months {
 display: inline;
 padding: 0;
