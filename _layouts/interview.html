@@ -9,4 +9,8 @@ layout: default
 	<div id="answers">
 	{{content}}
 	</div>
+
+	{% if interview.license %}
+		<p><em>This interview is available under a Creative Commons <a href="https://creativecommons.org/licenses/{{interview.license}}/3.0/" title="Read the details of the {{interview.license | upcase}} license.">{{interview.license | upcase}}</a> license.</em></p>
+	{% endif %}
 </article>
