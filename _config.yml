@@ -1,6 +1,6 @@
 markdown: kramdown
 permalink: interviews/:title.html
-exclude: [Rakefile, README.md, wares, links]
+exclude: [links, README.md, tasks, wares]
 paginate: 10
 
 kramdown:
