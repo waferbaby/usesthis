@@ -1,43 +1,43 @@
 module Jekyll
-	class InterviewConverter < Converter
+  class InterviewConverter < Converter
 
-		safe true
+    safe true
 
-		def initialize(config)
-			@wares = {}
+    def initialize(config)
+      @wares = {}
 
-			Dir.glob(File.join(config['source'], 'wares', "**", "*.yml")) do |path|
-				begin
-					@wares[File.basename(path, File.extname(path))] = YAML::load_file(path)
-				rescue
-				end
-			end
+      Dir.glob(File.join(config['source'], 'wares', "**", "*.yml")) do |path|
+        begin
+          @wares[File.basename(path, File.extname(path))] = YAML::load_file(path)
+        rescue
+        end
+      end
 
-			super(config)
-		end
+      super(config)
+    end
 
-		def matches(extension)
-			extension =~ /interview/i
-		end
+    def matches(extension)
+      extension =~ /interview/i
+    end
 
-		def output_ext(extension)
-			".html"
-		end
+    def output_ext(extension)
+      ".html"
+    end
 
-		def convert(content)
+    def convert(content)
 
-			content += "\n\n"
+      content += "\n\n"
 
-			content.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
-				slug = (link[1] ? link[1] : link[0].downcase)
+      content.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
+        slug = (link[1] ? link[1] : link[0].downcase)
 
-				if data = @wares[slug]
-					content += "[#{slug}]: #{data['url']} \"#{data['description']}\"\n"
-				end
-				
-			end
+        if data = @wares[slug]
+          content += "[#{slug}]: #{data['url']} \"#{data['description']}\"\n"
+        end
+        
+      end
 
-			Jekyll::Converters::Markdown::KramdownParser.new(@config).convert(content.strip)
-		end
-	end
+      Jekyll::Converters::Markdown::KramdownParser.new(@config).convert(content.strip)
+    end
+  end
 end
