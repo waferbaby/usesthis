@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
 jekyll build && rsync -av --delete _site/ usesthis.com:/usr/local/www/usesthis.com/public/
