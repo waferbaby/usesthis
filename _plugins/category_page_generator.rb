@@ -24,7 +24,7 @@ module Jekyll
     def generate(site)
       site.categories.keys.each do |category|
         site.pages << CategoryPage.new(site, site.source, File.join('interviews', category), category)
-            end
+      end
     end
   end
 end
