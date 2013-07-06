@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: stephen.wolfram
-title: "Stephen Wolfram"
+name: "Stephen Wolfram"
 summary: "Scientist, developer, mathematician"
 categories: [developer, mac, scientist, software, windows]
 ---

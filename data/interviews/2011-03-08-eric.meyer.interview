@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: eric.meyer
-title: "Eric Meyer"
+name: "Eric Meyer"
 summary: "Web standards monkey"
 categories: [developer, mac, web, writer]
 credits: {name: "Pete Karl II", url: "http://www.flickr.com/photos/pete-karl/"}

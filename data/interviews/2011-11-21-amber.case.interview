@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: amber.case
-title: "Amber Case"
+name: "Amber Case"
 summary: "Cyborg anthropologist, UX designer"
 categories: [designer, interface, mac, scientist]
 credits: {name: "Kris Krug"}

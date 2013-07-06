@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: matt.might
-title: "Matt Might"
+name: "Matt Might"
 summary: "CS Professor (University of Utah)"
 categories: [linux, mac, professor]
 credits: {name: "David Van Horn", url: "http://www.flickr.com/photos/dvanhorn/6165121629/"}

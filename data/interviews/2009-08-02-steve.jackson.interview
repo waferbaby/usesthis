@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: steve.jackson
-title: "Steve Jackson"
+name: "Steve Jackson"
 summary: "Game designer"
 categories: [designer, game, mac]
 credits: {name: "Steve Jackson Games"}

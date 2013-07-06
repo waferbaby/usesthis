@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: john.macfarlane
-title: "John MacFarlane"
+name: "John MacFarlane"
 summary: "Philosophy professor, developer (pandoc, gitit)"
 categories: [developer, linux, mac, professor, software]
 ---

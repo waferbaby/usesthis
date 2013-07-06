@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: daniel.cid
-title: "Daniel Cid"
+name: "Daniel Cid"
 summary: "Security researcher, developer (OSSEC)"
 categories: [bsd, developer, linux, security, software]
 ---

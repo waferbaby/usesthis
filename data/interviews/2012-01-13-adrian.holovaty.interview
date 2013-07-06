@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: adrian.holovaty
-title: "Adrian Holovaty"
+name: "Adrian Holovaty"
 summary: "Web developer (EveryBlock, Django), musician"
 categories: [developer, mac, musician, web]
 ---

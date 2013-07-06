@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: steve.coast
-title: "Steve Coast"
+name: "Steve Coast"
 summary: "Founder, OpenStreetMap"
 categories: [developer, linux, mac, suit, web]
 credits: {name: "Christian Petersen", url: "http://www.flickr.com/photos/copetersen/3278884075/"}

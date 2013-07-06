@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: richard.stallman
-title: "Richard Stallman"
+name: "Richard Stallman"
 summary: "Freedom campaigner"
 categories: [developer, linux, software]
 license: by-nd

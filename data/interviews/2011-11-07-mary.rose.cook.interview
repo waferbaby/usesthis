@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: mary.rose.cook
-title: "Mary Rose Cook"
+name: "Mary Rose Cook"
 summary: "Coder, musician"
 categories: [developer, mac, musician, web]
 ---

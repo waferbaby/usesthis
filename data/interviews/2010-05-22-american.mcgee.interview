@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: american.mcgee
-title: "American McGee"
+name: "American McGee"
 summary: "Game designer"
 categories: [developer, game, mac, windows]
 ---

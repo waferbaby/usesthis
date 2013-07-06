@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: david.heinemeier.hansson
-title: "David Heinemeier Hansson"
+name: "David Heinemeier Hansson"
 summary: "Software developer (37signals)"
 categories: [developer, mac, web]
 ---

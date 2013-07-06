@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: colleen.wainwright
-title: "Colleen Wainwright"
+name: "Colleen Wainwright"
 summary: "Writer, speaker, consultant"
 categories: [mac, writer]
 credits: {name: "Chris Glass"}

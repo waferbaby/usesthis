@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: david.cramer
-title: "David Cramer"
+name: "David Cramer"
 summary: "Developer, infrastructure nerd (DISQUS)"
 categories: [developer, mac, web, windows]
 ---

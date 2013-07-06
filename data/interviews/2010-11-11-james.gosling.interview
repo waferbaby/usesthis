@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: james.gosling
-title: "James Gosling"
+name: "James Gosling"
 summary: "Software engineer (Java)"
 categories: [developer, linux, mac, software]
 ---

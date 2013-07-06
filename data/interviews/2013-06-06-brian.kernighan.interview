@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: brian.kernighan
-title: "Brian Kernighan"
+name: "Brian Kernighan"
 summary: "Computer scientist (Unix), writer"
 categories: [developer, mac, software, teacher, writer]
 ---

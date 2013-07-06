@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: matt.neuburg
-title: "Matt Neuburg"
+name: "Matt Neuburg"
 summary: "Developer, writer, contributing editor (TidBITS)"
 categories: [developer, editor, software, writer]
 ---

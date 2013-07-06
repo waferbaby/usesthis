@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: joe.armstrong
-title: "Joe Armstrong"
+name: "Joe Armstrong"
 summary: "Software developer (Erlang)"
 categories: [developer, linux, mac, software]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: greg.kh
-title: "Greg Kroah-Hartman"
+name: "Greg Kroah-Hartman"
 summary: "Linux kernel developer"
 categories: [developer, linux, mac, software]
 ---

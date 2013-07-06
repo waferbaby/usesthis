@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: max.shron
-title: "Max Shron"
+name: "Max Shron"
 summary: "Data scientist (Shron LLC, ex-OkCupid)"
 categories: [data, linux, mac, scientist]
 ---

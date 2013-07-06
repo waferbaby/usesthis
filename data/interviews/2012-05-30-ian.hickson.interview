@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: ian.hickson
-title: "Ian Hickson"
+name: "Ian Hickson"
 summary: "Standards editor, HTML specification"
 categories: [editor, mac, web]
 ---

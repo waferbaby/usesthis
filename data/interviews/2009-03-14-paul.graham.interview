@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: paul.graham
-title: "Paul Graham"
+name: "Paul Graham"
 summary: "Head of YCombinator, creator of the Arc language"
 categories: [developer, mac, web]
 ---

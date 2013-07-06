@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: john.gruber
-title: "John Gruber"
+name: "John Gruber"
 summary: "Writer (Daring Fireball)"
 categories: [mac, writer]
 credits: {name: "George Del Barrio", url: "http://superbiate.com/"}

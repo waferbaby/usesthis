@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: gene.spafford
-title: "Gene Spafford"
+name: "Gene Spafford"
 summary: "Professor (Purdue University), security expert"
 categories: [professor, linux, mac, windows]
 ---

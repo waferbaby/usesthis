@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: john.myles.white
-title: "John Myles White"
+name: "John Myles White"
 summary: "Statistics hacker, PhD student"
 categories: [data, developer, mac]
 ---

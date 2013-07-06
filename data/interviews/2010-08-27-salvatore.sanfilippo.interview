@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: salvatore.sanfilippo
-title: "Salvatore Sanfilippo"
+name: "Salvatore Sanfilippo"
 summary: "Software developer (Redis)"
 categories: [developer, linux, mac, software]
 ---

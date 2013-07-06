@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: rob.pike
-title: "Rob Pike"
+name: "Rob Pike"
 summary: "Software developer (Unix, Plan 9)"
 categories: [developer, linux, mac]
 ---

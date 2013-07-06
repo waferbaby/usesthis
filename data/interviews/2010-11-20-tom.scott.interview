@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: tom.scott
-title: "Tom Scott"
+name: "Tom Scott"
 summary: "Geek comedian"
 categories: [comedian, windows]
 credits: {name: "Cristiano Betta", url: "http://cristianobetta.com/"}

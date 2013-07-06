@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: danah.boyd
-title: "danah boyd"
+name: "danah boyd"
 summary: "Researcher, Microsoft Research New England"
 categories: [mac, researcher]
 credits: {name: "Adam Tinworth", url: "http://www.flickr.com/people/adders/"}

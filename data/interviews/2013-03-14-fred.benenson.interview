@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: fred.benenson
-title: "Fred Benenson"
+name: "Fred Benenson"
 summary: "Data researcher (Kickstarter)"
 categories: [data, developer, mac]
 ---

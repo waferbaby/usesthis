@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: robert.love
-title: "Robert Love"
+name: "Robert Love"
 summary: "Software engineer (Google)"
 categories: [developer, linux, mac, software, writer]
 ---

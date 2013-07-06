@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: robert.bohnke
-title: "Robert Böhnke"
+name: "Robert Böhnke"
 summary: "Software developer (SoundCloud)"
 categories: [developer, mac, software, windows]
 credits: {name: "Natalie Keshlear", url: "http://dotdotdotexclamationmark.tumblr.com/"}

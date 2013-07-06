@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: chad.fowler
-title: "Chad Fowler"
+name: "Chad Fowler"
 summary: "Programmer, musician, author, speaker"
 categories: [developer, linux, mac, software, writer]
 ---

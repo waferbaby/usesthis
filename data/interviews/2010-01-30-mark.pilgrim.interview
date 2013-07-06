@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: mark.pilgrim
-title: "Mark Pilgrim"
+name: "Mark Pilgrim"
 summary: "Developer & standards advocate (Google)"
 categories: [developer, linux, web, writer]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: james.thomson
-title: "James Thomson"
+name: "James Thomson"
 summary: "Mac developer (DragThing, PCalc)"
 categories: [developer, mac, software]
 credits: {name: "Ian Farrell", url: "http://www.flickr.com/photos/iain"}

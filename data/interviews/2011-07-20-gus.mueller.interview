@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: gus.mueller
-title: "Gus Mueller"
+name: "Gus Mueller"
 summary: "Founder, Flying Meat (VoodooPad, Acorn)"
 categories: [developer, mac, software]
 credits: {name: "Steve Weller"}

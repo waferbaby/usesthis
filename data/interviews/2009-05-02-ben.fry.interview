@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: ben.fry
-title: "Ben Fry"
+name: "Ben Fry"
 summary: "Data designer, co-creator of Processing"
 categories: [developer, mac, software]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: ed.finkler
-title: "Ed Finkler"
+name: "Ed Finkler"
 summary: "Web developer (Gimme Bar, Spaz)"
 categories: [developer, linux, mac, web]
 credits: {name: "Chris Shiflett", url: "http://www.flickr.com/photos/shiflett/4022501283/"}

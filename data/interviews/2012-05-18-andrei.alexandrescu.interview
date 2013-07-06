@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: andrei.alexandrescu
-title: "Andrei Alexandrescu"
+name: "Andrei Alexandrescu"
 summary: "Research scientist (Facebook)"
 categories: [linux, mac, researcher, scientist]
 ---

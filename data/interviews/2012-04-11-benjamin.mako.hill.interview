@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: benjamin.mako.hill
-title: "Benjamin Mako Hill"
+name: "Benjamin Mako Hill"
 summary: "Social scientist, free software hacker (MIT)"
 categories: [hacker, linux, social, software]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: drew.conway
-title: "Drew Conway"
+name: "Drew Conway"
 summary: "Researcher (terrorism, maths, stats, machine learning)"
 categories: [data, linux, mac, politics, scientist]
 ---

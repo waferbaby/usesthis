@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: andrew.plotkin
-title: "Andrew Plotkin"
+name: "Andrew Plotkin"
 summary: "Hacker, IF Wizard"
 categories: [developer, game, mac, writer]
 ---

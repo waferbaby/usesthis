@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: joey.hess
-title: "Joey Hess"
+name: "Joey Hess"
 summary: "Software developer (Debian, git-annex)"
 categories: [developer, linux, software]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: gerard.holzmann
-title: "Gerard Holzmann"
+name: "Gerard Holzmann"
 summary: "Software researcher (JPL), developer (Spin)"
 categories: [developer, linux, researcher, software, windows]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: josh.myer
-title: "Josh Myer"
+name: "Josh Myer"
 summary: "Analytics hacker (BitTorrent, Applied Platonics)"
 categories: [developer, hacker, mac, software]
 ---

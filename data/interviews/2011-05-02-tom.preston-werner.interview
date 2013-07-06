@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: tom.preston-werner
-title: "Tom Preston-Werner"
+name: "Tom Preston-Werner"
 summary: "Co-founder of Github"
 categories: [developer, mac, suit, web]
 ---

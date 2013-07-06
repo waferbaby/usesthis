@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: derek.powazek
-title: "Derek Powazek"
+name: "Derek Powazek"
 summary: "Designer, writer, small dog appreciator"
 categories: [designer, mac, web, writer]
 credits: {name: "Heather Champ"}

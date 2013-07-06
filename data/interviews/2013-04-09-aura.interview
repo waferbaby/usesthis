@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: aura
-title: "Aura"
+name: "Aura"
 summary: "Visual novel writer, game developer"
 categories: [developer, game, windows, writer]
 ---

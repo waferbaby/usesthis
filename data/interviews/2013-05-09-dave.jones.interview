@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: dave.jones
-title: "Dave Jones"
+name: "Dave Jones"
 summary: "Electrical engineer, video blogger (EEVblog)"
 categories: [electrical, engineer, weblogger]
 ---

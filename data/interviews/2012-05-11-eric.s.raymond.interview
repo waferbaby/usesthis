@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: eric.s.raymond
-title: "Eric S Raymond"
+name: "Eric S Raymond"
 summary: "OSS developer, writer ('The Cathedral and the Bazaar')"
 categories: [developer, linux, software, writer]
 ---

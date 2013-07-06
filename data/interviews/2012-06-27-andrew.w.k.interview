@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: andrew.w.k
-title: "Andrew W.K."
+name: "Andrew W.K."
 summary: "Professional partyer"
 categories: [mac, musician, windows]
 credits: {name: "Ashley Eberbach"}

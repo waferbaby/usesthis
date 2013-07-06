@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: mike.monteiro
-title: "Mike Monteiro"
+name: "Mike Monteiro"
 summary: "Designer, director (Mule)"
 categories: [designer, mac, writer]
 credits: {name: "Jeffrey Zeldman", url: "www.flickr.com/photos/zeldman/8614963668/"}

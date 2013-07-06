@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: jonathan.corbet
-title: "Jonathan Corbet"
+name: "Jonathan Corbet"
 summary: "Linux kernel contributor, editor (LWN)"
 categories: [developer, editor, linux, software]
 ---

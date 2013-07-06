@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: aaron.swartz
-title: "Aaron Swartz"
+name: "Aaron Swartz"
 summary: "Hacker, activist"
 categories: [developer, hacker, linux, mac, web]
 ---

@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: greg.j.smith
-title: "Greg J. Smith"
+name: "Greg J. Smith"
 summary: "Editor (HOLO), designer"
 categories: [designer, editor, mac]
 credits: {name: "Resonate", url: "http://resonate.io/"}

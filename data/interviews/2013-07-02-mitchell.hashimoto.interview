@@ -1,7 +1,5 @@
 ---
-layout: interview
-slug: mitchell.hashimoto
-title: "Mitchell Hashimoto"
+name: "Mitchell Hashimoto"
 summary: "Entrepeneur, developer (Vagrant)"
 categories: [developer, linux, mac, software, windows, writer]
 ---
