@@ -1,9 +1,0 @@
-{% if selected %}<img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}">{% else %}<a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}."><img src="/images/portraits/{{interview.slug}}.jpg" width="500" height="335" class="portrait" alt="{{interview.title}}"></a>{% endif %}
-
-<h2 class="person">{% if selected %}{{interview.title}}{% else %}<a href="http://{{interview.slug}}.usesthis.com/" title="View an interview with {{interview.title}}.">{{interview.title}}</a>{% endif %}</h2>
-<p class="summary">{{interview.summary}}</p>
-<p class="date">Posted <time datetime="{{interview.date || date: "%Y-%m-%d"}}">{{interview.date || date_to_long_string}}.</time></p>
-{% if selected and page.credits %}<p class="credits">Photo by {% if page.credits.url %}<a href="{{page.credits.url}}" title="View more about {{page.credits.name}}.">{{page.credits.name}}</a>{% else %}{{page.credits.name}}{% endif %}.</p>{% endif %}
-<ul class="categories">
-{% for category in interview.categories %}<li><a href="/interviews/{{category}}" title="View all the '{{category}}' interviews.">{{category}}</a></li>{% endfor %}
-</ul>
