@@ -14,10 +14,10 @@ class Interview
 
     begin
       contents = File.read(path)
-      parts = contents.match(/---\n(.*)\n---\n(.*)/m)
+      parts = contents.match(/^(-{3}\n.*?\n?)^(-{3}*$\n?)/m)
 
       metadata = YAML::load(parts[1])
-      @answers = parts[2].strip
+      @answers = parts.post_match.strip!
 
       %w(name summary categories credits).each do |item|
         self.send("#{item}=", metadata[item])
