@@ -1,9 +1,10 @@
 require 'rubygems'
-require 'yaml'
+require 'fileutils'
 require 'kramdown'
+require 'yaml'
 
 class Interview
-  attr_accessor :slug, :date, :name, :summary, :categories, :wares, :credits, :answers
+  attr_accessor :slug, :date, :name, :summary, :credits, :answers, :template, :categories, :wares
 
   def initialize(path)
     parts = File.basename(path, File.extname(path)).match(/(\d{4})-(\d{2})-(\d{2})-(.+)/)
@@ -11,6 +12,7 @@ class Interview
     @date = Time.mktime(parts[1], parts[2], parts[3])
     @slug = parts[4]
     @wares = []
+    @template = nil
 
     begin
       contents = File.read(path)
@@ -26,14 +28,24 @@ class Interview
     end
   end
 
+  def write(output_path)
+    path = File.join(output_path, @slug, 'index.html')
+
+    FileUtils.mkdir_p(File.dirname(path))
+
+    File.open(path, 'w') do |file|
+      file.write(@template.render(nil, {interview: self}, self.to_markdown))
+    end
+  end
+
   def to_s
     output = @answers
 
     if @wares.length > 0
-      output << "\n\n"
+      output += "\n\n"
 
       @wares.each do |ware|
-        output << "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+        output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
       end
     end
 
