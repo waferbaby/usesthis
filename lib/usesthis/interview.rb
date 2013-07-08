@@ -1,58 +1,64 @@
+$:.unshift(__dir__)
+
 require 'rubygems'
 require 'fileutils'
+require 'frontable'
 require 'kramdown'
 require 'yaml'
 
-class Interview
-  attr_accessor :slug, :date, :name, :summary, :credits, :answers, :template, :categories, :wares
+module UsesThis
+  class Interview
+    include Frontable
+    attr_accessor :site, :slug, :date, :name, :summary, :credits, :answers, :template, :categories, :wares
 
-  def initialize(path)
-    parts = File.basename(path, File.extname(path)).match(/(\d{4})-(\d{2})-(\d{2})-(.+)/)
+    def initialize(site, path)
+      parts = File.basename(path, File.extname(path)).match(/(\d{4})-(\d{2})-(\d{2})-(.+)/)
 
-    @date = Time.mktime(parts[1], parts[2], parts[3])
-    @slug = parts[4]
-    @wares = []
-    @template = nil
+      @site = site
+      @slug = parts[4]
+      @date = Time.mktime(parts[1], parts[2], parts[3])
+      
+      @wares = []
 
-    begin
-      contents = File.read(path)
-      parts = contents.match(/^(-{3}\n.*?\n?)^(-{3}*$\n?)/m)
-
-      metadata = YAML::load(parts[1])
-      @answers = parts.post_match.strip!
+      metadata, @answers = read_with_yaml(path)
 
       %w(name summary categories credits).each do |item|
         self.send("#{item}=", metadata[item])
       end
-    rescue
     end
-  end
 
-  def write(output_path)
-    path = File.join(output_path, @slug, 'index.html')
+    def write(output_path)
+      path = File.join(output_path, @slug, 'index.html')
 
-    FileUtils.mkdir_p(File.dirname(path))
+      FileUtils.mkdir_p(File.dirname(path))
+      template = @site.templates['interview']
 
-    File.open(path, 'w') do |file|
-      file.write(@template.render(nil, {interview: self}, self.to_markdown))
-    end
-  end
-
-  def to_s
-    output = @answers
-
-    if @wares.length > 0
-      output += "\n\n"
-
-      @wares.each do |ware|
-        output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+      File.open(path, 'w') do |file|
+        file.write(template ? template.render(nil, {interview: self}, self.to_markdown) : self.to_s)
       end
     end
 
-    output
-  end
+    def to_s
+      output = @answers
 
-  def to_markdown
-    Kramdown::Document.new(self.to_s, auto_ids: false).to_html
+      @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
+          slug = (link[1] ? link[1] : link[0].downcase)
+          @wares.push(@site.wares[slug]) if @site.wares[slug]
+        end
+
+      if @wares.length > 0
+        output += "\n\n"
+
+        @wares.each do |ware|
+          output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+        end
+      end
+
+      output
+    end
+
+    def to_markdown
+      Kramdown::Document.new(self.to_s, auto_ids: false).to_html
+    end
   end
 end
