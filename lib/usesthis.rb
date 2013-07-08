@@ -1,6 +1,7 @@
 $:.unshift(__dir__)
 
 require 'usesthis/interview'
-require 'usesthis/ware'
 require 'usesthis/link'
 require 'usesthis/site'
+require 'usesthis/template'
+require 'usesthis/ware'
