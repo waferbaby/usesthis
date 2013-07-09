@@ -26,7 +26,7 @@ module UsesThis
     def scan
       @templates = {}
 
-      Dir.glob(File.join(@paths[:source], 'templates', '*.*')).each do |path|
+      Dir.glob(File.join(@paths[:source], 'templates', '*.erb')).each do |path|
         template = Template.new(self, path)
         @templates[template.slug] = template
       end
