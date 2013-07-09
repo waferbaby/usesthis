@@ -56,6 +56,10 @@ module UsesThis
       end
     end
 
+    def template(slug)
+      @templates[slug] ? @templates[slug] : @templates['default']
+    end
+
     def build
       if Dir.exists?(@paths[:output])
         FileUtils.rm_rf(Dir.glob(File.join(@paths[:output], '*')))
@@ -65,6 +69,24 @@ module UsesThis
 
       @interviews.each do |interview|
         interview.write(File.join(@paths[:output], 'interviews'))
+      end
+
+      per_page = 10
+      pages = (@interviews.length.to_f / per_page.to_i).ceil
+
+      for index in 0...pages
+        interviews = @interviews.slice(index * per_page, per_page)
+
+        page = Page.new(self)
+
+        page.metadata = {
+          layout: 'interviews',
+          title: '',
+          interviews: interviews,
+        }
+
+        path = index == 0 ? @paths[:output] : File.join(@paths[:output], "page#{index + 1}")
+        page.write(path)
       end
     end
   end
