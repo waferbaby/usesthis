@@ -9,7 +9,8 @@ require 'yaml'
 module UsesThis
   class Interview
     include Frontable
-    attr_accessor :site, :slug, :date, :name, :summary, :credits, :answers, :template, :categories, :wares
+    attr_accessor :site, :slug, :date, :name, :summary, :credits, :template, :categories, :wares
+    attr_writer :answers
 
     def initialize(site, path)
       parts = File.basename(path, File.extname(path)).match(/(\d{4})-(\d{2})-(\d{2})-(.+)/)
@@ -31,14 +32,18 @@ module UsesThis
       path = File.join(output_path, @slug, 'index.html')
 
       FileUtils.mkdir_p(File.dirname(path))
-      template = @site.templates['interview']
 
+      params = {
+        title: @name,
+        interview: self
+      }
+      
       File.open(path, 'w') do |file|
-        file.write(template ? template.render(nil, {interview: self}, self.to_markdown) : self.to_s)
+        file.write(@site.templates['interview'].render(params, self.to_markdown))
       end
     end
 
-    def to_s
+    def answers
       output = @answers
 
       @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
@@ -58,7 +63,7 @@ module UsesThis
     end
 
     def to_markdown
-      Kramdown::Document.new(self.to_s, auto_ids: false).to_html
+      Kramdown::Document.new(self.answers, auto_ids: false).to_html
     end
   end
 end
