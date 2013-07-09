@@ -33,13 +33,8 @@ module UsesThis
 
       FileUtils.mkdir_p(File.dirname(path))
 
-      params = {
-        title: @name,
-        interview: self
-      }
-      
       File.open(path, 'w') do |file|
-        file.write(@site.templates['interview'].render(params, self.to_markdown))
+        file.write(@site.templates['interview'].render(title: @name, interview: self))
       end
     end
 
@@ -59,11 +54,7 @@ module UsesThis
         end
       end
 
-      output
-    end
-
-    def to_markdown
-      Kramdown::Document.new(self.answers, auto_ids: false).to_html
+      Kramdown::Document.new(output, auto_ids: false).to_html
     end
   end
 end
