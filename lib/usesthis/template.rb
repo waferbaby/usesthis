@@ -1,27 +1,26 @@
 require 'rubygems'
 require 'frontable'
-require 'tilt'
+require 'erubis'
 
 module UsesThis
   class Template
     include Frontable
-    attr_accessor :site, :slug, :renderer, :metadata
+    attr_accessor :site, :slug, :metadata, :contents
 
     def initialize(site, path)
       @site = site
-      @renderer = Tilt.new(path)
       @slug = File.basename(path, File.extname(path))
 
-      @metadata, _ = read_with_yaml(path)
+      @metadata, @contents = read_with_yaml(path)
     end
 
-    def render(context, params, contents)
-      output = @renderer.render(context, params) {
-        contents
-      }
+    def render(params = {}, contents = nil)
+      params[:site] = @site
+
+      output = Erubis::Eruby.new(@contents).result(params, &(contents ? lambda { contents } : nil))
 
       if @metadata['layout'] && @site.templates[@metadata['layout']]
-        output = @site.templates[@metadata['layout']].render(context, params, contents)
+        output = @site.templates[@metadata['layout']].render(params, output)
       end
 
       output
