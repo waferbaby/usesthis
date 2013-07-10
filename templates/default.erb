@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup <%= "/ #{title}" if title %></title>
+		<title>The Setup<% if title %><%= " / #{title}" %><% end %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
