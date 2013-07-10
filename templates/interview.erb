@@ -1,16 +1,20 @@
 ---
 layout: default
 ---
+
 <article class="interview">
-	{% assign selected = true %}
-	{% assign interview = page %}
-	{% include summary.html %}
-
-	<div id="answers">
-	{{content}}
-	</div>
-
-	{% if interview.license %}
-		<p id="license"><em>This interview is available under a Creative Commons <a href="https://creativecommons.org/licenses/{{interview.license}}/3.0/" title="Read the details of the {{interview.license | upcase}} license.">{{interview.license | upcase}}</a> license.</em></p>
-	{% endif %}
+  <img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>">
+  <h2 class="person"><%= interview.name %></h2>
+  <p class="summary"><%= interview.summary %></p>
+  <p class="date">Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>"><%= interview.date.strftime('%b %d, %Y') %>.</time></p>
+  <% if interview.credits %>
+    <p class="credits">Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="View more about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %></p>
+  <% end %>
+  <ul class="categories">
+    <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
+  </ul>
 </article>
+
+<div id="answers">
+<%= interview.answers %>
+</div>
