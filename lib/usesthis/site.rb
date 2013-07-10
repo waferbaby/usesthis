@@ -9,13 +9,14 @@ require 'ware'
 module UsesThis
   class Site
     
-    attr_accessor :paths, :interviews, :wares, :links, :templates, :categories
+    attr_accessor :paths, :interviews, :wares, :pages, :links, :templates, :categories
 
     def initialize(path)
       @paths = {
         source: path,
         output: File.join(path, 'site'),
         data: File.join(path, 'data'),
+        pages: File.join(path, 'pages'),
         assets: File.join(path, 'public'),
         templates: File.join(path, 'templates')
       }
@@ -29,6 +30,13 @@ module UsesThis
       Dir.glob(File.join(@paths[:source], 'templates', '*.erb')).each do |path|
         template = Template.new(self, path)
         @templates[template.slug] = template
+      end
+
+      @pages = []
+
+      Dir.glob(File.join(@paths[:source], 'pages', '**', '*.*')).each do |path|
+        page = Page.new(self, path)
+        @pages.push(page)
       end
 
       @wares = {}
@@ -113,6 +121,10 @@ module UsesThis
       
       @categories.each_pair do |slug, interviews|
         self.paginate(interviews, slug)
+      end
+
+      @pages.each do |page|
+        page.write(@paths[:output])
       end
 
       FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
