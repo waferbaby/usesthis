@@ -34,7 +34,13 @@ module UsesThis
       FileUtils.mkdir_p(File.dirname(path))
 
       File.open(path, 'w') do |file|
-        file.write(@site.templates['interview'].render(title: @name, interview: self))
+        begin
+          output = @site.templates['interview'].render(title: @name, interview: self)
+        rescue
+          output = @answers
+        end
+
+        file.write(output)
       end
     end
 
