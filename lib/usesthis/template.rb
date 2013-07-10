@@ -7,16 +7,11 @@ module UsesThis
     include Frontable
     attr_accessor :site, :slug, :metadata, :contents
 
-    def initialize(site, path = nil)
+    def initialize(site, path)
       @site = site
-      @path = path
+      @slug = File.basename(path, File.extname(path))
 
-      if path
-        @slug = File.basename(path, File.extname(path))
-        @metadata, @contents = read_with_yaml(path)
-      else
-        @metadata, @contents = {}, ''
-      end
+      @metadata, @contents = read_with_yaml(path)
     end
 
     def render(params = {}, body = '')
