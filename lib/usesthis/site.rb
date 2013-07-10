@@ -68,7 +68,11 @@ module UsesThis
         paths = []
 
         paths.push(@paths[:output])
-        paths.push(slug) if slug
+
+        if slug
+          paths.push('interviews')
+          paths.push(slug)
+        end
 
         if index == 0
           title = slug ? slug.capitalize : "Hello"  
@@ -110,6 +114,8 @@ module UsesThis
       @categories.each_pair do |slug, interviews|
         self.paginate(interviews, slug)
       end
+
+      FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
     end
   end
 end
