@@ -14,10 +14,12 @@ module UsesThis
       @metadata, @contents = read_with_yaml(path)
     end
 
-    def render(params = {}, contents = nil)
+    def render(params = {}, body = '')
       params[:site] = @site
 
-      output = Erubis::Eruby.new(@contents).result(params, &(contents ? lambda { contents } : nil))
+      output = Erubis::Eruby.new(@contents).result(params) {
+        body
+      }
 
       if @metadata['layout'] && @site.templates[@metadata['layout']]
         output = @site.templates[@metadata['layout']].render(params, output)
