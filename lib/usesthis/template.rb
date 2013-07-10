@@ -7,15 +7,20 @@ module UsesThis
     include Frontable
     attr_accessor :site, :slug, :metadata, :contents
 
-    def initialize(site, path)
+    def initialize(site, path = nil)
       @site = site
-      @slug = File.basename(path, File.extname(path))
+      @path = path
 
-      @metadata, @contents = read_with_yaml(path)
+      if path
+        @slug = File.basename(path, File.extname(path))
+        @metadata, @contents = read_with_yaml(path)
+      else
+        @metadata, @contents = {}, ''
+      end
     end
 
     def render(params = {}, body = '')
-      params[:site] = @site
+      params[:site] ||= @site
 
       output = Erubis::Eruby.new(@contents).result(params) {
         body
