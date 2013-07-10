@@ -9,21 +9,16 @@ module UsesThis
 
     def initialize(site, path = nil)
       @site = site
-
-      if path
-        @metadata, @contents = read_with_yaml(path)
-      else
-        @metadata, @contents = {}, ''
-      end
+      @metadata, @contents = path ? read_with_yaml(path) : {}, ''
     end
 
     def write(output_path)
       path = File.join(output_path, 'index.html')
 
       FileUtils.mkdir_p(File.dirname(path))
-
+      
       File.open(path, 'w') do |file|
-        file.write(@site.template(@metadata[:template]).render(@metadata))
+        file.write(@site.templates[@metadata[:layout]].render(@metadata, @contents))
       end
     end
   end
