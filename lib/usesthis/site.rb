@@ -56,8 +56,42 @@ module UsesThis
       end
     end
 
-    def template(slug)
-      @templates[slug] ? @templates[slug] : @templates['default']
+    def paginate(interviews, slug = nil)
+      per_page = 10
+      pages = (interviews.length.to_f / per_page.to_i).ceil
+
+      for index in 0...pages
+        interview_range = interviews.slice(index * per_page, per_page)
+
+        page = Page.new(self)
+
+        paths = []
+
+        paths.push(@paths[:output])
+        paths.push(slug) if slug
+
+        if index == 0
+          title = slug ? slug.capitalize : "Hello"  
+        else
+          title = slug ? slug.capitalize : "Interviews"
+          title += " (Page #{index + 1})"
+
+          paths.push("page#{index + 1}")
+        end
+
+        page.metadata = {
+          layout: 'interviews',
+          title: title,
+          interviews: interview_range,
+          pagination: {
+            page: index,
+            pages: pages,
+            total: interviews.length
+          }
+        }
+
+        page.write(File.join(paths))
+      end
     end
 
     def build
@@ -71,22 +105,10 @@ module UsesThis
         interview.write(File.join(@paths[:output], 'interviews'))
       end
 
-      per_page = 10
-      pages = (@interviews.length.to_f / per_page.to_i).ceil
-
-      for index in 0...pages
-        interviews = @interviews.slice(index * per_page, per_page)
-
-        page = Page.new(self)
-
-        page.metadata = {
-          layout: 'interviews',
-          title: '',
-          interviews: interviews,
-        }
-
-        path = index == 0 ? @paths[:output] : File.join(@paths[:output], "page#{index + 1}")
-        page.write(path)
+      self.paginate(@interviews)
+      
+      @categories.each_pair do |slug, interviews|
+        self.paginate(interviews, slug)
       end
     end
   end
