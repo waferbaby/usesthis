@@ -92,11 +92,11 @@ module UsesThis
         end
 
         page.metadata = {
-          layout: 'interviews',
-          title: title,
-          interviews: interview_range,
-          pagination: {
-            page: index,
+          'layout' => 'interviews',
+          'title' => title,
+          'interviews' => interview_range,
+          'pagination' => {
+            page: index + 1,
             pages: pages,
             total: interviews.length
           }
