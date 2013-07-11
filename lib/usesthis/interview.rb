@@ -35,7 +35,7 @@ module UsesThis
 
       File.open(path, 'w') do |file|
         begin
-          output = @site.templates['interview'].render(title: @name, interview: self)
+          output = @site.templates['interview'].render('title' => @name, 'interview' => self)
         rescue
           output = @answers
         end
