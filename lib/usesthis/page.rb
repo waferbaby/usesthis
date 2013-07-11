@@ -1,11 +1,12 @@
 $:.unshift(__dir__)
 
 require 'rubygems'
-require 'erubis'
+require 'renderable'
 
 module UsesThis
   class Page
     include Frontable
+    include Renderable
     attr_accessor :site, :metadata, :contents
 
     def initialize(site, path = nil)
@@ -30,10 +31,7 @@ module UsesThis
 
       File.open(path, 'w') do |file|
         begin
-          @metadata['site'] = @site
-
-          output = Erubis::Eruby.new(@contents).result(@metadata)
-          output = @site.templates[@metadata['layout']].render(@metadata, output) if @metadata['layout']
+          output = self.render(@metadata, @contents)
         rescue
           output = @contents
         end
