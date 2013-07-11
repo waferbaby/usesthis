@@ -15,7 +15,7 @@ module UsesThis
       if path
         @metadata, @contents = read_with_yaml(path)
       else
-        @metadata, @contents = {title: '', layout: 'default'}, ''
+        @metadata, @contents = {'title' => '', 'layout' => 'default'}, ''
       end
     end
 
@@ -30,7 +30,7 @@ module UsesThis
 
       File.open(path, 'w') do |file|
         begin
-          @metadata[:site] = @site
+          @metadata['site'] = @site
 
           output = Erubis::Eruby.new(@contents).result(@metadata)
           output = @site.templates[@metadata['layout']].render(@metadata, output) if @metadata['layout']
