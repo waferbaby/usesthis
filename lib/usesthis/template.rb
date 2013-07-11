@@ -15,7 +15,7 @@ module UsesThis
     end
 
     def render(params = {}, body = '')
-      params[:site] ||= @site
+      params['site'] ||= @site
 
       output = Erubis::Eruby.new(@contents).result(params) {
         body
