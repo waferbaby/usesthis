@@ -48,7 +48,7 @@ module UsesThis
 
       @interviews = []
 
-      Dir.glob(File.join(@paths[:data], 'interviews', '*.*')).each do |path|
+      Dir.glob(File.join(@paths[:source], 'interviews', '*.*')).each do |path|
         interview = Interview.new(self, path)
         @interviews.push(interview)
       end
