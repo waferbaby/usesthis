@@ -101,8 +101,11 @@ module UsesThis
         paths = []
         paths.push(@paths[:output])
 
-        if sub_paths
-          paths.push(sub_paths)
+        if sub_paths.length > 0
+          paths.concat(sub_paths)
+          url_path = "/#{sub_paths.join('/')}/"
+        else
+          url_path = '/'
         end
 
         if index == 0
@@ -114,15 +117,26 @@ module UsesThis
           paths.push("page#{index + 1}")
         end
 
+        pagination = {
+          page: index + 1,
+          pages: pages,
+          total: interviews.length,
+          path: url_path
+        }
+
+        if (pagination[:page] - 1) > 0
+          pagination[:previous_page] = pagination[:page] - 1
+        end
+
+        if (pagination[:page] + 1) < pagination[:pages]
+          pagination[:next_page] = pagination[:page] + 1
+        end
+
         page.metadata = {
           'layout' => 'interviews',
           'title' => title,
           'interviews' => interview_range,
-          'pagination' => {
-            page: index + 1,
-            pages: pages,
-            total: interviews.length
-          }
+          'pagination' => pagination
         }
 
         page.write(File.join(paths))
