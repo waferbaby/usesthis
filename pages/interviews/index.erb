@@ -23,6 +23,6 @@ title: Interviews
 <h3>By category</h3>
 <ul class="categories">
 <% site.categories.keys.sort.each do |category| %>
-  <a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a>
+  <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
 <% end %>
 </ul>
