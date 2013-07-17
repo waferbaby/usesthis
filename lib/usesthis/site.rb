@@ -108,11 +108,13 @@ module UsesThis
           url_path = '/'
         end
 
+        page_title = title
+
         if index == 0
-          title = "Hello" if title.nil?
+          page_title = "Hello" if title.nil?
         else
-          title = "Interviews" if title.nil?
-          title += " (Page #{index + 1})"
+          page_title = "Interviews" if title.nil?
+          page_title += " (Page #{index + 1})"
 
           paths.push("page#{index + 1}")
         end
@@ -134,7 +136,7 @@ module UsesThis
 
         page.metadata = {
           'layout' => 'interviews',
-          'title' => title,
+          'title' => page_title,
           'interviews' => interview_range,
           'pagination' => pagination
         }
