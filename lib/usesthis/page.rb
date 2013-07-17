@@ -20,11 +20,11 @@ module UsesThis
       end
     end
 
-    def write(output_path)
+    def write(output_path, filename = 'index.html')
       if @path
-        path = File.join(output_path, File.dirname(@path).gsub(@site.paths[:pages], ''), 'index.html')
+        path = File.join(output_path, File.dirname(@path).gsub(@site.paths[:pages], ''), filename)
       else
-        path = File.join(output_path, 'index.html')
+        path = File.join(output_path, filename)
       end
 
       FileUtils.mkdir_p(File.dirname(path))
