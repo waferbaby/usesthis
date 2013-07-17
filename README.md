@@ -1,4 +1,4 @@
-The Setup is a website of nerdy interviews, asking people what they use to get the job done. It's a tiny little Jekyll-based static site.
+The Setup is a website of nerdy interviews, asking people what they use to get the job done. It's a tiny little custom-built static site.
 
 Interested in cloning the site for your own interviews, similar or otherwise? HELL YEAH! These are the questions I email people:
 
