@@ -4,7 +4,7 @@
 <title>The Setup</title>
 <link href="http://usesthis.com/feed/" rel="self"/>
 <link href="http://usesthis.com/"/>
-<updated><%= Time.new.strftime('%FT%T') %></updated>
+<updated><%= Time.new.strftime('%FT%T') %>Z</updated>
 <id>http://usesthis.com/</id>
 <author>
   <name>Daniel Bogan</name>
@@ -14,7 +14,7 @@
 <entry>
   <title><%= interview.name %></title>
   <link href="http://<%= interview.slug %>.usesthis.com/"/>
-  <updated><%= interview.date.strftime('%FT%T') %></updated>
+  <updated><%= interview.date.strftime('%FT%T') %>Z</updated>
   <id>http://<%= interview.slug %>.usesthis.com/</id>
   <content type="html">
     <%== "<p><img src=\"http://usesthis.com/images/portraits/#{interview.slug}.jpg\" width=\"500\" height=\"325\" alt=\"#{interview.name}\"></p>" %>
