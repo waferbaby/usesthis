@@ -181,7 +181,7 @@ module UsesThis
         'interviews' => @interviews[0..10]
       }
 
-      feed.write(File.join(@paths[:output], 'feed'))
+      feed.write(File.join(@paths[:output]), 'feed.xml')
 
       FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
     end
