@@ -144,8 +144,11 @@ module UsesThis
     end
 
     def build
-      FileUtils.rm_rf(@paths[:output]) if Dir.exists?(@paths[:output])
-      Dir.mkdir(@paths[:output])
+      if Dir.exists?(@paths[:output])
+        FileUtils.rm_rf(File.join(@paths[:output], '*'))
+      else
+        Dir.mkdir(@paths[:output])
+      end
 
       @interviews.each do |interview|
         interview.write(File.join(@paths[:output], 'interviews'))
@@ -168,6 +171,15 @@ module UsesThis
       @pages.each do |page|
         page.write(@paths[:output])
       end
+
+      feed = Page.new(self)
+
+      feed.metadata = {
+        'layout' => 'feed',
+        'interviews' => @interviews[0..10]
+      }
+
+      feed.write(File.join(@paths[:output], 'feed'))
 
       FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
     end
