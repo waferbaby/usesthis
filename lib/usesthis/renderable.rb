@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'yaml'
+require 'erubis'
 
 module UsesThis
   module Renderable
