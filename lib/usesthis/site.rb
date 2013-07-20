@@ -130,7 +130,7 @@ module UsesThis
           pagination[:previous_page] = pagination[:page] - 1
         end
 
-        if (pagination[:page] + 1) < pagination[:pages]
+        if (pagination[:page] + 1) <= pagination[:pages]
           pagination[:next_page] = pagination[:page] + 1
         end
 
