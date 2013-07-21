@@ -147,8 +147,9 @@ module UsesThis
 
     def build
       STDOUT.sync = true
+      start_time = Time.now
 
-      puts "Building:\n\n"
+      puts "Building into #{@paths[:output]}:\n\n"
 
       print "- Preparing output directory... "
 
@@ -164,7 +165,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building interviews... "
+      print "- Generating interviews... "
 
       @interviews.each do |interview|
         begin
@@ -176,7 +177,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building archive pages... "
+      print "- Generating archive pages... "
 
       @archives.each do |year, data|
         data[:months].each do |month, interviews|
@@ -197,7 +198,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building main index pages... "
+      print "- Generating main index pages... "
 
       begin
         self.paginate(@interviews)
@@ -207,7 +208,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building category index pages... "
+      print "- Generating category index pages... "
       
       @categories.each_pair do |slug, interviews|
         begin
@@ -219,7 +220,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building pages... "
+      print "- Generating pages... "
 
       @pages.each do |page|
         begin
@@ -231,7 +232,7 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Building feed... "
+      print "- Generating feed... "
 
       feed = Page.new(self)
 
@@ -257,8 +258,11 @@ module UsesThis
         return
       end
 
+      end_time = Time.now
+      build_time = end_time - start_time
+
       puts "Done."
-      puts "\nCompleted."
+      puts "\nCompleted (#{build_time.round} seconds)."
     end
   end
 end
