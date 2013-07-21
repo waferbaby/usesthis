@@ -9,7 +9,7 @@ require 'yaml'
 module UsesThis
   class Interview
     include Frontable
-    attr_accessor :site, :slug, :date, :name, :summary, :credits, :template, :categories, :wares
+    attr_accessor :site, :slug, :date, :name, :summary, :credits, :license, :template, :categories, :wares
     attr_writer :answers
 
     def initialize(site, path)
@@ -23,7 +23,7 @@ module UsesThis
 
       metadata, @answers = read_with_yaml(path)
 
-      %w(name summary categories credits).each do |item|
+      %w(name summary categories credits license).each do |item|
         self.send("#{item}=", metadata[item])
       end
     end
@@ -34,12 +34,7 @@ module UsesThis
       FileUtils.mkdir_p(File.dirname(path))
 
       File.open(path, 'w') do |file|
-        begin
-          output = @site.templates['interview'].render('title' => @name, 'interview' => self)
-        rescue
-          output = @answers
-        end
-
+        output = @site.templates['interview'].render('title' => @name, 'interview' => self)
         file.write(output)
       end
     end
