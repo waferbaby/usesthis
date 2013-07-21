@@ -146,33 +146,92 @@ module UsesThis
     end
 
     def build
-      if Dir.exists?(@paths[:output])
-        FileUtils.rm_rf(File.join(@paths[:output], '*'))
-      else
-        Dir.mkdir(@paths[:output])
+      STDOUT.sync = true
+
+      puts "Building:\n\n"
+
+      print "- Preparing output directory... "
+
+      begin
+        if Dir.exists?(@paths[:output])
+          FileUtils.rm_rf(File.join(@paths[:output], '*'))
+        else
+          Dir.mkdir(@paths[:output])
+        end
+      rescue Exception => e
+        puts "Error: Failed to prepare the site directory (#{e})"
+        return
       end
 
+      puts "Done."
+      print "- Building interviews... "
+
       @interviews.each do |interview|
-        interview.write(File.join(@paths[:output], 'interviews'))
+        begin
+          interview.write(File.join(@paths[:output], 'interviews'))
+        rescue Exception => e
+          puts "Error: Failed to build the #{interview.name} interview (#{e})"
+          return
+        end
       end
+
+      puts "Done."
+      print "- Building archive pages... "
 
       @archives.each do |year, data|
         data[:months].each do |month, interviews|
-          self.paginate(interviews, ['interviews', year.to_s, month.to_s], interviews[0].date.strftime('%B %Y'))
+          begin
+            self.paginate(interviews, ['interviews', year.to_s, month.to_s], interviews[0].date.strftime('%B %Y'))
+          rescue Exception => e
+            puts "Error: Failed to build the archives for #{year}, #{month} (#{e})"
+            return
+          end
         end
 
-        self.paginate(data[:interviews], ['interviews', year.to_s], year.to_s)
+        begin
+          self.paginate(data[:interviews], ['interviews', year.to_s], year.to_s)
+        rescue
+          puts "Error: Failed to build the archives for #{year} (#{e})"
+          return
+        end
       end
 
-      self.paginate(@interviews)
+      puts "Done."
+      print "- Building main index pages... "
+
+      begin
+        self.paginate(@interviews)
+      rescue Exception => e
+        puts "Error: Failed to build the interview index pages (#{e})"
+        return
+      end
+
+      puts "Done."
+      print "- Building category index pages... "
       
       @categories.each_pair do |slug, interviews|
-        self.paginate(interviews, ['interviews', slug], slug.capitalize)
+        begin
+          self.paginate(interviews, ['interviews', slug], slug.capitalize)
+        rescue Exception => e
+          puts "Error: Failed to build the #{slug.capitalize} interview index pages (#{e})"
+          return
+        end
       end
 
+      puts "Done."
+      print "- Building pages... "
+
       @pages.each do |page|
-        page.write(@paths[:output])
+        begin
+          page.write(@paths[:output])
+        rescue
+          puts "Error: Failed to build the page at #{page.path} (#{e})"
+          return
+        end
       end
+
+      puts "Done."
+      print "- Building feed... "
 
       feed = Page.new(self)
 
@@ -181,9 +240,25 @@ module UsesThis
         'interviews' => @interviews[0..10]
       }
 
-      feed.write(File.join(@paths[:output]), 'feed.xml')
+      begin
+        feed.write(File.join(@paths[:output]), 'feed.xml')
+      rescue Exception => e
+        puts "Error: Failed to build the main feed (#{e})"
+        return
+      end
 
-      FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
+      puts "Done."
+      print "- Copying assets... "
+
+      begin
+        FileUtils.cp_r(@paths[:assets] + "/.", @paths[:output])
+      rescue Exception => e
+        puts "Error: Failed to copy the site's assets (#{e})"
+        return
+      end
+
+      puts "Done."
+      puts "\nCompleted."
     end
   end
 end
