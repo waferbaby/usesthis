@@ -30,13 +30,8 @@ module UsesThis
       FileUtils.mkdir_p(File.dirname(path))
 
       File.open(path, 'w') do |file|
-        begin
           output = self.render(@metadata, @contents)
-        rescue
-          output = @contents
-        end
-
-        file.write(output)
+          file.write(output)
       end
     end
   end
