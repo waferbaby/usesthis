@@ -17,4 +17,8 @@ layout: default
 
 <div id="answers">
 <%= interview.answers %>
+
+<% if interview.license %>
+<p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= interview.license %>/3.0/" title="View details of the license."><%= interview.license.upcase %> Creative Commons license</a>.</p>
+<% end %>
 </div>
