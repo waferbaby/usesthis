@@ -1,0 +1,39 @@
+#!/usr/bin/env ruby
+
+source_path = File.dirname(__dir__)
+
+$:.unshift(source_path)
+
+if (name = ARGV[0]).nil?
+  puts "Usage: #{__FILE__} '(name)'."
+  exit
+end
+
+slug = name.downcase.gsub(/ /, '.')
+date = Time.now.strftime('%Y-%m-%d')
+
+file_path = File.join(source_path, 'interviews', "#{date}-#{slug}.interview")
+if File.exists?(file_path)
+  puts "Oops: #{slug} already exists."
+  exit
+end
+
+
+output = <<OUTPUT
+---
+name: "#{name}"
+summary: ""
+categories: []
+---
+
+### Who are you, and what do you do?
+
+### What hardware do you use?
+
+### And what software?
+
+### What would be your dream setup?
+
+OUTPUT
+
+File.open(file_path, 'w') { |file| file.write(output) }
