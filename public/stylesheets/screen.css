@@ -139,6 +139,13 @@ color: #aaa;
 font-size: 90%;
 }
 
+p.license {
+padding: 10px;
+background-color: #eee;
+color: #555;
+font-size: 85%;
+}
+
 p.summary {
 padding: 5px 0;
 margin: 0;
