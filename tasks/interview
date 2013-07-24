@@ -4,11 +4,12 @@ source_path = File.dirname(__dir__)
 
 $:.unshift(source_path)
 
-if (name = ARGV[0]).nil?
+if ARGV.length < 1
   puts "Usage: #{__FILE__} '(name)'."
   exit
 end
 
+name = ARGV.join(' ')
 slug = name.downcase.gsub(/ /, '.')
 date = Time.now.strftime('%Y-%m-%d')
 
@@ -37,3 +38,4 @@ categories: []
 OUTPUT
 
 File.open(file_path, 'w') { |file| file.write(output) }
+exec("open #{file_path}")
