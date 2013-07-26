@@ -208,13 +208,30 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Generating category index pages... "
+      print "- Generating category index pages and feeds... "
       
       @categories.each_pair do |slug, interviews|
+        slug_name = slug.capitalize
+
         begin
-          self.paginate(interviews, ['interviews', slug], slug.capitalize)
+          self.paginate(interviews, ['interviews', slug], slug_name)
         rescue Exception => e
-          puts "Error: Failed to build the #{slug.capitalize} interview index pages (#{e})"
+          puts "Error: Failed to build the #{slug_name} interview index pages (#{e})"
+          return
+        end
+
+        feed = Page.new(self)
+
+        feed.metadata = {
+          'layout' => 'feed',
+          'title' => "The Setup: #{slug_name}",
+          'interviews' => interviews[0..10]
+        }
+
+        begin
+          feed.write(File.join(@paths[:output], 'interviews', slug), 'feed.xml')
+        rescue Exception => e
+          puts "Error: Failed to build the #{slug_name} feed (#{e})"
           return
         end
       end
@@ -232,12 +249,13 @@ module UsesThis
       end
 
       puts "Done."
-      print "- Generating feed... "
+      print "- Generating main feed... "
 
       feed = Page.new(self)
 
       feed.metadata = {
         'layout' => 'feed',
+        'title' => 'The Setup',
         'interviews' => @interviews[0..10]
       }
 
