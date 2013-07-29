@@ -1,18 +1,17 @@
 require 'rubygems'
 require 'frontable'
 require 'renderable'
+require 'site'
 require 'erubis'
 
 module UsesThis
   class Template
     include Frontable
     include Renderable
-    attr_accessor :site, :slug, :metadata, :contents
+    attr_accessor :slug, :metadata, :contents
 
-    def initialize(site, path)
-      @site = site
+    def initialize(path)
       @slug = File.basename(path, File.extname(path))
-
       @metadata, @contents = read_with_yaml(path)
     end
   end

@@ -9,13 +9,12 @@ require 'yaml'
 module UsesThis
   class Interview
     include Frontable
-    attr_accessor :site, :slug, :date, :name, :summary, :credits, :license, :template, :categories, :wares
+    attr_accessor :slug, :date, :name, :summary, :credits, :license, :template, :categories, :wares
     attr_writer :answers
 
-    def initialize(site, path)
+    def initialize(path)
       parts = File.basename(path, File.extname(path)).match(/(\d{4})-(\d{2})-(\d{2})-(.+)/)
 
-      @site = site
       @slug = parts[4]
       @date = Time.mktime(parts[1], parts[2], parts[3])
       
@@ -34,7 +33,7 @@ module UsesThis
       FileUtils.mkdir_p(File.dirname(path))
 
       File.open(path, 'w') do |file|
-        output = @site.templates['interview'].render('title' => @name, 'interview' => self)
+        output = Site.instance.templates['interview'].render('title' => @name, 'interview' => self)
         file.write(output)
       end
     end
@@ -44,7 +43,7 @@ module UsesThis
 
       @answers.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
           slug = (link[1] ? link[1] : link[0].downcase)
-          @wares.push(@site.wares[slug]) if @site.wares[slug]
+          @wares.push(Site.instance.wares[slug]) if Site.instance.wares[slug]
         end
 
       if @wares.length > 0

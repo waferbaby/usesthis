@@ -2,15 +2,15 @@ $:.unshift(__dir__)
 
 require 'rubygems'
 require 'renderable'
+require 'site'
 
 module UsesThis
   class Page
     include Frontable
     include Renderable
-    attr_accessor :site, :metadata, :contents
+    attr_accessor :metadata, :contents
 
-    def initialize(site, path = nil)
-      @site = site
+    def initialize(path = nil)
       @path = path
 
       if path
@@ -22,7 +22,7 @@ module UsesThis
 
     def write(output_path, filename = 'index.html')
       if @path
-        path = File.join(output_path, File.dirname(@path).gsub(@site.paths[:pages], ''), filename)
+        path = File.join(output_path, File.dirname(@path).gsub(Site.instance.paths[:pages], ''), filename)
       else
         path = File.join(output_path, filename)
       end
