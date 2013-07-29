@@ -11,31 +11,22 @@ module UsesThis
     
     attr_accessor :paths, :interviews, :archives, :wares, :pages, :links, :templates, :categories
 
-    def initialize(path)
-      @paths = {
-        source: path,
-        output: File.join(path, 'site'),
-        data: File.join(path, 'data'),
-        pages: File.join(path, 'pages'),
-        assets: File.join(path, 'public'),
-        templates: File.join(path, 'templates')
-      }
-
-      self.scan
+    def self.instance
+      @site ||= new
     end
 
     def scan
       @templates = {}
 
       Dir.glob(File.join(@paths[:source], 'templates', '*.erb')).each do |path|
-        template = Template.new(self, path)
+        template = Template.new(path)
         @templates[template.slug] = template
       end
 
       @pages = []
 
       Dir.glob(File.join(@paths[:source], 'pages', '**', '*.*')).each do |path|
-        page = Page.new(self, path)
+        page = Page.new(path)
         @pages.push(page)
       end
 
@@ -64,7 +55,7 @@ module UsesThis
       @interviews = []
 
       Dir.glob(File.join(@paths[:source], 'interviews', '*.*')).each do |path|
-        interview = Interview.new(self, path)
+        interview = Interview.new(path)
         @interviews.push(interview)
       end
 
@@ -96,7 +87,7 @@ module UsesThis
       for index in 0...pages
         interview_range = interviews.slice(index * per_page, per_page)
 
-        page = Page.new(self)
+        page = Page.new
 
         paths = []
         paths.push(@paths[:output])
@@ -145,12 +136,26 @@ module UsesThis
       end
     end
 
-    def build
+    def build(path)
+
+      @paths = {
+        source: path,
+        output: File.join(path, 'site'),
+        data: File.join(path, 'data'),
+        pages: File.join(path, 'pages'),
+        assets: File.join(path, 'public'),
+        templates: File.join(path, 'templates')
+      }
+
       STDOUT.sync = true
       start_time = Time.now
 
       puts "Building into #{@paths[:output]}:\n\n"
+      print "- Scanning files... "
 
+      self.scan
+
+      puts "Done."
       print "- Preparing output directory... "
 
       begin
@@ -220,7 +225,7 @@ module UsesThis
           return
         end
 
-        feed = Page.new(self)
+        feed = Page.new
 
         feed.metadata = {
           'layout' => 'feed',
@@ -251,7 +256,7 @@ module UsesThis
       puts "Done."
       print "- Generating main feed... "
 
-      feed = Page.new(self)
+      feed = Page.new
 
       feed.metadata = {
         'layout' => 'feed',
