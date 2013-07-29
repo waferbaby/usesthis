@@ -6,5 +6,5 @@ $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = UsesThis::Site.new(source_path)
-site.build
+site = UsesThis::Site.instance
+site.build(source_path)
