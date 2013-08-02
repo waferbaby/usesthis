@@ -8,7 +8,7 @@ module UsesThis
   class Page
     include Frontable
     include Renderable
-    attr_accessor :metadata, :contents
+    attr_accessor :metadata, :filename, :extension, :contents
 
     def initialize(path = nil)
       @path = path
@@ -20,16 +20,17 @@ module UsesThis
       end
     end
 
-    def write(output_path, filename = 'index.html')
+    def write(output_path, filename = nil)
       if @path
-        path = File.join(output_path, File.dirname(@path).gsub(Site.instance.paths[:pages], ''), filename)
+        filename = (File.basename(@path, File.extname(@path)) + ".html") if filename.nil?
+        output_path = File.join(output_path, File.dirname(@path).gsub(Site.instance.paths[:pages], ''))
       else
-        path = File.join(output_path, filename)
+        filename = 'index.html' if filename.nil?
       end
 
-      FileUtils.mkdir_p(File.dirname(path))
+      FileUtils.mkdir_p(output_path)
 
-      File.open(path, 'w') do |file|
+      File.open(File.join(output_path, filename), 'w') do |file|
           output = self.render(@metadata, @contents)
           file.write(output)
       end
