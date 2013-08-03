@@ -10,7 +10,7 @@ I am a forensic pathologist working for the [New York City Office of Chief Medic
 
 ### What hardware do you use?
 
-Most forensic pathologists are unbelievably picky about what they use for autopsies. If you asked 100 people, you'd get 100 difference answers. I personally use a [MAC Professional MKS-105 carving knife][mks-105], a #4L scalpel handle and #70 scalpel blades, 10" Russian tissue forceps, 8" curved Mayo scissors and a 6"/15cm stainless steel ruler for every case. In my kit (an eight pocket leather chef's knife roll) I also have an 18" stainless steel ruler, a 99¢ nail clipper, 6" serrated dressing forceps, a pair of disposable plastic forceps and a backup knife (Victorinox, scimitar style).
+Most forensic pathologists are unbelievably picky about what they use for autopsies. If you asked 100 people, you'd get 100 different answers. I personally use a [MAC Professional MKS-105 carving knife][mks-105], a #4L scalpel handle and #70 scalpel blades, 10" Russian tissue forceps, 8" curved Mayo scissors and a 6"/15cm stainless steel ruler for every case. In my kit (an eight pocket leather chef's knife roll) I also have an 18" stainless steel ruler, a 99¢ nail clipper, 6" serrated dressing forceps, a pair of disposable plastic forceps and a backup knife (Victorinox, scimitar style).
 
 As for computers, I work for a government agency and have zero input over anything IT related. We use [Windows XP][windows-xp] desktops and I imagine all the backend stuff is Microsoft as well.
 
@@ -22,11 +22,11 @@ Our office just migrated to a new custom-designed platform based on [UVIS][] whi
 
 I use [EndNote X3][endnote] as a citation/reference manager for my scholarly work.
 
-We use [VeriPic's Digital Photo Lab/Digital Evidence Manager][digital-evidence-manager] software package for image management - however I'm told that eventually photo support will be rolled into CMS. We use a custom application written in [Java][] for document management and again, this will be incorporated into a future CMS revision. We also use the [Office][] suite for email, word processing, etc. and we use [the NYC DOHMH computer system](http://www.nyc.gov/html/doh/html/home/home.shtml "The New York City Department of Health and Mental Hygiene website.") and an APC biometric fingerprint scanner for death certificates, just like all doctors in NYC do.
+We use [VeriPic's Digital Photo Lab/Digital Evidence Manager][digital-evidence-manager] software package for image management - however, photo support has been rolled into CMS. We also use the [Office][] suite for email, word processing, etc. and we use [the NYC DOHMH computer system](http://www.nyc.gov/html/doh/html/services/vr-edrs.shtml "The Electronic Death Registration System website.") and an APC biometric fingerprint scanner for death certificates, just like all doctors in NYC do.
 
 ### What would be your dream setup?
 
-I'm contemplating getting a [MAC Ultimate SKS-105 10 1/4" slicer][sks-105]. A friend of mine just got one and I'm waiting to hear his impressions. There are other tools I'd include in my kit if I worked in a smaller ME office that wasn't as well supplied as the office I currently work in.
+I'd contemplated getting a [MAC Ultimate SKS-105 10 1/4" slicer][sks-105], but it was too heavy for my liking. There are other tools I'd include in my kit if I worked in a smaller ME office that wasn't as well supplied as the office I currently work in.
 
 As for computers, I've used a lot of the different pathology software packages out there ([CoPath][copathplus] and [PowerPath][] extensively, and others to a lesser degree). When you speak with the vendor representatives they'll talk about their five 9's, six-sigma and robust backends until you can't breathe. Once you start using the software, you realize within five minutes that they spent 20 minutes on the UX. I'd like a pathology case management system that has a good UI, and I think most other people in my field would too since the market leaders are sorely lacking in this department. The same goes for the CMS system. I think the fact that it's browser-based is great, but since it's not standards compliant, we're forced to use [IE][internet-explorer] otherwise it won't work (although for my purposes, I don't need the Silverlight modules and [Chrome][] suffices). The take-home message here is UI and UX are critical and no pathology software does them well. 
 
