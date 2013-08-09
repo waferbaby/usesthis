@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-<title><%= title %></title>
+<title><%= @title %></title>
 <link href="http://usesthis.com/feed/" rel="self"/>
 <link href="http://usesthis.com/"/>
 <updated><%= Time.new.strftime('%FT%T') %>Z</updated>
@@ -10,7 +10,7 @@
   <name>Daniel Bogan</name>
 </author>
 
-<% interviews.each do |interview| %>
+<% @interviews.each do |interview| %>
 <entry>
   <title><%= interview.name %></title>
   <link href="http://<%= interview.slug %>.usesthis.com/"/>

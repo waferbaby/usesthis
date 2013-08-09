@@ -3,22 +3,22 @@ layout: default
 ---
 
 <article class="interview">
-  <img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>">
-  <h2 class="person"><%= interview.name %></h2>
-  <p class="summary"><%= interview.summary %></p>
-  <p class="date">Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>"><%= interview.date.strftime('%b %d, %Y') %>.</time></p>
-  <% if interview.credits %>
-    <p class="credits">Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="View more about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %></p>
+  <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
+  <h2 class="person"><%= @interview.name %></h2>
+  <p class="summary"><%= @interview.summary %></p>
+  <p class="date">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%b %d, %Y') %>.</time></p>
+  <% if @interview.credits %>
+    <p class="credits">Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %></p>
   <% end %>
   <ul class="categories">
-    <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
+    <% @interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
   </ul>
 </article>
 
 <div id="answers">
-<%= interview.answers %>
+<%= @interview.answers %>
 
-<% if interview.license %>
-<p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= interview.license %>/3.0/" title="View details of the license."><%= interview.license.upcase %> Creative Commons license</a>.</p>
+<% if @interview.license %>
+<p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @interview.license %>/3.0/" title="View details of the license."><%= @interview.license.upcase %> Creative Commons license</a>.</p>
 <% end %>
 </div>

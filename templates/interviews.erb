@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<% interviews.each do |interview| %>
+<% @interviews.each do |interview| %>
   <article class="interviewee">
     <a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
     <h2 class="person"><a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><%= interview.name %></a></h2>
@@ -17,10 +17,10 @@ layout: default
   </article>
 <% end %>
 
-<% if pagination[:pages] > 1 %>
+<% if @pagination[:pages] > 1 %>
 <nav id="paginator">
-<% if pagination[:previous_page] %><a href="<%= pagination[:path] if pagination[:path] %><% if pagination[:previous_page] != 1 %>page<%= pagination[:previous_page] %><% end %>" title="Go to page <%= pagination[:previous_page] %> of the interviews.">Previous</a><% else %><span>Previous</span><% end %>
-- Page <strong><%= pagination[:page] %></strong> of <strong><%= pagination[:pages] %></strong> (<%= pagination[:total] %>) -
-<% if pagination[:next_page] %><a href="<%= pagination[:path] if pagination[:path] %>page<%= pagination[:next_page] %>" title="Go to page <%= pagination[:next_page] %> of the interviews.">Next</a><% else %><span>Next</span><% end %>
+<% if @pagination[:previous_page] %><a href="<%= @pagination[:path] if @pagination[:path] %><% if @pagination[:previous_page] != 1 %>page<%= @pagination[:previous_page] %><% end %>" title="Go to page <%= @pagination[:previous_page] %> of the interviews.">Previous</a><% else %><span>Previous</span><% end %>
+- Page <strong><%= @pagination[:page] %></strong> of <strong><%= @pagination[:pages] %></strong> (<%= @pagination[:total] %>) -
+<% if @pagination[:next_page] %><a href="<%= @pagination[:path] if @pagination[:path] %>page<%= @pagination[:next_page] %>" title="Go to page <%= @pagination[:next_page] %> of the interviews.">Next</a><% else %><span>Next</span><% end %>
 </nav>
 <% end %>
