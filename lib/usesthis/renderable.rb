@@ -7,7 +7,7 @@ module UsesThis
     def render(params = {}, body = '')
         params['site'] ||= Site.instance
 
-        output = Erubis::Eruby.new(@contents).result(params) {
+        output = Erubis::Eruby.new(@contents).evaluate(params) {
           body
         }
 
