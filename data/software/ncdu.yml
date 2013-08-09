@@ -1,0 +1,4 @@
+---
+name: "ncdu"
+description: "Disk usage analysis software."
+url: "http://dev.yorhel.nl/ncdu"

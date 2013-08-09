@@ -1,0 +1,4 @@
+---
+name: "cwm"
+description: "A simple OpenBSD window manager."
+url: "http://www.openbsd.org/cgi-bin/man.cgi?query=cwm&sektion=1"

@@ -1,0 +1,4 @@
+---
+name: "runit"
+description: "A *nix init replacement."
+url: "http://smarden.org/runit/"
