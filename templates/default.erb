@@ -6,8 +6,8 @@
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width;initial-scale=1">
-		<meta property="og:title" content="The Setup<% if @title %><%= " / #{@title}" %><% end %>" />
 		<% if @interview %>
+		<meta property="og:title" content="<%= @interview.name %>" />
 		<meta property="og:description" content="<%= @interview.summary %>" />
 		<meta property="og:url" content="http://<%= @interview.slug %>.usesthis.com/" />
 		<meta property="og:type" content="article" />
@@ -17,10 +17,8 @@
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@usesthis">
 		<meta name="twitter:creator" content="@waferbaby">
-		<meta name="twitter:title" content="The Setup<% if @title %><%= " / #{@title}" %><% end %>">
-		<meta name="twitter:description" content="<%= @interview.summary %>">
-		<meta name="twitter:image" content="http://usesthis.com/images/portraits/<%= @interview.slug %>.jpg">
 		<% else %>
+		<meta property="og:title" content="The Setup<% if @title %><%= " / #{@title}" %><% end %>" />
 		<meta property="og:description" content="What do people use to get stuff done?" />
 		<meta property="og:url" content="http://www.usesthis.com/" />
 		<meta property="og:type" content="website" />
