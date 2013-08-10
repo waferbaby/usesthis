@@ -10,7 +10,7 @@ My name is [Christian Neukirchen](http://chneukirchen.org/ "Christian's website.
 
 I'm also known for creating the first tumblelog [Anarchaia](http://anarchaia.org/ "Christian's tumblelog.").
 
-Currently -- apart from my studies -- I'm publishing the weekly linkblog [Trivium](http://chneukirchen.org/trivium/ "Christian's linkblog.") and occasionally churning out [smaller programs](https://github com/chneukirchen/ "Christian's GitHub account.") to do whatever needs to be done.
+Currently -- apart from my studies -- I'm publishing the weekly linkblog [Trivium](http://chneukirchen.org/trivium/ "Christian's linkblog.") and occasionally churning out [smaller programs](https://github.com/chneukirchen/ "Christian's GitHub account.") to do whatever needs to be done.
 
 ### What hardware do you use?
 
@@ -46,7 +46,7 @@ These days, I write most of my code in [Ruby][], [C][], or as shell scripts (POS
 
 I generally don't use syntax highlighting because I find it distracting and I believe it harms code readability. When coding, I depend on Emacs smart indentation to find syntax errors.
 
-I write most of my text as plain text, and everything that ends up as HTML using [Markdown][]. Most things longer than a line or two (e.g. blog comments) start off in a file called `~/Notes` which I have open constantly. It is very long. I write math-heavy and stuff-to-be-printed using [LaTeX][], but I've been in search of a good reason to learn [ConTeXt][] for years. I also use LaTeX for making slides. I use [awk][] [instead of spreadsheets](http://c2.com/doc/expense/ "An awk calculator script."). I don't have [LibreOffice][] installed, and don't intent to.
+I write most of my text as plain text, and everything that ends up as HTML using [Markdown][]. Most things longer than a line or two (e.g. blog comments) start off in a file called `~/Notes` which I have open constantly. It is very long. I write math-heavy and stuff-to-be-printed using [LaTeX][], but I've been in search of a good reason to learn [ConTeXt][context.2] for years. I also use LaTeX for making slides. I use [awk][] [instead of spreadsheets](http://c2.com/doc/expense/ "An awk calculator script."). I don't have [LibreOffice][] installed, and don't intent to.
 
 I read my mail using [Gnus][] in Emacs, and juno actually is a self-contained mail host running its own [Postfix][] and [Dovecot][] setup, which syncs with [offlineimap][] against my [Gmail][] account. This nicely enables me to work with mail the Unix way, as well as queue mail when I'm not online. I follow many mailing lists, and try to use [Gmane][] to read them with Gnus over NNTP.
 
@@ -64,7 +64,7 @@ On my phone, I mostly use Google Mail, [Mosh Irssi Connectbot][irssi-connectbot-
 
 ### What would be your dream setup?
 
-My current setup could be improved with the advent of high-resolution displays, ether for on-desk usage or combined with power user friendly portable hardware (and by that I mean a matte display, proper keyboard, exchangeable battery and a Gigabit Ethernet port). Also, everybody wants more battery runtime.
+My current setup could be improved with the advent of high-resolution displays, either for on-desk usage or combined with power user friendly portable hardware (and by that I mean a matte display, proper keyboard, exchangeable battery and a Gigabit Ethernet port). Also, everybody wants more battery runtime.
 
 My dream home features a symmetric 1Gbps internet connection, and we should be getting there in a few years. Although, I'm actually not sure about the "symmetric" part nor how many hours (minutes?!) I could actually max it out.
 
