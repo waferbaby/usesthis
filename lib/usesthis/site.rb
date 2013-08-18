@@ -32,7 +32,7 @@ module UsesThis
 
       @wares = {}
 
-      Dir.glob(File.join(@paths[:data], '{hardware,software}', '*.yml')).each do |path|
+      Dir.glob(File.join(@paths[:data], 'wares', '**', '*.yml')).each do |path|
         ware = Ware.new(path)
         @wares[ware.slug] = ware
       end
