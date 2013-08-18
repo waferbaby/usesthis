@@ -3,17 +3,17 @@ layout: default
 title: Community
 ---
 
-<h2>Community</h2>
+<h3>Friends of The Setup</h3>
 <p>Some awesome people have taken the time to make localised Setup-style sites, picking the brains of the people around them, or those within a particular field of interest. Others have written up personal interviews with themselves. All are awesome.</p>
 
-<h3>Localised or inspired by</h3>
+<h4>Localised or inspired by</h4>
 <ul class="links">
 <% @site.links[:inspired].each do |link| %>
 <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a> <span class="summary">(<%= link.summary %>)</span></li>
 <% end %>
 </ul>
 
-<h3>Personal</h3>
+<h4>Personal</h4>
 <ul class="links">
 <% @site.links[:personal].each do |link| %>
 <li><a href="<%= link.url %>" title="View the self-interview by <%= link.name %>."><%= link.name %></a></li>
