@@ -4,7 +4,7 @@ layout: default
 
 <article class="interview">
   <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
-  <h2 class="person"><%= @interview.name %></h2>
+  <h3 class="person"><%= @interview.name %></h3>
   <p class="summary"><%= @interview.summary %></p>
   <p class="date">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%b %d, %Y') %>.</time></p>
   <% if @interview.credits %>
