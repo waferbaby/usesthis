@@ -4,11 +4,11 @@ summary: "Game designer (Kentucky Route Zero), web developer (Pitchfork)"
 categories: [artist, designer, game, hacker, linux, mac]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Tamas Kemenczy](http://singlemaltmana.net/ "Tamas' website."), an artist, indie game designer and web developer based in Chicago. Right now I'm collaborating with [Jake Elliott](http://dai5ychain.net/ "Jake's website.") on [Kentucky Route Zero][kentucky-route-zero], a [Cardboard Computer](http://cardboardcomputer.com/ "Cardboard Computer's website.") game, as well as working as a developer for [Pitchfork](http://pitchfork.com/ "Pitchfork's website."), most recently working on the [Bat for Lashes](http://pitchfork.com/features/cover-story/reader/bat-for-lashes/ "A cover story on Bats for Lashes.") cover story. I also work on a homebrew [Arduino][] VGA synthesizer for [Arcanebolt](http://arcanebolt.net/ "Arcanebolt's website."), a video/noise project.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 For my workhorse game dev setup, I sit on an old creaky farm chair in front of an Apple 27" [Cinema Display][cinema-display], driven by a 2010 11" [Macbook Air][macbook-air] with 2GB of RAM and a Nvidia Geforce 320M graphics card. I'm not in any rush to upgrade for the moment, and I don't mind the lower ceiling - I like to know that what I'm working on runs on somewhat more modest hardware. My tattered pair of [Sony MDR-7506][mdr-7506] headphones are a classic and they have good audio response.
 
@@ -18,7 +18,7 @@ On input devices: I use an old school optical 3-button/wheel mouse and an [Apple
 
 For Arcanebolt, I use a Lenovo Thinkpad Edge running some bygone version of [Ubuntu][] for flashing the Arduino boards. During performances we use an old XT keyboard that talks to the board. We use an obsolete Magnavox CRT screen to display the Arduino-generated VGA images, and on occasion an old IBM CRT as well. Old naive monitors like that are much more responsive to weird and corrupt video signals!
 
-### And what software?
+#### And what software?
 
 [Emacs][] is [home sweet home](https://github.com/tamask/emacs-conf "Tamas' Emacs configuration on Github.") and I use it across the board for development and pretty much anything text-related. Menlo is the monospace/programming font that I can't do without, it makes all the right changes to Bistream Vera Sans Mono. For general scripting I use [Python][] or [Javascript][], and [Bash][] to tie it all together. I like the webkit flavor of browsers, [Safari][] or [Chrome][]. [OS X][mac-os-x] generally has bash/Emacs-style key bindings which is really helpful, and although I don't really spend too much time with the built-in OS apps and features (other than [Messages][ichat]), Spotlight, Quick Look and the suite of screenshot commands are wonderful. I jot down text snippets with [Gist][].
 

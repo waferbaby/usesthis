@@ -5,11 +5,11 @@ categories: [developer, linux, mac, web]
 credits: {name: "Joi Ito", url: "http://www.flickr.com/photos/joi/3611958575/"}
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I am [Harper Reed](http://harperreed.org/ "Harper's website."). I make things happen on the Internet. I am a connector and a technologist. I like to meld both of those things together to connect people to one another and enable them to build amazing technology. In the past I spent a bunch of time helping [Threadless](http://threadless.com/ "A t-shirt site.") grow, then I helped [startups](http://www.sandboxindustries.com/ "Sandbox's website.") in Chicago [grow](http://exceleratelabs.com/ "A startup accelerator."), and now I am helping [reelect the President](http://www.barackobama.com/ "The president's website.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I typically have two workstations that I keep in sync via [Dropbox][] and [Git][]. In the past, I have relied on a trusty Lenovo X series laptop running [Ubuntu][] that I carry with me and then a workstation at home that is some form of Macbook Pro/Mac Mini. I used this setup for many years and loved it. Recently, because I fell in love with the [Macbook Air][macbook-air] form factor, I migrated away from the Lenovo and Ubuntu in favor of a tiny happy 11" Macbook Air (i7). It works well. For my desktop workstation I am using a late-model [Mac Mini][mac-mini] (i7) paired with a [Samsung SyncMaster 2343 monitor][syncmaster-2343bwx-plus]. It looks great and doesn't take up too much space on my desk.
 
@@ -25,7 +25,7 @@ I aggressively use my [Kindle][]. I am a voracious reader and the Kindle is my c
 
 A quick note on Kindles: I have owned the suite of Kindle devices. The best Kindle they have made is the Kindle 4 (also known as the cheap kindle). After using the Aztec Kindle, the various Kindles with keyboards and finally the Kindle touch - I find that I am able to be a happier and more efficient reader with the cheaper kindle.
 
-### And what software?
+#### And what software?
 
 I try and keep a pretty simple software catalog. I don't want too many apps clogging my various tubes.
 
@@ -39,7 +39,7 @@ For some strange reason, I use both [Amazon Cloud Player][cloud-player] and [Goo
 
 One of my favorite killer apps is [partychat][]. It is an open source Jabber-based persistent chat room. It works with [Google Talk][google-talk] and is VERY simple. I use this to communicate with small groups of friends/collaborators. It has allowed us to collaborate on some amazing things.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I am lucky and am pretty happy with my current setup. I would easily add faster Internet, more memory, smaller devices, better battery life and more general device convergence. Also the [singularity](http://en.wikipedia.org/wiki/Technological_singularity "The Wikipedia entry for technological singularity.").
 

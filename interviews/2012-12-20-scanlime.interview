@@ -4,13 +4,13 @@ summary: "Hardware and software hacker"
 categories: [developer, hacker, mac, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Micah Elizabeth Scott](http://scanlime.org/ "Micah's website."). I've been doing unconventional things with technology for as long as I can remember, often exploring the boundaries between software and hardware. I've built satellites, robots, virtual machines, graphics drivers, CPU emulators, networking stacks, USB controllers, reverse engineering tools, and pretty much everything in-between.
 
 I worked at VMware for six years, doing mostly USB and [GPU virtualization](http://scanlime.org/2008/12/gpu-virtualization-at-wiov-08/ "Micah's post on GPU virtualisation."). For about the last year, I've been at [Sifteo](https://www.sifteo.com/ "Sifteo's website.") building a new kind of video game console. Now I'm following my own path for a while, exploring ways to mix software, hardware, and art.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I have a strange relationship with hardware. My hobbies and career tend to revolve around using tools and producing things, but I tend towards minimalism in my own life. So, my favorite hardware is whatever can follow me around when I need it to, and stay out of the way otherwise.
 
@@ -32,7 +32,7 @@ I own several pairs of tweezers, with various levels of sharpness. I have an ext
 
 For "rapidly" prototyping plastic parts, I've been experimenting with DIY 3D printers for a while. I bought a [MakerBot Thing-o-Matic][thing-o-matic] when they were new, but I immediately ran into trouble with the unreliable extruder motors on that first manufacturing run. I made several upgrades to the printer, most importantly replacing the extruder with a MakerGear stepper extruder and a 0.25mm nozzle. After all of this upgrading, my printer has a pretty respectable resolution at 150 microns per layer. On the downside, it's an incredibly slow, noisy, and unreliable machine.
 
-### And what software?
+#### And what software?
 
 I find it really hard to get attached to software. I've seen how the sausage is made, and my tenure at VMware has shown me the ugliest sides of every operating system. I've had brief stints of using Windows. I used to use Linux almost exclusively. Now I've been mostly using [Mac OS][mac-os-x]. But really, I see all operating systems as a necessary annoyance.
 
@@ -50,7 +50,7 @@ I like building my own tools, and a lot of my favorites are data visualization a
 
 I find [Evernote][] to be highly useful for keeping my life organized. I use it for todo lists, nascent ideas, travel plans, and anything else I want to be able to edit and see on any device.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My dream setup would really be more of an anti-setup. I'd love to have a community space full of great tools that I don't own. More storage space, nicer test equipment, and other like-minded creative folks to bounce ideas off of.
 

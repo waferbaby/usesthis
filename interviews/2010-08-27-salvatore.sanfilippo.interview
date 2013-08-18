@@ -4,11 +4,11 @@ summary: "Software developer (Redis)"
 categories: [developer, linux, mac, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 Hello! I'm [Salvatore Sanfilippo](http://antirez.com/ "Salvatore's website."), 33, and I'm a programmer working for VMware developing [Redis][], a NoSQL open source database. In my past life I was a computer security guy developing [HPing][] and researching TCP/IP vulnerabilities.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I mostly use the following three computers:
 
@@ -18,7 +18,7 @@ A Linux [Ubuntu][] system running on a [Dell T3500][precision-t3500] with 24 GB 
 
 An [iPhone 3G][iphone-3g] with a flat internet plan.
 
-### And what software?
+#### And what software?
 
 Development tools: [zsh][], [vim][], [git][].
 
@@ -32,7 +32,7 @@ Backups: [Time Machine][time-machine].
 
 In the past my desktop was running Linux as well, I used [fvwm2][fvwm], for more than 10 years, with [this minimalistic setup](http://antirez.com/blogdata/119/desktop.png "A screenshot of Salvatore's minimal desktop."). Now I miss it a bit... but switched to Mac OS as it delivers a much better "just works" experience for me, every time I want to do Skype, print a document, or alike.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 For me user experience is all about speed. I love 2D-games alike interfaces where you click and things appear with zero-delay (do you remember Fast Tracker?). Everything should be instantaneous, loading web pages, checking the email, compiling code, and so forth. With simple graphics.
 

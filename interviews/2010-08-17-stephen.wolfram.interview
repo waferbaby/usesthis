@@ -4,11 +4,11 @@ summary: "Scientist, developer, mathematician"
 categories: [developer, mac, scientist, software, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My main life projects so far have been creating [Mathematica][] and [Wolfram\|Alpha][wolfram-alpha], and writing [A New Kind of Science](http://www.wolframscience.com/ "The website for Stephen's book."). My main job is being CEO of [Wolfram Research](http://www.wolfram.com/ "The Wolfram Research site."). I spend most of my time figuring out technical and strategic things, sometimes short-term and sometime very long-term. For more than 20 years, I've been a remote CEO, managing our company mainly from home. What's made that possible -- in addition to a terrific team -- is technology.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 The answer changes practically every week. But as of today (August 18, 2010) here's the answer.
 
@@ -26,7 +26,7 @@ Among other hardware, I have a computer set up to use while walking on a treadmi
 
 Recently I tried using a telepresence robot from [Anybots](http://anybots.com/ "A telepresence robot.").
 
-### And what software?
+#### And what software?
 
 By far my #1 tool is Mathematica. Which, of course, I built so I could have it to use! These days I use it not just to compute, but also to keep notes, to create presentations, and to do all sorts of other things. Partly, I figure that the more I actually use Mathematica, the better we'll make it work. But most of the time it just works really well... and I'm left wondering, "How on earth would anyone do this stuff without Mathematica?"
 
@@ -34,6 +34,6 @@ I get to use a lot of software that "doesn't yet exist". I get several branch bu
 
 These days I use [Firefox][] as my primary browser, [Adobe Connect][connect] for webconferencing, [ShoreTel][] for telephony (I'm a stickler for audio quality), and a horrific calendar system that I've been trying to get us to replace for ages. Within our company, we've built lots of custom internal utilities, often based on Mathematica and [webMathematica][]. I've also had systems built for me personally. One of the more important is my archiving and searching system, which includes 25 years of email (and 20 years of keystroke data), as well as searchable scans of all my archived paper documents.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Mathematica + Wolfram\|Alpha everywhere! Laptops that switch on and get connected immediately anywhere. Systems that combine the best of touch with mouse and keyboard. Easy recording, transcribing, archiving and searching of everything. A perfect telepresence system, with half a room where I am, and half somewhere else. I think I also want mobile telepresence, so I can virtually wander around our various company offices. And I want really fluid ways to pull in all sorts of data, ask questions about it, compute with it, visualize it, take action from it, etc. But this I expect to have to build...

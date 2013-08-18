@@ -4,11 +4,11 @@ summary: "Programmer, writer (Ars Technica)"
 categories: [developer, mac, software, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm John Siracusa. I'm a programmer by day and a freelance [technology writer](http://arstechnica.com/author/john-siracusa/ "A list of John's articles on Ars Technica.") by night (and weekends).
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My main machine is a 2x2.8 GHz [Mac Pro][mac-pro] (Early 2008) with 8 GB of RAM, dual optical drives, an NVIDIA GeForce 8800 GT video card, and 3.5 TB of disk space spread over four internal drives: two 1 TB Western Digital Caviar Blacks, a 1 TB Samsung Spinpoint F1, and the 500GB Western Digital Caviar Blue that came with the Mac.
 
@@ -26,7 +26,7 @@ One final hardware note. All those hard drives feed my paranoid backup regime. O
 
 The laptop backup is simpler: periodic Time Machine backup to the 250 GB external drive via FireWire.
 
-### And what software?
+#### And what software?
 
 I do all of my programming and writing in [BBEdit][], which I've been using since version 2.1 (despite a brief dalliance with emacs when I was in college).
 
@@ -58,7 +58,7 @@ On my iPod, I mostly bounce between [Twitterrific][twitterrific-ios], [Safari][s
 
 Oh yeah, and what you're reading now was written (mostly) using MacSpeech [Dictate][]. A few decades of typing has left me with some significant [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury "Wikipedia entry on RSI."), and speech recognition, for all its flaws and limitations, goes a long way towards mitigating the damage.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My dream setup could be described as "more of what I already have." Bigger/more displays, more RAM, more hard disk space, a faster video card, faster network connection, etc. In particular, I really wanted to buy a 30-inch display with my Mac Pro, but couldn't bring myself to pay so much money for the "old" model with the [CCFL](http://en.wikipedia.org/wiki/Cold_cathode "Wikipedia entry on CCFL.") backlight. (Of course, here we are a year later and there's still no 30-inch LED-backlit Apple display.) I'd also like a big, fast pool of fault-tolerant network-attached storage hidden somewhere in my basement.
 

@@ -4,7 +4,7 @@ summary: "Software developer (Rack, bacon)"
 categories: [bsd, developer, linux, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Christian Neukirchen](http://chneukirchen.org/ "Christian's website.") and after finishing my Bachelor's in Mathematics, I am currently pursuing a Master's degree in Computer Science. In the past, I have written popular Ruby libraries such as the abstract webserver interface [Rack][] and the Behavior Driven Development framework [bacon][].
 
@@ -12,7 +12,7 @@ I'm also known for creating the first tumblelog [Anarchaia](http://anarchaia.org
 
 Currently -- apart from my studies -- I'm publishing the weekly linkblog [Trivium](http://chneukirchen.org/trivium/ "Christian's linkblog.") and occasionally churning out [smaller programs](https://github.com/chneukirchen/ "Christian's GitHub account.") to do whatever needs to be done.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My computer usage is split threefold, in roughly equal parts between my notebook, my desktop and my phone.
 
@@ -32,7 +32,7 @@ My phone is a [Desire Z][g2]. It was of the few [Android][] half-recent devices 
 
 I have a [few other](http://vuxu.org/vuxi/boxes "Christian's wiki entry for his computers.") small computers running which provide specific services, such as a Dockstar which serves as a Kerberos KDC and an old EEE-PC which I use for IPv6 tunneling. I run a headless [Raspberry Pi][raspberry-pi] when I want to test code on ARM.
 
-### And what software?
+#### And what software?
 
 I am very conservative about software that works for me, yet very open about things that solve problems in novel ways. I hate nothing more than software breaking without good reason. This reflects nicely in my choice of software: I use some very old programs that work really well for me, but I'm also an early adopter of recent programs such as [tmux][], [mosh][], [ncdu][], [mupdf][] and others. I often run [Git][] versions of new tools and sometimes help development. I like the [Z shell][zsh] (which never changes default behavior) and [Emacs][] (where I begrudgingly read the Changelogs and revert most of their new "features")---tools I've been using for years.
 
@@ -62,7 +62,7 @@ I listen to music using [mpd][] (with [ncmpcpp]()), tweet with [Hotot][], chat w
 
 On my phone, I mostly use Google Mail, [Mosh Irssi Connectbot][irssi-connectbot-android], [Plume][plume-android], [Aix Weather][aix-weather-android] and [Öffi][oeffi-android]. I use [PinDroid][pindroid-android] to save links on [pinboard.in][pinboard] for later reading on my notebook. I occasionally surf using [w3m][] over SSH because I forget I have a native browser (and sometimes because it's quicker).
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My current setup could be improved with the advent of high-resolution displays, either for on-desk usage or combined with power user friendly portable hardware (and by that I mean a matte display, proper keyboard, exchangeable battery and a Gigabit Ethernet port). Also, everybody wants more battery runtime.
 

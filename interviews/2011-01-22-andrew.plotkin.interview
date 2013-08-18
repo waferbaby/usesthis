@@ -4,11 +4,11 @@ summary: "Hacker, IF Wizard"
 categories: [developer, game, mac, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Andrew Plotkin](http://eblong.com/zarf/home.html "Zarfhome."). I'm a hacker, [student of game interactivity](http://gameshelf.jmac.org/essays/zarf-on-games/ "Andrew's writings about games."), and [text adventure author](http://eblong.com/zarf/if.html "Andrew's interactive fiction."). Text-adventure auteur? Fanatic? One of those.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 Right now I'm using a [PowerMac G4][power-mac-g4] circa 2002 -- it's got nearly one whole gigahertz! The [17" Apple Studio Display][studio-display] that I bought with it died a couple of years ago (touch-sensitive power switch went wonky) so I dropped in a [Dell U2410][u2410] monitor. The Dell is *awfully* nice, except that it has that OLED color oversaturation problem.
 
@@ -24,7 +24,7 @@ That sounds like an overwhelming wave of Apple fanboyism, but it's... not as whe
 
 Speaking of office chairs... okay, I got this one at IKEA. But then the back broke off! Now it's sort of a rotating office stool. Best news my posture ever heard.
 
-### And what software?
+#### And what software?
 
 How old-fashioned am I? I measure monitors by the number of Terminal windows I can use at a time. (Six on the desktop monitor, but only two on the laptop.)
 
@@ -50,7 +50,7 @@ Oh, I guess I should include the iPad software. I use [iCab Mobile][icab-ios] th
 
 I also have [iSSH][issh-ios] on the iPad (and iPhone, etc). That lets me ssh into a server and run Emacs over 3G. Yes, this is my greatest computer dream. Emacs anywhere! (And Pine! See, I *can* read email remotely after all.) Control-key combos on the iPad aren't *great*... well, to be honest, they're pretty damn awkward. But I can get *emergency* work done.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 You may have noticed that my desktop computer is an antique. (It can't even play YouTube videos any more, which would be some kind of minimal functionality standard if Flash weren't bleeding to death on Steve Jobs's lawn. In any case, it's slow.)
 

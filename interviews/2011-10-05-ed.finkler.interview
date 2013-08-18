@@ -5,11 +5,11 @@ categories: [developer, linux, mac, web]
 credits: {name: "Chris Shiflett", url: "http://www.flickr.com/photos/shiflett/4022501283/"}
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Ed Finkler, but you may also know me as [funkatron](http://funkatron.com/ "Ed's website."). I've been a web developer for about 15 years now. Primarily I work in PHP, but most of my career I've been a one-man web team, so I have dabbled in everything from DB administration to backend dev to design. In the past few years I've gotten heavily into desktop and mobile application with JavaScript. Four years ago I started a successful open source microblogging project called [Spaz][], for desktop and mobile. My day job is making awesome stuff at [FictiveKin](http://fictivekin.com "The company that makes Gimme Bar"), primarily on [Gimme Bar][gimme-bar].
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I actually just bought a new 13-inch, Mid 2011 [Macbook Air][macbook-air]. It's probably the best laptop I've ever used: extremely light and quite fast (it has the 1.8Ghz i7 CPU). The problem is OS X 10.7: I don't think it's quite fully baked at this point, so I haven't transitioned it to being my main work machine (one of our team members had to downgrade back to OS X 10.6 because of this). A few minutes ago I kernel-panicked the machine by switching spaces. That, and the RAM is limited to 4GB, which does make a diff when you use virtual machines a lot.
 
@@ -36,7 +36,7 @@ My main phone is a [Palm Pre 2][pre-2]. I also have an [iPhone 4][iphone-4] that
 
 I also collect old computers and game consoles, but this interview is already longer than it should be.
 
-### And what software?
+#### And what software?
 
 In the past 6 months, [Sublime Text 2][sublime-text-2] has become my primary code editor. It has a lot of similarities to TextMate, but it's being actively developed so it has some really nice additional features, like split windows, much better large file handling, and faster search across files.
 
@@ -68,7 +68,7 @@ I do less design work than I used to, because I realize on a daily basis how muc
 
 For backups, I use [CrashPlan][], both for local LAN backups and online backups.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I'm not sure that exists right now. The Macbook Air would be pretty unbeatable if it could take 8GB of RAM and had a larger HD – I find 256GB *just* a little too small to carry everything I want with me. As it is, it's still the best laptop I've ever used – probably the best computer I've ever used period. Stupid Apple.
 

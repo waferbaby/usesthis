@@ -4,11 +4,11 @@ summary: "Mathematical physicist"
 categories: [scientist, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [I'm](http://johncarlosbaez.wordpress.com/ "John's weblog.") a mathematical physicist who works at U.C. Riverside and also the Center of Quantum Technologies, in Singapore. I used to work on quantum gravity and the foundations of physics, but lately I've gotten interested in environmental issues, like what to do about global warming. I've been called the world's first blogger, which sounds great, or a "proto-blogger", which makes me sound like a caveman.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I'm a minimalist when it comes to gear: I like to spend as little time as possible thinking about new tools, and as much time as possible coming up with ideas and explaining stuff. So, my computer is a Windows machine, a Toshiba notebook I picked up in Hong Kong... nothing terribly special! I have old cell phone, not a smart phone, and no tablet computer... though someday I'll get those things.
 
@@ -22,14 +22,14 @@ Do books count as hardware or software? With old-fashioned physical books it's h
 
 [*The Silk Road: A New History*](http://www.amazon.com/Silk-Road-New-History-ebook/dp/B008YGWQT0/ "'The Silk Road' on Amazon.") by Valerie Hansen. I'm going to western China this summer for a math conference, and then we'll go to Dunhuang, an old city on the Silk Road with hundreds of caves full of paintings. I've been dying to do this for years, so I'm boning up on the history. 
 
-### And what software?
+#### And what software?
 
 I spend a lot of time writing papers and preparing talks with free software: [emacs][] for text editing, [LaTeX][] for typesetting, and [IrfanView][] for editing images. I blog 
 using [Wordpress][] and [Google+](https://plus.google.com/u/0/117663015413546257905/posts "John's Google+ account."). Nothing fancy, since I want to focus on the ideas.
 
 I also help run a wiki on environmental issues, called the [Azimuth Project](http://www.azimuthproject.org/azimuth/show/HomePage "The Azimuth's wiki."). This uses some software called [Instiki][], but another guy takes care of that, a whiz named Andrew Stacey - not me. Same for the [Azimuth Forum](http://azimuth.mathforge.org/ "The Azimuth forum."), where people in the project talk strategy.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My real frustration lies in the realm of music. I've been recording [electronic music](http://math.ucr.edu/home/baez/music/ "John's music.") using strange software like [WolframTones][], which lets you 'evolve' pieces using cellular automata, or [QuasiMusic][] which generates sounds mathematically from quasicrystals - patterns that almost repeat but never quite do. The fun part, and the hard part, is using these programs to create music that actually sounds good. I do a lot of sound editing using a free program called [Audacity][]. 
 

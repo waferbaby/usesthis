@@ -4,11 +4,11 @@ summary: "Data visualiser (Meshu)"
 categories: [data, developer, mac]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Rachel Binx](http://rachelbinx.com/ "Rachel's website."), I'm a data visualizer. I co-founded [Meshu](http://meshu.io/ "A site for turning places into jewelry."), a site for turning locations into custom jewelry. Previously, I was at [Stamen Design](http://stamen.com/ "A design studio in San Francisco."), working with clients such as MTV, Facebook, and the MoMA.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My hardware setup is pretty basic at the moment, a 13" 2010 [MacBook Pro][macbook-pro]. It's perfect for carrying to San Francisco cafes. I also have an [iPhone 4][iphone-4], which never seems to be outside of arm's reach.
 
@@ -16,13 +16,13 @@ Beyond my Apple products, my most important tool is my lime-green Leuchtturm not
 
 For reading I have a [Kindle][], and for photography I have an old beat-up [Canon Digital Rebel XTi][rebel-xti]. That camera has been all around the world with me, and has even survived falling into a waterfall (well, I fell in too). It will probably outlive me!
 
-### And what software?
+#### And what software?
 
 Most of my time is spent writing code, so that happens almost exclusively in [Sublime Text 2][sublime-text-2]. I make things for the web, so [Javascript][] is the go-to language. The majority of my projects are written with [d3.js][], but I've made some recent forays into WebGL. My preferred browser is [Chrome][], but I've also got [Safari][], [Firefox][], and [VirtualBox][] to run [IE][internet-explorer] 9/8/7. For the design/photography side of things, I use [Illustrator][], [Photoshop][], and [Lightroom][].
 
 [Gmail][], [Google Docs][google-docs], [iCal][], and [Dropbox][] are my essential organizational tools. I have no idea how Meshu would even function if we didn't have Dropbox to sync and keep track of all the different files.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My dream hardware setup would be a [30" Thunderbolt Monitor][thunderbolt-display], a [Kinesis Advantage keyboard][advantage-usb], and [Apple Magic Mouse][magic-mouse]. I'd also love a standing desk, or maybe even a treadmill one!
 

@@ -5,11 +5,11 @@ categories: [designer, interface, mac, scientist]
 credits: {name: "Kris Krug"}
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is Amber Case. I'm a Cyborg Anthropologist and UX Designer. I go by [Caseorganic](http://www.twitter.com/caseorganic "Amber's Twitter account.") online. I [read a lot](http://cyborganthropology.com/Category:Books "Books that Amber is reading.") and founded a geo-startup called [Geoloqi][] with geo-hacker [Aaron Parecki](http://aaronparecki.com "Aaron's website."). I like to talk about invisible interfaces, calm computing and superhuman interaction design. As a Cyborg Anthropologist I research the effects of technology on culture, and I'm almost done with [A Dictionary of Cyborg Anthropology](http://cyborganthropology.com/store/ "Amber's upcoming book."). I like history and the future, and building real-life games like [MapAttack!][mapattack]
 
-### What hardware do you use?
+#### What hardware do you use?
 
 For note-taking and wireframing I use whiteboards, people, graph paper notebooks, napkins, an iPhone, small scraps of paper and the palm of my hand.
 
@@ -21,7 +21,7 @@ As I'm not a full-time researcher, this is only a hobby at the moment, but [it i
 
 My home is a 600 square foot rectangle armed with an [iMac][], a handful of X-10 controllers, some temperature sensors, a camera, and a private IRC server. Geoloqi detects when my phone has entered the radius defined as "home" and sends a message to the lights to switch on. It does the same when I leave the radius defined as home. The lights turn off. There's a box in the closet running a custom IRC server with an IRC bot named Loqi. Loqi can set timers, remember information, store things on an internal WordPress site called "The Brain", leave messages for other users when they are away, start the music, turn on and off the lights, set the lights on timers and countdowns, and tell jokes. The webcam is pointed at the whiteboard in the living room so that we can see the whiteboard remotely. Loqi, the X-10 controllers, webcam, location-based lighting system and the private IRC server were set up by my partner Aaron Parecki for less than $60.
 
-### And what software?
+#### And what software?
 
 For my blog I use [Wordpress][], for any constructive writing, notes and ideas I use [MediaWiki][]. If I'm mobile, I type notes on the [iPhone 3GS][iphone-3gs] notepad at up to 45 WPM (on a good day). This syncs to E-mail and then gets put into a MediaWiki for drafting. I like Aaron Parecki's Bootstrap theme for MediaWiki, which makes things a lot easier to look at. I got into wikis because of Ward Cunningham. I worked in the same building as him at Vertigo, and he's currently working in the Portland Incubator Experiment with Geoloqi. The wiki format is something that causes thoughts and ideas to form differently than most. It's great for collaborating, organizing conferences and building sets of knowledge. There are a lot of wiki enthusiasts here in Portland, and I used to attend frequent meetups on the subject. I've been working with Aaron Parecki to programmatically generate the Cyborg Anthropology Dictionary directly through the cyborg anthro wiki. Writing a book using a wiki is great, because you can make [data visualizations](http://cyborganthropology.com/Special:ChangeGraphs "Amber's change graphs.") on the time of day and size of edits you make. I make lots of [TextEdit][] files throughout the day that I dump into a number of wikis, depending on their content.
 
@@ -39,7 +39,7 @@ For everyday computing I use a 11" [MacBook Air][macbook-air]. It fits in a tiny
 
 My favorite app for Mac is [JumpCut][]. JumpCut allows one to store up to 50 clipboard objects and access them with a tiny set of keyboard shortcuts. The interface is invisible until one needs it. It makes me feel like my short term memory is suddenly 50 memories long, instead of just 4 or 5.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My dream setup would be a wearable computer with a lightweight, non-invasive transparent clip-on monocular HUD with camera. This would connect to a mobile device and battery pack in my pocket. It would show me visuals of geofences and other location-based notes and data stores around me. I'd be able to easily take pictures of whatever I was working on and send them up to Flickr or my site, and I'd be able to take notes on it with a Twiddler keyboard (a one-handed key chording device used by Steve Mann and Thad Starner), allowing me to safely and easily type at speeds up to 60 wpm while walking down the street, driving, talking with others and eating. It would also be fun for playing real-time geofencing games like MapAttack!
 

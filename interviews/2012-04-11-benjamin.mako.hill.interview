@@ -4,11 +4,11 @@ summary: "Social scientist, free software hacker (MIT)"
 categories: [hacker, linux, social, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Benjamin Mako Hill](http://mako.cc/ "Benjamin's website.") and I'm a rebel with rather too many causes. I'm a social scientist and PhD student at MIT studying [free culture](http://freedomdefined.org/Definition "The definition of 'free culture'.") and [free software](https://www.gnu.org/philosophy/free-sw.html "The definition of 'free software'.") communities: my dissertation is on the sociology of attracting contributors to free culture projects. I'm also a hacker on a bunch of free software projects, a writer, and a [blogger](http://mako.cc/copyrighteous/ "Benjamin's weblog."). In various ways, I've been involved with [Debian][], [Ubuntu][], [Wikipedia](https://en.wikipedia.org/wiki/User:Benjamin_Mako_Hill "Benjamin's Wikipedia user page."), [One Laptop per Child](http://one.laptop.org/ "The One Laptop Per Child project."), and the [Free Software Foundation](http://www.fsf.org/ "The Free Software Foundation.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My laptop is the venue for most of my work, most of my hobbies, and (on many days) most of my social life. At the moment, I use a [Lenovo Thinkpad X201][thinkpad-x201]. Before that, it was a X61s, an X40, an X31, and an X20. See the pattern?
 
@@ -26,7 +26,7 @@ I carry around a hacked [Kindle DX][kindle] (graphite) I use exclusively for rea
 
 I execute most CPU cycles on a cluster at the [Harvard MIT Data Center](http://hmdc.harvard.edu/ "The data analysis center for MIT.") where I burn 60 kilograms of coal running statistical jobs overnight. I feel quite bad about this and try not to do it often. Because I outsource most CPU and memory intensive jobs to Harvard and MIT clusters, the power of the computers I actually sit in front of does not matter much to me.
 
-### And what software?
+#### And what software?
 
 My laptop runs [Debian][] "sid" (i.e., unstable). With a two year break around 2004 when I used (and helped start) [Ubuntu][] -- and an ill-conceived 1-month tryst with [the HURD][hurd] in college -- I've been using Debian on the desktop since the early nineties when I graduated from both [Slackware][] and middle school. To the extent that Ubuntu is Debian, I've never even seriously considered using anything else since.
 
@@ -58,7 +58,7 @@ I have yet to find a music player that I like, so I tend to just run [mplayer][]
 
 All of [my code](http://mako.cc/software/ "Benjamin's software."), most of [my writing](http://mako.cc/writing/ "Benjamin's published books and articles."), my blog, my website, and nearly any other project I work on on more than on occasion goes into [git][]. I've recently started using [magit][] to manipulate git from within Emacs and I love it. I find something unbearably ironic about [GitHub][]'s model of building [a proprietary centralized service](http://mako.cc/writing/hill-free_tools.html "Benjamin's post on hosted source code services.") around a a tool designed to be decentralized and free. As a result, I try to publish all my own branches using an instance of gitweb I run myself.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I want a laptop with no moving parts that is not unusably slow. The last four times I had to get my laptop repaired it was for failed hard disks and fans -- the only components in my whole computing set-up with bearings. Solid states drives are the first step but fans don't seem to be going anywhere. Modern fans are loud even when they are quiet. They get filled with lint and dirt and string. They break.
 

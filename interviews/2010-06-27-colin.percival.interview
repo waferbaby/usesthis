@@ -4,11 +4,11 @@ summary: "Developer, security officer (FreeBSD)"
 categories: [bsd, developer, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Colin Percival](http://www.daemonology.net/blog/ "Colin's weblog."). I'm a FreeBSD developer since 2004, the FreeBSD Security Officer since 2005, and since 2006 I've been working on the [Tarsnap][] online backup system (which launched in 2008).
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I do all of my work from a [Dell XPS M1530][xps-m1530] laptop -- Core 2 Duo T9300 (2.5 GHz) CPU, 3 GB of RAM, 250 GB hard drive. I don't really like this laptop: It runs quite hot, and all of its air intake is on the bottom, so it tends to overheat if I place it on a bed or carpeted floor.
 
@@ -16,7 +16,7 @@ As for servers: Lots of them, and I'm not entirely sure what all the hardware is
 
 I use [an HTC Dream][g1] (aka G1) phone.
 
-### And what software?
+#### And what software?
 
 On my laptop, I run [FreeBSD][] 7.3 (I've been meaning to upgrade to 8.0 but haven't gotten around to it yet) and [KDE][] 3.5. I use [Konqueror][] as a web browser whenever possible, but have [Firefox][] 3.6 installed for websites where Konqueror doesn't work. I use [Thunderbird][] 2.0 for email -- yes, I still download all of my email to my laptop. I do all of my coding in [kwrite][], and use [nano][] when I need to edit files from a command line; I've never seen much sense in the [emacs][] vs. vi wars. I do backups via Tarsnap, of course.
 
@@ -26,7 +26,7 @@ The exception to the above is the [EC2][] instance which runs the Tarsnap servic
 
 I run the standard [Android][] code on my phone, with [Twidroid][twidroid-android] installed for accessing Twitter, and [ConnectBot][connectbot-android] for SSH.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 On the desktop, there are two options. The practical one is something like the M1530, except more solidly built (my previous laptop was a Dell Latitude D600, and I noticed a big difference in build quality), not as hot-running, and with an SSD instead of the spinning drive.
 

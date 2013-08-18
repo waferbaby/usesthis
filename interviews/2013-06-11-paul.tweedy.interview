@@ -4,13 +4,13 @@ summary: "Senior Technical Architect, BBC"
 categories: [developer, mac, musician, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Paul Tweedy, and I'm a Senior Technical Architect at the [BBC](http://www.bbc.co.uk/ "The Beeb."). I work within the Future Media division, helping to define & develop the BBC's online platform to keep it up and running, performant, and fit for the future. In my time at the BBC I've worked as a software engineer, product manager and technical lead across several products and services, so I've seen things from a few angles. 
 
 Outside of work I'm principally a commuter, husband, father (to a wonderful one-year-old) and occasional musician. Throw in the need for a bit of sleep, and that's the week sewn up!
 
-### What hardware do you use?
+#### What hardware do you use?
 
 Somewhat predictably, I rely on a [Macbook Pro][macbook-pro] for work and play. I did Linux-on-the-desktop for years and years, before I finally got bored of the constant round of customisation, kernel recompilation, drivers and things just-not-quite-working, and made the shift to [OS X][mac-os-x]. I've never regretted it! Virtualisation takes care of the need to run Linux occasionally. 
 
@@ -20,7 +20,7 @@ My phone is an [iPhone 4S][iphone-4s]. I'm a current affairs junkie, and since b
 
 For the very rare times I get to sit down and dabble with music, I use an [Edirol UA-25][ua-25] audio interface and a [M-Audio Axiom 61 MIDI controller][axiom-61]. My [Beyerdynamic DT-250 headphones][dt-250] mean I can work in relative silence, which is important when you've got a delicately-sleeping baby in the next room! I also have a rather crappy Asus 19" monitor that I'd love to replace with something bigger and sexier, but can never quite justify the cost! 
 
-### And what software?
+#### And what software?
 
 As a Technical Architect within a large team I don't get to do serious coding any more - my time is variously split between meetings with engineers & product people, email generation, IRC ([irssi][]) and working up specifications and approaches for things, which can then be iterated on. But I do keep my hand in, mainly working up small prototypes or proof-of-concepts to prove or disprove one theory or another. I'm kind of old-school, so I reach for [Emacs][] to do all my non-trivial editing. The reason is simple - using and learning it since 1997 or so, I know it better than any other editor and my muscle memory does half of the work for me. My .emacs file is a carefully-curated history of customisations, workarounds, hacks and blatant bad habits that I've grown to depend on over the years. I've tried other editors ([BBEdit][] back in the old Mac OS days, [TextMate][] on OS X) but nothing can seem to wean me off Emacs. I'm happy using [vim][] for most quick editing tasks, though.
 
@@ -34,7 +34,7 @@ For music, [Logic Studio 9][logic-studio] is my workstation, Propellerheads' [Re
 
 To keep everything manageable across different locations, I rely on [Dropbox][] to backup and sync all my important stuff.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 As I get older, I get less bothered about having the latest, greatest shiny hardware - there's nothing I can't accomplish with the tools I already have, the limiting factor is nearly always time. It's great that software in general is so much easier to update these days, and that most applications (and even your OS) self-update from the Internet - gone are the days of having to carve out your weekend to update things from several hundred floppy disks. So as long as I'm running the current versions of the software I need, I'm happy.
 

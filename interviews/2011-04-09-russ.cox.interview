@@ -4,13 +4,13 @@ summary: "Software developer (Plan 9, RE2, Go)"
 categories: [developer, mac, software, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [I](http://swtch.com/~rsc/ "Russ' website.") write programs. For about a decade I worked on the operating system [Plan 9 from Bell Labs][plan-9]. I now work at Google, where I created [Google Code Search](http://codesearch.google.com/ "Google's Code Search.") and along with it the [RE2 regular expression library][re2]. For the last two and a half years I've been one of the core developers of the [Go programming language][go]. In free time outside of work, I wrote the last two major versions of the software behind the [Online Encyclopedia of Integer Sequences](http://oeis.org/ "The On-Line Encyclopedia of Integer Sequences.").
 
 I also write about programs. The writing I'm most known for is my series about [how to implement regular expressions](http://swtch.com/~rsc/regexp/regexp1.html "Russ' series on Regular Expressions.") and my construction of [a zip file that contains itself](http://research.swtch.com/2010/03/zip-files-all-way-down.html "Russ' article on a zip file that contains itself.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I lost interest in having the new shiny a long time ago. I like to find things that work for me and stick with them. I also rarely bother to pay for something new when I can get the previous model for less.
 
@@ -22,7 +22,7 @@ As far as gadgets, the ones that have lasted are my [Bose QC2 headphones][quietc
 
 I also use a lot of pens and 8.5x11 paper pads. I scribble constantly when I'm trying to work things out. I don't save any of it, but it helps me think.
 
-### And what software?
+#### And what software?
 
 I ran [Plan 9 from Bell Labs][plan-9] as my day to day work environment until around 2002. By then two facts were painfully clear. First, the Internet was here to stay; and second, Plan 9 had no hope of keeping up with web browsers. Porting Mozilla to Plan 9 was far too much work, so instead I ported almost all the Plan 9 user level software to FreeBSD, Linux, and OS X. The result is called [Plan 9 from User Space][plan-9-user-space] and is probably much more widely used today than Plan 9 ever was.
 
@@ -36,7 +36,7 @@ I use [Picasa][] to manage photos on my Mac and upload them to [SmugMug][] for s
 
 I use [Unison][] to sync files between my various computers. [Dropbox][] seems to be the hot new thing, but I like that Unison doesn't ever store my files on someone else's computers.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 The thing I miss most about Plan 9 was the way that no matter which computer you sat down at, you had the same environment. Because we were working off a shared file server - there were no local disks on the Plan 9 workstations - you could go home and log in and all your work was there waiting. Of course, it only worked because we had good, fast connectivity to the file server, and only file state - not application state - transferred, but it was still a huge win.
 

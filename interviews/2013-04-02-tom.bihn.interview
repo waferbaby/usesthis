@@ -4,11 +4,11 @@ summary: "Bag designer, CEO"
 categories: [designer, fashion, mac, suit]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Tom Bihn, CEO and chief designer at [TOM BIHN INC.](http://www.tombihn.com/ "Tom Bihn's website.") -- we design and manufacture travel bags, backpacks, laptop cases. When I'm being a CEO I'm working; when I'm being a designer I'm having fun.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 Sketching and note taking: my favorite sketchpads are from the Mirage Paperco.
 
@@ -30,7 +30,7 @@ For printing/plotting I use the [Gerber AccuPlot 320][accuplot-320] that's also 
 
 My favorite scissors are Kai 5275's.
 
-### And what software?
+#### And what software?
 
 I work predominately in PAD System's [2D pattern drafting software][pattern-design]. Once I mastered it, I was able to do everything I want to do, everything 2D that is. Easy to mirror shapes, add seam allowances, modify marking notches, measure seam lengths. Inspires maniacal accuracy, which is oddly really satisfying. PAD System also makes the marker-making software we use to make all the production markers -- I used to make all the markers myself, but now Nik, my Production Engineer, does that. :)
 
@@ -38,6 +38,6 @@ I also use [Adobe Illustrator][illustrator] a lot: PAD exports nicely in to Illu
 
 For 3D drawing I am just now (finally) learning [TouchCAD][]. TouchCAD is a powerful and affordable CAD software for designing 3D objects and unfolding or unwrapping them. It basically helps you design 3D surfaces and turn them into 2D patterns that you can then (in my case) sew back into the conceived 3D shape. You can do all that in other CAD systems, but it'll cost you way more. Plus TouchCAD is pretty elegant: it just does surfaces and unfolding, so -- inflatables, boat hulls, tension structures.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I'm almost there now. We are looking at a single-ply fabric cutter (probably a Gerber like the plotter) and that would make cutting samples a breeze. And as we are having more and more of our plastic parts made to spec, some sort of MakerBot thing would probably be on the horizon. Anyone have any suggestions for a 24" printer/plotter? Nothing fancy.

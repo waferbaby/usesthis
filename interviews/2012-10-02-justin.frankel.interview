@@ -4,11 +4,11 @@ summary: "Software developer (Winamp, REAPER)"
 categories: [developer, mac, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Justin Frankel](http://www.1014.org/ "Justin's website."). I have programmed for fun since I was a kid, and for fun and work since I quit college. I've made software including [Winamp][] (I wrote Winamp originally because I wanted to listen to music), and now I primarily work on [REAPER][] (digital audio workstation software, which I started making because I wanted to record music).
 
-### What hardware do you use?
+#### What hardware do you use?
 
 At home my main computer is a Lian Li aluminum case with a Corsair high efficiency power supply, an Asus P5Q Pro Turbo motherboard with a Q9500 CPU, 8GB RAM, Nvidia 8800GTX, and a 1TB disk. I got a $300 2560x1440 27" IPS monitor off of eBay recently (after reading [this post by Jeff Atwood](http://www.codinghorror.com/blog/2012/07/the-ips-lcd-revolution.html "An article by Jeff Atwood on IPS monitors.")), which is completely fantastic.
 
@@ -24,7 +24,7 @@ We use a couple of i7 [Mac Minis][mac-mini] for build servers -- they are plenty
 
 Finally, I end up doing a good deal of busy work on my [iPhone 4S][iphone-4s] -- using the mail client to move messages between IMAP accounts is pretty effective for delegating work. The calendar app is the only calendar I'll use, too.
 
-### And what software?
+#### And what software?
 
 **Operating Systems:**
 
@@ -64,7 +64,7 @@ As much as it pains me I use [QuickBooks 2007][quickbooks] for bookkeeping. It i
 
 [Steam][]: I don't play very many games but Steam really makes it easy to buy/install games without having to have physical discs or worry about copy protection being installed.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 In 2007 we bought a top of the line, dual quad-core Xeon workstation. It was very helpful for testing REAPER on a system with 8 cores, and was a nice computer, but it was loud and used something ridiculous like 270 watts even when idle. I felt like ashamed to turn the thing on.
 

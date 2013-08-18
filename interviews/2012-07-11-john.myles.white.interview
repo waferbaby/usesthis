@@ -4,15 +4,15 @@ summary: "Statistics hacker, PhD student"
 categories: [data, developer, mac]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [John Myles White](http://johnmyleswhite.com "John's website."). I'm one of the authors of [Machine Learning for Hackers](http://shop.oreilly.com/product/0636920018483.do "The book that John co-wrote."), and I'm a Ph.D student in psychology. I spend most of my time trying to help people use statistics to understand the world around us.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I mostly use either my 2008 [MacBook][], which has 4 GB of RAM and a 2.4 GHz Intel Core 2 Duo Processor, or my first generation [iPad][]. I've got a 2007 [iMac][] that I mostly use to watch movies, although it's also acted as a server at times.
 
-### And what software?
+#### And what software?
 
 To stay in touch with the world, I use [Mail.app][mail], [Safari][], the [Mac Twitter client][twitter-mac] and [Reeder][]. I write notes to myself using [Evernote][]. I write all my blog posts using [MarsEdit][].
 
@@ -32,6 +32,6 @@ To keep all of my files synchronized across the machines I own, I use [Unison][]
 
 And, for version control, I use [Git][]. I'm moving increasingly towards keeping all the work I do in Git, including all the text I write.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 For me, the main limiting factor in my work is always memory: either RAM or hard disk space. I'm working at [MSR](http://research.microsoft.com/en-us "Microsoft's Research center.") this summer and there's an urban legend that there's a machine with 2 TB of RAM here that some of the researchers have access to. Having a machine with that kind of power is really my ideal, although I could also benefit from more hard disk space. My other dream situation would be to have a small [Hadoop][] cluster running at home that's only for my own work.

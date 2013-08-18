@@ -5,11 +5,11 @@ categories: [developer, linux, mac, suit, web]
 credits: {name: "Christian Petersen", url: "http://www.flickr.com/photos/copetersen/3278884075/"}
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Steve Coast and I'm a Principal PM Architect at Microsoft. I also founded [OpenStreetMap][].
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I have a [Lenovo X201][thinkpad-x201] laptop, [2010 MacBook Pro][macbook-pro], [Samsung Series 7 Slate][series-7-slate], [Samsung Focus][focus], [iPhone 4][iphone-4] and an [iPad 3][ipad-3].
 
@@ -17,7 +17,7 @@ My desktop is some Dell thing with 4 gigantic monitors I scavenged.
 
 On a daily basis I use all of them. I often carry 3 or more computers around. It feels completely ridiculous. I remember when starting OpenStreetMap that to be effective I needed to carry at minimum a digital camera, a GPS device, iPod and a phone. Today those are all the same device. I'm looking to a future where all of the above is one device too.
 
-### And what software?
+#### And what software?
 
 [Windows 7][windows-7], [Mac OS X 10.7.4][mac-os-x], [Windows 8][windows-8], [Windows Phone][windows-phone], [iOS 5][ios]. I use [VirtualBox][] to carry [Ubuntu][] around with me. I back up everything in 3 places automatically, partially with [BackBlaze][]. I love [Mathematica][] and [Evernote][].
 
@@ -29,7 +29,7 @@ Perhaps if the state didn't compete in the book industry there would be even mor
 
 Another common hack I use is to hire people on [oDesk][] and other freelancing sites for various tasks. There is no programatic way to shift my Amazon Wishlist to my local library. I could spend hours figuring it out, do it manually or just pay someone $1 in the Philippines to do it for me. Typically the latter option is the most efficient for all kinds of tasks. I experimented with having an hourly admin in Texas reply to all my email. Unfortunately the higher cost of having someone speak English natively outweighs the efficiency of not having to touch email today. The calculus will change over time.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Today an ultrabook or [MacBook Air][macbook-air] but with a touch screen are the closest to what I want. There will be a point sometime between 2014 and 2016 where SSD & processor speeds, sizes and costs are where I need them to be for the amount of data I (will) have. 128Gb is not enough. Today 8Gb RAM in my MacBook is not sufficient to run a couple of virtualized operating systems plus some heavy lifting computing applications. I would happily run any OS with the ability to access the other two via VirtualBox or similar.
 

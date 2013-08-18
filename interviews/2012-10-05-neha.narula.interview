@@ -4,13 +4,13 @@ summary: "PhD student, data scientist, developer"
 categories: [developer, linux, mac, student, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Neha Narula](http://pdos.csail.mit.edu/~neha/ "Neha's website."). I'm a PhD student at MIT in [Computer Science](http://www.csail.mit.edu/ "MIT's Computer Science department website."), studying distributed, scalable databases and storage systems. I'm also interested in how we find and consume news on the web. This summer I was a data scientist at [Digg][] (formerly News.me).
 
 In a previous life I was a Software Engineer at Google, where I worked on [Native Client][native-client], [Blobstore][], and [Froogle][].
 
-### What hardware do you use?
+#### What hardware do you use?
 
 For research I use a modern PC running [Ubuntu][]. The rest of the time I use a 13 inch [MacBook Air][macbook-air] from October 2010, which I adore with all of my being. For running experiments, I spin up servers on [Amazon EC2][ec2] or use a 48 core Linux machine we have in our lab.
 
@@ -22,7 +22,7 @@ For thinking, I usually have a full-sized Rhodia notebook and a decent pen. Noth
 
 At home I have [B&W CM5 speakers][cm5], an [Anthem 225 integrated amp][integrated-225], a [Music Hall 25.2 DAC][dac25.2], and a record player. I download high bitrate MP3s or FLAC and hook up my laptop or the Revo to the DAC using USB. I just got a [Logitech Harmony 650][harmony-650] remote to replace my TV, cable, and amp remotes.
 
-### And what software?
+#### And what software?
 
 On my research machine I basically live inside [Chrome][], emacs, a terminal, and [git][]. I use the common assortment of unix commands, and [screen][] on almost every server to maintain my state. To make it easy to work anywhere I [ssh][] into my Ubuntu box from my MacBook Air and resume where I left off. I mostly program in [C][], [C++][c-plusplus], and [Python][].
 
@@ -38,7 +38,7 @@ I use [Pocket][] as a read-it-later service, but I've found that I never actuall
 
 My iPad is completely a consumption device; I mostly use the [Kindle app][kindle-ios], [Zite][zite-ios], [Twitter][twitter-ios], [Mail][mail-ios], [Chrome][chrome-ios], and [Safari][safari-ios].
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Ideally I would use my mouse as little as possible. It's slow and makes my hands hurt -- I wish more software had keyboard shortcuts.
 

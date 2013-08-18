@@ -4,11 +4,11 @@ summary: "Technologist"
 categories: [artist, mac, sysadmin]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Maggie McFee](http://maggiemcfee.com/ "Maggie's website.") and I'm a technology junkie. By day I'm the senior sysadmin for the Physics department of a certain Ivy League university. By night and weekends, I'm a [digital video enthusiast](http://aggravatedmedia.com "Maggie's video/audio site.") (particularly vis-a-vis editing, processing and storage), artist and self-described technologist. I'm also a proponent of rational thought and skepticism in society and one of the organizers for the [Boston Skeptics](http://bostonskeptics.com/ "Critical thinkers."). But, as far as computing goes and unlike fellow Cantabrigian Richard Stallman, who you interviewed earlier, I'm a slave to The Man. The Man mostly being Apple, in my case. I'm a staunch advocate for Apple computers and Mac OS X.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 At work I use a 24" [iMac][] that's tied into our single sign-on infrastructure (LDAP & Kerberos for accounts and authentication, Networked home directories, CUPS for print services, Samba for Windows boxes, etc.) We're an all [Ubuntu Linux][ubuntu] shop on the back-end. The single sign-on model lets users can move freely between platforms and machines. My secondary machine is a [quad-core Mac Pro][mac-pro] that I use solely for editing and transcoding internal video projects. I also have a [MacBook Air][macbook-air] for the dreaded meetings and for hiding out during lunch (like right now!). I once said, "I'll never buy an Air. It's aimed at pointy-haired types?" But then they had a closeout at the university Apple store and, well, I gave in. Either that, or I became pointy-haired. You decide. I'm actually pretty happy with it. It's a great 'netbook'.
 
@@ -24,7 +24,7 @@ I have a [MacBook Pro][macbook-pro] for travel or off-site stuff. And for workin
 
 I also have an [iPhone][] and a [Google Ion][magic] developer phone which I am busily not doing development for. Sadly, I like them both so much that I just gave up and carry them both.
 
-### And what software?
+#### And what software?
 
 At work, nothing terribly unusual. The standard apps included in [OS X][mac-os-x], plus [Firefox][], [Thunderbird][] (with Lightning), [TextWrangler][]/[BBedit][]\*\* and [Apple Remote Desktop][remote-desktop] for remote administration of our Macs. Occasionally I use [VMware Fusion][vmware-fusion] if I have to test something on Windows. Everything else is included in OS X ([X11][xfree86], [Terminal][], [iCal][], [Safari][]). One app I've come to adore and use a lot is [ExpanDrive][]. It allows you to map any SFTP source as a mounted drive. So very useful and so elegantly simple. Works on MacOS X and Windows. In fact, I heartily recommend it to Windows users as it adds a new level of security to your mapped drives that SMB does not. On my Mac Pro, I run [Final Cut Studio][final-cut-studio] and the much-loved but no longer developed [VisualHub][] for conversion (in particular, for creating Flash video for our streaming server).
 
@@ -34,7 +34,7 @@ At home, my main workstation runs OS X Server, Final Cut Studio, [Avid Media Com
 
 My Mini is running OS X 10.6, the usual included apps plus Photoshop. And Transmit and ExpanDrive, of course. I use this machine for working on web sites, any (weak!) coding I do and for any drawing or art work. SuperDuper! also runs on this machine, cloning to a Firewire drive. But it also runs Time Machine. Did I mention I'm fanatical about backup?
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I should be smacked in the face if I were to insinuate that I'm not lucky to have been able to build up the kit that I have. But, I guess, one of the things that comes with a good job and being single, apart from being the only one laughing at your jokes on the couch and paying higher taxes, is that you can really indulge your hobbies and pursuits. (Don't cry for me, Argentina. I'm one of those people who's probably best off on their own.) And clearly I have. Of course, I don't own a car, or care to, I don't have kids or credit card bills so that helps.
 

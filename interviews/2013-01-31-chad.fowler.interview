@@ -4,11 +4,11 @@ summary: "Programmer, musician, author, speaker"
 categories: [developer, linux, mac, software, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [I'm](http://www.chadfowler.com/ "Chad's website.") a programmer, musician, author, and speaker. I currently live in Washington DC working as SVP of Technology for LivingSocial. My wife and I are soon moving to Berlin to work for an as-yet undisclosed startup as CTO. I sometimes organize conferences such as [RubyConf](http://www.rubyconf.org/ "The website for the Ruby conference.") and [RailsConf](http://www.railsconf.com/ "The website for the Rails conference."), but I've passed the proverbial baton on those over the past couple of years in favor of more time watching The Voice.
  
-### What hardware do you use?
+#### What hardware do you use?
 
 I have a [Macbook Air][macbook-air] 11", Macbook Air 13", [Macbook Pro][macbook-pro] 15", [Mac Pro][mac-pro], [Chromebook][], [iPad Mini][ipad-mini], 24" [iMac][], hideous HP laptop running [Ubuntu][], [iPhone 4s][iphone-4s], [Nexus 7][nexus-7], and a [Windows Surface][surface] with the terrible non-clicky keyboard cover. I actually use all of these. I'm not sure why. I use most of them as cheap web terminals. I'm probably not a power user of any of them. I like diversity in a technology environment even though it means I never deeply learn an environment and I'm always a little frustrated.
 
@@ -20,7 +20,7 @@ For music I play a [Yamaha Custom Alto Saxophone][yas-875ex] from the early 90s.
 
 For music recording and the rare podcast interview, I use a [MOTU Ultralite][ultralite-mk3]. I have a variety of professional quality microphones. If you do a podcast interview with me, you may not be impressed by what I say, but it's going to sound really good. I mostly use this setup to record myself singing the many vocal parts for the strange music I write.
  
-### And what software?
+#### And what software?
 
 I use Google apps for most of my work. I used to use [Evernote][], but the sync stopped working and I never bothered to find out why. Instead I use [Google Docs][google-docs]. I manage my ever-running list of stuff to do, think about, learn, etc. in [Wunderlist][], which I can run on every one of the ridiculous array of hardware devices I mentioned before. It's really important to get things into offline storage as opposed to the memory your mind provides as soon as you can. Trying to remember everything creates unnecessary stress.
 
@@ -42,7 +42,7 @@ For many years, I've used a version control system to store all of my stuff. I t
 
 The last important piece of software I use is [Counter-Strike][]. I've been playing Counter-Strike for well over 25% of my life now. These days I specifically play a modification of the game called Gun Game. It's ridiculous and mindless. The reason I play it, and the reason I say I "use" Counter-Strike is that you can get in 5 minutes of stress relief with Gun Game without having to commit to playing for 30 minutes or an hour. Each round lasts only around 5 minutes, you have fun, then you get back to being productive. I've written a few books, and Counter-Strike was an important part of my rhythm as I was writing: write 30 minutes, play for 5, write 30 minutes, play for 5, etc. 
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 The setup of my dreams doesn't exist, but it would probably be a cloud-based OS which runs on every hardware device but feels like a real OS. As I mentioned before, I already use my computers almost like dumb terminals. I also only really need a UNIX shell environment and a browser to be happy. But I like running the odd native app here and there, and I don't like the latency of shelling into a server to work.
 

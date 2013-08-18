@@ -4,13 +4,13 @@ summary: "Software developer, author"
 categories: [developer, mac, software, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Mike Fogus](http://www.fogus.me/ "Mike's website."), but people tend to drop the first name and call me Fogus. I don't know why. I write [code](http://github.com/fogus "Mike's Github account.") and [books](http://www.joyofclojure.com/ "Mike's book on Clojure.") and occasionally [give talks](http://www.fogus.me/talks/ "Mike's talks."). I live in the Washington DC area.
 
 I'm an open source advocate and actively contribute to the [Clojure][], [ClojureScript][] and [Potion][] programming languages.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My hardware needs are pretty Spartan, and recently have become more so. For a long time I had multiple home computers, a cell-phone and separate PDA, a work computer, a conference computer (the wonderful [Dell Mini-9][inspiron-mini-9]), a couple iPods and various portable drives. Carrying all of this around constituted a serious illness on my part. While I absolutely love my SwissGear laptop backpack, I thoroughly abused it for a long time by packing it with needless hardware (I'd hate to know what I've done to my back). Thankfully, it's an amazingly strong backpack and is as solid as when I first bought it. However, unless I'm traveling I keep my SwissGear in the closet because I've reduced my load to the bare minimum (for me). I recently bought a refurbished [iPhone 4][iphone-4] for a song and have eliminated the need for my workhorse [Zaurus SL-5500 PDA][sl-5500]. Likewise, my wife got me an [iPad with Retina display][ipad-3] that has eliminated the need for a separate conference laptop and my iPods, and takes over the remaining PDA-like tasks that the iPhone doesn't already cover. I also have a [Kindle DX][kindle], but have find myself using it less and less now that I have the iPad. When I'm working at home I like to move around a bit from my basement office, the to living room kotatsu to the back porch. I've been known to bounce a ball against the wall or pluck on a Ukulele while thinking about a problem.
 
@@ -22,7 +22,7 @@ My way of coding is to sit and think about a problem for a long time before writ
 
 My favorite walking shoes are a pair of Timberland Earthkeepers.
 
-### And what software?
+#### And what software?
 
 When I'm at the computer I'm usually working inside of [Emacs][]. Most of the artifacts of my work are electronic text files of some form or another, and Emacs is the best way that I've found for manipulating text of some sort. I store everything in the "cloud" between Dropbox for my digital notes and Git via [Github][]. I like the idea of having everything that I'm currently working on (or could work on) available on almost anything system with an Internet drop.
 
@@ -32,7 +32,7 @@ When I'm not in Emacs I'm usually in the [Chrome][] browser. For the occasions w
 
 I read [a lot of books](http://www.goodreads.com/author/show/3514864.Michael_Fogus "Mike's books on Goodreads."), papers and other material from blog posts to dead articles on the [Wayback Machine][wayback-machine] to obsolete computing manuals archived by the [Software Preservation Group](http://www.softwarepreservation.org/ "The Software Preservation Group."). I catalog my books using the beautiful [Delicious Library][delicious-library] and catalog my read and to-read papers using the lovely [Papers][] application. I almost never read a blog post at the site of publication but instead use [Instapaper][] to archive it and then occasionally download a .mobi file to read blog posts on my Kindle or iPad.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 While I think I've gotten to a comfortable place with the number of devices that I own and use, I think I would like to reduce even more. My dream system would be a modular CPU slightly bigger than my iPhone with a display that I could use as a tablet while mobile and plug into a docking station when I'm at my desk (I can't lose the ability to use my Model M). Preferably my data would live on the cloud, but the CPU module should actively cache locally on some kind of high-capacity SSD (or better yet, some sort of crystalline memory like in the Superman movies – that would be boss). The module should be highly encrypted so that losing it, while costly in dollars, would not be much of a problem in the data sense. I should be able to buy another, plug it into my dock and retrieve my data via the cloud.
 

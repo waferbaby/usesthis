@@ -4,11 +4,11 @@ summary: "Technologist, programmer, product designer"
 categories: [designer, developer, interface, mac, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Toby Joe Boudreaux](http://www.tobyjoe.com/ "Toby's website."), aka tobyjoe. I'm a UX-obsessed technologist, programmer, and product design guy. I'm a partner at a technology and design company called [Control Group](http://www.controlgroup.com/ "Control Group's site."). I like everything from C++ to observational research. Mostly, I enjoy hiding technology and making folks enjoy whatever it is they're up to more than they thought they could.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 At work and home, my primary laptop is a 15 inch i7 [Macbook Pro][macbook-pro] with a matte screen (because I'm not mentally broken, like glare-loving glossy freaks), 8GB of memory, and a non-SSD. I really should get on the SSD bandwagon, but I always duck it due to the principle of paying the upgrade costs. Does Moore's law apply to the price of SSD tech?  
 
@@ -22,7 +22,7 @@ At home, I'm mostly on my Macbook Pro, for work (mostly Xcode stuff - C++, Obj-C
 
 My [Fitbit][] is always with me and my [Withings scale][wifi-body-scale] and [BP monitor][blood-pressure-monitor] are newish fetish objects.
 
-### And what software?
+#### And what software?
 
 When on the Mac, I spend a ton of time in [Xcode][]. I also use [TextMate][] for project searches and basic textual stuff. I use [IDEA][intellij-idea] for Java/Android projects. The two pieces of software I mindlessly purchase and install on as many devices as possible are [LaunchBar][] and [1Password][]. I swear, I could get by with [ZSH][], [LLVM][], and those two apps. 
 
@@ -34,7 +34,7 @@ On mobile, I spend a lot of time with Mail, [Feedler][feedler-ios], [iClone][icl
 
 For OS, I run [Lion][mac-os-x] at home and Snow Leopard and [Windows 7][windows-7] at work. For my personal devices, iOS 5 in various stages of beta.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I don't know that it will ever exist, but I'd love a laptop that allowed me to be a fairly schizo developer as well as a casual gamer and spotty writer. 
 

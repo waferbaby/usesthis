@@ -5,13 +5,13 @@ categories: [designer, mac, web]
 credits: {name: "CreativeMornings", url: "http://www.flickr.com/photos/sanfrancisco_creativemornings/5479227521/"}
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [I'm](http://www.wilsonminer.com/ "Wilson's website.") a web product designer in San Francisco. I'm currently head of design for [Rdio][], a new social music service.
 
 I was the original designer for [EveryBlock][], and before that I was a designer for apple.com. I'm from Kansas originally. When I lived in Lawrence, I helped create the original version of the [Django][] web framework.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My main machine is a 15" [MacBook Pro][macbook-pro] 2.66GHz i7 with a 250GB SSD. Switching to a machine with an SSD has been the most significant updgrade for me since I started using computers. It's a more noticeable difference than any RAM, processor or OS upgrade over the years. It takes time out of literally everything I do all day. I use the laptop at work with a 23" LED [Cinema Display][cinema-display], and when I travel for work I take this machine with me.
 
@@ -27,7 +27,7 @@ I have an [iPhone 3GS][iphone-3gs]. My wife had her phone stolen right about whe
 
 I also have an [iPad][] at home, which I mostly use for the Kindle app and watching videos with Netflix and streaming from the Mac mini with [Air Video][air-video].
 
-### And what software?
+#### And what software?
 
 I use [Photoshop][] and [Illustrator][] CS5. I prefer Illustrator for wireframes and rough comping. Photoshop only works for me when I already know exactly what I want. Illustrator is much more forgiving about changing your mind and thinking as you go. It's still a damn shame that there isn't a stable, mature web design app with vector drawing tools and pixel-perfect export control.
 
@@ -39,6 +39,6 @@ I use [TextMate][] for the code I still write, which is less and less these days
 
 I distract myself with the new [Twitter][twitter-mac] Mac app (which I like everything about except the current dock icon) and [Reeder][reeder] for Mac, which has grown on me a lot since the early releases. I use the excellent [LittleSnapper][] from Realmac software as a visual scrapbook of designs and images that I want to steal from... er... be inspired by later. I also love a site called [Lookwork][], which works like a kind of visual RSS reader, extracting images from feeds and displaying them in a light table layout for quick skimming.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I'm still waiting for a simpler solution for syncing accounts and data between multiple machines. Dropbox and services like Rdio and MobileMe (despite its shortcomings, I still think the sync feature is magic sometimes) have made a huge difference, but I still dream of just logging in to any machine (from a desktop to an iPhone), and having everything I need in that context (apps, documents, media, etc) already there.

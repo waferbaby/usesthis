@@ -4,13 +4,13 @@ summary: "Software developer (FeedDemon, Glassboard)"
 categories: [developer, mac, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Nick Bradbury](http://nick.typepad.com/ "Nick's website.") and I'm a software developer. I started my career as a cartoonist, but switched to programming after random chance proved it kept a roof over my head more reliably than cartoons did.
 
 I created [HomeSite][], [TopStyle][] and [FeedDemon][] for Windows, then switched to Android development a few years ago and created the Android versions of [Glassboard][glassboard-android] and [NewsGator Social Sites][social-sites-android].
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My main development machine is a 27" [iMac][] with a 21" secondary display. When I travel, I bring along a 15" [MacBook Pro][macbook-pro]. 
 
@@ -18,7 +18,7 @@ I have a growing collection of Android devices, including the latest [Nexus 4][n
 
 My closet is full of the skeletal remains of all the Windows systems I used over the years before switching to the Mac. Somewhere in that mess lies a dusty old TRS-80 Color Computer, which I taught myself BASIC & assembler on when I was a teenager.
 
-### And what software?
+#### And what software?
 
 Far too many programs to mention! The desktop software I rely on the most is [Eclipse][], [Google Chrome][chrome], [1Password][], [Parallels][parallels-desktop], [Dropbox][], [MacHG][], [SourceTree][], [Acorn][], [Skype][], [ColorSchemer Studio][colorschemer-studio], [Balsamiq Mockups][mockups], and Delphi (when I'm running Windows).
 
@@ -26,6 +26,6 @@ On my phone, I use [Glassboard][glassboard-ios] an awful lot, not just because I
 
 Before I had kids I was an avid gamer with a love for Quake-style games. I dropped that addiction because once I became a dad, something had to go.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 A telepathic version of [Google Glass][google-glass] that could read my thoughts and write the software I imagine without me having to do all that tedious coding.

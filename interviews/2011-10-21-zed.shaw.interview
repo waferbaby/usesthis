@@ -4,7 +4,7 @@ summary: "Developer, writer and musician"
 categories: [developer, linux, mac, musician, software, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I am [Zed A. Shaw](http://zedshaw.com "Zed's website.") and my life can currently be carved into three pieces of the pie:
 
@@ -14,7 +14,7 @@ I now tend to write [books teaching people to code](http://learncodethehardway.o
 
 I also attempt to make music and post everything I make, good or bad, as part of the act. I created [Fretwar][fret-war] as an experiment in getting other people to give people a reason to make music and put it online. I've also built 3 guitars, two of which really suck and one which I love and play a lot.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 When it comes to hardware it doesn't really matter what I use. I tend to use whatever computer the end user will be working with or something close to it. If I'm writing software for [OS X][mac-os-x], I use a white [MacBook][] I bought years ago. If I'm working on my server software then I use a couple of junky Linux laptops. I honestly could probably code with nearly anything, so having the same setup as the end user is more important than having the most awesome piece of tech ever.
 
@@ -31,7 +31,7 @@ Lastly, I recently built a custom [Bass VI][bass-vi] that is quickly becoming my
 
 My Bass VI is great for improvising with my looper pedal because it has a range of notes from E1 to E5. That lets me do bass lines, deep organ sounding chord structures, tighter guitar rhythm chords, or full guitar lead lines and even vocal parts. Combine that with all of the different effects pedals and the tone shaping circuits and I can pretty much make anything I think up.
 
-### And what software?
+#### And what software?
 
 For programming I use mostly vim with [MacVim][] on the mac. I use [awesome][] for my window manager on Linux since it's mostly keyboard based. After that it's just whatever language I happen to need at the time: [C][], [Python][], [Lua][], [Ruby][], [Objective-C][] or sometimes [Java][].
 
@@ -41,7 +41,7 @@ For music I've got my setup narrowed down to not needing much software to create
 
 For publishing all this stuff I've got a little project I wrote I call "Astroturf Blog Foundation" which is basically like "continuous integration for building sites/docs/books". It's not released yet, but eventually I'll be using it to automatically build all my writing and music sites automatically. I had to write it mostly because I tend to do funny little one-shot joke sites and this made it easy to crank those out. Eventually it was capable enough to build any site so now I use it on most of my stuff.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 This *is* my dream setup. It's a constant work in progress, but if I'm going to spend most of my days and nights doing something I'm going to invest the time and money to have nice good tools. That's part of the fun of technology. You can envision something that you want to try or produce and then go looking around for a piece of tech to build or buy.
 

@@ -4,11 +4,11 @@ summary: "Digital librarian, web developer"
 categories: [developer, librarian, mac, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Robin Camille Davis](http://www.robincamille.com/ "Robin's website.") ([@robincamille](https://twitter.com/robincamille "Robin on Twitter.")), and I am the new Emerging Technologies and Distance Services Librarian at [John Jay College of Criminal Justice](http://www.jjay.cuny.edu/ "The library's website.") in New York City. I research effective distance librarianship practices and look at ways new tech can aid learning and discovery. I also build and test websites and digital resources to support student learning, both on - and off - campus. Currently, we are redesigning the main library website and migrating everything into [Drupal][]. I am a managing co-editor of the [DH Curation Guide](http://guide.dhcuration.org/ "The DH Curation Guide's site."), a community resource for data curation in the digital humanities.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I use an [iMac][] and 11" [MacBook Air][macbook-air] for work, and a 15" [MacBook Pro][macbook-pro] at home. I also keep a Dell in my office, although at this point I mainly use it for testing. I use an [iPad 2][ipad-2] (in a Dodocase) mostly to read PDFs and when traveling to conferences. My [iPhone 5][iphone-5] is a fifth extremity. 
 
@@ -16,7 +16,7 @@ As Jerome McDonough puts it, everything digital dies. To that end, I back everyt
 
 For reading, I use a [Kindle 2][kindle], though my preferred platform remains paperbacks! (Fave local bookstores: [McNally Jackson](http://mcnallyjackson.com/ "The website of a bookstore in New York City.") and [St. Mark's Bookshop](http://www.stmarksbookshop.com/ "The website of another bookstore in New York City.").)
 
-### And what software?
+#### And what software?
 
 **Web technologies:** I love [oXygen][], the XML editor, for most web development involving code (not just XML). When building websites that require a CMS, I stick to [WordPress][] or Drupal. My favorite FTP client is [Transmit][], from Panic. I use [Git][] from the command line for version control. For usability testing and other screencasting, I'm trying out [Adobe Captivate][captivate]. (I tried using [Morae][], but because I'm testing small/mid-size project sites, I have no use for most of its features.) [BrowserStack][] is great for cross-browser/platform website testing. 
 
@@ -32,7 +32,7 @@ For reading, I use a [Kindle 2][kindle], though my preferred platform remains pa
 
 **Contact:** On behalf of the library, my colleagues and I use [Facebook](https://www.facebook.com/pages/John-Jay-College-Library/291505825471 "The library Facebook account."), [Twitter](http://twitter.com/johnjaylibrary "The library's Twitter account."), and email to communicate with students. We also have a biannual newsletter and a handful of video tutorials. We are now considering experimenting with [Skype][], [Instagram][instagram-ios], [Tumblr][], [Flickr][], and/or [Pinboard][] to further facilitate communication, instruction, and reference services - and to show off the cool collections at the Lloyd Sealy Library.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 John Jay has some incredibly interesting and frequently used special collections. The library has already digitized quite a few items, including [trial transcripts](http://www.lib.jjay.cuny.edu/crimeinny/trials/ "The library's trial transcripts site.") and [crime images](http://dig.lib.jjay.cuny.edu/cgi-bin/library.exe?site=localhost&a=p&p=about&c=newcrime&l=en&w=utf-8 "The library's crime images site.") from New York 1850-1950. My dream setup would certainly include the scanning equipment and student worker minions to get more of our collections online.
 

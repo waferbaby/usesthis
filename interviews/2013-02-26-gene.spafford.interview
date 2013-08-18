@@ -4,7 +4,7 @@ summary: "Professor (Purdue University), security expert"
 categories: [professor, linux, mac, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [Eugene H. Spafford](http://about.me/spaf "Gene's website.") (known as "Spaf"). I'm a professor at [Purdue University](http://www.purdue.edu/ "The Purdue University."), and Executive Director of a university-wide institute named [CERIAS](http://www.cerias.purdue.edu/ "The Center for Education and Research in Information Assurance and Security."). I also teach, advise graduate students, and supervise research. During my 30 years in computing - including 25 years as a faculty member at Purdue - I have worked on issues in privacy, public policy, law enforcement, software engineering, education, social networks, operating systems, and cyber security.
 
@@ -12,7 +12,7 @@ I'm also involved in a number of other activities: serving as Editor-in-Chief of
 
 I try to fit in time for my family, and some hobbies including reading, writing, watching bad movies, listening to music, and gardening (in the summer). Most of the time I regret not having enough spare time!
 
-### What hardware do you use?
+#### What hardware do you use?
 
 One of the nice things about working in computing at a university is I have access to a lot of equipment in addition to what I have purchased for my personal use. Because of all of the various things I do, I need a variety of different systems.
 
@@ -30,7 +30,7 @@ If all that wasn't enough, I also have an iPhone, and a [Gen 3 iPad][ipad-3] tha
 
 Oh, and there are some other items with various firewalls and security involved, but I won't list those. :-)
 
-### And what software?
+#### And what software?
 
 Much of my work online is email-based, and I use various mail programs for that. I also use [Safari][], [Firefox][] and [Chrome][] for WWW access. For text processing I use [Apple Pages][pages], [TeXShop][] and [LaTeX][], and (rarely) [MS Word][word]. For numerical work, I use [Apple Numbers][numbers] and [MS Excel][excel]. For presentations I use [Apple Keynote][keynote] and [MS Powerpoint][powerpoint]. I will rarely use the [OpenOffice][] programs instead of their MS alternatives. I use [Evernote][], [1Password][], [Dropbox][], and a bunch of other Mac utilities. When I can't find something I need, I will write up a script in Kshell or [Perl][], or (sometimes) in [C][]. A lot of my backend software (mail server, WWW server, file storage) is on a server maintained by university staff, or on my OpenBSD server (not on the net). 
 
@@ -40,7 +40,7 @@ So, why all the different systems? Well, most of my work can be done in a small 
 
 I also run some honeypots and a variety of security systems, but I'm not going to talk about those. :-)
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I already have most of what would be my dream setup. What I would like is to have it all in one location - maybe a dedicated server room in my house so I could take a break whenever I wanted to go do something else - but with some part-time staff to help keep it all up-to-date. For me, the key is not a particular thing, but a regular stream of refresh so I have the latest hardware and software along with some of my stable standby systems. The room would have both a standing desk and a comfortable recliner chair with swivel desk, a big screen TV, and a serious audio system so I could have something entertaining in the background while coding or writing. A dedicated coffee machine, too. 
 

@@ -4,13 +4,13 @@ summary: "Hacker, ex-Googler (Wave, Plus, Search)"
 categories: [mac, software, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Dhanji R. Prasanna](http://rethrick.com "Dhanji's website."), a general hacker. I used to work at Google on Wave and under the Google+ project umbrella. While there I helped design and build the Live Search and Indexing infrastructure, the Live Search UI, Embedding APIs, and I worked on general performance. I represented Google on several Java expert groups and wrote a bunch of internal libraries includies HTTP request dispatching pipeline, which dispatches nearly all the pageviews for Gmail, Blogger, Docs & Spreadsheets, AdWords, Google+ and many others. I also contribute to many open source projects and am one of the authors of JAX-RS the Java API for Restful Web services. I also wrote [Dependency Injection: Design Patterns](http://manning.com/prasanna "Dhanji's book."), a software engineering book.
 
 Now I hack on a startup with my friend @themaninblue!
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I run all experiments on an [Amazon EC2][ec2] m1.large instance with EBS volumes. This is so much superior to any other system I've ever seen for its ease of setup and sheer computing muscle.
 
@@ -20,7 +20,7 @@ I'm a bit of an input device magpie, so am currently using a [Razer Mamba][mamba
 
 I have an [iPad 2][ipad-2] and love it dearly, but don't use it much. I carry an [iPhone 4][iphone-4] and sometimes use a [Google Nexus One][nexus-one].
 
-### And what software?
+#### And what software?
 
 Most of the software I write is in [Java][] and usually meant to run in servers. So I use [IntelliJ IDEA][intellij-idea], which is a Java and Javascript IDE. It is really the best desktop software I have ever used, and is my favorite app bar none. You can rename CSS classes in an HTML file and they get changed in templates and in Javascript. It can detect a CSS code fragment *in* an HTML style tag *in* a Javascript string, and autocomplete it correctly against your imported stylesheets. This is mindblowingly awesome stuff. I simply don't get the text editor wars of [TextMate][] vs [Sublime][sublime-text-2], etc. As far as I'm concerned this is like arguing about which is the better hand-pulled rickshaw when an anti-gravity hovercraft is sitting nearby.
 
@@ -34,7 +34,7 @@ What else -- my browser is [Chrome][]. I like the [Twitter Mac App][twitter-mac]
 
 In the [Vi][]/[Emacs][] wars I don't take sides, I was probably the only Googler who used both equally (and a lot). [Dropbox][] rocks.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I'd probably want a legion more EC2 instances. I'd definitely get an SSD iMac if I had a do-over. Probably would want a premium windows box too, to play Windows-only games on and to see just how far graphics cards can be pushed with games like RAGE. I'm not much for a multi-monitor setup, I had 2x 30" screens for awhile, but they get a bit too immersive, and the heat is like sitting in an oven. I would like my MacBook Pro to be rid of the optical drive and be much lighter, otherwise its screen size is perfect. Also, when are they going to make batteries that last a week?
 

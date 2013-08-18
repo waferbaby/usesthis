@@ -4,15 +4,15 @@ summary: "PhD statistician, R developer"
 categories: [data, developer, linux]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Yihui Xie](http://yihui.name/ "Yihui's website."), a PhD student in statistics at Iowa State University. I blog in both [Chinese](http://yihui.name/cn/ "Yihui's posts in Chinese.") and [English](http://yihui.name/en/ "Yihui's posts in English.") on statistical computing, graphics and programming. I founded an online community for statistics in China in 2006 called [Capital of Statistics](http://cos.name/ "The CoS website."), which is also the most popular community for [R][] in China. I'm very active on [Github](https://github.com/yihui/ "Yihui's Github account."). At the moment, I'm working on a book on [reproducible research](http://en.wikipedia.org/wiki/Reproducibility#Reproducible_research "The Wikipedia entry for reproducible research.") with R and [knitr][].
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I do not know or care a lot about hardware. I use a [Thinkpad T510][thinkpad-t510] (15.6-inch screen, 4GB RAM, Intel Core i5 CPU). I have to use a mouse since I'm very old-fashioned and uncomfortable with the touchpad; I have a wireless mouse for my laptop. I won a [Kindle][] from the Strata conference in 2011 by chance.
 
-### And what software?
+#### And what software?
 
 I work under [Ubuntu][] for the most of time with open source software packages. I dislike the default [Unity][unity.2] interface like others.
 
@@ -26,6 +26,6 @@ Occasionally I write a little bit [JavaScript][] (often with [jQuery][]), [e.g.]
 
 I use my knitr package to generate reports directly from code ([literate programming](http://en.wikipedia.org/wiki/Literate_programming "The Wikipedia entry for literate programming.")); the "reports" may include [homework](https://github.com/yihui/stat579/downloads "Yihui's homework."), [blog posts](http://yihui.name/cn/2012/04/break-points-in-regression/ "Yihui's post on break points in regression (Chinese)."), [websites](http://vis.supstat.com/ "Yihui's stats graphics site."), [papers](https://github.com/downloads/yihui/yihui.github.com/JSS-animation-2012-Yihui-Xie.pdf "Yihui's paper on his R animation package (PDF).") and [books](https://github.com/yihui/knitr-book "Yihui's book on dynamic report generation with R."). I build interactive statistical graphics based on [Qt][] and R.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I do not have a big dream. I guess a screen with a higher resolution will make me happier. By the way, I hope the Internet connection can be cut off for two months every year so I can focus on writing stuff other than coding. Then if you want to file a bug report to me, write me a mail with a return envelope.

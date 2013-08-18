@@ -4,11 +4,11 @@ summary: "Moral philosopher, game developer"
 categories: [game, mac, philosopher]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Bennett Foddy](http://www.foddy.net/ "Bennett's website."), and I'm a moral philosopher at Oxford University, where I spend my time reading and writing about things like drug addiction, medical ethics, and human longevity. My hobby is writing videogames for the web and the iPhone, and maybe I'm best-known on the Internet for writing the game [QWOP][]. In previous lives I've made horrible TV commercials and played bass for [a pretty good band](http://cutcopy.net/ "Cut Copy's website.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I do almost everything I do on a 15" Retina [MacBook Pro][macbook-pro] and [Etymotic hf3 earphones][hf3]. I want my whole setup to be totally portable, which means no external mouse or monitor, no graphics tablet, no MIDI keyboard, no big chunky headphones or speakers. There are some things you can't do like that, though, so sometimes I'm forced to use an old Wacom tablet for painting, or a [Samson C03U][c03u] condenser mic for recording sound effects. I backup to a [Time Capsule][time-capsule] and to an external drive that lives in a different building, ever since I met photographer Finn Taylor, who literally takes two full backups every 20 minutes even when he's in the field. 
 
@@ -22,7 +22,7 @@ My website runs on a [Serverlove.com][serverlove] cloud-based VPS, which means i
 
 I keep my legs warm while I'm working with a 4kg red Burmese cat, who performs this service for free.
 
-### And what software?
+#### And what software?
 
 I'm much happier with my hardware situation than my software situation. Despite the ridiculously wide range of software I use, I find myself satisfied with very little of it. For writing philosophy, I have to use [Word][] for collaborating with other philosophers, but I hate it with great passion, so I'm also experimenting with [Pages][], [Scrivener][], [Byword][], [Writeroom][], [Google Docs][google-docs], [LaTEX][] and (ugh) [OpenOffice][]. Not one of these pieces of software really does what I want it to do, but they are all better than Word, which frequently beachballs for over a minute when I try to paste a single sentence of plain text. For collecting and citing references, I've used [Endnote][] the most, which is almost as bloated and broken as Word, and so I'm now experimenting with [Papers][] and [Zotero][], which are likewise better but not perfect. I want an integrated writing-and-citing system that has better usability, better stability, better review tools, better note-taking and better multitasking than anything any current application can offer. 
 
@@ -36,7 +36,7 @@ Maybe I'm sounding like a grumpy old man at this stage, so I should say that I'm
 
 I like OS X itself. I use [Mail.app][mail] for email, [iCal][] for calendars and [Preview][] for PDF reading/editing, and I use the newly updated OS X VNC functionality for controlling my server. I don't feel like it needs a lot of tweaking or extension, but I do use [Dropbox][] and [BetterSnapTool][] and [iStat Pro][istat-pro] to add functions that I really wish were built in to the system. After years of [Firefox][] loyalism, I ditched it to find a browser that would actually remember passwords when I want it to, and eventually settled on the excellent [Chrome][] over [Safari][]. Firefox has the only good bookmark/history system, Safari has the best usability, and Chrome is the only one which actually remembers your passwords.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My current MacBook Pro actually isn't too far from my perfect setup, so the truth is I actually don't sit around dreaming about computer hardware these days. But if I could have a current-model Macbook Air with at least 8gb of RAM, a better battery, and fast global wireless Internet, that would basically be the ideal computer in my eyes. In the real world, the Air is already genuinely portable, it's genuinely rugged, it's fast enough, silent, and it doesn't get hot. And the keyboard, trackpad and screen are top-notch. I need to be able to do serious work at a desk, on the train or plane, on the couch, standing up, or lying in bed, so portability is easily my number one demand when it comes to computers.
 

@@ -4,11 +4,11 @@ summary: "Game designer, technologist (Hide and Seek)"
 categories: [designer, developer, game, mac, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm a game designer and technologist at [Hide and Seek](http://www.hideandseek.net/ "A social gaming company."). Prior to this, I was a creative technologist at [Berg](http://berglondon.com/ "A design consultancy.") for two years. I design games and make stuff on the internet. I run a blog called [Infovore](http://infovore.org "Tom's website."), where I write about design, technology, culture, and games. I like making toys on the web - most notably on Twitter, where amongst other things, I gave [London's Tower Bridge an account](http://twitter.com/twrbrdg_itself "Tom's Tower Bridge Twitter account.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 2\.4ghz 13" [Macbook Pro][macbook-pro], one of the last Core 2 Duos, 4gb ram, 500gb hard disk. I would have loved an i5, but this suits me just fine - it was more important to get it _when_ I did, rather than spend another six months waiting for a 13" i5.
 
@@ -24,7 +24,7 @@ Things that are not quite so computer-related: a [Nikon D90][d90] and a bag of i
 
 And under the TV: most modern games consoles, although I don't own a [PS3][], and won't be buying any new consoles - [3DS][], [Vita][], etc - in the forseeable future.
 
-### And what software?
+#### And what software?
 
 You know all the stuff people who make stuff on the web use on [OSX][mac-os-x]? I use that. Browsers, [NetNewsWire][], [iTunes][], [Textmate][], things like [Office][] and [iWork][], [Adium][], and [Twitter][].
 
@@ -48,7 +48,7 @@ In the shell: [macports][] for package management, mainly because it's what I've
 
 The usual swiss-army knife stuff in the shell, mainly [grep][]/[awk][]/[xargs][]/[curl][]/[wget][]/[less][]. [Ruby][] is my primary language, and I use it for everything from websites (in Rails) to tiny command-line toys and utilities. I'm known to write in lots of other things, but Ruby is my native tongue now, and it's what I return to whenever I have a problem I need to solve. It's Good Enough, which is what I care about.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Not far off this one, really. Perhaps a slightly quicker processor and nicer graphics card. I like the 13" form factor, but am too attached to both ports and optical media to go to a [Macbook Air][macbook-air]. Seriously: I still buy music on CDs. So my main wish would be some way of fitting a small SSD for the OS and Apps _alongside_ a larger drive for storage, on a 13" Macbook Pro. That'd be lovely.
 

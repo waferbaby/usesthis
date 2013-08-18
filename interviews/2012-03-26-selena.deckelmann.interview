@@ -4,13 +4,13 @@ summary: "COO (Prime Radiant), PostgreSQL contributor"
 categories: [developer, mac, software, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is [Selena Deckelmann](http://www.chesnok.com/daily/ "Selena's weblog.") and I'm founder and COO of [Prime Radiant](http://primeradiant.com/ "Prime Radiant's website."). Our first product helps organizations document, share and tweak their processes.
 
 I contribute to [PostgreSQL][], run [conferences](http://postgresopen.org/ "The Postgres Open conference site."), and keep [chickens](http://blip.tv/aj-/selena-deckelmann-how-to-kill-three-chickens-in-three-years-1805373 "Selena's talk on how to kill chickens."). I also give [a lot of technical talks](http://www.chesnok.com/daily/conferences/ "A list of Selena's talks and conferences.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I trend toward practical, durable and low maintenance. My current laptop is a 13" [MacBook Air][macbook-air]. For listening and signaling that I'm busy in cafes, I have [Sennheiser HD 280][hd-280-pro] headphones. For most voice calls, I use a [Plantronics DSP470 foldable headset][audio-470-usb] and [Skype][]. I use a [Wacom Intuos3][intuos] tablet for drawing and sketching. I have a [Fujitsu ScanSnap S1300][scansnap-s1300] for documents and keeping track of receipts. And a shredder. I usually have a smartphone. My last one was a [Droid 3][droid-3] (before that, a [Nexus One][nexus-one]). I like phones with real keyboards. For now, I'm using an [LG-VX5600][accolade-vx5600], which I'm kind of liking mostly for the lack of functionality. For books, I have a [Kindle][]. For buying stuff, I have Amazon Prime. I carry a 8400 mAh USB backup power charger.
 
@@ -20,7 +20,7 @@ I wear glasses with polycarbonate lenses with an anti-reflective coating. I've w
 
 I also carry a paper weekly planner for quick notes, and thinking through todo lists. And I get around on a [Lemond Big Sky SLT][big-sky-slt], tricked out with red Chris King headset and hubs.
 
-### And what software?
+#### And what software?
 
 Setup for Mac OS X starts with installing [homebrew][] and then [git][]. I checkout a copy of the PostgreSQL repo from git.postgresql.org, and have most everything else on [GitHub][] in public and private repos. 
 
@@ -42,7 +42,7 @@ Apple's [Keynote][] is the best for presentations, and nothing beats [Skitch][] 
 
 I use [Arq][] for backups, [LastPass][] for passwords, [Chrome][] for my browser and have four users set up inside Chrome to handle business and personal account separation. I also have a set of passwords to things like domain management in a PGP-protected file in a git repo. I grant access to it to a couple close friends, just in case.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 If I really think big, I'd love one of those Misson Impossible in-eye cameras paired with that crazy gloves and glass workstation in Minority Report. With Skitch integration. And a Periera road bike.
 

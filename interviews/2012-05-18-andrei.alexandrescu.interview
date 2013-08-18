@@ -4,11 +4,11 @@ summary: "Research scientist (Facebook)"
 categories: [linux, mac, researcher, scientist]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Andrei Alexandrescu (I know! no-win name) and work as a Research Scientist at Facebook. In my free time I work on the [D][] programming language. I've also written a couple of books. My website is [http://erdani.com](http://erdani.com/ "Andrei's website.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My work machine is a 13-inch [MacBook Pro][macbook-pro] (8GB RAM, 256GB SSD) running [OS X Lion][mac-os-x]. While at my desk I connect it to a [30-inch Dell monitor][u3011]. When I started working for Facebook (I work from home) my manager asked me what monitor I have. I told him I already had a 26-inch Soyo that serves me well. He was like, 'A larger monitor means you're more productive. I'm FedEx-ing you one. Don't feel flattered, it's just good business.' Since then the Soyo does little else than collecting dust.
 
@@ -30,7 +30,7 @@ For communication I use an [iPhone 4S][iphone-4s] (from work), which I often con
 
 Finally, a few weeks ago I got a [Dell XPS 17][xps-17] to replace my moribund Ubuntu machine. Not being in a hurry, I played with the pre-installed Windows 7 for a while, and... but wait, this gets into software! So let's make this the segue into your next question.
 
-### And what software?
+#### And what software?
 
 Yeah, so as I was saying, I played with [Windows 7][windows-7] for a while. I've been exclusively a Windows user and programmer for some ten years, but have not used it since 2005. I was curious how it feels to get back to my native village, you know, the nostalgia and memories of a former life. (It didn't go over so well. I noticed not much has changed, it was raining, there was mud everywhere, and I fell into some cow dung.) Two odd things about that installation out of the box (not sure whose fault it is): one, the default fonts looked like crap. Checked the resolution and used ClearType Tuner twice, no avail. Second, the multitouch trackpad handling is terrible, terrible. I'd put two fingers on it and move, it would do nothing. I lift the fingers, and exactly by that time some timeout expires and the multi-touch enters in action. And it's sticky! So then I need to explicitly cancel it by tapping again. You see, that's why people love Apple's multi-touch to the extent they accept the reversal of scrolling direction.
 
@@ -42,7 +42,7 @@ I use [Google Docs][google-docs] for light documents and [LaTeX][] for all heavy
 
 Needless to say, using language processors are a large part of my work, so [GNU C++][gcc], [Apache Hive][hive], and the dmd D compiler deserve a mention. I use [git][] for source control, [phabricator][] and [meld][] for looking at diffs, and all of my open-source work takes place on [github][].
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 First off, I want one of them sit-stand workstations. I heard that sitting at work is bad for you - as bad, someone said, as a cocaine habit. I figure if I start using a standing desk, a cocaine habit is up for grabs at no change in my health balance.
 

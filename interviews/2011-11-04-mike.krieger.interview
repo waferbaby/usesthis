@@ -4,11 +4,11 @@ summary: "Co-founder of Instagram"
 categories: [developer, mac, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm Mike Krieger, and I'm the co-founder of [Instagram][instagram-ios], a mobile photo-sharing network.  My background is in Human-Computer Interaction and User Experience, but through the twists and turns of start-up life I spend most of my time scaling our systems to keep up with our user growth. I was born & raised in São Paulo, Brazil, but now live in San Francisco, right next to Alamo Square Park.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 We just got new [iMacs][imac] for our team -- 3.4 GHz with 16 GB of RAM. It's by far the fastest machine I've ever owned; our compile time for Instagram went from 100 seconds to about 10 secs, and our [Django][] unit tests run in an tenth the time as well. In a word: awesome. 
 
@@ -24,7 +24,7 @@ Daily fuel comes from our Chemex coffee-maker combined with [Sightglass](http://
 
 Finally, all of our startup runs on [Amazon EC2][ec2], which means we never have to visit data centers to install & maintain servers.
 
-### And what software?
+#### And what software?
 
 I spend most of my day in [MacVim][] and [XCode][]. Every few months I'll try switching from vim to something else, but it's never permanent (recent adventures include [Sublime Text 2][sublime-text-2], [Vico][], and [Kod][]). But old habits die hard, and I usually end up back in the comfortable modal arms of vim. If I could navigate everything on my computer with vim bindings, I would -- I use Vimium for Chrome and gleeBox for Safari. 
 
@@ -36,6 +36,6 @@ I'm a task list app junkie, and I've been a [Things][], [OmniFocus][], and [Task
 
 On the iPhone, besides whichever current beta version of Instagram we're playing with, my home screen features [Tweetbot][tweetbot-ios], [the Hit List][the-hit-list-ios], [Reeder][reeder-ios], [Rdio][rdio-ios], and [Simplenote][simplenote-ios]. I'm not a huge iPhone gamer, but Shaun Inman's [The Last Rocket][the-last-rocket-ios] is a recent favorite of mine.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Syncing the desktop & laptop is still a pain, even with [Dropbox][] and shared [GitHub][] repositories. I'd love to bring my Air into work, slide it into the back of a [Cinema Display][cinema-display]-plus-8-core-processor contraption, and code the day away.

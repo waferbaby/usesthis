@@ -4,11 +4,11 @@ summary: "Designer, technologist (Near Future Laboratory)"
 categories: [designer, mac, photographer, technologist]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I am [Julian Bleecker](https://twitter.com/#!/darthjulian "Julian's Twitter account."). I'm a designer and technologist and photographer. I work in the Advanced Design studio at Nokia and run a design-technology lab that makes little provocative things that are partially fictional, partially factual and meant to help think though and speculate about possible near futures. It's called the [Near Future Laboratory](http://nearfuturelaboratory.com/ "The NFL's website.").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 For computing, my hardware is a [MacBook Pro][macbook-pro] with, I dunno - a bunch of "cores" in it. I'll have a second monitor to go along with it when I can, and an external keyboard and a finicky Apple touch mouse. I replaced the stock hard drive with a 1TB drive that's bigger and slower. I just upgraded, I guess you could say, to Lion. And I did it daredevil-liquor-store-hold-up style - right in the middle of a crash project that demanded the latest Xcode and iOS 5. This laptop computer stuff is the boring crap that everyone has to suffer. There's cooler things though for making things.
 
@@ -22,7 +22,7 @@ In the [Advanced Design studio](http://advanced.design.nokia.com/ "Nokia's Advan
 
 There's also a lot of the hardware across the road in our model shop. Over there are 3 [Fanuc Robodrill T21iE][robodrill], a huge Bleeker Paint Spraybooth (no relation), [Acra ATL-618EVS lathe][atl-618evs], [Wellsaw V20 band saw][v-20], [Cyclone Blasting Systems bead blaster][benchtop-blast], Universal Laser Systems laser cutter, [Formtech 450 vacuum former][450], Jet Equipment & Tools E17154B table saw, Bridgeport Machines Legend CNC mill, [Raytech Centrifigul Magnetic Finisher Model CMF-1200][cmf-1200], Objet Eden 3D plastic printer, Gesswein Model DC-104 Dual Control Vulcanizer, Kerr 999 Series 515 furnace, [Aoyue Int 906 Solder & Reflow Station][906], [Instek GPS3303 3 Channel Laboratory DC Power Supply][gps-3303], [Aoyue Int 2738 Solder & Reflow Station][2738], Delta Sander, Baldor Grinder-Buffer 623F, clean room, drawers of springs, magnets, screws, bolts, fasteners, clips, batteries, grommets, washers, bushings, bearings - and lots more. Oh, and some of that is moving around to make space for a [Manncorp MC385v1v][mc-385v1v] pick-and-place machine.
 
-### And what software?
+#### And what software?
 
 #### Audio
 
@@ -36,7 +36,7 @@ For photography I have a clunky workflow, especially for the image ingestion - t
 
 I often build electronics hardware for various projects. I use [Eagle PCB][eagle] for creating schematics and producing data for printed circuit board fabrication. Oftentimes, a microcontroller is at the center of that and I'll use Atmel 8-bit devices and their [AVR Studio][avr-studio] software IDE and JTAG ICE programming devices. Sometimes I'll use the [Arduino][] IDE to sketch out some code as well. If I'm coding for an iOS device, like iPhone or iPad, I'm pretty much stuck using the [Xcode IDE][xcode], more or less.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 The dream setup is a studio that's a short bike's ride from home. In front would be a cafe that the studio would run in a haphazard way — sometimes someone from the studio might pop around and decide to make coffee for patrons. Sometimes you'd just have to turn people away. But the cafe would also be a bit of a literati cafe, so people would come by and read and write and talk and use as a meeting place and to teach little "[Public School](http://all.thepublicschool.org/ "A new school framework.")" style classes on anything and everything. There'd be books and a bit of a lending library. The only thing between the cafe and the studio behind it would be a bit of glass wall and a door. The studio would have a proper cooking kitchen (no microwave and robot coffee — real cooking) and a long family style table to accommodate 15 or so — that's what experience tells me is the maximum compliment for a well-oiled, creative, functioning team of designers/makers/builders.
 

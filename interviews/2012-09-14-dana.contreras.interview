@@ -4,11 +4,11 @@ summary: "Systems engineer (Twitter), pilot"
 categories: [developer, mac, web]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 [I'm](http://about.me/DanaDanger "Dana's About.me page.") a systems engineer on Twitter's infrastructure team; I've been at Twitter since early 2010. I keep the tweets flowing and the whales at bay. I'm also known as [DanaDanger](https://twitter.com/DanaDanger "Dana's Twitter account."), or Ms. Danger if you're being cheeky. I'm a licensed commercial pilot too but these days I only fly recreationally.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 My official Twitter gear is a 2.7 GHz 13" [MacBook Pro][macbook-pro] with 8 GB RAM and a 500 GB SSD. The SSD makes all the difference when I'm dealing with large code repos (which is all the time). At work, I attach it to a 24-inch [Dell U2410 monitor][u2410], which is almost wide enough for a [Scala][] project window and a terminal side-by-side at the widths and font sizes I like. I could use another 100 pixels of width. My monitor rests atop a (now nonfunctional) [NeXTstation Turbo][nextstation], just for the nostalgia. I use a stock Apple extended [keyboard][] and some random Logitech mouse that they threw at me when I got here. I'm not picky about my input devices; I just don't want them to change once I've grown accustomed to them. And in any case, nothing will ever outdo the keyboard I had on my NeXT.
 
@@ -18,7 +18,7 @@ As for handhelds, I carry an [iPhone 4S][iphone-4s] with a [kick-ass etched stee
 
 When I fly, I use a [Lightspeed Thirty 3G][thirty-3g] headset with 20dB passive and 30dB active noise cancellation and a pair of Ray-Ban aviators. (I like to joke that I'm the only person in San Francisco who wears Ray-Ban aviator sunglasses and actually is an aviator.) Lately I've been flying a [Cessna 162][skycatcher], which is comically small for a commercial pilot, but it's a fun little airplane with a really nice glass-panel cockpit that has all the goodies like GPS, moving map, terrain/altitude alerts, and so on.
 
-### And what software?
+#### And what software?
 
 • I'm going to start with [1Password][] because it seriously saves my ass. Whenever LinkedIn, Yahoo!, or who-knows-who-else gets hacked and a list of passwords is released, I don't have to worry about it. Total peace of mind. Set this app up now. Just go do it. They have an iPhone version and a Chrome plugin too.
 
@@ -42,6 +42,6 @@ When I fly, I use a [Lightspeed Thirty 3G][thirty-3g] headset with 20dB passive 
 
 • On my iPhone, I've been enjoying [Path][path-ios]. I've earned a certain reputation on my Twitter account that represents maybe 80% of who I really am, and Path is great for those moments when I just want to say something dumb to close friends.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Honestly, [a small, clear lake, a hammock](http://copygr.am/danadanger/189774675_565735/ "A photo of a small, clear lake and a hammock."), infinite bookshelves, a canoe, and like-minded company. I love my work, and I will continue to do my work in one way or another for as long as I live, with whatever devices I have before me. I've programmed on VIC-20s, old Palm Pilots, baby Macs, NeXTSTEP, ULTRIX, whatever. I just like figuring out how things work, solving problems, and learning cool tricks. But I pray one day to be free from the structures of corporate culture. Oh, and I want a [seaplane][seamax-m-22].

@@ -4,11 +4,11 @@ summary: "Writer, UX designer"
 categories: [designer, interface, mac, writer]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Dustin Curtis](http://dustincurtis.com/ "Dustin's website."). I'd like to think of myself as a writer. I'm also a user experience designer and I advise early startups on design.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I use a 2.66GHz Core 2 Duo [MacBook Pro][macbook-pro], but I'll be upgrading to a Core i7 with a high resolution screen soon. Inside I have 4GB of RAM and an Intel X-25 160GB SSD. I also removed the optical drive and hacked together a way to put a second non-SSD drive in its place. [Here's a picture](http://screenshots.dustincurtis.com/photo-20100527-183723.jpg "A photo of Dustin's MacBook Pro's guts.") of the result.
 
@@ -16,7 +16,7 @@ At home I have a pair of [Sennheiser HD-600][hd-600] headphones and when I'm on 
 
 I also have a few VPS servers at Slicehost and Amazon.
 
-### And what software?
+#### And what software?
 
 I keep all my files in [Dropbox][], but I'm trying to get rid of as much data as possible. There isn't any data on my computer that isn't also in [S3][] via [JungleDisk][jungle-disk] or Dropbox. For design, I use [CS5 Master Collection][creative-suite] (primarily [Photoshop][]). For code, I use [Textmate][] and, rarely, [Vim][]. I store code in [Git][] and deploy using a really unstable and hacked [Capistrano][] script. My site runs on [nginx][] with a tiny bit of [php][]. My default browser is [the Webkit nightly][webkit] from Webkit.org.
 
@@ -42,7 +42,7 @@ Stuff in my dock:
   * [Pandora One][pandora-one]
   * [Terminal][]
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I think my dream setup -- hardware-wise -- would be a MacBook Air with a 15" high resolution screen, a Core i7, and a 500GB hard drive with the speed of the Intel X-25 SSDs and a 20 hour battery life. We'll get there someday, but I'm getting tired of waiting.
 

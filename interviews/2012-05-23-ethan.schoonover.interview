@@ -4,11 +4,11 @@ summary: "Designer, developer (Kinkless, Solarized)"
 categories: [designer, developer, linux, mac]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm an independent designer/developer. I do digital, print, and what I think of as "meta design". For instance, I built a popular universal colorscheme called [Solarized][]. Prior to that some might know me from a task management system called Kinkless which Merlin Mann and I helped The Omni Group turn into [OmniFocus][]. Prior to that I was a full time photographer in Asia where I also worked for many years in a multinational ad agency.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 [MacBook Pro][macbook-pro], latest 15" model. External [Cinema Display][cinema-display]. I generally stay fairly current on my main hardware due to the graphics-cards/graphics-apps arms race.
 
@@ -34,7 +34,7 @@ I shoot on mostly Canon glass with digital bodies and I have enough film for my 
 
 I also enjoy building custom hardware. A while back I gutted an old HP pulse generator and [built up](http://www.flickr.com/photos/ejas/4876509244/in/set-72157624629593889/ "A photo of Ethan's custom router.") a 1984-themed router/firewall running [PFSense][] (FreeBSD based) which is rock solid and super fast.
 
-### And what software?
+#### And what software?
 
 My software philosophy has changed radically over the past couple years. I went full Linux for about a year and it was mind-changing. I look at UI and UX a lot differently now because of my heavy Xmonad use and the deep-diving into the OS that one does in Arch.
 
@@ -78,7 +78,7 @@ FileVault2 for disk encryption on OS X. [LUKS][] for disk encryption on Arch. [L
 
 I use few social networks. No Facebook. I worked in advertising long enough to not want to spend my personal time building a marketing database about me for someone else. I am glad for Twitter but I wish it was open and federated. I think it's easy to forget how important open, federated systems were to the success of our beloved network of networks.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 Like all sentient beings, I recognize that Apple is still producing the absolute best hardware out there right now. I tire of OS X's aging desktop UI, however, and do not see the excessive simplicity of iOS as a reasonable replacement for power users. Thus my optimal setup today is Apple hardware running Linux. I'd prefer an Air if it had better graphics.
 

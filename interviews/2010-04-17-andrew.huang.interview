@@ -4,13 +4,13 @@ summary: "Hardware misfit"
 categories: [hacker, hardware, linux, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 I'm [Andrew "bunnie" Huang](http://www.bunniestudios.com/ "Andrew's website."). I do hardware. I make 'em and I break 'em. 
  
 I broke the security on the Xbox, made some of the first integrated CMOS nanophotonic chips, and today I design and manufacture Open hardware for [chumby Industries](http://www.chumby.com/ "Makers of the little squishy device."). I dabble in biological systems, which have remarkable parallels to computer systems. My latest adventure is figuring out how to mass produce hardware for discerning consumers, so I've been doing mechanical design in addition to electronics, and spending a lot of time travelling to Asia.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 I travel a lot, so I strive to keep everything I need inside a single box that I can carry with me at all times. My current and only machine is a 2.49 GHz Core2 Duo T9300 [Lenovo T61p][thinkpad-t61p] (model 6459-CTO) with 4 GB RAM, and an aftermarket Samsung 256 GB SSD (MMDOE56G5MXP-0VB). Somehow my system shipped with a 512 MB Quadro FX 570M graphics chip, when all the sales literature says it should have only 256 MB. I'm not complaining. I shed the DVD-ROM drive in favor of the ultra-bay lithium-polymer battery pack and a 9-cell lithium ion main pack (along with one spare in the bag), giving me all-day and all-night battery performance. I also carry the ultraslim AC/DC combo adapter that works with every airplane power outlet I've seen to date. 
  
@@ -30,7 +30,7 @@ On road trips for manufacturing, being able to measure and magnify objects is a 
 
 As a hardware designer, my hardware doesn't stop at the computer. I also have a [Tektronix TDS5104B][tds5104b] 1 GHz 4-channel digital phosphor oscilloscope with a set of P5050 probes and one [P6245][p6245] 1.5 GHz active probe. I use an [ERSA SMT Unit 60A][smt-60a] soldering iron for fine pitch work, a [Weller WTCPT][wtcpt] iron for everyday work, and an [ERSA Independent 75][independent-75] butane-powered iron for work on the road (at least in road situations where I don't have to confront the TSA). I use a Bausch and Lomb 30x stereoscope for soldering work, but for microprobing I use an [Olympus BHMJL][bhm-jl] scope with 1000x max zoom and a Bausch and Lomb Microzoom long working distance 750x max zoom scope mounted on a Signatone probe station. For laser cutting I use a [Versalaser VL300][vls-platform]. My favorite multimeter is a [Keithley 2000][2000-dmm], which can measure down to less than a microvolt. For what it's worth, I never pay sticker price for any of my equipment – they are all used, donated, or dumpster-dived.
 
-### And what software?
+#### And what software?
 
 I am an utter traditionalist when it comes to software. My T61p runs [Windows XP][windows-xp]. I just upgraded to SP3 a couple months ago. I never trusted Vista, so when I bought my laptop I made sure I could build an XP image for it on my own. I'm still waiting for Windows 7 to mature another couple years before trying it out. I configure my UI on XP to look like the classic Windows 2000 interface with the “Rainy Day” scheme. Nobody recognizes the old Win2K UI anymore, so often times people ask me if I'm running Linux. I think UI “candy” takes up precious computing resources that I prefer to devote to my CAD tools, so I like to run a no-frills UI. Windows XP is simply the lowest common denominator that will run as many applications as possible with an acceptable level of stability. I have no religion or pride around my choice of OS.
  
@@ -52,7 +52,7 @@ What doesn't fit in my laptop I keep in the cloud. I have a couple Rackspace Ubu
  
 The only game I keep on my laptop is [World of Warcraft][wow].
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 My dream setup would probably be a neural-implant computer that weighed nothing and had infinite battery life, would never crash and ran every piece of software. Barring that, here are my most important priorities with respect to hardware:
  

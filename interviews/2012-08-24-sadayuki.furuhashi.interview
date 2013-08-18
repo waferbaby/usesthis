@@ -4,13 +4,13 @@ summary: "Hacker (MessagePack, Fluentd)"
 categories: [developer, hacker, mac, software]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 My name is Sadayuki Furuhashi: a hacker who works hard to not work. 
 
 I'm the original author of [MessagePack][], an open source object serialization library. I'm also the author of [Fluentd][], a log collection tool. I recently co-founded [Treasure Data, Inc.](http://treasure-data.com/ "Treasure Data's website."), a cloud-based data warehousing and analytics service. I'm responsible for the design and implementation of the platform. My primary interest is in distributed systems: I strive to build complex yet practical distributed systems on top of fragile commodity servers.
 
-### What hardware do you use?
+#### What hardware do you use?
 
 Computer: My only machine is a 13" [MacBook Air][macbook-air]. I switched my daily partner from Linux boxes to Mac laptops 5 years ago. I love Macs since they work well with both UNIX tools and Adobe software.
 
@@ -24,7 +24,7 @@ There days I'm using [Amazon EC2][ec2] instead of my own physical servers. There
 
 Headphones: I listen to music while coding in order to block out distractions. I've been using a [JVC HA-FXC51][ha-fxc51] for a year now. Each time I buy a new pair, I'm impressed with how much the technology has progressed. 
 
-### And what software?
+#### And what software?
 
 I'm a traditionalist hacker and love using bash, vim, screen and many other small UNIX tools.
 
@@ -42,7 +42,7 @@ I also like [Gyazo][], a simple tool to share screenshots quickly. It's like [Gi
 
 I want to mention [Quicksilver][] as well, a small but awesome launcher utility.
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 If anything is possible, I want a magical compiler that turns designs in my brain into working code, but I am pretty happy with my current setup =)
 

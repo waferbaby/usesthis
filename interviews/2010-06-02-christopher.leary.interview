@@ -4,11 +4,11 @@ summary: "Musician (Ochre)"
 categories: [musician, windows]
 ---
 
-### Who are you, and what do you do?
+#### Who are you, and what do you do?
 
 Christopher Leary. I write electronic music as [Ochre](http://ochremusic.com/ "Chris' music site."), and run [Melograf Mastering](http://melograf.com/ "Chris' audio mastering").
 
-### What hardware do you use?
+#### What hardware do you use?
 
 At present, my setup for both writing music and mastering is centred firmly on my PC, much to my increasing dismay. It's an Intel Q9550 quad-core custom PC (running [Windows 7][windows-7] 64 OS) with 4 gigs of RAM, within which my sprawling half a terabyte of samples can stretch their legs. I stare at a 19” Samsung LCD screen during much of my waking life, which is straining my eyes a little now, as I sit a tad too far from it (though DPI-aware programs help in this respect). I play the odd game now and then too, so I've also got a [Radeon HD4850][radeon-hd-4850] to ensure I can actually enjoy the graphics, though by the time I get another game it'll no doubt require upgrading.
 
@@ -20,7 +20,7 @@ At the risk of boring the pants off people reading this, one of my most importan
 
 I'm always looking to make the most of what I have, and hate having redundant equipment lying around, so if I don't or can't make use of a piece of equipment, I get rid of it. Occasionally my ruthlessness towards stripping-down my setup means I risk regretting equipment sales, but I haven't had to re-purchase anything I've sold yet!
 
-### And what software?
+#### And what software?
 
 All my composition these days takes place within Steinberg's Cubase sequencer, hosting an array of VST (i.e. virtual) instruments-software synthesisers, samplers and effect processors. I doubt I'll even remember what I've got installed (herein lies the rub of music software-it's not sat there waiting to be turned on and used the way hardware is). There are some software workhorses I rely on for synth and sample duties, such as Cakewalk's [Zeta][z3ta], which is an all-round great-sounding synth. [Waldorf Attack][attack], while ancient by software standards, still gets a lot of use for making glitchy synth drum sounds and general audible weirdness. I'd like to think that one day Waldorf will realise the error of their ways of neglecting development on an update or successor to Attack, but as I don't think it exactly set the market on fire on its release, I won't hold my breath. When I'm triggering short samples for rhythms/drum sounds, I use [Native Instruments Battery][battery], and use [NI Kontakt][kontakt] for tuned sample instruments.
 
@@ -30,7 +30,7 @@ For sound effects and more overtly experimental sounds, I also make use of plugi
 
 For sample editing and mastering I use Steinberg's excellent [Wavelab][], with processing handled by Sonnox, PSP and UA. Being a small home company, all my mastering is done unattended, with the source and mastered files transferred over the net using Encodable's excellent [FileChucker][], or via ftp using [Filezilla][].
 
-### What would be your dream setup?
+#### What would be your dream setup?
 
 I'm generally content with my PC hardware, though I'd love to grab a larger monitor-perhaps a 27” screen, so I can comfortably fit a couple of Windows side-by-side when working, even if it does take me a step closer to jacking into the matrix. One inherent problem with PC setups is the relentless upgrade train for both software and hardware-every other year or so Cubase gets upgraded to a new version, along with promises of various additional bells and whistles, when all I'd like is improved stability. I've managed to stave off much in the way of software upgrades this past two years, half down to self control, and half down to student-borne destitution.
 
