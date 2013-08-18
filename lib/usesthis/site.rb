@@ -26,8 +26,7 @@ module UsesThis
       @pages = []
 
       Dir.glob(File.join(@paths[:source], 'pages', '**', '*.*')).each do |path|
-        page = Page.new(path)
-        @pages.push(page)
+        @pages.push(Page.new(path))
       end
 
       @wares = {}
@@ -55,8 +54,7 @@ module UsesThis
       @interviews = []
 
       Dir.glob(File.join(@paths[:source], 'interviews', '*.*')).each do |path|
-        interview = Interview.new(path)
-        @interviews.push(interview)
+        @interviews.push(Interview.new(path))
       end
 
       @interviews.reverse!
@@ -64,7 +62,7 @@ module UsesThis
       @categories = {}
       @archives = {}
       
-      interviews.each do |interview|
+      @interviews.each do |interview|
 
         year = interview.date.year
         month = interview.date.strftime('%m')
