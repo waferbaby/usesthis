@@ -103,7 +103,6 @@ module UsesThis
           page_title = "Hello" if title.nil?
         else
           page_title = "Interviews" if title.nil?
-          page_title += " (Page #{index + 1})"
 
           paths.push("page#{index + 1}")
         end
