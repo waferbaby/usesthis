@@ -271,10 +271,14 @@ content: ": ";
 	top: 0;
 	width: 470px;
 	padding: 15px;
-	line-height: 12px;
-	font-size: 60% !important;
+	line-height: 16px;
+	font-size: 40% !important;
 	background-color: #eee;
 	border-bottom: solid 1px #eee;
+	}
+
+	div#sellout em {
+	float: right;
 	}
 
 	div#sellout img {
