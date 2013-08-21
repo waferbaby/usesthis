@@ -192,7 +192,7 @@ module UsesThis
         end
 
         begin
-          self.paginate(data[:interviews], ['interviews', year.to_s], year.to_s)
+          self.paginate(data[:interviews], ['interviews', year.to_s], "In #{year.to_s}")
         rescue
           puts "Error: Failed to build the archives for #{year} (#{e})"
           return
