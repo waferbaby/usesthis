@@ -10,7 +10,7 @@ title: Interviews
     <a href="/interviews/<%= year %>/" title="View all interviews from <%= year %>."><strong><%= year %></strong></a>
     <ul class="months">
     <% data[:months].each_key do |month| %>
-      <li><a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from x, <%= year %>."><%= month %></a></li>
+      <li><a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month %>, <%= year %>."><%= month %></a></li>
     <% end %>
     </ul>
   </li>
