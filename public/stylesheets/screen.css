@@ -204,11 +204,11 @@ column-count: 3;
 ul.months {
 display: inline;
 padding: 0;
-margin: 0;
+margin: 0 0 0 10px;
 font-size: 90%;
 }
 
-ul.months li{
+ul.months li {
 display: inline;
 color: #aaa;
 }
@@ -221,12 +221,10 @@ ul.months li:first-child:before {
 content: "";
 }
 
-ul.years > li {
-padding-right: 10px;
-}
-
-ul.years > li > a:after {
-content: ": ";
+ul.years {
+list-style: none inside;
+padding: 0;
+margin: 10px 0;
 }
 
 @media screen and (max-width: 1190px) {
@@ -349,5 +347,15 @@ content: ": ";
 
 	ul.categories {
 	font-size: 100%;
+	}
+
+	ul.months {
+	display: block;
+	margin: 0 0 10px 0;
+	}
+
+	ul.months li {
+	display: block;
+	font-size: 80%;
 	}
 }
