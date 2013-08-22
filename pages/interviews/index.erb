@@ -7,10 +7,16 @@ title: Interviews
 <ul class="years">
 <% @site.archives.each do |year, data| %>
   <li>
-    <a href="/interviews/<%= year %>/" title="View all interviews from <%= year %>."><strong><%= year %></strong></a>
+    <a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><strong><%= year %></strong></a>
     <ul class="months">
-    <% data[:months].each_key do |month| %>
-      <li><a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month %>, <%= year %>."><%= month %></a></li>
+    <% %w{01 02 03 04 05 06 07 08 09 10 11 12}.each do |month| %>
+    <li>
+    <% if data[:months].include?(month) %>
+    <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= Time.mktime(year, month).strftime('%B') %> <%= year %>."><%= month %></a>
+    <% else %>
+    <%= month %>
+    <% end %>
+    </li>
     <% end %>
     </ul>
   </li>
