@@ -1,0 +1,49 @@
+#!/usr/bin/env ruby
+
+require 'trollop'
+
+source_path = File.dirname(__dir__)
+
+$:.unshift(source_path)
+
+options = Trollop::options do
+  banner "Create a new hardware or software entry."
+  opt :type, "Either 'hardware' or 'software'", type: :string
+  opt :name, "The name of the ware", type: :string
+end
+
+Trollop::die :type, "must be either 'hardware' or 'software'" unless options[:type] =~ /^(hardware|software)$/
+Trollop::die :name, "must exist" if options[:name].nil?
+
+slug = options[:name].downcase.gsub(/ /, '.')
+
+software_path = File.join(source_path, 'data', 'wares', 'software', "#{slug}.yml")
+hardware_path = File.join(source_path, 'data', 'wares', 'hardware', "#{slug}.yml")
+
+if File.exists?(software_path)
+  puts "Software entry already exists for '#{slug}'."
+  exit
+end
+
+if File.exists?(hardware_path)
+  puts "Hardware entry already exists for '#{slug}'."
+  exit
+end
+
+file = case options[:type]
+  when 'software' then software_path
+  when 'hardware' then hardware_path
+end
+
+entry = <<ENTRY
+---
+name: "#{options[:name]}"
+description: ""
+url: ""
+ENTRY
+
+File.open(file, 'w') do |f|
+  f.write(entry)
+end
+
+`open #{file}`
