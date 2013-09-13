@@ -15,7 +15,7 @@ end
 Trollop::die :type, "must be either 'hardware' or 'software'" unless options[:type] =~ /^(hardware|software)$/
 Trollop::die :name, "must exist" if options[:name].nil?
 
-slug = options[:name].downcase.gsub(/ /, '.')
+slug = options[:name].downcase.gsub(/ /, '-')
 
 software_path = File.join(source_path, 'data', 'wares', 'software', "#{slug}.yml")
 hardware_path = File.join(source_path, 'data', 'wares', 'hardware', "#{slug}.yml")
