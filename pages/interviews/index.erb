@@ -3,7 +3,10 @@ layout: default
 title: Interviews
 ---
 
-<h3>By date</h3>
+<h3>Overview</h3>
+ <p>There are currently <strong><%= @site.interviews.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.wares.length %></strong> bits of hardware and software.</p>
+
+<h4>By date</h4>
 <ul class="years">
 <% @site.archives.each do |year, data| %>
   <li>
@@ -23,7 +26,7 @@ title: Interviews
 <% end %>
 </ul>
 
-<h3>By category</h3>
+<h4>By category</h4>
 <ul class="categories">
 <% @site.categories.keys.sort.each do |category| %>
   <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
