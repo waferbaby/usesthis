@@ -1,10 +1,11 @@
 #!/usr/bin/env ruby
 
 source_path = File.dirname(__dir__)
-
 $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = UsesThis::Site.instance
-site.build(source_path)
+site = UsesThis::Site.new()
+site.register(UsesThis::Interview)
+
+site.generate
