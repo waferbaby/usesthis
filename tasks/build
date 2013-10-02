@@ -5,7 +5,8 @@ $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = Salt::Site.new()
+site = Salt::Site.instance
+site.setup
 site.register(UsesThis::Interview)
 
 site.generate
