@@ -1,13 +1,13 @@
 module UsesThis
   class Interview < Salt::Post
 
-    def initialize(site, path)
-      super(site, path)
-      @metadata['layout'] = 'interview'
+    def self.path
+      "interviews"
     end
 
-    def output_path(parent_path)
-      File.join(parent_path, 'interviews', @slug)
+    def initialize(path)
+      super
+      @layout = 'interview'
     end
   end
 end
