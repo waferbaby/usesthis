@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<% @interviews.each do |interview| %>
+<% @posts.each do |interview| %>
   <article class="interviewee">
     <a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
     <h3 class="person"><a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><%= interview.name %></a></h3>
