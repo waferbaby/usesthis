@@ -5,10 +5,13 @@ $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = Salt::Site.instance
+site = UsesThis::Site.instance
 
-site.setup('./', {
-  classes: [UsesThis::Interview]
-})
+site.setup()
+site.register(UsesThis::Interview)
 
-site.generate
+begin
+  site.generate
+rescue Exception => e
+  puts "Error: #{e}"
+end
