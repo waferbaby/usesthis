@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup / <%= @this.title %></title>
+		<title>The Setup / <%= @this.type == :post ? @this.name : @this.title %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width;initial-scale=1">
-		<% if @interview %>
-		<meta property="og:title" content="<%= @interview.name %>" />
-		<meta property="og:description" content="<%= @interview.summary %>" />
-		<meta property="og:url" content="http://<%= @interview.slug %>.usesthis.com/" />
+		<% if @this.type == :post %>
+		<meta property="og:title" content="<%= @this.name %>" />
+		<meta property="og:description" content="<%= @this.summary %>" />
+		<meta property="og:url" content="http://<%= @this.slug %>.usesthis.com/" />
 		<meta property="og:type" content="article" />
-		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= @interview.slug %>.jpg" />
+		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
 		<meta property="og:image:width" content="500" />
 		<meta property="og:image:height" content="335" />
 		<meta name="twitter:card" content="summary_large_image">
 		<meta name="twitter:site" content="@usesthis">
 		<meta name="twitter:creator" content="@waferbaby">
 		<% else %>
-		<meta property="og:title" content="The Setup<% if @title %><%= " / #{@title}" %><% end %>" />
+		<meta property="og:title" content="The Setup<% if @this.title %><%= " / #{@this.title}" %><% end %>" />
 		<meta property="og:description" content="What do people use to get stuff done?" />
 		<meta property="og:url" content="http://www.usesthis.com/" />
 		<meta property="og:type" content="website" />
@@ -31,7 +31,7 @@
 			<div id="stump">
 				<header>
 					<h1>The Setup</h1>
-					<h2><% if @interview %>Interview<% else %><%= @title %><% end %></h2>
+					<h2><% if @this.type == :post %>Interview<% else %><%= @this.title %><% end %></h2>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 
