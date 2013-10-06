@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-./tasks/build && rsync -av --delete site/ usesthis.com:/usr/local/www/usesthis.com/public/
+./tasks/build && rsync -apv --delete site/ usesthis.com:/usr/local/www/usesthis.com/public/
