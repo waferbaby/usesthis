@@ -1,6 +1,3 @@
-require 'rubygems'
-require 'yaml'
-
 module UsesThis
   class Ware
     attr_accessor :slug, :name, :description, :url
@@ -9,10 +6,10 @@ module UsesThis
       metadata = YAML::load_file(path)
 
       @slug = File.basename(path, File.extname(path))
-      
-      %w(name description url).each do |item|
-        self.send("#{item}=", metadata[item])
-      end
+
+      @name = metadata['name']
+      @description = metadata['description']
+      @url = metadata['url']
     end
   end
 end

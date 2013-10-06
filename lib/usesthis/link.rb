@@ -1,6 +1,3 @@
-require 'rubygems'
-require 'yaml'
-
 module UsesThis
   class Link
     attr_accessor :name, :summary, :url
@@ -10,9 +7,9 @@ module UsesThis
 
       @slug = File.basename(path, File.extname(path))
       
-      %w(name summary url).each do |item|
-        self.send("#{item}=", metadata[item])
-      end
+      @name = metadata['name']
+      @summary = metadata['summary']
+      @url = metadata['url']
     end
   end
 end
