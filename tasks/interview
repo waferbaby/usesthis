@@ -1,28 +1,30 @@
 #!/usr/bin/env ruby
 
+require 'trollop'
+
 source_path = File.dirname(__dir__)
 
 $:.unshift(source_path)
 
-if ARGV.length < 1
-  puts "Usage: #{__FILE__} '(name)'."
-  exit
+options = Trollop::options do
+  banner "Create a new interview."
+  opt :name, "The name of the ware", type: :string
 end
 
-name = ARGV.join(' ')
-slug = name.downcase.gsub(/ /, '.')
+Trollop::die :name, "must exist" if options[:name].nil?
+
+slug = options[:name].downcase.gsub(/ /, '.')
 date = Time.now.strftime('%Y-%m-%d')
 
-file_path = File.join(source_path, 'interviews', "#{date}-#{slug}.interview")
+file_path = File.join(source_path, 'posts', "#{date}-#{slug}.interview")
 if File.exists?(file_path)
-  puts "Oops: #{slug} already exists."
+  puts "Interview already exists for #{slu}."
   exit
 end
-
 
 output = <<OUTPUT
 ---
-name: "#{name}"
+name: "#{options[:name]}"
 summary: ""
 categories: []
 ---
@@ -37,5 +39,8 @@ categories: []
 
 OUTPUT
 
-File.open(file_path, 'w') { |file| file.write(output) }
-exec("open #{file_path}")
+File.open(file_path, 'w') do |file|
+  file.write(output)
+end
+
+`open #{file_path}`
