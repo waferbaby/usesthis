@@ -68,7 +68,7 @@ I want a Kindle DX that is not part of a DRM-based plan to make books expire, di
 
 As a horrible speller, I want to have one excellent spellchecker, one spell checking dictionary and one list of the words I've whitelisted. I still have four installed and it makes me die a little every time I confront this. I once supervised a [Google Summer of Code](https://code.google.com/soc/ "Google's student coding program.") student who tried to fix this issue -- and failed.
 
-People [complain](http://kieran.healy.usesthis.com/ "Kieran's Setup interview.") about Emacs but I'm actually pretty happy with it. The most annoying thing to me about Emacs is how long it takes to start. I get around this by running an Emacs Server and then launching emacsclient which simply provides alternate interfaces to an already running editor. My default editor is a tiny shellscript that looks for a running version of Emacs and, if it can't find it, launches vim instead (basically emacsclient $@ || vim $@). That's an ugly arrangement I'd prefer to avoid.
+People [complain](http://kieran.healy.usesthis.com/ "Kieran's Setup interview.") about Emacs but I'm actually pretty happy with it. The most annoying thing to me about Emacs is how long it takes to start. I get around this by running an Emacs Server and then launching emacsclient which simply provides alternate interfaces to an already running editor. My default editor is a tiny shellscript that looks for a running version of Emacs and, if it can't find it, launches vim instead (basically `emacsclient $@ || vim $@`). That's an ugly arrangement I'd prefer to avoid.
 
 While I'm dreaming:
 
