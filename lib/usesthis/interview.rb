@@ -12,6 +12,7 @@ module UsesThis
 
       @layout = 'interview'
       @wares = {}
+      @markdown_contents = nil
     end
 
     def scan_links
@@ -24,17 +25,21 @@ module UsesThis
     end
 
     def contents
-      output = @contents
+      if @markdown_contents.nil?
+        output = @contents
 
-      if @wares.length > 0
-        output += "\n\n"
+        if @wares.length > 0
+          output += "\n\n"
 
-        @wares.each_value do |ware|
-          output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+          @wares.each_value do |ware|
+            output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+          end
         end
+
+        @markdown_contents = Kramdown::Document.new(output, auto_ids: false).to_html
       end
 
-      Kramdown::Document.new(output, auto_ids: false).to_html
+      @markdown_contents
     end
   end
 end
