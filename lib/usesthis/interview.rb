@@ -25,7 +25,7 @@ module UsesThis
     end
 
     def contents
-      if @markdown_contents.nil?
+      if @markdown.nil?
         output = @contents
 
         if @wares.length > 0
@@ -36,10 +36,10 @@ module UsesThis
           end
         end
 
-        @markdown_contents = Kramdown::Document.new(output, auto_ids: false).to_html
+        @markdown = Kramdown::Document.new(output, auto_ids: false).to_html
       end
 
-      @markdown_contents
+      @markdown
     end
   end
 end
