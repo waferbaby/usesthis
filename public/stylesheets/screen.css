@@ -170,16 +170,17 @@ ul.categories {
 padding: 10px 0;
 margin: 10px 0;
 list-style: none inside;
-font-size: 80%;
+font-size: 85%;
 }
 
 ul.categories li {
-display: inline;
+display: inline-block;
+margin: 0 5px 5px 0;
 }
 
 ul.categories li a:link, ul.categories li a:visited {
 padding: 0 5px;
-margin: 2px;
+margin: 0;
 background-color: #fcfcfc;
 color: #888;
 text-align: center;
@@ -188,10 +189,16 @@ border: solid 1px #f2f2f2;
 border-radius: 4px;
 }
 
+ul.categories.all li {
+display: inline;
+margin: 0;
+}
+
 ul.categories.all li a:link, ul.categories.all li a:visited {
 display: block;
-float: left;
 width: 100px;
+float: left;
+margin: 2px;
 }
 
 ul.categories li a:hover {
