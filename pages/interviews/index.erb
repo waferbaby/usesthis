@@ -27,7 +27,7 @@ title: Interviews
 </ul>
 
 <h4>By category</h4>
-<ul class="categories">
+<ul class="categories all">
 <% @site.categories.keys.sort.each do |category| %>
   <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
 <% end %>
