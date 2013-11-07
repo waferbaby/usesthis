@@ -61,7 +61,6 @@ padding: 10px 0;
 margin-left: 220px;
 color: #777;
 font-size: 85%;
-border-top: dotted 1px #aaa;
 }
 
 h1 {
@@ -171,21 +170,28 @@ ul.categories {
 padding: 10px 0;
 margin: 10px 0;
 list-style: none inside;
-font-size: 85%;
+font-size: 80%;
 }
 
 ul.categories li {
-display: inline-block;
-margin: 0 5px 3px 0;
+display: inline;
 }
 
 ul.categories li a:link, ul.categories li a:visited {
 padding: 0 5px;
-background-color: #f9f9f9;
+margin: 2px;
+background-color: #fcfcfc;
 color: #888;
+text-align: center;
 text-decoration: none !important;
-border: solid 1px #eee;
+border: solid 1px #f2f2f2;
 border-radius: 4px;
+}
+
+ul.categories.all li a:link, ul.categories.all li a:visited {
+display: block;
+float: left;
+width: 100px;
 }
 
 ul.categories li a:hover {
@@ -252,7 +258,7 @@ margin: 10px 0;
 	}
 }
 
-@media screen and (max-device-width: 480px) {
+@media screen and (max-device-width: 480px), screen and (max-width: 800px) {
 
 	body {
 	padding: 0;
@@ -300,8 +306,8 @@ margin: 10px 0;
 	}
 
 	h1 {
-	margin: 0;
-	font-size: 170%;
+	margin: 0 0 10px 0;
+	font-size: 160%;
 	}
 
 	h2 {
@@ -345,16 +351,10 @@ margin: 10px 0;
 	}
 
 	ul.categories {
-	font-size: 100%;
+	font-size: 65%;
 	}
 
 	ul.months {
-	display: block;
-	margin: 0 0 10px 0;
-	}
-
-	ul.months li {
-	display: block;
-	font-size: 80%;
+	font-size: 70%;
 	}
 }
