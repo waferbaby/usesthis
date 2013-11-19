@@ -37,9 +37,9 @@ end
 
 entry = <<ENTRY
 ---
-name: "#{options[:name]}"
-description: ""
-url: ""
+name: #{options[:name]}
+description: (description)
+url: (url)
 ENTRY
 
 File.open(file, 'w') do |f|
