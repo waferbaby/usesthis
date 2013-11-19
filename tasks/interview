@@ -24,9 +24,11 @@ end
 
 output = <<OUTPUT
 ---
-name: "#{options[:name]}"
-summary: ""
-categories: []
+name: #{options[:name]}
+summary: (summary)
+categories:
+- (category)
+- (category)
 ---
 
 #### Who are you, and what do you do?
