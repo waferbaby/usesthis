@@ -1,4 +1,4 @@
 ---
-name: "wxFormBuilder"
-description: "A GUI for designing wxWidgets apps."
-url: "http://wxformbuilder.org/"
+name: wxFormBuilder
+description: A GUI for designing wxWidgets apps.
+url: http://wxformbuilder.org/

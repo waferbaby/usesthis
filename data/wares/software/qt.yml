@@ -1,4 +1,4 @@
 ---
-name: "Qt"
-description: "A cross-platform UI framework."
-url: "http://qt-project.org/"
+name: Qt
+description: A cross-platform UI framework.
+url: http://qt-project.org/

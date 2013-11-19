@@ -1,4 +1,4 @@
 ---
-name: "MzScheme"
-description: "The core virtual machine for the PLT Scheme language."
-url: "http://plt-scheme.org/software/mzscheme/"
+name: MzScheme
+description: The core virtual machine for the PLT Scheme language.
+url: http://plt-scheme.org/software/mzscheme/

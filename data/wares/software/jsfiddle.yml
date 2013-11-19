@@ -1,4 +1,4 @@
 ---
-name: "jsFiddle"
-description: "A Javascript playground."
-url: "http://jsfiddle.net/"
+name: jsFiddle
+description: A Javascript playground.
+url: http://jsfiddle.net/

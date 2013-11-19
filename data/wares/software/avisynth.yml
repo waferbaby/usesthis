@@ -1,4 +1,4 @@
 ---
-name: "AviSynth"
-description: "A video editor and processor tool for Windows."
-url: "http://avisynth.org/mediawiki/Main_Page"
+name: AviSynth
+description: A video editor and processor tool for Windows.
+url: http://avisynth.org/mediawiki/Main_Page

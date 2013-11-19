@@ -1,4 +1,4 @@
 ---
-name: "Network Manager"
-description: "A network manager for GNOME."
-url: "http://projects.gnome.org/NetworkManager/"
+name: Network Manager
+description: A network manager for GNOME.
+url: http://projects.gnome.org/NetworkManager/

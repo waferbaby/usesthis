@@ -1,4 +1,4 @@
 ---
-name: "Nest"
-description: "A clever thermostat."
-url: "http://www.nest.com/"
+name: Nest
+description: A clever thermostat.
+url: http://www.nest.com/

@@ -1,4 +1,4 @@
 ---
-name: "OpenPGP"
-description: "Email encryption software."
-url: "http://openpgp.org/"
+name: OpenPGP
+description: Email encryption software.
+url: http://openpgp.org/

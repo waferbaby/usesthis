@@ -1,4 +1,4 @@
 ---
-name: "DuckDuckGo"
-description: "A new search engine."
-url: "http://duckduckgo.com/"
+name: DuckDuckGo
+description: A new search engine.
+url: http://duckduckgo.com/

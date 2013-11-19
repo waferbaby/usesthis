@@ -1,4 +1,4 @@
 ---
-name: "Gnuplot"
-description: "A command-line graphing tool."
-url: "http://www.gnuplot.info/"
+name: Gnuplot
+description: A command-line graphing tool.
+url: http://www.gnuplot.info/

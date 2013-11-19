@@ -1,4 +1,4 @@
 ---
-name: "py-bcrypt"
-description: "A Python implementation of BCrypt."
-url: "https://code.google.com/p/py-bcrypt/"
+name: py-bcrypt
+description: A Python implementation of BCrypt.
+url: https://code.google.com/p/py-bcrypt/

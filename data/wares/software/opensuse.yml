@@ -1,4 +1,4 @@
 ---
-name: "openSUSE"
-description: "A Linux distribution."
-url: "http://www.opensuse.org/en/"
+name: openSUSE
+description: A Linux distribution.
+url: http://www.opensuse.org/en/

@@ -1,4 +1,4 @@
 ---
-name: "git-bzr-ng"
-description: "Git and Bazaar bridging software."
-url: "http://github.com/termie/git-bzr-ng"
+name: git-bzr-ng
+description: Git and Bazaar bridging software.
+url: http://github.com/termie/git-bzr-ng

@@ -1,4 +1,4 @@
 ---
-name: "Delicious"
-description: "A web service for storing and sharing bookmarks."
-url: "http://delicious.com/"
+name: Delicious
+description: A web service for storing and sharing bookmarks.
+url: http://delicious.com/

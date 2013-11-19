@@ -1,4 +1,4 @@
 ---
-name: "Gearman"
-description: "Powerful software for sending tasks across to multiple computers at once."
-url: "http://gearman.org/"
+name: Gearman
+description: Powerful software for sending tasks across to multiple computers at once.
+url: http://gearman.org/

@@ -1,4 +1,4 @@
 ---
-name: "MongoDB"
-description: "A document-based database."
-url: "http://www.mongodb.org/"
+name: MongoDB
+description: A document-based database.
+url: http://www.mongodb.org/

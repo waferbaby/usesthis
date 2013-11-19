@@ -1,4 +1,4 @@
 ---
-name: "CrashPlan"
-description: "An online backup service."
-url: "http://www.crashplan.com/"
+name: CrashPlan
+description: An online backup service.
+url: http://www.crashplan.com/

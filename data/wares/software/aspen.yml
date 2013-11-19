@@ -1,4 +1,4 @@
 ---
-name: "Aspen"
-description: "A Python file-based web framework."
-url: "http://aspen.io/"
+name: Aspen
+description: A Python file-based web framework.
+url: http://aspen.io/

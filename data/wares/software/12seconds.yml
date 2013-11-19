@@ -1,4 +1,4 @@
 ---
-name: "12seconds"
-description: "A web service for uploading videos from mobile phones or webcams."
-url: "http://12seconds.tv/"
+name: 12seconds
+description: A web service for uploading videos from mobile phones or webcams.
+url: http://12seconds.tv/

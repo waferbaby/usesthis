@@ -1,4 +1,4 @@
 ---
-name: "Google Flights"
-description: "A service for looking up flights."
-url: "https://www.google.com/flights/"
+name: Google Flights
+description: A service for looking up flights.
+url: https://www.google.com/flights/

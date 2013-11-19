@@ -1,4 +1,4 @@
 ---
-name: "GameCube"
-description: "A gaming console."
-url: "http://en.wikipedia.org/wiki/Nintendo_GameCube"
+name: GameCube
+description: A gaming console.
+url: http://en.wikipedia.org/wiki/Nintendo_GameCube

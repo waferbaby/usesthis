@@ -1,4 +1,4 @@
 ---
-name: "HomeSite"
-description: "A WYSIWYG HTML editor for Windows."
-url: "https://en.wikipedia.org/wiki/Macromedia_HomeSite"
+name: HomeSite
+description: A WYSIWYG HTML editor for Windows.
+url: https://en.wikipedia.org/wiki/Macromedia_HomeSite

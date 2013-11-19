@@ -1,4 +1,4 @@
 ---
-name: "OpenBox"
-description: "A window manager for *nix."
-url: "http://openbox.org/"
+name: OpenBox
+description: A window manager for *nix.
+url: http://openbox.org/

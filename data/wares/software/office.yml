@@ -1,4 +1,4 @@
 ---
-name: "Office"
-description: "The infamous software package."
-url: "http://office.microsoft.com/"
+name: Office
+description: The infamous software package.
+url: http://office.microsoft.com/

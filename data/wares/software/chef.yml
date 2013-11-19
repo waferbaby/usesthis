@@ -1,4 +1,4 @@
 ---
-name: "Chef"
-description: "Configuration management software."
-url: "http://www.opscode.com/chef/"
+name: Chef
+description: Configuration management software.
+url: http://www.opscode.com/chef/

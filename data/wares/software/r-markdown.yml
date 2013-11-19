@@ -1,4 +1,4 @@
 ---
-name: "R Markdown"
-description: "A version of Markdown that supports R embedding."
-url: "http://www.rstudio.com/ide/docs/r_markdown"
+name: R Markdown
+description: A version of Markdown that supports R embedding.
+url: http://www.rstudio.com/ide/docs/r_markdown

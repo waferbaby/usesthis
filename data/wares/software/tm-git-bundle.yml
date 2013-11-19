@@ -1,4 +1,4 @@
 ---
-name: "TextMate Git bundle"
-description: "A bundle for TextMate to add Git support."
-url: "http://gitorious.org/projects/git-tmbundle"
+name: TextMate Git bundle
+description: A bundle for TextMate to add Git support.
+url: http://gitorious.org/projects/git-tmbundle

@@ -1,4 +1,4 @@
 ---
-name: "PBworks"
-description: "A wiki service."
-url: "http://pbworks.com/"
+name: PBworks
+description: A wiki service.
+url: http://pbworks.com/

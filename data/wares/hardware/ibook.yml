@@ -1,4 +1,4 @@
 ---
-name: "iBook"
-description: "Apple's old consumer laptop."
-url: "http://en.wikipedia.org/wiki/IBook"
+name: iBook
+description: Apple's old consumer laptop.
+url: http://en.wikipedia.org/wiki/IBook

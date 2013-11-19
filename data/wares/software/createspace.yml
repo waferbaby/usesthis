@@ -1,4 +1,4 @@
 ---
-name: "CreateSpace"
-description: "A self-publishing service."
-url: "https://www.createspace.com/"
+name: CreateSpace
+description: A self-publishing service.
+url: https://www.createspace.com/

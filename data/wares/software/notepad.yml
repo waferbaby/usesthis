@@ -1,4 +1,4 @@
 ---
-name: "Notepad"
-description: "The simple text editor included with Windows."
-url: "http://en.wikipedia.org/wiki/Notepad_(software)"
+name: Notepad
+description: The simple text editor included with Windows.
+url: http://en.wikipedia.org/wiki/Notepad_(software)

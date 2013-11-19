@@ -1,4 +1,4 @@
 ---
-name: "Rhapsody"
-description: "A music streaming service."
-url: "http://www.rhapsody.com/"
+name: Rhapsody
+description: A music streaming service.
+url: http://www.rhapsody.com/

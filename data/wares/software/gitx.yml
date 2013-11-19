@@ -1,4 +1,4 @@
 ---
-name: "GitX"
-description: "A git GUI for OS X."
-url: "http://gitx.frim.nl/"
+name: GitX
+description: A git GUI for OS X.
+url: http://gitx.frim.nl/

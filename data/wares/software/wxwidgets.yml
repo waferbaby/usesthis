@@ -1,4 +1,4 @@
 ---
-name: "wxWidgets"
-description: "A cross-platform GUI library."
-url: "http://www.wxwidgets.org/"
+name: wxWidgets
+description: A cross-platform GUI library.
+url: http://www.wxwidgets.org/

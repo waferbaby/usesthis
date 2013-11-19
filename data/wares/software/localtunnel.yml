@@ -1,4 +1,4 @@
 ---
-name: "localtunnel"
-description: "A tool for easily exposing a local server to the world."
-url: "https://github.com/progrium/localtunnel"
+name: localtunnel
+description: A tool for easily exposing a local server to the world.
+url: https://github.com/progrium/localtunnel

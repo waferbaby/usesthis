@@ -1,4 +1,4 @@
 ---
-name: "GNOME"
-description: "A desktop system for *nix operating systems."
-url: "http://www.gnome.org/"
+name: GNOME
+description: A desktop system for *nix operating systems.
+url: http://www.gnome.org/

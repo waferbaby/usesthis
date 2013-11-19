@@ -1,4 +1,4 @@
 ---
-name: "Web Inspector"
-description: "The developer tools included with WebKit."
-url: "http://trac.webkit.org/wiki/WebInspector"
+name: Web Inspector
+description: The developer tools included with WebKit.
+url: http://trac.webkit.org/wiki/WebInspector

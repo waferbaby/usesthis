@@ -1,4 +1,4 @@
 ---
-name: "pfSense"
-description: "A FreeBSD-based firewall/router OS."
-url: "http://www.pfsense.org/"
+name: pfSense
+description: A FreeBSD-based firewall/router OS.
+url: http://www.pfsense.org/

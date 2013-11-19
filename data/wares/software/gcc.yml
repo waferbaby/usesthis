@@ -1,4 +1,4 @@
 ---
-name: "GCC"
-description: "Code compiler frontends."
-url: "http://gcc.gnu.org/"
+name: GCC
+description: Code compiler frontends.
+url: http://gcc.gnu.org/

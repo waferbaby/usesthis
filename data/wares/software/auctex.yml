@@ -1,4 +1,4 @@
 ---
-name: "AUCTEX"
-description: "An Emacs package for TeX support."
-url: "http://www.gnu.org/software/auctex/"
+name: AUCTEX
+description: An Emacs package for TeX support.
+url: http://www.gnu.org/software/auctex/

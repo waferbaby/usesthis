@@ -1,4 +1,4 @@
 ---
-name: "Shiny"
-description: "An framework for building web apps out of R analyses."
-url: "http://www.rstudio.com/shiny/"
+name: Shiny
+description: An framework for building web apps out of R analyses.
+url: http://www.rstudio.com/shiny/

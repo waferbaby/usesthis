@@ -1,4 +1,4 @@
 ---
-name: "Ubuntu"
-description: "A popular Unix distribution."
-url: "http://www.ubuntu.com/"
+name: Ubuntu
+description: A popular Unix distribution.
+url: http://www.ubuntu.com/

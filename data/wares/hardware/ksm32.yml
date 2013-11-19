@@ -1,4 +1,4 @@
 ---
-name: "KSM32"
-description: "A studio microphone."
-url: "http://shure.com/ProAudio/Products/WiredMicrophones/us_pro_KSM32-CG_content"
+name: KSM32
+description: A studio microphone.
+url: http://shure.com/ProAudio/Products/WiredMicrophones/us_pro_KSM32-CG_content

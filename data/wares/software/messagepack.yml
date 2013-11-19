@@ -1,4 +1,4 @@
 ---
-name: "MessagePack"
-description: "A binary serialisation format, similar to JSON."
-url: "http://msgpack.org/"
+name: MessagePack
+description: A binary serialisation format, similar to JSON.
+url: http://msgpack.org/

@@ -1,4 +1,4 @@
 ---
-name: "ld"
-description: "An R implementation of the latent Dirichlet allocation."
-url: "http://cran.r-project.org/web/packages/lda/"
+name: ld
+description: An R implementation of the latent Dirichlet allocation.
+url: http://cran.r-project.org/web/packages/lda/

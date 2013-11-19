@@ -1,4 +1,4 @@
 ---
-name: "Capistrano"
-description: "Web application deployment software."
-url: "http://www.capify.org/index.php/Capistrano"
+name: Capistrano
+description: Web application deployment software.
+url: http://www.capify.org/index.php/Capistrano

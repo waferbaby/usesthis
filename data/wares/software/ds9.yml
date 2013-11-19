@@ -1,4 +1,4 @@
 ---
-name: "DS9"
-description: "Astronomical imaging and data visualisation software."
-url: "http://hea-www.harvard.edu/RD/ds9/"
+name: DS9
+description: Astronomical imaging and data visualisation software.
+url: http://hea-www.harvard.edu/RD/ds9/

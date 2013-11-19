@@ -1,4 +1,4 @@
 ---
-name: "SourceRepo"
-description: "Source code hosting service."
-url: "http://sourcerepo.com/"
+name: SourceRepo
+description: Source code hosting service.
+url: http://sourcerepo.com/

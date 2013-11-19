@@ -1,4 +1,4 @@
 ---
-name: "Haskell"
-description: "A functional programming language."
-url: "http://www.haskell.org/haskellwiki/Haskell"
+name: Haskell
+description: A functional programming language.
+url: http://www.haskell.org/haskellwiki/Haskell

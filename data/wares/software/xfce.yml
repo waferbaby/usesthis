@@ -1,4 +1,4 @@
 ---
-name: "XFCE"
-description: "A lightweight UNIX-like desktop environment."
-url: "http://www.xfce.org/"
+name: XFCE
+description: A lightweight UNIX-like desktop environment.
+url: http://www.xfce.org/

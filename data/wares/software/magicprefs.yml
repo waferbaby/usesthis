@@ -1,4 +1,4 @@
 ---
-name: "MagicPrefs"
-description: "An OS X prefpane that adds extra options to the Magic Mouse."
-url: "http://magicprefs.com/"
+name: MagicPrefs
+description: An OS X prefpane that adds extra options to the Magic Mouse.
+url: http://magicprefs.com/

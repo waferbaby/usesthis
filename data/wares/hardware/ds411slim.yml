@@ -1,4 +1,4 @@
 ---
-name: "DS411slim"
-description: "A NAS device for 2.5 inch drives."
-url: "http://www.synology.com/us/products/DS411slim/index.php"
+name: DS411slim
+description: A NAS device for 2.5 inch drives.
+url: http://www.synology.com/us/products/DS411slim/index.php

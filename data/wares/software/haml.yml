@@ -1,4 +1,4 @@
 ---
-name: "HAML"
-description: "A markup syntax that generates HTML."
-url: "http://haml-lang.com/"
+name: HAML
+description: A markup syntax that generates HTML.
+url: http://haml-lang.com/

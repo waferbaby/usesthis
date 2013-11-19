@@ -1,4 +1,4 @@
 ---
-name: "Photo Booth"
-description: "Software to take photos using the built-in camera of recent Macs."
-url: "http://www.apple.com/macosx/what-is-macosx/photo-booth.html"
+name: Photo Booth
+description: Software to take photos using the built-in camera of recent Macs.
+url: http://www.apple.com/macosx/what-is-macosx/photo-booth.html

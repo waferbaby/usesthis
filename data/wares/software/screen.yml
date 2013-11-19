@@ -1,4 +1,4 @@
 ---
-name: "GNU screen"
-description: "Think of it as tabs for your *nix terminal."
-url: "http://www.gnu.org/software/screen/"
+name: GNU screen
+description: Think of it as tabs for your *nix terminal.
+url: http://www.gnu.org/software/screen/

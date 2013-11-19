@@ -1,4 +1,4 @@
 ---
-name: "rcs"
-description: "Version control system."
-url: "http://www.gnu.org/software/rcs/"
+name: rcs
+description: Version control system.
+url: http://www.gnu.org/software/rcs/

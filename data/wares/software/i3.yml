@@ -1,4 +1,4 @@
 ---
-name: "i3"
-description: "An X window manager."
-url: "http://i3wm.org/"
+name: i3
+description: An X window manager.
+url: http://i3wm.org/

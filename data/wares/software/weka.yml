@@ -1,4 +1,4 @@
 ---
-name: "Weka"
-description: "Data mining software written in Java."
-url: "http://www.cs.waikato.ac.nz/ml/weka/"
+name: Weka
+description: Data mining software written in Java.
+url: http://www.cs.waikato.ac.nz/ml/weka/

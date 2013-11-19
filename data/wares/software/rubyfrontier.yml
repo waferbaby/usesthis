@@ -1,4 +1,4 @@
 ---
-name: "RubyFrontier"
-description: "A static site generator."
-url: "http://www.apeth.com/RubyFrontierDocs/default.html"
+name: RubyFrontier
+description: A static site generator.
+url: http://www.apeth.com/RubyFrontierDocs/default.html

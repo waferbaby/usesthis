@@ -1,4 +1,4 @@
 ---
-name: "SM57"
-description: "An instrument microphone."
-url: "http://shure.com/ProAudio/Products/WiredMicrophones/us_pro_SM57-LC_content"
+name: SM57
+description: An instrument microphone.
+url: http://shure.com/ProAudio/Products/WiredMicrophones/us_pro_SM57-LC_content

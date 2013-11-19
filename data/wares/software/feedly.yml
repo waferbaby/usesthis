@@ -1,4 +1,4 @@
 ---
-name: "feedly"
-description: "A feed reader."
-url: "http://feedly.com/"
+name: feedly
+description: A feed reader.
+url: http://feedly.com/

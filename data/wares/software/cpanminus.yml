@@ -1,4 +1,4 @@
 ---
-name: "cpanminus"
-description: "A script for working with CPAN modules."
-url: "https://github.com/miyagawa/cpanminus"
+name: cpanminus
+description: A script for working with CPAN modules.
+url: https://github.com/miyagawa/cpanminus

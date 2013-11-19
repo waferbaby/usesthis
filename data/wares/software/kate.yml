@@ -1,4 +1,4 @@
 ---
-name: "Kate"
-description: "A text editor for KDE."
-url: "http://kate-editor.org/"
+name: Kate
+description: A text editor for KDE.
+url: http://kate-editor.org/

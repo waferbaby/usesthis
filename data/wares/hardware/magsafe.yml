@@ -1,4 +1,4 @@
 ---
-name: "MagSafe"
-description: "Apple's proprietary magnetic power connector."
-url: "http://en.wikipedia.org/wiki/MagSafe"
+name: MagSafe
+description: Apple's proprietary magnetic power connector.
+url: http://en.wikipedia.org/wiki/MagSafe

@@ -1,4 +1,4 @@
 ---
-name: "NoteSlate"
-description: "A not-yet-real e-ink tablet device."
-url: "http://www.noteslate.com"
+name: NoteSlate
+description: A not-yet-real e-ink tablet device.
+url: http://www.noteslate.com

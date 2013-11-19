@@ -1,4 +1,4 @@
 ---
-name: "Foursquare"
-description: "A location service."
-url: "http://foursquare.com/"
+name: Foursquare
+description: A location service.
+url: http://foursquare.com/

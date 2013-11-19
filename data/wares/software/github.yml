@@ -1,4 +1,4 @@
 ---
-name: "GitHub"
-description: "A Git code repository service."
-url: "http://www.github.com/"
+name: GitHub
+description: A Git code repository service.
+url: http://www.github.com/

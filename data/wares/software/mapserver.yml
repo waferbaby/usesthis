@@ -1,4 +1,4 @@
 ---
-name: "MapServer"
-description: "An open-source map platform."
-url: "http://www.mapserver.org/"
+name: MapServer
+description: An open-source map platform.
+url: http://www.mapserver.org/

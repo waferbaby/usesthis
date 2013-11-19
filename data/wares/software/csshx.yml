@@ -1,4 +1,4 @@
 ---
-name: "csshx"
-description: "Mac software for controlling multiple Terminal sessions."
-url: "http://code.google.com/p/csshx/"
+name: csshx
+description: Mac software for controlling multiple Terminal sessions.
+url: http://code.google.com/p/csshx/

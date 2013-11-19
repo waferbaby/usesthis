@@ -1,4 +1,4 @@
 ---
-name: "Remote Desktop Client"
-description: "Mac software for connecting to remote Windows machines."
-url: "https://www.microsoft.com/mac/remote-desktop-client"
+name: Remote Desktop Client
+description: Mac software for connecting to remote Windows machines.
+url: https://www.microsoft.com/mac/remote-desktop-client

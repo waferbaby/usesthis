@@ -1,4 +1,4 @@
 ---
-name: "Gmail"
-description: "Web-based email."
-url: "http://mail.google.com/"
+name: Gmail
+description: Web-based email.
+url: http://mail.google.com/

@@ -1,4 +1,4 @@
 ---
-name: "BeagleBoard"
-description: "An open development hardware board."
-url: "http://beagleboard.org/"
+name: BeagleBoard
+description: An open development hardware board.
+url: http://beagleboard.org/

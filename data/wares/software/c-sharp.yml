@@ -1,4 +1,4 @@
 ---
-name: "C#"
-description: "A compiled programming language."
-url: "http://msdn.microsoft.com/en-us/vcsharp/default.aspx"
+name: C#
+description: A compiled programming language.
+url: http://msdn.microsoft.com/en-us/vcsharp/default.aspx

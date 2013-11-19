@@ -1,4 +1,4 @@
 ---
-name: "Finder"
-description: "The default file manager for the Mac."
-url: "http://www.apple.com/macosx/what-is-macosx/dock-and-finder.html"
+name: Finder
+description: The default file manager for the Mac.
+url: http://www.apple.com/macosx/what-is-macosx/dock-and-finder.html

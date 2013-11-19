@@ -1,4 +1,4 @@
 ---
-name: "LyX"
-description: "A TeX/LaTeX GUI."
-url: "http://www.lyx.org/"
+name: LyX
+description: A TeX/LaTeX GUI.
+url: http://www.lyx.org/

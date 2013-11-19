@@ -1,4 +1,4 @@
 ---
-name: "Plan 9 from User Space"
-description: "A port of Plan 9 programs to *nix."
-url: "http://swtch.com/plan9port/"
+name: Plan 9 from User Space
+description: A port of Plan 9 programs to *nix.
+url: http://swtch.com/plan9port/

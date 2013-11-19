@@ -1,4 +1,4 @@
 ---
-name: "WinZip"
-description: "File compression and encryption software for Windows."
-url: "http://www.winzip.com/"
+name: WinZip
+description: File compression and encryption software for Windows.
+url: http://www.winzip.com/

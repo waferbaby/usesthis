@@ -1,4 +1,4 @@
 ---
-name: "znc"
-description: "An IRC bouncer."
-url: "https://github.com/technomancy/znc"
+name: znc
+description: An IRC bouncer.
+url: https://github.com/technomancy/znc

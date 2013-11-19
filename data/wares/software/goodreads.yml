@@ -1,4 +1,4 @@
 ---
-name: "Goodreads"
-description: "A service for tracking the book you've read."
-url: "http://www.goodreads.com/"
+name: Goodreads
+description: A service for tracking the book you've read.
+url: http://www.goodreads.com/

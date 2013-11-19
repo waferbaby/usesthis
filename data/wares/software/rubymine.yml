@@ -1,4 +1,4 @@
 ---
-name: "RubyMine"
-description: "An IDE for Ruby."
-url: "https://www.jetbrains.com/ruby/"
+name: RubyMine
+description: An IDE for Ruby.
+url: https://www.jetbrains.com/ruby/

@@ -1,4 +1,4 @@
 ---
-name: "padKONTROL"
-description: "A MIDI studio controller."
-url: "http://www.korg.com/padkontrol"
+name: padKONTROL
+description: A MIDI studio controller.
+url: http://www.korg.com/padkontrol

@@ -1,4 +1,4 @@
 ---
-name: "GTK+"
-description: "A multi-platform GUI toolkit."
-url: "http://www.gtk.org/"
+name: GTK+
+description: A multi-platform GUI toolkit.
+url: http://www.gtk.org/

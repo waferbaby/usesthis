@@ -1,4 +1,4 @@
 ---
-name: "libarchive"
-description: "A multi-format compression library and companion tools."
-url: "http://libarchive.org/"
+name: libarchive
+description: A multi-format compression library and companion tools.
+url: http://libarchive.org/

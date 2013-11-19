@@ -1,4 +1,4 @@
 ---
-name: "Lynx"
-description: "A text-based web browser."
-url: "http://lynx.isc.org/"
+name: Lynx
+description: A text-based web browser.
+url: http://lynx.isc.org/

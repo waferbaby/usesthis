@@ -1,4 +1,4 @@
 ---
-name: "xbindkeys"
-description: "A keyboard/mouse launcher tool for X11."
-url: "http://www.nongnu.org/xbindkeys/xbindkeys.html"
+name: xbindkeys
+description: A keyboard/mouse launcher tool for X11.
+url: http://www.nongnu.org/xbindkeys/xbindkeys.html

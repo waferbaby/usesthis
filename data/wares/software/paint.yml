@@ -1,4 +1,4 @@
 ---
-name: "MS Paint"
-description: "The default image editor included with Windows."
-url: "http://en.wikipedia.org/wiki/Paint_(software)"
+name: MS Paint
+description: The default image editor included with Windows.
+url: http://en.wikipedia.org/wiki/Paint_(software)

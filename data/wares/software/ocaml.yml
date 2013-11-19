@@ -1,4 +1,4 @@
 ---
-name: "OCaml"
-description: "An object-oriented version of the Caml programming language."
-url: "http://caml.inria.fr/ocaml/index.en.html"
+name: OCaml
+description: An object-oriented version of the Caml programming language.
+url: http://caml.inria.fr/ocaml/index.en.html

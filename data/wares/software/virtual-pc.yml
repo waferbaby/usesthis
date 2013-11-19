@@ -1,4 +1,4 @@
 ---
-name: "Virtual PC"
-description: "Windows emulation software, for Windows."
-url: "https://www.microsoft.com/windows/virtual-pc/features/default.aspx"
+name: Virtual PC
+description: Windows emulation software, for Windows.
+url: https://www.microsoft.com/windows/virtual-pc/features/default.aspx

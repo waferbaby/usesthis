@@ -1,4 +1,4 @@
 ---
-name: "TextEdit"
-description: "The default text editor included with Mac OS X."
-url: "http://support.apple.com/kb/HT2523"
+name: TextEdit
+description: The default text editor included with Mac OS X.
+url: http://support.apple.com/kb/HT2523

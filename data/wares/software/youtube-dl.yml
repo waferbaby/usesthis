@@ -1,4 +1,4 @@
 ---
-name: "youtube-dl"
-description: "A command-line tool for downloading videos from YouTube etc."
-url: "http://rg3.github.com/youtube-dl/"
+name: youtube-dl
+description: A command-line tool for downloading videos from YouTube etc.
+url: http://rg3.github.com/youtube-dl/

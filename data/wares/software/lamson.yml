@@ -1,4 +1,4 @@
 ---
-name: "Lamson"
-description: "A Python-based SMTP server."
-url: "http://lamsonproject.org/"
+name: Lamson
+description: A Python-based SMTP server.
+url: http://lamsonproject.org/

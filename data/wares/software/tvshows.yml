@@ -1,4 +1,4 @@
 ---
-name: "TVShows"
-description: "A Mac app to download television shows off the Internet."
-url: "http://tvshows.sourceforge.net/"
+name: TVShows
+description: A Mac app to download television shows off the Internet.
+url: http://tvshows.sourceforge.net/

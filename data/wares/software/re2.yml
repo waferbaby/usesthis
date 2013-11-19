@@ -1,4 +1,4 @@
 ---
-name: "RE2"
-description: "A regular expression engine."
-url: "http://code.google.com/p/re2"
+name: RE2
+description: A regular expression engine.
+url: http://code.google.com/p/re2

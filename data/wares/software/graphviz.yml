@@ -1,4 +1,4 @@
 ---
-name: "Graphviz"
-description: "A tool for creating graphs."
-url: "http://www.graphviz.org/"
+name: Graphviz
+description: A tool for creating graphs.
+url: http://www.graphviz.org/

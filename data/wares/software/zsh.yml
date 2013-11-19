@@ -1,4 +1,4 @@
 ---
-name: "zsh"
-description: "An interactive shell and scripting language."
-url: "http://www.zsh.org/"
+name: zsh
+description: An interactive shell and scripting language.
+url: http://www.zsh.org/

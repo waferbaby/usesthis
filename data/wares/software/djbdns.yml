@@ -1,4 +1,4 @@
 ---
-name: "djbdns"
-description: "DNS server software."
-url: "http://cr.yp.to/djbdns.html"
+name: djbdns
+description: DNS server software.
+url: http://cr.yp.to/djbdns.html

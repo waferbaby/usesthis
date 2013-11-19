@@ -1,4 +1,4 @@
 ---
-name: "AckMate"
-description: "A TextMate plugin for running Ack."
-url: "http://github.com/protocool/AckMate"
+name: AckMate
+description: A TextMate plugin for running Ack.
+url: http://github.com/protocool/AckMate

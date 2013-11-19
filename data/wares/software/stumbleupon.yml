@@ -1,4 +1,4 @@
 ---
-name: "StumbleUpon"
-description: "A web service for finding interesting sites for you."
-url: "http://www.stumbleupon.com/"
+name: StumbleUpon
+description: A web service for finding interesting sites for you.
+url: http://www.stumbleupon.com/

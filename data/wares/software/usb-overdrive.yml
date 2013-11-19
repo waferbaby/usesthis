@@ -1,4 +1,4 @@
 ---
-name: "USB Overdrive"
-description: "A configurable OS X device driver for USB or Bluetooth devices."
-url: "http://www.usboverdrive.com/"
+name: USB Overdrive
+description: A configurable OS X device driver for USB or Bluetooth devices.
+url: http://www.usboverdrive.com/

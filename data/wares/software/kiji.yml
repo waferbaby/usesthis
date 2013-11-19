@@ -1,4 +1,4 @@
 ---
-name: "Kiji"
-description: "Twitter's version of Ruby Enterprise Edition."
-url: "https://github.com/twitter/rubyenterpriseedition187-248"
+name: Kiji
+description: Twitter's version of Ruby Enterprise Edition.
+url: https://github.com/twitter/rubyenterpriseedition187-248

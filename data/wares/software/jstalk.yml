@@ -1,4 +1,4 @@
 ---
-name: "JSTalk"
-description: "A Javascript-based Cocoa bridging language for Mac OS X."
-url: "http://jstalk.org/"
+name: JSTalk
+description: A Javascript-based Cocoa bridging language for Mac OS X.
+url: http://jstalk.org/

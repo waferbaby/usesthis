@@ -1,4 +1,4 @@
 ---
-name: "Google Test"
-description: "A developer's test framework."
-url: "https://code.google.com/p/googletest/"
+name: Google Test
+description: A developer's test framework.
+url: https://code.google.com/p/googletest/

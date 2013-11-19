@@ -1,4 +1,4 @@
 ---
-name: "KDE"
-description: "A graphical environment for *nix operating systems."
-url: "http://www.kde.org/"
+name: KDE
+description: A graphical environment for *nix operating systems.
+url: http://www.kde.org/

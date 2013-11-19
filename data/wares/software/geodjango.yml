@@ -1,4 +1,4 @@
 ---
-name: "GeoDjango"
-description: "A geographic-based Python web framework."
-url: "http://geodjango.org/"
+name: GeoDjango
+description: A geographic-based Python web framework.
+url: http://geodjango.org/

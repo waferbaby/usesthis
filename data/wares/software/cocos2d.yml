@@ -1,4 +1,4 @@
 ---
-name: "cocos2d"
-description: "A framework for building 2D games and similar for the iPhone."
-url: "http://www.cocos2d-iphone.org/"
+name: cocos2d
+description: A framework for building 2D games and similar for the iPhone.
+url: http://www.cocos2d-iphone.org/

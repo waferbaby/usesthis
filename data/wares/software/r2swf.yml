@@ -1,4 +1,4 @@
 ---
-name: "R2SWF"
-description: "A tool for converting R graphics into Flash."
-url: "http://cran.r-project.org/web/packages/R2SWF/"
+name: R2SWF
+description: A tool for converting R graphics into Flash.
+url: http://cran.r-project.org/web/packages/R2SWF/

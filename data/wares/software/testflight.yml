@@ -1,4 +1,4 @@
 ---
-name: "TestFlight"
-description: "A service for managing testers of mobile apps in development."
-url: "https://www.testflightapp.com/"
+name: TestFlight
+description: A service for managing testers of mobile apps in development.
+url: https://www.testflightapp.com/

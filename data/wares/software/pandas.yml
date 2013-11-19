@@ -1,4 +1,4 @@
 ---
-name: "pandas"
-description: "A Python data analysis library."
-url: "http://pandas.pydata.org/"
+name: pandas
+description: A Python data analysis library.
+url: http://pandas.pydata.org/

@@ -1,4 +1,5 @@
 ---
-name: "parallel"
-description: "A command line tool for executing processing at the same time across computers."
-url: "http://www.gnu.org/software/parallel/"
+name: parallel
+description: A command line tool for executing processing at the same time across
+  computers.
+url: http://www.gnu.org/software/parallel/

@@ -1,4 +1,4 @@
 ---
-name: "Reading"
-description: "A service to keep track of what you're reading online."
-url: "http://reading.am/"
+name: Reading
+description: A service to keep track of what you're reading online.
+url: http://reading.am/

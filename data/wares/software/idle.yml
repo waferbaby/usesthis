@@ -1,4 +1,4 @@
 ---
-name: "IDLE"
-description: "A Python IDE written in Python."
-url: "http://docs.python.org/2/library/idle.html"
+name: IDLE
+description: A Python IDE written in Python.
+url: http://docs.python.org/2/library/idle.html

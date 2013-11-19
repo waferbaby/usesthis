@@ -1,4 +1,4 @@
 ---
-name: "PhotoStudio"
-description: "An image editor for Windows."
-url: "http://www.arcsoft.com/photostudio/"
+name: PhotoStudio
+description: An image editor for Windows.
+url: http://www.arcsoft.com/photostudio/

@@ -1,4 +1,4 @@
 ---
-name: "GHC"
-description: "An open-source Haskell compiler and interactive environment."
-url: "http://www.haskell.org/ghc/"
+name: GHC
+description: An open-source Haskell compiler and interactive environment.
+url: http://www.haskell.org/ghc/

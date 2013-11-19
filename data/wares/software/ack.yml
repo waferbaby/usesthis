@@ -1,4 +1,4 @@
 ---
-name: "ack"
-description: "A command-line tool for searching text."
-url: "http://betterthangrep.com/"
+name: ack
+description: A command-line tool for searching text.
+url: http://betterthangrep.com/

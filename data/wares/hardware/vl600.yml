@@ -1,4 +1,4 @@
 ---
-name: "VL600"
-description: "A 3G/4G dongle."
-url: "http://www.lg.com/us/aircards/lg-VL600"
+name: VL600
+description: A 3G/4G dongle.
+url: http://www.lg.com/us/aircards/lg-VL600

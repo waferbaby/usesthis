@@ -1,4 +1,4 @@
 ---
-name: "NetworkX"
-description: "A Python package for working with complex networks."
-url: "http://networkx.github.io/"
+name: NetworkX
+description: A Python package for working with complex networks.
+url: http://networkx.github.io/

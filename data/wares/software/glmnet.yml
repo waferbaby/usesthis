@@ -1,4 +1,4 @@
 ---
-name: "glmnet"
-description: "Linear modelling procedures for R."
-url: "http://cran.r-project.org/web/packages/glmnet/"
+name: glmnet
+description: Linear modelling procedures for R.
+url: http://cran.r-project.org/web/packages/glmnet/

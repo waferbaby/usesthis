@@ -1,4 +1,4 @@
 ---
-name: "Git"
-description: "A version control system."
-url: "http://git-scm.com/"
+name: Git
+description: A version control system.
+url: http://git-scm.com/

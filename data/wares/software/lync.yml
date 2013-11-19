@@ -1,4 +1,4 @@
 ---
-name: "Lync"
-description: "Chat software."
-url: "https://office.microsoft.com/en-us/lync/"
+name: Lync
+description: Chat software.
+url: https://office.microsoft.com/en-us/lync/

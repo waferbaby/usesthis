@@ -1,4 +1,4 @@
 ---
-name: "Maven"
-description: "Software project management softare."
-url: "http://maven.apache.org/"
+name: Maven
+description: Software project management softare.
+url: http://maven.apache.org/

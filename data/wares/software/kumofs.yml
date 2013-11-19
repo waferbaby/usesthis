@@ -1,4 +1,4 @@
 ---
-name: "Kumofs"
-description: "A distributed key/value storage system."
-url: "http://kumofs.sourceforge.net"
+name: Kumofs
+description: A distributed key/value storage system.
+url: http://kumofs.sourceforge.net

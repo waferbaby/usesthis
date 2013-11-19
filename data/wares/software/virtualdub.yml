@@ -1,4 +1,4 @@
 ---
-name: "VirtualDub"
-description: "A video capture and processing tool for Windows."
-url: "http://www.virtualdub.org/"
+name: VirtualDub
+description: A video capture and processing tool for Windows.
+url: http://www.virtualdub.org/

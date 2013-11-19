@@ -1,4 +1,4 @@
 ---
-name: "GtkRadiant"
-description: "A level editor for id games (Doom, Quake)."
-url: "http://icculus.org/gtkradiant/"
+name: GtkRadiant
+description: A level editor for id games (Doom, Quake).
+url: http://icculus.org/gtkradiant/

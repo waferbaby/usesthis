@@ -1,4 +1,4 @@
 ---
-name: "Chromium"
-description: "Open-source builds of the Chrome web browser."
-url: "http://code.google.com/chromium/"
+name: Chromium
+description: Open-source builds of the Chrome web browser.
+url: http://code.google.com/chromium/

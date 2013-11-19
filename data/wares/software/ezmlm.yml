@@ -1,4 +1,4 @@
 ---
-name: "ezmlm"
-description: "Mailing list management software."
-url: "http://www.ezmlm.org/"
+name: ezmlm
+description: Mailing list management software.
+url: http://www.ezmlm.org/

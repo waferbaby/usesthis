@@ -1,4 +1,4 @@
 ---
-name: "iTunes Remote"
-description: "A web interface for controlling iTunes."
-url: "http://code.iamcal.com/php/iTunesRemote/"
+name: iTunes Remote
+description: A web interface for controlling iTunes.
+url: http://code.iamcal.com/php/iTunesRemote/

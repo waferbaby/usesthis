@@ -1,4 +1,4 @@
 ---
-name: "FreeBSD"
-description: "An open source operating system."
-url: "http://freebsd.org/"
+name: FreeBSD
+description: An open source operating system.
+url: http://freebsd.org/

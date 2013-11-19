@@ -1,4 +1,4 @@
 ---
-name: "IDA Pro"
-description: "A multi-processor disassembler/debugger for Windows/Linux."
-url: "http://www.hex-rays.com/idapro/"
+name: IDA Pro
+description: A multi-processor disassembler/debugger for Windows/Linux.
+url: http://www.hex-rays.com/idapro/

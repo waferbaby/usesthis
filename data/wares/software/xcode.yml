@@ -1,4 +1,4 @@
 ---
-name: "XCode"
-description: "An IDE for Mac developers."
-url: "http://developer.apple.com/technology/tools.html"
+name: XCode
+description: An IDE for Mac developers.
+url: http://developer.apple.com/technology/tools.html

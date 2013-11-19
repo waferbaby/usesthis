@@ -1,4 +1,4 @@
 ---
-name: "Gimme Bar"
-description: "A web service for storing collections of things from the web."
-url: "http://gimmebar.com/"
+name: Gimme Bar
+description: A web service for storing collections of things from the web.
+url: http://gimmebar.com/

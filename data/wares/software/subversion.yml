@@ -1,4 +1,4 @@
 ---
-name: "Subversion"
-description: "A popular version control system."
-url: "http://subversion.tigris.org/"
+name: Subversion
+description: A popular version control system.
+url: http://subversion.tigris.org/

@@ -1,4 +1,5 @@
 ---
-name: "IFTTT"
-description: "A web service for applying rules to items, not unlike how you might filter your email."
-url: "http://ifttt.com/"
+name: IFTTT
+description: A web service for applying rules to items, not unlike how you might filter
+  your email.
+url: http://ifttt.com/

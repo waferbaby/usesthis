@@ -1,4 +1,4 @@
 ---
-name: "WolframTones"
-description: "An audio generating tool."
-url: "http://tones.wolfram.com/"
+name: WolframTones
+description: An audio generating tool.
+url: http://tones.wolfram.com/

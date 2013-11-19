@@ -1,4 +1,4 @@
 ---
-name: "VelociRaptor"
-description: "A very fast SATA hard drive."
-url: "http://www.wdc.com/en/products/products.aspx?id=20"
+name: VelociRaptor
+description: A very fast SATA hard drive.
+url: http://www.wdc.com/en/products/products.aspx?id=20

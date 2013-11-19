@@ -1,4 +1,4 @@
 ---
-name: "Nagios"
-description: "Software for monitoring hardware/software infrastructure."
-url: "http://www.nagios.org/"
+name: Nagios
+description: Software for monitoring hardware/software infrastructure.
+url: http://www.nagios.org/

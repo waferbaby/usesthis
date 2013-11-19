@@ -1,4 +1,4 @@
 ---
-name: "KMPlayer"
-description: "A media player for Windows."
-url: "https://en.wikipedia.org/wiki/The_KMPlayer"
+name: KMPlayer
+description: A media player for Windows.
+url: https://en.wikipedia.org/wiki/The_KMPlayer

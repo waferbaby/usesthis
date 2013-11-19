@@ -1,4 +1,4 @@
 ---
-name: "Debian"
-description: "A Linux distribution."
-url: "http://www.debian.org/"
+name: Debian
+description: A Linux distribution.
+url: http://www.debian.org/

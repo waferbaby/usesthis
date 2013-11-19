@@ -1,4 +1,4 @@
 ---
-name: "Sentry"
-description: "A realtime event logging tool for developers."
-url: "https://github.com/dcramer/sentry"
+name: Sentry
+description: A realtime event logging tool for developers.
+url: https://github.com/dcramer/sentry

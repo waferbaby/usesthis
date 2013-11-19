@@ -1,4 +1,4 @@
 ---
-name: "VIC-20"
-description: "An 8-bit computer."
-url: "https://en.wikipedia.org/wiki/Commodore_VIC-20"
+name: VIC-20
+description: An 8-bit computer.
+url: https://en.wikipedia.org/wiki/Commodore_VIC-20

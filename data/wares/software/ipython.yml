@@ -1,4 +1,4 @@
 ---
-name: "IPython"
-description: "An interactive shell for Python."
-url: "http://ipython.org/"
+name: IPython
+description: An interactive shell for Python.
+url: http://ipython.org/

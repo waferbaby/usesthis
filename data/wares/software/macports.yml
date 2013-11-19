@@ -1,4 +1,4 @@
 ---
-name: "MacPorts"
-description: "A collection of *nix software ported to Mac OS X."
-url: "http://www.macports.org/"
+name: MacPorts
+description: A collection of *nix software ported to Mac OS X.
+url: http://www.macports.org/

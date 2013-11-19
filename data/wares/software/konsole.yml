@@ -1,4 +1,4 @@
 ---
-name: "Konsole"
-description: "A terminal emulator for KDE."
-url: "http://konsole.kde.org/"
+name: Konsole
+description: A terminal emulator for KDE.
+url: http://konsole.kde.org/

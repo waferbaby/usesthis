@@ -1,4 +1,4 @@
 ---
-name: "Django"
-description: "A Python-based web framework."
-url: "http://www.djangoproject.com/"
+name: Django
+description: A Python-based web framework.
+url: http://www.djangoproject.com/

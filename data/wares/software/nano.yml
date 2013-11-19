@@ -1,4 +1,4 @@
 ---
-name: "nano"
-description: "A command line text editor."
-url: "http://www.nano-editor.org/"
+name: nano
+description: A command line text editor.
+url: http://www.nano-editor.org/

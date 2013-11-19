@@ -1,4 +1,4 @@
 ---
-name: "Readability"
-description: "A service for converting web pages into cleaner readable forms."
-url: "http://www.readability.com/"
+name: Readability
+description: A service for converting web pages into cleaner readable forms.
+url: http://www.readability.com/

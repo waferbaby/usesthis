@@ -1,4 +1,4 @@
 ---
-name: "gridMathematica"
-description: "A network distributed version of Mathematica."
-url: "http://www.wolfram.com/products/gridmathematica/"
+name: gridMathematica
+description: A network distributed version of Mathematica.
+url: http://www.wolfram.com/products/gridmathematica/

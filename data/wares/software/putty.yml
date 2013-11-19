@@ -1,4 +1,4 @@
 ---
-name: "PuTTY"
-description: "A free Telnet/SSH client for Windows."
-url: "http://www.chiark.greenend.org.uk/~sgtatham/putty/"
+name: PuTTY
+description: A free Telnet/SSH client for Windows.
+url: http://www.chiark.greenend.org.uk/~sgtatham/putty/

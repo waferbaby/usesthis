@@ -1,4 +1,4 @@
 ---
-name: "SoundHound"
-description: "A music discovery and searching service."
-url: "http://www.soundhound.com/"
+name: SoundHound
+description: A music discovery and searching service.
+url: http://www.soundhound.com/

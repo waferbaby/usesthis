@@ -1,4 +1,4 @@
 ---
-name: "WebHooks"
-description: "User-defined callbacks over HTTP."
-url: "http://www.webhooks.org/"
+name: WebHooks
+description: User-defined callbacks over HTTP.
+url: http://www.webhooks.org/

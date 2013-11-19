@@ -1,4 +1,4 @@
 ---
-name: "UA-25"
-description: "A USB audio capture device."
-url: "http://www.roland.com/products/en/UA-25/"
+name: UA-25
+description: A USB audio capture device.
+url: http://www.roland.com/products/en/UA-25/

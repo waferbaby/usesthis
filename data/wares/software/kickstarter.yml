@@ -1,4 +1,4 @@
 ---
-name: "Kickstarter"
-description: "A service for crowdfunding projects."
-url: "http://www.kickstarter.com/"
+name: Kickstarter
+description: A service for crowdfunding projects.
+url: http://www.kickstarter.com/

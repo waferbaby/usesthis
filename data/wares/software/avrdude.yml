@@ -1,4 +1,4 @@
 ---
-name: "avrdude"
-description: "A utility for changing the ROM and EEPROM of AVR microcontrollers."
-url: "https://github.com/piglop/avrdude"
+name: avrdude
+description: A utility for changing the ROM and EEPROM of AVR microcontrollers.
+url: https://github.com/piglop/avrdude

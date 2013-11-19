@@ -1,4 +1,4 @@
 ---
-name: "i-rocks"
-description: "A USB 2.0 hub."
-url: "http://www.i-rocks.com/Product_List.aspx?CLASS_ID=1036"
+name: i-rocks
+description: A USB 2.0 hub.
+url: http://www.i-rocks.com/Product_List.aspx?CLASS_ID=1036

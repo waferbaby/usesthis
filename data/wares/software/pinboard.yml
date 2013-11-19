@@ -1,4 +1,4 @@
 ---
-name: "Pinboard"
-description: "A bookmarking web service."
-url: "http://pinboard.in/"
+name: Pinboard
+description: A bookmarking web service.
+url: http://pinboard.in/

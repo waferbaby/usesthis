@@ -1,4 +1,4 @@
 ---
-name: "Flask"
-description: "A Python web framework."
-url: "http://flask.pocoo.org/"
+name: Flask
+description: A Python web framework.
+url: http://flask.pocoo.org/

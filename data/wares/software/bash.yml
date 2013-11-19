@@ -1,4 +1,4 @@
 ---
-name: "bash"
-description: "A popular terminal shell."
-url: "http://www.gnu.org/software/bash/"
+name: bash
+description: A popular terminal shell.
+url: http://www.gnu.org/software/bash/

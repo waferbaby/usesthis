@@ -1,4 +1,4 @@
 ---
-name: "FileZilla"
-description: "Open-source FTP software."
-url: "http://filezilla-project.org/"
+name: FileZilla
+description: Open-source FTP software.
+url: http://filezilla-project.org/

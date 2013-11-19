@@ -1,4 +1,4 @@
 ---
-name: "Vonage"
-description: "A VoIP service."
-url: "http://www.vonage.com/"
+name: Vonage
+description: A VoIP service.
+url: http://www.vonage.com/

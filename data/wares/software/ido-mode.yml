@@ -1,4 +1,4 @@
 ---
-name: "ido-mode"
-description: "An Emacs tool for interacting with buffers and files."
-url: "http://www.emacswiki.org/emacs/InteractivelyDoThings"
+name: ido-mode
+description: An Emacs tool for interacting with buffers and files.
+url: http://www.emacswiki.org/emacs/InteractivelyDoThings

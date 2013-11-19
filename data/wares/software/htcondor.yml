@@ -1,4 +1,4 @@
 ---
-name: "HTCondor"
-description: "Open-source distributed workload computing software."
-url: "http://research.cs.wisc.edu/htcondor/description.html"
+name: HTCondor
+description: Open-source distributed workload computing software.
+url: http://research.cs.wisc.edu/htcondor/description.html

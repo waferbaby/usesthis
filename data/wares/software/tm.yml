@@ -1,4 +1,4 @@
 ---
-name: "tm"
-description: "A text mining framework for R."
-url: "http://cran.r-project.org/web/packages/tm/"
+name: tm
+description: A text mining framework for R.
+url: http://cran.r-project.org/web/packages/tm/

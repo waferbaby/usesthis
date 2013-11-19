@@ -1,4 +1,4 @@
 ---
-name: "Printrun"
-description: "A 3D printer driver."
-url: "https://github.com/kliment/Printrun"
+name: Printrun
+description: A 3D printer driver.
+url: https://github.com/kliment/Printrun

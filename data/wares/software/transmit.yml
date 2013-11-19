@@ -1,4 +1,4 @@
 ---
-name: "Transmit"
-description: "An FTP/SFTP client for the Mac."
-url: "http://panic.com/transmit/"
+name: Transmit
+description: An FTP/SFTP client for the Mac.
+url: http://panic.com/transmit/

@@ -1,4 +1,4 @@
 ---
-name: "animation"
-description: "An animation package for R."
-url: "http://yihui.name/animation/"
+name: animation
+description: An animation package for R.
+url: http://yihui.name/animation/

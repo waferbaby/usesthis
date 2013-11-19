@@ -1,4 +1,4 @@
 ---
-name: "Mongrel"
-description: "A Ruby-based web server."
-url: "https://github.com/fauna/mongrel"
+name: Mongrel
+description: A Ruby-based web server.
+url: https://github.com/fauna/mongrel

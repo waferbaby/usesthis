@@ -1,4 +1,4 @@
 ---
-name: "Kayak"
-description: "A service for finding cheaper flights and accomodation."
-url: "http://www.kayak.com/"
+name: Kayak
+description: A service for finding cheaper flights and accomodation.
+url: http://www.kayak.com/

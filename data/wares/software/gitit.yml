@@ -1,4 +1,4 @@
 ---
-name: "Gitit"
-description: "A wiki system backed by Git, darcs or Mecurial."
-url: "http://gitit.net/"
+name: Gitit
+description: A wiki system backed by Git, darcs or Mecurial.
+url: http://gitit.net/

@@ -1,4 +1,4 @@
 ---
-name: "TweetDeck"
-description: "A popular multi-column Twitter client."
-url: "http://tweetdeck.com/"
+name: TweetDeck
+description: A popular multi-column Twitter client.
+url: http://tweetdeck.com/

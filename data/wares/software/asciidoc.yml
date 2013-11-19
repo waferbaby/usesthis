@@ -1,4 +1,4 @@
 ---
-name: "AsciiDoc"
-description: "A text file format and software that's easily translated to other formats."
-url: "http://www.methods.co.nz/asciidoc/"
+name: AsciiDoc
+description: A text file format and software that's easily translated to other formats.
+url: http://www.methods.co.nz/asciidoc/

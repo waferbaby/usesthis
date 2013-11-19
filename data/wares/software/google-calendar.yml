@@ -1,4 +1,4 @@
 ---
-name: "Google Calendar"
-description: "A web-based calendar client."
-url: "http://calendar.google.com/"
+name: Google Calendar
+description: A web-based calendar client.
+url: http://calendar.google.com/

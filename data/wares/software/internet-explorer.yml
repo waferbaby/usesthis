@@ -1,4 +1,4 @@
 ---
-name: "Internet Explorer"
-description: "A PC web browser."
-url: "http://www.microsoft.com/windows/internet-explorer/"
+name: Internet Explorer
+description: A PC web browser.
+url: http://www.microsoft.com/windows/internet-explorer/

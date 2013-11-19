@@ -1,4 +1,4 @@
 ---
-name: "SurveyMonkey"
-description: "An online survey service."
-url: "http://www.surveymonkey.com/"
+name: SurveyMonkey
+description: An online survey service.
+url: http://www.surveymonkey.com/
