@@ -1,7 +1,11 @@
 ---
-name: "Russ Cox"
-summary: "Software developer (Plan 9, RE2, Go)"
-categories: [developer, mac, software, windows]
+name: Russ Cox
+summary: Software developer (Plan 9, RE2, Go)
+categories:
+- developer
+- mac
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

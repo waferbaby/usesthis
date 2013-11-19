@@ -1,8 +1,12 @@
 ---
-name: "Tom Scott"
-summary: "Geek comedian"
-categories: [comedian, windows]
-credits: {name: "Cristiano Betta", url: "http://cristianobetta.com/"}
+name: Tom Scott
+summary: Geek comedian
+categories:
+- comedian
+- windows
+credits:
+  name: Cristiano Betta
+  url: http://cristianobetta.com/
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,9 @@
 ---
-name: "Shawn Blanc"
-summary: "Writer (shawnblanc.net)"
-categories: [mac, writer]
+name: Shawn Blanc
+summary: Writer (shawnblanc.net)
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

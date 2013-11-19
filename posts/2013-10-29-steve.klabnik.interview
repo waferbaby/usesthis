@@ -1,7 +1,11 @@
 ---
-name: "Steve Klabnik"
-summary: "Software developer"
-categories: [developer, linux, software, web]
+name: Steve Klabnik
+summary: Software developer
+categories:
+- developer
+- linux
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

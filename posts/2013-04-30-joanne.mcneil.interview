@@ -1,7 +1,10 @@
 ---
-name: "Joanne McNeil"
-summary: "Writer, editor"
-categories: [editor, mac, writer]
+name: Joanne McNeil
+summary: Writer, editor
+categories:
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

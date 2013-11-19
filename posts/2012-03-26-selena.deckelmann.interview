@@ -1,7 +1,11 @@
 ---
-name: "Selena Deckelmann"
-summary: "COO (Prime Radiant), PostgreSQL contributor"
-categories: [developer, mac, software, web]
+name: Selena Deckelmann
+summary: COO (Prime Radiant), PostgreSQL contributor
+categories:
+- developer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Karen Sandler"
-summary: "Software activist, executive director (GNOME)"
-categories: [lawyer, linux, software, suit]
+name: Karen Sandler
+summary: Software activist, executive director (GNOME)
+categories:
+- lawyer
+- linux
+- software
+- suit
 ---
 
 #### Who are you, and what do you do?

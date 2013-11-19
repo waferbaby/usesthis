@@ -1,7 +1,9 @@
 ---
-name: "Lisa Wade"
-summary: "Sociologist, professor"
-categories: [professor, windows]
+name: Lisa Wade
+summary: Sociologist, professor
+categories:
+- professor
+- windows
 ---
 
 #### Who are you, and what do you do?

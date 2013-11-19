@@ -1,7 +1,10 @@
 ---
-name: "Vijay Pande"
-summary: "Stanford professor, director of Folding@home"
-categories: [mac, professor, scientist]
+name: Vijay Pande
+summary: Stanford professor, director of Folding@home
+categories:
+- mac
+- professor
+- scientist
 ---
 
 #### Who are you, and what do you do?

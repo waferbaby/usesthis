@@ -1,7 +1,9 @@
 ---
-name: "Jason Forrest"
-summary: "Musician, founder (Network Awesome)"
-categories: [mac, musician]
+name: Jason Forrest
+summary: Musician, founder (Network Awesome)
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

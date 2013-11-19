@@ -1,7 +1,10 @@
 ---
-name: "Gabriel Weinberg"
-summary: "Web developer, founder of DuckDuckGo"
-categories: [developer, web, windows]
+name: Gabriel Weinberg
+summary: Web developer, founder of DuckDuckGo
+categories:
+- developer
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

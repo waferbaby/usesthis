@@ -1,7 +1,11 @@
 ---
-name: "Yusuke Endoh"
-summary: "Quine fan and software developer (Ruby)"
-categories: [developer, linux, software, windows]
+name: Yusuke Endoh
+summary: Quine fan and software developer (Ruby)
+categories:
+- developer
+- linux
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

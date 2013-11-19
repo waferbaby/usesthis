@@ -1,8 +1,11 @@
 ---
-name: "Colleen Wainwright"
-summary: "Writer, speaker, consultant"
-categories: [mac, writer]
-credits: {name: "Chris Glass"}
+name: Colleen Wainwright
+summary: Writer, speaker, consultant
+categories:
+- mac
+- writer
+credits:
+  name: Chris Glass
 ---
 
 #### Who are you, and what do you do?

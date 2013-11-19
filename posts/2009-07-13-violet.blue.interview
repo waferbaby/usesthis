@@ -1,7 +1,10 @@
 ---
-name: "Violet Blue"
-summary: "Writer, speaker, sex educator"
-categories: [mac, sex, writer]
+name: Violet Blue
+summary: Writer, speaker, sex educator
+categories:
+- mac
+- sex
+- writer
 ---
 
 #### Who are you, and what do you do?

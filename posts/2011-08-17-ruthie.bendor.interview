@@ -1,7 +1,12 @@
 ---
-name: "Ruthie BenDor"
-summary: "Web designer/developer"
-categories: [biker, designer, developer, mac, web]
+name: Ruthie BenDor
+summary: Web designer/developer
+categories:
+- biker
+- designer
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Michael Natkin"
-summary: "Software developer, cook"
-categories: [developer, food, mac, software]
+name: Michael Natkin
+summary: Software developer, cook
+categories:
+- developer
+- food
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

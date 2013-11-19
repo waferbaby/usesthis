@@ -1,7 +1,9 @@
 ---
-name: "Michael Raphael"
-summary: "Sound effects recordist (Rabbit Ears Audio)"
-categories: [audio, mac]
+name: Michael Raphael
+summary: Sound effects recordist (Rabbit Ears Audio)
+categories:
+- audio
+- mac
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "Máirín Duffy"
-summary: "UI designer, usability tester (Red Hat, Fedora)"
-categories: [designer, linux, usability]
+name: Máirín Duffy
+summary: UI designer, usability tester (Red Hat, Fedora)
+categories:
+- designer
+- linux
+- usability
 ---
 
 #### Who are you, and what do you do?

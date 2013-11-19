@@ -1,7 +1,10 @@
 ---
-name: "Dana Contreras"
-summary: "Systems engineer (Twitter), pilot"
-categories: [developer, mac, web]
+name: Dana Contreras
+summary: Systems engineer (Twitter), pilot
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

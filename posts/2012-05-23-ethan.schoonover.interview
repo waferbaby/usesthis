@@ -1,7 +1,11 @@
 ---
-name: "Ethan Schoonover"
-summary: "Designer, developer (Kinkless, Solarized)"
-categories: [designer, developer, linux, mac]
+name: Ethan Schoonover
+summary: Designer, developer (Kinkless, Solarized)
+categories:
+- designer
+- developer
+- linux
+- mac
 ---
 
 #### Who are you, and what do you do?

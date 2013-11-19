@@ -1,7 +1,10 @@
 ---
-name: "Martin Kool"
-summary: "HTML5 rocket surgeon, underpants gnome"
-categories: [developer, web, windows]
+name: Martin Kool
+summary: HTML5 rocket surgeon, underpants gnome
+categories:
+- developer
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

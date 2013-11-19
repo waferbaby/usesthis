@@ -1,7 +1,10 @@
 ---
-name: "Mike Krieger"
-summary: "Co-founder of Instagram"
-categories: [developer, mac, software]
+name: Mike Krieger
+summary: Co-founder of Instagram
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

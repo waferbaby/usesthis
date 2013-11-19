@@ -1,7 +1,12 @@
 ---
-name: "Stephen Wolfram"
-summary: "Scientist, developer, mathematician"
-categories: [developer, mac, scientist, software, windows]
+name: Stephen Wolfram
+summary: Scientist, developer, mathematician
+categories:
+- developer
+- mac
+- scientist
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

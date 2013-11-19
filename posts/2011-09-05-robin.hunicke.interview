@@ -1,7 +1,10 @@
 ---
-name: "Robin Hunicke"
-summary: "Game designer/producer (thatgamecompany)"
-categories: [designer, game, windows]
+name: Robin Hunicke
+summary: Game designer/producer (thatgamecompany)
+categories:
+- designer
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

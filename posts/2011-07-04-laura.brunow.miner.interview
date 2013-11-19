@@ -1,7 +1,10 @@
 ---
-name: "Laura Brunow Miner"
-summary: "Editor, designer, event inventor (Pictory, Phoot Camp)"
-categories: [designer, editor, mac]
+name: Laura Brunow Miner
+summary: Editor, designer, event inventor (Pictory, Phoot Camp)
+categories:
+- designer
+- editor
+- mac
 ---
 
 #### Who are you, and what do you do?

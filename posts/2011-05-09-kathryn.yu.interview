@@ -1,7 +1,9 @@
 ---
-name: "Kathryn Yu"
-summary: "Photographer"
-categories: [mac, photographer]
+name: Kathryn Yu
+summary: Photographer
+categories:
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

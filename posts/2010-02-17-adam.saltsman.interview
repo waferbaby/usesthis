@@ -1,7 +1,10 @@
 ---
-name: "Adam Saltsman"
-summary: "Game designer (Canabalt)"
-categories: [designer, game, mac]
+name: Adam Saltsman
+summary: Game designer (Canabalt)
+categories:
+- designer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

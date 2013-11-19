@@ -1,7 +1,11 @@
 ---
-name: "Kieran Healy"
-summary: "Sociologist"
-categories: [mac, professor, researcher, scientist]
+name: Kieran Healy
+summary: Sociologist
+categories:
+- mac
+- professor
+- researcher
+- scientist
 ---
 
 #### Who are you, and what do you do?

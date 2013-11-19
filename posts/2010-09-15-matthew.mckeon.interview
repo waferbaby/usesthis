@@ -1,7 +1,11 @@
 ---
-name: "Matthew Mckeon"
-summary: "Developer (IBM Visual Communication Lab)"
-categories: [developer, linux, mac, software]
+name: Matthew Mckeon
+summary: Developer (IBM Visual Communication Lab)
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

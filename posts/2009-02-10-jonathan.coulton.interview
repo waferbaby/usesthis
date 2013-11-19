@@ -1,7 +1,9 @@
 ---
-name: "Jonathan Coulton"
-summary: "Internet musical superstar"
-categories: [mac, musician]
+name: Jonathan Coulton
+summary: Internet musical superstar
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

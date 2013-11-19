@@ -1,7 +1,9 @@
 ---
-name: "Sam Brown"
-summary: "Illustrator (Exploding Dog)"
-categories: [artist, mac]
+name: Sam Brown
+summary: Illustrator (Exploding Dog)
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

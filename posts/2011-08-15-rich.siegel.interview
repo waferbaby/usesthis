@@ -1,7 +1,10 @@
 ---
-name: "Rich Siegel"
-summary: "Developer and co-founder, Bare Bones Software"
-categories: [developer, mac, software]
+name: Rich Siegel
+summary: Developer and co-founder, Bare Bones Software
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

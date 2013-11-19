@@ -1,7 +1,11 @@
 ---
-name: "Claire Robertson"
-summary: "Writer, illustrator, crafter"
-categories: [crafter, illustrator, mac, writer]
+name: Claire Robertson
+summary: Writer, illustrator, crafter
+categories:
+- crafter
+- illustrator
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

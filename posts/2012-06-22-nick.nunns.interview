@@ -1,7 +1,9 @@
 ---
-name: "Nick Nunns"
-summary: "Owner, brewer (TRVE Brewing Company)"
-categories: [beer, mac]
+name: Nick Nunns
+summary: Owner, brewer (TRVE Brewing Company)
+categories:
+- beer
+- mac
 ---
 
 #### Who are you, and what do you do?

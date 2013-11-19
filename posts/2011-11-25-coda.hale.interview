@@ -1,8 +1,13 @@
 ---
-name: "Coda Hale"
-summary: "Infrastructure architect (Yammer)"
-categories: [developer, mac, software]
-credits: {name: "Dave Fayram", url: "http://www.flickr.com/photos/davefayram/4329110146/"}
+name: Coda Hale
+summary: Infrastructure architect (Yammer)
+categories:
+- developer
+- mac
+- software
+credits:
+  name: Dave Fayram
+  url: http://www.flickr.com/photos/davefayram/4329110146/
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "Joel Johnson"
-summary: "Writer"
-categories: [mac, windows, writer]
+name: Joel Johnson
+summary: Writer
+categories:
+- mac
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

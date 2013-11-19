@@ -1,7 +1,11 @@
 ---
-name: "Adrian Holovaty"
-summary: "Web developer (EveryBlock, Django), musician"
-categories: [developer, mac, musician, web]
+name: Adrian Holovaty
+summary: Web developer (EveryBlock, Django), musician
+categories:
+- developer
+- mac
+- musician
+- web
 ---
 
 #### Who are you, and what do you do?

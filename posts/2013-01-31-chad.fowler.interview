@@ -1,7 +1,12 @@
 ---
-name: "Chad Fowler"
-summary: "Programmer, musician, author, speaker"
-categories: [developer, linux, mac, software, writer]
+name: Chad Fowler
+summary: Programmer, musician, author, speaker
+categories:
+- developer
+- linux
+- mac
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

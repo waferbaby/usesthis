@@ -1,7 +1,12 @@
 ---
-name: "Aaron Boodman"
-summary: "Developer (Greasemonkey, Google Chrome)"
-categories: [developer, linux, mac, software, windows]
+name: Aaron Boodman
+summary: Developer (Greasemonkey, Google Chrome)
+categories:
+- developer
+- linux
+- mac
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

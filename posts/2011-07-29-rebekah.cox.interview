@@ -1,7 +1,10 @@
 ---
-name: "Rebekah Cox"
-summary: "Product designer (Quora)"
-categories: [designer, mac, web]
+name: Rebekah Cox
+summary: Product designer (Quora)
+categories:
+- designer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

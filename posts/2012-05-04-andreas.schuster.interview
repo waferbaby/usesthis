@@ -1,7 +1,9 @@
 ---
-name: "Andreas Schuster"
-summary: "Illustrator"
-categories: [illustrator, mac]
+name: Andreas Schuster
+summary: Illustrator
+categories:
+- illustrator
+- mac
 ---
 
 #### Who are you, and what do you do?

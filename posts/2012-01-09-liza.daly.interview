@@ -1,7 +1,10 @@
 ---
-name: "Liza Daly"
-summary: "Software engineer, President of Threepress"
-categories: [mac, software, web]
+name: Liza Daly
+summary: Software engineer, President of Threepress
+categories:
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

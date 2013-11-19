@@ -1,7 +1,10 @@
 ---
-name: "Henry Smith"
-summary: "Indie game developer (Spaceteam)"
-categories: [developer, game, mac]
+name: Henry Smith
+summary: Indie game developer (Spaceteam)
+categories:
+- developer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

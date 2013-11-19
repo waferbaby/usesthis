@@ -1,7 +1,9 @@
 ---
-name: "Boone Speed"
-summary: "Photographer, climber"
-categories: [mac, photographer]
+name: Boone Speed
+summary: Photographer, climber
+categories:
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

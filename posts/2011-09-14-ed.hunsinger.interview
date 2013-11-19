@@ -1,7 +1,11 @@
 ---
-name: "Ed Hunsinger"
-summary: "Developer, blogger, fire artist"
-categories: [artist, developer, mac, web]
+name: Ed Hunsinger
+summary: Developer, blogger, fire artist
+categories:
+- artist
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

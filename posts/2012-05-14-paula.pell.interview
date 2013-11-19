@@ -1,7 +1,10 @@
 ---
-name: "Paula Pell"
-summary: "Actor (30 Rock, Parks and Recreation), writer (SNL)"
-categories: [actor, mac, writer]
+name: Paula Pell
+summary: Actor (30 Rock, Parks and Recreation), writer (SNL)
+categories:
+- actor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

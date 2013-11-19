@@ -1,7 +1,11 @@
 ---
-name: "Abby Seymour"
-summary: "Bookbinder, jewelry maker"
-categories: [artist, bookbinder, jeweller, mac]
+name: Abby Seymour
+summary: Bookbinder, jewelry maker
+categories:
+- artist
+- bookbinder
+- jeweller
+- mac
 ---
 
 #### Who are you, and what do you do?

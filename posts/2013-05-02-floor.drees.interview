@@ -1,7 +1,10 @@
 ---
-name: "Floor Drees"
-summary: "Junior developer, education aficionado"
-categories: [developer, mac, web]
+name: Floor Drees
+summary: Junior developer, education aficionado
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

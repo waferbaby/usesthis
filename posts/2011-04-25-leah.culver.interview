@@ -1,7 +1,11 @@
 ---
-name: "Leah Culver"
-summary: "Developer (Convore, Pownce)"
-categories: [developer, mac, software, web]
+name: Leah Culver
+summary: Developer (Convore, Pownce)
+categories:
+- developer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

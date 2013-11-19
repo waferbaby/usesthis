@@ -1,7 +1,12 @@
 ---
-name: "Vaughn Royko"
-summary: "Web designer, indie game developer"
-categories: [developer, game, mac, web, windows]
+name: Vaughn Royko
+summary: Web designer, indie game developer
+categories:
+- developer
+- game
+- mac
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

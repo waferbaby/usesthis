@@ -1,7 +1,10 @@
 ---
-name: "David Heinemeier Hansson"
-summary: "Software developer (37signals)"
-categories: [developer, mac, web]
+name: David Heinemeier Hansson
+summary: Software developer (37signals)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

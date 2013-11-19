@@ -1,7 +1,11 @@
 ---
-name: "Julian Bleecker"
-summary: "Designer, technologist (Near Future Laboratory)"
-categories: [designer, mac, photographer, technologist]
+name: Julian Bleecker
+summary: Designer, technologist (Near Future Laboratory)
+categories:
+- designer
+- mac
+- photographer
+- technologist
 ---
 
 #### Who are you, and what do you do?

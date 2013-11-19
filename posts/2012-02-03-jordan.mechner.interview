@@ -1,7 +1,11 @@
 ---
-name: "Jordan Mechner"
-summary: "Game designer (Prince of Persia), screenwriter"
-categories: [designer, game, mac, writer]
+name: Jordan Mechner
+summary: Game designer (Prince of Persia), screenwriter
+categories:
+- designer
+- game
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

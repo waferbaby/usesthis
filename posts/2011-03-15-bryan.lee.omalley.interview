@@ -1,7 +1,9 @@
 ---
-name: "Bryan Lee O'Malley"
-summary: "Cartoonist (Scott Pilgrim)"
-categories: [artist, mac]
+name: Bryan Lee O'Malley
+summary: Cartoonist (Scott Pilgrim)
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

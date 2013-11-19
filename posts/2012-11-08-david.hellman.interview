@@ -1,8 +1,11 @@
 ---
-name: "David Hellman"
-summary: "Digital painter for games, comics, animation"
-categories: [artist, mac]
-credits: {name: "Ryan O'Donnell"}
+name: David Hellman
+summary: Digital painter for games, comics, animation
+categories:
+- artist
+- mac
+credits:
+  name: Ryan O'Donnell
 ---
 
 #### Who are you, and what do you do?

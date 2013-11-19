@@ -1,7 +1,10 @@
 ---
-name: "Ann Friedman"
-summary: "Journalist (New York magazine, Tomorrow)"
-categories: [editor, journalist, mac]
+name: Ann Friedman
+summary: Journalist (New York magazine, Tomorrow)
+categories:
+- editor
+- journalist
+- mac
 ---
 
 #### Who are you, and what do you do?

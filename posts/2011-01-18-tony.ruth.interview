@@ -1,7 +1,10 @@
 ---
-name: "Tony Ruth"
-summary: "Illustrator"
-categories: [artist, designer, mac]
+name: Tony Ruth
+summary: Illustrator
+categories:
+- artist
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,8 @@
 ---
-name: "John Battaglia"
-summary: "Coffee roaster"
-categories: [coffee]
+name: John Battaglia
+summary: Coffee roaster
+categories:
+- coffee
 ---
 
 #### Who are you, and what do you do?
@@ -22,4 +23,4 @@ A roast curve is logged for each batch, along with other information relevant to
 
 #### What would be your dream setup?
 
-My dream setup would be what I'm currently working on, but outdoors with fresh air. 
+My dream setup would be what I'm currently working on, but outdoors with fresh air.

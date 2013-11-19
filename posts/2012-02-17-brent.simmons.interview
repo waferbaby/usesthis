@@ -1,7 +1,11 @@
 ---
-name: "Brent Simmons"
-summary: "Mac, web developer (Glassboard, ex-NetNewsWire)"
-categories: [developer, mac, software, web]
+name: Brent Simmons
+summary: Mac, web developer (Glassboard, ex-NetNewsWire)
+categories:
+- developer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

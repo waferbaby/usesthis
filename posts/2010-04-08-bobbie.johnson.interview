@@ -1,8 +1,13 @@
 ---
-name: "Bobbie Johnson"
-summary: "Writer"
-categories: [journalist, mac, writer]
-credits: {name: "Meg Pickard", url: "http://www.flickr.com/photos/meg/"}
+name: Bobbie Johnson
+summary: Writer
+categories:
+- journalist
+- mac
+- writer
+credits:
+  name: Meg Pickard
+  url: http://www.flickr.com/photos/meg/
 ---
 
 #### Who are you, and what do you do?

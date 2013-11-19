@@ -1,7 +1,11 @@
 ---
-name: "Ramsey Nasser"
-summary: "Computer scientist, game designer"
-categories: [developer, game, mac, scientist]
+name: Ramsey Nasser
+summary: Computer scientist, game designer
+categories:
+- developer
+- game
+- mac
+- scientist
 ---
 
 #### Who are you, and what do you do?

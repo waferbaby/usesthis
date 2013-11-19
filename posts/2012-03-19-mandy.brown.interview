@@ -1,7 +1,11 @@
 ---
-name: "Mandy Brown"
-summary: "Designer, writer, editor (A Book Apart)"
-categories: [designer, editor, mac, writer]
+name: Mandy Brown
+summary: Designer, writer, editor (A Book Apart)
+categories:
+- designer
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

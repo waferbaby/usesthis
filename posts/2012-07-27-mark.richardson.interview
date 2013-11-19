@@ -1,7 +1,9 @@
 ---
-name: "Mark Richardson"
-summary: "Editor-in-chief (Pitchfork)"
-categories: [editor, mac]
+name: Mark Richardson
+summary: Editor-in-chief (Pitchfork)
+categories:
+- editor
+- mac
 ---
 
 #### Who are you, and what do you do?

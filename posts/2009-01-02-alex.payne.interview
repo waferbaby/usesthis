@@ -1,7 +1,10 @@
 ---
-name: "Alex Payne"
-summary: "Developer, API bitch at Twitter"
-categories: [developer, mac, web]
+name: Alex Payne
+summary: Developer, API bitch at Twitter
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

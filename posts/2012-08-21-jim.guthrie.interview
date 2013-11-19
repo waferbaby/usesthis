@@ -1,7 +1,9 @@
 ---
-name: "Jim Guthrie"
-summary: "Musician (Sword & Sworcery, Sound Shapes)"
-categories: [mac, musician]
+name: Jim Guthrie
+summary: Musician (Sword & Sworcery, Sound Shapes)
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

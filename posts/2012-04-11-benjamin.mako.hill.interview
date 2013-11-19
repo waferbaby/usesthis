@@ -1,7 +1,11 @@
 ---
-name: "Benjamin Mako Hill"
-summary: "Social scientist, free software hacker (MIT)"
-categories: [hacker, linux, social, software]
+name: Benjamin Mako Hill
+summary: Social scientist, free software hacker (MIT)
+categories:
+- hacker
+- linux
+- social
+- software
 ---
 
 #### Who are you, and what do you do?

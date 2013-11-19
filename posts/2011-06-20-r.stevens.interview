@@ -1,7 +1,9 @@
 ---
-name: "r. stevens"
-summary: "Cartoonist (Diesel Sweeties)"
-categories: [artist, mac]
+name: r. stevens
+summary: Cartoonist (Diesel Sweeties)
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

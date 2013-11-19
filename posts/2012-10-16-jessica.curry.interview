@@ -1,7 +1,9 @@
 ---
-name: "Jessica Curry"
-summary: "Music composer, co-director (thechineseroom)"
-categories: [mac, musician]
+name: Jessica Curry
+summary: Music composer, co-director (thechineseroom)
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

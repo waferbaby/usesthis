@@ -1,7 +1,9 @@
 ---
-name: "Kevin Meredith"
-summary: "Photographer, teacher"
-categories: [mac, photographer]
+name: Kevin Meredith
+summary: Photographer, teacher
+categories:
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

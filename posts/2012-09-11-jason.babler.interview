@@ -1,7 +1,10 @@
 ---
-name: "Jason Babler"
-summary: "Creative Director (MAKE), sculptor"
-categories: [artist, designer, mac]
+name: Jason Babler
+summary: Creative Director (MAKE), sculptor
+categories:
+- artist
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

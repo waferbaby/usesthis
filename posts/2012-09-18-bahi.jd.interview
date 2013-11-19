@@ -1,7 +1,9 @@
 ---
-name: "Bahi JD"
-summary: "Freelance animator"
-categories: [animator, mac]
+name: Bahi JD
+summary: Freelance animator
+categories:
+- animator
+- mac
 ---
 
 #### Who are you, and what do you do?

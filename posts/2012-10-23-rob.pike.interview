@@ -1,7 +1,10 @@
 ---
-name: "Rob Pike"
-summary: "Software developer (Unix, Plan 9)"
-categories: [developer, linux, mac]
+name: Rob Pike
+summary: Software developer (Unix, Plan 9)
+categories:
+- developer
+- linux
+- mac
 ---
 
 #### Who are you, and what do you do?

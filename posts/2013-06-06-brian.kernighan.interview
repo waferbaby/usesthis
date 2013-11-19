@@ -1,7 +1,12 @@
 ---
-name: "Brian Kernighan"
-summary: "Computer scientist (Unix), writer"
-categories: [developer, mac, software, teacher, writer]
+name: Brian Kernighan
+summary: Computer scientist (Unix), writer
+categories:
+- developer
+- mac
+- software
+- teacher
+- writer
 ---
 
 #### Who are you, and what do you do?

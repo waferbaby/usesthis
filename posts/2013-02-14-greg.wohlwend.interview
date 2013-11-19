@@ -1,7 +1,10 @@
 ---
-name: "Greg Wohlwend"
-summary: "Game designer (Hundreds, Gasketball, Solipskier)"
-categories: [designer, game, mac]
+name: Greg Wohlwend
+summary: Game designer (Hundreds, Gasketball, Solipskier)
+categories:
+- designer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

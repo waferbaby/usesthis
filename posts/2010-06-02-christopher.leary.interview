@@ -1,7 +1,9 @@
 ---
-name: "Christopher Leary"
-summary: "Musician (Ochre)"
-categories: [musician, windows]
+name: Christopher Leary
+summary: Musician (Ochre)
+categories:
+- musician
+- windows
 ---
 
 #### Who are you, and what do you do?

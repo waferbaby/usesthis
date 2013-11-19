@@ -1,7 +1,12 @@
 ---
-name: "Mark Nottingham"
-summary: "Web infrastructure developer (Atom, HTTP)"
-categories: [developer, linux, mac, photographer, web]
+name: Mark Nottingham
+summary: Web infrastructure developer (Atom, HTTP)
+categories:
+- developer
+- linux
+- mac
+- photographer
+- web
 ---
 
 #### Who are you, and what do you do?

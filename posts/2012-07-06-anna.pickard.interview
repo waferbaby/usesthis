@@ -1,8 +1,14 @@
 ---
-name: "Anna Pickard"
-summary: "Writer (The Guardian, Glitch)"
-categories: [game, journalist, mac, writer]
-credits: {name: "Bobbie Johnson", url: "http://www.flickr.com/photos/bojo/5438535875/"}
+name: Anna Pickard
+summary: Writer (The Guardian, Glitch)
+categories:
+- game
+- journalist
+- mac
+- writer
+credits:
+  name: Bobbie Johnson
+  url: http://www.flickr.com/photos/bojo/5438535875/
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Garrett Murray"
-summary: "Film maker, creator of Ego"
-categories: [developer, film, mac, software]
+name: Garrett Murray
+summary: Film maker, creator of Ego
+categories:
+- developer
+- film
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

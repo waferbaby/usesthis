@@ -1,7 +1,11 @@
 ---
-name: "Matt Neuburg"
-summary: "Developer, writer, contributing editor (TidBITS)"
-categories: [developer, editor, software, writer]
+name: Matt Neuburg
+summary: Developer, writer, contributing editor (TidBITS)
+categories:
+- developer
+- editor
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

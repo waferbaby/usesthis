@@ -1,7 +1,11 @@
 ---
-name: "Kate Matsudaira"
-summary: "Hacker, speaker (Decide)"
-categories: [developer, mac, suit, web]
+name: Kate Matsudaira
+summary: Hacker, speaker (Decide)
+categories:
+- developer
+- mac
+- suit
+- web
 ---
 
 #### Who are you, and what do you do?

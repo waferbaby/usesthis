@@ -1,7 +1,9 @@
 ---
-name: "Jim Giles"
-summary: "Journalist, co-founder of Matter"
-categories: [journalist, mac]
+name: Jim Giles
+summary: Journalist, co-founder of Matter
+categories:
+- journalist
+- mac
 ---
 
 #### Who are you, and what do you do?

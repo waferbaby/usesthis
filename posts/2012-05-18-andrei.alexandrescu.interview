@@ -1,7 +1,11 @@
 ---
-name: "Andrei Alexandrescu"
-summary: "Research scientist (Facebook)"
-categories: [linux, mac, researcher, scientist]
+name: Andrei Alexandrescu
+summary: Research scientist (Facebook)
+categories:
+- linux
+- mac
+- researcher
+- scientist
 ---
 
 #### Who are you, and what do you do?

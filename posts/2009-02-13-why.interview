@@ -1,7 +1,11 @@
 ---
-name: "why the lucky stiff"
-summary: "Internet rodent"
-categories: [developer, mac, web, windows]
+name: why the lucky stiff
+summary: Internet rodent
+categories:
+- developer
+- mac
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

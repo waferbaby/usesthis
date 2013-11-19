@@ -1,7 +1,10 @@
 ---
-name: "Cheryl Klein"
-summary: "Writer, book editor (Scholastic)"
-categories: [editor, mac, writer]
+name: Cheryl Klein
+summary: Writer, book editor (Scholastic)
+categories:
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

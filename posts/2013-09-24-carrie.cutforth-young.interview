@@ -1,7 +1,11 @@
 ---
-name: "Carrie Cutforth-Young"
-summary: "Professional storyteller, producer, community builder"
-categories: [community, producer, windows, writer]
+name: Carrie Cutforth-Young
+summary: Professional storyteller, producer, community builder
+categories:
+- community
+- producer
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

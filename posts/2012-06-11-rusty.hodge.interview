@@ -1,7 +1,12 @@
 ---
-name: "Rusty Hodge"
-summary: "Founder and general manager (SomaFM)"
-categories: [audio, developer, mac, suit, web]
+name: Rusty Hodge
+summary: Founder and general manager (SomaFM)
+categories:
+- audio
+- developer
+- mac
+- suit
+- web
 ---
 
 #### Who are you, and what do you do?

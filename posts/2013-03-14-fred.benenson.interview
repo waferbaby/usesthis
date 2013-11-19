@@ -1,7 +1,10 @@
 ---
-name: "Fred Benenson"
-summary: "Data researcher (Kickstarter)"
-categories: [data, developer, mac]
+name: Fred Benenson
+summary: Data researcher (Kickstarter)
+categories:
+- data
+- developer
+- mac
 ---
 
 #### Who are you, and what do you do?

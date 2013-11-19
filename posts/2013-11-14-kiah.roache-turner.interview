@@ -1,7 +1,9 @@
 ---
-name: "Kiah Roache-Turner"
-summary: "Feature film-maker (Wyrmwood)"
-categories: [film, mac]
+name: Kiah Roache-Turner
+summary: Feature film-maker (Wyrmwood)
+categories:
+- film
+- mac
 ---
 
 #### Who are you, and what do you do?

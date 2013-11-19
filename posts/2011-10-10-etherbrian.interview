@@ -1,7 +1,10 @@
 ---
-name: "etherbrian"
-summary: "Illustrator, icon artist (Gowalla)"
-categories: [artist, icon, mac]
+name: etherbrian
+summary: Illustrator, icon artist (Gowalla)
+categories:
+- artist
+- icon
+- mac
 ---
 
 #### Who are you, and what do you do?

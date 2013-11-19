@@ -1,7 +1,10 @@
 ---
-name: "Dan Hill"
-summary: "Designer, CEO (Fabrica)"
-categories: [designer, mac, suit]
+name: Dan Hill
+summary: Designer, CEO (Fabrica)
+categories:
+- designer
+- mac
+- suit
 ---
 
 #### Who are you, and what do you do?

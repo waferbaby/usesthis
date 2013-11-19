@@ -1,7 +1,10 @@
 ---
-name: "Cory Schmitz"
-summary: "Graphic designer, illustrator"
-categories: [designer, illustrator, mac]
+name: Cory Schmitz
+summary: Graphic designer, illustrator
+categories:
+- designer
+- illustrator
+- mac
 ---
 
 #### Who are you, and what do you do?

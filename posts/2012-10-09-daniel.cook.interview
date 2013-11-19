@@ -1,7 +1,11 @@
 ---
-name: "Daniel Cook"
-summary: "Chief Creative Officer, Spry Fox"
-categories: [designer, developer, game, windows]
+name: Daniel Cook
+summary: Chief Creative Officer, Spry Fox
+categories:
+- designer
+- developer
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

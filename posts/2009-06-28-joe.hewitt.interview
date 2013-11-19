@@ -1,7 +1,10 @@
 ---
-name: "Joe Hewitt"
-summary: "Creator of Firebug, iPhone developer (Facebook)"
-categories: [developer, mac, software]
+name: Joe Hewitt
+summary: Creator of Firebug, iPhone developer (Facebook)
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

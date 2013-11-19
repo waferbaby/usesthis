@@ -1,7 +1,10 @@
 ---
-name: "Bert Kersey"
-summary: "Apple II developer, bird fancier"
-categories: [developer, mac, software]
+name: Bert Kersey
+summary: Apple II developer, bird fancier
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

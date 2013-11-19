@@ -1,7 +1,11 @@
 ---
-name: "Paul Tweedy"
-summary: "Senior Technical Architect, BBC"
-categories: [developer, mac, musician, web]
+name: Paul Tweedy
+summary: Senior Technical Architect, BBC
+categories:
+- developer
+- mac
+- musician
+- web
 ---
 
 #### Who are you, and what do you do?

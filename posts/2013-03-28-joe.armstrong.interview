@@ -1,7 +1,11 @@
 ---
-name: "Joe Armstrong"
-summary: "Software developer (Erlang)"
-categories: [developer, linux, mac, software]
+name: Joe Armstrong
+summary: Software developer (Erlang)
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

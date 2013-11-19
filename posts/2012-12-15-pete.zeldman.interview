@@ -1,7 +1,9 @@
 ---
-name: "Pete Zeldman"
-summary: "Drummer"
-categories: [mac, musician]
+name: Pete Zeldman
+summary: Drummer
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

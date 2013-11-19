@@ -1,7 +1,9 @@
 ---
-name: "Douglas Rushkoff"
-summary: "Media theorist, writer"
-categories: [mac, writer]
+name: Douglas Rushkoff
+summary: Media theorist, writer
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

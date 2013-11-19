@@ -1,7 +1,10 @@
 ---
-name: "Justin Frankel"
-summary: "Software developer (Winamp, REAPER)"
-categories: [developer, mac, windows]
+name: Justin Frankel
+summary: Software developer (Winamp, REAPER)
+categories:
+- developer
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

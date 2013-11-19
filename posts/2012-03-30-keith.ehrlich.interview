@@ -1,7 +1,9 @@
 ---
-name: "Keith Ehrlich"
-summary: "Filmmaker (Made by Hand)"
-categories: [film, mac]
+name: Keith Ehrlich
+summary: Filmmaker (Made by Hand)
+categories:
+- film
+- mac
 ---
 
 #### Who are you, and what do you do?

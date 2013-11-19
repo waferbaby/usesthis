@@ -1,7 +1,11 @@
 ---
-name: "Elaine Short"
-summary: "Writer, editor, cartoonist"
-categories: [artist, editor, mac, writer]
+name: Elaine Short
+summary: Writer, editor, cartoonist
+categories:
+- artist
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

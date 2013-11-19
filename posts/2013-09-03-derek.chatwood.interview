@@ -1,7 +1,11 @@
 ---
-name: "Derek Chatwood"
-summary: "Game designer, illustrator"
-categories: [game, designer, illustrator, windows]
+name: Derek Chatwood
+summary: Game designer, illustrator
+categories:
+- game
+- designer
+- illustrator
+- windows
 ---
 
 #### Who are you, and what do you do?

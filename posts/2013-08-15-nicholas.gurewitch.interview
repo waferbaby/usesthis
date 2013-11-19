@@ -1,8 +1,10 @@
 ---
-name: "Nicholas Gurewitch"
-summary: "Cartoonist (The Perry Bible Fellowship)"
-categories: [artist]
-credits: {name: "Rocco Hagen"}
+name: Nicholas Gurewitch
+summary: Cartoonist (The Perry Bible Fellowship)
+categories:
+- artist
+credits:
+  name: Rocco Hagen
 ---
 
 #### Who are you, and what do you do?

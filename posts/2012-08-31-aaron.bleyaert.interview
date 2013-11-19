@@ -1,7 +1,12 @@
 ---
-name: "Aaron Bleyaert"
-summary: "Human glue, freckle photographer"
-categories: [blogger, comedian, mac, podcaster, web]
+name: Aaron Bleyaert
+summary: Human glue, freckle photographer
+categories:
+- blogger
+- comedian
+- mac
+- podcaster
+- web
 ---
 
 #### Who are you, and what do you do?

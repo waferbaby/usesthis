@@ -1,7 +1,9 @@
 ---
-name: "Steven Sanders"
-summary: "Illustrator, concept artist (Marvel, Image)"
-categories: [illustrator, mac]
+name: Steven Sanders
+summary: Illustrator, concept artist (Marvel, Image)
+categories:
+- illustrator
+- mac
 ---
 
 #### Who are you, and what do you do?
@@ -30,4 +32,4 @@ I've just recently started using Sketchbook Pro. For whatever reason, it seems t
 
 Probably my current setup, just swapping out the old Mac Pro for the latest model. The EFI on my current Mac is preventing me from upgrading to the latest version of OS X, and that will cause me trouble eventually. I'd get the 12 core model, max out the memory to 64GB (Although I think it will go up to 128. It's not listed in the Apple store, though.) It seems that Photoshop can never have enough memory. I used to use Windows, but then got into the Hackintosh scene, developed a respect for the Mac OS, and then made the switch to Apple hardware when I had some spare money. I like the Mac Pros over the other models since I like to modify and upgrade computers that I own, and the Mac Pro is the only Mac model that really lends itself to that. I bought mine used, though, because they are insanely expensive new. 
 
-I should note that I'm not an Apple fanboy, though. I think Windows machines are perfectly capable computers. I see OS X as more of a "luxury" OS than a "superior" one. 
+I should note that I'm not an Apple fanboy, though. I think Windows machines are perfectly capable computers. I see OS X as more of a "luxury" OS than a "superior" one.

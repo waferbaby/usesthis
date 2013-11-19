@@ -1,7 +1,10 @@
 ---
-name: "Jay Stahl-Herz"
-summary: "Forensic pathologist (NYC)"
-categories: [mac, pathologist, windows]
+name: Jay Stahl-Herz
+summary: Forensic pathologist (NYC)
+categories:
+- mac
+- pathologist
+- windows
 ---
 
 #### Who are you, and what do you do?

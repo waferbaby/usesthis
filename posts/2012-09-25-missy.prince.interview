@@ -1,7 +1,9 @@
 ---
-name: "Missy Prince"
-summary: "Photographer"
-categories: [photographer, windows]
+name: Missy Prince
+summary: Photographer
+categories:
+- photographer
+- windows
 ---
 
 #### Who are you, and what do you do?

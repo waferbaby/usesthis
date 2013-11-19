@@ -1,8 +1,15 @@
 ---
-name: "Shaun Inman"
-summary: "Designer, developer, composer"
-categories: [designer, developer, game, mac, web]
-credits: {name: "Jason Santa Maria", url: "http://www.flickr.com/photos/jasonsantamaria/"}
+name: Shaun Inman
+summary: Designer, developer, composer
+categories:
+- designer
+- developer
+- game
+- mac
+- web
+credits:
+  name: Jason Santa Maria
+  url: http://www.flickr.com/photos/jasonsantamaria/
 ---
 
 #### Who are you, and what do you do?

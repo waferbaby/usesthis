@@ -1,7 +1,11 @@
 ---
-name: "Andrew Huang"
-summary: "Hardware misfit"
-categories: [hacker, hardware, linux, windows]
+name: Andrew Huang
+summary: Hardware misfit
+categories:
+- hacker
+- hardware
+- linux
+- windows
 ---
 
 #### Who are you, and what do you do?

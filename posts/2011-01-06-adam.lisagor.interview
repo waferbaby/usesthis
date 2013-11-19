@@ -1,7 +1,10 @@
 ---
-name: "Adam Lisagor"
-summary: "Video director"
-categories: [artist, film, mac]
+name: Adam Lisagor
+summary: Video director
+categories:
+- artist
+- film
+- mac
 ---
 
 #### Who are you, and what do you do?

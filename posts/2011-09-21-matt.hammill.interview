@@ -1,7 +1,11 @@
 ---
-name: "Matt Hammill"
-summary: "Artist, animator, game designer"
-categories: [artist, designer, game, windows]
+name: Matt Hammill
+summary: Artist, animator, game designer
+categories:
+- artist
+- designer
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

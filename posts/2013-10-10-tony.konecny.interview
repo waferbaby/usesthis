@@ -1,8 +1,11 @@
 ---
-name: "Tony Konecny"
-summary: "Coffee guy (Tonx)"
-categories: [coffee, mac]
-credits: {name: "Sean Bonner"}
+name: Tony Konecny
+summary: Coffee guy (Tonx)
+categories:
+- coffee
+- mac
+credits:
+  name: Sean Bonner
 ---
 
 #### Who are you, and what do you do?

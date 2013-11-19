@@ -1,7 +1,12 @@
 ---
-name: "Zara Gonzalez Hoang"
-summary: "Designer, illustrator, developer, screen printer"
-categories: [designer, developer, illustrator, mac, software]
+name: Zara Gonzalez Hoang
+summary: Designer, illustrator, developer, screen printer
+categories:
+- designer
+- developer
+- illustrator
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

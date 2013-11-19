@@ -1,7 +1,11 @@
 ---
-name: "Theodore Gray"
-summary: "Co-founder (Wolfram Research), element collector"
-categories: [developer, mac, software, writer]
+name: Theodore Gray
+summary: Co-founder (Wolfram Research), element collector
+categories:
+- developer
+- mac
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

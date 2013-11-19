@@ -1,7 +1,12 @@
 ---
-name: "Wiley Wiggins"
-summary: "Creative director, actor, animator, musician"
-categories: [actor, game, mac, musician, suit]
+name: Wiley Wiggins
+summary: Creative director, actor, animator, musician
+categories:
+- actor
+- game
+- mac
+- musician
+- suit
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "Michael Ogawa"
-summary: "PhD student, developer (code_swarm)"
-categories: [developer, software, windows]
+name: Michael Ogawa
+summary: PhD student, developer (code_swarm)
+categories:
+- developer
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

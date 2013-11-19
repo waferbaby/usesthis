@@ -1,7 +1,9 @@
 ---
-name: "David Bull"
-summary: "Woodblock printmaker"
-categories: [crafter, mac]
+name: David Bull
+summary: Woodblock printmaker
+categories:
+- crafter
+- mac
 ---
 
 #### Who are you, and what do you do?

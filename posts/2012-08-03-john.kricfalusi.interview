@@ -1,7 +1,9 @@
 ---
-name: "John Kricfalusi"
-summary: "Animator (Ren and Stimpy, George Liquor)"
-categories: [animator, mac]
+name: John Kricfalusi
+summary: Animator (Ren and Stimpy, George Liquor)
+categories:
+- animator
+- mac
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,9 @@
 ---
-name: "Kate Ray"
-summary: "Web developer, technical co-founder (scroll kit)"
-categories: [developer, web]
+name: Kate Ray
+summary: Web developer, technical co-founder (scroll kit)
+categories:
+- developer
+- web
 ---
 
 #### Who are you, and what do you do?

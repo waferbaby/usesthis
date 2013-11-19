@@ -1,7 +1,10 @@
 ---
-name: "Horace Dediu"
-summary: "Writer, podcaster (Asymco, The Critical Path)"
-categories: [mac, podcaster, writer]
+name: Horace Dediu
+summary: Writer, podcaster (Asymco, The Critical Path)
+categories:
+- mac
+- podcaster
+- writer
 ---
 
 #### Who are you, and what do you do?

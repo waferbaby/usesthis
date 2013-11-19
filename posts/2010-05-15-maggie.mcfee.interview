@@ -1,7 +1,10 @@
 ---
-name: "Maggie McFee"
-summary: "Technologist"
-categories: [artist, mac, sysadmin]
+name: Maggie McFee
+summary: Technologist
+categories:
+- artist
+- mac
+- sysadmin
 ---
 
 #### Who are you, and what do you do?

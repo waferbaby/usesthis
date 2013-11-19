@@ -1,7 +1,9 @@
 ---
-name: "Maria Bustillos"
-summary: "Writer"
-categories: [windows, writer]
+name: Maria Bustillos
+summary: Writer
+categories:
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

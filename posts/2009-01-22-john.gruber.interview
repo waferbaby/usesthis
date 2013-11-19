@@ -1,8 +1,12 @@
 ---
-name: "John Gruber"
-summary: "Writer (Daring Fireball)"
-categories: [mac, writer]
-credits: {name: "George Del Barrio", url: "http://superbiate.com/"}
+name: John Gruber
+summary: Writer (Daring Fireball)
+categories:
+- mac
+- writer
+credits:
+  name: George Del Barrio
+  url: http://superbiate.com/
 ---
 
 #### Who are you, and what do you do?

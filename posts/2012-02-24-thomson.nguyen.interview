@@ -1,7 +1,11 @@
 ---
-name: "Thomson Nguyen"
-summary: "Data scientist (Lookout Mobile Security)"
-categories: [data, linux, mac, scientist]
+name: Thomson Nguyen
+summary: Data scientist (Lookout Mobile Security)
+categories:
+- data
+- linux
+- mac
+- scientist
 ---
 
 #### Who are you, and what do you do?

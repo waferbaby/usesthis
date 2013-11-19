@@ -1,7 +1,10 @@
 ---
-name: "Stewart Smith"
-summary: "Programmer, graphic designer"
-categories: [designer, developer, software]
+name: Stewart Smith
+summary: Programmer, graphic designer
+categories:
+- designer
+- developer
+- software
 ---
 
 #### Who are you, and what do you do?

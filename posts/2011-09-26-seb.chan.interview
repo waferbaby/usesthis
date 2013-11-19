@@ -1,8 +1,13 @@
 ---
-name: "Seb Chan"
-summary: "Head of Digital, Powerhouse Museum"
-categories: [mac, musician, technologist]
-credits: {name: "Halans", url: "http://www.flickr.com/photos/halans/4628165196/"}
+name: Seb Chan
+summary: Head of Digital, Powerhouse Museum
+categories:
+- mac
+- musician
+- technologist
+credits:
+  name: Halans
+  url: http://www.flickr.com/photos/halans/4628165196/
 ---
 
 #### Who are you, and what do you do?

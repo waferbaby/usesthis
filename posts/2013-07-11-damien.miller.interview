@@ -1,7 +1,12 @@
 ---
-name: "Damien Miller"
-summary: "Open-source developer (OpenSSH, OpenBSD)"
-categories: [bsd, developer, linux, mac, software]
+name: Damien Miller
+summary: Open-source developer (OpenSSH, OpenBSD)
+categories:
+- bsd
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

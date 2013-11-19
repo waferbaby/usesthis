@@ -1,7 +1,12 @@
 ---
-name: "Chad Whitacre"
-summary: "Hacker, Founder (Gittip)"
-categories: [developer, linux, mac, web, windows]
+name: Chad Whitacre
+summary: Hacker, Founder (Gittip)
+categories:
+- developer
+- linux
+- mac
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

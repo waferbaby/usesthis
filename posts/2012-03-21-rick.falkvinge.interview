@@ -1,7 +1,10 @@
 ---
-name: "Rick Falkvinge"
-summary: "Founder of the Swedish Pirate Party"
-categories: [entrepreneur, linux, politics]
+name: Rick Falkvinge
+summary: Founder of the Swedish Pirate Party
+categories:
+- entrepreneur
+- linux
+- politics
 ---
 
 #### Who are you, and what do you do?

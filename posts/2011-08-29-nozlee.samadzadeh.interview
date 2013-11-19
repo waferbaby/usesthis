@@ -1,7 +1,11 @@
 ---
-name: "Nozlee Samadzadeh"
-summary: "Writer, editor, IA (Flat, The Morning News)"
-categories: [editor, mac, windows, writer]
+name: Nozlee Samadzadeh
+summary: Writer, editor, IA (Flat, The Morning News)
+categories:
+- editor
+- mac
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

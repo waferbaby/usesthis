@@ -1,8 +1,15 @@
 ---
-name: "Richard Jones"
-summary: "Developer (Last.fm, IRCCloud)"
-categories: [developer, linux, mac, software, web]
-credits: {name: "James Wheare", url: "http://www.flickr.com/photos/jwheare/5768164371/"}
+name: Richard Jones
+summary: Developer (Last.fm, IRCCloud)
+categories:
+- developer
+- linux
+- mac
+- software
+- web
+credits:
+  name: James Wheare
+  url: http://www.flickr.com/photos/jwheare/5768164371/
 ---
 
 #### Who are you, and what do you do?

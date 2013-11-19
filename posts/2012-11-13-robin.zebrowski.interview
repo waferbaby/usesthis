@@ -1,7 +1,10 @@
 ---
-name: "Robin Zebrowski"
-summary: "Assistant professor of cognitive science"
-categories: [professor, scientist, windows]
+name: Robin Zebrowski
+summary: Assistant professor of cognitive science
+categories:
+- professor
+- scientist
+- windows
 ---
 
 #### Who are you, and what do you do?

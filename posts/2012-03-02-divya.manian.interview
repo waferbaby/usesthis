@@ -1,7 +1,10 @@
 ---
-name: "Divya Manian"
-summary: "Web developer (Opera, W3C, HTML5 Boilerplate)"
-categories: [developer, mac, web]
+name: Divya Manian
+summary: Web developer (Opera, W3C, HTML5 Boilerplate)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -1,8 +1,12 @@
 ---
-name: "Andrew W.K."
-summary: "Professional partyer"
-categories: [mac, musician, windows]
-credits: {name: "Ashley Eberbach"}
+name: Andrew W.K.
+summary: Professional partyer
+categories:
+- mac
+- musician
+- windows
+credits:
+  name: Ashley Eberbach
 ---
 
 #### Who are you, and what do you do?

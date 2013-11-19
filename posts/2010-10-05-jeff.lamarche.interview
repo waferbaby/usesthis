@@ -1,7 +1,11 @@
 ---
-name: "Jeff LaMarche"
-summary: "Author, software developer"
-categories: [developer, mac, software, writer]
+name: Jeff LaMarche
+summary: Author, software developer
+categories:
+- developer
+- mac
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

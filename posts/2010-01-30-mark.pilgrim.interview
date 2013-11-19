@@ -1,7 +1,11 @@
 ---
-name: "Mark Pilgrim"
-summary: "Developer & standards advocate (Google)"
-categories: [developer, linux, web, writer]
+name: Mark Pilgrim
+summary: Developer & standards advocate (Google)
+categories:
+- developer
+- linux
+- web
+- writer
 ---
 
 #### Who are you, and what do you do?

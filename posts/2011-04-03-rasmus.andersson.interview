@@ -1,7 +1,11 @@
 ---
-name: "Rasmus Andersson"
-summary: "Designer, programmer (Spotify, Facebook)"
-categories: [designer, developer, mac, web]
+name: Rasmus Andersson
+summary: Designer, programmer (Spotify, Facebook)
+categories:
+- designer
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

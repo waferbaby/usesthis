@@ -1,7 +1,12 @@
 ---
-name: "Adewale Oshineye"
-summary: "Developer advocate (Google+)"
-categories: [developer, linux, mac, web, writer]
+name: Adewale Oshineye
+summary: Developer advocate (Google+)
+categories:
+- developer
+- linux
+- mac
+- web
+- writer
 ---
 
 #### Who are you, and what do you do?

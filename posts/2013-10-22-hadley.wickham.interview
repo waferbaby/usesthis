@@ -1,7 +1,11 @@
 ---
-name: "Hadley Wickham"
-summary: "Chief scientist (RStudio)"
-categories: [developer, mac, professor, software]
+name: Hadley Wickham
+summary: Chief scientist (RStudio)
+categories:
+- developer
+- mac
+- professor
+- software
 ---
 
 #### Who are you, and what do you do?

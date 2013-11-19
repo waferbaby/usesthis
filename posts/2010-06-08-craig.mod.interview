@@ -1,7 +1,10 @@
 ---
-name: "Craig Mod"
-summary: "Writer, designer, publisher, developer"
-categories: [designer, mac, writer]
+name: Craig Mod
+summary: Writer, designer, publisher, developer
+categories:
+- designer
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

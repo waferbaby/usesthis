@@ -1,7 +1,11 @@
 ---
-name: "Peter Molfese"
-summary: "Research scientist (Haskins Labs)"
-categories: [developer, mac, researcher, software]
+name: Peter Molfese
+summary: Research scientist (Haskins Labs)
+categories:
+- developer
+- mac
+- researcher
+- software
 ---
 
 #### Who are you, and what do you do?

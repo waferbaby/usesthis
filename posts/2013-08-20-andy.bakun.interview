@@ -1,7 +1,11 @@
 ---
-name: "Andy Bakun"
-summary: "UNIX systems administrator"
-categories: [engineer, linux, mac, service]
+name: Andy Bakun
+summary: UNIX systems administrator
+categories:
+- engineer
+- linux
+- mac
+- service
 ---
 
 #### Who are you, and what do you do?

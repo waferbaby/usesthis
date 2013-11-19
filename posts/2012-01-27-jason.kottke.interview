@@ -1,7 +1,10 @@
 ---
-name: "Jason Kottke"
-summary: "Weblogger, web developer (Stellar)"
-categories: [developer, mac, web]
+name: Jason Kottke
+summary: Weblogger, web developer (Stellar)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

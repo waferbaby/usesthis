@@ -1,7 +1,10 @@
 ---
-name: "Keita Takahashi"
-summary: "Game designer (Katamari Damacy)"
-categories: [designer, game, mac]
+name: Keita Takahashi
+summary: Game designer (Katamari Damacy)
+categories:
+- designer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

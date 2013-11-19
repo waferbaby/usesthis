@@ -1,7 +1,14 @@
 ---
-name: "Pippin Barr"
-summary: "Game maker, writer, teacher"
-categories: [artist, developer, game, mac, teacher, windows, writer]
+name: Pippin Barr
+summary: Game maker, writer, teacher
+categories:
+- artist
+- developer
+- game
+- mac
+- teacher
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,12 @@
 ---
-name: "Jonas M. Luster"
-summary: "Food scientist (el Bulli), developer"
-categories: [chef, developer, food, linux, software]
+name: Jonas M. Luster
+summary: Food scientist (el Bulli), developer
+categories:
+- chef
+- developer
+- food
+- linux
+- software
 ---
 
 #### Who are you, and what do you do?

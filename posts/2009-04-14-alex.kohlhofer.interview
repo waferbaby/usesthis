@@ -1,7 +1,10 @@
 ---
-name: "Alex Kohlhofer"
-summary: "Web developer (Weewar, Spreedly, No Kahuna)"
-categories: [developer, mac, software]
+name: Alex Kohlhofer
+summary: Web developer (Weewar, Spreedly, No Kahuna)
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

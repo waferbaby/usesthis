@@ -1,7 +1,10 @@
 ---
-name: "Gabe Newell"
-summary: "Co-founder of Valve"
-categories: [game, suit, windows]
+name: Gabe Newell
+summary: Co-founder of Valve
+categories:
+- game
+- suit
+- windows
 ---
 
 #### Who are you, and what do you do?

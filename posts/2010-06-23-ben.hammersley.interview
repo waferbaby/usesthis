@@ -1,7 +1,11 @@
 ---
-name: "Ben Hammersley"
-summary: "Editor (Wired UK), war correspondent"
-categories: [editor, journalist, mac, photographer]
+name: Ben Hammersley
+summary: Editor (Wired UK), war correspondent
+categories:
+- editor
+- journalist
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

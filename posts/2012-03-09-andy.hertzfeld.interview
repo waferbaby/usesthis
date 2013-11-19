@@ -1,7 +1,13 @@
 ---
-name: "Andy Hertzfeld"
-summary: "Developer (Macintosh), software designer (Google+)"
-categories: [designer, developer, interface, linux, mac, software]
+name: Andy Hertzfeld
+summary: Developer (Macintosh), software designer (Google+)
+categories:
+- designer
+- developer
+- interface
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

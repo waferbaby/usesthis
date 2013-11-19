@@ -1,7 +1,10 @@
 ---
-name: "Tom Phillipson"
-summary: "Video editor, VJ, musician"
-categories: [mac, musician, video]
+name: Tom Phillipson
+summary: Video editor, VJ, musician
+categories:
+- mac
+- musician
+- video
 ---
 
 #### Who are you, and what do you do?

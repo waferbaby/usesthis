@@ -1,7 +1,13 @@
 ---
-name: "Jonathan Foote"
-summary: "Recovering scientist"
-categories: [artist, hacker, hardware, linux, scientist, windows]
+name: Jonathan Foote
+summary: Recovering scientist
+categories:
+- artist
+- hacker
+- hardware
+- linux
+- scientist
+- windows
 ---
 
 #### Who are you, and what do you do?

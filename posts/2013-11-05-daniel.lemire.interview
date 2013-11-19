@@ -1,7 +1,13 @@
 ---
-name: "Daniel Lemire"
-summary: "Computer researcher, professor"
-categories: [developer, linux, mac, professor, researcher, software]
+name: Daniel Lemire
+summary: Computer researcher, professor
+categories:
+- developer
+- linux
+- mac
+- professor
+- researcher
+- software
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "James Gosling"
-summary: "Software engineer (Java)"
-categories: [developer, linux, mac, software]
+name: James Gosling
+summary: Software engineer (Java)
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

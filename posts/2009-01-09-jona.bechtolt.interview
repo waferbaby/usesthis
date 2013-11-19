@@ -1,7 +1,9 @@
 ---
-name: "Jona Bechtolt"
-summary: "Half of the band YACHT"
-categories: [mac, musician]
+name: Jona Bechtolt
+summary: Half of the band YACHT
+categories:
+- mac
+- musician
 ---
 
 #### Who are you, and what do you do?

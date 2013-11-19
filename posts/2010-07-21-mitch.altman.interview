@@ -1,7 +1,11 @@
 ---
-name: "Mitch Altman"
-summary: "Inventor"
-categories: [hacker, hardware, mac, windows]
+name: Mitch Altman
+summary: Inventor
+categories:
+- hacker
+- hardware
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

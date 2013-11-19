@@ -1,7 +1,10 @@
 ---
-name: "Ariel Waldman"
-summary: "Space hacker"
-categories: [hacker, mac, space]
+name: Ariel Waldman
+summary: Space hacker
+categories:
+- hacker
+- mac
+- space
 ---
 
 #### Who are you, and what do you do?

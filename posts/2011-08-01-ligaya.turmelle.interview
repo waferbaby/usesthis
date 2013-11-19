@@ -1,8 +1,13 @@
 ---
-name: "Ligaya Turmelle"
-summary: "MySQL DBA, PHP developer"
-categories: [developer, mac, software]
-credits: {name: "Rob Allen", url: "http://www.flickr.com/photos/akrabat/5762478709/"}
+name: Ligaya Turmelle
+summary: MySQL DBA, PHP developer
+categories:
+- developer
+- mac
+- software
+credits:
+  name: Rob Allen
+  url: http://www.flickr.com/photos/akrabat/5762478709/
 ---
 
 #### Who are you, and what do you do?

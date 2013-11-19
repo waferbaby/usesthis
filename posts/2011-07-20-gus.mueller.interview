@@ -1,8 +1,12 @@
 ---
-name: "Gus Mueller"
-summary: "Founder, Flying Meat (VoodooPad, Acorn)"
-categories: [developer, mac, software]
-credits: {name: "Steve Weller"}
+name: Gus Mueller
+summary: Founder, Flying Meat (VoodooPad, Acorn)
+categories:
+- developer
+- mac
+- software
+credits:
+  name: Steve Weller
 ---
 
 #### Who are you, and what do you do?

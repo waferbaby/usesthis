@@ -1,7 +1,10 @@
 ---
-name: "Laura Khalil"
-summary: "Marketer, puzzler, robot builder"
-categories: [blogger, hacker, mac]
+name: Laura Khalil
+summary: Marketer, puzzler, robot builder
+categories:
+- blogger
+- hacker
+- mac
 ---
 
 #### Who are you, and what do you do?

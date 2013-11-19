@@ -1,7 +1,10 @@
 ---
-name: "Samuel Arbesman"
-summary: "Writer, complexity scientist"
-categories: [mac, scientist, writer]
+name: Samuel Arbesman
+summary: Writer, complexity scientist
+categories:
+- mac
+- scientist
+- writer
 ---
 
 #### Who are you, and what do you do?

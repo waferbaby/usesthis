@@ -1,7 +1,10 @@
 ---
-name: "Anne Halsall"
-summary: "Interface/UI designer"
-categories: [designer, interface, mac]
+name: Anne Halsall
+summary: Interface/UI designer
+categories:
+- designer
+- interface
+- mac
 ---
 
 #### Who are you, and what do you do?

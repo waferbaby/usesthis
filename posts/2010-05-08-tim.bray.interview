@@ -1,7 +1,10 @@
 ---
-name: "Tim Bray"
-summary: "Developer Advocate (Google)"
-categories: [developer, mac, software]
+name: Tim Bray
+summary: Developer Advocate (Google)
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

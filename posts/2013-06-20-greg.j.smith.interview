@@ -1,8 +1,13 @@
 ---
-name: "Greg J. Smith"
-summary: "Editor (HOLO), designer"
-categories: [designer, editor, mac]
-credits: {name: "Resonate", url: "http://resonate.io/"}
+name: Greg J. Smith
+summary: Editor (HOLO), designer
+categories:
+- designer
+- editor
+- mac
+credits:
+  name: Resonate
+  url: http://resonate.io/
 ---
 
 #### Who are you, and what do you do?

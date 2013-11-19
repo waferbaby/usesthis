@@ -1,7 +1,10 @@
 ---
-name: "Amit Gupta"
-summary: "Photographer, entrepreneur"
-categories: [designer, entrepreneur, mac]
+name: Amit Gupta
+summary: Photographer, entrepreneur
+categories:
+- designer
+- entrepreneur
+- mac
 ---
 
 #### Who are you, and what do you do?

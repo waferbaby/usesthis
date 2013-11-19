@@ -1,7 +1,11 @@
 ---
-name: "Daniel Sinker"
-summary: "Director, Knight-Mozilla OpenNews"
-categories: [journalist, mac, teacher, writer]
+name: Daniel Sinker
+summary: Director, Knight-Mozilla OpenNews
+categories:
+- journalist
+- mac
+- teacher
+- writer
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Matt Piersall"
-summary: "Game sound designer (GL33k)"
-categories: [audio, game, mac, windows]
+name: Matt Piersall
+summary: Game sound designer (GL33k)
+categories:
+- audio
+- game
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,8 +1,14 @@
 ---
-name: "Dave Shea"
-summary: "Designer, illustrator"
-categories: [artist, designer, mac, web]
-credits: {name: "Tom Coates", url: "http://www.flickr.com/photos/plasticbag/"}
+name: Dave Shea
+summary: Designer, illustrator
+categories:
+- artist
+- designer
+- mac
+- web
+credits:
+  name: Tom Coates
+  url: http://www.flickr.com/photos/plasticbag/
 ---
 
 #### Who are you, and what do you do?

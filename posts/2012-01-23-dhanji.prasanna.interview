@@ -1,7 +1,10 @@
 ---
-name: "Dhanji Prasanna"
-summary: "Hacker, ex-Googler (Wave, Plus, Search)"
-categories: [mac, software, web]
+name: Dhanji Prasanna
+summary: Hacker, ex-Googler (Wave, Plus, Search)
+categories:
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

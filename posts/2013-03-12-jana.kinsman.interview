@@ -1,7 +1,10 @@
 ---
-name: "Jana Kinsman"
-summary: "Illustrator, beekeeper"
-categories: [beekeeper, illustrator, mac]
+name: Jana Kinsman
+summary: Illustrator, beekeeper
+categories:
+- beekeeper
+- illustrator
+- mac
 ---
 
 #### Who are you, and what do you do?

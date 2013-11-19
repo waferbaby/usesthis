@@ -1,7 +1,10 @@
 ---
-name: "Kellan O'Connor"
-summary: "Engineer (SpaceX)"
-categories: [engineer, mac, space]
+name: Kellan O'Connor
+summary: Engineer (SpaceX)
+categories:
+- engineer
+- mac
+- space
 ---
 
 #### Who are you, and what do you do?

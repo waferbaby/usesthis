@@ -1,7 +1,9 @@
 ---
-name: "Derek Sivers"
-summary: "TED speaker, founder of CD Baby"
-categories: [linux, suit]
+name: Derek Sivers
+summary: TED speaker, founder of CD Baby
+categories:
+- linux
+- suit
 ---
 
 #### Who are you, and what do you do?

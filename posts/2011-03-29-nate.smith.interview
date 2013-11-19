@@ -1,7 +1,10 @@
 ---
-name: "Nate 'Igor' Smith"
-summary: "Photographer"
-categories: [mac, photographer, windows]
+name: Nate 'Igor' Smith
+summary: Photographer
+categories:
+- mac
+- photographer
+- windows
 ---
 
 #### Who are you, and what do you do?

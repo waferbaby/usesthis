@@ -1,7 +1,11 @@
 ---
-name: "Jason Rohrer"
-summary: "Game developer (Passage)"
-categories: [developer, game, linux, windows]
+name: Jason Rohrer
+summary: Game developer (Passage)
+categories:
+- developer
+- game
+- linux
+- windows
 ---
 
 #### Who are you, and what do you do?

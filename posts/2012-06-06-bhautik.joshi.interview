@@ -1,7 +1,11 @@
 ---
-name: "Bhautik Joshi"
-summary: "Research engineer (ILM)"
-categories: [developer, mac, researcher, windows]
+name: Bhautik Joshi
+summary: Research engineer (ILM)
+categories:
+- developer
+- mac
+- researcher
+- windows
 ---
 
 #### Who are you, and what do you do?

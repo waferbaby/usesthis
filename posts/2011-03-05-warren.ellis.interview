@@ -1,7 +1,9 @@
 ---
-name: "Warren Ellis"
-summary: "Writer (Transmetropolitan, Crooked Little Vein)"
-categories: [windows, writer]
+name: Warren Ellis
+summary: Writer (Transmetropolitan, Crooked Little Vein)
+categories:
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

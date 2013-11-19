@@ -1,7 +1,9 @@
 ---
-name: "Andrew Kim"
-summary: "Designer, dog lover"
-categories: [designer, mac]
+name: Andrew Kim
+summary: Designer, dog lover
+categories:
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

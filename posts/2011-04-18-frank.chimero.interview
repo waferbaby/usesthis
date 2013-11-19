@@ -1,7 +1,11 @@
 ---
-name: "Frank Chimero"
-summary: "Designer, illustrator, writer"
-categories: [artist, designer, mac, writer]
+name: Frank Chimero
+summary: Designer, illustrator, writer
+categories:
+- artist
+- designer
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

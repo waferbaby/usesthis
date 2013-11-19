@@ -1,7 +1,10 @@
 ---
-name: "Hugo Liu"
-summary: "Taste researcher, Chief Scientist (Hunch)"
-categories: [mac, scientist, web]
+name: Hugo Liu
+summary: Taste researcher, Chief Scientist (Hunch)
+categories:
+- mac
+- scientist
+- web
 ---
 
 #### Who are you, and what do you do?

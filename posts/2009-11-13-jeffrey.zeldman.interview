@@ -1,7 +1,10 @@
 ---
-name: "Jeffrey Zeldman"
-summary: "Web designer, fan of Web Standards"
-categories: [designer, mac, web]
+name: Jeffrey Zeldman
+summary: Web designer, fan of Web Standards
+categories:
+- designer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Jessamyn West"
-summary: "Librarian, MetaFilter community manager"
-categories: [community, librarian, mac, writer]
+name: Jessamyn West
+summary: Librarian, MetaFilter community manager
+categories:
+- community
+- librarian
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

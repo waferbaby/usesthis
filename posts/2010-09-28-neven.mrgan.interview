@@ -1,7 +1,10 @@
 ---
-name: "Neven Mrgan"
-summary: "Designer (Panic Inc.)"
-categories: [designer, mac, software]
+name: Neven Mrgan
+summary: Designer (Panic Inc.)
+categories:
+- designer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

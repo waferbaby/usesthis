@@ -1,7 +1,10 @@
 ---
-name: "Ben Kamens"
-summary: "Lead developer (The Khan Academy)"
-categories: [developer, mac, web]
+name: Ben Kamens
+summary: Lead developer (The Khan Academy)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

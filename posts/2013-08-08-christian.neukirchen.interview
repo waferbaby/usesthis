@@ -1,7 +1,11 @@
 ---
-name: "Christian Neukirchen"
-summary: "Software developer (Rack, bacon)"
-categories: [bsd, developer, linux, software]
+name: Christian Neukirchen
+summary: Software developer (Rack, bacon)
+categories:
+- bsd
+- developer
+- linux
+- software
 ---
 
 #### Who are you, and what do you do?

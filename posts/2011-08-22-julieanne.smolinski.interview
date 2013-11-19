@@ -1,7 +1,11 @@
 ---
-name: "Julieanne Smolinski"
-summary: "Freelance writer, editor"
-categories: [editor, mac, windows, writer]
+name: Julieanne Smolinski
+summary: Freelance writer, editor
+categories:
+- editor
+- mac
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

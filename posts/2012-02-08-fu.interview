@@ -1,7 +1,11 @@
 ---
-name: "Fu"
-summary: "Robot illustrator, sculptor, game creator"
-categories: [artist, developer, game, mac]
+name: Fu
+summary: Robot illustrator, sculptor, game creator
+categories:
+- artist
+- developer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

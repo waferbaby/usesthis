@@ -1,7 +1,10 @@
 ---
-name: "Matt Biddulph"
-summary: "Prototyper, strategy guy (Nokia/Dopplr)"
-categories: [developer, mac, web]
+name: Matt Biddulph
+summary: Prototyper, strategy guy (Nokia/Dopplr)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

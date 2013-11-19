@@ -1,7 +1,10 @@
 ---
-name: "Anselm Hook"
-summary: "MakerLab hacker, CTO of Meedan"
-categories: [developer, mac, software]
+name: Anselm Hook
+summary: MakerLab hacker, CTO of Meedan
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "Joey Hess"
-summary: "Software developer (Debian, git-annex)"
-categories: [developer, linux, software]
+name: Joey Hess
+summary: Software developer (Debian, git-annex)
+categories:
+- developer
+- linux
+- software
 ---
 
 #### Who are you, and what do you do?

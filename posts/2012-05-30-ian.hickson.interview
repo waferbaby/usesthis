@@ -1,7 +1,10 @@
 ---
-name: "Ian Hickson"
-summary: "Standards editor, HTML specification"
-categories: [editor, mac, web]
+name: Ian Hickson
+summary: Standards editor, HTML specification
+categories:
+- editor
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "merkley???"
-summary: "Photographer, artist"
-categories: [artist, mac, photographer]
+name: merkley???
+summary: Photographer, artist
+categories:
+- artist
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

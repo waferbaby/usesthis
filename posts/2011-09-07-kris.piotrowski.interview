@@ -1,7 +1,11 @@
 ---
-name: "Kris Piotrowski"
-summary: "Creative director and co-founder (CAPY)"
-categories: [designer, game, mac, windows]
+name: Kris Piotrowski
+summary: Creative director and co-founder (CAPY)
+categories:
+- designer
+- game
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

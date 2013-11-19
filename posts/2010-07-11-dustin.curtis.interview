@@ -1,7 +1,11 @@
 ---
-name: "Dustin Curtis"
-summary: "Writer, UX designer"
-categories: [designer, interface, mac, writer]
+name: Dustin Curtis
+summary: Writer, UX designer
+categories:
+- designer
+- interface
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

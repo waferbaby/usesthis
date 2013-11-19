@@ -1,7 +1,10 @@
 ---
-name: "Paul Graham"
-summary: "Head of YCombinator, creator of the Arc language"
-categories: [developer, mac, web]
+name: Paul Graham
+summary: Head of YCombinator, creator of the Arc language
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

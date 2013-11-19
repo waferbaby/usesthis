@@ -1,7 +1,10 @@
 ---
-name: "Matt Gemmell"
-summary: "Mac and iOS developer"
-categories: [developer, mac, software]
+name: Matt Gemmell
+summary: Mac and iOS developer
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

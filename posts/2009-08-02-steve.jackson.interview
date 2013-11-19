@@ -1,8 +1,12 @@
 ---
-name: "Steve Jackson"
-summary: "Game designer"
-categories: [designer, game, mac]
-credits: {name: "Steve Jackson Games"}
+name: Steve Jackson
+summary: Game designer
+categories:
+- designer
+- game
+- mac
+credits:
+  name: Steve Jackson Games
 ---
 
 #### Who are you, and what do you do?

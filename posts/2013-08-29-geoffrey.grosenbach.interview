@@ -1,7 +1,10 @@
 ---
-name: "Geoffrey Grosenbach"
-summary: "Independent video publisher (PeepCode)"
-categories: [mac, publisher, video]
+name: Geoffrey Grosenbach
+summary: Independent video publisher (PeepCode)
+categories:
+- mac
+- publisher
+- video
 ---
 
 #### Who are you, and what do you do?

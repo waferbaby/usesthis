@@ -1,8 +1,12 @@
 ---
-name: "Ryan North"
-summary: "Cartoonist (Dinosaur comics)"
-categories: [artist, mac, windows]
-credits: {name: "Zack DeZon"}
+name: Ryan North
+summary: Cartoonist (Dinosaur comics)
+categories:
+- artist
+- mac
+- windows
+credits:
+  name: Zack DeZon
 ---
 
 #### Who are you, and what do you do?

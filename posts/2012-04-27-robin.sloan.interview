@@ -1,7 +1,9 @@
 ---
-name: "Robin Sloan"
-summary: "Writer, media inventor"
-categories: [mac, writer]
+name: Robin Sloan
+summary: Writer, media inventor
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

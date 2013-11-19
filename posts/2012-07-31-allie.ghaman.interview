@@ -1,7 +1,11 @@
 ---
-name: "Allie Ghaman"
-summary: "Art director (Sunday Style, The Washington Post)"
-categories: [designer, mac, web, windows]
+name: Allie Ghaman
+summary: Art director (Sunday Style, The Washington Post)
+categories:
+- designer
+- mac
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,10 @@
 ---
-name: "Jeffrey Ely"
-summary: "Professor of economics (Northwestern University)"
-categories: [linux, mac, professor]
+name: Jeffrey Ely
+summary: Professor of economics (Northwestern University)
+categories:
+- linux
+- mac
+- professor
 ---
 
 #### Who are you, and what do you do?

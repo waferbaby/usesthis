@@ -1,7 +1,10 @@
 ---
-name: "Lee Petty"
-summary: "Art Director (Double Fine)"
-categories: [artist, game, windows]
+name: Lee Petty
+summary: Art Director (Double Fine)
+categories:
+- artist
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,9 @@
 ---
-name: "Alexandra Klasinski"
-summary: "Photographer, designer"
-categories: [designer, photographer]
+name: Alexandra Klasinski
+summary: Photographer, designer
+categories:
+- designer
+- photographer
 ---
 
 #### Who are you, and what do you do?

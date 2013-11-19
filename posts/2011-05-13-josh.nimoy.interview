@@ -1,7 +1,14 @@
 ---
-name: "Josh Nimoy"
-summary: "Artist, designer, hacktivist, musician, developer"
-categories: [artist, designer, developer, film, mac, musician, software]
+name: Josh Nimoy
+summary: Artist, designer, hacktivist, musician, developer
+categories:
+- artist
+- designer
+- developer
+- film
+- mac
+- musician
+- software
 ---
 
 #### Who are you, and what do you do?

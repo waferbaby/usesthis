@@ -1,7 +1,10 @@
 ---
-name: "Geof Morris"
-summary: "Aerospace and systems engineer"
-categories: [engineer, mac, space]
+name: Geof Morris
+summary: Aerospace and systems engineer
+categories:
+- engineer
+- mac
+- space
 ---
 
 #### Who are you, and what do you do?

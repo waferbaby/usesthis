@@ -1,7 +1,11 @@
 ---
-name: "Brett Terpstra"
-summary: "Developer, AOL Tech (Engadget, TUAW) and nvALT"
-categories: [developer, mac, software, web]
+name: Brett Terpstra
+summary: Developer, AOL Tech (Engadget, TUAW) and nvALT
+categories:
+- developer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

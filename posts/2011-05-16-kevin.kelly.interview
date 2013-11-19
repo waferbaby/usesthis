@@ -1,7 +1,10 @@
 ---
-name: "Kevin Kelly"
-summary: "Writer, co-founder of Wired"
-categories: [editor, mac, writer]
+name: Kevin Kelly
+summary: Writer, co-founder of Wired
+categories:
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

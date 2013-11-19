@@ -1,7 +1,11 @@
 ---
-name: "Leigh Alexander"
-summary: "Video game journalist (Edge, Kotaku), editor (Gamasutra)"
-categories: [editor, game, journalist, windows]
+name: Leigh Alexander
+summary: Video game journalist (Edge, Kotaku), editor (Gamasutra)
+categories:
+- editor
+- game
+- journalist
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,8 +1,13 @@
 ---
-name: "Amber Case"
-summary: "Cyborg anthropologist, UX designer"
-categories: [designer, interface, mac, scientist]
-credits: {name: "Kris Krug"}
+name: Amber Case
+summary: Cyborg anthropologist, UX designer
+categories:
+- designer
+- interface
+- mac
+- scientist
+credits:
+  name: Kris Krug
 ---
 
 #### Who are you, and what do you do?

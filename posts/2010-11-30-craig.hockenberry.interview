@@ -1,7 +1,10 @@
 ---
-name: "Craig Hockenberry"
-summary: "Programmer (The Iconfactory)"
-categories: [developer, mac, software]
+name: Craig Hockenberry
+summary: Programmer (The Iconfactory)
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

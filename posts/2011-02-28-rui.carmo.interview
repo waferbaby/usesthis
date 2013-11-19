@@ -1,7 +1,11 @@
 ---
-name: "Rui Carmo"
-summary: "Systems Engineer"
-categories: [developer, mac, software, systems]
+name: Rui Carmo
+summary: Systems Engineer
+categories:
+- developer
+- mac
+- software
+- systems
 ---
 
 #### Who are you, and what do you do?

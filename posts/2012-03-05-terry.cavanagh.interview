@@ -1,7 +1,11 @@
 ---
-name: "Terry Cavanagh"
-summary: "Indie game developer (VVVVVV)"
-categories: [developer, game, mac, windows]
+name: Terry Cavanagh
+summary: Indie game developer (VVVVVV)
+categories:
+- developer
+- game
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

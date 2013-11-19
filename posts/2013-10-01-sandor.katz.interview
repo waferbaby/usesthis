@@ -1,7 +1,8 @@
 ---
-name: "Sandor Katz"
-summary: "Fermentation revivalist"
-categories: [food]
+name: Sandor Katz
+summary: Fermentation revivalist
+categories:
+- food
 ---
 
 #### Who are you, and what do you do?

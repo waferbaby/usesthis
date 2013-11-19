@@ -1,7 +1,10 @@
 ---
-name: "Emily Short"
-summary: "Interactive narrative consultant"
-categories: [game, mac, writer]
+name: Emily Short
+summary: Interactive narrative consultant
+categories:
+- game
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

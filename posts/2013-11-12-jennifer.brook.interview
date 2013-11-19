@@ -1,7 +1,10 @@
 ---
-name: "Jennifer Brook"
-summary: "Interaction designer, book artist"
-categories: [designer, mac, teacher]
+name: Jennifer Brook
+summary: Interaction designer, book artist
+categories:
+- designer
+- mac
+- teacher
 ---
 
 #### Who are you, and what do you do?

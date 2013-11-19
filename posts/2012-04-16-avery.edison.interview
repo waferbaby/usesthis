@@ -1,7 +1,10 @@
 ---
-name: "Avery Edison"
-summary: "Stand-up comedian, writer"
-categories: [comedian, mac, writer]
+name: Avery Edison
+summary: Stand-up comedian, writer
+categories:
+- comedian
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

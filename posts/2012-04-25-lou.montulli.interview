@@ -1,7 +1,12 @@
 ---
-name: "Lou Montulli"
-summary: "Rabble-rouser, software developer (Lynx, Netscape)"
-categories: [developer, linux, software, web, windows]
+name: Lou Montulli
+summary: Rabble-rouser, software developer (Lynx, Netscape)
+categories:
+- developer
+- linux
+- software
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,8 +1,14 @@
 ---
-name: "Harper Reed"
-summary: "Technologist (Threadless, Barack Obama)"
-categories: [developer, linux, mac, web]
-credits: {name: "Joi Ito", url: "http://www.flickr.com/photos/joi/3611958575/"}
+name: Harper Reed
+summary: Technologist (Threadless, Barack Obama)
+categories:
+- developer
+- linux
+- mac
+- web
+credits:
+  name: Joi Ito
+  url: http://www.flickr.com/photos/joi/3611958575/
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Glenn Fleishman"
-summary: "Editor (The Magazine), podcaster (The New Disruptors)"
-categories: [editor, mac, podcaster, writer]
+name: Glenn Fleishman
+summary: Editor (The Magazine), podcaster (The New Disruptors)
+categories:
+- editor
+- mac
+- podcaster
+- writer
 ---
 
 #### Who are you, and what do you do?

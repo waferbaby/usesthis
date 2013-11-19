@@ -1,8 +1,13 @@
 ---
-name: "Mike Monteiro"
-summary: "Designer, director (Mule)"
-categories: [designer, mac, writer]
-credits: {name: "Jeffrey Zeldman", url: "http://www.flickr.com/photos/zeldman/8614963668/"}
+name: Mike Monteiro
+summary: Designer, director (Mule)
+categories:
+- designer
+- mac
+- writer
+credits:
+  name: Jeffrey Zeldman
+  url: http://www.flickr.com/photos/zeldman/8614963668/
 ---
 
 #### Who are you, and what do you do?

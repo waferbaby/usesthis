@@ -1,7 +1,11 @@
 ---
-name: "Michael Lopp"
-summary: "Engineering manager, reposer"
-categories: [mac, manager, software, writer]
+name: Michael Lopp
+summary: Engineering manager, reposer
+categories:
+- mac
+- manager
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

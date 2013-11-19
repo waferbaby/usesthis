@@ -1,7 +1,10 @@
 ---
-name: "John Pavlus"
-summary: "Writer, film maker (Small Mammal)"
-categories: [film, mac, writer]
+name: John Pavlus
+summary: Writer, film maker (Small Mammal)
+categories:
+- film
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

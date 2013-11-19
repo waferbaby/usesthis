@@ -1,7 +1,10 @@
 ---
-name: "John Myles White"
-summary: "Statistics hacker, PhD student"
-categories: [data, developer, mac]
+name: John Myles White
+summary: Statistics hacker, PhD student
+categories:
+- data
+- developer
+- mac
 ---
 
 #### Who are you, and what do you do?

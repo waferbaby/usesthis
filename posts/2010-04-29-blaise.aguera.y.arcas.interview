@@ -1,7 +1,10 @@
 ---
-name: "Blaise Aguera y Arcas"
-summary: "Architect (Bing Maps/Mobile)"
-categories: [developer, web, windows]
+name: Blaise Aguera y Arcas
+summary: Architect (Bing Maps/Mobile)
+categories:
+- developer
+- web
+- windows
 ---
 
 #### Who are you, and what do you do?

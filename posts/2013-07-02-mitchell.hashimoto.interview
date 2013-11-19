@@ -1,7 +1,13 @@
 ---
-name: "Mitchell Hashimoto"
-summary: "Entrepeneur, developer (Vagrant)"
-categories: [developer, linux, mac, software, windows, writer]
+name: Mitchell Hashimoto
+summary: Entrepeneur, developer (Vagrant)
+categories:
+- developer
+- linux
+- mac
+- software
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

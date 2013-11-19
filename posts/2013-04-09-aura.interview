@@ -1,7 +1,11 @@
 ---
-name: "Aura"
-summary: "Visual novel writer, game developer"
-categories: [developer, game, windows, writer]
+name: Aura
+summary: Visual novel writer, game developer
+categories:
+- developer
+- game
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

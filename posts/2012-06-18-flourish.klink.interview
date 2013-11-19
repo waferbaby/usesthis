@@ -1,7 +1,10 @@
 ---
-name: "Flourish Klink"
-summary: "Story-teller, lecturer, IF writer"
-categories: [game, mac, writer]
+name: Flourish Klink
+summary: Story-teller, lecturer, IF writer
+categories:
+- game
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

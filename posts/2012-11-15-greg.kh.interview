@@ -1,7 +1,11 @@
 ---
-name: "Greg Kroah-Hartman"
-summary: "Linux kernel developer"
-categories: [developer, linux, mac, software]
+name: Greg Kroah-Hartman
+summary: Linux kernel developer
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

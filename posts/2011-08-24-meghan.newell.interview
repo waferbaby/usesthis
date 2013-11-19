@@ -1,7 +1,10 @@
 ---
-name: "Meghan Newell"
-summary: "Designer, animator, illustrator"
-categories: [artist, designer, mac]
+name: Meghan Newell
+summary: Designer, animator, illustrator
+categories:
+- artist
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

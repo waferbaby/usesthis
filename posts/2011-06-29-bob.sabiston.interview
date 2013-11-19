@@ -1,7 +1,12 @@
 ---
-name: "Bob Sabiston"
-summary: "Developer, owner of Flat Black Films"
-categories: [developer, film, mac, software, windows]
+name: Bob Sabiston
+summary: Developer, owner of Flat Black Films
+categories:
+- developer
+- film
+- mac
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

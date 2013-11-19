@@ -1,7 +1,11 @@
 ---
-name: "Chris Wanstrath"
-summary: "CEO and co-founder, GitHub"
-categories: [developer, mac, suit, web]
+name: Chris Wanstrath
+summary: CEO and co-founder, GitHub
+categories:
+- developer
+- mac
+- suit
+- web
 ---
 
 #### Who are you, and what do you do?

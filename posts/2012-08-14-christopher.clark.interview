@@ -1,7 +1,10 @@
 ---
-name: "Christopher Clark"
-summary: "UI designer (Square)"
-categories: [designer, mac, usability]
+name: Christopher Clark
+summary: UI designer (Square)
+categories:
+- designer
+- mac
+- usability
 ---
 
 #### Who are you, and what do you do?

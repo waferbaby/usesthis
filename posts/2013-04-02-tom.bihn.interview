@@ -1,7 +1,11 @@
 ---
-name: "Tom Bihn"
-summary: "Bag designer, CEO"
-categories: [designer, fashion, mac, suit]
+name: Tom Bihn
+summary: Bag designer, CEO
+categories:
+- designer
+- fashion
+- mac
+- suit
 ---
 
 #### Who are you, and what do you do?

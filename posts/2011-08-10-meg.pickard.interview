@@ -1,7 +1,9 @@
 ---
-name: "Meg Pickard"
-summary: "Creative geek (The Guardian)"
-categories: [mac, writer]
+name: Meg Pickard
+summary: Creative geek (The Guardian)
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

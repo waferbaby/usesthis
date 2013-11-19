@@ -1,7 +1,10 @@
 ---
-name: "Laura Ballance"
-summary: "Bassist (Superchunk), record label manager"
-categories: [artist, musician, windows]
+name: Laura Ballance
+summary: Bassist (Superchunk), record label manager
+categories:
+- artist
+- musician
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Jessica Hammer"
-summary: "Game psychologist, designer"
-categories: [designer, game, scientist, windows]
+name: Jessica Hammer
+summary: Game psychologist, designer
+categories:
+- designer
+- game
+- scientist
+- windows
 ---
 
 #### Who are you, and what do you do?

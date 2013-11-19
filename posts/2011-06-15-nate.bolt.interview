@@ -1,7 +1,11 @@
 ---
-name: "Nate Bolt"
-summary: "Researcher, designer (Beep Show, Ethnio)"
-categories: [designer, mac, researcher, writer]
+name: Nate Bolt
+summary: Researcher, designer (Beep Show, Ethnio)
+categories:
+- designer
+- mac
+- researcher
+- writer
 ---
 
 #### Who are you, and what do you do?

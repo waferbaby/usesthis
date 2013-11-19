@@ -1,7 +1,10 @@
 ---
-name: "Paige Saez"
-summary: "Visual artist, interaction designer, Makerlab founder"
-categories: [artist, designer, mac]
+name: Paige Saez
+summary: Visual artist, interaction designer, Makerlab founder
+categories:
+- artist
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

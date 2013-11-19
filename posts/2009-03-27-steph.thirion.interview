@@ -1,7 +1,10 @@
 ---
-name: "Steph Thirion"
-summary: "Game developer (Eliss)"
-categories: [developer, game, mac]
+name: Steph Thirion
+summary: Game developer (Eliss)
+categories:
+- developer
+- game
+- mac
 ---
 
 #### Who are you, and what do you do?

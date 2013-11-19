@@ -1,8 +1,15 @@
 ---
-name: "Steve Coast"
-summary: "Founder, OpenStreetMap"
-categories: [developer, linux, mac, suit, web]
-credits: {name: "Christian Petersen", url: "http://www.flickr.com/photos/copetersen/3278884075/"}
+name: Steve Coast
+summary: Founder, OpenStreetMap
+categories:
+- developer
+- linux
+- mac
+- suit
+- web
+credits:
+  name: Christian Petersen
+  url: http://www.flickr.com/photos/copetersen/3278884075/
 ---
 
 #### Who are you, and what do you do?

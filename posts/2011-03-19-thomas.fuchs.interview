@@ -1,7 +1,10 @@
 ---
-name: "Thomas Fuchs"
-summary: "Developer (script.aculo.us, Prototype)"
-categories: [developer, mac, web]
+name: Thomas Fuchs
+summary: Developer (script.aculo.us, Prototype)
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

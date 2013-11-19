@@ -1,7 +1,10 @@
 ---
-name: "Jason Fried"
-summary: "Co-founder of 37 Signals"
-categories: [mac, software, suit]
+name: Jason Fried
+summary: Co-founder of 37 Signals
+categories:
+- mac
+- software
+- suit
 ---
 
 #### Who are you, and what do you do?

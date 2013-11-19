@@ -1,7 +1,9 @@
 ---
-name: "Joshua Allen"
-summary: "Funny writer dude"
-categories: [mac, writer]
+name: Joshua Allen
+summary: Funny writer dude
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

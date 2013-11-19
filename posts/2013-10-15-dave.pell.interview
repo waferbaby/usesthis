@@ -1,7 +1,10 @@
 ---
-name: "Dave Pell"
-summary: "Writer, news gatherer"
-categories: [mac, news, writer]
+name: Dave Pell
+summary: Writer, news gatherer
+categories:
+- mac
+- news
+- writer
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Mark Jardine"
-summary: "Designer (Tapbots)"
-categories: [designer, mac, software, web]
+name: Mark Jardine
+summary: Designer (Tapbots)
+categories:
+- designer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?

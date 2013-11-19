@@ -1,7 +1,9 @@
 ---
-name: "Laura Jansen"
-summary: "Cosplayer"
-categories: [artist, cosplay]
+name: Laura Jansen
+summary: Cosplayer
+categories:
+- artist
+- cosplay
 ---
 
 #### Who are you, and what do you do?

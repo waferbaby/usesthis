@@ -1,7 +1,9 @@
 ---
-name: "John Baez"
-summary: "Mathematical physicist"
-categories: [scientist, windows]
+name: John Baez
+summary: Mathematical physicist
+categories:
+- scientist
+- windows
 ---
 
 #### Who are you, and what do you do?

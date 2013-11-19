@@ -1,7 +1,10 @@
 ---
-name: "Logan Cunningham"
-summary: "Actor, voice actor (Bastion)"
-categories: [actor, game, windows]
+name: Logan Cunningham
+summary: Actor, voice actor (Bastion)
+categories:
+- actor
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

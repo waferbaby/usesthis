@@ -1,7 +1,11 @@
 ---
-name: "Daniel Jalkut"
-summary: "Software developer (MarsEdit, FastScripts), podcaster"
-categories: [developer, mac, podcaster, software]
+name: Daniel Jalkut
+summary: Software developer (MarsEdit, FastScripts), podcaster
+categories:
+- developer
+- mac
+- podcaster
+- software
 ---
 
 #### Who are you, and what do you do?

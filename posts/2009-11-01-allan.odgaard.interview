@@ -1,7 +1,10 @@
 ---
-name: "Allan Odgaard"
-summary: "Mac developer (TextMate)"
-categories: [developer, mac, software]
+name: Allan Odgaard
+summary: Mac developer (TextMate)
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

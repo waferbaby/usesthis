@@ -1,7 +1,11 @@
 ---
-name: "Boris Vorontsov"
-summary: "Game developer, modder"
-categories: [developer, game, modder, windows]
+name: Boris Vorontsov
+summary: Game developer, modder
+categories:
+- developer
+- game
+- modder
+- windows
 ---
 
 #### Who are you, and what do you do?

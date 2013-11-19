@@ -1,7 +1,9 @@
 ---
-name: "Kari Love"
-summary: "Costumer, puppet artist"
-categories: [fashion, puppet]
+name: Kari Love
+summary: Costumer, puppet artist
+categories:
+- fashion
+- puppet
 ---
 
 #### Who are you, and what do you do?

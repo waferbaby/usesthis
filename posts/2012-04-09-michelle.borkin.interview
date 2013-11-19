@@ -1,7 +1,10 @@
 ---
-name: "Michelle Borkin"
-summary: "Researcher and scientific visualiser (Harvard)"
-categories: [mac, researcher, scientist]
+name: Michelle Borkin
+summary: Researcher and scientific visualiser (Harvard)
+categories:
+- mac
+- researcher
+- scientist
 ---
 
 #### Who are you, and what do you do?

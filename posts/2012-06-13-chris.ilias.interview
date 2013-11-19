@@ -1,7 +1,10 @@
 ---
-name: "Chris Ilias"
-summary: "Chef at Sweet Basil, Colorado"
-categories: [chef, food, mac]
+name: Chris Ilias
+summary: Chef at Sweet Basil, Colorado
+categories:
+- chef
+- food
+- mac
 ---
 
 #### Who are you, and what do you do?

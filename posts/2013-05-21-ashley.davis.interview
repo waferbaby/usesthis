@@ -1,7 +1,10 @@
 ---
-name: "Ashley Davis"
-summary: "Cartoonist (Jailbird)"
-categories: [artist, illustrator, windows]
+name: Ashley Davis
+summary: Cartoonist (Jailbird)
+categories:
+- artist
+- illustrator
+- windows
 ---
 
 #### Who are you, and what do you do?

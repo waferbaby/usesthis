@@ -1,7 +1,10 @@
 ---
-name: "Erik Spiekermann"
-summary: "Type and information designer"
-categories: [designer, mac, type]
+name: Erik Spiekermann
+summary: Type and information designer
+categories:
+- designer
+- mac
+- type
 ---
 
 #### Who are you, and what do you do?

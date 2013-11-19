@@ -1,7 +1,12 @@
 ---
-name: "Adam Glazier"
-summary: "Interaction + sound designer (IDEO)"
-categories: [designer, developer, mac, musician, software]
+name: Adam Glazier
+summary: Interaction + sound designer (IDEO)
+categories:
+- designer
+- developer
+- mac
+- musician
+- software
 ---
 
 #### Who are you, and what do you do?

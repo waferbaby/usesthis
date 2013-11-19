@@ -1,7 +1,10 @@
 ---
-name: "Dan Cederholm"
-summary: "Web designer (SimpleBits)"
-categories: [designer, mac, web]
+name: Dan Cederholm
+summary: Web designer (SimpleBits)
+categories:
+- designer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

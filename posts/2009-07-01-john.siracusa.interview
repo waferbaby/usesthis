@@ -1,7 +1,11 @@
 ---
-name: "John Siracusa"
-summary: "Programmer, writer (Ars Technica)"
-categories: [developer, mac, software, writer]
+name: John Siracusa
+summary: Programmer, writer (Ars Technica)
+categories:
+- developer
+- mac
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

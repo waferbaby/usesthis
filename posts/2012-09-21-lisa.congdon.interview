@@ -1,7 +1,9 @@
 ---
-name: "Lisa Congdon"
-summary: "Artist, illustrator"
-categories: [artist, mac]
+name: Lisa Congdon
+summary: Artist, illustrator
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,9 @@
 ---
-name: "Sirron Norris"
-summary: "Artist, animator"
-categories: [artist, mac]
+name: Sirron Norris
+summary: Artist, animator
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

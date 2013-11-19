@@ -1,7 +1,11 @@
 ---
-name: "Jerry Belich"
-summary: "Software/hardware engineer (Clockwork)"
-categories: [engineer, hardware, mac, software]
+name: Jerry Belich
+summary: Software/hardware engineer (Clockwork)
+categories:
+- engineer
+- hardware
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

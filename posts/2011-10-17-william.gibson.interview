@@ -1,7 +1,9 @@
 ---
-name: "William Gibson"
-summary: "Novelist"
-categories: [mac, writer]
+name: William Gibson
+summary: Novelist
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Julie Ann Horvath"
-summary: "Designer, developer (GitHub)"
-categories: [designer, developer, mac, web]
+name: Julie Ann Horvath
+summary: Designer, developer (GitHub)
+categories:
+- designer
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

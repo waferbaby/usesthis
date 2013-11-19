@@ -1,7 +1,11 @@
 ---
-name: "Lynn Root"
-summary: "Software developer (Red Hat, PyLadies SF)"
-categories: [developer, linux, mac, web]
+name: Lynn Root
+summary: Software developer (Red Hat, PyLadies SF)
+categories:
+- developer
+- linux
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

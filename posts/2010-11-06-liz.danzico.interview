@@ -1,8 +1,14 @@
 ---
-name: "Liz Danzico"
-summary: "Designer, educator, editor"
-categories: [designer, editor, mac, writer]
-credits: {name: "Faruk Ates", url: "http://farukat.es/"}
+name: Liz Danzico
+summary: Designer, educator, editor
+categories:
+- designer
+- editor
+- mac
+- writer
+credits:
+  name: Faruk Ates
+  url: http://farukat.es/
 ---
 
 #### Who are you, and what do you do?

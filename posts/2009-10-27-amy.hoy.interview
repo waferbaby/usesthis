@@ -1,7 +1,10 @@
 ---
-name: "Amy Hoy"
-summary: "Interface designer"
-categories: [designer, mac, web]
+name: Amy Hoy
+summary: Interface designer
+categories:
+- designer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

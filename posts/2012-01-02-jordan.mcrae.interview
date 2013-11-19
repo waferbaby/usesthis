@@ -1,7 +1,12 @@
 ---
-name: "Jordan McRae"
-summary: "Inventor"
-categories: [hacker, hardware, linux, mac, windows]
+name: Jordan McRae
+summary: Inventor
+categories:
+- hacker
+- hardware
+- linux
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

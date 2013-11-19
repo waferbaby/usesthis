@@ -1,7 +1,10 @@
 ---
-name: "Ben Fry"
-summary: "Data designer, co-creator of Processing"
-categories: [developer, mac, software]
+name: Ben Fry
+summary: Data designer, co-creator of Processing
+categories:
+- developer
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

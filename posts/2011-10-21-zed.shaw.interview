@@ -1,7 +1,13 @@
 ---
-name: "Zed Shaw"
-summary: "Developer, writer and musician"
-categories: [developer, linux, mac, musician, software, writer]
+name: Zed Shaw
+summary: Developer, writer and musician
+categories:
+- developer
+- linux
+- mac
+- musician
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

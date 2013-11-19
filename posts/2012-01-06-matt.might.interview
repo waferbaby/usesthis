@@ -1,8 +1,13 @@
 ---
-name: "Matt Might"
-summary: "CS Professor (University of Utah)"
-categories: [linux, mac, professor]
-credits: {name: "David Van Horn", url: "http://www.flickr.com/photos/dvanhorn/6165121629/"}
+name: Matt Might
+summary: CS Professor (University of Utah)
+categories:
+- linux
+- mac
+- professor
+credits:
+  name: David Van Horn
+  url: http://www.flickr.com/photos/dvanhorn/6165121629/
 ---
 
 #### Who are you, and what do you do?

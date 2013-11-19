@@ -1,7 +1,10 @@
 ---
-name: "Jim Crawford"
-summary: "Game developer (Frog Fractions)"
-categories: [developer, game, windows]
+name: Jim Crawford
+summary: Game developer (Frog Fractions)
+categories:
+- developer
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

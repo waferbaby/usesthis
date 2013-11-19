@@ -1,7 +1,11 @@
 ---
-name: "Santiago Ortiz"
-summary: "Developer, visualiser"
-categories: [artist, developer, mac, web]
+name: Santiago Ortiz
+summary: Developer, visualiser
+categories:
+- artist
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

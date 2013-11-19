@@ -1,7 +1,10 @@
 ---
-name: "Rob Malda"
-summary: "Founder, Slashdot"
-categories: [developer, mac, web]
+name: Rob Malda
+summary: Founder, Slashdot
+categories:
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

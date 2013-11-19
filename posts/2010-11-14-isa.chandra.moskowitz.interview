@@ -1,7 +1,10 @@
 ---
-name: "Isa Chandra Moskowitz"
-summary: "Vegan cook, writer"
-categories: [food, mac, writer]
+name: Isa Chandra Moskowitz
+summary: Vegan cook, writer
+categories:
+- food
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

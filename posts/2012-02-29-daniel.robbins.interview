@@ -1,7 +1,11 @@
 ---
-name: "Daniel Robbins"
-summary: "Software developer, creator of Gentoo"
-categories: [developer, linux, mac, software]
+name: Daniel Robbins
+summary: Software developer, creator of Gentoo
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

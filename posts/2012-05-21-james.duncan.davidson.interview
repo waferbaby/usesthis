@@ -1,7 +1,12 @@
 ---
-name: "James Duncan Davidson"
-summary: "Photographer (TED), developer, writer"
-categories: [mac, photographer, software, web, writer]
+name: James Duncan Davidson
+summary: Photographer (TED), developer, writer
+categories:
+- mac
+- photographer
+- software
+- web
+- writer
 ---
 
 #### Who are you, and what do you do?

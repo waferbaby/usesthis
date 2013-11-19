@@ -1,8 +1,12 @@
 ---
-name: "Chris Onstad"
-summary: "Cartoonist (Achewood), writer"
-categories: [artist, windows, writer]
-credits: {name: "Chris Onstad"}
+name: Chris Onstad
+summary: Cartoonist (Achewood), writer
+categories:
+- artist
+- windows
+- writer
+credits:
+  name: Chris Onstad
 ---
 
 #### Who are you, and what do you do?

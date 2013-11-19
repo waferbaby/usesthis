@@ -1,7 +1,9 @@
 ---
-name: "Max Temkin"
-summary: "Designer (Cards Against Humanity, political campaigns)"
-categories: [designer, mac]
+name: Max Temkin
+summary: Designer (Cards Against Humanity, political campaigns)
+categories:
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

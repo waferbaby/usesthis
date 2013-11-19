@@ -1,7 +1,9 @@
 ---
-name: "Sean T. Collins"
-summary: "Writer (comics, Rolling Stone, BuzzFeed)"
-categories: [mac, writer]
+name: Sean T. Collins
+summary: Writer (comics, Rolling Stone, BuzzFeed)
+categories:
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

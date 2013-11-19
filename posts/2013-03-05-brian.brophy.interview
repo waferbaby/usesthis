@@ -1,7 +1,10 @@
 ---
-name: "Brian Brophy"
-summary: "Photographer, attorney"
-categories: [lawyer, mac, photographer]
+name: Brian Brophy
+summary: Photographer, attorney
+categories:
+- lawyer
+- mac
+- photographer
 ---
 
 #### Who are you, and what do you do?

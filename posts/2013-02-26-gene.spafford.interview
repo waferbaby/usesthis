@@ -1,7 +1,11 @@
 ---
-name: "Gene Spafford"
-summary: "Professor (Purdue University), security expert"
-categories: [professor, linux, mac, windows]
+name: Gene Spafford
+summary: Professor (Purdue University), security expert
+categories:
+- professor
+- linux
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

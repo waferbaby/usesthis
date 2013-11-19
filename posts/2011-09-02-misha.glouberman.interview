@@ -1,8 +1,11 @@
 ---
-name: "Misha Glouberman"
-summary: "Teacher, improviser"
-categories: [teacher, windows]
-credits: {name: "Lee Towndrow"}
+name: Misha Glouberman
+summary: Teacher, improviser
+categories:
+- teacher
+- windows
+credits:
+  name: Lee Towndrow
 ---
 
 #### Who are you, and what do you do?

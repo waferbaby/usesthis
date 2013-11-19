@@ -1,7 +1,10 @@
 ---
-name: "Richard Stallman"
-summary: "Freedom campaigner"
-categories: [developer, linux, software]
+name: Richard Stallman
+summary: Freedom campaigner
+categories:
+- developer
+- linux
+- software
 license: by-nd
 ---
 

@@ -1,7 +1,11 @@
 ---
-name: "Chloe Cross"
-summary: "Writer (VICE)"
-categories: [journalist, mac, sex, writer]
+name: Chloe Cross
+summary: Writer (VICE)
+categories:
+- journalist
+- mac
+- sex
+- writer
 ---
 
 #### Who are you, and what do you do?

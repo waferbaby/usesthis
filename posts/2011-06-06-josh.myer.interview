@@ -1,7 +1,11 @@
 ---
-name: "Josh Myer"
-summary: "Analytics hacker (BitTorrent, Applied Platonics)"
-categories: [developer, hacker, mac, software]
+name: Josh Myer
+summary: Analytics hacker (BitTorrent, Applied Platonics)
+categories:
+- developer
+- hacker
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

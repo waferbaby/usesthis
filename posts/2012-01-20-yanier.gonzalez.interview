@@ -1,7 +1,11 @@
 ---
-name: "Yanier Gonzalez"
-summary: "Writer, designer, publisher (Destructoid)"
-categories: [designer, mac, suit, writer]
+name: Yanier Gonzalez
+summary: Writer, designer, publisher (Destructoid)
+categories:
+- designer
+- mac
+- suit
+- writer
 ---
 
 #### Who are you, and what do you do?

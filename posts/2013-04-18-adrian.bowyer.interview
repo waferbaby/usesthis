@@ -1,7 +1,9 @@
 ---
-name: "Adrian Bowyer"
-summary: "Mechanical engineer, inventor (RepRap)"
-categories: [linux, engineer]
+name: Adrian Bowyer
+summary: Mechanical engineer, inventor (RepRap)
+categories:
+- linux
+- engineer
 ---
 
 #### Who are you, and what do you do?

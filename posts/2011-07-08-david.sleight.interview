@@ -1,7 +1,11 @@
 ---
-name: "David Sleight"
-summary: "Creative director, web designer, tinkerer"
-categories: [designer, interface, mac, web]
+name: David Sleight
+summary: Creative director, web designer, tinkerer
+categories:
+- designer
+- interface
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?

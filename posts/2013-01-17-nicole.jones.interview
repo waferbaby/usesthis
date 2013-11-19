@@ -1,7 +1,10 @@
 ---
-name: "Nicole Jones"
-summary: "Writer, editor (Facebook)"
-categories: [editor, mac, writer]
+name: Nicole Jones
+summary: Writer, editor (Facebook)
+categories:
+- editor
+- mac
+- writer
 ---
 
 #### Who are you, and what do you do?

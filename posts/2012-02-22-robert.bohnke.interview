@@ -1,8 +1,14 @@
 ---
-name: "Robert Böhnke"
-summary: "Software developer (SoundCloud)"
-categories: [developer, mac, software, windows]
-credits: {name: "Natalie Keshlear", url: "http://dotdotdotexclamationmark.tumblr.com/"}
+name: Robert Böhnke
+summary: Software developer (SoundCloud)
+categories:
+- developer
+- mac
+- software
+- windows
+credits:
+  name: Natalie Keshlear
+  url: http://dotdotdotexclamationmark.tumblr.com/
 ---
 
 #### Who are you, and what do you do?

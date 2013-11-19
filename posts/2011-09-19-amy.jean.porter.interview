@@ -1,7 +1,9 @@
 ---
-name: "Amy Jean Porter"
-summary: "Artist, friend to animals"
-categories: [artist, mac]
+name: Amy Jean Porter
+summary: Artist, friend to animals
+categories:
+- artist
+- mac
 ---
 
 #### Who are you, and what do you do?

@@ -1,7 +1,11 @@
 ---
-name: "Joost van Dongen"
-summary: "Game developer, cello player, co-founder (Ronimo Games)"
-categories: [developer, game, musician, windows]
+name: Joost van Dongen
+summary: Game developer, cello player, co-founder (Ronimo Games)
+categories:
+- developer
+- game
+- musician
+- windows
 ---
 
 #### Who are you, and what do you do?

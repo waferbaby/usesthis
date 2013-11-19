@@ -1,7 +1,9 @@
 ---
-name: "Aaron James Draplin"
-summary: "Designer, guitar player, badass"
-categories: [designer, mac]
+name: Aaron James Draplin
+summary: Designer, guitar player, badass
+categories:
+- designer
+- mac
 ---
 
 #### Who are you, and what do you do?

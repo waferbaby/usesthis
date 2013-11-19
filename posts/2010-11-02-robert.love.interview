@@ -1,7 +1,12 @@
 ---
-name: "Robert Love"
-summary: "Software engineer (Google)"
-categories: [developer, linux, mac, software, writer]
+name: Robert Love
+summary: Software engineer (Google)
+categories:
+- developer
+- linux
+- mac
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

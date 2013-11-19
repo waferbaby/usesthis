@@ -1,7 +1,11 @@
 ---
-name: "Jonathan Corbet"
-summary: "Linux kernel contributor, editor (LWN)"
-categories: [developer, editor, linux, software]
+name: Jonathan Corbet
+summary: Linux kernel contributor, editor (LWN)
+categories:
+- developer
+- editor
+- linux
+- software
 ---
 
 #### Who are you, and what do you do?

@@ -1,8 +1,14 @@
 ---
-name: "Ed Finkler"
-summary: "Web developer (Gimme Bar, Spaz)"
-categories: [developer, linux, mac, web]
-credits: {name: "Chris Shiflett", url: "http://www.flickr.com/photos/shiflett/4022501283/"}
+name: Ed Finkler
+summary: Web developer (Gimme Bar, Spaz)
+categories:
+- developer
+- linux
+- mac
+- web
+credits:
+  name: Chris Shiflett
+  url: http://www.flickr.com/photos/shiflett/4022501283/
 ---
 
 #### Who are you, and what do you do?

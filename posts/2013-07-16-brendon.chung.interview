@@ -1,7 +1,11 @@
 ---
-name: "Brendon Chung"
-summary: "Indie game developer (Blendo)"
-categories: [developer, mac, game, windows]
+name: Brendon Chung
+summary: Indie game developer (Blendo)
+categories:
+- developer
+- mac
+- game
+- windows
 ---
 
 #### Who are you, and what do you do?

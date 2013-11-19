@@ -1,7 +1,9 @@
 ---
-name: "Theresa Couchman"
-summary: "Author (The Unmapped Lands)"
-categories: [windows, writer]
+name: Theresa Couchman
+summary: Author (The Unmapped Lands)
+categories:
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

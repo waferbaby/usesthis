@@ -1,7 +1,11 @@
 ---
-name: "Mike Kruzeniski"
-summary: "Former principal design lead (Windows Phone)"
-categories: [designer, interface, mac, windows]
+name: Mike Kruzeniski
+summary: Former principal design lead (Windows Phone)
+categories:
+- designer
+- interface
+- mac
+- windows
 ---
 
 #### Who are you, and what do you do?

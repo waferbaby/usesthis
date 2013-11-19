@@ -1,7 +1,11 @@
 ---
-name: "Jonny Wilson"
-summary: "Video DJ"
-categories: [mac, musician, video, windows]
+name: Jonny Wilson
+summary: Video DJ
+categories:
+- mac
+- musician
+- video
+- windows
 ---
 
 #### Who are you, and what do you do?

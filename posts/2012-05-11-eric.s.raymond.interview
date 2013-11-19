@@ -1,7 +1,11 @@
 ---
-name: "Eric S Raymond"
-summary: "OSS developer, writer ('The Cathedral and the Bazaar')"
-categories: [developer, linux, software, writer]
+name: Eric S Raymond
+summary: OSS developer, writer ('The Cathedral and the Bazaar')
+categories:
+- developer
+- linux
+- software
+- writer
 ---
 
 #### Who are you, and what do you do?

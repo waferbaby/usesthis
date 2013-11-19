@@ -1,7 +1,11 @@
 ---
-name: "Salvatore Sanfilippo"
-summary: "Software developer (Redis)"
-categories: [developer, linux, mac, software]
+name: Salvatore Sanfilippo
+summary: Software developer (Redis)
+categories:
+- developer
+- linux
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?

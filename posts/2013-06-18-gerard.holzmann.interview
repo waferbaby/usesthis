@@ -1,7 +1,12 @@
 ---
-name: "Gerard Holzmann"
-summary: "Software researcher (JPL), developer (Spin)"
-categories: [developer, linux, researcher, software, windows]
+name: Gerard Holzmann
+summary: Software researcher (JPL), developer (Spin)
+categories:
+- developer
+- linux
+- researcher
+- software
+- windows
 ---
 
 #### Who are you, and what do you do?

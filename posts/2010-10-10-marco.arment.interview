@@ -1,7 +1,11 @@
 ---
-name: "Marco Arment"
-summary: "Developer (Instapaper, Tumblr)"
-categories: [developer, mac, software, web]
+name: Marco Arment
+summary: Developer (Instapaper, Tumblr)
+categories:
+- developer
+- mac
+- software
+- web
 ---
 
 #### Who are you, and what do you do?
