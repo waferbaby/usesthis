@@ -1,0 +1,64 @@
+#!/usr/bin/env ruby
+
+trap("SIGINT") { exit! }
+
+source_path = File.dirname(__dir__)
+$:.unshift(source_path)
+
+require 'rubygems'
+require 'yaml'
+require 'link_checker'
+
+def check_file(path)
+  begin
+    data = YAML::load_file(path)
+    result = LinkChecker::check_uri(URI(data['url']), true)
+    needs_update = false
+
+    case result.class.to_s
+        when "LinkChecker::Redirect"
+          url = result.final_destination_uri_string
+
+          if url != data['url']
+            data['url'] = url
+            print "+"
+
+            needs_update = true
+          else
+            print "."
+          end
+        when "LinkChecker::Error"
+          data['url'] = 'FIX ME'
+          print "!"
+
+          needs_update = true
+        else
+          print "."
+        end
+
+    if needs_update
+      File.open(path, 'w') do |file|
+        file.write(YAML::dump(data))
+      end
+    end
+  rescue Exception => e
+  end
+end
+
+puts "Checking hardware:"
+
+Dir.glob(File.join(source_path, 'data', 'wares', 'hardware', '*.yml')) do |path|
+  check_file(path)
+end
+
+puts "Checking software:"
+
+Dir.glob(File.join(source_path, 'data', 'wares', 'software', '*.yml')) do |path|
+  check_file(path)
+end
+
+puts "Checking community links:"
+
+Dir.glob(File.join(source_path, 'data', 'links', '**', '*.yml')) do |path|
+  check_file(path)
+end
