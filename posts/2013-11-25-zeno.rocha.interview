@@ -1,0 +1,57 @@
+---
+name: Zeno Rocha
+summary: Front-end Engineer
+categories:
+- developer
+- web
+- mac
+- software
+---
+
+#### Who are you, and what do you do?
+
+I’m [Zeno Rocha](http://zenorocha.com/), a 22 year old Front-end Engineer who lives in Brazil and works for an awesome company based in LA. Also a co-founder of [BrazilJS Foundation](http://braziljs.org/), host on [Zone of Front-enders](http://zofe.com.br/) and writer at [Smashing Magazine](http://www.smashingmagazine.com/).
+
+#### What hardware do you use?
+
+When I decided to work with computers, I wanted to try the major operating systems before saying *"Ok, this is what I want to use"*. I started the 2011 year using [Windows](http://windows.microsoft.com/), in the early months I migrated to a Linux distribution, [Ubuntu](http://www.ubuntu.com/), where I spent most of the year, but in the end I migrated to [Mac OSx](http://www.apple.com/osx/), the one that I still use today.
+
+Many people complain that Apple's computers are expensive. And they really are, specially in Brazil. The point is, we spent the whole day in computers, so if you want to be the best at what you do, you need the better machine.
+
+Today I am an extremely happy man using a [Macbook Pro](http://www.apple.com/macbook-pro/) 15" with 512GB SSD HD and 16GB RAM. I travel a lot, really, so it was hard to leave my old [Macbook Air](http://www.apple.com/macbook-air/) 13", but the new Pro models are coming as light as Air, so no big deal. At work I have an external monitor, but I usually don't use it.
+
+I know nothing about audio, but I know who understands. That's why I have a [Bose AE2](http://www.amazon.com/Bose%C2%AE-AE2-audio-headphones-Black/dp/B00478O0JI/) headset and a [Behringer C1U](http://www.amazon.com/Behringer-C-1U-Condenser-Microphone-Cardioid/dp/B001QXCYZY) microphone to record [ZOFE](http://zofe.com.br) podcast.
+
+To read an [iPad Mini](http://www.apple.com/ipad-mini/overview/) with Retina Display (I can't understand how people like those giant tablets). And also a [Nexus 4](http://www.google.com/nexus/4/) phone (the pure Android experience is amazing). As a secondary phone I have a [GeeksPhone Keon](http://shop.geeksphone.com/en/phones/1-keon.html) Developer's Preview with [FirefoxOS](http://www.mozilla.org/en-US/firefox/os/).
+
+#### And what software?
+
+I spend most of time in the browser, I have installed [Firefox Aurora](http://www.mozilla.org/en-US/firefox/aurora/) and [Opera Next](http://www.opera.com/computer/next), but my favorite still [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html). To test sites in older browsers, I use some Windows VMs in [VirtualBox](https://www.virtualbox.org/).
+
+Regarding code editors the answer is [Sublime Text](http://sublimetext.com/), now in version 3. I totally love this editor! My favorite plugins are: [Emmet](https://github.com/sergeche/emmet-sublime/) for HTML/CSS abbreviation, [GitGutter](https://github.com/jisaacks/GitGutter) to display diffs, [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter) for inline correction and [JSFormat](https://github.com/jdc0589/JsFormat) for formatting. I also created a set of [snippets for JavaScript and NodeJS](https://github.com/zenorocha/sublime-snippets-js) that helps me a lot and a theme called [Dracula](http://zenorocha.github.io/dracula-theme/). You can find the full list of plugins and settings in [GitHub](https://github.com/zenorocha/sublime-preferences).
+
+In the terminal I use [iTerm 2](http://www.iterm2.com/) and [zsh](http://www.zsh.org/) as shell, taking advantage of the dozens of plugins that comes with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh). I like tuning my [dotfiles](https://github.com/zenorocha/dotfiles) with some plugins like [Z](https://github.com/rupa/z) to navigate between directories.
+
+I'm totally addicted about improving productivity and I found in [Alfred](http://alfredapp.com) my soulmate. Through [PowerPack](http://www.alfredapp.com/powerpack/) I can create workflows that automate a lot of things for me. If you do not take anything from this interview at least [see this](https://github.com/zenorocha/alfred-workflows).
+
+I get involved with many projects at once and [Workflowy](https://workflowy.com/) has helped me maintain sanity with so many tasks to manage.
+
+Social networks are very relevant channels for sharing content, that's why I spend a lot of time there too. My favorite is [GitHub](http://github.com), of course, I'm one of the [20 most active users in the world](http://git.io/top).
+
+Speaking about GitHub, I use [Git](http://git-scm.com/) for versioning everything. I usually solve most of the things in the terminal, that's why [Eduardo Lundgren](http://twitter.com/eduardolundgren) and I created [NodeGH](http://nodegh.io), but things like iterative add I like to do on [SourceTree](http://www.sourcetreeapp.com/), and merging and difference visualizing I like to do on [Kaleidoscope](http://www.kaleidoscopeapp.com/).
+
+Almost everything I write involves [Markdown](http://en.wikipedia.org/wiki/Markdown), I love it. The [Mou](http://mouapp.com/) app with syntax highlight and live preview already became indispensable to me.
+
+I don't know how to handle RSS feeds, I have a huge list of blogs I like and end up accumulating a lot there without actually reading.
+
+I try to keep most of my stuff in the cloud to avoid loosing stuff if my computer get stolen (what actually happened recently in Madrid and, therefore, encouraged me to create a [setup guide for Mac OS X](https://gist.github. com/zenorocha/7159780)). I hear songs on [Spotify](https://www.spotify.com) (synced offline in mobile) and I keep my photos on [Google Photos](https://photos.google.com/).
+
+To record screencasts or edit videos I use [ScreenFlow](http://www.telestream.net/screenflow/), all my [GoPro videos](https://vimeo.com/zenorocha) were edited using this app too. To record GIFs I had this extremely complex process in terminal, until I found [LICEcap](http://www.cockos.com/licecap/), which is insanely easy.
+
+Shorten links and share files are made using [Cloud](http://getcloudapp.com), the ultimate experience for this kind of task I've ever encountered, and I managed to configure a domain just for it: [zno.io](http://zno.io). Also use [Dropbox](https://www.dropbox.com/) and [TimeMachine](http://support.apple.com/kb/ht1427) for backup.
+
+To manage my trips I use [Kayak](http://www.kayak.com) and [Google Now](http://www.google.com/landing/now/), both on mobile. The [1Password](https://agilebits.com/onepassword) has also been useful not only to store my passwords and software licenses but also to save frequent flyer program's numbers. I recently started using [Dash](http://kapeli.com/dash) to see documentation of languages/frameworks offline, that way I can program without problems on the airplane.
+
+#### What would be your dream setup?
+
+The one that I have now. There's nothing I would want more.
