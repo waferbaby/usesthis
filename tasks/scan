@@ -2,14 +2,33 @@
 
 trap("SIGINT") { exit! }
 
-source_path = File.dirname(__dir__)
-$:.unshift(source_path)
-
+require 'trollop'
 require 'rubygems'
 require 'yaml'
 require 'link_checker'
 
-def check_file(path)
+source_path = File.dirname(__dir__)
+$:.unshift(source_path)
+
+options = Trollop::options do
+  banner "Scan for broken or outdated links."
+  opt :type, "Either 'hardware', 'software' or 'links'", type: :string
+end
+
+Trollop::die :type, "must be either 'hardware', 'software' or 'links'" unless options[:type] =~ /^(hardware|software|links)$/
+
+glob = case options[:type]
+  when 'hardware'
+    File.join(source_path, 'data', 'wares', 'hardware', '*.yml')
+  when 'software'
+    File.join(source_path, 'data', 'wares', 'software', '*.yml')
+  when 'links'
+    File.join(source_path, 'data', 'links', '**', '*.yml')
+  end
+
+puts "Scanning:"
+
+Dir.glob(glob) do |path|
   begin
     data = YAML::load_file(path)
     result = LinkChecker::check_uri(URI(data['url']), true)
@@ -43,22 +62,4 @@ def check_file(path)
     end
   rescue Exception => e
   end
-end
-
-puts "Checking hardware:"
-
-Dir.glob(File.join(source_path, 'data', 'wares', 'hardware', '*.yml')) do |path|
-  check_file(path)
-end
-
-puts "Checking software:"
-
-Dir.glob(File.join(source_path, 'data', 'wares', 'software', '*.yml')) do |path|
-  check_file(path)
-end
-
-puts "Checking community links:"
-
-Dir.glob(File.join(source_path, 'data', 'links', '**', '*.yml')) do |path|
-  check_file(path)
 end
