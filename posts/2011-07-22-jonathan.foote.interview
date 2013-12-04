@@ -28,7 +28,7 @@ I'm fond of embedded Linux for [robotics](http://wiki.orbswarm.com/index.php?tit
 
 For microcontrollers, I'm solidly in the AVR camp, mostly because the open-source tools (avr-gcc, and avrdude) are great. I need another bloated IDE like I need soft memory errors. I don't do [Arduino][] because I know assembly and I'm a snob. I've been doing a lot of work with my own Atmega328 prototyping board I call the "[rotorboard](http://www.flickr.com/photos/headrotor/3534845287/ "A photo of the rotorboard.")." It is similar to an Arduino but with room for various drivers and an XBee wireless module. 
 
-Hardware tools: A Weller [W51 soldering iron][wes51], a low-end [Tektronix 4-channel scope][tds2004b], a [Fluke 179 DMM][fluke-170]. An Aoyue hot-air station for SMD. I love [these strippers][se-94]. A cheapo power screwdriver, and because I'm getting to That Age, a magnifying visor.
+Hardware tools: A Weller [W51 soldering iron][wes51], a low-end [Tektronix 4-channel scope][tds2004b], a [Fluke 179 DMM][179]. An Aoyue hot-air station for SMD. I love [these strippers][se-94]. A cheapo power screwdriver, and because I'm getting to That Age, a magnifying visor.
 
 #### And what software?
 
