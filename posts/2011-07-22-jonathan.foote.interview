@@ -32,7 +32,7 @@ Hardware tools: A Weller [W51 soldering iron][wes51], a low-end [Tektronix 4-cha
 
 #### And what software?
 
-Well, I've programmed everything from [1-bit microcontrollers][m14500] to a Cray X-MP using everything from FORTRAN punch cards to [brainfuck][]. My tools have not changed much since grad school: [emacs][] for coding and print statements for debugging.
+Well, I've programmed everything from 1-bit microcontrollers to a Cray X-MP using everything from FORTRAN punch cards to [brainfuck][]. My tools have not changed much since grad school: [emacs][] for coding and print statements for debugging.
 
 I depend on Unix tools -- [awk][], [grep][], [sed][], [bash][] -- for basic data munging. I've also been known to use the [C][] preprocessor to do silly things like generate printer art postscript files. I feel like I have the patience for perhaps one or two more bloated toolchain learning curves in my life: [Objective C][objective-c] may be one, VisualCsharp.net (or whatevertheheck it's called these days) is certainly not.
 
