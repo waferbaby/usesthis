@@ -1,0 +1,63 @@
+---
+name: Ashe Dryden
+summary: Developer, speaker, writer
+categories:
+- mac
+- developer
+- web
+- writer
+---
+
+#### Who are you, and what do you do?
+
+Hi, I'm [Ashe Dryden](http://ashedryden.com "Ashe's website.") and [@ashedryden](https://twitter.com/ashedryden "Ashe's Twitter account.") pretty much anywhere that counts. I've been a programmer for 13 years and sometimes-organizer of conferences and other OSS related events. I spend most of my time in the [Ruby][] community right now, but am tentacle-ing my way into [Python][] and [Clojure][], too. 
+
+I'm perhaps most well known for my work [writing](https://leanpub.com/the-diverse-team/ "Ashe's book on diverse teams."), [speaking](http://ashedryden.com/speaking/ "Ashe's speaking engagements."), organizing, and consulting to make tech more diverse and inclusive for women, people of color, LGBTQ people, people with disabilities, and other marginalized people. That means I read a lot of academic papers and research, as well as books on culture, the history of social movements and oppression, and social philosophy. All this has me traveling around the world near constantly.
+
+I'm moderately obsessive about burritos, bubble tea, science fiction, board games, and cats.
+
+#### What hardware do you use?
+
+My current machine is last summer's [13" MacBook Air][macbook-air], maxed out. During the 4ish months of the year when I'm at home, it's plugged into a [Thunderbolt display][thunderbolt-display]. I control it from a 10 year old [Logitech Trackman][trackman-marble], of which I own three because it's the best mouse of all time and I'm terrified of it not being able to replace it. I'm never without my [Urban Ears Medis headphones][medis]; they're not for audiophiles, but they get the job done without falling out of my super tiny ears, which is more than I can say about every other set of in-ears I've found.
+
+My [iPhone 4s][iphone-4s] famously never leaves my hand. I refuse to upgrade to a 5* because my hands are too small to manage the extra screen real estate. I've usually got my [New Trent battery pack][icarrier] with me, too, which sees a lot of use. Bonus points for it having two usb ports: you can be the most popular kid at the party.
+
+On the road I carry a few extra things. For presenting, a [Logitech Wireless Presenter r400][wireless-presenter-r400] - it's small and gets the job done.  I also travel with a [Logitech Wireless Gamepad F710][f710], which I love. All that, plus a few changes of clothes fit nicely into my [Kelty Pawnee][womens-pawnee-35] which is the only bag I travel with.
+
+Year round my only personal transport is a [Surly Cross-Check][cross-check] for commuting, touring, and camping. Next year I'm looking forward to taking it with on my trips around the world, too.
+
+A [Fitbit Flex][flex] is my required piece of wearable tech.
+
+#### And what software?
+
+I run [OS X][mac-os-x] Mavericks and have found it agreeable so far.
+
+I use a lot of the usual suspects: [1Password][] to manage passwords across devices, [Alfred][] with the Powerpack to get to basically everything, [Caffeine][] to thwart sleep mode, [F.lux][] to prevent migraines, [Shush][] for mic management, [Dropbox][] for file backups, the pre-V2 release of [Skitch][] because it's far superior, and [Bartender][] to sweep all of that out of sight.
+
+For anything programming related, I use [zsh][] in [iTerm2][] and [vim][] (but I don't get religious about it) via [MacVim][] with a few plugins written by tpope. I would set my whole life to [Solarized's][solarized] Dark Theme if it were possible and I don't want to imagine a world without [Homebrew][]. Everything is under version control with [git][]. Most of the programming I do anymore is in [Ruby on Rails][rails], but my blog is still running [Drupal][]. I do my best not to get distracted by using [Tomato Timer][tomato-timer] for pomodoros.
+
+I do all of my writing in [Markdown][] through [Mou][], but I've been meaning to try [Marked][].
+
+[iMessage][], [Tweetbot for iOS][tweetbot-ios], and [Tweetbot for OS X][tweetbot-mac] for Twitter are the only ways I really communicate with people anymore, but I pop into IRC on a semi-regular basis.
+
+I've found it hard to hard to move away from [Chrome][] and use Google apps for all of my [mail][gmail], [calendar][google-calendar], [document management][google-docs], and [hangouts][google-hangouts] for the majority of my video calls.
+
+For gaming, I use [Gamepad Companion][gamepad-companion] to configure my controller and [OpenEmu][] for emulating [ROMs](https://archive.org/details/messmame "A collection of ROMs for MAME and MESS on Archive.org."). I mostly play old NES and SNES RPGs right now, but enjoy this silly game The Firefighter for SNES, too. On iOS I play a lot of [Carcassonne][carcassonne-ios] and [Ticket to Ride][ticket-to-ride-ios], both with expansions.
+
+As long as I'm awake, I'm listening to music. I do that through [Rdio][] and [scrobble over to my last.fm](http://www.last.fm/user/simplycontent "Ashe's Last.fm account.") where people judge my questionable taste.
+
+I save the whole of the Internet into [Instapaper][], which I've been using since it's inception. I re-share things through [Buffer][] so I don't overwhelm people with my reading habits. Otherwise I read books via both [Kindle][kindle-ios] and [iBooks][ibooks-ios] apps, neither of which I am very satisfied with.
+
+I give all of my talks from [Keynote][]. I practice my Spanish with [Duolingo][duolingo-ios], couldn't travel without [Tripit Pro][tripit], and use [Cyclemeter][cyclemeter-gps-ios] for all my cycling data.
+
+I use iOS's accessibility shortcut to toggle to inverted mode to read at night and to avoid migraines.
+
+#### What would be your dream setup?
+
+An LTE Retina 11" MacBook Air with a detachable touch screen that resists fingerprints, because I want to carry only one device for everything. Small in-ear Bluetooth noise canceling headphones that keep me up to date on reminders. It goes without saying that all of this is wireless, including power.
+
+On-demand captioning on my regular non-cyborg-looking glasses as well as a single piece of wearable tech that combines what the next-gen of fitness, medical, and information/smart watches will be.
+
+A near-instant method of travel that negates the effects of physical distance.
+
+But I'd give all that up for the simultaneous heat death of both email and the [kyriarchy](http://en.wikipedia.org/wiki/Kyriarchy "The Wikipedia entry for Kyriarchy.").
