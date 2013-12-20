@@ -361,6 +361,12 @@ margin: 10px 0;
 	font-size: 65%;
 	}
 
+	ul.links {
+	-webkit-column-count: 1;
+	-moz-column-count: 1;
+	column-count: 1;
+	}
+
 	ul.months {
 	font-size: 70%;
 	}
