@@ -10,6 +10,8 @@ module UsesThis
       @paths[:links] = File.join(@paths[:source], 'data', 'links')
 
       @wares, @links = {}, { personal: [], inspired: [] }
+
+      @settings[:markdown_options][:auto_ids] = false
     end
 
     def scan_files
