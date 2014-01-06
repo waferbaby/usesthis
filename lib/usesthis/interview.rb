@@ -2,6 +2,7 @@ require 'kramdown'
 
 module UsesThis
   class Interview < Salt::Post
+    attr_accessor :wares, :markdown
 
     def self.path
       "interviews"
@@ -12,7 +13,7 @@ module UsesThis
 
       @layout = 'interview'
       @wares = {}
-      @markdown_contents = nil
+      @markdown = nil
     end
 
     def scan_links
