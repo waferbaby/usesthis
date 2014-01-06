@@ -2,7 +2,7 @@ require 'kramdown'
 
 module UsesThis
   class Interview < Salt::Post
-    attr_accessor :wares, :markdown
+    attr_accessor :wares
 
     def self.path
       "interviews"
@@ -13,7 +13,6 @@ module UsesThis
 
       @layout = 'interview'
       @wares = {}
-      @markdown = nil
     end
 
     def scan_links
@@ -27,6 +26,8 @@ module UsesThis
 
     def contents
       if @markdown.nil?
+        site = UsesThis::Site.instance
+
         output = @contents
 
         if @wares.length > 0
@@ -37,7 +38,7 @@ module UsesThis
           end
         end
 
-        @markdown = Kramdown::Document.new(output, auto_ids: false).to_html
+        @markdown = Kramdown::Document.new(output, site.settings[:markdown_options]).to_html
       end
 
       @markdown
