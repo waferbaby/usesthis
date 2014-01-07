@@ -4,10 +4,6 @@ module UsesThis
   class Interview < Salt::Post
     attr_accessor :wares
 
-    def self.path
-      "interviews"
-    end
-
     def initialize(path)
       super
 
@@ -42,6 +38,10 @@ module UsesThis
       end
 
       @markdown
+    end
+
+    def output_path(site, parent_path)
+      File.join(parent_path, @slug)
     end
   end
 end
