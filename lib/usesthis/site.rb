@@ -3,7 +3,7 @@ module UsesThis
 
     attr_accessor :wares, :links
 
-    def setup(path = nil, config = {})
+    def setup(config = {})
 
       @settings[:markdown_options][:auto_ids] = false
       @settings[:output][:posts] = 'interviews'
