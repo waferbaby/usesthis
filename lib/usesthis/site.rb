@@ -7,12 +7,14 @@ module UsesThis
 
       @settings[:markdown_options][:auto_ids] = false
       @settings[:output][:posts] = 'interviews'
-      @settings[:archives] = {
-        years: '%Y',
-        months: '%B %Y',
-        days: false,
-        layout: 'interviews'
-      }
+
+      @settings[:make_day_archives] = false;
+      @settings[:month_format] = '%B %Y';
+
+      @settings[:layouts][:listing] = 'interviews';
+      @settings[:layouts][:category] = 'interviews';
+      @settings[:layouts][:years] = 'interviews';
+      @settings[:layouts][:months] = 'interviews';
 
       super
 
