@@ -1,4 +1,4 @@
-require 'kramdown'
+require 'redcarpet'
 
 module UsesThis
   class Interview < Salt::Post
@@ -34,7 +34,7 @@ module UsesThis
           end
         end
 
-        @markdown = Kramdown::Document.new(output, site.settings[:markdown_options]).to_html
+        @markdown = site.markdown_renderer.render(output)
       end
 
       @markdown
