@@ -13,8 +13,6 @@ module UsesThis
 
       @settings[:layouts][:listing] = 'interviews';
       @settings[:layouts][:category] = 'interviews';
-      @settings[:layouts][:years] = 'interviews';
-      @settings[:layouts][:months] = 'interviews';
 
       super
 
