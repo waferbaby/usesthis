@@ -20,10 +20,9 @@ module UsesThis
       end
     end
 
-    def contents
+    def markdown
       if @markdown.nil?
         site = UsesThis::Site.instance
-
         output = @contents
 
         if @wares.length > 0
