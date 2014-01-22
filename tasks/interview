@@ -18,7 +18,7 @@ date = Time.now.strftime('%Y-%m-%d')
 
 file_path = File.join(source_path, 'posts', "#{date}-#{slug}.interview")
 if File.exists?(file_path)
-  puts "Interview already exists for #{slu}."
+  puts "Interview already exists for #{slug}."
   exit
 end
 
