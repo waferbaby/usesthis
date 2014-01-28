@@ -5,7 +5,7 @@ trap("SIGINT") { exit! }
 require 'trollop'
 require 'rubygems'
 require 'yaml'
-require 'link_checker'
+require 'net/http'
 
 source_path = File.dirname(__dir__)
 $:.unshift(source_path)
@@ -29,37 +29,42 @@ glob = case options[:type]
 puts "Scanning:"
 
 Dir.glob(glob) do |path|
+  data = YAML::load_file(path)
+  needs_update = false
+
   begin
-    data = YAML::load_file(path)
-    result = LinkChecker::check_uri(URI(data['url']), true)
-    needs_update = false
+    print "- #{data['name']}: "
 
-    case result.class.to_s
-        when "LinkChecker::Redirect"
-          url = result.final_destination_uri_string
+    url = URI(data['url'])
+    response = Net::HTTP.get_response(url)
+    
+    case response
+      when Net::HTTPSuccess then
+        puts "Okay."
+      when Net::HTTPMovedPermanently, Net::HTTPMovedTemporarily, Net::HTTPRedirection then
+        new_url = response['location']
+        new_url = "#{url.scheme}://#{url.host}#{new_url}" unless new_url =~ /^https?:\/\//
 
-          if url != data['url']
-            data['url'] = url
-            print "+"
+        data['url'] = new_url
+        needs_update = true
 
-            needs_update = true
-          else
-            print "."
-          end
-        when "LinkChecker::Error"
-          data['url'] = 'FIX ME'
-          print "!"
+        puts "Updated (#{response.code})."
+      when Net::HTTPNotFound then
+        data['url'] = 'FIX ME'
+        needs_update = true
 
-          needs_update = true
-        else
-          print "."
-        end
-
-    if needs_update
-      File.open(path, 'w') do |file|
-        file.write(YAML::dump(data))
-      end
+        puts "Not found."
+      else
+        puts "#{response.code}?"
     end
+
   rescue Exception => e
+    puts e
+  end
+
+  if needs_update
+    File.open(path, 'w') do |file|
+      file.write(YAML::dump(data))
+    end
   end
 end
