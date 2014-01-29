@@ -1,30 +1,21 @@
 #!/usr/bin/env ruby
 
-require 'trollop'
-
 source_path = File.dirname(__dir__)
 
 $:.unshift(source_path)
 
-options = Trollop::options do
-  banner "Create a new interview."
-  opt :name, "The name of the ware", type: :string
-end
+abort("You must supply a name for the interviewee.") if ARGV.length < 2
 
-Trollop::die :name, "must exist" if options[:name].nil?
-
-slug = options[:name].downcase.gsub(/ /, '.')
+name = ARGV.join(' ')
+slug = name.downcase.gsub(/ /, '.')
 date = Time.now.strftime('%Y-%m-%d')
 
 file_path = File.join(source_path, 'posts', "#{date}-#{slug}.interview")
-if File.exists?(file_path)
-  puts "Interview already exists for #{slug}."
-  exit
-end
+abort("Interview already exists for #{slug}.") if File.exists?(file_path)
 
 output = <<OUTPUT
 ---
-name: #{options[:name]}
+name: #{name}
 summary: (summary)
 categories:
 - (category)
