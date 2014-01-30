@@ -47,12 +47,13 @@ margin: auto;
 }
 
 dd {
-padding: 10px;
-margin: 0 0 10px 0;
+padding: 0;
+margin: 0 0 20px 0;
 }
 
 dt {
 font-style: italic;
+color: #fe2e9a;
 }
 
 footer {
