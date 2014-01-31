@@ -8,10 +8,12 @@ title: Interviews
     <a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
     <h3 class="person"><a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><%= interview.name %></a></h3>
     <p class="summary"><%= interview.summary %></p>
-    <p class="date">Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>"><%= interview.date.strftime('%b %d, %Y') %>.</time></p>
-    <% if interview.credits %>
-      <p class="credits">Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="View more about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %></p>
-    <% end %>
+    <p class="details">
+      Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>"><%= interview.date.strftime('%B %d, %Y') %>.</time>
+      <% if interview.credits %>
+        Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="View more about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %>.
+      <% end %>
+    </p>
     <ul class="categories">
     <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
     </ul>
