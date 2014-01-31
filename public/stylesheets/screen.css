@@ -11,17 +11,13 @@ clear: left;
 }
 
 body {
-padding: 30px;
+padding: 30px 0;
 margin: 0;
 background-color: #fff;
 color: #000;
 font-family: "source sans pro", source-sans-pro, sans-serif;
 font-size: 15px;
 line-height: 1.4em;
-}
-
-div#answers {
-width: 500px;
 }
 
 div#content {
@@ -41,7 +37,7 @@ width: 160px;
 }
 
 div#wrapper {
-width: 1100px;
+width: 720px;
 padding: 30px;
 margin: auto;
 }
@@ -95,8 +91,7 @@ font-size: 125%;
 }
 
 img.portrait {
-float: left;
-margin: 0 20px 20px 0;
+margin: 0 0 10px 0;
 border: solid 1px #000;
 }
 
@@ -129,14 +124,7 @@ nav#paginator span {
 color: #aaa;
 }
 
-p.credits {
-padding: 0;
-margin: 0;
-color: #aaa;
-font-size: 80%;
-}
-
-p.date {
+p.details {
 padding: 0;
 margin: 0;
 color: #aaa;
@@ -168,10 +156,15 @@ color: #777;
 }
 
 ul.categories {
-padding: 10px 0;
-margin: 10px 0;
+padding: 0;
+margin: 5px 0 15px 0;
 list-style: none inside;
-font-size: 85%;
+font-size: 80%;
+}
+
+ul.categories:before {
+content: "Filed under ";
+color: #aaa;
 }
 
 ul.categories li {
@@ -209,9 +202,9 @@ border: solid 1px #aaa;
 }
 
 ul.links {
--webkit-column-count: 3;
--moz-column-count: 3;
-column-count: 3;
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-count: 2;
 }
 
 ul.months {
@@ -238,32 +231,6 @@ ul.years {
 list-style: none inside;
 padding: 0;
 margin: 10px 0;
-}
-
-@media screen and (max-width: 1190px) {
-
-	body {
-	padding: 30px 0;
-	}
-
-	div#wrapper {
-	width: 720px;
-	}
-
-	img.portrait {
-	float: none;
-	margin: 0 0 10px 0;
-	}
-
-	ul.categories {
-	margin-bottom: 30px;
-	}
-
-	ul.links {
-	-webkit-column-count: 2;
-	-moz-column-count: 2;
-	column-count: 2;
-	}
 }
 
 @media screen and (max-device-width: 480px) {
