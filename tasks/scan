@@ -2,7 +2,6 @@
 
 trap("SIGINT") { exit! }
 
-require 'trollop'
 require 'rubygems'
 require 'yaml'
 require 'net/http'
@@ -10,14 +9,11 @@ require 'net/http'
 source_path = File.dirname(__dir__)
 $:.unshift(source_path)
 
-options = Trollop::options do
-  banner "Scan for broken or outdated links."
-  opt :type, "Either 'hardware', 'software' or 'links'", type: :string
-end
+type = ARGV[0]
 
-Trollop::die :type, "must be either 'hardware', 'software' or 'links'" unless options[:type] =~ /^(hardware|software|links)$/
+abort("I can scan for 'hardware', 'software' or 'links'.") unless type =~ /^(hardware|software|links)$/
 
-glob = case options[:type]
+glob = case type
   when 'hardware'
     File.join(source_path, 'data', 'wares', 'hardware', '*.yml')
   when 'software'
