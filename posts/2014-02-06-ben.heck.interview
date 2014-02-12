@@ -17,16 +17,16 @@ In 2004, I quite literally quit my day job to write a book. I had been “hackin
 
 We use a lot of CNC machinery on the show. I have a [CNC machine](http://www.element14.com/community/docs/DOC-24749/l/episode-2-ben-builds-a-portable-cnc-router "A show where Ben builds a CNC machine.") I use to mill large objects and do plastic and woodworking. I use my Epilogue laser cutter a lot as well.
 
-I have a MakerBot 3D printer that I use to 3D print parts, but I also have my [own portable 3D printer](http://www.element14.com/community/docs/DOC-36297/l/episode-19-watch-ben-heck-builds-a-portable-3d-printer "A show where Ben builds a 3D printer.") that comes in handy! Along those lines, we have a [3D Systems Cube 3D Printer][cube] and a new 3D scanner we've been testing out for an episode of the show.
+I have a [MakerBot 3D printer][replicator] that I use to 3D print parts, but I also have my [own portable 3D printer](http://www.element14.com/community/docs/DOC-36297/l/episode-19-watch-ben-heck-builds-a-portable-3d-printer "A show where Ben builds a 3D printer.") that comes in handy! Along those lines, we have a [3D Systems Cube 3D Printer][cube] and a new 3D scanner we've been testing out for an episode of the show.
 
-Of course, I have computers for laying out all of my designs. We also use a variety of hand tools, the favorite of which is my pair of [tweezers](http://www.element14.com/community/docs/DOC-54938/l/episode-89-watch-ben-heck-s-basic-tools-episode "A show where Ben discusses his basic tools.") that I cannot live without. I have a nice Weller soldering iron from element14 that is great for modding. These are all the major hardware I use on a daily basis.
+Of course, I have computers for laying out all of my designs. We also use a variety of hand tools, the favorite of which is my pair of [tweezers](http://www.element14.com/community/docs/DOC-54938/l/episode-89-watch-ben-heck-s-basic-tools-episode "A show where Ben discusses his basic tools.") that I cannot live without. I have a nice [Weller soldering iron][wesd51] from element14 that is great for modding. These are all the major hardware I use on a daily basis.
 
 In terms of favorites, I enjoy using microcontrollers. We use microcontrollers quite a bit to create our builds and those are a lot of fun. [Arduino][] is a great place to start for those people who are new to hacking and modding.
 
 #### And what software?
 
 I do a lot of my layout in [Adobe Illustrator][illustrator], the two-dimensional art program, because of my background as a graphic artist. Often when laying out designs I'll draw it in 2D because that's faster than 3D.
-We also use Autodesk 123 to make three-dimensional objects. Autodesk is becoming popular for DIYers, and they offer a lot of free options on their website to learn from if you're new to hacking.
+We also use [Autodesk 123][123d-design] to make three-dimensional objects. Autodesk is becoming popular for DIYers, and they offer a lot of free options on their website to learn from if you're new to hacking.
 
 Of course, we edit element14's The Ben Heck Show using [Adobe Premiere][premiere]. I have been an Adobe guy since the 90s. I still use [Photoshop][] quite a bit from my graphic artist days. 
 
