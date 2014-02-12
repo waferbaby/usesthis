@@ -1,6 +1,6 @@
 module UsesThis
   class Ware
-    attr_accessor :slug, :name, :description, :url
+    attr_accessor :slug, :name, :description, :url, :interviews
 
     def initialize(path)
       metadata = YAML::load_file(path)
@@ -10,6 +10,7 @@ module UsesThis
       @name = metadata['name']
       @description = metadata['description']
       @url = metadata['url']
+      @interviews = []
     end
   end
 end
