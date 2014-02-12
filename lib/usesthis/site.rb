@@ -37,6 +37,10 @@ module UsesThis
 
       @posts.each do |post|
         post.scan_links
+
+        post.wares.each do |slug, data|
+          @wares[slug].interviews << post.slug unless @wares[slug].interviews.include?(post.slug)
+        end
       end
     end
   end
