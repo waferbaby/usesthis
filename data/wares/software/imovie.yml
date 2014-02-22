@@ -1,4 +1,5 @@
 ---
 name: iMovie
 description: An OS X video editor, included in iLife.
+developer: apple
 url: http://www.apple.com/ilife/imovie/

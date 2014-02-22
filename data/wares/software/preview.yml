@@ -1,4 +1,5 @@
 ---
 name: Preview
 description: The image/PDF viewer included with Mac OS X.
+developer: apple
 url: http://support.apple.com/kb/HT2506

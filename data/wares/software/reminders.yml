@@ -1,4 +1,5 @@
 ---
 name: Reminders
 description: A to-do list included with OS X.
+developer: apple
 url: http://www.apple.com/osx/apps/#reminders

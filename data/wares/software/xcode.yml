@@ -1,4 +1,5 @@
 ---
 name: XCode
 description: An IDE for Mac developers.
+developer: apple
 url: http://developer.apple.com/technology/tools.html

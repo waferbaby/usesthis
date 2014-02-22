@@ -1,4 +1,5 @@
 ---
 name: Mac OS X
 description: The operating system for the Mac platform.
+developer: apple
 url: http://www.apple.com/macosx/

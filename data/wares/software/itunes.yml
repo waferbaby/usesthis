@@ -1,4 +1,5 @@
 ---
 name: iTunes
 description: The infamous jukebox application.
+developer: apple
 url: http://www.apple.com/itunes/
