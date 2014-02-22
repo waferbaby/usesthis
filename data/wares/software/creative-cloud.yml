@@ -1,4 +1,5 @@
 ---
 name: Creative Cloud
 description: A subscription service for Adobe's creative suite.
+developer: adobe
 url: http://www.adobe.com/products/creativecloud.html

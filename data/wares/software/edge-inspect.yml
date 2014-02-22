@@ -1,4 +1,5 @@
 ---
 name: Edge Inspect
 description: A cross-browser testing service
+developer: adobe
 url: http://html.adobe.com/edge/inspect/
