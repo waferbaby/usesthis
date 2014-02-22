@@ -1,4 +1,5 @@
 ---
 name: Google Earth
 description: Software for modelling a 3D view of our planet.
+developer: google
 url: http://www.google.com/earth/

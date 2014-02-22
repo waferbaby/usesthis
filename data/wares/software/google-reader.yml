@@ -1,4 +1,5 @@
 ---
 name: Google Reader
 description: A web-based feed reader.
+developer: google
 url: http://reader.google.com/

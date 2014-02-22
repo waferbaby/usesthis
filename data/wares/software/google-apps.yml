@@ -1,4 +1,5 @@
 ---
 name: Google Apps
 description: A hosted solution for email, calendaring and more.
+developer: google
 url: http://google.com/apps/intl/en/business/

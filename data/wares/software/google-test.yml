@@ -1,4 +1,5 @@
 ---
 name: Google Test
 description: A developer's test framework.
+developer: google
 url: https://code.google.com/p/googletest/

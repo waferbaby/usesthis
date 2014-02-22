@@ -1,4 +1,5 @@
 ---
 name: Google Voice
 description: A phone number and online voicemail system.
+developer: google
 url: http://www.google.com/voice

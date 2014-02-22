@@ -1,4 +1,5 @@
 ---
 name: Google Cultural Institute
 description: A service for viewing artworks from institutions around the world.
+developer: google
 url: http://www.google.com/culturalinstitute/

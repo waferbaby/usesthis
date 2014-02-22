@@ -1,4 +1,5 @@
 ---
 name: Google Music
 description: An online music player.
+developer: google
 url: https://music.google.com/

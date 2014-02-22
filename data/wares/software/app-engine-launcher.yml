@@ -1,4 +1,5 @@
 ---
 name: Google App Engine Launcher
 description: An SDK/launcher for the App Engine, for the Mac.
+developer: google
 url: https://developers.google.com/appengine/downloads?csw=1

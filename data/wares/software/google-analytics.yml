@@ -1,4 +1,5 @@
 ---
 name: Google Analytics
 description: Web analytics.
+developer: google
 url: http://www.google.com/analytics/

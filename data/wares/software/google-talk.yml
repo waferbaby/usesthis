@@ -1,4 +1,5 @@
 ---
 name: Google Talk
 description: Google's own audio/video/text chat system.
+developer: google
 url: http://www.google.com/talk/

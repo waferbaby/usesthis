@@ -1,4 +1,5 @@
 ---
 name: Google Calendar
 description: A web-based calendar client.
+developer: google
 url: http://calendar.google.com/
