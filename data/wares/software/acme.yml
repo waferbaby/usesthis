@@ -1,4 +1,5 @@
 ---
 name: acme
 description: A text editor and graphical shell for Plan 9.
+developer: rob.pike
 url: http://en.wikipedia.org/wiki/Acme_(text_editor)

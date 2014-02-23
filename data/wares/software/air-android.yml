@@ -1,4 +1,5 @@
 ---
 name: AIR for Android
 description: Software to convert ActionScript applications to Android apps.
+developer: adobe
 url: https://play.google.com/store/apps/details?id=com.adobe.air
