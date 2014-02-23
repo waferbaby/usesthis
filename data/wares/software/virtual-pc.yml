@@ -1,4 +1,5 @@
 ---
 name: Virtual PC
 description: Windows emulation software, for Windows.
+developer: microsoft
 url: https://www.microsoft.com/windows/virtual-pc/features/default.aspx

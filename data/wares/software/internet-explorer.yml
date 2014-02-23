@@ -1,4 +1,5 @@
 ---
 name: Internet Explorer
 description: A PC web browser.
+developer: microsoft
 url: http://www.microsoft.com/windows/internet-explorer/

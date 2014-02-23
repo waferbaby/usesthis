@@ -1,4 +1,5 @@
 ---
 name: Visual C++
 description: An IDE for Windows software development.
+developer: microsoft
 url: http://msdn.microsoft.com/en-us/vstudio/hh388567.aspx

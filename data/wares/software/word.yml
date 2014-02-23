@@ -1,4 +1,5 @@
 ---
 name: MS Word
 description: A popular document editor.
+developer: microsoft
 url: http://office.microsoft.com/en-us/word/

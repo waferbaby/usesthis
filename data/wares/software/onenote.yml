@@ -1,4 +1,5 @@
 ---
 name: OneNote
 description: Synced notes software (part of Office).
+developer: microsoft
 url: http://office.microsoft.com/en-us/onenote/

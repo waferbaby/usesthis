@@ -1,4 +1,5 @@
 ---
 name: Excel
 description: A popular spreadsheet application.
+developer: microsoft
 url: http://office.microsoft.com/en-us/excel/default.aspx

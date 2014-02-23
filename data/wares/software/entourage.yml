@@ -1,4 +1,5 @@
 ---
 name: Entourage
 description: A Mac email client included with Office.
+developer: microsoft
 url: http://www.microsoft.com/mac/products/entourage2008/default.mspx

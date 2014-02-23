@@ -1,4 +1,5 @@
 ---
 name: Visual Studio Express
 description: An IDE for Windows.
+developer: microsoft
 url: http://www.microsoft.com/express/windows/

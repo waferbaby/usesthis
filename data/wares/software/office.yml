@@ -1,4 +1,5 @@
 ---
 name: Office
 description: The infamous software package.
+developer: microsoft
 url: http://office.microsoft.com/
