@@ -1,4 +1,5 @@
 ---
 name: Applesoft BASIC
 description: The version of BASIC that came with Apple II computers.
+developer: apple
 url: http://en.wikipedia.org/wiki/Applesoft_BASIC

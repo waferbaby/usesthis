@@ -1,4 +1,5 @@
 ---
 name: AppZapper
 description: Software for uninstalling applications on the Mac.
+developer: appzapper
 url: http://appzapper.com/

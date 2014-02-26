@@ -1,4 +1,5 @@
 ---
 name: Apache
 description: Web server software.
+developer: apache
 url: http://www.apache.org/

@@ -1,4 +1,5 @@
 ---
 name: APLpy
 description: The Astronomical Plotting Library in Python.
+developer: astropy
 url: http://aplpy.github.io/
