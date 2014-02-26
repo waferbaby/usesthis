@@ -1,4 +1,5 @@
 ---
 name: Arq
 description: S3-based backup for the Mac.
+developer: haystack-software
 url: http://www.haystacksoftware.com/arq/
