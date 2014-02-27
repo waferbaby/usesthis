@@ -1,4 +1,5 @@
 ---
 name: AsciiDoc TextMate Bundle
 description: A TextMate bundle for working with AsciiDoc.
+developer: christian.zuckschwerdt
 url: https://github.com/zuckschwerdt/asciidoc.tmbundle
