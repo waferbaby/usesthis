@@ -1,5 +1,4 @@
 ---
 name: Google Places
 description: A location service.
-developer: google
 url: http://www.google.com/places/

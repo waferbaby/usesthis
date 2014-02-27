@@ -1,5 +1,4 @@
 ---
 name: Google Flights
 description: A service for looking up flights.
-developer: google
 url: https://www.google.com/flights/

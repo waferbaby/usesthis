@@ -1,5 +1,4 @@
 ---
 name: Mail
 description: The default Mac OS X mail client.
-developer: apple
 url: http://www.apple.com/macosx/features/mail.html

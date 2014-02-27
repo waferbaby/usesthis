@@ -1,5 +1,4 @@
 ---
 name: AMQP
 description: A queueing protocol.
-developer: oasis
 url: http://www.amqp.org/
