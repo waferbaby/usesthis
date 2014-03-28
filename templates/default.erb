@@ -31,8 +31,10 @@
 		<div id="wrapper">
 			<div id="stump">
 				<header>
+					<% if @this.type == :post %><a href="/" title="The most recent interviews."><% end %>
 					<h1>The Setup</h1>
 					<h2><% if @this.type == :post %>Interview<% else %><%= @this.title %><% end %></h2>
+					<% if @this.type == :post %></a><% end %>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 
