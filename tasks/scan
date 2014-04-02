@@ -39,12 +39,17 @@ Dir.glob(glob) do |path|
         puts "Okay."
       when Net::HTTPMovedPermanently, Net::HTTPMovedTemporarily, Net::HTTPRedirection then
         new_url = response['location']
-        new_url = "#{url.scheme}://#{url.host}#{new_url}" unless new_url =~ /^https?:\/\//
 
-        data['url'] = new_url
-        needs_update = true
+        if new_url =~ /jsessionid/
+          puts "Looks like a session URL"
+        else
+          new_url = "#{url.scheme}://#{url.host}#{new_url}" unless new_url =~ /^https?:\/\//
 
-        puts "Updated (#{response.code})."
+          data['url'] = new_url
+          needs_update = true
+
+          puts "Updated (#{response.code})."
+        end
       when Net::HTTPNotFound then
         data['url'] = 'FIX ME'
         needs_update = true
