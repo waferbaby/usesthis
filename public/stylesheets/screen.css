@@ -25,6 +25,10 @@ font-size: 15px;
 line-height: 1.4em;
 }
 
+code {
+color: #888;
+}
+
 div#content {
 margin-left: 220px;
 }
