@@ -52,7 +52,7 @@ If I don't have to stick to things that exist, though...
 
 A MacBook air, but with a fast E Ink display that uses all of the bezel space (so roughly 14.5"; the current display is about 13.25"). I don't care that it's grayscale; I just want pixel density and low power consumption.
 
-A modal editor, roughly keystroke compatible with Vim's normal and visual modes, but with an entirely new ex mode. It's scriptable in some reasonable modern language that fails early and loudly in the face of error or ambiguity. Python, but with "end" markers added, blocks added, and \__builtins\__ removed, would be a good start. I gave a whole [conference talk](https://www.destroyallsoftware.com/talks/a-whole-new-world "Gary's talk about his ambitious software project.") about this.
+A modal editor, roughly keystroke compatible with Vim's normal and visual modes, but with an entirely new ex mode. It's scriptable in some reasonable modern language that fails early and loudly in the face of error or ambiguity. Python, but with "end" markers added, blocks added, and `__builtins__` removed, would be a good start. I gave a whole [conference talk](https://www.destroyallsoftware.com/talks/a-whole-new-world "Gary's talk about his ambitious software project.") about this.
 
 All data that I create stored locally, on my machine, in a file system where everything from the full disk state down has a hash and all change history is stored. If it runs out of space and needs to delete history, it will ask me first, blocking the entire machine if necessary. (This is just Stanislav's [second law of sane personal computing](http://www.loper-os.org/?p=284 "An article descripting the Seven Laws of Sane Personal Computing.")).
 
