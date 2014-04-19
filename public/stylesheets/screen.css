@@ -34,7 +34,7 @@ margin-left: 220px;
 }
 
 div#sellout {
-padding-top: 60px;
+padding-top: 5px;
 color: #777;
 font-size: 80%;
 }
@@ -152,6 +152,11 @@ padding: 5px 0;
 margin: 0;
 color: #777;
 font-size: 110%;
+}
+
+p#feeds {
+font-size: 85%;
+color: #aaa;
 }
 
 p#tagline {
@@ -304,6 +309,7 @@ margin: 10px 0;
 	padding: 10px 0;
 	border-top: solid 1px #eee;
 	border-bottom: solid 1px #eee;
+	font-size: 90%;
 	}
 
 	nav#main ul li {
@@ -322,6 +328,12 @@ margin: 10px 0;
 	nav#main ul li a:link, nav#main ul li a:visited {
 	display: inline;
 	border: 0;
+	}
+
+	p#feeds {
+	padding: 0;
+	margin: 0 0 5px 0;
+	font-size: 60%;
 	}
 
 	p#tagline {
