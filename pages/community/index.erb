@@ -7,14 +7,14 @@ title: Community
 <p>Some awesome people have taken the time to make localised Setup-style sites, picking the brains of the people around them, or those within a particular field of interest. Others have written up personal interviews with themselves. All are awesome.</p>
 
 <h4>Localised or inspired by</h4>
-<ul class="links">
+<ul class="links inspired">
 <% @site.links[:inspired].each do |link| %>
 <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a> <span class="summary">(<%= link.summary %>)</span></li>
 <% end %>
 </ul>
 
 <h4>Personal</h4>
-<ul class="links">
+<ul class="links personal">
 <% @site.links[:personal].each do |link| %>
 <li><a href="<%= link.url %>" title="View the self-interview by <%= link.name %>."><%= link.name %></a></li>
 <% end %>
