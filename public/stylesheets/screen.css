@@ -211,9 +211,20 @@ border: solid 1px #aaa;
 }
 
 ul.links {
+padding: 0;
+margin: 10px 0;
+}
+
+ul.links.inspired {
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
+}
+
+ul.links.personal {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
 }
 
 ul.months {
