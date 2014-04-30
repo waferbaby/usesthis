@@ -76,6 +76,16 @@ margin: 0;
 font-size: 150%;
 }
 
+h1 a:link, h1 a:visited {
+color: #000;
+text-decoration: none;
+}
+
+h1 a:hover {
+color: #fff;
+background-color: #000;
+}
+
 h2 {
 text-transform: uppercase;
 padding: 0 0 10px 0;
