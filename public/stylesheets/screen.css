@@ -1,4 +1,4 @@
-a:link, a:visited {
+a {
 color: #fe2e9a;
 }
 
@@ -61,7 +61,7 @@ margin: 0;
 font-size: 150%;
 }
 
-h1 a:link, h1 a:visited {
+h1 a {
 color: #000;
 text-decoration: none;
 }
@@ -74,7 +74,7 @@ background-color: #000;
 h2 {
 text-transform: uppercase;
 padding: 0 0 10px 0;
-margin: 5px 0 10px 0;
+margin: 5px 0;
 color: #fe2e9a;
 font-size: 130%;
 border-bottom: solid 1px #ddd;
@@ -182,7 +182,7 @@ display: inline-block;
 margin: 0 5px 5px 0;
 }
 
-ul.categories li a:link, ul.categories li a:visited {
+ul.categories li a {
 padding: 4px;
 margin: 0;
 background-color: #fcfcfc;
@@ -197,7 +197,7 @@ display: inline;
 margin: 0;
 }
 
-ul.categories.all li a:link, ul.categories.all li a:visited {
+ul.categories.all li a {
 display: block;
 width: 100px;
 float: left;
@@ -228,9 +228,8 @@ column-count: 3;
 }
 
 ul.months {
-display: inline;
 padding: 0;
-margin: 0 0 0 10px;
+margin: 0 10px 10px 10px;
 font-size: 90%;
 }
 
@@ -283,7 +282,7 @@ margin: 10px 0;
 
 	h1 {
 	font-size: 250%;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 	}
 
 	h2 {
@@ -325,7 +324,7 @@ margin: 10px 0;
 	content: "";
 	}
 
-	nav#main ul li a:link, nav#main ul li a:visited {
+	nav#main ul li a {
 	display: inline;
 	border: 0;
 	}
@@ -341,6 +340,14 @@ margin: 10px 0;
 	}
 
 	nav#paginator {
-	font-size: 110%;
+	font-size: 90%;
+	}
+
+	ul.categories.all li a {
+	width: 100%;
+	}
+
+	ul.months {
+	font-size: 80%;
 	}
 }
