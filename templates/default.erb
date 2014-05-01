@@ -5,7 +5,7 @@
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<% if @this.type == :post %>
 		<meta property="og:title" content="<%= @this.name %>" />
 		<meta property="og:description" content="<%= @this.summary %>" />
@@ -47,7 +47,7 @@
 					or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed.">feed</a>.</p>
 				</nav>
 
-				<div id="sellout">
+				<aside id="sellout">
 					<script type="text/javascript">
 					//<![CDATA[
 					(function(id) {
@@ -58,17 +58,15 @@
 					//]]>
 					</script>
 					<p><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
-				</div>
+				</aside>
 			</div>
 
-			<div id="content">
+			<main role="main">
 			<%= yield %>
-			</div>
+			</main>
 
 			<footer>
-				<p>This is a <a href="http://twitter.com/waferbaby" title="Some dork's Twitter account.">waferbaby</a> snafu, published every <strong>Tuesday</strong> and <strong>Thursday</strong> (last updated <%= Time.now.strftime('%b %d, %Y') %>). Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license.</p>
-				<p>Hosting provided by <a href=" https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My lovely hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>.</p>
-				<p>You're awesome.</p>
+				<p>This is a <a href="http://twitter.com/waferbaby" title="Some dork's Twitter account.">waferbaby</a> snafu, published every <strong>Tuesday</strong> and <strong>Thursday</strong> (last updated <%= Time.now.strftime('%b %d, %Y') %>). Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. Hosting provided by <a href=" https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My lovely hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>. You're awesome.</p>
 			</footer>
 		</div>
 	</body>
