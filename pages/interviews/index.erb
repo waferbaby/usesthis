@@ -7,24 +7,23 @@ title: Interviews
 <p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.wares.length %></strong> bits of hardware and software.</p>
 
 <h4>By date</h4>
-<ul class="years">
 <% @site.archives.each do |year, data| %>
-  <li>
+  <section class="year">
     <a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><strong><%= year %></strong></a><br>
     <ul class="months">
     <% %w{01 02 03 04 05 06 07 08 09 10 11 12}.each do |month| %>
+      <% month_name = Time.mktime(year, month).strftime('%B') %>
       <li>
       <% if data[:months].include?(month) %>
-      <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= Time.mktime(year, month).strftime('%B') %> <%= year %>."><%= month %></a>
+      <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month_name %> <%= year %>."><%= month_name %></a>
       <% else %>
-      <%= month %>
+      <%= month_name %>
       <% end %>
       </li>
     <% end %>
     </ul>
-  </li>
+  </section>
 <% end %>
-</ul>
 
 <h4>By category</h4>
 <ul class="categories all">
