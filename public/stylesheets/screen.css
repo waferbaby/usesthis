@@ -90,7 +90,7 @@ font-size: 150%;
 h4 {
 clear: left;
 padding: 0;
-margin: 0 0 10px 0;
+margin: 0 0 15px 0;
 font-size: 125%;
 }
 
@@ -169,8 +169,7 @@ color: #aaa;
 section.year {
 width: 33%;
 float: left;
-padding: 0;
-margin: 10px 0;
+padding-bottom: 10px;
 }
 
 span.summary {
