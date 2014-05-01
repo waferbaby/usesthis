@@ -6,7 +6,7 @@ title: Interviews
 <h3>Overview</h3>
 <p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.wares.length %></strong> bits of hardware and software.</p>
 
-<h4>By date</h4>
+<h4 id="dates">By date</h4>
 <% @site.archives.each do |year, data| %>
   <section class="year">
     <a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><strong><%= year %></strong></a><br>
@@ -25,7 +25,7 @@ title: Interviews
   </section>
 <% end %>
 
-<h4>By category</h4>
+<h4 id="categories">By category</h4>
 <ul class="categories all">
 <% @site.categories.keys.sort.each do |category| %>
   <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
