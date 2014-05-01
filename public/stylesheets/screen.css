@@ -123,6 +123,7 @@ border-bottom: solid 1px #eee;
 }
 
 nav#paginator {
+text-align: center;
 clear: left;
 padding: 20px 0;
 border-top: dotted 1px #aaa;
@@ -182,14 +183,13 @@ margin: 0 5px 5px 0;
 }
 
 ul.categories li a:link, ul.categories li a:visited {
-padding: 0 5px;
+padding: 4px;
 margin: 0;
 background-color: #fcfcfc;
 color: #888;
 text-align: center;
 text-decoration: none !important;
 border: solid 1px #f2f2f2;
-border-radius: 4px;
 }
 
 ul.categories.all li {
@@ -287,7 +287,7 @@ margin: 10px 0;
 	}
 
 	h2 {
-	font-size: 210%;
+	font-size: 180%;
 	border: 0;
 	}
 
@@ -338,5 +338,9 @@ margin: 10px 0;
 @media screen and (max-width: 600px), (max-device-width: 480px) {
 	body {
 	padding: 15px;
+	}
+
+	nav#paginator {
+	font-size: 110%;
 	}
 }
