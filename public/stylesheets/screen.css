@@ -49,7 +49,7 @@ width: 160px;
 
 footer {
 clear: left;
-padding: 10px 0;
+margin: 20px 0 0 220px;
 color: #777;
 font-size: 85%;
 }
@@ -259,6 +259,10 @@ color: #aaa;
 	margin: 0 15px 0 0;
 	}
 
+	body {
+	padding-top: 10px;
+	}
+
 	div#wrapper {
 	max-width: 500px;
 	}
@@ -290,7 +294,7 @@ color: #aaa;
 	height: auto;
 	}
 
-	main {
+	main, footer {
 	margin: 0;
 	}
 
@@ -325,9 +329,6 @@ color: #aaa;
 }
 
 @media screen and (max-width: 600px), (max-device-width: 480px) {
-	body {
-	padding: 15px;
-	}
 
 	nav#paginator {
 	font-size: 90%;
