@@ -1,4 +1,4 @@
 ---
 name: virtualenv
 description: A tool for building self-contained Python environments.
-url: http://pypi.python.org/pypi/virtualenv
+url: https://pypi.python.org/pypi/virtualenv
