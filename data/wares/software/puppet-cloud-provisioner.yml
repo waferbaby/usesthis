@@ -1,4 +1,4 @@
 ---
 name: Puppet Cloud Provisioner
 description: A Puppet module for working with cloud instances.
-url: https://github.com/puppetlabs/puppetlabs-cloud-provisioner
+url: https://forge.puppetlabs.com/puppetlabs/cloud_provisioner
