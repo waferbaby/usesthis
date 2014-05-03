@@ -51,20 +51,31 @@ Dir.glob(glob) do |path|
           puts "Updated (#{response.code})."
         end
       when Net::HTTPNotFound then
-        data['url'] = 'FIX ME'
+        data['url'] = "FIX ME: Not found (#{data['url']})"
         needs_update = true
 
         puts "Not found."
       else
-        puts "#{response.code}?"
+        data['url'] = "FIX ME: Got a #{response.code} (#{data['url']})"
+        needs_update = true
+
+        puts "Got a #{response.code}"
     end
 
   rescue Net::ReadTimeout, Errno::ETIMEDOUT
+    data['url'] = "FIX ME: Timed out (#{data['url']})"
+    needs_update = true
+
     puts "Timed out."
   rescue URI::InvalidURIError
     puts "Looks like a bad URL (#{data['url']})?"
   rescue OpenSSL::SSL::SSLError
     puts "Invalid SSL certificate."
+  rescue SocketError
+    data['url'] = "FIX ME: Dead site? (#{data['url']})"
+    needs_update = true
+
+    puts "Site seems unreachable."
   rescue Exception => e
     puts e.inspect
   end
