@@ -5,6 +5,7 @@ trap("SIGINT") { exit! }
 require 'rubygems'
 require 'yaml'
 require 'net/http'
+require 'openssl'
 
 source_path = File.dirname(__dir__)
 $:.unshift(source_path)
@@ -62,8 +63,8 @@ Dir.glob(glob) do |path|
         puts "Got a #{response.code}"
     end
 
-  rescue Net::ReadTimeout, Errno::ETIMEDOUT
-    data['url'] = "FIX ME: Timed out (#{data['url']})"
+  rescue Net::ReadTimeout, Errno::ETIMEDOUT, Errno::ENETUNREACH
+    data['url'] = "FIX ME: Timed out or unreachable (#{data['url']})"
     needs_update = true
 
     puts "Timed out."
