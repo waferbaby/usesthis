@@ -41,7 +41,7 @@ Dir.glob(glob) do |path|
         new_url = response['location']
 
         if new_url =~ /jsessionid/
-          puts "Looks like a session URL"
+          puts "Looks like a session URL (#{new_url})."
         else
           new_url = "#{url.scheme}://#{url.host}#{new_url}" unless new_url =~ /^https?:\/\//
 
@@ -59,8 +59,14 @@ Dir.glob(glob) do |path|
         puts "#{response.code}?"
     end
 
+  rescue Net::ReadTimeout, Errno::ETIMEDOUT
+    puts "Timed out."
+  rescue URI::InvalidURIError
+    puts "Looks like a bad URL (#{data['url']})?"
+  rescue OpenSSL::SSL::SSLError
+    puts "Invalid SSL certificate."
   rescue Exception => e
-    puts e
+    puts e.inspect
   end
 
   if needs_update
