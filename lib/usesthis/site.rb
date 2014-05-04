@@ -1,7 +1,10 @@
 module UsesThis
   class Site < Salt::Site
 
-    attr_accessor :wares, :links
+    attr_accessor :hardware
+    attr_accessor :software
+    attr_accessor :inspired_links
+    attr_accessor :personal_links
 
     def setup(config = {})
 
@@ -19,27 +22,43 @@ module UsesThis
       @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'wares')
       @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
 
-      @wares, @links = {}, { personal: [], inspired: [] }
+      @hardware = {}
+      @software = {}
+
+      @inspired_links = []
+      @personal_links = []
     end
 
     def scan_files
       super
 
-      Dir.glob(File.join(@output_paths[:wares], '**', '*.yml')).each do |path|
+      Dir.glob(File.join(@output_paths[:wares], 'hardware', '*.yml')).each do |path|
         ware = UsesThis::Ware.new(path)
-        @wares[ware.slug] = ware
+        @hardware[ware.slug] = ware
       end
 
-      Dir.glob(File.join(@output_paths[:links], '**', '*.yml')).each do |path|
-        link = UsesThis::Link.new(path)
-        @links[link.summary ? :inspired : :personal] << link
+      Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
+        ware = UsesThis::Ware.new(path)
+        @software[ware.slug] = ware
+      end
+
+      Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
+        @inspired_links << UsesThis::Link.new(path)
+      end
+
+      Dir.glob(File.join(@output_paths[:links], 'personal', '*.yml')).each do |path|
+        @personal_links << UsesThis::Link.new(path)
       end
 
       @posts.each do |post|
         post.scan_links
 
-        post.wares.each do |slug, data|
-          @wares[slug].interviews << post.slug unless @wares[slug].interviews.include?(post.slug)
+        post.hardware.each do |slug, data|
+          @hardware[slug].interviews << post.slug unless @hardware[slug].interviews.include?(post.slug)
+        end
+
+        post.software.each do |slug, data|
+          @software[slug].interviews << post.slug unless @software[slug].interviews.include?(post.slug)
         end
       end
     end
