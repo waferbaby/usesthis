@@ -4,7 +4,7 @@ title: Interviews
 ---
 
 <h3>Overview</h3>
-<p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.wares.length %></strong> bits of hardware and software.</p>
+<p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.hardware.length %></strong> bits of hardware and <strong><%= @site.software.length %></strong> bits of software.</p>
 
 <h4 id="dates">By date</h4>
 <% @site.archives.each do |year, data| %>
