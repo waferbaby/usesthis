@@ -2,13 +2,17 @@ require 'redcarpet'
 
 module UsesThis
   class Interview < Salt::Post
-    attr_accessor :wares
+    
+    attr_accessor :hardware
+    attr_accessor :software
 
     def initialize(path)
       super
 
       @layout = 'interview'
-      @wares = {}
+
+      @hardware = {}
+      @software = {}
     end
 
     def scan_links
@@ -16,7 +20,12 @@ module UsesThis
 
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
-        @wares[slug] = site.wares[slug] if site.wares[slug] && @wares[slug].nil?
+
+        if site.hardware[slug]
+          @hardware[slug] ||= site.hardware[slug]
+        elsif site.software[slug]
+          @software[slug] ||= site.software[slug]
+        end
       end
     end
 
@@ -25,10 +34,12 @@ module UsesThis
         site = UsesThis::Site.instance
         output = @contents
 
-        if @wares.length > 0
+        wares = @hardware.merge(@software)
+
+        if wares.length > 0
           output += "\n\n"
 
-          @wares.each_value do |ware|
+          wares.each_value do |ware|
             output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
           end
         end
