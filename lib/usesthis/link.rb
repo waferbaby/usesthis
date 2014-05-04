@@ -1,6 +1,9 @@
 module UsesThis
   class Link
-    attr_accessor :name, :summary, :url
+    
+    attr_accessor :name
+    attr_accessor :summary
+    attr_accessor :url
 
     def initialize(path)
       metadata = YAML::load_file(path)
