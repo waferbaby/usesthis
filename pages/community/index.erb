@@ -8,14 +8,14 @@ title: Community
 
 <h4>Localised or inspired by</h4>
 <ul class="links inspired">
-<% @site.links[:inspired].each do |link| %>
+<% @site.inspired_links.each do |link| %>
 <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a> <span class="summary">(<%= link.summary %>)</span></li>
 <% end %>
 </ul>
 
 <h4>Personal</h4>
 <ul class="links personal">
-<% @site.links[:personal].each do |link| %>
+<% @site.personal_links.each do |link| %>
 <li><a href="<%= link.url %>" title="View the self-interview by <%= link.name %>."><%= link.name %></a></li>
 <% end %>
 </ul>
