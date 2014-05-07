@@ -9,11 +9,11 @@ module UsesThis
     def setup(config = {})
 
       @settings[:markdown_options][:auto_ids] = false
-      @settings[:output][:posts] = 'interviews'
 
       @settings[:make_day_archives] = false;
-      @settings[:month_format] = '%B %Y';
+      @settings[:date_formats][:month] = '%B %Y';
 
+      @settings[:output][:posts] = 'interviews'
       @settings[:layouts][:listing] = 'interviews';
       @settings[:layouts][:category] = 'interviews';
 
