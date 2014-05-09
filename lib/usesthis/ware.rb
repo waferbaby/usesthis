@@ -17,5 +17,13 @@ module UsesThis
       @url = metadata['url']
       @interviews = []
     end
+
+    def to_hash
+      {
+          name: name,
+          description: description,
+          url: url
+      }
+    end
   end
 end
