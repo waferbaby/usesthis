@@ -61,12 +61,12 @@ margin: 0;
 font-size: 150%;
 }
 
-h1 a {
+h1 a, h4 a {
 color: #000;
 text-decoration: none;
 }
 
-h1 a:hover {
+h1 a:hover, h4 a:hover {
 color: #fff;
 background-color: #000;
 }
@@ -92,17 +92,6 @@ clear: left;
 padding: 0;
 margin: 0 0 15px 0;
 font-size: 125%;
-}
-
-h5 {
-clear: left;
-padding: 0;
-margin: 0;
-font-size: 115%;
-}
-
-h5 + p.summary {
-font-size: 90%;
 }
 
 img.portrait {
@@ -203,28 +192,25 @@ text-decoration: none !important;
 border: solid 1px #f2f2f2;
 }
 
-ul.categories.all li {
-display: inline;
-margin: 0;
-}
-
-ul.categories.all li a {
-display: block;
-width: 100px;
-float: left;
-margin: 2px;
-}
-
 ul.categories li a:hover {
 background-color: #ddd;
 color: #555 !important;
 border: solid 1px #aaa;
 }
 
-ul.links {
+ul.interviews, ul.links {
 list-style: none inside;
 padding: 0;
 margin: 10px 0;
+}
+
+ul.interviews li {
+padding-bottom: 10px;
+color: #eee;
+}
+
+ul.interviews li span.summary {
+font-size: 85%;
 }
 
 ul.links.inspired {
@@ -237,22 +223,6 @@ ul.links.personal {
 -webkit-column-count: 3;
 -moz-column-count: 3;
 column-count: 3;
-}
-
-ul.months {
-float: left;
-list-style: none inside;
-padding: 10px;
-margin: 0 0 15px 0;
-font-size: 85%;
-color: #aaa;
-border-top: solid 1px #eee;
-border-bottom: solid 1px #eee;
-}
-
-ul.months li {
-float: left;
-width: 30%;
 }
 
 @media screen and (max-width: 1100px) {
@@ -345,9 +315,5 @@ width: 30%;
 
 	nav#paginator {
 	font-size: 90%;
-	}
-
-	ul.categories.all li a {
-	width: 100%;
 	}
 }
