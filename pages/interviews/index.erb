@@ -8,21 +8,22 @@ title: Interviews
 
 <h4 id="dates">By date</h4>
 <% @site.archives.each do |year, data| %>
-  <section class="year">
-    <a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><strong><%= year %></strong></a><br>
-    <ul class="months">
-    <% %w{01 02 03 04 05 06 07 08 09 10 11 12}.each do |month| %>
-      <% month_name = Time.mktime(year, month).strftime('%B') %>
-      <li>
-      <% if data[:months].include?(month) %>
-      <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month_name %> <%= year %>."><%= month_name %></a>
-      <% else %>
-      <%= month_name %>
-      <% end %>
-      </li>
+  <h5><a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><%= year %></a></h5>
+  <% post_count = data[:posts].length %>
+  <p class="summary"><%= post_count %> interview<% if post_count != 1 %>s<% end %></p>
+
+  <ul class="months">
+  <% %w{01 02 03 04 05 06 07 08 09 10 11 12}.each do |month| %>
+    <li>
+    <% month_name = Time.mktime(year, month).strftime('%B') %>
+    <% if data[:months].include?(month) %>
+    <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month_name %> <%= year %>."><%= month_name %></a>
+    <% else %>
+    <%= month_name %>
     <% end %>
-    </ul>
-  </section>
+    </li>
+  <% end %>
+  </ul>
 <% end %>
 
 <h4 id="categories">By category</h4>
