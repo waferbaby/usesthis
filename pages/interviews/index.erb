@@ -6,29 +6,15 @@ title: Interviews
 <h3>Overview</h3>
 <p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.hardware.length %></strong> bits of hardware and <strong><%= @site.software.length %></strong> bits of software.</p>
 
-<h4 id="dates">By date</h4>
 <% @site.archives.each do |year, data| %>
-  <h5><a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><%= year %></a></h5>
-  <% post_count = data[:posts].length %>
-  <p class="summary"><%= post_count %> interview<% if post_count != 1 %>s<% end %></p>
+  <h4 id="<%= year %>"><a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><%= year %></a></h4>
 
-  <ul class="months">
-  <% %w{01 02 03 04 05 06 07 08 09 10 11 12}.each do |month| %>
-    <li>
-    <% month_name = Time.mktime(year, month).strftime('%B') %>
-    <% if data[:months].include?(month) %>
-    <a href="/interviews/<%= year %>/<%= month %>/" title="View all interviews from <%= month_name %> <%= year %>."><%= month_name %></a>
-    <% else %>
-    <%= month_name %>
+  <ul class="interviews">
+    <% data[:posts].each do |interview| %>
+      <li>
+      <a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><%= interview.name %></a><br>
+      <span class="summary"><%= interview.summary %></span>
+      </li>
     <% end %>
-    </li>
-  <% end %>
   </ul>
 <% end %>
-
-<h4 id="categories">By category</h4>
-<ul class="categories all">
-<% @site.categories.keys.sort.each do |category| %>
-  <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
-<% end %>
-</ul>
