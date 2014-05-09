@@ -1,3 +1,6 @@
+require 'json'
+require 'json/ext'
+
 module UsesThis
   class Site < Salt::Site
 
@@ -61,6 +64,20 @@ module UsesThis
           @software[slug].interviews << post.slug unless @software[slug].interviews.include?(post.slug)
         end
       end
+    end
+
+    def after_post_generation(interview)
+      json_file = @klasses[:page].new
+      json_file.extension = 'json'
+      json_file.contents = JSON.pretty_generate(interview.to_hash)
+
+      json_file.write(self, File.join(@output_paths[:posts], interview.slug))
+
+      markdown_file = @klasses[:page].new
+      markdown_file.extension = 'markdown'
+      markdown_file.contents = interview.to_markdown
+
+      markdown_file.write(self, File.join(@output_paths[:posts], interview.slug))      
     end
   end
 end
