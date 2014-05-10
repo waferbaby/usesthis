@@ -72,13 +72,19 @@ module UsesThis
         summary: @summary,
         date: @date,
         categories: @categories,
-        contents: @contents,
       }
 
-      data[:wares] = {}
+      data[:credits] = credits if credits
+      data[:contents] = @contents
 
-      @hardware.merge(@software).each do |slug, ware|
-        data[:wares][slug] = ware.to_hash
+      wares = @hardware.merge(@software)
+
+      if wares.length > 0
+        data[:wares] = {}
+
+        wares.each do |slug, ware|
+          data[:wares][slug] = ware.to_hash
+        end
       end
 
       data
@@ -95,8 +101,12 @@ module UsesThis
 
 MARKDOWN
 
+      if credits
+        output << "Photo by [#{credits['name']}](#{credits['url']})\n\n"
+      end
+
       categories.each do |category|
-        output << "- #{category}\n"
+        output << "- [#{category}](http://usesthis.com/interviews/#{category})\n"
       end
 
       output << "\n"
