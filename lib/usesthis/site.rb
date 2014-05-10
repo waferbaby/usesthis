@@ -30,6 +30,8 @@ module UsesThis
 
       @inspired_links = []
       @personal_links = []
+
+      set_hook(:after_post, :post_process_interview)
     end
 
     def scan_files
@@ -66,7 +68,7 @@ module UsesThis
       end
     end
 
-    def after_post_generation(interview)
+    def post_process_interview(interview)
       json_file = @klasses[:page].new
       json_file.extension = 'json'
       json_file.contents = JSON.pretty_generate(interview.to_hash)
