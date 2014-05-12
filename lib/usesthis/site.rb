@@ -18,15 +18,6 @@ module UsesThis
       @inspired_links = []
       @personal_links = []
 
-      @config[:markdown][:options][:auto_ids] = false
-
-      @config[:generation][:day_archives] = false;
-      @config[:date_formats][:month] = '%B %Y';
-
-      @config[:output][:posts] = 'interviews'
-      @config[:layouts][:listing] = 'interviews';
-      @config[:layouts][:category] = 'interviews';
-
       @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'wares')
       @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
 
