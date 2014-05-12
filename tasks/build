@@ -5,7 +5,8 @@ $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = UsesThis::Site.new
+config = YAML::load_file('./config.yml')
+site = UsesThis::Site.new(config)
 
 begin
   site.generate
