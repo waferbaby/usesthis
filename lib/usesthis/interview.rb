@@ -6,7 +6,7 @@ module UsesThis
     attr_accessor :hardware
     attr_accessor :software
 
-    def initialize(path)
+    def initialize(site, path)
       super
 
       @layout = 'interview'
@@ -21,15 +21,13 @@ module UsesThis
     end
 
     def scan_links
-      site = UsesThis::Site.instance
-
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
 
-        if site.hardware[slug]
-          @hardware[slug] ||= site.hardware[slug]
-        elsif site.software[slug]
-          @software[slug] ||= site.software[slug]
+        if @site.hardware[slug]
+          @hardware[slug] ||= @site.hardware[slug]
+        elsif @site.software[slug]
+          @software[slug] ||= @site.software[slug]
         end
       end
     end
@@ -53,16 +51,14 @@ module UsesThis
       return @markdown[:raw] unless render
 
       if !@markdown[:rendered]
-        site = UsesThis::Site.instance
         output = @markdown[:raw]
-
-        @markdown[:rendered] = site.markdown_renderer.render(output)
+        @markdown[:rendered] = @site.markdown_engine.render(output)
       end
 
       @markdown[:rendered]
     end
 
-    def output_path(site, parent_path)
+    def output_path(parent_path)
       File.join(parent_path, @slug)
     end
 
