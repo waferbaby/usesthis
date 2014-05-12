@@ -9,21 +9,8 @@ module UsesThis
     attr_accessor :inspired_links
     attr_accessor :personal_links
 
-    def setup(config = {})
-
-      @settings[:markdown_options][:auto_ids] = false
-
-      @settings[:make_day_archives] = false;
-      @settings[:date_formats][:month] = '%B %Y';
-
-      @settings[:output][:posts] = 'interviews'
-      @settings[:layouts][:listing] = 'interviews';
-      @settings[:layouts][:category] = 'interviews';
-
+    def initialize(config = {})
       super
-
-      @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'wares')
-      @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
 
       @hardware = {}
       @software = {}
@@ -31,7 +18,20 @@ module UsesThis
       @inspired_links = []
       @personal_links = []
 
+      @config[:markdown][:options][:auto_ids] = false
+
+      @config[:generation][:day_archives] = false;
+      @config[:date_formats][:month] = '%B %Y';
+
+      @config[:output][:posts] = 'interviews'
+      @config[:layouts][:listing] = 'interviews';
+      @config[:layouts][:category] = 'interviews';
+
+      @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'wares')
+      @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
+
       set_hook(:after_post, :post_process_interview)
+      register(UsesThis::Interview)
     end
 
     def scan_files
@@ -69,17 +69,17 @@ module UsesThis
     end
 
     def post_process_interview(interview)
-      json_file = @klasses[:page].new
+      json_file = @klasses[:page].new(self)
       json_file.extension = 'json'
       json_file.contents = JSON.pretty_generate(interview.to_hash)
 
-      json_file.write(self, File.join(@output_paths[:posts], interview.slug))
+      json_file.write(File.join(@output_paths[:posts], interview.slug))
 
-      markdown_file = @klasses[:page].new
+      markdown_file = @klasses[:page].new(self)
       markdown_file.extension = 'markdown'
       markdown_file.contents = interview.to_markdown
 
-      markdown_file.write(self, File.join(@output_paths[:posts], interview.slug))      
+      markdown_file.write(File.join(@output_paths[:posts], interview.slug))      
     end
   end
 end
