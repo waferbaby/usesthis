@@ -5,10 +5,7 @@ $:.unshift(source_path)
 
 require 'lib/usesthis'
 
-site = UsesThis::Site.instance
-
-site.setup()
-site.register(UsesThis::Interview)
+site = UsesThis::Site.new
 
 begin
   site.generate
