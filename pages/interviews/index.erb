@@ -14,6 +14,9 @@ title: Interviews
       <li>
       <a href="http://<%= interview.slug %>.usesthis.com/" title="View an interview with <%= interview.name %>."><%= interview.name %></a><br>
       <span class="summary"><%= interview.summary %></span>
+      <ul class="categories">
+		    <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
+  		</ul>
       </li>
     <% end %>
   </ul>
