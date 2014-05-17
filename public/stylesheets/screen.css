@@ -6,6 +6,10 @@ a:hover {
 color: #555;
 }
 
+article.interview header, article.interviewee {
+margin-bottom: 25px;
+}
+
 aside#sellout {
 padding-top: 5px;
 color: #777;
@@ -130,7 +134,7 @@ nav#paginator {
 text-align: center;
 clear: left;
 padding: 20px 0;
-border-top: dotted 1px #aaa;
+border-top: solid 1px #eee;
 font-size: 120%;
 }
 
@@ -174,26 +178,29 @@ span.summary {
 color: #777;
 }
 
+
 ul.categories {
 list-style: none inside;
 padding: 0;
-margin: 5px 0 15px 0;
+margin: 5px 0;
 font-size: 80%;
 }
 
 ul.categories li {
 display: inline-block;
-margin: 0 5px 5px 0;
+margin: 0 5px 0 0;
 }
 
 ul.categories li a {
-padding: 4px;
+padding: 3px;
 margin: 0;
 background-color: #fcfcfc;
 color: #888;
 text-align: center;
 text-decoration: none !important;
-border: solid 1px #f2f2f2;
+border: solid 1px #eee;
+-moz-border-radius: 2px;
+border-radius: 2px;
 }
 
 ul.categories li a:hover {
@@ -247,7 +254,7 @@ column-count: 3;
 	}
 
 	body {
-	padding-top: 10px;
+	padding: 20px;
 	}
 
 	div#wrapper {
@@ -261,6 +268,10 @@ column-count: 3;
 	margin: auto;
 	}
 
+	div#stump > header {
+	padding-top: 150px;
+	}
+
 	h1 {
 	font-size: 250%;
 	padding-bottom: 10px;
@@ -269,10 +280,6 @@ column-count: 3;
 	h2 {
 	font-size: 180%;
 	border: 0;
-	}
-
-	header {
-	padding-top: 145px;
 	}
 
 	img.portrait, img.detail {
