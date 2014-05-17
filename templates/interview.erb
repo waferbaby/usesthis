@@ -4,6 +4,7 @@ layout: default
 
 <article class="interview">
   <img src="/images/portraits/<%= @this.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @this.name %>">
+  <header>
   <h3 class="person"><%= @this.name %></h3>
   <p class="summary"><%= @this.summary %></p>
   <p class="details">
@@ -15,6 +16,7 @@ layout: default
   <ul class="categories">
     <% @this.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
   </ul>
+  </header>
 
   <%= @this.markdown %>
 
