@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup / <%= @this.type == :post ? @this.name : @this.title %></title>
+		<title>The Setup<% if @this.type == :interview %> / <%= @this.name %><% else %><% if @this.title %> / <%= @this.title %><% end %><% end %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-		<% if @this.type == :post %>
+		<% if @this.type == :interview %>
 		<link href="http://<%= @this.slug %>.usesthis.com/json/" rel="alternate" title="Interview (JSON)" type="application/json">
 		<link href="http://<%= @this.slug %>.usesthis.com/markdown/" rel="alternate" title="Interview (Markdown)" type="text/x-markdown">
 		<% end %>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<% if @this.type == :post %>
+		<% if @this.type == :interview %>
 		<meta property="og:title" content="An interview with <%= @this.name %>" />
 		<meta property="og:description" content="<%= @this.summary %>" />
 		<meta property="og:url" content="http://<%= @this.slug %>.usesthis.com/" />
@@ -36,7 +36,7 @@
 			<div id="stump">
 				<header>
 					<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-					<h2><% if @this.type == :post %>Interview<% else %><%= @this.title %><% end %></h2>
+					<h2><% if @this.type == :page %><% if @this.title %><%= @this.title %><% else %>Hello!<% end %><% else %><%= @this.type.capitalize %><% end %></h2>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 
