@@ -6,8 +6,6 @@ module UsesThis
 
     attr_accessor :hardware
     attr_accessor :software
-    attr_accessor :popular_hardware
-    attr_accessor :popular_software
     attr_accessor :inspired_links
     attr_accessor :personal_links
 
@@ -16,9 +14,6 @@ module UsesThis
 
       @hardware = {}
       @software = {}
-
-      @popular_hardware = []
-      @popular_software = []
 
       @inspired_links = []
       @personal_links = []
@@ -53,18 +48,7 @@ module UsesThis
 
       @posts.each do |post|
         post.scan_links
-
-        post.hardware.each do |slug, data|
-          @hardware[slug].interviews[post.slug] ||= post.name
-        end
-
-        post.software.each do |slug, data|
-          @software[slug].interviews[post.slug] ||= post.name
-        end
       end
-
-      @popular_hardware = @hardware.sort_by { |slug, ware| ware.interviews.length }.reverse[0..9]
-      @popular_software = @software.sort_by { |slug, ware| ware.interviews.length }.reverse[0..9]
     end
 
     def post_process_interview(interview)
