@@ -20,6 +20,10 @@ module UsesThis
       }
     end
 
+    def type
+      :interview
+    end
+
     def scan_links
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
