@@ -6,6 +6,8 @@ module UsesThis
 
     attr_accessor :hardware
     attr_accessor :software
+    attr_accessor :popular_hardware
+    attr_accessor :popular_software
     attr_accessor :inspired_links
     attr_accessor :personal_links
 
@@ -14,6 +16,9 @@ module UsesThis
 
       @hardware = {}
       @software = {}
+
+      @popular_hardware = []
+      @popular_software = []
 
       @inspired_links = []
       @personal_links = []
@@ -29,12 +34,12 @@ module UsesThis
       super
 
       Dir.glob(File.join(@output_paths[:wares], 'hardware', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(path)
+        ware = UsesThis::Ware.new(self, path, Ware::HARDWARE)
         @hardware[ware.slug] = ware
       end
 
       Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(path)
+        ware = UsesThis::Ware.new(self, path, Ware::SOFTWARE)
         @software[ware.slug] = ware
       end
 
@@ -50,13 +55,16 @@ module UsesThis
         post.scan_links
 
         post.hardware.each do |slug, data|
-          @hardware[slug].interviews << post.slug unless @hardware[slug].interviews.include?(post.slug)
+          @hardware[slug].interviews[post.slug] ||= post.name
         end
 
         post.software.each do |slug, data|
-          @software[slug].interviews << post.slug unless @software[slug].interviews.include?(post.slug)
+          @software[slug].interviews[post.slug] ||= post.name
         end
       end
+
+      @popular_hardware = @hardware.sort_by { |slug, ware| ware.interviews.length }.reverse[0..9]
+      @popular_software = @software.sort_by { |slug, ware| ware.interviews.length }.reverse[0..9]
     end
 
     def post_process_interview(interview)
