@@ -12,5 +12,7 @@ output:
   posts: 'interviews'
 
 layouts:
-  listing: 'interviews'
+  posts: 'interviews'
   category: 'interviews'
+  year: 'interviews'
+  month: 'interviews'
