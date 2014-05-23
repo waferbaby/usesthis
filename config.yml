@@ -1,16 +1,16 @@
-:markdown:
-  :options:
-    :auto_ids: false
+markdown:
+  options:
+    auto_ids: false
 
-:generation:
-  :day_archives: false
+generation:
+  day_archives: false
 
-:date_formats:
-  :month: '%B %Y'
+date_formats:
+  month: '%B %Y'
 
-:output:
-  :posts: 'interviews'
+output:
+  posts: 'interviews'
 
-:layouts:
-  :listing: 'interviews'
-  :category: 'interviews'
+layouts:
+  listing: 'interviews'
+  category: 'interviews'
