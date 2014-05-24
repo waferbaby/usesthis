@@ -178,7 +178,6 @@ span.summary {
 color: #777;
 }
 
-
 ul.categories {
 list-style: none inside;
 padding: 0;
@@ -215,25 +214,18 @@ padding: 0;
 margin: 10px 0;
 }
 
-ul.interviews li {
+ul.interviews li, ul.links li {
 padding-bottom: 10px;
-color: #eee;
 }
 
 ul.interviews li span.summary {
 font-size: 85%;
 }
 
-ul.links.inspired {
+ul.links.inspired, ul.links.personal {
 -webkit-column-count: 2;
 -moz-column-count: 2;
 column-count: 2;
-}
-
-ul.links.personal {
--webkit-column-count: 3;
--moz-column-count: 3;
-column-count: 3;
 }
 
 @media screen and (max-width: 790px) {
