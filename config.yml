@@ -8,7 +8,7 @@ generation:
 date_formats:
   month: '%B %Y'
 
-output:
+paths:
   posts: 'interviews'
 
 layouts:
