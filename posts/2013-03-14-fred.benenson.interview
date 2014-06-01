@@ -25,7 +25,7 @@ I used to do some professional event photography in NYC, so I have a couple Cano
 
 #### And what software?
 
-I spend most of my time working with text and code, and since I'm a [vim][] guy, I use [Sublime Text 2][sublime-text-2] with vintage mode turned on. It isn't a perfectly faithful translation of vim, but it's good enough for most of my habits. Combining ST2's multi-cursor support with vim controls is mind-blowing if you haven't tried it before. Slicing and dicing code with a dozen cursors in realtime using vim commands is way more fun than writing regular expressions. It's revelatory, really, and allows me to look past all of ST2's other shortcomings (of which aren't all that many).
+I spend most of my time working with text and code, and since I'm a [vim][] guy, I use [Sublime Text 2][sublime-text] with vintage mode turned on. It isn't a perfectly faithful translation of vim, but it's good enough for most of my habits. Combining ST2's multi-cursor support with vim controls is mind-blowing if you haven't tried it before. Slicing and dicing code with a dozen cursors in realtime using vim commands is way more fun than writing regular expressions. It's revelatory, really, and allows me to look past all of ST2's other shortcomings (of which aren't all that many).
 
 I recently switched to [oh-my-zsh][], which is a terrific "modern" shell that supports many wonderful helpers, conveniences, and themes. My current zsh theme is "crunch" which surfaces the status of the git repo I may be in, the [Ruby][] version I'm working with, and the current timestamp inside my shell prompt.
 

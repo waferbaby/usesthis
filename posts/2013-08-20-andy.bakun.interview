@@ -36,7 +36,7 @@ I spend 99% of my time in [xterms][xterm] or the browser, which is [Chrome][] th
 
 For terminal multiplexing on remote machines, I use [tmux][], often connecting to the same sessions in multiple windows. Having multiple windows showing the same set of shells and being able to switch between them independently really works well for my workflow, even if I do periodically end up showing the same thing in both of them.
 
-Since many of the computers and files I'm working on are remote, either elsewhere in the house or elsewhere in the country, I use [vim][] to edit files. However, for larger projects where I need to study code and browse code bases, which isn't nearly as often as I'd like these days, I warming up to [Sublime Text][sublime-text-2], but old vim habits die hard.
+Since many of the computers and files I'm working on are remote, either elsewhere in the house or elsewhere in the country, I use [vim][] to edit files. However, for larger projects where I need to study code and browse code bases, which isn't nearly as often as I'd like these days, I warming up to [Sublime Text][sublime-text], but old vim habits die hard.
 
 For instant messaging, I use [Psi][]. I'm a frequent user of [Gmail][] and [Google Docs][google-docs]. [Dropbox][] keeps things in sync.
 

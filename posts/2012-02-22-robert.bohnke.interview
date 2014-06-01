@@ -44,7 +44,7 @@ Inside of iTerm 2, I run [zsh][] using the default theme + some plugins from [oh
 
 Most of my iOS and Mac development happens inside of [Xcode 4][xcode]. It crashes probably a few times a day but on a fast machine, I can live with that.
 
-My text editor of choice is currently [Sublime Text 2][sublime-text-2]. I like it because it is fast, cross-platform, good looking and has a nice distraction free mode in which I am currently writing this interview. Someday, I'll sit down and learn all its fancy features.
+My text editor of choice is currently [Sublime Text 2][sublime-text]. I like it because it is fast, cross-platform, good looking and has a nice distraction free mode in which I am currently writing this interview. Someday, I'll sit down and learn all its fancy features.
 
 If I write something, I will probably check it into [git][] at some point and push it to [Github][].
 

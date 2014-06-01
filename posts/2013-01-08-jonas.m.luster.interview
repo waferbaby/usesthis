@@ -29,7 +29,7 @@ My cooking hardware consists of an 8" Mac chef's knife and the usual tools (honi
 
 I develop in [vim][], much to the chagrin of my [Eclipse][]-using friends. Internal CMSes are based on [Jekyll][], personally I use [WordPress][] for [my blog](http://jml.is/ "Jonas' weblog."). I am using [Redis][] a lot for Pub/Sub type operations and Ruby for desktop and web apps that control, for example, ordering and ticketing systems. At some point we want to be able for a waiter to see how far along each dish is just by having ovens and line stations tell a central server. 
 
-I write my cooking works and the occasional "that's what it's like to be a chef" short story in [Sublime Text][sublime-text-2]. On the Chromebook I use ShiftEdit because it speaks SFTP. I know I am not the only one but there aren't many chefs who keep all their recipes in hand-written XML checked into a [Git][] repository and run XQuery queries over it for Christmas dinner menu ideas.
+I write my cooking works and the occasional "that's what it's like to be a chef" short story in [Sublime Text][sublime-text]. On the Chromebook I use ShiftEdit because it speaks SFTP. I know I am not the only one but there aren't many chefs who keep all their recipes in hand-written XML checked into a [Git][] repository and run XQuery queries over it for Christmas dinner menu ideas.
 
 Adobe's [Edge Inspect][edge-inspect] makes developing for the mobile web so much easier for me.
 

@@ -25,7 +25,7 @@ We're using the [Unity][] engine for Crawl, with an extension called [ex2D][] fo
  
 For a lot of our audio we're using a great little tool called [Bfxr][]. It was built for use in game jams and lets you quickly create a bunch of video-gamey sound effects that match perfectly with our glitchy arcade cabinet aesthetic.
  
-I love typing my thoughts out and then shuffling the text around into some ordered state. I always have a bunch of text files open in [Notepad++][notepad-plusplus] that I'm constantly referring to and editing and I have a semi-structured system for notes and to-do lists. I'd love to get quick at all the keyboard shortcuts in [Sublime Text][sublime-text-2], but I haven't made the transition yet.
+I love typing my thoughts out and then shuffling the text around into some ordered state. I always have a bunch of text files open in [Notepad++][notepad-plusplus] that I'm constantly referring to and editing and I have a semi-structured system for notes and to-do lists. I'd love to get quick at all the keyboard shortcuts in [Sublime Text][sublime-text], but I haven't made the transition yet.
  
 We're using [TortoiseSVN][] for version control, [Dropbox][] for sharing files, [Hansoft][] for scheduling when Notepad++ isn't enough, and I use [Opera][] for browsing for no good reason. 
  

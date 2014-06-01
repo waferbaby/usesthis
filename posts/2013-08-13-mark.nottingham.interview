@@ -35,7 +35,7 @@ Pretty much everything on my two computers is sync'd with a combination of [IMAP
 
 Most of my time in GUI apps is spent in browsers; I use [Safari][] for most browsing (making me a frequent target for derision among Web devs), but also dipping into [Firefox][], [Chrome][] and Chrome Canary.
 
-[Textmate][] is for editing. I'm just making the switch to the alpha version of Textmate 2; I tried [Sublime Text 2][sublime-text-2], but didn't feel the love. 
+[Textmate][] is for editing. I'm just making the switch to the alpha version of Textmate 2; I tried [Sublime Text 2][sublime-text], but didn't feel the love. 
 
 Wherever possible, I'm trying to use [Markdown][]; right now, I use [kramdown-rfc2629][kramdown-rfc2629] to write IETF specs, [respec.js][respec] for W3C ones, and [reveal.js][] for presentations.
 
