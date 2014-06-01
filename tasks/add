@@ -1,0 +1,36 @@
+#!/usr/bin/env ruby
+
+source_path = File.dirname(__dir__)
+
+$:.unshift(source_path)
+
+abort("You must supply a type ('hardware' or 'software').") if ARGV[0] !~ /^(hardware|software)$/
+abort("You must provide a name.") if ARGV[1].nil?
+
+type = ARGV[0]
+name = ARGV[1..-1].join(' ')
+slug = name.downcase.gsub(/ /, '-')
+
+software_path = File.join(source_path, 'data', 'wares', 'software', "#{slug}.yml")
+hardware_path = File.join(source_path, 'data', 'wares', 'hardware', "#{slug}.yml")
+
+abort("Software entry already exists for '#{slug}'.") if File.exists?(software_path)
+abort("Hardware entry already exists for '#{slug}'.") if File.exists?(hardware_path)
+
+file = case type
+  when 'software' then software_path
+  when 'hardware' then hardware_path
+end
+
+entry = <<ENTRY
+---
+name: #{name}
+description: (description)
+url: (url)
+ENTRY
+
+File.open(file, 'w') do |f|
+  f.write(entry)
+end
+
+`open #{file}`
