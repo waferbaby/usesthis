@@ -29,12 +29,12 @@ module UsesThis
       super
 
       Dir.glob(File.join(@output_paths[:wares], 'hardware', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(self, path, Ware::HARDWARE)
+        ware = UsesThis::Ware.new(path)
         @hardware[ware.slug] = ware
       end
 
       Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(self, path, Ware::SOFTWARE)
+        ware = UsesThis::Ware.new(path)
         @software[ware.slug] = ware
       end
 
