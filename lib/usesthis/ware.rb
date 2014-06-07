@@ -1,39 +1,28 @@
 module UsesThis
-  class Ware < Salt::Page
-    
-    HARDWARE = 'hardware'
-    SOFTWARE = 'software'
-
+  class Ware    
     attr_accessor :slug
     attr_accessor :name
     attr_accessor :description
     attr_accessor :url
-    attr_accessor :type
     attr_accessor :interviews
 
-    def initialize(site, path, type)
-      super(site, path)
-      
-      @slug = File.basename(path, File.extname(path))
+    def initialize(path)
+      metadata = YAML::load_file(path)
 
-      @layout = 'ware'
-      @filename = 'index'
+      @slug = File.basename(path, File.extname(path))
       
-      @title = @name
-      @type = type
+      @name = metadata['name']
+      @description = metadata['description']
+      @url = metadata['url']
 
       @interviews = {}
     end
 
-    def output_path(parent_path)
-      File.join(parent_path, @type, @slug)
-    end
-
     def to_hash
       {
-          name: name,
-          description: description,
-          url: url
+        name: name,
+        description: description,
+        url: url
       }
     end
   end
