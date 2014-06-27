@@ -1,0 +1,4 @@
+---
+name: Homebrew-cask
+description: A command-line tool for installing Mac applications.
+url: https://github.com/caskroom/homebrew-cask
