@@ -40,7 +40,7 @@ Yeah, so as I was saying, I played with [Windows 7][windows-7] for a while. I've
 
 Anyhow, on a regular basis I use [OpenNX][] to connect remotely to big iron - a blade running [CentOS][] 5.2 - and run [emacs][] remotely for editing. For shell sessions I don't go through X; instead, I run [iTerm2][] and then connect to remote [screen][] sessions via [ssh][]. (The day I figured the connection between ssh and screen, a white dove landed on my shoulder.) Inside the screen sessions, I run [zsh][]. (The day I figured how cool zsh is, a hawk came and rid me of the white dove.) I also often need to run Juniper Network Connect, which helps me the same way sand helps the eye.
 
-For email I use [Thunderbird][] with the Nostalgy extension. For browsing I use mostly [Chrome][] in conjunction with the goo.gl URL Shortener, Reddit Enhancement Suite, and Tampermonkey. My personal website uses [Concrete5][], but I'm unhappy with it, it's too damn slow (I'm rooting for the headline: "Concrete5 solves the game of chess using cycles from its customers").
+For email I use [Thunderbird][] with the Nostalgy extension. For browsing I use mostly [Chrome][] in conjunction with the [goo.gl URL Shortener][goo.gl-url-shortener], [Reddit Enhancement Suite][reddit-enhancement-suite], and [Tampermonkey][]. My personal website uses [Concrete5][], but I'm unhappy with it, it's too damn slow (I'm rooting for the headline: "Concrete5 solves the game of chess using cycles from its customers").
 
 I use [Google Docs][google-docs] for light documents and [LaTeX][] for all heavy editing, including books and slides. [Skype][] and [Colloquy][] are almost always running on my laptop.
 
