@@ -52,7 +52,7 @@ I read my email in [Mutt][] and write it in Emacs. I feel like my Mutt configura
 
 I use [Irssi][] running in [screen][] on a server for IRC. I've never found an IM/XMPP/Jabber client I liked, so I run [Bitlbee][] which represents my IM client as a IRC channel full of my contacts.
 
-I browse the web in [FireFox][] and rely so heavily on a series of extensions that I find it very hard to imagine switching to Chrome or anything else. The most critical extensions are Zotero which I use for bibliography management, Tree-Style Tabs to save horizontal screen real estate, AdBlock Plus to make the web bearable, and NoScript to keep my browser from running random code from websites I don't realize I'm visiting.
+I browse the web in [FireFox][] and rely so heavily on a series of extensions that I find it very hard to imagine switching to Chrome or anything else. The most critical extensions are [Zotero][] which I use for bibliography management, [Tree Style Tab][tree-style-tab] to save horizontal screen real estate, [AdBlock Plus][adblock-plus] to make the web bearable, and [NoScript][] to keep my browser from running random code from websites I don't realize I'm visiting.
 
 My browser is often pointed at [NewsBlur][] (an incredible RSS feed reader), [Scuttle][] (social bookmarking software I run a patched instance of), and [Identi.ca][identi.ca] (a microblogging service). All three are free software and [free network services](http://autonomo.us/2008/07/franklin-street-statement/ "A post on what defines a free network service.").
 
