@@ -39,7 +39,7 @@ I'm a Linux guy at heart, usually the latest version of [Ubuntu][], but I do use
 
 Almost all of my time is spent either in a browser, [Google Chrome][chrome], a terminal (GNOME Terminal on Ubuntu or [iterm2][] on OS X), or in [gvim][vim] ([MacVim][] on OS X). I use [zsh][].
 
-Chrome has a nice extension system so I use and write many extensions for it, the most notable being Google Voice for phone stuff, Tab Menu for help finding tabs after long web binges, Ad Block for its obvious purpose, and VisivoTab for replacing my otherwise useless "new tab" page with a beautiful photograph.
+Chrome has a nice extension system so I use and write many extensions for it, the most notable being [Google Voice][google-voice.2] for phone stuff, Tab Menu for help finding tabs after long web binges, [AdBlock][] for its obvious purpose, and [VisivoTab][] for replacing my otherwise useless "new tab" page with a beautiful photograph.
 
 In vim, besides using a reasonbly modified vimrc, I also make heavy use of [NERD_comments plugin][nerdcommenter] and a slightly modified version of the tabComplete plugin.
 

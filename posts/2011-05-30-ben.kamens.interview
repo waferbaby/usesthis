@@ -19,7 +19,7 @@ I employ an army of [rubber ducks and one monkey](http://static.tumblr.com/9hgsw
 
 #### And what software?
 
-As soon as my computer boots I use [Quicksilver][] to fire up [Terminal.app][terminal] and [Chrome][]. [MacVim's][macvim] not far behind, which I use for both development and any random writing. I check the blog of the recently-beta'd VicoApp daily, because I'm aching for a prettier vim environment. [Vico][]'s missing a few too many features for me to make the switch just yet, but it looks really promising. I like Chrome tweaked with the Vimium and Sight extensions for keyboard browsing and pretty syntax highlighting, respectively.
+As soon as my computer boots I use [Quicksilver][] to fire up [Terminal.app][terminal] and [Chrome][]. [MacVim's][macvim] not far behind, which I use for both development and any random writing. I check the blog of the recently-beta'd VicoApp daily, because I'm aching for a prettier vim environment. [Vico][]'s missing a few too many features for me to make the switch just yet, but it looks really promising. I like Chrome tweaked with the [Vimium][] and [Sight][] extensions for keyboard browsing and pretty syntax highlighting, respectively.
 
 I just moved to the Bay Area from New York, where I was working remotely with the Khan Academy team for the past 6 months. Jason and John are still remote, so communication tools are key. Internal talk is almost entirely covered by [HipChat][] for chat, [Skype][] for voice, and [gmail/Google apps][gmail] for everything else. We'll probably be branching out into some more open-source friendly communication tools in the near future.
 

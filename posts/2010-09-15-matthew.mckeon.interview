@@ -52,7 +52,7 @@ I use Time Machine and IBM's centralized backup servers to back up my work machi
 
 For source control and versioning I'm a [Git][] disciple. It completely transformed how I code for myself and with others.  
 
-For work email and calendaring I use [Lotus Notes][lotus-notes]; for personal things I use [Mail.app][mail], [Thunderbird][] and [Google Calendar][google-calendar]. For web browsing I mostly use [Firefox][], thanks to the extensions on which I've become dependent (FoxyProxy, delicious, Zotero, Screengrab!, Chris Pederick's Web Developer Toolbar and [Firebug][]). However, because nearly everything I do is for the web, I need to have every major browser installed: [Safari][], [Chrome][], [Opera][], and [IE][internet-explorer] (via [VMWare Fusion][vmware-fusion]).   
+For work email and calendaring I use [Lotus Notes][lotus-notes]; for personal things I use [Mail.app][mail], [Thunderbird][] and [Google Calendar][google-calendar]. For web browsing I mostly use [Firefox][], thanks to the extensions on which I've become dependent ([FoxyProxy][], delicious, [Zotero][], [Screengrab!][screengrab], Chris Pederick's [Web Developer][web-developer] Toolbar and [Firebug][]). However, because nearly everything I do is for the web, I need to have every major browser installed: [Safari][], [Chrome][], [Opera][], and [IE][internet-explorer] (via [VMWare Fusion][vmware-fusion]).   
 
 I pretty much always write papers in [Word][] and presentations in [Powerpoint][].
 
