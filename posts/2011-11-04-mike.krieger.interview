@@ -29,7 +29,7 @@ Finally, all of our startup runs on [Amazon EC2][ec2], which means we never have
 
 #### And what software?
 
-I spend most of my day in [MacVim][] and [XCode][]. Every few months I'll try switching from vim to something else, but it's never permanent (recent adventures include [Sublime Text 2][sublime-text], [Vico][], and [Kod][]). But old habits die hard, and I usually end up back in the comfortable modal arms of vim. If I could navigate everything on my computer with vim bindings, I would -- I use Vimium for Chrome and gleeBox for Safari. 
+I spend most of my day in [MacVim][] and [XCode][]. Every few months I'll try switching from vim to something else, but it's never permanent (recent adventures include [Sublime Text 2][sublime-text], [Vico][], and [Kod][]). But old habits die hard, and I usually end up back in the comfortable modal arms of vim. If I could navigate everything on my computer with vim bindings, I would -- I use [Vimium][] for Chrome and [gleeBox][] for Safari.
 
 When I'm in XCode, I always have [Accessorizer][] open alongside. It took my least favorite parts of writing Objective-C -- repetitive property declarations, @synthesizes etc -- and made them a one-click shortcut away. Smaller apps have a place too: [XScope][] helps me get the pixels just right, and [CodeRunner][] helps us prototype code snippets quickly.
 
