@@ -51,6 +51,11 @@ float: left;
 width: 160px;
 }
 
+div.year {
+width: 25%;
+float: left;
+}
+
 footer {
 clear: left;
 margin: 20px 0 0 220px;
@@ -98,7 +103,13 @@ margin: 0 0 15px 0;
 font-size: 125%;
 }
 
-h4 a {
+h5 {
+padding: 0;
+margin: 0 0 5px 0;
+font-size: 115%;
+}
+
+h5 a {
 color: #000;
 }
 
@@ -208,18 +219,28 @@ color: #555 !important;
 border: solid 1px #aaa;
 }
 
-ul.interviews, ul.links {
+ul.categories.all li a {
+display: block;
+width: 100px;
+float: left;
+margin: 2px;
+}
+
+ul.dates {
+list-style: none outside;
+padding: 0;
+margin: 10px 0 15px 0;
+font-size: 90%;
+}
+
+ul.links {
 list-style: none outside;
 padding: 0;
 margin: 10px 0;
 }
 
-ul.interviews li, ul.links li {
+ul.links li {
 padding-bottom: 10px;
-}
-
-ul.interviews li span.summary {
-font-size: 85%;
 }
 
 ul.links.inspired, ul.links.personal {
@@ -318,5 +339,10 @@ column-count: 2;
 
 	nav#paginator {
 	font-size: 90%;
+	}
+
+	div.year {
+	width: auto;
+	float: none;
 	}
 }
