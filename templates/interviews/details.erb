@@ -14,6 +14,7 @@ Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @intervi
   Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.
 <% end %>
 </p>
+<p class="filing">Filed under:</p>
 <ul class="categories">
 <% @interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
 </ul>
