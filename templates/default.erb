@@ -11,17 +11,7 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<% if @this.type == :interview %>
-		<meta property="og:title" content="An interview with <%= @this.name %>" />
-		<meta property="og:description" content="<%= @this.summary %>" />
-		<meta property="og:url" content="http://<%= @this.slug %>.usesthis.com/" />
-		<meta property="og:type" content="article" />
-		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
-		<meta property="og:image:width" content="500" />
-		<meta property="og:image:height" content="335" />
-		<meta name="twitter:card" content="photo">
-		<meta name="twitter:site" content="@usesthis">
-		<meta name="twitter:title" content="An interview with <%= @this.name %>">
-		<meta name="twitter:image:src" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg">
+		<%= @site.render('interviews/metadata', {interview: @this}) %>
 		<% else %>
 		<meta property="og:title" content="The Setup<% if @this.title %><%= " / #{@this.title}" %><% end %>" />
 		<meta property="og:description" content="What do people use to get stuff done?" />
