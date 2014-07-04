@@ -223,6 +223,7 @@ ul.categories.all li a {
 display: block;
 width: 100px;
 float: left;
+padding: 0;
 margin: 2px;
 }
 
@@ -342,7 +343,6 @@ column-count: 2;
 	}
 
 	div.year {
-	width: auto;
-	float: none;
+	width: 50%;
 	}
 }
