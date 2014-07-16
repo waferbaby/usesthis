@@ -1,4 +1,4 @@
 ---
 name: grep
-description: A command line tool for pattern matching in files.
+description: A command-line tool for pattern matching in files.
 url: http://www.gnu.org/software/grep/
