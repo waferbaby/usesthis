@@ -1,0 +1,4 @@
+---
+name: nicstat
+description: A command-line network monitoring tool.
+url: http://www.brendangregg.com/Perf/network.html#nicstat

@@ -1,0 +1,4 @@
+---
+name: mpstat
+description: A command-line tool for showing statistics about running processes.
+url: https://en.wikipedia.org/wiki/Mpstat
