@@ -1,0 +1,61 @@
+---
+name: Brendan Gregg
+summary: Senior performance architect (Netflix)
+categories:
+- bsd
+- developer
+- linux
+- mac
+- software
+- windows
+---
+
+#### Who are you, and what do you do?
+
+I'm [Brendan Gregg](http://www.brendangregg.com "Brendan's website."), I'm a senior performance architect at [Netflix][], and do large scale computer performance design, analysis, and tuning. Performance tuning improves the customer experience and saves the company money, by doing more with fewer resources. I also write technical books, contribute to open source projects, and speak at technical conferences as a performance expert. This year I gave the keynote at [SCaLE](http://www.socallinuxexpo.org/ "The Southern California Linux Expo site."), the Southern California Linux Expo, on Linux and Solaris performance differences.
+
+#### What hardware do you use?
+
+I'm currently using an Apple [Macbook Pro][macbook-pro] Retina 15 inch as my work computer, connected to a 27-inch Apple [Thunderbolt monitor][thunderbolt-display] when I'm at my desk. Apple products in the past have been very reliable, which is what I'm after. I use the DVORAK keyboard layout, for efficiency and performance. The keys are still labeled QWERTY, which I ignore.
+
+I have a menagerie of very old computers for doing personal IT projects or hobbies. These used to be mostly desktop PCs and servers, but they took up too much room and power, and so they became mostly laptops. I'll eventually toss them out too, and they'll be mostly virtual [VirtualBox][] instances or AWS [EC2][] instances.
+
+One of my favorite laptops is a pink Acer Aspire One, with a 9-inch display, a 1.60 GHz Intel Atom processor, running [Windows XP][windows-xp]. It's cute. I don't use Windows much, so I use that for a fun excursion to another planet. It has some performance tools on it I was writing in [PowerShell][windows-powershell].
+
+My only other Windows laptop, a Compaq, is for [Microsoft Flight Simulator][microsoft-flight-simulator]. With that I use CH Products rudder pedals, the Saitek throttle quadrant, and [Logitech Extreme 3D Pro joystick][extreme-3d-pro-joystick]. When I have the time, I'd like to build custom instruments and controls, and I've been collecting bits and pieces of hardware for that work.
+
+I have a couple of PCs I was using for doing bare-metal server work, although these days I'm doing most of my work on the cloud instead. All of my personal computers may, via VirtualBox and EC2, be consolidated to run from a single 13-inch [Macbook Air][macbook-air], which would be great. I'd like to own fewer things if possible.
+
+I do own many retro consoles. These include [Atari 2600s][atari-2600], [C64s][commodore-64], [N64s][nintendo-64], and [PS2][] slimlines (in particular as backups, in case the CD-ROM drive dies). It's hard to emulate these, especially the C64 music chips (the SID6581 and MOS8085).
+
+As for other hardware, I use a [Fujifilm X-A1][x-a1] for photographs, and wear a [Casio AL-180][al-180] for the time. The Casio is indestructible, and requires no batteries. I also take a lot of notes on paper, and write with different instruments. These days, often with a 0.5mm [Uni-ball Kuru Toga mechanical pencil][kuru-toga], which auto-rotates the lead to keep it sharp.
+
+#### And what software?
+
+Operating systems I used today are [OS X][mac-os-x] for the Macbooks, and Linux and [FreeBSD][] for servers. I was doing a lot with [Solaris][], [OpenSolaris][], and [SmartOS][], but not anymore. 
+
+On my Macbook I usually have [Activity Monitor][activity-monitor] running to keep an eye on CPU resources, and [Temperature Monitor][temperature-monitor] Lite to keep an eye on GPU utilization, inferred by its temperature. Temperature Monitor Lite stopped working for the recent versions of OS X, so I've been figuring out GPU utilization by touching above the 1 and 2 keys and feeling the temperature.
+
+If I notice performance issues on OS X, apart from Activity Monitor, I'll use a variety of [DTrace][] tools to figure out what's going on. That's an advantage for me for using Macbooks -- OS X has DTrace, which lets me do immediate advanced debugging. I use DTrace tools including [iosnoop][] and [execsnoop][], which are tools I originally wrote, and are shipped with OS X by default.
+
+I use a lot of somewhat standard software. For word processing, I do a lot of my writing in the [vim][] text editor. I wrote my last book in vim, for the drafts, before they become [OpenOffice][] and [Word][] documents, which I use as well. I was writing a lot of presentations in [Keynote][], but snap-to-grid issues for a very popular Linux performance tools diagram I drew have driven me crazy, so I'm trying [OmniGraffle][] instead. For image editing, I try to hack first in OS X [Preview][], for the convenience, before moving to [ImageMagick][] and [GIMP][]. GIMP for pixel pushing, ImageMagick for various transforms.
+
+For browsers, I like to use [Opera][], [Firefox][], and [Chrome][], moving tabs between them to balance load. I usually have over one hundred tabs open in Firefox, which organizes what I'm working on and articles I need to read. Firefox handles the tab load well, except for when some begin to burn CPU, which are much harder to find in Firefox than Chrome and Opera which have task managers. For Firefox I can usually figure out the problem tabs using DTrace to dynamically instrument various functions.
+
+I'm logged into IRC 24x7, using [irssi][] in a screen session, an approach I've been using for over ten years. I also use [Adium][] and [HipChat][], for talking over other protocols.
+
+For one-off programs, I often find [awk][] quick and sufficient, then shell or [Perl][]/[Python][] as needed. For shell scripts, I like to use [ksh93][kornshell], but generally stick to ksh88 functionality. For complex data processing, I'll either write programs in awk/[C][]/Perl/Python, or use [R][] or [gnuplot][]. And for server software, C, [Java][], or [node.js][].
+
+For performance tools, I use everything, which is part of my job. On Linux, that includes [top][], [vmstat][], [iostat][], [mpstat][], [sar][], [nicstat][], [strace][], [tcpdump][], and [perf_events][perf]. And plenty of unstable or in-development tools, including [ktap][], [SystemTap][], and [sysdig][]. I often need to write my own tools to answer the performance questions I have, and I've published a few hundred in the past, many for DTrace. 
+
+I spent a lot of time in [Terminal][], with many tabs open. Many of these are ssh sessions to remote servers, where I'll often use [screen][] for managing sessions. Some are [CScope][] sessions to various code repositories I keep handy.
+
+If I need to concentrate and shut out distractions, I'll put on headphones and listen to a few different audio sources. Usually [SIDPLAY][] playing HVSC, and a noisy keyboard program (I've alternated between versions I write myself, and 3rd party ones). It helps me concentrate. I used to include KSFO tower ATC a lot as well (playing at the same time). Over the bridge for two eight right...
+
+#### What would be your dream setup?
+
+Probably something like a 15-inch Macbook Air with at least 1 TB of flash storage, and enough CPU to run several VirtualBox instances. It'd probably run OS X, but with various bug fixes so that it never panic'd. I'd also be able to use the thing without having to agree to lengthy Apple T&Cs.
+
+For flight simulators, I'd like a computer with enough GPU horsepower to run [X-Plane][] 10 with insane levels of detail enabled, and without the GPU melting. I'd use this for a sit-in flight simulator, with authentic controls and instruments.
+
+I'd also like to have a small data projector aimed at the ceiling above my bed, and then an easy keyboard device - maybe a split keyboard with DVORAK - so that I can catch up on email or reading as I fall asleep.
