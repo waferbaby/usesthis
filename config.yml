@@ -3,6 +3,7 @@ markdown:
     auto_ids: false
 
 generation:
+  paginated_posts: true
   day_archives: false
 
 date_formats:
