@@ -1,0 +1,31 @@
+---
+name: Sam Lavigne
+summary: Programmer, artist
+categories:
+- artist
+- mac
+- software
+- developer
+---
+
+#### Who are you, and what do you do?
+
+[I'm](http://lav.io/ "Sam's website.") a programmer and artist. I like to work in satire. 
+
+Some of my recent projects include a tool that [transforms any literary or philosophical text into a patent application][patent-generator], an [alternate currency called LazyCoin][lazycoin] that you acquire by doing nothing, the ["Stupid Shit No One Needs & Terrible Ideas" Hackathon](http://www.stupidhackathon.com/ "The hackaton for stupid ideas.") where participants are asked to create projects that have no value whatsoever, and [Videogrep][], a program that generates video supercuts by searching through lines of dialog.
+
+#### What hardware do you use?
+
+I have a far-too-expensive 15" [Macbook Pro][macbook-pro] that I do all of my work on. I also have an ailing [iPhone 5][iphone-5] which is mostly useful as a note taking device.
+
+#### And what software?
+
+I do most of my programming in [MacVim][] with the [Janus][] setup. Janus is a great set of plugins and predefined [Vim][] configuration that makes it a bit easier to transition to Vim from text editors like [Sublime][sublime-text].
+
+I use [Homebrew][] for software package management, [iTerm][iterm2] instead of the default Mac terminal, [VLC][] for playing and recording video streams, [FFmpeg][] for other video tasks, [Calibre][] for dealing with ebooks, and [Git][] and [GitHub][] for version control. I also use [DropBox][] a lot, although I'd prefer not to move to something self-hosted and open source. My blog is self-hosted in [Wordpress][] with a caching plugin called WP Fastest Cache that helps deal with spikes in traffic. I take notes on [Simplenote][], with their [client app][simplenote-ios] on my phone and [NVAlt][] on my laptop. I also use [Zephyros][] for window management.
+
+In terms of programming languages and libraries, I like to work in [Python][], [Javascript][] and [Ruby][], lately primarily Python if I can because I love using libraries like [Pattern][pattern.en] (a great, easy-to-use natural language library), [MoviePy][] (for video compositing), and [BeautifulSoup][] (for web scraping). I also use [Processing][] and [p5js][] for more visual work. 
+
+#### What would be your dream setup?
+
+The exact same setup but with a version of myself that knows how to use Vim better.
