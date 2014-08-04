@@ -10,8 +10,9 @@ title: Community
 <ul class="links inspired">
 <% @site.inspired_links.each do |link| %>
   <li>
-  <a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><br>
-  <span class="summary"><%= link.summary %></span>
+    <a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><br>
+    <span class="summary"><%= link.summary %></span><br>
+    <span class="url"><%= link.url %></span>
   </li>
 <% end %>
 </ul>
@@ -19,6 +20,9 @@ title: Community
 <h4>Personal</h4>
 <ul class="links personal">
 <% @site.personal_links.each do |link| %>
-<li><a href="<%= link.url %>" title="View the self-interview by <%= link.name %>."><%= link.name %></a></li>
+  <li>
+    <a href="<%= link.url %>" title="View the self-interview by <%= link.name %>."><%= link.name %></a><br>
+    <span class="url"><%= link.url %></span>
+  </li>
 <% end %>
 </ul>
