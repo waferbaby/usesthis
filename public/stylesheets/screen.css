@@ -196,6 +196,11 @@ span.summary {
 color: #777;
 }
 
+span.url {
+color: #999;
+font-size: 80%;
+}
+
 ul.categories {
 list-style: none outside;
 padding: 0;
@@ -249,12 +254,6 @@ margin: 10px 0;
 
 ul.links li {
 padding-bottom: 10px;
-}
-
-ul.links.inspired, ul.links.personal {
--webkit-column-count: 2;
--moz-column-count: 2;
-column-count: 2;
 }
 
 @media screen and (max-width: 790px) {
