@@ -1,0 +1,4 @@
+---
+name: RFI-Checkout Client
+description: The frontend for a check-in/check-out RFID system for Raspberry Pi.
+url: https://github.com/etsy/rfid-checkout
