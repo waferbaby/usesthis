@@ -16,11 +16,9 @@ abort("I can scan for 'hardware', 'software' or 'links'.") unless type =~ /^(har
 
 glob = case type
   when 'hardware'
-    File.join(source_path, 'data', 'wares', 'hardware', '*.yml')
+    File.join(source_path, 'data', 'hardware', '*.yml')
   when 'software'
-    File.join(source_path, 'data', 'wares', 'software', '*.yml')
-  when 'links'
-    File.join(source_path, 'data', 'links', '**', '*.yml')
+    File.join(source_path, 'data', 'software', '*.yml')
   end
 
 puts "Scanning:"
