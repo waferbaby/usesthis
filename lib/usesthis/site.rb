@@ -6,8 +6,6 @@ module UsesThis
 
     attr_accessor :hardware
     attr_accessor :software
-    attr_accessor :inspired_links
-    attr_accessor :personal_links
 
     def initialize(config = {})
       super
@@ -15,11 +13,7 @@ module UsesThis
       @hardware = {}
       @software = {}
 
-      @inspired_links = []
-      @personal_links = []
-
-      @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'wares')
-      @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
+      @output_paths[:wares] = File.join(@source_paths[:root], 'data')
 
       set_hook(:after_post, :post_process_interview)
       register(UsesThis::Interview)
@@ -36,14 +30,6 @@ module UsesThis
       Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
         ware = UsesThis::Ware.new(path)
         @software[ware.slug] = ware
-      end
-
-      Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
-        @inspired_links << UsesThis::Link.new(path)
-      end
-
-      Dir.glob(File.join(@output_paths[:links], 'personal', '*.yml')).each do |path|
-        @personal_links << UsesThis::Link.new(path)
       end
 
       @posts.each do |post|
