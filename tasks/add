@@ -11,26 +11,27 @@ type = ARGV[0]
 name = ARGV[1..-1].join(' ')
 slug = name.downcase.gsub(/ /, '-')
 
-software_path = File.join(source_path, 'data', 'wares', 'software', "#{slug}.yml")
-hardware_path = File.join(source_path, 'data', 'wares', 'hardware', "#{slug}.yml")
-
-abort("Software entry already exists for '#{slug}'.") if File.exists?(software_path)
-abort("Hardware entry already exists for '#{slug}'.") if File.exists?(hardware_path)
+software_path = File.join(source_path, 'data', 'software', "#{slug}.yml")
+hardware_path = File.join(source_path, 'data', 'hardware', "#{slug}.yml")
 
 file = case type
   when 'software' then software_path
   when 'hardware' then hardware_path
 end
 
-entry = <<ENTRY
+if File.exists?(file)
+  puts "Entry already exists for '#{slug}'."
+else
+  entry = <<ENTRY
 ---
 name: #{name}
 description: (description)
 url: (url)
 ENTRY
 
-File.open(file, 'w') do |f|
-  f.write(entry)
+  File.open(file, 'w') do |f|
+    f.write(entry)
+  end
 end
 
 `open #{file}`
