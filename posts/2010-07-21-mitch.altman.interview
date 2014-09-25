@@ -54,7 +54,7 @@ Since making PDF files doesn't come with all software, I use [Win2PDF][], sharew
 
 [Avast][avast-free] is a free (or reasonably priced for the paid version) and very good anti-virus program. Unlike the big ones that you have to pay too much for, Avast doesn't make my system worse, and I've never had a virus in the many years I've used it on all my machines.
 
-Hard drives die. This is just a reality of computers. I used to use Norton Ghost to make disk images of my hard drives in the case of this inevitability. But Symantec made it all bloated and expensive, so I switched to Acronis [True Image Home][true-home-image]. It has a Windows interface, but I simply created a bootable CD ROM (which the software creates) and boot my computer from it to create my disk images (on to a large external drive) and can use it to re-create my system when my internal drive dies. It is almost painless to use.
+Hard drives die. This is just a reality of computers. I used to use Norton Ghost to make disk images of my hard drives in the case of this inevitability. But Symantec made it all bloated and expensive, so I switched to Acronis [True Image][true-image]. It has a Windows interface, but I simply created a bootable CD ROM (which the software creates) and boot my computer from it to create my disk images (on to a large external drive) and can use it to re-create my system when my internal drive dies. It is almost painless to use.
 
 #### What would be your dream setup?
 
