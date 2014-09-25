@@ -1,4 +1,4 @@
 ---
 name: Blobstore
 description: An API for uploading and controlling large objects to Google App Engine.
-url: https://developers.google.com/appengine/docs/java/blobstore/
+url: https://cloud.google.com/appengine/docs/java/blobstore/

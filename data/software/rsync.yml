@@ -1,4 +1,4 @@
 ---
 name: rsync
 description: An open-source file transfer/syncing tool.
-url: http://www.samba.org/rsync/
+url: http://rsync.samba.org/
