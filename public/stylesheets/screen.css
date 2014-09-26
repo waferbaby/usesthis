@@ -292,6 +292,10 @@ padding-bottom: 10px;
 	padding-top: 150px;
 	}
 
+  footer:after {
+  content: "This is cozy, huh?";
+  }
+
 	h1 {
 	font-size: 250%;
 	padding-bottom: 10px;
@@ -351,4 +355,8 @@ padding-bottom: 10px;
 	div.year {
 	width: 50%;
 	}
+
+  footer:after {
+  content: "Ooh, this got little!";
+  }
 }
