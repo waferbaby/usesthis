@@ -1,9 +1,10 @@
 a {
 color: #fe2e9a;
+text-decoration: none;
 }
 
 a:hover {
-color: #555;
+text-decoration: underline;
 }
 
 article.interview header, article.interviewee {
@@ -14,6 +15,7 @@ aside#sellout {
 padding-top: 5px;
 color: #777;
 font-size: 65%;
+line-height: 1.8em;
 }
 
 body {
@@ -72,12 +74,12 @@ font-size: 160%;
 
 h1 a {
 color: #000;
-text-decoration: none;
 }
 
 h1 a:hover, h4 a:hover {
 color: #fff;
 background-color: #000;
+text-decoration: none;
 }
 
 h2 {
@@ -135,7 +137,6 @@ margin: 0;
 }
 
 nav#main ul li a {
-text-decoration: none;
 display: block;
 padding: 5px 0;
 border-bottom: solid 1px #eee;
@@ -176,7 +177,7 @@ font-size: 85%;
 }
 
 p.summary {
-padding: 5px 0;
+padding: 0 0 5px 0;
 margin: 0;
 font-size: 110%;
 }
@@ -264,7 +265,6 @@ padding-bottom: 10px;
 	float: none;
 	padding-bottom: 10px;
 	top: 0;
-	line-height: 16px;
 	border-bottom: solid 1px #eee;
 	}
 
