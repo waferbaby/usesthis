@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+require 'date'
+
 source_path = File.dirname(__dir__)
 
 $:.unshift(source_path)
@@ -8,9 +10,19 @@ abort("You must supply a name for the interviewee.") if ARGV.length < 2
 
 name = ARGV.join(' ')
 slug = name.downcase.gsub(/ /, '.')
-date = Time.now.strftime('%Y-%m-%d')
 
-file_path = File.join(source_path, 'posts', "#{date}-#{slug}.interview")
+date = Time.now.to_date
+found_day = false
+
+while !found_day
+  if date.strftime('%a') =~ /Tue|Thu/
+    found_day = true
+  else
+    date = date.next_day
+  end
+end
+
+file_path = File.join(source_path, 'posts', "#{date.strftime('%Y-%m-%d')}-#{slug}.interview")
 abort("Interview already exists for #{slug}.") if File.exists?(file_path)
 
 output = <<OUTPUT
