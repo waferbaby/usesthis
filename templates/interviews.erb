@@ -4,7 +4,7 @@ layout: default
 
 <% @posts.each do |interview| %>
   <article class="interviewee">
-    <%= @site.render('interviews/details', {interview: interview}) %>
+    <%= @site.render('interviews/header', {interview: interview}) %>
   </article>
 <% end %>
 
