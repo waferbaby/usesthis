@@ -14,7 +14,7 @@ margin-bottom: 25px;
 aside#sellout {
 padding-top: 5px;
 color: #777;
-font-size: 65%;
+font-size: 70%;
 line-height: 1.8em;
 }
 
@@ -24,7 +24,7 @@ margin: 0;
 background-color: #fff;
 color: #000;
 font-family: "helvetica neue", helvetica;
-font-size: 17px;
+font-size: 16px;
 line-height: 1.8em;
 }
 
@@ -84,11 +84,10 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 0 0 10px 0;
-margin: 5px 0;
+padding: 1px 0 10px 0;
+margin: 0;
 color: #fe2e9a;
 font-size: 110%;
-border-bottom: solid 1px #ddd;
 }
 
 h3 {
@@ -134,11 +133,13 @@ list-style: none outside;
 text-transform: uppercase;
 padding: 0;
 margin: 0;
+border-top: solid 1px #eee;
+font-size: 90%;
 }
 
 nav#main ul li a {
 display: block;
-padding: 5px 0;
+padding: 2px;
 border-bottom: solid 1px #eee;
 }
 
@@ -179,7 +180,9 @@ font-size: 85%;
 p.summary {
 padding: 0 0 5px 0;
 margin: 0;
-font-size: 110%;
+font-size: 90%;
+font-weight: bold;
+color: #555;
 }
 
 p#feeds {
@@ -189,8 +192,9 @@ color: #aaa;
 
 p#tagline {
 padding: 0;
-margin: 5px 0 10px 0;
-color: #aaa;
+margin: 5px 0 20px 0;
+font-size: 90%;
+line-height: 1.4em;
 }
 
 span.summary {
