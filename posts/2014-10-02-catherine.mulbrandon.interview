@@ -40,4 +40,4 @@ While I have many free apps on my iPhone and iPad, most go unused. What I'm usin
 
 I want a laptop that's very lightweight but very fast, since I carry it everywhere and I normally connect to a monitor so it doesn't need a large screen. While I can code if I need to, I prefer to spend my time either looking at the numbers or looking at my design. I'm not happy when I'm debugging code or trying to figure out a workaround in a software package. What I want is a WYSIWYG editor where I can view and design a visualization while simultaneously edit its underlining logic in real time, but still take a peek at the data used in the graphic.
 
-I can see just a hint of this future with high-end software like Tableau or open source projects (like [RAW][], built on top of [D3][]), but there's still a long way to go.
+I can see just a hint of this future with high-end software like Tableau or open source projects (like [RAW][], built on top of [D3][d3.js]), but there's still a long way to go.
