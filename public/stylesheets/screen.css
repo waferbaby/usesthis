@@ -58,6 +58,17 @@ width: 25%;
 float: left;
 }
 
+figure {
+padding: 0;
+margin: 0 0 5px 0;
+}
+
+figcaption {
+float: right;
+padding: 0;
+font-size: 60%;
+}
+
 footer {
 clear: left;
 margin: 20px 0 0 220px;
@@ -114,12 +125,7 @@ h5 a {
 color: #000;
 }
 
-img.portrait {
-margin: 0 0 10px 0;
-border: solid 1px #000;
-}
-
-img.detail {
+img.detail, img.portrait {
 border: solid 1px #000;
 }
 
