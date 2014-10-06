@@ -1,6 +1,11 @@
-<% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
-<img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
-<% unless @selected %></a><% end %>
+<figure>
+  <% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
+  <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
+  <% unless @selected %></a><% end %>
+  <% if @interview.credits && @selected %>
+  <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
+  <% end %>
+</figure>
 <header>
 <h3 class="person">
   <% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
@@ -10,9 +15,6 @@
 <p class="summary"><%= @interview.summary %></p>
 <p class="details">
 Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %>.</time>
-<% if @interview.credits %>
-  Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.
-<% end %>
 </p>
 <p class="filing">Filed under:</p>
 <ul class="categories">
