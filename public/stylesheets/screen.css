@@ -15,7 +15,7 @@ aside#sellout {
 padding-top: 5px;
 color: #777;
 font-size: 70%;
-line-height: 1.8em;
+line-height: 160%;
 }
 
 body {
@@ -25,7 +25,7 @@ background-color: #fff;
 color: #000;
 font-family: "helvetica neue", helvetica;
 font-size: 16px;
-line-height: 1.8em;
+line-height: 180%;
 }
 
 code {
@@ -60,7 +60,7 @@ float: left;
 
 figure {
 padding: 0;
-margin: 0 0 5px 0;
+margin: 0 0 10px 0;
 }
 
 figcaption {
@@ -71,9 +71,12 @@ font-size: 60%;
 
 footer {
 clear: left;
+padding: 10px 0 0 0;
 margin: 20px 0 0 220px;
 color: #777;
-font-size: 85%;
+font-size: 75%;
+line-height: 160%;
+border-top: solid 1px #eee;
 }
 
 h1 {
@@ -95,7 +98,7 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 1px 0 10px 0;
+padding: 5px 0 10px 0;
 margin: 0;
 color: #fe2e9a;
 font-size: 110%;
@@ -125,6 +128,10 @@ h5 a {
 color: #000;
 }
 
+header {
+line-height: 160%;
+}
+
 img.detail, img.portrait {
 border: solid 1px #000;
 }
@@ -132,6 +139,10 @@ border: solid 1px #000;
 main {
 margin-left: 220px;
 max-width: 500px;
+}
+
+nav#main {
+line-height: 120%;
 }
 
 nav#main ul {
@@ -145,7 +156,7 @@ font-size: 90%;
 
 nav#main ul li a {
 display: block;
-padding: 2px;
+padding: 5px 0;
 border-bottom: solid 1px #eee;
 }
 
@@ -192,7 +203,7 @@ font-weight: bold;
 }
 
 p#feeds {
-font-size: 85%;
+font-size: 80%;
 color: #aaa;
 }
 
@@ -200,7 +211,6 @@ p#tagline {
 padding: 0;
 margin: 5px 0 20px 0;
 font-size: 90%;
-line-height: 1.4em;
 }
 
 span.summary {
@@ -302,10 +312,6 @@ padding-bottom: 10px;
 	padding-top: 150px;
 	}
 
-  footer:after {
-  content: "This is cozy!";
-  }
-
 	h1 {
 	font-size: 250%;
 	padding-bottom: 10px;
@@ -364,8 +370,4 @@ padding-bottom: 10px;
 	div.year {
 	width: 50%;
 	}
-
-  footer:after {
-  content: "I'm little!";
-  }
 }
