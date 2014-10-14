@@ -10,6 +10,9 @@
 		<% end %>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
+		<meta name="author" content="Daniel Bogan">
+		<meta name="keywords" value="interview, setup, tech">
 		<% if @this.type == :interview %>
 		<%= @site.render('interviews/metadata', {interview: @this}) %>
 		<% else %>
@@ -29,7 +32,6 @@
 					<h2><% if @this.type == :page %><% if @this.title %><%= @this.title %><% else %>Welcome!<% end %><% else %><%= @this.type.capitalize %><% end %></h2>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
-
 				<nav id="main">
 					<ul>
 						<li><a href="/interviews/" title="All the other interviews.">Interviews</a></li>
@@ -38,7 +40,6 @@
 					</ul>
 					<p id="feeds">Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed."> feed</a>.</p>
 				</nav>
-
 				<aside id="sellout">
 					<script type="text/javascript">
 					//<![CDATA[
@@ -52,11 +53,9 @@
 					<p><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
 				</aside>
 			</div>
-
 			<main role="main">
 			<%= yield %>
 			</main>
-
 			<footer>This is a <a href="http://twitter.com/waferbaby" title="Some dork's Twitter account.">waferbaby</a> snafu. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. Hosting provided by <a href=" https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My lovely hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>. You're awesome.</footer>
 		</div>
 	</body>
