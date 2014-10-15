@@ -7,7 +7,7 @@ a:hover {
 text-decoration: underline;
 }
 
-article.interview header, article.interviewee {
+article.interview header {
 margin-bottom: 25px;
 }
 
@@ -265,6 +265,16 @@ list-style: none outside;
 padding: 0;
 margin: 10px 0 15px 0;
 font-size: 90%;
+}
+
+ul.interviews {
+list-style: none outside;
+padding: 0;
+margin: 0;
+}
+
+ul.interviews li {
+margin-bottom: 15px;
 }
 
 ul.links {
