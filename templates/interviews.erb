@@ -8,7 +8,6 @@ layout: default
     <figure>
       <a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
     </figure>
-    <header>
     <h3 class="person"><a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>."><%= interview.name %></a></h3>
     <p class="summary"><%= interview.summary %></p>
     <p class="details">
@@ -18,7 +17,6 @@ layout: default
     <ul class="categories">
     <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
     </ul>
-    </header>
   </li>
 <% end %>
 </ul>
