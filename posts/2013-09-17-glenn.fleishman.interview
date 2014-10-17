@@ -36,7 +36,7 @@ First and foremost is [BBEdit][]. I was a latecomer to it, being required to use
 
 Rounding out the Bare Bones-related triumvirate is [Yojimbo][], a sort of junk-drawer program that lets me drop in notes, serial numbers, Web pages, images, and PDFs, and optionally encrypt individual items.
 
-My desktop and iOS Twitter client is [Tweetbot][tweetbot-mac], and I use [Kiwi][] for App.net on my Mac and [Netbot][netbot-ios] for iOS. My only issue with Kiwi is that it needs multi-account support.
+My desktop and iOS Twitter client is [Tweetbot][], and I use [Kiwi][] for App.net on my Mac and [Netbot][netbot-ios] for iOS. My only issue with Kiwi is that it needs multi-account support.
 
 I spent May deep in development and design of *The Magazine* to launch minor revisions after my purchase of it had completed. On the low-level side, I was using [PHP][] with [jQuery][] for [JavaScript][] and [Stripe][] for credit-card processing. On the higher-level, I relied on Oracle's [MySQL Workbench][mysql-workbench] for MySQL database interaction and [GitHub for Mac][github-mac] for version control.
 
