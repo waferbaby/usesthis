@@ -24,7 +24,7 @@ Timothy and I have a [Boxee][] box connected to our Vizio 55" LED HD television.
 
 My IDE is Xcode 4, to which I only recently upgraded from Xcode 3. Giant change. When you spend most of your days using a certain application, it starts to become like an extension of you, like one of your arms. Then all of a sudden, when you switch or there's a major version update, it's like someone replaced your arm with a Tyrannosaurus arm.
 
-I use [Terminal][] for interacting with the filesystem and for running all my little bash scripts. [TextWrangler][] and [vim][] are my editors when I'm writing in languages other than [Objective-C][objective-c]. I use [git][], and [GitHub for Mac][github-for-mac], for source code version control.
+I use [Terminal][] for interacting with the filesystem and for running all my little bash scripts. [TextWrangler][] and [vim][] are my editors when I'm writing in languages other than [Objective-C][objective-c]. I use [git][], and [GitHub for Mac][github-mac], for source code version control.
 
 Can I count frameworks as software that I use? Ok, I will. I use [Cocos2d][], for iOS and [python][], for writing games. I use a stack of plain white printer paper and a Bic mechanical pencil for working out problems while I'm coding.
 
