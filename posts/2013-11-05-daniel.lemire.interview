@@ -42,7 +42,7 @@ I always carry a small notebook and a pen. More than anything else, it keeps me 
 
 On my Macs, I use [Smultron][] as a text editor when I am not in a [bash][] shell, despite the fact that it is buggy. However, most of my [C++][c-plusplus] and [Java][] hacking is done using an older version of [Eclipse][]. I should stress that I mostly use Eclipse as a fancy programming text editor: my programming happens in command shells. For C/C++, I use [makefiles][make], and for Java, I use [maven][].
 
-For web browsing, I use [Google Chrome][chrome]. As a [LaTeX][] editor, I use [Texpad][texpad-mac]. When people send me office documents, I open them with [OpenOffice][].
+For web browsing, I use [Google Chrome][chrome]. As a [LaTeX][] editor, I use [Texpad][]. When people send me office documents, I open them with [OpenOffice][].
 
 My iPad mostly is most just used to play video and the standard Google apps like [YouTube][youtube-ios] and [Google Plus][google-plus-ios].
 
