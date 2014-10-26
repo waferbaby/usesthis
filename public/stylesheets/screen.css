@@ -221,15 +221,6 @@ padding: 0;
 margin: 0 10px 0 0;
 }
 
-ul.categories li:before {
-content: ",";
-color: #eee;
-}
-
-ul.categories li:first-child:before {
-content: "";
-}
-
 ul.interviews, ul.links {
 list-style: none outside;
 padding: 0;
