@@ -3,30 +3,19 @@ layout: default
 title: Interviews
 ---
 
-<h3>Overview</h3>
+<h3>All the interviews</h3>
 <p>There are currently <strong><%= @site.posts.length %></strong> interviews in <strong><%= @site.categories.length %></strong> categories, mentioning <strong><%= @site.hardware.length %></strong> bits of hardware and <strong><%= @site.software.length %></strong> bits of software.</p>
 
-<h4 id="categories">By category</h4>
-
-<ul class="categories all">
-<% @site.categories.keys.sort.each do |category| %>
-  <li><a href="/interviews/<%= category %>" rel="category" title="View all <%= category.capitalize %> interviews."><%= category %></a><li>
-<% end %>
-</ul>
-
-<h4 id="dates">By date</h4>
-
-<% @site.archives.each do |year, year_data| %>
-  <div class="year">
-    <h5 id="<%= year %>"><a href="/interviews/<%= year %>/" title="View all interviews in <%= year %>."><%= year %></a></h5>
-    <span class="summary"><%= year_data[:posts].length %> interview<% if year_data[:posts].length != 1 %>s<% end %></span>
-
-    <ul class="dates">
-      <% year_data[:months].each do |month, month_data| %>
-        <li>
-          <a href="/interviews/<%= year + "/" + month %>" title="View all interviews from <%= month_data[:name] %> <%= year %>"><%= month_data[:name] %></a> <span class="summary">(<%= month_data[:posts].length %>)</span>
-        </li>
-      <% end %>
-    </ul>
-  </div>
+<% @site.archives.each do |year_key, year| %>
+  <% year[:months].each do |month_key, month| %>
+  <h4><%= month[:name] %> <%= year_key %></h4>
+  <ul class="interviews">
+    <% month[:posts].each do |interview| %>
+    <li>
+      <a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>."><%= interview.name %></a><br>
+      <span class="summary"><%= interview.summary %></span>
+    </li>
+    <% end %>
+  </ul>
+  <% end %>
 <% end %>
