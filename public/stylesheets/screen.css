@@ -24,7 +24,7 @@ margin: 0;
 background-color: #fff;
 color: #000;
 font-family: "helvetica neue", helvetica;
-font-size: 16px;
+font-size: 15px;
 line-height: 180%;
 }
 
@@ -53,11 +53,6 @@ float: left;
 width: 160px;
 }
 
-div.year {
-width: 25%;
-float: left;
-}
-
 figure {
 padding: 0;
 margin: 0 0 10px 0;
@@ -65,8 +60,8 @@ margin: 0 0 10px 0;
 
 figcaption {
 float: right;
-padding: 0;
-font-size: 60%;
+padding: 5px 0 0 0;
+font-size: 65%;
 }
 
 footer {
@@ -90,7 +85,7 @@ h1 a {
 color: #000;
 }
 
-h1 a:hover, h4 a:hover {
+h1 a:hover {
 color: #fff;
 background-color: #000;
 text-decoration: none;
@@ -108,14 +103,14 @@ h3 {
 padding: 0;
 margin: 0;
 color: #333;
-font-size: 150%;
+font-size: 180%;
 }
 
 h4 {
 clear: left;
 padding: 0;
 margin: 0 0 15px 0;
-font-size: 125%;
+font-size: 145%;
 }
 
 h5 {
@@ -179,14 +174,6 @@ color: #aaa;
 font-size: 90%;
 }
 
-p.filing {
-float: left;
-padding: 0;
-margin: 5px 5px 5px 0;
-color: #aaa;
-font-size: 80%;
-}
-
 p.license {
 padding: 10px;
 background-color: #eee;
@@ -195,11 +182,10 @@ font-size: 85%;
 }
 
 p.summary {
-padding: 0 0 5px 0;
+padding: 5px 0;
 margin: 0;
 color: #555;
-font-size: 90%;
-font-weight: bold;
+font-size: 120%;
 }
 
 p#feeds {
@@ -224,66 +210,33 @@ font-size: 80%;
 
 ul.categories {
 list-style: none outside;
-padding: 0;
+padding: 0 0 10px 0;
 margin: 5px 0;
 font-size: 80%;
 }
 
 ul.categories li {
-display: inline-block;
-margin: 0 5px 0 0;
-}
-
-ul.categories li a {
-padding: 3px;
-margin: 0;
-background-color: #fcfcfc;
-color: #888;
-text-align: center;
-text-decoration: none !important;
-border: solid 1px #eee;
--moz-border-radius: 2px;
-border-radius: 2px;
-}
-
-ul.categories li a:hover {
-background-color: #ddd;
-color: #555 !important;
-border: solid 1px #aaa;
-}
-
-ul.categories.all li a {
-display: block;
-width: 100px;
-float: left;
+display: inline;
 padding: 0;
-margin: 2px;
+margin: 0 10px 0 0;
 }
 
-ul.dates {
-list-style: none outside;
-padding: 0;
-margin: 10px 0 15px 0;
-font-size: 90%;
+ul.categories li:before {
+content: ",";
+color: #eee;
 }
 
-ul.interviews {
-list-style: none outside;
-padding: 0;
-margin: 0;
+ul.categories li:first-child:before {
+content: "";
 }
 
-ul.interviews li {
-margin-bottom: 15px;
-}
-
-ul.links {
+ul.interviews, ul.links {
 list-style: none outside;
 padding: 0;
 margin: 10px 0;
 }
 
-ul.links li {
+ul.interviews li, ul.links li {
 padding-bottom: 10px;
 }
 
@@ -375,9 +328,5 @@ padding-bottom: 10px;
 
 	nav#paginator {
 	font-size: 90%;
-	}
-
-	div.year {
-	width: 50%;
 	}
 }
