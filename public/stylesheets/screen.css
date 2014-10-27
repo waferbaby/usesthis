@@ -43,7 +43,7 @@ color: #fe2e9a;
 }
 
 div#wrapper {
-max-width: 720px;
+max-width: 682px;
 margin: auto;
 }
 
@@ -67,7 +67,7 @@ font-size: 65%;
 footer {
 clear: left;
 padding: 10px 0 0 0;
-margin: 0 0 0 220px;
+margin: 0 0 0 180px;
 color: #777;
 font-size: 75%;
 line-height: 160%;
@@ -133,7 +133,7 @@ border: solid 1px #000;
 
 main {
 margin-left: 180px;
-max-width: 500px;
+max-width: 502px;
 }
 
 nav#main {
@@ -262,7 +262,7 @@ padding-bottom: 10px;
 	}
 
 	div#wrapper {
-	max-width: 500px;
+	max-width: 502px;
 	}
 
 	div#stump {
