@@ -13,8 +13,8 @@ margin-bottom: 25px;
 
 aside#sellout {
 padding-top: 5px;
-color: #777;
-font-size: 70%;
+color: #aaa;
+font-size: 75%;
 line-height: 160%;
 }
 
@@ -50,7 +50,7 @@ margin: auto;
 div#stump {
 position: fixed;
 float: left;
-width: 160px;
+width: 120px;
 }
 
 figure {
@@ -78,7 +78,7 @@ h1 {
 text-transform: uppercase;
 padding: 0;
 margin: 0;
-font-size: 160%;
+font-size: 140%;
 }
 
 h1 a {
@@ -93,7 +93,7 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 5px 0 10px 0;
+padding: 2px 0 10px 0;
 margin: 0;
 color: #fe2e9a;
 font-size: 110%;
@@ -132,7 +132,7 @@ border: solid 1px #000;
 }
 
 main {
-margin-left: 220px;
+margin-left: 180px;
 max-width: 500px;
 }
 
@@ -189,14 +189,15 @@ font-size: 120%;
 }
 
 p#feeds {
-font-size: 80%;
-color: #aaa;
+font-size: 75%;
+color: #777;
 }
 
 p#tagline {
 padding: 0;
 margin: 5px 0 20px 0;
-font-size: 90%;
+font-size: 80%;
+line-height: 150%;
 }
 
 span.summary {
@@ -227,6 +228,7 @@ color: #999;
 padding: 4px;
 margin-right: 5px;
 border-radius: 3px;
+border: solid 1px #f2f2f2;
 }
 
 ul.interviews, ul.links {
