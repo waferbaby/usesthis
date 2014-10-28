@@ -4,18 +4,7 @@ layout: default
 
 <article class="interview">
   <header>
-    <figure>
-      <img src="/images/portraits/<%= @this.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @this.name %>">
-      <% if @this.credits %>
-      <figcaption>Photo by <% if @this.credits['url'] %><a href="<%= @this.credits['url'] %>" title="View more about <%= @this.credits['name'] %>."><%= @this.credits['name'] %></a><% else %><%= @this.credits['name'] %><% end %>.</figcaption>
-      <% end %>
-    </figure>
-    <h3 class="person"><%= @this.name %></h3>
-    <p class="summary"><%= @this.summary %></p>
-    <p class="details">Posted <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>"><%= @this.date.strftime('%B %d, %Y') %>.</time></p>
-    <ul class="categories">
-    <% @this.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
-    </ul>
+    <%= @site.render('interviewee', {interview: @this, selected: true}) %>
   </header>
 
   <%= @this.markdown %>
