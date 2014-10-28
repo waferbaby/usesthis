@@ -1,18 +1,11 @@
 ---
 layout: default
+title: Interviews
 ---
 
 <% @posts.each do |interview| %>
 <article class="interviewee">
-  <figure>
-    <a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>."><img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.name %>"></a>
-  </figure>
-  <h3 class="person"><a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>."><%= interview.name %></a></h3>
-  <p class="summary"><%= interview.summary %></p>
-  <p class="details">Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>"><%= interview.date.strftime('%B %d, %Y') %>.</time></p>
-  <ul class="categories">
-  <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
-  </ul>
+  <%= @site.render('interviewee', {interview: interview}) %>
 </article>
 <% end %>
 
