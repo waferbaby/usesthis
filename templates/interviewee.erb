@@ -1,0 +1,18 @@
+<figure>
+  <% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
+  <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
+  <% unless @selected %></a><% end %>
+  <% if @selected && @interview.credits %>
+    <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
+  <% end %>
+</figure>
+<h3 class="person">
+  <% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
+    <%= @interview.name %>
+  <% unless @selected %></a><% end %>
+</h3>
+<p class="summary"><%= @interview.summary %></p>
+<p class="details">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %>.</time></p>
+<ul class="categories">
+<% @interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews."><%= category %></a></li><% end %>
+</ul>
