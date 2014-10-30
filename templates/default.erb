@@ -40,7 +40,7 @@
 			<div id="stump">
 				<header>
 					<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-					<h2><% if @this.type == :page %><% if @this.title %><%= @this.title %><% else %>Welcome!<% end %><% else %><%= @this.type.capitalize %><% end %></h2>
+					<h2><%= @this.type == :page ? @this.title : @this.type.capitalize %></h2>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 				<nav id="main">
