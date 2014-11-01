@@ -93,7 +93,7 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 2px 0 10px 0;
+padding: 2px 0;
 margin: 0;
 color: #fe2e9a;
 font-size: 110%;
@@ -179,6 +179,14 @@ padding: 10px;
 background-color: #eee;
 color: #555;
 font-size: 85%;
+}
+
+p.page {
+padding: 0;
+margin: 0 0 10px 0;
+color: #888;
+font-size: 90%;
+font-weight: bold;
 }
 
 p.summary {
