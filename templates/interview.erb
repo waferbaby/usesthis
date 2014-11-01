@@ -3,10 +3,7 @@ layout: default
 ---
 
 <article class="interview">
-  <header>
-    <%= @site.render('interviewee', {interview: @this, selected: true}) %>
-  </header>
-
+  <%= @site.render('interviewee', {interview: @this, selected: true}) %>
   <%= @this.markdown %>
 
   <% if @this.license %>
