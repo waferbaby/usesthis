@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup<% if @this.type == :interview %> / <%= @this.name %><% else %><% if @this.title %> / <%= @this.title %><% end %><% end %></title>
+		<title>
+			The Setup / <%= @this.type == :interview ? @this.name : @this.title %>
+			<% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %>
+		</title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
 		<% if @this.type == :interview %>
@@ -40,7 +43,8 @@
 			<div id="stump">
 				<header>
 					<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-					<h2><%= @this.type == :page ? @this.title : @this.type.capitalize %></h2>
+					<h2><%= @this.type == :interview ? "Interview" : @this.title %></h2>
+					<% if @pagination && @pagination[:page] > 1 %><p class="page">Page <%= @pagination[:page] %> of <%= @pagination[:pages] %></p><% end %>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 				<nav id="main">
