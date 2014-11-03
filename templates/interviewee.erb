@@ -7,11 +7,7 @@
   <% end %>
 </figure>
 <header>
-  <h3>
-    <% unless @selected %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><% end %>
-      <%= @interview.name %>
-    <% unless @selected %></a><% end %>
-  </h3>
+  <h3><% if @selected %><%= @interview.name %><% else %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>."><%= @interview.name %></a><% end %></h3>
   <p class="summary"><%= @interview.summary %></p>
   <p class="details">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %>.</time></p>
   <ul class="categories">
