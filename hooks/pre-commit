@@ -1,4 +1,6 @@
-#!/usr/bin/env ruby
+#!/bin/sh
 
-images = `git diff --cached --name-only -- '*.jpg'`.gsub(/\n/, ' ').rstrip
-puts`/usr/bin/env jpegoptim -m95 -t #{images}`
+files=`git diff --cached --name-only -- '*.jpg' | sed 's/\\n/ /' | sed 's/ *$//'`
+/usr/bin/env jpegoptim -m95 -t $files
+
+exit 0
