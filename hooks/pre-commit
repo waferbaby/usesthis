@@ -1,6 +1,6 @@
 #!/bin/sh
 
 files=`git diff --cached --name-only -- '*.jpg' | sed 's/\\n/ /' | sed 's/ *$//'`
-/usr/bin/env jpegoptim -m95 -t $files
 
-exit 0
+jpegoptim -o -m95 -t $files
+git add $files
