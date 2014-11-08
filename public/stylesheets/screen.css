@@ -110,7 +110,7 @@ font-size: 140%;
 
 h3 {
 padding: 0;
-margin: 0 0 5px 0;
+margin: 0;
 color: #333;
 font-size: 130%;
 }
@@ -194,7 +194,7 @@ p.details {
 padding: 0;
 margin: 0;
 color: #aaa;
-font-size: 75%;
+font-size: 65%;
 }
 
 p.license {
@@ -208,7 +208,7 @@ p.summary {
 padding: 0;
 margin: 0;
 color: #555;
-font-size: 80%;
+font-size: 75%;
 }
 
 p#tagline {
@@ -221,11 +221,6 @@ line-height: 150%;
 
 span.summary {
 color: #555;
-}
-
-span.url {
-color: #999;
-font-size: 80%;
 }
 
 ul.categories {
@@ -262,6 +257,8 @@ margin: 10px 0;
 }
 
 ul.links li {
+display: inline-block;
+width: 240px;
 padding-bottom: 10px;
 }
 
@@ -321,9 +318,11 @@ padding-bottom: 10px;
 	}
 
 	nav#main ul {
-	padding: 10px 0;
+	padding: 15px 0;
 	border-top: solid 1px #eee;
+	border-right: 0;
 	border-bottom: solid 1px #eee;
+	border-left: 0;
 	}
 
 	nav#main ul li {
@@ -346,5 +345,11 @@ padding-bottom: 10px;
 
 	nav#paginator {
 	font-size: 90%;
+	}
+
+	ul.links li {
+	display: block;
+	width: auto;
+
 	}
 }
