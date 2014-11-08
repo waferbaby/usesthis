@@ -1,10 +1,14 @@
 a {
 color: #fe2e9a;
-text-decoration: none;
+text-decoration: underline;
 }
 
 a:hover {
-text-decoration: underline;
+color: #333;
+}
+
+article.interview {
+clear: left;
 }
 
 article.interview header {
@@ -12,10 +16,20 @@ margin-bottom: 20px;
 }
 
 aside#sellout {
-padding-top: 5px;
+width: 325px;
+float: right;
 color: #aaa;
-font-size: 75%;
+font-size: 60%;
 line-height: 160%;
+}
+
+aside#sellout img {
+float: right;
+margin-left: 15px;
+}
+
+aside#sellout p {
+margin-top: 0;
 }
 
 body {
@@ -24,7 +38,7 @@ margin: 0;
 background-color: #fff;
 color: #000;
 font-family: "helvetica neue", helvetica;
-font-size: 15px;
+font-size: 20px;
 line-height: 180%;
 }
 
@@ -43,14 +57,8 @@ color: #fe2e9a;
 }
 
 div#wrapper {
-max-width: 682px;
+max-width: 800px;
 margin: auto;
-}
-
-div#stump {
-position: fixed;
-float: left;
-width: 120px;
 }
 
 figure {
@@ -67,9 +75,8 @@ font-size: 65%;
 footer {
 clear: left;
 padding: 10px 0 0 0;
-margin: 0 0 0 180px;
 color: #777;
-font-size: 75%;
+font-size: 85%;
 line-height: 160%;
 border-top: solid 1px #eee;
 }
@@ -78,11 +85,12 @@ h1 {
 text-transform: uppercase;
 padding: 0;
 margin: 0;
-font-size: 140%;
+font-size: 180%;
 }
 
 h1 a {
 color: #000;
+text-decoration: none;
 }
 
 h1 a:hover {
@@ -93,17 +101,17 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 2px 0;
+padding: 7px 0;
 margin: 0;
 color: #fe2e9a;
-font-size: 110%;
+font-size: 140%;
 }
 
 h3 {
 padding: 0;
 margin: 0;
 color: #333;
-font-size: 150%;
+font-size: 130%;
 }
 
 h4 {
@@ -127,17 +135,27 @@ header {
 line-height: 160%;
 }
 
+header#mast {
+float: left;
+margin-right: 30px;
+}
+
 img.detail, img.portrait {
+float: left;
+margin: 0 20px 20px 0;
 border: solid 1px #000;
 }
 
 main {
-margin-left: 180px;
-max-width: 502px;
+clear: left;
+padding-top: 15px;
+border-top: solid 1px #eee;
 }
 
 nav#main {
+float: left;
 line-height: 120%;
+margin-left: 20px;
 }
 
 nav#main ul {
@@ -145,14 +163,16 @@ list-style: none outside;
 text-transform: uppercase;
 padding: 0;
 margin: 0;
-border-top: solid 1px #eee;
 font-size: 90%;
 }
 
 nav#main ul li a {
 display: block;
 padding: 6px 0;
-border-bottom: solid 1px #eee;
+}
+
+nav#main ul li:first-child a {
+padding-top: 0;
 }
 
 nav#paginator {
@@ -171,7 +191,7 @@ p.details {
 padding: 0;
 margin: 0;
 color: #aaa;
-font-size: 80%;
+font-size: 70%;
 }
 
 p.license {
@@ -181,30 +201,18 @@ color: #555;
 font-size: 85%;
 }
 
-p.page {
-padding: 0;
-margin: 0 0 10px 0;
-color: #888;
-font-size: 90%;
-font-weight: bold;
-}
-
 p.summary {
-padding: 2px 0;
+padding: 0;
 margin: 0;
 color: #555;
-font-size: 110%;
-}
-
-p#feeds {
-font-size: 75%;
-color: #777;
+font-size: 80%;
 }
 
 p#tagline {
 padding: 0;
 margin: 5px 0 20px 0;
-font-size: 80%;
+color: #888;
+font-size: 70%;
 line-height: 150%;
 }
 
@@ -220,12 +228,12 @@ font-size: 80%;
 ul.categories {
 list-style: none outside;
 padding: 0;
-margin: 5px 0;
-font-size: 85%;
+margin: 10px 0;
+font-size: 65%;
 }
 
 ul.categories li {
-display: inline;
+display: inline-block;
 padding: 0;
 margin: 0;
 }
@@ -233,10 +241,15 @@ margin: 0;
 ul.categories li a {
 background-color: #fcfcfc;
 color: #999;
-padding: 4px;
-margin-right: 5px;
+padding: 5px;
+margin: 0 4px 2px 0;
 border-radius: 2px;
 border: solid 1px #f5f5f5;
+text-decoration: none;
+}
+
+ul.categories li a:hover {
+background-color: #eee;
 }
 
 ul.links {
@@ -249,15 +262,14 @@ ul.links li {
 padding-bottom: 10px;
 }
 
-@media screen and (max-width: 790px) {
+@media screen and (max-width: 1000px) {
 
 	aside#sellout {
-	width: 100%;
+	width: auto;
 	position: absolute;
 	float: none;
-	padding-bottom: 10px;
+	padding: 30px 0 0 0;
 	top: 0;
-	border-bottom: solid 1px #eee;
 	}
 
 	aside#sellout img {
@@ -266,42 +278,39 @@ padding-bottom: 10px;
 	}
 
 	body {
-	padding: 20px;
+	font-size: 18px;
+	}
+
+	img.detail, img.portrait {
+	float: none;
+	max-width: 500px;
+	width: 100%;
+	height: auto;
+	margin: 0;
 	}
 
 	div#wrapper {
 	max-width: 502px;
+	margin-top: 100px;
+	padding-top: 20px;
+	border-top: solid 1px #eee;
+	}
+}
+
+@media screen and (max-width: 600px), (max-device-width: 480px) {
+
+	body {
+	font-size: 16px;
 	}
 
-	div#stump {
-	position: relative;
+	header#mast, nav#main {
+	width: 100%;
 	float: none;
-	width: 100%;
-	margin: auto;
-	}
-
-	div#stump > header {
-	padding-top: 150px;
-	}
-
-	h1 {
-	font-size: 250%;
-	padding-bottom: 10px;
-	}
-
-	h2 {
-	font-size: 180%;
-	border: 0;
-	}
-
-	img.detail, img.portrait {
-	max-width: 500px;
-	width: 100%;
-	height: auto;
-	}
-
-	main, footer {
 	margin: 0;
+	}
+
+	main {
+	border: 0;
 	}
 
 	nav#main ul {
@@ -327,13 +336,6 @@ padding-bottom: 10px;
 	display: inline;
 	border: 0;
 	}
-
-	p#feeds {
-	padding-bottom: 10px;
-	}
-}
-
-@media screen and (max-width: 600px), (max-device-width: 480px) {
 
 	nav#paginator {
 	font-size: 90%;
