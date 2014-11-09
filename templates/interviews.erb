@@ -4,7 +4,7 @@ title: Interviews
 ---
 
 <% @posts.each do |interview| %>
-<article class="interview">
+<article class="interview h-card vcard">
   <%= @site.render('interviewee', {interview: interview}) %>
 </article>
 <% end %>

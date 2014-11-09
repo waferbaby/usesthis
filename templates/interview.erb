@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="interview">
+<article class="interview h-card vcard">
   <%= @site.render('interviewee', {interview: @this, selected: true}) %>
   <%= @this.markdown %>
 
