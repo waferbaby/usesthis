@@ -8,13 +8,14 @@ color: #000;
 text-decoration: underline;
 }
 
-article.interview {
-clear: left;
-}
-
-article.interview header {
+article#interview header,
+article.interviewee header {
 margin-bottom: 20px;
 line-height: 1.2em;
+}
+
+article.interviewee {
+clear: left;
 }
 
 aside#sellout {
@@ -135,7 +136,8 @@ float: left;
 margin-right: 30px;
 }
 
-img.detail, img.portrait {
+img.detail,
+img.portrait {
 float: left;
 margin: 0 20px 10px 0;
 border: solid 1px #000;
@@ -230,12 +232,14 @@ color: #555;
 font-size: 80%;
 }
 
-section.links {
+section#inspired,
+section#personal {
 float: left;
 width: 50%;
 }
 
-section.links ul {
+section#inspired ul,
+section#personal ul {
 list-style: none outside;
 padding: 0;
 margin: 0;
@@ -267,7 +271,8 @@ color: #555;
 	border-top: solid 1px #eee;
 	}
 
-	img.detail, img.portrait {
+	img.detail,
+	img.portrait {
 	float: none;
 	max-width: 500px;
 	width: 100%;
@@ -282,11 +287,16 @@ color: #555;
 
 @media screen and (max-width: 600px), (max-device-width: 480px) {
 
+	aside#sellout {
+	width: auto;
+	}
+
 	body {
 	font-size: 1em;
 	}
 
-	header#mast, nav#main {
+	header#mast,
+	nav#main {
 	width: 100%;
 	float: none;
 	margin: 0;
@@ -325,4 +335,12 @@ color: #555;
 	nav#paginator {
 	font-size: 90%;
 	}
+
+	section#inspired,
+	section#personal {
+	float: none;
+	width: auto;
+	}
+}
+
 }
