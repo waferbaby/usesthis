@@ -19,7 +19,7 @@ clear: left;
 }
 
 aside#sellout {
-width: 360px;
+width: 350px;
 float: right;
 color: #aaa;
 font-size: 60%;
@@ -255,7 +255,7 @@ color: #555;
 	width: 502px;
 	position: absolute;
 	float: none;
-	padding: 30px 20px 0 0;
+	margin-top: 30px;
 	top: 0;
 	}
 
@@ -288,7 +288,7 @@ color: #555;
 @media screen and (max-width: 600px), (max-device-width: 480px) {
 
 	aside#sellout {
-	width: auto;
+	width: 260px;
 	}
 
 	body {
@@ -307,11 +307,12 @@ color: #555;
 	}
 
 	nav#main ul {
-	padding: 15px 0;
+	padding: 10px 0;
 	border-top: solid 1px #eee;
 	border-right: 0;
 	border-bottom: solid 1px #eee;
 	border-left: 0;
+	font-size: 95%;
 	}
 
 	nav#main ul li {
