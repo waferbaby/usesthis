@@ -1,10 +1,11 @@
 a {
 color: #fe2e9a;
-text-decoration: underline;
+text-decoration: none;
 }
 
 a:hover {
-color: #333;
+color: #000;
+text-decoration: underline;
 }
 
 article.interview {
@@ -17,16 +18,16 @@ line-height: 1.2em;
 }
 
 aside#sellout {
-width: 320px;
+width: 360px;
 float: right;
 color: #aaa;
 font-size: 60%;
-line-height: 1.3em;
+line-height: 1.6em;
 }
 
 aside#sellout img {
 float: right;
-margin-left: 15px;
+margin-left: 20px;
 }
 
 aside#sellout p {
@@ -39,8 +40,8 @@ margin: 0;
 background-color: #fff;
 color: #000;
 font-family: "helvetica neue", helvetica;
-font-size: 1.3em;
-line-height: 1.8em;
+font-size: 1.1em;
+line-height: 2em;
 }
 
 code {
@@ -53,8 +54,7 @@ margin: 0 0 20px 0;
 }
 
 dt {
-font-style: italic;
-color: #fe2e9a;
+font-weight: bold;
 }
 
 div#wrapper {
@@ -71,13 +71,13 @@ margin: 0 0 20px 0;
 figcaption {
 padding: 0;
 font-size: 65%;
-color: #888;
+color: #555;
 }
 
 footer {
 clear: left;
 padding: 10px 0 0 0;
-color: #777;
+color: #555;
 font-size: 75%;
 border-top: solid 1px #eee;
 }
@@ -85,13 +85,12 @@ border-top: solid 1px #eee;
 h1 {
 text-transform: uppercase;
 padding: 0;
-margin: 0 0 5px 0;
+margin: 0;
 font-size: 180%;
 }
 
 h1 a {
 color: #000;
-text-decoration: none;
 }
 
 h1 a:hover {
@@ -111,15 +110,14 @@ font-size: 140%;
 h3 {
 padding: 0;
 margin: 0 0 10px 0;
-color: #333;
-font-size: 120%;
+font-size: 150%;
 }
 
 h4 {
 clear: left;
 padding: 0;
 margin: 0 0 15px 0;
-font-size: 120%;
+font-size: 140%;
 }
 
 h5 {
@@ -149,16 +147,19 @@ padding-top: 15px;
 border-top: solid 1px #eee;
 }
 
+nav ul {
+list-style: none outside;
+}
+
 nav#main {
 float: left;
 }
 
 nav#main ul {
-list-style: none outside;
 text-transform: uppercase;
 padding: 0 20px;
 margin: 0;
-font-size: 90%;
+font-size: 100%;
 border-right: solid 1px #eee;
 border-left: solid 1px #eee;
 }
@@ -166,10 +167,6 @@ border-left: solid 1px #eee;
 nav#main ul li a {
 display: block;
 padding: 0;
-}
-
-nav#main ul li:first-child a {
-padding-top: 0;
 }
 
 nav#paginator {
@@ -184,11 +181,33 @@ nav#paginator span {
 color: #aaa;
 }
 
+nav.categories ul {
+padding: 0;
+margin: 5px 0;
+font-size: 80%;
+}
+
+nav.categories ul li {
+display: inline-block;
+padding: 0;
+margin: 0 5px 5px 0;
+}
+
+nav.categories ul li:after {
+content: "/";
+color: #aaa;
+padding-left: 5px;
+}
+
+nav.categories ul li:last-child:after {
+content: "";
+}
+
 p.details {
 padding: 0;
 margin: 10px 0 20px 0;
 color: #aaa;
-font-size: 65%;
+font-size: 75%;
 }
 
 p.license {
@@ -201,60 +220,35 @@ font-size: 85%;
 p.summary {
 padding: 0;
 margin: 0;
-color: #555;
-font-size: 75%;
+font-size: 100%;
 }
 
 p#tagline {
 padding: 0;
 margin: 0 0 20px 0;
-color: #888;
-font-size: 75%;
+color: #555;
+font-size: 80%;
+}
+
+section.links {
+float: left;
+width: 50%;
+}
+
+section.links ul {
+list-style: none outside;
+padding: 0;
+margin: 0;
 }
 
 span.summary {
 color: #555;
 }
 
-ul.categories {
-list-style: none outside;
-padding: 0;
-margin: 5px 0;
-font-size: 60%;
-}
-
-ul.categories li {
-display: inline-block;
-background-color: #fcfcfc;
-padding: 5px 10px;
-margin: 0;
-}
-
-ul.categories li a {
-color: #999;
-text-decoration: none;
-}
-
-ul.categories li a:hover {
-color: #000;
-}
-
-ul.links {
-list-style: none outside;
-padding: 0;
-margin: 10px 0;
-}
-
-ul.links li {
-display: inline-block;
-width: 240px;
-padding-bottom: 10px;
-}
-
 @media screen and (max-width: 1000px) {
 
 	aside#sellout {
-	width: auto;
+	width: 502px;
 	position: absolute;
 	float: none;
 	padding: 30px 20px 0 0;
@@ -330,11 +324,5 @@ padding-bottom: 10px;
 
 	nav#paginator {
 	font-size: 90%;
-	}
-
-	ul.links li {
-	display: block;
-	width: auto;
-
 	}
 }
