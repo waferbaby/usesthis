@@ -73,7 +73,7 @@ border-top: solid 1px #eee;
 h1 {
 text-transform: uppercase;
 padding: 0;
-margin: 0 0 10px 0;
+margin: 0;
 font-size: 130%;
 }
 
@@ -90,11 +90,10 @@ text-decoration: none;
 
 h2 {
 text-transform: uppercase;
-padding: 0 0 10px 0;
-margin: 0 0 20px 0;
-font-size: 130%;
+padding: 0;
+margin: 0 0 15px 0;
+font-size: 110%;
 color: #fe2e9a;
-border-bottom: solid 1px #eee;
 }
 
 h3 {
@@ -117,9 +116,6 @@ font-size: 115%;
 
 h5 a {
 color: #000;
-}
-
-header#mast {
 }
 
 img.detail,
@@ -274,12 +270,11 @@ color: #555;
 	}
 
 	h1 {
+	margin-bottom: 10px;
 	font-size: 220%;
 	}
 
 	h2 {
-	border: 0;
-	margin-bottom: 10px;
 	font-size: 170%;
 	}
 
