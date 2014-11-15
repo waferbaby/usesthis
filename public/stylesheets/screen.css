@@ -237,14 +237,13 @@ color: #555;
 @media screen and (max-width: 800px) {
 
 	aside#sellout {
-	position: absolute;
-	margin-top: 20px;
-	top: 0;
+	min-height: 100px;
+	margin-top: 0;
 	}
 
 	aside#sellout img {
 	float: left;
-	margin: 0 15px 10px 0;
+	margin: 0 15px 0 0;
 	}
 
 	div#wrapper {
@@ -263,7 +262,6 @@ color: #555;
 
 	div#stump {
 	float: none;
-	margin-top: 115px;
 	width: auto;
 	}
 
@@ -280,8 +278,9 @@ color: #555;
 	float: none;
 	width: auto;
 	margin: 0;
-	padding: 0;
-	border: 0;
+	padding: 20px 0 0 0;
+	border-left: 0;
+	border-top: solid 1px #eee;
 	}
 
 	nav#main {
@@ -318,17 +317,6 @@ color: #555;
 }
 
 @media screen and (max-width: 600px), (max-device-width: 480px) {
-
-	aside#sellout {
-	min-width: 260px;
-	padding: 0 30px;
-	left: 0;
-	}
-
-	aside#sellout p:last-child {
-	clear: left;
-	float: left;
-	}
 
 	body {
 	font-size: 1em;
