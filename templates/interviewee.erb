@@ -9,7 +9,7 @@
 <header>
   <h3<% unless @selected %> class="p-name fn"<% end %>><% if @selected %><%= @interview.name %><% else %><a href="http://<%= @interview.slug %>.usesthis.com/" title="View the interview with <%= @interview.name %>." class="p-name fn"><%= @interview.name %></a><% end %></h3>
   <p class="summary"><%= @interview.summary %></p>
-  <p class="details">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>" pubdate><%= @interview.date.strftime('%B %d, %Y') %>.</time></p>
+  <p class="details">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %>.</time></p>
   <nav class="categories">
     <ul>
     <% @interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews." class="p-category category"><%= category %></a></li><% end %>
