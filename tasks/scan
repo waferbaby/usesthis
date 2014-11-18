@@ -12,7 +12,7 @@ $:.unshift(source_path)
 
 type = ARGV[0]
 
-abort("I can scan for 'hardware', 'software' or 'links'.") unless type =~ /^(hardware|software|links)$/
+abort("I can scan for 'hardware' or 'software'.") unless type =~ /^(hardware|software)$/
 
 glob = case type
   when 'hardware'
