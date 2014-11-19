@@ -1,0 +1,38 @@
+---
+name: Bo Adepoju
+summary: Silicon architecture engineer (Intel)
+categories:
+- developer
+- hardware
+- mac
+- software
+- windows
+---
+
+#### Who are you, and what do you do?
+
+Hi! My name is Bo Adepoju. I work at [Intel](http://www.intel.com/ "Intel's website.") on chip goodness (specifically, power management firmware validation). Essentially I work on enabling devices to boot and reset at a chip level.
+
+Computing excites me. I like to think of myself as a lifetime learner and tinkerer.
+
+#### What hardware do you use?
+
+Between work and distance learning graduate school @ [University of Illinois at Urbana-Champaign](http://cs.illinois.edu/prospective-students/graduate-students/professional-masters-mcs "The site for the Professional Master's at the University of Illinois."), I'm almost always glued to being in front of a computer. At home I use a Haswell 11-inch [MacBook Air][macbook-air] as my daily driver. I was hesitant using the 11-inch as my main machine at first having given up a 15-inch [Retina MacBook Pro][macbook-pro] when I moved to Portland from Southern California, but it has worked out admirably.
+
+I have more tablets and phones than is probably healthy, I'm somewhat of a device collector (or maybe hoarder?). At home in the device vault I have an [OG Droid][droid], [Galaxy Nexus][galaxy-nexus], [Nexus 4][nexus-4], [Nexus 5][nexus-5], [Nexus 7][nexus-7], [iPad 3][ipad-3], [iPhone 5][iphone-5], [Dell Venue 8 Pro][venue-8-pro], [Google Glass][google-glass] and no less than 3 laptops (excluding the MacBook Air) accrued over the course of undergraduate life. I don't use all of these, but it's fun to grab an older device to play with every once in a while.
+
+At work I must admit, I have an HP tanker (a tanker with good specs no less, but still a tanker). Luckily, my physical device is mostly irrelevant because it usually simply serves as a gateway to all-powerful server magic.
+
+I just recently bought a [Haswell-E i7-5960X][i7-5960x-extreme-edition] and am very ready to put those 8-cores to use @ home with a crazy PC build. I'm building a gaming PC centered on the X99 chipset and [NVIDIA's GeForce GTX 980][geforce-gtx-980] (I'm thinking 2x in SLI). If you check back with me soon I should have this complete and be happily plugging away at [League of Legends][league-of-legends] and the like at a-bazillion FPS.
+
+I have several microcontroller boards lying around my place. The ones I have from undergraduate days ([8051][mc-51], [LPC2148][]), and an [Arduino Uno][arduino-uno] are doing nothing at the moment, but I do have an [Intel Galileo][galileo] hooked up to [Philips Hue][hue] at home with the sole purpose of strobing lights (personal light show)!
+
+#### And what software?
+
+I'm a big Linux [KDE][] user and spend a lot of time in [Kate][] (and sometimes [vim][]). I also rely on [Sublime Text][sublime-text]. [C][], [C++][c-plusplus], [Ruby][]. I'm learning even when I think I've fully escaped from [Matlab][], but it'll never actually happen.
+
+I use [Spotify][] all day long and usually have [TweetDeck][] displayed on a vertical monitor at work.
+
+#### What would be your dream setup?
+
+I think I'm mostly at a good spot with what I use today, but contributing to my dream setup will definitely be the gaming PC I'm working on now! With a 4K monitor, mechanical keyboard and all that jazz. And having more microcontrollers. You can never have too many microcontrollers.
