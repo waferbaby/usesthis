@@ -35,35 +35,58 @@ module UsesThis
         end
       end
     end
+    
+    def handle_wares(wares)
+      wares = @hardware.merge(@software)
+      output = @contents
+        
+      if wares.length > 0
+        output += "\n\n"
 
-    def markdown(render = true)
-      if !@markdown[:raw]
-        wares = @hardware.merge(@software)
-        output = @contents
-
-        if wares.length > 0
-          output += "\n\n"
-
-          wares.each_value do |ware|
-            output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
-          end
+        wares.each_value do |ware|
+          output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
         end
+      end
+    end
 
-        @markdown[:raw] = output
+    def handle_raw_markdown
+      unless @markdown[:raw]
+        @markdown[:raw] = handle_wares
       end
 
-      return @markdown[:raw] unless render
-
-      if !@markdown[:rendered]
+      @markdown[:raw]
+    end
+    
+    def handle_rendered_markdown
+      unless @markdown[:rendered]
         output = @markdown[:raw]
         @markdown[:rendered] = @site.markdown_engine.render(output)
       end
 
       @markdown[:rendered]
     end
+    
+    def markdown(render = true)
+      return handle_raw_markdown unless render
+      handle_rendered_markdown
+    end
 
     def output_path(parent_path)
       File.join(parent_path, @slug)
+    end
+    
+    def wares_to_hash(data)
+      wares = @hardware.merge(@software)
+
+      if wares.length > 0
+        data[:wares] = {}
+
+        wares.each do |slug, ware|
+          data[:wares][slug] = ware.to_hash
+        end
+      end
+      
+      data
     end
 
     def to_hash
@@ -77,15 +100,7 @@ module UsesThis
       data[:credits] = credits if credits
       data[:contents] = @contents
 
-      wares = @hardware.merge(@software)
-
-      if wares.length > 0
-        data[:wares] = {}
-
-        wares.each do |slug, ware|
-          data[:wares][slug] = ware.to_hash
-        end
-      end
+      data = wares_to_hash(data)
 
       data
     end
