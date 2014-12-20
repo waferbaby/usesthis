@@ -19,9 +19,9 @@ module UsesThis
       @popular_software = []
 
       @output_paths[:wares] = File.join(@source_paths[:root], 'data')
+      @post_class = UsesThis::Interview
 
       set_hook(:after_post, :post_process_interview)
-      register(UsesThis::Interview)
     end
 
     def scan_files
@@ -49,13 +49,13 @@ module UsesThis
     end
 
     def post_process_interview(interview)
-      json_file = @klasses[:page].new(self)
+      json_file = @page_class.new(self)
       json_file.extension = 'json'
       json_file.contents = JSON.pretty_generate(interview.to_hash)
 
       json_file.write(File.join(@output_paths[:posts], interview.slug))
 
-      markdown_file = @klasses[:page].new(self)
+      markdown_file = @page_class.new(self)
       markdown_file.extension = 'markdown'
       markdown_file.contents = interview.to_markdown
 
