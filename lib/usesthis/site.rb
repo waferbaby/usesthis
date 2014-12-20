@@ -20,8 +20,6 @@ module UsesThis
 
       @output_paths[:wares] = File.join(@source_paths[:root], 'data')
       @post_class = UsesThis::Interview
-
-      set_hook(:after_post, :post_process_interview)
     end
 
     def scan_files
@@ -48,18 +46,22 @@ module UsesThis
       @popular_software = @software.values.sort { |a, b| b.interviews.length <=> a.interviews.length }[0...10]
     end
 
-    def post_process_interview(interview)
-      json_file = @page_class.new(self)
-      json_file.extension = 'json'
-      json_file.contents = JSON.pretty_generate(interview.to_hash)
+    def generate
+      super
 
-      json_file.write(File.join(@output_paths[:posts], interview.slug))
+      @posts.each do |interview|
+        json_file = @page_class.new(self)
+        json_file.extension = 'json'
+        json_file.contents = JSON.pretty_generate(interview.to_hash)
 
-      markdown_file = @page_class.new(self)
-      markdown_file.extension = 'markdown'
-      markdown_file.contents = interview.to_markdown
+        json_file.write(File.join(@output_paths[:posts], interview.slug))
 
-      markdown_file.write(File.join(@output_paths[:posts], interview.slug))      
+        markdown_file = @page_class.new(self)
+        markdown_file.extension = 'markdown'
+        markdown_file.contents = interview.to_markdown
+
+        markdown_file.write(File.join(@output_paths[:posts], interview.slug))
+      end
     end
   end
 end
