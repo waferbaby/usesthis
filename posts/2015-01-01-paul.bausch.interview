@@ -1,0 +1,36 @@
+---
+name: Paul Bausch
+summary: Web developer (MetaFilter)
+categories:
+- developer
+- mac
+- web
+---
+
+#### Who are you, and what do you do?
+
+My name is [Paul Bausch](http://www.onfocus.com/ "Paul's website.") (aka. pb) and I've been a web developer at [MetaFilter][] for around nine years. In ancient Web history I helped build the weblog tool [Blogger][] and I wrote a few early [Hacks books](http://shop.oreilly.com/category/series/hacks.do "O'Reilly's Hack series of books.") for O'Reilly. When I'm not behind a computer I like to be behind a camera.
+
+#### What hardware do you use?
+
+I have a [2009 Mac Pro][mac-pro] and a 27-inch [Cinema Display][cinema-display]. I use an [Apple Magic Mouse][magic-mouse] on a solid steel mousepad with the words "MAKE SHIP ITERATE" engraved into it. I have an amazing [Realforce keyboard][realforce-87u]. I swapped out most of the black keys with white so they're easier to read and I have a bright red Esc key just in case. I use several external hard drives for backups including a loud 4-bay [Drobo][].
+
+My desk is an old [IKEA Galant][galant] with motorized sit/stand legs that they made for a while in the early 2000's. It still works great. When I'm sitting I have a well worn [Mirra chair][mirra]. (That's the Aeron's cheaper cousin.) When I'm standing I have an [Imprint Cumulus9 mat][cumulus9]. I have a black 60's rotary phone because I like the sound of real bells when the phone rings. I also like caller ID so I have a [Raspberry Pi][raspberry-pi] under my desk running [Network Caller ID][ncid] which shows the incoming call on my monitor.
+
+When I visit the MetaFilter home office about an hour away I drag around an [11-inch MacBook Air][macbook-air] in an [STM laptop bag][velo-2]. 
+
+My main camera is a [Canon 5D Mark II][eos-5d-mark-ii]. I use a [Mobi card][mobi] in a CF adapter so I can send pictures directly to my iPhone while I'm out.
+
+#### And what software?
+
+MetaFilter is written in [ColdFusion][] so that's my primary language. Yes, it still exists. I live in [TextMate][] with the theme set to [Solarized][] and the font [Inconsolata][]. At MetaFilter we do almost everything in email so I have [Gmail][] open all day. We also use [GitHub][] to manage code, [Slack][] to manage goofing off, [Dropbox][] for files, and [Google Docs][google-docs] for spreadsheets and think pieces. So you can see I spend a lot of time in [Chrome][] and [Chrome Developer Tools][chrome-devtools]. To debug site problems in specific browsers I use [iOS Simulator][ios-simulator], [Android Emulator][android-emulator], and a half dozen versions of Windows running in [VMware Fusion][vmware-fusion].
+
+We recently switched to writing CSS with [Sass][] so I typically have [Grunt][] running in the background following along and spitting out files.
+
+On the server side I spend a lot of time in [SQL Server Management Studio][sql-server-management-studio]. I'm also frequently flipping knobs at [Amazon Web Services][aws].
+
+I typically process photos with [Photoshop][], but lately I've been using [VSCO cam][vsco-cam-ios] on my iPhone. It's blasphemy.
+
+#### What would be your dream setup?
+
+I feel like I'm living the dream already. If we could get wireless electricity going it would clean up my office quite a bit.
