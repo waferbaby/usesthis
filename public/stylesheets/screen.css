@@ -48,6 +48,7 @@ font-weight: bold;
 
 div#stump {
 float: left;
+position: fixed;
 width: 120px;
 }
 
@@ -64,10 +65,11 @@ color: #555;
 
 footer {
 clear: left;
-padding: 10px 0 0 0;
+padding: 20px 40px;
+margin-left: 160px;
 color: #888;
 font-size: 75%;
-border-top: solid 1px #eee;
+border-left: solid 1px #eee;
 }
 
 h1 {
@@ -126,7 +128,7 @@ border: solid 1px #000;
 main {
 width: 502px;
 float: left;
-margin-left: 40px;
+margin-left: 160px;
 padding-left: 40px;
 border-left: solid 1px #eee;
 }
@@ -266,8 +268,15 @@ font-size: 80%;
 
 	div#stump {
 	float: none;
+  position: static;
 	width: auto;
 	}
+
+  footer {
+  padding: 20px 0;
+  margin-left: 0;
+  border: 0;
+  }
 
 	h1 {
 	margin-bottom: 10px;
