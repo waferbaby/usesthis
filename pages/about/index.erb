@@ -25,40 +25,11 @@ title: About
       <dt>Can I make my own version of The Setup?</dt>
       <dd><strong>Yeah!</strong> Everything is freely available <a href="http://github.com/waferbaby/usesthis/" title="The source code for the site.">on Github</a> - go nuts! And let me know if you do, so I can link to it.</dd>
 
-      <dt>Who runs The Setup?</dt>
+      <dt>Who runs this site?</dt>
       <dd>Daniel. I'm just some guy.</dd>
 
       <dt>How do I get in touch with you?</dt>
       <dd>Send an email to the fourth letter of the English alphabet, followed by the 'at' symbol, care of this domain. Or you can ping me <a href="http://twitter.com/usesthis/" title="The usesthis Twiter account.">on Twitter</a>.</dd>
     </dl>
-  </section>
-
-  <section id="gear">
-    <h4>Popular gear</h4>
-    <p>This is the hardware and software most mentioned on the site.</p>
-
-    <div id="hardware">
-      <h5>Hardware</h5>
-      <ol>
-        <% @site.popular_hardware.each do |item| %>
-        <li>
-          <a href="<%= item.url %>" title="<% item.description %>"><%= item.name %></a><br>
-          <span class="summary"><%= item.description %></span>
-        </li>
-        <% end %>
-      </ol>
-    </div>
-
-    <div id="software">
-      <h5>Software</h5>
-      <ol>
-        <% @site.popular_software.each do |item| %>
-        <li>
-          <a href="<%= item.url %>" title="<% item.description %>"><%= item.name %></a><br>
-          <span class="summary"><%= item.description %></span>
-        </li>
-        <% end %>
-      </ol>
-    </div>
   </section>
 </article>
