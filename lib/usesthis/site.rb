@@ -37,13 +37,7 @@ module UsesThis
 
       @posts.each do |post|
         post.scan_links
-
-        post.hardware.each_key { |slug| @hardware[slug].interviews << {slug: post.slug, name: post.name} }
-        post.software.each_key { |slug| @software[slug].interviews << {slug: post.slug, name: post.name} }
       end
-
-      @popular_hardware = @hardware.values.sort { |a, b| b.interviews.length <=> a.interviews.length }[0...10]
-      @popular_software = @software.values.sort { |a, b| b.interviews.length <=> a.interviews.length }[0...10]
     end
 
     def generate
