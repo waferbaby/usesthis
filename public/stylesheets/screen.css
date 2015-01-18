@@ -214,15 +214,9 @@ color: #555;
 font-size: 90%;
 }
 
-section#gear div, section#links div {
+section#links div {
 float: left;
 width: 50%;
-}
-
-section#gear ol {
-list-style-position: inside;
-padding: 0;
-margin: 0 0 20px 0;
 }
 
 section#links ul {
@@ -344,7 +338,7 @@ font-size: 80%;
 	font-size: 90%;
 	}
 
-	section#gear div, section#links div {
+	section#links div {
 	float: none;
 	width: auto;
 	}
