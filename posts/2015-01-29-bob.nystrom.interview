@@ -37,7 +37,7 @@ The illustrations in my book are hand-drawn on an old graph paper notebook I fou
 
 #### And what software?
 
-I write all of my prose in [Sublime Text][sublime-text], usually in [Markdown][], even my book. I don't think Markdown is the greatest markup format—and having written a Markdown parser, I know exactly how hairy it is—but after writing thousands of reddit comments in it, it's basically muscle memory at this point.
+I write all of my prose in [Sublime Text][sublime-text], usually in [Markdown][], even my book. I don't think Markdown is the greatest markup format -- and having written a Markdown parser, I know exactly how hairy it is -- but after writing thousands of reddit comments in it, it's basically muscle memory at this point.
 
 For [C][] and [C++][c-plusplus], I also use [Xcode][]. For Dart, I use [IntelliJ][intellij-idea]. At EA, I spent years in [Visual Studio][visual-studio] writing [C#][c-sharp] and I still think that may have been the most productive development experience I've ever had. Other miscellaneous dev software that is usually running includes [iTerm2][], [SourceTree][], and [QuickSilver][]. On the command line, I'm often typing "[git][]", "[sass][]", "[python][]", and "[ack][]".
 
