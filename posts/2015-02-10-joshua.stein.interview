@@ -1,0 +1,43 @@
+---
+name: joshua stein
+summary: Developer (Pushover, Lobsters)
+categories:
+- developer
+- mac
+- software
+- web
+---
+
+#### Who are you, and what do you do?
+
+My name is [joshua stein](https://jcs.org/ "joshua's website."). I live in Chicago doing software development and consulting under the guise of [Superblock](https://superblock.net/ "joshua's consultancy."). I make [Pushover][], a notification service and app. I also run [Lobsters](https://lobste.rs/ "A tech link aggregation site."), a technology-focused link-aggregation website. On rare occasions I still find time to hack on [OpenBSD][].
+
+When I'm not behind a keyboard, I like to be behind a [steering wheel](https://jcs.org/exige "joshua's fancy car.") or a [joystick](https://jcs.org/tagged/arcade "joshua's posts about video game arcades.").
+
+#### What hardware do you use?
+
+I stand at a [GeekDesk][] and primarily type things into an [11" MacBook Air][macbook-air] which dual-boots [OS X][mac-os-x] and OpenBSD.
+
+For mobile development I prefer to test on actual devices so I use a [Nexus 5][nexus-5] and an [iPhone 6][iphone-6], with two [Nexus S][nexus-s] and an [iPhone 5][iphone-5] for testing on older OS releases. I frequently use a [SideCar][] for keeping a development phone attached to my laptop screen.
+
+I have a [Polycom IP 500][soundpoint-ip-500] phone on my desk for work calls, and sometimes I use my [Western Electric payphone](https://github.com/jcs/payphone "justin's payphone project on GitHub.") when I feel nostalgic.
+
+I usually prefer to work in silence, but when I feel like listening to music, it's through some Klipsch speakers hooked up to an [Airport Express][airport-express] at my desk or through [Westone 4R IEMs][4r] hooked up to an [iPod 5.5 gen][ipod].
+
+I use a [Kindle Paperwhite][kindle-paperwhite] for reading long-form articles and books.
+
+#### And what software?
+
+[vim][] is my [editor of choice](https://github.com/jcs/dotfiles/blob/master/.vimrc "justin's .vimrc file on GitHub.") with a few plugins like [NERDTree][the-nerd-tree] and sbd. [mutt][] is [my mail client](https://github.com/jcs/dotfiles/blob/master/.muttrc "justin's .muttrc on GitHub.").
+
+I use [ratpoison][] as my window manager on OS X and OpenBSD with a bunch of [xterms][xterm] using a mostly monochrome setup. [f.lux][] and [redshift][] help to work in the evenings.
+
+I use [Firefox][] for web browsing and development with a few extensions like [Certificate Patrol][certificate-patrol], [Ghostery][], [HTTPS-Everywhere][], [Self-Destructing Cookies][self-destructing-cookies], [Tamper Data][tamper-data], and [Vimium][]. Occasionally I use [xombrero][] on OpenBSD when I want to do quick split-screen half-terminal, half-web-browser sessions.
+
+For [Android][] development, I do everything in vim and push builds to my phone with an adb-over-WiFi app. For [iOS][], I have to tether an iPhone to my laptop and I develop in [Xcode][].
+
+For non-mobile development I usually write things in [Ruby][].
+
+#### What would be your dream setup?
+
+I'm pretty close to it with the newer MacBook Air's battery life, light weight, low heat, and silent fans. I suppose a higher-density screen would be nice, but I don't dream about it.
