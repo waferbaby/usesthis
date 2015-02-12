@@ -2,6 +2,7 @@
 name: joshua stein
 summary: Developer (Pushover, Lobsters)
 categories:
+- bsd
 - developer
 - mac
 - software
@@ -28,7 +29,7 @@ I use a [Kindle Paperwhite][kindle-paperwhite] for reading long-form articles an
 
 #### And what software?
 
-[vim][] is my [editor of choice](https://github.com/jcs/dotfiles/blob/master/.vimrc "justin's .vimrc file on GitHub.") with a few plugins like [NERDTree][the-nerd-tree] and sbd. [mutt][] is [my mail client](https://github.com/jcs/dotfiles/blob/master/.muttrc "justin's .muttrc on GitHub.").
+[vim][] is my [editor of choice](https://github.com/jcs/dotfiles/blob/master/.vimrc "justin's .vimrc file on GitHub.") with a few plugins like [NERDTree][the-nerd-tree] and [sbd][]. [mutt][] is [my mail client](https://github.com/jcs/dotfiles/blob/master/.muttrc "justin's .muttrc on GitHub.").
 
 I use [ratpoison][] as my window manager on OS X and OpenBSD with a bunch of [xterms][xterm] using a mostly monochrome setup. [f.lux][] and [redshift][] help to work in the evenings.
 
