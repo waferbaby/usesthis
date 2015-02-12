@@ -13,15 +13,28 @@ module UsesThis
 
       @hardware = {}
       @software = {}
-
-      @markdown = {
-        rendered: false,
-        raw: false,
-      }
     end
 
     def type
       :interview
+    end
+
+    def contents
+      if @contents_with_links.nil?
+        @contents_with_links = @contents.clone
+
+        wares = @hardware.merge(@software)
+
+        if wares.length > 0
+          @contents_with_links += "\n\n"
+
+          wares.each_value do |ware|
+            @contents_with_links += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+          end
+        end
+      end
+
+      @contents_with_links
     end
 
     def scan_links
@@ -36,34 +49,8 @@ module UsesThis
       end
     end
 
-    def markdown(render = true)
-      if !@markdown[:raw]
-        wares = @hardware.merge(@software)
-        output = @contents
-
-        if wares.length > 0
-          output += "\n\n"
-
-          wares.each_value do |ware|
-            output += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
-          end
-        end
-
-        @markdown[:raw] = output
-      end
-
-      return @markdown[:raw] unless render
-
-      if !@markdown[:rendered]
-        output = @markdown[:raw]
-        @markdown[:rendered] = @site.markdown_engine.render(output)
-      end
-
-      @markdown[:rendered]
-    end
-
-    def output_path(parent_path)
-      File.join(parent_path, @slug)
+    def output_file_path(parent_path)
+      File.join(parent_path, @slug, "#{@filename}.#{@extension}")
     end
 
     def to_hash
@@ -102,15 +89,15 @@ module UsesThis
 MARKDOWN
 
       if credits
-        output << "Photo by [#{credits['name']}](#{credits['url']})\n\n"
+        output += "Photo by [#{credits['name']}](#{credits['url']})\n\n"
       end
 
       categories.each do |category|
-        output << "- [#{category}](http://usesthis.com/interviews/#{category})\n"
+        output += "- [#{category}](http://usesthis.com/interviews/#{category})\n"
       end
 
-      output << "\n"
-      output << markdown(false)
+      output += "\n"
+      output += contents()
 
       output
     end
