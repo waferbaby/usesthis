@@ -1,6 +1,6 @@
 $:.unshift(__dir__)
 
-require 'salt'
+require 'dimples'
 
 require 'usesthis/interview'
 require 'usesthis/ware'

@@ -1,7 +1,7 @@
 require 'redcarpet'
 
 module UsesThis
-  class Interview < Salt::Post
+  class Interview < Dimples::Post
     
     attr_accessor :hardware
     attr_accessor :software

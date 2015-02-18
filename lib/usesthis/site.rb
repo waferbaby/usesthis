@@ -2,7 +2,7 @@ require 'json'
 require 'json/ext'
 
 module UsesThis
-  class Site < Salt::Site
+  class Site < Dimples::Site
 
     attr_accessor :hardware
     attr_accessor :software
