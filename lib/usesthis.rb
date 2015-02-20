@@ -5,3 +5,5 @@ require 'dimples'
 require 'usesthis/interview'
 require 'usesthis/ware'
 require 'usesthis/site'
+
+Tilt.register Tilt::RedcarpetTemplate, 'interview'
