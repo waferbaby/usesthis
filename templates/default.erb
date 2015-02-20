@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>The Setup / <%= @this.type == :interview ? @this.name : @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
+		<title>The Setup / <%= this.type == :interview ? this.name : this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
 		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
 		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-		<% if @this.type == :interview %>
-		<link href="http://<%= @this.slug %>.usesthis.com/json/" rel="alternate" title="Interview (JSON)" type="application/json">
-		<link href="http://<%= @this.slug %>.usesthis.com/markdown/" rel="alternate" title="Interview (Markdown)" type="text/x-markdown">
+		<% if this.type == :interview %>
+		<link href="http://<%= this.slug %>.usesthis.com/json/" rel="alternate" title="Interview (JSON)" type="application/json">
+		<link href="http://<%= this.slug %>.usesthis.com/markdown/" rel="alternate" title="Interview (Markdown)" type="text/x-markdown">
 		<% end %>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
 		<meta name="author" content="Daniel Bogan">
-		<meta name="keywords" content="interview, setup<% if @this.type == :interview %>, <%= @this.categories.join(', ') %><% end %>">
-		<% if @this.type == :interview %>
+		<meta name="keywords" content="interview, setup<% if this.type == :interview %>, <%= this.categories.join(', ') %><% end %>">
+		<% if this.type == :interview %>
 		<meta name="twitter:card" content="summary" />
 		<meta name="twitter:site" content="@usesthis" />
-		<meta property="og:title" content="An interview with <%= @this.name %>" />
+		<meta property="og:title" content="An interview with <%= this.name %>" />
 		<meta property="og:type" content="article" />
-		<meta property="og:description" content="<%= @this.summary %>" />
-		<meta property="og:url" content="http://<%= @this.slug %>.usesthis.com/" />
-		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
+		<meta property="og:description" content="<%= this.summary %>" />
+		<meta property="og:url" content="http://<%= this.slug %>.usesthis.com/" />
+		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= this.slug %>.jpg" />
 		<meta property="og:image:type" content="image/jpeg" />
 		<meta property="og:image:width" content="500" />
 		<meta property="og:image:height" content="335" />
@@ -34,7 +34,7 @@
 			<div id="stump">
 				<header>
 					<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-					<h2><%= @this.type == :interview ? "Interview" : @this.title %></h2>
+					<h2><%= this.type == :interview ? "Interview" : this.title %></h2>
 					<p id="tagline">What do people use to get stuff done?</p>
 				</header>
 				<nav id="main">
