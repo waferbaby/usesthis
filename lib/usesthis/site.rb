@@ -43,14 +43,12 @@ module UsesThis
       super
 
       @posts.each do |interview|
-        %w{json markdown}.each do |type|
-          file = @page_class.new(self)
+        file = @page_class.new(self)
 
-          file.extension = type
-          file.contents = interview.send("to_#{type}".to_sym)
+        file.extension = 'json'
+        file.contents = interview.to_json
 
-          file.write(File.join(@output_paths[:posts], interview.slug))
-        end
+        file.write(File.join(@output_paths[:posts], interview.slug))
       end
     end
   end
