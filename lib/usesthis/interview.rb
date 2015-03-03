@@ -81,30 +81,5 @@ module UsesThis
     def to_json
       JSON.pretty_generate(to_hash())
     end
-
-    def to_markdown
-      output = <<MARKDOWN
-# Interview
-
-![#{name}](http://usesthis.com/images/portraits/#{slug}.jpg)
-
-## #{name}
-#{summary} @ #{date}
-
-MARKDOWN
-
-      if credits
-        output += "Photo by [#{credits['name']}](#{credits['url']})\n\n"
-      end
-
-      categories.each do |category|
-        output += "- [#{category}](http://usesthis.com/interviews/#{category})\n"
-      end
-
-      output += "\n"
-      output += contents()
-
-      output
-    end
   end
 end
