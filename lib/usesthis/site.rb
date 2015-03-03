@@ -42,15 +42,13 @@ module UsesThis
     def generate
       super
 
-      puts @posts.length
-
       @posts.each do |interview|
         %w{json markdown}.each do |type|
           file = @page_class.new(self)
 
           file.extension = type
           file.contents = interview.send("to_#{type}".to_sym)
-          
+
           file.write(File.join(@output_paths[:posts], interview.slug))
         end
       end
