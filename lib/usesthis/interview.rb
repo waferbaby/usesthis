@@ -1,4 +1,5 @@
-require 'redcarpet'
+require 'json'
+require 'json/ext'
 
 module UsesThis
   class Interview < Dimples::Post
@@ -75,6 +76,10 @@ module UsesThis
       end
 
       data
+    end
+
+    def to_json
+      JSON.pretty_generate(to_hash())
     end
 
     def to_markdown
