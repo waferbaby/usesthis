@@ -12,6 +12,7 @@ aside#sellout {
 margin-top: 50px;
 font-size: 70%;
 color: #aaa;
+line-height: 1.5em;
 }
 
 aside#sellout img {
@@ -167,7 +168,7 @@ color: #aaa;
 
 nav.categories ul {
 padding: 0;
-margin: 0 0 20px 0;
+margin: 10px 0 20px 0;
 font-size: 80%;
 }
 
@@ -189,7 +190,7 @@ content: "";
 
 p.details {
 padding: 0;
-margin: 10px 0;
+margin: 0 0;
 color: #aaa;
 font-size: 75%;
 }
