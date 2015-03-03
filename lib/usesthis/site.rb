@@ -1,13 +1,10 @@
-require 'json'
-require 'json/ext'
-
 module UsesThis
   class Site < Dimples::Site
 
     attr_accessor :hardware
     attr_accessor :software
-    attr_accessor :popular_hardware
-    attr_accessor :popular_software
+    attr_accessor :inspired_links
+    attr_accessor :personal_links
 
     def initialize(config = {})
       super
@@ -15,10 +12,12 @@ module UsesThis
       @hardware = {}
       @software = {}
 
-      @popular_hardware = []
-      @popular_software = []
+      @inspired_links = {}
+      @personal_links = {}
 
-      @output_paths[:wares] = File.join(@source_paths[:root], 'data')
+      @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'gear')
+      @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
+
       @post_class = UsesThis::Interview
     end
 
@@ -43,18 +42,17 @@ module UsesThis
     def generate
       super
 
+      puts @posts.length
+
       @posts.each do |interview|
-        json_file = @page_class.new(self)
-        json_file.extension = 'json'
-        json_file.contents = JSON.pretty_generate(interview.to_hash)
+        %w{json markdown}.each do |type|
+          file = @page_class.new(self)
 
-        json_file.write(File.join(@output_paths[:posts], interview.slug))
-
-        markdown_file = @page_class.new(self)
-        markdown_file.extension = 'markdown'
-        markdown_file.contents = interview.to_markdown
-
-        markdown_file.write(File.join(@output_paths[:posts], interview.slug))
+          file.extension = type
+          file.contents = interview.send("to_#{type}".to_sym)
+          
+          file.write(File.join(@output_paths[:posts], interview.slug))
+        end
       end
     end
   end
