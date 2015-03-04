@@ -12,8 +12,8 @@ module UsesThis
       @hardware = {}
       @software = {}
 
-      @inspired_links = {}
-      @personal_links = {}
+      @inspired_links = []
+      @personal_links = []
 
       @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'gear')
       @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
@@ -32,6 +32,14 @@ module UsesThis
       Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
         ware = UsesThis::Ware.new(path)
         @software[ware.slug] = ware
+      end
+
+      Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
+        @inspired_links << UsesThis::Link.new(path)
+      end
+
+      Dir.glob(File.join(@output_paths[:links], 'personal', '*.yml')).each do |path|
+        @personal_links << UsesThis::Link.new(path)
       end
 
       @posts.each do |post|
