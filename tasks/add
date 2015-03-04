@@ -11,8 +11,8 @@ type = ARGV[0]
 name = ARGV[1..-1].join(' ')
 slug = name.downcase.gsub(/ /, '-')
 
-software_path = File.join(source_path, 'data', 'software', "#{slug}.yml")
-hardware_path = File.join(source_path, 'data', 'hardware', "#{slug}.yml")
+software_path = File.join(source_path, 'data', 'gear', 'software', "#{slug}.yml")
+hardware_path = File.join(source_path, 'data', 'gear', 'hardware', "#{slug}.yml")
 
 file = case type
   when 'software' then software_path
