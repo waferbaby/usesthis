@@ -152,6 +152,7 @@ font-size: 100%;
 
 nav#main ul li {
 padding: 3px 0;
+margin: 0;
 border-bottom: solid 1px #eee;
 }
 
@@ -233,6 +234,17 @@ padding-bottom: 10px;
 span.summary {
 color: #555;
 font-size: 80%;
+}
+
+ul {
+list-style-position: inside;
+padding: 0;
+margin: 20px;
+font-size: 95%;
+}
+
+ul li {
+margin-bottom: 10px;
 }
 
 @media screen and (max-width: 800px) {
