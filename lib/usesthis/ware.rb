@@ -1,5 +1,5 @@
 module UsesThis
-  class Ware    
+  class Ware
     attr_accessor :slug
     attr_accessor :name
     attr_accessor :description
