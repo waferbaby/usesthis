@@ -79,7 +79,10 @@ module UsesThis
     end
 
     def to_json
-      JSON.pretty_generate(to_hash())
+      output = to_hash()
+      output[:contents].gsub!('"', '\"')
+
+      JSON.pretty_generate(output)
     end
   end
 end
