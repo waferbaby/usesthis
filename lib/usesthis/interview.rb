@@ -80,7 +80,9 @@ module UsesThis
 
     def to_json
       output = to_hash()
+
       output[:contents].gsub!('"', '\"')
+      output[:contents].gsub!(/\n/, '\\n')
 
       JSON.pretty_generate(output)
     end
