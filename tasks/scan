@@ -12,13 +12,15 @@ $:.unshift(source_path)
 
 type = ARGV[0]
 
-abort("I can scan for 'hardware' or 'software'.") unless type =~ /^(hardware|software)$/
+abort("I can only scan for 'hardware', 'software' or 'links'.") unless type =~ /^(hardware|software|links)$/
 
 glob = case type
   when 'hardware'
-    File.join(source_path, 'data', 'hardware', '*.yml')
+    File.join(source_path, 'data', 'gear', 'hardware', '*.yml')
   when 'software'
-    File.join(source_path, 'data', 'software', '*.yml')
+    File.join(source_path, 'data', 'gear', 'software', '*.yml')
+  when 'links'
+    File.join(source_path, 'data', 'links', '**', '*.yml')
   end
 
 puts "Scanning:"
