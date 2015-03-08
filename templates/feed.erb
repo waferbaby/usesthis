@@ -10,7 +10,7 @@
   <name>Daniel Bogan</name>
 </author>
 
-<% posts.each do |interview| %>
+<% @posts.each do |interview| %>
 <entry>
   <title><%= interview.name %></title>
   <link href="http://<%= interview.slug %>.usesthis.com/"/>

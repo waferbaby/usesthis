@@ -5,25 +5,25 @@ layout: default
 <article id="interview" class="h-entry">
   <div class="e-content">
     <figure>
-      <img src="/images/portraits/<%= this.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= this.name %>">
-      <% if this.credits %>
-        <figcaption>Photo by <% if this.credits['url'] %><a href="<%= this.credits['url'] %>" title="View more about <%= this.credits['name'] %>."><%= this.credits['name'] %></a><% else %><%= this.credits['name'] %><% end %>.</figcaption>
+      <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
+      <% if @interview.credits %>
+        <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
       <% end %>
     </figure>
     <header>
-      <h3 class="p-name"><%= this.name %></h3>
-      <p class="summary p-summary"><%= this.summary %></p>
-      <p class="details">Posted <time datetime="<%= this.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= this.date.strftime('%B %d, %Y') %>.</time></p>
+      <h3 class="p-name"><%= @interview.name %></h3>
+      <p class="summary p-summary"><%= @interview.summary %></p>
+      <p class="details">Posted <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @interview.date.strftime('%B %d, %Y') %>.</time></p>
       <nav class="categories">
         <ul>
-        <% this.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews." class="p-category"><%= category %></a></li><% end %>
+        <% @interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews." class="p-category"><%= category %></a></li><% end %>
         </ul>
       </nav>
     </header>
     <%= yield %>
   </div>
 
-  <% if this.license %>
-  <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= this.license %>/3.0/" title="View details of the license."><%= this.license.upcase %> Creative Commons license</a>.</p>
+  <% if @interview.license %>
+  <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @interview.license %>/3.0/" title="View details of the license."><%= @interview.license.upcase %> Creative Commons license</a>.</p>
   <% end %>
 </article>
