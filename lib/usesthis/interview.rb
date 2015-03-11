@@ -53,38 +53,5 @@ module UsesThis
     def output_file_path(parent_path)
       File.join(parent_path, @slug, "#{@filename}.#{@extension}")
     end
-
-    def to_hash
-      data = {
-        name: @name,
-        summary: @summary,
-        date: @date,
-        categories: @categories,
-      }
-
-      data[:credits] = credits if credits
-      data[:contents] = @contents
-
-      wares = @hardware.merge(@software)
-
-      if wares.length > 0
-        data[:wares] = {}
-
-        wares.each do |slug, ware|
-          data[:wares][slug] = ware.to_hash
-        end
-      end
-
-      data
-    end
-
-    def to_json
-      output = to_hash()
-
-      output[:contents].gsub!('"', '\"')
-      output[:contents].gsub!(/\n/, '\\n')
-
-      JSON.pretty_generate(output)
-    end
   end
 end
