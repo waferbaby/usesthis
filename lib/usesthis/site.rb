@@ -46,18 +46,5 @@ module UsesThis
         post.scan_links
       end
     end
-
-    def generate
-      super
-
-      @posts.each do |interview|
-        file = @page_class.new(self)
-
-        file.extension = 'json'
-        file.contents = interview.to_json
-
-        file.write(File.join(@output_paths[:posts], interview.slug))
-      end
-    end
   end
 end
