@@ -16,10 +16,6 @@ module UsesThis
       @software = {}
     end
 
-    def type
-      :interview
-    end
-
     def contents
       if @contents_with_links.nil?
         @contents_with_links = @contents.clone
