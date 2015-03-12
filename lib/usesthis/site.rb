@@ -1,3 +1,5 @@
+require 'json/ext'
+
 module UsesThis
   class Site < Dimples::Site
 
@@ -44,6 +46,19 @@ module UsesThis
 
       @posts.each do |post|
         post.scan_links
+      end
+
+      def generate_posts
+        super
+
+        @posts.each do |interview|
+          file = @page_class.new(self)
+
+          file.extension = 'json'
+          file.contents = JSON.pretty_generate(interview.to_h)
+
+          file.write(File.join(@output_paths[:posts], interview.slug), false)
+        end
       end
     end
   end
