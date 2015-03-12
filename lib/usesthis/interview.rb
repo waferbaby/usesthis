@@ -1,6 +1,3 @@
-require 'json'
-require 'json/ext'
-
 module UsesThis
   class Interview < Dimples::Post
     
@@ -48,6 +45,29 @@ module UsesThis
 
     def output_file_path(parent_path)
       File.join(parent_path, @slug, "#{@filename}.#{@extension}")
+    end
+
+    def to_h
+      output = {
+        name: @name,
+        summary: @summary,
+        date: @date,
+        categories: @categories,
+      }
+
+      output[:credits] = @credits if @credits
+      output[:contents] = @contents
+
+      wares = @hardware.merge(@software)
+      if wares.length > 0
+        output[:wares] = {}
+
+        wares.each do |slug, ware|
+          output[:wares][slug] = ware.to_h
+        end
+      end
+
+      output
     end
   end
 end
