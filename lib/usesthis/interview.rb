@@ -49,9 +49,10 @@ module UsesThis
 
     def to_h
       output = {
+        slug: @slug,
         name: @name,
         summary: @summary,
-        date: @date,
+        date: @date.to_i,
         categories: @categories,
       }
 
