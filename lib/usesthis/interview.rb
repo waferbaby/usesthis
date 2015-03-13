@@ -51,6 +51,7 @@ module UsesThis
       output = {
         slug: @slug,
         name: @name,
+        url: "http://#{@slug}.usesthis.com/",
         summary: @summary,
         date: @date.to_i,
         categories: @categories,
@@ -59,12 +60,21 @@ module UsesThis
       output[:credits] = @credits if @credits
       output[:contents] = @contents
 
-      wares = @hardware.merge(@software)
-      if wares.length > 0
-        output[:wares] = {}
+      has_hardware = @hardware.length > 0
+      has_software = @software.length > 0
 
-        wares.each do |slug, ware|
-          output[:wares][slug] = ware.to_h
+      if has_hardware || has_software
+        output[:gear] = {}
+
+        output[:gear][:hardware] = [] if has_hardware
+        output[:gear][:software] = [] if has_software
+
+        @hardware.each do |slug, ware|
+          output[:gear][:hardware] << ware.to_h
+        end
+
+        @software.each do |slug, ware|
+          output[:gear][:software] << ware.to_h
         end
       end
 
