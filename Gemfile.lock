@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    erubis (2.7.0)
+    oj (2.12.1)
+    redcarpet (3.2.2)
+    tilt (2.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erubis
+  oj
+  redcarpet
+  tilt
