@@ -37,8 +37,10 @@ module UsesThis
 
         if @site.hardware[slug]
           @hardware[slug] ||= @site.hardware[slug]
+          @site.hardware[slug].interviews << self
         elsif @site.software[slug]
           @software[slug] ||= @site.software[slug]
+          @site.software[slug].interviews << self
         end
       end
     end
