@@ -2,6 +2,7 @@ require 'json/ext'
 
 module UsesThis
   class Site < Dimples::Site
+    API_VERSION = "1"
 
     attr_accessor :hardware
     attr_accessor :software
@@ -47,19 +48,52 @@ module UsesThis
       @posts.each do |post|
         post.scan_links
       end
+    end
 
-      def generate_posts
-        super
+    def generate
+      super
 
-        @posts.each do |interview|
-          file = @page_class.new(self)
-
-          file.extension = 'json'
-          file.contents = JSON.pretty_generate(interview.to_h)
-
-          file.write(File.join(@output_paths[:posts], interview.slug), false)
+      begin
+        %w{interviews hardware software}.each do |type|
+          FileUtils.mkdir_p(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type))
         end
+      rescue => e
+        raise "Failed to prepare the API directories (#{e})"
       end
+
+      generate_interview_api
+    end
+
+    def generate_interview_api
+      interviews = []
+      
+      @posts.each do |interview|
+        file = @page_class.new(self)
+
+        interview_hash = interview.to_h
+
+        file.filename = interview.slug
+        file.extension = 'json'
+        file.contents = JSON.pretty_generate({
+          interview: interview_hash,
+        })
+
+        file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews'), false)
+
+        interview_hash.delete(:contents)
+        interview_hash.delete(:gear)
+
+        interviews << interview_hash
+      end
+
+      file = @page_class.new(self)
+
+      file.extension = 'json'
+      file.contents = JSON.pretty_generate({
+        interviews: interviews,
+      })
+
+      file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews'), false)
     end
   end
 end
