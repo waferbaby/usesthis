@@ -32,11 +32,7 @@ module UsesThis
         @interviews.each do |interview|
           output[:interviews] << {
             slug: interview.slug,
-            name: interview.name,
-            url: "http://#{interview.slug}.usesthis.com/",
-            summary: interview.summary,
-            date: interview.date.to_i,
-            categories: interview.categories,
+            name: interview.name
           }
         end
       end
