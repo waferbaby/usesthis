@@ -19,12 +19,25 @@ module UsesThis
     end
 
     def to_h
-      {
+      output = {
         slug: @slug,
         name: @name,
         description: @description,
         url: @url
       }
+
+      if @interviews.length > 0
+        output[:interviews] = []
+
+        @interviews.each do |interview|
+          output[:interviews] << {
+            slug: interview.slug,
+            name: interview.name
+          }
+        end
+      end
+
+      output
     end
   end
 end
