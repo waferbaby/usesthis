@@ -20,9 +20,10 @@ module UsesThis
 
     def to_h
       {
-        name: name,
-        description: description,
-        url: url
+        slug: @slug,
+        name: @name,
+        description: @description,
+        url: @url
       }
     end
   end
