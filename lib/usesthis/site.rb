@@ -1,5 +1,3 @@
-require 'json/ext'
-
 module UsesThis
   class Site < Dimples::Site
     API_VERSION = "1"
@@ -67,6 +65,7 @@ module UsesThis
 
     def generate_interview_api
       interviews = []
+      path = File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews')
       
       @posts.each do |interview|
         file = @page_class.new(self)
@@ -75,11 +74,9 @@ module UsesThis
 
         file.filename = interview.slug
         file.extension = 'json'
-        file.contents = JSON.pretty_generate({
-          interview: interview_hash,
-        })
+        file.contents = Oj.dump({interview: interview_hash})
 
-        file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews'), false)
+        file.write(path, false)
 
         interview_hash.delete(:contents)
         interview_hash.delete(:gear)
@@ -90,16 +87,15 @@ module UsesThis
       file = @page_class.new(self)
 
       file.extension = 'json'
-      file.contents = JSON.pretty_generate({
-        interviews: interviews,
-      })
+      file.contents = Oj.dump({interviews: interviews})
 
-      file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews'), false)
+      file.write(path, false)
     end
 
     def generate_gear_api
       %w{hardware software}.each do |type|
         gear = []
+        path = File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type)
 
         self.send("#{type}").each do |slug, ware|
 
@@ -109,11 +105,9 @@ module UsesThis
 
           file.filename = ware.slug
           file.extension = 'json'
-          file.contents = JSON.pretty_generate({
-            gear: ware_hash,
-          })
+          file.contents = Oj.dump({gear: ware_hash})
 
-          file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type), false)
+          file.write(path, false)
 
           ware_hash.delete(:description)
           ware_hash.delete(:url)
@@ -125,11 +119,9 @@ module UsesThis
         file = @page_class.new(self)
 
         file.extension = 'json'
-        file.contents = JSON.pretty_generate({
-          gear: gear,
-        })
+        file.contents = Oj.dump({gear: gear})
 
-        file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type), false)
+        file.write(path, false)
       end
     end
   end
