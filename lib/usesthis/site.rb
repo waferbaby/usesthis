@@ -62,6 +62,7 @@ module UsesThis
       end
 
       generate_interview_api
+      generate_gear_api
     end
 
     def generate_interview_api
@@ -94,6 +95,42 @@ module UsesThis
       })
 
       file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews'), false)
+    end
+
+    def generate_gear_api
+      %w{hardware software}.each do |type|
+        gear = []
+
+        self.send("#{type}").each do |slug, ware|
+
+          file = @page_class.new(self)
+
+          ware_hash = ware.to_h
+
+          file.filename = ware.slug
+          file.extension = 'json'
+          file.contents = JSON.pretty_generate({
+            gear: ware_hash,
+          })
+
+          file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type), false)
+
+          ware_hash.delete(:description)
+          ware_hash.delete(:url)
+          ware_hash.delete(:interviews)
+
+          gear << ware_hash
+        end
+
+        file = @page_class.new(self)
+
+        file.extension = 'json'
+        file.contents = JSON.pretty_generate({
+          gear: gear,
+        })
+
+        file.write(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type), false)
+      end
     end
   end
 end
