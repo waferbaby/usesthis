@@ -7,15 +7,24 @@ title: API
   <h3>API</h3>
   <p>The Setup provides a very simple JSON-based API. I'd love to know if you do something interesting with it!</p>
 
-  <h4 id="interviews">Interviews: Getting a list</h4>
+  <h4>Methods</h4>
+
+  <ul>
+    <li><a href="/api/#interviews" title="Grab a list of all the interviews.">Interviews: Getting a list</a></li>
+    <li><a href="/api/#interview" title="Grab a single interview.">Interviews: Getting an interview</a></li>
+    <li><a href="/api/#hardware" title="Grab a list of all the hardware.">Hardware: Getting a list</a></li>
+    <li><a href="/api/#hardware-item" title="Grab a single piece of hardware.">Hardware: Getting an item</a></li>
+    <li><a href="/api/#software" title="Grab a list of all the software.">Software: Getting a list</a></li>
+    <li><a href="/api/#software-item" title="Grab a single piece of software.">Software: Getting an item</a></li>
+  </ul>
+
+  <h5 id="interviews">Interviews: Getting a list</h5>
+  <p class="summary">This method returns a basic list of all the interviews.</p>
   <p>
-    <strong>Requesting:</strong><br>
-    <code><a href="/api/v1/interviews/">/api/v1/interviews/</a></code>
+    Requesting (GET):<br>
+    <code>/api/v1/interviews</code>
   </p>
-  <p>
-    <strong>Will give you:</strong><br>
-    A basic list of all the interviews:
-  </p>
+  <p>Will give you:</p>
   <pre>
 {
   "interviews": [
@@ -43,17 +52,14 @@ title: API
     },
   ]
 }</pre>
-  </p>
 
-  <h4 id="interviews">Interviews: Getting an interview</h4>
+  <h5 id="interview">Interviews: Getting an interview</h5>
+  <p class="summary">This method returns a complete interview for the given slug, including gear.</p>
   <p>
-    <strong>Requesting:</strong><br>
-    <code><a href="/api/v1/interviews/john.gruber">/api/v1/interviews/<strong><em>slug</em></strong></a></code>
+    Requesting (GET):<br>
+    <code>/api/v1/interviews/<strong><em>slug</em></strong></code>
   </p>
-  <p>
-    <strong>Will give you:</strong><br>
-    A complete interview for the given slug, including gear:
-  </p>
+  <p>Will give you:</p>
   <pre>
 {
   "interview": {
@@ -85,6 +91,100 @@ title: API
         }
       ]
     }
+  }
+}</pre>
+
+  <h5 id="hardware">Hardware: Getting a list</h5>
+  <p class="summary">This method returns a basic list of all the hardware mentioned on the site.</p>
+  <p>
+    Requesting (GET):<br>
+    <code>/api/v1/hardware</code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": [
+    {
+      "slug": "hoopak",
+      "name": "Hoopak"
+    }
+  ]
+}</pre>
+
+  <h5 id="hardware-item">Hardware: Getting an item</h5>
+  <p class="summary">This method returns a piece of hardware for the given slug, including related interviews.</p>
+  <p>
+    Requesting (GET):<br>
+    <code>/api/v1/hardware/<strong><em>slug</em></strong></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": {
+    "slug": "hoopak",
+    "name": "Hoopak",
+    "description": "A wooden staff with a sling.",
+    "url": "http://www.hoopaks-r-us.com/",
+    "interviews": [
+      {
+        "slug": "tasslehoff.burrfoot",
+        "name": "Tasslehoff Burrfoot",
+        "url": "http://tasslehoff.burrfoot.usesthis.com/",
+        "summary": "Borrower",
+        "date": 1425542400,
+        "categories": [
+          "linux",
+          "thief"
+        ]
+      }
+    ]
+  }
+}</pre>
+
+  <h5 id="software">Software: Getting a list</h5>
+  <p class="summary">This method returns a basic list of all the software mentioned on the site.</p>
+  <p>
+    Requesting:<br>
+    <code>/api/v1/software</code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": [
+    {
+      "slug": "wanderlust",
+      "name": "Wanderlust"
+    }
+  ]
+}</pre>
+
+  <h5 id="software-item">Software: Getting an item</h5>
+  <p class="summary">This method returns a piece of software for the given slug, including related interviews.</p>
+  <p>
+    Requesting:<br>
+    <code>/api/v1/software/<strong><em>slug</em></strong></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": {
+    "slug": "wanderlust",
+    "name": "Wanderlust",
+    "description": "A need for travel.",
+    "url": "http://my-kender.net/",
+    "interviews": [
+      {
+        "slug": "tasslehoff.burrfoot",
+        "name": "Tasslehoff Burrfoot",
+        "url": "http://tasslehoff.burrfoot.usesthis.com/",
+        "summary": "Borrower",
+        "date": 1425542400,
+        "categories": [
+          "linux",
+          "thief"
+        ]
+      }
+    ]
   }
 }</pre>
 </article>
