@@ -1,0 +1,90 @@
+---
+layout: default
+title: API
+---
+
+<article id="api">
+  <h3>API</h3>
+  <p>The Setup provides a very simple JSON-based API. I'd love to know if you do something interesting with it!</p>
+
+  <h4 id="interviews">Interviews: Getting a list</h4>
+  <p>
+    <strong>Requesting:</strong><br>
+    <code><a href="/api/v1/interviews/">/api/v1/interviews/</a></code>
+  </p>
+  <p>
+    <strong>Will give you:</strong><br>
+    A basic list of all the interviews:
+  </p>
+  <pre>
+{
+  "interviews": [
+    {
+      "slug": "fizban.the.fabulous",
+      "name": "Fizban the Fabulous",
+      "url": "http://fizban.the.fabulous.usesthis.com/",
+      "summary": "Wizard",
+      "date": 1425970800,
+      "categories": [
+        "mac",
+        "wizard"
+      ]
+    },
+    {
+      "slug": "tasslehoff.burrfoot",
+      "name": "Tasslehoff Burrfoot",
+      "url": "http://tasslehoff.burrfoot.usesthis.com/",
+      "summary": "Borrower",
+      "date": 1425542400,
+      "categories": [
+        "linux",
+        "thief"
+      ]
+    },
+  ]
+}</pre>
+  </p>
+
+  <h4 id="interviews">Interviews: Getting an interview</h4>
+  <p>
+    <strong>Requesting:</strong><br>
+    <code><a href="/api/v1/interviews/john.gruber">/api/v1/interviews/<strong><em>slug</em></strong></a></code>
+  </p>
+  <p>
+    <strong>Will give you:</strong><br>
+    A complete interview for the given slug, including gear:
+  </p>
+  <pre>
+{
+  "interview": {
+    "slug": "tasslehoff.burrfoot",
+    "name": "Tasslehoff Burrfoot",
+    "url": "http://tasslehoff.burrfoot.usesthis.com/",
+    "summary": "Borrower",
+    "date": 1425542400,
+    "categories": [
+      "linux",
+      "thief"
+    ],
+    "contents": "#### Who are you, and what do you do?...",
+    "gear": {
+      "hardware": [
+        {
+          "slug": "hoopak",
+          "name": "Hoopak",
+          "description": "A wooden staff with a sling.",
+          "url": "http://www.hoopaks-r-us.com/"
+        }
+      ],
+      "software": [
+        {
+          "slug": "wanderlust",
+          "name": "Wanderlust",
+          "description": "A need for travel.",
+          "url": "http://my-kender.net/"
+        }
+      ]
+    }
+  }
+}</pre>
+</article>
