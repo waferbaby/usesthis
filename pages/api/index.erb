@@ -22,7 +22,7 @@ title: API
   <p class="summary">This method returns a basic list of all the interviews.</p>
   <p>
     Requesting (GET):<br>
-    <code>/api/v1/interviews</code>
+    <code><a href="/api/v1/interviews" title="Request a list of all the interviews as JSON.">/api/v1/interviews</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -57,7 +57,7 @@ title: API
   <p class="summary">This method returns a complete interview for the given slug, including gear.</p>
   <p>
     Requesting (GET):<br>
-    <code>/api/v1/interviews/<strong><em>slug</em></strong></code>
+    <code><a href="/api/v1/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">/api/v1/interviews/<strong><em>slug</em></strong></a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -98,7 +98,7 @@ title: API
   <p class="summary">This method returns a basic list of all the hardware mentioned on the site.</p>
   <p>
     Requesting (GET):<br>
-    <code>/api/v1/hardware</code>
+    <code><a href="/api/v1/hardware" title="Request a list of all the hardware as JSON.">/api/v1/hardware</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -115,7 +115,7 @@ title: API
   <p class="summary">This method returns a piece of hardware for the given slug, including related interviews.</p>
   <p>
     Requesting (GET):<br>
-    <code>/api/v1/hardware/<strong><em>slug</em></strong></code>
+    <code><a href="/api/v1/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">/api/v1/hardware/<strong><em>slug</em></strong></a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -138,7 +138,7 @@ title: API
   <p class="summary">This method returns a basic list of all the software mentioned on the site.</p>
   <p>
     Requesting:<br>
-    <code>/api/v1/software</code>
+    <code><a href="/api/v1/software" title="Request a list of all the software as JSON.">/api/v1/software</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -155,7 +155,7 @@ title: API
   <p class="summary">This method returns a piece of software for the given slug, including related interviews.</p>
   <p>
     Requesting:<br>
-    <code>/api/v1/software/<strong><em>slug</em></strong></code>
+    <code><a href="/api/v1/software/photoshop" title="Request a given piece of software as JSON.">/api/v1/software/<strong><em>slug</em></strong></a></code>
   </p>
   <p>Will give you:</p>
   <pre>
