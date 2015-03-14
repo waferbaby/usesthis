@@ -71,12 +71,13 @@ module UsesThis
         output[:gear][:hardware] = [] if has_hardware
         output[:gear][:software] = [] if has_software
 
-        @hardware.each do |slug, ware|
-          output[:gear][:hardware] << ware.to_h
-        end
+        %w{hardware software}.each do |type|
+          self.send(type).each do |slug, ware|
+            ware_hash = ware.to_h
+            ware_hash.delete(:interviews)
 
-        @software.each do |slug, ware|
-          output[:gear][:software] << ware.to_h
+            output[:gear][type.to_sym] << ware_hash
+          end
         end
       end
 
