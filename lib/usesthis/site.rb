@@ -23,8 +23,6 @@ module UsesThis
     end
 
     def scan_files
-      super
-
       Dir.glob(File.join(@output_paths[:wares], 'hardware', '*.yml')).each do |path|
         ware = UsesThis::Ware.new(path)
         @hardware[ware.slug] = ware
@@ -43,86 +41,7 @@ module UsesThis
         @personal_links << UsesThis::Link.new(path)
       end
 
-      @posts.each do |post|
-        post.scan_links
-      end
-    end
-
-    def generate
       super
-
-      begin
-        %w{interviews hardware software}.each do |type|
-          FileUtils.mkdir_p(File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type))
-        end
-      rescue => e
-        raise "Failed to prepare the API directories (#{e})"
-      end
-
-      generate_interview_api
-      generate_gear_api
-    end
-
-    def generate_interview_api
-      interviews = []
-      path = File.join(@output_paths[:site], 'api', "v#{API_VERSION}", 'interviews')
-      
-      @posts.each do |interview|
-        file = @page_class.new(self)
-
-        interview_hash = interview.to_h
-
-        file.filename = interview.slug
-        file.extension = 'json'
-        file.contents = Oj.dump({interview: interview_hash})
-
-        file.write(path, false)
-
-        interview_hash.delete(:contents)
-        interview_hash.delete(:gear)
-
-        interviews << interview_hash
-      end
-
-      file = @page_class.new(self)
-
-      file.extension = 'json'
-      file.contents = Oj.dump({interviews: interviews})
-
-      file.write(path, false)
-    end
-
-    def generate_gear_api
-      %w{hardware software}.each do |type|
-        gear = []
-        path = File.join(@output_paths[:site], 'api', "v#{API_VERSION}", type)
-
-        self.send("#{type}").each do |slug, ware|
-
-          file = @page_class.new(self)
-
-          ware_hash = ware.to_h
-
-          file.filename = ware.slug
-          file.extension = 'json'
-          file.contents = Oj.dump({gear: ware_hash})
-
-          file.write(path, false)
-
-          ware_hash.delete(:description)
-          ware_hash.delete(:url)
-          ware_hash.delete(:interviews)
-
-          gear << ware_hash
-        end
-
-        file = @page_class.new(self)
-
-        file.extension = 'json'
-        file.contents = Oj.dump({gear: gear})
-
-        file.write(path, false)
-      end
     end
   end
 end
