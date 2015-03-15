@@ -12,6 +12,8 @@ title: API
   <ul>
     <li><a href="/api/#interviews" title="Grab a list of all the interviews.">Interviews: Getting a list</a></li>
     <li><a href="/api/#interview" title="Grab a single interview.">Interviews: Getting an interview</a></li>
+    <li><a href="/api/#interview-categories" title="Grab a list of interview categories.">Interviews: Getting categories</a></li>
+    <li><a href="/api/#interview-category" title="Grab a list of interviews by category.">Interviews: Getting a category</a></li>
     <li><a href="/api/#hardware" title="Grab a list of all the hardware.">Hardware: Getting a list</a></li>
     <li><a href="/api/#hardware-item" title="Grab a single piece of hardware.">Hardware: Getting an item</a></li>
     <li><a href="/api/#software" title="Grab a list of all the software.">Software: Getting a list</a></li>
@@ -93,6 +95,47 @@ title: API
       ]
     }
   }
+}</pre>
+
+  <h5 id="interview-categories">Interviews: Getting categories</h5>
+  <p class="summary">This method returns a basic list of all the interview categories.</p>
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v1/interviews/categories" title="Request a list of all the interview categories as JSON.">/api/v1/interviews/categories</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "categories": [
+    "linux",
+    "mac",
+    "thief",
+    "wizard"
+  ]
+}</pre>
+
+  <h5 id="interview-category">Interviews: Getting a category</h5>
+  <p class="summary">This method returns a basic list of all the interviews for the given category.</p>
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v1/interviews/categories/mac" title="Request a list of a category's interviews as JSON.">/api/v1/interviews/categories/<strong><em>slug</em></strong></a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "interviews": [
+    {
+      "slug": "fizban.the.fabulous",
+      "name": "Fizban the Fabulous",
+      "url": "http://fizban.the.fabulous.usesthis.com/",
+      "summary": "Wizard",
+      "date": 1425970800,
+      "categories": [
+        "mac",
+        "wizard"
+      ]
+    }
+  ]
 }</pre>
 
   <h5 id="hardware">Hardware: Getting a list</h5>
@@ -178,6 +221,7 @@ title: API
   <h5 id="changelog">Changelog</h5>
 
   <ul>
+    <li><time datetime="2015-15-03">March 15, 2015:</time> Added support for interview categories.</li>
     <li><time datetime="2015-13-03">March 13, 2015:</time> Initial public launch. Sorry about that.</li>
   </ul>
 </article>
