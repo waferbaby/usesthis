@@ -11,6 +11,8 @@ module UsesThis
 
       @hardware = {}
       @software = {}
+
+      scan_links
     end
 
     def contents
