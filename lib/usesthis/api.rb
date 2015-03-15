@@ -68,7 +68,7 @@ module UsesThis
           interviews << interview_hash
         end
 
-        generate_json_file(path, category, {category: category, interviews: interviews})
+        generate_json_file(path, category, {interviews: interviews})
 
         categories << category
       end
