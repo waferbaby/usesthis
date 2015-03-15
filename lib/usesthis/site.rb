@@ -1,7 +1,5 @@
 module UsesThis
   class Site < Dimples::Site
-    API_VERSION = "1"
-
     attr_accessor :hardware
     attr_accessor :software
     attr_accessor :inspired_links
