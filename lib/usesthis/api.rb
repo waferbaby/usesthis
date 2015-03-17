@@ -1,13 +1,13 @@
 module UsesThis
   class API
-    API_VERSION = "1"
+    VERSION = "1"
 
     attr_accessor :site
     attr_accessor :path
 
     def initialize(site)
       @site = site
-      @path = File.join(@site.output_paths[:site], 'api', "v#{API_VERSION}")
+      @path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
     end
 
     def generate
