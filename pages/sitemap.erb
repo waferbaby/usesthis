@@ -1,0 +1,25 @@
+---
+extension: xml
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>http://usesthis.com/interviews/</loc>
+  </url>
+  <url>
+    <loc>http://usesthis.com/about/</loc>
+  </url>
+  <url>
+    <loc>http://usesthis.com/community/</loc>
+  </url>
+  <url>
+    <loc>http://usesthis.com/api/</loc>
+  </url>
+  <% @site.posts.each do |post| %>
+  <url>
+    <loc>http://<%= post.slug %>.usesthis.com/</loc>
+    <lastmod><%= post.year %>-<%= post.month %>-<%= post.day %></lastmod>
+  </url>
+  <% end %>
+</urlset>
