@@ -53,6 +53,11 @@ position: fixed;
 width: 120px;
 }
 
+div#wrapper {
+width: 703px;
+margin: auto;
+}
+
 figure {
 padding: 0;
 margin: 0 0 10px 0;
@@ -70,7 +75,6 @@ padding: 20px 40px;
 margin-left: 160px;
 color: #888;
 font-size: 75%;
-border-left: solid 1px #eee;
 }
 
 h1 {
@@ -128,7 +132,6 @@ border: solid 1px #000;
 
 main {
 width: 502px;
-float: left;
 margin-left: 160px;
 padding-left: 40px;
 border-left: solid 1px #eee;
@@ -259,9 +262,14 @@ font-size: 95%;
 	margin: 0 15px 0 0;
 	}
 
+	div#stump {
+	float: none;
+  position: static;
+	width: auto;
+	}
+
 	div#wrapper {
 	width: 502px;
-	margin: auto;
 	}
 
 	img.detail,
@@ -271,12 +279,6 @@ font-size: 95%;
 	width: 100%;
 	height: auto;
 	margin: 0;
-	}
-
-	div#stump {
-	float: none;
-  position: static;
-	width: auto;
 	}
 
   footer {
@@ -295,7 +297,6 @@ font-size: 95%;
 	}
 
 	main {
-	float: none;
 	width: auto;
 	margin: 0;
 	padding: 20px 0 0 0;
