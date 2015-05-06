@@ -1,62 +1,62 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
-	<head>
-		<title>The Setup / <%= @interview ? @interview.name : @page.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
-		<link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-		<link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
-		<meta name="author" content="Daniel Bogan">
-		<meta name="keywords" content="interview, setup<% if @interview %>, <%= @interview.categories.join(', ') %><% end %>">
-		<% if @interview %>
-		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:site" content="@usesthis" />
-		<meta property="og:title" content="An interview with <%= @interview.name %>" />
-		<meta property="og:type" content="article" />
-		<meta property="og:description" content="<%= @interview.summary %>" />
-		<meta property="og:url" content="http://<%= @interview.slug %>.usesthis.com/" />
-		<meta property="og:image" content="http://usesthis.com/images/portraits/<%= @interview.slug %>.jpg" />
-		<meta property="og:image:type" content="image/jpeg" />
-		<meta property="og:image:width" content="500" />
-		<meta property="og:image:height" content="335" />
-		<% end %>
-		<script src="http://stats.usesthis.com/?js" type="text/javascript"></script>
-		<script src="//use.edgefonts.net/source-sans-pro.js"></script>
-		<base href="http://usesthis.com/">
-	</head>
-	<body>
-		<div id="wrapper">
-			<div id="stump">
-				<header>
-					<h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-					<h2><%= @interview ? "Interview" : @page.title %></h2>
-					<p id="tagline">What do people use to get stuff done?</p>
-				</header>
-				<nav id="main">
-					<ul>
-						<li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
-						<li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
-						<li><a href="/about/" title="A little info about the site.">About</a></li>
-					</ul>
-				</nav>
-				<aside id="sellout">
-					<script type="text/javascript">
-					//<![CDATA[
-					(function(id) {
-					 document.write('<script type="text/javascript" src="' +
-					   'http://connect.decknetwork.net/deck' + id + '_js.php?' +
-					   (new Date().getTime()) + '"></' + 'script>');
-					})("SU");
-					//]]>
-					</script>
-					<p><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
-				</aside>
-			</div>
-			<main role="main">
-				<%= yield %>
-			</main>
-			<footer>This is a <a href="http://twitter.com/waferbaby" title="Some dork's Twitter account.">waferbaby</a> snafu. Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed."> feed</a>. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. Hosting provided by <a href=" https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My lovely hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>. You're awesome.</footer>
-		</div>
-	</body>
+  <head>
+    <title>The Setup / <%= @interview ? "An interview with #{@interview.name}" : @page.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
+    <meta name="author" content="Daniel Bogan">
+    <meta name="keywords" content="interview, setup<% if @interview %>, <%= @interview.categories.join(', ') %><% end %>">
+    <% if @interview %>
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@usesthis" />
+    <meta property="og:title" content="An interview with <%= @interview.name %>" />
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="<%= @interview.summary %>" />
+    <meta property="og:url" content="http://<%= @interview.slug %>.usesthis.com/" />
+    <meta property="og:image" content="http://usesthis.com/images/portraits/<%= @interview.slug %>.jpg" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="500" />
+    <meta property="og:image:height" content="335" />
+    <% end %>
+    <script src="http://stats.usesthis.com/?js" type="text/javascript"></script>
+    <script src="//use.edgefonts.net/source-sans-pro.js"></script>
+    <base href="http://usesthis.com/">
+  </head>
+  <body>
+    <div id="wrapper">
+      <div id="stump">
+        <header>
+          <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
+          <h2><%= @interview ? "Interview" : @page.title %></h2>
+          <p id="tagline">What do people use to get stuff done?</p>
+        </header>
+        <nav id="main">
+          <ul>
+            <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
+            <li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
+            <li><a href="/about/" title="A little info about the site.">About</a></li>
+          </ul>
+        </nav>
+        <aside id="sellout">
+          <script type="text/javascript">
+          //<![CDATA[
+          (function(id) {
+           document.write('<script type="text/javascript" src="' +
+             'http://connect.decknetwork.net/deck' + id + '_js.php?' +
+             (new Date().getTime()) + '"></' + 'script>');
+          })("SU");
+          //]]>
+          </script>
+          <p><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
+        </aside>
+      </div>
+      <main role="main">
+        <%= yield %>
+      </main>
+      <footer>This is a <a href="http://twitter.com/waferbaby" title="Some dork's Twitter account.">waferbaby</a> snafu. Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed."> feed</a>. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. Hosting provided by <a href=" https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My lovely hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>. You're awesome.</footer>
+    </div>
+  </body>
 </html>
