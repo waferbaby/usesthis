@@ -11,7 +11,7 @@ title: Interviews
   <header>
     <h3><a href="http://<%= interview.slug %>.usesthis.com/" title="View the interview with <%= interview.name %>." class="p-name"><%= interview.name %></a></h3>
     <p class="summary p-summary"><%= interview.summary %></p>
-    <p class="details">Posted <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= interview.date.strftime('%B %d, %Y') %>.</time></p>
+    <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= interview.date.strftime('%A %B %d, %Y') %>.</time>
     <nav class="categories">
       <ul>
       <% interview.categories.each do |category| %><li><a href="/interviews/<%= category %>/" title="View all the <%= category.capitalize %> interviews." class="p-category"><%= category %></a></li><% end %>
