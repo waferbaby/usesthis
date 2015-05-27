@@ -22,7 +22,7 @@ while !found_day
   end
 end
 
-file_path = File.join(source_path, 'posts', "#{date.strftime('%Y-%m-%d')}-#{slug}.interview")
+file_path = File.join(source_path, 'posts', "#{date.strftime('%Y-%m-%d')}-#{slug}.markdown")
 abort("Interview already exists for #{slug}.") if File.exists?(file_path)
 
 output = <<OUTPUT
