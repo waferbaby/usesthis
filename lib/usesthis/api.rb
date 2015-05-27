@@ -11,14 +11,6 @@ module UsesThis
     end
 
     def generate
-      prepare
-
-      generate_interviews
-      generate_interview_categories
-      generate_gear
-    end
-
-    def prepare
       paths = [
         'interviews',
         'hardware',
@@ -33,12 +25,16 @@ module UsesThis
       rescue => e
         raise "Failed to prepare the API directories (#{e})"
       end
+
+      generate_interviews
+      generate_interview_categories
+      generate_gear
     end
 
     def generate_interviews
       interviews = []
       path = File.join(@path, 'interviews')
-      
+
       @site.posts.each do |interview|
         interview_hash = interview.to_h
         generate_json_file(path, interview.slug, {interview: interview_hash})
