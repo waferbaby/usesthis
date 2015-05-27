@@ -1,6 +1,6 @@
 ---
 name: Alex Payne
-summary: Developer, API bitch at Twitter
+summary: API developer (Twitter)
 categories:
 - developer
 - mac
