@@ -118,6 +118,23 @@ h5 a {
 color: #000;
 }
 
+header nav ul {
+text-transform: uppercase;
+padding: 0;
+margin: 20px 0;
+font-size: 100%;
+}
+
+header nav ul li {
+padding: 3px 0;
+margin: 0;
+border-bottom: solid 1px #eee;
+}
+
+header nav a {
+text-decoration: none;
+}
+
 img.detail,
 img.portrait {
 border: solid 1px #000;
@@ -136,23 +153,6 @@ color: #fe2e9a;
 
 nav ul {
 list-style: none outside;
-}
-
-nav#main a {
-text-decoration: none;
-}
-
-nav#main ul {
-text-transform: uppercase;
-padding: 0;
-margin: 20px 0;
-font-size: 100%;
-}
-
-nav#main ul li {
-padding: 3px 0;
-margin: 0;
-border-bottom: solid 1px #eee;
 }
 
 nav#paginator {
