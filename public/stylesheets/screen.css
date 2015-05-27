@@ -118,20 +118,20 @@ h5 a {
 color: #000;
 }
 
-header nav ul {
+header#mast nav ul {
 text-transform: uppercase;
 padding: 0;
 margin: 20px 0;
 font-size: 100%;
 }
 
-header nav ul li {
+header#mast nav ul li {
 padding: 3px 0;
 margin: 0;
 border-bottom: solid 1px #eee;
 }
 
-header nav a {
+header#mast nav a {
 text-decoration: none;
 }
 
@@ -246,108 +246,108 @@ font-size: 95%;
 
 @media screen and (max-width: 800px) {
 
-aside#sellout {
-min-height: 100px;
-margin-top: 0;
-}
+  aside#sellout {
+  min-height: 100px;
+  margin-top: 0;
+  }
 
-aside#sellout img {
-float: left;
-margin: 0 15px 0 0;
-}
+  aside#sellout img {
+  float: left;
+  margin: 0 15px 0 0;
+  }
 
-div#stump {
-float: none;
-position: static;
-width: auto;
-}
+  div#stump {
+  float: none;
+  position: static;
+  width: auto;
+  }
 
-div#wrapper {
-width: 502px;
-}
+  div#wrapper {
+  width: 502px;
+  }
 
-img.detail,
-img.portrait {
-float: none;
-max-width: 500px;
-width: 100%;
-height: auto;
-margin: 0;
-}
+  img.detail,
+  img.portrait {
+  float: none;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  }
 
-footer {
-padding: 20px 0;
-margin-left: 0;
-border: 0;
-}
+  footer {
+  padding: 20px 0;
+  margin-left: 0;
+  border: 0;
+  }
 
-h1 {
-margin-bottom: 10px;
-font-size: 220%;
-}
+  h1 {
+  margin-bottom: 10px;
+  font-size: 220%;
+  }
 
-h2 {
-font-size: 170%;
-}
+  h2 {
+  font-size: 170%;
+  }
 
-main {
-width: auto;
-margin: 0;
-padding: 20px 0 0 0;
-border-left: 0;
-border-top: solid 1px #eee;
-}
+  main {
+  width: auto;
+  margin: 0;
+  padding: 20px 0 0 0;
+  border-left: 0;
+  border-top: solid 1px #eee;
+  }
 
-nav#main {
-float: none;
-margin-top: 0;
-}
+  header#mast nav {
+  float: none;
+  margin-top: 0;
+  }
 
-nav#main ul {
-padding: 10px 0;
-border-top: solid 1px #eee;
-border-right: 0;
-border-bottom: solid 1px #eee;
-border-left: 0;
-}
+  header#mast nav ul {
+  padding: 10px 0;
+  border-top: solid 1px #eee;
+  border-right: 0;
+  border-bottom: solid 1px #eee;
+  border-left: 0;
+  }
 
-nav#main ul li {
-display: inline;
-border: 0;
-}
+  header#mast nav ul li {
+  display: inline;
+  border: 0;
+  }
 
-nav#main ul li:before {
-content: "/ ";
-color: #eee;
-}
+  header#mast nav ul li:before {
+  content: "/ ";
+  color: #eee;
+  }
 
-nav#main ul li:first-child:before {
-content: "";
-}
+  header#mast nav ul li:first-child:before {
+  content: "";
+  }
 
-nav#main ul li a {
-display: inline;
-border: 0;
-}
+  header#mast nav ul li a {
+  display: inline;
+  border: 0;
+  }
 }
 
 @media screen and (max-width: 600px), (max-device-width: 480px) {
 
-body {
-font-size: 1em;
-}
+  body {
+  font-size: 1em;
+  }
 
-div#wrapper {
-width: 100%;
-margin: 0;
-}
+  div#wrapper {
+  width: 100%;
+  margin: 0;
+  }
 
-nav#paginator {
-font-size: 90%;
-}
+  nav#paginator {
+  font-size: 90%;
+  }
 
-section#links div {
-float: none;
-width: auto;
-}
+  section#links div {
+  float: none;
+  width: auto;
+  }
 }
