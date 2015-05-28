@@ -193,6 +193,10 @@ color: #aaa;
 font-size: 75%;
 }
 
+time a {
+color: #aaa;
+}
+
 p.license {
 padding: 10px;
 background-color: #eee;
