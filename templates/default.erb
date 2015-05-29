@@ -4,19 +4,19 @@
     <title>The Setup / <%= @interview ? @interview.name : @page.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-    <% if @interview %>
-      <% if @interview.previous_post %><link rel="prev" href="http://<%= @interview.previous_post.slug %>.usesthis.com/"><% end %>
-      <% if @interview.next_post %><link rel="next" href="http://<%= @interview.next_post.slug %>.usesthis.com/"><% end %>
-    <% elsif @pagination && @pagination[:pages] > 1 %>
-      <% if @pagination[:previous_page] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
-      <% if @pagination[:next_page] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
-    <% end %>
+  <% if @interview %>
+    <% if @interview.previous_post %><link rel="prev" href="http://<%= @interview.previous_post.slug %>.usesthis.com/"><% end %>
+    <% if @interview.next_post %><link rel="next" href="http://<%= @interview.next_post.slug %>.usesthis.com/"><% end %>
+  <% elsif @pagination && @pagination[:pages] > 1 %>
+    <% if @pagination[:previous_page] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
+    <% if @pagination[:next_page] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
+  <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @interview %>, <%= @interview.categories.join(', ') %><% end %>">
-    <% if @interview %>
+  <% if @interview %>
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@usesthis" />
     <meta property="og:title" content="An interview with <%= @interview.name %>" />
@@ -27,7 +27,7 @@
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="335" />
-    <% end %>
+  <% end %>
     <script src="http://stats.usesthis.com/?js" type="text/javascript"></script>
     <script src="//use.edgefonts.net/source-sans-pro.js"></script>
     <base href="http://usesthis.com/">
