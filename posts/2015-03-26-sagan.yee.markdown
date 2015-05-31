@@ -3,8 +3,8 @@ name: Sagan Yee
 summary: Animator, indie game artist
 categories:
 - animator
-- mac
 - game
+- mac
 ---
 
 #### Who are you, and what do you do?

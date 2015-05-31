@@ -3,8 +3,8 @@ name: Brendon Chung
 summary: Indie game developer (Blendo)
 categories:
 - developer
-- mac
 - game
+- mac
 - windows
 ---
 

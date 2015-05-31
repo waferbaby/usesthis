@@ -2,8 +2,8 @@
 name: Melissa Gira Grant
 summary: Writer, freelance journalist
 categories:
-- mac
 - journalist
+- mac
 - sex
 - writer
 ---

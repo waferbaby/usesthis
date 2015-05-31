@@ -2,8 +2,8 @@
 name: Ashe Dryden
 summary: Developer, speaker, writer
 categories:
-- mac
 - developer
+- mac
 - web
 - writer
 ---

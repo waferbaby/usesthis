@@ -4,8 +4,8 @@ summary: Software developer, screencaster (Destroy All Software)
 categories:
 - developer
 - mac
-- web
 - screencaster
+- web
 ---
 
 #### Who are you, and what do you do?

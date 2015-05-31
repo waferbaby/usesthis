@@ -4,9 +4,9 @@ summary: Activist, musician, co-founder (Safecast)
 categories:
 - developer
 - entrepreneur
+- hacker
 - mac
 - musician
-- hacker
 - suit
 credits:
   name: Nokton

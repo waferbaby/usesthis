@@ -2,9 +2,9 @@
 name: Joel David Hamkins
 summary: Mathematician and philosopher (The City University of New York)
 categories:
-- windows
-- professor
 - philosopher
+- professor
+- windows
 ---
 
 #### Who are you, and what do you do?

@@ -2,8 +2,8 @@
 name: Josey Baker
 summary: Baker
 categories:
-- food
 - baker
+- food
 credits:
   name: Anita Bowen
 ---

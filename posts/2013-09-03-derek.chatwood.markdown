@@ -2,8 +2,8 @@
 name: Derek Chatwood
 summary: Game designer, illustrator
 categories:
-- game
 - designer
+- game
 - illustrator
 - windows
 ---

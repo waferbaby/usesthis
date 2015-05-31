@@ -3,8 +3,8 @@ name: Romain Guy
 summary: Software developer, photographer
 categories:
 - developer
-- photographer
 - mac
+- photographer
 - software
 ---
 

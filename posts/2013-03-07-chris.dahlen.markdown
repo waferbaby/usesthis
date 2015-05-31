@@ -2,11 +2,11 @@
 name: Chris Dahlen
 summary: Video game writer, coder
 categories:
-- windows
-- writer
+- developer
 - game
 - software
-- developer
+- windows
+- writer
 ---
 
 #### Who are you, and what do you do?

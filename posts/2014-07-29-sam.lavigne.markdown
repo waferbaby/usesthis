@@ -3,9 +3,9 @@ name: Sam Lavigne
 summary: Programmer, artist
 categories:
 - artist
+- developer
 - mac
 - software
-- developer
 ---
 
 #### Who are you, and what do you do?

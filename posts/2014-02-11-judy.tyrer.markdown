@@ -3,8 +3,8 @@ name: Judy Tyrer
 summary: Game developer (Ever, Jane)
 categories:
 - developer
-- mac
 - game
+- mac
 - windows
 ---
 

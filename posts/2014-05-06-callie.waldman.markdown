@@ -2,8 +2,8 @@
 name: Callie Waldman
 summary: Chef (BandPage)
 categories:
-- food
 - chef
+- food
 ---
 
 #### Who are you, and what do you do?

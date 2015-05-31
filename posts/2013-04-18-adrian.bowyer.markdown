@@ -2,8 +2,8 @@
 name: Adrian Bowyer
 summary: Mechanical engineer, inventor (RepRap)
 categories:
-- linux
 - engineer
+- linux
 ---
 
 #### Who are you, and what do you do?
