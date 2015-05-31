@@ -33,4 +33,4 @@ On the iPhone, I use [iMessage][], [Fantastical][fantastical-ios], [Prismatic][p
 
 #### What would be your dream setup?
 
-I would love to have a multi-monitor setup running on high-end GPUs and GBs of RAM. For portability, I would love to have a [MacBook Air][macbook-air] with more memory and a Retina screen. To be honest, I would be more than eager to get my hands on anything that provides better computational power with an equally impressive user experience. 
+I would love to have a multi-monitor setup running on high-end GPUs and GBs of RAM. For portability, I would love to have a [MacBook Air][macbook-air] with more memory and a Retina screen. To be honest, I would be more than eager to get my hands on anything that provides better computational power with an equally impressive user experience.
