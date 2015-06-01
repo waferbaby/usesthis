@@ -18,17 +18,18 @@ module UsesThis
         ['interviews', 'categories']
       ]
 
-      begin
-        paths.each do |type|
-          FileUtils.mkdir_p(File.join(@path, type))
-        end
-      rescue => e
-        raise "Failed to prepare the API directories (#{e})"
+      paths.each do |type|
+        FileUtils.mkdir_p(File.join(@path, type))
       end
 
       generate_interviews
       generate_interview_categories
       generate_gear
+
+    rescue Dimples::Errors::RenderingError, Dimples::Errors::PublishingError => e
+      puts "API error: Failed to generate #{e.file}: #{e.message}"
+    rescue => e
+      puts "API error: #{e}"
     end
 
     def generate_interviews
