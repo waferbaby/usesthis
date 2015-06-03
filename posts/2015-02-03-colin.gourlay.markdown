@@ -20,7 +20,7 @@ I'm collypops on [Twitter](http://twitter.com/collypops "Colin's Twitter account
 
 At work, I use a 15" [Retina MacBook Pro][macbook-pro]. I've noticed a huge improvement in productivity since switching to a computer with a SSD, and the i7 processor & 16GB memory allow me to run a few VMs for development/testing without a noticable impact on responsiveness. The MacBook is paired with a 27" [Thunderbolt Display][thunderbolt-display], which encourages me to constantly check out my work on low & high DPI screens. Both sit on a height-adjustable desk that I leave permanently at standing level, because I'm too lazy to constantly crank it up and down; the downside of this being that when I take sitting breaks I look like a bit of an idiot.
 
-We have an assortment of phones and tablets in the office for testing our responsive interfaces. The [iPod Touch][ipod-touch] and [iPad Mini with Retina Display][ipad-mini-retina] are my go-to devices, though I do occasionally pick up the some low-end devices running [Android][] when I'm feeling masochistic.
+We have an assortment of phones and tablets in the office for testing our responsive interfaces. The [iPod Touch][ipod-touch] and [iPad Mini with Retina Display][ipad-mini-2] are my go-to devices, though I do occasionally pick up the some low-end devices running [Android][] when I'm feeling masochistic.
 
 Everywhere else, I use my personal 13" Retina MacBook Pro. It's not quite as powerful as my work laptop, but it's the perfect form-factor for pulling out anywhere I can get a chance to work on my own stuff. My home standing desk is a little less sophisticated; I repurpose my keyboard stand and sit it a few feet from an eye-level bookcase shelf that supports an unnoteworthy 24" LCD.
 
