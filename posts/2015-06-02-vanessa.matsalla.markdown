@@ -1,0 +1,29 @@
+---
+name: Vanessa Matsalla
+summary: Interior designer (Studio Matsalla)
+categories:
+- mac
+- designer
+---
+
+#### Who are you, and what do you do?
+
+My name is Vanessa Matsalla and I'm the owner and interior designer at [Studio Matsalla](http://www.studiomatsalla.com/ "Vanessa's studio") boutique & design studio. We're a full service residential interior design firm and retail shop based out of the quaint SoCal beach-town Carlsbad, California. I basically help people make their homes look beautiful and their hearts happy.
+
+#### What hardware do you use?
+
+I use a [13" MacBook Pro][macbook-pro] to support the software needed to run my biz. I also carry around a [Samsung NX300M][nx300m] to take photos at client site visits. I also always have my my [iPhone 6][iphone-6] and [iPad mini 3][ipad-mini-3] on hand because they serve as a tablet during my meetings, in case we need to look up inspiration photos or show each other an idea we came across that we want to share.
+
+#### And what software?
+
+I use [AutoCAD][], [QuickBooks][] and [Pixelmator][] on a daily basis. I'm also a heavy user of [Google Docs][google-docs] to maintain and manage my projects while sharing them live with my clients.
+
+AutoCAD is essential for my kitchen and bathroom remodel projects. I use it to space plan and create elevations in order to communicate my design for contractors to build on, and for my clients to get a sense of what their future kitchen or bathroom is going to look like.
+
+Pixelmator is my favorite tool. I create mood boards and collages to show my clients aesthetically how I'm pulling their spaces together. I could use [Photoshop][], but you can't beat the inexpensive price tag of Pixelmator.
+
+Lastly, QuickBooks keeps my time billing and business ultra-organized. I don't know how I'd operate without it.
+
+#### What would be your dream setup?
+
+My dream set up would be the [new gold Macbook][macbook.2] with a [27in Thunderbolt display][thunderbolt-display]. Those are my next essential purchases in the next 6 months!
