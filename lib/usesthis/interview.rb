@@ -1,6 +1,5 @@
 module UsesThis
   class Interview < Dimples::Post
-    
     attr_accessor :hardware
     attr_accessor :software
 
@@ -58,7 +57,7 @@ module UsesThis
         url: "http://#{@slug}.usesthis.com/",
         summary: @summary,
         date: @date.to_i,
-        categories: @categories,
+        categories: @categories.keys,
       }
 
       output[:credits] = @credits if @credits
