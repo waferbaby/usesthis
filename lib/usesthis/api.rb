@@ -50,13 +50,14 @@ module UsesThis
     end
 
     def generate_interview_categories
-      categories = []
       path = File.join(@path, 'interviews', 'categories')
 
-      @site.categories.each_key do |category|
+      category_slugs = []
+
+      @site.categories.each_value do |category|
         interviews = []
 
-        @site.categories[category].each do |interview|
+        category.posts.each do |interview|
           interview_hash = interview.to_h
 
           interview_hash.delete(:contents)
@@ -65,12 +66,11 @@ module UsesThis
           interviews << interview_hash
         end
 
-        generate_json_file(path, category, {interviews: interviews})
-
-        categories << category
+        generate_json_file(path, category.slug, {interviews: interviews})
+        category_slugs << category.slug
       end
 
-      generate_json_file(path, 'index', {categories: categories.sort!})
+      generate_json_file(path, 'index', {categories: category_slugs.sort!})
     end
 
     def generate_gear
