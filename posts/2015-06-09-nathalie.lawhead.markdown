@@ -2,6 +2,7 @@
 name: Nathalie Lawhead
 summary: Indie game developer (Tetrageddon)
 categories:
+- designer
 - developer
 - game
 - mac
