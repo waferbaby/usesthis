@@ -21,22 +21,17 @@ module UsesThis
     end
 
     def scan_files
-      Dir.glob(File.join(@output_paths[:wares], 'hardware', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(path)
-        @hardware[ware.slug] = ware
+      %w[hardware software].each do |type|
+        Dir.glob(File.join(@output_paths[:wares], type, '*.yml')).each do |path|
+          ware = UsesThis::Ware.new(path)
+          self.send(type)[ware.slug] = ware
+        end
       end
 
-      Dir.glob(File.join(@output_paths[:wares], 'software', '*.yml')).each do |path|
-        ware = UsesThis::Ware.new(path)
-        @software[ware.slug] = ware
-      end
-
-      Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
-        @inspired_links << UsesThis::Link.new(path)
-      end
-
-      Dir.glob(File.join(@output_paths[:links], 'personal', '*.yml')).each do |path|
-        @personal_links << UsesThis::Link.new(path)
+      %w[inspired personal].each do |type|
+        Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
+          self.send("#{type}_links") << UsesThis::Link.new(path)
+        end
       end
 
       super
