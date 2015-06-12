@@ -38,7 +38,7 @@ For anything programming related, I use [zsh][] in [iTerm2][] and [vim][] (but I
 
 I do all of my writing in [Markdown][] through [Mou][], but I've been meaning to try [Marked][].
 
-[iMessage][], [Tweetbot for iOS][tweetbot-ios], and [Tweetbot for OS X][] for Twitter are the only ways I really communicate with people anymore, but I pop into IRC on a semi-regular basis.
+[iMessage][], [Tweetbot for iOS][tweetbot-ios], and [Tweetbot for OS X][tweetbot] for Twitter are the only ways I really communicate with people anymore, but I pop into IRC on a semi-regular basis.
 
 I've found it hard to hard to move away from [Chrome][] and use Google apps for all of my [mail][gmail], [calendar][google-calendar], [document management][google-docs], and [hangouts][google-hangouts] for the majority of my video calls.
 
