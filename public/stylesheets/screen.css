@@ -9,8 +9,9 @@ color: #555;
 
 aside#sellout {
 margin-top: 50px;
-font-size: 70%;
+font-size: 60%;
 color: #aaa;
+line-height: 1.7em;
 }
 
 aside#sellout img {
@@ -159,7 +160,7 @@ nav#paginator {
 text-align: center;
 padding: 20px 0;
 border-top: solid 1px #eee;
-font-size: 115%;
+font-size: 90%;
 }
 
 nav#paginator span {
