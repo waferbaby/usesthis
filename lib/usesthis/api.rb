@@ -33,8 +33,8 @@ module UsesThis
     end
 
     def generate_interviews
-      interviews = []
       path = File.join(@path, 'interviews')
+      interviews = []
 
       @site.posts.each do |interview|
         interview_hash = interview.to_h
@@ -51,7 +51,6 @@ module UsesThis
 
     def generate_interview_categories
       path = File.join(@path, 'interviews', 'categories')
-
       category_slugs = []
 
       @site.categories.each_value do |category|
@@ -75,8 +74,8 @@ module UsesThis
 
     def generate_gear
       %w{hardware software}.each do |type|
-        gear = []
         path = File.join(@path, type)
+        gear = []
 
         @site.send("#{type}").each do |slug, ware|
           ware_hash = ware.to_h
