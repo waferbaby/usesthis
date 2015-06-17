@@ -84,5 +84,20 @@ module UsesThis
 
       output
     end
+
+    def self.next_date(skip_today_on_match = false)
+      date = Time.now.to_date
+      date += 1 if skip_today_on_match && date.strftime('%a') =~ /Tue|Thu/
+
+      found_day = false
+
+      while !found_day
+        unless found_day = (date.strftime('%a') =~ /Tue|Thu/)
+          date = date.next_day
+        end
+      end
+
+      date
+    end
   end
 end
