@@ -15,3 +15,6 @@ paths:
 layouts:
   posts: 'interviews'
   category: 'interviews'
+
+categories:
+  - {slug: 'bsd', name: 'BSD'}
