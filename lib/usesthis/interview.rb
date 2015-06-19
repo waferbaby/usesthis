@@ -63,22 +63,17 @@ module UsesThis
       output[:credits] = @credits if @credits
       output[:contents] = @contents
 
-      has_hardware = @hardware.length > 0
-      has_software = @software.length > 0
+      output[:gear] = {
+        hardware: [],
+        software: []
+      }
 
-      if has_hardware || has_software
-        output[:gear] = {}
+      %w{hardware software}.each do |type|
+        self.send(type).each do |slug, ware|
+          ware_hash = ware.to_h
+          ware_hash.delete(:interviews)
 
-        output[:gear][:hardware] = [] if has_hardware
-        output[:gear][:software] = [] if has_software
-
-        %w{hardware software}.each do |type|
-          self.send(type).each do |slug, ware|
-            ware_hash = ware.to_h
-            ware_hash.delete(:interviews)
-
-            output[:gear][type.to_sym] << ware_hash
-          end
+          output[:gear][type.to_sym] << ware_hash
         end
       end
 
