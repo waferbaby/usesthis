@@ -19,8 +19,10 @@ file = case type
   when 'hardware' then hardware_path
 end
 
-if File.exists?(file)
-  puts "Entry already exists for '#{slug}'."
+if File.exists?(software_path)
+  abort "Software entry already exists for '#{slug}'."
+elsif File.exists?(hardware_path)
+  abort "Hardware entry already exists for '#{slug}'."
 else
   entry = <<ENTRY
 ---
