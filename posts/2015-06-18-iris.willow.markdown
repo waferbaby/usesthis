@@ -27,7 +27,7 @@ I photograph my work with a [Canon 60D][eos-60d], [EF-S 17-55mm f/2.8 IS USM][ef
 
 #### And what software?
 
-I use [Photoshop][] to edit my photos and [Illustrator][] and [InDesign][] to design promotional materials. I use [Gmail][] for email. I just started using [Wave][wave.2] for managing business expenses, but still do a lot of tracking in [Excel][] and Google Docs. I use [Tumblr][] for my blog, [MailChimp][] for my email newsletter and [Instagram][], [Pinterest][], [Flickr][] and [Twitter][] for social media and sharing photos of my jewelry and process.
+I use [Photoshop][] to edit my photos and [Illustrator][] and [InDesign][] to design promotional materials. I use [Gmail][] for email. I just started using [Wave][wave.2] for managing business expenses, but still do a lot of tracking in [Excel][] and Google Docs. I use [Tumblr][] for my blog, [MailChimp][] for my email newsletter and [Instagram][instagram-ios], [Pinterest][], [Flickr][] and [Twitter][] for social media and sharing photos of my jewelry and process.
 
 #### What would be your dream setup?
 
