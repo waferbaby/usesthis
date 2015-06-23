@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
 <title>The Setup<% if @category %> / <%= @category.capitalize %><% end %></title>
 <link href="http://usesthis.com/<% if @category %>/interviews/<%= @category %><% end %>feed/" rel="self"/>
 <link href="http://usesthis.com/"/>
@@ -13,7 +13,7 @@
 <% @posts.each do |interview| %>
 <entry>
   <title><%= interview.name %></title>
-  <link href="http://<%= interview.slug %>.usesthis.com/"/>
+  <link href="http://usesthis.com/interviews/<%= interview.slug %>/"/>
   <updated><%= interview.date.strftime('%FT%T') %>Z</updated>
   <id>http://<%= interview.slug %>.usesthis.com/</id>
   <content type="html">

@@ -28,8 +28,8 @@ layout: default
   <% end %>
 
   <nav id="paginator">
-  <% if @interview.previous_post %>Previously: <a href="http://<%= @interview.previous_post.slug %>.usesthis.com/" title="View the interview with <%= @interview.previous_post.name %>" id="previous"><%= @interview.previous_post.name %></a><% end %>
+  <% if @interview.previous_post %>Previously: <a href="/interviews/<%= @interview.previous_post.slug %>/" title="View the interview with <%= @interview.previous_post.name %>" id="previous"><%= @interview.previous_post.name %></a><% end %>
   <% if @interview.previous_post && @interview.next_post %>/<% end %>
-  <% if @interview.next_post %>Next up: <a href="http://<%= @interview.next_post.slug %>.usesthis.com/" title="View the interview with <%= @interview.next_post.name %>" id="next"><%= @interview.next_post.name %></a><% end %>
+  <% if @interview.next_post %>Next up: <a href="/interviews/<%= @interview.next_post.slug %>/" title="View the interview with <%= @interview.next_post.name %>" id="next"><%= @interview.next_post.name %></a><% end %>
   </nav>
 </article>

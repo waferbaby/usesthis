@@ -3,7 +3,7 @@ extension: xml
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://usesthis.com/interviews/</loc>
   </url>
@@ -18,7 +18,7 @@ extension: xml
   </url>
   <% @site.posts.each do |post| %>
   <url>
-    <loc>http://<%= post.slug %>.usesthis.com/</loc>
+    <loc>http://usesthis.com/interviews/<%= post.slug %>/</loc>
     <lastmod><%= post.year %>-<%= post.month %>-<%= post.day %></lastmod>
   </url>
   <% end %>
