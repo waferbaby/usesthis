@@ -29,7 +29,7 @@ module UsesThis
       end
 
       %w[inspired personal].each do |type|
-        Dir.glob(File.join(@output_paths[:links], 'inspired', '*.yml')).each do |path|
+        Dir.glob(File.join(@output_paths[:links], type, '*.yml')).each do |path|
           self.send("#{type}_links") << UsesThis::Link.new(path)
         end
       end
