@@ -43,7 +43,7 @@ Away from work, my hardware looks like this:
 
 #### And what software?
 
-* Adobe Software. I'm a huge fan of [After Effects][after-effects]. My production workflow became much easier once I started using [Premiere Pro][premiere] and Adobe's video encoding tools.
+* Adobe Software. I'm a huge fan of [After Effects][after-effects]. My production workflow became much easier once I started using [Premiere Pro][premiere-pro] and Adobe's video encoding tools.
 
 * [PluralEyes][] for Premiere Pro. For most videos we end up with multiple camera angles, audio tracks, and screen capture. PluralEyes does a pretty good job of aligning it all so we can work like a broadcast studio and switch between each for the best final video.
 

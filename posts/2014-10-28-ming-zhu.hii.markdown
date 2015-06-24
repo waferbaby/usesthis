@@ -25,7 +25,7 @@ We hire in extra bits and pieces for shoots like field monitors, sliders and rig
 
 #### And what software?
 
-In a nutshell: [Celtx][] in pre, [Final Cut Pro X][final-cut-pro-x] in post on our smaller projects thus far - the simplicity has worked to our advantage not coming from traditional film editing backgrounds, and I've put up with the snooty looks; but I'm finally feeling the need to teach myself how to use [Premiere Pro][premiere] and put the Adobe suite to good use as our projects grow more complex. I'll probably be singing a new tune in a month or so.
+In a nutshell: [Celtx][] in pre, [Final Cut Pro X][final-cut-pro-x] in post on our smaller projects thus far - the simplicity has worked to our advantage not coming from traditional film editing backgrounds, and I've put up with the snooty looks; but I'm finally feeling the need to teach myself how to use [Premiere Pro][premiere-pro] and put the Adobe suite to good use as our projects grow more complex. I'll probably be singing a new tune in a month or so.
 
 If we're sound syncing, on set I sometimes use an iPad app called [MovieSlate][movieslate-ios], which acts as a clapper board and as note-taking and syncing software, but I often just default to a clipboard, legal pad, marker and a manual clap. 
 

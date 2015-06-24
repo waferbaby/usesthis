@@ -22,7 +22,7 @@ I animate on a table and use plasticine clay as my actors - I prefer to use [New
 
 [Windows Vista][windows-vista] operating system, just because it came already on the laptop.
 
-Adobe collection for video editing. [Premiere Pro][premiere], [After Effects][after-effects] and [Photoshop][] are a beautiful team for making videos.
+Adobe collection for video editing. [Premiere Pro][premiere-pro], [After Effects][after-effects] and [Photoshop][] are a beautiful team for making videos.
 
 [Quicktime Pro][quicktime-pro] is useful for video encoding.
 

@@ -24,7 +24,7 @@ For audio podcasts, I record everything in [Audacity][], and have been for years
 
 For blogging we use [Squarespace][], and for audio hosting I'm a big fan of [Soundcloud][]. We used to host everything on Archive.org as well because it's free, but it just went down too often (you get what you pay for!).
 
-I use Google Hangouts for my video interview shows, and then rip the audio from the .mp4 file on [YouTube][] to post as the audio podcast version. If I'm editing video, I use [Premiere Pro CC][premiere].
+I use Google Hangouts for my video interview shows, and then rip the audio from the .mp4 file on [YouTube][] to post as the audio podcast version. If I'm editing video, I use [Premiere Pro CC][premiere-pro].
 
 #### What would be your dream setup?
 

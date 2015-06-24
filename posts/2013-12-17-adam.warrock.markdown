@@ -17,7 +17,7 @@ I have a 13" 2012 [Macbook Pro][macbook-pro], and basically use that coupled wit
 
 #### And what software?
 
-I use [Garageband][] to track and mix audio; and then I master it in [Izotope's Ozone 5][ozone] mastering suite. To write lyrics, I honestly use [TextEdit][], or whatever is the most bare bones Notebook-esque style text editor. I have an MP3 tag editor program and use [Acorn][] for photo editing stuff. I use Adobe [Premiere Pro][premiere] for video editing. And I use Apple's [iCal][] for keeping a digital calendar. Honestly, other than that, everything kinda takes place in [Gmail][] or on paper. Or on my [iPhone 5][iphone-5], I guess.
+I use [Garageband][] to track and mix audio; and then I master it in [Izotope's Ozone 5][ozone] mastering suite. To write lyrics, I honestly use [TextEdit][], or whatever is the most bare bones Notebook-esque style text editor. I have an MP3 tag editor program and use [Acorn][] for photo editing stuff. I use Adobe [Premiere Pro][premiere-pro] for video editing. And I use Apple's [iCal][] for keeping a digital calendar. Honestly, other than that, everything kinda takes place in [Gmail][] or on paper. Or on my [iPhone 5][iphone-5], I guess.
 
 #### What would be your dream setup?
 
