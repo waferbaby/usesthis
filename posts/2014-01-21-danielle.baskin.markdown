@@ -1,6 +1,6 @@
 ---
 name: Danielle Baskin
-summary: Art director, bike helmet painter (Belle Helmets)
+summary: Art director, bike helmet painter (Inkwell Helmets)
 categories:
 - artist
 - biker
@@ -11,13 +11,13 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm [Danielle Baskin](http://www.alinkisenabled.com/ "Danielle's website.") and I'm the founder of [Belle Helmets](http://www.bellehelmets.com/ "The Belle Helmets website."), a hand-painted bicycle helmet company. I specialize in designing custom, cool helmets for cyclists in hopes of making safety more fashionable. I'm also a freelance art director. I create props for plays, scenic paint, design sets, illustrate books - and do a spectrum of things visual. 
+I'm [Danielle Baskin](http://www.alinkisenabled.com/ "Danielle's website.") and I'm the founder of [Inkwell Helmets](http://www.inkwellhelmets.com/ "The Inkwell Helmets website."), a hand-painted bicycle helmet company. I specialize in designing custom, cool helmets for cyclists in hopes of making safety more fashionable. I'm also a freelance art director. I create props for plays, scenic paint, design sets, illustrate books - and do a spectrum of things visual.
 
 #### What hardware do you use?
 
 My computer is a 21.5" [iMac][], which lives in my studio on a cramped, paint-covered desk. Its portable companion, the [iPhone 5S][iphone-5s], is like a laptop to me, and lives a busy life in an OtterBox. Both devices communicate with my all-powerful, but not all-in-one, [HP LaserJet Pro 200][laserjet-pro-200], which excels at both mundane and elaborate tasks - like printing shipping labels really fast or printing UV-protected color images on vinyl. 
 
-My paints are [Golden Open Acrylics][open], which are an amazing simulation of oil paint. This stuff is really practical for detailed painting in tiny, unventilated spaces. I pretty much mix all colors from Mars (black), Burnt Umber (brown), Phthalo (blue), Alizarin (crimson), Hanza (yellow), Titanium (white), and thin the paint with water. My brushes and graded pencils are mostly Reeves brand, but I use .5 mm Bic mechanical pencils more often for drawing and writing. Super fine lines appeal to me both aesthetically (I like thin fonts too, like Helvetica Ultra-Light) and functionally (better for details and looks precise without precision), so I typically use drawing tools like .2 mm [Micron pens][pigma-micron] and extra-fine tip DecoColor paint pens. I seem to destroy their tips easily, however... I can still use pens in a broken-down state. They're useful for making scratchy or grainy lines, like creating fake wooden surfaces or drawing [phrenology charts](http://www.bellehelmets.com/collections/designs/products/phrenology "Danielle's phrenology helmet."). 
+My paints are [Golden Open Acrylics][open], which are an amazing simulation of oil paint. This stuff is really practical for detailed painting in tiny, unventilated spaces. I pretty much mix all colors from Mars (black), Burnt Umber (brown), Phthalo (blue), Alizarin (crimson), Hanza (yellow), Titanium (white), and thin the paint with water. My brushes and graded pencils are mostly Reeves brand, but I use .5 mm Bic mechanical pencils more often for drawing and writing. Super fine lines appeal to me both aesthetically (I like thin fonts too, like Helvetica Ultra-Light) and functionally (better for details and looks precise without precision), so I typically use drawing tools like .2 mm [Micron pens][pigma-micron] and extra-fine tip DecoColor paint pens. I seem to destroy their tips easily, however... I can still use pens in a broken-down state. They're useful for making scratchy or grainy lines, like creating fake wooden surfaces or drawing [phrenology charts](http://www.inkwellhelmets.com/collections/designs/products/phrenology "Danielle's phrenology helmet.").
 
 I've had a [Wacom Graphire 2][graphire] tablet since 8th grade that I still use occasionally for drawing in [Photoshop][]. I prefer to draw on paper than on a computer. My sketchbooks aren't really sketch-books, but are actually just sheets of loose printer paper arranged in folders. That way, they're easier to photograph because they can lay flat (I don't have a scanner), I can sort them easily, and I can view them together as a collection. 
 
