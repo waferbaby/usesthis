@@ -77,6 +77,13 @@ color: #888;
 font-size: 75%;
 }
 
+form#search {
+text-align: center;
+padding: 10px 0;
+border-top: dotted 1px #eee;
+border-bottom: dotted 1px #eee;
+}
+
 h1 {
 text-transform: uppercase;
 padding: 0;
