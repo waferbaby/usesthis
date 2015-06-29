@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-./tasks/build && yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css && rsync -apv --delete site/ usesthis.com:/usr/local/www/usesthis.com/public/
+./tasks/build && yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css && rsync -apv --delete --exclude='stats' site/ usesthis.com:/usr/local/www/usesthis.com/public/
