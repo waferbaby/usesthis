@@ -10,7 +10,7 @@ color: #555;
 aside#sellout {
 margin-top: 50px;
 font-size: 60%;
-color: #aaa;
+color: #767676;
 line-height: 1.7em;
 }
 
@@ -33,7 +33,7 @@ line-height: 1.4em;
 }
 
 code {
-color: #888;
+color: #767676;
 }
 
 dd {
@@ -73,7 +73,7 @@ footer {
 clear: left;
 padding: 20px 40px;
 margin-left: 160px;
-color: #888;
+color: #767676;
 font-size: 75%;
 }
 
@@ -171,7 +171,7 @@ font-size: 90%;
 }
 
 nav#paginator span {
-color: #aaa;
+color: #767676;
 }
 
 nav.categories ul {
@@ -188,7 +188,7 @@ margin: 0 5px 5px 0;
 
 nav.categories ul li:after {
 content: "/";
-color: #aaa;
+color: #767676;
 padding-left: 5px;
 }
 
@@ -197,12 +197,12 @@ content: "";
 }
 
 time {
-color: #aaa;
+color: #767676;
 font-size: 75%;
 }
 
 time a {
-color: #aaa;
+color: #767676;
 }
 
 p.license {
@@ -230,7 +230,7 @@ padding: 20px;
 margin: 0 0 20px 0;
 font-size: 85%;
 background-color: #eee;
-color: #888;
+color: #767676;
 }
 
 section#links div {
