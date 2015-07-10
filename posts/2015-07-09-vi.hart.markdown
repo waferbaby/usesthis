@@ -6,6 +6,7 @@ categories:
 - linux
 - mac
 - mathematician
+- musician
 - philosopher
 - video
 - windows
