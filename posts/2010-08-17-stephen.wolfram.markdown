@@ -4,6 +4,7 @@ summary: Scientist, developer, mathematician
 categories:
 - developer
 - mac
+- mathematician
 - scientist
 - software
 - windows

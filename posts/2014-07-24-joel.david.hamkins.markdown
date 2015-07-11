@@ -2,6 +2,7 @@
 name: Joel David Hamkins
 summary: Mathematician and philosopher (The City University of New York)
 categories:
+- mathematician
 - philosopher
 - professor
 - windows
