@@ -20,7 +20,7 @@ We also have lighting information that runs from one of the MacBooks through an 
 
 Our sets are performed using [Ableton Live][live]. The Focusrite I/O boxes send out to two separate channels each, so that either of us are able to have one song playing and silently be cueing up / looping the intro to the next song in a separate mixer channel, monitorable by headphones.
 
-<img src="/images/interviews/hood.internet.lights.gif" width="500" height="335" alt="The Hood Internet's lights.">
+<img src="/images/interviews/hood.internet.lights.gif" width="500" height="335" alt="The Hood Internet's lights." class="detail">
 
 The LED lighting sequences also originate in Ableton. When a song is triggered to play, a MIDI sequence is simultaneously cued up to launch at the same time as the song. Ableton uses its IAC Driver to send MIDI information over to video-mixing program [Modul8][], which then launches lighting sequences assigned to whichever MIDI notes are coming from Ableton. Next, Modul8 uses its internal [Syphon][] channel to send the video data over to [MadMapper][], the app that (with the help of the ENTTEC box) translates the lighting's color and brightness to DMX, and the dimmer in each LED tile distributes that DMX info to each of its channels.
 
