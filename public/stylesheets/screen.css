@@ -7,6 +7,10 @@ a:hover {
 color: #555;
 }
 
+a:hover img {
+opacity: 0.8;
+}
+
 aside#sellout {
 margin-top: 50px;
 font-size: 60%;
