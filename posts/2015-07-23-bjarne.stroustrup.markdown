@@ -3,8 +3,8 @@ name: Bjarne Stroustrup
 summary: Developer (C++)
 categories:
 - developer
-- professor
 - linux
+- professor
 - software
 ---
 
@@ -14,7 +14,7 @@ categories:
 
 #### What hardware do you use?
 
-A Microsoft Surface for traveling and a variety of Linux boxes for heavier lifting.
+A [Microsoft Surface][surface-pro-3] for traveling and a variety of Linux boxes for heavier lifting.
 
 #### And what software?
 
