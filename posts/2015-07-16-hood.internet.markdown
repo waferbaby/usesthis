@@ -1,6 +1,6 @@
 ---
 name: Steve Sleeve
-summary: Musician, DJ (The Hood Internet).
+summary: Musician, DJ (The Hood Internet)
 categories:
 - mac
 - musician
