@@ -1,0 +1,46 @@
+---
+name: Chelsea Howe
+summary: Creative Director (Electronic Arts)
+categories:
+- designer
+- game
+- mac
+---
+
+#### Who are you, and what do you do?
+
+My name is [Chelsea Howe](http://manojalpa.net/ "Chelsea's website.") and I make games. I'm currently a Creative Director at Electronic Arts (EA), and before that I was the lead designer on [Family Guy: The Quest for Stuff][family-guy-the-quest-for-stuff] and a designer on [FarmVille][farmville-ios]. I also make a variety of indie and experimental games, usually focused on love, queerness, and the surreal. When I'm not making games, I love to teach games: I taught a course on Play at California College of the Arts and run workshops on games for K-12 students. I frequently talk at conferences and companies about applied game design, f2p business models, and diversity issues in games.
+
+#### What hardware do you use?
+
+On my desk currently are three Mac laptops. My main personal computer is the mid 2014 [15-inch MacBook Pro][macbook-pro] with Retina display. I travel roughly twice a month, so I needed performance to play games but also portability. I also have an old 2010 13-inch MacBook Pro with legacy programs and non-cloud versions of Adobe software that used to be my personal computer and now is relegated to Internet tasks that are too fishy to trust on my main computer. My work laptop is a 2011 [MacBook Air][macbook-air] that's in desperate need of replacing. The lack of hard drive space is a constant nuisance and it can't Bluetooth to [Apple TV][apple-tv] which renders it near worthless in most work meetings.
+
+Besides the laptops, I also have a [Wacom Intuos4 tablet][intuos] (Model: PTK-640) and two Lacie hard drives dating from 2009 and 2014 - a backup, and a backup of my backup. These also store all of my old animation work and game project folders that grew out of control. When I'm doing audio work, I have a Korg49 MIDI keyboard. While I'm neither an audio designer nor an artist/animator, knowing the basics and being able to scrap together sample art or sound design is hugely helpful when it comes to communicating design ideas.
+
+For playing games, I've got an [iPhone 5][iphone-5], [Apple Watch Sport][apple-watch-sport], [iPad Mini 3][ipad-mini-3], [PSP][], [Nintendo DS][ds], [Nintendo 3DS][3ds], [Wii][], [Wii U][wii-u], [PS4][], [PS3][], [PS2][], [X360][xbox-360], [Dreamcast][], [N64][nintendo-64], & [Famicom][nes]. Regardless of what platform you're making games on, it's always useful and inspirational to see what's happening outside your sphere.
+
+On the experimental side of things, I've got the [littleBits Arduino coding kit][littlebits], which essentially lets you play around with circuitry soldering-free. Different components click together magnetically, making it infinitely easier to iterate on hardware prototypes.
+
+#### And what software?
+
+The basics: [Office Suite][office]. I use [PowerPoint][] more than any other program on my computer, because it's a quick, visual way of conveying ideas which is the most important part of my job. [Excel][] and [Word][] are distant seconds - the first for editing systems and content bibles, the latter for entombing reference documentation.
+
+[Adobe Creative Suite][creative-suite]. At varying times I use [Flash][] (prototyping, vector art), [InDesign][] (manuals), [DreamWeaver][] (personal website maintenance - and yes, I know, it's a dinosaur - but I learned it early and now I'm stuck in it), [Photoshop][] (for all manner of visual red-lining and concepting), and [Illustrator][] (for finer vector control than Flash). On my personal computer, I've picked up [Manga Studio 5][manga-studio] for visual work, as I'm not 100% on board with Adobe's cloud solution.
+
+[Omnigraffle][] is vital for wireframing and putting together game flows. While our UX designers own these documents, I'm frequently opening and tweaking them. We use [InVision][] to bring those wireframes to life.
+
+[Skitch][] is another tool for red-lining and giving feedback, capturing and reporting bugs, or doing ultra-fast mockups.
+
+My preferred communication tools are [Skype][] and [HipChat][]. Skype for its ease of use and ubiquity and HipChat for its flexibility and robust image-previewing.
+
+For audio I use [Reason][], mostly for scoring and concepting audio design or trying to find synths that fit with the world I'm designing. [Audacity][] I use to polish up sound clips, and [Ableton Live][live] I open up very occasionally when I'm bored and want to loop music. If I'm feeling exceptionally experimental, I'll open up [Pd][pure-data] (Pure Data).
+
+When I'm prototyping game mechanics themselves I use a few tools. [Game Maker][game-maker] is my go-to for more traditional gameplay. [Processing][] is what I use to test out more visual effects or artistic interactions. [Twine][] is extraordinarily useful for narrative and choice experimentation.
+
+Our games are being developed in [Unity][], so obviously that's a must, along with a [Perforce4][perforce] server.
+
+A few odds and ends: [Scrivener][] for keeping track of world building, [Evernote][] for keeping track of random design ideas, [VLC][] for accessing all of the weird and strange video files I'm sent, [Fetch][] for FTP related website work and Arduino for circuitry exploration.
+
+#### What would be your dream setup?
+
+Most of my dreams are waiting in the future. I'd love to have essentially a Microsoft Surface drafting table/whiteboard. So much of what I do is about communicating information, and the fastest way to communicate information is visually. The larger the display, and the more people can interact with it, the easier time I'm going to have facilitating team collaboration and clarity around our goals. I also wish that there was better device-to-device connectivity, so that I didn't have to have so many USB plugs and thumb drives lying around.
