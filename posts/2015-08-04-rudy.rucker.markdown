@@ -12,7 +12,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm a writer and a painter, and I spend a lot of time online promoting myself, building my brand, expressing myself, connecting with friends, whatever. I maintain a large website which includes a [blog](http://www.rudyrucker.com/blog "Rudy's weblog."), a number of webpages relating to [my individual books](www.rudyrucker.com/writing "Rudy's writings."), and I have a [painting page](http://www.rudyrucker.com/paintings "Rudy's paintings.") as well. I also post a number of [podcasts](http://www.rudyrucker.com/blog/rudys-podcasts/ "Rudy's podcasts."). I self-publish some of my books and I have a separate website for this: [Transreal Books](http://www.transrealbooks.com/ "Rudy's book publishing service."). And I take a lot of photos, many of which I post on my blog.
+I'm a writer and a painter, and I spend a lot of time online promoting myself, building my brand, expressing myself, connecting with friends, whatever. I maintain a large website which includes a [blog](http://www.rudyrucker.com/blog "Rudy's weblog."), a number of webpages relating to [my individual books](http://www.rudyrucker.com/blog/books/ "Rudy's books."), and I have a [painting page](http://www.rudyrucker.com/paintings "Rudy's paintings.") as well. I also post a number of [podcasts](http://www.rudyrucker.com/podcasts/ "Rudy's podcasts."). I self-publish some of my books and I have a separate website for this: [Transreal Books](http://www.transrealbooks.com/ "Rudy's book publishing service."). And I take a lot of photos, many of which I post on my blog.
 
 #### What hardware do you use?
 
@@ -60,4 +60,4 @@ I sell my ebooks via Amazon mostly, but I also sell them direct using a product 
 
 To barely use a computer at all. Just paint, and read paper books, and write novels in Word, and have sycophantic, well-paying agents and publishers take care of the rest of it. Bring me meals, get me speaking gigs, send me and my wife on vacations.
 
-In closing, I'll put in a plug for my latest book, an 820 page tome called [Journals 1990-2014](www.rudyrucker.com/journals "Rudy's journal book.").
+In closing, I'll put in a plug for my latest book, an 820 page tome called [Journals 1990-2014](http://www.rudyrucker.com/journals "Rudy's journal book.").
