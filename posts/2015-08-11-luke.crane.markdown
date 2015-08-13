@@ -5,6 +5,8 @@ categories:
 - designer
 - game
 - mac
+credits:
+  name: Silja Rheingans
 ---
 
 #### Who are you, and what do you do?
