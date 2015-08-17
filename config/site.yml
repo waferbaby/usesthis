@@ -16,5 +16,9 @@ layouts:
   posts: 'interviews'
   category: 'interviews'
 
+pagination:
+  per_page: 5
+
 categories:
   - {slug: 'bsd', name: 'BSD'}
+  - {slug: 'mac', name: 'Macintosh'}
