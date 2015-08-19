@@ -26,7 +26,7 @@ My only other Windows laptop, a Compaq, is for [Microsoft Flight Simulator][micr
 
 I have a couple of PCs I was using for doing bare-metal server work, although these days I'm doing most of my work on the cloud instead. All of my personal computers may, via VirtualBox and EC2, be consolidated to run from a single 13-inch [Macbook Air][macbook-air], which would be great. I'd like to own fewer things if possible.
 
-I do own many retro consoles. These include [Atari 2600s][atari-2600], [C64s][commodore-64], [N64s][nintendo-64], and [PS2][] slimlines (in particular as backups, in case the CD-ROM drive dies). It's hard to emulate these, especially the C64 music chips (the SID6581 and MOS8580).
+I do own many retro consoles. These include [Atari 2600s][atari-2600], [C64s][commodore-64], [N64s][n64], and [PS2][] slimlines (in particular as backups, in case the CD-ROM drive dies). It's hard to emulate these, especially the C64 music chips (the SID6581 and MOS8580).
 
 As for other hardware, I use a [Fujifilm X-A1][x-a1] for photographs, and wear a [Casio AL-180][al-180] for the time. The Casio is indestructible, and requires no batteries. I also take a lot of notes on paper, and write with different instruments. These days, often with a 0.5mm [Uni-ball Kuru Toga mechanical pencil][kuru-toga], which auto-rotates the lead to keep it sharp.
 

@@ -15,7 +15,7 @@ Hi, I'm [Benjamin Porter](https://twitter.com/eigenbom "Benjamin's Twitter accou
 
 I've got a desktop PC (i7 4790) with 8Gb RAM, a [GTX 960][geforce-gtx-960], and a 2TB HDD. I use a [MS Natural Ergonomic Keyboard][natural-ergonomic-keyboard-4000] and have a [Wacom Bamboo][bamboo] for occasional sketching. I have two ASUS LCD screens -- one for my code and the other everything else.
 
-At home I've got a [Toshiba Satellite P50][satellite-p50] running [Windows 8][windows-8] and connected to a pair of [Audio Engine A5's][a5-plus]. I've also got a [Mac Mini][mac-mini] which I used to develop some [iOS][] applications a few years ago. I've got a [NES][], [SNES][], [N64][nintendo-64] (which all still work) and a [360][xbox-360] (which doesn't). I use a [Moto G][moto-g] for personal mobile communications and telephony.
+At home I've got a [Toshiba Satellite P50][satellite-p50] running [Windows 8][windows-8] and connected to a pair of [Audio Engine A5's][a5-plus]. I've also got a [Mac Mini][mac-mini] which I used to develop some [iOS][] applications a few years ago. I've got a [NES][], [SNES][], [N64][] (which all still work) and a [360][xbox-360] (which doesn't). I use a [Moto G][moto-g] for personal mobile communications and telephony.
 
 #### And what software?
 
