@@ -39,7 +39,7 @@ I **love**  photo-journalistic and available light photography. I shoot with the
 
 This stuff take up a lot of space. I store everything on a [Drobo FS][drobo-fs] NAS filled with 2TB 5-platter Hitachi Deskstar drives. I play everything on a [Boxee Box][boxee-box], which changed my life forever.
 
-I usually play games with a hacked [PSP Go][psp-go] loaded with NES, SNES, and GameBoy emulators. When I'm at my desk, I can play games like [Super Meat Boy][super-meat-boy] with my childood NES controller, thanks to [Retrolink][].
+I usually play games with a hacked [PSP Go][psp-go] loaded with [NES][], [SNES][], and [Game Boy][game-boy] emulators. When I'm at my desk, I can play games like [Super Meat Boy][super-meat-boy] with my childood NES controller, thanks to [Retrolink][].
 
 I tell the time with a Mondaine Swiss Railway watch.
 
