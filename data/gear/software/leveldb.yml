@@ -1,4 +1,4 @@
 ---
 name: LevelDB
 description: A speedy key-value storage system.
-url: https://code.google.com/p/leveldb/
+url: https://github.com/google/leveldb
