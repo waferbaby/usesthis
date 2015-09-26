@@ -1,4 +1,4 @@
 ---
 name: pbcopy
 description: A Mac OS X command-line tool for copying something to the Clipboard.
-url: http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/pbcopy.1.html
+url: https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/pbcopy.1.html
