@@ -1,4 +1,4 @@
 ---
 name: Vundle
 description: A plug-in manager for vim.
-url: https://github.com/gmarik/Vundle.vim
+url: https://github.com/VundleVim/Vundle.vim
