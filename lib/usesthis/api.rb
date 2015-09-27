@@ -95,7 +95,7 @@ module UsesThis
 
       file.filename = filename
       file.extension = 'json'
-      file.contents = Oj.dump(contents)
+      file.contents = Oj.dump(contents, indent: 2)
 
       file.write(path, false)
     end
