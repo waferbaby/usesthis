@@ -1,16 +1,12 @@
 module UsesThis
   class API
     VERSION = "1"
+    @site = nil
 
-    attr_accessor :site
-    attr_accessor :path
-
-    def initialize(site)
+    def self.generate(site)
       @site = site
-      @path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
-    end
+      output_path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
 
-    def generate
       paths = [
         'interviews',
         'hardware',
@@ -19,12 +15,12 @@ module UsesThis
       ]
 
       paths.each do |type|
-        FileUtils.mkdir_p(File.join(@path, type))
+        FileUtils.mkdir_p(File.join(output_path, type))
       end
 
-      generate_interviews
-      generate_interview_categories
-      generate_gear
+      generate_interviews(output_path)
+      generate_interview_categories(output_path)
+      generate_gear(output_path)
 
     rescue Dimples::Errors::RenderingError, Dimples::Errors::PublishingError => e
       puts "API error: Failed to generate #{e.file}: #{e.message}"
@@ -32,8 +28,10 @@ module UsesThis
       puts "API error: #{e}"
     end
 
-    def generate_interviews
-      path = File.join(@path, 'interviews')
+    private
+
+    def self.generate_interviews(output_path)
+      path = File.join(output_path, 'interviews')
       interviews = []
 
       @site.posts.each do |interview|
@@ -49,8 +47,8 @@ module UsesThis
       generate_json_file(path, 'index', {interviews: interviews})
     end
 
-    def generate_interview_categories
-      path = File.join(@path, 'interviews', 'categories')
+    def self.generate_interview_categories(output_path)
+      path = File.join(output_path, 'interviews', 'categories')
       category_slugs = []
 
       @site.categories.each_value do |category|
@@ -72,9 +70,9 @@ module UsesThis
       generate_json_file(path, 'index', {categories: category_slugs.sort!})
     end
 
-    def generate_gear
+    def self.generate_gear(output_path)
       %w{hardware software}.each do |type|
-        path = File.join(@path, type)
+        path = File.join(output_path, type)
         gear = []
 
         @site.send("#{type}").each do |slug, ware|
@@ -92,7 +90,7 @@ module UsesThis
       end
     end
 
-    def generate_json_file(path, filename, contents)
+    def self.generate_json_file(path, filename, contents)
       file = @site.page_class.new(@site)
 
       file.filename = filename
