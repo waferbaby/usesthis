@@ -4,6 +4,7 @@ summary: Actor, voice actor (Bastion)
 categories:
 - actor
 - game
+- voice
 - windows
 ---
 
