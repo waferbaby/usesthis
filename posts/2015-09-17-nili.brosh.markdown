@@ -11,7 +11,7 @@ I'm [Nili Brosh](http://www.nilibrosh.com/ "Nili's website."), and I am an instr
 
 #### What hardware do you use?
 
-For my recording setup, I have an old-school [Motu UltraLite-mk3][ultralite-mk3] as my interface, with [KRK Rokit 8 monitors][rokit-8]. One of my favorite microphones to use is the [SE Electronics Voodoo VR1][voodoo-vr1], which I often use in conjunction with a [Sennheiser MD 421-II mic][md-421-ii] or a [Shure SM57][sm57]. As for my instruments, I have a variety of Ibanez 7-string guitars ([RG Prestige 2727FZ][rg-prestige-2727fz], [RG Premium 927][rg-premium-927], and an [RG Prestige 1527m][rg-prestige-1527m]. I use them through my Peavey JSX head and Egnater Tourmaster cabinet. I also run an Xotic effects EP Booster pedal through the front of the amp when recording.
+For my recording setup, I have an old-school [Motu UltraLite-mk3][ultralite-mk3] as my interface, with [KRK Rokit 8 monitors][rokit-8]. One of my favorite microphones to use is the [SE Electronics Voodoo VR1][voodoo-vr1], which I often use in conjunction with a [Sennheiser MD 421-II mic][md-421-ii] or a [Shure SM57][sm57]. As for my instruments, I have a variety of Ibanez 7-string guitars ([RG Prestige 2727FZ][rg-prestige-2727fz], [RG Premium 927][rg-premium-927], and an [RG Prestige 1527m][rg-prestige-1527m]. I use them through my [Peavey JSX Head][jsx-head] and Egnater Tourmaster cabinet. I also run an [Xotic effects EP Booster pedal][ep-booster] through the front of the amp when recording.
 
 #### And what software?
 
