@@ -40,4 +40,4 @@ File.open(file_path, 'w') do |file|
   file.write(output)
 end
 
-`open #{file_path}`
+`subl ~/Development/usesthis && subl #{file_path}`
