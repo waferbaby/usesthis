@@ -6,7 +6,7 @@ require 'dimples'
 source_path = File.dirname(__dir__)
 $:.unshift(source_path)
 
-require File.join(source_path, 'lib', 'usesthis', 'interview')
+require 'lib/usesthis'
 
 abort("You must supply a name for the interviewee.") if ARGV.length < 2
 
