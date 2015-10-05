@@ -1,7 +1,6 @@
 ---
 name: Loren Bouchard
 summary: Creator of Bob's Burgers
-draft: true
 categories:
 - mac
 - musician
