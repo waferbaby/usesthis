@@ -230,11 +230,13 @@ font-size: 80%;
 }
 
 pre {
-padding: 20px;
+padding: 10px;
 margin: 0 0 20px 0;
-font-size: 85%;
+font-size: 80%;
 background-color: #eee;
 color: #767676;
+border: solid 1px #ddd;
+overflow: scroll;
 }
 
 section#links div {
