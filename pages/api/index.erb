@@ -7,6 +7,22 @@ title: API
   <h3>API</h3>
   <p>The Setup provides a very simple JSON-based API. I'd love to know if you do something interesting with it!</p>
 
+  <h4>Methods</h4>
+
+  <h5>Interviews</h5>
+  <ul>
+    <li><a href="#interviews-list" title="Request a list of all the interviews as JSON.">Getting a list</a></li>
+    <li><a href="#interviews-interview" title="Request a given interview as JSON.">Getting an interview</a></li>
+    <li><a href="#interviews-categories" title="Request a list of all the interview categories as JSON.">Getting categories</a></li>
+    <li><a href="#interviews-category" title="Request a list of a category's interviews as JSON.">Getting a category</a></li>
+  </ul>
+
+  <h5>Gear</h5>
+  <ul>
+    <li><a href="#gear-list" title="Request a list of all the hardware or software as JSON.">Getting a list</a></li>
+    <li><a href="#gear-item" title="Request a given piece of hardware or software as JSON.">Getting an item</a></li>
+  </ul>
+
   <h4 id="interviews">Interviews</h4>
 
   <h5 id="interviews-list">Getting a list</h5>
@@ -128,7 +144,7 @@ title: API
 
   <h4 id="gear">Gear</h4>
 
-  <h5 id="hardware">Getting a list</h5>
+  <h5 id="gear-list">Getting a list</h5>
   <p class="summary">This method returns a basic list of all the hardware or software mentioned on the site. Note that these will be <em>quite large</em>.</p>
   <p>
     Requesting (GET):<br>
@@ -146,7 +162,7 @@ title: API
   ]
 }</pre>
 
-  <h5 id="hardware-item">Getting an item</h5>
+  <h5 id="gear-item">Getting an item</h5>
   <p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
   <p>
     Requesting (GET):<br>
