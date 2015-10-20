@@ -12,7 +12,7 @@
     <% if @pagination[:next_page] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
   <% end %>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @interview %>, <%= @interview.categories.keys.join(', ') %><% end %>">
