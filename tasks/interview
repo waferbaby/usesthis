@@ -12,9 +12,17 @@ abort("You must supply a name for the interviewee.") if ARGV.length < 2
 
 name = ARGV.join(' ')
 slug = name.downcase.gsub(/ /, '.')
-date = UsesThis::Interview.next_date
 
-file_path = File.join(source_path, 'posts', "#{date.strftime('%Y-%m-%d')}-#{slug}.markdown")
+interviews = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
+latest_interview = interviews.reverse.first
+next_date = Date.parse(File.basename(latest_interview).match(/\d{4}-\d{2}-\d{2}/).to_s).next_day
+
+loop do
+  break if next_date.strftime('%a') =~ /Tue|Thu/
+  next_date = next_date.next_day
+end
+
+file_path = File.join(source_path, 'posts', "#{next_date.strftime('%Y-%m-%d')}-#{slug}.markdown")
 abort("Interview already exists for #{slug}.") if File.exists?(file_path)
 
 output = <<OUTPUT
