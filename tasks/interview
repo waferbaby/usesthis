@@ -14,8 +14,8 @@ name = ARGV.join(' ')
 slug = name.downcase.gsub(/ /, '.')
 
 interviews = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
-latest_interview = interviews.reverse.first
-next_date = Date.parse(File.basename(latest_interview).match(/\d{4}-\d{2}-\d{2}/).to_s).next_day
+latest_date = File.basename(interviews.reverse.first).match(/\d{4}-\d{2}-\d{2}/)[0]
+next_date = Date.parse(latest_date).next_day
 
 loop do
   break if next_date.strftime('%a') =~ /Tue|Thu/
