@@ -79,18 +79,5 @@ module UsesThis
 
       output
     end
-
-    def self.next_date
-      date = Time.now.to_date
-      found_day = false
-
-      while !found_day
-        unless found_day = (date.strftime('%a') =~ /Tue|Thu/)
-          date = date.next_day
-        end
-      end
-
-      date
-    end
   end
 end
