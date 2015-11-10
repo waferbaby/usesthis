@@ -1,6 +1,6 @@
 ---
 name: Alice Bartlett
-summary: Web developer (Financial Times, Tampon Club)
+summary: Web developer (Financial Times), founder (Tampon Club)
 categories:
 - developer
 - mac
