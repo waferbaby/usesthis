@@ -14,7 +14,7 @@ My name is Jesse von Doom. Mostly I swear a lot on [Twitter](https://twitter.com
 
 #### What hardware do you use?
 
-I use a 2010-era [MacBook Pro][macbook-pro]. My kids cover it in fingerprints and snacks and shit to show me how much they love me. They love me a lot. It's pretty disgusting. The machine itself came from a friend. He saw me working on a crazy old laptop and the new one materialized. I don't ask questions. Funny thing is that's how I got the crazy old one before it. The last laptop I bought was one of those [iBooks][ibook] that looked like Apple was subcontracting out to [TOMY](http://andrewjwildey.files.wordpress.com/2011/10/safariscreensnapz002.jpg "A picture of a child's toy.") or maybe whoever built [Speak and Spells][speak-and-spell]
+I use a 2010-era [MacBook Pro][macbook-pro]. My kids cover it in fingerprints and snacks and shit to show me how much they love me. They love me a lot. It's pretty disgusting. The machine itself came from a friend. He saw me working on a crazy old laptop and the new one materialized. I don't ask questions. Funny thing is that's how I got the crazy old one before it. The last laptop I bought was one of those [iBooks][ibook] that looked like Apple was subcontracting out to [TOMY](http://andrewjwildey.files.wordpress.com/2011/10/safariscreensnapz002.jpg "A picture of a child's toy.") or maybe whoever built [Speak and Spells.][speak-and-spell]
   
 But the laptop is important. My office is either a kitchen table or a desk in my garage - depending on [my router](http://support.radioshack.com/support_electronics/doc66/images%5C20-226.jpg "A picture of a radio."). Sometimes it's a dick and won't broadcast far enough for the garage. I don't remember what kind of router it is, but it really is kind of a dick.
   
@@ -24,7 +24,7 @@ Oh and Sonos. Holy shit Sonos. I'm seriously considering adding "save the Sonos 
 
 #### And what software?
 
-For software I mostly just use [Sublime Text 2][sublime-text] editing [PHP][] and [JS][javascript], [Photoshop CS6][photoshop] when it's time to make pictures, and [Firefox][] / [Chrome][] for browser testing. (I have a strict "fuck you, [IE][internet-explorer]" policy.) [Slack][] rules everything around me. I've been playing with [Vagrant][] a lot lately - made our main platform repo play nice with a "vagrant up" so I can have a fresh install whenever I need one. And we host things at [Rackspace][] - they've been great, sponsoring the hosted version of our platform so we don't get crushed by hosting bills. 
+For software I mostly just use [Sublime Text 2][sublime-text] editing [PHP][] and [JS][javascript], [Photoshop CS6][photoshop] when it's time to make pictures, and [Firefox][] / [Chrome][] for browser testing. (I have a strict "fuck you, [IE][internet-explorer]" policy.) [Slack][] rules everything around me. I've been playing with [Vagrant][] a lot lately - made our main platform repo play nice with a "vagrant up" so I can have a fresh install whenever I need one. And we host things at [Rackspace][] - they've been great, sponsoring the hosted version of our platform so we don't get crushed by hosting bills.
 
 #### What would be your dream setup?
 
