@@ -29,7 +29,7 @@ I use [OS X][mac-os-x]. I use [Atom][] for code editing. I'm not sure I love it,
 
 I have very pedestrian tastes in software: [Twitter for Mac][twitter-mac], [Chrome][], and I love [Instagram][instagram-ios]. It's the social network where people show their best selves. I get to see things my friends have made, places they're visiting, funny visual gags. I use [Tumblr][] for sharing things I've sewn.
 
-I'm still sad about [Google Reader][google-reader]. I use [The Old Reader][the-old-reader] to keep up mith my friend's blog posts now, but it's not as good.
+I'm still sad about [Google Reader][google-reader]. I use [The Old Reader][the-old-reader] to keep up with my friend's blog posts now, but it's not as good.
 
 I wrote my personal site in [Ruby][] using [Sinatra][]. It's a very rudimentary blog.
 
