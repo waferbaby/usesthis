@@ -51,7 +51,7 @@ I rely heavily on keyboard shortcuts for my favourite applications. In fact, mos
 In addition to these major parts of my working environment, I lean on a number of tools, programming languages, message queues, and database systems to build my software. To name a few:
 
 - Tools: [rsync][], [ssh][], [git][], [TrueCrypt][], [Lsyncd][], [ranger][], [tinc][]
-- Languages: [bash][], [Python][], [Javascript][] ([nodejs][node.js]), [Lua][], [Go][], [C][], [PHP][]
+- Languages: [bash][], [Python][], [JavaScript][] ([nodejs][node.js]), [Lua][], [Go][], [C][], [PHP][]
 - MQ and DB: [Redis][], [RabbitMQ][], [ZeroMQ][], [MySQL][], [Postgres][postgresql], [SQLite][]
 
 #### What would be your dream setup?

@@ -21,7 +21,7 @@ For reading I have a [Kindle][], and for photography I have an old beat-up [Cano
 
 #### And what software?
 
-Most of my time is spent writing code, so that happens almost exclusively in [Sublime Text 2][sublime-text]. I make things for the web, so [Javascript][] is the go-to language. The majority of my projects are written with [d3.js][], but I've made some recent forays into WebGL. My preferred browser is [Chrome][], but I've also got [Safari][], [Firefox][], and [VirtualBox][] to run [IE][internet-explorer] 9/8/7. For the design/photography side of things, I use [Illustrator][], [Photoshop][], and [Lightroom][].
+Most of my time is spent writing code, so that happens almost exclusively in [Sublime Text 2][sublime-text]. I make things for the web, so [JavaScript][] is the go-to language. The majority of my projects are written with [d3.js][], but I've made some recent forays into WebGL. My preferred browser is [Chrome][], but I've also got [Safari][], [Firefox][], and [VirtualBox][] to run [IE][internet-explorer] 9/8/7. For the design/photography side of things, I use [Illustrator][], [Photoshop][], and [Lightroom][].
 
 [Gmail][], [Google Docs][google-docs], [iCal][], and [Dropbox][] are my essential organizational tools. I have no idea how Meshu would even function if we didn't have Dropbox to sync and keep track of all the different files.
 

@@ -10,7 +10,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is [Mary Rose Cook](http://maryrosecook.com/ "Mary's website."). I write code and make music. Most recently, I made a game in JavaScript called [Pistol Slut](http://pistolslut.com/ "Mary's Javascript game.") and recorded an EP called [10997](http://maryrosecookmusic.com/ "Mary's music website.") on my phone in the kitchen of my old apartment in Berlin.
+My name is [Mary Rose Cook](http://maryrosecook.com/ "Mary's website."). I write code and make music. Most recently, I made a game in JavaScript called [Pistol Slut](http://pistolslut.com/ "Mary's JavaScript game.") and recorded an EP called [10997](http://maryrosecookmusic.com/ "Mary's music website.") on my phone in the kitchen of my old apartment in Berlin.
 
 #### What hardware do you use?
 

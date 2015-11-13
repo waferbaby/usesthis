@@ -24,7 +24,7 @@ Oh and Sonos. Holy shit Sonos. I'm seriously considering adding "save the Sonos 
 
 #### And what software?
 
-For software I mostly just use [Sublime Text 2][sublime-text] editing [PHP][] and [JS][javascript], [Photoshop CS6][photoshop] when it's time to make pictures, and [Firefox][] / [Chrome][] for browser testing. (I have a strict "fuck you, [IE][internet-explorer]" policy.) [Slack][] rules everything around me. I've been playing with [Vagrant][] a lot lately - made our main platform repo play nice with a "vagrant up" so I can have a fresh install whenever I need one. And we host things at [Rackspace][] - they've been great, sponsoring the hosted version of our platform so we don't get crushed by hosting bills. 
+For software I mostly just use [Sublime Text 2][sublime-text] editing [PHP][] and [JS][JavaScript], [Photoshop CS6][photoshop] when it's time to make pictures, and [Firefox][] / [Chrome][] for browser testing. (I have a strict "fuck you, [IE][internet-explorer]" policy.) [Slack][] rules everything around me. I've been playing with [Vagrant][] a lot lately - made our main platform repo play nice with a "vagrant up" so I can have a fresh install whenever I need one. And we host things at [Rackspace][] - they've been great, sponsoring the hosted version of our platform so we don't get crushed by hosting bills. 
 
 #### What would be your dream setup?
 

@@ -43,14 +43,14 @@ Sonos sound system for listening to music.
 I write books using XML markup in emacs (nxml mode), and run the text
 through the spell checker ([aspell][]) and the Mac voice synthesizer.
 
-I write code in Emacs - I don't use any IDEs and use printf debugging, apart from [Javascript][] which I run in the [Chrome][] browser.
+I write code in Emacs - I don't use any IDEs and use printf debugging, apart from [JavaScript][] which I run in the [Chrome][] browser.
 
 I use [GitHub][] for collaborative projects, [Dropbox][] to transfer files between my work machines, and Dreamhost for backup and private
 projects.
 
 I use [git][] and [svn][subversion] for version control.
 
-I use Erlang, bash scripts, Javascript, [C][], [Prolog][], various [Lisps][lisp] and makefiles for most programming projects. 
+I use Erlang, bash scripts, JavaScript, [C][], [Prolog][], various [Lisps][lisp] and makefiles for most programming projects. 
 
 [Evernote][] for a web clipbook, and [Chandler][] to organise jobs.
 

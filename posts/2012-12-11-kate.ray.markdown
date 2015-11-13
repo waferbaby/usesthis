@@ -8,7 +8,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-Kate Ray ([@kraykray](http://twitter.com/kraykray "Kate's Twitter account.")), technical co-founder of [scroll kit][scroll-kit], [Ruby][]/[Javascript][] coder. Also made some stuff like this [documentary](http://vimeo.com/11529540 "Kate's Semantic Web documentary on Vimeo.") on the semantic web, and this app [TeachYourselfToCode](http://teachyourselftocode.com/ "A site that does what it says in the URL."). I'm into tools that make people creators.
+Kate Ray ([@kraykray](http://twitter.com/kraykray "Kate's Twitter account.")), technical co-founder of [scroll kit][scroll-kit], [Ruby][]/[JavaScript][] coder. Also made some stuff like this [documentary](http://vimeo.com/11529540 "Kate's Semantic Web documentary on Vimeo.") on the semantic web, and this app [TeachYourselfToCode](http://teachyourselftocode.com/ "A site that does what it says in the URL."). I'm into tools that make people creators.
 
 #### What hardware do you use?
 

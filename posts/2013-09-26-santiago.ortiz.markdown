@@ -32,7 +32,7 @@ My favorite gadget is, without a doubt, the [Kindle][], and I'll soon update it 
 
 #### And what software?
 
-I use the development tool [Aptana Studio 3][studio-3] to code all my projects. I code in [Javascript][] and use my own framework which is actually my main software. I'm not completely satisfied with Aptana (it's slow), but I'm not sure there are better options (perhaps I'm waiting to change computers to see things working better magically?). 
+I use the development tool [Aptana Studio 3][studio-3] to code all my projects. I code in [JavaScript][] and use my own framework which is actually my main software. I'm not completely satisfied with Aptana (it's slow), but I'm not sure there are better options (perhaps I'm waiting to change computers to see things working better magically?). 
 
 I often create my own tailor-made software. For instance: I have created a freelancer projects manager application, which of course contains visualizations of how I'm doing with schedules, intensity of work, milestones, deliveries, money, and also travel and work and personal events (Could it be a product to be used by others? Maybe).
 

@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm [Alice Bartlett](http://www.alicebartlett.co.uk/ "Alice's website."). I've just left my job as a Senior Developer at the [Government Digital Service](https://www.gov.uk/ "The UK government's main website.") in the UK, to start working for the [Financial Times](http://www.ft.com/home/uk "The UK version of the Financial Times."). Mostly I write HTML/CSS and [Javascript][]. I like the bit of the web where code meets humans.
+I'm [Alice Bartlett](http://www.alicebartlett.co.uk/ "Alice's website."). I've just left my job as a Senior Developer at the [Government Digital Service](https://www.gov.uk/ "The UK government's main website.") in the UK, to start working for the [Financial Times](http://www.ft.com/home/uk "The UK version of the Financial Times."). Mostly I write HTML/CSS and [JavaScript][]. I like the bit of the web where code meets humans.
 
 I also sew my own clothes sometimes - results at [sewing.butt.kitchen](http://sewing.butt.kitchen/ "Alice's sewing site."). I'm also the founder of lady-bung empowerment franchise [Tampon Club](http://www.tampon.club/ "A community group providing tampons for offices.").
 
@@ -25,7 +25,7 @@ There isn't a lot of hardware involved in Tampon Club, unless you count tampons.
 
 #### And what software?
 
-I use [OS X][mac-os-x]. I use [Atom][] for code editing. I'm not sure I love it, but it gets the job done. It's pretty wild that my code editor is written in Javascript - I guess that just means I'm old.
+I use [OS X][mac-os-x]. I use [Atom][] for code editing. I'm not sure I love it, but it gets the job done. It's pretty wild that my code editor is written in JavaScript - I guess that just means I'm old.
 
 I have very pedestrian tastes in software: [Twitter for Mac][twitter-mac], [Chrome][], and I love [Instagram][instagram-ios]. It's the social network where people show their best selves. I get to see things my friends have made, places they're visiting, funny visual gags. I use [Tumblr][] for sharing things I've sewn.
 

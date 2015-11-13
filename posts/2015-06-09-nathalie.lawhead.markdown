@@ -43,7 +43,7 @@ Now I have a nice [iMac][], but I still miss that machine. Not that I'm against 
 
 I enjoy working with anything AI. I've used [Program E][program-e], AIML, a lot for silly little extras. I'm hoping to have time to set up [Caffe][] (deep learning framework) and incorporate that somehow.
 
-Things I use/do almost daily is [PHP][], [Javascript][], [MySQL][], HTML, [ActionScript][].. It's all so fun. I love it.
+Things I use/do almost daily is [PHP][], [JavaScript][], [MySQL][], HTML, [ActionScript][].. It's all so fun. I love it.
 
 #### What would be your dream setup?
 

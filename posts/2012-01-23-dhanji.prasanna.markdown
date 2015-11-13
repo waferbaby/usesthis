@@ -25,7 +25,7 @@ I have an [iPad 2][ipad-2] and love it dearly, but don't use it much. I carry an
 
 #### And what software?
 
-Most of the software I write is in [Java][] and usually meant to run in servers. So I use [IntelliJ IDEA][intellij-idea], which is a Java and Javascript IDE. It is really the best desktop software I have ever used, and is my favorite app bar none. You can rename CSS classes in an HTML file and they get changed in templates and in Javascript. It can detect a CSS code fragment *in* an HTML style tag *in* a Javascript string, and autocomplete it correctly against your imported stylesheets. This is mindblowingly awesome stuff. I simply don't get the text editor wars of [TextMate][] vs [Sublime][sublime-text], etc. As far as I'm concerned this is like arguing about which is the better hand-pulled rickshaw when an anti-gravity hovercraft is sitting nearby.
+Most of the software I write is in [Java][] and usually meant to run in servers. So I use [IntelliJ IDEA][intellij-idea], which is a Java and JavaScript IDE. It is really the best desktop software I have ever used, and is my favorite app bar none. You can rename CSS classes in an HTML file and they get changed in templates and in JavaScript. It can detect a CSS code fragment *in* an HTML style tag *in* a JavaScript string, and autocomplete it correctly against your imported stylesheets. This is mindblowingly awesome stuff. I simply don't get the text editor wars of [TextMate][] vs [Sublime][sublime-text], etc. As far as I'm concerned this is like arguing about which is the better hand-pulled rickshaw when an anti-gravity hovercraft is sitting nearby.
 
 (Having said that I still am quite fond of [TextWrangler][] =)
 

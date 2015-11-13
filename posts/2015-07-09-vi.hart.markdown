@@ -97,7 +97,7 @@ For sound production, I love [Audacity][]. I think Audacity is the only piece of
 
 [VLC media player][vlc] for playing sound and flat video. For spherical stuff, besides our own [eleVR player](http://player.elevr.com "The eleVR player."), we use [Kolor Eyes][kolor-eyes] and the Ricoh Theta player, and [VR Player for Android][vr-player-android]. Sometimes all four at once, plus a long list of other things less often. Ask me again in six months and I guarantee it'll all have changed.
 
-I regularly spend time with my eyes on [Maya][], [Blender][], Unity, and [VideoStitch][], though usually it's someone on my team who is actually the user of those programs while I just poke and comment, or stare blankly at the interface on my computer for a bit before deciding doing it by hand in [Javascript][] would be easier.
+I regularly spend time with my eyes on [Maya][], [Blender][], Unity, and [VideoStitch][], though usually it's someone on my team who is actually the user of those programs while I just poke and comment, or stare blankly at the interface on my computer for a bit before deciding doing it by hand in [JavaScript][] would be easier.
 
 I use, quite often, whatever built-in program the MacBook has for taking screenshots. I take a lot of screenshots, carefully composed and cropped, of our video and VR work, mostly for tweets and blogposts. I spend a lot of time in [WordPress][] writing tech posts.
 

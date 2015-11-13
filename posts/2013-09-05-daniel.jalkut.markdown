@@ -32,7 +32,7 @@ As a software developer, some of my most beloved apps are the ones I wrote mysel
 
 I spend most of my development time in Apple's programming IDE, [Xcode][], but I also spend a considerable amount of time handling customer support in [Safari][], my web browser of choice. Not only do I use Safari for web browsing, but also for handling customer support with [FogBugz][]. I also spend time in Safari on my company forums, which are powered with [Vanilla][].
 
-For text editing that is not specifically related to programming the Mac and iOS, I rely heavily upon [BBEdit][], where I do most of my [Python][], HTML, [Javascript][] and [PHP][] editing. These are the primary languages I use for the development of my company web site.
+For text editing that is not specifically related to programming the Mac and iOS, I rely heavily upon [BBEdit][], where I do most of my [Python][], HTML, [JavaScript][] and [PHP][] editing. These are the primary languages I use for the development of my company web site.
 
 I use [OmniFocus][] on both my Mac and [iOS][omnifocus-ios] to keep my To-Do lists in check. I mentioned FastScripts for running quick scripts, but I also use [TextExpander][] extensively, particularly for accelerating responses to customer support email. All my customer support goes through FogBugz on the web, but for personal mail I have stuck with Apple's [Mail.app][mail] and the aforementioned SpamSieve.
 

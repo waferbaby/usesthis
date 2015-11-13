@@ -38,9 +38,9 @@ It's just habit, is all. I set up my email in 1995 and I haven't *really* had a 
 
 It's not all Terminal *all* the time. My text editing slides back and forth between [Emacs][] and [TextWrangler][]; neither is dispensable. I keep [iChat][] running (for Jabber), and also [Tweetie][] (it hasn't been updated in forever, but it's good enough for my low-level [Twitter usage](http://twitter.com/zarfeblong "Andrew's Twitter account.")). Music and TV shows are set up in [iTunes][], with [Audio Hijack Pro][audio-hijack-pro] to redirect music out a USB port. (Yeah, I could use Apple's Airplay rather than a third-party app. Maybe next year.)
 
-Let me say more about my web-browsing habits. I use Lynx for moment-to-moment browsing. It's all-text, fixed font, black-on-white, no Javascript or Flash or blinking or borders... it's just *more comfortable* to read blogs and news articles this way. Practically every web page degrades gracefully to this style. Why should I allow the design clutter of the Web to intrude on me? This even goes for webcomics; I have Lynx set up to download selected images and display them in [Preview][].
+Let me say more about my web-browsing habits. I use Lynx for moment-to-moment browsing. It's all-text, fixed font, black-on-white, no JavaScript or Flash or blinking or borders... it's just *more comfortable* to read blogs and news articles this way. Practically every web page degrades gracefully to this style. Why should I allow the design clutter of the Web to intrude on me? This even goes for webcomics; I have Lynx set up to download selected images and display them in [Preview][].
 
-But when I *do* want to see a full web site, design and all, I fire up [iCab][] or [Safari][]. Both are perfectly nice web browsers. The difference is on my end: I keep Javascript turned off in iCab, and on in Safari. It's an incremental capability thing -- I'll use iCab until Javascript becomes necessary, and then switch to Safari. Probably this brands me a hopeless Internet codger, but Javascript is involved in most web security problems, so I just don't default to it.
+But when I *do* want to see a full web site, design and all, I fire up [iCab][] or [Safari][]. Both are perfectly nice web browsers. The difference is on my end: I keep JavaScript turned off in iCab, and on in Safari. It's an incremental capability thing -- I'll use iCab until JavaScript becomes necessary, and then switch to Safari. Probably this brands me a hopeless Internet codger, but JavaScript is involved in most web security problems, so I just don't default to it.
 
 (To be a really consistent codger, I'd install [ClickToFlash][]. It's on my list.)
 
@@ -50,7 +50,7 @@ For graphics? [Gimp][], [Inkscape][], and occasionally (although not for any cur
 
 Programming? [Xcode][] for the iPhone work; [Inform 7][inform] for text adventures; everything else is Emacs and a command line.
 
-Oh, I guess I should include the iPad software. I use [iCab Mobile][icab-ios] there too. (The Javascript on/off plan doesn't work as well on the iPad, since so many apps embed WebKit. But I try.)
+Oh, I guess I should include the iPad software. I use [iCab Mobile][icab-ios] there too. (The JavaScript on/off plan doesn't work as well on the iPad, since so many apps embed WebKit. But I try.)
 
 I also have [iSSH][issh-ios] on the iPad (and iPhone, etc). That lets me ssh into a server and run Emacs over 3G. Yes, this is my greatest computer dream. Emacs anywhere! (And Pine! See, I *can* read email remotely after all.) Control-key combos on the iPad aren't *great*... well, to be honest, they're pretty damn awkward. But I can get *emergency* work done.
 

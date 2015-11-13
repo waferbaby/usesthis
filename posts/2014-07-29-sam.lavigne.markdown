@@ -24,7 +24,7 @@ I do most of my programming in [MacVim][] with the [Janus][] setup. Janus is a g
 
 I use [Homebrew][] for software package management, [iTerm][iterm2] instead of the default Mac terminal, [VLC][] for playing and recording video streams, [FFmpeg][] for other video tasks, [Calibre][] for dealing with ebooks, and [Git][] and [GitHub][] for version control. I also use [DropBox][] a lot, although I'd prefer not to move to something self-hosted and open source. My blog is self-hosted in [Wordpress][] with a caching plugin called WP Fastest Cache that helps deal with spikes in traffic. I take notes on [Simplenote][], with their [client app][simplenote-ios] on my phone and [NVAlt][] on my laptop. I also use [Zephyros][] for window management.
 
-In terms of programming languages and libraries, I like to work in [Python][], [Javascript][] and [Ruby][], lately primarily Python if I can because I love using libraries like [Pattern][pattern.en] (a great, easy-to-use natural language library), [MoviePy][] (for video compositing), and [BeautifulSoup][] (for web scraping). I also use [Processing][] and [p5js][] for more visual work. 
+In terms of programming languages and libraries, I like to work in [Python][], [JavaScript][] and [Ruby][], lately primarily Python if I can because I love using libraries like [Pattern][pattern.en] (a great, easy-to-use natural language library), [MoviePy][] (for video compositing), and [BeautifulSoup][] (for web scraping). I also use [Processing][] and [p5js][] for more visual work. 
 
 #### What would be your dream setup?
 
