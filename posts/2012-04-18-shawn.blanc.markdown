@@ -54,7 +54,7 @@ Simplenote: When I am writing on my iPad, it almost certainly via Simplenote. It
 
 **On the Mac:**
 
-[MarsEdit:][marsedit] This is, by far, my most used app on my Mac. [It is at the center of my blogging workflow](http://shawnblanc.net/2008/01/marsedit-review/ "Shawn's review of MarsEdit.") and I am thankful for it. Each day I usually publish several links of cool or interesting things to my website. With MarsEdit there is a JavaScript Bookmarklet that I keep in Safari. When I am on a Web page that I want to link to, I click the bookmarklet and it will open up MarsEdit with much of the information ready to go. 
+[MarsEdit:][marsedit] This is, by far, my most used app on my Mac. [It is at the center of my blogging workflow](http://shawnblanc.net/2008/01/marsedit-review/ "Shawn's review of MarsEdit.") and I am thankful for it. Each day I usually publish several links of cool or interesting things to my website. With MarsEdit there is a [JavaScript][] Bookmarklet that I keep in Safari. When I am on a Web page that I want to link to, I click the bookmarklet and it will open up MarsEdit with much of the information ready to go. 
 
 I also regularly write long-form articles. sometimes these get written in MarsEdit, but sometimes they've been written in another app. But regardless of where they originated, once they're ready they get previewed and published to my website via MarsEdit.
 

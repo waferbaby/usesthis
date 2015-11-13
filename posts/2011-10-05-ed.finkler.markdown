@@ -13,7 +13,7 @@ credits:
 
 #### Who are you, and what do you do?
 
-I'm Ed Finkler, but you may also know me as [funkatron](http://funkatron.com/ "Ed's website."). I've been a web developer for about 15 years now. Primarily I work in PHP, but most of my career I've been a one-man web team, so I have dabbled in everything from DB administration to backend dev to design. In the past few years I've gotten heavily into desktop and mobile application with JavaScript. Four years ago I started a successful open source microblogging project called [Spaz][], for desktop and mobile. My day job is making awesome stuff at [FictiveKin](http://fictivekin.com "The company that makes Gimme Bar"), primarily on [Gimme Bar][gimme-bar].
+I'm Ed Finkler, but you may also know me as [funkatron](http://funkatron.com/ "Ed's website."). I've been a web developer for about 15 years now. Primarily I work in PHP, but most of my career I've been a one-man web team, so I have dabbled in everything from DB administration to backend dev to design. In the past few years I've gotten heavily into desktop and mobile application with [JavaScript][]. Four years ago I started a successful open source microblogging project called [Spaz][], for desktop and mobile. My day job is making awesome stuff at [FictiveKin](http://fictivekin.com "The company that makes Gimme Bar"), primarily on [Gimme Bar][gimme-bar].
 
 #### What hardware do you use?
 
@@ -46,7 +46,7 @@ I also collect old computers and game consoles, but this interview is already lo
 
 In the past 6 months, [Sublime Text 2][sublime-text] has become my primary code editor. It has a lot of similarities to TextMate, but it's being actively developed so it has some really nice additional features, like split windows, much better large file handling, and faster search across files.
 
-[TextMate][] still has a bit more polish in some areas that I appreciate (especially the JavaScript Tools bundle), and I do use it for a few tasks here and there.
+[TextMate][] still has a bit more polish in some areas that I appreciate (especially the [JavaScript][] Tools bundle), and I do use it for a few tasks here and there.
 
 I do a lot of still in the CLI, and [iTerm2][iterm2] is a great replacement for the standard Terminal. Split windows, hotkey bring-to-front, Quake-style drop down console, and [Growl][] support are all things I get a lot of use out of with iTerm2.
 

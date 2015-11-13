@@ -13,7 +13,7 @@ credits:
 
 #### Who are you, and what do you do?
 
-[I'm](http://ejohn.org/ "John's website.") a JavaScript programmer. I work for [Khan Academy](http://www.khanacademy.org/ "An open education source."), developing a next generation educational platform. I'm the creator and lead developer of the [jQuery][] JavaScript library and the author of two books on JavaScript: Pro JavaScript Techniques and Secrets of the JavaScript Ninja.
+[I'm](http://ejohn.org/ "John's website.") a [JavaScript][] programmer. I work for [Khan Academy](http://www.khanacademy.org/ "An open education source."), developing a next generation educational platform. I'm the creator and lead developer of the [jQuery][] JavaScript library and the author of two books on JavaScript: Pro JavaScript Techniques and Secrets of the JavaScript Ninja.
 
 #### What hardware do you use?
 

@@ -22,7 +22,7 @@ I just retired my old [Sony Ericsson Z750][z750i] flip phone in favor of an [iPh
 
 #### And what software?
 
-I used [Scrivener][] to write my book, it's the best thing there is. I'm using an old version of [Taco HTML edit][taco-html-edit] to write this because it's bog-simple and does exactly what I want. I made [my own PowerPoint emulator](http://www.librarian.net/stax/1286/presentations-without-powerpoint-how-i-do-it/ "Jessaymn's web-based slides tool.") out of some CSS and JavaScript but now I mostly use [Keynote][]. I run nearly all my websites in some version of [WordPress][]. My preferred ILS is [Koha][].
+I used [Scrivener][] to write my book, it's the best thing there is. I'm using an old version of [Taco HTML edit][taco-html-edit] to write this because it's bog-simple and does exactly what I want. I made [my own PowerPoint emulator](http://www.librarian.net/stax/1286/presentations-without-powerpoint-how-i-do-it/ "Jessaymn's web-based slides tool.") out of some CSS and [JavaScript][] but now I mostly use [Keynote][]. I run nearly all my websites in some version of [WordPress][]. My preferred ILS is [Koha][].
 
 I run [old versions](http://lastyearsmodel.org/ "'Saving the planet through sheer laziness.'") of the usual software. I like open source philosophically, but I'm not culty about it. I think I'm still using [Photoshop Elements 3][photoshop-elements] when I'm not just editing photos in [iPhoto][]. Haven't found [OpenOffice][] to be more useful for me than the old [MS Office Suite][office]. [Firefox][] is my main browser but I sometimes teach classes in how to use [Safari][]. I love how speedy [Chrome][] is but the favicons on the bookmark bar give me the fidgets.
 

@@ -66,7 +66,7 @@ I used emacs ([Aquamacs][]) for eleven years for editing text and code. To get a
 
 I spend a lot of the time at the console, so I wrote scripts to [automatically adapt my shell to the tasks I execute most frequently](http://matt.might.net/articles/console-hacks-exploiting-frequency/ "Matt's post on console frequency hacks."). Since I also do a lot of writing and editing, I also wrote [shell scripts that catch bugs in my writing](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/ "Matt's article on shell scripts for improved writing").
 
-My personal site and blog run off a homebrewed, slowly-evolved collection of shell scripts, Makefiles, HTML, CSS and JavaScript.
+My personal site and blog run off a homebrewed, slowly-evolved collection of shell scripts, Makefiles, HTML, CSS and [JavaScript][].
 
 For creating technical and scientific documents, I use exclusively [LaTeX][], and manage all of my citations with [citeulike][] exporting to [BibTeX][].
 

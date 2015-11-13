@@ -26,7 +26,7 @@ I do as much as I can in [GNU Emacs][emacs] since it pains me to use monolithic 
 
 So apart from using Emacs for obvious stuff like [programming][swank-clojure], [version control][magit], [note taking][org-mode], [email][gnus], [shells][eshell], [IM][elim], and [IRC][erc], I also have put together interfaces for things like [presentations][epresent], [pastebinning][scpaste], and [database interaction][relax.el].
 
-There are still a few things that aren't feasible to be implemented in Emacs Lisp yet, but [Conkeror][] lets me maintain the runtime-modifiable paradigm in the browser. It does this by being implemented in JavaScript and providing a rich system of dotfiles, [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop "A Wikipedia entry for Read–eval–print loop."), and hooks.
+There are still a few things that aren't feasible to be implemented in Emacs Lisp yet, but [Conkeror][] lets me maintain the runtime-modifiable paradigm in the browser. It does this by being implemented in [JavaScript][] and providing a rich system of dotfiles, [REPL](http://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop "A Wikipedia entry for Read–eval–print loop."), and hooks.
 
 For work I use Leiningen a lot. A lot of people get confused when working with Clojure because Clojure itself is just a library rather than an application, and they expect to interact directly with it. Leiningen is that application that you interact with directly. I won't say much more about it because it's pretty straightforward except to note that it has an interactive mode as well as a way to extend it using the same mechanism that was used to write it in the first place.
 
