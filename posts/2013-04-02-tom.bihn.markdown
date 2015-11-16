@@ -36,7 +36,7 @@ My favorite scissors are Kai 5275's.
 
 #### And what software?
 
-I work predominately in PAD System's [2D pattern drafting software][pattern-design]. Once I mastered it, I was able to do everything I want to do, everything 2D that is. Easy to mirror shapes, add seam allowances, modify marking notches, measure seam lengths. Inspires maniacal accuracy, which is oddly really satisfying. PAD System also makes the marker-making software we use to make all the production markers -- I used to make all the markers myself, but now Nik, my Production Engineer, does that. :)
+I work predominately in PAD System's [2D pattern drafting software][pattern.2]. Once I mastered it, I was able to do everything I want to do, everything 2D that is. Easy to mirror shapes, add seam allowances, modify marking notches, measure seam lengths. Inspires maniacal accuracy, which is oddly really satisfying. PAD System also makes the marker-making software we use to make all the production markers -- I used to make all the markers myself, but now Nik, my Production Engineer, does that. :)
 
 I also use [Adobe Illustrator][illustrator] a lot: PAD exports nicely in to Illustrator, so in refining small parts (or making graphics that include a pattern piece), I'm hopping between PAD and Illustrator quite a bit. You know how some people are [Photoshop][] people and some Illustrator people? I'm all about vector art, so Illustrator is a good friend.
 
