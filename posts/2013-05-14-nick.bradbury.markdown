@@ -11,7 +11,7 @@ categories:
 
 I'm [Nick Bradbury](http://nick.typepad.com/ "Nick's website.") and I'm a software developer. I started my career as a cartoonist, but switched to programming after random chance proved it kept a roof over my head more reliably than cartoons did.
 
-I created [HomeSite][], [TopStyle][] and [FeedDemon][] for Windows, then switched to Android development a few years ago and created the Android versions of [Glassboard][glassboard-android] and [NewsGator Social Sites][social-sites-android].
+I created [HomeSite][], [TopStyle][] and [FeedDemon][] for Windows, then switched to Android development a few years ago and created the Android versions of Glassboard and [NewsGator Social Sites][social-sites-android].
 
 #### What hardware do you use?
 
