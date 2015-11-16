@@ -35,7 +35,7 @@ Design-wise I have been a [Photoshop][] user since version 4, but currently I fi
 
 I write code in [Sublime Text 3][sublime-text] (with the super handy [GitGutter][] extension that tracks your changes in [Git][]) and push it to [GitHub][]. My terminal of choice is [iTerm 2][iterm2] with the [Fish][] shell and [tmux][] for terminal multiplication (say no to ugly tabs!).
 
-For messaging I use a combination of [iMessage][], [Twitter][] and [Google Talk][google-talk] (in the [Flamingo][] app). My cross-device Twitter client of choice was always [Tweetbot][tweetbot-ios]. Team communication happens on our baby product - [And Bang][and-bang]. For video chat I stick to another product of ours; [WebRTC][]-based [Talky][].
+For messaging I use a combination of [iMessage][], [Twitter][] and [Google Talk][google-talk] (in the [Flamingo][] app). My cross-device Twitter client of choice was always [Tweetbot][tweetbot-ios]. Team communication happens on our baby product - And Bang. For video chat I stick to another product of ours; [WebRTC][]-based [Talky][].
 
 When it comes to reading: [Reeder][], [Instapaper][], and since [Readmill][] unfortunately died, [iBooks][ibooks-ios] are my jam.
 
