@@ -33,7 +33,7 @@ For creating quick notes and bookmarking articles to read for later, I use [Ever
 
 My optometrist prescribed me my first pair of (reading!) glasses (NOOoo!) because I stare at a screen all day, so I also use a bunch of weird apps to help retain my far-sighted vision. [20 Cubed][20-cubed] shows a pop up every 20 minutes to remind you to look at something 20 meters away for 20 seconds, and [f.lux][] changes the color of monitors based on the time of day.
 
-The last year or so, I've become incredibly lazy about finding new music for myself. So when I want to find new singles or put my head down to code and have a place to listen to music, I use my friend's site, [Tuplet][]. I think that my new music obsession might've died with my youth - sad but true! I did just alphabetize all my CDs though. YES, you read correctly. CDs.
+The last year or so, I've become incredibly lazy about finding new music for myself. So when I want to find new singles or put my head down to code and have a place to listen to music, I use my friend's site, Tuplet. I think that my new music obsession might've died with my youth - sad but true! I did just alphabetize all my CDs though. YES, you read correctly. CDs.
 
 #### What would be your dream setup?
 
