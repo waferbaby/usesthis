@@ -32,7 +32,7 @@ It is solid, never crashes, easy to use and easy to install.
 
 For my Android systems, I favor [Smart Voice Recorder][smart-voice-recorder-android]. With the speaker turned on, it easily records both the caller and the receiver and is easy to install, and free.
 
-My second favorite app is the [Radio Paradiso app][radio-paradiso-android]. They have an uncanny knack of digging up those rare gems of music that the rest of the world forgot.
+My second favorite app is the Radio Paradiso app. They have an uncanny knack of digging up those rare gems of music that the rest of the world forgot.
 
 #### What would be your dream setup?
 
