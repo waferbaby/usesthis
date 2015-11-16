@@ -32,7 +32,7 @@ I live in [Chrome][] and work in [OpenOffice][]. If I'm working on something fil
 
 I deal with all my email through [Gmail][]. I don't use Priority Inbox, but I do have a ton of label rules in the filter, so that I can actually see what's what at a quick glance.
 
-I run several levels of backup. [Jungle Disk][jungle-disk] copies everything offsite hourly. [Memeo][memeo-backup] pushes stuff to my external drive every time autosave fires, my main work folders live in [Dropbox][], and everything gets emailed out through Gmail so a copy lodges in the Gcloud. Passwords sit in [1password][] with the keychain sitting in Dropbox.
+I run several levels of backup. [Jungle Disk][jungle-disk] copies everything offsite hourly. Memeo pushes stuff to my external drive every time autosave fires, my main work folders live in [Dropbox][], and everything gets emailed out through Gmail so a copy lodges in the Gcloud. Passwords sit in [1password][] with the keychain sitting in Dropbox.
 
 [Google Reader][google-reader] handles RSS. For a quick overview of what's in there I use the [Feedly][] extension for Google Chrome. On less work-intensive days I'll run the [Snackr][] tickerbar on the right-hand side of my screen.
 
