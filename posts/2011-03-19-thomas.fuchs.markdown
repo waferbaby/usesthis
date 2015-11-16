@@ -41,7 +41,7 @@ Some of the day-to-day tools I use are [Transmit][], [Propane][], [Adium][], [Sk
 
 For my virtualization needs (I need to test on IE6, IE7, IE8 and FF/Chrome on Linux) I keep well-cared-for virtual machines handy. I use [VMWare Fusion][vmware-fusion], which has been very stable for me.
 
-We use web applications extensively for collaboration ([Campfire][]) and server monitoring ([ServerDensity][server-density], [Pingdom][], [Clicky][]), and for email support we're working on our own support software, charmingly named [Charm][].
+We use web applications extensively for collaboration ([Campfire][]) and server monitoring ([ServerDensity][server-density], [Pingdom][], [Clicky][]), and for email support we're working on our own support software, charmingly named Charm.
 
 #### What would be your dream setup?
 
