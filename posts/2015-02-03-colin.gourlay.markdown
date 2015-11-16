@@ -54,4 +54,4 @@ For music production, I use [Ableton Live][live], which has a live performance m
 
 #### What would be your dream setup?
 
-To be honest, I have nearly everything I want in a setup already, but if I could perfect it, I'd encourage Apple to release their Retina 5K display as a standalone monitor, and get two of them. I'd also really like to own a phone with Apple's build quality and design sensibility, but running Android. On the software side, I'm craving a way to collaborate on datasets in the same way we collaborate on code with git; I'm keeping a close eye on the [Dat][] project, as it's showing great promise.
+To be honest, I have nearly everything I want in a setup already, but if I could perfect it, I'd encourage Apple to release their Retina 5K display as a standalone monitor, and get two of them. I'd also really like to own a phone with Apple's build quality and design sensibility, but running Android. On the software side, I'm craving a way to collaborate on datasets in the same way we collaborate on code with git; I'm keeping a close eye on the Dat project, as it's showing great promise.
