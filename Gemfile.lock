@@ -18,7 +18,6 @@ DEPENDENCIES
   mongoose
   oj
   redcarpet
-  tilt
 
 BUNDLED WITH
    1.10.6
