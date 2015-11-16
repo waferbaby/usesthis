@@ -23,7 +23,7 @@ I recently learned there's a Makerbot in my building but I think they're hiding 
 
 I prefer to use books made of dead trees, which could get filed under either hardware or software depending on my metaphysical commitments on any particular day. Some of the books I use to teach with are comic books, because there's no better way to teach philosophy (and in particular ethics) than through our heroes and villains writ large with excellent artwork.
 
-When I need a break from work, my hardware of choice includes Addi Turbo knitting needles and Madeline Tosh Merino Light yarn. 
+When I need a break from work, my hardware of choice includes Addi Turbo knitting needles and Madeline Tosh Merino Light yarn.
 
 Since I started traveling often for work, I've also started trying to learn something about photography. I use a [Canon EOS Rebel T3][eos-rebel-t3], as well as the earlier version of the Digital Rebel ([the XT][eos-rebel-xt]). The only lenses we have are a Canon EFS 18-55mm (which comes in the camera kit) and [Canon macro EF 100mm][ef-100mm-f2.8-macro-usm]. I love the Digital Rebel (as evidenced by the fact that we've got 2) because it's such an excellent beginner's camera. Sometimes I look like I know what I'm doing. Not too often.
 
@@ -37,9 +37,9 @@ I do my writing in [MS Word][word] and, on occasion, Notepad. Like chalk and bla
 
 I rely pretty heavily on [Twitter][] to keep me in the loop on current research (when some of the [best journals](https://twitter.com/TrendsCognSci "The Trends in Cognitive Sciences Twitter account.") tweet their new articles, and lots of other cognitive scientists and philosophers talk shop in 140 characters, it makes it easy for me to stay on top of the most recent work in my fields.) Twitter gets some bad press in academia. I don't think it's all warranted. I use [twhirl][] as a desktop client for Twitter.
 
-I've been using [Taskk.it][taskk] for the last few months to organize my To Do lists, and I'm really liking it so far, in spite of the fact that I'm still not getting everything done. It forces me to think in advance about how much time each task will take me, as well as how much time I expect to have on any given day, so there's a higher level of planning involved than with most task management software. 
+I've been using Taskk.it for the last few months to organize my To Do lists, and I'm really liking it so far, in spite of the fact that I'm still not getting everything done. It forces me to think in advance about how much time each task will take me, as well as how much time I expect to have on any given day, so there's a higher level of planning involved than with most task management software.
 
-I'm pretty oldschool in my presentations and almost never use [Powerpoint][], but I've been playing with [Prezi][] and trying to convince myself to start using it regularly for conference presentations. 
+I'm pretty oldschool in my presentations and almost never use [Powerpoint][], but I've been playing with [Prezi][] and trying to convince myself to start using it regularly for conference presentations.
 
 I have [a WordPress blog](http://firepile.com/ "Robin's weblog.") that I recently wiped clean for the third time to start over. I intend to use the space to mostly blog about peer reviewed research. We'll see if it works this time. When I blog, it always seem to devolve into me ranting about sexism, politics, and the problems with evangelical futurism.
 
