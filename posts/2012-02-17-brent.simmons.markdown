@@ -12,7 +12,7 @@ categories:
 
 I blog at [inessential.com](http://inessential.com/ "Brent's website."). I'm one of the founders of [Sepia Labs](http://sepialabs.com/ "Sepia Labs' site."), where I write Glassboard for iOS. I've started doing web development again just recently, which is fun, but mostly I'm a Cocoa coder.
 
-In the past I created [NetNewsWire][], now at [Black Pixel](http://blackpixel.com/ "Black Pixel's site."); [TapLynx][], now at [Push IO](http://push.io/ "Push IO's site."); and [MarsEdit][], now at [Red Sweater](http://www.red-sweater.com/ "Red Sweater's site.").
+In the past I created [NetNewsWire][], now at [Black Pixel](http://blackpixel.com/ "Black Pixel's site."); TapLynx, now at [Push IO](http://push.io/ "Push IO's site."); and [MarsEdit][], now at [Red Sweater](http://www.red-sweater.com/ "Red Sweater's site.").
 
 #### What hardware do you use?
 
