@@ -23,7 +23,7 @@ When I'm motivated enough to make videos, I use a [Flip UltraHD][flip-ultra-hd] 
 
 #### And what software?
 
-I live in [Google Chrome][chrome], although every couple of months or so I try [Safari][] again. I do all my email through [Gmail][] (with [Notify][] letting me know if I have something new), I keep track of feeds in [Google Reader][google-reader], and when I'm writing something collaboratively I use [Google Docs][google-docs]
+I live in [Google Chrome][chrome], although every couple of months or so I try [Safari][] again. I do all my email through [Gmail][] (with Notify letting me know if I have something new), I keep track of feeds in [Google Reader][google-reader], and when I'm writing something collaboratively I use [Google Docs][google-docs]
 
 When I'm writing by myself I use [Byword][] and [Marked][] (I caught the [Markdown][] bug a couple of months ago). If what I'm writing needs to be in screenplay format, I use [CeltX][]. I have [Pages][] for the rare occasions when someone wants text all dressed up and fancy-like.
 
