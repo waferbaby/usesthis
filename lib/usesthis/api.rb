@@ -51,10 +51,10 @@ module UsesThis
       path = File.join(output_path, 'interviews', 'categories')
       category_slugs = []
 
-      @site.categories.each_value do |category|
+      @site.categories.each do |slug, posts|
         interviews = []
 
-        category.posts.each do |interview|
+        posts.each do |interview|
           interview_hash = interview.to_h
 
           interview_hash.delete(:contents)
@@ -63,8 +63,8 @@ module UsesThis
           interviews << interview_hash
         end
 
-        generate_json_file(path, category.slug, {interviews: interviews})
-        category_slugs << category.slug
+        generate_json_file(path, slug, {interviews: interviews})
+        category_slugs << slug
       end
 
       generate_json_file(path, 'index', {categories: category_slugs.sort!})
