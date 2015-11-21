@@ -11,6 +11,7 @@ date_formats:
 
 paths:
   posts: 'interviews'
+  categories: 'interviews/categories'
 
 layouts:
   posts: 'interviews'
@@ -19,6 +20,6 @@ layouts:
 pagination:
   per_page: 5
 
-categories:
-  - {slug: 'bsd', name: 'BSD'}
-  - {slug: 'mac', name: 'Macintosh'}
+category_names:
+  bsd: 'BSD'
+  mac: 'Macintosh'
