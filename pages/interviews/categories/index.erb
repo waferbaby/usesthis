@@ -1,0 +1,18 @@
+---
+layout: default
+title: Categories
+---
+
+<article id="categories">
+  <h3>Categories</h3>
+  <p>There are currently <strong><%= @site.posts.count %></strong> interviews in <strong><%= @site.categories.count %></strong> categories.</p>
+
+  <ul id="categories">
+  <% @site.categories.keys.sort.each do |slug| %>
+    <li>
+      <strong><a href="/interviews/categories/<%= slug %>" title="View all the '<%= slug %>' interviews."><%= slug %></a></strong> (<%= @site.categories[slug].count %>)<br>
+      <span class="summary">Latest: <%= @site.categories[slug][0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.name}.\">#{interview.name}</a>" }.join(', ') %></span>
+    </li>
+  <% end %>
+  </ul>
+</article>
