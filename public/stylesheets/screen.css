@@ -262,6 +262,16 @@ margin: 20px;
 font-size: 95%;
 }
 
+ul#categories {
+list-style: none outside;
+margin-left: 0;
+margin-right: 0;
+}
+
+ul#categories li {
+margin-bottom: 10px;
+}
+
 @media screen and (max-width: 800px) {
 
   aside#sellout {
