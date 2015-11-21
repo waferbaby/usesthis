@@ -57,7 +57,7 @@ module UsesThis
         url: "http://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
-        categories: @categories.keys,
+        categories: @categories,
       }
 
       output[:credits] = @credits if @credits
