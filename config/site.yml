@@ -10,6 +10,7 @@ date_formats:
   month: '%B %Y'
 
 paths:
+  archives: 'interviews'
   posts: 'interviews'
   categories: 'interviews/categories'
 
