@@ -1,0 +1,41 @@
+---
+name: Jane Friedhoff
+summary: Creative technologist (NYT R&D), indie game developer
+categories:
+- developer
+- game
+- mac
+- technologist
+---
+
+#### Who are you, and what do you do?
+
+My name is Jane Friedhoff, and I'm a creative technologist at The New York Times's R&D Lab by day, and an [independent game developer](http://janefriedhoff.com/ "Jane's website.") by night. I also co-founded the [Code Liberation Foundation](http://codeliberation.org/ "Game development workshops for women."), which is a trans-inclusive organization that teaches women how to program games for free.
+
+My background is in game design -- I started interning in the industry when I was about 17, and have been obsessed with weird and playful games ever since. My games include [Scream ‘Em Up][scream-em-up] (a 2-player Space Invaders-style game that has the players run laterally to move their ships, and scream to shoot bullets), [Hermit Crab In Space][hermit-crab-in-space] (a modular space shooter for the Playstation Vita), [2nd Amendment][2nd-amendment] (a Unity3D text adventure) and, most recently, [Slam City Oracles][slam-city-oracles] (a collaborative, riot grrrl, Katamari-meets-GTA arcade game).
+
+At the R&D Lab, I research and make prototypes with new and emerging technologies to explore the impacts those technologies might have on the future of news and media, which means I get to spend a lot of my day learning new skills.
+
+So I spend most of my time writing code in one language or another!
+
+#### What hardware do you use?
+
+I mostly write software, both at the office and at home, so my hardware setup isn't extensive. For game development, I just started using a [15" MacBook Pro][macbook-pro] -- the 2.5GHz one. I had been happily using an older MacBook Pro until it suddenly died, like, 48 hours before I launched Slam City Oracles. Gah! Luckily, all that code was on [GitHub][] and I had a relatively recent backup on my backup drive, a [WD My Passport for Mac][my-passport-mac]. (This is your reminder -- yes, you! -- to back up your computer right now!) Although I was cranky about having to spend that much money, it's really nice to develop on.
+
+I have a drawing tablet as well -- although I'm primarily a coder, it's really nice for when I need to make mockups or put in placeholder art. I use one of the huge [Wacom Intuous 3's][intuos] -- an old one, but it still works fine --which takes up a ton of desk space, but is so comfortable to draw with.
+
+#### And what software?
+
+When I make games, I primarily develop in [Unity][] and release on [itch.io][]. I used to work in [Processing][] and [openFrameworks][] (using [Xcode][]), but Unity ports to so many different platforms that there's really no beating it. I've made my last couple games in Unity and the release process is so much better. Now, [MonoDevelop][] I have different opinions of..
+
+When I'm coding for work, I primarily use [Sublime Text 3][sublime-text], although my coworkers keep trying to get me to use [vim][] (gulp). Its Package Control is super useful -- I really appreciate being able to add stuff like formatters on the fly. My code is so much neater nowadays!
+
+My absolute favorite tool is [SizeUp][], which allows you to use keyboard shortcuts to resize and position your windows. I've gotten so used to it that I can barely use computers that don't have it. It's super useful for quickly repositioning stuff on screen -- like, say, Sublime, StackOverflow, and [Terminal][] -- without having to pause to use the mouse.
+
+Since I do all the business and PR for my games, I often have to make visual stuff for the press to use. I use the [Adobe Suite][creative-suite] for art-y stuff, and to make gifs, I tend to use either [ScreenFlow][] or QuickTime plus [Photoshop][]. When I'm teaching or writing, I use Google products (gifs in slides, heck yeah), use [Chrome][] for browsing, have the [Google Calendar][google-calendar] widget in my [Gmail][] to make sure my life is in order, and listen to [Spotify][] while I work (usually Boards of Canada or super loud metal, depending on how code is going).
+
+#### What would be your dream setup?
+
+The only thing I'm really hungry for is a huge, wall-mounted second monitor at home. I have one at work, and no matter how big of a screen my home computer has, it always feels so cramped compared to that.
+
+Other than that, I have pretty much everything I need. Well, okay, my apartment doesn't allow dogs, so I would say my dream setup involves a dog too!
