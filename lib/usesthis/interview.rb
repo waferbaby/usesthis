@@ -46,10 +46,6 @@ module UsesThis
       end
     end
 
-    def output_file_path(parent_path)
-      File.join(parent_path, @slug, "#{@filename}.#{@extension}")
-    end
-
     def to_h
       output = {
         slug: @slug,
