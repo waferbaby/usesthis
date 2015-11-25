@@ -25,7 +25,7 @@ abort("Interview already exists for #{slug}.") if File.exists?(file_path)
 
 output = <<OUTPUT
 ---
-name: #{name}
+title: #{name}
 summary: (summary)
 categories:
 - (category)
