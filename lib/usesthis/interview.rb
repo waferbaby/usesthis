@@ -49,7 +49,7 @@ module UsesThis
     def to_h
       output = {
         slug: @slug,
-        name: @name,
+        name: @title,
         url: "http://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
