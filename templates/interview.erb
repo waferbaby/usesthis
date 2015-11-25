@@ -5,31 +5,31 @@ layout: default
 <article id="interview" class="h-entry">
   <div class="e-content">
     <figure>
-      <img src="/images/portraits/<%= @interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @interview.name %>">
-      <% if @interview.credits %>
-        <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
+      <img src="/images/portraits/<%= @this.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @this.title %>">
+      <% if @this.credits %>
+        <figcaption>Photo by <% if @this.credits['url'] %><a href="<%= @this.credits['url'] %>" title="View more about <%= @this.credits['name'] %>."><%= @this.credits['name'] %></a><% else %><%= @this.credits['name'] %><% end %>.</figcaption>
       <% end %>
     </figure>
     <header>
-      <h3 class="p-name"><%= @interview.name %></h3>
-      <p class="summary p-summary"><%= @interview.summary %></p>
-      <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @interview.date.strftime('%A <a href="/interviews/%Y/%m/" title="View all the interviews from %B, %Y.">%B %d</a>, <a href="/interviews/%Y/" title="View all the interviews from %Y.">%Y</a>') %>.</time>
+      <h3 class="p-name"><%= @this.title %></h3>
+      <p class="summary p-summary"><%= @this.summary %></p>
+      <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @this.date.strftime('%A <a href="/interviews/%Y/%m/" title="View all the interviews from %B, %Y.">%B %d</a>, <a href="/interviews/%Y/" title="View all the interviews from %Y.">%Y</a>') %>.</time>
       <nav class="categories">
         <ul>
-        <% @interview.categories.each do |slug| %><li><a href="/interviews/categories/<%= slug %>/" title="View all the '<%= slug %>' interviews." class="p-category"><%= slug %></a></li><% end %>
+        <% @this.categories.each do |slug| %><li><a href="/interviews/categories/<%= slug %>/" title="View all the '<%= slug %>' interviews." class="p-category"><%= slug %></a></li><% end %>
         </ul>
       </nav>
     </header>
     <%= yield %>
   </div>
 
-  <% if @interview.license %>
-  <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @interview.license %>/3.0/" title="View details of the license."><%= @interview.license.upcase %> Creative Commons license</a>.</p>
+  <% if @this.license %>
+  <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @this.license %>/3.0/" title="View details of the license."><%= @this.license.upcase %> Creative Commons license</a>.</p>
   <% end %>
 
   <nav id="paginator">
-  <% if @interview.previous_post %>Previously: <a href="/interviews/<%= @interview.previous_post.slug %>/" title="View the interview with <%= @interview.previous_post.name %>" id="previous"><%= @interview.previous_post.name %></a><% end %>
-  <% if @interview.previous_post && @interview.next_post %>/<% end %>
-  <% if @interview.next_post %>Next up: <a href="/interviews/<%= @interview.next_post.slug %>/" title="View the interview with <%= @interview.next_post.name %>" id="next"><%= @interview.next_post.name %></a><% end %>
+  <% if @this.previous_post %>Previously: <a href="/interviews/<%= @this.previous_post.slug %>/" title="View the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
+  <% if @this.previous_post && @this.next_post %>/<% end %>
+  <% if @this.next_post %>Next up: <a href="/interviews/<%= @this.next_post.slug %>/" title="View the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
   </nav>
 </article>
