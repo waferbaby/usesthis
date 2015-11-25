@@ -10,7 +10,7 @@ module UsesThis
       metadata = YAML::load_file(path)
 
       @slug = File.basename(path, File.extname(path))
-      
+
       @name = metadata['name']
       @description = metadata['description']
       @url = metadata['url']
@@ -32,7 +32,7 @@ module UsesThis
         @interviews.each do |interview|
           output[:interviews] << {
             slug: interview.slug,
-            name: interview.name
+            name: interview.title
           }
         end
       end
