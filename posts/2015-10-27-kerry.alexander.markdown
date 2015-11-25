@@ -1,5 +1,5 @@
 ---
-name: Kerry Alexander
+title: Kerry Alexander
 summary: Musician (Bad Bad Hats, Mixed History)
 categories:
 - musician

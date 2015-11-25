@@ -1,5 +1,5 @@
 ---
-name: Adam Lisagor
+title: Adam Lisagor
 summary: Video director
 categories:
 - artist

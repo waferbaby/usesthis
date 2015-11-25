@@ -1,5 +1,5 @@
 ---
-name: Jack Cheng
+title: Jack Cheng
 summary: Writer, designer (Disrupto, Memberly)
 categories:
 - designer

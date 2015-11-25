@@ -1,5 +1,5 @@
 ---
-name: Rose Laguaña
+title: Rose Laguaña
 summary: Musician
 categories:
 - mac

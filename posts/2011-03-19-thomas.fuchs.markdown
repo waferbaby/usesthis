@@ -1,5 +1,5 @@
 ---
-name: Thomas Fuchs
+title: Thomas Fuchs
 summary: Developer (script.aculo.us, Prototype)
 categories:
 - developer

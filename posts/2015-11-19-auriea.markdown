@@ -1,5 +1,5 @@
 ---
-name: Auriea
+title: Auriea
 summary: Interactive artist, game designer (Tale of Tales)
 categories:
 - artist

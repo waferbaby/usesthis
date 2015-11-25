@@ -1,5 +1,5 @@
 ---
-name: Marius Eriksen
+title: Marius Eriksen
 summary: Software developer (Twitter)
 categories:
 - developer

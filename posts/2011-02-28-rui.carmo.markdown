@@ -1,5 +1,5 @@
 ---
-name: Rui Carmo
+title: Rui Carmo
 summary: Systems Engineer
 categories:
 - developer

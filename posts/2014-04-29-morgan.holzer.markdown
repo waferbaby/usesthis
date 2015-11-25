@@ -1,5 +1,5 @@
 ---
-name: Morgan Holzer
+title: Morgan Holzer
 summary: Information architect (NYPL)
 categories:
 - architect

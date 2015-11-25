@@ -1,5 +1,5 @@
 ---
-name: Richard Stallman
+title: Richard Stallman
 summary: Freedom campaigner
 categories:
 - developer

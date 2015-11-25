@@ -1,5 +1,5 @@
 ---
-name: Eric Meyer
+title: Eric Meyer
 summary: Web standards monkey
 categories:
 - developer

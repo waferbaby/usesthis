@@ -1,5 +1,5 @@
 ---
-name: Nate "Igor" Smith
+title: Nate "Igor" Smith
 summary: Photographer
 categories:
 - mac

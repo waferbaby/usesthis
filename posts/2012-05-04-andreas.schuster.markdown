@@ -1,5 +1,5 @@
 ---
-name: Andreas Schuster
+title: Andreas Schuster
 summary: Illustrator
 categories:
 - cartoonist

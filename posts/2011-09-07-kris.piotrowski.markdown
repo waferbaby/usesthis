@@ -1,5 +1,5 @@
 ---
-name: Kris Piotrowski
+title: Kris Piotrowski
 summary: Creative director and co-founder (CAPY)
 categories:
 - designer

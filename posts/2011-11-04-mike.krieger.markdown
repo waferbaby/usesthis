@@ -1,5 +1,5 @@
 ---
-name: Mike Krieger
+title: Mike Krieger
 summary: Co-founder of Instagram
 categories:
 - developer

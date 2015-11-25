@@ -1,5 +1,5 @@
 ---
-name: Terry Cavanagh
+title: Terry Cavanagh
 summary: Indie game developer (VVVVVV)
 categories:
 - developer

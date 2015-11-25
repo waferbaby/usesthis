@@ -1,5 +1,5 @@
 ---
-name: James Freeman
+title: James Freeman
 summary: Founder, Blue Bottle Coffee
 categories:
 - coffee

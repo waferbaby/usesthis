@@ -1,5 +1,5 @@
 ---
-name: Daniel Jalkut
+title: Daniel Jalkut
 summary: Software developer (MarsEdit, FastScripts), podcaster
 categories:
 - developer

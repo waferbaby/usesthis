@@ -1,5 +1,5 @@
 ---
-name: Mark Jardine
+title: Mark Jardine
 summary: Designer (Tapbots)
 categories:
 - designer

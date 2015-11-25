@@ -1,5 +1,5 @@
 ---
-name: Jona Bechtolt
+title: Jona Bechtolt
 summary: Half of the band YACHT
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Adam Saltsman
+title: Adam Saltsman
 summary: Game designer (Canabalt)
 categories:
 - designer

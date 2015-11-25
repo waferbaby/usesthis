@@ -1,5 +1,5 @@
 ---
-name: Aaron Bleyaert
+title: Aaron Bleyaert
 summary: Human glue, freckle photographer
 categories:
 - blogger

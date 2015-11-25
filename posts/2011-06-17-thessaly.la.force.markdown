@@ -1,5 +1,5 @@
 ---
-name: Thessaly La Force
+title: Thessaly La Force
 summary: Writer, editor (The Paris Review)
 categories:
 - editor

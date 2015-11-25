@@ -1,5 +1,5 @@
 ---
-name: Rob Beschizza
+title: Rob Beschizza
 summary: Managing editor (Boing Boing), storyteller, artificer
 categories:
 - developer

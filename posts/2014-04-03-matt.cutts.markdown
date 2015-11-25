@@ -1,5 +1,5 @@
 ---
-name: Matt Cutts
+title: Matt Cutts
 summary: Head of Google's webspam team
 categories:
 - developer

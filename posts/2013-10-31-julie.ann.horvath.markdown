@@ -1,5 +1,5 @@
 ---
-name: Julie Ann Horvath
+title: Julie Ann Horvath
 summary: Designer, developer (GitHub)
 categories:
 - designer

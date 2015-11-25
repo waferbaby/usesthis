@@ -1,5 +1,5 @@
 ---
-name: Christopher Clark
+title: Christopher Clark
 summary: UI designer (Square)
 categories:
 - designer

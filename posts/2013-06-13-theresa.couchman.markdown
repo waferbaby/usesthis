@@ -1,5 +1,5 @@
 ---
-name: Theresa Couchman
+title: Theresa Couchman
 summary: Author (The Unmapped Lands)
 categories:
 - windows

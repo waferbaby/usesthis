@@ -1,5 +1,5 @@
 ---
-name: John Moltz
+title: John Moltz
 summary: Writer, editor (Crazy Apple Rumors Site)
 categories:
 - editor

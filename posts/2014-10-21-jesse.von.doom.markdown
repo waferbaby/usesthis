@@ -1,5 +1,5 @@
 ---
-name: Jesse von Doom
+title: Jesse von Doom
 summary: Executive director, developer (CASH Music)
 categories:
 - developer

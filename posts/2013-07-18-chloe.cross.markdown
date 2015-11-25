@@ -1,5 +1,5 @@
 ---
-name: Chloe Cross
+title: Chloe Cross
 summary: Writer (VICE)
 categories:
 - journalist

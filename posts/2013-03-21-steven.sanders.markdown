@@ -1,5 +1,5 @@
 ---
-name: Steven Sanders
+title: Steven Sanders
 summary: Illustrator, concept artist (Marvel, Image)
 categories:
 - illustrator

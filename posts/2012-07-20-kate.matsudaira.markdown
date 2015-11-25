@@ -1,5 +1,5 @@
 ---
-name: Kate Matsudaira
+title: Kate Matsudaira
 summary: Hacker, speaker (Decide)
 categories:
 - developer

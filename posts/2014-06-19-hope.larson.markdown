@@ -1,5 +1,5 @@
 ---
-name: Hope Larson
+title: Hope Larson
 summary: Cartoonist, writer, director
 categories:
 - cartoonist

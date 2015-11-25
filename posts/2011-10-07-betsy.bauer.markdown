@@ -1,5 +1,5 @@
 ---
-name: Betsy Bauer
+title: Betsy Bauer
 summary: Illustrator, character designer
 categories:
 - artist

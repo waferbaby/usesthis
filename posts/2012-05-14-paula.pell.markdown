@@ -1,5 +1,5 @@
 ---
-name: Paula Pell
+title: Paula Pell
 summary: Actor (30 Rock, Parks and Recreation), writer (SNL)
 categories:
 - actor

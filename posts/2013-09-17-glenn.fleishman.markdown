@@ -1,5 +1,5 @@
 ---
-name: Glenn Fleishman
+title: Glenn Fleishman
 summary: Editor (The Magazine), podcaster (The New Disruptors)
 categories:
 - editor

@@ -1,5 +1,5 @@
 ---
-name: Neil Cicierega
+title: Neil Cicierega
 summary: Animator, musician, web artist
 categories:
 - animator

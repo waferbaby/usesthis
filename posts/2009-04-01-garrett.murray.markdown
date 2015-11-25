@@ -1,5 +1,5 @@
 ---
-name: Garrett Murray
+title: Garrett Murray
 summary: Film maker, creator of Ego
 categories:
 - developer

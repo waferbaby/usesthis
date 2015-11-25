@@ -1,5 +1,5 @@
 ---
-name: Antony Johnston
+title: Antony Johnston
 summary: Writer (Wasteland, Dead Space)
 categories:
 - designer

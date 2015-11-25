@@ -1,5 +1,5 @@
 ---
-name: Jim Munroe
+title: Jim Munroe
 summary: Writer, founder of No Media Kings
 categories:
 - linux

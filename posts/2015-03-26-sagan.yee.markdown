@@ -1,5 +1,5 @@
 ---
-name: Sagan Yee
+title: Sagan Yee
 summary: Animator, indie game artist
 categories:
 - animator

@@ -1,5 +1,5 @@
 ---
-name: Brendan Gregg
+title: Brendan Gregg
 summary: Senior performance architect (Netflix)
 categories:
 - bsd

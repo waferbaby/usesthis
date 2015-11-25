@@ -1,5 +1,5 @@
 ---
-name: Alice Rutherford
+title: Alice Rutherford
 summary: Textile designer, illustrator
 categories:
 - designer

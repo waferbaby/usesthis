@@ -1,5 +1,5 @@
 ---
-name: Paul Tweedy
+title: Paul Tweedy
 summary: Senior Technical Architect, BBC
 categories:
 - developer

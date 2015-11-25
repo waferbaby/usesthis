@@ -1,5 +1,5 @@
 ---
-name: Adewale Oshineye
+title: Adewale Oshineye
 summary: Developer advocate (Google+)
 categories:
 - developer

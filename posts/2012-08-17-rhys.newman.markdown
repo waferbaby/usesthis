@@ -1,5 +1,5 @@
 ---
-name: Rhys Newman
+title: Rhys Newman
 summary: Designer (Advanced Design @ Nokia)
 categories:
 - designer

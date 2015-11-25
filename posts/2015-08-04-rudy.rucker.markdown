@@ -1,5 +1,5 @@
 ---
-name: Rudy Rucker, Sr.
+title: Rudy Rucker, Sr.
 summary: Writer, developer, painter, podcaster
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Tamas Kemenczy
+title: Tamas Kemenczy
 summary: Game designer (Kentucky Route Zero), web developer (Pitchfork)
 categories:
 - artist

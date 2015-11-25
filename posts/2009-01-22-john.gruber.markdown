@@ -1,5 +1,5 @@
 ---
-name: John Gruber
+title: John Gruber
 summary: Writer (Daring Fireball)
 categories:
 - mac

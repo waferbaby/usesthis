@@ -1,5 +1,5 @@
 ---
-name: Brian Brophy
+title: Brian Brophy
 summary: Photographer, attorney
 categories:
 - lawyer

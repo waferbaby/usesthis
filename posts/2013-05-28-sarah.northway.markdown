@@ -1,5 +1,5 @@
 ---
-name: Sarah Northway
+title: Sarah Northway
 summary: Indie game developer (Rebuild, Incredipede)
 categories:
 - developer

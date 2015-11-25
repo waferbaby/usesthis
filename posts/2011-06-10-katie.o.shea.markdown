@@ -1,5 +1,5 @@
 ---
-name: Katie O'Shea
+title: Katie O'Shea
 summary: Barista, bike fanatic
 categories:
 - biker

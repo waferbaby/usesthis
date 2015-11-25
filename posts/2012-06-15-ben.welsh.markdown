@@ -1,5 +1,5 @@
 ---
-name: Ben Welsh
+title: Ben Welsh
 summary: Reporter, web developer (LA Times)
 categories:
 - developer

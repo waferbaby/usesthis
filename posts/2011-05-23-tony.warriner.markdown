@@ -1,5 +1,5 @@
 ---
-name: Tony Warriner
+title: Tony Warriner
 summary: Game developer, co-founder (Revolution)
 categories:
 - developer

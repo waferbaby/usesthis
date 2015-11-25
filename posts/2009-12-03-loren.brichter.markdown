@@ -1,5 +1,5 @@
 ---
-name: Loren Brichter
+title: Loren Brichter
 summary: Mac/iPhone developer (Tweetie)
 categories:
 - developer

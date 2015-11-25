@@ -1,5 +1,5 @@
 ---
-name: Marc M
+title: Marc M
 summary: Animator (Sick Animation), musician
 categories:
 - animator

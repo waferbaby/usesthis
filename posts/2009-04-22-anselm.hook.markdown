@@ -1,5 +1,5 @@
 ---
-name: Anselm Hook
+title: Anselm Hook
 summary: MakerLab hacker, CTO of Meedan
 categories:
 - developer

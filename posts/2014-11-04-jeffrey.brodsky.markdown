@@ -1,5 +1,5 @@
 ---
-name: Jeffrey Brodsky
+title: Jeffrey Brodsky
 summary: Musician (YACHT, RAC)
 categories:
 - mac

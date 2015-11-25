@@ -1,5 +1,5 @@
 ---
-name: Lisa Wade
+title: Lisa Wade
 summary: Sociologist, professor
 categories:
 - professor

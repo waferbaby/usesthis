@@ -1,5 +1,5 @@
 ---
-name: Claire Robertson
+title: Claire Robertson
 summary: Writer, illustrator, crafter
 categories:
 - crafter

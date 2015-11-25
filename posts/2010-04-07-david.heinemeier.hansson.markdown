@@ -1,5 +1,5 @@
 ---
-name: David Heinemeier Hansson
+title: David Heinemeier Hansson
 summary: Software developer (37signals)
 categories:
 - developer

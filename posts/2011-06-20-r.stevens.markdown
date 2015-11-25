@@ -1,5 +1,5 @@
 ---
-name: r. stevens
+title: r. stevens
 summary: Cartoonist (Diesel Sweeties)
 categories:
 - cartoonist

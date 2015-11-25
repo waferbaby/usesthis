@@ -1,5 +1,5 @@
 ---
-name: Mandy Brown
+title: Mandy Brown
 summary: Designer, writer, editor (A Book Apart)
 categories:
 - designer

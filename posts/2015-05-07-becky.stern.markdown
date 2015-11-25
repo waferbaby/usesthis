@@ -1,5 +1,5 @@
 ---
-name: Becky Stern
+title: Becky Stern
 summary: Director of wearable electronics (Adafruit)
 categories:
 - hacker

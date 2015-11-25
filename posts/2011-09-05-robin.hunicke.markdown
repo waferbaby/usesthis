@@ -1,5 +1,5 @@
 ---
-name: Robin Hunicke
+title: Robin Hunicke
 summary: Game designer/producer (thatgamecompany)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Afonso Salcedo
+title: Afonso Salcedo
 summary: Filmmaker, photographer (Sutro Studios)
 categories:
 - film

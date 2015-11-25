@@ -1,5 +1,5 @@
 ---
-name: Ashe Dryden
+title: Ashe Dryden
 summary: Developer, speaker, writer
 categories:
 - developer

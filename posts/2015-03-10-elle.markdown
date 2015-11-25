@@ -1,5 +1,5 @@
 ---
-name: ELLE
+title: ELLE
 summary: Street artist
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Kevin Kelly
+title: Kevin Kelly
 summary: Writer, co-founder of Wired
 categories:
 - editor

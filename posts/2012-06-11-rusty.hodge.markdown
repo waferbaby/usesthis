@@ -1,5 +1,5 @@
 ---
-name: Rusty Hodge
+title: Rusty Hodge
 summary: Founder and general manager (SomaFM)
 categories:
 - audio

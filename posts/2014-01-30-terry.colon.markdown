@@ -1,5 +1,5 @@
 ---
-name: Terry Colon
+title: Terry Colon
 summary: Illustrator, cartoonist
 categories:
 - cartoonist

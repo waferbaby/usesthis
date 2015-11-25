@@ -1,5 +1,5 @@
 ---
-name: Lux Alptraum
+title: Lux Alptraum
 summary: Writer, sex educator
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Vijay Pande
+title: Vijay Pande
 summary: Stanford professor, director of Folding@home
 categories:
 - mac

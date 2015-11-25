@@ -1,5 +1,5 @@
 ---
-name: Rob Pike
+title: Rob Pike
 summary: Software developer (Unix, Plan 9)
 categories:
 - developer

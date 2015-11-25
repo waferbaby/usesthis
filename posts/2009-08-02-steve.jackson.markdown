@@ -1,5 +1,5 @@
 ---
-name: Steve Jackson
+title: Steve Jackson
 summary: Game designer
 categories:
 - designer

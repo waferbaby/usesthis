@@ -1,5 +1,5 @@
 ---
-name: Matt Might
+title: Matt Might
 summary: CS Professor (University of Utah)
 categories:
 - linux

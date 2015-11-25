@@ -1,5 +1,5 @@
 ---
-name: Matt Webb
+title: Matt Webb
 summary: CEO (BERG)
 categories:
 - developer

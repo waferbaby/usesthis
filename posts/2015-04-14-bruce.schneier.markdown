@@ -1,5 +1,5 @@
 ---
-name: Bruce Schneier
+title: Bruce Schneier
 summary: Security technologist
 categories:
 - developer

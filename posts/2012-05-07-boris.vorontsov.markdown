@@ -1,5 +1,5 @@
 ---
-name: Boris Vorontsov
+title: Boris Vorontsov
 summary: Game developer, modder
 categories:
 - developer

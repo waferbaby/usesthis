@@ -1,5 +1,5 @@
 ---
-name: Lorna Watt
+title: Lorna Watt
 summary: Yarnbomber (Knits for Life)
 categories:
 - knitting

@@ -1,5 +1,5 @@
 ---
-name: Bjarne Stroustrup
+title: Bjarne Stroustrup
 summary: Creator of C++
 categories:
 - developer

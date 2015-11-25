@@ -1,5 +1,5 @@
 ---
-name: John Baez
+title: John Baez
 summary: Mathematical physicist
 categories:
 - scientist

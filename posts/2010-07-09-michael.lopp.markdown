@@ -1,5 +1,5 @@
 ---
-name: Michael Lopp
+title: Michael Lopp
 summary: Engineering manager, reposer
 categories:
 - mac

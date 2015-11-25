@@ -1,5 +1,5 @@
 ---
-name: Sue Pemberton
+title: Sue Pemberton
 summary: Cultural assistant, specimen preparator (California Academy of Sciences)
 categories:
 - animal

@@ -1,5 +1,5 @@
 ---
-name: Karen Sandler
+title: Karen Sandler
 summary: Software activist, executive director (GNOME)
 categories:
 - lawyer

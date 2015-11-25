@@ -1,5 +1,5 @@
 ---
-name: Keita Takahashi
+title: Keita Takahashi
 summary: Game designer (Katamari Damacy)
 categories:
 - designer

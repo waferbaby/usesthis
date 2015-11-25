@@ -1,5 +1,5 @@
 ---
-name: Josh Nimoy
+title: Josh Nimoy
 summary: Artist, designer, hacktivist, musician, developer
 categories:
 - artist

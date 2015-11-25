@@ -1,5 +1,5 @@
 ---
-name: Blaise Aguera y Arcas
+title: Blaise Aguera y Arcas
 summary: Architect (Bing Maps/Mobile)
 categories:
 - developer

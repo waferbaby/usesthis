@@ -1,5 +1,5 @@
 ---
-name: Fu
+title: Fu
 summary: Robot illustrator, sculptor, game creator
 categories:
 - artist

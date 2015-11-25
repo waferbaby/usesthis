@@ -1,5 +1,5 @@
 ---
-name: Ben Fry
+title: Ben Fry
 summary: Data designer, co-creator of Processing
 categories:
 - developer

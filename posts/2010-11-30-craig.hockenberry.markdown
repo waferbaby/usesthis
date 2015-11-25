@@ -1,5 +1,5 @@
 ---
-name: Craig Hockenberry
+title: Craig Hockenberry
 summary: Programmer (The Iconfactory)
 categories:
 - developer

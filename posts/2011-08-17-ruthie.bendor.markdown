@@ -1,5 +1,5 @@
 ---
-name: Ruthie BenDor
+title: Ruthie BenDor
 summary: Web designer/developer
 categories:
 - biker

@@ -1,5 +1,5 @@
 ---
-name: Derek Chatwood
+title: Derek Chatwood
 summary: Game designer, illustrator
 categories:
 - designer

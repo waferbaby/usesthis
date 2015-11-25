@@ -1,5 +1,5 @@
 ---
-name: Jordan Mechner
+title: Jordan Mechner
 summary: Game designer (Prince of Persia), screenwriter
 categories:
 - designer

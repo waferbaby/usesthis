@@ -1,5 +1,5 @@
 ---
-name: Lou Montulli
+title: Lou Montulli
 summary: Rabble-rouser, software developer (Lynx, Netscape)
 categories:
 - developer

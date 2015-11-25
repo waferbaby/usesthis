@@ -1,5 +1,5 @@
 ---
-name: Ian Hickson
+title: Ian Hickson
 summary: Standards editor, HTML specification
 categories:
 - editor

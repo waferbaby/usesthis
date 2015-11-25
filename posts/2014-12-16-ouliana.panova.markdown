@@ -1,5 +1,5 @@
 ---
-name: Ouliana Panova
+title: Ouliana Panova
 summary: Student engineer, stained glass artist
 categories:
 - artist

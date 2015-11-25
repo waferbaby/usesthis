@@ -1,5 +1,5 @@
 ---
-name: Colin Percival
+title: Colin Percival
 summary: Developer, security officer (FreeBSD)
 categories:
 - bsd

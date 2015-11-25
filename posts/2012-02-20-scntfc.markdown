@@ -1,5 +1,5 @@
 ---
-name: scntfc
+title: scntfc
 summary: Audio/visual artist
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Håkon Wium Lie
+title: Håkon Wium Lie
 summary: CTO (Opera Software), creator of CSS
 categories:
 - developer

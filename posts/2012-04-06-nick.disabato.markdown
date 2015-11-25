@@ -1,5 +1,5 @@
 ---
-name: Nick Disabato
+title: Nick Disabato
 summary: Designer, tree killer (Distance, Cadence & Slang)
 categories:
 - designer

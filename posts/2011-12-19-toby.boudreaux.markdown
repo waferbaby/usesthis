@@ -1,5 +1,5 @@
 ---
-name: Toby Boudreaux
+title: Toby Boudreaux
 summary: Technologist, programmer, product designer
 categories:
 - designer

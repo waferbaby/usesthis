@@ -1,5 +1,5 @@
 ---
-name: Gene Spafford
+title: Gene Spafford
 summary: Professor (Purdue University), security expert
 categories:
 - linux

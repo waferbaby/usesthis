@@ -1,5 +1,5 @@
 ---
-name: Tim Bray
+title: Tim Bray
 summary: Developer Advocate (Google)
 categories:
 - developer

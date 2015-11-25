@@ -1,5 +1,5 @@
 ---
-name: C. Spike Trotman
+title: C. Spike Trotman
 summary: Cartoonist, publisher (Iron Circus Comics)
 categories:
 - artist

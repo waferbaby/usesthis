@@ -1,5 +1,5 @@
 ---
-name: Selena Deckelmann
+title: Selena Deckelmann
 summary: COO (Prime Radiant), PostgreSQL contributor
 categories:
 - developer

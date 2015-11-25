@@ -1,5 +1,5 @@
 ---
-name: Anne Halsall
+title: Anne Halsall
 summary: Interface/UI designer
 categories:
 - designer

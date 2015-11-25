@@ -1,5 +1,5 @@
 ---
-name: Tom Armitage
+title: Tom Armitage
 summary: Game designer, technologist (Hide and Seek)
 categories:
 - designer

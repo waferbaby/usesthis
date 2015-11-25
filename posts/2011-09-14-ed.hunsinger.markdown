@@ -1,5 +1,5 @@
 ---
-name: Ed Hunsinger
+title: Ed Hunsinger
 summary: Developer, blogger, fire artist
 categories:
 - artist

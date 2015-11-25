@@ -1,5 +1,5 @@
 ---
-name: Jonathan Coulton
+title: Jonathan Coulton
 summary: Internet musical superstar
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Ali Spagnola
+title: Ali Spagnola
 summary: Maker of nice things
 categories:
 - artist

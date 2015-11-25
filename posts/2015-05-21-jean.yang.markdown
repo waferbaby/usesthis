@@ -1,5 +1,5 @@
 ---
-name: Jean Yang
+title: Jean Yang
 summary: Computer scientist (programming languages)
 categories:
 - developer

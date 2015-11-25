@@ -1,5 +1,5 @@
 ---
-name: Patric King
+title: Patric King
 summary: Designer
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Tom Scott
+title: Tom Scott
 summary: Geek comedian
 categories:
 - comedian

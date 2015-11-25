@@ -1,5 +1,5 @@
 ---
-name: Wilson Miner
+title: Wilson Miner
 summary: Web designer (Rdio)
 categories:
 - designer

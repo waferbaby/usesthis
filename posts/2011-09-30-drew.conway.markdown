@@ -1,5 +1,5 @@
 ---
-name: Drew Conway
+title: Drew Conway
 summary: Researcher (terrorism, maths, stats, machine learning)
 categories:
 - data

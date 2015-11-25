@@ -1,5 +1,5 @@
 ---
-name: Andrew Plotkin
+title: Andrew Plotkin
 summary: Hacker, IF Wizard
 categories:
 - developer

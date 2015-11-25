@@ -1,5 +1,5 @@
 ---
-name: Vi Hart
+title: Vi Hart
 summary: Mathemusician, philosopher
 categories:
 - editor

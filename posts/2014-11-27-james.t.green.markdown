@@ -1,5 +1,5 @@
 ---
-name: James T. Green
+title: James T. Green
 summary: Artist, designer
 categories:
 - artist

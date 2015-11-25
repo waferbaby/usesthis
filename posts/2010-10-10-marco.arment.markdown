@@ -1,5 +1,5 @@
 ---
-name: Marco Arment
+title: Marco Arment
 summary: Developer (Instapaper, Tumblr)
 categories:
 - developer

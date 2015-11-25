@@ -1,5 +1,5 @@
 ---
-name: Leah Culver
+title: Leah Culver
 summary: Developer (Convore, Pownce)
 categories:
 - developer

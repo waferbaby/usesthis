@@ -1,5 +1,5 @@
 ---
-name: Josey Baker
+title: Josey Baker
 summary: Baker
 categories:
 - baker

@@ -1,5 +1,5 @@
 ---
-name: John Myles White
+title: John Myles White
 summary: Statistics hacker, PhD student
 categories:
 - data

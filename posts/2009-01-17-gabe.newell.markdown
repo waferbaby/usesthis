@@ -1,5 +1,5 @@
 ---
-name: Gabe Newell
+title: Gabe Newell
 summary: Co-founder of Valve
 categories:
 - game

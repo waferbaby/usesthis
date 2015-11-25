@@ -1,5 +1,5 @@
 ---
-name: Daniel Stenberg
+title: Daniel Stenberg
 summary: Open source developer (cURL)
 categories:
 - developer

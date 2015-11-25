@@ -1,5 +1,5 @@
 ---
-name: Martijn Van Der Meulen
+title: Martijn Van Der Meulen
 summary: Creative Producer (Sony Computer Entertainment)
 categories:
 - game

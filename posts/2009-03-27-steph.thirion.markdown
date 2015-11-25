@@ -1,5 +1,5 @@
 ---
-name: Steph Thirion
+title: Steph Thirion
 summary: Game developer (Eliss)
 categories:
 - developer

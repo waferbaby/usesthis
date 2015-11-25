@@ -1,5 +1,5 @@
 ---
-name: Sha Hwang
+title: Sha Hwang
 summary: Designer, technologist (Gifpop, Meshu, Healthcare.gov)
 categories:
 - designer

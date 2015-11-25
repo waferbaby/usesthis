@@ -1,5 +1,5 @@
 ---
-name: Claire L. Evans
+title: Claire L. Evans
 summary: Writer, editor, singer (YACHT)
 categories:
 - editor

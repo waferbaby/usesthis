@@ -1,5 +1,5 @@
 ---
-name: Chad Fowler
+title: Chad Fowler
 summary: Programmer, musician, author, speaker
 categories:
 - developer

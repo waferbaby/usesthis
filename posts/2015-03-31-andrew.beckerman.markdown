@@ -1,5 +1,5 @@
 ---
-name: Andrew Beckerman
+title: Andrew Beckerman
 summary: Comedian, podcaster (Beginnings, Snap Impression)
 categories:
 - comedian

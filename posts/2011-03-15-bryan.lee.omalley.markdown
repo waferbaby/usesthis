@@ -1,5 +1,5 @@
 ---
-name: Bryan Lee O'Malley
+title: Bryan Lee O'Malley
 summary: Cartoonist (Scott Pilgrim)
 categories:
 - cartoonist

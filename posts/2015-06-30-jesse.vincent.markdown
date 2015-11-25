@@ -1,5 +1,5 @@
 ---
-name: Jesse Vincent
+title: Jesse Vincent
 summary: Developer, CTO of Keyboardio
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Kim Boekbinder
+title: Kim Boekbinder
 summary: Artist, musician (The Impossible Girl)
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Monica Dinculescu
+title: Monica Dinculescu
 summary: Emojineer (Chrome, Polymer)
 categories:
 - developer

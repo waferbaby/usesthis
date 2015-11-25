@@ -1,5 +1,5 @@
 ---
-name: Jim Giles
+title: Jim Giles
 summary: Journalist, co-founder of Matter
 categories:
 - journalist

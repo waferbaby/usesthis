@@ -1,5 +1,5 @@
 ---
-name: Sophia Teutschler
+title: Sophia Teutschler
 summary: Mac developer (CoverSutra, Groceries, Tipulator)
 categories:
 - developer

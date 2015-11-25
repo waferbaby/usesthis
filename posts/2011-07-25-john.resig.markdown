@@ -1,5 +1,5 @@
 ---
-name: John Resig
+title: John Resig
 summary: Programmer (jQuery)
 categories:
 - developer

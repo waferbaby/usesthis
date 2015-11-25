@@ -1,5 +1,5 @@
 ---
-name: Judd Vinet
+title: Judd Vinet
 summary: Software engineer (Arch Linux), CTO (Bet Smart Media)
 categories:
 - developer

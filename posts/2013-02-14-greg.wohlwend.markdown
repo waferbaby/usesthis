@@ -1,5 +1,5 @@
 ---
-name: Greg Wohlwend
+title: Greg Wohlwend
 summary: Game designer (Hundreds, Gasketball, Solipskier)
 categories:
 - designer

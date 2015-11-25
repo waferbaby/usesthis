@@ -1,5 +1,5 @@
 ---
-name: Julian Frost
+title: Julian Frost
 summary: Animator, illustrator
 categories:
 - animator

@@ -1,5 +1,5 @@
 ---
-name: Yihui Xie
+title: Yihui Xie
 summary: PhD statistician, R developer
 categories:
 - data

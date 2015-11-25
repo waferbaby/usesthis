@@ -1,5 +1,5 @@
 ---
-name: James Duncan Davidson
+title: James Duncan Davidson
 summary: Photographer (TED), developer, writer
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Rick Falkvinge
+title: Rick Falkvinge
 summary: Founder of the Swedish Pirate Party
 categories:
 - entrepreneur

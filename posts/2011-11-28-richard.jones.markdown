@@ -1,5 +1,5 @@
 ---
-name: Richard Jones
+title: Richard Jones
 summary: Developer (Last.fm, IRCCloud)
 categories:
 - developer

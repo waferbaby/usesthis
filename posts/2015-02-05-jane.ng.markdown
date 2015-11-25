@@ -1,5 +1,5 @@
 ---
-name: Jane Ng
+title: Jane Ng
 summary: Environment artist (Firewatch)
 categories:
 - artist

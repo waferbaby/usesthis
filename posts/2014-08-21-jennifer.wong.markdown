@@ -1,5 +1,5 @@
 ---
-name: Jennifer Wong
+title: Jennifer Wong
 summary: Web developer (HotPads)
 categories:
 - developer

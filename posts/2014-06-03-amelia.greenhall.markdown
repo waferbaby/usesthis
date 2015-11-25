@@ -1,5 +1,5 @@
 ---
-name: Amelia Greenhall
+title: Amelia Greenhall
 summary: Data scientist, executive director (Double Union)
 categories:
 - data

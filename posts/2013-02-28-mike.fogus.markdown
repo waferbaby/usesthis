@@ -1,5 +1,5 @@
 ---
-name: Mike Fogus
+title: Mike Fogus
 summary: Software developer, author
 categories:
 - developer

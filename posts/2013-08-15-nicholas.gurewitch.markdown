@@ -1,5 +1,5 @@
 ---
-name: Nicholas Gurewitch
+title: Nicholas Gurewitch
 summary: Cartoonist (The Perry Bible Fellowship)
 categories:
 - cartoonist

@@ -1,5 +1,5 @@
 ---
-name: Rob Malda
+title: Rob Malda
 summary: Founder, Slashdot
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Michael Natkin
+title: Michael Natkin
 summary: Software developer, cook
 categories:
 - developer

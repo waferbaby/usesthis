@@ -1,5 +1,5 @@
 ---
-name: Klaus Pichler
+title: Klaus Pichler
 summary: Freelance photographer
 categories:
 - photographer

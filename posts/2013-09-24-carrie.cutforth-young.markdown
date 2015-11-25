@@ -1,5 +1,5 @@
 ---
-name: Carrie Cutforth-Young
+title: Carrie Cutforth-Young
 summary: Professional storyteller, producer, community builder
 categories:
 - community

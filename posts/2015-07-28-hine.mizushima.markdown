@@ -1,5 +1,5 @@
 ---
-name: Hiné Mizushima
+title: Hiné Mizushima
 summary: Felt sculptor, animator
 categories:
 - animator

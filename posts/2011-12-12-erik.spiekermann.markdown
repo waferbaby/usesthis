@@ -1,5 +1,5 @@
 ---
-name: Erik Spiekermann
+title: Erik Spiekermann
 summary: Type and information designer
 categories:
 - designer

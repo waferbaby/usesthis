@@ -1,5 +1,5 @@
 ---
-name: Neha Narula
+title: Neha Narula
 summary: PhD student, data scientist, developer
 categories:
 - developer

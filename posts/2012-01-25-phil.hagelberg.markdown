@@ -1,5 +1,5 @@
 ---
-name: Phil Hagelberg
+title: Phil Hagelberg
 summary: Hacker-errant (Heroku)
 categories:
 - developer

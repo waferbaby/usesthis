@@ -1,5 +1,5 @@
 ---
-name: Sadayuki Furuhashi
+title: Sadayuki Furuhashi
 summary: Hacker (MessagePack, Fluentd)
 categories:
 - developer

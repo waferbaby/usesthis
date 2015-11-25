@@ -1,5 +1,5 @@
 ---
-name: Stefano Zacchiroli
+title: Stefano Zacchiroli
 summary: Computer science researcher, teacher, developer (Debian)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Laura Olin
+title: Laura Olin
 summary: Digital strategist
 categories:
 - mac

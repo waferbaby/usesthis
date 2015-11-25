@@ -1,5 +1,5 @@
 ---
-name: Adam Glazier
+title: Adam Glazier
 summary: Interaction + sound designer (IDEO)
 categories:
 - designer

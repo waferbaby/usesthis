@@ -1,5 +1,5 @@
 ---
-name: Vaughn Royko
+title: Vaughn Royko
 summary: Web designer, indie game developer
 categories:
 - developer

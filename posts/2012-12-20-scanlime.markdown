@@ -1,5 +1,5 @@
 ---
-name: Micah Elizabeth Scott
+title: Micah Elizabeth Scott
 summary: Hardware and software hacker
 categories:
 - developer

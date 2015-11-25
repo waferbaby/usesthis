@@ -1,5 +1,5 @@
 ---
-name: Damien Miller
+title: Damien Miller
 summary: Open-source developer (OpenSSH, OpenBSD)
 categories:
 - bsd

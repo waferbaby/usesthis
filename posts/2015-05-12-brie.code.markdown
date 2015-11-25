@@ -1,5 +1,5 @@
 ---
-name: Brie Code
+title: Brie Code
 summary: Lead developer (Ubisoft Montreal)
 categories:
 - developer

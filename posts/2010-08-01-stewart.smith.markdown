@@ -1,5 +1,5 @@
 ---
-name: Stewart Smith
+title: Stewart Smith
 summary: Programmer, graphic designer
 categories:
 - designer

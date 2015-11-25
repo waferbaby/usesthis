@@ -1,5 +1,5 @@
 ---
-name: Max Shron
+title: Max Shron
 summary: Data scientist (Shron LLC, ex-OkCupid)
 categories:
 - data

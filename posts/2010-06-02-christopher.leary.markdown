@@ -1,5 +1,5 @@
 ---
-name: Christopher Leary
+title: Christopher Leary
 summary: Musician (Ochre)
 categories:
 - musician

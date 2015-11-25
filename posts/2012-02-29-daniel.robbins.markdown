@@ -1,5 +1,5 @@
 ---
-name: Daniel Robbins
+title: Daniel Robbins
 summary: Software developer, creator of Gentoo
 categories:
 - developer

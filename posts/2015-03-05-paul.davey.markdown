@@ -1,5 +1,5 @@
 ---
-name: Paul Davey
+title: Paul Davey
 summary: Painter, illustrator
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Justin Frankel
+title: Justin Frankel
 summary: Software developer (Winamp, REAPER)
 categories:
 - developer

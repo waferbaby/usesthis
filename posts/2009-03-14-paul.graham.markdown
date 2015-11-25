@@ -1,5 +1,5 @@
 ---
-name: Paul Graham
+title: Paul Graham
 summary: Head of YCombinator, creator of the Arc language
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Derek Yu
+title: Derek Yu
 summary: Illustrator, indie game developer (Aquaria, Spelunky)
 categories:
 - artist

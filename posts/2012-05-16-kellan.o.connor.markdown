@@ -1,5 +1,5 @@
 ---
-name: Kellan O'Connor
+title: Kellan O'Connor
 summary: Engineer (SpaceX)
 categories:
 - engineer

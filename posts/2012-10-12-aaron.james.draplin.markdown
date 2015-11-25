@@ -1,5 +1,5 @@
 ---
-name: Aaron James Draplin
+title: Aaron James Draplin
 summary: Designer, guitar player, badass
 categories:
 - designer

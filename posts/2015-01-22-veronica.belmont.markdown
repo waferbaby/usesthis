@@ -1,5 +1,5 @@
 ---
-name: Veronica Belmont
+title: Veronica Belmont
 summary: TV host, emcee, podcaster
 categories:
 - emcee

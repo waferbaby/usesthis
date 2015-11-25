@@ -1,5 +1,5 @@
 ---
-name: Sam Brown
+title: Sam Brown
 summary: Illustrator (Exploding Dog)
 categories:
 - artist

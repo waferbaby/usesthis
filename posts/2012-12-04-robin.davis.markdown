@@ -1,5 +1,5 @@
 ---
-name: Robin Camille Davis
+title: Robin Camille Davis
 summary: Digital librarian, web developer
 categories:
 - developer

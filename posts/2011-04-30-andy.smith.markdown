@@ -1,5 +1,5 @@
 ---
-name: Andy Smith
+title: Andy Smith
 summary: Software developer (OpenStack for Rackspace)
 categories:
 - developer

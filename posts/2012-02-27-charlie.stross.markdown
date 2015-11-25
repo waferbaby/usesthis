@@ -1,5 +1,5 @@
 ---
-name: Charlie Stross
+title: Charlie Stross
 summary: Novelist, recovering software developer
 categories:
 - developer

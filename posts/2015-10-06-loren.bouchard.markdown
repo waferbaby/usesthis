@@ -1,5 +1,5 @@
 ---
-name: Loren Bouchard
+title: Loren Bouchard
 summary: Creator of Bob's Burgers
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Ann Friedman
+title: Ann Friedman
 summary: Journalist (New York magazine, Tomorrow)
 categories:
 - editor

@@ -1,5 +1,5 @@
 ---
-name: Justin Smith
+title: Justin Smith
 summary: Game developer (Enviro-Bear 2010)
 categories:
 - developer

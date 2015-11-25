@@ -1,5 +1,5 @@
 ---
-name: Tim Hwang
+title: Tim Hwang
 summary: Director of Marketing (Imgur)
 categories:
 - designer

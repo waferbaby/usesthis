@@ -1,5 +1,5 @@
 ---
-name: Sam Lavigne
+title: Sam Lavigne
 summary: Programmer, artist
 categories:
 - artist

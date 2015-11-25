@@ -1,5 +1,5 @@
 ---
-name: Tony Konecny
+title: Tony Konecny
 summary: Coffee guy (Tonx)
 categories:
 - coffee

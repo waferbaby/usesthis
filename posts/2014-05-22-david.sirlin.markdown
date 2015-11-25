@@ -1,5 +1,5 @@
 ---
-name: David Sirlin
+title: David Sirlin
 summary: Game designer (Sirlin Games)
 categories:
 - designer

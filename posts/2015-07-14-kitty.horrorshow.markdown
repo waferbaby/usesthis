@@ -1,5 +1,5 @@
 ---
-name: Kitty Horrorshow
+title: Kitty Horrorshow
 summary: Indie game developer
 categories:
 - developer

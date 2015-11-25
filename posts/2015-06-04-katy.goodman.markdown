@@ -1,5 +1,5 @@
 ---
-name: Katy Goodman
+title: Katy Goodman
 summary: Musician (Vivian Girls, La Sera), web developer (CASH Music)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Mitch Altman
+title: Mitch Altman
 summary: Inventor
 categories:
 - hacker

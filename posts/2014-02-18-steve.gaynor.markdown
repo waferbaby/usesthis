@@ -1,5 +1,5 @@
 ---
-name: Steve Gaynor
+title: Steve Gaynor
 summary: Game designer, writer, co-founder (The Fullbright Company)
 categories:
 - designer

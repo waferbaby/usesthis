@@ -1,5 +1,5 @@
 ---
-name: Jonathan Mann
+title: Jonathan Mann
 summary: Musician (2000 Songs In 2000 Days)
 categories:
 - mac

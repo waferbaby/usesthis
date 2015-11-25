@@ -1,5 +1,5 @@
 ---
-name: John Allspaw
+title: John Allspaw
 summary: SVP of TechOps, Etsy
 categories:
 - engineer

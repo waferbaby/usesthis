@@ -1,5 +1,5 @@
 ---
-name: Stephen Powell
+title: Stephen Powell
 summary: Co-founder, Gustin
 categories:
 - fashion

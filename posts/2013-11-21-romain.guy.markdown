@@ -1,5 +1,5 @@
 ---
-name: Romain Guy
+title: Romain Guy
 summary: Software developer, photographer
 categories:
 - developer

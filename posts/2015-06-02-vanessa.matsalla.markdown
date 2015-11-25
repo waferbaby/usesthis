@@ -1,5 +1,5 @@
 ---
-name: Vanessa Matsalla
+title: Vanessa Matsalla
 summary: Interior designer (Studio Matsalla)
 categories:
 - mac

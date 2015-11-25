@@ -1,5 +1,5 @@
 ---
-name: George Upton
+title: George Upton
 summary: Music producer, performer
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Amber Case
+title: Amber Case
 summary: Cyborg anthropologist, UX designer
 categories:
 - designer

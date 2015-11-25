@@ -1,5 +1,5 @@
 ---
-name: Gina Trapani
+title: Gina Trapani
 summary: Writer, blogger (Smarterware)
 categories:
 - developer

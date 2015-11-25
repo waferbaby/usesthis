@@ -1,5 +1,5 @@
 ---
-name: John Pavlus
+title: John Pavlus
 summary: Writer, film maker (Small Mammal)
 categories:
 - film

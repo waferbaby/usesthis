@@ -1,5 +1,5 @@
 ---
-name: Joshua Topolsky
+title: Joshua Topolsky
 summary: Co-founder, editor (The Verge)
 categories:
 - editor

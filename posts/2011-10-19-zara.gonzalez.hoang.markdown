@@ -1,5 +1,5 @@
 ---
-name: Zara Gonzalez Hoang
+title: Zara Gonzalez Hoang
 summary: Designer, illustrator, developer, screen printer
 categories:
 - designer

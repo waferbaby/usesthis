@@ -1,5 +1,5 @@
 ---
-name: Fabienne Serriere
+title: Fabienne Serriere
 summary: Hardware hacker (KnitYak)
 categories:
 - hacker

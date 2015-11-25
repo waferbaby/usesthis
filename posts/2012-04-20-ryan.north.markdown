@@ -1,5 +1,5 @@
 ---
-name: Ryan North
+title: Ryan North
 summary: Cartoonist (Dinosaur comics)
 categories:
 - cartoonist

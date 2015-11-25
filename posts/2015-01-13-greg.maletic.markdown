@@ -1,5 +1,5 @@
 ---
-name: Greg Maletic
+title: Greg Maletic
 summary: Developer (Panic), illustrator
 categories:
 - designer

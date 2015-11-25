@@ -1,5 +1,5 @@
 ---
-name: Reverend Joey Talley
+title: Reverend Joey Talley
 summary: Wicca minister
 categories:
 - mac

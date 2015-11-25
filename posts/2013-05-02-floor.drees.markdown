@@ -1,5 +1,5 @@
 ---
-name: Floor Drees
+title: Floor Drees
 summary: Junior developer, education aficionado
 categories:
 - developer

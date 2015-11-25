@@ -1,5 +1,5 @@
 ---
-name: Mike Kruzeniski
+title: Mike Kruzeniski
 summary: Former principal design lead (Windows Phone)
 categories:
 - designer

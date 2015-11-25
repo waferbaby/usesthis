@@ -1,5 +1,5 @@
 ---
-name: Cory Schmitz
+title: Cory Schmitz
 summary: Graphic designer, illustrator
 categories:
 - designer

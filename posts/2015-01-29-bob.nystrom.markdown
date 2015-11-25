@@ -1,5 +1,5 @@
 ---
-name: Bob Nystrom
+title: Bob Nystrom
 summary: Game and language developer
 categories:
 - developer

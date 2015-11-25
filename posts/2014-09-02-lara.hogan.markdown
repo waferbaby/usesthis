@@ -1,5 +1,5 @@
 ---
-name: Lara Hogan
+title: Lara Hogan
 summary: Front-end developer, performance engineering manager (Etsy)
 categories:
 - developer

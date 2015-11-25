@@ -1,5 +1,5 @@
 ---
-name: Jen Fong-Adwent
+title: Jen Fong-Adwent
 summary: Apps engineer (Mozilla)
 categories:
 - developer

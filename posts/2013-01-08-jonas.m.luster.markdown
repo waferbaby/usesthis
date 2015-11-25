@@ -1,5 +1,5 @@
 ---
-name: Jonas M. Luster
+title: Jonas M. Luster
 summary: Food scientist (el Bulli), developer
 categories:
 - chef

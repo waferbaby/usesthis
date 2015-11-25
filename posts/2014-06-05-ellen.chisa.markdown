@@ -1,5 +1,5 @@
 ---
-name: Ellen Chisa
+title: Ellen Chisa
 summary: Product manager (Kickstarter)
 categories:
 - mac

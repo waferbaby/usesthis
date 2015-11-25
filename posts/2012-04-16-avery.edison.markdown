@@ -1,5 +1,5 @@
 ---
-name: Avery Edison
+title: Avery Edison
 summary: Stand-up comedian, writer
 categories:
 - comedian

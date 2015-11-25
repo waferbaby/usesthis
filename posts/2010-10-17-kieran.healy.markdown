@@ -1,5 +1,5 @@
 ---
-name: Kieran Healy
+title: Kieran Healy
 summary: Sociologist
 categories:
 - mac

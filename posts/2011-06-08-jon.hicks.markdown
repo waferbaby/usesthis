@@ -1,5 +1,5 @@
 ---
-name: Jon Hicks
+title: Jon Hicks
 summary: Designer, gentleman
 categories:
 - designer

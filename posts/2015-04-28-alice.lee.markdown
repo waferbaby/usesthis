@@ -1,5 +1,5 @@
 ---
-name: Alice Lee
+title: Alice Lee
 summary: Illustrator, painter
 categories:
 - artist

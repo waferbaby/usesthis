@@ -1,5 +1,5 @@
 ---
-name: Sarah Grayson
+title: Sarah Grayson
 summary: Voice actor (Gone Home)
 categories:
 - actor

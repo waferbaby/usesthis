@@ -1,5 +1,5 @@
 ---
-name: Chris Dahlen
+title: Chris Dahlen
 summary: Video game writer, coder
 categories:
 - developer

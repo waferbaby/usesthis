@@ -1,5 +1,5 @@
 ---
-name: Flourish Klink
+title: Flourish Klink
 summary: Story-teller, lecturer, IF writer
 categories:
 - game

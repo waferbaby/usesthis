@@ -1,5 +1,5 @@
 ---
-name: Ashley Davis
+title: Ashley Davis
 summary: Cartoonist (Jailbird)
 categories:
 - cartoonist

@@ -1,5 +1,5 @@
 ---
-name: Eric Kissack
+title: Eric Kissack
 summary: Filmmaker, editor
 categories:
 - editor

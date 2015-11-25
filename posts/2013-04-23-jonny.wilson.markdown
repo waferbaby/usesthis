@@ -1,5 +1,5 @@
 ---
-name: Jonny Wilson
+title: Jonny Wilson
 summary: Video DJ
 categories:
 - mac

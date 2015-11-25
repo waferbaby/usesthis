@@ -1,5 +1,5 @@
 ---
-name: Nate Bolt
+title: Nate Bolt
 summary: Researcher, designer (Beep Show, Ethnio)
 categories:
 - designer

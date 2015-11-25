@@ -1,5 +1,5 @@
 ---
-name: Salvatore Sanfilippo
+title: Salvatore Sanfilippo
 summary: Software developer (Redis)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: MrVoletron
+title: MrVoletron
 summary: Musician/gnome-wrangler
 categories:
 - musician

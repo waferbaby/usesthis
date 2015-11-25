@@ -1,5 +1,5 @@
 ---
-name: Paul Lamere
+title: Paul Lamere
 summary: Music hacker (The Echo Nest)
 categories:
 - audio

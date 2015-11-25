@@ -1,5 +1,5 @@
 ---
-name: Lee Hardcastle
+title: Lee Hardcastle
 summary: Indie clay animator
 categories:
 - animator

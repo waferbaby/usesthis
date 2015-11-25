@@ -1,5 +1,5 @@
 ---
-name: John Battaglia
+title: John Battaglia
 summary: Coffee roaster
 categories:
 - coffee

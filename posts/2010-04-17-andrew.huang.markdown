@@ -1,5 +1,5 @@
 ---
-name: Andrew Huang
+title: Andrew Huang
 summary: Hardware misfit
 categories:
 - hacker

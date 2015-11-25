@@ -1,5 +1,5 @@
 ---
-name: Greg Kroah-Hartman
+title: Greg Kroah-Hartman
 summary: Linux kernel developer
 categories:
 - developer

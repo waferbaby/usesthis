@@ -1,5 +1,5 @@
 ---
-name: Rich Siegel
+title: Rich Siegel
 summary: Developer and co-founder, Bare Bones Software
 categories:
 - developer

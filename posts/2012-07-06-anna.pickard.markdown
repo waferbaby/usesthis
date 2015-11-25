@@ -1,5 +1,5 @@
 ---
-name: Anna Pickard
+title: Anna Pickard
 summary: Writer (The Guardian, Glitch)
 categories:
 - game

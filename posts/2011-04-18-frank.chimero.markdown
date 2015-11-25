@@ -1,5 +1,5 @@
 ---
-name: Frank Chimero
+title: Frank Chimero
 summary: Designer, illustrator, writer
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Chris Zane
+title: Chris Zane
 summary: Record producer, engineer and mixer
 categories:
 - mac

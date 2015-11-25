@@ -1,5 +1,5 @@
 ---
-name: Martin Kool
+title: Martin Kool
 summary: HTML5 rocket surgeon, underpants gnome
 categories:
 - developer

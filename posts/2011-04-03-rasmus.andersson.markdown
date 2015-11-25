@@ -1,5 +1,5 @@
 ---
-name: Rasmus Andersson
+title: Rasmus Andersson
 summary: Designer, programmer (Spotify, Facebook)
 categories:
 - designer

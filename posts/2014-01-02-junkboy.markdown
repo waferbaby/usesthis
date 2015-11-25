@@ -1,5 +1,5 @@
 ---
-name: junkboy
+title: junkboy
 summary: Illustrator, graphics designer (Mojang)
 categories:
 - artist

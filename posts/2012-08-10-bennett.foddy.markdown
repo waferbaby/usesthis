@@ -1,5 +1,5 @@
 ---
-name: Bennett Foddy
+title: Bennett Foddy
 summary: Moral philosopher, game developer
 categories:
 - game

@@ -1,5 +1,5 @@
 ---
-name: Hugo Liu
+title: Hugo Liu
 summary: Taste researcher, Chief Scientist (Hunch)
 categories:
 - mac

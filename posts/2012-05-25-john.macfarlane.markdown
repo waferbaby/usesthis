@@ -1,5 +1,5 @@
 ---
-name: John MacFarlane
+title: John MacFarlane
 summary: Philosophy professor, developer (pandoc, gitit)
 categories:
 - developer

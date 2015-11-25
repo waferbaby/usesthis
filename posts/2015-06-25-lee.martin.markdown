@@ -1,5 +1,5 @@
 ---
-name: Lee Martin
+title: Lee Martin
 summary: Designer, developer
 categories:
 - designer

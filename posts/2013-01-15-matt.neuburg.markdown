@@ -1,5 +1,5 @@
 ---
-name: Matt Neuburg
+title: Matt Neuburg
 summary: Developer, writer, contributing editor (TidBITS)
 categories:
 - developer

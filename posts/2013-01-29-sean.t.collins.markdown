@@ -1,5 +1,5 @@
 ---
-name: Sean T. Collins
+title: Sean T. Collins
 summary: Writer (comics, Rolling Stone, BuzzFeed)
 categories:
 - mac

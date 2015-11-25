@@ -1,5 +1,5 @@
 ---
-name: Dustin Curtis
+title: Dustin Curtis
 summary: Writer, UX designer
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Shaun Inman
+title: Shaun Inman
 summary: Designer, developer, composer
 categories:
 - designer

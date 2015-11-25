@@ -1,5 +1,5 @@
 ---
-name: Nili Brosh
+title: Nili Brosh
 summary: Instrumental guitarist, composer
 categories:
 - musician

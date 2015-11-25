@@ -1,5 +1,5 @@
 ---
-name: Pablo Barquín
+title: Pablo Barquín
 summary: Art director, motion graphics artist (Physalia)
 categories:
 - designer

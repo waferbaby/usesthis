@@ -1,5 +1,5 @@
 ---
-name: Carlos Bueno
+title: Carlos Bueno
 summary: Software developer (MemSQL), writer
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Brad Fitzpatrick
+title: Brad Fitzpatrick
 summary: Developer (LiveJournal, memcached)
 categories:
 - developer

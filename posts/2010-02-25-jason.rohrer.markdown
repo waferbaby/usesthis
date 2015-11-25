@@ -1,5 +1,5 @@
 ---
-name: Jason Rohrer
+title: Jason Rohrer
 summary: Game developer (Passage)
 categories:
 - developer

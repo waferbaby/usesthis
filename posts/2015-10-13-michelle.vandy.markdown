@@ -1,5 +1,5 @@
 ---
-name: Michelle Vandy
+title: Michelle Vandy
 summary: Brand designer (Omada Health)
 categories:
 - designer

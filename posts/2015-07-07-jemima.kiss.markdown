@@ -1,5 +1,5 @@
 ---
-name: Jemima Kiss
+title: Jemima Kiss
 summary: Head of technology (Guardian)
 categories:
 - editor

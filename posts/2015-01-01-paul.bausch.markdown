@@ -1,5 +1,5 @@
 ---
-name: Paul Bausch
+title: Paul Bausch
 summary: Web developer (MetaFilter)
 categories:
 - developer

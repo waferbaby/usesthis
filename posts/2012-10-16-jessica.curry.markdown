@@ -1,5 +1,5 @@
 ---
-name: Jessica Curry
+title: Jessica Curry
 summary: Music composer, co-director (thechineseroom)
 categories:
 - mac

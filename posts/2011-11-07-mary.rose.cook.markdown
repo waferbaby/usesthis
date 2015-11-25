@@ -1,5 +1,5 @@
 ---
-name: Mary Rose Cook
+title: Mary Rose Cook
 summary: Coder, musician
 categories:
 - developer

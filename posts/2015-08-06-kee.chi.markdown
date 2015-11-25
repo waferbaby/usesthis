@@ -1,5 +1,5 @@
 ---
-name: Kee Chi
+title: Kee Chi
 summary: Gameplay programmer (Double Fine)
 categories:
 - developer

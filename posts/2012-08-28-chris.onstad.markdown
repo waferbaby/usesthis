@@ -1,5 +1,5 @@
 ---
-name: Chris Onstad
+title: Chris Onstad
 summary: Cartoonist (Achewood), writer
 categories:
 - cartoonist

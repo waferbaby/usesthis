@@ -1,5 +1,5 @@
 ---
-name: thricedotted
+title: thricedotted
 summary: Language hacker, Twitter bot master
 categories:
 - developer

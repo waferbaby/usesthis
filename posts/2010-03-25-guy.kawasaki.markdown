@@ -1,5 +1,5 @@
 ---
-name: Guy Kawasaki
+title: Guy Kawasaki
 summary: Venture capitalist, entrepreneur
 categories:
 - mac

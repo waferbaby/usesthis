@@ -1,5 +1,5 @@
 ---
-name: Craig Mod
+title: Craig Mod
 summary: Writer, designer, publisher, developer
 categories:
 - designer

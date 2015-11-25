@@ -1,5 +1,5 @@
 ---
-name: Jason Kottke
+title: Jason Kottke
 summary: Weblogger, web developer (Stellar)
 categories:
 - developer

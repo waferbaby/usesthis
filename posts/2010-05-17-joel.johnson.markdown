@@ -1,5 +1,5 @@
 ---
-name: Joel Johnson
+title: Joel Johnson
 summary: Writer
 categories:
 - mac

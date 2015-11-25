@@ -1,5 +1,5 @@
 ---
-name: Tony Ruth
+title: Tony Ruth
 summary: Illustrator
 categories:
 - artist

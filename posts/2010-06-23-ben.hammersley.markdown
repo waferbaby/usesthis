@@ -1,5 +1,5 @@
 ---
-name: Ben Hammersley
+title: Ben Hammersley
 summary: Editor (Wired UK), war correspondent
 categories:
 - editor

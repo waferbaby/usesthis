@@ -1,5 +1,5 @@
 ---
-name: Eric S Raymond
+title: Eric S Raymond
 summary: OSS developer, writer ('The Cathedral and the Bazaar')
 categories:
 - developer

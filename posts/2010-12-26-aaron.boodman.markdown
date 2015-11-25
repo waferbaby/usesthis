@@ -1,5 +1,5 @@
 ---
-name: Aaron Boodman
+title: Aaron Boodman
 summary: Developer (Greasemonkey, Google Chrome)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Nick Bradbury
+title: Nick Bradbury
 summary: Software developer (FeedDemon, Glassboard)
 categories:
 - developer

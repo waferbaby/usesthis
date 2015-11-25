@@ -1,5 +1,5 @@
 ---
-name: Alex Kohlhofer
+title: Alex Kohlhofer
 summary: Web developer (Weewar, Spreedly, No Kahuna)
 categories:
 - developer

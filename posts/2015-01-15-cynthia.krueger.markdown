@@ -1,5 +1,5 @@
 ---
-name: Cynthia Krueger
+title: Cynthia Krueger
 summary: Patent agent, freelance writer
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Thomas Marban
+title: Thomas Marban
 summary: Startup founder, developer
 categories:
 - developer

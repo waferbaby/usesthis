@@ -1,5 +1,5 @@
 ---
-name: Aaron Swartz
+title: Aaron Swartz
 summary: Hacker, activist
 categories:
 - developer

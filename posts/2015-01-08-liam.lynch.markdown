@@ -1,5 +1,5 @@
 ---
-name: Liam Lynch
+title: Liam Lynch
 summary: Writer, director, musician (Lynchland)
 categories:
 - director

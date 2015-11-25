@@ -1,5 +1,5 @@
 ---
-name: Daniel Sinker
+title: Daniel Sinker
 summary: Director, Knight-Mozilla OpenNews
 categories:
 - journalist

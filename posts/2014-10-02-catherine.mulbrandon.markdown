@@ -1,5 +1,5 @@
 ---
-name: Catherine Mulbrandon
+title: Catherine Mulbrandon
 summary: Designer (Visualizing Economics)
 categories:
 - designer

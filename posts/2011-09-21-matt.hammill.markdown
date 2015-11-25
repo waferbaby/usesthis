@@ -1,5 +1,5 @@
 ---
-name: Matt Hammill
+title: Matt Hammill
 summary: Artist, animator, game designer
 categories:
 - artist

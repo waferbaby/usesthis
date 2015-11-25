@@ -1,5 +1,5 @@
 ---
-name: Andrei Alexandrescu
+title: Andrei Alexandrescu
 summary: Research scientist (Facebook)
 categories:
 - linux

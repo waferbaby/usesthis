@@ -1,5 +1,5 @@
 ---
-name: Henry Smith
+title: Henry Smith
 summary: Indie game developer (Spaceteam)
 categories:
 - developer

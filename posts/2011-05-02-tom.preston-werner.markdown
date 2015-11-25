@@ -1,5 +1,5 @@
 ---
-name: Tom Preston-Werner
+title: Tom Preston-Werner
 summary: Co-founder of Github
 categories:
 - developer

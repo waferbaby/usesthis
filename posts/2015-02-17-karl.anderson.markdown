@@ -1,5 +1,5 @@
 ---
-name: Karl Anderson
+title: Karl Anderson
 summary: Software engineer, phone hardware hacker
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Dan Hill
+title: Dan Hill
 summary: Designer, CEO (Fabrica)
 categories:
 - designer

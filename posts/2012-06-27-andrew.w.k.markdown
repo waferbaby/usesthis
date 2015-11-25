@@ -1,5 +1,5 @@
 ---
-name: Andrew W.K.
+title: Andrew W.K.
 summary: Professional partyer
 categories:
 - mac

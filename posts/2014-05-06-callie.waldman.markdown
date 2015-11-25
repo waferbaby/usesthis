@@ -1,5 +1,5 @@
 ---
-name: Callie Waldman
+title: Callie Waldman
 summary: Chef (BandPage)
 categories:
 - chef

@@ -1,5 +1,5 @@
 ---
-name: Emily Short
+title: Emily Short
 summary: Interactive narrative consultant
 categories:
 - game

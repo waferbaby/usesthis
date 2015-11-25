@@ -1,5 +1,5 @@
 ---
-name: Rachel Binx
+title: Rachel Binx
 summary: Data visualiser (Meshu)
 categories:
 - data

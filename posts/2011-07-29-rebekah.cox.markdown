@@ -1,5 +1,5 @@
 ---
-name: Rebekah Cox
+title: Rebekah Cox
 summary: Product designer (Quora)
 categories:
 - designer

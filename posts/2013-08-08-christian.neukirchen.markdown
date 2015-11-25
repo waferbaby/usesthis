@@ -1,5 +1,5 @@
 ---
-name: Christian Neukirchen
+title: Christian Neukirchen
 summary: Software developer (Rack, bacon)
 categories:
 - bsd

@@ -1,5 +1,5 @@
 ---
-name: Sandor Katz
+title: Sandor Katz
 summary: Fermentation revivalist
 categories:
 - food

@@ -1,5 +1,5 @@
 ---
-name: Kate Towers
+title: Kate Towers
 summary: Fashion designer, artist
 categories:
 - artist

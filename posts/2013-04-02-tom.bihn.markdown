@@ -1,5 +1,5 @@
 ---
-name: Tom Bihn
+title: Tom Bihn
 summary: Bag designer, CEO
 categories:
 - designer

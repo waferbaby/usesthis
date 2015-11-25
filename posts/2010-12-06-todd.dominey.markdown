@@ -1,5 +1,5 @@
 ---
-name: Todd Dominey
+title: Todd Dominey
 summary: Hat-wearer (SlideShowPro)
 categories:
 - developer

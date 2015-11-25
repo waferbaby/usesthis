@@ -1,5 +1,5 @@
 ---
-name: Dan Benjamin
+title: Dan Benjamin
 summary: Developer, broadcaster
 categories:
 - developer

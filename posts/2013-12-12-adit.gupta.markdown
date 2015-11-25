@@ -1,5 +1,5 @@
 ---
-name: Adit Gupta
+title: Adit Gupta
 summary: Founder and CEO (Function Space)
 categories:
 - developer

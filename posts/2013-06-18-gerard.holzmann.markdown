@@ -1,5 +1,5 @@
 ---
-name: Gerard Holzmann
+title: Gerard Holzmann
 summary: Software researcher (JPL), developer (Spin)
 categories:
 - developer

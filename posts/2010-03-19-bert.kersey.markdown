@@ -1,5 +1,5 @@
 ---
-name: Bert Kersey
+title: Bert Kersey
 summary: Apple II developer, bird fancier
 categories:
 - developer

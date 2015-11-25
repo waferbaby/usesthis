@@ -1,5 +1,5 @@
 ---
-name: Warren Ellis
+title: Warren Ellis
 summary: Writer (Transmetropolitan, Crooked Little Vein)
 categories:
 - windows

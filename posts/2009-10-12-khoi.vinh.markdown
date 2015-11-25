@@ -1,5 +1,5 @@
 ---
-name: Khoi Vinh
+title: Khoi Vinh
 summary: Designer director (NYTimes.com)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Hilary Mason
+title: Hilary Mason
 summary: Chief scientist (bitly)
 categories:
 - data

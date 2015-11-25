@@ -1,5 +1,5 @@
 ---
-name: Bob Sabiston
+title: Bob Sabiston
 summary: Developer, owner of Flat Black Films
 categories:
 - developer

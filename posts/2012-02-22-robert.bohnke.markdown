@@ -1,5 +1,5 @@
 ---
-name: Robert Böhnke
+title: Robert Böhnke
 summary: Software developer (SoundCloud)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Adrian Bowyer
+title: Adrian Bowyer
 summary: Mechanical engineer, inventor (RepRap)
 categories:
 - engineer

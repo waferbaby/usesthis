@@ -1,5 +1,5 @@
 ---
-name: Ligaya Turmelle
+title: Ligaya Turmelle
 summary: MySQL DBA, PHP developer
 categories:
 - developer

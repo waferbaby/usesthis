@@ -1,5 +1,5 @@
 ---
-name: Maggie McFee
+title: Maggie McFee
 summary: Technologist
 categories:
 - artist

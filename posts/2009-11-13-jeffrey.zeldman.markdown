@@ -1,5 +1,5 @@
 ---
-name: Jeffrey Zeldman
+title: Jeffrey Zeldman
 summary: Web designer, fan of Web Standards
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Michael Raphael
+title: Michael Raphael
 summary: Sound effects recordist (Rabbit Ears Audio)
 categories:
 - audio

@@ -1,5 +1,5 @@
 ---
-name: Nozlee Samadzadeh
+title: Nozlee Samadzadeh
 summary: Writer, editor, IA (Flat, The Morning News)
 categories:
 - editor

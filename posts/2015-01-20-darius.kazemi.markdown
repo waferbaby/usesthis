@@ -1,5 +1,5 @@
 ---
-name: Darius Kazemi
+title: Darius Kazemi
 summary: Internet artist (Tiny Subversions)
 categories:
 - artist

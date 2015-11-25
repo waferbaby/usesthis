@@ -1,5 +1,5 @@
 ---
-name: Mel Croucher
+title: Mel Croucher
 summary: Pioneering video game developer
 categories:
 - developer

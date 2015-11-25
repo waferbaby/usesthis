@@ -1,5 +1,5 @@
 ---
-name: Tom Phillipson
+title: Tom Phillipson
 summary: Video editor, VJ, musician
 categories:
 - mac

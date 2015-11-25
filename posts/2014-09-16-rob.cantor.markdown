@@ -1,5 +1,5 @@
 ---
-name: Rob Cantor
+title: Rob Cantor
 summary: Singer, songwriter
 categories:
 - mac

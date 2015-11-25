@@ -1,5 +1,5 @@
 ---
-name: Vili Lehdonvirta
+title: Vili Lehdonvirta
 summary: Economic sociologist
 categories:
 - developer

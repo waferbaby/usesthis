@@ -1,5 +1,5 @@
 ---
-name: Lisa Congdon
+title: Lisa Congdon
 summary: Artist, illustrator
 categories:
 - artist

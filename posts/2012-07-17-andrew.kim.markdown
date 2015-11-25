@@ -1,5 +1,5 @@
 ---
-name: Andrew Kim
+title: Andrew Kim
 summary: Designer, dog lover
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Alexandra Klasinski
+title: Alexandra Klasinski
 summary: Photographer, designer
 categories:
 - designer

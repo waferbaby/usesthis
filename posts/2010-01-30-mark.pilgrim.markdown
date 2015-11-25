@@ -1,5 +1,5 @@
 ---
-name: Mark Pilgrim
+title: Mark Pilgrim
 summary: Developer & standards advocate (Google)
 categories:
 - developer

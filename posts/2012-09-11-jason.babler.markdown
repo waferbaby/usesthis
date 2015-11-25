@@ -1,5 +1,5 @@
 ---
-name: Jason Babler
+title: Jason Babler
 summary: Creative Director (MAKE), sculptor
 categories:
 - artist

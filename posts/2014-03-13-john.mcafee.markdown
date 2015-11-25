@@ -1,5 +1,5 @@
 ---
-name: John McAfee
+title: John McAfee
 summary: Security consultant
 categories:
 - security

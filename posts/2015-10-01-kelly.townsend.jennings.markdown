@@ -1,5 +1,5 @@
 ---
-name: Kelly Townsend Jennings
+title: Kelly Townsend Jennings
 summary: Process engineer (HeartFlow)
 categories:
 - health

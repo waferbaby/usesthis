@@ -1,5 +1,5 @@
 ---
-name: Violet Blue
+title: Violet Blue
 summary: Writer, speaker, sex educator
 categories:
 - mac

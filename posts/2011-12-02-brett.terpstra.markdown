@@ -1,5 +1,5 @@
 ---
-name: Brett Terpstra
+title: Brett Terpstra
 summary: Developer, AOL Tech (Engadget, TUAW) and nvALT
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Chet Faliszek
+title: Chet Faliszek
 summary: Writer of games (Portal 2, Left 4 Dead 2)
 categories:
 - game

@@ -1,5 +1,5 @@
 ---
-name: Bhautik Joshi
+title: Bhautik Joshi
 summary: Research engineer (ILM)
 categories:
 - developer

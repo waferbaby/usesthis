@@ -1,5 +1,5 @@
 ---
-name: Scout Niblett
+title: Scout Niblett
 summary: Musician, astrologer
 categories:
 - astrologer

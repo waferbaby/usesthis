@@ -1,5 +1,5 @@
 ---
-name: Justin Morgan
+title: Justin Morgan
 summary: Professional snowboarder
 categories:
 - athlete

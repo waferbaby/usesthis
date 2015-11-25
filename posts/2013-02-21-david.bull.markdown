@@ -1,5 +1,5 @@
 ---
-name: David Bull
+title: David Bull
 summary: Woodblock printmaker
 categories:
 - crafter

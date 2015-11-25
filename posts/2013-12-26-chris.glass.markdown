@@ -1,5 +1,5 @@
 ---
-name: Chris Glass
+title: Chris Glass
 summary: Designer (Wire & Twine)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Adam Wiggins
+title: Adam Wiggins
 summary: Hacker, entrepeneur (Heroku)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Mark Richardson
+title: Mark Richardson
 summary: Editor-in-chief (Pitchfork)
 categories:
 - editor

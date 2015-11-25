@@ -1,5 +1,5 @@
 ---
-name: Sabra Botch-Jones
+title: Sabra Botch-Jones
 summary: Forensic toxicologist, researcher
 categories:
 - mac

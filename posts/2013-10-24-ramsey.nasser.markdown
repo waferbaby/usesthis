@@ -1,5 +1,5 @@
 ---
-name: Ramsey Nasser
+title: Ramsey Nasser
 summary: Computer scientist, game designer
 categories:
 - developer

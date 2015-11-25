@@ -1,5 +1,5 @@
 ---
-name: Brent Knepper
+title: Brent Knepper
 summary: Photographer
 categories:
 - mac

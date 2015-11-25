@@ -1,5 +1,5 @@
 ---
-name: Danielle Baskin
+title: Danielle Baskin
 summary: Art director, bike helmet painter (Inkwell Helmets)
 categories:
 - artist

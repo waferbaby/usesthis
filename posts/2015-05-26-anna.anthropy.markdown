@@ -1,5 +1,5 @@
 ---
-name: anna anthropy
+title: anna anthropy
 summary: Game developer, game historian
 categories:
 - developer

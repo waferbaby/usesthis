@@ -1,5 +1,5 @@
 ---
-name: Casper Kelly
+title: Casper Kelly
 summary: Writer, director, producer (Adult Swim)
 categories:
 - director

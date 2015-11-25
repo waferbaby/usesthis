@@ -1,5 +1,5 @@
 ---
-name: Lane Moore
+title: Lane Moore
 summary: Comedian, filmmaker, actor, writer, musician
 categories:
 - actor

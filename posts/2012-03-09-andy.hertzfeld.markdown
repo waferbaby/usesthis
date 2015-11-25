@@ -1,5 +1,5 @@
 ---
-name: Andy Hertzfeld
+title: Andy Hertzfeld
 summary: Developer (Macintosh), software designer (Google+)
 categories:
 - designer

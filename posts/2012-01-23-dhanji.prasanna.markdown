@@ -1,5 +1,5 @@
 ---
-name: Dhanji Prasanna
+title: Dhanji Prasanna
 summary: Hacker, ex-Googler (Wave, Plus, Search)
 categories:
 - mac

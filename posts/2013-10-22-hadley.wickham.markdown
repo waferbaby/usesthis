@@ -1,5 +1,5 @@
 ---
-name: Hadley Wickham
+title: Hadley Wickham
 summary: Chief scientist (RStudio)
 categories:
 - developer

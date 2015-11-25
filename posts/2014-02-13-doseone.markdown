@@ -1,5 +1,5 @@
 ---
-name: Adam "doseone" Kidd
+title: Adam "doseone" Kidd
 summary: Musician, rapper, painter
 categories:
 - artist

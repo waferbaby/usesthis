@@ -1,5 +1,5 @@
 ---
-name: Meg Pickard
+title: Meg Pickard
 summary: Creative geek (The Guardian)
 categories:
 - mac

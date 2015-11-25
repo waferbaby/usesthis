@@ -1,5 +1,5 @@
 ---
-name: Chelsea Howe
+title: Chelsea Howe
 summary: Creative Director (Electronic Arts)
 categories:
 - designer

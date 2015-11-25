@@ -1,5 +1,5 @@
 ---
-name: Joe Armstrong
+title: Joe Armstrong
 summary: Software developer (Erlang)
 categories:
 - developer

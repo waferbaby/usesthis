@@ -1,5 +1,5 @@
 ---
-name: Junio C Hamano
+title: Junio C Hamano
 summary: Developer (git)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Aarthi Ramamurthy
+title: Aarthi Ramamurthy
 summary: Founder (Lumoid)
 categories:
 - developer

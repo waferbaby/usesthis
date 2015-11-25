@@ -1,5 +1,5 @@
 ---
-name: Howard Rheingold
+title: Howard Rheingold
 summary: Writer, blogger, teacher
 categories:
 - blogger

@@ -1,5 +1,5 @@
 ---
-name: Madame Fromage
+title: Madame Fromage
 summary: Cheese blogger
 categories:
 - blogger

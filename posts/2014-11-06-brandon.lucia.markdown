@@ -1,5 +1,5 @@
 ---
-name: Brandon Lucia
+title: Brandon Lucia
 summary: Computer researcher, musician (netcat)
 categories:
 - mac

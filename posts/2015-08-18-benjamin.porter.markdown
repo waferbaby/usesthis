@@ -1,5 +1,5 @@
 ---
-name: Benjamin Porter
+title: Benjamin Porter
 summary: Game developer (Moonman)
 categories:
 - developer

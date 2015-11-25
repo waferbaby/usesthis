@@ -1,5 +1,5 @@
 ---
-name: Jim Guthrie
+title: Jim Guthrie
 summary: Musician (Sword & Sworcery, Sound Shapes)
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Martin Pittenauer
+title: Martin Pittenauer
 summary: Co-founder (TheCodingMonkeys)
 categories:
 - developer

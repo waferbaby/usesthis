@@ -1,5 +1,5 @@
 ---
-name: Clay Shirky
+title: Clay Shirky
 summary: Writer, teacher (NYU)
 categories:
 - mac

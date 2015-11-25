@@ -1,5 +1,5 @@
 ---
-name: Karina van Schaardenburg
+title: Karina van Schaardenburg
 summary: User experience researcher (Twitter)
 categories:
 - interface

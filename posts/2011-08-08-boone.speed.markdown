@@ -1,5 +1,5 @@
 ---
-name: Boone Speed
+title: Boone Speed
 summary: Photographer, climber
 categories:
 - mac

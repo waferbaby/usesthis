@@ -1,5 +1,5 @@
 ---
-name: Cal Henderson
+title: Cal Henderson
 summary: Web developer, professional asshat
 categories:
 - developer

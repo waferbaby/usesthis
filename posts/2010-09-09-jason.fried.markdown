@@ -1,5 +1,5 @@
 ---
-name: Jason Fried
+title: Jason Fried
 summary: Co-founder of 37 Signals
 categories:
 - mac

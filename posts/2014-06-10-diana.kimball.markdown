@@ -1,5 +1,5 @@
 ---
-name: Diana Kimball
+title: Diana Kimball
 summary: Writer, programmer (SoundCloud)
 categories:
 - developer

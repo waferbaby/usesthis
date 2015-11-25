@@ -1,5 +1,5 @@
 ---
-name: Laura Jansen
+title: Laura Jansen
 summary: Cosplayer
 categories:
 - artist

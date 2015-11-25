@@ -1,5 +1,5 @@
 ---
-name: Erin McKean
+title: Erin McKean
 summary: Founder of Wordnik
 categories:
 - developer

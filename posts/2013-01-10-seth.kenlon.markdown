@@ -1,5 +1,5 @@
 ---
-name: Seth Kenlon
+title: Seth Kenlon
 summary: Writer, podcaster, multimedia artist
 categories:
 - audio

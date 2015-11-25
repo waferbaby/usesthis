@@ -1,5 +1,5 @@
 ---
-name: Ethan Schoonover
+title: Ethan Schoonover
 summary: Designer, developer (Kinkless, Solarized)
 categories:
 - designer

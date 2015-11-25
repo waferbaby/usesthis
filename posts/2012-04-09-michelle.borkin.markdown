@@ -1,5 +1,5 @@
 ---
-name: Michelle Borkin
+title: Michelle Borkin
 summary: Researcher and scientific visualiser (Harvard)
 categories:
 - mac

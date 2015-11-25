@@ -1,5 +1,5 @@
 ---
-name: Kathryn Yu
+title: Kathryn Yu
 summary: Photographer
 categories:
 - mac

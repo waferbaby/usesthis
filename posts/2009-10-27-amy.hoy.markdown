@@ -1,5 +1,5 @@
 ---
-name: Amy Hoy
+title: Amy Hoy
 summary: Interface designer
 categories:
 - designer

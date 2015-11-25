@@ -1,5 +1,5 @@
 ---
-name: Beau Sorenson
+title: Beau Sorenson
 summary: Recording engineer, musician
 categories:
 - audio

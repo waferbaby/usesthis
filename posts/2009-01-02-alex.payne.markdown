@@ -1,5 +1,5 @@
 ---
-name: Alex Payne
+title: Alex Payne
 summary: API developer (Twitter)
 categories:
 - developer

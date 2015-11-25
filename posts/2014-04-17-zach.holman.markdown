@@ -1,5 +1,5 @@
 ---
-name: Zach Holman
+title: Zach Holman
 summary: Web developer (GitHub)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Pippin Barr
+title: Pippin Barr
 summary: Game maker, writer, teacher
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Scott McCloud
+title: Scott McCloud
 summary: Cartoonist, author
 categories:
 - cartoonist

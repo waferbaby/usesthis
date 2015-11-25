@@ -1,5 +1,5 @@
 ---
-name: Ted Leung
+title: Ted Leung
 summary: Technologist, photographer
 categories:
 - mac

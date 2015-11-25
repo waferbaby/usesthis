@@ -1,5 +1,5 @@
 ---
-name: Brent Simmons
+title: Brent Simmons
 summary: Mac, web developer (Glassboard, ex-NetNewsWire)
 categories:
 - developer

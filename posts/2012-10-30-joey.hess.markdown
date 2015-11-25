@@ -1,5 +1,5 @@
 ---
-name: Joey Hess
+title: Joey Hess
 summary: Software developer (Debian, git-annex)
 categories:
 - developer

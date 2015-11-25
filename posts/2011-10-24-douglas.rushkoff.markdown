@@ -1,5 +1,5 @@
 ---
-name: Douglas Rushkoff
+title: Douglas Rushkoff
 summary: Media theorist, writer
 categories:
 - mac

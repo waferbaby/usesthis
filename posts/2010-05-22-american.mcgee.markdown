@@ -1,5 +1,5 @@
 ---
-name: American McGee
+title: American McGee
 summary: Game designer
 categories:
 - developer

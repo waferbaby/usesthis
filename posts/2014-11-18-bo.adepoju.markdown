@@ -1,5 +1,5 @@
 ---
-name: Bo Adepoju
+title: Bo Adepoju
 summary: Silicon architecture engineer (Intel)
 categories:
 - developer

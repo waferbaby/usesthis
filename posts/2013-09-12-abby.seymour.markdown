@@ -1,5 +1,5 @@
 ---
-name: Abby Seymour
+title: Abby Seymour
 summary: Bookbinder, jewelry maker
 categories:
 - artist

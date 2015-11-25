@@ -1,5 +1,5 @@
 ---
-name: Judy Tyrer
+title: Judy Tyrer
 summary: Game developer (Ever, Jane)
 categories:
 - developer

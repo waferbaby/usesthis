@@ -1,5 +1,5 @@
 ---
-name: Bruce Sterling
+title: Bruce Sterling
 summary: Novelist, journalist
 categories:
 - journalist

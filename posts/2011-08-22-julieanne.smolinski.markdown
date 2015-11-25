@@ -1,5 +1,5 @@
 ---
-name: Julieanne Smolinski
+title: Julieanne Smolinski
 summary: Freelance writer, editor
 categories:
 - editor

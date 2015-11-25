@@ -1,5 +1,5 @@
 ---
-name: Fred Benenson
+title: Fred Benenson
 summary: Data researcher (Kickstarter)
 categories:
 - data

@@ -1,5 +1,5 @@
 ---
-name: Elizabeth Lawley
+title: Elizabeth Lawley
 summary: Professor, School of Interactive Games and Media (RIT)
 categories:
 - game

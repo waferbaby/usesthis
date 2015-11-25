@@ -1,5 +1,5 @@
 ---
-name: Maria Bustillos
+title: Maria Bustillos
 summary: Writer
 categories:
 - windows

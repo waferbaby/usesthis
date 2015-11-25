@@ -1,5 +1,5 @@
 ---
-name: Katie Shelly
+title: Katie Shelly
 summary: Media designer (Cooper-Hewitt Labs)
 categories:
 - animator

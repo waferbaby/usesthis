@@ -1,5 +1,5 @@
 ---
-name: Jeff Lindsay
+title: Jeff Lindsay
 summary: Hacker/Philosopher
 categories:
 - developer

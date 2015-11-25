@@ -1,5 +1,5 @@
 ---
-name: Matt Gemmell
+title: Matt Gemmell
 summary: Mac and iOS developer
 categories:
 - developer

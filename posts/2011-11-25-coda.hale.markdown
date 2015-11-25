@@ -1,5 +1,5 @@
 ---
-name: Coda Hale
+title: Coda Hale
 summary: Infrastructure architect (Yammer)
 categories:
 - developer

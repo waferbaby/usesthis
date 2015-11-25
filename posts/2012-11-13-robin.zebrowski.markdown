@@ -1,5 +1,5 @@
 ---
-name: Robin Zebrowski
+title: Robin Zebrowski
 summary: Assistant professor of cognitive science
 categories:
 - professor

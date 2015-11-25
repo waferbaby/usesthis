@@ -1,5 +1,5 @@
 ---
-name: Michael Sippey
+title: Michael Sippey
 summary: VP Corp Development (Six Apart/SAY)
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Colleen Wainwright
+title: Colleen Wainwright
 summary: Writer, speaker, consultant
 categories:
 - mac

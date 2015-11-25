@@ -1,5 +1,5 @@
 ---
-name: Derek Sivers
+title: Derek Sivers
 summary: TED speaker, founder of CD Baby
 categories:
 - linux

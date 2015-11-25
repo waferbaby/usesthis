@@ -1,5 +1,5 @@
 ---
-name: Renaud Bédard
+title: Renaud Bédard
 summary: Game developer (FEZ)
 categories:
 - developer

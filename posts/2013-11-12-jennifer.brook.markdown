@@ -1,5 +1,5 @@
 ---
-name: Jennifer Brook
+title: Jennifer Brook
 summary: Interaction designer, book artist
 categories:
 - designer

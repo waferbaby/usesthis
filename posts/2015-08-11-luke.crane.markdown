@@ -1,5 +1,5 @@
 ---
-name: Luke Crane
+title: Luke Crane
 summary: Game designer (The Burning Wheel), Games Lead (Kickstarter)
 categories:
 - designer

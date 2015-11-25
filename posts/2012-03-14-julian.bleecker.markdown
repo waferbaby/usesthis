@@ -1,5 +1,5 @@
 ---
-name: Julian Bleecker
+title: Julian Bleecker
 summary: Designer, technologist (Near Future Laboratory)
 categories:
 - designer

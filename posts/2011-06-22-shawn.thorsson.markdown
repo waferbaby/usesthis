@@ -1,5 +1,5 @@
 ---
-name: Shawn Thorsson
+title: Shawn Thorsson
 summary: Prop replica and costume hobbyist
 categories:
 - fashion

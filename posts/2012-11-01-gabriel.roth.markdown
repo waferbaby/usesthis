@@ -1,5 +1,5 @@
 ---
-name: Gabriel Roth
+title: Gabriel Roth
 summary: Writer, web developer
 categories:
 - developer

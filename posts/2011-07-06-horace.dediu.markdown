@@ -1,5 +1,5 @@
 ---
-name: Horace Dediu
+title: Horace Dediu
 summary: Writer, podcaster (Asymco, The Critical Path)
 categories:
 - mac

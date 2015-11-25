@@ -1,5 +1,5 @@
 ---
-name: Sirron Norris
+title: Sirron Norris
 summary: Artist, animator
 categories:
 - artist

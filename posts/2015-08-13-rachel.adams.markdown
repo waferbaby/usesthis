@@ -1,5 +1,5 @@
 ---
-name: Rachel Adams
+title: Rachel Adams
 summary: Writer, recipe developer, co-founder of Dinner was Delicious
 categories:
 - chef

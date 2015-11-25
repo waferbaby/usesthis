@@ -1,5 +1,5 @@
 ---
-name: Robert Hodgin
+title: Robert Hodgin
 summary: Code artist
 categories:
 - artist

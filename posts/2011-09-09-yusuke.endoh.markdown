@@ -1,5 +1,5 @@
 ---
-name: Yusuke Endoh
+title: Yusuke Endoh
 summary: Quine fan and software developer (Ruby)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Jason Shellen
+title: Jason Shellen
 summary: Product guy, designer
 categories:
 - designer

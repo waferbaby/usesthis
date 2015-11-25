@@ -1,5 +1,5 @@
 ---
-name: Lynn Root
+title: Lynn Root
 summary: Software developer (Red Hat, PyLadies SF)
 categories:
 - developer

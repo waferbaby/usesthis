@@ -1,5 +1,5 @@
 ---
-name: Isa Chandra Moskowitz
+title: Isa Chandra Moskowitz
 summary: Vegan cook, writer
 categories:
 - food

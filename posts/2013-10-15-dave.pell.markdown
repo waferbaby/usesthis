@@ -1,5 +1,5 @@
 ---
-name: Dave Pell
+title: Dave Pell
 summary: Writer, news gatherer
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Annica Lydenberg
+title: Annica Lydenberg
 summary: Designer (Dirty Bandits)
 categories:
 - designer

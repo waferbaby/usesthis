@@ -1,5 +1,5 @@
 ---
-name: Jordan McRae
+title: Jordan McRae
 summary: Inventor
 categories:
 - hacker

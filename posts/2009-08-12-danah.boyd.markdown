@@ -1,5 +1,5 @@
 ---
-name: danah boyd
+title: danah boyd
 summary: Researcher, Microsoft Research New England
 categories:
 - mac

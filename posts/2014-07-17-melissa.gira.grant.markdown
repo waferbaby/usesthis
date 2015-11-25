@@ -1,5 +1,5 @@
 ---
-name: Melissa Gira Grant
+title: Melissa Gira Grant
 summary: Writer, freelance journalist
 categories:
 - journalist

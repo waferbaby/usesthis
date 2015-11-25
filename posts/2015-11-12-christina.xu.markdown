@@ -1,5 +1,5 @@
 ---
-name: Christina Xu
+title: Christina Xu
 summary: Ethnographer, organizational designer
 categories:
 - designer

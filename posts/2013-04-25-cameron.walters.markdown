@@ -1,5 +1,5 @@
 ---
-name: Cameron Walters
+title: Cameron Walters
 summary: Software engineer (Apcera, Square, Domainr)
 categories:
 - developer

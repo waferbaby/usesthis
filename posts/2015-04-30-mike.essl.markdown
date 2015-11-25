@@ -1,5 +1,5 @@
 ---
-name: Mike Essl
+title: Mike Essl
 summary: Graphic designer, educator, Mr. T memorabilia collector
 categories:
 - designer

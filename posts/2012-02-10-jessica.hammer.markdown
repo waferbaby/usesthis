@@ -1,5 +1,5 @@
 ---
-name: Jessica Hammer
+title: Jessica Hammer
 summary: Game psychologist, designer
 categories:
 - designer

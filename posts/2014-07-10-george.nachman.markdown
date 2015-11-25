@@ -1,5 +1,5 @@
 ---
-name: George Nachman
+title: George Nachman
 summary: Software developer (Google Search App, iTerm2)
 categories:
 - developer

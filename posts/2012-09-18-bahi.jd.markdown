@@ -1,5 +1,5 @@
 ---
-name: Bahi JD
+title: Bahi JD
 summary: Freelance animator
 categories:
 - animator

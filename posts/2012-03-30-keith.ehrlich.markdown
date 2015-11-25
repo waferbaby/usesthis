@@ -1,5 +1,5 @@
 ---
-name: Keith Ehrlich
+title: Keith Ehrlich
 summary: Filmmaker (Made by Hand)
 categories:
 - film

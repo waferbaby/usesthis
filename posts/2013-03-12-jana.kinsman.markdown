@@ -1,5 +1,5 @@
 ---
-name: Jana Kinsman
+title: Jana Kinsman
 summary: Illustrator, beekeeper
 categories:
 - beekeeper

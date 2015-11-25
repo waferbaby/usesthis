@@ -1,5 +1,5 @@
 ---
-name: Bryan McClaran
+title: Bryan McClaran
 summary: Chef de cuisine (Uptown Management Group)
 categories:
 - chef

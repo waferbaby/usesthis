@@ -1,5 +1,5 @@
 ---
-name: Eric Mill
+title: Eric Mill
 summary: Web developer (18F)
 categories:
 - developer

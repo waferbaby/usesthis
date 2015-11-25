@@ -1,5 +1,5 @@
 ---
-name: Caitlin Doughty
+title: Caitlin Doughty
 summary: Mortician (Undertaking LA)
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Jane Friedhoff
+title: Jane Friedhoff
 summary: Creative technologist (NYT R&D), indie game developer
 categories:
 - developer

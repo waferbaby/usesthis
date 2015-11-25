@@ -1,5 +1,5 @@
 ---
-name: Henry Monteiro
+title: Henry Monteiro
 summary: Writer (Henry's Music Blog)
 categories:
 - writer

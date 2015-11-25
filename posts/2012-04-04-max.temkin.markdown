@@ -1,5 +1,5 @@
 ---
-name: Max Temkin
+title: Max Temkin
 summary: Designer (Cards Against Humanity, political campaigns)
 categories:
 - designer

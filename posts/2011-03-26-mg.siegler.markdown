@@ -1,5 +1,5 @@
 ---
-name: MG Siegler
+title: MG Siegler
 summary: Tech reporter (TechCrunch)
 categories:
 - developer

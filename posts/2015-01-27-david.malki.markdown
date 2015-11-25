@@ -1,5 +1,5 @@
 ---
-name: David Malki !
+title: David Malki !
 summary: Designer, cartoonist (Wondermark)
 categories:
 - cartoonist

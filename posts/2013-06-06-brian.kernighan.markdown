@@ -1,5 +1,5 @@
 ---
-name: Brian Kernighan
+title: Brian Kernighan
 summary: Computer scientist (Unix), writer
 categories:
 - developer

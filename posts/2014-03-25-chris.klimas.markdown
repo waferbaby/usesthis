@@ -1,5 +1,5 @@
 ---
-name: Chris Klimas
+title: Chris Klimas
 summary: Web developer (Twine)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Seb Chan
+title: Seb Chan
 summary: Head of Digital, Powerhouse Museum
 categories:
 - mac

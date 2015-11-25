@@ -1,5 +1,5 @@
 ---
-name: Joe Hewitt
+title: Joe Hewitt
 summary: Creator of Firebug, iPhone developer (Facebook)
 categories:
 - developer

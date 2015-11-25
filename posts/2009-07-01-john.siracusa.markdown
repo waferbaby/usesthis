@@ -1,5 +1,5 @@
 ---
-name: John Siracusa
+title: John Siracusa
 summary: Programmer, writer (Ars Technica)
 categories:
 - developer

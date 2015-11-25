@@ -1,5 +1,5 @@
 ---
-name: David Cramer
+title: David Cramer
 summary: Developer, infrastructure nerd (DISQUS)
 categories:
 - developer

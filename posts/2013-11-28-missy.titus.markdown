@@ -1,5 +1,5 @@
 ---
-name: Missy Titus
+title: Missy Titus
 summary: UX and visual designer (StackMob)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Thomson Nguyen
+title: Thomson Nguyen
 summary: Data scientist (Lookout Mobile Security)
 categories:
 - data

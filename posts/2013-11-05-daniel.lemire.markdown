@@ -1,5 +1,5 @@
 ---
-name: Daniel Lemire
+title: Daniel Lemire
 summary: Computer researcher, professor
 categories:
 - developer

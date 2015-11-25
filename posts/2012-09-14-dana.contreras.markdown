@@ -1,5 +1,5 @@
 ---
-name: Dana Contreras
+title: Dana Contreras
 summary: Systems engineer (Twitter), pilot
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Kate Ray
+title: Kate Ray
 summary: Web developer, technical co-founder (scroll kit)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Jim Crawford
+title: Jim Crawford
 summary: Game developer (Frog Fractions)
 categories:
 - developer

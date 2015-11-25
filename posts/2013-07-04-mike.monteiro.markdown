@@ -1,5 +1,5 @@
 ---
-name: Mike Monteiro
+title: Mike Monteiro
 summary: Designer, director (Mule)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Yanier Gonzalez
+title: Yanier Gonzalez
 summary: Writer, designer, publisher (Destructoid)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Jeff LaMarche
+title: Jeff LaMarche
 summary: Author, software developer
 categories:
 - developer

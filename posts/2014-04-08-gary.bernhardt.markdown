@@ -1,5 +1,5 @@
 ---
-name: Gary Bernhardt
+title: Gary Bernhardt
 summary: Software developer, screencaster (Destroy All Software)
 categories:
 - developer

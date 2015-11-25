@@ -1,5 +1,5 @@
 ---
-name: David Lanham
+title: David Lanham
 summary: Visual artist, iconographer (The Iconfactory)
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Harper Reed
+title: Harper Reed
 summary: Technologist (Threadless, Barack Obama)
 categories:
 - developer

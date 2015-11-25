@@ -1,5 +1,5 @@
 ---
-name: Samuel Arbesman
+title: Samuel Arbesman
 summary: Writer, complexity scientist
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Dave Lloyd
+title: Dave Lloyd
 summary: Game developer (Crawl)
 categories:
 - developer

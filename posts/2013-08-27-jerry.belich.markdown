@@ -1,5 +1,5 @@
 ---
-name: Jerry Belich
+title: Jerry Belich
 summary: Software/hardware engineer (Clockwork)
 categories:
 - engineer

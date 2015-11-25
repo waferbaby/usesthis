@@ -1,5 +1,5 @@
 ---
-name: Andrew Looney
+title: Andrew Looney
 summary: Game designer (Fluxx, Chrononauts, Loonacy)
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Amit Gupta
+title: Amit Gupta
 summary: Photographer, entrepreneur
 categories:
 - designer

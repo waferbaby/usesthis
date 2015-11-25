@@ -1,5 +1,5 @@
 ---
-name: Zed Shaw
+title: Zed Shaw
 summary: Developer, writer and musician
 categories:
 - developer

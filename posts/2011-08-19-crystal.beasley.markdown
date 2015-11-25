@@ -1,5 +1,5 @@
 ---
-name: Crystal Beasley
+title: Crystal Beasley
 summary: User experience designer (Mozilla)
 categories:
 - designer

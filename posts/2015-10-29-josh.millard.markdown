@@ -1,5 +1,5 @@
 ---
-name: Josh Millard
+title: Josh Millard
 summary: Musician, developer (MetaFilter)
 categories:
 - developer

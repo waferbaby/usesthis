@@ -1,5 +1,5 @@
 ---
-name: William Gibson
+title: William Gibson
 summary: Novelist
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Kevin Meredith
+title: Kevin Meredith
 summary: Photographer, teacher
 categories:
 - mac

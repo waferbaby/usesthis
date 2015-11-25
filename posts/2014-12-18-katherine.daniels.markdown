@@ -1,5 +1,5 @@
 ---
-name: Katherine Daniels
+title: Katherine Daniels
 summary: Web operations engineer (Etsy)
 categories:
 - engineer

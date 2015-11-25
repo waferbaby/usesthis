@@ -1,5 +1,5 @@
 ---
-name: David Hellman
+title: David Hellman
 summary: Digital painter for games, comics, animation
 categories:
 - artist

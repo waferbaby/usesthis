@@ -1,5 +1,5 @@
 ---
-name: Jessamyn West
+title: Jessamyn West
 summary: Librarian, MetaFilter community manager
 categories:
 - community

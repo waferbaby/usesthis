@@ -1,5 +1,5 @@
 ---
-name: Anita Sarkeesian
+title: Anita Sarkeesian
 summary: Media critic, creator (Feminist Frequency)
 categories:
 - critic

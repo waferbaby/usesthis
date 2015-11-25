@@ -1,5 +1,5 @@
 ---
-name: Chad Whitacre
+title: Chad Whitacre
 summary: Hacker, Founder (Gittip)
 categories:
 - developer

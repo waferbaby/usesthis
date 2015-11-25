@@ -1,5 +1,5 @@
 ---
-name: Michael Ogawa
+title: Michael Ogawa
 summary: PhD student, developer (code_swarm)
 categories:
 - developer

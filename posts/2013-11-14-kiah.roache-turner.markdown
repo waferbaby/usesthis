@@ -1,5 +1,5 @@
 ---
-name: Kiah Roache-Turner
+title: Kiah Roache-Turner
 summary: Feature film-maker (Wyrmwood)
 categories:
 - film

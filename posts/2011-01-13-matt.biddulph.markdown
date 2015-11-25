@@ -1,5 +1,5 @@
 ---
-name: Matt Biddulph
+title: Matt Biddulph
 summary: Prototyper, strategy guy (Nokia/Dopplr)
 categories:
 - developer

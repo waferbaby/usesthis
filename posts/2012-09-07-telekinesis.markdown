@@ -1,5 +1,5 @@
 ---
-name: Michael Benjamin Lerner
+title: Michael Benjamin Lerner
 summary: Musician (Telekinesis)
 categories:
 - mac

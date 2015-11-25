@@ -1,5 +1,5 @@
 ---
-name: Meghan Newell
+title: Meghan Newell
 summary: Designer, animator, illustrator
 categories:
 - artist

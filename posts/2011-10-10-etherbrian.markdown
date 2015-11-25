@@ -1,5 +1,5 @@
 ---
-name: etherbrian
+title: etherbrian
 summary: Illustrator, icon artist (Gowalla)
 categories:
 - artist

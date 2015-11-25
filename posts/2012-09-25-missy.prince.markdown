@@ -1,5 +1,5 @@
 ---
-name: Missy Prince
+title: Missy Prince
 summary: Photographer
 categories:
 - photographer

@@ -1,5 +1,5 @@
 ---
-name: Matthew Mckeon
+title: Matthew Mckeon
 summary: Developer (IBM Visual Communication Lab)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Kari Love
+title: Kari Love
 summary: Costumer, puppet artist
 categories:
 - fashion

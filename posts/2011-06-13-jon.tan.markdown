@@ -1,5 +1,5 @@
 ---
-name: Jon Tan
+title: Jon Tan
 summary: Designer (Fontdeck, Mapalong, Brooklyn Beta)
 categories:
 - designer

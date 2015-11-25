@@ -1,5 +1,5 @@
 ---
-name: Adam WarRock
+title: Adam WarRock
 summary: Nerdy hip hop artist
 categories:
 - mac

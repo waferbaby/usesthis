@@ -1,5 +1,5 @@
 ---
-name: Dan Cederholm
+title: Dan Cederholm
 summary: Web designer (SimpleBits)
 categories:
 - designer

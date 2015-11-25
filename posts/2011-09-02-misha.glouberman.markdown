@@ -1,5 +1,5 @@
 ---
-name: Misha Glouberman
+title: Misha Glouberman
 summary: Teacher, improviser
 categories:
 - teacher

@@ -1,5 +1,5 @@
 ---
-name: Máirín Duffy
+title: Máirín Duffy
 summary: UI designer, usability tester (Red Hat, Fedora)
 categories:
 - designer

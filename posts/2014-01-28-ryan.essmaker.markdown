@@ -1,5 +1,5 @@
 ---
-name: Ryan Essmaker
+title: Ryan Essmaker
 summary: Designer, developer (The Great Discontent)
 categories:
 - designer

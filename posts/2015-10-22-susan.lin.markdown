@@ -1,5 +1,5 @@
 ---
-name: Susan Lin
+title: Susan Lin
 summary: Artist, designer, developer (Treehouse)
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Jessica Hische
+title: Jessica Hische
 summary: Letterer, graphic designer
 categories:
 - designer

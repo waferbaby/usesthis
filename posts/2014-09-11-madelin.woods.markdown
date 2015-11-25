@@ -1,5 +1,5 @@
 ---
-name: Madelin Woods
+title: Madelin Woods
 summary: Developer (Square), artist
 categories:
 - artist

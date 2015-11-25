@@ -1,5 +1,5 @@
 ---
-name: Chris Slowe
+title: Chris Slowe
 summary: Chief scientist (Hipmunk)
 categories:
 - mac

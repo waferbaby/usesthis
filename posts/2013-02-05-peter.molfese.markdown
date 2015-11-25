@@ -1,5 +1,5 @@
 ---
-name: Peter Molfese
+title: Peter Molfese
 summary: Research scientist (Haskins Labs)
 categories:
 - developer

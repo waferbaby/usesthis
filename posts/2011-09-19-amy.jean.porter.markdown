@@ -1,5 +1,5 @@
 ---
-name: Amy Jean Porter
+title: Amy Jean Porter
 summary: Artist, friend to animals
 categories:
 - artist

@@ -1,5 +1,5 @@
 ---
-name: Mitchell Hashimoto
+title: Mitchell Hashimoto
 summary: Entrepeneur, developer (Vagrant)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Wiley Wiggins
+title: Wiley Wiggins
 summary: Creative director, actor, animator, musician
 categories:
 - actor

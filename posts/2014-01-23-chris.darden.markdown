@@ -1,5 +1,5 @@
 ---
-name: Chris Darden
+title: Chris Darden
 summary: Board game designer (Dungeon Roll)
 categories:
 - game

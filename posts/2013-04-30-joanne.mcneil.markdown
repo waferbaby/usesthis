@@ -1,5 +1,5 @@
 ---
-name: Joanne McNeil
+title: Joanne McNeil
 summary: Writer, editor
 categories:
 - editor

@@ -1,5 +1,5 @@
 ---
-name: MC Frontalot
+title: MC Frontalot
 summary: Nerdcore rapper
 categories:
 - musician

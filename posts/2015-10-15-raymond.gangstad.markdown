@@ -1,5 +1,5 @@
 ---
-name: Raymond Gangstad
+title: Raymond Gangstad
 summary: Colorist, online artist (Shortcut Oslo)
 categories:
 - mac

@@ -1,5 +1,5 @@
 ---
-name: Chris Wanstrath
+title: Chris Wanstrath
 summary: CEO and co-founder, GitHub
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Bret Taylor
+title: Bret Taylor
 summary: CTO (Facebook), co-founder (FriendFeed)
 categories:
 - developer

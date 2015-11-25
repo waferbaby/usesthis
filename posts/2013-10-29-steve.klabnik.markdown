@@ -1,5 +1,5 @@
 ---
-name: Steve Klabnik
+title: Steve Klabnik
 summary: Software developer
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Nicole Jones
+title: Nicole Jones
 summary: Writer, editor (Facebook)
 categories:
 - editor

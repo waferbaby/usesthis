@@ -1,5 +1,5 @@
 ---
-name: David Fox
+title: David Fox
 summary: Game designer (Zak McKracken, Maniac Mansion)
 categories:
 - designer

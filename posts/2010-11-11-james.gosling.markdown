@@ -1,5 +1,5 @@
 ---
-name: James Gosling
+title: James Gosling
 summary: Software engineer (Java)
 categories:
 - developer

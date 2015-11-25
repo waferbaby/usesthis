@@ -1,5 +1,5 @@
 ---
-name: Jeffrey Ely
+title: Jeffrey Ely
 summary: Professor of economics (Northwestern University)
 categories:
 - linux

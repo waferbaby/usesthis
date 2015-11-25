@@ -1,5 +1,5 @@
 ---
-name: Anil Dash
+title: Anil Dash
 summary: Blogger, director of Expert Labs
 categories:
 - developer

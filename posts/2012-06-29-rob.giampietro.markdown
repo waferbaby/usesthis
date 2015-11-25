@@ -1,5 +1,5 @@
 ---
-name: Rob Giampietro
+title: Rob Giampietro
 summary: Designer (Project Projects), writer
 categories:
 - designer

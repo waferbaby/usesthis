@@ -1,5 +1,5 @@
 ---
-name: Liz Danzico
+title: Liz Danzico
 summary: Designer, educator, editor
 categories:
 - designer

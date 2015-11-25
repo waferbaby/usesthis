@@ -1,5 +1,5 @@
 ---
-name: why the lucky stiff
+title: why the lucky stiff
 summary: Internet rodent
 categories:
 - developer

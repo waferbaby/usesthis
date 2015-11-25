@@ -1,5 +1,5 @@
 ---
-name: Ariel Waldman
+title: Ariel Waldman
 summary: Space hacker
 categories:
 - hacker

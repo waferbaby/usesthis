@@ -1,5 +1,5 @@
 ---
-name: Mark Nottingham
+title: Mark Nottingham
 summary: Web infrastructure developer (Atom, HTTP)
 categories:
 - developer

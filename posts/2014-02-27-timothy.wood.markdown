@@ -1,5 +1,5 @@
 ---
-name: Timothy Wood
+title: Timothy Wood
 summary: CTO and co-founder (The Omni Group)
 categories:
 - developer

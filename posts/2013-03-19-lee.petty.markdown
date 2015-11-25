@@ -1,5 +1,5 @@
 ---
-name: Lee Petty
+title: Lee Petty
 summary: Art Director (Double Fine)
 categories:
 - artist

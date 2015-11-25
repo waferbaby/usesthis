@@ -1,5 +1,5 @@
 ---
-name: Kenneth Reitz
+title: Kenneth Reitz
 summary: Minimalist, photographer, developer (Heroku)
 categories:
 - developer

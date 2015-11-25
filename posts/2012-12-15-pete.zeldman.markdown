@@ -1,5 +1,5 @@
 ---
-name: Pete Zeldman
+title: Pete Zeldman
 summary: Drummer
 categories:
 - mac

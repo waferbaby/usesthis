@@ -1,5 +1,5 @@
 ---
-name: Ben Heck
+title: Ben Heck
 summary: Maker, builder, hacker
 categories:
 - hacker

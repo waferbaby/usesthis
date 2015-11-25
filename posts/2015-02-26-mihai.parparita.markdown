@@ -1,5 +1,5 @@
 ---
-name: Mihai Parparita
+title: Mihai Parparita
 summary: Software engineer
 categories:
 - developer

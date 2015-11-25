@@ -1,5 +1,5 @@
 ---
-name: Joost van Dongen
+title: Joost van Dongen
 summary: Game developer, cello player, co-founder (Ronimo Games)
 categories:
 - developer

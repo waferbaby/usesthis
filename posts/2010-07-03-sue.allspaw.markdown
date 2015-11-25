@@ -1,5 +1,5 @@
 ---
-name: Sue Allspaw
+title: Sue Allspaw
 summary: Poet, information security analyst
 categories:
 - poet

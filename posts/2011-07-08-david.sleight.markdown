@@ -1,5 +1,5 @@
 ---
-name: David Sleight
+title: David Sleight
 summary: Creative director, web designer, tinkerer
 categories:
 - designer

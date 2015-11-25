@@ -1,5 +1,5 @@
 ---
-name: Dietrich Groundsel
+title: Dietrich Groundsel
 summary: Creative consultant, image analyst, curator
 categories:
 - designer

@@ -1,5 +1,5 @@
 ---
-name: Kathleen De Vere
+title: Kathleen De Vere
 summary: Actor, writer, video editor, illustrator (LoadingReadyRun)
 categories:
 - actor

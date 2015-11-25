@@ -1,5 +1,5 @@
 ---
-name: John Martz
+title: John Martz
 summary: Illustrator, robot
 categories:
 - cartoonist

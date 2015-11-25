@@ -1,5 +1,5 @@
 ---
-name: Russ Cox
+title: Russ Cox
 summary: Software developer (Plan 9, RE2, Go)
 categories:
 - developer

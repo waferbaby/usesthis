@@ -1,5 +1,5 @@
 ---
-name: Mara Altman
+title: Mara Altman
 summary: Freelance journalist, writer (Bearded Lady)
 categories:
 - journalist

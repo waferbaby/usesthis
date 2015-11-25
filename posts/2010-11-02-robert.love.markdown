@@ -1,5 +1,5 @@
 ---
-name: Robert Love
+title: Robert Love
 summary: Software engineer (Google)
 categories:
 - developer

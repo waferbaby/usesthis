@@ -1,5 +1,5 @@
 ---
-name: Steve Coast
+title: Steve Coast
 summary: Founder, OpenStreetMap
 categories:
 - developer

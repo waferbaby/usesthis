@@ -1,5 +1,5 @@
 ---
-name: James Thomson
+title: James Thomson
 summary: Mac developer (DragThing, PCalc)
 categories:
 - developer

@@ -1,5 +1,5 @@
 ---
-name: Allan Odgaard
+title: Allan Odgaard
 summary: Mac developer (TextMate)
 categories:
 - developer

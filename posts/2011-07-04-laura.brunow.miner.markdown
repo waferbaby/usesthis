@@ -1,5 +1,5 @@
 ---
-name: Laura Brunow Miner
+title: Laura Brunow Miner
 summary: Editor, designer, event inventor (Pictory, Phoot Camp)
 categories:
 - designer
