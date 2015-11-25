@@ -12,12 +12,12 @@
 
 <% @posts.each do |interview| %>
 <entry>
-  <title><%= interview.name %></title>
+  <title><%= interview.title %></title>
   <link href="http://usesthis.com/interviews/<%= interview.slug %>/"/>
   <updated><%= interview.date.strftime('%FT%T') %>Z</updated>
   <id>http://<%= interview.slug %>.usesthis.com/</id>
   <content type="html">
-    <%== "<p><img src=\"http://usesthis.com/images/portraits/#{interview.slug}.jpg\" width=\"500\" height=\"325\" alt=\"#{interview.name}\"></p>" %>
+    <%== "<p><img src=\"http://usesthis.com/images/portraits/#{interview.slug}.jpg\" width=\"500\" height=\"325\" alt=\"#{interview.title}\"></p>" %>
     <%== interview.rendered_contents %>
   </content>
 </entry>
