@@ -11,7 +11,7 @@ title: Categories
   <% @site.categories.keys.sort.each do |slug| %>
     <li>
       <strong><a href="/interviews/categories/<%= slug %>" title="View all the '<%= slug %>' interviews."><%= slug %></a></strong> (<%= @site.categories[slug].count %>)<br>
-      <span class="summary">Latest: <%= @site.categories[slug][0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.name}.\">#{interview.name}</a>" }.join(', ') %></span>
+      <span class="summary">Latest: <%= @site.categories[slug][0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.title}.\">#{interview.title}</a>" }.join(', ') %></span>
     </li>
   <% end %>
   </ul>
