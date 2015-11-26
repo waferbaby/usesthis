@@ -20,7 +20,7 @@ line-height: 1.7em;
 
 aside#sellout img {
 float: left;
-margin-right: 10px;
+margin: 0 10px 10px 0;
 }
 
 aside#sellout p {
@@ -54,7 +54,7 @@ font-weight: bold;
 div#stump {
 float: left;
 position: fixed;
-width: 230px;
+width: 240px;
 line-height: 1.3em;
 }
 
@@ -228,6 +228,12 @@ padding: 0;
 margin: 0;
 color: #555;
 font-size: 80%;
+}
+
+p#deck {
+clear: left;
+color: #999;
+font-size: 85%;
 }
 
 pre {
