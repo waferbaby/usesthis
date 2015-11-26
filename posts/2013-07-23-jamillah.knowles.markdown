@@ -32,7 +32,7 @@ I also carry a [Nexus 7][nexus-7] to read on when I am travelling. There never s
 
 #### And what software?
 
-I edit audio on [Reaper][] at the moment. It has such a lovely interface and it's very easy to use. I used [Cool Edit][cool-edit] (old skool eh?) for a long time. I like to see audio waves when I am editing and both show me a nice clear visualisation of what I am working on.
+I edit audio on [REAPER][] at the moment. It has such a lovely interface and it's very easy to use. I used [Cool Edit][cool-edit] (old skool eh?) for a long time. I like to see audio waves when I am editing and both show me a nice clear visualisation of what I am working on.
 
 I work with speech and voices, so I probably miss a lot of the functionality. But I can mix different file types without having to make them all match first and, well, it's my favourite at the moment after using at least half a dozen different pro and semi pro suites like DART, DCART, [Audition][], [Audacity][] etc.
 

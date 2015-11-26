@@ -43,7 +43,7 @@ For programming I use mostly vim with [MacVim][] on the mac. I use [awesome][] f
 
 For writing I'm using a combination of [LaTeX][] and [Dexy][] to build my books. I first used [Sphinx][] but it was too hard to get good PDF typography out of and really only works if you document projects the way the Sphinx authors do. For a full-on book the way I'm doing them now with LaTex works better. Dexy is also the bomb, since it lets you write "code books" in a literate style without carving your code base into tons of chunks. It can just sneak in and grab whatever you need to inject into your prose.
 
-For music I've got my setup narrowed down to not needing much software to create music. For post-production though I use [Reaper][] which is seriously the best $60 bucks I ever spent. The [Reaper forums](http://forum.cockos.com/forumdisplay.php?f=20 "The Reaper forums.") alone are worth that much with all the advice they have.
+For music I've got my setup narrowed down to not needing much software to create music. For post-production though I use [REAPER][] which is seriously the best $60 bucks I ever spent. The [REAPER forums](http://forum.cockos.com/forumdisplay.php?f=20 "The REAPER forums.") alone are worth that much with all the advice they have.
 
 For publishing all this stuff I've got a little project I wrote I call "Astroturf Blog Foundation" which is basically like "continuous integration for building sites/docs/books". It's not released yet, but eventually I'll be using it to automatically build all my writing and music sites automatically. I had to write it mostly because I tend to do funny little one-shot joke sites and this made it easy to crank those out. Eventually it was capable enough to build any site so now I use it on most of my stuff.
 
