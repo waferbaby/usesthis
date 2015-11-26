@@ -12,14 +12,15 @@ opacity: 0.8;
 }
 
 aside#sellout {
-margin-top: 50px;
+margin-top: 20px;
 font-size: 60%;
 color: #767676;
 line-height: 1.7em;
 }
 
 aside#sellout img {
-margin-bottom: 10px;
+float: left;
+margin-right: 10px;
 }
 
 aside#sellout p {
@@ -53,12 +54,12 @@ font-weight: bold;
 div#stump {
 float: left;
 position: fixed;
-width: 120px;
+width: 230px;
 line-height: 1.3em;
 }
 
 div#wrapper {
-width: 703px;
+width: 803px;
 margin: auto;
 }
 
@@ -154,8 +155,8 @@ border: solid 1px #000;
 
 main {
 width: 502px;
-margin-left: 160px;
-padding-left: 40px;
+margin-left: 250px;
+padding-left: 50px;
 border-left: solid 1px #eee;
 }
 
@@ -280,7 +281,6 @@ margin-bottom: 10px;
   }
 
   aside#sellout img {
-  float: left;
   margin: 0 15px 0 0;
   }
 
