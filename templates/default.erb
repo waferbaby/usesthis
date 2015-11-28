@@ -33,32 +33,30 @@
   </head>
   <body>
     <div id="wrapper">
-      <div id="stump">
-        <header id="mast">
+      <nav id="main">
+        <header>
           <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
           <h2><%= @this.title %></h2>
           <p id="tagline">What do people use to get stuff done?</p>
-          <nav>
-            <ul>
-              <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
-              <li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
-              <li><a href="/about/" title="A little info about the site.">About</a></li>
-            </ul>
-          </nav>
         </header>
-        <aside id="sellout">
-          <script type="text/javascript">
-          //<![CDATA[
-          (function(id) {
-           document.write('<script type="text/javascript" src="' +
-             'https://connect.decknetwork.net/deck' + id + '_js.php?' +
-             (new Date().getTime()) + '"></' + 'script>');
-          })("SU");
-          //]]>
-          </script>
-          <p id="deck"><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
-        </aside>
-      </div>
+        <ul>
+          <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
+          <li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
+          <li><a href="/about/" title="A little info about the site.">About</a></li>
+        </ul>
+      </nav>
+      <aside id="sellout">
+        <script type="text/javascript">
+        //<![CDATA[
+        (function(id) {
+         document.write('<script type="text/javascript" src="' +
+           'https://connect.decknetwork.net/deck' + id + '_js.php?' +
+           (new Date().getTime()) + '"></' + 'script>');
+        })("SU");
+        //]]>
+        </script>
+        <p id="deck"><em>Ads Via <a href="http://decknetwork.net/" title="The Deck ad network.">The Deck</a></em></p>
+      </aside>
       <main role="main">
         <%= yield %>
       </main>
