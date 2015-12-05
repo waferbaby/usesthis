@@ -4,9 +4,9 @@
     <title>The Setup / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-  <% if @interview %>
-    <% if @interview.previous_post %><link rel="prev" href="http://usesthis.com/interviews/<%= @interview.previous_post.slug %>/"><% end %>
-    <% if @interview.next_post %><link rel="next" href="http://usesthis.com/interviews/<%= @interview.next_post.slug %>/"><% end %>
+  <% if @this.is_a?(UsesThis::Interview) %>
+    <% if @this.previous_post %><link rel="prev" href="http://usesthis.com/interviews/<%= @this.previous_post.slug %>/"><% end %>
+    <% if @this.next_post %><link rel="next" href="http://usesthis.com/interviews/<%= @this.next_post.slug %>/"><% end %>
   <% elsif @pagination && @pagination[:pages] > 1 %>
     <% if @pagination[:previous_page] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
     <% if @pagination[:next_page] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
@@ -15,15 +15,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup<% if @interview %>, <%= @interview.categories.join(', ') %><% end %>">
-  <% if @interview %>
+    <meta name="keywords" content="interview, setup<% if @this.is_a?(UsesThis::Interview) %>, <%= @this.categories.join(', ') %><% end %>">
+  <% if @this.is_a?(UsesThis::Interview) %>
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@usesthis" />
-    <meta property="og:title" content="An interview with <%= @interview.name %>" />
+    <meta property="og:title" content="An interview with <%= @this.title %>" />
     <meta property="og:type" content="article" />
-    <meta property="og:description" content="<%= @interview.summary %>" />
-    <meta property="og:url" content="http://usesthis.com/interviews/<%= @interview.slug %>/" />
-    <meta property="og:image" content="http://usesthis.com/images/portraits/<%= @interview.slug %>.jpg" />
+    <meta property="og:description" content="<%= @this.summary %>" />
+    <meta property="og:url" content="http://usesthis.com/interviews/<%= @this.slug %>/" />
+    <meta property="og:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="335" />
