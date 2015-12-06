@@ -4,7 +4,7 @@
     <title>The Setup / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
-  <% if @this.is_a?(UsesThis::Interview) %>
+  <% if @type == 'interview' %>
     <% if @this.previous_post %><link rel="prev" href="http://usesthis.com/interviews/<%= @this.previous_post.slug %>/"><% end %>
     <% if @this.next_post %><link rel="next" href="http://usesthis.com/interviews/<%= @this.next_post.slug %>/"><% end %>
   <% elsif @pagination && @pagination[:pages] > 1 %>
@@ -16,7 +16,7 @@
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @this.is_a?(UsesThis::Interview) %>, <%= @this.categories.join(', ') %><% end %>">
-  <% if @this.is_a?(UsesThis::Interview) %>
+  <% if @type == 'interview' %>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
     <meta property="og:title" content="An interview with <%= @this.title %>" />
