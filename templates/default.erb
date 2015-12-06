@@ -36,7 +36,7 @@
       <nav id="main">
         <header>
           <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
-          <h2><%= @this.title %></h2>
+          <h2><%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></h2>
           <p id="tagline">What do people use to get stuff done?</p>
         </header>
         <ul>
