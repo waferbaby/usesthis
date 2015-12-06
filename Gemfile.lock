@@ -1,11 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (1.6.1)
+    dimples (1.6.2)
       tilt (~> 2.0)
     erubis (2.7.0)
     mongoose (0.2.5)
-    oj (2.13.1)
+    oj (2.14.0)
     redcarpet (3.3.3)
     tilt (2.0.1)
 
