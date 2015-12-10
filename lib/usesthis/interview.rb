@@ -36,13 +36,8 @@ module UsesThis
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
 
-        if @site.hardware[slug]
-          @hardware[slug] ||= @site.hardware[slug]
-          @site.hardware[slug].interviews << self
-        elsif @site.software[slug]
-          @software[slug] ||= @site.software[slug]
-          @site.software[slug].interviews << self
-        end
+        @hardware[slug] ||= @site.hardware[slug] if @site.hardware[slug]
+        @software[slug] ||= @site.software[slug] if @site.software[slug]
       end
     end
 
