@@ -36,5 +36,15 @@ module UsesThis
 
       super
     end
+
+    def prepare_post(post)
+      super
+
+      %w[hardware software].each do |type|
+        post.send(type).each_value do |item|
+          self.send(type)[item.slug].interviews << post
+        end
+      end
+    end
   end
 end
