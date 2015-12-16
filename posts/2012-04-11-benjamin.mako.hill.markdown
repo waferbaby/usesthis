@@ -85,3 +85,5 @@ I want a version of Debian unstable that I can recommend to people that do not w
 I want every programming language I use to be as fast as C.
 
 I want every program to have clear and well documented source code available in a programming language that I know so that I can take advantage of the freedoms that the majority of my software gives me.
+
+*Benjamin now keeps a [changelog of his latest computer setup](http://wiki.mako.cc/TheSetup_Changelog "Benjamin's setup changelog.").*
