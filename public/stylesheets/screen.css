@@ -52,40 +52,6 @@ dt {
 font-weight: bold;
 }
 
-img.detail,
-img.portrait {
-border: solid 1px #000;
-}
-
-main {
-order: 2;
-width: 502px;
-margin: 0 30px;
-}
-
-nav#main {
-order: 1;
-padding-right: 20px;
-border-right: solid 1px #ddd;
-}
-
-nav#main ul {
-text-transform: uppercase;
-padding: 0;
-margin: 20px 0;
-font-size: 100%;
-}
-
-nav#main ul li {
-padding: 3px 0;
-margin: 0;
-border-bottom: solid 1px #eee;
-}
-
-nav#main ul a {
-text-decoration: none;
-}
-
 figure {
 padding: 0;
 margin: 0 0 10px 0;
@@ -153,6 +119,40 @@ h5 a {
 color: #000;
 }
 
+img.detail,
+img.portrait {
+border: solid 1px #000;
+}
+
+main {
+order: 2;
+width: 502px;
+margin: 0 30px;
+}
+
+nav#main {
+order: 1;
+padding-right: 20px;
+border-right: solid 1px #ddd;
+}
+
+nav#main ul {
+text-transform: uppercase;
+padding: 0;
+margin: 20px 0;
+font-size: 100%;
+}
+
+nav#main ul li {
+padding: 3px 0;
+margin: 0;
+border-bottom: solid 1px #eee;
+}
+
+nav#main ul a {
+text-decoration: none;
+}
+
 nav a {
 color: #fe2e9a;
 }
@@ -194,15 +194,6 @@ nav.categories ul li:last-child:after {
 content: "";
 }
 
-time {
-font-size: 75%;
-color: #767676;
-}
-
-time a {
-color: #767676;
-}
-
 p.license {
 padding: 10px;
 background-color: #eee;
@@ -242,6 +233,15 @@ border: solid 1px #ddd;
 span.summary {
 font-size: 80%;
 color: #555;
+}
+
+time {
+font-size: 75%;
+color: #767676;
+}
+
+time a {
+color: #767676;
 }
 
 ul {
