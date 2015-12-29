@@ -11,7 +11,7 @@ categories:
 
 I'm [Casey Kolderup](http://casey.kolderup.org/ "Casey's website."), a software developer and internet frequenter. I currently live in New York with my wife and our dog. These days my full-time job is at [Vox Media](http://www.voxmedia.com/ "The Vox Media website."), where I develop internal products and help out with the advertising infrastructure on all our sites.
 
-In my free time I like making my own things on the internet; for the last couple years I've been fascinated by [Twitter bots](http://twitter.com/ckolderup/lists/bots-by-me "A Twitter list of Casey's bots.") but also enjoy writing, podcasting, and other kinds of programming. Right now I'm particularly proud of [@ominouszoom](http://twitter.com/ominouszoom "The @ominouszoom Twitter bot.") and [@all_in_cards](http://twitter.com/all_in_cards "The @all_in_cards Twitter bot.") and I'm working on a rewrite of [Backtracks][].
+In my free time I like making my own things on the internet; for the last couple years I've been fascinated by [Twitter bots](http://twitter.com/ckolderup/lists/bots-by-me "A Twitter list of Casey's bots.") but also enjoy writing, podcasting, and other kinds of programming. Right now I'm particularly proud of [@ominouszoom](http://twitter.com/ominouszoom "The @ominouszoom Twitter bot.") and [@all\_in\_cards](http://twitter.com/all_in_cards "The @all_in_cards Twitter bot.") and I'm working on a rewrite of [Backtracks][].
 
 #### What hardware do you use?
 
