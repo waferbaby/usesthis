@@ -13,7 +13,7 @@ layout: default
     <header>
       <h3 class="p-name"><%= @this.title %></h3>
       <p class="summary p-summary"><%= @this.summary %></p>
-      <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @this.date.strftime('%A <a href="/interviews/%Y/%m/" title="View all the interviews from %B, %Y.">%B %d</a>, <a href="/interviews/%Y/" title="View all the interviews from %Y.">%Y</a>') %>.</time>
+      <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @this.date.strftime('<a href="/interviews/%Y/%m/" title="View all the interviews from %B, %Y.">%B %d</a>, <a href="/interviews/%Y/" title="View all the interviews from %Y.">%Y</a>') %>.</time>
       <nav class="categories">
         <ul>
         <% @this.categories.each do |slug| %><li><a href="/interviews/categories/<%= slug %>/" title="View all the '<%= slug %>' interviews." class="p-category"><%= slug %></a></li><% end %>
