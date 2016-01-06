@@ -17,6 +17,8 @@ paths:
 layouts:
   posts: 'interviews'
   category: 'interviews'
+  year_archives: 'interviews'
+  month_archives: 'interviews'
 
 pagination:
   per_page: 5
