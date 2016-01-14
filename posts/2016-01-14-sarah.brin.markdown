@@ -1,0 +1,30 @@
+---
+title: Sarah Brin
+summary: Writer, curator (Autodesk Pier 9)
+categories:
+- curator
+- mac
+- writer
+---
+
+#### Who are you, and what do you do?
+
+I'm [Sarah Brin](http://sarahbrin.com/ "Sarah's website."), and I'm a curator specializing in technology, public space, and participation. I work at the [Autodesk Pier 9 workshop in San Francisco](http://www.autodesk.com/pier-9 "Autodesk's workshop in SF."), which is a fancy digital fabrication facility where I work with artists, public installations, and other experimental programs intended to delight and inspire people.
+
+I also do a lot of extracurricular work around artist-made videogames and museums. I believe in popular media's potential for affecting cultural change, and a lot of my projects not-so-secretly hinge on that belief.
+
+#### What hardware do you use?
+
+Despite working in a digital fabrication facility with a ton of sophisticated machinery, the hardware I use on a day-to-day basis is pretty simple! I use a [Macbook Air][macbook-air], a wireless [Evoluent 4 VerticalMouse][verticalmouse-wireless], a [Goldtouch laptop stand][go-travel], a [Logitech K810 external keyboard][k810] and a [24 in. Viewsonic LED monitor][va2445m-led]. And a wrist rest. The ergonomic stuff is pretty essential because I got carpal tunnel in both hands real bad when I was in [grad school](http://roski.usc.edu/ma/ "The Master of Arts program at USC."), and if I slack on my computer habits (or grip my phone too much), it comes back.
+
+When I work from home, I am very, very dependent on my [Sonos PLAY:1][play-1] and my ever-slowing [iPhone 5s][iphone-5s]. I have a [Canon PIXMA MG5620 wireless printer][pixma-mg5620], and it's slower than I'd like.
+
+#### And what software?
+
+Nothing too fancy. Everything I write, from grocery lists to magazine articles, starts as an email draft, either in [Outlook][] or [Gmail][]. I use both [Pages][] and [Word][] equally, same with [Excel][] and [Numbers][]. But for presentations, I only use [Keynote][]. I'm pretty dependent on [Tomato Timer][tomato-timer] for multitasking, and I keep my running to-do list on [Trello][]. I am extremely dependent on [Spotify][], [Chrome][] and [Sunrise][].
+
+#### What would be your dream setup?
+
+My dream setup would have lots and lots of natural light, a good sound system and leafy plants. And a nice big labrador. I'd need a lot of table space so I could spread out all my dumb scribbly drafts, floor plans and reference books. (So far I'm just describing my friends' Steve and Michelle's house in Los Angeles - I've done all of my best writing while watching their dogs while they were on vacation!) 
+
+I'd like a proper desktop [iMac][], too. And more [colored pencils][premier-soft-core]. And more pictures of my friends.
