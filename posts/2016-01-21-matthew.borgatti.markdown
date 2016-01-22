@@ -7,7 +7,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is Matthew Borgatti. I'm the lead scientist at the soft robotics R&D lab Super-Releaser. I build robots out of unusual materials like RTV casting silicone and seamless stretch knits to produce analogues of biological mechanisms. The overall goal is to turn ideas on how to solve engineering problems, like interfacing mechanisms with the human body and mass producing robots with complex motion, into practical technologies.
+My name is Matthew Borgatti. I'm the lead scientist at the soft robotics R&D lab [Super-Releaser](http://superreleaser.com/ "An R&D lab in Brooklyn."). I build robots out of unusual materials like RTV casting silicone and seamless stretch knits to produce analogues of biological mechanisms. The overall goal is to turn ideas on how to solve engineering problems, like interfacing mechanisms with the human body and mass producing robots with complex motion, into practical technologies.
 
 I also develop spacesuit components under a NASA subcontract. NASA wants to increase the flexibility of their suits while reducing their complexity, and it's a great application for soft robotics.
 
