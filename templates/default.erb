@@ -19,6 +19,8 @@
   <% if @type == :interview %>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
+    <meta name="twitter:label1" content="Published" />
+    <meta name="twitter:data1" content="<%= @this.date.strftime('%B %-d, %Y') %>" />
     <meta property="og:title" content="An interview with <%= @this.title %>" />
     <meta property="og:type" content="article" />
     <meta property="og:description" content="<%= @this.summary %>" />
