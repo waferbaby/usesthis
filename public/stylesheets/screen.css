@@ -78,6 +78,7 @@ color: #fe2e9a;
 h1:after {
 content: "/";
 color: #eee;
+padding: 0 5px;
 }
 
 h1 a {
