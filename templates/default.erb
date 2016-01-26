@@ -15,20 +15,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup<% if @type == :interviews %>, <%= @this.categories.join(', ') %><% end %>">
+    <meta name="keywords" content="interview, setup<% if @type == :interview %>, <%= @this.categories.join(', ') %><% end %>">
   <% if @type == :interview %>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
+    <meta name="twitter:creator" content="@waferbaby" />
+    <meta name="twitter:title" content="The Setup: <%= @this.title %>" />
+    <meta name="twitter:description" content="<%= @this.summary %>" />
+    <meta name="twitter:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
     <meta name="twitter:label1" content="Published" />
     <meta name="twitter:data1" content="<%= @this.date.strftime('%B %-d, %Y') %>" />
-    <meta property="og:title" content="An interview with <%= @this.title %>" />
-    <meta property="og:type" content="article" />
-    <meta property="og:description" content="<%= @this.summary %>" />
-    <meta property="og:url" content="http://usesthis.com/interviews/<%= @this.slug %>/" />
-    <meta property="og:image" content="http://usesthis.com/images/portraits/<%= @this.slug %>.jpg" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="500" />
-    <meta property="og:image:height" content="335" />
   <% end %>
     <script src="//use.edgefonts.net/source-sans-pro.js"></script>
     <script src="/stats/?js" type="text/javascript"></script>
