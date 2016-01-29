@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is [Aaron Patterson](http://tenderlovemaking.com/ "Aaron's website."), but people know me on the Internet as "tenderlove". I work remotely from Seattle, but I work for a small startup company that is based in Raleigh, North Carolina called "Red Hat". At Red Hat, I'm on the ManageIQ team. Our team is working on an Open Source cloud management thing that's built with [Ruby][], [Rails][], and a bunch of other fun technology. You can check out our [app on GitHub].
+My name is [Aaron Patterson](http://tenderlovemaking.com/ "Aaron's website."), but people know me on the Internet as "tenderlove". I work remotely from Seattle, but I work for a small startup company that is based in Raleigh, North Carolina called "Red Hat". At Red Hat, I'm on the ManageIQ team. Our team is working on an Open Source cloud management thing that's built with [Ruby][], [Rails][], and a bunch of other fun technology. You can check out our [app on GitHub][manageiq].
 
 #### What hardware do you use?
 
