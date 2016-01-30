@@ -28,6 +28,10 @@ font-size: 1.1em;
 line-height: 1.4em;
 }
 
+code {
+color: #767676;
+}
+
 dd {
 padding: 0;
 margin: 0 0 20px 0;
@@ -201,6 +205,16 @@ font-size: 85%;
 color: #555;
 }
 
+pre {
+overflow: scroll;
+padding: 10px;
+margin: 0 0 20px 0;
+font-size: 80%;
+background-color: #eee;
+color: #767676;
+border: solid 1px #ddd;
+}
+
 p.summary {
 padding: 0;
 margin: 0;
@@ -226,10 +240,6 @@ list-style: square outside;
 padding: 0;
 margin: 20px;
 font-size: 95%;
-}
-
-ul li {
-margin-bottom: 10px;
 }
 
 ul#categories {
