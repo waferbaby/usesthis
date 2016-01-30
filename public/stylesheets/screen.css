@@ -11,6 +11,11 @@ a:hover img {
 opacity: 0.8;
 }
 
+article#interview time,
+article.interviewee time {
+font-size: 80%;
+}
+
 aside#sellout {
 width: 120px;
 float: right;
@@ -226,12 +231,7 @@ font-size: 80%;
 color: #555;
 }
 
-time {
-font-size: 75%;
-color: #767676;
-}
-
-time a {
+time, time a {
 color: #767676;
 }
 
