@@ -1,4 +1,4 @@
 ---
 name: Lsyncd
 description: A tool for mirroring file changes.
-url: https://code.google.com/p/lsyncd/
+url: https://github.com/axkibe/lsyncd
