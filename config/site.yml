@@ -12,7 +12,7 @@ date_formats:
 paths:
   archives: 'interviews'
   posts: 'interviews'
-  categories: 'interviews/categories'
+  categories: 'categories'
 
 layouts:
   posts: 'interviews'
