@@ -10,7 +10,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm Sam Barlow. I've been making video games for about fifteen years -- as a Lead Designer, Writer and Game Director. I was previously best known for the 2009 Wii game [Silent Hill: Shattered Memories][silent-hill-shattered-memories] or the 1999 text game [Aisle][], depending on who you spoke to. Last year I released my first independent game, [Her Story][her-story]. The game has done really well -- great reviews, great sales and it won awards at Indiecade, The Golden Joysticks and The Game Awards, amongst others!
+I'm Sam Barlow. I've been making video games for about fifteen years -- as a Lead Designer, Writer and Game Director. I was previously best known for the 2009 [Wii][] game [Silent Hill: Shattered Memories][silent-hill-shattered-memories] or the 1999 text game [Aisle][], depending on who you spoke to. Last year I released my first independent game, [Her Story][her-story]. The game has done really well -- great reviews, great sales and it won awards at Indiecade, The Golden Joysticks and The Game Awards, amongst others!
 
 #### What hardware do you use?
 
