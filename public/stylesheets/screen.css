@@ -20,7 +20,7 @@ aside#sellout {
 width: 120px;
 float: right;
 margin-left: 20px;
-font-size: 70%;
+font-size: 60%;
 color: #767676;
 line-height: 1.7em;
 }
@@ -134,12 +134,12 @@ padding: 0;
 margin: 15px 0;
 border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
+font-size: 120%;
 }
 
 nav#main ul {
 padding: 15px 0;
 margin: 0;
-font-size: 100%;
 }
 
 nav#main ul li {
@@ -303,6 +303,13 @@ margin-bottom: 15px;
 
   nav#main {
   order: 2;
+  }
+
+  nav#main ul li {
+  display: block;
+  float: left;
+  margin: 0 0 15px;
+  width: 50%;
   }
 
   p#deck {
