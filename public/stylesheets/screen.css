@@ -251,10 +251,11 @@ margin-right: 0;
 @media screen and (max-width: 710px), (max-device-width: 480px) {
 
   aside#sellout {
-  width: 100%;
+  order: 4;
+  float: none;
+  width: auto;
   padding: 5px 0;
-  margin-bottom: 15px;
-  border-bottom: solid 1px #eee;
+  margin: 0 0 10px 0;
   }
 
   aside#sellout p {
@@ -267,7 +268,13 @@ margin-right: 0;
   }
 
   div#wrapper {
+  display: flex;
+  flex-direction: column;
   max-width: 502px;
+  }
+
+  footer {
+  order: 5;
   }
 
   h1 {
@@ -283,6 +290,10 @@ margin-right: 0;
   font-size: 160%;
   }
 
+  header {
+  order: 1;
+  }
+
   img.detail,
   img.portrait {
   float: none;
@@ -290,6 +301,14 @@ margin-right: 0;
   width: 100%;
   height: auto;
   margin: 0;
+  }
+
+  main {
+  order: 3;
+  }
+
+  nav#main {
+  order: 2;
   }
 
   nav#main ul {
