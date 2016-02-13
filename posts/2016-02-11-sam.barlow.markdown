@@ -16,7 +16,7 @@ I'm Sam Barlow. I've been making video games for about fifteen years -- as a Lea
 
 Her Story is a low-fi game in many ways, and that's probably true of my development setup too! I made the game in [Unity][] on my [Macbook Air][macbook-air]. I shot the video on a cheap Sony Handycam and then piped it to a couple of second hand VCR players via a [Proxima Direct PC VGA to TV Composite Video RGB Converter][pc-vga-to-tv-composite-video-rgb-converter]. I recorded and copied the footage back and forth a few times to introduce a little generation loss and then sucked it back into the Mac using a [VIDBOX for Mac][vidbox-mac]. The video setup was magic -- I lost several hours copying modern movies and games footage over onto VHS and enjoying the weird anachronistic sensation of seeing something from 2015 looking like it existed in the 90s. I felt it would be easier and more authentic to get the 'VHS' look from the real deal, rather than relying on post process effects.
 
-<img src="/images/interviews/sam.barlow.video.jpg" width="500" height="500" alt="Sam's video setup.">
+<img src="/images/interviews/sam.barlow.video.jpg" width="500" height="500" alt="Sam's video setup." class="detail">
 
 For the game's sound effects I mixed up stuff downloaded from [Freesound.org][freesound] (a fabulous resource!) and bits that I captured myself with a [Zoom H1][h1] -- such as the sound of an old desktop PC fan, the key sounds of an ancient keyboard, etc. The Zoom H1 also helped as a productivity aid as I could give it to my kids to go play with and win myself a bit more dev time when I was being a house-husband.
 
