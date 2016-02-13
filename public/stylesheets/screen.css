@@ -138,24 +138,14 @@ border-bottom: solid 1px #eee;
 }
 
 nav#main ul {
-text-transform: uppercase;
 padding: 15px 0;
 margin: 0;
 font-size: 100%;
 }
 
 nav#main ul li {
-display: inline;
-border: 0;
-}
-
-nav#main ul li:before {
-content: "/ ";
-color: #eee;
-}
-
-nav#main ul li:first-child:before {
-content: "";
+display: inline-block;
+margin-right: 15px;
 }
 
 nav.categories ul {
@@ -309,10 +299,6 @@ margin-right: 0;
 
   nav#main {
   order: 2;
-  }
-
-  nav#main ul {
-  font-size: 95%;
   }
 
   p#deck {
