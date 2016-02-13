@@ -238,14 +238,19 @@ margin-left: 0;
 margin-right: 0;
 }
 
+ul#categories li {
+margin-bottom: 15px;
+}
+
 @media screen and (max-width: 710px), (max-device-width: 480px) {
 
   aside#sellout {
   order: 4;
   float: none;
   width: auto;
-  padding: 5px 0;
-  margin: 0 0 10px 0;
+  padding: 20px 0 10px 0;
+  margin: 0;
+  border-top: solid 1px #eee;
   }
 
   aside#sellout p {
