@@ -7,19 +7,12 @@ module UsesThis
       @site = site
       output_path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
 
-      paths = [
-        'interviews',
-        'hardware',
-        'software',
-        ['interviews', 'categories']
-      ]
-
-      paths.each do |type|
+      %w[categories interviews hardware software].each do |type|
         FileUtils.mkdir_p(File.join(output_path, type))
       end
 
       generate_interviews(output_path)
-      generate_interview_categories(output_path)
+      generate_categories(output_path)
       generate_gear(output_path)
 
     rescue Dimples::Errors::RenderingError, Dimples::Errors::PublishingError => e
@@ -47,8 +40,8 @@ module UsesThis
       generate_json_file(path, 'index', {interviews: interviews})
     end
 
-    def self.generate_interview_categories(output_path)
-      path = File.join(output_path, 'interviews', 'categories')
+    def self.generate_categories(output_path)
+      path = File.join(output_path, 'categories')
       category_slugs = []
 
       @site.categories.each do |slug, posts|
