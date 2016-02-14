@@ -105,7 +105,7 @@ title: API
   <p class="summary">This method returns a basic list of all the interview categories.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/interviews/categories" title="Request a list of all the interview categories as JSON.">/api/v<%= UsesThis::API::VERSION %>/interviews/categories</a></code>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/categories" title="Request a list of all the interview categories as JSON.">/api/v<%= UsesThis::API::VERSION %>/categories</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -122,7 +122,7 @@ title: API
   <p class="summary">This method returns a basic list of all the interviews for the given category.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/interviews/categories/mac" title="Request a list of a category's interviews as JSON.">/api/v<%= UsesThis::API::VERSION %>/interviews/categories/<strong><em>slug</em></strong></a></code>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/categories/mac" title="Request a list of a category's interviews as JSON.">/api/v<%= UsesThis::API::VERSION %>/categories/<strong><em>slug</em></strong></a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -189,6 +189,7 @@ title: API
   <h4>Changelog</h4>
 
   <ul>
+    <li><time datetime="2016-02-13">February 13, 2016</time><br>Changed the URLs for the categories API to match the site (but the old ones will keep working forever).</li>
     <li><time datetime="2015-06-18">June 18, 2015</time><br>Updated interviews to <em>always</em> have a <code>gear</code> element.</li>
     <li><time datetime="2015-03-15">March 15, 2015</time><br>Added support for interview categories.</li>
     <li><time datetime="2015-03-13">March 13, 2015</time><br>Initial public launch. Sorry about that.</li>
