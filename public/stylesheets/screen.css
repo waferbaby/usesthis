@@ -212,16 +212,16 @@ border: solid 1px #ddd;
 p.summary {
 padding: 0;
 margin: 0;
-font-size: 100%;
+font-size: 90%;
+color: #777;
 }
 
 span.summary {
 font-size: 80%;
-color: #555;
 }
 
 time, time a {
-color: #767676;
+color: #999;
 }
 
 ul {
