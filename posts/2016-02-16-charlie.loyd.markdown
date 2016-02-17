@@ -14,6 +14,8 @@ credits:
 
 I'm Charlie Loyd, and I'm on the satellite imagery team at [Mapbox](https://www.mapbox.com/ "A mapping company."). With my teammates, I've worked on projects like [Cloudless Atlas](http://www.wired.com/2013/05/a-cloudless-atlas/ "A WIRED article about MapBox's satellite imagery."), [Landsat Live](http://www.citylab.com/design/2015/03/roam-the-earth-in-real-time/388252/ "A CityLab article about MapBox's real-time satellite imagery."), [disaster response](https://www.mapbox.com/blog/nepal-imagery-collection/ "Charlie's MapBox's post about map data collection and disasters."), and [maintaining the basemap](https://www.mapbox.com/blog/new-zealand-aerial/ "Charlie's MapBox post about New Zealand."). I also [tweet too much](https://twitter.com/vruba "Charlie's Twitter account.") about Earth observation, tamales, and the common names of plants and animals; write [a similarly diffuse newsletter](http://tinyletter.com/vruba "Charlie's newsletter."), increasingly irregularly; and am [looking for Space Shuttle tile records](http://shuttletiles.space "Charlie's space shuttle tiles website.").
 
+I made [Glittering Blue](glittering.blue "Charlie's Earth animation site.").
+
 #### What hardware do you use?
 
 At work we're on small [MacBook Pros][macbook-pro] with maxed-out RAM and external monitors on standing desks. What matters is the RAM, for ridiculous images - mural-size TIFFs that were never meant to be viewed directly. The laptops are scratchpads and network terminals. Production code runs in a datacenter [somewhere](http://creativetimereports.org/2014/05/20/ingrid-burrington-the-cloud-is-not-the-territory-wnv/ "An article about data centers in northern Virginia."), on hardware that must generate the heat and sound of an overloaded A380 flying straight up. We're carbon-neutral, so I assume we've funded an entire forest somewhere.
@@ -36,7 +38,7 @@ For programming: [Python][]! Lots of [`numpy`][numpy], a library for math on n-d
 
 [Wolfram Alpha][wolfram-alpha] for [Fermi estimates](https://en.wikipedia.org/wiki/Fermi_problem "The Wikipedia entry for Fermi problem."). [iD][] for editing [OpenStreetMap][] - again, it's not [The Homer](http://simpsons.wikia.com/wiki/The_Homer?file=TheHomer.png "An image of the car Homer Simpson invented.") of OSM editors, but its friction is so low that I can pop in and trace for 90 seconds without breaking stride. On a fresh computer, I install [`geojsonio`][geojsonio-cli], [`htop`][htop], [`parallel`][parallel], [`pv`][pv], [`netcat`][netcat], [`postgresql`][postgresql], [`unison`][unison], [`tmux`][tmux], and [`zsh`][zsh]. `pb{copy,paste}` are useful GUI-CLI bridges.
 
-On [iOS][]: The apps I recommend most are [Signal][signal-ios], [Spectrogram Pro][spectrogram-pro-ios], [SensorLog][sensorlog-ios], [Barograph][barograph-ios], [Dark Sky][dark-sky-ios], VesselTracker, and [iFlares][iflares-ios]. I still like [Twitter][twitter-ios] and I'm fine with [Instagram][instagram-ios], but [Taptalk][] is my favorite social network right now: personal, ambiguous, ephemeral.
+On [iOS][]: The apps I recommend most are [Signal][signal-ios], [Spectrogram Pro][spectrogram-pro-ios], [SensorLog][sensorlog-ios], [Barograph][barograph-ios], [Dark Sky][dark-sky-ios], [VesselTracker][vesseltracker-ios], and [iFlares][iflares-ios]. I still like [Twitter][twitter-ios] and I'm fine with [Instagram][instagram-ios], but [Taptalk][] is my favorite social network right now: personal, ambiguous, ephemeral.
 
 #### What would be your dream setup?
 
