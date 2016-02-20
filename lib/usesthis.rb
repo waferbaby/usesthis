@@ -12,5 +12,4 @@ require 'usesthis/interview'
 require 'usesthis/link'
 require 'usesthis/ware'
 
-Oj.default_options = {mode: :compat}
-Tilt.register Tilt::RedcarpetTemplate, 'interview'
+Oj.default_options = { mode: :compat }
