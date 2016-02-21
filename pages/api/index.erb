@@ -64,7 +64,7 @@ title: API
   <p class="summary">This method returns a complete interview for the given slug, including gear.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">/api/v<%= UsesThis::API::VERSION %>/interviews/<strong><em>slug</em></strong></a></code>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">/api/v<%= UsesThis::API::VERSION %>/interviews/{slug}</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -122,7 +122,7 @@ title: API
   <p class="summary">This method returns a basic list of all the interviews for the given category.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/categories/mac" title="Request a list of a category's interviews as JSON.">/api/v<%= UsesThis::API::VERSION %>/categories/<strong><em>slug</em></strong></a></code>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/categories/mac" title="Request a list of a category's interviews as JSON.">/api/v<%= UsesThis::API::VERSION %>/categories/{slug}</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -166,8 +166,8 @@ title: API
   <p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">/api/v<%= UsesThis::API::VERSION %>/hardware/<strong><em>slug</em></strong></a></code><br>
-    <code><a href="/api/v<%= UsesThis::API::VERSION %>/software/photoshop" title="Request a given piece of software as JSON.">/api/v<%= UsesThis::API::VERSION %>/software/<strong><em>slug</em></strong></a></code>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">/api/v<%= UsesThis::API::VERSION %>/hardware/{slug}</a></code><br>
+    <code><a href="/api/v<%= UsesThis::API::VERSION %>/software/photoshop" title="Request a given piece of software as JSON.">/api/v<%= UsesThis::API::VERSION %>/software/{slug}</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
