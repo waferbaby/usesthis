@@ -16,11 +16,11 @@ article.interviewee time {
 font-size: 80%;
 }
 
-aside#sellout {
-width: 120px;
+aside#sidekick {
+width: 170px;
 float: right;
 margin-left: 20px;
-font-size: 60%;
+font-size: 80%;
 color: #767676;
 line-height: 1.7em;
 }
@@ -48,7 +48,7 @@ font-weight: bold;
 }
 
 div#wrapper {
-max-width: 650px;
+max-width: 700px;
 margin: auto;
 }
 
@@ -242,7 +242,7 @@ margin-bottom: 15px;
 
 @media screen and (max-width: 710px), (max-device-width: 480px) {
 
-  aside#sellout {
+  aside#sidekick {
   order: 4;
   float: none;
   width: auto;
@@ -251,11 +251,11 @@ margin-bottom: 15px;
   border-top: solid 1px #eee;
   }
 
-  aside#sellout p {
+  aside#sidekick p {
   margin-top: 0;
   }
 
-  aside#sellout img {
+  aside#sidekick img {
   float: left;
   margin: 0 10px 10px 0;
   }
