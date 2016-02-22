@@ -20,9 +20,13 @@ aside#sidekick {
 width: 170px;
 float: right;
 margin-left: 20px;
-font-size: 80%;
+font-size: 70%;
 color: #767676;
 line-height: 1.7em;
+}
+
+aside#sidekick p:first-child {
+margin-top: 0;
 }
 
 body {
