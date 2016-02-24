@@ -4,6 +4,7 @@ module UsesThis
     attr_accessor :software
     attr_accessor :inspired_links
     attr_accessor :personal_links
+    attr_accessor :sponsor_links
 
     def initialize(config = {})
       super
@@ -13,6 +14,7 @@ module UsesThis
 
       @inspired_links = []
       @personal_links = []
+      @sponsor_links = []
 
       @output_paths[:wares] = File.join(@source_paths[:root], 'data', 'gear')
       @output_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
@@ -28,7 +30,7 @@ module UsesThis
         end
       end
 
-      %w[inspired personal].each do |type|
+      %w[inspired personal sponsor].each do |type|
         Dir.glob(File.join(@output_paths[:links], type, '*.yml')).each do |path|
           self.send("#{type}_links") << UsesThis::Link.new(path)
         end
