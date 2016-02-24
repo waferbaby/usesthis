@@ -1,0 +1,25 @@
+---
+title: Esra'a Al Shafei
+summary: Civil rights advocate (Majal)
+categories:
+- activist
+- mac
+---
+
+#### Who are you, and what do you do?
+
+I'm [Esra'a](https://en.wikipedia.org/wiki/Esra%27a_Al-Shafei "Esra'a's Wikipedia page."), a civil rights advocate from Bahrain, founder and director of [Majal.org](http://majal.org/), an organization which creates platforms that amplify the voices of underrepresented and marginalized communities. Examples of our work include [Mideast Tunes][mideast-tunes], the largest platform for underground musicians in the Middle East and North Africa who use music as a tool for social change, and [CrowdVoice.org][crowdvoice], an open source tool that curates and contextualizes information about social justice movements worldwide. 
+
+#### What hardware do you use?
+
+I do most of my work on a [21" iMac][imac]. It fits my needs perfectly, and is a great upgrade from my previous VAIO desktop despite the similar screen estate. When traveling, I use a [Macbook Air][macbook-air]. We've been inseparable for 5 years. And I'm also beyond satisfied with my [Samsung Galaxy S4][galaxy-s4]. I've had the [Nexus 6][nexus-6] gifted to me (thank you TED Fellows program!) recently, but I still hesitate to make the change.
+
+Because I work remotely, I have to print, sign and scan a lot of paperwork for contracts or client projects, and so I keep my HP LaserJet Pro pretty busy. I also don't go anywhere without my LG Mini External Hard Drive. I still prefer it over the cloud, and I hope nothing happens that makes me regret saying that one day. 
+
+#### And what software?
+
+[OpenOffice][] is a lifesaver. I use it on a daily basis. My browser of choice is [Chrome][], and I've always preferred [VLC Media Player][vlc] over the alternatives. It's flexible and just never fails to play what I need it to in various resolutions. I keep track with my development team on [Slack][], and my program management teams via [Basecamp][]. Although they sound similar, they both serve very different purposes perfectly, so we use them both depending on the tasks. I also use [Cyberduck][] as an FTP client and [TextWrangler][] to edit any XML files. I edit audio with [Audacity][], and [Android][] will always be my mobile OS of choice. 
+
+#### What would be your dream setup?
+
+I dream of working on a handcrafted maple wood desk, with an amazing view, and a [Seiki 39" 4K Display][se39uy04], [MacBook Pro 17"][macbook-pro], [Bose Companion 2 Series III][companion-2] (speakers) constantly blasting my favorite music from Mideast Tunes, and a [Logitech G602 wireless gaming mouse][g602] that refuses to die on me. I do my best work in complete silence, so the desk will be on an isolated treehouse where no one (except for my partner) is allowed to trespass. Those who do will be immediately and mercilessly devoured by albino squirrels. 
