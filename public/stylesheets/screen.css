@@ -244,6 +244,23 @@ ul#categories li {
 margin-bottom: 15px;
 }
 
+ul#patrons {
+padding: 0;
+margin: 0 0 20px 0;
+}
+
+ul#patrons li {
+display: inline-block;
+}
+
+ul#patrons li:after {
+content: ",";
+}
+
+ul#patrons li:last-child:after {
+content: ".";
+}
+
 @media screen and (max-width: 710px), (max-device-width: 480px) {
 
   aside#sidekick {
