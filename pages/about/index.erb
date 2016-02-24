@@ -4,15 +4,30 @@ title: About
 ---
 
 <article id="about">
-  <h3>What's this?</h3>
-  <p>The Setup is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
-  <p>There are currently <strong><%= @site.posts.count %></strong> interviews mentioning <strong><%= @site.hardware.count %></strong> pieces of hardware and <strong><%= @site.software.count %></strong> bits of software.</p>
+  <header>
+    <h3>What's this?</h3>
+    <p>The Setup is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
+    <p>There are currently <strong><%= @site.posts.count %></strong> interviews mentioning <strong><%= @site.hardware.count %></strong> pieces of hardware and <strong><%= @site.software.count %></strong> bits of software.</p>
+  </header>
+
+  <section id="thanks">
+    <h4>Thank you!</h4>
+    <p>These generous people sponsor The Setup <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
+    <ul id="patrons">
+    <% @site.sponsor_links.each do |link| %>
+      <li><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><%= link.name %></a></li>
+    <% end %>
+    </ul>
+  </section>
 
   <section id="faq">
     <h4>Questions</h4>
     <dl>
       <dt id="schedule">When are new interviews posted?</dt>
       <dd>Every <strong>Tuesday</strong> and <strong>Thursday</strong>.</dd>
+
+      <dt id="who">Who runs the site?</dt>
+      <dd>I'm <a href="http://twitter.com/waferbaby" title="Some dude's Twitter account.">Daniel Bogan</a>, a web nerd.</dd>
 
       <dt id="suggestion">Can I suggest someone to interview?</dt>
       <dd>Yes please! Either via email or Twitter (see below).</d>
@@ -25,9 +40,6 @@ title: About
 
       <dt id="clone">Can I make my own version of The Setup?</dt>
       <dd>Yes! The whole site is freely available <a href="http://github.com/waferbaby/usesthis/" title="The source code for the site.">on Github</a> - go nuts! And let me know if you <em>do</em> end up making your own, so I can link to it.</dd>
-
-      <dt id="who">Who runs the site?</dt>
-      <dd>I'm <a href="http://twitter.com/waferbaby" title="Some dude's Twitter account.">Daniel</a>, just another human on the Internets.</dd>
 
       <dt id="contact">How do I get in touch with you?</dt>
       <dd>Send an email to the fourth letter of the English alphabet, followed by the 'at' symbol, care of this domain. You can also ping me <a href="http://twitter.com/usesthis/" title="The usesthis Twiter account.">on Twitter</a>.</dd>
