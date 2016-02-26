@@ -17,7 +17,7 @@ On my desk currently are three Mac laptops. My main personal computer is the mid
 
 Besides the laptops, I also have a [Wacom Intuos4 tablet][intuos] (Model: PTK-640) and two Lacie hard drives dating from 2009 and 2014 - a backup, and a backup of my backup. These also store all of my old animation work and game project folders that grew out of control. When I'm doing audio work, I have a Korg49 MIDI keyboard. While I'm neither an audio designer nor an artist/animator, knowing the basics and being able to scrap together sample art or sound design is hugely helpful when it comes to communicating design ideas.
 
-For playing games, I've got an [iPhone 5][iphone-5], [Apple Watch Sport][apple-watch-sport], [iPad Mini 3][ipad-mini-3], [PSP][], [Nintendo DS][ds], [Nintendo 3DS][3ds], [Wii][], [Wii U][wii-u], [PS4][], [PS3][], [PS2][], [X360][xbox-360], [Dreamcast][], [N64][n64], & [Famicom][nes]. Regardless of what platform you're making games on, it's always useful and inspirational to see what's happening outside your sphere.
+For playing games, I've got an [iPhone 5][iphone-5], [Apple Watch][apple-watch] Sport, [iPad Mini 3][ipad-mini-3], [PSP][], [Nintendo DS][ds], [Nintendo 3DS][3ds], [Wii][], [Wii U][wii-u], [PS4][], [PS3][], [PS2][], [X360][xbox-360], [Dreamcast][], [N64][n64], & [Famicom][nes]. Regardless of what platform you're making games on, it's always useful and inspirational to see what's happening outside your sphere.
 
 On the experimental side of things, I've got the [littleBits Arduino coding kit][littlebits], which essentially lets you play around with circuitry soldering-free. Different components click together magnetically, making it infinitely easier to iterate on hardware prototypes.
 
