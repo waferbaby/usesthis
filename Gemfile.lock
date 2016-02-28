@@ -5,7 +5,7 @@ GEM
       tilt (~> 2.0)
     erubis (2.7.0)
     mongoose (0.2.5)
-    oj (2.14.5)
+    oj (2.14.6)
     redcarpet (3.3.4)
     tilt (2.0.2)
 
