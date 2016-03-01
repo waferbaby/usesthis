@@ -15,7 +15,7 @@ title: About
     <p>These generous people sponsor The Setup <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
     <ul id="patrons">
     <% @site.sponsor_links.each do |link| %>
-      <li><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><%= link.name %></a></li>
+      <li><% if link.url %><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><% end %><%= link.name %><% if link.url %></a><% end %></li>
     <% end %>
     </ul>
   </section>
