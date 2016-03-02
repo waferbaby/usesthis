@@ -11,29 +11,15 @@ a:hover img {
 opacity: 0.8;
 }
 
-article#interview time,
-article.interviewee time {
+article#interview time, article.interviewee time {
 font-size: 80%;
-}
-
-aside#sidekick {
-width: 170px;
-float: right;
-margin-left: 20px;
-font-size: 70%;
-color: #767676;
-line-height: 1.7em;
-}
-
-aside#sidekick p:first-child {
-margin-top: 0;
 }
 
 body {
 padding: 50px 30px;
 margin: 0;
 font-family: lato, sans-serif;
-font-size: 1.1em;
+font-size: 1.05em;
 line-height: 1.4em;
 }
 
@@ -52,7 +38,7 @@ font-weight: bold;
 }
 
 div#wrapper {
-max-width: 700px;
+max-width: 502px;
 margin: auto;
 }
 
@@ -67,10 +53,20 @@ color: #555;
 }
 
 footer {
-padding: 15px 0;
+padding: 0;
 font-size: 75%;
 color: #767676;
 border-top: solid 1px #eee;
+}
+
+form#search {
+padding: 10px 0;
+font-size: 90%;
+text-align: center;
+}
+
+form#search input[type=search] {
+width: 60%;
 }
 
 h1, h2 {
@@ -114,9 +110,12 @@ h5 a {
 color: #000;
 }
 
-img.detail,
-img.portrait {
+img.detail, img.portrait {
 border: solid 1px #000;
+}
+
+main {
+word-wrap: break-word;
 }
 
 nav a {
@@ -141,8 +140,8 @@ margin: 0;
 }
 
 nav#main ul li {
-display: inline-block;
-margin-right: 15px;
+display: inline;
+margin-right: 10px;
 }
 
 nav.categories ul {
@@ -169,19 +168,12 @@ content: "";
 
 nav#paginator {
 text-align: center;
-padding: 20px 0;
+padding: 25px 0;
 border-top: solid 1px #eee;
-font-size: 90%;
 }
 
 nav#paginator span {
 color: #767676;
-}
-
-p#deck {
-clear: left;
-font-size: 85%;
-color: #999;
 }
 
 p#tagline {
@@ -256,35 +248,7 @@ ul#patrons li:last-child:after {
 content: ".";
 }
 
-@media screen and (max-width: 710px), (max-device-width: 480px) {
-
-  aside#sidekick {
-  display: flex;
-  flex-direction: column;
-  order: 4;
-  float: none;
-  width: auto;
-  padding: 10px 0;
-  margin: 0;
-  border-top: solid 1px #eee;
-  }
-
-  div#wrapper {
-  display: flex;
-  flex-direction: column;
-  max-width: 502px;
-  }
-
-  footer {
-  order: 5;
-  }
-
-  form#search {
-  border-top: solid 1px #eee;
-  order: 2;
-  text-align: center;
-  padding-top: 15px;
-  }
+@media screen and (max-width: 550px), (max-device-width: 480px) {
 
   h1 {
   display: block;
@@ -299,12 +263,7 @@ content: ".";
   font-size: 160%;
   }
 
-  header {
-  order: 1;
-  }
-
-  img.detail,
-  img.portrait {
+  img.detail, img.portrait {
   float: none;
   max-width: 500px;
   width: 100%;
@@ -312,27 +271,8 @@ content: ".";
   margin: 0;
   }
 
-  main {
-  order: 3;
-  }
-
-  nav#main {
-  order: 2;
-  }
-
   nav#main ul li {
-  display: block;
-  float: left;
-  margin: 0 0 15px;
-  width: 50%;
-  }
-
-  p#deck {
-  clear: none;
-  }
-
-  p#support {
-  order: 1;
+  font-size: 80%;
   }
 
   p#tagline {
