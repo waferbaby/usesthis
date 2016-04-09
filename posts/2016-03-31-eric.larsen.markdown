@@ -3,6 +3,8 @@ title: Eric Larsen
 summary: Polar adventurer, expedition guide
 categories:
 - adventurer
+credits:
+  name: Sam Bricker
 ---
 
 #### Who are you, and what do you do?
@@ -27,7 +29,7 @@ Enerplex [Jumpr Stack 6 battery][jumpr-stack-6] and [Kickr IV solar panel][kickr
 
 Citizen watch - on my adventures, we adhere to a very strict schedule to maximize our travel time. Having a reliable watch is paramount and with Citizen's eco-drive, I don't even need batteries! I use the [Promaster Altichron][promaster-altichron] which combines Eco-Drive technology with an altimeter and electronic compass. It's got a light-weight titanium dial which is also important because weight is always a factor!
 
-Sony Action Cam - I've used every single POV cam on the market and I feel that this has the best quality, user interface and overall usability. Much of my Animal Planet TV special 'Melting: Last Race to the Pole' was filmed with a Sony Action Cam.
+[Sony Action Cam][fdr-x1000v] - I've used every single POV cam on the market and I feel that this has the best quality, user interface and overall usability. Much of my Animal Planet TV special 'Melting: Last Race to the Pole' was filmed with a Sony Action Cam.
 
 [Trek Farley 9.8][farley-9.8] - I recently returned from guiding a 'last degree' Fat Bike expedition to the South Pole. Fat bike technology has evolved by leaps and bounds over the past few years and the Farley is leading the pack, as far as I'm concerned. On a Fat Bike expedition, weight is everything and the Farley 9.8 is a feather that floats on the snow!
 
@@ -37,7 +39,7 @@ Sony Action Cam - I've used every single POV cam on the market and I feel that t
 
 [MSR XGK EX stove][xgk-ex] - This is the most bomber stove ever made. Simply put, the XGK always works. It’s never given me any problems, and I’ve never had to clean it on an expedition. It cranks the BTUs, has sturdy legs and solid pot supports. It’s also totally field-repairable (if a problem were to suddenly occur). It sounds like a jet engine, but that only helps our team dynamics - Ryan doesn't have to listen to my bad jokes in the tent.
 
-Granite Gear Lutsen pack - A great 'all around' pack for the backcountry or anything else you can throw at it (or in it for that matter). It's super adjustable and has just the right amount of features and clean lines that make for an overall comfortable 'carry'. 
+[Granite Gear Lutsen pack][lutsen-55] - A great 'all around' pack for the backcountry or anything else you can throw at it (or in it for that matter). It's super adjustable and has just the right amount of features and clean lines that make for an overall comfortable 'carry'. 
 
 Stanley - Insulated flasks. Hot water. Hot soup. Even at 40 below. Any questions?
 
