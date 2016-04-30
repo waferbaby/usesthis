@@ -26,7 +26,7 @@ I need to include that I'm not qualified to touch any of these things, and I wou
 
 #### And what software?
 
-[Slack][] for team communication, [Basecamp][] for project management, [TextExpander][] for making email as efficient as possible. I also use [iA Writer][ia-writer] to write without distraction, CleanMyMac for upkeep, [1Password][] for security, and recently we've been trying out [Front][] for answering Cards Against Humanity support emails.
+[Slack][] for team communication, [Basecamp][] for project management, [TextExpander][] for making email as efficient as possible. I also use [iA Writer][ia-writer] to write without distraction, [CleanMyMac][] for upkeep, [1Password][] for security, and recently we've been trying out [Front][] for answering Cards Against Humanity support emails.
 
 #### What would be your dream setup?
 
