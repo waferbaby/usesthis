@@ -1,0 +1,26 @@
+---
+title: Victoria Wang
+summary: Designer, developer (Neocities, Hibari)
+categories:
+- designer
+- developer
+- mac
+---
+
+#### Who are you, and what do you do?
+
+I'm [Victoria](http://twitter.com/violasong "Victoria's Twitter account."), an indie designer/dev working on projects like [Neocities][]. I spend a lot of time thinking happily about [ethics](http://victoria.neocities.org/ "Victoria's ethics weblog.") and unhappily about [gender](http://violasong.com/thoughtexperiment/ "Victoria's thought experiment essay."), both of which caused me to write [this remix](http://violasong.com/tableflip/ "Victoria's essay on gender.") of [this essay](http://tableflip.club/ "A website about table flipping."). I love making [digital art](https://www.flickr.com/photos/victoriawang/albums/72157665765423065 "Victoria's digital art on Flickr.").
+
+#### What hardware do you use?
+
+A [MacBook Pro][macbook-pro] and an old [Wacom Graphire tablet][graphire]. I work from home, but am lucky to have a second desk at [The Outpost](http://outpostpdx.com/ "A shared workspace in Portland, Oregon."), a community-focused coworking space here in Portland.
+
+#### And what software?
+
+[TextMate 2][textmate], rickety copies of [Fireworks][] and [Photoshop][] CS3, [Chrome dev tools][chrome-devtools].
+
+Also, [Terminal][], [GitX][], [Backblaze][], [Google Docs][google-docs], [Hibari][] for [Twitter][], [Illustrator][], [Day One][day-one], [Slack][].
+
+#### What would be your dream setup?
+
+With the ridiculous back and wrist issues I've been having, I've been fantasizing about plugging my brain into a computer to work fully in the digital realm. More seriously, I'd be really excited about bringing my current setup with me to live/work for months at a time in other countries.
