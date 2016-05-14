@@ -20,7 +20,7 @@ padding: 50px 30px;
 margin: 0;
 font-family: lato, sans-serif;
 font-size: 1.05em;
-line-height: 1.4em;
+line-height: 1.6em;
 }
 
 code {
@@ -141,7 +141,16 @@ margin: 0;
 
 nav#main ul li {
 display: inline;
-margin-right: 10px;
+}
+
+nav#main ul li:after, nav.categories ul li:after {
+content: "/";
+color: #ccc;
+padding-left: 5px;
+}
+
+nav#main ul li:last-child:after, nav.categories ul li:last-child:after {
+content: "";
 }
 
 nav.categories ul {
@@ -154,16 +163,6 @@ nav.categories ul li {
 display: inline-block;
 padding: 0;
 margin: 0 5px 5px 0;
-}
-
-nav.categories ul li:after {
-content: "/";
-color: #767676;
-padding-left: 5px;
-}
-
-nav.categories ul li:last-child:after {
-content: "";
 }
 
 nav#paginator {
