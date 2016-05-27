@@ -3,8 +3,10 @@ title: Catherine Flick
 summary: Senior Lecturer in Computing & Social Responsibility (De Montfont University)
 categories:
 - game
+- mac
 - podcaster
 - professor
+- windows
 ---
 
 #### Who are you, and what do you do?
