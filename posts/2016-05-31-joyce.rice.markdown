@@ -1,0 +1,40 @@
+---
+title: Joyce Rice
+summary: Cartoonist, creative director (Symbolia)
+categories:
+- cartoonist
+- developer
+- mac
+- teacher
+---
+
+#### Who are you, and what do you do?
+
+My name is [Joyce Rice](http://teenyrobots.net "Joyce's website."), and I make comics, infographics, and games, and sometimes all three combined. In addition to producing content, I also work as a [creative director](http://symboliamag.com/ "A journalism comic magazine.") partnering with media organizations to help other folks produce this kind of work, and I teach digital comics in the [Comics MFA program at California College of the Arts](http://comics.cca.edu/digital-anth.html "The comics MFA program at CCA."). Right now I'm looking at how game design principles might be applied to comics in digital spaces to expand and evolve the art form as technology changes how we create and experience media.
+
+#### What hardware do you use?
+
+I do all of my computer-y work on a [**15" MacBook Pro**][macbook-pro] (16GB RAM, 256GB solid state drive, quad-core i7), usually connected to an [Apple Thunderbolt Display][thunderbolt-display] in my office. It's over-powered as heck which I love, but it's also fairly heavy for a laptop one carries all over the place on a bike, which makes me cry. I phone on a 16GB [**iPhone 5**][iphone-5] and I just keep reinstalling the OS on whenever it gets too slow ¯\_(ツ)_/¯. At my desk I use a [Wacom Intuos 4][intuos] tablet and a [Logitech ergonomic mouse][m510] which stopped all my hand-cramping and was just generally life-changing. I scan everything (drawings, documents, notes) on an [Epson Perfection][perfection-v39]. Sometimes I read/research on an [**iPad 3**][ipad-3] (an oldster!) but I pretty much hate doing anything else on it.
+
+I do most of my drawing in meat-space. If I'm on the go, I draw in **Handbook sketchbooks** (which I typically describe as “Moleskines that don't suck") with a **[Pentel Sharp][sharp] with non-photo blue lead**, and I'll ink with a [**Pentel Pocket Brush Pen**][pocket-brush-pen]. Lately I've been using [**Le Pen**][le-pen], but any dang .8 and .3 inking pens will do for detail work. I watercolor with this [**Winsor & Newton field set**][cotman-field-plus] regardless of whether I'm traveling or at home.
+
+In the office, I draw on any dang sketch paper with any dang wooden pencils (preferably HB or softer). I use a [Huion light plate][a4-light-pad] to transfer my work to Strathmore 400 Series Bristol using india ink and synthetic number 2 watercolor brushes. I like a cork-back ruler that has 10th's of inches, big flat plastic triangles, and white erasers.
+
+I'm on the move a lot, and everything in **bold** is in my mobile arsenal packed into a hecka waterproof [**Chrome rolltop backpack**][pawn].
+
+#### And what software?
+
+To make sure the work gets done, I use:
+[Wunderlist][], [Dropbox Pro][dropbox] (backups!), [Airmail][] (but the [Gmail app][gmail-ios] on mobile), Sunrise Calendar ([mobile][sunrise-ios] and [desktop][sunrise], pulling from [Google Calendar][google-calendar]), and [Time Machine][time-machine] (hecka backups!).
+
+For researching and actually doing the work I mostly use:
+[Evernote Pro][evernote], [Sublime Text 2][sublime-text], [Adobe CC][creative-suite], [Unity][], and [Pyxel Edit][pyxel-edit].
+
+I write for robots in:
+HTML, CSS, [JavaScript][], and [C#][c-sharp].
+
+#### What would be your dream setup?
+
+I travel a lot and the size/weight of my computer drives me nuts, so I'll probably eventually switch to a lighter/smaller laptop. To minimize scanning in pieces, I'd also like to switch to a tabloid-sized scanner. I've been toying with the idea of upgrading to an [iPhone 6S+][iphone-6-plus] and pitching both the iPhone 5 and the iPad. I'm also pretty interested in what kinds of weird games (and comics??) we could make for/with smartwatches, so I've been thinking about picking one up to tinker with as well. I often fantasize about leaving the cult of Apple, but kind of feel too invested in the ecosystem to actually do it.
+
+Other than that I'm actually really happy with my setup! I'm a bit of a gearhead and optimization nut, so I'm always willing to try new apps, workflows, and tools to see what's good. That's led me to the setup I'm at today, and it all gets the job done!
