@@ -11,19 +11,23 @@ abort("You must supply a name for the interviewee.") if ARGV.length < 2
 name = ARGV.join(' ')
 slug = name.downcase.gsub(/ /, '.')
 
-interviews = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
-latest_date = File.basename(interviews.reverse.first).match(/\d{4}-\d{2}-\d{2}/)[0]
-next_date = Date.parse(latest_date).next_day
+Dir.chdir(source_path) do
+  branches = `git branch | grep '\\d\\{4\\}-\\d\\{2\\}-\\d\\{2\\}' | sed 's/*//'`.split
 
-loop do
-  break if next_date.strftime('%a') =~ /Tue|Thu/
-  next_date = next_date.next_day
-end
+  latest_date = branches.reverse.first
+  next_date = Date.parse(latest_date).next_day
 
-file_path = File.join(source_path, 'posts', "#{next_date.strftime('%Y-%m-%d')}-#{slug}.markdown")
-abort("Interview already exists for #{slug}.") if File.exists?(file_path)
+  loop do
+    break if next_date.strftime('%a') =~ /Tue|Thu/
+    next_date = next_date.next_day
+  end
 
-output = <<OUTPUT
+  formatted_next_date = next_date.strftime('%Y-%m-%d')
+
+  file_path = File.join(source_path, 'posts', "#{formatted_next_date}-#{slug}.markdown")
+  abort("Interview already exists for #{slug}.") if File.exists?(file_path)
+
+  output = <<OUTPUT
 ---
 title: #{name}
 summary: (summary)
@@ -42,8 +46,9 @@ categories:
 
 OUTPUT
 
-File.open(file_path, 'w') do |file|
-  file.write(output)
-end
+  File.open(file_path, 'w') do |file|
+    file.write(output)
+  end
 
-`subl ~/Development/usesthis && subl #{file_path}`
+  `git co -b #{formatted_next_date} && subl . && subl #{file_path}`
+end
