@@ -20,7 +20,7 @@ paths = {}
 end
 
 if File.exists?(paths['hardware']) || File.exists?(paths['software'])
-  puts "Entry already exists for '#{slug}'."
+  abort "Entry already exists for '#{slug}'."
 else
   entry = <<ENTRY
 ---
@@ -34,4 +34,4 @@ ENTRY
   end
 end
 
-`#{editor} #{source_path} && #{editor} #{paths[type]}`
+`#{editor} #{paths[type]}`
