@@ -6,6 +6,8 @@ $:.unshift(source_path)
 require 'lib/usesthis'
 require 'date'
 
+editor = ENV['EDITOR'] || 'vi'
+
 abort("You must supply a name for the interviewee.") if ARGV.length < 2
 
 name = ARGV.join(' ')
@@ -52,5 +54,5 @@ File.open(file_path, 'w') do |file|
 end
 
 Dir.chdir(source_path) do
-  `git co -b #{formatted_next_date} && subl . && subl #{file_path}`
+  `git co -b #{formatted_next_date} && #{editor} . && #{editor} #{file_path}`
 end
