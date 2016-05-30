@@ -4,6 +4,8 @@ source_path = File.dirname(__dir__)
 
 $:.unshift(source_path)
 
+editor = ENV['EDITOR'] || 'vi'
+
 abort("You must supply a type ('hardware' or 'software').") unless ARGV[0] =~ /^(hardware|software)$/
 abort("You must provide a name.") if ARGV[1].nil?
 
@@ -11,18 +13,14 @@ type = ARGV[0]
 name = ARGV[1..-1].join(' ')
 slug = name.downcase.gsub(/ /, '-')
 
-software_path = File.join(source_path, 'data', 'gear', 'software', "#{slug}.yml")
-hardware_path = File.join(source_path, 'data', 'gear', 'hardware', "#{slug}.yml")
+paths = {}
 
-file = case type
-  when 'software' then software_path
-  when 'hardware' then hardware_path
+%w[hardware software].each do |type|
+  paths[type] = File.join(source_path, 'data', 'gear', type, "#{slug}.yml")
 end
 
-if File.exists?(software_path)
-  abort "Software entry already exists for '#{slug}'."
-elsif File.exists?(hardware_path)
-  abort "Hardware entry already exists for '#{slug}'."
+if File.exists?(paths['hardware']) || File.exists?(paths['software'])
+  puts "Entry already exists for '#{slug}'."
 else
   entry = <<ENTRY
 ---
@@ -31,9 +29,9 @@ description: (description)
 url: (url)
 ENTRY
 
-  File.open(file, 'w') do |f|
+  File.open(paths[type], 'w') do |f|
     f.write(entry)
   end
 end
 
-`open #{file}`
+`#{editor} #{source_path} && #{editor} #{paths[type]}`
