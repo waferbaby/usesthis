@@ -3,7 +3,6 @@
 source_path = File.dirname(__dir__)
 $:.unshift(source_path)
 
-require 'lib/usesthis'
 require 'date'
 
 editor = ENV['EDITOR'] || 'vi'
