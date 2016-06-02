@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-trap("SIGINT") { exit! }
+trap('SIGINT') { exit! }
 
 require 'rubygems'
 require 'yaml'
@@ -8,25 +8,27 @@ require 'net/http'
 require 'openssl'
 
 source_path = File.dirname(__dir__)
-$:.unshift(source_path)
+$LOAD_PATH.unshift(source_path)
 
 type = ARGV[0]
 
-abort("I can only scan for 'hardware', 'software' or 'links'.") unless type =~ /^(hardware|software|links)$/
+unless type =~ /^(hardware|software|links)$/
+  abort("I can only scan for 'hardware', 'software' or 'links'.")
+end
 
-glob = case type
-  when 'hardware'
-    File.join(source_path, 'data', 'gear', 'hardware', '*.yml')
-  when 'software'
-    File.join(source_path, 'data', 'gear', 'software', '*.yml')
-  when 'links'
-    File.join(source_path, 'data', 'links', '**', '*.yml')
-  end
+case type
+when 'hardware'
+  glob = File.join(source_path, 'data', 'gear', 'hardware', '*.yml')
+when 'software'
+  glob = File.join(source_path, 'data', 'gear', 'software', '*.yml')
+when 'links'
+  glob = File.join(source_path, 'data', 'links', '**', '*.yml')
+end
 
-puts "Scanning:"
+puts 'Scanning:'
 
 Dir.glob(glob) do |path|
-  data = YAML::load_file(path)
+  data = YAML.load_file(path)
   needs_update = false
 
   begin
@@ -34,56 +36,60 @@ Dir.glob(glob) do |path|
 
     url = URI(data['url'])
     response = Net::HTTP.get_response(url)
-    
+
     case response
-      when Net::HTTPSuccess then
-        puts "Okay."
-      when Net::HTTPMovedPermanently, Net::HTTPMovedTemporarily, Net::HTTPRedirection then
-        new_url = response['location']
+    when Net::HTTPSuccess then
+      puts 'Okay.'
+    when Net::HTTPMovedPermanently then
+    when Net::HTTPMovedTemporarily then
+    when Net::HTTPRedirection then
+      new_url = response['location']
 
-        if new_url =~ /jsessionid/
-          puts "Looks like a session URL (#{new_url})."
-        else
-          new_url = "#{url.scheme}://#{url.host}#{new_url}" unless new_url =~ /^https?:\/\//
-
-          data['url'] = new_url
-          needs_update = true
-
-          puts "Updated (#{response.code})."
-        end
-      when Net::HTTPNotFound then
-        data['url'] = "FIX ME: Not found (#{data['url']})"
-        needs_update = true
-
-        puts "Not found."
+      if new_url =~ /jsessionid/
+        puts "Looks like a session URL (#{new_url})."
       else
-        data['url'] = "FIX ME: Got a #{response.code} (#{data['url']})"
+        unless new_url =~ %r{/^https?:\/\//}
+          new_url = "#{url.scheme}://#{url.host}#{new_url}"
+        end
+
+        data['url'] = new_url
         needs_update = true
 
-        puts "Got a #{response.code}"
+        puts "Updated (#{response.code})."
+      end
+    when Net::HTTPNotFound then
+      data['url'] = "FIX ME: Not found (#{data['url']})"
+      needs_update = true
+
+      puts 'Not found.'
+    else
+      data['url'] = "FIX ME: Got a #{response.code} (#{data['url']})"
+      needs_update = true
+
+      puts "Got a #{response.code}"
     end
 
   rescue Net::ReadTimeout, Errno::ETIMEDOUT, Errno::ENETUNREACH
     data['url'] = "FIX ME: Timed out or unreachable (#{data['url']})"
     needs_update = true
 
-    puts "Timed out."
+    puts 'Timed out.'
   rescue URI::InvalidURIError
     puts "Looks like a bad URL (#{data['url']})?"
   rescue OpenSSL::SSL::SSLError
-    puts "Invalid SSL certificate."
+    puts 'Invalid SSL certificate.'
   rescue SocketError
     data['url'] = "FIX ME: Dead site? (#{data['url']})"
     needs_update = true
 
-    puts "Site seems unreachable."
-  rescue Exception => e
+    puts 'Site seems unreachable.'
+  rescue StandardError => e
     puts e.inspect
   end
 
   if needs_update
     File.open(path, 'w') do |file|
-      file.write(YAML::dump(data))
+      file.write(YAML.dump(data))
     end
   end
 end

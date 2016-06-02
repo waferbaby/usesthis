@@ -6,10 +6,9 @@ module UsesThis
     attr_accessor :description
 
     def initialize(path)
-      metadata = YAML::load_file(path)
+      metadata = YAML.load_file(path)
 
       @slug = File.basename(path, File.extname(path))
-      
       @name = metadata['name']
       @url = metadata['url']
       @description = metadata['description'] || ''

@@ -1,32 +1,36 @@
 #!/usr/bin/env ruby
 
 source_path = File.dirname(__dir__)
-$:.unshift(source_path)
+$LOAD_PATH.unshift(source_path)
 
 require 'lib/usesthis'
 
 Dir.chdir(source_path) do
-  branch = `git branch | grep '\\d\\{4\\}-\\d\\{2\\}-\\d\\{2\\}' | sed 's/*//'`.split.sort.first
-  abort "You have uncommited changes - fix this before I can publish #{branch}!" unless `git status -s`.nil?
+  branch_format = '\\d\\{4\\}-\\d\\{2\\}-\\d\\{2\\}'
+  branch = `git branch | grep '#{branch_format}' | sed 's/*//'`.split.sort.first
+
+  unless `git status -s`.nil?
+    abort "You have uncommited changes - fix this so I can publish #{branch}!"
+  end
 
   `git co #{branch} -q`
 
-  interview_path = Dir.glob(File.join(source_path, 'posts', '*.markdown')).reverse.first
+  interview_files = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
+  interview_path = interview_files.reverse.first
   metadata = YAML.load_file(interview_path)
 
   tasks = [
-    {:description => "Switching to master..", :command => "git co master -q"},
-    {:description => "Merging in #{branch}..", :command => "git merge #{branch} -m 'Merged in the interview with #{metadata['title']}.'"},
-    {:description => "Deleting the branch..", :command => "git branch -d #{branch}"},
-    {:description => "Building the site..", :command => "./tasks/build"},
-    {:description => "Compressing the CSS..", :command => "yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css"},
-    {:description => "Publishing..", :command => "rsync -apv --delete --exclude='stats' site/ usesthis.com:/usr/local/www/usesthis.com/public/"},
+    'git co master -q',
+    "git merge #{branch} -m 'Merged in the interview with #{metadata['title']}.'",
+    "git branch -d #{branch}",
+    './tasks/build',
+    'yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css',
+    "rsync -apv --delete --exclude='stats' site/ usesthis.com:/usr/local/www/usesthis.com/public/"
   ]
 
   tasks.each do |task|
-    puts task[:description]
-    `#{task[:command]}`
+    puts `#{task[:command]}`
   end
 
-  puts "Done!"
+  puts 'Done!'
 end

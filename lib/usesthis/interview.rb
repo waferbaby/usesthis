@@ -20,11 +20,12 @@ module UsesThis
 
         wares = @hardware.merge(@software)
 
-        if wares.length > 0
+        unless wares.empty?
           @contents_with_links += "\n\n"
 
           wares.each_value do |ware|
-            @contents_with_links += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+            entry = "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+            @contents_with_links += entry
           end
         end
       end
@@ -48,19 +49,15 @@ module UsesThis
         url: "http://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
-        categories: @categories,
+        categories: @categories
       }
 
       output[:credits] = @credits if @credits
       output[:contents] = @contents
+      output[:gear] = { hardware: [], software: [] }
 
-      output[:gear] = {
-        hardware: [],
-        software: []
-      }
-
-      %w{hardware software}.each do |type|
-        self.send(type).each do |slug, ware|
+      %w(hardware software).each do |type|
+        send(type).each_value do |ware|
           ware_hash = ware.to_h
           ware_hash.delete(:interviews)
 

@@ -1,17 +1,17 @@
 #!/usr/bin/env ruby
 
 source_path = File.dirname(__dir__)
-$:.unshift(source_path)
+$LOAD_PATH.unshift(source_path)
 
 require 'lib/usesthis'
 
-config = YAML::load_file(File.join(source_path, 'config', 'site.yml'))
+config = YAML.load_file(File.join(source_path, 'config', 'site.yml'))
 
 site = UsesThis::Site.new(config)
 
 begin
   site.generate
   UsesThis::API.generate(site)
-rescue Exception => e
+rescue StandardError => e
   puts "Error: #{e}"
 end

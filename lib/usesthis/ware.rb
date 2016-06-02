@@ -7,7 +7,7 @@ module UsesThis
     attr_accessor :interviews
 
     def initialize(path)
-      metadata = YAML::load_file(path)
+      metadata = YAML.load_file(path)
 
       @slug = File.basename(path, File.extname(path))
 
@@ -26,7 +26,7 @@ module UsesThis
         url: @url
       }
 
-      if @interviews.length > 0
+      unless @interviews.empty?
         output[:interviews] = []
 
         @interviews.each do |interview|

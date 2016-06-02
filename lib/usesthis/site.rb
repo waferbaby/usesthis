@@ -23,28 +23,35 @@ module UsesThis
     end
 
     def scan_files
-      %w[hardware software].each do |type|
-        Dir.glob(File.join(@output_paths[:wares], type, '*.yml')).each do |path|
-          ware = UsesThis::Ware.new(path)
-          self.send(type)[ware.slug] = ware
-        end
-      end
-
-      %w[inspired personal sponsor].each do |type|
-        Dir.glob(File.join(@output_paths[:links], type, '*.yml')).each do |path|
-          self.send("#{type}_links") << UsesThis::Link.new(path)
-        end
-      end
+      scan_gear
+      scan_links
 
       super
+    end
+
+    def scan_gear
+      %w(hardware software).each do |type|
+        Dir.glob(File.join(@output_paths[:wares], type, '*.yml')).each do |path|
+          ware = UsesThis::Ware.new(path)
+          send(type)[ware.slug] = ware
+        end
+      end
+    end
+
+    def scan_links
+      %w(inspired personal sponsor).each do |type|
+        Dir.glob(File.join(@output_paths[:links], type, '*.yml')).each do |path|
+          send("#{type}_links") << UsesThis::Link.new(path)
+        end
+      end
     end
 
     def prepare_post(post)
       super
 
-      %w[hardware software].each do |type|
+      %w(hardware software).each do |type|
         post.send(type).each_value do |item|
-          self.send(type)[item.slug].interviews << post
+          send(type)[item.slug].interviews << post
         end
       end
     end

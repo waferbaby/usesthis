@@ -1,4 +1,4 @@
-$:.unshift(__dir__)
+$LOAD_PATH.unshift(__dir__)
 
 require 'rubygems'
 require 'bundler/setup'

@@ -1,25 +1,27 @@
 #!/usr/bin/env ruby
 
 source_path = File.dirname(__dir__)
-
-$:.unshift(source_path)
+$LOAD_PATH.unshift(source_path)
 
 editor = ENV['EDITOR'] || 'vi'
 
-abort("You must supply a type ('hardware' or 'software').") unless ARGV[0] =~ /^(hardware|software)$/
-abort("You must provide a name.") if ARGV[1].nil?
+unless ARGV[0] =~ /^(hardware|software)$/
+  abort("You must supply a type ('hardware' or 'software').")
+end
+
+abort('You must provide a name.') if ARGV[1].nil?
 
 type = ARGV[0]
 name = ARGV[1..-1].join(' ')
-slug = name.downcase.gsub(/ /, '-')
+slug = name.downcase.tr(/ /, '-')
 
 paths = {}
 
-%w[hardware software].each do |type|
-  paths[type] = File.join(source_path, 'data', 'gear', type, "#{slug}.yml")
+%w(hardware software).each do |gear_type|
+  paths[type] = File.join(source_path, 'data', 'gear', gear_type, "#{slug}.yml")
 end
 
-if File.exists?(paths['hardware']) || File.exists?(paths['software'])
+if File.exist?(paths['hardware']) || File.exist?(paths['software'])
   abort "Entry already exists for '#{slug}'."
 else
   entry = <<ENTRY
