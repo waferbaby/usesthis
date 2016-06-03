@@ -13,12 +13,12 @@ abort('You must provide a name.') if ARGV[1].nil?
 
 type = ARGV[0]
 name = ARGV[1..-1].join(' ')
-slug = name.downcase.tr(/ /, '-')
+slug = name.downcase.tr(' ', '-')
 
 paths = {}
 
 %w(hardware software).each do |gear_type|
-  paths[type] = File.join(source_path, 'data', 'gear', gear_type, "#{slug}.yml")
+  paths[gear_type] = File.join(source_path, 'data', 'gear', gear_type, "#{slug}.yml")
 end
 
 if File.exist?(paths['hardware']) || File.exist?(paths['software'])
