@@ -1,36 +1,5 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env sh
 
-source_path = File.dirname(__dir__)
-$LOAD_PATH.unshift(source_path)
-
-require 'lib/usesthis'
-
-Dir.chdir(source_path) do
-  branch_format = '\\d\\{4\\}-\\d\\{2\\}-\\d\\{2\\}'
-  branch = `git branch | grep '#{branch_format}' | sed 's/*//'`.split.sort.first
-
-  unless `git status -s`.nil?
-    abort "You have uncommited changes - fix this so I can publish #{branch}!"
-  end
-
-  `git co #{branch} -q`
-
-  interview_files = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
-  interview_path = interview_files.reverse.first
-  metadata = YAML.load_file(interview_path)
-
-  tasks = [
-    'git co master -q',
-    "git merge #{branch} -m 'Merged in the interview with #{metadata['title']}.'",
-    "git branch -d #{branch}",
-    './tasks/build',
-    'yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css',
-    "rsync -apv --delete --exclude='stats' site/ usesthis.com:/usr/local/www/usesthis.com/public/"
-  ]
-
-  tasks.each do |task|
-    puts `#{task[:command]}`
-  end
-
-  puts 'Done!'
-end
+./tasks/build
+yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css
+rsync -apv --delete --exclude='stats' site/ usesthis.com:/usr/local/www/usesthis.com/public/
