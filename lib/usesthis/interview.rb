@@ -24,8 +24,7 @@ module UsesThis
           @contents_with_links += "\n\n"
 
           wares.each_value do |ware|
-            entry = "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
-            @contents_with_links += entry
+            @contents_with_links += "#{ware.to_markdown}\n"
           end
         end
       end
