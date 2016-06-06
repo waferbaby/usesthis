@@ -18,6 +18,10 @@ module UsesThis
       @interviews = []
     end
 
+    def to_markdown
+      "[#{slug}]: #{url} \"#{description}\""
+    end
+
     def to_h
       output = {
         slug: @slug,
