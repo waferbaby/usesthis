@@ -1,0 +1,55 @@
+---
+title: Johan Nordberg
+summary: Freelance developer (Wintersmith)
+categories:
+- designer
+- developer
+- linux
+- mac
+---
+
+#### Who are you, and what do you do?
+
+I'm [Johan Nordberg](https://johan-nordberg.com/ "Johan's website."), a freelance software developer and creative with a somewhat nomadic lifestyle, alternating between Sweden (where I'm [from](https://en.wikipedia.org/wiki/Luleå "The Wikipedia entry for Luleå.")), Italy (where I have my [main base](https://en.wikipedia.org/wiki/Florence "The Wikipedia entry for Florence.")) and Japan.
+
+When not working for a client, I like to experiment with new technologies and make [open-source](https://github.com/jnordberg "Johan's GitHub account.") tools and libraries.
+
+#### What hardware do you use?
+
+My main computer is a [13" Macbook Air][macbook-air] and I have a [15" MacBook Pro][macbook-pro] that I use for graphics work. And I'm not sure if this counts as hardware, but I use [Amazon EC2][ec2] to offload my laptop for heavy workloads like 3D rendering and data processing.
+
+Besides that, there isn't much else needed for my work. I have pile of iPhones and iPads for application testing, or that's what I tell myself when I want to get the latest model anyways :D
+
+Oh, and my portable speaker, the "[iLoud][]". I love music and this speaker sounds great, plus the batteries last for a whole day!
+
+#### And what software?
+
+I use lots and lots of software! What I use varies greatly with the type project I'm working on, but I'll try list the tools and libraries I keep coming back to.
+
+[Sublime Text 3][sublime-text] is probably where I spend most of my time - it's where I do all my coding. Except for [iOS][] and [OS X][mac-os-x] apps, though, where [Xcode][] is the only sane option. My second-most used app must be [iTerm2][], which is a great replacement for OS X's [Terminal.app][terminal]. I especially love the "visor" feature that lets you have a system-wide hotkey to quickly toggle a terminal. And in that terminal, my shell is [zsh][] with [oh-my-zsh][].
+
+I use the [Creative Suite][creative-suite] (mainly [Photoshop][], [Illustrator][] and [Lightroom][]) for design and mockups, and [Final Cut Pro][final-cut-pro] for video editing. And when things need to get automated I use [GraphicsMagick][] and [ffmpeg][] respectively.
+
+For 3D modelling and rendering I use a combination of [Fusion 360][fusion-360], [Cinema 4D][cinema-4d] and [Maxwell Render][maxwell-render]. And when I need something sliced for 3D printing I use [Simplify3D][], which I found through countless hours of experimenting to produce the best results. [Slic3r][] is pretty good too, if you want a hackable alternative.
+
+To organize my work I use [Timings][] to track where I spend my time, and [Slack][] to communicate with clients and collaborators. All code is managed with [git][] (with [GitX][] as front-end) and self-hosted on a server running [Gogs][], except for open-source stuff which lives on [GitHub][].
+
+My favourite programming language is [CoffeeScript][], which basically is [JavaScript][] with a better syntax. I also use [Python][], [Go][], [Swift][swift.2] and occasionally a bit of [C][].
+
+For web development my stack usually consists of [Wintersmith][], [Browserify][] (with [Coffeeify][]), [Browsernizr][] and [Stylus][] for the front-end. And [Node.js][] + [hapi][] for the back-end. Or just Go with the standard library if performance is key. I would also like to mention [d3.js][] - it's mostly used for data visualizations but has almost everything you could ever want for working with 2D graphics and the DOM; I've built entire web apps using nothing but d3.js.
+
+On my servers – which I host on [Scaleway][] and [Vultr][] – I use [FreeBSD][] or [Debian][], and I usually put [nginx][] in front of whatever web app is running on them. And I use [rsub][] to remote edit files on them.
+
+I manage backups with a self-hosted [Syncthing][] cloud that has servers in both hemispheres so I can get decent speeds wherever I'm located. I also use [Carbon Copy Cloner][carbon-copy-cloner] to make bootable full-disk backup images.
+
+I use [Alfred][] as an easily accessible calculator, [1Password][] to manage my passwords, and I try to install everything through [Homebrew][] with [Cask][homebrew-cask].
+
+That's about it, I think. I also use a lot of paper to get my thoughts organised before they go into the computer in some form.
+
+#### What would be your dream setup?
+
+I'm super excited for VR! I have a [HTC Vive][vive] on preorder and I'm currently building a beast of a rig that will power it. I have this vision of a virtual workspace that I want to explore, and I plan to spend the next year following that, experimenting with UI concepts in VR.
+
+So I guess my dream setup would be a device with a small screen you keep in your pocket, just like a smartphone, but with a pair of goggles you put on to enter your virtual office to get stuff done.
+
+Or if all that fails.. the new line of [MacBooks][macbook.2] looks nice! One of those and a $5k monthly allowance on Amazon EC2 would be pretty sweet :)
