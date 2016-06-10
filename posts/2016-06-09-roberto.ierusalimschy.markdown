@@ -1,0 +1,30 @@
+---
+title: Roberto Ierusalimschy
+summary: Associate professor, lead architect (Lua)
+categories:
+- developer
+- professor
+- linux
+---
+
+#### Who are you, and what do you do?
+
+[I](http://www.inf.puc-rio.br/~roberto/ "Roberto's PUC-Rio page.") am an Associate Professor at the Catholic University in Rio de Janeiro (PUC-Rio), where I work with programming languages. My claim to fame is as the leading architect of the [Lua][] scripting language, work I have been doing since its inception in 1993. In the past I was a post-doc at the University of Waterloo, a Research Fellow at Urbana-Champaign, and a Visiting Professor at Stanford. My daily routine involves a lot of reading and writing text (both papers and emails), programming, and browsing the web (searching for papers, documentation, etc.)
+
+#### What hardware do you use?
+
+I am a very low-tech person. Until a few months ago, I was using a nine-year-old Pentium IV box with 1.5GB. Then I changed to a Intel core i7-4790 (with 8 GB), which I intend to use for the next nine years :-) I use a [Microsoft Internet Keyboard][internet-keyboard], which I bought in 2005; it has a perfect click. My monitor is a plain [Samsung SyncMaster S23B550][syncmaster-s23b550v] (23").
+
+At home and when travelling I use an [ASUS ZenBook UX305][zenbook-ux305]. It is light, it has a decent battery life, and it is powerful enough for my needs.
+
+#### And what software?
+
+I run [Ubuntu][] on both machines, sticking with the LTS versions. I write everything with [vim][]. I use [mutt][] for email. Remotely, I run a [ssh][] connection to my machine and run mutt there.
+
+I don't use IDEs. I write programs with vim and use both [gcc][] and [clang][] as my main compilers. I format my papers with [LuaTeX][]. The only place where I do not write with vim is for presentations, which I prepare with [LibreOffice][]. (Anyway, there is very little text there.)
+
+I browse the web with [Firefox][], but I am not very happy with that. Sometimes I use [Opera][] for sites where I have problems with Firefox, but I am still reluctant to change; among other things, Firefox is the one that knows all my unimportant passwords.
+
+#### What would be your dream setup?
+
+My main dream is faster internet connection (everywhere, but mainly at home). A better Firefox would help, too.
