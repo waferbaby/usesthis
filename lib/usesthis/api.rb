@@ -8,10 +8,6 @@ module UsesThis
       @site = site
       @output_path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
 
-      %w(categories interviews hardware software).each do |type|
-        FileUtils.mkdir_p(File.join(@output_path, type))
-      end
-
       generate_interviews
       generate_categories
       generate_gear
@@ -27,7 +23,7 @@ module UsesThis
 
       @site.posts.each do |interview|
         interview_hash = interview.to_h
-        generate_json_file(path, interview.slug, interview: interview_hash)
+        generate_json_file(File.join(path, interview.slug), interview: interview_hash)
 
         interview_hash.delete(:contents)
         interview_hash.delete(:gear)
@@ -35,7 +31,7 @@ module UsesThis
         interviews << interview_hash
       end
 
-      generate_json_file(path, 'index', interviews: interviews)
+      generate_json_file(path, interviews: interviews)
     end
 
     def self.generate_categories
@@ -47,7 +43,7 @@ module UsesThis
         category_slugs << slug
       end
 
-      generate_json_file(path, 'index', categories: category_slugs.sort!)
+      generate_json_file(path, categories: category_slugs.sort!)
     end
 
     def self.generate_category(slug, posts, output_path)
@@ -62,7 +58,7 @@ module UsesThis
         interviews << interview_hash
       end
 
-      generate_json_file(output_path, slug, interviews: interviews)
+      generate_json_file(File.join(output_path, slug), interviews: interviews)
     end
 
     def self.generate_gear
@@ -72,7 +68,7 @@ module UsesThis
 
         @site.send("#{type}").each_value do |ware|
           ware_hash = ware.to_h
-          generate_json_file(path, ware.slug, gear: ware_hash)
+          generate_json_file(File.join(path, ware.slug), gear: ware_hash)
 
           ware_hash.delete(:description)
           ware_hash.delete(:url)
@@ -81,7 +77,7 @@ module UsesThis
           gear << ware_hash
         end
 
-        generate_json_file(path, 'index', gear: gear)
+        generate_json_file(path, gear: gear)
       end
     end
 
@@ -90,18 +86,20 @@ module UsesThis
         path = File.join(@output_path, type, 'stats')
         stats = @site.stats[type.to_sym]
 
-        generate_json_file(path, 'index', gear: stats[:all])
+        generate_json_file(path, gear: stats[:all])
 
         stats[:years].keys.each do |year|
-          generate_json_file(File.join(path, year), 'index', gear: stats[:years][year])
+          generate_json_file(File.join(path, year), gear: stats[:years][year])
         end
       end
     end
 
-    def self.generate_json_file(path, filename, contents)
+    def self.generate_json_file(path, contents)
       file = @site.page_class.new(@site)
 
-      file.filename = filename
+      FileUtils.mkdir_p(path) unless Dir.exist?(path)
+
+      file.filename = 'index'
       file.extension = 'json'
       file.contents = Oj.dump(contents, indent: 2)
 
