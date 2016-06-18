@@ -6,22 +6,23 @@ module UsesThis
 
     def self.generate(site)
       @site = site
-      output_path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
+      @output_path = File.join(@site.output_paths[:site], 'api', "v#{VERSION}")
 
       %w(categories interviews hardware software).each do |type|
-        FileUtils.mkdir_p(File.join(output_path, type))
+        FileUtils.mkdir_p(File.join(@output_path, type))
       end
 
-      generate_interviews(output_path)
-      generate_categories(output_path)
-      generate_gear(output_path)
+      generate_interviews
+      generate_categories
+      generate_gear
+      generate_stats
 
     rescue => e
       puts "API error: #{e}"
     end
 
-    def self.generate_interviews(output_path)
-      path = File.join(output_path, 'interviews')
+    def self.generate_interviews
+      path = File.join(@output_path, 'interviews')
       interviews = []
 
       @site.posts.each do |interview|
@@ -37,8 +38,8 @@ module UsesThis
       generate_json_file(path, 'index', interviews: interviews)
     end
 
-    def self.generate_categories(output_path)
-      path = File.join(output_path, 'categories')
+    def self.generate_categories
+      path = File.join(@output_path, 'categories')
       category_slugs = []
 
       @site.categories.each do |slug, posts|
@@ -64,9 +65,9 @@ module UsesThis
       generate_json_file(output_path, slug, interviews: interviews)
     end
 
-    def self.generate_gear(output_path)
+    def self.generate_gear
       %w(hardware software).each do |type|
-        path = File.join(output_path, type)
+        path = File.join(@output_path, type)
         gear = []
 
         @site.send("#{type}").each_value do |ware|
@@ -81,6 +82,19 @@ module UsesThis
         end
 
         generate_json_file(path, 'index', gear: gear)
+      end
+    end
+
+    def self.generate_stats
+      %w(hardware software).each do |type|
+        path = File.join(@output_path, type, 'stats')
+        stats = @site.stats[type.to_sym]
+
+        generate_json_file(path, 'index', gear: stats[:all])
+
+        stats[:years].keys.each do |year|
+          generate_json_file(File.join(path, year), 'index', gear: stats[:years][year])
+        end
       end
     end
 
