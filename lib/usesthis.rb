@@ -5,6 +5,7 @@ require 'bundler/setup'
 
 require 'dimples'
 require 'oj'
+require 'redis'
 
 require 'usesthis/api'
 require 'usesthis/site'
