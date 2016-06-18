@@ -37,7 +37,7 @@ module UsesThis
 
       super
 
-      prepare_stats
+      collect_stats
     end
 
     def scan_gear
@@ -74,7 +74,7 @@ module UsesThis
       end
     end
 
-    def prepare_stats
+    def collect_stats
       %w(hardware software).each do |type|
         type_sym = type.to_sym
 
