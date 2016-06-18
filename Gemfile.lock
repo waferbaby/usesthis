@@ -7,6 +7,7 @@ GEM
     mongoose (0.2.5)
     oj (2.14.6)
     redcarpet (3.3.4)
+    redis (3.2.2)
     tilt (2.0.2)
 
 PLATFORMS
@@ -18,6 +19,7 @@ DEPENDENCIES
   mongoose
   oj
   redcarpet
+  redis
 
 BUNDLED WITH
    1.11.2
