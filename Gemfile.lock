@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (1.7)
+    dimples (1.7.2)
       tilt (~> 2.0)
     erubis (2.7.0)
     mongoose (0.2.5)
-    oj (2.14.6)
+    oj (2.16.1)
     redcarpet (3.3.4)
-    redis (3.2.2)
-    tilt (2.0.2)
+    redis (3.3.0)
+    tilt (2.0.5)
 
 PLATFORMS
   ruby
