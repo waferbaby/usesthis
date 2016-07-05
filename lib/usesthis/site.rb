@@ -160,10 +160,7 @@ module UsesThis
 
         FileUtils.mkdir(path)
 
-        stats_data = {}
-        stats_data[type_sym] = @stats[type_sym][:all]
-
-        generate_api_file(path, stats_data)
+        generate_api_file(path, gear: @stats[type_sym][:all])
 
         @archives[:year].keys.each do |year|
           @stats[type_sym][:years][year] = fetch_stats_by_key("#{type}:#{year}")
@@ -172,15 +169,13 @@ module UsesThis
 
           FileUtils.mkdir(year_path)
 
-          year_stats_data = {}
-          year_stats_data[type_sym] = @stats[type_sym][:years][year]
-
-          generate_api_file(year_path, year_stats_data)
+          generate_api_file(year_path, gear: @stats[type_sym][:years][year])
         end
 
         all_stats = {
-          hardware: @stats[:hardware][:all],
-          software: @stats[:software][:all]
+          interviews: @posts.count,
+          hardware: @hardware.count,
+          software: @software.count
         }
 
         generate_api_file(@output_paths[:api][:stats], all_stats)
