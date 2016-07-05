@@ -11,7 +11,6 @@ site = UsesThis::Site.new(config)
 
 begin
   site.generate
-  UsesThis::API.generate(site)
 rescue StandardError => e
   puts "Error: #{e}"
 end
