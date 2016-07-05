@@ -1,6 +1,5 @@
 module UsesThis
   class Site < Dimples::Site
-    API_VERSION = '1'.freeze
     REDIS_STATS_KEY = 'usesthis_stats'.freeze
 
     attr_accessor :hardware
@@ -25,7 +24,7 @@ module UsesThis
 
       @output_paths[:api] = { root: File.join(@output_paths[:site], 'api', "v#{API_VERSION}") }
 
-      %w(interviews hardware software categories).each do |item|
+      %w(interviews hardware software categories stats).each do |item|
         path = File.join(@output_paths[:api][:root], item)
         @output_paths[:api][item.to_sym] = path
       end
@@ -157,10 +156,14 @@ module UsesThis
 
         @stats[type_sym][:all] = fetch_stats_by_key("#{type}:all")
 
-        path = File.join(@output_paths[:api][type_sym], 'stats')
+        path = File.join(@output_paths[:api][:stats], type)
 
         FileUtils.mkdir(path)
-        generate_api_file(path, gear: @stats[type_sym][:all])
+
+        stats_data = {}
+        stats_data[type_sym] = @stats[type_sym][:all]
+
+        generate_api_file(path, stats_data)
 
         @archives[:year].keys.each do |year|
           @stats[type_sym][:years][year] = fetch_stats_by_key("#{type}:#{year}")
@@ -168,8 +171,19 @@ module UsesThis
           year_path = File.join(path, year)
 
           FileUtils.mkdir(year_path)
-          generate_api_file(year_path, gear: @stats[type_sym][:years][year])
+
+          year_stats_data = {}
+          year_stats_data[type_sym] = @stats[type_sym][:years][year]
+
+          generate_api_file(year_path, year_stats_data)
         end
+
+        all_stats = {
+          hardware: @stats[:hardware][:all],
+          software: @stats[:software][:all]
+        }
+
+        generate_api_file(@output_paths[:api][:stats], all_stats)
       end
     end
 
