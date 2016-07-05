@@ -23,6 +23,12 @@ title: API
     <li><a href="#gear-item" title="Request a given piece of hardware or software as JSON.">Getting an item</a></li>
   </ul>
 
+  <h5>Stats</h5>
+  <ul>
+    <li><a href="#stats-general" title="Request some general site statistics as JSON.">Getting general info</a></li>
+    <li><a href="#stats-gear" title="Request hardware or software statistics as JSON.">Getting gear info</a></li>
+  </ul>
+
   <h4 id="interviews">Interviews</h4>
 
   <h5 id="interviews-list">Getting a list</h5>
@@ -148,8 +154,7 @@ title: API
   <p class="summary">This method returns a basic list of all the hardware or software mentioned on the site. Note that these will be <em>quite large</em>.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API_VERSION %>/hardware" title="Request a list of all the hardware as JSON.">/api/v<%= UsesThis::API_VERSION %>/hardware</a></code><br>
-    <code><a href="/api/v<%= UsesThis::API_VERSION %>/software" title="Request a list of all the software as JSON.">/api/v<%= UsesThis::API_VERSION %>/software</a></code>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/hardware" title="Request a list of all the hardware as JSON.">/api/v<%= UsesThis::API_VERSION %>/hardware</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -162,12 +167,26 @@ title: API
   ]
 }</pre>
 
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/software" title="Request a list of all the software as JSON.">/api/v<%= UsesThis::API_VERSION %>/software</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": [
+    {
+      "slug": "wanderlust",
+      "name": "Wanderlust"
+    }
+  ]
+}</pre>
+
   <h5 id="gear-item">Getting an item</h5>
   <p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
   <p>
     Requesting (GET):<br>
-    <code><a href="/api/v<%= UsesThis::API_VERSION %>/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">/api/v<%= UsesThis::API_VERSION %>/hardware/{slug}</a></code><br>
-    <code><a href="/api/v<%= UsesThis::API_VERSION %>/software/photoshop" title="Request a given piece of software as JSON.">/api/v<%= UsesThis::API_VERSION %>/software/{slug}</a></code>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">/api/v<%= UsesThis::API_VERSION %>/hardware/{slug}</a></code>
   </p>
   <p>Will give you:</p>
   <pre>
@@ -186,9 +205,82 @@ title: API
   }
 }</pre>
 
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/software/photoshop" title="Request a given piece of software as JSON.">/api/v<%= UsesThis::API_VERSION %>/software/{slug}</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+
+{
+  "gear": {
+    "slug": "wanderlust",
+    "name": "Wanderlust",
+    "description": "A need for travel.",
+    "url": "http://my-kender.net/"
+    "interviews": [
+      {
+        "slug": "tasslehoff.burrfoot",
+        "name": "Tasslehoff Burrfoot",
+      }
+    ]
+  }
+}</pre>
+
+  <h4 id="stats">Stats</h4>
+
+  <h5 id="stats-general">Getting general info</h5>
+  <p class="summary">This method returns various site statistics, like the number of interviews.</p>
+
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/stats" title="Request general site statistics as JSON.">/api/v<%= UsesThis::API_VERSION %>/stats</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "interviews": 2,
+  "hardware": 10,
+  "software": 3
+}</pre>
+
+  <h5 id="stats-gear">Getting gear info</h5>
+  <p class="summary">This method returns the top 50 hardware or software items mentioned on the site. You can also specify a given year by adding it to the URL.</p>
+
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/stats/hardware" title="Request recent hardware statistics as JSON.">/api/v<%= UsesThis::API_VERSION %>/stats/hardware</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": [
+    {
+      "slug": "hoopak",
+      "count": 1
+    }
+  ]
+}</pre>
+
+  <p>
+    Requesting (GET):<br>
+    <code><a href="/api/v<%= UsesThis::API_VERSION %>/stats/software" title="Request recent software statistics as JSON.">/api/v<%= UsesThis::API_VERSION %>/stats/software</a></code>
+  </p>
+  <p>Will give you:</p>
+  <pre>
+{
+  "gear": [
+    {
+      "slug": "wanderlust",
+      "count": 1
+    }
+  ]
+}</pre>
+
   <h4>Changelog</h4>
 
   <ul>
+    <li><time datetime="2016-02-13">July 4, 2016</time><br>Added details about the stats API endpoints, and added more examples to the existing docs.</li>
     <li><time datetime="2016-02-13">February 13, 2016</time><br>Changed the URLs for the categories API to match the site (but the old ones will keep working forever).</li>
     <li><time datetime="2015-06-18">June 18, 2015</time><br>Updated interviews to <em>always</em> have a <code>gear</code> element.</li>
     <li><time datetime="2015-03-15">March 15, 2015</time><br>Added support for interview categories.</li>
