@@ -7,10 +7,13 @@ require 'dimples'
 require 'oj'
 require 'redis'
 
-require 'usesthis/api'
 require 'usesthis/site'
 require 'usesthis/interview'
 require 'usesthis/link'
 require 'usesthis/ware'
 
 Oj.default_options = { mode: :compat }
+
+module UsesThis
+  API_VERSION = '1'.freeze
+end
