@@ -8,20 +8,20 @@ categories:
 
 #### Who are you, and what do you do?
 
-I’m [George Oates](http://abitofgeorge.com/ "George's website."), and I’m a designer. I run my own design company in London called [Good, Form & Spectacle](http://goodformandspectacle.com/ "George's design firm in London."), which makes interesting R&D and design projects for museums, libraries and archives. I’m also the co-founder of new edtech startup called [Museum in a Box](https://museuminabox.org/ "A company rethinking the museum loan box."), which is designed to help get connected museum objects into classrooms across the world.
+I'm [George Oates](http://abitofgeorge.com/ "George's website."), and I'm a designer. I run my own design company in London called [Good, Form & Spectacle](http://goodformandspectacle.com/ "George's design firm in London."), which makes interesting R&D and design projects for museums, libraries and archives. I'm also the co-founder of new edtech startup called [Museum in a Box](https://museuminabox.org/ "A company rethinking the museum loan box."), which is designed to help get connected museum objects into classrooms across the world.
 
 #### What hardware do you use?
 
-I have a 13-inch early 2015 [MacBook Pro][macbook-pro] and the [iPhone 5S][iphone-5s] I bought at the same time. I have also painted a nice shiny whiteboard on the wall at our office in Bloomsbury, which is almost my favourite type of hardware. We’re dabbling with [Raspberry Pi][raspberry-pi] and all that stuff too with Museum in a Box, which is new territory for me.
+I have a 13-inch early 2015 [MacBook Pro][macbook-pro] and the [iPhone 5S][iphone-5s] I bought at the same time. I have also painted a nice shiny whiteboard on the wall at our office in Bloomsbury, which is almost my favourite type of hardware. We're dabbling with [Raspberry Pi][raspberry-pi] and all that stuff too with Museum in a Box, which is new territory for me.
 
 #### And what software?
 
-Mostly all web stuff these days: [Google Drive][google-drive], [Slack][], [GitHub][], [WordPress][], [Sketch][], [Dropbox][], [Pixelmator][], [BBEdit][], [Transmit][], [MS Office][office] (mostly for contracts and other people’s spreadsheets), [Amazon Music][amazon-cloud-player], [Safari][] and [Chrome][], [Keynote][], and the old favourite, [Notes][], which I use to keep all my meeting notes.
+Mostly all web stuff these days: [Google Drive][google-drive], [Slack][], [GitHub][], [WordPress][], [Sketch][], [Dropbox][], [Pixelmator][], [BBEdit][], [Transmit][], [MS Office][office] (mostly for contracts and other people's spreadsheets), [Amazon Music][amazon-cloud-player], [Safari][] and [Chrome][], [Keynote][], and the old favourite, [Notes][], which I use to keep all my meeting notes.
 
-On a personal note, [Citymapper][citymapper-ios] has literally changed my life for the better since I moved to London. I can’t imagine getting around this massive city without it. Seriously, it’s the best, most useful software I’ve used in 10 years.
+On a personal note, [Citymapper][citymapper-ios] has literally changed my life for the better since I moved to London. I can't imagine getting around this massive city without it. Seriously, it's the best, most useful software I've used in 10 years.
 
-Incidentally, I’m very interested in the challenge of digital archiving, so this list of various web services makes me nervous if I consider how I might represent these heady early days of G,F&S in, say, 20 years. My laptop previous to this one died the other day and I got a scary [OS X][mac-os-x] setup thing I’d never seen before. The slow decline begins!
+Incidentally, I'm very interested in the challenge of digital archiving, so this list of various web services makes me nervous if I consider how I might represent these heady early days of G,F&S in, say, 20 years. My laptop previous to this one died the other day and I got a scary [OS X][mac-os-x] setup thing I'd never seen before. The slow decline begins!
 
 #### What would be your dream setup?
 
-I’m pretty close to it, I think, or at least I’m enough of a luddite not to care too much about the bleeding edge and have the newest stuff. At this stage in my career, I’m doing more writing (proposals, pitches, [blogs](https://goodformandspectacle.wordpress.com/ "The Good, Form & Spectacle weblog.")) than other work, so mostly find myself in some kind of text editor. I also really enjoy collaborating with people who are mature and skilled, and also have super hawt setups themselves.
+I'm pretty close to it, I think, or at least I'm enough of a luddite not to care too much about the bleeding edge and have the newest stuff. At this stage in my career, I'm doing more writing (proposals, pitches, [blogs](https://goodformandspectacle.wordpress.com/ "The Good, Form & Spectacle weblog.")) than other work, so mostly find myself in some kind of text editor. I also really enjoy collaborating with people who are mature and skilled, and also have super hawt setups themselves.
