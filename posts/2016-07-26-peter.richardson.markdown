@@ -2,6 +2,7 @@
 title: Peter Richardson
 summary: Map hacker (Mapzen)
 categories:
+- designer
 - developer
 - mac
 - web
