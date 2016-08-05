@@ -1,6 +1,6 @@
 ---
 title: Javier Arce
-summary: Designer, illustrator, web developer (CartoDB)
+summary: Designer, illustrator, web developer (CARTO)
 categories:
 - designer
 - developer
@@ -12,7 +12,7 @@ categories:
 
 I'm a web developer, designer, and illustrator (or at least I've deceived enough people in the past to consider myself those three things).
 
-I'm currently working for [CartoDB][] as a front-end developer in Madrid.
+I'm currently working for [CARTO][] as a front-end developer in Madrid.
 
 Besides deceiving people and doing map-related stuff, I spend most of my time making [silly personal projects](http://javier.is/ "Javier's website."), [drawing](http://drawings.javier.is/ "Javier's drawings."), [taking pictures](http://photos.javier.is/ "Javier's photos."), and [reading](https://www.goodreads.com/user/show/5987858-javier "Javier's GoodReads account.").
 
