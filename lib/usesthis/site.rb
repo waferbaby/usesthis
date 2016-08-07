@@ -19,8 +19,8 @@ module UsesThis
       @personal_links = []
       @sponsor_links = []
 
-      @source_paths[:wares] = File.join(@source_paths[:root], 'data', 'gear')
-      @source_paths[:links] = File.join(@source_paths[:root], 'data', 'links')
+      @source_paths[:wares] = File.join(@source_paths[:root], 'gear')
+      @source_paths[:links] = File.join(@source_paths[:root], 'links')
 
       @output_paths[:api] = { root: File.join(@output_paths[:site], 'api', "v#{API_VERSION}") }
 
