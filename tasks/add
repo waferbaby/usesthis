@@ -18,7 +18,7 @@ slug = name.downcase.tr(' ', '-')
 paths = {}
 
 %w(hardware software).each do |gear_type|
-  paths[gear_type] = File.join(source_path, 'data', 'gear', gear_type, "#{slug}.yml")
+  paths[gear_type] = File.join(source_path, 'gear', gear_type, "#{slug}.yml")
 end
 
 if File.exist?(paths['hardware']) || File.exist?(paths['software'])
