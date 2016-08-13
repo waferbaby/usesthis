@@ -1,3 +1,8 @@
+.summary {
+color: #888;
+font-size: 95%;
+}
+
 a {
 color: #000;
 text-decoration: underline;
@@ -7,19 +12,14 @@ a:hover {
 color: #555;
 }
 
-a:hover img {
-opacity: 0.8;
-}
-
-article#interview time, article.interviewee time {
-font-size: 80%;
+article, section {
+clear: left;
 }
 
 body {
 padding: 50px 30px;
-margin: 0;
-font-family: lato, sans-serif;
-font-size: 1.05em;
+font-family: "Helvetica Neue", Helvetica;
+font-size: 1.2em;
 line-height: 1.6em;
 }
 
@@ -38,76 +38,47 @@ font-weight: bold;
 }
 
 div#wrapper {
-max-width: 502px;
+max-width: 900px;
 margin: auto;
 }
 
 figure {
-padding: 0;
-margin: 0 0 10px 0;
-}
-
-figcaption {
-font-size: 55%;
-color: #555;
+float: left;
+margin: 0 30px 30px 0;
 }
 
 footer {
-padding: 0;
-font-size: 75%;
-color: #767676;
+clear: left;
+font-size: 80%;
+color: #444;
 border-top: solid 1px #eee;
-}
-
-form#search {
-padding: 10px 0;
-font-size: 90%;
-text-align: center;
-}
-
-form#search input[type=search] {
-width: 60%;
 }
 
 h1, h2 {
 display: inline-block;
+font-size: 250%;
+color: #fe2e9a;
 padding: 0;
 margin: 0;
-font-size: 200%;
-color: #fe2e9a;
 }
 
 h1:after {
 content: "/";
+font-weight: normal;
+margin: 0 0 0 10px;
 color: #eee;
-padding: 0 5px;
-}
-
-h1 a {
-color: #000 !important;
-text-decoration: none;
 }
 
 h3 {
+font-size: 200%;
 padding: 0;
-margin: 0 0 5px 0;
-font-size: 150%;
+margin: 0;
 }
 
 h4 {
+font-size: 150%;
 padding: 0;
-margin: 0 0 15px 0;
-font-size: 140%;
-}
-
-h5 {
-padding: 0;
-margin: 0 0 5px 0;
-font-size: 115%;
-}
-
-h5 a {
-color: #000;
+margin: 40px 0 0 0;
 }
 
 img.detail, img.portrait {
@@ -124,50 +95,42 @@ color: #fe2e9a;
 
 nav ul {
 list-style: none outside;
+padding: 0;
+margin: 10px 0 0 0;
 }
 
 nav#main {
 padding: 0;
-margin: 15px 0;
+margin: 15px 0 30px 0;
 border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
-font-size: 120%;
+font-size: 110%;
 }
 
 nav#main ul {
-padding: 15px 0;
+padding: 10px 0;
 margin: 0;
 }
 
 nav#main ul li {
-display: inline;
+display: inline-block;
 }
 
-nav#main ul li:after, nav.categories ul li:after {
+nav#main ul li:after {
 content: "/";
-color: #ccc;
+color: #eee;
 padding-left: 5px;
 }
 
-nav#main ul li:last-child:after, nav.categories ul li:last-child:after {
+nav#main ul li:last-child:after {
 content: "";
 }
 
-nav.categories ul {
-padding: 0;
-margin: 10px 0 20px 0;
-font-size: 80%;
-}
-
-nav.categories ul li {
-display: inline-block;
-padding: 0;
-margin: 0 5px 5px 0;
-}
-
 nav#paginator {
+clear: left;
 text-align: center;
 padding: 25px 0;
+font-size: 95%;
 border-top: solid 1px #eee;
 }
 
@@ -177,15 +140,13 @@ color: #767676;
 
 p#tagline {
 padding: 0;
-margin: 3px 0 0 0;
-color: #aaa;
+margin: 15px 0 15px 0;
+font-size: 120%;
+color: #888;
 }
 
-p.license {
-padding: 10px;
-background-color: #eee;
-font-size: 85%;
-color: #555;
+p.summary {
+margin: 15px 0 10px 0;
 }
 
 pre {
@@ -198,19 +159,16 @@ color: #767676;
 border: solid 1px #ddd;
 }
 
-p.summary {
+time {
+display: block;
 padding: 0;
 margin: 0;
-font-size: 90%;
-color: #777;
-}
-
-span.summary {
 font-size: 80%;
+color: #aaa;
 }
 
-time, time a {
-color: #999;
+time a {
+color: #aaa;
 }
 
 ul {
@@ -230,52 +188,55 @@ ul#categories li {
 margin-bottom: 15px;
 }
 
-ul#patrons {
-padding: 0;
-margin: 0 0 20px 0;
-font-size: 85%;
-}
+@media screen and (max-width: 1000px), (max-device-width: 480px) {
+  body {
+    font-size: 100%;
+  }
 
-ul#patrons li {
-display: inline-block;
-}
+  div#wrapper {
+  max-width: 500px;
+  }
 
-ul#patrons li:after {
-content: ",";
-}
-
-ul#patrons li:last-child:after {
-content: ".";
-}
-
-@media screen and (max-width: 550px), (max-device-width: 480px) {
+  figure {
+  float: none;
+  margin-bottom: 15px;
+  }
 
   h1 {
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   }
 
   h1:after {
-  content: "";
+  content: none;
   }
 
   h2 {
-  font-size: 160%;
+  font-size: 210%;
   }
 
   img.detail, img.portrait {
-  float: none;
   max-width: 500px;
   width: 100%;
   height: auto;
   margin: 0;
   }
 
-  nav#main ul li {
-  font-size: 80%;
+  nav.categories ul {
+  margin-bottom: 30px;
   }
 
-  p#tagline {
-  font-size: 80%;
+  nav.categories ul li {
+  display: inline-block;
+  }
+
+  nav.categories ul li:after {
+  content: "/";
+  color: #eee;
+  padding-left: 5px;
+  }
+
+  nav.categories ul li:last-child:after {
+  content: "";
   }
 }
