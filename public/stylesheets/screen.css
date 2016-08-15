@@ -18,7 +18,7 @@ clear: left;
 
 body {
 padding: 50px 30px;
-font-family: lato, sans-serif;
+font-family: lato, "helvetica neue", helvetica, sans-serif;
 font-size: 1.2em;
 line-height: 1.6em;
 }
@@ -190,7 +190,7 @@ margin-bottom: 15px;
 
 @media screen and (max-width: 1000px), (max-device-width: 480px) {
   body {
-    font-size: 100%;
+  font-size: 100%;
   }
 
   div#wrapper {
@@ -212,7 +212,11 @@ margin-bottom: 15px;
   }
 
   h2 {
-  font-size: 210%;
+  font-size: 200%;
+  }
+
+  h3 {
+  font-size: 190%;
   }
 
   img.detail, img.portrait {
