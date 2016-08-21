@@ -12,15 +12,15 @@ a:hover {
 color: #555;
 }
 
-article, section {
-clear: left;
+article.interviewee {
+margin-bottom: 40px;
 }
 
 body {
 padding: 50px 30px;
 font-family: lato, "helvetica neue", helvetica, sans-serif;
-font-size: 1.2em;
-line-height: 1.6em;
+font-size: 1em;
+line-height: 1.7em;
 }
 
 code {
@@ -38,17 +38,22 @@ font-weight: bold;
 }
 
 div#wrapper {
-max-width: 900px;
+max-width: 500px;
 margin: auto;
 }
 
 figure {
-float: left;
-margin: 0 30px 30px 0;
+margin: 0 0 10px 0;
+}
+
+figcaption {
+float: right;
+font-size: 70%;
+margin: 0;
+color: #aaa;
 }
 
 footer {
-clear: left;
 font-size: 80%;
 color: #444;
 border-top: solid 1px #eee;
@@ -56,7 +61,7 @@ border-top: solid 1px #eee;
 
 h1, h2 {
 display: inline-block;
-font-size: 250%;
+font-size: 220%;
 color: #fe2e9a;
 padding: 0;
 margin: 0;
@@ -70,7 +75,7 @@ color: #eee;
 }
 
 h3 {
-font-size: 200%;
+font-size: 190%;
 padding: 0;
 margin: 0;
 }
@@ -96,7 +101,11 @@ color: #fe2e9a;
 nav ul {
 list-style: none outside;
 padding: 0;
-margin: 10px 0 0 0;
+margin: 0;
+}
+
+nav ul li {
+display: inline-block;
 }
 
 nav#main {
@@ -113,21 +122,10 @@ margin: 0;
 }
 
 nav#main ul li {
-display: inline-block;
-}
-
-nav#main ul li:after {
-content: "/";
-color: #eee;
-padding-left: 5px;
-}
-
-nav#main ul li:last-child:after {
-content: "";
+margin-right: 15px;
 }
 
 nav#paginator {
-clear: left;
 text-align: center;
 padding: 25px 0;
 font-size: 95%;
@@ -138,15 +136,32 @@ nav#paginator span {
 color: #767676;
 }
 
+nav.categories {
+margin-top: 10px;
+font-size: 80%;
+}
+
+nav.categories ul li {
+border: solid 1px #eee;
+border-radius: 5px;
+padding: 0 5px;
+margin-right: 5px;
+text-align: center;
+}
+
+nav.categories ul li a {
+text-decoration: none;
+}
+
 p#tagline {
 padding: 0;
-margin: 15px 0 15px 0;
+margin: 5px 0 15px 0;
 font-size: 120%;
 color: #888;
 }
 
 p.summary {
-margin: 15px 0 10px 0;
+margin: 10px 0 0 0;
 }
 
 pre {
@@ -188,23 +203,14 @@ ul#categories li {
 margin-bottom: 15px;
 }
 
-@media screen and (max-width: 1000px), (max-device-width: 480px) {
+@media screen and (max-width: 600px), (max-device-width: 480px) {
   body {
   font-size: 100%;
   }
 
-  div#wrapper {
-  max-width: 500px;
-  }
-
-  figure {
-  float: none;
-  margin-bottom: 15px;
-  }
-
   h1 {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   }
 
   h1:after {
@@ -212,11 +218,7 @@ margin-bottom: 15px;
   }
 
   h2 {
-  font-size: 200%;
-  }
-
-  h3 {
-  font-size: 190%;
+  font-size: 210%;
   }
 
   img.detail, img.portrait {
@@ -226,21 +228,7 @@ margin-bottom: 15px;
   margin: 0;
   }
 
-  nav.categories ul {
-  margin-bottom: 30px;
-  }
-
-  nav.categories ul li {
-  display: inline-block;
-  }
-
-  nav.categories ul li:after {
-  content: "/";
-  color: #eee;
-  padding-left: 5px;
-  }
-
-  nav.categories ul li:last-child:after {
-  content: "";
+  p#tagline {
+  margin-top: 10px;
   }
 }
