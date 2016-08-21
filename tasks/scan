@@ -18,11 +18,11 @@ end
 
 case type
 when 'hardware'
-  glob = File.join(source_path, 'data', 'gear', 'hardware', '*.yml')
+  glob = File.join(source_path, 'gear', 'hardware', '*.yml')
 when 'software'
-  glob = File.join(source_path, 'data', 'gear', 'software', '*.yml')
+  glob = File.join(source_path, 'gear', 'software', '*.yml')
 when 'links'
-  glob = File.join(source_path, 'data', 'links', '**', '*.yml')
+  glob = File.join(source_path, 'links', '**', '*.yml')
 end
 
 puts 'Scanning:'
