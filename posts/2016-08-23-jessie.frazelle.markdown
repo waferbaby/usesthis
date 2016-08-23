@@ -1,0 +1,38 @@
+---
+title: Jessie Frazelle
+summary: Software engineer (Google, Docker)
+categories:
+- developer
+- linux
+- software
+---
+
+#### Who are you, and what do you do?
+
+My name is [Jessie Frazelle](https://blog.jessfraz.com/ "Jessie's website.") - some people call me "Jess", but I pretty much answer to anything except "Jessica". I'm a software engineer at Google. Most notably you might know me from being a maintainer of [Docker][] and "running everything in containers". I am also a contributor to a lot of other open source projects such as [runC][] and [golang][go]. I'm currently working on making containers more secure. I absolutely love all things Linux.
+
+#### What hardware do you use?
+
+Let's see.. I have quite a few setups, so I'll go over each of them.
+
+1. 486DX Insight box with a CRT monitor. It runs [MS-DOS 6][ms-dos]. Yes, it has a turbo button. The keyboard is not a [IBM Model M][model-m], but very similar and made by Insight as well. The CRT is an amber monochrome monitor. This computer has a story behind it - my grandpa worked for Motorola on the first computers, then opened his own consulting practice. He wrote Motorola's variation of [COBOL][], which I interpret as equivalent to a "fork" today. I actually found an old newspaper ad for his department - hence, the computer from Insight (another Arizona-based computer company). It's a custom-built machine. Thankfully when I popped it open he had labeled everything. I have a bunch of 5" and 3" floppies for it - Some games ([Flight Simulator][microsoft-flight-simulator] & [Kid Pix][kid-pix]) but mostly code he wrote himself, which I thoroughly enjoy digging into. He also gave me a crazy amount of programming books.
+
+2. [Dell XPS 13][xps-13] running [Debian Sid][debian]. 9343/9350 model. This is my baby. I absolutely love it. It works perfectly for "Linux on the desktop". I have had both the 8GB and 16GB models and both are awesome.
+
+3. Dell Chromebook running stock [Chrome OS][chrome-os]. It has 8GB RAM. I absolutely LOVE Chrome OS. It works perfectly and is awesome for traveling. You can give talks with Google slides or whatever your flavor, and not have to worry about `xrandr` (which I never worry about because I'm a pro - kidding :D). But it's amazing. People told me about it for a while and I didn't believe them, because I love my containers, but let me shout it to the world now: Chrome OS is AWESOME.
+
+I also have the SONOS surround sound speakers, and I'm waiting for Matthew Garrett to come over and hack my sound system.
+
+I use [Yubikeys][yubikey] for basically all 2FA, SSH, and GPG.
+
+#### And what software?
+
+Globally: I use [vim][] (specifically [neovim][]), and my configuration is [here](https://github.com/jfrazelle/.vim "Jessie's vim config on GitHub."). This also works for plain old vim as well.
+
+Dell XPS 13: I use [i3][] as my window manager and have converted SO many people to do the same. My setup is quite specific - I run literally everything in containers. I've given [a few talks on it](https://www.youtube.com/watch?v=1qlLUf7KtAw "One of Jessie's talks on YouTube, about running everything in containers.") and written a few [blog](https://blog.jessfraz.com/post/runc-containers-on-the-desktop/ "Jessie's post about runC containers on the desktop.") [posts](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/ "Jessie's post about Docker containers on the desktop."). You can find [my install script](https://github.com/jfrazelle/dotfiles/blob/master/bin/install.sh "Jessie's container install script on GitHub.") in my dotfiles, plus [all the aliases](https://github.com/jfrazelle/dotfiles/blob/master/.dockerfunc "Jessie's Docker alias config on GitHub.") for running everything in containers.
+
+Chromebook: I do not use [crouton][]. All I use if I need a terminal is the [SSH extension][secure-shell] to tunnel into a remote box. 
+
+#### What would be your dream setup?
+
+A mainframe. Something so powerful I could just laugh mwahhahahahaha and stroke a white cat.
