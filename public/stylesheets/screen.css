@@ -75,7 +75,7 @@ color: #eee;
 }
 
 h3 {
-font-size: 190%;
+font-size: 180%;
 padding: 0;
 margin: 0;
 }
@@ -145,7 +145,7 @@ nav.categories ul li {
 border: solid 1px #eee;
 border-radius: 5px;
 padding: 0 5px;
-margin-right: 5px;
+margin: 0 5px 5px 0;
 text-align: center;
 }
 
@@ -218,7 +218,15 @@ margin-bottom: 15px;
   }
 
   h2 {
-  font-size: 210%;
+  font-size: 200%;
+  }
+
+  h3 {
+  font-size: 150%
+  }
+
+  h4 {
+  font-size: 120%;
   }
 
   img.detail, img.portrait {
@@ -226,6 +234,11 @@ margin-bottom: 15px;
   width: 100%;
   height: auto;
   margin: 0;
+  }
+
+  nav#main ul li {
+  display: inline-block;
+  width: 33%;
   }
 
   p#tagline {
