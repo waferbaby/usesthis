@@ -23,7 +23,7 @@ After my time with Wilco, I moved to New York and have had the awesome pleasure 
 
 Anything needed to design and / or perform a show. Primarily two [MacBook Pros][macbook-pro] and a Livid Instruments MIDI controller, a MIDI splitter and an [audio converter][aud-rca-xlr] to get the best feeds from the band.
 
-In addition to live performance, I often shows and send them out with a touring operator. In this case we use media servers such as [Ai][], [Catalyst][catalyst-media-server] and [WATCHOUT][], which are designed to work with lighting boards. This allows the lighting designer to trigger the visual content with the light cues. It's less improvisational on the video end, but you can program a lot of intricate details with the benefit of consistency.
+In addition to live performance, I often record shows and send them out with a touring operator. In this case we use media servers such as [Ai][], [Catalyst][catalyst-media-server] and [WATCHOUT][], which are designed to work with lighting boards. This allows the lighting designer to trigger the visual content with the light cues. It's less improvisational on the video end, but you can program a lot of intricate details with the benefit of consistency.
 
 #### And what software?
 
