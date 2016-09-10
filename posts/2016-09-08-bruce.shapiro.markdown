@@ -13,7 +13,7 @@ I'm Bruce Shapiro and [I use motion control to make art](http://www.taomc.com/ "
 
 #### What hardware do you use?
 
-On the computer-side, I'm extremely tethered to CAD/CAM software, some of it vintage, so I've stuck with PCs. My algorithmic design process involves real-time manipulation of huge numbers of vertices, so I throw as much processor speed and RAM in my desktop machine as I can afford. For travel, I just got a 13" Zenbook, which I find impressive for the price. For art-machine control, in the old days I used laptops running DOS. Now I use [Raspberry Pis][raspberry-pi].
+On the computer-side, I'm extremely tethered to CAD/CAM software, some of it vintage, so I've stuck with PCs. My algorithmic design process involves real-time manipulation of huge numbers of vertices, so I throw as much processor speed and RAM in my desktop machine as I can afford. For travel, I just got a [13" ZenBook][zenbook-ux303ub], which I find impressive for the price. For art-machine control, in the old days I used laptops running DOS. Now I use [Raspberry Pis][raspberry-pi].
 
 On the fabrication side, my key workhorses are the CNC-routers and laser-cutters in my shop in Sebastopol, CA, and [makerspace in Minneapolis](http://nordeastmakers.com/ "A makerspace in Minneapolis."). Though I have access to loads of 3D printers, I'm a far bigger fan of subtractive machining than additive. Maybe because I revere materials like wood and aluminum more than plastic. My love of CNC has grown through the years, and it's only fitting that I now use it to produce my kinetic sculptures -- which are themselves "performance" CNC machines.
 
