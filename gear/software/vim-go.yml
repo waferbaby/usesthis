@@ -1,0 +1,4 @@
+---
+name: vim-go
+description: A vim plugin for working with Go.
+url: https://github.com/fatih/vim-go

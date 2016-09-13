@@ -1,0 +1,4 @@
+---
+name: delimitMate
+description: A vim plugin for auto-completing quotes, brackets etc.
+url: https://github.com/Raimondi/delimitMate
