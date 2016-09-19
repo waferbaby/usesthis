@@ -12,16 +12,6 @@ title: About
     </p>
   </header>
 
-  <section id="thanks">
-    <h4>Thank you!</h4>
-    <p>These generous people sponsor The Setup <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
-    <ul id="patrons">
-    <% @site.sponsor_links.each do |link| %>
-      <li><% if link.url %><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><% end %><%= link.name %><% if link.url %></a><% end %></li>
-    <% end %>
-    </ul>
-  </section>
-
   <section id="faq">
     <h4>Questions</h4>
     <dl>
@@ -43,14 +33,21 @@ title: About
       <dt id="clone">Can I make my own version of The Setup?</dt>
       <dd>Yes! The whole site is freely available <a href="http://github.com/waferbaby/usesthis/" title="The source code for the site.">on GitHub</a> - go nuts! And let me know if you <em>do</em> end up making your own, so I can link to it.</dd>
 
+      <dt id="money">Do you make money from the site?</dt>
+      <dd>I run a <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">Patreon account</a>, where people have <a href="#thanks" title="A list of amazing people who sponsor the site.">chosen to sponsor the site</a> on a monthly basis. I'm using <a href="https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a> to host the site, and if you sign up via that link I get credit towards my hosting.</dd>
+
       <dt id="contact">How do I get in touch with you?</dt>
       <dd>Send an email to the fourth letter of the English alphabet, followed by the 'at' symbol, care of this domain. You can also ping me <a href="http://twitter.com/usesthis/" title="The usesthis Twiter account.">on Twitter</a>.</dd>
-
-      <dt id="hosting">Who hosts the site?</dt>
-      <dd>I'm using <a href="https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a>. If you sign up via that link, I get credit towards my hosting.</dd>
-
-      <dt id="money">Do you make money from the site?</dt>
-      <dd>I run a <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">Patreon account</a>, where people have chosen to sponsor the site on a monthly basis. I also add affiliate tags to any Amazon links in the interviews, so if you buy something via those links they'll toss a few bucks my way.</dd>
     </dl>
+  </section>
+
+  <section id="thanks">
+    <h4>Thank you!</h4>
+    <p>These generous people sponsor The Setup <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
+    <ul id="patrons">
+    <% @site.sponsor_links.each do |link| %>
+      <li><% if link.url %><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><% end %><%= link.name %><% if link.url %></a><% end %></li>
+    <% end %>
+    </ul>
   </section>
 </article>
