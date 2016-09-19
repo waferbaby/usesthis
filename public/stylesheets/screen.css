@@ -42,11 +42,7 @@ max-width: 500px;
 margin: auto;
 }
 
-figure {
-margin: 0 0 10px 0;
-}
-
-figcaption {
+p#credits {
 float: right;
 font-size: 70%;
 margin: 0;
@@ -77,7 +73,7 @@ color: #eee;
 h3 {
 font-size: 180%;
 padding: 0;
-margin: 0;
+margin: 10px 0 0 0;
 }
 
 h4 {
@@ -125,17 +121,6 @@ nav#main ul li {
 margin-right: 15px;
 }
 
-nav#paginator {
-text-align: center;
-padding: 25px 0;
-font-size: 95%;
-border-top: solid 1px #eee;
-}
-
-nav#paginator span {
-color: #767676;
-}
-
 nav.categories {
 margin-top: 10px;
 font-size: 80%;
@@ -151,6 +136,18 @@ text-align: center;
 
 nav.categories ul li a {
 text-decoration: none;
+}
+
+p#paginator {
+text-align: center;
+padding: 20px 0;
+margin: 0;
+font-size: 95%;
+border-top: solid 1px #eee;
+}
+
+p#paginator span {
+color: #767676;
 }
 
 p#tagline {
