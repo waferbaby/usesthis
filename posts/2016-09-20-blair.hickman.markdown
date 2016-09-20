@@ -1,0 +1,23 @@
+---
+title: Blair Hickman
+summary: Digital journalist
+categories:
+- journalist
+- mac
+---
+
+#### Who are you, and what do you do?
+
+My name is Blair, and I [work](http://www.blairhickman.com/ "Blair's website.") at the intersection of technology, audience engagement and storytelling. It's a bit of strategy, product development, reporting, writing, analytics, civic engagement and social storytelling all rolled into one. Right now, I'm consulting on digital and engagement strategy and teaching journalism at New York University. Before that, I worked at [The Marshall Project](https://www.themarshallproject.org/ "A non-profit journalism group.") and [ProPublica](https://www.propublica.org/ "A non-profit newsroom."), both non-profit investigative newsrooms. 
+
+#### What hardware do you use?
+
+[iPhone 6][iphone-6], [11” MacBook Air][macbook-air], [iPad mini][ipad-mini] and [OlloClip 4-in-1 lens][4-in-1-iphone-5] for the iPhone 5, RIP. Reviews I've read of the 6 version aren't great, and I'm still looking for a mid-range replacement. (Get at me on [Twitter][] at [@amandablair](https://twitter.com/amandablair "Blair's Twitter account.") with suggestions!)
+
+#### And what software?
+
+[Photoshop][], [Evernote][], [Feedly][], [Excel][], [Google Drive][google-drive], [Slack][], [Spotify][] (does this count as work?), [RStudio][], [1Password][], [DropBox][], [CloudApp][] for screen recordings, analytics and social listening tools like [Google Analytics][google-analytics], [Crowdtangle][], [GA Query Explorer][query-explorer] (this is great for testing metric and dimension combinations), [Sprout Social][sprout-social] and a slew of mobile photography apps. [Adobe's Lightroom][lightroom-ios] is my latest favorite, since it syncs with my [desktop version][lightroom].
+
+#### What would be your dream setup?
+
+A world in which everything I have to read on a screen can be in print. I have really bad eyesight, and it's getting worse with all of my computer time. But until someone figures out what to do with that.. I'd have to say my dream setup is a flex standing desk with the biggest Mac monitor on the market, a [Bose SoundLink Mini][soundlink-mini] for listening to podcasts and music anywhere in my apartment, a Bluetooth headset for phone calls (yes, I still do interviews on those!) and my iPad mini. I love being able to move to an armchair or outside when I need to read.
