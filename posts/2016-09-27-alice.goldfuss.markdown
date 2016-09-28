@@ -10,9 +10,9 @@ categories:
 
 #### Who are you, and what do you do?
 
-I’m [Alice Goldfuss](http://alicegoldfuss.com/ "Alice's website.") and I’m a Site Reliability Engineer at New Relic, aka a professional worrier with root access. I’m currently stationed on our main data pipeline team, and I make sure that critical infrastructure keeps humming along.
+I’m [Alice Goldfuss](http://blog.alicegoldfuss.com/ "Alice's website.") and I’m a Site Reliability Engineer at New Relic, aka a professional worrier with root access. I’m currently stationed on our main data pipeline team, and I make sure that critical infrastructure keeps humming along.
 
-I give [talks](http://alicegoldfuss.com/talks/ "Alice's talks.") and run a [sad Twitter account](https://twitter.com/alicegoldfuss "Alice's Twitter account."). My spare time is spent petting neighborhood cats, collecting tea I promise to drink some day, and ranting about intersectional tech feminism.
+I give [talks](http://blog.alicegoldfuss.com/talks/ "Alice's talks.") and run a [sad Twitter account](https://twitter.com/alicegoldfuss "Alice's Twitter account."). My spare time is spent petting neighborhood cats, collecting tea I promise to drink some day, and ranting about intersectional tech feminism.
 
 #### What hardware do you use?
 
