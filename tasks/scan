@@ -48,10 +48,6 @@ Dir.glob(glob) do |path|
       if new_url =~ /jsessionid/
         puts "Looks like a session URL (#{new_url})."
       else
-        unless new_url =~ %r{/^https?:\/\//}
-          new_url = "#{url.scheme}://#{url.host}#{new_url}"
-        end
-
         data['url'] = new_url
         needs_update = true
 
