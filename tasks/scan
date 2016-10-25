@@ -38,11 +38,11 @@ Dir.glob(glob) do |path|
     response = Net::HTTP.get_response(url)
 
     case response
-    when Net::HTTPSuccess then
+    when Net::HTTPSuccess
       puts 'Okay.'
-    when Net::HTTPMovedPermanently then
-    when Net::HTTPMovedTemporarily then
-    when Net::HTTPRedirection then
+    when Net::HTTPMovedPermanently,
+         Net::HTTPMovedTemporarily,
+         Net::HTTPRedirection
       new_url = response['location']
 
       if new_url =~ /jsessionid/
@@ -57,7 +57,7 @@ Dir.glob(glob) do |path|
 
         puts "Updated (#{response.code})."
       end
-    when Net::HTTPNotFound then
+    when Net::HTTPNotFound
       data['url'] = "FIX ME: Not found (#{data['url']})"
       needs_update = true
 
