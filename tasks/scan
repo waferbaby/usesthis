@@ -4,8 +4,7 @@ trap('SIGINT') { exit! }
 
 require 'rubygems'
 require 'yaml'
-require 'net/http'
-require 'openssl'
+require 'faraday'
 
 source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
@@ -28,62 +27,48 @@ end
 puts 'Scanning:'
 
 Dir.glob(glob) do |path|
-  data = YAML.load_file(path)
-  needs_update = false
-
   begin
+    data = YAML.load_file(path)
+    original_url = Faraday.URI(data['url'])
+
     print "- #{data['name']}: "
 
-    url = URI(data['url'])
-    response = Net::HTTP.get_response(url)
+    response = Faraday.get(data['url'])
+    new_url = response.headers['location']
 
-    case response
-    when Net::HTTPSuccess
-      puts 'Okay.'
-    when Net::HTTPMovedPermanently,
-         Net::HTTPMovedTemporarily,
-         Net::HTTPRedirection
-      new_url = response['location']
-
+    case response.status
+    when 200
+      puts 'All good.'
+    when 301, 308
       if new_url =~ /jsessionid/
-        puts "Looks like a session URL (#{new_url})."
+        puts 'Session URL - ignoring.'
       else
+        unless new_url =~ /^https?:\/\//
+          new_url = "#{original_url.scheme}://#{original_url.host}#{new_url}"
+        end
+
         data['url'] = new_url
-        needs_update = true
-
-        puts "Updated (#{response.code})."
+        puts 'Updated (redirected).'
       end
-    when Net::HTTPNotFound
-      data['url'] = "FIX ME: Not found (#{data['url']})"
-      needs_update = true
-
-      puts 'Not found.'
+    when 302, 307
+      puts 'Temporary redirect - ignoring.'
     else
-      data['url'] = "FIX ME: Got a #{response.code} (#{data['url']})"
-      needs_update = true
-
-      puts "Got a #{response.code}"
+      puts "Unexpected status (#{response.status})!"
     end
-
-  rescue Net::ReadTimeout, Errno::ETIMEDOUT, Errno::ENETUNREACH
-    data['url'] = "FIX ME: Timed out or unreachable (#{data['url']})"
-    needs_update = true
-
-    puts 'Timed out.'
+  rescue Faraday::ConnectionFailed, Faraday::TimeoutError
+    puts 'Timed out!'
+    data['error'] = "Dead site"
+  rescue Faraday::SSLError
+    puts 'SSL certificate error!'
+    data['error'] = "SSL certificate"
   rescue URI::InvalidURIError
-    puts "Looks like a bad URL (#{data['url']})?"
-  rescue OpenSSL::SSL::SSLError
-    puts 'Invalid SSL certificate.'
-  rescue SocketError
-    data['url'] = "FIX ME: Dead site? (#{data['url']})"
-    needs_update = true
-
-    puts 'Site seems unreachable.'
-  rescue StandardError => e
-    puts e.inspect
+    puts 'Invalid URL!'
+    data['error'] = "Invalid URL"
+  rescue Zlib::DataError
+    puts 'Header decompression error - ignoring'
   end
 
-  if needs_update
+  if data['url'] != original_url.to_s || data['error']
     File.open(path, 'w') do |file|
       file.write(YAML.dump(data))
     end
