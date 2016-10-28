@@ -1,4 +1,4 @@
 ---
 name: stringr
 description: An R wrapper for string functions.
-url: https://github.com/hadley/stringr
+url: https://github.com/tidyverse/stringr

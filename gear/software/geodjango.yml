@@ -1,4 +1,5 @@
 ---
 name: GeoDjango
 description: A geographic-based Python web framework.
-url: http://geodjango.org/
+url: https://docs.djangoproject.com/en/1.10/ref/contrib/gis/
+
