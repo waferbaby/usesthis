@@ -31,7 +31,7 @@ I still use [TextEdit][], but I'm using [IA Writer][ia-writer] more and more as 
 
 [Alfred][] and [QuickCal][] pop up now and then in useful ways. [Hazel][] shuttles endless PDFs around, renaming and filing them in the proper places. [Automator][] helps a ton with batch processing as well, as does [IFTTT][] on the web. Code happens in [Coda][], everything else happens mostly in [InDesign][]. We even do wireframes and pixel-perfect web layouts in InDesign using points for pixels (72dpi = 72ppi) because the typographic controls, libraries, object styles, and multi-page configurations are so easy there. Fonts get managed with [FontExplorerX][fontexplorer-x] and noodled with using [Glyphs][]. [Pinboard][] keeps my link library organized and [Otlet's Shelf](http://otletsshelf.tumblr.com/ "A Tumblr theme and bookmarklet for Amazon books.") keeps my book library organized.  
 
-On the iPhone, it's much of the same, but I pass time on [Svpply][svpply-ios], tweet sporadically with [Tweetbot][tweetbot-ios], jockey email with [Sparrow][sparrow-ios], listen to brainy chatter on [Instacast][instacast-ios] (current household nickname: "Podcast"), and kill the occasional 15 minutes with the addictively simple [UFO on Tape][ufo-on-tape-ios]. Buy it now.
+On the iPhone, it's much of the same, but I pass time on Svpply, tweet sporadically with [Tweetbot][tweetbot-ios], jockey email with [Sparrow][sparrow-ios], listen to brainy chatter on [Instacast][instacast-ios] (current household nickname: "Podcast"), and kill the occasional 15 minutes with the addictively simple [UFO on Tape][ufo-on-tape-ios]. Buy it now.
 
 #### What would be your dream setup?
 
