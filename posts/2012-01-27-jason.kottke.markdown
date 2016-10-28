@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm Jason Kottke. I live in New York City. I have a wife and two small children. I run a website called [kottke.org](http://kottke.org "Jason's website."), which I've been doing for almost 13 years now. I am also building a web app called [Stellar][].
+I'm Jason Kottke. I live in New York City. I have a wife and two small children. I run a website called [kottke.org](http://kottke.org "Jason's website."), which I've been doing for almost 13 years now. I am also building a web app called Stellar.
 
 #### What hardware do you use?
 
