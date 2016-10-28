@@ -29,7 +29,7 @@ puts 'Scanning:'
 Dir.glob(glob) do |path|
   begin
     data = YAML.load_file(path)
-    original_url = Faraday.URI(data['url'])
+    original_url = data['url']
 
     print "- #{data['name']}: "
 
@@ -44,7 +44,8 @@ Dir.glob(glob) do |path|
         puts 'Session URL - ignoring.'
       else
         unless new_url =~ /^https?:\/\//
-          new_url = "#{original_url.scheme}://#{original_url.host}#{new_url}"
+          uri = Faraday.URI(original_url)
+          new_url = "#{uri.scheme}://#{uri.host}#{new_url}"
         end
 
         data['url'] = new_url
@@ -52,6 +53,9 @@ Dir.glob(glob) do |path|
       end
     when 302, 307
       puts 'Temporary redirect - ignoring.'
+    when 404
+      puts 'Dead link!'
+      data['error'] = 'Dead link'
     else
       puts "Unexpected status (#{response.status})!"
     end
