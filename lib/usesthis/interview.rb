@@ -45,7 +45,7 @@ module UsesThis
       output = {
         slug: @slug,
         name: @title,
-        url: "http://usesthis.com/interviews/#{@slug}/",
+        url: "https://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
         categories: @categories
