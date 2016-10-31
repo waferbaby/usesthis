@@ -41,11 +41,11 @@
   </head>
   <body>
     <div id="wrapper">
-      <header id="top">
+      <header id="main">
         <h1>The Setup</h1>
         <h2><% if @type == :interview %>Interview<% else %><%= @this.title %><% end %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></h2>
         <p id="tagline">What do people use to get stuff done?</p>
-        <nav id="main">
+        <nav>
           <ul>
             <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
             <li><a href="/categories/" title="Interview categories.">Categories</a></li>
@@ -54,7 +54,7 @@
           </ul>
         </nav>
       </header>
-      <main role="main">
+      <main>
         <%= yield %>
       </main>
       <aside>
