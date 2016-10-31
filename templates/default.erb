@@ -26,7 +26,6 @@
     <meta name="twitter:label1" content="Published" />
     <meta name="twitter:data1" content="<%= @this.date.strftime('%B %-d, %Y') %>" />
   <% end %>
-    <script src="//use.edgefonts.net/lato.js" async></script>
     <script type="text/javascript">
     var _paq = _paq || [];
     _paq.push(['trackPageView']);
@@ -42,37 +41,35 @@
   </head>
   <body>
     <div id="wrapper">
-      <header>
-        <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
+      <header id="top">
+        <h1>The Setup</h1>
         <h2><% if @type == :interview %>Interview<% else %><%= @this.title %><% end %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></h2>
         <p id="tagline">What do people use to get stuff done?</p>
+        <nav id="main">
+          <ul>
+            <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
+            <li><a href="/categories/" title="Interview categories.">Categories</a></li>
+            <li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
+            <li><a href="/about/" title="A little info about the site.">About</a></li>
+          </ul>
+        </nav>
       </header>
-      <nav id="main">
-        <ul>
-          <li><a href="/interviews/" title="All the interviews.">Interviews</a></li>
-          <li><a href="/categories/" title="Interview categories.">Categories</a></li>
-          <li><a href="/community/" title="Other interviews by people like you.">Community</a></li>
-          <li><a href="/about/" title="A little info about the site.">About</a></li>
-        </ul>
-      </nav>
       <main role="main">
         <%= yield %>
       </main>
-      <footer>
-        <p id="support"><strong>Dig the interviews?</strong> You could join <a href="/about#thanks" title="A list of the people who support the site.">these awesome people</a> in supporting nerdy independent publishing <a href="https://www.patreon.com/waferbaby" title="My Patreon account for The Setup.">for as little as $1 a month!</a></p>
+      <aside>
         <form id="search" method="get" action="https://duckduckgo.com/">
-          <label>Search:
+          <label><strong>Search:</strong>
           <input type="search" name="q" placeholder="MacBook Pro">
           </label>
           <input type="hidden" name="sites" value="usesthis.com">
           <input type="submit" value="Go">
         </form>
-        <p>
-        This is a <a href="http://twitter.com/waferbaby" title="Some dude's Twitter account.">waferbaby</a> snafu.
-        Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed."> feed</a>.
-        There's even <a href="/api/" title="The API.">a very basic API</a>, if you're so inclined.
-        Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. ❤️
-        </p>
+        <p id="feeds">Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed/" title="Subscribe to the Atom feed."> feed</a>. There's even <a href="/api/" title="The API.">a very basic API</a>, if you're so inclined.</p>
+        <p id="support"><strong>Dig the interviews?</strong> You could join <a href="/about#thanks" title="A list of the people who support the site.">these awesome people</a> in supporting nerdy independent publishing <a href="https://www.patreon.com/waferbaby" title="My Patreon account for The Setup.">for as little as $1 a month!</a></p>
+      </aside>
+      <footer>
+        Last published <%= Time.now.strftime('%-d %B, %Y') %>. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. You're super great!
       </footer>
     </div>
   </body>
