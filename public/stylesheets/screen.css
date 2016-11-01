@@ -194,9 +194,6 @@ border: solid 1px #ddd;
 }
 
 time {
-display: block;
-padding: 0;
-margin: 0;
 font-size: 80%;
 color: #aaa;
 }
@@ -212,6 +209,11 @@ margin: 20px;
 font-size: 95%;
 }
 
+ul li {
+padding: 0;
+margin: 0;
+}
+
 ul#categories {
 list-style: none outside;
 margin-left: 0;
@@ -220,6 +222,16 @@ margin-right: 0;
 
 ul#categories li {
 margin-bottom: 15px;
+}
+
+ul#changelog li {
+margin-bottom: 10px;
+}
+
+ul#changelog li time {
+font-size: 100%;
+font-weight: bold;
+color: #000;
 }
 
 @media all and (max-width: 600px) {
