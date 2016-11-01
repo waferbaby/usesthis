@@ -43,7 +43,8 @@
     <div id="wrapper">
       <header id="main">
         <h1>The Setup</h1>
-        <h2><% if @type == :interview %>Interview<% else %><%= @this.title %><% end %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></h2>
+        <h2><% if @type == :interview %>Interview<% else %><%= @this.title %><% end %></h2>
+        <% if @pagination && @pagination[:page] > 1 %><p id="page">Page <strong><%= @pagination[:page] %></strong> of <strong><%= @pagination[:pages] %></strong></p><% end %>
         <p id="tagline">What do people use to get stuff done?</p>
         <nav>
           <ul>
