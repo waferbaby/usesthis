@@ -26,7 +26,7 @@ margin-bottom: 40px;
 }
 
 body {
-padding: 40px;
+padding: 30px;
 font-family: "helvetica neue", helvetica, sans-serif;
 font-size: 1em;
 line-height: 1.7em;
@@ -71,7 +71,7 @@ h1 {
 font-size: 220%;
 color: #000;
 padding: 0;
-margin: 0 0 15px 0;
+margin: 0 0 10px 0;
 }
 
 h2 {
@@ -91,6 +91,13 @@ h4 {
 font-size: 150%;
 padding: 0;
 margin: 40px 0 0 0;
+}
+
+h5 {
+font-size: 140%;
+font-weight: normal;
+padding: 0;
+margin: 20px 0 0 0;
 }
 
 header#main {
@@ -224,7 +231,6 @@ margin-bottom: 15px;
 }
 
 @media all and (min-width: 700px) and (max-width: 1200px) {
-
   h1, h2 {
   display: inline-block;
   }
@@ -242,7 +248,6 @@ margin-bottom: 15px;
 }
 
 @media all and (min-width: 1200px) {
-
   aside {
   flex: 1 0;
   }
