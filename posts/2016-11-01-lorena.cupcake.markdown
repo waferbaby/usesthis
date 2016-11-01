@@ -5,6 +5,9 @@ categories:
 - editor
 - mac
 - writer
+credits:
+  name: Katerjayne Photography
+  url: http://katerjayne.com/
 ---
 
 #### Who are you, and what do you do?
