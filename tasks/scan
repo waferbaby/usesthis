@@ -11,17 +11,17 @@ $LOAD_PATH.unshift(source_path)
 
 type = ARGV[0]
 
-unless type =~ /^(hardware|software|links)$/
-  abort("I can only scan for 'hardware', 'software' or 'links'.")
+unless type =~ /^(hardware|software|links|interviews)$/
+  abort("Usage: #{__dir__}/scan [hardware|links|software]")
 end
 
 case type
 when 'hardware'
   glob = File.join(source_path, 'gear', 'hardware', '*.yml')
-when 'software'
-  glob = File.join(source_path, 'gear', 'software', '*.yml')
 when 'links'
   glob = File.join(source_path, 'links', '**', '*.yml')
+when 'software'
+  glob = File.join(source_path, 'gear', 'software', '*.yml')
 end
 
 puts 'Scanning:'
