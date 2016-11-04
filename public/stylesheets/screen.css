@@ -29,7 +29,7 @@ body {
 padding: 30px;
 font-family: "helvetica neue", helvetica, sans-serif;
 font-size: 1em;
-line-height: 1.7em;
+line-height: 1.6em;
 }
 
 code {
@@ -58,6 +58,10 @@ float: right;
 font-size: 70%;
 margin: 0;
 color: #aaa;
+}
+
+p#support {
+font-size: 85%;
 }
 
 footer {
@@ -175,7 +179,7 @@ color: #767676;
 p#tagline {
 padding: 0;
 margin: 15px 0;
-font-size: 110%;
+font-size: 90%;
 color: #888;
 }
 
@@ -235,6 +239,11 @@ color: #000;
 }
 
 @media all and (max-width: 600px) {
+  header#main nav ul li {
+  width: 33%;
+  margin-right: 30px;
+  }
+
   img.detail, img.portrait {
   max-width: 500px;
   width: 100%;
