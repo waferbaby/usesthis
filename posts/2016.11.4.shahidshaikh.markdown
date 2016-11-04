@@ -1,0 +1,15 @@
+## Who are you, and what do you do?
+Howdy, I am Shahid Shaikh. I am an Engineer, blogger and Author of technical books.
+I work as Software engineer in Accion labs inc where my job is to develop complex backend application using emerging technologies.
+
+## What hardware do you use?
+I use Macbook Air early 2016 edition with dual monitor (Dell 21 inch) setup. It has 4GB of Ram and 128GB SSD disk. I also use wirelss external mouse and keyboard. For music, I use bluetooth headset by Beats.I also use Lenovo ideapad when I need to experiment something in Ubuntu. 
+
+## And what software?
+I use Vi and Atom editor for the coding purpose. I use TMUX in terminal to split the panes so that I don't need to switch between tabs of terminal. I use Chrome browser and slack messenger for team based chat and skype for international calls.
+
+In additon to development, I also use `Mail` to read emails from various account. I use Preview to read PDF's and Open office to edit document locally. Generally I write my chapters or blogs using `Google docs`.
+
+## What would be your dream setup?
+My dream setup would be six screen monitor setup with white desk and touch based keyboard ( Just like how Robert Downey uses in the Ironman ) and voice based controlled environment with the comfortable recliner. With setup like this, I am gonna play my games and write code and repeat.
+
