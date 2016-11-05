@@ -7,6 +7,7 @@ require 'dimples'
 require 'oj'
 require 'redis'
 
+require 'usesthis/api'
 require 'usesthis/site'
 require 'usesthis/interview'
 require 'usesthis/link'
