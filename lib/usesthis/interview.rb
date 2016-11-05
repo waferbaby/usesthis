@@ -15,29 +15,32 @@ module UsesThis
     end
 
     def contents
-      if @contents_with_links.nil?
-        @contents_with_links = @contents.clone
+      if @linked_contents.nil?
+        @linked_contents = @contents.clone
 
         wares = @hardware.merge(@software)
 
         unless wares.empty?
-          @contents_with_links += "\n\n"
+          @linked_contents += "\n\n"
 
           wares.each_value do |ware|
-            @contents_with_links += "#{ware.to_markdown}\n"
+            @linked_contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
           end
         end
       end
 
-      @contents_with_links
+      @linked_contents
     end
 
     def scan_links
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
 
-        @hardware[slug] ||= @site.hardware[slug] if @site.hardware[slug]
-        @software[slug] ||= @site.software[slug] if @site.software[slug]
+        %w(hardware software).each do |type|
+          if ware = @site.send(type)[slug]
+            send(type)[slug] ||= ware.tap { |w| w.interviews << self }
+          end
+        end
       end
     end
 
@@ -48,19 +51,21 @@ module UsesThis
         url: "https://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
-        categories: @categories
+        categories: @categories,
+        contents: @contents,
+        gear: { hardware: [], software: [] }
       }
 
       output[:credits] = @credits if @credits
-      output[:contents] = @contents
-      output[:gear] = { hardware: [], software: [] }
 
       %w(hardware software).each do |type|
-        send(type).each_value do |ware|
-          ware_hash = ware.to_h
-          ware_hash.delete(:interviews)
+        type_sym = type.to_sym
 
-          output[:gear][type.to_sym] << ware_hash
+        send(type).each_value do |ware|
+          data = ware.to_h
+          data.delete(:interviews)
+
+          output[:gear][type_sym] << data
         end
       end
 
