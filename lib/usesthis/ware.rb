@@ -18,27 +18,20 @@ module UsesThis
       @interviews = []
     end
 
-    def to_markdown
-      "[#{slug}]: #{url} \"#{description}\""
-    end
-
     def to_h
       output = {
         slug: @slug,
         name: @name,
         description: @description,
-        url: @url
+        url: @url,
+        interviews: []
       }
 
-      unless @interviews.empty?
-        output[:interviews] = []
-
-        @interviews.each do |interview|
-          output[:interviews] << {
-            slug: interview.slug,
-            name: interview.title
-          }
-        end
+      @interviews.each do |interview|
+        output[:interviews] << {
+          slug: interview.slug,
+          name: interview.title
+        }
       end
 
       output
