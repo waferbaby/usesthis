@@ -78,6 +78,7 @@ module UsesThis
       generate_gear('software')
 
       generate_stats
+      generate_errors
     end
 
     def generate_posts
@@ -182,6 +183,17 @@ module UsesThis
       end
     end
 
+    def generate_errors
+      Dir.glob(File.join(@source_paths[:root], 'errors', '*.markdown')) do |path|
+        page = @post_class.new(self, path)
+
+        page.filename = File.basename(path, '.markdown')
+        page.layout = 'interview'
+
+        page.write(File.join(@output_paths[:site], "#{page.slug}.html"))
+      end
+    end
+
     def generate_api_file(path, contents)
       file = @page_class.new(self)
 
@@ -189,7 +201,7 @@ module UsesThis
       file.extension = 'json'
       file.contents = Oj.dump(contents, indent: 2)
 
-      file.write(path, false)
+      file.write(file.output_path(path), false)
     end
 
     def record_interview_stats(interview)
