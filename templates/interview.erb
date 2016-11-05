@@ -25,9 +25,11 @@ layout: default
   <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @this.license %>/3.0/" title="View details of the license."><%= @this.license.upcase %> Creative Commons license</a>.</p>
   <% end %>
 
+  <% if @this.previous_post || @this.next_post %>
   <p id="paginator">
   <% if @this.previous_post %>Previously: <a href="/interviews/<%= @this.previous_post.slug %>/" title="View the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
   <% if @this.previous_post && @this.next_post %>/<% end %>
   <% if @this.next_post %>Next up: <a href="/interviews/<%= @this.next_post.slug %>/" title="View the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
   </p>
+  <% end %>
 </article>
