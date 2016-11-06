@@ -11,7 +11,7 @@ module UsesThis
           software: { all: Hash.new(0) }
         }
 
-        root_path = File.join(@site.output_paths[:site], 'api', "v#{API_VERSION}")
+        root_path = File.join(@site.output_paths[:site], 'api')
 
         %w(interviews hardware software categories stats).each do |item|
           @output_paths[item.to_sym] = File.join(root_path, item)
