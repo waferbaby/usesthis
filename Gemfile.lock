@@ -10,7 +10,6 @@ GEM
     multipart-post (2.0.0)
     oj (2.17.5)
     redcarpet (3.3.4)
-    redis (3.3.1)
     tilt (2.0.5)
 
 PLATFORMS
@@ -23,7 +22,6 @@ DEPENDENCIES
   mongoose
   oj
   redcarpet
-  redis
 
 BUNDLED WITH
    1.11.2
