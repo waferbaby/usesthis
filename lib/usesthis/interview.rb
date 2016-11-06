@@ -24,7 +24,7 @@ module UsesThis
           @linked_contents += "\n\n"
 
           wares.each_value do |ware|
-            @linked_contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
+            @linked_contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
           end
         end
       end
