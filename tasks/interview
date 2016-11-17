@@ -4,6 +4,7 @@ source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
 
 require 'date'
+require 'fileutils'
 
 editor = ENV['EDITOR'] || 'vi'
 
@@ -27,6 +28,9 @@ filename = "#{formatted_next_date}-#{slug}.markdown"
 file_path = File.join(source_path, 'posts', filename)
 
 abort("Interview already exists for #{slug}.") if File.exist?(file_path)
+
+portrait_path = File.join(source_path, 'public', 'images', 'interviews', slug)
+FileUtils.mkdir(portrait_path) unless File.exist?(portrait_path)
 
 output = <<OUTPUT
 ---
