@@ -23,7 +23,7 @@ In particular, I like to have my monitors at eye height. If you're looking down 
 
 I have three [24-inch full-HD screens][syncmaster-p2450h] in front of me where I do my main work, with three more auxiliary 19-inch screens to my left, two of which are showing four-columns each of [TweetDeck][] covering various streams, and the third rolling relevant live statistics.
 
-<img src="/images/interviews/rick.falkvinge.monitors.jpg" width="500" height="335" alt="Rick's many monitors." class="detail">
+<img src="/images/interviews/rick.falkvinge/monitors.jpg" width="500" height="335" alt="Rick's many monitors." class="detail">
 
 (When that photo was taken, the three aux screens were not connected, just mounted. They are in operation now.)
 

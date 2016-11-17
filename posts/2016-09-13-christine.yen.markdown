@@ -20,7 +20,7 @@ My hardware needs are pretty simple: I use a [2015 15" MacBook Pro][macbook-pro]
 
 My monitor is an [LG 34" UM95][34um95] and I don't know if I'm ever going to be able to go back to a smaller screen - I finally feel comfortable operating my laptop in clamshell mode with this much width, real estate-wise. And finally, I keep my laptop stickers minimal but collect them profusely on my laptop case (which, many layers ago, was a bubblewrap mailing envelope):
 
-<img src="/images/interviews/christine.yen.case.jpg" width="500" height="335" alt="Christine's laptop case." class="detail">
+<img src="/images/interviews/christine.yen/case.jpg" width="500" height="335" alt="Christine's laptop case." class="detail">
 
 #### And what software?
 

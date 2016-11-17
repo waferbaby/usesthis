@@ -25,7 +25,7 @@ I find it crucial for my creative practice to be comfortable and have a sense of
 
 Before any line of code, I usually sketch ideas using pen & paper. I really like China Markers and Bic pens. I have boxes of them! I carry a couple of each one around to have them at hand all times. You know, always ready! They are incredible allies: extremely versatile and expressive tools to think and imagine on paper. Also, they are a great distraction tool for when you have to wait.
 
-<img src="/images/interviews/patricio.gonzalez.vivo.desk.jpg" width="500" height="281" alt="Patricio's desk." class="detail">
+<img src="/images/interviews/patricio.gonzalez.vivo/desk.jpg" width="500" height="281" alt="Patricio's desk." class="detail">
 
 Once I start coding, I work on a powerful laptop (a [MacBook Pro][macbook-pro] Retina 15" with a NVIDIA GPU card) connected to a big screen. I usually use the Retina display screen for the code editor - typography works beautifully on it - while the other screen is to display whatever I'm working on. That way I can see the result right away. Shortening that distance between the code and how it looks on the screen is probably one of the most important things for me — it keeps the rhythm and flow of the process going, so I can discover and explore naturally and organically.
 
@@ -45,7 +45,7 @@ Once I have a clear understanding of what I want to do, I start composing maps u
 
 Sometimes maps need some special data to come alive, and for that I prefer parsing data with Python in Sublime Text. Ohhhhh the joy of Python in Sublime Text.
 
-<img src="/images/interviews/patricio.gonzalez.vivo.space.jpg" width="500" height="281" alt="Patricio's ISS live stream." class="detail">
+<img src="/images/interviews/patricio.gonzalez.vivo/space.jpg" width="500" height="281" alt="Patricio's ISS live stream." class="detail">
 
 When I'm not working on the Raspberry Pi, I use it to display digital artwork or [a live video stream from the ISS](http://www.ustream.tv/channel/live-iss-stream/theater "A live stream from the International Space Station.") — it helps me to keep an open mind :)
 

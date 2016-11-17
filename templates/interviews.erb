@@ -6,7 +6,7 @@ title: Interviews
 <% @posts.each do |interview| %>
 <article class="interviewee h-card vcard">
   <a href="/interviews/<%= interview.slug %>/" title="View the interview with <%= interview.title %>." class="p-name">
-    <img src="/images/portraits/<%= interview.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= interview.title %>">
+    <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= interview.title %>">
     <h3 class="p-name"><%= interview.title %></h3>
   </a>
   <p class="summary p-summary"><%= interview.summary %></p>

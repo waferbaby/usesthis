@@ -4,7 +4,7 @@ layout: default
 
 <article id="interview" class="h-entry">
   <header>
-    <img src="/images/portraits/<%= @this.slug %>.jpg" width="500" height="335" class="portrait" alt="<%= @this.title %>">
+    <img src="/images/interviews/<%= @this.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= @this.title %>">
     <% if @this.credits %>
       <p id="credits">Photo by <% if @this.credits['url'] %><a href="<%= @this.credits['url'] %>" title="View more about <%= @this.credits['name'] %>."><%= @this.credits['name'] %></a><% else %><%= @this.credits['name'] %><% end %>.</p>
     <% end %>
