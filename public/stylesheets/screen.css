@@ -15,6 +15,8 @@ color: #555;
 aside {
 flex: 1 auto;
 font-size: 80%;
+padding: 20px 0 10px 0;
+border-top: solid 1px #eee;
 }
 
 aside form {
@@ -26,10 +28,10 @@ margin-bottom: 40px;
 }
 
 body {
-padding: 30px;
 font-family: "helvetica neue", helvetica, sans-serif;
 font-size: 1em;
 line-height: 1.6em;
+padding: 30px;
 }
 
 code {
@@ -37,9 +39,9 @@ color: #767676;
 }
 
 dd {
+font-size: 85%;
 padding: 0;
 margin: 0 0 20px 0;
-font-size: 85%;
 }
 
 dt {
@@ -88,7 +90,7 @@ margin: 0;
 h3 {
 font-size: 180%;
 padding: 0;
-margin: 10px 0 0 0;
+margin: 0;
 }
 
 h4 {
@@ -109,11 +111,11 @@ flex: 1 auto;
 }
 
 header#main nav {
+font-size: 110%;
 padding: 0;
 margin: 15px 0 30px 0;
 border-top: solid 1px #eee;
 border-bottom: solid 1px #eee;
-font-size: 110%;
 }
 
 header#main nav ul {
@@ -125,8 +127,8 @@ header#main nav ul li {
 margin-right: 15px;
 }
 
-img.detail, img.portrait {
-border: solid 1px #000;
+img.portrait {
+padding-bottom: 10px;
 }
 
 main {
@@ -148,16 +150,16 @@ display: inline-block;
 }
 
 nav.categories {
-margin-top: 10px;
 font-size: 80%;
+margin-top: 10px;
 }
 
 nav.categories ul li {
+text-align: center;
 padding: 0 5px;
 margin: 0 5px 5px 0;
 border: solid 1px #eee;
 border-radius: 5px;
-text-align: center;
 }
 
 nav.categories ul li a {
@@ -165,11 +167,11 @@ text-decoration: none;
 }
 
 p#paginator {
+text-align: center;
+font-size: 95%;
 padding: 20px 0;
 margin: 0;
-font-size: 95%;
 border-top: solid 1px #eee;
-text-align: center;
 }
 
 p#paginator span {
@@ -177,10 +179,10 @@ color: #767676;
 }
 
 p#tagline {
-padding: 0;
-margin: 15px 0;
 font-size: 90%;
 color: #888;
+padding: 0;
+margin: 15px 0;
 }
 
 p.summary {
@@ -189,11 +191,11 @@ margin: 10px 0 0 0;
 
 pre {
 overflow: scroll;
-padding: 10px;
-margin: 0 0 20px 0;
 font-size: 80%;
 background-color: #eee;
 color: #767676;
+padding: 10px;
+margin: 0 0 20px 0;
 border: solid 1px #ddd;
 }
 
@@ -208,9 +210,9 @@ color: #aaa;
 
 ul {
 list-style: square outside;
+font-size: 95%;
 padding: 0;
 margin: 20px;
-font-size: 95%;
 }
 
 ul li {
@@ -258,8 +260,8 @@ color: #000;
 
   h2:before {
   content: "/";
-  color: #eee;
   font-weight: normal;
+  color: #eee;
   margin: 0 10px;
   }
 
@@ -271,6 +273,8 @@ color: #000;
 @media all and (min-width: 1200px) {
   aside {
   flex: 1 0;
+  padding: 0;
+  border: 0;
   }
 
   aside form {
