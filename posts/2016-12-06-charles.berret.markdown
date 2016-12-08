@@ -5,7 +5,7 @@ categories:
 - developer
 - linux
 - mac
-- student
+- researcher
 ---
 
 #### Who are you, and what do you do?
