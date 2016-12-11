@@ -127,8 +127,9 @@ header#main nav ul li {
 margin-right: 15px;
 }
 
-img.portrait {
-padding-bottom: 10px;
+img.detail, img.portrait {
+margin-bottom: 10px;
+border: solid 1px #000;
 }
 
 main {
@@ -179,10 +180,10 @@ color: #767676;
 }
 
 p#tagline {
-font-size: 90%;
-color: #888;
+font-size: 120%;
+color: #777;
 padding: 0;
-margin: 15px 0;
+margin: 20px 0;
 }
 
 p.summary {
@@ -266,7 +267,7 @@ color: #000;
   }
 
   p#tagline {
-  margin-top: 0;
+  margin: 2px 0 0 0;
   }
 }
 
