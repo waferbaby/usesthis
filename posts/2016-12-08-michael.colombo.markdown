@@ -19,7 +19,7 @@ I'm Michael Colombo. I'm a writer, fabricator, and musician. I was a full-time b
 
 #### And what software?
 
-[Arduino][arduino-ide], [Google Docs][google-docs], [Audacity][], [Long Exposure Camera][long-exposure-camera-android] (seriously the best weirdo low-rent app I've ever used), [GIMP][], Switch, [Handbrake][], Serato, Storyline, [SketchUp][].
+[Arduino][arduino-ide], [Google Docs][google-docs], [Audacity][], [Long Exposure Camera][long-exposure-camera-android] (seriously the best weirdo low-rent app I've ever used), [GIMP][], [Switch][], [Handbrake][], [Serato][serato-dj], [Storyline][storyline-360], [SketchUp][], [Logic Pro][logic-pro] and [Final Cut Pro][final-cut-pro].
 
 #### What would be your dream setup?
 
