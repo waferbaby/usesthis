@@ -43,7 +43,7 @@ I'm pretty oldschool in my presentations and almost never use [Powerpoint][], bu
 
 I have [a WordPress blog](http://firepile.com/ "Robin's weblog.") that I recently wiped clean for the third time to start over. I intend to use the space to mostly blog about peer reviewed research. We'll see if it works this time. When I blog, it always seem to devolve into me ranting about sexism, politics, and the problems with evangelical futurism.
 
-I prefer [Firefox][] in spite of its recent performance problems. I've tried [Chrome][] but I alway end up back with Firefox. I use a handful of useful addons, including [DownloadHelper][], [Adblock Plus][adblock-plus], [Check4Change][], [PrintPDF][], and, when traveling, [HTTPS Everywhere][https-everywhere].
+I prefer [Firefox][] in spite of its recent performance problems. I've tried [Chrome][] but I always end up back with Firefox. I use a handful of useful addons, including [DownloadHelper][], [Adblock Plus][adblock-plus], [Check4Change][], [PrintPDF][], and, when traveling, [HTTPS Everywhere][https-everywhere].
 
 I keep all of my books cataloged on [Librarything][] so I can keep track of what I have and where it is. My personal library is a bit large because I like physical media, and Librarything has made keeping track of everything really simple. I use [comicbookdb][] for the same reason but to keep track of my small comic book collection.
 
