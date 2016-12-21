@@ -39,7 +39,7 @@ I use [remind][] as calendar application. I have it show upcoming events on my d
 
 [The Unarchiver][the-unarchiver] so I can extract rar archives from Finder.
 
-I have [TVShows][] running to automaticaly download new episodes of shows which aren't for sale here ;)
+I have [TVShows][] running to automatically download new episodes of shows which aren't for sale here ;)
 
 I use [NumberKey][numberkey-ios] to make my iPhone into a numeric keypad when I need to input lots of numbers.
 
