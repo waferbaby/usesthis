@@ -15,7 +15,7 @@ Recently I have started a venture modernizing pricing mechanisms for sports, con
 
 #### What hardware do you use?
 
-I have Macs everywhere. [MacBook Air][macbook-air] is my portable, an old [MacBook][] repurposed as a desktop at home and an [iMac][] in the office. My phone is an [iPhone 5][iphone-5]. For most of my adult life, however, I was a Linux devotee. This was partly hobby and partly for the power/flexibility/freedom of Unix and free software. As I get older other hobbies have taken the forefront and I have less time for messing with things like ifconfig and Xorg.conf but I still rely on Linux for my mail server, [Python][], and various tools that don't exist anywhwere else. So I have a tiny little box under my desktop which runs an incredibly minimal headless [Ubuntu][] installation.
+I have Macs everywhere. [MacBook Air][macbook-air] is my portable, an old [MacBook][] repurposed as a desktop at home and an [iMac][] in the office. My phone is an [iPhone 5][iphone-5]. For most of my adult life, however, I was a Linux devotee. This was partly hobby and partly for the power/flexibility/freedom of Unix and free software. As I get older other hobbies have taken the forefront and I have less time for messing with things like ifconfig and Xorg.conf but I still rely on Linux for my mail server, [Python][], and various tools that don't exist anywhere else. So I have a tiny little box under my desktop which runs an incredibly minimal headless [Ubuntu][] installation.
 
 #### And what software?
 
