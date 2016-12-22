@@ -23,7 +23,7 @@ As soon as my computer boots I use [Quicksilver][] to fire up [Terminal.app][ter
 
 I just moved to the Bay Area from New York, where I was working remotely with the Khan Academy team for the past 6 months. Jason and John are still remote, so communication tools are key. Internal talk is almost entirely covered by [HipChat][] for chat, [Skype][] for voice, and [gmail/Google apps][gmail] for everything else. We'll probably be branching out into some more open-source friendly communication tools in the near future.
 
-When it comes time to code, these days I have the [App Engine][app-engine] Python SDK running with Chrome open and its Developer Tools expanded. Source control is 90% [Mercurial][]/[Kiln][] and 10% [Git][]/[Github][], and John's addding more community dev resources on the Github side. I'm a huge fan of client side performance work, so I love loading up [Firefox][] with Page Speed and YSlow -- although recently I've been relying more and more on [GTMetrix][] to accumulate these stats over time.
+When it comes time to code, these days I have the [App Engine][app-engine] Python SDK running with Chrome open and its Developer Tools expanded. Source control is 90% [Mercurial][]/[Kiln][] and 10% [Git][]/[Github][], and John's adding more community dev resources on the Github side. I'm a huge fan of client side performance work, so I love loading up [Firefox][] with Page Speed and YSlow -- although recently I've been relying more and more on [GTMetrix][] to accumulate these stats over time.
 
 If I were threatened with a gun and told to only keep one app that I currently use, I'd sacrifice all of the above to save [Netflix][] and its ability to stream Arrested Development.
 
