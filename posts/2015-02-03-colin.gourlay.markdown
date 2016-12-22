@@ -50,7 +50,7 @@ My development browser has been [Chrome][] for a few years now. I ignored [Firef
 
 Ensuring my interactive content works in recent versions of Internet Explorer has become much easier with the VMs that Microsoft provide at [modern.IE][]. I also take advantage of the remote debugging tools built into Chrome and [Safari][] to debug web content running live on Android and iOS, respectively.
 
-For music production, I use [Ableton Live][live], which has a live performance mode that I can control with my Launchpad. I also dabble with [Propellerhead Reason][reason], but it's quite overwhelming and I plan to get more acquanted with it in 2015. For listening, I really like [Rdio][], but in Australia there are a ridiculous number of albums unavailable, for no good reason.
+For music production, I use [Ableton Live][live], which has a live performance mode that I can control with my Launchpad. I also dabble with [Propellerhead Reason][reason], but it's quite overwhelming and I plan to get more acquainted with it in 2015. For listening, I really like [Rdio][], but in Australia there are a ridiculous number of albums unavailable, for no good reason.
 
 #### What would be your dream setup?
 

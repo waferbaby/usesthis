@@ -16,7 +16,7 @@ I'm Vivian, [a 6-foot tall dachshund living in New York City](http://mitchboyer.
 
 **Mitch**: I'm gonna take over here - hi, I'm [Mitch](http://mitchboyer.com/ "Mitch's website."), Vivian's owner, and I work as an illustrator and photographer. As I'm sure you've assumed, [Vivian is not actually 6 feet tall](https://www.instagram.com/p/BF0-PPSLNxK/ "A photo of Vivian on Instagram."). She's just barely over a foot tall and weighs 13 lbs. [All of the pictures in the book are photo-illustrations](http://imgur.com/gallery/cImIW "Details of how Mitch takes photos of Vivian.").
 
-I've been shooting the images on the [Fujifilm X‑T10][x-t10] with a [35mm lens][xf35mmf2-r-wr]. I originally purchased the Fuji as a casual travel camera, but I loved the images it was taking so much that I now use it more than the [Canon 5D][eos-5d]. A lot of the scenes we shoot are in busy city areas, so it helps to have a low profile camera. Most people just assume I'm another tourist taking a picture of the New York Skyline. 
+I've been shooting the images on the [Fujifilm X‑T10][x-t10] with a [35mm lens][xf35mmf2-r-wr]. I originally purchased the Fuji as a casual travel camera, but I loved the images it was taking so much that I now use it more than the [Canon 5D][eos-5d]. A lot of the scenes we shoot are in busy city areas, so it helps to have a low profile camera. Most people just assume I'm another tourist taking a picture of the New York Skyline.
 
 I edit on my 27" [iMac][]. I haven't pushed for the Retina version yet, maybe next time. It does the job just fine. Oh, I forgot! before I shoot the images, I make a storyboard in my Moleskin notebook. I prefer the squared pattern version. When I'm sketching I like to work in pencil first and then ink using a [Staedtler Pigment Liner pen][pigment-liner-308]. I usually work with a 0.3mm tip. Okay, back to the Mac! I love this thing. The 27" screen is a great size and gives me space to work in several programs at once. My computer desktop is usually a mess with several windows open at once. I used to be very OCD about only having one program open at once, but I've let that go.
 
@@ -28,9 +28,9 @@ While editing the photos I use the [Wacom Bamboo tablet][bamboo]. It's a little 
 
 **Mitch**: I process the raw files from the Fuji in [Adobe Lightroom][lightroom] and use the [VSCO Film][vsco-film] 02 pack a lot. I'm not a fan of the strong roll off you get in the highlights with digital images, and I think VSCO does a good job of smoothing that out. I love their Kodak Portra 400 emulator.
 
-Once I've processed the files, I pull them into [Photoshop][] and finish them there. No special filters or plugins. Just vanilla Photoshop. 
+Once I've processed the files, I pull them into [Photoshop][] and finish them there. No special filters or plugins. Just vanilla Photoshop.
 
-Outside of image processing, I use [Sunrise][] for my calander - so sad they're being eaten by [Outlook][]. I'm writing this in [Grammarly][] because I'm constantly afraid of making stupid grammatical mistakes. I've been on a [Duolingo][duolingo-ios] kick lately, my girlfriend is Colombian and I've been learning Spanish, it's going pretty well. Oh, and I'm a huge [Spotify][] junkie. I'm aways listening to something.
+Outside of image processing, I use [Sunrise][] for my calander - so sad they're being eaten by [Outlook][]. I'm writing this in [Grammarly][] because I'm constantly afraid of making stupid grammatical mistakes. I've been on a [Duolingo][duolingo-ios] kick lately, my girlfriend is Colombian and I've been learning Spanish, it's going pretty well. Oh, and I'm a huge [Spotify][] junkie. I'm always listening to something.
 
 **Vivian**: What's software? Can I eat it?
 
