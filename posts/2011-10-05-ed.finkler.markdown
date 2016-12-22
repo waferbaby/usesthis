@@ -26,7 +26,7 @@ My workhorse is a Mid 2010 15" [Macbook Pro][macbook-pro]:
 - 256GB SSD
 - 1680 x 1050 screen
 
-For Gimme Bar we use a VM in [VirtualBox][] to act as our local development server. This makes the 8GB of RAM really, really useful, because that seems to be the threshold where you can run a reasonable VM and not notice performance degredation in your other apps. I've tried it at 4GB and it works, but you can notice issues. So I strongly recommend putting at least 8GB of RAM in your dev machine, especially since RAM is quite cheap. Best $100 you can spend.
+For Gimme Bar we use a VM in [VirtualBox][] to act as our local development server. This makes the 8GB of RAM really, really useful, because that seems to be the threshold where you can run a reasonable VM and not notice performance degradation in your other apps. I've tried it at 4GB and it works, but you can notice issues. So I strongly recommend putting at least 8GB of RAM in your dev machine, especially since RAM is quite cheap. Best $100 you can spend.
 
 The SSD has proven to be a major performance boost for the machine, especially on startup and initial login. I have a 2007 8-core [Mac Pro][mac-pro], and it is *exponentially* slower on startup. That's not just the CPU -- the disks (7200RPM SATA) are just far, far slower. If you can afford an extra $500 on your machine, I highly recommend getting an SDD. It makes things much more pleasant.
 
