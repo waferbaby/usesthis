@@ -24,7 +24,7 @@ I also have a cheap Logitech wireless mouse. In terms of what I use for work, th
 
 For coding: I mostly use [FlashDevelop][], with the Adobe Flex compiler. I also used [Unity3D][unity] for a recent project, and I'm hoping to use it for a couple of projects in the future.
 
-For 2D graphics, I use [Paint Shop Pro X2!][paint-shop-pro] I don't really like it - I used to use version 8, but doesn't work very well on indows 7 so I had to find another version of the program that did. X2 is what I settled on, after trying four or five different versions of the program. It's not ideal, but I'm so used to the keyboard shortcuts and work flow in Paint Shot Pro that everything else I've tried feels super awkward to use.
+For 2D graphics, I use [Paint Shop Pro X2!][paint-shop-pro] I don't really like it - I used to use version 8, but doesn't work very well on Windows 7 so I had to find another version of the program that did. X2 is what I settled on, after trying four or five different versions of the program. It's not ideal, but I'm so used to the keyboard shortcuts and work flow in Paint Shot Pro that everything else I've tried feels super awkward to use.
 
 I'm still learning 3D modelling - my flatmate has promised to teach me [Blender][], which looks interesting. For At a Distance, I made the environments in [Google Sketchup][sketchup], which is a super pleasant tool to use for simple models.
 
