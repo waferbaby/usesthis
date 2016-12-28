@@ -10,7 +10,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is [Jessica Hammer](http://www.replayable.net/ "Jessica's website.") and I'm a [Mellon Interdisciplinary Graduate Research Fellow](http://iserp.columbia.edu/content/mellon-interdisciplinary-graduate-fellows-program-paul-f-lazarsfeld-center "Informaion about the Mellon Interdisciplinary Fellows Program.") at Columbia University. I study the psychology of games, focusing on the way specific game design decisions affect how players think and feel. I also help design games that change people's lives for the better.
+My name is [Jessica Hammer](http://www.replayable.net/ "Jessica's website.") and I'm a [Mellon Interdisciplinary Graduate Research Fellow](http://iserp.columbia.edu/content/mellon-interdisciplinary-graduate-fellows-program-paul-f-lazarsfeld-center "Information about the Mellon Interdisciplinary Fellows Program.") at Columbia University. I study the psychology of games, focusing on the way specific game design decisions affect how players think and feel. I also help design games that change people's lives for the better.
 
 #### What hardware do you use?
 
