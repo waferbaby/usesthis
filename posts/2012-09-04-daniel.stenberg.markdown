@@ -13,7 +13,7 @@ I'm [Daniel Stenberg](http://daniel.haxx.se/ "Daniel's website."). I'm an open s
 
 #### What hardware do you use?
 
-<img src="/images/interviews/daniel.stenberg/computers.jpg" width="500" height="335" alt="The Stenberg family comouters." class="detail">
+<img src="/images/interviews/daniel.stenberg/computers.jpg" width="500" height="335" alt="The Stenberg family computers." class="detail">
 
 My 10-20 hours of spare time development per week is done primarily on my old desktop PC (the rightmost on the photos). It is an AMD Athlon 64 X2 5600+ (2.8GHz) with a single 24" LCD 1920x1200. I'm one of the old guys who use *many* windows on screen (and never any of them in fullscreen mode) and I use my machine pretty much exclusively for development, email reading, IRC'ing and casual browsing.
 
