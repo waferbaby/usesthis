@@ -270,6 +270,12 @@ color: #000;
   p#tagline {
   margin: 2px 0 0 0;
   }
+
+  ul#patrons {
+  list-style: none;
+  column-count: 2;
+  margin: 20px 0;
+  }
 }
 
 @media all and (min-width: 1200px) {
@@ -307,5 +313,11 @@ color: #000;
   main {
   max-width: 502px;
   margin: 0 50px;
+  }
+
+  ul#patrons {
+  list-style: none;
+  column-count: 3;
+  margin: 20px 0;
   }
 }
