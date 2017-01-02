@@ -1,6 +1,6 @@
 ---
 title: Adam Wiggins
-summary: Hacker, entrepeneur (Heroku)
+summary: Hacker, entrepreneur (Heroku)
 categories:
 - developer
 - mac

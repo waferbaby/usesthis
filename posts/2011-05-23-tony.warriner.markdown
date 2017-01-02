@@ -13,7 +13,7 @@ I'm [Tony Warriner](http://en.wikipedia.org/wiki/Tony_Warriner "Tony's entry on 
 
 #### What hardware do you use?
 
-My main machine is a 2010 [iMac][] 27" with an i5 and 8GB of RAM. It's by far the best machine i've ever used. I've been getting very nervous about the new model update, that just arrived, knowing that a significant upgrade would eat away at me - I just can't resist having the latest stuff. I think a bigger screen would have pushed me over the edge. Or an SSD as standard. But the speed hike is pretty nice. One thing I've learnt is that computers eventually break. And they always break at the worst possible moment, so it pays to have a spare... you see how this works? ;)
+My main machine is a 2010 [iMac][] 27" with an i5 and 8GB of RAM. It's by far the best machine I've ever used. I've been getting very nervous about the new model update, that just arrived, knowing that a significant upgrade would eat away at me - I just can't resist having the latest stuff. I think a bigger screen would have pushed me over the edge. Or an SSD as standard. But the speed hike is pretty nice. One thing I've learnt is that computers eventually break. And they always break at the worst possible moment, so it pays to have a spare... you see how this works? ;)
 
 I also have an old Win XP machine that I built myself (big mistake) but generally run Windows stuff using [Windows 7][windows-7] and [Parallels][parallels-desktop] on the Mac these days. It's lasted six years, though it's on its second motherboard and third power supply.
 
