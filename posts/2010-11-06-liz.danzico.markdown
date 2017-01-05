@@ -21,7 +21,7 @@ In order of frequency:
 
 An [iPhone 4][iphone-4]. Because it's always with me, it's my best camera, favorite mail app, best to-do list, preferred Twitter app, and most frequent place I get work done when I'm in review mode.
 
-At the studio, a [Mac Pro][mac-pro] 2.8GHz Quad-Core Intel with 4 GB of extra memory. A couple years back, I started using a 30-inch [studio display monitor][studio-display], which I contest has increased productivity, if not overall happiness, exponentially. I have an Logitec HD webcam for Skype calls.
+At the studio, a [Mac Pro][mac-pro] 2.8GHz Quad-Core Intel with 4 GB of extra memory. A couple years back, I started using a 30-inch [studio display monitor][studio-display], which I contest has increased productivity, if not overall happiness, exponentially. I have an Logitech HD webcam for Skype calls.
 
 All other times, a [MacBook Air][macbook-air] 1.6 GHz Intel Core 2 Duo, which I adore when it's in my bag in transit, but less so when it's in use. It might be better as a travel accessory than a go-to remote device, I've found. I've never gotten past the feeling that I'm going to either snap it in half or throw it out by mistake. Oddly, I don't feel this way about a most recent purchase, the [iPad 16GB 3G][ipad-3g]. I'm wondering if it's because the latter is not as necessary.
 
@@ -31,9 +31,9 @@ I also couldn't live without: my trusted [Nikon D40][d40] (although have been bo
 
 In order of use throughout the day:
 
-First thing in the morning, [Google Reader][google-reader] and [Google Calendar][google-calendar], then mail. 
+First thing in the morning, [Google Reader][google-reader] and [Google Calendar][google-calendar], then mail.
 
-I use [Adium][] all day long, both at the studio and home. It's not perfect, but is quite close. Groups, if you'd like them (although I feel it's a bit limiting), and the all-important Invisible Mode. I've often wished for an audio version for the car, and was cheered to [see this recently](http://www.dailymail.co.uk/sciencetech/article-1297065/New-hands-free-technology-lets-motorists-use-Twitter-driving.html?ITO=1490 "A Daily Mail article about hands-free tweeting while in a car."). 
+I use [Adium][] all day long, both at the studio and home. It's not perfect, but is quite close. Groups, if you'd like them (although I feel it's a bit limiting), and the all-important Invisible Mode. I've often wished for an audio version for the car, and was cheered to [see this recently](http://www.dailymail.co.uk/sciencetech/article-1297065/New-hands-free-technology-lets-motorists-use-Twitter-driving.html?ITO=1490 "A Daily Mail article about hands-free tweeting while in a car.").
 
 For writing, I use [TextEdit][]. I've tried fancier setups with version control and music soundtracks. [Ommwriter][], for instance, is rather interesting and does a nice job of keeping things simple. But for me, TextEdit is magic as there's nothing extra, nothing you have to remember not to do, or to do. It's honest. If shared, either [Google Documents][google-docs] or [Writeboards][writeboard].
 
