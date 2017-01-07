@@ -37,7 +37,7 @@ A couple other things perpetually near my body that are not-technically hardware
 
 My main laptop runs [Debian][] Testing ("Jessie"); as a result, I have gotten really good at ignoring lack of functionality that laptops generally have.
 
-For years, I refused to use any window manager except [xmonad][]. A few months ago, after 45 minutes of failure to achieve a usable state with it on Debian Testing, I switched over to [Awesome][] with custom keybindings to make it behave like vanilla xmonad. So far, I'm satisifed.
+For years, I refused to use any window manager except [xmonad][]. A few months ago, after 45 minutes of failure to achieve a usable state with it on Debian Testing, I switched over to [Awesome][] with custom keybindings to make it behave like vanilla xmonad. So far, I'm satisfied.
 
 I use [urxvt][rxvt-unicode] as my terminal emulator, [tmux][] for multiplexing, and [fish][] for my shell. I do all my coding and text editing in [Vim][]; if you're curious, you can find my configurations in [https://github.com/diracdeltas/dotfiles](https://github.com/diracdeltas/dotfiles "Yan's dotfiles on GitHub."). As someone who writes a lot of [JavaScript][], I find [JSHint][] invaluable. I like looking at colors, and the [Solarized][] theme for urxvt and vim has some nice ones.
 
