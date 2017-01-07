@@ -33,7 +33,7 @@ For any graphics-related work I use Adobe [Photoshop][] (CS5) and [Illustrator][
 
 For coding, I'm actually in the process of finding a new text editor so I'm currently rotating between [BBEdit][], [Coda][] & [Textmate][] while I figure out which I like best. For iOS development I use [Xcode][], for FTP I use [Transmit][] and oddly I find that the Calculator is almost always open on my Mac.
 
-General note-taking and head-clearing takes place in [Simplenote][simplenote-ios] on iOS and [Notational Velocity][notational-velocity] on the Mac (which syncs to Simplenote). Occasionly I'll write to-do lists in there but mostly I use a combination of scribbled lists in notebooks and [teuxdeux][]. If I'm collaborating with others and need a bit more structure, I'll use [Basecamp][] to organize everything.
+General note-taking and head-clearing takes place in [Simplenote][simplenote-ios] on iOS and [Notational Velocity][notational-velocity] on the Mac (which syncs to Simplenote). Occasionally I'll write to-do lists in there but mostly I use a combination of scribbled lists in notebooks and [teuxdeux][]. If I'm collaborating with others and need a bit more structure, I'll use [Basecamp][] to organize everything.
 
 Because I often work remotely, [Skype][], [iChat][], and [FaceTime][] are great help for staying in touch with people.
 
