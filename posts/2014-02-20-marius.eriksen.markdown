@@ -49,7 +49,7 @@ The [Duo Security][duo] app helps me access both [monkey.org](http://monkey.org/
 
 #### What would be your dream setup?
 
-Instead of answering your question directly, let me instead wax philosphical.
+Instead of answering your question directly, let me instead wax philosophical.
 
 I'd like my tools -- hardware and software both -- to be more like [Leica][m6] film cameras: Using a Leica really requires you to pay attention to your environment. (Where is the light coming from? Where are the shadows? How contrastful is your environment? How far away is my subject? Watch [James Nachtwey](http://www.jamesnachtwey.com/ "James' website.") in "[War Photographer](http://www.war-photographer.com/en/ "The site for 'War Photographer.'")": here is someone completely immersed in his environment. Attuned, aware, attentive.) This is something I try to bring to my work: choose simple, barren tools, eschew sophisticated ones that blind you to your environment. Work with what you've got. Be resourceful. Pay attention.
 
