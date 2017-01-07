@@ -41,7 +41,7 @@ Almost all of my time is spent either in a browser, [Google Chrome][chrome], a t
 
 Chrome has a nice extension system so I use and write many extensions for it, the most notable being [Google Voice][google-voice.2] for phone stuff, Tab Menu for help finding tabs after long web binges, [AdBlock][] for its obvious purpose, and [VisivoTab][] for replacing my otherwise useless "new tab" page with a beautiful photograph.
 
-In vim, besides using a reasonbly modified vimrc, I also make heavy use of [NERD_comments plugin][nerdcommenter] and a slightly modified version of the tabComplete plugin.
+In vim, besides using a reasonably modified vimrc, I also make heavy use of [NERD_comments plugin][nerdcommenter] and a slightly modified version of the tabComplete plugin.
 
 Around development I use [git][] pretty much constantly, I even use it to manage projects that use bzr by using [git-bzr-ng][], so I also use a lot of [github][]. Lately I've also been using [Vagrant][] and [Chef][] quite often as they are really useful for setting up new virtual machines in which to test my software. I also spend a lot of time in IRC so I use [irssi][] in [screen][] on a remote server for that.
 

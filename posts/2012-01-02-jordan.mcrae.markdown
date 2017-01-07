@@ -33,4 +33,4 @@ Finding ways to make co-innovation and collaboration more efficient is one of my
 
 I'm fairly content with what I have now, so I haven't put much thought into this. I'd like to build up my own performance desktop machine with a 30" monitor. I'd also like to make my backup and storage system completely wireless with a 2TB networked attached storage (NAS).
 
-In terms of travel gear, I'm looking forward to picking up Seeed Studio's [DSO Quad][dso-quad] handheld Oscilliscope. Also, after a recent near death experience while diving in Mozambique with a bad rental regulator, buying my own Aqua Lung [Mikron travel regulator][mikron] is high on my list!
+In terms of travel gear, I'm looking forward to picking up Seeed Studio's [DSO Quad][dso-quad] handheld Oscilloscope. Also, after a recent near death experience while diving in Mozambique with a bad rental regulator, buying my own Aqua Lung [Mikron travel regulator][mikron] is high on my list!
