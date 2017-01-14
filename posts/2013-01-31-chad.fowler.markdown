@@ -15,7 +15,7 @@ categories:
  
 #### What hardware do you use?
 
-I have a [Macbook Air][macbook-air] 11", Macbook Air 13", [Macbook Pro][macbook-pro] 15", [Mac Pro][mac-pro], [Chromebook][], [iPad Mini][ipad-mini], 24" [iMac][], hideous HP laptop running [Ubuntu][], [iPhone 4s][iphone-4s], [Nexus 7][nexus-7], and a [Windows Surface][surface-rt] with the terrible non-clicky keyboard cover. I actually use all of these. I'm not sure why. I use most of them as cheap web terminals. I'm probably not a power user of any of them. I like diversity in a technology environment even though it means I never deeply learn an environment and I'm always a little frustrated.
+I have a [MacBook Air][macbook-air] 11", MacBook Air 13", [Macbook Pro][macbook-pro] 15", [Mac Pro][mac-pro], [Chromebook][], [iPad Mini][ipad-mini], 24" [iMac][], hideous HP laptop running [Ubuntu][], [iPhone 4s][iphone-4s], [Nexus 7][nexus-7], and a [Windows Surface][surface-rt] with the terrible non-clicky keyboard cover. I actually use all of these. I'm not sure why. I use most of them as cheap web terminals. I'm probably not a power user of any of them. I like diversity in a technology environment even though it means I never deeply learn an environment and I'm always a little frustrated.
 
 When I travel (which I do a lot), I always carry with me some form or two of connectivity so I can plug my computer into the television. Lately, my wife and I have started carrying an [Apple TV][apple-tv] for long trips as well. We have two in the house. We love these little devices. Perfect for watching TV and movies while tired and bored in a hotel room.
 
@@ -53,7 +53,7 @@ The setup of my dreams doesn't exist, but it would probably be a cloud-based OS 
 
 I guess the [Chrome OS][chrome-os] is kind of headed in the direction I'm looking for, but it's very obviously not yet for power users. 
 
-I would like to have the power of a huge Mac Pro at home and the convenience of the 11" Macbook Air on the road but have them essentially be the same exact thing with all of the same data already on each. I don't want to think about synchronization or what applications I have installed. 
+I would like to have the power of a huge Mac Pro at home and the convenience of the 11" MacBook Air on the road but have them essentially be the same exact thing with all of the same data already on each. I don't want to think about synchronization or what applications I have installed. 
 
 I want to be able to do the equivalent of AirPlay from any computing device to any display device I have. I'd like to (until it's available already) have a USB-stick-sized AirPlay-like connector that works for every television that I can leave in my bag or coat pocket and use when I visit my relatives.
 

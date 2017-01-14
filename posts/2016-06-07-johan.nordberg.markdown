@@ -16,7 +16,7 @@ When not working for a client, I like to experiment with new technologies and ma
 
 #### What hardware do you use?
 
-My main computer is a [13" Macbook Air][macbook-air] and I have a [15" MacBook Pro][macbook-pro] that I use for graphics work. And I'm not sure if this counts as hardware, but I use [Amazon EC2][ec2] to offload my laptop for heavy workloads like 3D rendering and data processing.
+My main computer is a [13" MacBook Air][macbook-air] and I have a [15" MacBook Pro][macbook-pro] that I use for graphics work. And I'm not sure if this counts as hardware, but I use [Amazon EC2][ec2] to offload my laptop for heavy workloads like 3D rendering and data processing.
 
 Besides that, there isn't much else needed for my work. I have pile of iPhones and iPads for application testing, or that's what I tell myself when I want to get the latest model anyways :D
 

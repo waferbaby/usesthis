@@ -20,7 +20,7 @@ I'm part of [Analog](http://analog.coop/ "The Analog web co-op.") - a co-operati
 
 I try and keep things as simple and portable as I can.
 
-My work machine is a [15" Macbook Pro][macbook-pro] ramped up as far as the options allow and backed up to a [Time Capsule][time-capsule]. It's just about portable, but I feel it at the end of the long day hauling with a myriad of other gear in a backpack. It's also powerful enough to handle the worst kinds of abuse Adobe can throw at it. Adobe is the only reason I use this rather than a [Macbook Air][macbook-air].
+My work machine is a [15" Macbook Pro][macbook-pro] ramped up as far as the options allow and backed up to a [Time Capsule][time-capsule]. It's just about portable, but I feel it at the end of the long day hauling with a myriad of other gear in a backpack. It's also powerful enough to handle the worst kinds of abuse Adobe can throw at it. Adobe is the only reason I use this rather than a [MacBook Air][macbook-air].
 
 I have an [iPhone 4][iphone-4]. It's a reality augmenter. I curse myself sometimes for being welded to it. Once upon a time before the iPhone I yearned for just a plain old simple mobile phone. I was about to ditch high-end phones completely for a phone that was just for voice and SMS. Then the iPhone arrived, and the crafty crew at Apple pulled me back into the smart phone fold. Mostly, I'm realising, with rare exceptions, it's an in-between device. In-between doing something, it gives me something to do. Useful? Sometimes. Distracting? Mostly. A boredom crutch while waiting? Often. I often think it uses me rather than me using it.
 
@@ -56,7 +56,7 @@ I switch around between apps on other devices quite a bit. [Tweetbot][tweetbot-i
 
 ###
 
-My dream setup doesn't exist yet. It would be a hi-resolution (> 300ppi) combined touch screen, keyboard, and pointer interface the weight and size of an 11" Macbook Air, but with a screen that could slide, fold, project or organically grow to be an epic size.
+My dream setup doesn't exist yet. It would be a hi-resolution (> 300ppi) combined touch screen, keyboard, and pointer interface the weight and size of an 11" MacBook Air, but with a screen that could slide, fold, project or organically grow to be an epic size.
 
 I'd love to do all my designing for the Web in the browser. This is something a bunch of people are working towards at the moment. I'd also love to be able to run many multiple operating systems, and individual release versions, efficiently on one device. For pure graphics work, I'd love to have software that didn't crash, auto-saved my work, and didn't require a super-computer to run. For storage, I'd love to be able to displace all of the bulky files like music, video, and photographs somewhere else but with them being accessible by local software, too. Failing that, a huge amount of local storage would do.
 

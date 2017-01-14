@@ -23,4 +23,4 @@ I've moved on from [Sublime Text][sublime-text] to [Atom][] because Sublime kept
 
 #### What would be your dream setup?
 
-Since I'm working from home now I'm likely going to swap this Macbook Pro for a desktop option (maybe [that trash can][mac-pro] or the new [iMac][]) and something much more mobile like a [Macbook Air][macbook-air]. That could be nice. However, if I'm left alone and the right ideas come along, I'm quite happy with my setup at the moment. It works and I can't complain too much. Maybe Apple understands they're just not good at wires and that's why they keep removing ports? Touché.
+Since I'm working from home now I'm likely going to swap this Macbook Pro for a desktop option (maybe [that trash can][mac-pro] or the new [iMac][]) and something much more mobile like a [MacBook Air][macbook-air]. That could be nice. However, if I'm left alone and the right ideas come along, I'm quite happy with my setup at the moment. It works and I can't complain too much. Maybe Apple understands they're just not good at wires and that's why they keep removing ports? Touché.

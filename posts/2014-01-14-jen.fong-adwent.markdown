@@ -19,7 +19,7 @@ Most of my spare time is spent on hacking on [personal code projects and librari
 
 #### What hardware do you use?
 
-For work and personal computer usage, I have two [13" Macbook Airs][macbook-air] that I do everything on. For a while I was using a [Wacom Intuos tablet][intuos] but I've lost the pen so I'll have to get a replacement soon.
+For work and personal computer usage, I have two [13" MacBook Airs][macbook-air] that I do everything on. For a while I was using a [Wacom Intuos tablet][intuos] but I've lost the pen so I'll have to get a replacement soon.
 
 For mobile devices, I have an [iPhone 5s][iphone-5s] that I use everyday as my default "everything" phone, but I also have the following:
 

@@ -23,7 +23,7 @@ I usually work from home in Melbourne; most of my time is spent e-mailing, proto
 
 When sitting at my desk, I use a [Mac Mini][mac-mini] with 8G of RAM and a [Crucial SSD][m4] added to the stock hard disk. No microphone, no camera, but I do have a pair of [Logitech V20 speakers][v20]. I use an [Apple Wired Compact Keyboard][keyboard] so that I don't have to reach too far to the right to use the mouse, an [Apple Magic Mouse][magic-mouse]. My monitor is a [24" Dell][u2412m].
 
-For anywhere else, I have an [11" Macbook Air][macbook-air] (I like to travel light).
+For anywhere else, I have an [11" MacBook Air][macbook-air] (I like to travel light).
  
 The home server is a [HP Microserver][proliant-microserver] with 8G of RAM, another Crucial SSD for boot and three [Western Digital Red][wd-red] 1T disks. I have a couple of cobbled-together boxes for testing too (although one has been appropriated by my sons for playing WWII submarine simulation games and [Minecraft][]). In "the cloud", I have a [Rackspace][] VM for my Web site and a few other services like [REDbot][], and also spin up instances there when I need to do testing or research.
 

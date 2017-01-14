@@ -16,7 +16,7 @@ I'm [Tamas Kemenczy](http://singlemaltmana.net/ "Tamas' website."), an artist, i
 
 #### What hardware do you use?
 
-For my workhorse game dev setup, I sit on an old creaky farm chair in front of an Apple 27" [Cinema Display][cinema-display], driven by a 2010 11" [Macbook Air][macbook-air] with 2GB of RAM and a Nvidia Geforce 320M graphics card. I'm not in any rush to upgrade for the moment, and I don't mind the lower ceiling - I like to know that what I'm working on runs on somewhat more modest hardware. My tattered pair of [Sony MDR-7506][mdr-7506] headphones are a classic and they have good audio response.
+For my workhorse game dev setup, I sit on an old creaky farm chair in front of an Apple 27" [Cinema Display][cinema-display], driven by a 2010 11" [MacBook Air][macbook-air] with 2GB of RAM and a Nvidia Geforce 320M graphics card. I'm not in any rush to upgrade for the moment, and I don't mind the lower ceiling - I like to know that what I'm working on runs on somewhat more modest hardware. My tattered pair of [Sony MDR-7506][mdr-7506] headphones are a classic and they have good audio response.
 
 I do testing on a few other laptops sitting around: A 2011 13" [MacBook Pro][macbook-pro], an older 2009 MacBook Pro, a [Lenovo Thinkpad T60p][thinkpad-t60p], Lenovo 13" Thinkpad Edge, and a [Lenovo IdeaPad V570][ideapad-v570].
 

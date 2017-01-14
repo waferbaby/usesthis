@@ -30,6 +30,6 @@ As for apps, I love the integration of [Google Voice][google-voice], Docs, Gmail
 
 #### What would be your dream setup?
 
-I'm sure my dream setup already exists. I would probably be the happiest person on the planet if I went out and bought a [Macbook Air][macbook-air]. But what I really want is a computer with everything stored and accessible via the cloud, absolutely nothing (aside from the obvious necessities) local, with a worldwide wireless connection. I hate saving things, and I tend to lose things, so, hardware replaceable is seriously important. No, I don't want a [Chromebook][], but close.
+I'm sure my dream setup already exists. I would probably be the happiest person on the planet if I went out and bought a [MacBook Air][macbook-air]. But what I really want is a computer with everything stored and accessible via the cloud, absolutely nothing (aside from the obvious necessities) local, with a worldwide wireless connection. I hate saving things, and I tend to lose things, so, hardware replaceable is seriously important. No, I don't want a [Chromebook][], but close.
 
 Oh and a miniature film processing machine.

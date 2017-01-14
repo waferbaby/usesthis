@@ -18,7 +18,7 @@ You can find more about me [@auremoser](https://twitter.com/auremoser "Aurelia's
 
 #### What hardware do you use?
 
-That depends on the project, really. I have a [Macbook Air][macbook-air] for work/projects/travel, which I like because it's lightweight and pretty o.k. as long as I swap files before my startup disk O.D.s. I have two burner machines that I use for art show installs and public projects where a computer needs to run continuously or I need to crush my CPU for something (another, older, [MacBook Pro][macbook-pro] and a [Chromebook Pixel][chromebook-pixel] which I won at a conference a few years ago). 
+That depends on the project, really. I have a [MacBook Air][macbook-air] for work/projects/travel, which I like because it's lightweight and pretty o.k. as long as I swap files before my startup disk O.D.s. I have two burner machines that I use for art show installs and public projects where a computer needs to run continuously or I need to crush my CPU for something (another, older, [MacBook Pro][macbook-pro] and a [Chromebook Pixel][chromebook-pixel] which I won at a conference a few years ago). 
 
 Sometimes, I work with lightweight hardware for little projects; a few friends and I put together a little meetup called Nodebots-NYC that hosts workshops and meetups for people who want to build robots with cheap, open hardware and [Node.js][]. For that, I source various components from Adafruit or SparkFun, or Tindie, and usually in the genre of boards, [Arduinos][arduino], [Teensies][teensy], various sensors, LEDs etc, for small experiments like a bee-hive monitoring kit that I've been working to deploy at nearby hives. Most of this work is just environmental monitoring with simple sensors, and sometimes test experiments like blinking lights.
 
@@ -38,4 +38,4 @@ For privacy, I sometimes opt for more secure tool usage, so I have a PGP setup a
 
 #### What would be your dream setup?
 
-Oh man, probably an 11-inch weightless Macbook Air with all the power of a Pro and a Retina display; I'd love something that would fit in my purse, because I feel like I've been a backpack girl for ages and I'd love to graduate high school with an adult bag. JK. My dreams are crazy, and the technology available next year will probably be crazier. Who knows what I'll want to upgrade to? Probably tech that imitates (my) life: fast, light, mobile, and magical.
+Oh man, probably an 11-inch weightless MacBook Air with all the power of a Pro and a Retina display; I'd love something that would fit in my purse, because I feel like I've been a backpack girl for ages and I'd love to graduate high school with an adult bag. JK. My dreams are crazy, and the technology available next year will probably be crazier. Who knows what I'll want to upgrade to? Probably tech that imitates (my) life: fast, light, mobile, and magical.

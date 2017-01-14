@@ -26,6 +26,6 @@ Despite working for a dozen years as web developer I've developed an allergy to 
 
 #### What would be your dream setup?
 
-My ideal work hardware is a swiss-army computer-tablet-tv-phone. It would look like an 11" [Macbook Air][macbook-air] that ran OS X Lion, can be shut and used as a tablet running [Android][] 4, but could also somehow unfold into a 37" OLED that I could roll-up (or use an internal projector of some kind) and bootcamp into [Windows 7][windows-7] or an external device via HDMI. It would have built-in 4GLTE or better connectivity and its LED touchpad would be removable so I could also use it as a phone.
+My ideal work hardware is a swiss-army computer-tablet-tv-phone. It would look like an 11" [MacBook Air][macbook-air] that ran OS X Lion, can be shut and used as a tablet running [Android][] 4, but could also somehow unfold into a 37" OLED that I could roll-up (or use an internal projector of some kind) and bootcamp into [Windows 7][windows-7] or an external device via HDMI. It would have built-in 4GLTE or better connectivity and its LED touchpad would be removable so I could also use it as a phone.
 
 My ideal game console is limitless in power and invisible in my home: a cloud farm where I login and upload my money away.

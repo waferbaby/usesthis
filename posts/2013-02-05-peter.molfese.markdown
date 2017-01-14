@@ -16,7 +16,7 @@ My name is Peter Molfese; I work as a Research Scientist at [Haskins Laboratorie
 
 At work I have an Apple [Mac Pro][mac-pro] with 12 "Westmere" cores, 40GB of RAM and a [27" Apple Thunderbolt Display][thunderbolt-display]. This manages to do some fraction of my work; I also farm some of the processing to four other Mac Pros with the similar specs, controlled by the now discontinued [Xgrid][]. I utilize an [Apple Keyboard][keyboard] with keypad and [Magic Mouse][magic-mouse], with a second-generation [Drobo][] for storing data; at most times I have an [Astro A40 headset][a40] for keeping out distracting noises. My chair is a [Herman Miller Aeron Chair][aeron], which solved most of my back problems that developed before I learned how important a good chair is. 
 
-My personal computer is a mid-2011 1.8Ghz Core i7 "Sandy Bridge" [Macbook Air][macbook-air] with 4GB of RAM and 256GB flash storage. I read books and browse the interwebs on the couch using my [iPad 2][ipad-2] Wifi with 32GB of storage. I'm rarely without my black [iPhone 5][iphone-5] on Verizon.
+My personal computer is a mid-2011 1.8Ghz Core i7 "Sandy Bridge" [MacBook Air][macbook-air] with 4GB of RAM and 256GB flash storage. I read books and browse the interwebs on the couch using my [iPad 2][ipad-2] Wifi with 32GB of storage. I'm rarely without my black [iPhone 5][iphone-5] on Verizon.
 
 #### And what software?
 

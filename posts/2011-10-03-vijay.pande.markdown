@@ -34,4 +34,4 @@ Finally, I use the standard Mac tools for the rest, including its [address book]
 
 #### What would be your dream setup?
 
-I'm waiting and dreaming of a 15" Macbook Air/Pro, i.e. a 15" Macbook Air style machine, but lots of RAM (at least 8GB) and a big drive (at least 512GB), connected to two 27" screens and a very fast RAID via Thunderbolt. That would allow me to have an amazing powerful machine that doesn't give me shoulder pain on the way back and forth from home to work.
+I'm waiting and dreaming of a 15" MacBook Air/Pro, i.e. a 15" MacBook Air style machine, but lots of RAM (at least 8GB) and a big drive (at least 512GB), connected to two 27" screens and a very fast RAID via Thunderbolt. That would allow me to have an amazing powerful machine that doesn't give me shoulder pain on the way back and forth from home to work.

@@ -62,7 +62,7 @@ Well, for Winterfair this year I'm replacing that with a [Mac Mini][mac-mini]. I
 
 That's the extent of my immediate upgrade-lust. Most of my software use doesn't *need* any oomph.
 
-As I said, the iPad (with iSSH) is an adequate way to do remote work. My ideal would be something like a [Macbook Air][macbook-air], but with 3G. That would make a laptop person out of me. Some combination of a 3G hotspot device with an Air might add up to this, but I haven't seen anything that convinces me... yet.
+As I said, the iPad (with iSSH) is an adequate way to do remote work. My ideal would be something like a [MacBook Air][macbook-air], but with 3G. That would make a laptop person out of me. Some combination of a 3G hotspot device with an Air might add up to this, but I haven't seen anything that convinces me... yet.
 
 My dreams involve computerized tools, rather than computers per se. I'd like a laser cutter and some kind of 3D printing setup. I have no *need* for these things, but I'd like to mess with them. I'd like miles of programming color lighting.
 

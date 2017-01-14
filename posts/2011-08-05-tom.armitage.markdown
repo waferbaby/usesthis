@@ -55,7 +55,7 @@ The usual swiss-army knife stuff in the shell, mainly [grep][]/[awk][]/[xargs][]
 
 #### What would be your dream setup?
 
-Not far off this one, really. Perhaps a slightly quicker processor and nicer graphics card. I like the 13" form factor, but am too attached to both ports and optical media to go to a [Macbook Air][macbook-air]. Seriously: I still buy music on CDs. So my main wish would be some way of fitting a small SSD for the OS and Apps _alongside_ a larger drive for storage, on a 13" Macbook Pro. That'd be lovely.
+Not far off this one, really. Perhaps a slightly quicker processor and nicer graphics card. I like the 13" form factor, but am too attached to both ports and optical media to go to a [MacBook Air][macbook-air]. Seriously: I still buy music on CDs. So my main wish would be some way of fitting a small SSD for the OS and Apps _alongside_ a larger drive for storage, on a 13" Macbook Pro. That'd be lovely.
 
 Otherwise: a nice IPS monitor, backup I didn't have to think about, and wireless sync with my phone. And I don't want anything I carry to get _any_ heavier.
 

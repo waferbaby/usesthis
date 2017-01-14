@@ -15,7 +15,7 @@ I care about beautiful code and sustainable businesses. I'm also allergic to "th
 
 #### What hardware do you use?
 
-In Chicago, I use a 24" [cinema display][cinema-display] and a combination of a 17" [Macbook Pro][macbook-pro] w/ SSD and a [Macbook Air][macbook-air].
+In Chicago, I use a 24" [cinema display][cinema-display] and a combination of a 17" [Macbook Pro][macbook-pro] w/ SSD and a [MacBook Air][macbook-air].
 
 In California, I use a 27" [iMac][] i5 (4GB RAM, external FW800 Intel 160GB SSD).
 

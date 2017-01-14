@@ -14,7 +14,7 @@ I'm a blogger at [dashes.com](http://dashes.com/anil/ "Anil's website."), the fo
 
 #### What hardware do you use?
 
-These days I'm mostly on my 11" [Macbook Air][macbook-air]. I'm not a big hardware fetishist, but I have to say it's my favorite laptop I've ever owned, and remarkably fast. At home, I use a [Mac Mini][mac-mini] with a big [Cinema Display][cinema-display] as well. Oddly, just a few years ago I'd never owned an Apple computer, and I still really like Windows, but here I am being the guy syncing an iPhone to a Macbook.
+These days I'm mostly on my 11" [MacBook Air][macbook-air]. I'm not a big hardware fetishist, but I have to say it's my favorite laptop I've ever owned, and remarkably fast. At home, I use a [Mac Mini][mac-mini] with a big [Cinema Display][cinema-display] as well. Oddly, just a few years ago I'd never owned an Apple computer, and I still really like Windows, but here I am being the guy syncing an iPhone to a Macbook.
 
 #### And what software?
 
@@ -36,6 +36,6 @@ And increasingly, across all these platforms and scenarios, I find my work all g
 
 #### What would be your dream setup?
 
-I'm pretty close to it right now. I sort of wish I could wave my Macbook Air at my cinema display at home and just have it magically be faster and connected to the huge screen there, instead of having a separate desktop machine. DropBox and using Gmail and other cloud apps sort of take a lot of the pain out of that, though.
+I'm pretty close to it right now. I sort of wish I could wave my MacBook Air at my cinema display at home and just have it magically be faster and connected to the huge screen there, instead of having a separate desktop machine. DropBox and using Gmail and other cloud apps sort of take a lot of the pain out of that, though.
 
 I do wish I had easier access to a Windows partition around; I like staying current on Windows 7 and its apps. Same goes with the phone, I wish I could triple-boot Windows Phone 7 and Android on my iPhone hardware, so I could try all the apps out.

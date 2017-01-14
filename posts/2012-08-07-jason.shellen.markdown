@@ -13,7 +13,7 @@ I'm Jason Shellen and I'm a product guy. I'm an artist & designer by training, b
 
 #### What hardware do you use?
 
-After years of carrying 15" [Macbook Pros][macbook-pro] I'm finally down to just a 13" [Macbook Air][macbook-air], hooked to an [Apple Thunderbolt Display][thunderbolt-display]. My chiropractor couldn't be more pleased. However, those new Retina displays do look nice.
+After years of carrying 15" [Macbook Pros][macbook-pro] I'm finally down to just a 13" [MacBook Air][macbook-air], hooked to an [Apple Thunderbolt Display][thunderbolt-display]. My chiropractor couldn't be more pleased. However, those new Retina displays do look nice.
 
 I have used Wacom tablets for years, and the latest is the [Wacom Bamboo Pen & Touch Tablet][bamboo] alongside a full-sized [Apple Keyboard][keyboard] (I got tired of batteries dying in the Apple Wireless Keyboards every few weeks). The Wacom has the nice side-effect of acting as hardware security, since everyone is confused about how the pen on the tablet replaces a mouse.
 
@@ -27,11 +27,11 @@ In February I was invited to the product unveiling of the [Nike+ Fuelband][fuelb
 
 While we're on amazing hardware, I have two [Nests][nest] at home and one at work. I love it and highly recommend it. I'm glad it's ultimately going to save energy but I'm happier to have a clear interface for a previously opaque device that my family and I wrestled with on a daily basis.
 
-I'm trying to carry less and less, so I'm carrying that around in [a small Crumpler Skivvy][skivvy-s]. It's just enough room for the 13" Macbook Air, a notepad, a tablet/iPad and a handful of adapters.
+I'm trying to carry less and less, so I'm carrying that around in [a small Crumpler Skivvy][skivvy-s]. It's just enough room for the 13" MacBook Air, a notepad, a tablet/iPad and a handful of adapters.
 
 #### And what software?
 
-On my Macbook Air:
+On my MacBook Air:
 
 I love the new [Adobe Creative Suite][creative-suite]. I'll never be a version late on Photoshop & Illustrator again. I'm using [Coda][] from Panic. I browse in [Chrome][] and test in [Safari][], but this might be the first machine I don't have [Firefox][] on. I use [Apple Keynote][keynote] for presentations and [Google Apps][google-apps]/[Drive][google-drive] for docs, spreadsheets and anything else.
 

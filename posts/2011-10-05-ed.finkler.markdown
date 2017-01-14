@@ -17,7 +17,7 @@ I'm Ed Finkler, but you may also know me as [funkatron](http://funkatron.com/ "E
 
 #### What hardware do you use?
 
-I actually just bought a new 13-inch, Mid 2011 [Macbook Air][macbook-air]. It's probably the best laptop I've ever used: extremely light and quite fast (it has the 1.8Ghz i7 CPU). The problem is OS X 10.7: I don't think it's quite fully baked at this point, so I haven't transitioned it to being my main work machine (one of our team members had to downgrade back to OS X 10.6 because of this). A few minutes ago I kernel-panicked the machine by switching spaces. That, and the RAM is limited to 4GB, which does make a diff when you use virtual machines a lot.
+I actually just bought a new 13-inch, Mid 2011 [MacBook Air][macbook-air]. It's probably the best laptop I've ever used: extremely light and quite fast (it has the 1.8Ghz i7 CPU). The problem is OS X 10.7: I don't think it's quite fully baked at this point, so I haven't transitioned it to being my main work machine (one of our team members had to downgrade back to OS X 10.6 because of this). A few minutes ago I kernel-panicked the machine by switching spaces. That, and the RAM is limited to 4GB, which does make a diff when you use virtual machines a lot.
 
 My workhorse is a Mid 2010 15" [Macbook Pro][macbook-pro]:
 
@@ -76,9 +76,9 @@ For backups, I use [CrashPlan][], both for local LAN backups and online backups.
 
 #### What would be your dream setup?
 
-I'm not sure that exists right now. The Macbook Air would be pretty unbeatable if it could take 8GB of RAM and had a larger HD – I find 256GB *just* a little too small to carry everything I want with me. As it is, it's still the best laptop I've ever used – probably the best computer I've ever used period. Stupid Apple.
+I'm not sure that exists right now. The MacBook Air would be pretty unbeatable if it could take 8GB of RAM and had a larger HD – I find 256GB *just* a little too small to carry everything I want with me. As it is, it's still the best laptop I've ever used – probably the best computer I've ever used period. Stupid Apple.
 
-If the Macbook Air could somehow also run Windows and play games really well, that would be pretty killer, because I like to game some and it doesn't really cut it for the stuff I'd like to play (mostly the Bioware RPGs and modern Fallout games). A nice dock-like thing with a big pretty screen and a keyboard/mouse would work well when I want to sit down and play on a bigger screen, but mostly I prefer to be on the couch or recliner when I am doing computer stuff. I've thought about buying a dedicated Windows box just for gaming, but that seems like a lot to spend on something I might not use very much.
+If the MacBook Air could somehow also run Windows and play games really well, that would be pretty killer, because I like to game some and it doesn't really cut it for the stuff I'd like to play (mostly the Bioware RPGs and modern Fallout games). A nice dock-like thing with a big pretty screen and a keyboard/mouse would work well when I want to sit down and play on a bigger screen, but mostly I prefer to be on the couch or recliner when I am doing computer stuff. I've thought about buying a dedicated Windows box just for gaming, but that seems like a lot to spend on something I might not use very much.
 
 In the end, it's really the dream of having one machine to rule them all, isn't it? And that just doesn't exist. Alas.
 

@@ -17,7 +17,7 @@ categories:
 
 My mobile office lets me work from the road at the lowest possible weight, because, y'know, hills.
 
-My laptop is a refurbished 13" [MacBook Air][macbook-air] with a 2.13 GHz Intel Core 2 Duo, 4GB RAM, and a 256GB SSD. I carry it in the best laptop case ever made: the [SFBags Macbook Air Wallet][macbook-air-wallet].
+My laptop is a refurbished 13" [MacBook Air][macbook-air] with a 2.13 GHz Intel Core 2 Duo, 4GB RAM, and a 256GB SSD. I carry it in the best laptop case ever made: the [SFBags MacBook Air Wallet][macbook-air-wallet].
 
 A [Sierra Wireless 598U USB Modem][aircard-598] gives me broadband-ish access anywhere Sprint has coverage in the United States. [Unlimited bandwidth, too](http://www.millenicom.com/ "Millenicom offers mobile broadband.").
 

@@ -13,7 +13,7 @@ categories:
 
 #### What hardware do you use?
 
-I spend most of my days looking at a [2013 Macbook Air][macbook-air] and an [iPhone 5S][iphone-5s]. For jotting down quick ideas and notes, I use a small Muji A6 notebook and a [Pilot G2 .07mm pen][g2.2]. I've been using the same pen for ~6 years, replacing the ink cartridge whenever it runs out. I don't know how I haven't lost or broken it after all this time. It's not special or anything. But I'm cursed to carry this pen with me to my grave.
+I spend most of my days looking at a [2013 MacBook Air][macbook-air] and an [iPhone 5S][iphone-5s]. For jotting down quick ideas and notes, I use a small Muji A6 notebook and a [Pilot G2 .07mm pen][g2.2]. I've been using the same pen for ~6 years, replacing the ink cartridge whenever it runs out. I don't know how I haven't lost or broken it after all this time. It's not special or anything. But I'm cursed to carry this pen with me to my grave.
 
 #### And what software?
 

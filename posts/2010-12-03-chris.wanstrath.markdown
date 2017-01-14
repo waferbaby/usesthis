@@ -16,7 +16,7 @@ I write code, answer email, listen to metal, and help make GitHub more awesome. 
 
 #### What hardware do you use?
 
-Boring Apple stuff, mostly: [Macbook Air][macbook-air], [iPad][], [iPhone 4][iphone-4]. The Air is great because I lug it everywhere and hardly notice it.
+Boring Apple stuff, mostly: [MacBook Air][macbook-air], [iPad][], [iPhone 4][iphone-4]. The Air is great because I lug it everywhere and hardly notice it.
 
 I also have a [Logitech MX518 mouse][mx-518] and it's amazing. I've used the same one for five years and it still feels futuristic. It fits my hand perfectly, has buttons exactly where I want them (mapped to whatever I want with [USB Overdrive][usb-overdrive]), and the precision is outrageous. Every other mouse feels like I'm trying to pull the OS's cursor dingus through a pool of mud.
 

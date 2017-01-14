@@ -15,7 +15,7 @@ I'm [fritzvd](http://fritzvd.com/ "Fritz's website"), I make [music](http://chee
 
 I used to use my [2010 Mac Mini][mac-mini] for most things, games, making music and editing videos. Even writing the ocassional line of [Obj-C][objective-c] or some [Android][] stuff. But it's become quite old and slow. I stuck an SSD in it, and it ran way smoother. I gave it to my mom, though. At the moment I use a run-of-the-mill [Lenovo L430][thinkpad-l430] (Core i5, 2013 model) that belongs to my employer. With some extra RAM (16GB) for the flood modeling and an SSD, because it just makes sense.
 
-For making music I have a [USB recording interface][ua-25] to which I hook up a classic: the [Shure SM58][sm58]. It's indestructable and sounds a lot better than its similarly priced counterparts. Often I steal my wife's [Macbook Air][macbook-air] to run [GarageBand][] or play with [GarageBand on my iPad][garageband-ios].
+For making music I have a [USB recording interface][ua-25] to which I hook up a classic: the [Shure SM58][sm58]. It's indestructable and sounds a lot better than its similarly priced counterparts. Often I steal my wife's [MacBook Air][macbook-air] to run [GarageBand][] or play with [GarageBand on my iPad][garageband-ios].
 
 For developing on the NES I bought a [Kazzo][] and an empty NROM cartridge and a plastic case. But in hindsight I might have been better off with an [EverDrive][everdrive-n8]. The Kazzo only runs on Windows (at least I'm not feeling the vibe to recreate a libusb to support it on Linux).
 
@@ -39,7 +39,7 @@ I use [JavaScript][], [node.js][], [Python][] and [Haxe][] and sometimes do a li
 
 [Spotify][] is always running. And I'm always looking for sourdough recipes on websites like [The Perfect Loaf](http://theperfectloaf.com/ "A bread website.") or [Breadtopia](http://breadtopia.com/ "A bread website.")
 
-When I make music I just use my guitar and a pen and paper. Or as mentioned I fiddle with GarageBand on my iPad or on my wife's Macbook Air.
+When I make music I just use my guitar and a pen and paper. Or as mentioned I fiddle with GarageBand on my iPad or on my wife's MacBook Air.
 
 When I cycle I sometimes use [Strava][] to log my speed and distance.
 

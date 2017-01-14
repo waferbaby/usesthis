@@ -18,7 +18,7 @@ I also organize the [Science Ambassador Scholarship](http://www.scienceambassado
 
 #### What hardware do you use?
 
-I love my 13" [Macbook Air][macbook-air]. She has never let me down even though I've dropped her a dozen times.  I also use an [Apple Thunderbolt Display monitor][thunderbolt-display].
+I love my 13" [MacBook Air][macbook-air]. She has never let me down even though I've dropped her a dozen times.  I also use an [Apple Thunderbolt Display monitor][thunderbolt-display].
 
 To record Friendshipping, we use the studio recording spaces in our office. It houses six [Shure SM7B microphones][sm7b] with [Cloudlifter CL-1 preamps][cloudlifter-cl-1], and an [Allen & Heath 16:2 Mixwizard mixing board][mixwizard-wz4-16-2] connected to an [iMac][]. We use a [Focusrite Scarlett 2i2][scarlett-2i2] to bring in [Skype][] calls. In our smaller studio, we have four [Shure Beta 87A microphones][beta-87a] with a [Tascam US-2x2][us-2x2] that works with any Apple Computer.
 

@@ -17,9 +17,9 @@ I have been working at [Square][] for the last 3 years, as a front-end engineer,
 
 #### What hardware do you use?
 
-I love my [11" Macbook Air][macbook-air] - though it's not super great for running a lot of services and applications at work, it's light and doesn't make too many funny noises. When I'm at my desk, I'll typically have it plugged into a [Cinema Display][cinema-display] for the bigger screen. I do a lot of pair programming, so I'm constantly jumping between different people's computers and [iMacs][imac] set up as pairing machines.
+I love my [11" MacBook Air][macbook-air] - though it's not super great for running a lot of services and applications at work, it's light and doesn't make too many funny noises. When I'm at my desk, I'll typically have it plugged into a [Cinema Display][cinema-display] for the bigger screen. I do a lot of pair programming, so I'm constantly jumping between different people's computers and [iMacs][imac] set up as pairing machines.
 
-My home laptop is a 13" Macbook Air, which I use mainly for illustration projects, typically with a Cinema Display as well. When I'm home, I mostly just use my [iPad 2][ipad-2]. It's just the right size for drawing, reading, and air playing my music or movies with my [Apple TV][apple-tv]. I use a [Pencil][] for drawing with [Paper][paper-ios], though all the fancy Bluetooth features don't work with my current iPad version, so we'll have to see about that. :'(
+My home laptop is a 13" MacBook Air, which I use mainly for illustration projects, typically with a Cinema Display as well. When I'm home, I mostly just use my [iPad 2][ipad-2]. It's just the right size for drawing, reading, and air playing my music or movies with my [Apple TV][apple-tv]. I use a [Pencil][] for drawing with [Paper][paper-ios], though all the fancy Bluetooth features don't work with my current iPad version, so we'll have to see about that. :'(
 
 I have a black [iPhone 5][iphone-5]. I use it so much that it dies at least once or twice a day. I should probably do something about that too.
 

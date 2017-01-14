@@ -13,7 +13,7 @@ I'm [Nicole He](http://nicole.pizza/ "Nicole's website."), a programmer and arti
 
 #### What hardware do you use?
 
-I do most things on my [2015 Macbook Air][macbook-air], which is usually covered in food. 
+I do most things on my [2015 MacBook Air][macbook-air], which is usually covered in food. 
 
 Many of my projects are made with microcontrollers. The two that I use the most are [Arduino][], for things that require physical interaction, and [Raspberry Pi][raspberry-pi], for things that require the internet. We have a lot of equipment and tools at school, including a full wood shop. I'm still scared of a lot of the big, loud machines, but I'm slowly learning how to use each terrifying power tools one by one. I do frequently use the laser cutter, occasionally the CNC techno router, and other things like the drill press and band saw.
 

@@ -15,7 +15,7 @@ I'm [Fernando Ramallo](http://www.byfernando.com/ "Fernando's website."). I'm an
 
 #### What hardware do you use?
 
-I work out of a [2014 Macbook Air][macbook-air] with 1 GB of free hard drive space, its network name is a Backstreet Boy and it has GNOG stickers on the back.
+I work out of a [2014 MacBook Air][macbook-air] with 1 GB of free hard drive space, its network name is a Backstreet Boy and it has GNOG stickers on the back.
 
 I use an actual real life notebook to take notes in.
 

@@ -22,7 +22,7 @@ When I'm not in front of a keyboard, I enjoy outdoor pursuits, music, and a few 
 
 Gone are the days when I had 15 desktop computers in my bedroom as build clusters for Arch Linux. Today I'm more of a minimalist, prioritizing mobility over screen size or computing power.
 
-I presently carry a 2012 [Macbook Air][macbook-air] 11" around with me wherever I go. I maxed out the RAM (8GB) and put an SSD in it, and it's just a beautiful little machine. I'm not a big fan of [OS X][mac-os-x] though, so it runs Arch.
+I presently carry a 2012 [MacBook Air][macbook-air] 11" around with me wherever I go. I maxed out the RAM (8GB) and put an SSD in it, and it's just a beautiful little machine. I'm not a big fan of [OS X][mac-os-x] though, so it runs Arch.
 
 I'm almost always listening to music if I'm moving about or working, so I tend to keep some good-quality headphones in my midst. For over-ear style, I use [Sennheiser Momentum cans][momentum], and when I want IEMs, I use a pair of [Etymotic HF5 buds][hf5] with a [Fiio E11][e11] portable headphone amplifier.
 
@@ -58,7 +58,7 @@ In addition to these major parts of my working environment, I lean on a number o
 
 To be honest, I'm already pretty close to it. I've spent a lot of hours refining my workflow, and I'm fairly happy with things on the software side.
 
-As for hardware, I love the form factor of the 11" Macbook Air, and I will probably buy a new one this year, when they refresh the lineup. It could stand to get an upgrade to a higher-resolution screen. As well, Apple left quite a big bezel around the screen. If they minimized the bezel, I think they could fit a 12" screen in the same form factor.
+As for hardware, I love the form factor of the 11" MacBook Air, and I will probably buy a new one this year, when they refresh the lineup. It could stand to get an upgrade to a higher-resolution screen. As well, Apple left quite a big bezel around the screen. If they minimized the bezel, I think they could fit a 12" screen in the same form factor.
 
 I hope wireless charging advances to ubiquity in the next few years. Cords suck.
 

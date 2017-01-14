@@ -17,7 +17,7 @@ By trade I'm a software engineer. Since 2005 or so, anyway. In that time I've be
 
 I'm typing this on a 13" Retina [Macbook Pro][macbook-pro]. I like to keep it pretty basic, as long as I have enough RAM. I hook it up to a 27" [Thunderbolt display][thunderbolt-display] at the office to get code and a browser side by side. Pair this with an Apple extended keyboard and a [Magic Trackpad][magic-trackpad] on the desk and I'm set. If I work from home I just use it on my lap, which works out well because I love the crispness of the Retina display. I'm using this stuff to develop software that should be able to run on anything from your laptop to a huge compute cluster or a public cloud like [EC2][].
 
-My home computer is a 1.5 year-old 13" [Macbook Air][macbook-air], it's where I sync my iPhone and put my photos. Media at home runs on a pretty old [Mac Mini][mac-mini] and a 1080p [Apple TV][apple-tv] going to a 46" Samsung TV. I probably only watch 2-3 hours of programming a week.
+My home computer is a 1.5 year-old 13" [MacBook Air][macbook-air], it's where I sync my iPhone and put my photos. Media at home runs on a pretty old [Mac Mini][mac-mini] and a 1080p [Apple TV][apple-tv] going to a 46" Samsung TV. I probably only watch 2-3 hours of programming a week.
 
 My [iPhone 4S][iphone-4s] is in my pocket so much that my jeans always have a rectangular mark from the corners. I also use an original [iPad][] in the kitchen sometimes for recipes and such.
 

@@ -15,7 +15,7 @@ I also create geometric animations and stills which I post on [Tumblr](http://fl
 
 #### What hardware do you use?
 
-My work computer is a late [2013 Mac Pro][mac-pro] nicknamed "The Beast" by a collaborator. My personal computer is a [2011 Macbook Air][macbook-air], which is probably my favorite-ever computer, but it's definitely seen better days: there's a big dead region in the top right of the screen, one of the arrow keys is falling off, the trackpad goes through phases where it registers almost every touch as a click (which is completely infuriating), and it's got a low-res screen.
+My work computer is a late [2013 Mac Pro][mac-pro] nicknamed "The Beast" by a collaborator. My personal computer is a [2011 MacBook Air][macbook-air], which is probably my favorite-ever computer, but it's definitely seen better days: there's a big dead region in the top right of the screen, one of the arrow keys is falling off, the trackpad goes through phases where it registers almost every touch as a click (which is completely infuriating), and it's got a low-res screen.
 
 I also have an [iPad Air 2][ipad-air-2], which I use for writing lecture notes and reading, and an iPhone 6, which very rarely gets used for work.
 

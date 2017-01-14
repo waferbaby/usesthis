@@ -25,7 +25,7 @@ At home I have a Windows box which I've upgraded ship-of-Theseus style for about
 
 If I could get a decent [bash][]-like shell to run both [git][] and [node][node.js] I'd use the PC more, but recently [msysGit][] was abandoned in favor of [Git for Windows][git-for-windows] which renders fonts funny and doesn't use Control-V for paste, so these days I mostly use the machine to assemble time-lapse videos I take on phones. I like making those because it's very easy to push a button on a phone and leave it somewhere and make something. Plus I find it's easier to do chores if I know I'll be able to watch it in the time-lapse, and that way I remember it going quickly.
 
-I also have a second-gen 11" [Macbook Air][macbook-air] which is starting to lose its mind too – the interface animation gets slower every year, and I've turned it down as far as I can. Lately various internal services keep asking me to type my password over and over, and none of the fixes I've found online work, but I don't dare update the OS. It's still easy to carry and still runs all my demos, so I use it to keep me honest.
+I also have a second-gen 11" [MacBook Air][macbook-air] which is starting to lose its mind too – the interface animation gets slower every year, and I've turned it down as far as I can. Lately various internal services keep asking me to type my password over and over, and none of the fixes I've found online work, but I don't dare update the OS. It's still easy to carry and still runs all my demos, so I use it to keep me honest.
 
 Sometimes I carry it in a bag. I have a lot of canvas book bags and they work well because the laptop isn't very heavy. I also have a [bag][pine.3] made out of recycled bicycle tires.
 
