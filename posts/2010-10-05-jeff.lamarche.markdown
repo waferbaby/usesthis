@@ -16,7 +16,7 @@ My name is Jeff LaMarche and I'm an author, software developer and one of the pr
 
 I use a current generation unibody 17" [MacBook Pro][macbook-pro] as my main machine. It's maxed out on RAM, has the faster processor, and the high resolution matte screen. Prior to the release of the iPhone SDK, I was a software consultant and travelled 48-50 weeks a year and got in the habit of using laptops all the time. I've been toying with the idea of getting a second monitor but I find it comforting to have the exact same setup at home as when I travel.
 
-I also have a couple of [iPhone][] and [iPod touch][ipod-touch] models and an [iPad][], since most of my work is for the iOS, and a [Nexus One][nexus-one] that I've used to experiment with [Android][]. I have 3 terrabytes of external hard drive space that's mostly used as part of my somewhat paranoid redundant backup strategies.
+I also have a couple of [iPhone][] and [iPod touch][ipod-touch] models and an [iPad][], since most of my work is for the iOS, and a [Nexus One][nexus-one] that I've used to experiment with [Android][]. I have 3 terabytes of external hard drive space that's mostly used as part of my somewhat paranoid redundant backup strategies.
 
 I have an [HP 1300][laserjet-1300] printer that's several years old and an [Epson R1900][stylus-photo-r1900] that I use for printing photos, but honestly don't find myself doing much printing at all these days.
 
