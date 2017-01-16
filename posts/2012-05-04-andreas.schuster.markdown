@@ -13,7 +13,7 @@ My name is [Andreas Schuster](http://mrschuster.com/ "Andreas' website."), I'm a
 
 #### What hardware do you use?
 
-My computer base is my [Macbook Pro][macbook-pro], 13 inch, from 2010. I have given it its max of 8 gigs of ram and a 250 gig SSD hard drive. I'm also using a second monitor to be able to paint in a bigger resolution than the actual 13 inch screen.
+My computer base is my [MacBook Pro][macbook-pro], 13 inch, from 2010. I have given it its max of 8 gigs of ram and a 250 gig SSD hard drive. I'm also using a second monitor to be able to paint in a bigger resolution than the actual 13 inch screen.
 
 My main tool for drawing nowadays is the [Wacom Intuos 3][intuos].
 

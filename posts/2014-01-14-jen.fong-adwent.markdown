@@ -43,4 +43,4 @@ For password management, I use [1Password][] to generate passwords for all the r
 
 #### What would be your dream setup?
 
-I would love to have an external monitor like an [Apple Thunderbolt display][thunderbolt-display] at home and a 13" [Macbook Pro][macbook-pro] with Retina display. Actually, having a couple of these simultaneously would be cool.
+I would love to have an external monitor like an [Apple Thunderbolt display][thunderbolt-display] at home and a 13" [MacBook Pro][macbook-pro] with Retina display. Actually, having a couple of these simultaneously would be cool.

@@ -16,7 +16,7 @@ I'm [Andy Bakun](https://twitter.com/thwartedefforts "Andy's Twitter account.") 
 
 #### What hardware do you use?
 
-When I'm sitting a desk, my home setup is a [white box computer](http://en.wikipedia.org/wiki/White_box_(computer_hardware) "The Wikipedia entry for white box computer hardware.") that I periodically piecemeal upgrade. At work I use a [13" Macbook Pro][macbook-pro], which I find more portable than the 15" (which I used to have) for the rare occasion when it does leave the office. My primary display in both places are 30" monitors. At home, it's a [Dell UltraSharp U3011][ultrasharp-u3011], which is a fantastic monitor. I also run a [Dell UltraSharp 2405FPW 24"][u2405fpw] in portrait orientation at home. The dual monitor setup is really nice because I can keep things like chat windows, IRC, email, and documentation up on the secondary while I focus on the primary.
+When I'm sitting a desk, my home setup is a [white box computer](http://en.wikipedia.org/wiki/White_box_(computer_hardware) "The Wikipedia entry for white box computer hardware.") that I periodically piecemeal upgrade. At work I use a [13" MacBook Pro][macbook-pro], which I find more portable than the 15" (which I used to have) for the rare occasion when it does leave the office. My primary display in both places are 30" monitors. At home, it's a [Dell UltraSharp U3011][ultrasharp-u3011], which is a fantastic monitor. I also run a [Dell UltraSharp 2405FPW 24"][u2405fpw] in portrait orientation at home. The dual monitor setup is really nice because I can keep things like chat windows, IRC, email, and documentation up on the secondary while I focus on the primary.
 
 For input, use the [Logitech Performance MX wireless mouse][performance-mouse-mx] and I own three Compaq 104-key keyboards, one each for work and home, and a spare. I love this keyboard. It's kind of old-school, but it's much more durable than a lot of more modern keyboards. It's heavier than a lot of other more modern keyboards so it's difficult to push around and the key action is quick yet solid. And when it needs to be cleaned, it goes through the dishwasher like a champ.
 
@@ -30,7 +30,7 @@ There's also an iPad and a [Kindle Fire][kindle-fire] floating around the house.
 
 #### And what software?
 
-All of my machines run Linux, even my work Macbook Pro. I personally prefer [Redhat][red-hat-enterprise-desktop]/rpm-based distributions for personal stuff. We use a mix of [Ubuntu][] and [CentOS][] on the servers at work.
+All of my machines run Linux, even my work MacBook Pro. I personally prefer [Redhat][red-hat-enterprise-desktop]/rpm-based distributions for personal stuff. We use a mix of [Ubuntu][] and [CentOS][] on the servers at work.
 
 I spend 99% of my time in [xterms][xterm] or the browser, which is [Chrome][] these days. I don't use any fancy terminal emulation software, not even ones that come built into desktop environments, like gnome-terminal. I find xterm to be fast and accurate and it gets the job done. I have a series of panel buttons that invoke shell scripts to open up a bunch of xterms in various layouts depending on how I want to work, which set of machines I'm working on, or if I'm monitoring status logs or debugging. Chances are, you'll see two 156x101 xterms side by side on the 30" monitor, covering most of the screen.
 

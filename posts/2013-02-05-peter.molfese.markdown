@@ -28,6 +28,6 @@ For writing articles/books/etc, I use [Microsoft Word 2011][word] and [Microsoft
 
 #### What would be your dream setup?
 
-I would love to move most of my work to a 15" [Macbook Pro][macbook-pro] with Retina and pair it with dual Thunderbolt displays. For heavy computing, I would opt for five to ten Mac Pros and a job submission setup using either [Condor][htcondor] or [Hadoop][] (possibly both). I would also likely upgrade to a [Drobo 5D][drobo-5d], for the speed and capacity boost. 
+I would love to move most of my work to a 15" [MacBook Pro][macbook-pro] with Retina and pair it with dual Thunderbolt displays. For heavy computing, I would opt for five to ten Mac Pros and a job submission setup using either [Condor][htcondor] or [Hadoop][] (possibly both). I would also likely upgrade to a [Drobo 5D][drobo-5d], for the speed and capacity boost. 
 
 I'm pretty attached to my Aeron chair, but I've read so much about standing desks, that I would love to give it a try.

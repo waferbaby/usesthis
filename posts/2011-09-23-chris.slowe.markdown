@@ -15,7 +15,7 @@ Since it's a small start up, we all wear a lot of hats, but on average I end up 
 
 #### What hardware do you use?
 
-Personally, there's an [iPhone 4][iphone-4] in my pocket, a first gen [iPad][] in my backpack, a [Macbook Pro][macbook-pro] on my desk for work, and a [Mac Mini][mac-mini] hooked up to my TV. It's not that I'm a fan boy so much as I've done my time dealing with Windows and I'm too lazy/busy to deal with Linux. I also find them pretty.
+Personally, there's an [iPhone 4][iphone-4] in my pocket, a first gen [iPad][] in my backpack, a [MacBook Pro][macbook-pro] on my desk for work, and a [Mac Mini][mac-mini] hooked up to my TV. It's not that I'm a fan boy so much as I've done my time dealing with Windows and I'm too lazy/busy to deal with Linux. I also find them pretty.
 
 At Hipmunk, we have about 15 servers somewhere on the west coast on Amazon's [EC2][] running [Ubuntu][].
 

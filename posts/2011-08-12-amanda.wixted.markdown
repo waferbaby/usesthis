@@ -13,7 +13,7 @@ categories:
 
 #### What hardware do you use?
 
-My main computer is a [Macbook Pro][macbook-pro], 8GB ram and an SSD. I have a 27" [Apple Cinema Display][cinema-display], which, now that I have, I can't imagine going without. So much code all on the screen at once!
+My main computer is a [MacBook Pro][macbook-pro], 8GB ram and an SSD. I have a 27" [Apple Cinema Display][cinema-display], which, now that I have, I can't imagine going without. So much code all on the screen at once!
 
 I have a white [iPhone 4][iphone-4], iOS5 beta 1, which is usually the center of my attention - attached via USB to [Xcode][] all day while I develop games for it, or in my hand running the [Kindle app][kindle-ios] while I walk to work, or push-notifying me that it's my turn in my [Words With Friends][words-with-friends-ios] game against my brother. My mouse is a Logitech [MX 518][mx-518] "Gaming Mouse". It's the best mouse there is, even though it doesn't make up for my lack of FPS skills. My [keyboard][] is a short Apple bluetooth without the num pad.
 

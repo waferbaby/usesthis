@@ -13,7 +13,7 @@ I'm Jason Shellen and I'm a product guy. I'm an artist & designer by training, b
 
 #### What hardware do you use?
 
-After years of carrying 15" [Macbook Pros][macbook-pro] I'm finally down to just a 13" [MacBook Air][macbook-air], hooked to an [Apple Thunderbolt Display][thunderbolt-display]. My chiropractor couldn't be more pleased. However, those new Retina displays do look nice.
+After years of carrying 15" [MacBook Pros][macbook-pro] I'm finally down to just a 13" [MacBook Air][macbook-air], hooked to an [Apple Thunderbolt Display][thunderbolt-display]. My chiropractor couldn't be more pleased. However, those new Retina displays do look nice.
 
 I have used Wacom tablets for years, and the latest is the [Wacom Bamboo Pen & Touch Tablet][bamboo] alongside a full-sized [Apple Keyboard][keyboard] (I got tired of batteries dying in the Apple Wireless Keyboards every few weeks). The Wacom has the nice side-effect of acting as hardware security, since everyone is confused about how the pen on the tablet replaces a mouse.
 

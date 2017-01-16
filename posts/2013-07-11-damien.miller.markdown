@@ -25,7 +25,7 @@ Photography is a recent <strike>obsession</strike> hobby; representing a swing b
 
 Both my desktops have [IBM M-series keyboards][model-m] and Logitech mice attached.
 
-**Work laptop**: An aging [Macbook Pro][macbook-pro] (~2008), that I mostly for work while travelling.
+**Work laptop**: An aging [MacBook Pro][macbook-pro] (~2008), that I mostly for work while travelling.
 
 **Personal laptop**: A [Lenovo x61s][thinkpad-x61s] that I had upgraded with a SSD and maxed-out RAM. I <strike>use</strike> used it for open source software development, mostly OpenSSH. Unfortunately, it died just last week and I'm stuck with the dilemma of choosing  a replacement (see below).
 

@@ -19,7 +19,7 @@ I'm Ed Finkler, but you may also know me as [funkatron](http://funkatron.com/ "E
 
 I actually just bought a new 13-inch, Mid 2011 [MacBook Air][macbook-air]. It's probably the best laptop I've ever used: extremely light and quite fast (it has the 1.8Ghz i7 CPU). The problem is OS X 10.7: I don't think it's quite fully baked at this point, so I haven't transitioned it to being my main work machine (one of our team members had to downgrade back to OS X 10.6 because of this). A few minutes ago I kernel-panicked the machine by switching spaces. That, and the RAM is limited to 4GB, which does make a diff when you use virtual machines a lot.
 
-My workhorse is a Mid 2010 15" [Macbook Pro][macbook-pro]:
+My workhorse is a Mid 2010 15" [MacBook Pro][macbook-pro]:
 
 - i7 2.66 Ghz
 - 8GB RAM
@@ -30,7 +30,7 @@ For Gimme Bar we use a VM in [VirtualBox][] to act as our local development serv
 
 The SSD has proven to be a major performance boost for the machine, especially on startup and initial login. I have a 2007 8-core [Mac Pro][mac-pro], and it is *exponentially* slower on startup. That's not just the CPU -- the disks (7200RPM SATA) are just far, far slower. If you can afford an extra $500 on your machine, I highly recommend getting an SDD. It makes things much more pleasant.
 
-As I get old and my eyes start to crap out, I'm sorta less into high-res screens, but getting the higher-resolution screen on the 15" Macbook Pro was a really good idea. Most of my time is spent editing code, and I can reasonably open two windows of code next to each other. At the lower res (1440x900) you can't quite pull that off.
+As I get old and my eyes start to crap out, I'm sorta less into high-res screens, but getting the higher-resolution screen on the 15" MacBook Pro was a really good idea. Most of my time is spent editing code, and I can reasonably open two windows of code next to each other. At the lower res (1440x900) you can't quite pull that off.
 
 At home I have an aforementioned Mac Pro that is primarily involved in serving up video files to the HTPCs in the house, and a [Mac Mini][mac-mini] that acts as a backup server. I have a few large HDs hanging off the Mini to store backups. At some point I'd like to get a good NAS, but I struggle with spending $600+ for a pure backup box. This is probably stupid, I know.
 

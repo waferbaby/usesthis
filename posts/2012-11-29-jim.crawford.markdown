@@ -15,7 +15,7 @@ Hi, I'm [Jim Crawford](http://twinbeardstudios.com/ "Jim's website."). I've been
 
 When my desktop machine conked out for the second time in a month and I got sick of fixing it, I decided it was time to switch to a machine I couldn't fix, so I wouldn't feel obligated to. I shopped around for a sturdily-built PC laptop that also had good 3D acceleration, but those two features seem to be mutually exclusive in the PC space. I ended up going with an ASUS laptop with ... hang on while I go find the order confirmation email ... 1080p, i7-2630QM 2.0GHz, 4GB DDR3, 500GB HDD, Nvidia GT 540M, and of course terrible plastic hinges. The software condition it shipped in was embarrassing: there was so much garbage pre-installed that it would consistently hard-lock within a minute of booting. I ended up wiping the disk and installing [Windows 7][windows-7] fresh, and it's been treating me fine ever since. Except for the hinges coming apart, but that's par for the course.
 
-I've been borrowing a friend's [Macbook Pro][macbook-pro] to do iOS development on. The construction is *really* nice, and while it doesn't make a great Windows machine, and I dislike Apple in general, my next laptop is probably going to be a Macbook.
+I've been borrowing a friend's [MacBook Pro][macbook-pro] to do iOS development on. The construction is *really* nice, and while it doesn't make a great Windows machine, and I dislike Apple in general, my next laptop is probably going to be a Macbook.
 
 It's hard to express to you how convenient it is to be able to just grab your primary machine and go anywhere with it. I've been working out of coffee shops and attending game jams *so* much more frequently than when I was chained to a desktop machine.
 

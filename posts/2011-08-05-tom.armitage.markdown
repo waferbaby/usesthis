@@ -15,7 +15,7 @@ I'm a game designer and technologist at [Hide and Seek](http://www.hideandseek.n
 
 #### What hardware do you use?
 
-2\.4ghz 13" [Macbook Pro][macbook-pro], one of the last Core 2 Duos, 4gb ram, 500gb hard disk. I would have loved an i5, but this suits me just fine - it was more important to get it _when_ I did, rather than spend another six months waiting for a 13" i5.
+2\.4ghz 13" [MacBook Pro][macbook-pro], one of the last Core 2 Duos, 4gb ram, 500gb hard disk. I would have loved an i5, but this suits me just fine - it was more important to get it _when_ I did, rather than spend another six months waiting for a 13" i5.
 
 At work and home I use the same monitor - a [Benq E2220HD][e2220hd]. It's nothing fancy - just a 22", 1080p TN panel - but I like the way its panel looks, and I like that it has two HDMI sockets as well as a USB hub: means I can plug consoles into it at work, and makes for fewer cables when I dock the laptop. I'm very much a one-computer person. I've tried juggling multiple computers before, and it just drove me mad, and still would even with tools like [Dropbox][]. One computer, one inbox, everything's a lot simpler.
 
@@ -55,7 +55,7 @@ The usual swiss-army knife stuff in the shell, mainly [grep][]/[awk][]/[xargs][]
 
 #### What would be your dream setup?
 
-Not far off this one, really. Perhaps a slightly quicker processor and nicer graphics card. I like the 13" form factor, but am too attached to both ports and optical media to go to a [MacBook Air][macbook-air]. Seriously: I still buy music on CDs. So my main wish would be some way of fitting a small SSD for the OS and Apps _alongside_ a larger drive for storage, on a 13" Macbook Pro. That'd be lovely.
+Not far off this one, really. Perhaps a slightly quicker processor and nicer graphics card. I like the 13" form factor, but am too attached to both ports and optical media to go to a [MacBook Air][macbook-air]. Seriously: I still buy music on CDs. So my main wish would be some way of fitting a small SSD for the OS and Apps _alongside_ a larger drive for storage, on a 13" MacBook Pro. That'd be lovely.
 
 Otherwise: a nice IPS monitor, backup I didn't have to think about, and wireless sync with my phone. And I don't want anything I carry to get _any_ heavier.
 

@@ -17,7 +17,7 @@ My name's [Derek Yu](http://www.derekyu.com/ "Derek's website.") and I'm a somet
 
 I'm writing this on Cyberpower's [X58][] system, more or less unchanged from the default configuration. It's got an Intel Core i7-930 CPU, 6GB RAM, and an ATI Radeon HD 5750 video card.
 
-I've also got a 17" [Macbook Pro][macbook-pro], which I've had for a couple of years now. I spent about half a year developing an iPhone game with it, but these days it usually boots up into [Windows XP][windows-xp] (using Boot Camp)! I named her Lucille, because I read somewhere that B.B. King named all of his guitars Lucille, and I thought that was pretty cool.
+I've also got a 17" [MacBook Pro][macbook-pro], which I've had for a couple of years now. I spent about half a year developing an iPhone game with it, but these days it usually boots up into [Windows XP][windows-xp] (using Boot Camp)! I named her Lucille, because I read somewhere that B.B. King named all of his guitars Lucille, and I thought that was pretty cool.
 
 For digital painting and pixel art, I use a [Wacom Intuos3][intuos] 4x6" pen tablet. I prefer the smaller tablets for portability and space reasons. Also, I don't like moving my hand around too much!
 

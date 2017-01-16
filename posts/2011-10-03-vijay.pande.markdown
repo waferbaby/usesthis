@@ -13,11 +13,11 @@ I'm a professor of Chemistry, Structural Biology, and Computer Science at Stanfo
 
 #### What hardware do you use?
 
-Currently it's a late 2009 17" [Macbook Pro][macbook-pro] with a 3GHz Intel Core 2 Duo processor, 8GB of RAM, and a 512GB SSD. I carry it in a Kenneth Cole brown shoulder bag, which looks slim but yet holds this (relatively big) laptop. When in my office, the laptop is supplemented by a 30" [Apple monitor][cinema-display], a multi-drive 4TB RAID (for storing data and backup), and an Apple wireless [keyboard][] and mouse.
+Currently it's a late 2009 17" [MacBook Pro][macbook-pro] with a 3GHz Intel Core 2 Duo processor, 8GB of RAM, and a 512GB SSD. I carry it in a Kenneth Cole brown shoulder bag, which looks slim but yet holds this (relatively big) laptop. When in my office, the laptop is supplemented by a 30" [Apple monitor][cinema-display], a multi-drive 4TB RAID (for storing data and backup), and an Apple wireless [keyboard][] and mouse.
 
 My phone is a 32GB [iPhone 4][iphone-4]. I use it heavily during the day writing emails and keeping track of pending issues and often doing video [Skype][] calls. This drains the battery pretty heavily, but I'm happy that I rarely drain it completely and it holds up much better than my previous [iPhone 3G][iphone-3g].
 
-I also use a flash drive almost daily and so having it be high performance and high density is important. I use a PATRIOT drive, although I wish it wasn't so wide since it can't sit in the Macbook Pro's USB slot and still allow neighboring slots to be used.
+I also use a flash drive almost daily and so having it be high performance and high density is important. I use a PATRIOT drive, although I wish it wasn't so wide since it can't sit in the MacBook Pro's USB slot and still allow neighboring slots to be used.
 
 I also use a 64GB [iPad 2][ipad-2] daily, usually at home in the early morning and late evening to read email and keep track of various web sites. I like using it since I don't have to drag out the laptop, especially since I'm usually covered with cats or kids in the mornings and evenings and using my laptop seems to be too dangerous in that line of fire. The iPad works great in that setting, but I also find it really useful on long, international flights such as SFO to Frankfurt, Germany, which comes up surprisingly frequently.
 

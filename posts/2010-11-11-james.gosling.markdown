@@ -16,7 +16,7 @@ James Gosling, software engineer. Best known as the originator of the Java progr
 
 I've got stacks of hardware in my home office. A fact which my wife is constantly cranky about.
 
-For everyday stuff and while traveling, I use a [Macbook Pro][macbook-pro] with 4 gigs of ram and a 256 GB SSD disk.
+For everyday stuff and while traveling, I use a [MacBook Pro][macbook-pro] with 4 gigs of ram and a 256 GB SSD disk.
 
 I've got a [Mac Mini][mac-mini] in one corner that's just used for household stuff: taxes, the checkbook, and the home automation system. It's my "don't fuck with that" machine that I generally leave alone.
 

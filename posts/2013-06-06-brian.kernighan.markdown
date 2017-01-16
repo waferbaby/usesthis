@@ -15,7 +15,7 @@ I'm [Brian Kernighan](https://en.wikipedia.org/wiki/Brian_Kernighan "Brian's Wik
 
 #### What hardware do you use?
 
-Mostly Macs at this point. I have a 27-inch [iMac][] at work (big screen) but with the tiny wireless [keyboard][]; I long ago got tired of keyboards that, with wheels, could double as skateboards, so it's nice to have a little one made by a reliable manufacturer. At home I have several elderly 13 or 15 inch [Macbook Pros][macbook-pro], and an 11 inch [Air][macbook-air]. That's the computer I carry when I need to carry one. I took it around Europe for much of last summer, and now I carry it back and forth between work and home, and hardly notice its presence. Would that all computers were as small and light.
+Mostly Macs at this point. I have a 27-inch [iMac][] at work (big screen) but with the tiny wireless [keyboard][]; I long ago got tired of keyboards that, with wheels, could double as skateboards, so it's nice to have a little one made by a reliable manufacturer. At home I have several elderly 13 or 15 inch [MacBook Pros][macbook-pro], and an 11 inch [Air][macbook-air]. That's the computer I carry when I need to carry one. I took it around Europe for much of last summer, and now I carry it back and forth between work and home, and hardly notice its presence. Would that all computers were as small and light.
 
 I have an old Lenovo Thinkpad with [XP][windows-xp] but never take it anywhere, though for some things it's actually way faster than newer computers. And there's a non-trivial pile of dead Windows laptops that I keep thinking about refurbishing as Linux boxes, but I never get around to it and probably never will.
 

@@ -17,7 +17,7 @@ credits:
 
 #### What hardware do you use?
 
-Primary work computer: 27" [iMac][] (i7 processor, 8GB RAM) with 22" secondary monitor, primary laptop is a 13" [Macbook Pro][macbook-pro] (Core 2 Duo, 4 GB RAM). I have a 60Mb/s cable Internet connection through RCN. I have a number of backup machines, mostly used for testing, including a PC running [Windows XP][windows-xp], a [Chromebook][], and a [MacBook][]. I also utilize a large number of phones and tablets for testing, most of which are located at Filament Group, the folks who are behind jQuery Mobile.
+Primary work computer: 27" [iMac][] (i7 processor, 8GB RAM) with 22" secondary monitor, primary laptop is a 13" [MacBook Pro][macbook-pro] (Core 2 Duo, 4 GB RAM). I have a 60Mb/s cable Internet connection through RCN. I have a number of backup machines, mostly used for testing, including a PC running [Windows XP][windows-xp], a [Chromebook][], and a [MacBook][]. I also utilize a large number of phones and tablets for testing, most of which are located at Filament Group, the folks who are behind jQuery Mobile.
 
 I also have multiple [Mac Minis][mac-mini] that I use for watching media. One is hooked to a projector that is capable of displaying 720p video ([BenQ W500][w500]), another is hooked to a 19" LCD that is in front of my elliptical.
 

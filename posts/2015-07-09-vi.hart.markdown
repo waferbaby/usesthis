@@ -43,7 +43,7 @@ Computers and Monitors:
 
 For work I've been using a [15" MacBook Pro][macbook-pro] for the past year for basic emails, writing, normal video editing, and webVR development with the DK2 or Galaxy Note 4. I was hoping to be converted to Apple, but I'm not in love.
 
-We do our heavy rendering on a Windows machine we built named Tessa, that right now is running three [TITAN Blacks][geforce-gtx-titan-black], two Xeon E5s, and other tasty things. She can do in 20 minutes what takes my Macbook Pro all night. We have this fully-loaded 17" Alienware "laptop" named Beast that mostly gets used for [Unity][] and 3D modeling stuff these days.
+We do our heavy rendering on a Windows machine we built named Tessa, that right now is running three [TITAN Blacks][geforce-gtx-titan-black], two Xeon E5s, and other tasty things. She can do in 20 minutes what takes my MacBook Pro all night. We have this fully-loaded 17" Alienware "laptop" named Beast that mostly gets used for [Unity][] and 3D modeling stuff these days.
 
 We've got a pile of [Mac Minis][mac-mini] we use for public demos and installations with VR headsets, plus several [AAXA P300][p300] (a tiny portable projector), so that we can fit several VR demo installations in a single backpack. I really like Mac Minis for installations, especially since once we've got the headsets running we can unplug all external keyboards and projectors and everything, and it'll run as a self-contained unit for days on end (or until Apple decides it must interrupt with a request to update).
 

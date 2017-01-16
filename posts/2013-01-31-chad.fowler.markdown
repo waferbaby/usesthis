@@ -15,7 +15,7 @@ categories:
  
 #### What hardware do you use?
 
-I have a [MacBook Air][macbook-air] 11", MacBook Air 13", [Macbook Pro][macbook-pro] 15", [Mac Pro][mac-pro], [Chromebook][], [iPad Mini][ipad-mini], 24" [iMac][], hideous HP laptop running [Ubuntu][], [iPhone 4s][iphone-4s], [Nexus 7][nexus-7], and a [Windows Surface][surface-rt] with the terrible non-clicky keyboard cover. I actually use all of these. I'm not sure why. I use most of them as cheap web terminals. I'm probably not a power user of any of them. I like diversity in a technology environment even though it means I never deeply learn an environment and I'm always a little frustrated.
+I have a [MacBook Air][macbook-air] 11", MacBook Air 13", [MacBook Pro][macbook-pro] 15", [Mac Pro][mac-pro], [Chromebook][], [iPad Mini][ipad-mini], 24" [iMac][], hideous HP laptop running [Ubuntu][], [iPhone 4s][iphone-4s], [Nexus 7][nexus-7], and a [Windows Surface][surface-rt] with the terrible non-clicky keyboard cover. I actually use all of these. I'm not sure why. I use most of them as cheap web terminals. I'm probably not a power user of any of them. I like diversity in a technology environment even though it means I never deeply learn an environment and I'm always a little frustrated.
 
 When I travel (which I do a lot), I always carry with me some form or two of connectivity so I can plug my computer into the television. Lately, my wife and I have started carrying an [Apple TV][apple-tv] for long trips as well. We have two in the house. We love these little devices. Perfect for watching TV and movies while tired and bored in a hotel room.
 

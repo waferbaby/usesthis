@@ -13,9 +13,9 @@ My name is [George Nachman](https://twitter.com/gnachman "George's Twitter accou
 
 #### What hardware do you use?
 
-My setup at work is pretty cool: I sit in a [zero-gravity recliner][perfect-chair], which is the most comfortable chair I've ever sat in. My monitor is a [Dell 4K display][ultrasharp-up2414q]. It's on a pole-mounted monitor arm so I can position it exactly where I need it when lying almost horizontally. I use an Apple bluetooth keyboard and Magic Trackpad, which is the greatest thing since oxygen. I use a Mac Pro, and have a 15" Macbook Pro for when I'm on the go.
+My setup at work is pretty cool: I sit in a [zero-gravity recliner][perfect-chair], which is the most comfortable chair I've ever sat in. My monitor is a [Dell 4K display][ultrasharp-up2414q]. It's on a pole-mounted monitor arm so I can position it exactly where I need it when lying almost horizontally. I use an Apple bluetooth keyboard and Magic Trackpad, which is the greatest thing since oxygen. I use a Mac Pro, and have a 15" MacBook Pro for when I'm on the go.
 
-At home, I use a 13" [Macbook Pro][macbook-pro]. I used to use a 15" but I got tired of elbowing strangers on airplanes.
+At home, I use a 13" [MacBook Pro][macbook-pro]. I used to use a 15" but I got tired of elbowing strangers on airplanes.
 
 #### And what software?
 

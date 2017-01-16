@@ -17,7 +17,7 @@ My name is [Wiley Wiggins](http://wileywiggins.com "Wiley's website."), I'm curr
 
 At home I have a Core 2 Duo [iMac][] (2007?) with a [Wacom Intuos][intuos] Medium drawing tablet, a mini-rack with a [Presonus Firepod][fp10] audio interface, and a rack-mount VHS editing deck for ingesting old footage. I use an [M-Audio Axiom 25][axiom-25] as my main MIDI controller now, but I used to have a banged up [Nord Lead 2][nord-lead-2] next to the desk.
 
-My mobile setups are a [Macbook Pro][macbook-pro] (Late 2008) with a SSD card volume in the ExpressCard/34 slot that I use for fast playback of HD media when I do visualist stuff. I also use a banged-up hot pink [Nintendo Wii][wii] remote as my OSC controller when I'm doing VJ stuff. Also - an [iPad][] with a wireless keyboard and a Wacom iPad stylus.
+My mobile setups are a [MacBook Pro][macbook-pro] (Late 2008) with a SSD card volume in the ExpressCard/34 slot that I use for fast playback of HD media when I do visualist stuff. I also use a banged-up hot pink [Nintendo Wii][wii] remote as my OSC controller when I'm doing VJ stuff. Also - an [iPad][] with a wireless keyboard and a Wacom iPad stylus.
 
 #### And what software?
 
@@ -27,6 +27,6 @@ All the Apple Pro Apps, ([Final Cut Studio][final-cut-studio], [Logic Studio][lo
 
 #### What would be your dream setup?
 
-A new headless [Mac Pro][mac-pro], maxed out with RAM and a big rack-mounted disk array (this is imaginary, so let's say I waited for a Thunderbolt-equipped Mac and RAID.) I'd use this as a cluster node and media server, operating either via iTeleport from the iPad, or VNC'ing over from a similarly stacked Macbook Pro.
+A new headless [Mac Pro][mac-pro], maxed out with RAM and a big rack-mounted disk array (this is imaginary, so let's say I waited for a Thunderbolt-equipped Mac and RAID.) I'd use this as a cluster node and media server, operating either via iTeleport from the iPad, or VNC'ing over from a similarly stacked MacBook Pro.
 
 I wouldn't waste money on a crazy camera package for shooting video - no RED's or anything, just a decent digital SLR that shoots good HD video. I'd get one of those ridiculous [Wacom Cintiq][cintiq] display tablets, which would probably be used with the Macbook as a host. Then I'd recycle my old iMac into a cocktail arcade cabinet with a case kit from Dream Arcades and spend the next month painting happy little people on it, celebrating all my imaginary money, until this embarrassment of riches attracts attention and someone crowbars my door down, takes all my computer stuff and leaves me with a bullet in the back of the head.

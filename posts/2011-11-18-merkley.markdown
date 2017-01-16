@@ -15,7 +15,7 @@ I'm The Heavyweight Sleep Champion of The World.
 
 #### What hardware do you use?
 
-I'm using a little spinning beach ball generator otherwise known as a 15 inch 2.66ghz [Macbook Pro][macbook-pro] with 4gb memory from last year. [OS X 10.6.8][mac-os-x] -- yeah I know, shut up. One day someone will uncover the hidden "self destruct/send in the beach ball" code and we'll all go "I KNEW IT!"
+I'm using a little spinning beach ball generator otherwise known as a 15 inch 2.66ghz [MacBook Pro][macbook-pro] with 4gb memory from last year. [OS X 10.6.8][mac-os-x] -- yeah I know, shut up. One day someone will uncover the hidden "self destruct/send in the beach ball" code and we'll all go "I KNEW IT!"
 
 I use a bunch of 500GB and 1TB WD Passport hard drives to back up stuff very redundantly. I have no faith in any hard drives, NONE, neither should you.
 

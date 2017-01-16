@@ -14,7 +14,7 @@ I'm [Adam Wiggins](http://about.adamwiggins.com/ "Adam's website."), hacker and 
 
 #### What hardware do you use?
 
-Pretty standard setup: a 13" [Macbook Pro][macbook-pro]. I spend almost all my time in [iTerm 2][iterm2] and [Chrome][]. I'm not interested in most of the productivity software that comes bundled with the OS: I see the Macbook as a great piece of integrated hardware that lets me run a browser and terminal.
+Pretty standard setup: a 13" [MacBook Pro][macbook-pro]. I spend almost all my time in [iTerm 2][iterm2] and [Chrome][]. I'm not interested in most of the productivity software that comes bundled with the OS: I see the Macbook as a great piece of integrated hardware that lets me run a browser and terminal.
 
 I keep the Dock hidden and launch applications exclusively with [Alfred][]. And I use a lot of custom launchers as scriptable bookmarks.
 

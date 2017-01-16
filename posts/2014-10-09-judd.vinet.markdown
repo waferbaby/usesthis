@@ -32,7 +32,7 @@ At work, I plug my Air into a couple external monitors. One is an Asus 27" and t
 
 I don't use the mouse/trackpad a lot when I'm working, but if I do need to move a pointer around, I'll use a [Logitech Anywhere MX][anywhere-mouse-mx] if I'm on a desktop surface. If I'm on the road or working off my lap, then the trackpad suffices.
 
-I also keep an older [Macbook Pro][macbook-pro] on my desk that does run OS X. This computer mostly serves as a build machine for [iOS][] apps.
+I also keep an older [MacBook Pro][macbook-pro] on my desk that does run OS X. This computer mostly serves as a build machine for [iOS][] apps.
 
 #### And what software?
 

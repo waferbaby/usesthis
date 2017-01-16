@@ -15,7 +15,7 @@ I'm [Toby Joe Boudreaux](http://www.tobyjoe.com/ "Toby's website."), aka tobyjoe
 
 #### What hardware do you use?
 
-At work and home, my primary laptop is a 15 inch i7 [Macbook Pro][macbook-pro] with a matte screen (because I'm not mentally broken, like glare-loving glossy freaks), 8GB of memory, and a non-SSD. I really should get on the SSD bandwagon, but I always duck it due to the principle of paying the upgrade costs. Does Moore's law apply to the price of SSD tech?  
+At work and home, my primary laptop is a 15 inch i7 [MacBook Pro][macbook-pro] with a matte screen (because I'm not mentally broken, like glare-loving glossy freaks), 8GB of memory, and a non-SSD. I really should get on the SSD bandwagon, but I always duck it due to the principle of paying the upgrade costs. Does Moore's law apply to the price of SSD tech?  
 
 My (stand-up) desk at work also currently has a daisy-chained quartet of low-bezel 46" LCD displays mounted to plywood and a very precarious system of struts. This is to test a big environmental sensor-based project for a big event. I also have a bizarre Alienware PC desktop with an AMD HD 6990 card powering those displays, mostly as a test rig and Visual Studio 2010 compiler for Cinder projects. There are [Kinects][kinect] rigged to the ceiling and webcams of various sorts dangling all over.
 
@@ -23,7 +23,7 @@ I also run a [Mac Pro][mac-pro] with twin 27" [Apple displays][cinema-display] p
 
 My office is littered with ~70 people and an order of magnitude more in disparate hardware pieces, from RFID sensors to tablets to every known touchable mobile device to soldering kits to photography gear. It's an interesting, cluttered place, and my hardware reach is as schizophrenic as our portfolio.
 
-At home, I'm mostly on my Macbook Pro, for work (mostly Xcode stuff - C++, Obj-C, and OpenGL) and for playing EvE Online. It's a modest enough little laptop, but it treats me well.
+At home, I'm mostly on my MacBook Pro, for work (mostly Xcode stuff - C++, Obj-C, and OpenGL) and for playing EvE Online. It's a modest enough little laptop, but it treats me well.
 
 My [Fitbit][] is always with me and my [Withings scale][wifi-body-scale] and [BP monitor][blood-pressure-monitor] are newish fetish objects.
 

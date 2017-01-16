@@ -47,7 +47,7 @@ For bugtracking I have to connect to Microsoft's Product Studio database by Remo
 
 #### What would be your dream setup?
 
-I think I'm able to wait for the next [Macbook Pro][macbook-pro] line-up update before changing my laptop. I'm thinking about Origin PC laptops too, they seem pretty badass. Macbooks are just so hard to beat build-quality-wise... and it would be nice to be able to toy with iOS development.
+I think I'm able to wait for the next [MacBook Pro][macbook-pro] line-up update before changing my laptop. I'm thinking about Origin PC laptops too, they seem pretty badass. Macbooks are just so hard to beat build-quality-wise... and it would be nice to be able to toy with iOS development.
 
 I could use more screen real estate when I don't have an external screen, so definitely a 1920x1080 screen next time.
 

@@ -17,7 +17,7 @@ I'm [Josh Nimoy](http://jtnimoy.net "Josh's website."), an artist, designer, hac
 
 #### What hardware do you use?
 
-I'm using a [13" Macbook Pro][macbook-pro] with 2.66 GHz Intel Core Duo, and the graphics card is an NVIDIA GeForce 320M. I carry a [Motorola Droid 2][droid-2]. I sport a [Radioshack 22-802 Auto-Ranging multimeter][22-802], a [Weller WES51][wes51] analog soldering station, and a [Leatherman Squirt E4][squirt-e4]. I program firmware with a [Xeltek SuperPro 280U][superpro-280u]. I prefer [shift registers](http://en.wikipedia.org/wiki/Shift_register "The Wikipedia entry for shift registers.") over [demultiplexers](http://en.wikipedia.org/wiki/Multiplexer "The Wikipedia entry for multiplexers"). I solder lead-free. I choose [RoHS](http://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive "The Wikipedia entry for RoHS.").
+I'm using a [13" MacBook Pro][macbook-pro] with 2.66 GHz Intel Core Duo, and the graphics card is an NVIDIA GeForce 320M. I carry a [Motorola Droid 2][droid-2]. I sport a [Radioshack 22-802 Auto-Ranging multimeter][22-802], a [Weller WES51][wes51] analog soldering station, and a [Leatherman Squirt E4][squirt-e4]. I program firmware with a [Xeltek SuperPro 280U][superpro-280u]. I prefer [shift registers](http://en.wikipedia.org/wiki/Shift_register "The Wikipedia entry for shift registers.") over [demultiplexers](http://en.wikipedia.org/wiki/Multiplexer "The Wikipedia entry for multiplexers"). I solder lead-free. I choose [RoHS](http://en.wikipedia.org/wiki/Restriction_of_Hazardous_Substances_Directive "The Wikipedia entry for RoHS.").
 
 #### And what software?
 

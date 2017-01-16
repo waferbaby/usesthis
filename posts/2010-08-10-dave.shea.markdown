@@ -19,7 +19,7 @@ It's getting increasingly harder to pin down the the 'what do you do' question, 
 
 #### What hardware do you use?
 
-Over the past couple of years I've spent time bouncing around between shared co-working spaces, coffee shops, my home office, and various far-flung locales as I've travelled. I've gotten used to the tradeoffs that come along with portability: smaller screen sizes, trackpads, less memory and processing power. Around 2008 my setup had shrunk to a single [Macbook Pro][macbook-pro].
+Over the past couple of years I've spent time bouncing around between shared co-working spaces, coffee shops, my home office, and various far-flung locales as I've travelled. I've gotten used to the tradeoffs that come along with portability: smaller screen sizes, trackpads, less memory and processing power. Around 2008 my setup had shrunk to a single [MacBook Pro][macbook-pro].
 
 During a stint on crutches in April/May last year I managed to justify paying the [MacBook Air][macbook-air] premium for lighter weight and a smaller profile. It immediately became my portable machine and I chained the MBP to my desk. But instead of adding an external display, I recently decided the Apple cinema display price point makes the new iMac a better investment. So the MBP went to my wife and I'm back to two main systems that I work from.
 

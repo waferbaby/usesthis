@@ -16,7 +16,7 @@ I'm [Brendan Gregg](http://www.brendangregg.com "Brendan's website."), I'm a sen
 
 #### What hardware do you use?
 
-I'm currently using an Apple [Macbook Pro][macbook-pro] Retina 15 inch as my work computer, connected to a 27-inch Apple [Thunderbolt monitor][thunderbolt-display] when I'm at my desk. Apple products in the past have been very reliable, which is what I'm after. I use the DVORAK keyboard layout, for efficiency and performance. The keys are still labeled QWERTY, which I ignore.
+I'm currently using an Apple [MacBook Pro][macbook-pro] Retina 15 inch as my work computer, connected to a 27-inch Apple [Thunderbolt monitor][thunderbolt-display] when I'm at my desk. Apple products in the past have been very reliable, which is what I'm after. I use the DVORAK keyboard layout, for efficiency and performance. The keys are still labeled QWERTY, which I ignore.
 
 I have a menagerie of very old computers for doing personal IT projects or hobbies. These used to be mostly desktop PCs and servers, but they took up too much room and power, and so they became mostly laptops. I'll eventually toss them out too, and they'll be mostly virtual [VirtualBox][] instances or AWS [EC2][] instances.
 

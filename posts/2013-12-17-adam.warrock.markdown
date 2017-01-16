@@ -13,7 +13,7 @@ My name is Eugene, I make nerdy hip hop online as [Adam WarRock](http://www.adam
 
 #### What hardware do you use?
 
-I have a 13" 2012 [Macbook Pro][macbook-pro], and basically use that coupled with a [Audio Technica 2020 condenser microphone][at2020] through an [8 channel Alesis preamp/mixer][multimix-8], and a generic, old external USB soundcard (I honestly have had it since 2004, and to this day it is the best sounding thing without latency issues I've found and am able to use). I also use a big, college-ruled spiral notebook and a gigantic whiteboard. I know that's insanely old school, but what can you do. I also have an extensive collection of boxes, envelopes, and packaging materials for merch shipment too - and I just order stuff from [ULine](http://www.uline.com/ "A shipping supply website.") for that. 
+I have a 13" 2012 [MacBook Pro][macbook-pro], and basically use that coupled with a [Audio Technica 2020 condenser microphone][at2020] through an [8 channel Alesis preamp/mixer][multimix-8], and a generic, old external USB soundcard (I honestly have had it since 2004, and to this day it is the best sounding thing without latency issues I've found and am able to use). I also use a big, college-ruled spiral notebook and a gigantic whiteboard. I know that's insanely old school, but what can you do. I also have an extensive collection of boxes, envelopes, and packaging materials for merch shipment too - and I just order stuff from [ULine](http://www.uline.com/ "A shipping supply website.") for that. 
 
 #### And what software?
 
@@ -21,7 +21,7 @@ I use [Garageband][] to track and mix audio; and then I master it in [Izotope's 
 
 #### What would be your dream setup?
 
-I would love to have a 15" Macbook Pro with a 27" [Thunderbolt Display][thunderbolt-display] hooked up to it, to be able to edit on one screen while still working (or watching TV) on my other display. 
+I would love to have a 15" MacBook Pro with a 27" [Thunderbolt Display][thunderbolt-display] hooked up to it, to be able to edit on one screen while still working (or watching TV) on my other display. 
 
 As for sound, I would love to have an [AT 4000 series microphone][4000-series] with a more fully featured preamp-mixer. But something tells me having a $700 microphone before I have the software and peripherals to support it would be a waste of money. So I guess in that vein, I'd love to learn how to use [Logic][]/[Pro-Tools][] or whatever else, but I've just found that my setup works for me pretty well. 
 

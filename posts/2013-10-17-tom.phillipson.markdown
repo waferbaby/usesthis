@@ -21,7 +21,7 @@ My hardware for video is pretty straightforward - I use a [Canon 5D Mk III][eos-
 
 Editing-wise, I just use an 27 inch [iMac][] i7 with 16 gigs of RAM. It's not the fastest when it comes to rendering, but for editing and audio it does everything nicely. Also the 27 inch screen is lovely.  I have a [Matrox MXO2 Mini][mxo2-mini] hooked into it for when I need to do some HDMI capture.
 
-Performing I just use [Macbook Pro][macbook-pro] i7, an iPad running [TouchOSC][touchosc-ios] as the controller and a Benq 3000 lumens projector.
+Performing I just use [MacBook Pro][macbook-pro] i7, an iPad running [TouchOSC][touchosc-ios] as the controller and a Benq 3000 lumens projector.
 
 Although music and audio production is really just something I do on the side, it has always somehow taken up the most resources and space in my studio. I have been buying synths and drum machines since 1997, always making sure if I sell something I put that money back into more hardware. Anyway, my current studio consists of [Protools Digi-002][digi-002], [Yamaha HS80 monitors][hs80m], [Allen & Heath ZED-18][zed-18], [TLA 5060 Compressor][5060], [Roland SH-101][sh-101], [Roland TR-707][tr-707], [Bassbot TT-303][tt-303], [Moog Minitaur][minitaur], [Moog Slim Phatty][slim-phatty], [Moogerfooger MF-105 Murf][mf-105m-midi-murf], [Moogerfooger MF-102 Ring Modulator][mf-102-ring-modulator], [Nord Lead 2][nord-lead-2], [Access Virus C][access-virus-c], [Access Virus Snow][access-virus-snow], [Waldorf Blofeld][blofeld], [Ableton Push][push], 2x [Technics 1210][sl-1210], Vestax PMC 5 Pro, [Zoom H4][h4], and a [Røde NT2][nt2].
 

@@ -14,7 +14,7 @@ Hello! I'm [Veronica](http://www.veronicabelmont.com/ "Veronica's website."). My
 
 #### What hardware do you use?
 
-My workhorse is a [2013 13" Macbook Pro][macbook-pro]. For my home studio, I use a [Shure SM7B vocal mic][sm7b] running into a [M-Audio Fast Track Ultra][fast-track-ultra], and a [Logitech HD Pro Webcam C910][hd-pro-webcam-c910] for video and [Google Hangouts][google-hangouts]. For lighting, I use [Stellar Lighting Systems Webstar USB-Powered][webstar-usb-powered-led-ringlight] ring light. It's... ok. I need a better lighting kit. 
+My workhorse is a [2013 13" MacBook Pro][macbook-pro]. For my home studio, I use a [Shure SM7B vocal mic][sm7b] running into a [M-Audio Fast Track Ultra][fast-track-ultra], and a [Logitech HD Pro Webcam C910][hd-pro-webcam-c910] for video and [Google Hangouts][google-hangouts]. For lighting, I use [Stellar Lighting Systems Webstar USB-Powered][webstar-usb-powered-led-ringlight] ring light. It's... ok. I need a better lighting kit. 
 
 For recording interviews on-the-go, I use a [Sony PCM-D1 portable recorder][pcm-d1]. I also have the [Apogee MiC Digital Microphone][mic] as a secondary podcasting mic when I'm not at my home studio.
 

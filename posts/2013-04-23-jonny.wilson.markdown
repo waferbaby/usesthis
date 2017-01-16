@@ -16,7 +16,7 @@ Jonny Wilson, aka [Eclectic Method](http://eclecticmethod.tumblr.com/ "Jonny's w
 
 In the studio I work almost entirely on a PC. I have a reasonable 6 core machine for the studio, and on the move I have a suped-up Alienware that can handle 1080HD video and effects. Then I just have a pile of hard drives and a few crates of hard drives in the cupboard that will never see the light of day, but I can't bare to part with them.
 
-When I play live I use a [Macbook Pro][macbook-pro], a [Serato SL4][rane-sl-4] with 4 channels so I can have 2 audio + 2 audio/video channels, a [Pioneer DJM-800][djm-800] mixer because it has MIDI out so I can control video cross-fading and effects with the dials on the mixer, and CDJs (almost always [1000s][cdj-1000]).
+When I play live I use a [MacBook Pro][macbook-pro], a [Serato SL4][rane-sl-4] with 4 channels so I can have 2 audio + 2 audio/video channels, a [Pioneer DJM-800][djm-800] mixer because it has MIDI out so I can control video cross-fading and effects with the dials on the mixer, and CDJs (almost always [1000s][cdj-1000]).
 
 #### And what software?
 
@@ -30,4 +30,4 @@ When I left school I worked a bit with Brian Eno, and one of the most useful thi
 
 At the moment I am working on two shows that are going completely different directions. One is using Algoriddim's [Vjay app][vjay-ios] to DJ video on an iPad, so I can show up at a house party with the smallest setup available and jam 1080 HD video. 
 
-The other setup I am working on is multiple Macbook Pros running VDMX and Ableton to run multiple video screens but with different images on each that interact and can be "jammed" live. I hope from there to add stuff like holograms and portals to other dimensions once they are invented. The odd robot wouldn't go amiss, and I'd love to waste some money on fogscreens. I'd like ED-209 to walk out halfway through a show and inform everyone they have "20 seconds to comply".
+The other setup I am working on is multiple MacBook Pros running VDMX and Ableton to run multiple video screens but with different images on each that interact and can be "jammed" live. I hope from there to add stuff like holograms and portals to other dimensions once they are invented. The odd robot wouldn't go amiss, and I'd love to waste some money on fogscreens. I'd like ED-209 to walk out halfway through a show and inform everyone they have "20 seconds to comply".

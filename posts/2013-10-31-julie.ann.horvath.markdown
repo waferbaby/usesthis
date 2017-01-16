@@ -16,7 +16,7 @@ I'm also the creator and organizer of [Passion Projects](http://passion-projects
 
 #### What hardware do you use?
 
-Macbook Pro SSD and 8 GB of RAM. It's important for me to be able to run programs from the [Adobe Creative Suite][creative-suite] and still have [ruby][] and other local servers running in the background, as well as multiple browsers. I haven't upgraded to a Retina Macbook yet, I'm holding on to the hope that Apple will release a Retina [Air][macbook-air]. That would be ideal.
+MacBook Pro SSD and 8 GB of RAM. It's important for me to be able to run programs from the [Adobe Creative Suite][creative-suite] and still have [ruby][] and other local servers running in the background, as well as multiple browsers. I haven't upgraded to a Retina Macbook yet, I'm holding on to the hope that Apple will release a Retina [Air][macbook-air]. That would be ideal.
 
 Sometimes I use a [Cinema Thunderbolt display][thunderbolt-display]. I like to be mobile and I often work from home, as well as around the world, so I usually just stick with my Macbook, but when I'm in the office a bunch I use the display for more visual real estate.
 
