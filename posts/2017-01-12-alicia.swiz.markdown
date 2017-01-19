@@ -1,0 +1,32 @@
+---
+title: Alicia Swiz
+summary: Professor, performer (SlutTalk)
+categories:
+- mac
+- performer
+- professor
+credits:
+  name: Elizabeth McQuern
+---
+
+#### Who are you, and what do you do?
+
+I'm [Alicia Swiz](https://popgoesalicia.com/ "Alicia's website")! I'm a professor, performer and full time feminist. I teach gender, pop culture and media literacy, in the classroom and on stage. I host a monthly feminist-friendly comedy showcase in Chicago called Feminist Happy Hour and my current long term project is [SlutTalk](http://www.wearesluttalk.com/ "A movement to reclaim the word 'slut.'"). My heart has always been invested in girls' and women's well being and self esteem but the last few years I've become increasingly passionate about dismantling the the culturally accepted shame we inflict on women's bodies and lives. SlutTalk is collective dialogue that seeks to destigmatize the word slut and encourage sex positivity.
+
+So far SlutTalk has manifested as monthly performances featuring local performers telling true stories, workshops on dating, sex and feminism, a radio talk show, and I am currently piloting “SlutTalk with Teens” with a local high school. In 2017, I want to expand my reach through touring and podcasting with a long term goal of a documentary and book. 
+
+#### What hardware do you use?
+
+[2012 MacBook Air][macbook-air], [iPhone 6][iphone-6] with a busted screen, Papermate felt tip pens, notebooks (any and all). Thanks to my friend Heath, we record live events with a [Tascam DR-40][dr-40], often in 4 channel recording mode with a feed from the house system. At the monthly FHH, the Tascam DR40 is used for backup and audience recording, and the venue's [Behringer X32][x32], which has the ability to record the main outputs directly to a USB flash drive, is the main recording. The recordings are then mixed down in [Adobe Audition][audition].
+
+#### And what software?
+
+Does social media count as software? I currently rely heavily on [Instagram][], [Facebook][] and [Twitter][]. [Squarespace][] is where I host my website. [Gmail][]. [Microsoft Office][office], Adobe Audition.
+
+#### What would be your dream setup?
+
+My dream setup is a mobile studio/venue. Technically, a van. A sweet, refurbished van outfitted with a lounge/recording studio with four [Shure Beta 58As][beta-58a], swing arms for each, and a pair of [AKG C214s][c214] for backup and room sound, feeding into a [Focusrite Scarlett 18i20 interface][scarlett-18i20] as a preamp. The Focusrite Scarlett would be backed by a [MacBook Pro][macbook-pro] running Adobe Audition for recording and editing. The Tascam DR-40 would stay on as backup recording and street recording, in addition to two pairs of AKG K240 headphones.
+
+And a new iPhone with case. 
+
+[Support our journey](https://www.indiegogo.com/projects/we-are-sluttalk-feminism "Alicia's Indiegogo project.") & follow @wearesluttalk on [Instagram](https://www.instagram.com/wearesluttalk/ "Alicia's SlutTalk Instagram account.") & [Twitter](https://twitter.com/wearesluttalk "Alicia's SlutTalk Twitter account.").
