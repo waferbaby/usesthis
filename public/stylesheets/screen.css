@@ -30,7 +30,7 @@ margin-bottom: 40px;
 body {
 font-family: "helvetica neue", helvetica, sans-serif;
 font-size: 1em;
-line-height: 1.6em;
+line-height: 1.8em;
 padding: 30px;
 }
 
@@ -111,7 +111,7 @@ flex: 1 auto;
 }
 
 header#main nav {
-font-size: 140%;
+font-size: 120%;
 padding: 0;
 margin: 15px 0 30px 0;
 border-top: solid 1px #eee;
@@ -124,7 +124,7 @@ margin: 0;
 }
 
 header#main nav ul li {
-margin: 0 15px 5px 0;
+margin-bottom: 3px;
 }
 
 img.detail, img.portrait {
@@ -249,9 +249,14 @@ color: #000;
 
   img.detail, img.portrait {
   max-width: 500px;
-  min-height: 160px;
   width: 100%;
   height: auto;
+  }
+
+  p#credits {
+  float: none;
+  padding: 0;
+  margin-bottom: 10px;
   }
 }
 
@@ -265,6 +270,10 @@ color: #000;
   font-weight: normal;
   color: #eee;
   margin: 0 10px;
+  }
+
+  header#main nav ul li {
+  margin-right: 15px;
   }
 
   p#tagline {
