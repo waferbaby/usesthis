@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-[Sophia Gracias](http://www.sophiagracias.com/ "Sophia's website."), Creative Lady & Melbournite. Currently working full time in stationery product design. On the side I work as a surface designer and Artist.
+[Sophia Gracias](http://www.sophiagracias.com/ "Sophia's website."), Creative Lady & Melbournite. Currently working full time in stationery product design. On the side I work as a surface designer and artist.
 
 #### What hardware do you use?
 
@@ -19,9 +19,9 @@ When I'm making art I use various mediums, including pen, found papers & glue, o
 
 #### And what software?
 
-I'm using [Adobe Creative Suite][creative-suite], [Microsoft Office][office] & [Dropbox][] religiously. Google Docs, [WeTransfer][] and [Instagram][] for inbetween. One day I'd like to expand my software skill set and learn some CAD for 3D product and mold development.
+I'm using [Adobe Creative Suite][creative-suite], [Microsoft Office][office] & [Dropbox][] religiously. [Google Docs][google-docs], [WeTransfer][] and [Instagram][] for in between. One day I'd like to expand my software skill set and learn some CAD for 3D product and mold development.
 
-Recently I've been using [Slack][], strictly outside of working hours of course. It's the only way I can get my daily quota for using the :pray: emoji up. Also, it makes me feel connected to some pretty incredible people.
+Recently I've been using [Slack][], strictly outside of working hours of course. It's the only way I can get my daily quota for using the `:pray:` emoji up. Also, it makes me feel connected to some pretty incredible people.
 
 #### What would be your dream setup?
 
