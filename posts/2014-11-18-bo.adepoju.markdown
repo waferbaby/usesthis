@@ -23,7 +23,7 @@ I have more tablets and phones than is probably healthy, I'm somewhat of a devic
 
 At work I must admit, I have an HP tanker (a tanker with good specs no less, but still a tanker). Luckily, my physical device is mostly irrelevant because it usually simply serves as a gateway to all-powerful server magic.
 
-I just recently bought a [Haswell-E i7-5960X][i7-5960x-extreme-edition] and am very ready to put those 8-cores to use @ home with a crazy PC build. I'm building a gaming PC centered on the X99 chipset and [NVIDIA's GeForce GTX 980][geforce-gtx-980] (I'm thinking 2x in SLI). If you check back with me soon I should have this complete and be happily plugging away at [League of Legends][league-of-legends] and the like at a-bazillion FPS.
+I just recently bought a [Haswell-E i7-5960X][core-i7-5960x-extreme-edition] and am very ready to put those 8-cores to use @ home with a crazy PC build. I'm building a gaming PC centered on the X99 chipset and [NVIDIA's GeForce GTX 980][geforce-gtx-980] (I'm thinking 2x in SLI). If you check back with me soon I should have this complete and be happily plugging away at [League of Legends][league-of-legends] and the like at a-bazillion FPS.
 
 I have several microcontroller boards lying around my place. The ones I have from undergraduate days ([8051][mcs-51], [LPC2148][]), and an [Arduino Uno][arduino-uno] are doing nothing at the moment, but I do have an [Intel Galileo][galileo] hooked up to [Philips Hue][hue] at home with the sole purpose of strobing lights (personal light show)!
 
