@@ -57,5 +57,10 @@ module UsesThis
         page.write(File.join(@output_paths[:site], "#{page.slug}.html"))
       end
     end
+
+    def generate
+      super
+      UsesThis::API.generate(self)
+    end
   end
 end
