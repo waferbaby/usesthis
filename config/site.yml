@@ -22,3 +22,7 @@ pagination:
 category_names:
   bsd: 'BSD'
   mac: 'Macintosh'
+
+class_overrides:
+  site: 'UsesThis::Site'
+  post: 'UsesThis::Interview'
