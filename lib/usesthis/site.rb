@@ -19,8 +19,6 @@ module UsesThis
 
       @source_paths[:wares] = File.join(@source_paths[:root], 'gear')
       @source_paths[:links] = File.join(@source_paths[:root], 'links')
-
-      @post_class = UsesThis::Interview
     end
 
     def scan_files
