@@ -5,8 +5,8 @@ title: API
 
 <article>
   <header>
-    <h3>API</h3>
-    <p>The Setup provides a very simple JSON-based API. I'd love to know if you do something interesting with it!</p>
+    <h3>Beep borp beep</h3>
+    <p>The Setup provides a very simple, JSON-based API. Since it's 100% static (!), all requests are GET requests. I'd love to know if you do something interesting with it!</p>
   </header>
 
   <section id="interviews">
@@ -14,7 +14,7 @@ title: API
 
     <h5 id="interviews-list">Getting a list</h5>
     <p class="summary">This method returns a basic list of all the interviews.</p>
-    <p><code><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></code></p>
+    <p><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
     <pre>
 {
   "interviews": [
@@ -45,7 +45,7 @@ title: API
 
     <h5 id="interviews-interview">Getting an interview</h5>
     <p class="summary">This method returns a complete interview for the given slug, including gear.</p>
-    <p><code><a href="/api/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></code></p>
+    <p><a href="/api/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></p>
     <pre>
 {
   "interview": {
@@ -82,7 +82,7 @@ title: API
 
     <h5 id="interviews-categories">Getting categories</h5>
     <p class="summary">This method returns a basic list of all the interview categories.</p>
-    <p><code><a href="/api/categories" title="Request a list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></code></p>
+    <p><a href="/api/categories" title="Request a list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></p>
     <pre>
 {
   "categories": [
@@ -95,7 +95,7 @@ title: API
 
     <h5 id="interviews-category">Getting a category</h5>
     <p class="summary">This method returns a basic list of all the interviews for the given category.</p>
-    <p><code><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></code></p>
+    <p><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
     <pre>
 {
   "interviews": [
@@ -120,8 +120,8 @@ title: API
     <h5 id="gear-list">Getting a list</h5>
     <p class="summary">This method returns a basic list of all the hardware or software mentioned on the site. Note that these will be <em>quite large</em>.</p>
     <p>
-      <code><a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a></code><br>
-      <code><a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a></code><br>
+      <a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
+      <a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a><br>
     </p>
     <pre>
 {
@@ -136,8 +136,8 @@ title: API
     <h5 id="gear-item">Getting an item</h5>
     <p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
     <p>
-      <code><a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a></code><br>
-      <code><a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a></code>
+      <a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
+      <a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
     </p>
     <pre>
 {
@@ -161,7 +161,7 @@ title: API
 
     <h5 id="stats-general">Getting general info</h5>
     <p class="summary">This method returns various site statistics, like the number of interviews.</p>
-    <p><code><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></code></p>
+    <p><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></p>
     <pre>
 {
   "interviews": 2,
@@ -172,8 +172,8 @@ title: API
     <h5 id="stats-gear">Getting gear info</h5>
     <p class="summary">This method returns the top 50 hardware or software items mentioned on the site. You can also specify a given year by adding it to the URL.</p>
     <p>
-      <code><a href="/api/stats/hardware" title="Request recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a></code><br>
-      <code><a href="/api/stats/software" title="Request recent software statistics as JSON.">https://usesthis.com/api/stats/software</a></code><br>
+      <a href="/api/stats/hardware" title="Request recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a><br>
+      <a href="/api/stats/software" title="Request recent software statistics as JSON.">https://usesthis.com/api/stats/software</a><br>
     </p>
     <pre>
 {
@@ -190,10 +190,9 @@ title: API
     <h4>Changelog</h4>
 
     <ul id="changelog">
-      <li><time datetime="2016-02-13">July 4, 2016</time><br>Added details about the stats API endpoints, and added more examples to the existing docs.</li>
+      <li><time datetime="2016-02-13">July 4, 2016</time><br>Added details about the stats API endpoints, and further examples to the existing docs.</li>
       <li><time datetime="2016-02-13">February 13, 2016</time><br>Changed the URLs for the categories API to match the site (but the old ones will keep working forever).</li>
-      <li><time datetime="2015-06-18">June 18, 2015</time><br>Updated interviews to <em>always</em> have a <code>gear</code><br>
-       element.</li>
+      <li><time datetime="2015-06-18">June 18, 2015</time><br>Updated interviews to <em>always</em> have a <strong>gear</strong> element.</li>
       <li><time datetime="2015-03-15">March 15, 2015</time><br>Added support for interview categories.</li>
       <li><time datetime="2015-03-13">March 13, 2015</time><br>Initial public launch. Sorry about that.</li>
     </ul>
