@@ -3,12 +3,14 @@ layout: default
 title: Community
 ---
 
-<article id="community">
-  <h3>Friends of The Setup</h3>
-  <p>Some awesome people have taken the time to make localised Setup-style sites, picking the brains of the people around them, or those within a particular field of interest. Others have written up personal interviews with themselves. All are awesome.</p>
+<article>
+  <header>
+    <h3>Friends of The Setup</h3>
+    <p>Some awesome people have taken the time to make localised Setup-style sites, picking the brains of the people around them, or those within a particular field of interest. Others have written up personal interviews with themselves. All are awesome.</p>
+  </header>
 
-  <section id="links">
-    <h4 id="inspired">Inspired</h4>
+  <section id="inspired">
+    <h4>Inspired</h4>
     <ul>
       <% @site.inspired_links.each do |link| %>
       <li>
@@ -17,7 +19,10 @@ title: Community
       </li>
       <% end %>
     </ul>
-    <h4 id="personal">Personal</h4>
+  </section>
+
+  <section id="personal">
+    <h4>Personal</h4>
     <ul>
       <% @site.personal_links.each do |link| %>
       <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a></li>
