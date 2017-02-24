@@ -201,6 +201,21 @@ margin: 0 0 20px 0;
 border: solid 1px #ddd;
 }
 
+section#categories > ul li {
+margin-bottom: 15px;
+}
+
+section#inspired > ul,
+section#personal > ul {
+list-style: none;
+column-count: 2;
+}
+
+section#inspired > ul li,
+section#personal > ul li {
+margin-bottom: 5px;
+}
+
 time {
 font-size: 80%;
 color: #aaa;
@@ -211,25 +226,15 @@ color: #aaa;
 }
 
 ul {
-list-style: square outside;
-font-size: 95%;
+list-style: square inside;
+font-size: 90%;
 padding: 0;
-margin: 20px;
+margin: 20px 0;
 }
 
 ul li {
 padding: 0;
 margin: 0;
-}
-
-ul#categories {
-list-style: none outside;
-margin-left: 0;
-margin-right: 0;
-}
-
-ul#categories li {
-margin-bottom: 15px;
 }
 
 ul#changelog li {
