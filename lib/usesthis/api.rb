@@ -17,13 +17,27 @@ module UsesThis
           @output_paths[item.to_sym] = File.join(root_path, item)
         end
 
-        generate_interviews
-        generate_categories
-        generate_gear
-        generate_stats
+        Dimples.logger.info("Building API...")
+
+        result = Benchmark.measure do
+          generate_interviews
+          generate_categories
+          generate_gear
+          generate_stats
+        end
+
+        generation_time = result.real.round(2)
+
+        message = "Woo! API built in #{generation_time} second"
+        message += 's' if generation_time != 1
+        message += '.'
+
+        Dimples.logger.info(message)
       end
 
       def generate_interviews
+        Dimples.logger.debug_generation('interviews', @site.posts.length) if @site.config['verbose_logging']
+
         interview_data = []
 
         @site.posts.each do |interview|
@@ -40,6 +54,8 @@ module UsesThis
       end
 
       def generate_categories
+        Dimples.logger.debug_generation('categories', @site.categories.length) if @site.config['verbose_logging']
+
         categories = @site.categories.keys.sort!
 
         @site.categories.each do |slug, interviews|
@@ -61,10 +77,13 @@ module UsesThis
 
       def generate_gear
         %w(hardware software).each do |type|
+          gear_items = @site.send(type)
           type_sym = type.to_sym
           gear_data = []
 
-          @site.send(type).each_value do |ware|
+          Dimples.logger.debug_generation(type, gear_items.length) if @site.config['verbose_logging']
+
+          gear_items.each_value do |ware|
             data = ware.to_h
 
             path = File.join(@output_paths[type_sym], ware.slug)
@@ -89,6 +108,8 @@ module UsesThis
       end
 
       def generate_stats
+        Dimples.logger.debug("Calculating stats...") if @site.config['verbose_logging']
+
         %w(hardware software).each do |type|
           @stats[type.to_sym].each do |key, values|
             stats = values.sort_by(&:last).reverse[0..49].to_h
