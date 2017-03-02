@@ -19,20 +19,12 @@ module UsesThis
 
         Dimples.logger.info("Building API...")
 
-        result = Benchmark.measure do
-          generate_interviews
-          generate_categories
-          generate_gear
-          generate_stats
-        end
+        generate_interviews
+        generate_categories
+        generate_gear
+        generate_stats
 
-        generation_time = result.real.round(2)
-
-        message = "Woo! API built in #{generation_time} second"
-        message += 's' if generation_time != 1
-        message += '.'
-
-        Dimples.logger.info(message)
+        Dimples.logger.info("API built!")
       end
 
       def generate_interviews
