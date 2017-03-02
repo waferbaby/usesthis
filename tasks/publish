@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
 
-dimples build
 yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css
 rsync -apv site/ usesthis.com:/usr/local/www/usesthis.com/public/
