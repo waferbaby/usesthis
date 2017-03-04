@@ -50,17 +50,17 @@ module UsesThis
 
         categories = @site.categories.keys.sort!
 
-        @site.categories.each do |slug, interviews|
+        @site.categories.each_value do |category|
           interview_data = []
 
-          interviews.each do |interview|
+          category.posts.each do |interview|
             interview_data << interview.to_h.tap do |h|
               h.delete(:contents)
               h.delete(:gear)
             end
           end
 
-          path = File.join(@output_paths[:categories], slug)
+          path = File.join(@output_paths[:categories], category.slug)
           write_json_file(path, interviews: interview_data)
         end
 
