@@ -13,8 +13,8 @@ title: Categories
     <ul>
     <% @site.categories.keys.sort.each do |slug| %>
       <li>
-        <strong><a href="/categories/<%= slug %>/" title="View all the '<%= slug %>' interviews."><%= slug %></a></strong> (<%= @site.categories[slug].count %>)<br>
-        <span class="summary">Latest: <%= @site.categories[slug][0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.title}.\">#{interview.title}</a>" }.join(', ') %></span>
+        <strong><a href="/categories/<%= slug %>/" title="View all the '<%= @site.categories[slug].name %>' interviews."><%= @site.categories[slug].name %></a></strong> (<%= @site.categories[slug].posts.count %>)<br>
+        <span class="summary">Latest: <%= @site.categories[slug].posts[0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.title}.\">#{interview.title}</a>" }.join(', ') %></span>
       </li>
     <% end %>
     </ul>
