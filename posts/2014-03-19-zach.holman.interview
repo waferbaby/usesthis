@@ -1,0 +1,52 @@
+---
+name: Zach Holman
+summary: Web Developer
+categories:
+- developer
+- mac
+- writer
+---
+
+#### Who are you, and what do you do?
+
+I'm [Zach Holman](http://zachholman.com). I'm a web developer and product person who can sometimes be found living in San Francisco.
+
+I've worked at [GitHub](https://github.com) for the last four years, helping with everything from github.com to [GitHub Enterprise](https://enterprise.github.com) to our culture to our in-office [music server](https://github.com/play/play).
+
+I like writing. I write about startups and product and emoji [on my blog](http://zachholman.com). I write poorly-crafted, crude jokes [on Twitter](https://twitter.com/holman).
+
+I like speaking. I've given [a bunch of talks](http://zachholman.com/talks) over the years, and I enjoy the process of public talks so much that I created [speaking.io](http://speaking.io), a site to help you get better at public speaking.
+
+#### What hardware do you use?
+
+I'm currently on a [15" Retina MacBook Pro](https://www.apple.com/macbook-pro/features-retina/). I've found myself simplifying my setup more and more over time. Previously I had an iMac, another display, and a MacBook, but realized that it's just simpler to toss everything on one machine and one screen.
+
+I'm on a black [iPhone 5S](https://www.apple.com/iphone-5s/) and a black [Retina iPad Mini](http://www.apple.com/ipad-mini/). The iPad I usually only use while traveling (albeit I travel a ton). It's got most of what I need in it now, so I'm not sure I'm going to upgrade for a year or three. The iPhone, on the other hand, always gets upgraded once a year. I get dinged on the extra out-of-contract pricing, but I use it more than any other object that I own, every single day. The incremental improvement ends up making sense to gun for, particularly since I'm in the industry. Just sort of decided it's a vice I'll deal with until the hardware improvements slow dramatically (which may very well happen in coming years).
+
+I like shooting photos. I used to bring my [Nikon D5100](http://www.nikonusa.com/en/Nikon-Products/Product/Digital-SLR-Cameras/25478/D5100.html) everywhere, but switched this year to the excellent [Fujifilm X100S](https://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x100s/) primarily because a lot of my photos happen casually, on the road, where the smaller size is a big plus.
+
+I like playing with music. For live music, I play on a [Native Instruments Traktor S4](http://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s4/) at either our office or at home. I'm still very new to creating music, but for that I use a [Native Instruments Maschine Mikro 2.0](http://www.native-instruments.com/en/products/maschine/production-systems/maschine-mikro/). I use a pair of white [Pioneer HDJ-2000s](http://www.pioneerdjusa.com/gear.aspx?product=HDJ-2000) for headphones.
+
+It's possibly strange to include this as hardware, but the last few years I've flown 100k-200k miles each year, so airplanes are basically another set of hardware for me in some sense. I tend to fly [Delta](https://www.delta.com) and stay at [SPG](http://spg.com) hotels, in large part because I think both of them don't have completely maddening UI in their product (be it technical or customer service or the service itself). Also yes I realize I'm a goddamn nerd for putting this in here but I've made my peace with it.
+
+#### And what software?
+
+I run [OS X Mavericks](https://www.apple.com/osx/).
+
+I tend to build things with [Ruby](https://www.ruby-lang.org/en/), and I'm pretty in love with that language even after all these years. If it's on the web, I'm usually using [Rails](http://rubyonrails.org) to build it, with the exception of some smaller apps where I'll still drop down to [Sinatra](http://www.sinatrarb.com) from time to time.
+
+My development environment is managed by [Boxen](http://boxen.github.com), [Homebrew](http://brew.sh), and [my dotfiles](https://github.com/holman/dotfiles). I'm feeling good about all of that, which wasn't always the case if you were a Ruby developer five years ago.
+
+I write code in [Atom](https://atom.io), the text editor we've been working on for six years at GitHub. It's based on Chromium, so to customize it you can inspect it just like any other web element.
+
+For photos, I use [Aperture](https://www.apple.com/aperture/) to manage things locally, and [Exposure](https://exposure.so) to share them with people. (You can [take a peek](http://photos.zachholman.com) at my own photos, too. Stalker.)
+
+For music, I use [Traktor](http://www.native-instruments.com/en/traktor/) and [Maschine](http://www.native-instruments.com/en/maschine-groove-production/). For regular daily listening, I use iTunes. I'm wary of cloud-based music offerings ever since iTunes Match inserted a country song in the middle of Dre's *2001*. Besides, I have really odd bootlegs of jazz artists from the 50's that I'd never be able to listen to online.
+
+#### What would be your dream setup?
+
+I really wish I could go iPad-only. Unfortunately, as a programmer, I'm not super confident that that would ever be an option. This might be a reason why I should grow up to be a board member who only uses their computer for email and PowerPoint and Excel spreadsheets. Then I'd be golden.
+
+In the real world though, man, we're actually getting close. I have the 15" MacBook Pro, but only because that was the only Retina screen when it came out. I think ideally I'd like to drop down to a 13" Retina Air (preferably even thinner and with a smaller bezel), with battery life of a billion hours.
+
+Seriously, my main goal in everything in life is battery life. I bumped up to the iPhone 5S, which has a faster processor, fully 64bit architecture, and fully like half of the battery life of the 5. Man, I don't give a fuck about speed anymore. I haven't cared about speed in years. We're getting held back by battery tech at this point.
