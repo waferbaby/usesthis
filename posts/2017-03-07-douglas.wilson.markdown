@@ -1,0 +1,30 @@
+---
+title: Douglas Wilson
+summary: Assistant professor, co-founder of Die Gute Fabrik
+categories:
+- designer
+- game
+- mac
+- professor
+- windows
+---
+
+#### Who are you, and what do you do?
+
+I'm [Douglas Wilson](https://twitter.com/doougle "Douglas' Twitter account."), an Assistant Professor ("Lecturer") at RMIT University in Melbourne, Australia. I teach and research game design. I also co-own a small video game studio, [Die Gute Fabrik](http://gutefabrik.com/ "Douglas' game studio."), based in Copenhagen. We're known for games like [Sportsfriends][] and [Where Is My Heart][where-is-my-heart]. I do design, team management, and some programming.
+
+#### What hardware do you use?
+
+Mostly just my [MacBook Pro][macbook-pro]! I don't even use an external keyboard or dual monitors or anything, it's pretty basic. When I was working on Sportsfriends, I also used a [PS3][]/[PS4][] devkit. I also use video game controllers like [PlayStation Move controllers][playstation-move], [Xbox 360 pads][xbox-360-controller], and so forth. My installation games like [Edgar Rice Soirée][edgar-rice-soiree] often call for basic materials like string and rope.
+
+#### And what software?
+
+Despite using a MacBook Pro, I still primarily run Windows. [Winamp][] is the most important piece of software on my computer (I'm a big music nut).
+
+For academic work, I use [Word][] for writing (e.g. my book, conference papers) though it's kind of awful and I'd like to find some more serious writing software.
+
+For game making, I've been using [Unity][] the last few years, mostly because I like working in [C#][c-sharp]. Unity also makes it easier for me to collaborate closely with my musician, Alessandro Coronas. We're working on a procedural music system together. Because my collaborators are scattered around the world, I do a lot of voice and video calls. I primarily use [Skype][], but I loathe it deeply. I also use [Slack][] and [Google Docs][google-docs]. I do have some anxieties about using so many products by large corporations, storing my data on their servers, etc. Perhaps I should get more serious about using software/server alternatives...
+
+#### What would be your dream setup?
+
+Mostly, I wish there was better options for voice/video calling software. Slack is starting to integrate that kind of functionality, which would be quite convenient, but those features aren't quite there. But if I can let my imagination run wild I wish I had a teleporter so I could work with my collaborators in person whenever I wanted. Remote collaboration is hard! 
