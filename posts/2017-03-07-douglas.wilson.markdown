@@ -23,7 +23,9 @@ Despite using a MacBook Pro, I still primarily run Windows. [Winamp][] is the mo
 
 For academic work, I use [Word][] for writing (e.g. my book, conference papers) though it's kind of awful and I'd like to find some more serious writing software.
 
-For game making, I've been using [Unity][] the last few years, mostly because I like working in [C#][c-sharp]. Unity also makes it easier for me to collaborate closely with my musician, Alessandro Coronas. We're working on a procedural music system together. Because my collaborators are scattered around the world, I do a lot of voice and video calls. I primarily use [Skype][], but I loathe it deeply. I also use [Slack][] and [Google Docs][google-docs]. I do have some anxieties about using so many products by large corporations, storing my data on their servers, etc. Perhaps I should get more serious about using software/server alternatives...
+For game making, I've been using [Unity][] the last few years, mostly because I like working in [C#][c-sharp]. Unity also makes it easier for me to collaborate closely with my musician, Alessandro Coronas. We're working on a procedural music system together.
+
+Because my collaborators are scattered around the world, I do a lot of voice and video calls. I primarily use [Skype][], but I loathe it deeply. I also use [Slack][] and [Google Docs][google-docs]. I do have some anxieties about using so many products by large corporations, storing my data on their servers, etc. Perhaps I should get more serious about using software/server alternatives...
 
 #### What would be your dream setup?
 
