@@ -23,9 +23,13 @@ module UsesThis
         unless wares.empty?
           @linked_contents += "\n\n"
 
+          links = []
+
           wares.each_value do |ware|
-            @linked_contents += "[#{ware.slug}]: #{ware.url} \"#{ware.description}\"\n"
+            links << "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
           end
+
+          @linked_contents += links.join("\n")
         end
       end
 
@@ -52,7 +56,7 @@ module UsesThis
         summary: @summary,
         date: @date.to_i,
         categories: @categories,
-        contents: @contents,
+        contents: @linked_contents,
         gear: { hardware: [], software: [] }
       }
 
