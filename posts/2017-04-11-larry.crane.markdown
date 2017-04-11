@@ -21,4 +21,4 @@ I use [Pro Tools 12 HD][pro-tools] as it’s the most commonly used in music rec
 
 #### What would be your dream setup?
 
-After 20 years of running a commercial studio I feel I have surrounded myself with amazing tools. I wouldn’t mind a Pro Tools HDX system in order to cut out latency issues, but the cost is ridiculous and it also limits your system from running other DAW software, like [Logic][logic-pro]. Annoying. Buying and maintaining computer systems for a pro studio is frustrating and not very satisfying compared to buying and using quality analog gear, but it is how the marketplace works now.
+After 20 years of running a commercial studio I feel I have surrounded myself with amazing tools. I wouldn’t mind a [Pro Tools HDX system][hdx] in order to cut out latency issues, but the cost is ridiculous and it also limits your system from running other DAW software, like [Logic][logic-pro]. Annoying. Buying and maintaining computer systems for a pro studio is frustrating and not very satisfying compared to buying and using quality analog gear, but it is how the marketplace works now.
