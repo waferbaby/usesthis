@@ -128,9 +128,6 @@ margin-bottom: 5px;
 }
 
 img.detail, img.portrait {
-max-width: 500px;
-width: 100%;
-height: auto;
 margin-bottom: 10px;
 border: solid 1px #000;
 }
@@ -309,6 +306,12 @@ margin: 20px 0;
   width: 33%;
   }
 
+  img.detail, img.portrait {
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  }
+
   p#credits {
   float: none;
   padding: 0;
@@ -316,7 +319,8 @@ margin: 20px 0;
   }
 
   section#inspired > ul,
-  section#personal > ul {
+  section#personal > ul,
+  ul#patrons {
   column-count: 1;
   }
 }
