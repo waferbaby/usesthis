@@ -17,7 +17,7 @@ layouts:
   month_archives: 'interviews'
 
 pagination:
-  per_page: 20
+  per_page: 15
 
 category_names:
   bsd: 'BSD'
