@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 yuicompressor site/stylesheets/screen.css -o site/stylesheets/screen.css
-rsync -apv site/ usesthis.com:/usr/local/www/usesthis.com/public/
+rsync -ap --info=progress2 --delete site/ usesthis.com:/usr/local/www/usesthis.com/public/
