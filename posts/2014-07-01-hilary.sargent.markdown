@@ -4,7 +4,6 @@ summary: News & Homepage Editor (Boston.com), founder (ChartGirl)
 categories:
 - editor
 - mac
-- news
 - reporter
 ---
 

@@ -2,8 +2,8 @@
 title: Larry Crane
 summary: Music producer (Jackpot!), Editor (Tape Op Magazine)
 categories:
+- audio
 - editor
-- music
 - producer
 ---
 

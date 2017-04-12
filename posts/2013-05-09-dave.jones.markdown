@@ -4,7 +4,6 @@ summary: Electrical engineer, video blogger (EEVblog)
 categories:
 - electrical
 - engineer
-- weblogger
 ---
 
 #### Who are you, and what do you do?

@@ -3,7 +3,7 @@ title: Iris Willow
 summary: Jewellery designer
 categories:
 - designer
-- jewellery
+- jeweller
 - mac
 ---
 
