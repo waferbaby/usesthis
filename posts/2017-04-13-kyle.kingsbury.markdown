@@ -20,7 +20,7 @@ The safety analysis work I do is CPU and memory intensive, and readily paralleli
 
 There's definitely a trade-off between performance and being locked into a tiny set of weird motherboards that support that kind of hardware. I don't necessarily recommend it unless you like being the kind of person who opens their case every few weeks, muttering "what is it THIS time" under their breath.
 
-I use a standard layout Das Keyboard with Cherry MX Brown switches, and cannot believe that I'm the sort of person who cares about that. Maybe it comes with bring a [Vim][] user. There are no labels on the keycaps (it was the only model they had on sale) which means it takes me forever to type passwords -- and every time I use [Mutt][] is a game of Russian Roulette. I use a [Logitech G5 laser mouse][g5-laser-mouse], which may be the closest to the Platonic ideal pointing device as it is possible for late-stage capitalism to produce.
+I use a standard layout Das Keyboard with Cherry MX Brown switches, and cannot believe that I'm the sort of person who cares about that. Maybe it comes with being a [Vim][] user. There are no labels on the keycaps (it was the only model they had on sale) which means it takes me forever to type passwords -- and every time I use [Mutt][] is a game of Russian Roulette. I use a [Logitech G5 laser mouse][g5-laser-mouse], which may be the closest to the Platonic ideal pointing device as it is possible for late-stage capitalism to produce.
 
 My display is a 32-inch 4k Dell -- I think it's a [UP3216Q][ultrasharp-4k-up3216q]. It's a wonderful screen for editing photographs and for rendering lots of [xterms][xterm], which, let's face it, is 90% of my computing life.
 
