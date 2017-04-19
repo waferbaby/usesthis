@@ -9,7 +9,7 @@ text-decoration: underline;
 }
 
 a:hover {
-color: #555;
+color: #444;
 }
 
 aside {
@@ -29,6 +29,7 @@ font-family: -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Ne
 font-size: 1em;
 line-height: 1.8em;
 padding: 30px;
+background-color: #fff;
 }
 
 code {
@@ -94,8 +95,9 @@ margin: 0;
 
 h4 {
 font-size: 150%;
+font-weight: normal;
 padding: 0;
-margin: 40px 0 0 0;
+margin: 0 0 15px 0;
 }
 
 h5 {
@@ -110,7 +112,7 @@ flex: 1 0;
 }
 
 header#main nav {
-font-size: 120%;
+font-size: 140%;
 padding: 0;
 margin: 15px 0 30px 0;
 border-top: solid 1px #eee;
@@ -125,6 +127,10 @@ margin: 0;
 header#main nav ul li {
 display: block;
 margin-bottom: 5px;
+}
+
+header#main nav ul li a {
+text-decoration: none;
 }
 
 img.detail, img.portrait {
@@ -149,20 +155,24 @@ margin: 0;
 }
 
 nav ul li {
-display: inline-block;
+display: inline;
 }
 
 nav.categories {
-font-size: 80%;
-margin-top: 10px;
+margin: 10px 0 30px 0;
+padding-bottom: 10px;
+border-bottom: solid 1px #eee;
 }
 
-nav.categories ul li {
-text-align: center;
-padding: 0 5px;
-margin: 0 5px 5px 0;
-border: solid 1px #eee;
-border-radius: 5px;
+nav.categories ul li:before {
+content: "/";
+padding: 0 10px;
+color: #eee;
+}
+
+nav.categories ul li:first-child:before {
+content: "";
+padding: 0;
 }
 
 nav.categories ul li a {
@@ -202,8 +212,16 @@ margin: 0 0 20px 0;
 border: solid 1px #ddd;
 }
 
+section#categories > ul {
+list-style: none;
+}
+
 section#categories > ul li {
-margin-bottom: 15px;
+margin-bottom: 10px;
+}
+
+section#categories > ul li span.summary {
+font-size: 80%;
 }
 
 section#inspired > ul,
