@@ -13,7 +13,7 @@ layout: default
     <time datetime="<%= @this.date.strftime('%Y-%m-%d') %>" class="dt-published">Published <%= @this.date.strftime('<a href="/interviews/%Y/%m/" title="View all the interviews from %B, %Y.">%B %d</a>, <a href="/interviews/%Y/" title="View all the interviews from %Y.">%Y</a>') %>.</time>
     <nav class="categories">
       <ul>
-      <% @this.categories.each do |slug| %><li><a href="/categories/<%= slug %>/" title="View all the '<%= slug %>' interviews." class="p-category"><%= slug %></a></li><% end %>
+      <% @this.categories.each do |slug| %><li><a href="/categories/<%= slug %>/" title="View all the <%= @site.categories[slug].name %> interviews." class="p-category"><%= slug %></a></li><% end %>
       </ul>
     </nav>
   </header>
