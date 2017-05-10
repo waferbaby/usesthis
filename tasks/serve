@@ -1,2 +1,0 @@
-#!/usr/bin/env sh
-./tasks/build && cd site/ && mongoose
