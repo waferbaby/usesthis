@@ -2,7 +2,6 @@
 
 trap('SIGINT') { exit! }
 
-require 'rubygems'
 require 'yaml'
 require 'faraday'
 
