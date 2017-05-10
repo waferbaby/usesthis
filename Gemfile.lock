@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (2.3.1)
+    dimples (2.3.2)
       tilt (~> 2.0)
       trollop (~> 2.1)
     erubis (2.7.0)
@@ -9,7 +9,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     mongoose (0.2.5)
     multipart-post (2.0.0)
-    oj (3.0.5)
+    oj (3.0.6)
     redcarpet (3.4.0)
     tilt (2.0.7)
     trollop (2.1.2)
@@ -26,4 +26,4 @@ DEPENDENCIES
   redcarpet
 
 BUNDLED WITH
-   1.14.3
+   1.14.6
