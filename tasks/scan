@@ -2,11 +2,11 @@
 
 trap('SIGINT') { exit! }
 
-require 'yaml'
-require 'faraday'
-
 source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
+
+require 'yaml'
+require 'faraday'
 
 type = ARGV[0]
 
