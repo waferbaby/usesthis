@@ -310,6 +310,11 @@ margin: 20px 0;
 
 @media all and (max-width: 799px) {
 
+  body {
+  padding: 20px;
+  font-size: 90%;
+  }
+
   header#main nav ul li {
   display: inline-block;
   width: 33%;
