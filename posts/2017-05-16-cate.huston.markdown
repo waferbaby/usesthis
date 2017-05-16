@@ -3,6 +3,7 @@ title: Cate Huston
 summary: Mobile lead, Automattic
 categories:
 - developer
+- software
 ---
 
 #### Who are you, and what do you do?
