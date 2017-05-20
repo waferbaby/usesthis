@@ -3,7 +3,8 @@
   <head>
     <title>The Setup / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="/feed/" rel="alternate" title="Atom feed" type="application/atom+xml">
+    <link href="/feeds/atom" rel="alternate" title="Atom feed" type="application/atom+xml">
+    <link href="/feeds/json" rel="alternate" title="JSON feed" type="application/json">
   <% if @type == :interview %>
     <% if @this.previous_post %><link rel="prev" href="https://usesthis.com/interviews/<%= @this.previous_post.slug %>/"><% end %>
     <% if @this.next_post %><link rel="next" href="https://usesthis.com/interviews/<%= @this.next_post.slug %>/"><% end %>
