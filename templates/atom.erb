@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 <title>The Setup<% if @category %> / <%= @category.capitalize %><% end %></title>
-<link href="http://usesthis.com/<% if @category %>/interviews/<%= @category %><% end %>feed/" rel="self"/>
+<link href="http://usesthis.com/<% if @category %>/interviews/<%= @category %>/<% end %>feed/" rel="self"/>
 <link href="http://usesthis.com/"/>
 <updated><%= Time.new.strftime('%FT%T') %>Z</updated>
 <id>http://usesthis.com/</id>
@@ -12,10 +12,10 @@
 
 <% @posts.each do |interview| %>
 <entry>
+  <id>https://usesthis.com/interviews/<%= interview.slug %>/</id>
   <title><%= interview.title %></title>
-  <link href="http://usesthis.com/interviews/<%= interview.slug %>/"/>
+  <link href="https://usesthis.com/interviews/<%= interview.slug %>/"/>
   <updated><%= interview.date.strftime('%FT%T') %>Z</updated>
-  <id>http://<%= interview.slug %>.usesthis.com/</id>
   <content type="html">
     <%== "<p><img src=\"http://usesthis.com/images/interviews/#{interview.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{interview.title}\"></p>" %>
     <%== interview.rendered_contents %>
