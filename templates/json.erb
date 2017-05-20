@@ -1,0 +1,21 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "The Setup<% if @category %> / <%= @category.capitalize %><% end %>",
+  "home_page_url": "https://usesthis.com/",
+  "feed_url": "http://usesthis.com/<% if @category %>/interviews/<%= @category %>/<% end %>feed/",
+  "author": {
+    "name": "Daniel Bogan"
+  },
+  "items": [
+  <% @posts.each do |interview| %>
+    {
+      "id": "http://usesthis.com/interviews/<%= interview.slug %>/",
+      "title": "<%= interview.title %>",
+      "url": "http://usesthis.com/interviews/<%= interview.slug %>/",
+      "image": "http://usesthis.com/images/interviews/<%= interview.slug %>/portrait.jpg",
+      "date_published": "<%= interview.date.strftime('%FT%T') %>Z",
+      "content_html": "<%= interview.rendered_contents.gsub('"', '\"') %>"
+    }<%= "," unless interview == @posts.last %>
+  <% end %>
+  ]
+}
