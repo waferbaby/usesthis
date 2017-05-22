@@ -128,7 +128,7 @@ module UsesThis
 
         file.filename = 'index'
         file.extension = 'json'
-        file.contents = Oj.dump(contents, indent: 2)
+        file.contents = JSON.pretty_generate(contents, indent: '  ', space: ' ')
 
         file.write(file.output_path(path), false)
       end
