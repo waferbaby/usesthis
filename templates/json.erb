@@ -14,7 +14,7 @@
       "url": "http://usesthis.com/interviews/<%= interview.slug %>/",
       "image": "http://usesthis.com/images/interviews/<%= interview.slug %>/portrait.jpg",
       "date_published": "<%= interview.date.strftime('%FT%T') %>Z",
-      "content_html": "<%= interview.rendered_contents.gsub('"', '\"') %>"
+      "content_html": <%= interview.rendered_contents.to_json %>
     }<%= "," unless interview == @posts.last %>
   <% end %>
   ]
