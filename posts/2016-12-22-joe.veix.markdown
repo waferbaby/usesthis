@@ -17,7 +17,7 @@ I spend most of my days looking at a [2013 MacBook Air][macbook-air] and an [iPh
 
 #### And what software?
 
-I write most of my early drafts and outlines in [Apple Notes][notes], synced across my various devices, with all the auto-formatting tools turned off. When I'm ready to work on a more serious draft I'll copy/paste the text to [Pages][] or [Google Docs][google-docs]. For other projects I use janky outdated bootleg copies of Photoshop and Final Draft. For help procrastinating on answering emails, I use [Google Inbox][inbox].
+I write most of my early drafts and outlines in [Apple Notes][notes], synced across my various devices, with all the auto-formatting tools turned off. When I'm ready to work on a more serious draft I'll copy/paste the text to [Pages][] or [Google Docs][google-docs]. For other projects I use janky outdated bootleg copies of Photoshop and Final Draft. For help procrastinating on answering emails, I use [Google Inbox][google-inbox].
 
 #### What would be your dream setup?
 
