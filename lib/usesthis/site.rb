@@ -30,7 +30,7 @@ module UsesThis
 
     def scan_gear
       %w(hardware software).each do |type|
-        Dir.glob(File.join(@source_paths[:wares], type, '*.yml')).each do |path|
+        Dir.glob(File.join(@source_paths[:wares], type, '**', '*.yml')).each do |path|
           ware = UsesThis::Ware.new(path)
           send(type)[ware.slug] = ware
         end
