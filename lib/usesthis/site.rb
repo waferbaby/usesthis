@@ -2,9 +2,7 @@ module UsesThis
   class Site < Dimples::Site
     attr_accessor :hardware
     attr_accessor :software
-    attr_accessor :inspired_links
-    attr_accessor :personal_links
-    attr_accessor :sponsor_links
+    attr_accessor :links
     attr_accessor :stats
 
     def initialize(config = {})
@@ -13,9 +11,11 @@ module UsesThis
       @hardware = {}
       @software = {}
 
-      @inspired_links = []
-      @personal_links = []
-      @sponsor_links = []
+      @links = {
+        inspired: [],
+        personal: [],
+        sponsor: []
+      }
 
       @source_paths[:wares] = File.join(@source_paths[:root], 'gear')
       @source_paths[:links] = File.join(@source_paths[:root], 'links')
@@ -40,7 +40,7 @@ module UsesThis
     def scan_links
       %w(inspired personal sponsor).each do |type|
         Dir.glob(File.join(@source_paths[:links], type, '*.yml')).each do |path|
-          send("#{type}_links") << UsesThis::Link.new(path)
+          @links[type.to_sym] << UsesThis::Link.new(path)
         end
       end
     end
