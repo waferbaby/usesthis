@@ -8,6 +8,7 @@ Metrics/AbcSize:
   Max: 30
 
 Metrics/BlockLength:
+  Max: 30
   Exclude:
     - 'test/**/*.rb'
 
@@ -16,3 +17,6 @@ Metrics/ClassLength:
 
 Metrics/MethodLength:
   Max: 20
+
+Metrics/ModuleLength:
+  Enabled: false
