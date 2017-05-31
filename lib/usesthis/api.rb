@@ -1,4 +1,5 @@
 module UsesThis
+  # A module that generates a static API.
   module API
     VERSION = 1
 
@@ -13,24 +14,26 @@ module UsesThis
 
         root_path = File.join(@site.output_paths[:site], 'api')
 
-        %w(interviews hardware software categories stats).each do |item|
+        %w[interviews hardware software categories stats].each do |item|
           @output_paths[item.to_sym] = File.join(root_path, item)
         end
 
-        Dimples.logger.info("Building API...")
+        Dimples.logger.info('Building API...')
 
         generate_interviews
         generate_categories
         generate_gear
         generate_stats
 
-        Dimples.logger.info("API built!")
+        Dimples.logger.info('API built!')
       end
 
       def generate_interviews
-        Dimples.logger.debug_generation('interviews', @site.posts.length) if @site.config['verbose_logging']
+        if @site.config['verbose_logging']
+          Dimples.logger.debug_generation('interviews', @site.posts.length)
+        end
 
-        interview_data = []
+        interviews_data = []
 
         @site.posts.each do |interview|
           data = interview.to_h
@@ -38,74 +41,69 @@ module UsesThis
           path = File.join(@output_paths[:interviews], interview.slug)
           write_json_file(path, interview: data)
 
-          %i(contents gear).each { |key| data.delete(key) }
-          interview_data << data
+          %i[contents gear].each { |key| data.delete(key) }
+          interviews_data << data
         end
 
-        write_json_file(@output_paths[:interviews], interviews: interview_data)
+        write_json_file(@output_paths[:interviews], interviews: interviews_data)
       end
 
       def generate_categories
-        Dimples.logger.debug_generation('categories', @site.categories.length) if @site.config['verbose_logging']
-
-        categories = @site.categories.keys.sort!
+        if @site.config['verbose_logging']
+          Dimples.logger.debug_generation('categories', @site.categories.length)
+        end
 
         @site.categories.each_value do |category|
-          interview_data = []
+          interviews_data = []
 
           category.posts.each do |interview|
-            interview_data << interview.to_h.tap do |h|
-              h.delete(:contents)
-              h.delete(:gear)
+            data = interview.to_h.reject do |k, _|
+              %i[contents gear].include?(k)
             end
+
+            interviews_data << data
           end
 
           path = File.join(@output_paths[:categories], category.slug)
-          write_json_file(path, interviews: interview_data)
+          write_json_file(path, interviews: interviews_data)
         end
 
+        categories = @site.categories.keys.sort!
         write_json_file(@output_paths[:categories], categories: categories)
       end
 
       def generate_gear
-        %w(hardware software).each do |type|
-          gear_items = @site.send(type)
-          type_sym = type.to_sym
+        %i[hardware software].each do |type|
+          gear = @site.send(type)
           gear_data = []
 
-          Dimples.logger.debug_generation(type, gear_items.length) if @site.config['verbose_logging']
-
-          gear_items.each_value do |ware|
-            data = ware.to_h
-
-            path = File.join(@output_paths[type_sym], ware.slug)
-            write_json_file(path, gear: data)
-
-            @stats[type_sym][:all][ware.slug] = ware.interviews.count
-
-            ware.interviews.each do |interview|
-              year_sym = interview.year.to_sym
-
-              @stats[type_sym][year_sym] ||= Hash.new(0)
-              @stats[type_sym][year_sym][ware.slug] += 1
-            end
-
-            %i(description url interviews).each { |key| data.delete(key) }
-
-            gear_data << data
+          if @site.config['verbose_logging']
+            Dimples.logger.debug_generation(type, gear.length)
           end
 
-          write_json_file(@output_paths[type_sym], gear: gear_data)
+          gear.each_value do |ware|
+            data = ware.to_h
+            path = File.join(@output_paths[type], ware.slug)
+
+            write_json_file(path, gear: data)
+            record_gear_stats(ware)
+
+            gear_data << data.select { |k, _| %i[slug name].include?(k) }
+          end
+
+          write_json_file(@output_paths[type.to_sym], gear: gear_data)
         end
       end
 
       def generate_stats
-        Dimples.logger.debug("Calculating stats...") if @site.config['verbose_logging']
+        if @site.config['verbose_logging']
+          Dimples.logger.debug('Calculating stats...')
+        end
 
-        %w(hardware software).each do |type|
+        %w[hardware software].each do |type|
           @stats[type.to_sym].each do |key, values|
             stats = values.sort_by(&:last).reverse[0..49].to_h
-            data = stats.map { |key, value| { slug: key, count: value } }
+            data = stats.map { |slug, count| { slug: slug, count: count } }
 
             parts = [@output_paths[:stats], type]
             parts << key.to_s unless key == :all
@@ -121,6 +119,19 @@ module UsesThis
         }
 
         write_json_file(@output_paths[:stats], general_stats)
+      end
+
+      def record_gear_stats(ware)
+        type_sym = ware.is_a?(UsesThis::Hardware) ? :hardware : :software
+
+        @stats[type_sym][:all][ware.slug] = ware.interviews.count
+
+        ware.interviews.each do |interview|
+          year_sym = interview.year.to_sym
+
+          @stats[type_sym][year_sym] ||= Hash.new(0)
+          @stats[type_sym][year_sym][ware.slug] += 1
+        end
       end
 
       def write_json_file(path, contents)

@@ -1,4 +1,5 @@
 module UsesThis
+  # A class that models a single interview.
   class Interview < Dimples::Post
     attr_accessor :hardware
     attr_accessor :software
@@ -40,40 +41,31 @@ module UsesThis
       @contents.scan(/\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/).each do |link|
         slug = (link[1] ? link[1] : link[0].downcase)
 
-        %w(hardware software).each do |type|
-          if ware = @site.send(type)[slug]
-            send(type)[slug] ||= ware.tap { |w| w.interviews << self }
-          end
+        %w[hardware software].each do |type|
+          ware = @site.send(type)[slug]
+          send(type)[slug] ||= ware.tap { |w| w.interviews << self } if ware
         end
       end
     end
 
     def to_h
-      output = {
+      @interview_hash ||= {
         slug: @slug,
         name: @title,
         url: "https://usesthis.com/interviews/#{@slug}/",
         summary: @summary,
         date: @date.to_i,
         categories: @categories,
+        credits: @credits || '',
         contents: @linked_contents,
-        gear: { hardware: [], software: [] }
-      }
-
-      output[:credits] = @credits if @credits
-
-      %w(hardware software).each do |type|
-        type_sym = type.to_sym
-
-        send(type).each_value do |ware|
-          data = ware.to_h
-          data.delete(:interviews)
-
-          output[:gear][type_sym] << data
+        gear: { hardware: [], software: [] }.tap do |gear|
+          %w[hardware software].each do |type|
+            send(type).each_value do |ware|
+              gear[type.to_sym] << ware.to_h.reject { |k, _| k == :interviews }
+            end
+          end
         end
-      end
-
-      output
+      }
     end
   end
 end

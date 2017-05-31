@@ -14,27 +14,22 @@ abort('You must provide a name.') if ARGV[1].nil?
 type = ARGV[0]
 name = ARGV[1..-1].join(' ')
 slug = name.downcase.tr(' ', '-')
-parent_path = slug[0].match(/[a-z]/) ? slug[0] : '0'
+prefix = slug[0] =~ /[a-z]/ ? slug[0] : '0'
+path = File.join(source_path, 'gear', type, prefix, "#{slug}.yml")
 
-paths = {}
-
-%w(hardware software).each do |gear_type|
-  paths[gear_type] = File.join(source_path, 'gear', gear_type, parent_path, "#{slug}.yml")
+unless Dir.glob(path.gsub(type, '**')).empty?
+  abort("Entry already exists for '#{slug}'.")
 end
 
-if File.exist?(paths['hardware']) || File.exist?(paths['software'])
-  abort "Entry already exists for '#{slug}'."
-else
-  entry = <<ENTRY
+entry = <<ENTRY
 ---
 name: #{name}
 description: (description)
 url: (url)
 ENTRY
 
-  File.open(paths[type], 'w') do |f|
-    f.write(entry)
-  end
+File.open(path, 'w') do |f|
+  f.write(entry)
 end
 
-`#{editor} #{paths[type]}`
+`#{editor} #{path}`

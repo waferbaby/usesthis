@@ -13,8 +13,10 @@ abort('You must supply a name for the interviewee.') if ARGV.length < 2
 name = ARGV.join(' ')
 slug = name.downcase.tr(' ', '.')
 
+date_pattern = /\d{4}-\d{2}-\d{2}/
+
 interviews = Dir.glob(File.join(source_path, 'posts', '*.markdown'))
-latest_date = File.basename(interviews.reverse.first).match(/\d{4}-\d{2}-\d{2}/)[0]
+latest_date = File.basename(interviews.reverse.first).match(date_pattern)[0]
 next_date = Date.parse(latest_date).next_day
 
 loop do

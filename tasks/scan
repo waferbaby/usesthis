@@ -10,65 +10,43 @@ require 'faraday'
 
 type = ARGV[0]
 
-unless type =~ /^(hardware|software|links|interviews)$/
-  abort("Usage: #{__dir__}/scan [hardware|links|software]")
-end
+abort("Usage: #{__dir__}/scan [gear|links]") unless type =~ /^(gear|links)$/
 
-case type
-when 'hardware'
-  glob = File.join(source_path, 'gear', 'hardware', '*.yml')
-when 'links'
-  glob = File.join(source_path, 'links', '**', '*.yml')
-when 'software'
-  glob = File.join(source_path, 'gear', 'software', '*.yml')
-end
+files = case type
+        when 'gear'
+          File.join(source_path, 'gear', '**', '*.yml')
+        when 'links'
+          File.join(source_path, 'links', '**', '*.yml')
+        end
 
 puts 'Scanning:'
 
-Dir.glob(glob) do |path|
-  begin
-    data = YAML.load_file(path)
-    original_url = data['url']
+Dir.glob(files) do |path|
+  data = YAML.load_file(path)
+  original_url = data['url']
 
-    print "- #{data['name']}: "
+  print "- #{data['name']}: "
 
-    response = Faraday.get(data['url'])
-    new_url = response.headers['location']
+  response = Faraday.get(data['url'])
+  new_url = response.headers['location']
 
-    case response.status
-    when 200
-      puts 'All good.'
-    when 301, 308
-      if new_url =~ /jsessionid/
-        puts 'Session URL - ignoring.'
-      else
-        unless new_url =~ /^https?:\/\//
-          uri = Faraday.URI(original_url)
-          new_url = "#{uri.scheme}://#{uri.host}#{new_url}"
-        end
-
-        data['url'] = new_url
-        puts 'Updated (redirected).'
-      end
-    when 302, 307
-      puts 'Temporary redirect - ignoring.'
-    when 404
-      puts 'Dead link!'
-      data['error'] = 'Dead link'
-    else
-      puts "Unexpected status (#{response.status})!"
+  case response.status
+  when 200
+    puts 'All good.'
+  when 301, 308
+    unless new_url =~ %r{/^https?:\/\//}
+      uri = Faraday.URI(original_url)
+      new_url = "#{uri.scheme}://#{uri.host}#{new_url}"
     end
-  rescue Faraday::ConnectionFailed, Faraday::TimeoutError
-    puts 'Timed out!'
-    data['error'] = "Dead site"
-  rescue Faraday::SSLError
-    puts 'SSL certificate error!'
-    data['error'] = "SSL certificate"
-  rescue URI::InvalidURIError
-    puts 'Invalid URL!'
-    data['error'] = "Invalid URL"
-  rescue Zlib::DataError
-    puts 'Header decompression error - ignoring'
+
+    data['url'] = new_url
+    puts 'Updated (redirected).'
+  when 302, 307
+    puts 'Temporary redirect - ignoring.'
+  when 404
+    data['error'] = 'Dead link'
+  else
+    puts "Unexpected status (#{response.status})!"
   end
 
   if data['url'] != original_url.to_s || data['error']

@@ -1,4 +1,5 @@
 module UsesThis
+  # A class that generates the usesthis.com site.
   class Site < Dimples::Site
     attr_accessor :hardware
     attr_accessor :software
@@ -29,16 +30,23 @@ module UsesThis
     end
 
     def scan_gear
-      %w(hardware software).each do |type|
-        Dir.glob(File.join(@source_paths[:wares], type, '**', '*.yml')).each do |path|
-          ware = UsesThis::Ware.new(path)
+      %w[hardware software].each do |type|
+        type_path = File.join(@source_paths[:wares], type, '**', '*.yml')
+        Dir.glob(type_path).each do |path|
+          ware = case type
+                 when 'hardware'
+                   UsesThis::Hardware.new(path)
+                 when 'software'
+                   UsesThis::Software.new(path)
+                 end
+
           send(type)[ware.slug] = ware
         end
       end
     end
 
     def scan_links
-      %w(inspired personal sponsor).each do |type|
+      %w[inspired personal sponsor].each do |type|
         Dir.glob(File.join(@source_paths[:links], type, '*.yml')).each do |path|
           @links[type.to_sym] << UsesThis::Link.new(path)
         end
@@ -53,7 +61,9 @@ module UsesThis
     def generate_posts
       super
 
-      Dir.glob(File.join(@source_paths[:root], 'errors', '*.markdown')) do |path|
+      errors_path = File.join(@source_paths[:root], 'errors', '*.markdown')
+
+      Dir.glob(errors_path) do |path|
         page = @post_class.new(self, path)
 
         page.filename = File.basename(path, '.markdown')

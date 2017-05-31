@@ -1,4 +1,5 @@
 module UsesThis
+  # A class that models a single piece of hardware or software.
   class Ware
     attr_accessor :slug
     attr_accessor :name
@@ -19,22 +20,21 @@ module UsesThis
     end
 
     def to_h
-      output = {
+      @ware_hash ||= {
         slug: @slug,
         name: @name,
         description: @description,
         url: @url,
-        interviews: []
+        interviews: @interviews.map do |interview|
+          { slug: interview.slug, name: interview.title }
+        end
       }
-
-      @interviews.each do |interview|
-        output[:interviews] << {
-          slug: interview.slug,
-          name: interview.title
-        }
-      end
-
-      output
     end
+  end
+
+  class Hardware < Ware
+  end
+
+  class Software < Ware
   end
 end
