@@ -1,5 +1,6 @@
 $LOAD_PATH.unshift(__dir__)
 
+require 'dimples'
 require 'json'
 
 require 'usesthis/api'
