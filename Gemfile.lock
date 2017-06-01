@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (2.5.1)
+    dimples (2.6.0)
       tilt (~> 2.0)
       trollop (~> 2.1)
     erubis (2.7.0)
