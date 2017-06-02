@@ -20,7 +20,7 @@ I'm a pretty frequent surfer and I have a 6'4" Modern Love Child surfboard. It's
 
 #### And what software?
 
-The switch from in-house designer to product designer was intersting. At Photojojo I'd be making goofy illustrations for pranks (like making a package smell like fresh baked cookies) in the morning, and then I'd be coding the frontend for a promotion in the afternoon. At Patreon I'm mostly in [Sketch][], [Dropbox Paper][dropbox-paper], and [Google Sheets][google-sheets].
+The switch from in-house designer to product designer was interesting. At Photojojo I'd be making goofy illustrations for pranks (like making a package smell like fresh baked cookies) in the morning, and then I'd be coding the frontend for a promotion in the afternoon. At Patreon I'm mostly in [Sketch][], [Dropbox Paper][dropbox-paper], and [Google Sheets][google-sheets].
 
 [Signal][], [Google Groups][google-groups], and [Google Drive][google-drive] are the apps that make organizing possible. I don't know how people did this stuff before.
 
