@@ -4,12 +4,21 @@ GEM
     dimples (2.6.0)
       tilt (~> 2.0)
       trollop (~> 2.1)
+    docile (1.1.5)
     erubis (2.7.0)
     faraday (0.12.1)
       multipart-post (>= 1.2, < 3)
+    json (2.1.0)
+    minitest (5.10.1)
     mongoose (0.2.5)
     multipart-post (2.0.0)
+    rake (12.0.0)
     redcarpet (3.4.0)
+    simplecov (0.14.1)
+      docile (~> 1.1.0)
+      json (>= 1.8, < 3)
+      simplecov-html (~> 0.10.0)
+    simplecov-html (0.10.1)
     tilt (2.0.7)
     trollop (2.1.2)
 
@@ -20,8 +29,11 @@ DEPENDENCIES
   dimples
   erubis
   faraday
+  minitest
   mongoose
+  rake
   redcarpet
+  simplecov
 
 BUNDLED WITH
    1.14.6
