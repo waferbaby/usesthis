@@ -3,6 +3,7 @@ module UsesThis
   class Interview < Dimples::Post
     attr_accessor :hardware
     attr_accessor :software
+    attr_accessor :credits
 
     def initialize(site, path)
       super
@@ -12,29 +13,25 @@ module UsesThis
       @hardware = {}
       @software = {}
 
+      @credits = nil
+
       scan_links
     end
 
     def contents
-      if @linked_contents.nil?
-        @linked_contents = @contents.clone
+      super + gear_links
+    end
 
-        wares = @hardware.merge(@software)
+    def gear_links
+      @gear_links ||= ''.tap do |links|
+        gear = @hardware.merge(@software)
 
-        unless wares.empty?
-          @linked_contents += "\n\n"
-
-          links = []
-
-          wares.each_value do |ware|
-            links << "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
-          end
-
-          @linked_contents += links.join("\n")
+        unless gear.nil?
+          links << "\n\n" << gear.map do |_, ware|
+            "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
+          end.join("\n")
         end
       end
-
-      @linked_contents
     end
 
     def scan_links
@@ -57,7 +54,7 @@ module UsesThis
         date: @date.to_i,
         categories: @categories,
         credits: @credits || '',
-        contents: @linked_contents,
+        contents: contents,
         gear: { hardware: [], software: [] }.tap do |gear|
           %w[hardware software].each do |type|
             send(type).each_value do |ware|
