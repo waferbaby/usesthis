@@ -1,0 +1,12 @@
+{
+  "gear": [
+    {
+      "slug": "phone",
+      "count": 1
+    },
+    {
+      "slug": "laptop",
+      "count": 1
+    }
+  ]
+}
