@@ -16,8 +16,8 @@ def test_site
   ))
 end
 
-def read_api_file(path)
-  path = File.join(test_site.output_paths[:site], 'api', path)
+def read_api_file(path = nil)
+  path = File.join(test_site.output_paths[:site], 'api', path, 'index.json')
   JSON.load(File.read(path))
 end
 
