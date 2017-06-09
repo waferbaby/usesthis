@@ -18,14 +18,10 @@ module UsesThis
           @output_paths[item.to_sym] = File.join(root_path, item)
         end
 
-        Dimples.logger.info('Building API...')
-
         generate_interviews
         generate_categories
         generate_gear
         generate_stats
-
-        Dimples.logger.info('API built!')
       end
 
       def generate_interviews
