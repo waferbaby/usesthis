@@ -1,0 +1,14 @@
+{
+  "gear": {
+    "slug": "laptop",
+    "name": "Laptop.",
+    "description": "A laptop.",
+    "url": "http://www.example.com/laptop/",
+    "interviews": [
+      {
+        "slug": "interviewee",
+        "name": "Interviewee"
+      }
+    ]
+  }
+}

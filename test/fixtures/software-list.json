@@ -1,0 +1,12 @@
+{
+  "gear": [
+    {
+      "slug": "image-editor",
+      "name": "Image Editor"
+    },
+    {
+      "slug": "text-editor",
+      "name": "Text Editor"
+    }
+  ]
+}
