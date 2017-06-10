@@ -1,0 +1,16 @@
+{
+  "interviews": [
+    {
+      "slug": "interviewee",
+      "name": "Interviewee",
+      "url": "https://usesthis.com/interviews/interviewee/",
+      "summary": "Test interview fake person",
+      "date": 1483189200,
+      "categories": [
+        "fake",
+        "test"
+      ],
+      "credits": ""
+    }
+  ]
+}
