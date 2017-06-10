@@ -1,6 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    codeclimate-test-reporter (1.0.7)
+      simplecov
     dimples (2.6.1)
       tilt (~> 2.0)
       trollop (~> 2.1)
@@ -26,6 +28,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  codeclimate-test-reporter
   dimples
   erubis
   faraday

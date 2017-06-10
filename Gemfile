@@ -8,6 +8,7 @@ gem 'mongoose'
 gem 'redcarpet'
 
 group :test do
+  gem 'codeclimate-test-reporter'
   gem 'minitest'
   gem 'rake'
   gem 'simplecov'
