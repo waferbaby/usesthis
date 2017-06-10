@@ -35,7 +35,7 @@ describe 'API' do
 
   describe 'when generating categories' do
     it 'renders a list of categories' do
-      source = { 'categories' => test_interview.dig('interview', 'categories') }
+      source = { 'categories' => test_interview['interview']['categories'] }
       output = read_api_file('categories')
 
       output.must_equal(source)
