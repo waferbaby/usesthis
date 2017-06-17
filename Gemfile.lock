@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    codeclimate-test-reporter (1.0.7)
-      simplecov
+    codeclimate-test-reporter (1.0.8)
+      simplecov (<= 0.13)
     dimples (2.6.1)
       tilt (~> 2.0)
       trollop (~> 2.1)
@@ -16,7 +16,7 @@ GEM
     multipart-post (2.0.0)
     rake (12.0.0)
     redcarpet (3.4.0)
-    simplecov (0.14.1)
+    simplecov (0.13.0)
       docile (~> 1.1.0)
       json (>= 1.8, < 3)
       simplecov-html (~> 0.10.0)
@@ -42,4 +42,4 @@ RUBY VERSION
    ruby 2.2.0p0
 
 BUNDLED WITH
-   1.15.0
+   1.15.1
