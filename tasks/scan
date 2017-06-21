@@ -11,7 +11,9 @@ require 'faraday'
 
 type = ARGV[0]
 
-abort("Usage: #{__dir__}/scan [gear|links]") unless type =~ /^(gear|links)$/
+unless type.match?(/^(gear|links)$/)
+  abort("Usage: #{__dir__}/scan [gear|links]")
+end
 
 files = case type
         when 'gear'
@@ -35,7 +37,7 @@ Dir.glob(files) do |path|
   when 200
     puts 'All good.'
   when 301, 308
-    unless new_url =~ %r{/^https?:\/\//}
+    unless new_url.match?(%r{/^https?:\/\//})
       uri = Faraday.URI(original_url)
       new_url = "#{uri.scheme}://#{uri.host}#{new_url}"
     end

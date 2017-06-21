@@ -6,7 +6,7 @@ $LOAD_PATH.unshift(source_path)
 
 editor = ENV['EDITOR'] || 'vi'
 
-unless ARGV[0] =~ /^(hardware|software)$/
+unless ARGV[0].match?(/^(hardware|software)$/)
   abort("You must supply a type ('hardware' or 'software').")
 end
 
@@ -15,7 +15,7 @@ abort('You must provide a name.') if ARGV[1].nil?
 type = ARGV[0]
 name = ARGV[1..-1].join(' ')
 slug = name.downcase.tr(' ', '-')
-prefix = slug[0] =~ /[a-z]/ ? slug[0] : '0'
+prefix = slug[0].match?(/[a-z]/) ? slug[0] : '0'
 path = File.join(source_path, 'gear', type, prefix, "#{slug}.yml")
 
 unless Dir.glob(path.gsub(type, '**')).empty?

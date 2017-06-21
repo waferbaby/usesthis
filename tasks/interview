@@ -21,7 +21,7 @@ latest_date = File.basename(interviews.reverse.first).match(date_pattern)[0]
 next_date = Date.parse(latest_date).next_day
 
 loop do
-  break if next_date.strftime('%a') =~ /Tue|Thu/
+  break if next_date.strftime('%a').match?(/Tue|Thu/)
   next_date = next_date.next_day
 end
 
