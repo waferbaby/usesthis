@@ -1,0 +1,32 @@
+---
+title: John Romero
+summary: Game designer (Doom, Quake), developer
+categories:
+- game
+- designer
+- developer
+---
+
+#### Who are you, and what do you do?
+
+Hello, I'm [John Romero](http://rome.ro/ "John's website.") and I'm a game designer, programmer, level design, and audio engineer all rolled into one person. I work at my game company Romero Games Ltd. based in Galway, Ireland. I just finished a game called [Gunman Taco Truck][gunman-taco-truck] (desktop & mobile) and a game jam release named [July 4, 1976][july-4-1976]. I'm currently working on a big multi-year game. I've been making games since 1979 and love what I do every day. It's the best job in the world. I work with my wife, Brenda, who has been in this industry since 1981.
+
+#### What hardware do you use?
+
+I've been using the same [Mac Pro][mac-pro] since it was released three years ago and it's still incredible. It's a 2013 Mac Pro (the black trashcan) with 8-core 3.0Ghz CPUs, 64GB 1866Mhz RAM, two [FirePro D500][firepro-d500] (3GB each), 1TB ePCI SSD, with two [Thunderbolt monitors][thunderbolt-display] and one 4K monitor. I have 12TB RAID for huge storage, and Bose speakers. 
+
+I also use a PC with an [AMD Ryzen 1800X][ryzen-7-1800x], 64GB DDR4 3000Mhz RAM, 512GB SSD, 2TB SSHD, and [Nvidia GTX 1070][geforce-gtx-1070] (8GB) running [Windows 10][windows-10].
+
+I have my 4K monitor hooked up to the PC, Mac Pro, and [Switch][switch.3] console. I also use my [iPhone 7 Plus][iphone-7-plus] when I'm not on my computers. I love Apple's ecosystem because iCloud keeps me updated constantly on my [MacBook Air][macbook-air], iPhone, iPad, and Mac Pro all the time. When I change files on my desktop that's reflected on all my devices. I can even look at my desktop files from my iPhone because iCloud syncs it all. I love it.
+
+#### And what software?
+
+I use a ton of software. Here's a list: [Xcode][], [Pages][], [Numbers][], [Keynote][], [Sublime Text][sublime-text], [Corona SDK][corona], [Unity][], [Final Cut Pro][final-cut-pro], [Versions][], [Perforce][], [VMWare Fusion][vmware-fusion], [Messages][], [REAPER][reaper], [Transmit][], [Coda][], [Dropbox][], [Skype][], [Dashlane][], [Slack][], [Terminal][], [Assembla][], [Airmail][airmail], [Spark Mail][spark.2], [Google Docs][google-docs], [Pixelmator][], [Pixen][], [TexturePacker][], [Particle Designer][particle-designer], [Tiled][], [iTunes][] + Music + Match, Screenium, [Steam][], [Twitter][], [Facebook][].
+
+When I have to use [Excel][], [Word][] or [PowerPoint][] I have an [Office 365][office-365] subscription. 
+
+#### What would be your dream setup?
+
+My dream setup would be a new Mac Pro, since everything else is already part of my dream setup. Apple hasn't announced a date for the new Pro, so I'm just waiting. I have no complaints, however, because my Mac Pro feels as fast as day one because [macOS][mac-os-x] is so well-designed. No registry.
+
+Office-wise, we are located in city center Galway. That means we can walk for about two minutes and be right in the middle of town where there are a hundred food options. Galway is one of the friendliest towns in the world. We moved here in 2015 and plan to stay.
