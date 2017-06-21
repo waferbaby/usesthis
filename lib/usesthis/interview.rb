@@ -21,19 +21,13 @@ module UsesThis
     end
 
     def contents
-      super + gear_links
+      super + "\n\n" + gear_links
     end
 
     def gear_links
-      @gear_links ||= ''.tap do |links|
-        gear = @hardware.merge(@software)
-
-        unless gear.nil?
-          links << "\n\n" << gear.map do |_, ware|
-            "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
-          end.join("\n")
-        end
-      end
+      @gear_links ||= @hardware.merge(@software)&.map do |_, ware|
+        "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
+      end.join("\n")
     end
 
     def scan_links
