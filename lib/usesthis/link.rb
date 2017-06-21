@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module UsesThis
   # A class that models a single link on the site.
   class Link

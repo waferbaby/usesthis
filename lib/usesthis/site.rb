@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module UsesThis
   # A class that generates the usesthis.com site.
   class Site < Dimples::Site

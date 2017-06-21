@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module UsesThis
   # A module that generates a static API.
   module API
