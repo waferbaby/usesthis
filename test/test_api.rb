@@ -21,14 +21,14 @@ describe 'API' do
 
   describe 'when generating gear' do
     it 'renders a list' do
-      source = read_fixture('hardware-list')
+      source = read_json_fixture('hardware-list')
       output = read_api_file('hardware')
 
       output.must_equal(source)
     end
 
     it 'renders a single piece of gear' do
-      source = read_fixture('laptop')
+      source = read_json_fixture('laptop')
       output = read_api_file(File.join('hardware', 'laptop'))
 
       output.must_equal(source)
@@ -44,7 +44,7 @@ describe 'API' do
     end
 
     it 'renders a single category' do
-      source = read_fixture('category')
+      source = read_json_fixture('category')
       output = read_api_file(File.join('categories', 'fake'))
 
       output.must_equal(source)
@@ -65,7 +65,7 @@ describe 'API' do
     end
 
     it 'renders gear information' do
-      source = read_fixture('hardware_stats')
+      source = read_json_fixture('hardware_stats')
       output = read_api_file(File.join('stats', 'hardware'))
 
       output.must_equal(source)
