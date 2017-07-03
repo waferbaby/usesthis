@@ -6,7 +6,8 @@ require 'helper'
 
 describe 'Link' do
   subject do
-    path = File.join(test_site.source_paths[:links], 'inspired', 'the.other.setup.yml')
+    filename = 'the.other.setup.yml'
+    path = File.join(test_site.source_paths[:links], 'inspired', filename)
     UsesThis::Link.new(path)
   end
 
