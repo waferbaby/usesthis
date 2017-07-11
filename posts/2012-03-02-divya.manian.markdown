@@ -15,7 +15,7 @@ categories:
 
 I have a [13" MacBook Air][macbook-air] with a 128GB hard drive. I mostly use it with a [Dell 30" monitor][ultrasharp-3007wfp] using a Mini-displayport to Dual-Link DVI adapter.
 
-I used to have terrible pain in my fingers and wrists before I started using a [Kinesis Advantage][advantage-usb] keyboard with the [Magic Trackpad][magic-trackpad]. I used to own an [Aeron chair][aeron] but since moving from Singapore I have settled for an Office Depot look-alike which seems as comfortable.
+I used to have terrible pain in my fingers and wrists before I started using a [Kinesis Advantage][advantage] keyboard with the [Magic Trackpad][magic-trackpad]. I used to own an [Aeron chair][aeron] but since moving from Singapore I have settled for an Office Depot look-alike which seems as comfortable.
 
 I try to not acquire too many gadgets or splurge on hardware. Instead of setting up Surround Sound Systems or TVs, I use my 30" monitor for most needs that TVs fulfill, and stream the audio to [Sherwood RX-4109 receiver][rx-4109] connected to [Sony Bookshelf Speakers][ss-b1000]. When I do need long hours of music, Bose Noise-canceling headphones work for me.
 

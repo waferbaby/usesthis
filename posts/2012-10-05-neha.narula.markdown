@@ -19,7 +19,7 @@ In a previous life I was a Software Engineer at Google, where I worked on [Nativ
 
 For research I use a modern PC running [Ubuntu][]. The rest of the time I use a 13 inch [MacBook Air][macbook-air] from October 2010, which I adore with all of my being. For running experiments, I spin up servers on [Amazon EC2][ec2] or use a 48 core Linux machine we have in our lab.
 
-If I'm going to be typing a lot, I need my [Kinesis Advantage][advantage-usb]. I've had RSI problems in the past and this keyboard, though it looks strange, has helped a lot. There was a two week frustration period when I switched, but I can type much faster now. I have made the [right Control key sticky](http://alumni.media.mit.edu/~nelson/misc/kinesis-quickref.html "A reference for useful Kinesis keyboard combinations."), which helps a lot with [emacs][].
+If I'm going to be typing a lot, I need my [Kinesis Advantage][advantage]. I've had RSI problems in the past and this keyboard, though it looks strange, has helped a lot. There was a two week frustration period when I switched, but I can type much faster now. I have made the [right Control key sticky](http://alumni.media.mit.edu/~nelson/misc/kinesis-quickref.html "A reference for useful Kinesis keyboard combinations."), which helps a lot with [emacs][].
 
 I have an [iPad 2][ipad-2] and a [Samsung Nexus S][nexus-s], which is starting to show its age. I use a [Revo HTPC][aspire-revo] running [Windows 7][windows-7] connected to my TV for watching movies and TV. It's not ideal.
 

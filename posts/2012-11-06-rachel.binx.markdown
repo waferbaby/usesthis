@@ -27,6 +27,6 @@ Most of my time is spent writing code, so that happens almost exclusively in [Su
 
 #### What would be your dream setup?
 
-My dream hardware setup would be a [30" Thunderbolt Monitor][thunderbolt-display], a [Kinesis Advantage keyboard][advantage-usb], and [Apple Magic Mouse][magic-mouse]. I'd also love a standing desk, or maybe even a treadmill one!
+My dream hardware setup would be a [30" Thunderbolt Monitor][thunderbolt-display], a [Kinesis Advantage keyboard][advantage], and [Apple Magic Mouse][magic-mouse]. I'd also love a standing desk, or maybe even a treadmill one!
 
 My dream life setup, however, would be to relocate myself and my trusty MacBook to a tropical beach, and work on my projects out there. Because, hey, I can make websites anywhere!

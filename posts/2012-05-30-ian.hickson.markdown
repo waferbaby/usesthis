@@ -13,7 +13,7 @@ categories:
 
 #### What hardware do you use?
 
-Whatever I happen to be in front of. Right now it's a 27" 2010 i7 [iMac][] with 16GB of RAM, 9GB of which is free, to which is attached a [Kinesis Advantage keyboard][advantage-usb] in Dvorak mode, a [Drobo][], and various other peripherals. I also have a [Chromebook][] to my right, which I was using earlier. Most of my work is done on a 15" [MacBook Pro][macbook-pro] while couch-surfing around our campus, though.
+Whatever I happen to be in front of. Right now it's a 27" 2010 i7 [iMac][] with 16GB of RAM, 9GB of which is free, to which is attached a [Kinesis Advantage keyboard][advantage] in Dvorak mode, a [Drobo][], and various other peripherals. I also have a [Chromebook][] to my right, which I was using earlier. Most of my work is done on a 15" [MacBook Pro][macbook-pro] while couch-surfing around our campus, though.
 
 #### And what software?
 
