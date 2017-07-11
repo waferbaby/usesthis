@@ -1,0 +1,4 @@
+---
+name: 8sync
+description: An asynchronous library for the Guile language.
+url: https://www.gnu.org/software/8sync/
