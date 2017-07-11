@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>The Setup / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
+    <title>Uses This / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
     <meta name="twitter:creator" content="@waferbaby" />
-    <meta name="twitter:title" content="The Setup: <%= @this.title %>" />
+    <meta name="twitter:title" content="Uses This: <%= @this.title %>" />
     <meta name="twitter:description" content="<%= @this.summary %>" />
     <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= @this.slug %>/portrait.jpg" />
     <meta name="twitter:label1" content="Published" />
@@ -43,7 +43,7 @@
   <body>
     <div id="wrapper">
       <header id="main">
-        <h1><a href="/" title="The most recent interviews.">The Setup</a></h1>
+        <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
         <h2><% if @type == :interview %>Interview<% else %><%= @this.title %><% end %></h2>
         <p id="tagline">What do people use to get stuff done?</p>
         <nav>
@@ -67,7 +67,7 @@
           <input type="submit" value="Go">
         </form>
         <p id="feeds">Follow along on <a href="http://twitter.com/usesthis/" title="The @usesthis Twitter account.">Twitter</a>, or subscribe to the <a href="/feed.atom" title="The Atom feed.">Atom</a> or <a href="/feed.json" title="The JSON feed.">JSON</a> feed. There's even <a href="/api/" title="The API.">a very basic API</a>, if you're so inclined.</p>
-        <p id="support"><strong>Dig the interviews?</strong> You could join <a href="/about#thanks" title="A list of the people who support the site.">these awesome people</a> in supporting nerdy independent publishing <a href="https://www.patreon.com/waferbaby" title="My Patreon account for The Setup.">for as little as $1 a month!</a></p>
+        <p id="support"><strong>Dig the interviews?</strong> You could join <a href="/about#thanks" title="A list of the people who support the site.">these awesome people</a> in supporting nerdy independent publishing <a href="https://www.patreon.com/waferbaby" title="My Patreon account for Uses This.">for as little as $1 a month!</a></p>
       </aside>
       <footer>
         Last updated <%= Time.now.strftime('%-d %B, %Y') %>. Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="A Creative Commons license.">Attribution-Share Alike</a> license. You're super great!
