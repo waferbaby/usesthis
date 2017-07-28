@@ -15,41 +15,52 @@ unless type.match?(/^(gear|links)$/)
   abort("Usage: #{__dir__}/scan [gear|links]")
 end
 
-files = case type
-        when 'gear'
-          File.join(source_path, 'gear', '**', '*.yml')
-        when 'links'
-          File.join(source_path, 'links', '**', '*.yml')
-        end
+source_path = case type
+              when 'gear'
+                File.join(source_path, 'gear', '**', '*.yml')
+              when 'links'
+                File.join(source_path, 'links', '**', '*.yml')
+              end
 
-puts 'Scanning:'
+puts "Scanning #{type}:"
 
-Dir.glob(files) do |path|
+Dir.glob(source_path) do |path|
   data = YAML.load_file(path)
+  next unless data['url']
+
   original_url = data['url']
 
   print "- #{data['name']}: "
 
-  response = Faraday.get(data['url'])
-  new_url = response.headers['location']
+  begin
+    response = Faraday.get(data['url'])
+    new_url = response.headers['location']
 
-  case response.status
-  when 200
-    puts 'All good.'
-  when 301, 308
-    unless new_url.match?(%r{/^https?:\/\//})
-      uri = Faraday.URI(original_url)
-      new_url = "#{uri.scheme}://#{uri.host}#{new_url}"
+    case response.status
+    when 200
+      puts 'All good.'
+    when 301, 308
+      data['url'] = new_url
+      puts 'Updated (redirected).'
+    when 302, 307
+      puts 'Temporary redirect - ignoring.'
+    when 404
+      data['error'] = 'Dead link'
+      puts "Dead link!"
+    else
+      puts "Unexpected status (#{response.status})!"
     end
-
-    data['url'] = new_url
-    puts 'Updated (redirected).'
-  when 302, 307
-    puts 'Temporary redirect - ignoring.'
-  when 404
-    data['error'] = 'Dead link'
-  else
-    puts "Unexpected status (#{response.status})!"
+  rescue Faraday::ConnectionFailed
+    puts 'Connection failed - ignoring.'
+  rescue Faraday::TimeoutError
+    puts 'Connection timed out - ignoring.'
+  rescue Faraday::SSLError
+    puts 'SSL error - ignoring.'
+  rescue URI::InvalidURIError
+    data['error'] = 'Invalid URL'
+    puts 'Invalid URL!'
+  rescue Zlib::DataError
+    puts 'Weird compression error - ignoring.'
   end
 
   if data['url'] != original_url.to_s || data['error']
