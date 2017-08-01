@@ -38,7 +38,7 @@ I do all of my writing in [Byword][] and [Marked][]. I love being able to work d
 
 There are a few other tools I could not be productive without: [1Password][], [Sparrow][], [DropBox][], [Evernote][] and [Wunderlist][]. These applications are fantastic content lockers that help me free my mind. Evernote, for instance, is my digital library where I store all the reference material I need for my various projects. [Chrome][] is another important tool to me. Its profiles feature helps me juggle between 4 different Google accounts with ease and with the recent introduction of Chromecast it has even become one of my best media players.
 
-On my Android devices, I'm an avid user of [Pocket][pocket-android], [Press][press-android], [Falcon Pro][falcon-pro-android], [Hangouts][hangouts-android], [Gmail][gmail-android], [Google Music][google-play-music-android], [1Password][1password-android], [Dropbox][dropbox-android], [Evernote][evernote-android] and [Wunderlist][wunderlist-android].
+On my Android devices, I'm an avid user of [Pocket][pocket-android], [Press][press-android], [Falcon Pro][falcon-pro-android], [Hangouts][google-hangouts-android], [Gmail][gmail-android], [Google Music][google-play-music-android], [1Password][1password-android], [Dropbox][dropbox-android], [Evernote][evernote-android] and [Wunderlist][wunderlist-android].
 
 #### What would be your dream setup?
 

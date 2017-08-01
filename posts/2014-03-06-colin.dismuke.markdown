@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is [Colin Dismuke](http://www.cpdis.com/ "Colin's website."), I live in Houston, TX, and I’m currently an ocean engineer at [Delmar Systems](https://web-server-1.delmarus.com/Engineering/index.html "The Delmar Systems website.") where I help design, analyze, and install mooring systems, among other things. Recently, work has taken me back and forth to Australia half a dozen times so I've become a bit of a travel enthusiast. At home, I'm either training for a race (sometimes [triathlons](http://www.flickr.com/photos/cpdis/sets/72157637473975913/ "Colin's NYC Ironman photoset.") but mostly half marathons) or taking [photographs](http://www.flickr.com/photos/cpdis "Colin's Flickr account.") with my wife.
+My name is [Colin Dismuke](http://www.cpdis.com/ "Colin's website."), I live in Houston, TX, and I'm currently an ocean engineer at [Delmar Systems](https://web-server-1.delmarus.com/Engineering/index.html "The Delmar Systems website.") where I help design, analyze, and install mooring systems, among other things. Recently, work has taken me back and forth to Australia half a dozen times so I've become a bit of a travel enthusiast. At home, I'm either training for a race (sometimes [triathlons](http://www.flickr.com/photos/cpdis/sets/72157637473975913/ "Colin's NYC Ironman photoset.") but mostly half marathons) or taking [photographs](http://www.flickr.com/photos/cpdis "Colin's Flickr account.") with my wife.
 
 #### What hardware do you use?
 
@@ -35,7 +35,7 @@ As far as mobile platforms go, on the iPad I use [Calendars 5][calendars-ios] to
 
 On the iPhone I use [Pocket Casts][pocket-casts-ios] for listening to podcasts because of its reliability and overall design, [Weather Line][weather-line-ios] for checking the weather, [Drafts][drafts-ios] for short notes that might need to be used elsewhere, and [Fantastical][fantastical-ios]. I've been very impressed with [VSCO Cam][vsco-cam-ios] over the past few months. When offshore it's usually much easier and safer to pull out an iPhone than to carry around a DSLR (which are sometimes against rig regulations). Two great travel apps that I've used over the past year are [FlightTrack 5][flighttrack-ios] and [Banca][banca-ios].
 
-Finally, there's a long list of apps that are synced across both the iPhone and iPad. [Clear][] for lists, [Tweetbot][tweetbot-ios], [Instapaper][instapaper-ios], [Omnifocus][omnifocus-ios], [1Password][1password-ios], [Reeder][reeder-ios], [Rdio][rdio-ios], and [Hangouts][hangouts-ios] for chatting.
+Finally, there's a long list of apps that are synced across both the iPhone and iPad. [Clear][] for lists, [Tweetbot][tweetbot-ios], [Instapaper][instapaper-ios], [Omnifocus][omnifocus-ios], [1Password][1password-ios], [Reeder][reeder-ios], [Rdio][rdio-ios], and [Hangouts][google-hangouts-ios] for chatting.
 
 #### What would be your dream setup?
 
