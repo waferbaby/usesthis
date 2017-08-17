@@ -17,7 +17,7 @@ I've been using the same [Mac Pro][mac-pro] since it was released three years ag
 
 I also use a PC with an [AMD Ryzen 1800X][ryzen-7-1800x], 64GB DDR4 3000Mhz RAM, 512GB SSD, 2TB SSHD, and [Nvidia GTX 1070][geforce-gtx-1070] (8GB) running [Windows 10][windows-10].
 
-I have my 4K monitor hooked up to the PC, Mac Pro, and [Switch][switch.3] console. I also use my [iPhone 7 Plus][iphone-7-plus] when I'm not on my computers. I love Apple's ecosystem because iCloud keeps me updated constantly on my [MacBook Air][macbook-air], iPhone, iPad, and Mac Pro all the time. When I change files on my desktop that's reflected on all my devices. I can even look at my desktop files from my iPhone because iCloud syncs it all. I love it.
+I have my 4K monitor hooked up to the PC, Mac Pro, and [Switch][switch.2] console. I also use my [iPhone 7 Plus][iphone-7-plus] when I'm not on my computers. I love Apple's ecosystem because iCloud keeps me updated constantly on my [MacBook Air][macbook-air], iPhone, iPad, and Mac Pro all the time. When I change files on my desktop that's reflected on all my devices. I can even look at my desktop files from my iPhone because iCloud syncs it all. I love it.
 
 #### And what software?
 
