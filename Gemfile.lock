@@ -8,10 +8,10 @@ GEM
       trollop (~> 2.1)
     docile (1.1.5)
     erubis (2.7.0)
-    faraday (0.12.1)
+    faraday (0.13.0)
       multipart-post (>= 1.2, < 3)
     json (2.1.0)
-    minitest (5.10.2)
+    minitest (5.10.3)
     mongoose (0.2.5)
     multipart-post (2.0.0)
     rake (12.0.0)
@@ -20,8 +20,8 @@ GEM
       docile (~> 1.1.0)
       json (>= 1.8, < 3)
       simplecov-html (~> 0.10.0)
-    simplecov-html (0.10.1)
-    tilt (2.0.7)
+    simplecov-html (0.10.2)
+    tilt (2.0.8)
     trollop (2.1.2)
 
 PLATFORMS
