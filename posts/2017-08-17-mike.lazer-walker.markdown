@@ -1,0 +1,49 @@
+---
+title: Mike Lazer-Walker
+summary: Interactive artist, developer
+categories:
+- developer
+- game
+- linux
+- mac
+- software
+- web
+---
+
+#### Who are you, and what do you do?
+
+I'm [Mike Lazer-Walker](http://lazerwalker.com/ "Mike's website.") (yes, that's my real name!). I make installation art and experimental games that ask people to interact with everyday objects in unexpected and playful new ways. A lot of my work involves vintage technology, such as [fully-functional USB telegraph keys](http://lzrwlkr.me/morsekey "Mike's USB telegraph key on Etsy.") and [a game played on a 90-year-old telephone switchboard](http://lazerwalker.com/hellooperator "Mike's telephone switchboard game."). Other projects revolve more around recontextualizing familiar objects and spaces, such as a [generative poetry walk in San Francisco's Fort Mason][computational-flaneur-ios] and a game where you [sext with a robot](http://lazerwalker.com/sextmachine "Mike's algorithmic sexting bot game.").
+
+Aside from my art practice, I build software tools. I care a lot about making sure that we're building technology and providing tools that actively enable and empower people to improve themselves. This tends to manifest itself in open-source software tools to help other programmers be more productive (my day job is building [iOS][] and web apps), "quantified self"-style tools mostly built for my own purposes, and educational projects to help others teach themselves new skills. I've spent a lot of time in spaces designed to foster self-driven creative learning, such as the [MIT Media Lab](https://media.mit.edu/ "The Media Lab at MIT.") (where I was a researcher with the now-defunct Playful Systems group) and the [Recurse Center](https://recurse.com/ "A developer retreat program in New York City.").
+
+#### What hardware do you use?
+
+My main computer is a [12" MacBook][macbook.2]. It still feels weird using a computer with a lower GeekBench score than my phone, but I travel a lot and prefer to work out of coffee shops, so it's hard to put a price on having a laptop light enough I can legitimately forget it's in my bag. I'll occasionally augment it with my beefy home-built gaming PC at home or a Linux virtual box from [DigitalOcean][] if I need to do something more computationally intensive. It's usually paired with my [AirPods][], which I adore.
+
+As I said, I mostly work out of coffee shops, but working at home lets me use my beloved Unicomp Model M buckling-spring mechanical keyboard and [Razor DeathAdder][deathadder-elite] gaming mouse. For hardware work, I have a lovely Weller [WES51 soldering iron][wes51], plus a bunch of other much more forgettable tools. For quick prototyping work, I have a [Monoprice MAKER SELECT v2 3D printer][maker-select-3d-printer-v2]. It's pretty junky, but having a 3D printer that I paid less than $200 for makes me feel like I'm living in a William Gibson novel. I mostly use it for rapid prototyping; anything that needs a higher-quality print gets sent to [Shapeways][].
+
+Most of my screen time is frankly spent on my [iPhone 6S Plus][iphone-6s-plus]. I also use my iPad (an [iPad Air 2][ipad-air-2]), mostly for things like reading and [Netflix][] and doing the NY Times crossword, and an [Apple Watch][apple-watch] mostly for fitness tracking and NFC payments. Building iOS apps for a living means I'm pretty enmeshed in the Apple ecosystem.
+
+I take a lot of freehand notes, typically using Moleskine notebooks (hardcover, paperback-sized, and with grid rule, please) and [Pilot Varsity][varsity] disposable fountain pens. They give me the tactile enjoyment of fountain pens without having to feel bad about losing them or getting sucked into the rabbithole of yet another time-consuming and pricey hobby.
+
+I also care a lot about having a bike to get around. I bounce a lot between NYC, San Francisco, and various other cities, so I tend to not invest in particularly good hardware. Depending on where I am, I'll either rely on the local bike share program or pick up a cheap single-speed bike. I prefer riding fixed-gear, but tend to forgo that and just ride freewheel when someplace as hilly as SF.
+
+#### And what software?
+
+For writing code: if I'm not writing native iOS apps in [Xcode][], you can usually find me in [Visual Studio Code][visual-studio-code]. I'm fluent in both [emacs][] and [vim][], but I'm impressed how fantastic VS Code is these days, particularly when working in a modern [JavaScript][] stack. Making games that use weird custom physical interfaces, I tend to write mostly cross-platform ES6 or [TypeScript][] code that can run anywhere from a [Raspberry Pi][raspberry-pi] as part of a physical installation to an iOS app that wraps the shared JS game logic in a native [Swift][] UI wrapper (which is incredibly useful for playtesting purposes). It's incredibly powerful to be able to write a single game engine that can run anywhere from a Unix shell to an iPad to a physical 90-year-old telephone switchboard.
+
+I use [Sketch][] and [Pixelmator][] for most visual-related work. 3D CAD mostly happens in [Onshape][], which runs delightfully on an iPad. I do most other things related to software development in a terminal, where I use [zsh][] with [oh-my-zsh][] as my shell.
+
+My task management is handled by a combination of [OmniFocus][] and [Trello][], plus [Habitica][] for helping to train me to be a better human being. Quick notes for anything I'm working on inevitably get stored in [nvAlt][], using [Simplenote][] to sync with the cloud and use from my phone. Other stuff that doesn't live there or on my public [GitHub](https://github.com/lazerwalker "Mike's GitHub account.") gets stored in [Sync][], a lovely [Dropbox][] clone that stores my data using zero-knowledge encryption on Canadian soil.
+
+I try to do as much as possible from my phone and tablet rather than my laptop. For that, I rely prettily heavily on [Outlook][outlook-ios] as an email client (the iOS version is surprisingly great!), and [Tweetbot][tweetbot-ios] as a Twitter client, although these days more of my social interactions with Awesome Internet People tend to happen on [Slack][]. Looking at the front page of my phone: [Foursquare][foursquare-ios] is my gold standard for finding places to eat in new cities while traveling. [Fantastical][fantastical-ios] is my calendar of choice. I use [1password][1password-ios] for password management, and [Instapaper][instapaper-ios] and [Overcast][overcast-ios] to keep track of things to read and listen to. Not to toot my own horn, but one of my most frequently-used apps is [Bike NYC][bike-nyc-ios], a minimalist app I built for NYC's bike share program. 
+
+Along with Bike NYC, a lot of the other apps I use frequently are ones I've built myself. Another good example is [Cortado][cortado-ios], a location-aware caffeine tracker I use to help me see the effect caffeine has on my well-being. I wish it were less time-intensive and easier for people who aren't professional software developers to build their own software; there's something really empowering about being able to build a custom tool to scratch your own precise itch.
+
+I spend more time than I should playing videogames (it's "professional research", I swear). Although I love my [Nintendo Switch][switch.2], most of my gaming time is spent on my phone or tablet. I maintain a [list](http://lazerwalker.com/ios-games-list/ "Mike's list of his favourite iOS games.") of my favorite mobile games.
+
+#### What would be your dream setup?
+
+I can point to specific pieces of hardware I'd like --- an [iPad Pro][ipad-pro] so I can use an [Apple Pencil][apple-pencil] with Onshape and drawing software! One of the new beefier 12" MacBooks! A home PCB mill like an [Othermill][] so I can prototype PCBs without the turnaround time of mail services like [OSH Park](https://oshpark.com/ "A site for ordering printed circuit boards.")! --- but changes to my tools at that level are just incremental improvements.
+
+What's more frustrating to me is having to balance the interesting work with the work that pays the bills, and spending most of my time working on solo projects rather than collaborating with others. If I could wave a magic wand, I'd find myself in an environment where I'm surrounded by other cool creative people to bounce ideas off of, collaborate with, and appreciate each other's work, and where we somehow don't have to worry about making ends meet. Preferably still in an urban center with good bikeability and access to good coffee and beer.
