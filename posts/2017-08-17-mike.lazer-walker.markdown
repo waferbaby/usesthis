@@ -28,7 +28,7 @@ I take a lot of freehand notes, typically using Moleskine notebooks (hardcover, 
 
 #### And what software?
 
-For writing code: if I'm not writing native iOS apps in [Xcode][], you can usually find me in [Visual Studio Code][visual-studio-code]. Making games that use weird custom physical interfaces, I tend to write mostly cross-platform ES6 or [TypeScript][] code that can run anywhere from a [Raspberry Pi][raspberry-pi] as part of a physical installation to an iOS app that wraps the shared JS game logic in a native [Swift][] UI wrapper (which is incredibly useful for playtesting purposes). It's incredibly powerful to be able to write a single game engine that can run anywhere from a Unix shell to an iPad to a physical 90-year-old telephone switchboard.
+For writing code: if I'm not writing native iOS apps in [Xcode][], you can usually find me in [Visual Studio Code][visual-studio-code]. Making games that use weird custom physical interfaces, I tend to write mostly cross-platform ES6 or [TypeScript][] code that can run anywhere from a [Raspberry Pi][raspberry-pi] as part of a physical installation to an iOS app that wraps the shared JS game logic in a native [Swift][swift.2] UI wrapper (which is incredibly useful for playtesting purposes). It's incredibly powerful to be able to write a single game engine that can run anywhere from a Unix shell to an iPad to a physical 90-year-old telephone switchboard.
 
 I use [Sketch][] and [Pixelmator][] for most visual-related work. 3D CAD mostly happens in [Onshape][], which runs delightfully on an iPad. I do most other things related to software development in a terminal, where I use [zsh][] with [oh-my-zsh][] as my shell.
 
