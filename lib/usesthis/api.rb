@@ -133,7 +133,7 @@ module UsesThis
       end
 
       def write_json_file(path, contents)
-        file = @site.page_class.new(@site)
+        file = Dimples::Page.new(@site)
 
         file.filename = 'index'
         file.extension = 'json'
