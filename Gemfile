@@ -3,7 +3,7 @@
 ruby '2.4.1'
 source 'https://rubygems.org'
 
-gem 'dimples', path: '../../libraries/dimples'
+gem 'dimples'
 gem 'erubis'
 gem 'faraday'
 gem 'mongoose'
