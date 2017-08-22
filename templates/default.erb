@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Uses This / <%= @this.title %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
+    <title>Uses This<% if @this.title %> / <%= @this.title %><% end %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
   <% if @type == :interview %>
     <% if @this.previous_post %><link rel="prev" href="https://usesthis.com/interviews/<%= @this.previous_post.slug %>/"><% end %>
     <% if @this.next_post %><link rel="next" href="https://usesthis.com/interviews/<%= @this.next_post.slug %>/"><% end %>
-  <% elsif @pagination && @pagination[:pages] > 1 %>
-    <% if @pagination[:previous_page] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
-    <% if @pagination[:next_page] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
+  <% elsif @pagination %>
+    <% if @pagination[:previous_page_url] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
+    <% if @pagination[:next_page_url] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
