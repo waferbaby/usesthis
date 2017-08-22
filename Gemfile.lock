@@ -1,11 +1,15 @@
+PATH
+  remote: ../../libraries/dimples
+  specs:
+    dimples (2.7.3)
+      tilt (~> 2.0)
+      trollop (~> 2.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
     codeclimate-test-reporter (1.0.8)
       simplecov (<= 0.13)
-    dimples (2.7.2)
-      tilt (~> 2.0)
-      trollop (~> 2.1)
     docile (1.1.5)
     erubis (2.7.0)
     faraday (0.13.0)
@@ -29,7 +33,7 @@ PLATFORMS
 
 DEPENDENCIES
   codeclimate-test-reporter
-  dimples
+  dimples!
   erubis
   faraday
   minitest
