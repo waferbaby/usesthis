@@ -3,7 +3,7 @@ layout: default
 title: Interviews
 ---
 
-<% @posts.each do |interview| %>
+<% @items.each do |interview| %>
 <article class="interviewee h-card vcard">
   <a href="/interviews/<%= interview.slug %>/" title="View the interview with <%= interview.title %>." class="p-name">
     <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= interview.title %>">
@@ -14,9 +14,9 @@ title: Interviews
 </article>
 <% end %>
 
-<% if @pagination[:pages] > 1 %>
+<% if @pagination && @pagination[:page_count] > 1 %>
   <p id="paginator">
-  Page <strong><%= @pagination[:page] %></strong> of <strong><%= @pagination[:pages] %></strong> (<%= @pagination[:post_count] %> interview<% if @pagination[:post_count] > 1 %>s<% end %>):
+  Page <strong><%= @pagination[:page] %></strong> of <strong><%= @pagination[:page_count] %></strong> (<%= @pagination[:item_count] %> interview<% if @pagination[:item_count] > 1 %>s<% end %>):
   <% if @pagination[:previous_page] %><a href="<%= @pagination[:previous_page_url] %>" title="Go to page <%= @pagination[:previous_page] %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
   /
   <% if @pagination[:next_page] %><a href="<%= @pagination[:next_page_url] %>" title="Go to page <%= @pagination[:next_page] %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
