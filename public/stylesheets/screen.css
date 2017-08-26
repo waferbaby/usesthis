@@ -209,6 +209,8 @@ border: solid 1px #ddd;
 
 section#categories > ul {
 list-style: none;
+margin-right: 0;
+margin-left: 0;
 }
 
 section#categories > ul li {
@@ -222,6 +224,8 @@ font-size: 80%;
 section#inspired > ul,
 section#personal > ul {
 list-style: none;
+margin-right: 0;
+margin-left: 0;
 column-count: 2;
 }
 
@@ -243,7 +247,7 @@ ul {
 list-style: square outside;
 font-size: 90%;
 padding: 0;
-margin: 20px 0;
+margin: 20px;
 }
 
 ul li {
