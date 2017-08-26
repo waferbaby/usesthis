@@ -240,7 +240,7 @@ color: #aaa;
 }
 
 ul {
-list-style: square inside;
+list-style: square outside;
 font-size: 90%;
 padding: 0;
 margin: 20px 0;
