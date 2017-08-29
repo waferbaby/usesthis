@@ -6,6 +6,7 @@ module UsesThis
     attr_accessor :hardware
     attr_accessor :software
     attr_accessor :credits
+    attr_accessor :license
 
     def initialize(site, path)
       super
@@ -14,8 +15,6 @@ module UsesThis
 
       @hardware = {}
       @software = {}
-
-      @credits = nil
 
       scan_links
     end
