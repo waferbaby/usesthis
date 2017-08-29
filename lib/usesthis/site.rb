@@ -24,13 +24,6 @@ module UsesThis
       @source_paths[:links] = File.join(@source_paths[:root], 'links')
     end
 
-    def scan_files
-      scan_gear
-      scan_links
-
-      super
-    end
-
     def scan_gear
       %w[hardware software].each do |type|
         type_path = File.join(@source_paths[:wares], type, '**', '*.yml')
@@ -55,7 +48,10 @@ module UsesThis
       end
     end
 
-    def generate_files
+    def generate
+      scan_gear
+      scan_links
+
       super
       UsesThis::API.generate(self)
     end
@@ -68,10 +64,11 @@ module UsesThis
       Dir.glob(errors_path) do |path|
         page = @post_class.new(self, path)
 
-        page.filename = File.basename(path, '.markdown')
+        page.output_directory = @output_paths[:site]
+        page.filename = page.slug
         page.layout = 'interview'
 
-        page.write(File.join(@output_paths[:site], "#{page.slug}.html"))
+        page.write
       end
     end
   end
