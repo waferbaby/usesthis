@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Uses This<% if @this.title %> / <%= @this.title %><% end %><% if @pagination && @pagination[:page] > 1 %> (Page <%= @pagination[:page] %>)<% end %></title>
+    <title>Uses This<% if @this.title %> / <%= @this.title %><% end %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
