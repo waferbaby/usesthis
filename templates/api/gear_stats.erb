@@ -1,0 +1,13 @@
+{
+  "gear": [
+    <% @stats.each do |stat| %>
+    {
+      "slug": <%= stat[:ware].slug.to_json %>,
+      "name": <%= stat[:ware].name.to_json %>,
+      "description": <%= stat[:ware].description.to_json %>,
+      "url": <%= stat[:ware].url.to_json %>,
+      "count": <%= stat[:count] %>
+    }<%= ',' unless stat == @stats.last %>
+    <% end %>
+  ]
+}
