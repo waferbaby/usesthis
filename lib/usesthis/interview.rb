@@ -40,24 +40,8 @@ module UsesThis
       end
     end
 
-    def to_h
-      @interview_hash ||= {
-        slug: @slug,
-        name: @title,
-        url: "https://usesthis.com/interviews/#{@slug}/",
-        summary: @summary,
-        date: @date.to_i,
-        categories: @categories,
-        credits: @credits || '',
-        contents: contents,
-        gear: { hardware: [], software: [] }.tap do |gear|
-          %w[hardware software].each do |type|
-            send(type).each_value do |ware|
-              gear[type.to_sym] << ware.to_h.reject { |k, _| k == :interviews }
-            end
-          end
-        end
-      }
+    def inspect
+      super
     end
   end
 end
