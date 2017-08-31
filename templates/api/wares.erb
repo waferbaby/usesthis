@@ -2,18 +2,11 @@
   "gear": [
     <% @items.each do |ware| %>
     {
-      "slug": <%= ware.slug.to_json %>,
-      "name": <%= ware.name.to_json %>,
-      "description": <%= ware.description.to_json %>,
-      "url": <%= ware.url.to_json %>
+      <%= render_template('api.shared.ware', ware: ware) %>,
     }<%= ',' unless ware == @items.last %>
     <% end %>
   ],
   "paging": {
-    "current_page": "<%= @pagination[:current_page] %>",
-    "item_count": "<%= @pagination[:item_count] %>",
-    "page_count": "<%= @pagination[:page_count] %>",
-    "next_page_url": "<%= "https://usesthis.com" + @pagination[:next_page_url] if @pagination[:next_page_url] %>",
-    "previous_page_url": "<%= "https://usesthis.com" + @pagination[:previous_page_url] if @pagination[:previous_page_url] %>"
+    <%= render_template('api.shared.paging', pagination: @pagination) %>,
   }
 }
