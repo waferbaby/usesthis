@@ -1,0 +1,26 @@
+{
+  "interviews": [
+    <% @items.each do |interview| %>
+    {
+      "slug": <%= interview.slug.to_json %>,
+      "name": <%= interview.title.to_json %>,
+      "url": "https://usesthis.com/interviews/<%= interview.slug %>/",
+      "summary": <%= interview.summary.to_json %>,
+      "date": <%= interview.date.to_i %>,
+      "categories": [
+      <% unless interview.categories.empty? %>
+        "<%= interview.categories.join('", "') %>"
+      <% end %>
+      ],
+      "credits": <% if interview.credits %><%= interview.credits.to_json %><% else %>""<% end %>
+    }<%= ',' unless interview == @items.last %>
+    <% end %>
+  ],
+  "paging": {
+    "current_page": "<%= @pagination[:current_page] %>",
+    "item_count": "<%= @pagination[:item_count] %>",
+    "page_count": "<%= @pagination[:page_count] %>",
+    "next_page_url": "<%= "https://usesthis.com" + @pagination[:next_page_url] if @pagination[:next_page_url] %>",
+    "previous_page_url": "<%= "https://usesthis.com" + @pagination[:previous_page_url] if @pagination[:previous_page_url] %>"
+  }
+}

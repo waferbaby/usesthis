@@ -1,0 +1,17 @@
+{
+  "gear": {
+    "slug": <%= @ware.slug.to_json %>,
+    "name": <%= @ware.name.to_json %>,
+    "description": <%= @ware.description.to_json %>,
+    "url": <%= @ware.url.to_json %>,
+    "interviews": [
+      <% @ware.interviews.each do |interview| %>
+      {
+        "slug": <%= interview.slug.to_json %>,
+        "name": <%= interview.title.to_json %>,
+        "summary": <%= interview.summary.to_json %>
+      }<%= ',' unless interview == @ware.interviews.last %>
+      <% end %>
+    ]
+  }
+}

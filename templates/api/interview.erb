@@ -1,0 +1,31 @@
+{
+  "interview": {
+    "slug": <%= @interview.slug.to_json %>,
+    "name": <%= @interview.title.to_json %>,
+    "url": "https://usesthis.com/interviews/<%= @interview.slug %>/",
+    "summary": <%= @interview.summary.to_json %>,
+    "date": <%= @interview.date.to_i %>,
+    "categories": [
+    <% unless @interview.categories.empty? %>
+      "<%= @interview.categories.join('", "') %>"
+    <% end %>
+    ],
+    "credits": <% if @interview.credits %><%= @interview.credits.to_json %><% else %>""<% end %>,
+    "contents": <%= @interview.contents.to_json %>,
+    "gear": {
+      <% %w[hardware software].each do |gear_type| %>
+      "<%= gear_type %>": [
+        <%= @interview.send(gear_type.to_sym).each_value.map do |ware|
+          {
+            slug: ware.slug,
+            name: ware.name,
+            description: ware.description,
+            url: ware.url
+          }.to_json
+        end.join(',')
+        %>
+      ]<%= ',' unless gear_type == 'software' %>
+      <% end %>
+    }
+  }
+}

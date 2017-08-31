@@ -1,0 +1,5 @@
+{
+  "categories": [
+  <%= @categories.map { |category| category.to_json }.join(', ') %>
+  ]
+}
