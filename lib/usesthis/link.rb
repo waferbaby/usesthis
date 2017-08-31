@@ -16,5 +16,13 @@ module UsesThis
       @url = metadata['url']
       @description = metadata['description'] || ''
     end
+
+    def inspect
+      "#<#{self.class.to_s} " \
+      "@slug=#{@slug} " \
+      "@name=#{@name} " \
+      "@url=#{@url} " \
+      "@description=#{@description}>"
+    end
   end
 end
