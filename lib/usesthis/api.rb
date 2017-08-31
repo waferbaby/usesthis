@@ -6,6 +6,8 @@ module UsesThis
     VERSION = 1
 
     class << self
+      include Dimples::Pagination
+
       def generate(site)
         @site = site
         @output_paths = {}
@@ -14,10 +16,10 @@ module UsesThis
           software: { all: Hash.new(0) }
         }
 
-        root_path = File.join(@site.output_paths[:site], 'api')
+        base_path = File.join(@site.output_paths[:site], 'api')
 
         %w[interviews hardware software categories stats].each do |item|
-          @output_paths[item.to_sym] = File.join(root_path, item)
+          @output_paths[item.to_sym] = File.join(base_path, item)
         end
 
         generate_interviews
@@ -31,19 +33,12 @@ module UsesThis
           Dimples.logger.debug_generation('interviews', @site.posts.length)
         end
 
-        interviews_data = []
-
         @site.posts.each do |interview|
-          data = interview.to_h
-
           path = File.join(@output_paths[:interviews], interview.slug)
-          write_json_file(path, interview: data)
-
-          %i[contents gear].each { |key| data.delete(key) }
-          interviews_data << data
+          publish_json_file(path, 'interview', interview: interview)
         end
 
-        write_json_file(@output_paths[:interviews], interviews: interviews_data)
+        paginate_json(@site.posts, @output_paths[:interviews], 'interviews')
       end
 
       def generate_categories
@@ -52,44 +47,30 @@ module UsesThis
         end
 
         @site.categories.each_value do |category|
-          interviews_data = []
-
-          category.posts.each do |interview|
-            data = interview.to_h.reject do |k, _|
-              %i[contents gear].include?(k)
-            end
-
-            interviews_data << data
-          end
-
           path = File.join(@output_paths[:categories], category.slug)
-          write_json_file(path, interviews: interviews_data)
+          paginate_json(category.posts, path, 'interviews')
         end
 
         categories = @site.categories.keys.sort!
-        write_json_file(@output_paths[:categories], categories: categories)
+        publish_json_file(@output_paths[:categories], 'categories', categories: categories)
       end
 
       def generate_gear
         %i[hardware software].each do |type|
-          gear = @site.send(type)
-          gear_data = []
+          wares = @site.send(type)
 
           if @site.config['verbose_logging']
-            Dimples.logger.debug_generation(type, gear.length)
+            Dimples.logger.debug_generation(type, wares.length)
           end
 
-          gear.each_value do |ware|
-            data = ware.to_h
-            path = File.join(@output_paths[type], ware.slug)
-
-            write_json_file(path, gear: data)
+          wares.each_value do |ware|
             record_gear_stats(ware)
 
-            gear_data << data.select { |k, _| %i[slug name].include?(k) }
+            path = File.join(@output_paths[type], ware.slug)
+            publish_json_file(path, 'ware', ware: ware)
           end
 
-          write_json_file(@output_paths[type.to_sym], gear: gear_data)
+          paginate_json(wares.values, @output_paths[type], 'wares')
         end
       end
 
@@ -101,22 +82,19 @@ module UsesThis
         %w[hardware software].each do |type|
           @stats[type.to_sym].each do |key, values|
             stats = values.sort_by(&:last).reverse[0..49].to_h
-            data = stats.map { |slug, count| { slug: slug, count: count } }
+            output = stats.map do |slug, count|
+              {
+                ware: @site.send(type.to_sym)[slug],
+                count: count
+              }
+            end
 
             parts = [@output_paths[:stats], type]
             parts << key.to_s unless key == :all
 
-            write_json_file(File.join(parts), gear: data)
+            publish_json_file(File.join(parts), 'gear_stats', stats: output)
           end
         end
-
-        general_stats = {
-          interviews: @site.posts.count,
-          hardware: @site.hardware.count,
-          software: @site.software.count
-        }
-
-        write_json_file(@output_paths[:stats], general_stats)
       end
 
       def record_gear_stats(ware)
@@ -132,14 +110,27 @@ module UsesThis
         end
       end
 
-      def write_json_file(path, contents)
+      def publish_json_file(path, layout, context = {})
         file = Dimples::Page.new(@site)
 
-        file.filename = 'index'
+        file.output_directory = path
+        file.layout = "api.#{layout}"
         file.extension = 'json'
-        file.contents = JSON.pretty_generate(contents, indent: '  ', space: ' ')
 
-        file.write(file.output_path(path), false)
+        file.write(context)
+      end
+
+      def paginate_json(items, path, layout)
+        options = {
+          extension: 'json',
+          page_prefix: '?page='
+        }
+
+        paginate(@site, items, path, "api.#{layout}", options)
+      end
+
+      def templates
+        @templates ||= @site.templates.keys.select { |k| k =~ /^api\./ }
       end
     end
   end
