@@ -3,7 +3,7 @@ GEM
   specs:
     codeclimate-test-reporter (1.0.8)
       simplecov (<= 0.13)
-    dimples (3.0.5)
+    dimples (3.0.6)
       tilt (~> 2.0)
       trollop (~> 2.1)
     docile (1.1.5)
