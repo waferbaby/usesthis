@@ -6,7 +6,10 @@ require 'helper'
 
 describe 'API' do
   before do
-    test_site.scan_files
+    test_site.scan_templates
+    test_site.scan_pages
+    test_site.scan_posts
+
     UsesThis::API.generate(test_site)
   end
 
