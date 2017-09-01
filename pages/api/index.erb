@@ -13,7 +13,7 @@ title: API
     <h4>Interviews</h4>
 
     <h5 id="interviews-list">Getting a list</h5>
-    <p class="summary">This method returns a basic list of all the interviews.</p>
+    <p class="summary">This method returns a paginated list of all the interviews.</p>
     <p><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
     <pre>
 {
@@ -118,7 +118,7 @@ title: API
     <h4>Gear</h4>
 
     <h5 id="gear-list">Getting a list</h5>
-    <p class="summary">This method returns a basic list of all the hardware or software mentioned on the site. Note that these will be <em>quite large</em>.</p>
+    <p class="summary">This method returns a paginated list of all the hardware or software mentioned on the site.</p>
     <p>
       <a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
       <a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a><br>
@@ -150,6 +150,7 @@ title: API
       {
         "slug": "tasslehoff.burrfoot",
         "name": "Tasslehoff Burrfoot",
+        "summary": "Borrower"
       }
     ]
   }
