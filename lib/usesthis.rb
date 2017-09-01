@@ -2,6 +2,9 @@
 
 $LOAD_PATH.unshift(__dir__)
 
+require 'rubygems'
+require 'bundler/setup'
+
 require 'dimples'
 require 'json'
 require 'redcarpet'
