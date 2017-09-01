@@ -3,7 +3,7 @@ layout: default
 ---
 
 <article id="interview" class="h-entry">
-  <%= render_template('shared.interview', interview: @this) %>
+  <%= render_template('shared.interview', interview: @this, selected: true) %>
   <section id="answers" class="e-content">
   <%= yield %>
   </section>
