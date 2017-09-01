@@ -2,11 +2,11 @@
   "gear": [
     <% @items.each do |ware| %>
     {
-      <%= render_template('api.shared.ware', ware: ware) %>,
+      <%= render_template('api.shared.ware', ware: ware) %>
     }<%= ',' unless ware == @items.last %>
     <% end %>
   ],
   "paging": {
-    <%= render_template('api.shared.paging', pagination: @pagination) %>,
+    <%= render_template('api.shared.paging', pagination: @pagination) %>
   }
 }
