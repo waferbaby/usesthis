@@ -24,6 +24,13 @@ module UsesThis
       @source_paths[:links] = File.join(@source_paths[:root], 'links')
     end
 
+    def scan_files
+      scan_gear
+      scan_links
+
+      super
+    end
+
     def scan_gear
       %w[hardware software].each do |type|
         type_path = File.join(@source_paths[:wares], type, '**', '*.yml')
@@ -49,9 +56,6 @@ module UsesThis
     end
 
     def generate
-      scan_gear
-      scan_links
-
       super
       UsesThis::API.generate(self)
     end
