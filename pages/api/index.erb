@@ -27,7 +27,11 @@ title: API
       "categories": [
         "mac",
         "wizard"
-      ]
+      ],
+      "credits": {
+        "name": "Tanis Half-Elven",
+        "url: "http://tanis15elf.com/"
+      }
     },
     {
       "slug": "tasslehoff.burrfoot",
@@ -38,9 +42,17 @@ title: API
       "categories": [
         "linux",
         "thief"
-      ]
+      ],
+      "credits": ""
     }
-  ]
+  ],
+  "paging": {
+    "current_page": "1",
+    "item_count": "10",
+    "page_count": "5",
+    "next_page_url": "https://usesthis.com/api/interviews/?page=2",
+    "previous_page_url": ""
+  }
 }</pre>
 
     <h5 id="interviews-interview">Getting an interview</h5>
@@ -58,6 +70,7 @@ title: API
       "linux",
       "thief"
     ],
+    "credits": "",
     "contents": "#### Who are you, and what do you do?...",
     "gear": {
       "hardware": [
@@ -108,9 +121,20 @@ title: API
       "categories": [
         "mac",
         "wizard"
-      ]
+      ],
+      "credits": {
+        "name": "Tanis Half-Elven",
+        "url: "http://tanis15elf.com/"
+      }
     }
-  ]
+  ],
+  "paging": {
+    "current_page": "1",
+    "item_count": "1",
+    "page_count": "1",
+    "next_page_url": "",
+    "previous_page_url": ""
+  }
 }</pre>
   </section>
 
@@ -161,13 +185,13 @@ title: API
     <h4>Stats</h4>
 
     <h5 id="stats-general">Getting general info</h5>
-    <p class="summary">This method returns various site statistics, like the number of interviews.</p>
+    <p class="summary">This method returns basic site statistics.</p>
     <p><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></p>
     <pre>
 {
-  "interviews": 2,
-  "hardware": 10,
-  "software": 3
+  "interviews": 10,
+  "hardware": 42,
+  "software": 69
 }</pre>
 
     <h5 id="stats-gear">Getting gear info</h5>
@@ -181,6 +205,9 @@ title: API
   "gear": [
     {
       "slug": "hoopak",
+      "name": "Hoopak",
+      "description": "A wooden staff with a sling.",
+      "url": "http://www.hoopaks-r-us.com/",
       "count": 1
     }
   ]
