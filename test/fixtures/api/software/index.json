@@ -1,0 +1,24 @@
+{
+  "gear": [
+    {
+      "slug": "image-editor",
+      "name": "Image Editor",
+      "description": "An image editor.",
+      "url": "http://www.example.com/image-editor/"
+    },
+
+    {
+      "slug": "text-editor",
+      "name": "Text Editor",
+      "description": "A text editor.",
+      "url": "http://www.example.com/text-editor/"
+    }
+  ],
+  "paging": {
+    "current_page": "1",
+    "item_count": "2",
+    "page_count": "1",
+    "next_page_url": "",
+    "previous_page_url": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "gear": {
+    "slug": "image-editor",
+    "name": "Image Editor",
+    "description": "An image editor.",
+    "url": "http://www.example.com/image-editor/",
+    "interviews": [
+      {
+        "slug": "interviewee",
+        "name": "Interviewee",
+        "summary": "Test interview fake person"
+      }
+    ]
+  }
+}
