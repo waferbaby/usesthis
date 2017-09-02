@@ -11,6 +11,7 @@ gem 'redcarpet'
 
 group :test do
   gem 'codeclimate-test-reporter'
+  gem 'little-fixtures'
   gem 'minitest'
   gem 'rake'
   gem 'simplecov'
