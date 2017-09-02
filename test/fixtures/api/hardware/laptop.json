@@ -7,7 +7,8 @@
     "interviews": [
       {
         "slug": "interviewee",
-        "name": "Interviewee"
+        "name": "Interviewee",
+        "summary": "Test interview fake person"
       }
     ]
   }

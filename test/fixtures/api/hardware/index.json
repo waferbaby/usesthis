@@ -2,11 +2,22 @@
   "gear": [
     {
       "slug": "laptop",
-      "name": "Laptop."
+      "name": "Laptop.",
+      "description": "A laptop.",
+      "url": "http://www.example.com/laptop/"
     },
     {
       "slug": "phone",
-      "name": "Phone."
+      "name": "Phone.",
+      "description": "A phone.",
+      "url": "http://www.example.com/phone/"
     }
-  ]
+  ],
+  "paging": {
+    "current_page": "1",
+    "item_count": "2",
+    "page_count": "1",
+    "next_page_url": "",
+    "previous_page_url": ""
+  }
 }
