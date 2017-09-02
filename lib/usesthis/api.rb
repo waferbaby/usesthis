@@ -92,9 +92,11 @@ module UsesThis
             parts = [@output_paths[:stats], type]
             parts << key.to_s unless key == :all
 
-            publish_json_file(File.join(parts), 'gear_stats', stats: output)
+            publish_json_file(File.join(parts), 'ware_stats', stats: output)
           end
         end
+
+        publish_json_file(@output_paths[:stats], 'stats')
       end
 
       def record_gear_stats(ware)
