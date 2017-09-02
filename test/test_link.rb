@@ -5,19 +5,24 @@ $LOAD_PATH.unshift(__dir__)
 require 'helper'
 
 describe 'Link' do
-  subject do
-    filename = 'the.other.setup.yml'
-    path = File.join(test_site.source_paths[:links], 'inspired', filename)
-    UsesThis::Link.new(path)
+  before do
+    path = File.join(
+      test_configuration['source_path'],
+      'links',
+      'inspired',
+      'the.other.setup.yml'
+    )
+
+    @link = UsesThis::Link.new(path)
   end
 
   describe 'when loading from a YAML file' do
     it 'correctly parses the contents' do
-      source = read_yaml_fixture('link')
+      expected_output = YAML.safe_load(fixtures['link'])
 
-      subject.name.must_equal(source['name'])
-      subject.description.must_equal(source['description'])
-      subject.url.must_equal(source['url'])
+      %w[name description url].each do |key|
+        @link.send(key).must_equal(expected_output[key])
+      end
     end
   end
 end
