@@ -4,74 +4,39 @@ $LOAD_PATH.unshift(__dir__)
 
 require 'helper'
 
-describe 'API' do
-  before do
-    test_site.scan_templates
-    test_site.scan_pages
-    test_site.scan_posts
+describe UsesThis::API do
+  describe "when generating the API" do
+    before do
+      @site = UsesThis::Site.new(test_configuration)
+      @site.scan_files
 
-    UsesThis::API.generate(test_site)
-  end
+      @api_path = File.join(@site.output_paths[:site], 'api')
 
-  describe 'when generating interviews' do
-    it 'renders an interview' do
-      source = test_interview
-      output = read_api_file(File.join('interviews', 'interviewee'))
-
-      output.must_equal(source)
-    end
-  end
-
-  describe 'when generating gear' do
-    it 'renders a list' do
-      source = read_json_fixture('hardware-list')
-      output = read_api_file('hardware')
-
-      output.must_equal(source)
+      UsesThis::API.generate(@site)
     end
 
-    it 'renders a single piece of gear' do
-      source = read_json_fixture('laptop')
-      output = read_api_file(File.join('hardware', 'laptop'))
-
-      output.must_equal(source)
-    end
-  end
-
-  describe 'when generating categories' do
-    it 'renders a list of categories' do
-      source = { 'categories' => test_interview['interview']['categories'] }
-      output = read_api_file('categories')
-
-      output.must_equal(source)
+    it 'creates a list of interviews' do
+      match_api_fixture('api.interviews.index')
     end
 
-    it 'renders a single category' do
-      source = read_json_fixture('category')
-      output = read_api_file(File.join('categories', 'fake'))
-
-      output.must_equal(source)
-    end
-  end
-
-  describe 'when generating stats' do
-    it 'renders the basic information' do
-      source = {
-        'interviews' => test_site.posts.count,
-        'hardware' => test_site.hardware.count,
-        'software' => test_site.software.count
-      }
-
-      output = read_api_file('stats')
-
-      output.must_equal(source)
+    it 'creates a single interview' do
+      match_api_fixture('api.interviews.interviewee')
     end
 
-    it 'renders gear information' do
-      source = read_json_fixture('hardware_stats')
-      output = read_api_file(File.join('stats', 'hardware'))
+    it 'creates a list of hardware' do
+      match_api_fixture('api.hardware.index')
+    end
 
-      output.must_equal(source)
+    it 'creates a single piece of hardware' do
+      match_api_fixture('api.hardware.laptop')
+    end
+
+    it 'creates a single category' do
+      match_api_fixture('api.categories.fake')
+    end
+
+    it 'creates the hardware statistics' do
+      match_api_fixture('api.stats.hardware')
     end
   end
 end
