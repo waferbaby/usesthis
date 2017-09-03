@@ -22,7 +22,7 @@ module UsesThis
     end
 
     def inspect
-      "#<#{self.class.to_s} " \
+      "#<#{self.class} " \
       "@slug=#{@slug} " \
       "@name=#{@name} " \
       "@url=#{@url} " \
