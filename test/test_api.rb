@@ -10,8 +10,6 @@ describe UsesThis::API do
       @site = UsesThis::Site.new(test_configuration)
       @site.scan_files
 
-      @api_path = File.join(@site.output_paths[:site], 'api')
-
       UsesThis::API.generate(@site)
     end
 
