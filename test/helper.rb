@@ -5,20 +5,20 @@ SimpleCov.start
 
 require 'minitest/autorun'
 require 'usesthis'
+require 'json'
 require 'little-fixtures'
-require 'yaml'
 
 def test_configuration
-  Dimples::Configuration.new(
-    'source_path' => File.join(__dir__, 'source'),
-    'destination_path' => File.join(
+  {
+    source_path: File.join(__dir__, 'source'),
+    destination_path: File.join(
       File::SEPARATOR, 'tmp', "usesthis-#{Time.new.to_i}"
     ),
-    'class_overrides' => {
-      'site' => 'UsesThis::Site',
-      'post' => 'UsesThis::Interview'
+    class_overrides: {
+      site: 'UsesThis::Site',
+      post: 'UsesThis::Interview'
     }
-  )
+  }
 end
 
 def fixtures
