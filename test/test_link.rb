@@ -7,7 +7,7 @@ require 'helper'
 describe 'Link' do
   before do
     path = File.join(
-      test_configuration['source_path'],
+      test_configuration[:source_path],
       'links',
       'inspired',
       'the.other.setup.yml'
