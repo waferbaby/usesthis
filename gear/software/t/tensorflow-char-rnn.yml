@@ -1,0 +1,4 @@
+---
+name: tensorflow-char-rnn
+description: A Recurrent Neural Network library built on top of TensorFlow.
+url: https://github.com/crazydonkey200/tensorflow-char-rnn
