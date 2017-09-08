@@ -11,13 +11,13 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm [Sam Kottler](https://twitter.com/samkottler "Sam's Twitter account."), a systems engineer based in New York City. I work at [GitHub][] as an engineering manager on the site reliability engineering team, focused on our data centers. Before GitHub I led platform engineering at [DigitalOcean][], wrote systems management software at Red Hat, and was an early engineer at [Venmo][]. 
+I'm [Sam Kottler](https://twitter.com/samkottler "Sam's Twitter account."), a systems engineer based in New York City. I work at [GitHub][] as an engineering manager on the site reliability engineering team, focused on our data centers. Before GitHub I led platform engineering at [DigitalOcean][], wrote systems management software at Red Hat, and was an early engineer at [Venmo][].
 
 Outside of work I enjoy traveling and spend a lot of time on airplanes.
 
 #### What hardware do you use?
 
-My main machine is (surprise!) a [13" Retina MacBook Pro][macbook-pro]. It's my second one and it's by far the best computer I've ever owned. The weight to peformance is tough to beat. I use an [iPhone 7][iphone-7] too.
+My main machine is (surprise!) a [13" Retina MacBook Pro][macbook-pro]. It's my second one and it's by far the best computer I've ever owned. The weight to performance is tough to beat. I use an [iPhone 7][iphone-7] too.
 
 A few months ago I built a desktop for the first time in a while. It's got an AMD Ryzen processor, 64GB of memory, and a ridiculously fast m.2 NVMe device.
 
