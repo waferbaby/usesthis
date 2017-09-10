@@ -32,13 +32,13 @@ Here are its specs:
 - Corsair Vengeance 16GB (2 x 8GB) DDR3-1600 Memory
 - EVGA GeForce GTX 770 2GB Superclocked ACX Video Card
 
-The rest of the components you can see at: [http://pcpartpicker.com/user/ohhoe/saved/f2Lscf](http://pcpartpicker.com/user/ohhoe/saved/f2Lscf "Rachel's gaming computer's components.")
+The rest of the components you can see [here](http://pcpartpicker.com/user/ohhoe/saved/f2Lscf "Rachel's gaming computer's components.").
 
 I have a really crappy monitor with it and a crappy mouse and keyboard. I mostly use it for gaming, and as my media library I use for streaming.
 
 I also have my own 13" MacBook Pro I use for personal projects, game dev, and just regular usage. It's very cute and covered in cats and feminism.
 
-<img src="/images/interviews/ohhoe/laptop.jpg" width="500" height="335" alt="Rachel's cute MacBook Pro, covered in stickers.">
+<img src="/images/interviews/ohhoe/laptop.jpg" width="500" height="335" alt="Rachel's cute MacBook Pro, covered in stickers." class="detail">
 
 #### And what software?
 
