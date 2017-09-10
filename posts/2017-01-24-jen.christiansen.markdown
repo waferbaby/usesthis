@@ -19,12 +19,12 @@ Then I move on to my company-issued [MacBook Pro][macbook-pro] (Retina, mid 2012
 
 Key additional pieces of home studio hardware: crocheted cat bed from Etsy (cat to my left, laptop to my right), and wire paper tray on the shelf. 
 
-<img src="/images/interviews/jen.christiansen/cat.jpg" width="500" height="334" alt="Jen's cat.">
+<img src="/images/interviews/jen.christiansen/cat.jpg" width="500" height="334" alt="Jen's cat." class="detail">
 
 #### And what software?
 
-I use standard print magazine fare — Adobe [InDesign][], [Photoshop][], [Illustrator][], and [Acrobat Pro][acrobat-pro] — on a daily basis. Also [Microsoft Word][word], [Excel][] and [PowerPoint][] for reading manuscripts, opening scientist-provided data and image files, etc. For research and project management, I dabble in [Evernote][], [Dropbox][], and [Google Docs][google-docs]/Sheets. I've tried and discarded several organization apps. My favorite no-frills standby: to do lists made in [TextEdit][] saved to my desktop, and [Notes][notes-ios] on my iPhone.
+I use standard print magazine fare --- Adobe [InDesign][], [Photoshop][], [Illustrator][], and [Acrobat Pro][acrobat-pro] --- on a daily basis. Also [Microsoft Word][word], [Excel][] and [PowerPoint][] for reading manuscripts, opening scientist-provided data and image files, etc. For research and project management, I dabble in [Evernote][], [Dropbox][], and [Google Docs][google-docs]/Sheets. I've tried and discarded several organization apps. My favorite no-frills standby: to do lists made in [TextEdit][] saved to my desktop, and [Notes][notes-ios] on my iPhone.
 
 #### What would be your dream setup?
 
-I would love a new Mac tower and laptop — supposing that my current models are due to choke. But otherwise, I'm pretty content with my home studio setup (lots of desk space, natural light, peaceful, resident cat, neutral gray walls). Non-glitchy WiFi for my home studio from a company that I feel better about paying for it would be an improvement. And built-in bookshelves galore, including ones sized perfectly for Moleskine notebooks would be great. Oh, and there's a jagged oversized hole in the ceiling around the radiator pipes in the corner that always seems to be in-frame for video conferences. Hmmmm.. maybe I should just fix that.
+I would love a new Mac tower and laptop --- supposing that my current models are due to choke. But otherwise, I'm pretty content with my home studio setup (lots of desk space, natural light, peaceful, resident cat, neutral gray walls). Non-glitchy WiFi for my home studio from a company that I feel better about paying for it would be an improvement. And built-in bookshelves galore, including ones sized perfectly for Moleskine notebooks would be great. Oh, and there's a jagged oversized hole in the ceiling around the radiator pipes in the corner that always seems to be in-frame for video conferences. Hmmmm.. maybe I should just fix that.
