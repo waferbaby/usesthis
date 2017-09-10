@@ -22,7 +22,7 @@ I'm sorry this is so many words. If you tweet at me I'll send you a cat picture 
 
 #### What hardware do you use?
 
-<img src="/images/interviews/nikki.lee/hardware.jpg" width="500" height="570" alt="A sketch of a MacBook Pro, iPhone 6, ThinkPad Yoga, Google Pixel, a standing desk with a Dell XPS 8500 next to it, and Nikki's peripherals: personal and work keyboard/mouse setups, game controller, and an array of headphones.">
+<img src="/images/interviews/nikki.lee/hardware.jpg" width="500" height="570" alt="A sketch of a MacBook Pro, iPhone 6, ThinkPad Yoga, Google Pixel, a standing desk with a Dell XPS 8500 next to it, and Nikki's peripherals: personal and work keyboard/mouse setups, game controller, and an array of headphones." class="detail">
 
 **Computers**
 
@@ -110,4 +110,4 @@ They're lightweight, which was great when I was constantly running between meeti
 
 I'd love to have better collaborative whiteboarding and drawing software. People spend so much time describing in words what can be communicated much more quickly in sketches. I mostly work with folks who aren't in the same place as me, so we can't just grab a whiteboard and share ideas, which is really frustrating. If I had to guess, I'd say that the [OneNote][] team is going to be the first to launch a really great solution to this problem.
 
-<img src="/images/interviews/nikki.lee/kitty.jpg" width="500" height="666" alt="An annotated photograph of a grey cat lying on a lighter grey blanket that says thanks for reading.">
+<img src="/images/interviews/nikki.lee/kitty.jpg" width="500" height="666" alt="An annotated photograph of a grey cat lying on a lighter grey blanket that says thanks for reading." class="detail">
