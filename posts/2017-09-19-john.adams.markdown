@@ -1,0 +1,121 @@
+---
+title: John Adams
+summary: Security researcher, sound designer, photographer
+categories:
+- audio
+- mac
+- photographer
+- researcher
+- security
+credits:
+  name: Violet Blue
+  url: https://www.flickr.com/photos/violetblue/7370332628/
+---
+
+#### Who are you, and what do you do?
+
+My name is John Adams, and I am a security researcher, sound designer, videographer/photographer, and lover of electronics. I've been doing this since my dad showed me a working radio when I was young.
+
+Most know me as [@netik](https://twitter.com/netik "John's Twitter account.") on Twitter, where I was employee 13. I spent many years building that place (security and operations) and these days I have switched over to spending my time on independent computer security research and putting more time into music production and electronics. 
+
+I spent my last year building the "[Ides of DEF CON](https://dc25spqr.com/ "A hardware badge with radio and video game.")" badge with four friends. We built a videogame from scratch, including an RPG game engine, in which you could wear and fight people over the built-in packet radio. It's one of the most complex things I've ever built and our team was fantastic! We manufactured 225 of them and they were in very high demand at DEFCON, the world's largest hacker conference, this year. 
+
+In addition to all of this, I am on the advisory board of [Open Technology Fund](https://www.opentech.fund/ "A group supporting Internet freedom projects.") and I'm a speaker, fellow, and videographer for [Odd Salon](https://www.oddsalon.com/ "A series of lectures in San Francisco."), a monthly talk series on odd things -- "Expert Talks on Odd Topics. Odd Talks on everything else!"
+
+#### What hardware do you use?
+
+I've got a small recording studio at home. It consists of a large [ProStation][], on a desk manufactured by Omnirax. It's filled with quite a bit of audio production gear:
+
+- Two [Focal Twin6 Be][twin6-be] nearfield monitors sitting on [Auralex MoPADs][mopad.2] to isolate them from the desk. 
+- An [Orion 32 AD/DA][orion-32]
+- Many 1/4" patch bays from Neutrik
+- A [MOTU MIDI Express XT][midi-express-xt] going out to the synths
+- An [ART HeadAmp6 Pro][headamp6-pro] headphone amplifier
+- [Universal Audio 710 Twin-Finity][710-twin-finity] mic pre-amp
+- Many Furman power strips
+- A [Wacom Intuos tablet][intuos] that I use for music, photo editing, and other things
+- A [Razer Synapse][synapse] keyboard
+- A Razer Orbweaver left-hand keyboard. I used to use devices like these when I played [WoW][] all the time, but now I have found other uses for them, like [Adobe LightRoom][lightroom] and [Pro Tools][pro-tools] macros
+- [Apple Mighty Mouse][mighty-mouse] and associated [keyboard][]
+
+Computer wise, the main machine is:
+
+- [Mac Pro][mac-pro] (Late 2013) 3.5Ghz x 6 core, 64 GB RAM
+- [Pegasus R4][pegasus-r4] Thunderbolt RAID array (8TB)
+- One large [Apple 27" Cinema Display][cinema-display]
+- One small Samsung display on the synth rack for use while playing the synths
+ 
+There are also random office things here like an [HP Officejet X476dw][officejet-pro-x476dw], the world's fastest inkjet printer.
+
+A large A-Frame synthesizer rack from Jaspers (a German synth rack company) lives next to the desk. It currently holds five hardware synths:
+
+- [Moog Voyager][voyager]
+- [Roland JP-8000][jp-8000]
+- [Dave Smith Prophet '08][prophet-08]
+- [Dave Smith Tempest Drum Machine][tempest]
+- Virus TI
+
+..and a Samsung monitor.
+
+Hiding under the desk is the land of the old school which doesn't get powered up much... [Roland TB-303][tb-303] acid bassline synthesizer. [Oberheim Matrix 6R synth][matrix-6r]. Panasonic SV3200 DAT deck.
+
+The second desk, behind me is a full electronics workstation for repair and rework. I built this desk over the last year while working with our team on the badge. That desk holds a large, grounded anti-static mat, and on that desk are large wooden shelves, custom made, holding:
+
+- [Rigol DS1054Z][ds1054z] digital oscilloscope
+- [Weller WES51][wes51] soldering iron with many tips
+- [Hakko FR-810][fr-810] hot air station
+- Amscope 45X-90X stereo microscope on a boom stand
+- [Fluke 179][179] multimeter and microscope/needle probes
+- HP Logic Analyzer
+- Tektronix 100Mhz Oscilloscope (analog)
+- A generic fume extractor
+- A generic bi-polar power supply unit
+- Various wires, chemicals, and replacement electronics parts in bins
+
+The third area is a set of shelves which is our video department. It holds:
+
+- [Canon 5D Mark II][eos-5d-mark-ii]
+- Various lenses, including: Canon 50mm EF L, [Canon 24-70mm f/2.8L][ef-24-70mm-f2.8l-usm], [Canon 70-200mm f/2.8L][70-200mm-ex-dg]
+- [Blackmagic URSA][ursa] (EF Mount)
+- [Blackmagic Video Assist 4k][video-assist-4k]
+- Camtree and Wooden Camera Mounts, and so many batteries
+- Dracast video lights
+- Novatron Flash Kits and powerpacks
+- A variety of light modifiers, diffusers, stands, and product photo boxes for shooting
+- Three or four different types of tripods and monopods from Manfrotto/Bogen and Benro
+
+Then, there's a couch (actually a pull-out bed) for guests in case these sessions go too long. 
+
+My daily carry is a [MacBook Pro][macbook-pro], and sometimes if I'm traveling, I take an [iPad][] which is mainly used for reading. 
+
+I nearly always carry the following: A pair of [Ultimate Audio UE-7 headphones][ue-7-pro], a Sharpie, a roll of Board Tape (aka Artist's Tape), a Gerber Multitool, and a strong, bright flashlight. Batteries like many Eneloop AA's and a Mophie get me through my day.
+
+#### And what software?
+
+Daily software / security work:
+
+[Emacs][] (yes, still), [gcc][], [OpenOCD][], [Burp][] proxy, [Metasploit][], [Kali Linux][kali], [macOS][mac-os-x], nmap, [Wireshark][], tcpdump, etc. 
+
+Music:
+
+- Pro Tools 11
+- [iZotope Ozone][ozone]
+- [Ableton Live 9][live] with a Push2 Hardware controller
+- [Logic][] (sometimes, but rarely now)
+- All of the Waves Plugins that I can afford
+
+Video/Photo:
+
+- [Final Cut Pro X][final-cut-pro-x]
+- Adobe Lightroom
+- [Adobe After Effects][after-effects]
+
+#### What would be your dream setup?
+
+I think for the most part I'm there. There are a few more things I want but there's very little that I think I need to survive these days. The room is really, really excellent to work in. I could use some sound proofing / sound treatment in here, and I'd really like it if my HOA allows me to tear out the windows and install a roof deck, but hey, it's great in here.
+
+If I could have anything in the world added to the studio it would be all of the early Roland x0x drum machines, a few BAE or [Neve 1073][1073-console-module] mic pres, and a collection of vintage Neumann microphones. I'll also always take more synthesizers, because you can't have enough of those. 
+
+If someone could invent the infinite storage disk drive with low-latency, I'll take one of those too.
+
+I'd also like to get a 100MBit or better line from my house to the Internet. My current Internet connection is so slow, and I produce too much video to have a slow uplink.
