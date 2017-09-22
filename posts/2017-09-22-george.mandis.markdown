@@ -1,0 +1,37 @@
+---
+title: George Mandis
+summary: Developer, speaker, traveler & mentor
+categories:
+- developer
+- web
+- artist
+- speaker
+---
+
+#### Who are you, and what do you do?
+
+My name is [George Mandis](https://george.mand.is) and I’m a [freelance web developer](https://snaptortoise.com) based primarily out of Portland, Oregon. Other hats I wear include mentor, writer, musician, intrepid traveler, creative tinkerer and — lately — [speaker](https://george.mand.is/talks).
+
+In my spare time I like to run, paint, make [guitar picks](https://romaguitarpicks) and wear out walking shoes.
+
+#### What hardware do you use?
+
+These days I put a premium on portability over performance with most of my hardware and am fairly entrenched in the Apple ecosystem. My primary machine is a [2015 MacBook](apple.com/macbook) which surprises some people. I have a iPhone 6S, iPad Pro and AirPods.
+
+I have a collection of “tiny computers” that I think are way more fun and interesting: [Raspberry Pis](https://www.raspberrypi.org/), [Arduinos](https://www.arduino.cc/), [Teensy boards](https://www.pjrc.com/teensy/), [Espruinos](http://www.espruino.com/), [Puck.js](https://www.puck-js.com/) and [C.H.I.P. computers](https://getchip.com/). My desk is littered with these and cables and breadboards. Lately I use them to make custom MIDI controllers to supplement some of my talks, but I also make lots of fun standalone projects with them.
+
+Last but not least I have a teapot and french press that get almost daily use. They each hold about 2.5 full cups of their respective beverage which I’ve deduced is the perfect amount.
+
+#### And what software?
+
+Recently I switched to [Visual Studio Code](https://code.visualstudio.com/) as my primary editor after using [TextMate](https://macromates.com/) for the better part of the last decade. I was reluctant at first, but it’s growing on me. The switch was entirely peer-pressure induced after realizing all of the speakers at a recent conference were using it. I was never crazy about [Atom](https://github.com/atom) worried because I thought VSC might be too similar. So far it’s been quite good.
+
+Other software I like and use daily: [Chrome](https://www.google.com/chrome/browser/desktop/index.html), [iA Writer](https://ia.net/), [1Password](https://1password.com/), [OmniFocus](https://www.omnigroup.com/omnifocus) and [iTerm2](https://www.iterm2.com/). I have a number of custom scripts and home-brewed software for tracking billable hours, creating invoices and running other aspects of my business. [Acorn](https://flyingmeat.com/acorn/) is my primary image editor and I haven’t owned Photoshop in years.
+
+If we’re talking about web-based software this list would get a lot longer: [Gmail](https://gmail.com), [Google Calendar](https://calendar.google.com), [Basecamp](https://basecamp.com),  [Dropbox](https://dropbox.com) and [GitHub](https://github.com) get used constantly.
+
+There’s a lot more on both the client and cloud side if I really started digging into it, but those are the major pieces and most pertinent to what I do on a daily basis. I like to change the software every once in a while and those items have stuck around, though every couple years I go through a phase of trying to ditch OmniFocus for my own home-brewed solution and chicken-out.
+
+#### What would be your dream setup?
+
+More than anything I want a 100-year battery. I’d be fine with a10-year battery and even settle for a 1-year battery. Basically, I’m waiting for the future where we don’t have to tether our devices to holes in the wall for hours at a time in order to keep using them. I don’t think people understand what a profound development that would be.
