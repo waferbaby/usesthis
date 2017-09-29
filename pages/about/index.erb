@@ -3,51 +3,49 @@ layout: default
 title: About
 ---
 
-<article>
-  <header>
-    <h3>What's this?</h3>
-    <p>
-    Uses This is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.
-    There are currently <strong><%= @site.posts.count %></strong> interviews mentioning <strong><%= @site.hardware.count %></strong> pieces of hardware and <strong><%= @site.software.count %></strong> bits of software.
-    </p>
-  </header>
+<h3>What's all this?</h3>
+<p>
+Uses This is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.
+There are currently <strong><%= @site.posts.count %></strong> interviews mentioning <strong><%= @site.hardware.count %></strong> pieces of hardware and <strong><%= @site.software.count %></strong> bits of software.
+</p>
 
-  <section id="faq">
-    <h4>Questions</h4>
-    <dl>
-      <dt id="schedule">When are new interviews posted?</dt>
-      <dd>Every <strong>Tuesday</strong> and <strong>Thursday</strong>, <a href="http://www.timeanddate.com/worldclock/australia/melbourne" title="View the current time in Melbourne.">Melbourne time</a>.</dd>
+<h4 id="faq">Questions</h4>
+<dl>
+  <dt id="schedule">When are new interviews posted?</dt>
+  <dd>Every <strong>Tuesday</strong> and <strong>Thursday</strong>, <a href="http://www.timeanddate.com/worldclock/australia/melbourne" title="View the current time in Melbourne.">Melbourne time</a>.</dd>
 
-      <dt id="who">Who runs the site?</dt>
-      <dd>I'm <a href="http://twitter.com/waferbaby" title="Some dude's Twitter account.">Daniel Bogan</a>, a web nerd.</dd>
+  <dt id="who">Who runs the site?</dt>
+  <dd>I'm <a href="http://twitter.com/waferbaby" title="Some dude's Twitter account.">Daniel Bogan</a>, a web nerd.</dd>
 
-      <dt id="suggestion">Can I suggest someone to interview?</dt>
-      <dd>Yes please! Either via email or Twitter (see below).</d>
+  <dt id="suggestion">Can I suggest someone to interview?</dt>
+  <dd>Yes please! Either via email or Twitter (see below).</d>
 
-      <dt id="myself">Can I suggest myself?</dt>
-      <dd>If you write up your own interview, post it online and send me the link (or <a href="https://github.com/waferbaby/usesthis/fork" title="Create a fork of The Setup.">fork the site</a> and make a pull request), I'd love to add it to the <a href="/community/" title="The community page.">Community page</a>!</dd>
+  <dt id="myself">Can I suggest myself?</dt>
+  <dd>If you write up your own interview, post it online and send me the link (or <a href="https://github.com/waferbaby/usesthis/fork" title="Create a fork of The Setup.">fork the site</a> and make a pull request), I'd love to add it to the <a href="/community/" title="The community page.">Community page</a>!</dd>
 
-      <dt id="apple">Is this some sort of Apple fan site?</dt>
-      <dd>Surprisingly, no! People just like using their stuff - I try to pick interesting <em>people</em>, and don't tend to know what gear they're using beforehand.</dd>
+  <dt id="apple">Is this some sort of Apple fan site?</dt>
+  <dd>Surprisingly, no! People just like using their stuff - I try to pick interesting <em>people</em>, and don't tend to know what gear they're using beforehand.</dd>
 
-      <dt id="clone">Can I make my own version of the site?</dt>
-      <dd>Yes! The whole site is freely available <a href="http://github.com/waferbaby/usesthis/" title="The source code for the site.">on GitHub</a> - go nuts! And let me know if you <em>do</em> end up making your own, so I can link to it.</dd>
+  <dt id="clone">Can I make my own version of the site?</dt>
+  <dd>Yes! The whole site is freely available <a href="http://github.com/waferbaby/usesthis/" title="The source code for the site.">on GitHub</a> - go nuts! And let me know if you <em>do</em> end up making your own, so I can link to it.</dd>
 
-      <dt id="money">Do you make money from the site?</dt>
-      <dd>I run a <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">Patreon account</a>, where people have <a href="#thanks" title="A list of amazing people who sponsor the site.">chosen to sponsor the site</a> on a monthly basis. I'm using <a href="https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a> to host the site, and if you sign up via that link I get credit towards my hosting.</dd>
+  <dt id="money">Do you make money from the site?</dt>
+  <dd>I run a <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">Patreon account</a>, where people have <a href="#thanks" title="A list of amazing people who sponsor the site.">chosen to sponsor the site</a> on a monthly basis. I'm using <a href="https://www.digitalocean.com/?refcode=b59c4de92bdc" title="My hosting provider (with a referral code in the link)." rel="nofollow">DigitalOcean</a> to host the site, and if you sign up via that link I get credit towards my hosting.</dd>
 
-      <dt id="contact">How do I get in touch with you?</dt>
-      <dd>Send an email to the fourth letter of the English alphabet, followed by the 'at' symbol, care of this domain. You can also ping me <a href="http://twitter.com/usesthis/" title="The usesthis Twiter account.">on Twitter</a>.</dd>
-    </dl>
-  </section>
+  <dt id="contact">How do I get in touch with you?</dt>
+  <dd>Send an email to the fourth letter of the English alphabet, followed by the 'at' symbol, care of this domain. You can also ping me <a href="http://twitter.com/usesthis/" title="The usesthis Twiter account.">on Twitter</a>.</dd>
+</dl>
 
-  <section id="thanks">
-    <h4>Thank you!</h4>
-    <p>These generous people sponsor the site <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
-    <ul id="patrons">
-    <% @site.links[:sponsor].each do |link| %>
-      <li><% if link.url %><a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><% end %><%= link.name %><% if link.url %></a><% end %></li>
+<h4 id="thanks">Thank you!</h4>
+<p>These generous people sponsor the site <a href="https://www.patreon.com/waferbaby" title="My Patreon account.">via Patreon</a> - how awesome are they? <strong>So</strong> awesome.</p>
+<ul id="patrons">
+<% @site.links[:sponsor].each do |link| %>
+  <li>
+    <% if link.url %>
+      <a href="<%= link.url %>" title="View this link from the very generous <%= link.name %>."><%= link.name %></a>
+    <% else %>
+      <%= link.name %>
     <% end %>
-    </ul>
-  </section>
-</article>
+  </li>
+<% end %>
+</ul>

@@ -3,30 +3,25 @@ layout: default
 title: Community
 ---
 
-<article>
-  <header>
-    <h3>Friends and buddies</h3>
-    <p>Some awesome people have taken the time to make their localised versions of the site, picking the brains of the people around them, or those within a particular field of interest. Others have written up their own personal interviews. All of them are <em>awesome</em>.</p>
-  </header>
+<h3>Friends and pals</h3>
+<p>Some awesome people have taken the time to make their localised versions of the site, picking the brains of the people around them, or those within a particular field of interest. Others have written up their own personal interviews. All of them are <em>awesome</em>.</p>
 
-  <section id="inspired">
-    <h4>Inspired</h4>
-    <ul>
-      <% @site.links[:inspired].each do |link| %>
-      <li>
-        <a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><br>
-        <span class="summary"><%= link.description %></span>
-      </li>
-      <% end %>
-    </ul>
-  </section>
+<h4 id="inspired">Inspired</h4>
+<ul>
+  <% @site.links[:inspired].each do |link| %>
+  <li>
+    <a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a><br>
+    <span class="summary"><%= link.description %></span>
+  </li>
+  <% end %>
+</ul>
 
-  <section id="personal">
-    <h4>Personal</h4>
-    <ul>
-      <% @site.links[:personal].each do |link| %>
-      <li><a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a></li>
-      <% end %>
-    </ul>
-  </section>
-</article>
+<h4 id="personal">Personal</h4>
+<ul>
+  <% @site.links[:personal].each do |link| %>
+  <li>
+    <a href="<%= link.url %>" title="View <%= link.name %>."><%= link.name %></a>
+    <span class="summary"><%= link.url %></span>
+  </li>
+  <% end %>
+</ul>

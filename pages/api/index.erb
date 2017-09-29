@@ -3,19 +3,15 @@ layout: default
 title: API
 ---
 
-<article>
-  <header>
-    <h3>Beep borp beep</h3>
-    <p>Uses This provides a very simple, JSON-based API. Since it's 100% static (!), all requests are GET requests. I'd love to know if you do something interesting with it!</p>
-  </header>
+<h3>The API</h3>
+<p>Uses This provides a very simple, JSON-based API. Since it's 100% static (!), all requests are GET requests. I'd love to know if you do something interesting with it!</p>
 
-  <section id="interviews">
-    <h4>Interviews</h4>
+<h4 id="interviews-endpoints">Interviews</h4>
 
-    <h5 id="interviews-list">Getting a list</h5>
-    <p class="summary">This method returns a paginated list of all the interviews.</p>
-    <p><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
-    <pre>
+<h5 id="interviews-list">Getting a list</h5>
+<p class="summary">This method returns a paginated list of all the interviews.</p>
+<p><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
+<pre>
 {
   "interviews": [
     {
@@ -53,12 +49,13 @@ title: API
     "next_page_url": "https://usesthis.com/api/interviews/?page=2",
     "previous_page_url": ""
   }
-}</pre>
+}
+</pre>
 
-    <h5 id="interviews-interview">Getting an interview</h5>
-    <p class="summary">This method returns a complete interview for the given slug, including gear.</p>
-    <p><a href="/api/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></p>
-    <pre>
+<h5 id="interviews-interview">Getting an interview</h5>
+<p class="summary">This method returns a complete interview for the given slug, including gear.</p>
+<p><a href="/api/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></p>
+<pre>
 {
   "interview": {
     "slug": "tasslehoff.burrfoot",
@@ -91,12 +88,13 @@ title: API
       ]
     }
   }
-}</pre>
+}
+</pre>
 
-    <h5 id="interviews-categories">Getting categories</h5>
-    <p class="summary">This method returns a basic list of all the interview categories.</p>
-    <p><a href="/api/categories" title="Request a list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></p>
-    <pre>
+<h5 id="interviews-categories">Getting categories</h5>
+<p class="summary">This method returns a basic list of all the interview categories.</p>
+<p><a href="/api/categories" title="Request a list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></p>
+<pre>
 {
   "categories": [
     "linux",
@@ -104,12 +102,13 @@ title: API
     "thief",
     "wizard"
   ]
-}</pre>
+}
+</pre>
 
-    <h5 id="interviews-category">Getting a category</h5>
-    <p class="summary">This method returns a basic list of all the interviews for the given category.</p>
-    <p><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
-    <pre>
+<h5 id="interviews-category">Getting a category</h5>
+<p class="summary">This method returns a basic list of all the interviews for the given category.</p>
+<p><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
+<pre>
 {
   "interviews": [
     {
@@ -136,18 +135,16 @@ title: API
     "previous_page_url": ""
   }
 }</pre>
-  </section>
 
-  <section id="gear">
-    <h4>Gear</h4>
+<h4 id="gear">Gear</h4>
 
-    <h5 id="gear-list">Getting a list</h5>
-    <p class="summary">This method returns a paginated list of all the hardware or software mentioned on the site.</p>
-    <p>
-      <a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
-      <a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a><br>
-    </p>
-    <pre>
+<h5 id="gear-list">Getting a list</h5>
+<p class="summary">This method returns a paginated list of all the hardware or software mentioned on the site.</p>
+<p>
+  <a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
+  <a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a><br>
+</p>
+<pre>
 {
   "gear": [
     {
@@ -155,15 +152,16 @@ title: API
       "name": "Hoopak"
     }
   ]
-}</pre>
+}
+</pre>
 
-    <h5 id="gear-item">Getting an item</h5>
-    <p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
-    <p>
-      <a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
-      <a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
-    </p>
-    <pre>
+<h5 id="gear-item">Getting an item</h5>
+<p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
+<p>
+  <a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
+  <a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
+</p>
+<pre>
 {
   "gear": {
     "slug": "hoopak",
@@ -178,29 +176,29 @@ title: API
       }
     ]
   }
-}</pre>
-  </section>
+}
+</pre>
 
-  <section id="stats">
-    <h4>Stats</h4>
+<h4 id="stats">Stats</h4>
 
-    <h5 id="stats-general">Getting general info</h5>
-    <p class="summary">This method returns basic site statistics.</p>
-    <p><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></p>
-    <pre>
+<h4 id="stats-general">Getting general info</h5>
+<p class="summary">This method returns basic site statistics.</p>
+<p><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></p>
+<pre>
 {
   "interviews": 10,
   "hardware": 42,
   "software": 69
-}</pre>
+}
+</pre>
 
-    <h5 id="stats-gear">Getting gear info</h5>
-    <p class="summary">This method returns the top 50 hardware or software items mentioned on the site. You can also specify a given year by adding it to the URL.</p>
-    <p>
-      <a href="/api/stats/hardware" title="Request recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a><br>
-      <a href="/api/stats/software" title="Request recent software statistics as JSON.">https://usesthis.com/api/stats/software</a><br>
-    </p>
-    <pre>
+<h5 id="stats-gear">Getting gear info</h5>
+<p class="summary">This method returns the top 50 hardware or software items mentioned on the site. You can also specify a given year by adding it to the URL.</p>
+<p>
+  <a href="/api/stats/hardware" title="Request recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a><br>
+  <a href="/api/stats/software" title="Request recent software statistics as JSON.">https://usesthis.com/api/stats/software</a><br>
+</p>
+<pre>
 {
   "gear": [
     {
@@ -212,17 +210,3 @@ title: API
     }
   ]
 }</pre>
-  </section>
-
-  <section id="changelog">
-    <h4>Changelog</h4>
-
-    <ul id="changelog">
-      <li><time datetime="2016-02-13">July 4, 2016</time><br>Added details about the stats API endpoints, and further examples to the existing docs.</li>
-      <li><time datetime="2016-02-13">February 13, 2016</time><br>Changed the URLs for the categories API to match the site (but the old ones will keep working forever).</li>
-      <li><time datetime="2015-06-18">June 18, 2015</time><br>Updated interviews to <em>always</em> have a <strong>gear</strong> element.</li>
-      <li><time datetime="2015-03-15">March 15, 2015</time><br>Added support for interview categories.</li>
-      <li><time datetime="2015-03-13">March 13, 2015</time><br>Initial public launch. Sorry about that.</li>
-    </ul>
-  </section>
-</article>

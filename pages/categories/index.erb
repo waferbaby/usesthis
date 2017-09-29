@@ -3,20 +3,14 @@ layout: default
 title: Categories
 ---
 
-<article>
-  <header>
-    <h3>No, not just Macs</h3>
-    <p>There are currently <strong><%= @site.posts.count %></strong> interviews in <strong><%= @site.categories.count %></strong> categories.</p>
-  </header>
+<h3>Not just Macs</h3>
+<p>There are currently <strong><%= @site.categories.count %></strong> categories on the site.</p>
 
-  <section id="categories">
-    <ul>
-    <% @site.categories.keys.sort.each do |slug| %>
-      <li>
-        <strong><a href="/categories/<%= slug %>/" title="View all the '<%= @site.categories[slug].name %>' interviews."><%= @site.categories[slug].name %></a></strong> (<%= @site.categories[slug].posts.count %>)<br>
-        <span class="summary">Latest: <%= @site.categories[slug].posts[0..2].map { |interview| "<a href=\"/interviews/#{interview.slug}\" title=\"View the interview with #{interview.title}.\">#{interview.title}</a>" }.join(', ') %></span>
-      </li>
-    <% end %>
-    </ul>
-  </section>
-</article>
+<ul>
+<% @site.categories.keys.sort.each do |slug| %>
+  <li>
+    <a href="/categories/<%= slug %>/" title="View all the '<%= @site.categories[slug].name %>' interviews."><%= @site.categories[slug].name %></a><br>
+    <span class="summary"><%= @site.categories[slug].posts.count %> interview<% if @site.categories[slug].posts.count != 1 %>s<% end %>.</span>
+  </li>
+<% end %>
+</ul>
