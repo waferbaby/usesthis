@@ -3,17 +3,27 @@ layout: default
 title: Interviews
 ---
 
-<% @items.each do |interview| %>
-<article class="interviewee h-card vcard">
-  <%= render_template('shared.interview', interview: interview) %>
-</article>
+<% if @category %>
+  <h3><%= @site.categories[@category].name %> interviews</h3>
+  <p>There's currently <strong><%= @items.count %></strong> to read through.</p>
+<% else %>
+  <h3>Interviews</h3>
+  <p>What do people use to get the job done?</p>
 <% end %>
 
+<ul>
+  <% @items.each do |interview| %>
+  <li>
+    <%= render_template('shared.interview', interview: interview) %>
+  </li>
+  <% end %>
+</ul>
+
 <% if @pagination && @pagination[:page_count] > 1 %>
-  <p id="paginator">
+  <nav id="paginator">
   Page <strong><%= @pagination[:current_page] %></strong> of <strong><%= @pagination[:page_count] %></strong> (<%= @pagination[:item_count] %> interview<% if @pagination[:item_count] > 1 %>s<% end %>):
   <% if @pagination[:previous_page] %><a href="<%= @pagination[:previous_page_url] %>" title="Go to page <%= @pagination[:previous_page] %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
   /
   <% if @pagination[:next_page] %><a href="<%= @pagination[:next_page_url] %>" title="Go to page <%= @pagination[:next_page] %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
-  </p>
+  </nav>
 <% end %>
