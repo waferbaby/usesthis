@@ -2,21 +2,19 @@
 layout: default
 ---
 
-<article id="interview" class="h-entry">
+<article>
   <%= render_template('shared.interview', interview: @this, selected: true) %>
-  <section id="answers" class="e-content">
   <%= yield %>
-  </section>
 
   <% if @this.license %>
   <p class="license">This interview is available under the <a href="http://creativecommons.org/licenses/<%= @this.license %>/3.0/" title="View details of the license."><%= @this.license.upcase %> Creative Commons license</a>.</p>
   <% end %>
 
   <% if @this.previous_post || @this.next_post %>
-  <p id="paginator">
-  <% if @this.previous_post %>Previous: <a href="/interviews/<%= @this.previous_post.slug %>/" title="View the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
-  <% if @this.previous_post && @this.next_post %>/<% end %>
-  <% if @this.next_post %>Next: <a href="/interviews/<%= @this.next_post.slug %>/" title="View the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
-  </p>
+  <nav id="paginator">
+    <% if @this.previous_post %>Previous: <a href="/interviews/<%= @this.previous_post.slug %>/" title="View the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
+    <% if @this.previous_post && @this.next_post %>/<% end %>
+    <% if @this.next_post %>Next: <a href="/interviews/<%= @this.next_post.slug %>/" title="View the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
+  </nav>
   <% end %>
 </article>
