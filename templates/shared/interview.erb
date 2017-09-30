@@ -14,9 +14,8 @@
 <% end %>
 </h3>
 <p class="summary"><%= @interview.summary %></p>
-<p class="published">Published <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %></time>.</p>
+<time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %></time>
 <nav class="categories">
-  Filed under:
   <ul>
   <% @interview.categories.each do |slug| %>
     <li><a href="/categories/<%= slug %>/" title="View all the <%= @site.categories[slug].name %> interviews." class="p-category"><%= slug %></a></li>
