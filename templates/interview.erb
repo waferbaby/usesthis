@@ -3,7 +3,10 @@ layout: default
 ---
 
 <article>
-  <%= render_template('shared.interview', interview: @this, selected: true) %>
+  <header>
+    <%= render_template('shared.interview', interview: @this, selected: true) %>
+  </header>
+
   <%= yield %>
 
   <% if @this.license %>
