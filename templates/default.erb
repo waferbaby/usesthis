@@ -41,7 +41,7 @@
     </script>
   </head>
   <body>
-    <header>
+    <header id="primary">
       <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
       <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
       <p id="tagline">What do people use to get the job done?</p>
