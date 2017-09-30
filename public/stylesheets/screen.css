@@ -1,348 +1,211 @@
-.summary {
-color: #888;
-font-size: 95%;
-}
-
 a {
-color: #000;
+color: #7733ff;
 text-decoration: underline;
 }
 
-a:hover {
-color: #444;
+a:hover,
+header#primary nav a:hover {
+color: #fe2e9a;
 }
 
-aside {
-flex: 1 0;
-padding: 0;
-border: 0;
-font-size: 80%;
-line-height: 1.8em;
-}
-
-article.interviewee {
-margin-bottom: 40px;
+article header {
+margin-bottom: 30px;
 }
 
 body {
+color: #000;
 font-family: -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
-font-size: 1.3em;
-line-height: 1.8em;
-padding: 50px;
-background-color: #fff;
-}
-
-code {
-color: #767676;
+font-size: 1.2em;
+line-height: 1.7em;
+margin: 0;
+padding: 0;
 }
 
 dd {
-font-size: 85%;
-padding: 0;
+display: block;
+font-size: 80%;
 margin: 0 0 20px 0;
 }
 
 dt {
-font-weight: bold;
-}
-
-div#wrapper {
-display: flex;
-flex-flow: row wrap;
-max-width: 1000px;
-margin: auto;
-}
-
-p#credits {
-float: right;
-font-size: 70%;
+display: block;
 margin: 0;
-color: #aaa;
 }
 
-p#support {
-font-size: 95%;
-}
-
-footer {
-width: 100%;
-text-align: center;
-font-size: 80%;
-color: #444;
-padding-top: 20px;
-border-top: solid 1px #eee;
-}
-
-h1 {
-font-size: 200%;
-color: #000;
+h1,
+h2 {
+color: #fe2e9a;
+font-size: 220%;
+margin: 10px;
 padding: 0;
-margin: 0 0 5px 0;
+text-transform: lowercase;
 }
 
 h1 a {
 text-decoration: none;
 }
 
-h2 {
-font-size: 180%;
-color: #fe2e9a;
-padding: 0;
-margin: 0;
-}
-
 h3 {
-font-size: 160%;
+color: #fe2e9a;
+font-size: 140%;
+margin: 0 0 10px 0;
 padding: 0;
-margin: 0;
 }
 
 h4 {
-font-size: 140%;
-font-weight: normal;
+font-size: 120%;
+margin: 0 0 10px 0;
 padding: 0;
-margin: 0 0 15px 0;
 }
 
 h5 {
-font-size: 120%;
-font-weight: normal;
+font-size: 100%;
+font-weight: 600;
+margin: 20px 0 5px 0;
 padding: 0;
-margin: 20px 0 0 0;
 }
 
-header#main {
-flex: 1 0;
-}
-
-header#main nav {
-font-size: 140%;
-padding: 0;
-margin: 15px 0 30px 0;
-border-top: solid 1px #eee;
-border-bottom: solid 1px #eee;
-}
-
-header#main nav ul {
-padding: 10px 0;
-margin: 0;
-}
-
-header#main nav ul li {
-display: block;
-margin-bottom: 5px;
-}
-
-img.detail, img.portrait {
-margin-bottom: 10px;
-border: solid 1px #000;
-}
-
+header#primary > *,
 main {
-width: 502px;
-word-wrap: break-word;
-margin: 0 50px;
+margin-left: auto;
+margin-right: auto;
+max-width: 600px;
 }
 
-nav a {
-color: #fe2e9a;
+header#primary {
+background-color: #ffe6f3;
+border-bottom: solid 1px #ffcce6;
+margin-bottom: 25px;
+padding: 20px 30px;
+}
+
+header#primary nav {
+font-size: 90%;
+text-transform: uppercase;
+}
+
+header#primary nav a {
+color: #000;
+}
+
+figure {
+margin: 0 0 10px 0;
+}
+
+img {
+height: auto;
+width: 100%;
+}
+
+p#tagline {
+color: #666;
+font-size: 80%;
+margin-bottom: 10px;
+margin-top: 0;
+padding: 0;
+}
+
+p.summary {
+margin: 5px 0 10px 0;
+}
+
+pre {
+background-color: #f5f5f5;
+font-size: 80%;
+max-height: 300px;
+overflow: scroll;
+padding: 20px;
+}
+
+nav li {
+display: inline-block;
+margin: 0 10px 0 0;
+padding: 0;
 }
 
 nav ul {
 list-style: none outside;
-padding: 0;
 margin: 0;
+padding: 0;
 }
 
-nav.categories {
-margin: 10px 0 30px 0;
-padding-bottom: 10px;
-border-bottom: solid 1px #eee;
-}
-
-nav.categories ul li {
-display: inline-block;
-margin-right: 5px;
-}
-
-nav.categories ul li:after {
-content: " / ";
-color: #eee;
-}
-
-nav.categories ul li:last-child:after {
-content: "";
-}
-
-p#paginator {
+nav#paginator {
+clear: left;
+font-size: 90%;
+margin-top: 30px;
 text-align: center;
-font-size: 95%;
-padding: 20px 0;
+}
+
+nav#paginator span {
+color: #ccc;
+}
+
+nav.categories, time {
+color: #888;
+font-size: 90%;
 margin: 0;
-border-top: solid 1px #eee;
-}
-
-p#paginator span {
-color: #767676;
-}
-
-p#tagline {
-font-size: 110%;
-color: #777;
 padding: 0;
-margin: 10px 0;
 }
 
-p.summary {
-margin: 2px 0 0 0;
-}
-
-pre {
-overflow: scroll;
+footer {
+border-top: solid 1px #eee;
+clear: left;
+color: #888;
 font-size: 80%;
-background-color: #eee;
-color: #767676;
-padding: 10px;
-margin: 0 0 20px 0;
-border: solid 1px #ddd;
-}
-
-section#categories > ul {
-list-style: none;
-margin-right: 0;
-margin-left: 0;
-}
-
-section#categories > ul li {
-margin-bottom: 10px;
-}
-
-section#categories > ul li span.summary {
-font-size: 80%;
-}
-
-section#inspired > ul,
-section#personal > ul {
-list-style: none;
-margin-right: 0;
-margin-left: 0;
-column-count: 2;
-}
-
-section#inspired > ul li,
-section#personal > ul li {
-margin-bottom: 5px;
-}
-
-time {
-font-size: 80%;
-color: #aaa;
-}
-
-time a {
-color: #aaa;
+margin-top: 30px;
+text-align: center;
 }
 
 ul {
-list-style: square outside;
 font-size: 90%;
+list-style: square inside;
+margin: 10px;
 padding: 0;
-margin: 20px;
 }
 
-ul li {
-padding: 0;
+ul#interviews {
+list-style: none outside;
 margin: 0;
+padding: 0;
 }
 
-ul#changelog li {
+ul#interviews > li {
+clear: left;
 margin-bottom: 10px;
 }
 
-ul#changelog li time {
-font-size: 100%;
-font-weight: bold;
-color: #000;
+ul#interviews img {
+float: left;
+margin: 0 40px 40px 0;
+width: 50%;
 }
 
+ul#categories,
 ul#patrons {
-list-style: none;
-column-count: 3;
-margin: 20px 0;
+display: grid;
+grid-gap: 10px 20px;
+grid-template-columns: 50% 50%;
+list-style: none outside;
+margin: 0 0 10px 0;
 }
 
-@media all and (max-width: 1023px) {
-
-  aside {
-  flex: 1 auto;
-  padding: 20px 0;
-  border-top: solid 1px #eee;
-  }
-
-  aside form {
-  text-align: center;
-  }
-
-  div#wrapper {
-  max-width: 502px;
-  }
-
-  header#main {
-  flex: 1 auto;
-  }
-
-  header#main nav ul li {
-  display: inline;
-  margin-right: 30px;
-  }
-
-  main {
-  margin: 0;
-  }
-}
-
-@media all and (min-width: 800px) and (max-width: 1023px) {
-
-  h1, h2 {
-  display: inline-block;
-  font-size: 230%;
-  }
-
-  h2:before {
-  content: "/";
-  font-weight: normal;
-  color: #eee;
-  margin: 0 10px;
-  }
-}
-
-@media all and (max-width: 799px) {
+@media all and (max-width: 750px) {
 
   body {
-  padding: 20px;
-  font-size: 90%;
+  font-size: 100%;
   }
 
-  header#main nav ul li {
-  display: inline-block;
-  width: 33%;
+  header#primary nav {
+  font-size: 110%;
   }
 
-  img.detail, img.portrait {
-  max-width: 500px;
-  width: 100%;
-  height: auto;
+  main, footer {
+  padding: 0 20px;
   }
 
-  p#credits {
+  ul#interviews img {
   float: none;
-  padding: 0;
-  margin-bottom: 10px;
-  }
-
-  section#inspired > ul,
-  section#personal > ul,
-  ul#patrons {
-  column-count: 1;
+  margin: 0;
+  width: 100%;
   }
 }
