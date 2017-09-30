@@ -3,15 +3,7 @@ layout: default
 title: Interviews
 ---
 
-<% if @category %>
-  <h3><%= @site.categories[@category].name %> interviews</h3>
-  <p>There's currently <strong><%= @items.count %></strong> to read through.</p>
-<% else %>
-  <h3>Interviews</h3>
-  <p>What do people use to get the job done?</p>
-<% end %>
-
-<ul>
+<ul id="interviews">
   <% @items.each do |interview| %>
   <li>
     <%= render_template('shared.interview', interview: interview) %>
