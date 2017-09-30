@@ -42,14 +42,14 @@
   </head>
   <body>
     <header>
-      <h1>Uses This</h1>
-      <h2><% if @type == :interview %>Interview<% elsif @category %>Category<% else %><%= @this.title %><% end %></h2>
+      <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
+      <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
+      <p id="tagline">What do people use to get the job done?</p>
       <nav>
         <ul>
           <li><a href="/" title="The most recent interviews.">Home</a></li>
           <li><a href="/about/">About</a></li>
           <li><a href="/categories/">Categories</a></li>
-          <li><a href="/community/">Community</a></li>
         </ul>
       </nav>
     </header>
