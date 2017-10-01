@@ -1,5 +1,5 @@
 <figure>
-  <% unless @selected %><a href="/interviews/<%= @interview.slug %>/" title="View the interview with <%= @interview.title %>." class="p-name"><% end %>
+  <% unless @selected %><a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>." class="p-name"><% end %>
   <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= @interview.title %>">
   <% unless @selected %></a><% end %>
   <% if @selected && @interview.credits %>
@@ -10,7 +10,7 @@
 <% if @selected %>
   <%= @interview.title %>
 <% else %>
-  <a href="/interviews/<%= @interview.slug %>/" title="View the interview with <%= @interview.title %>."><%= @interview.title %></a>
+  <a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>."><%= @interview.title %></a>
 <% end %>
 </h3>
 <p class="summary"><%= @interview.summary %></p>

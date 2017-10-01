@@ -15,9 +15,9 @@ layout: default
 
   <% if @this.previous_post || @this.next_post %>
   <nav id="paginator">
-    <% if @this.previous_post %>Previous: <a href="/interviews/<%= @this.previous_post.slug %>/" title="View the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
+    <% if @this.previous_post %>Previous: <a href="/interviews/<%= @this.previous_post.slug %>/" title="Read the interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
     <% if @this.previous_post && @this.next_post %>/<% end %>
-    <% if @this.next_post %>Next: <a href="/interviews/<%= @this.next_post.slug %>/" title="View the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
+    <% if @this.next_post %>Next: <a href="/interviews/<%= @this.next_post.slug %>/" title="Read the interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
   </nav>
   <% end %>
 </article>
