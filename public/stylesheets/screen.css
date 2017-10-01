@@ -8,6 +8,10 @@ header#primary nav a:hover {
 color: #fe2e9a;
 }
 
+a.selected {
+font-weight: 600;
+}
+
 article header {
 margin-bottom: 30px;
 }
@@ -48,7 +52,7 @@ text-decoration: none;
 h3 {
 color: #fe2e9a;
 font-size: 140%;
-margin: 0 0 10px 0;
+margin: 0;
 padding: 0;
 }
 
@@ -106,7 +110,7 @@ padding: 0;
 }
 
 p.summary {
-margin: 5px 0 10px 0;
+margin: 0 0 5px 0;
 }
 
 pre {
@@ -171,7 +175,7 @@ padding: 0;
 
 ul#interviews > li {
 clear: left;
-margin-bottom: 10px;
+margin-bottom: 30px;
 }
 
 ul#interviews img {
