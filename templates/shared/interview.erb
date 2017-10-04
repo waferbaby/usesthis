@@ -1,10 +1,14 @@
 <figure>
-  <% unless @selected %><a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>." class="p-name"><% end %>
+<% if @selected %>
   <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= @interview.title %>">
-  <% unless @selected %></a><% end %>
-  <% if @selected && @interview.credits %>
+  <% if @interview.credits %>
     <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
   <% end %>
+<% else %>
+  <a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>.">
+    <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="250" height="167" class="portrait" alt="<%= @interview.title %>">
+  </a>
+<% end %>
 </figure>
 <h3>
 <% if @selected %>
