@@ -9,7 +9,7 @@ color: #fe2e9a;
 }
 
 a.selected {
-font-weight: 600;
+border-bottom: solid 1px #fe2e9a !important;
 }
 
 article header {
@@ -28,12 +28,13 @@ padding: 0;
 dd {
 display: block;
 font-size: 80%;
-margin: 0 0 20px 0;
+margin: 5px 0 20px 0;
 }
 
 dt {
 display: block;
 margin: 0;
+font-weight: 500;
 }
 
 h1,
@@ -84,21 +85,18 @@ padding: 20px 30px;
 }
 
 header#primary nav {
-font-size: 90%;
+font-size: 80%;
 text-transform: uppercase;
 }
 
 header#primary nav a {
 color: #000;
+text-decoration: none;
+border-bottom: solid 1px #000;
 }
 
 figure {
 margin: 0 0 10px 0;
-}
-
-img {
-height: auto;
-width: 100%;
 }
 
 p#tagline {
@@ -160,6 +158,11 @@ margin-top: 30px;
 text-align: center;
 }
 
+img {
+  border: solid 1px #aaa;
+  padding: 5px;
+}
+
 ul {
 list-style: square inside;
 margin: 10px;
@@ -180,7 +183,6 @@ margin-bottom: 30px;
 ul#interviews img {
 float: left;
 margin: 0 40px 40px 0;
-width: 50%;
 }
 
 ul#categories,
@@ -198,8 +200,10 @@ margin: 0 0 10px 0;
   font-size: 100%;
   }
 
-  header#primary nav {
-  font-size: 110%;
+  img {
+  height: auto;
+  padding: 0;
+  width: 100%;
   }
 
   main, footer {
