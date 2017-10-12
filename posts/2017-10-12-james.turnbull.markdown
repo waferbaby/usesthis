@@ -14,7 +14,7 @@ Hi! I'm James. I am an engineer and author. I love building products and teams.
 
 I work as CTO at [Empatico][], a not-for-profit educational technology company. We connect elementary (primary) age students from different backgrounds and geographies with a focus on developing their curiosity about others and their communication and empathy skills.
 
-Prior to that, I was the CTO at [Kickstarter][], the VP of Engineering at [Venmo][], and was an early employee at both [Docker][] and [Puppet][]. I've also built product and run teams in finance, telecommunications, biotech, gaming and technology companies. 
+Prior to that, I was the CTO at [Kickstarter][], the VP of Engineering at [Venmo][], and was an early employee at both [Docker][] and [Puppet][]. I've also built product and run teams in finance, telecommunications, biotech, gaming and technology companies.
 
 I write [technical books](https://turnbull.press/ "James' book publishing company.") about topics in engineering, operations, and security. I've written ten books, including [The Docker Book](https://dockerbook.com/ "James' Docker book.") and [The Terraform Book](https://terraformbook.com/ "James' Terraform book.").
 
@@ -22,7 +22,7 @@ I'm originally from Melbourne in Australia but my partner and I have been living
 
 #### What hardware do you use?
 
-Day-to-day I use a [2016 Macbook Pro][macbook-pro] with Touchpad and my phone is a [Google Pixel XL 5.5][pixel-xl].
+Day-to-day I use a [2016 Macbook Pro][macbook-pro] with Touch Bar and my phone is a [Google Pixel XL 5.5][pixel-xl].
 
 I do a little bit of gaming and I have a Windows-based Puget Systems PC that basically just runs [Steam][].
 
