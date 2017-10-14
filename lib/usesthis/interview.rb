@@ -13,8 +13,8 @@ module UsesThis
 
       @layout = 'interview'
 
-      @hardware = []
-      @software = []
+      @hardware = {}
+      @software = {}
 
       scan_links
     end
@@ -24,7 +24,7 @@ module UsesThis
     end
 
     def gear_links
-      @gear_links ||= (@hardware | @software)&.map do |ware|
+      @gear_links ||= @hardware.merge(@software)&.map do |_, ware|
         "[#{ware.slug}]: #{ware.url} \"#{ware.description}\""
       end.join("\n")
     end
@@ -35,16 +35,10 @@ module UsesThis
 
         %w[hardware software].each do |type|
           if (ware = @site.send(type)[slug])
-            unless send(type).include?(ware)
-              send(type) << ware.tap { |w| w.interviews << self }
-            end
+            send(type)[slug] ||= ware.tap { |w| w.interviews << self }
           end
         end
       end
-    end
-
-    def inspect
-      super
     end
   end
 end
