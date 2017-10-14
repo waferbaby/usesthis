@@ -4,17 +4,17 @@
     "contents": <%= @interview.contents.to_json %>,
     "gear": {
       "hardware": [
-        <% @interview.hardware.each do |ware| %>
+        <% @interview.hardware.each_value do |ware| %>
         {
           <%= render_template('api.shared.ware', ware: ware) %>
-        }<%= ',' unless ware == @interview.hardware.last %>
+        }<%= ',' unless ware.slug == @interview.hardware.keys.last.to_s %>
         <% end %>
       ],
       "software": [
-        <% @interview.software.each do |ware| %>
+        <% @interview.software.each_value do |ware| %>
         {
           <%= render_template('api.shared.ware', ware: ware) %>
-        }<%= ',' unless ware == @interview.software.last %>
+        }<%= ',' unless ware.slug == @interview.software.keys.last.to_s %>
         <% end %>
       ]
     }
