@@ -5,7 +5,7 @@ $LOAD_PATH.unshift(__dir__)
 require 'helper'
 
 describe UsesThis::API do
-  describe "when generating the API" do
+  describe 'when generating the API' do
     before do
       @site = UsesThis::Site.new(test_configuration)
       @site.scan_files
