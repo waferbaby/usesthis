@@ -52,7 +52,12 @@ module UsesThis
         end
 
         categories = @site.categories.keys.sort!
-        publish_json_file(@output_paths[:categories], 'categories', categories: categories)
+
+        publish_json_file(
+          @output_paths[:categories],
+          'categories',
+          categories: categories
+        )
       end
 
       def generate_gear
