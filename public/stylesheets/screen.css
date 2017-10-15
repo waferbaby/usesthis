@@ -85,7 +85,7 @@ padding: 20px 30px;
 }
 
 header#primary nav {
-font-size: 80%;
+font-size: 85%;
 text-transform: uppercase;
 }
 
@@ -144,7 +144,7 @@ color: #ccc;
 
 nav.categories, time {
 color: #888;
-font-size: 90%;
+font-size: 80%;
 margin: 0;
 padding: 0;
 }
@@ -159,8 +159,8 @@ text-align: center;
 }
 
 img {
-  border: solid 1px #aaa;
-  padding: 5px;
+border: solid 1px #aaa;
+padding: 5px;
 }
 
 ul {
