@@ -26,26 +26,23 @@ puts "Scanning #{type}:"
 
 Dir.glob(source_path) do |path|
   data = YAML.load_file(path)
-  next unless data['url']
-
-  original_url = data['url']
+  next unless (original_url = data['url'])
 
   print "- #{data['name']}: "
 
   begin
     response = Faraday.get(data['url'])
-    new_url = response.headers['location']
 
     case response.status
     when 200
       puts 'All good.'
     when 301, 308
-      data['url'] = new_url
+      data['url'] = response.headers['location']
       puts 'Updated (redirected).'
     when 302, 307
       puts 'Temporary redirect - ignoring.'
     when 404
-      data['url'] << ' (Dead link)'
+      data['error'] = 'Dead link'
       puts 'Dead link!'
     else
       puts "Unexpected status (#{response.status})!"
@@ -53,11 +50,13 @@ Dir.glob(source_path) do |path|
   rescue Faraday::ConnectionFailed, Faraday::TimeoutError, Faraday::SSLError
     puts 'Connection failed - ignoring.'
   rescue URI::InvalidURIError
-    data['url'] << ' (Invalid URL)'
+    data['error'] = 'Invalid URL'
     puts 'Invalid URL!'
   rescue Zlib::DataError
     puts 'Weird compression error - ignoring.'
   end
 
-  File.write(path, YAML.dump(data)) if data['url'] != original_url.to_s
+  if data['url'] != original_url.to_s || data['error']
+    File.write(path, YAML.dump(data))
+  end
 end
