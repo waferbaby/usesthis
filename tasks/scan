@@ -45,27 +45,19 @@ Dir.glob(source_path) do |path|
     when 302, 307
       puts 'Temporary redirect - ignoring.'
     when 404
-      data['error'] = 'Dead link'
-      puts "Dead link!"
+      data['url'] << ' (Dead link)'
+      puts 'Dead link!'
     else
       puts "Unexpected status (#{response.status})!"
     end
-  rescue Faraday::ConnectionFailed
+  rescue Faraday::ConnectionFailed, Faraday::TimeoutError, Faraday::SSLError
     puts 'Connection failed - ignoring.'
-  rescue Faraday::TimeoutError
-    puts 'Connection timed out - ignoring.'
-  rescue Faraday::SSLError
-    puts 'SSL error - ignoring.'
   rescue URI::InvalidURIError
-    data['error'] = 'Invalid URL'
+    data['url'] << ' (Invalid URL)'
     puts 'Invalid URL!'
   rescue Zlib::DataError
     puts 'Weird compression error - ignoring.'
   end
 
-  if data['url'] != original_url.to_s || data['error']
-    File.open(path, 'w') do |file|
-      file.write(YAML.dump(data))
-    end
-  end
+  File.write(path, YAML.dump(data)) if data['url'] != original_url.to_s
 end
