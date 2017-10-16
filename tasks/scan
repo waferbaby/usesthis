@@ -9,51 +9,37 @@ $LOAD_PATH.unshift(source_path)
 require 'yaml'
 require 'faraday'
 
-type = ARGV[0]
+Dir.glob(File.join(source_path, 'gear', '**', '*.yml')).sort.each do |path|
+  next unless ((Time.now - File.mtime(path)) / 60 / 60 / 24).round > 1
 
-unless type.match?(/^(gear|links)$/)
-  abort("Usage: #{__dir__}/scan [gear|links]")
-end
-
-source_path = case type
-              when 'gear'
-                File.join(source_path, 'gear', '**', '*.yml')
-              when 'links'
-                File.join(source_path, 'links', '**', '*.yml')
-              end
-
-puts "Scanning #{type}:"
-
-Dir.glob(source_path) do |path|
   data = YAML.load_file(path)
-  next unless (original_url = data['url'])
 
   print "- #{data['name']}: "
 
   begin
     response = Faraday.get(data['url'])
+    original_url = data['url']
 
     case response.status
     when 200
       puts 'All good.'
-    when 301, 308
+    when (301..308)
       data['url'] = response.headers['location']
       puts 'Updated (redirected).'
-    when 302, 307
-      puts 'Temporary redirect - ignoring.'
     when 404
       data['error'] = 'Dead link'
       puts 'Dead link!'
     else
-      puts "Unexpected status (#{response.status})!"
+      puts "Ignoring (#{response.status})"
     end
-  rescue Faraday::ConnectionFailed, Faraday::TimeoutError, Faraday::SSLError
+  rescue Faraday::ConnectionFailed,
+         Faraday::TimeoutError,
+         Faraday::SSLError,
+         Zlib::DataError
     puts 'Connection failed - ignoring.'
   rescue URI::InvalidURIError
     data['error'] = 'Invalid URL'
     puts 'Invalid URL!'
-  rescue Zlib::DataError
-    puts 'Weird compression error - ignoring.'
   end
 
   if data['url'] != original_url.to_s || data['error']
