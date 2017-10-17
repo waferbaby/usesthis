@@ -2,13 +2,13 @@
   "gear": [
     {
       "slug": "laptop",
-      "name": "Laptop.",
+      "name": "Laptop",
       "description": "A laptop.",
       "url": "http://www.example.com/laptop/"
     },
     {
       "slug": "phone",
-      "name": "Phone.",
+      "name": "Phone",
       "description": "A phone.",
       "url": "http://www.example.com/phone/"
     }
