@@ -6,13 +6,13 @@ trap('SIGINT') { exit! }
 source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
 
-require 'yaml'
 require 'faraday'
+require 'json'
 
-Dir.glob(File.join(source_path, 'gear', '**', '*.yml')).sort.each do |path|
+Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
   next unless ((Time.now - File.mtime(path)) / 60 / 60 / 24).round > 1
 
-  data = YAML.load_file(path)
+  data = JSON.load(File.read(path))
 
   print "- #{data['name']}: "
 
@@ -43,6 +43,6 @@ Dir.glob(File.join(source_path, 'gear', '**', '*.yml')).sort.each do |path|
   end
 
   if data['url'] != original_url.to_s || data['error']
-    File.write(path, YAML.dump(data))
+    File.write(path, JSON.pretty_generate(data))
   end
 end
