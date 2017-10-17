@@ -1,4 +1,0 @@
----
-name: Update Notifier
-description: A GNOME daemon that alerts a user to available updates.
-url: https://packages.debian.org/stable/update-notifier

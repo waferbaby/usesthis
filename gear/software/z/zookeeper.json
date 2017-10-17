@@ -1,0 +1,5 @@
+{
+  "name": "ZooKeeper",
+  "description": "A distributed configuration system.",
+  "url": "https://zookeeper.apache.org/"
+}

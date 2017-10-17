@@ -1,0 +1,5 @@
+{
+  "name": "homebrew",
+  "description": "Command-line package manager for Mac OS X.",
+  "url": "http://brew.sh"
+}

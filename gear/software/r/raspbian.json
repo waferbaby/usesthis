@@ -1,0 +1,5 @@
+{
+  "name": "Raspbian",
+  "description": "A version of Debian optimised for Raspberry Pi.",
+  "url": "http://www.raspbian.org/"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "Puppet Cloud Provisioner",
+  "description": "A Puppet module for working with cloud instances.",
+  "url": "https://forge.puppetlabs.com/puppetlabs/cloud_provisioner"
+}

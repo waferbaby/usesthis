@@ -1,4 +1,0 @@
----
-name: truss
-description: A command-line tool for tracing system calls.
-url: https://en.wikipedia.org/wiki/Truss_(Unix)

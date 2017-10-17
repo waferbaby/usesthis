@@ -1,0 +1,5 @@
+{
+  "name": "PushBot",
+  "description": "Etsy's IRC deploy queue bot.",
+  "url": "https://github.com/etsy/PushBot"
+}

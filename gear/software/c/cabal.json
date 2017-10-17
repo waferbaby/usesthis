@@ -1,0 +1,5 @@
+{
+  "name": "Cabal",
+  "description": "A packaging system for Haskell.",
+  "url": "https://www.haskell.org/cabal/"
+}

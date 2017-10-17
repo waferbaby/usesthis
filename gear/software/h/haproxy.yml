@@ -1,4 +1,0 @@
----
-name: HAProxy
-description: TCP/HTTP load balancer software.
-url: http://www.haproxy.org/

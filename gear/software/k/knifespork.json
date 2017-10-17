@@ -1,0 +1,5 @@
+{
+  "name": "KnifeSpork",
+  "description": "A workflow plugin for Chef.",
+  "url": "https://github.com/jonlives/knife-spork"
+}

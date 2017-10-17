@@ -1,0 +1,5 @@
+{
+  "name": "jBCrypt",
+  "description": "A Java implementation of BCrypt.",
+  "url": "http://www.mindrot.org/projects/jBCrypt/"
+}

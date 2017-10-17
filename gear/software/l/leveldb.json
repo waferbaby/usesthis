@@ -1,0 +1,5 @@
+{
+  "name": "LevelDB",
+  "description": "A speedy key-value storage system.",
+  "url": "https://github.com/google/leveldb"
+}

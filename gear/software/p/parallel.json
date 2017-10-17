@@ -1,0 +1,5 @@
+{
+  "name": "parallel",
+  "description": "A command-line tool for executing multiple processes across one or more computers.",
+  "url": "http://www.gnu.org/software/parallel/"
+}

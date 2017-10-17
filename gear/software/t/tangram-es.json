@@ -1,0 +1,5 @@
+{
+  "name": "Tangram-ES",
+  "description": "A C++ library for rendering maps with OpenGL ES.",
+  "url": "https://github.com/tangrams/tangram-es"
+}

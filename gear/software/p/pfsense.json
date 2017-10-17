@@ -1,0 +1,5 @@
+{
+  "name": "pfSense",
+  "description": "A FreeBSD-based firewall/router OS.",
+  "url": "https://www.pfsense.org/"
+}

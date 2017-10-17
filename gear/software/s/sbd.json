@@ -1,0 +1,5 @@
+{
+  "name": "sbd",
+  "description": "A smart buffer plugin for Vim.",
+  "url": "https://github.com/cespare/vim-sbd/"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "iosnoop",
+  "description": "Command-line software for monitoring disk I/O.",
+  "url": "http://www.brendangregg.com/DTrace/iosnoop"
+}

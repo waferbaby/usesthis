@@ -1,0 +1,5 @@
+{
+  "name": "kdump",
+  "description": "A service that writes out logs after a kernel crash.",
+  "url": "https://en.wikipedia.org/wiki/Kdump_(Linux)"
+}

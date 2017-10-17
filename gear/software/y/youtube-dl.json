@@ -1,0 +1,5 @@
+{
+  "name": "youtube-dl",
+  "description": "A command-line tool for downloading videos from YouTube etc.",
+  "url": "http://rg3.github.io/youtube-dl/"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "ssh",
+  "description": "A command-line tool for secure remote connections.",
+  "url": "https://en.wikipedia.org/wiki/Secure_Shell"
+}

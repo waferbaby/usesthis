@@ -1,0 +1,5 @@
+{
+  "name": "MinGW",
+  "description": "A compiler system for Windows based on GCC.",
+  "url": "http://www.mingw.org/wiki/MinGW"
+}

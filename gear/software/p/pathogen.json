@@ -1,0 +1,5 @@
+{
+  "name": "pathogen",
+  "description": "A vim plugin manager.",
+  "url": "https://github.com/tpope/vim-pathogen"
+}

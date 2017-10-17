@@ -1,0 +1,5 @@
+{
+  "name": "avr-gcc",
+  "description": "A gcc-based toolset for AVR microcontrollers.",
+  "url": "https://github.com/epi/avr-gcc"
+}

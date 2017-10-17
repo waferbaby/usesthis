@@ -1,0 +1,5 @@
+{
+  "name": "Bundler",
+  "description": "Software for managing Ruby gem dependencies.",
+  "url": "http://bundler.io/"
+}

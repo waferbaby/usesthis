@@ -1,4 +1,0 @@
----
-name: strace
-description: A command-line tool for monitoring system calls.
-url: https://en.wikipedia.org/wiki/Strace

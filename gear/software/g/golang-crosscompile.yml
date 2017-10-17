@@ -1,4 +1,0 @@
----
-name: golang-crosscompile
-description: A tool for cross-compiling Go language binaries.
-url: https://github.com/davecheney/golang-crosscompile

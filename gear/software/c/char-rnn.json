@@ -1,0 +1,5 @@
+{
+  "name": "char-rnn",
+  "description": "A Recurrent Neural Network library for Torch.",
+  "url": "https://github.com/karpathy/char-rnn"
+}

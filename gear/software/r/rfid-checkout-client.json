@@ -1,0 +1,5 @@
+{
+  "name": "RFI-Checkout Client",
+  "description": "A frontend GUI for a check-in/check-out RFID system for Raspberry Pi.",
+  "url": "https://github.com/etsy/rfid-checkout"
+}

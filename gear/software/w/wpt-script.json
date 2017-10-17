@@ -1,0 +1,5 @@
+{
+  "name": "wpt-script",
+  "description": "Etsy's scripts for generating WebPagetest tests.",
+  "url": "https://github.com/etsy/wpt-script"
+}

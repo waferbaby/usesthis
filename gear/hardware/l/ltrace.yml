@@ -1,4 +1,0 @@
----
-name: ltrace
-description: A library call debugger.
-url: http://linux.die.net/man/1/ltrace

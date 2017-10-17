@@ -1,4 +1,0 @@
----
-name: mod_pagespeed
-description: A web server module for automatically optimising pages.
-url: https://developers.google.com/speed/pagespeed/module/

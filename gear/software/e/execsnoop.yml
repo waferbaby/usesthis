@@ -1,4 +1,0 @@
----
-name: execsnoop
-description: Command-line software for watching process execution.
-url: http://www.brendangregg.com/DTrace/execsnoop

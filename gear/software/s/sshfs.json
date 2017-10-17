@@ -1,0 +1,5 @@
+{
+  "name": "SSH FS",
+  "description": "An SSH file system for MacFUSE.",
+  "url": "https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki"
+}

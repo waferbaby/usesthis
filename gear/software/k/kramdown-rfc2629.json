@@ -1,0 +1,5 @@
+{
+  "name": "kramdown-rfc2629",
+  "description": "A Kramdown backend for generating RFC 2629 compliant markup.",
+  "url": "https://github.com/cabo/kramdown-rfc2629"
+}

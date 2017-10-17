@@ -1,0 +1,5 @@
+{
+  "name": "crash",
+  "description": "A tool for examining kernel crash logs.",
+  "url": "https://people.redhat.com/anderson/crash_whitepaper/"
+}

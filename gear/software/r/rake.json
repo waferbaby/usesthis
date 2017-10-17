@@ -1,0 +1,5 @@
+{
+  "name": "rake",
+  "description": "A Ruby-based build tool, similar to make.",
+  "url": "http://rake.rubyforge.org/"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "ido-mode",
+  "description": "An Emacs tool for interacting with buffers and files.",
+  "url": "https://www.emacswiki.org/emacs/InteractivelyDoThings"
+}

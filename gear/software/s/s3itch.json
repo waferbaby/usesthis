@@ -1,0 +1,5 @@
+{
+  "name": "s3itch",
+  "description": "S3 proxy software for Skitch's WebDAV sharing.",
+  "url": "https://github.com/roidrage/s3itch"
+}

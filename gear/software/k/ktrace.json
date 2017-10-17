@@ -1,0 +1,5 @@
+{
+  "name": "ktrace",
+  "description": "A command-line tool for analysing the kernel.",
+  "url": "https://en.wikipedia.org/wiki/Ktrace"
+}

@@ -1,4 +1,0 @@
----
-name: PF
-description: A TCP packet filter included with OpenBSD.
-url: http://www.openbsd.org/faq/pf/filter.html

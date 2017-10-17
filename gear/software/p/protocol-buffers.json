@@ -1,0 +1,5 @@
+{
+  "name": "Protocol Buffers",
+  "description": "A serialised structured data format.",
+  "url": "https://github.com/google/protobuf"
+}
