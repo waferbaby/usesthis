@@ -10,7 +10,7 @@ module UsesThis
     attr_accessor :interviews
 
     def initialize(path)
-      metadata = YAML.load_file(path)
+      metadata = JSON.load(File.read(path))
 
       @slug = File.basename(path, File.extname(path))
 
