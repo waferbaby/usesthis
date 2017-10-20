@@ -5,6 +5,7 @@ categories:
 - data
 - developer
 - mac
+- web
 ---
 
 #### Who are you, and what do you do?

@@ -5,6 +5,7 @@ categories:
 - developer
 - professor
 - linux
+- software
 ---
 
 #### Who are you, and what do you do?

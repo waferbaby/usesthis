@@ -5,12 +5,13 @@ categories:
 - developer
 - mac
 - technologist
+- web
 - writer
 ---
 
 #### Who are you, and what do you do?
 
-I'm Jen Myers. These days I use the descriptors “technologist" and “writer," but I've been a variety of things over the years: web designer/developer, teacher, speaker and organizer. I've been involved with [Girl Develop It](http://girldevelopit.com/ "A non-profit that helps women learn to code.") since 2011 and currently serve the organization as a leadership advisor. I also run a series of mother/daughter beginner web development workshops called [Code and Cupcakes Chicago](http://codeandcupcakes.net/ "A Chicago coding workshop for mothers and their daughters."). During the day, I'm the Director of Open Source Curriculum at online tech course provider [Pluralsight][]. [I write things on the internet](http://jenmyers.net/ "Jen's website."). I also raise a small human.
+I'm Jen Myers. These days I use the descriptors "technologist" and "writer," but I've been a variety of things over the years: web designer/developer, teacher, speaker and organizer. I've been involved with [Girl Develop It](http://girldevelopit.com/ "A non-profit that helps women learn to code.") since 2011 and currently serve the organization as a leadership advisor. I also run a series of mother/daughter beginner web development workshops called [Code and Cupcakes Chicago](http://codeandcupcakes.net/ "A Chicago coding workshop for mothers and their daughters."). During the day, I'm the Director of Open Source Curriculum at online tech course provider [Pluralsight][]. [I write things on the internet](http://jenmyers.net/ "Jen's website."). I also raise a small human.
 
 #### What hardware do you use?
 

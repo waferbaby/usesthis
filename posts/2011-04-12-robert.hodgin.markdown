@@ -5,6 +5,7 @@ categories:
 - artist
 - developer
 - mac
+- web
 - windows
 ---
 

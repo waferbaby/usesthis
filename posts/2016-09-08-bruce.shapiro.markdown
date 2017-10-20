@@ -4,6 +4,8 @@ summary: Motion control artist, father of Eggbot
 categories:
 - artist
 - developer
+- software
+- web
 - windows
 ---
 

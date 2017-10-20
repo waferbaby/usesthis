@@ -5,6 +5,7 @@ categories:
 - developer
 - mac
 - researcher
+- software
 - windows
 ---
 

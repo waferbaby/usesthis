@@ -7,6 +7,7 @@ categories:
 - developer
 - mac
 - suit
+- web
 ---
 
 #### Who are you, and what do you do?

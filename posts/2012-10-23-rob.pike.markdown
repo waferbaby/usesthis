@@ -5,6 +5,7 @@ categories:
 - developer
 - linux
 - mac
+- software
 ---
 
 #### Who are you, and what do you do?

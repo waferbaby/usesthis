@@ -6,6 +6,7 @@ categories:
 - developer
 - interface
 - mac
+- software
 - windows
 ---
 
@@ -31,7 +32,7 @@ My [Fitbit][] is always with me and my [Withings scale][wifi-body-scale] and [BP
 
 When on the Mac, I spend a ton of time in [Xcode][]. I also use [TextMate][] for project searches and basic textual stuff. I use [IDEA][intellij-idea] for Java/Android projects. The two pieces of software I mindlessly purchase and install on as many devices as possible are [LaunchBar][] and [1Password][]. I swear, I could get by with [ZSH][], [LLVM][], and those two apps. 
 
-My partners are all bizarre Google fetishists, and our company thus uses Google products for everything from [mail][gmail] to [docs][google-docs] to [Google+][google-plus] (ok, just kidding on the last one). Still, I refuse to work in a browser all day, and take advantage of good ol' Apple products like [Mail][] and [Keynote][] and [Pages][] and the like. I use [iChat][] instead of [Adium][], just to be contrarian. I love bits and pieces of [Sparrow][]	, but stick with the classics for now. 
+My partners are all bizarre Google fetishists, and our company thus uses Google products for everything from [mail][gmail] to [docs][google-docs] to [Google+][google-plus] (ok, just kidding on the last one). Still, I refuse to work in a browser all day, and take advantage of good ol' Apple products like [Mail][] and [Keynote][] and [Pages][] and the like. I use [iChat][] instead of [Adium][], just to be contrarian. I love bits and pieces of [Sparrow][]    , but stick with the classics for now. 
 
 I purchase nearly everything I can find, and support indy dev strongly - even if I end up rolling back to canonical products due to habit. [Acorn][] is an excellent piece of software. [OmniGraffle Pro][omnigraffle-pro], of course. [Scrivener][] makes me want to write more, but I tend to fall back to TextMate or Mail for writing drafts. 
 

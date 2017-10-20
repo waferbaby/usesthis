@@ -4,6 +4,7 @@ summary: Web developer (GitHub)
 categories:
 - developer
 - mac
+- web
 - writer
 ---
 

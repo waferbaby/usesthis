@@ -6,6 +6,7 @@ categories:
 - developer
 - designer
 - mac
+- web
 ---
 
 #### Who are you, and what do you do?
@@ -14,7 +15,7 @@ Hello world! I'm Susan Lin, ['bysusanlin'](http://bysusanlin.com/ "Susan's websi
 
 #### What hardware do you use?
 
-*Let's start with machines*. I prefer the [13" MacBook Pro Retina][macbook-pro]. Its specs are: 3.1GHz i7, 16GB RAM, 512GB SSD. Things are backed-up on a [Seagate 4TB USB 3.0 External HD][backup-plus]. I wield 2 [Thunderbolt monitors][thunderbolt-display]. It spoils me to say, but I don't remember how I worked without the second one before – it's indispensable for coding, exporting UI assets, and updating my prints shop. One of the monitors sits on a [Grovemade Maple Stand][maple-monitor-stand].
+*Let's start with machines*. I prefer the [13" MacBook Pro Retina][macbook-pro]. Its specs are: 3.1GHz i7, 16GB RAM, 512GB SSD. Things are backed-up on a [Seagate 4TB USB 3.0 External HD][backup-plus]. I wield 2 [Thunderbolt monitors][thunderbolt-display]. It spoils me to say, but I don't remember how I worked without the second one before -- it's indispensable for coding, exporting UI assets, and updating my prints shop. One of the monitors sits on a [Grovemade Maple Stand][maple-monitor-stand].
 
 I've previously busted my right arm to overwork and bad posture. I use the [Microsoft Sculpt Ergonomic Keyboard][sculpt-ergonomic-keyboard] and [Evoluent Vertical Mouse][verticalmouse-small-wireless] while resting on a Memory Foam Mousepad and a Memory Foam elbow rest. Super ugly, but very functional. The [Magic Trackpack][magic-trackpad] helps keep things symmetrical. I recently upgraded to a [GeekDesk][] at home. I sit in a [Mirra 2 Chair][mirra], in Dark Turquoise of course.
 

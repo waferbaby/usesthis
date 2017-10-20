@@ -6,6 +6,7 @@ categories:
 - developer
 - mac
 - teacher
+- web
 ---
 
 #### Who are you, and what do you do?
@@ -16,7 +17,7 @@ My name is [Joyce Rice](http://teenyrobots.net "Joyce's website."), and I make c
 
 I do all of my computer-y work on a [**15" MacBook Pro**][macbook-pro] (16GB RAM, 256GB solid state drive, quad-core i7), usually connected to an [Apple Thunderbolt Display][thunderbolt-display] in my office. It's over-powered as heck which I love, but it's also fairly heavy for a laptop one carries all over the place on a bike, which makes me cry. I phone on a 16GB [**iPhone 5**][iphone-5] and I just keep reinstalling the OS on whenever it gets too slow ¯\_(ツ)_/¯. At my desk I use a [Wacom Intuos 4][intuos] tablet and a [Logitech ergonomic mouse][m510] which stopped all my hand-cramping and was just generally life-changing. I scan everything (drawings, documents, notes) on an [Epson Perfection][perfection-v39]. Sometimes I read/research on an [**iPad 3**][ipad-3] (an oldster!) but I pretty much hate doing anything else on it.
 
-I do most of my drawing in meat-space. If I'm on the go, I draw in **Handbook sketchbooks** (which I typically describe as “Moleskines that don't suck") with a **[Pentel Sharp][sharp] with non-photo blue lead**, and I'll ink with a [**Pentel Pocket Brush Pen**][pocket-brush-pen]. Lately I've been using [**Le Pen**][le-pen], but any dang .8 and .3 inking pens will do for detail work. I watercolor with this [**Winsor & Newton field set**][cotman-field-plus] regardless of whether I'm traveling or at home.
+I do most of my drawing in meat-space. If I'm on the go, I draw in **Handbook sketchbooks** (which I typically describe as "Moleskines that don't suck") with a **[Pentel Sharp][sharp] with non-photo blue lead**, and I'll ink with a [**Pentel Pocket Brush Pen**][pocket-brush-pen]. Lately I've been using [**Le Pen**][le-pen], but any dang .8 and .3 inking pens will do for detail work. I watercolor with this [**Winsor & Newton field set**][cotman-field-plus] regardless of whether I'm traveling or at home.
 
 In the office, I draw on any dang sketch paper with any dang wooden pencils (preferably HB or softer). I use a [Huion light plate][a4-light-pad] to transfer my work to Strathmore 400 Series Bristol using india ink and synthetic number 2 watercolor brushes. I like a cork-back ruler that has 10th's of inches, big flat plastic triangles, and white erasers.
 

@@ -6,6 +6,7 @@ categories:
 - linux
 - mac
 - student
+- web
 - windows
 ---
 

@@ -6,6 +6,7 @@ categories:
 - developer
 - linux
 - mac
+- software
 ---
 
 #### Who are you, and what do you do?
@@ -38,7 +39,7 @@ My favourite programming language is [CoffeeScript][], which basically is [JavaS
 
 For web development my stack usually consists of [Wintersmith][], [Browserify][] (with [Coffeeify][]), [Browsernizr][] and [Stylus][] for the front-end. And [Node.js][] + [hapi][] for the back-end. Or just Go with the standard library if performance is key. I would also like to mention [d3.js][] - it's mostly used for data visualizations but has almost everything you could ever want for working with 2D graphics and the DOM; I've built entire web apps using nothing but d3.js.
 
-On my servers – which I host on [Scaleway][] and [Vultr][] – I use [FreeBSD][] or [Debian][], and I usually put [nginx][] in front of whatever web app is running on them. And I use [rsub][] to remote edit files on them.
+On my servers -- which I host on [Scaleway][] and [Vultr][] -- I use [FreeBSD][] or [Debian][], and I usually put [nginx][] in front of whatever web app is running on them. And I use [rsub][] to remote edit files on them.
 
 I manage backups with a self-hosted [Syncthing][] cloud that has servers in both hemispheres so I can get decent speeds wherever I'm located. I also use [Carbon Copy Cloner][carbon-copy-cloner] to make bootable full-disk backup images.
 
