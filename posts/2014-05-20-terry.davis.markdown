@@ -3,6 +3,7 @@ title: Terry Davis
 summary: Developer (TempleOS)
 categories:
 - developer
+- software
 - windows
 ---
 
