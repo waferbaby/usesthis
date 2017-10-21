@@ -5,7 +5,7 @@ title: Interviews
 
 <ul id="interviews">
   <% @items.each do |interview| %>
-  <li>
+  <li class="h-card">
     <%= render_template('shared.interview', interview: interview) %>
   </li>
   <% end %>

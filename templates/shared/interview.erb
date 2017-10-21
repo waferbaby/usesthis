@@ -1,6 +1,6 @@
 <figure>
 <% if @selected %>
-  <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="500" height="335" class="portrait" alt="<%= @interview.title %>">
+  <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="<%= @interview.title %>">
   <% if @interview.credits %>
     <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="View more about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
   <% end %>
@@ -10,14 +10,14 @@
   </a>
 <% end %>
 </figure>
-<h3>
+<h3<% if @selected %> class="p-name"<% end %>>
 <% if @selected %>
   <%= @interview.title %>
 <% else %>
-  <a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>."><%= @interview.title %></a>
+  <a href="/interviews/<%= @interview.slug %>/" title="Read the interview with <%= @interview.title %>." class="p-name"><%= @interview.title %></a>
 <% end %>
 </h3>
-<p class="summary"><%= @interview.summary %></p>
+<p class="summary p-job-title"><%= @interview.summary %></p>
 <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %></time>
 <nav class="categories">
   <ul>
