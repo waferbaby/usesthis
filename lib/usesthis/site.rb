@@ -23,7 +23,7 @@ module UsesThis
     def scan_gear
       %w[hardware software].each do |type|
         type_path = File.join(@source_paths[:wares], type, '**', '*.json')
-        Dir.glob(type_path).each do |path|
+        Dir.glob(type_path).sort.each do |path|
           ware = case type
                  when 'hardware'
                    UsesThis::Hardware.new(path)
