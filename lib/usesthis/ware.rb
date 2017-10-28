@@ -10,7 +10,7 @@ module UsesThis
     attr_accessor :interviews
 
     def initialize(path)
-      metadata = JSON.load(File.read(path))
+      metadata = JSON.parse(File.read(path))
 
       @slug = File.basename(path, File.extname(path))
 
