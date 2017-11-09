@@ -24,7 +24,7 @@ Cheap colored lights off Amazon strung along my walls.
 
 #### And what software?
 
-Games/interactive stories: [Twine][] 1.4.2 and [Game Maker][game-maker]. But I've made stuff in [Unity][], [ShindanMaker][], [Google Forms][google-docs], desktop folders.. I'm most interested in something if it's not intended as creative software.
+Games/interactive stories: [Twine][] 1.4.2 and [Game Maker][game-maker]. But I've made stuff in [Unity][], [ShindanMaker][], [Google Forms][google-docs], desktop folders... I'm most interested in something if it's not intended as creative software.
 
 Linear writing: [Notepad++][notepad-plusplus] and Google Docs for drafting, [Scrivener][] and [OpenOffice][] for organizing / publishing.
 

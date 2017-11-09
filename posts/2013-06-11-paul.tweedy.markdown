@@ -42,4 +42,4 @@ To keep everything manageable across different locations, I rely on [Dropbox][] 
 
 As I get older, I get less bothered about having the latest, greatest shiny hardware - there's nothing I can't accomplish with the tools I already have, the limiting factor is nearly always time. It's great that software in general is so much easier to update these days, and that most applications (and even your OS) self-update from the Internet - gone are the days of having to carve out your weekend to update things from several hundred floppy disks. So as long as I'm running the current versions of the software I need, I'm happy.
 
-That said, I'd love a phone that lasts a week between charges, just like they did in the 90s.. Oh, and a flying car, and a pint of [McEwan's 80 Shilling](http://www.wellsandyoungs.co.uk/home/our-beers/ales/mcewan-s-80 "A beer."). :)
+That said, I'd love a phone that lasts a week between charges, just like they did in the 90s... Oh, and a flying car, and a pint of [McEwan's 80 Shilling](http://www.wellsandyoungs.co.uk/home/our-beers/ales/mcewan-s-80 "A beer."). :)

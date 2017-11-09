@@ -27,7 +27,7 @@ My main tool for drawing nowadays is the [Wacom Intuos 3][intuos].
 
 Process-wise, most ideas either start with a crude sketch on a piece of paper (more an idea recording than a real drawing) or directly in [Photoshop][]. The more story needs be told, the more planing (sketching) needs to be done BEFORE I sit down in front of the machine.
 
-Photoshop is sometimes TOO powerful and it's easy to get lost in the realm of infinite possibility. So yeah.. the more complex the drawing need to be, the more I need to know before heading into Adobe land.
+Photoshop is sometimes TOO powerful and it's easy to get lost in the realm of infinite possibility. So yeah... the more complex the drawing need to be, the more I need to know before heading into Adobe land.
 
 I have my own swatches set up as well as my own shortcuts and brushes. The shortcuts are set in a way so that I can have my left hand using the keyboard
 while the right is holding the Wacom pen. So "resize brush" for example is "A" or "Zoom IN" is Command + A.

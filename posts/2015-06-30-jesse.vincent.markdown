@@ -56,7 +56,7 @@ Non-hardware-hacking things in the travel kit include spare MicroUSB cables, a f
 
 #### And what software?
 
-I've been living my life on the command-line for.. a very long time. Many of my workflows are very.. terminal-centric. I'm writing my responses to this interview in 'note', a shell script I've been using instead of [Evernote][] for a good few years:
+I've been living my life on the command-line for... a very long time. Many of my workflows are very... terminal-centric. I'm writing my responses to this interview in 'note', a shell script I've been using instead of [Evernote][] for a good few years:
 
     cd ~/Dropbox/notes && vi `date +%Y-%m-%d`-$1`
 

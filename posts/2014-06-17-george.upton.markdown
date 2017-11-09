@@ -15,7 +15,7 @@ My name is George Upton, aka Judge Orpton. I'm a freelance music producer, sound
 
 I've got a [15" MacBook Pro][macbook-pro] (2.2 GHz w/ 8 GB of RAM) that I use in conjunction with my trusty [Focusrite Saffire PRO 14][saffire-pro-14] as the mainstay of my setup. 
 
-As for production while on the road, I've always got my [Keith McMillen QuNexus][qunexus] close at hand.. that little guy is one of the most compact, versatile MIDI keyboards I've ever used. I also never leave home without my [V-Moda LP2 headphones][crossfade-lp2] and my [Logitech M570 Wireless Trackball][wireless-trackball-m570].
+As for production while on the road, I've always got my [Keith McMillen QuNexus][qunexus] close at hand... that little guy is one of the most compact, versatile MIDI keyboards I've ever used. I also never leave home without my [V-Moda LP2 headphones][crossfade-lp2] and my [Logitech M570 Wireless Trackball][wireless-trackball-m570].
 
 I also usually tote my [AKG C214 Condenser Mic][c214] and trusty [Deering Goodtime Banjo][goodtime] with me when I'm on the road.
 
@@ -29,6 +29,6 @@ As for VSTs, I mainly use Ableton's native plugins (which frankly, kick butt) an
 
 #### What would be your dream setup?
 
-Dream set up? Oooh, I'd have to say it would be a studio space with a properly isolated room for recording as well as some high-end monitors, endless racks of retro analog synths, and shucks, I could probably do with a baby grand, a few basses, guitars, assorted percussion, and why not a random spattering of instruments from all over the world while we're at it (think shamisen, koto, sitar, erhu) to fill it out.. mmm, yeah.
+Dream set up? Oooh, I'd have to say it would be a studio space with a properly isolated room for recording as well as some high-end monitors, endless racks of retro analog synths, and shucks, I could probably do with a baby grand, a few basses, guitars, assorted percussion, and why not a random spattering of instruments from all over the world while we're at it (think shamisen, koto, sitar, erhu) to fill it out... mmm, yeah.
 
 As for my dream set-up for live performance, I feel like I'm actually getting quite close to it. The last piece that I'm still dreaming of right now is a replacement for my APC20 that has the 8 line faders and allows me to trigger clips but has a smaller footprint and doesn't require bus power. If anyone is thinking of making one or knows of anything like this that already exists, let me know!

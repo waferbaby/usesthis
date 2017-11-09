@@ -23,7 +23,7 @@ My most used piece of hardware is my [iPhone 7][iphone-7] (Jet Black, 256GB). I 
 
 I do all my high fidelity design work in [Sketch][], and I'll bounce around various prototyping tools (there always seems to be a new kid on the block). I sketch a ton on my iPad using [GoodNotes][goodnotes-ios]. I've tried many sketching apps and GoodNotes is perfect for my particular use case. I use [Spotify][] for music and Overcast for podcasts. I mostly use [Bear][] for notes - it's also a nice [Markdown][] editor and allows you to sort of codify how you organize things. It's neat.
 
-For project management I use Basecamp on [Mac][basecamp-mac] and iOS, so all my work stuff is in there. I use [Tweetbot][tweetbot] for Mac mostly, but I'll also check Twitter.com from time to time, mostly for group DMs. I use [Pocket][] as my read-it-later service, which is helpful when I want to clean up my open tabs. I'm still trying to find the perfect writing software..
+For project management I use Basecamp on [Mac][basecamp-mac] and iOS, so all my work stuff is in there. I use [Tweetbot][tweetbot] for Mac mostly, but I'll also check Twitter.com from time to time, mostly for group DMs. I use [Pocket][] as my read-it-later service, which is helpful when I want to clean up my open tabs. I'm still trying to find the perfect writing software...
 
 #### What would be your dream setup?
 

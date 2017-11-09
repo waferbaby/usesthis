@@ -13,7 +13,7 @@ My name is [Jessie Frazelle](https://blog.jessfraz.com/ "Jessie's website.") - s
 
 #### What hardware do you use?
 
-Let's see.. I have quite a few setups, so I'll go over each of them.
+Let's see... I have quite a few setups, so I'll go over each of them.
 
 1. 486DX Insight box with a CRT monitor. It runs [MS-DOS 6][ms-dos]. Yes, it has a turbo button. The keyboard is not a [IBM Model M][model-m], but very similar and made by Insight as well. The CRT is an amber monochrome monitor. This computer has a story behind it - my grandpa worked for Motorola on the first computers, then opened his own consulting practice. He wrote Motorola's variation of [COBOL][], which I interpret as equivalent to a "fork" today. I actually found an old newspaper ad for his department - hence, the computer from Insight (another Arizona-based computer company). It's a custom-built machine. Thankfully when I popped it open he had labeled everything. I have a bunch of 5" and 3" floppies for it - Some games ([Flight Simulator][microsoft-flight-simulator] & [Kid Pix][kid-pix]) but mostly code he wrote himself, which I thoroughly enjoy digging into. He also gave me a crazy amount of programming books.
 

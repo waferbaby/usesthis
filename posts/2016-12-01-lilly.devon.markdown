@@ -18,13 +18,13 @@ I'm now working on my own game for [PS4][], with a focus on creating something v
 
 I work on an Alienware laptop - model [M18X R2][m18x-r2]. It's a bit old now, but does the job. I also have a second monitor setup which is a Dell thingy, but nothing to write home about. Honesty, everything is a bit out of date, runs slowly and needs a spring clean - BUT, it works, so there's that.
 
-I've always been a Windows/PC user - anything Mac freaks me out, to be perfectly honest. I used it once.. oh, the flashbacks. I have also used green screens and an external studio mic (by iSK), if that counts as hardware - which is always fun but a pain to get working properly.
+I've always been a Windows/PC user - anything Mac freaks me out, to be perfectly honest. I used it once... oh, the flashbacks. I have also used green screens and an external studio mic (by iSK), if that counts as hardware - which is always fun but a pain to get working properly.
 
 #### And what software?
 
 I use both [Unity 3D][unity] and [Unreal 4][unreal-engine]. Our game is being developed using one of those (I can't tell you which one, I'd have to kill you). I also use [Visio][] for design flow, [Excel][] for spreadsheet goodness, [MS Project][project] for schedules and [Photoshop][] for arty bits.
 
-I probably shouldn't say this, but you sometimes can't beat a bit of [MS Paint][paint] either.. you know, for screengrabs. I use [Mozilla Thunderbird][thunderbird] as my email client and [Word][] for all my writing. 
+I probably shouldn't say this, but you sometimes can't beat a bit of [MS Paint][paint] either... you know, for screengrabs. I use [Mozilla Thunderbird][thunderbird] as my email client and [Word][] for all my writing. 
 
 #### What would be your dream setup?
 

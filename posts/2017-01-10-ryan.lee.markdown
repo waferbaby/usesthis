@@ -18,7 +18,7 @@ I'll focus on the pottery project. I use a rusty old Brent potter's wheel from t
 
 #### And what software?
 
-Clay.. Get it? Software? I can't resist a bad pun. Feldspar, silica, dry clay, and lately wood ash are some of the materials that go into making glazes. Oh, and I would have to say the firing schedule. I fire all of my work to around 2300 degrees with a reduction cooling cycle. By starving the fire of oxygen you can force it to pull available oxygen molecules from other chemical bonds in the clay and glaze, essentially changing the molecular structure and more importantly creating interesting colors and textures. I built a website with [Squarespace][] and use [Wave][wave.2] the keep the money right.
+Clay... Get it? Software? I can't resist a bad pun. Feldspar, silica, dry clay, and lately wood ash are some of the materials that go into making glazes. Oh, and I would have to say the firing schedule. I fire all of my work to around 2300 degrees with a reduction cooling cycle. By starving the fire of oxygen you can force it to pull available oxygen molecules from other chemical bonds in the clay and glaze, essentially changing the molecular structure and more importantly creating interesting colors and textures. I built a website with [Squarespace][] and use [Wave][wave.2] the keep the money right.
 
 #### What would be your dream setup?
 

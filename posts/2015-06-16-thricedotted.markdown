@@ -20,7 +20,7 @@ Still, an ultrabook would absolutely not be enough, in terms of storage and memo
 
 Last year I smashed my old phone while running to a bus that I did not even catch, so I decided to soothe the wound by splurging on a [Moto X][moto-x]. It is honestly the most important piece of hardware in my life in terms of helping me maintain relationships with other humans, which probably makes it the most important piece of hardware in my life, period. I am also maybe the only person in the world who owns a [Chromecast][], which I find very handy for media consumption in conjunction with my phone.
 
-Though I don't "use" my cat per se (our relationship is, I hope, more symbiotic than parasitic.. I think), he is important enough to the process of me getting anything done (or not done) to be worth mentioning. His name is Haku, he is about six years old, and I believe he's got a lot of Maine coon in him. I use my phone to take a lot of pictures of my cat!
+Though I don't "use" my cat per se (our relationship is, I hope, more symbiotic than parasitic... I think), he is important enough to the process of me getting anything done (or not done) to be worth mentioning. His name is Haku, he is about six years old, and I believe he's got a lot of Maine coon in him. I use my phone to take a lot of pictures of my cat!
 
 #### And what software?
 
@@ -28,7 +28,7 @@ About four years ago, I somehow had the free time to install [Arch Linux][arch-l
 
 I spend most of my time in two places: the terminal and the browser. I display these windows using [awesome wm][awesome], since I like to either fullscreen my browser or terminal, or have them hang out side by side. When I'm using the CLI, I typically open [urxvt][rxvt-unicode], attach the appropriate [tmux][] session on whatever computer I'm using (my laptop, or a remote machine), and cruise along with [zsh][] plus a few useful extensions for things like on-the-go shell syntax highlighting and ssh autocompletion. I always have a tmux pane with [htop][] to monitor the system I'm on, and I'm a big fan of [Powerline][] in both tmux and [vim][].
 
-Thanks to [NetHack][], I ended up indoctrinating myself to [vim], and so I use vi-like keybindings everywhere I can -- CLI and browser (via [Chromium][] with the [Vimium][] extension). You can guess what text editor I use to write most of my code.. though when I'm forced to use an IDE, I fall back on [Intellij IDEA][intellij-idea]. I use [Bitlbee][] + [irssi][] in combination as my chat client, and in theory like to use [Mopidy][] + [ncmpcpp][] for music, although I often end up falling back on the [Google Music][google-play-music] web interface.
+Thanks to [NetHack][], I ended up indoctrinating myself to [vim], and so I use vi-like keybindings everywhere I can -- CLI and browser (via [Chromium][] with the [Vimium][] extension). You can guess what text editor I use to write most of my code... though when I'm forced to use an IDE, I fall back on [Intellij IDEA][intellij-idea]. I use [Bitlbee][] + [irssi][] in combination as my chat client, and in theory like to use [Mopidy][] + [ncmpcpp][] for music, although I often end up falling back on the [Google Music][google-play-music] web interface.
 
 When I'm coding bots and other projects, I would flail uselessly without the amazing REPL provided by [IPython][]. Speaking of [Python][], I use [the Pattern library][pattern] heavily for language manipulation. I also use my home-baked [twitterbot library][twitterbot] for fast bot making!
 

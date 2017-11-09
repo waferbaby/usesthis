@@ -20,7 +20,7 @@ My setup at work is a [Windows 7][windows-7] desktop with a dual Intel Xeon CPU,
 
 At home, I work on a dual boot 15 inch [MacBook Pro][macbook-pro] with a 2.2GHz Quad-core Intel Core i7 CPU and 8 GBs of RAM. It's hard to work with the trackpad so I use the [Apple Magic Mouse][magic-mouse]. As a mouse it works great, but it hasn't performed any magic tricks yet. I'm very disappointed.
 
-The other part of my setup is dependent on which platforms the project that I'm working on will be shipped on. I've worked with [Xbox][], [PS2][], [Xbox 360][xbox-360], [PS3][], [Wii][], and [PS4][]. While working on MMoJ, I worked with various iOS devices ranging from the second gen [iPod touch][ipod-touch] to the [iPad mini][ipad-mini], plus a whole range of [Android][] devices, which actually sounds cooler if they were actual Androids that could walk, talk, and perhaps exterminate, but these were phones and tablets that can't perform THOSE functions.. yet.
+The other part of my setup is dependent on which platforms the project that I'm working on will be shipped on. I've worked with [Xbox][], [PS2][], [Xbox 360][xbox-360], [PS3][], [Wii][], and [PS4][]. While working on MMoJ, I worked with various iOS devices ranging from the second gen [iPod touch][ipod-touch] to the [iPad mini][ipad-mini], plus a whole range of [Android][] devices, which actually sounds cooler if they were actual Androids that could walk, talk, and perhaps exterminate, but these were phones and tablets that can't perform THOSE functions... yet.
 
 #### And what software?
 

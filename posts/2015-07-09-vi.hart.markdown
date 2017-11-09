@@ -27,7 +27,7 @@ Cameras:
 
 For regular (non VR) filming, I mostly use a [Sony HDR-PJ790 Handycam][hdr-pj790v]. For VR filming, I'm recently obsessed with the [Ricoh Theta camera][theta]. In the past year we've mostly used 14 [GoPro Hero 3+ Black cameras][hero3-plus-black] with various holders, most of which we built ourselves, plus a [360Heros 3DH3PRO14H][3dh3pro14h]. We've also been playing with the [Gyroptic 360cam][360cam] devkit, and make regular use of many other cameras, especially the ones on our phones (mine is a [Galaxy Nexus][galaxy-nexus]).
 
-We use a variety of Manfrotto tripods and clamps, Joby grippy things in a few sizes, and oh so many other little things we use regularly. Lighting, green screen, reflectors.. I won't even start.
+We use a variety of Manfrotto tripods and clamps, Joby grippy things in a few sizes, and oh so many other little things we use regularly. Lighting, green screen, reflectors... I won't even start.
 
 Sound:
 

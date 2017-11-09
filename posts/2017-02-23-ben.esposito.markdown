@@ -14,7 +14,7 @@ categories:
 
 #### What hardware do you use?
 
-I have been developing games on a 2011 [MacBook Pro][macbook-pro] since.. 2011. I love that it has a CD drive & Audio In. It only turns on about 60% of the time now, though, so I got a desktop gamer PC. [This](http://i.dell.com/sites/imagecontent/products/PublishingImages/precision-t3x20-series-workstation/desktop-precision-3000-3420-3620-pol-mag-pdp_V2_28.jpg "A photo of Ben's PC tower case.") is the least embarrassing case I could find.
+I have been developing games on a 2011 [MacBook Pro][macbook-pro] since... 2011. I love that it has a CD drive & Audio In. It only turns on about 60% of the time now, though, so I got a desktop gamer PC. [This](http://i.dell.com/sites/imagecontent/products/PublishingImages/precision-t3x20-series-workstation/desktop-precision-3000-3420-3620-pol-mag-pdp_V2_28.jpg "A photo of Ben's PC tower case.") is the least embarrassing case I could find.
 
 I use a [Razer BlackWidow Chroma mechanical keyboard][blackwidow-chroma] & a [Microsoft Sculpt Ergonomic Mouse][sculpt-ergonomic-mouse].
 

@@ -18,7 +18,7 @@ The Cintiqs are pretty much the Cadillacs of the graphics tablet world, and some
 
 #### And what software?
 
-[Photoshop][] when I have to, [Manga Studio EX 5][manga-studio-ex] under pretty much every other circumstance. MS EX 5 is tailor-made for the production of comics, and it's an incredible program that's completely changed the way I work. It can display collated pages, auto-blueline digital pages, do screentones, allow you to ink in vectors, ignore small gaps in your inking when you're floodfilling.. it's a godsend. There's a [Manga Studio 5][manga-studio], too, but if you're gonna get a version, I would strongly recommend you shell out for EX 5; the bells and whistles are worth it.
+[Photoshop][] when I have to, [Manga Studio EX 5][manga-studio-ex] under pretty much every other circumstance. MS EX 5 is tailor-made for the production of comics, and it's an incredible program that's completely changed the way I work. It can display collated pages, auto-blueline digital pages, do screentones, allow you to ink in vectors, ignore small gaps in your inking when you're floodfilling... it's a godsend. There's a [Manga Studio 5][manga-studio], too, but if you're gonna get a version, I would strongly recommend you shell out for EX 5; the bells and whistles are worth it.
 
 My MS work is supplemented by [Frenden's custom brushes](http://frenden.myshopify.com/ "Frenden's brush store."), too. I ink my comics and black and white illustrations pretty much exclusively with his Hairpin Sable brush, and I paint with his Painterly and Painterly - Wet brushes.
 

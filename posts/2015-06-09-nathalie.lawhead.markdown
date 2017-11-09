@@ -49,13 +49,13 @@ Things I use/do almost daily is [PHP][], [JavaScript][], [MySQL][], HTML, [Actio
 
 Dream would be some way of zapping ideas straight from my brain into the computer. Like I think of it and the game is just done. I have so many ideas but all this menial "getting it done" stuff takes a lot of time.
 
-Ok. Something less sci-fi..
+Ok. Something less sci-fi...
 
 I really need to get back to PC so I can develop for it a lot better. To make games, you also have to play them, so a high end PC is on my list of things to get when I become rich.
 
 I've also been trying to get into the PlayStation developer program. It would be amazing if I could get my hands on their devkit.
 
-Also, would like to develop for VR..
+Also, would like to develop for VR...
 
 Now that I'm thinking about it, it would be great if someone just came along and dumped a whole bunch of hardware on me (including the PlayStation devkit).
 

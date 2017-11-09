@@ -13,9 +13,9 @@ My name is [Hervé This von Kientzheim](https://en.wikipedia.org/wiki/Hervé_Thi
 
 This means looking for the mechanisms of phenomena occurring during dishes preparation. The idea is that cooking involves a lot of transformations (the meat turns brown, the pancake hardens, etc.), and that we are looking for the mechanisms of such transformations (why does the steak turn brown, for example).
 
-We are doing a scientific activity, which means that there are no pans in the lab, but only nuclear magnetic resonance spectroscopy, gas chromatography and mass spectroscopy.. and equations. I have a passion for equations, and my job gives me the wonderful pleasure to deal with equations all day long.
+We are doing a scientific activity, which means that there are no pans in the lab, but only nuclear magnetic resonance spectroscopy, gas chromatography and mass spectroscopy... and equations. I have a passion for equations, and my job gives me the wonderful pleasure to deal with equations all day long.
 
-The goal is to make discoveries, as for any science. We have to push the borders of knowledge farther. Of course, making research involves teaching, at least to younger scientists of our group.. but also much more broadly, because I get so many applications from all over the world (this is why I contributed to create a Master programme called "Food Innovation and Product Design").
+The goal is to make discoveries, as for any science. We have to push the borders of knowledge farther. Of course, making research involves teaching, at least to younger scientists of our group... but also much more broadly, because I get so many applications from all over the world (this is why I contributed to create a Master programme called "Food Innovation and Product Design").
 
 Also science has applications: technical applications, social applications, educational applications. And I participate in applications of molecular gastronomy in these three directions. For example, for more than 15 years I've been publishing one culinary innovation, often on the Internet site of my friend Pierre Gagnaire, one the of best chefs of the world. But I'm also introducing new educational programmes in primary schools as well as in high schools (and of course at university level).
 
@@ -27,7 +27,7 @@ And there's more, but let's come back to the most important: sciences of nature,
 
 #### What hardware do you use?
 
-I'm not a native English speaker, so I can interpret "hardware" as computers, but also more generally electronics.. and nuclear magnetic resonance spectroscopy is mostly a big magnet with a lot of electronics.
+I'm not a native English speaker, so I can interpret "hardware" as computers, but also more generally electronics... and nuclear magnetic resonance spectroscopy is mostly a big magnet with a lot of electronics.
 
 The system that I'm using is a [Bruker Avance 300 MHz spectroscope][avance-300] that Jean-Marie Lehn (Nobel Prize 1987) gave me, some years ago. This huge electronic system is run by a small computer, but the computer itself has no importance, and I even don't know which one it is.
 
