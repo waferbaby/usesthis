@@ -46,7 +46,7 @@ module UsesThis
         slug: slug,
         name: title,
         summary: summary,
-        date: date.to_i,
+        date: date.xmlschema,
         credits: credits || '',
         contents: contents,
         gear: Hash.new.tap do |gear|
