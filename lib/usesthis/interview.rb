@@ -40,5 +40,26 @@ module UsesThis
         end
       end
     end
+
+    def to_h
+      @interview_hash ||= {
+        slug: slug,
+        name: title,
+        summary: summary,
+        date: date.to_i,
+        credits: credits || '',
+        contents: contents,
+        gear: Hash.new.tap do |gear|
+          %w[hardware software].each do |type|
+            gear[type.to_sym] = send(type).map do |_, ware|
+              {
+                slug: ware.slug,
+                name: ware.name
+              }
+            end
+          end
+        end
+      }
+    end
   end
 end

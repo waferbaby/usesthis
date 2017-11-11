@@ -21,6 +21,21 @@ module UsesThis
       @interviews = []
     end
 
+    def to_h
+      @ware_hash ||= {
+        slug: slug,
+        name: name,
+        url: url,
+        description: description,
+        interviews: interviews.map do |interview|
+          {
+            slug: interview.slug,
+            name: interview.title
+          }
+        end
+      }
+    end
+
     def inspect
       "#<#{self.class} " \
       "@slug=#{@slug} " \
