@@ -14,7 +14,7 @@ module UsesThis
           endpoint.publish
         end
 
-        interviews.map do |interview|
+        interviews.map! do |interview|
           interview.reject { |key,| %i[contents gear credits].include?(key) }
         end
 
