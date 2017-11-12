@@ -49,7 +49,7 @@ module UsesThis
         date: date.xmlschema,
         credits: credits || '',
         contents: contents,
-        gear: Hash.new.tap do |gear|
+        gear: {}.tap do |gear|
           %w[hardware software].each do |type|
             gear[type.to_sym] = send(type).map do |_, ware|
               {
