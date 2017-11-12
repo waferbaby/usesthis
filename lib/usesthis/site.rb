@@ -38,7 +38,11 @@ module UsesThis
 
     def generate
       super
-      UsesThis::API.generate(self)
+
+      Api::InterviewsGenerator.generate(self)
+      Api::CategoriesGenerator.generate(self)
+      Api::WaresGenerator.generate(self)
+      Api::StatsGenerator.generate(self)
     end
 
     def generate_posts
