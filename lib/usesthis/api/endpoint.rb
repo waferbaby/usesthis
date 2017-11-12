@@ -13,7 +13,7 @@ module UsesThis
 
       def build_payload
         {}.tap do |hash|
-          hash[:data] = @items.map(&:build_item)
+          hash[:data] = @items.map { |item| build_item(item) }
 
           if @pagination
             hash[:meta] = {
