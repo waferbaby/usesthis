@@ -12,7 +12,7 @@ module UsesThis
         end
 
         interviews.map do |interview|
-          interview.reject { |key,| [:contents, :gear].include?(key) }
+          interview.reject { |key,| [:contents, :gear, :credits].include?(key) }
         end
 
         paginate(interviews, 'interviews', File.join(@output_path, 'interviews'))

@@ -8,7 +8,7 @@ module UsesThis
           category = @site.categories[slug]
 
           interviews = category.posts.map(&:to_h).map do |interview|
-            interview.reject { |key,| [:contents, :gear].include?(key) }
+            interview.reject { |key,| [:contents, :gear, :credits].include?(key) }
           end
 
           path = File.join(@output_path, 'categories', category.slug)
