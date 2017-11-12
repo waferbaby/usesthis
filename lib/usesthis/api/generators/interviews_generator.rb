@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 module UsesThis
   module Api
+    # A class that generates all interview API endpoints.
     class InterviewsGenerator < BaseGenerator
       def generate
         interviews = @site.posts.map(&:to_h)
@@ -12,10 +15,11 @@ module UsesThis
         end
 
         interviews.map do |interview|
-          interview.reject { |key,| [:contents, :gear, :credits].include?(key) }
+          interview.reject { |key,| %i[contents gear credits].include?(key) }
         end
 
-        paginate(interviews, 'interviews', File.join(@output_path, 'interviews'))
+        path = File.join(@output_path, 'interviews')
+        paginate(interviews, 'interviews', path)
       end
     end
   end

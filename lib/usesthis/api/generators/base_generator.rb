@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 module UsesThis
   module Api
+    # A base class that models a single API generator.
     class BaseGenerator
       def self.generate(site)
         new(site).generate

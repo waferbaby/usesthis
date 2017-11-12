@@ -1,5 +1,8 @@
+# frozen_string_literal: true
+
 module UsesThis
   module Api
+    # A class that models a static API endpoint.
     class Endpoint
       def initialize(output_path, items, type, pagination = false)
         @type = type
@@ -8,15 +11,9 @@ module UsesThis
         @pagination = pagination
       end
 
-      def build_json
-        payload = Hash.new.tap do |hash|
-          hash[:data] = @items.map do |item|
-            {
-              type: @type,
-              id: item[:slug],
-              attributes: item.reject { |key,| key == :slug }
-            }
-          end
+      def build_payload
+        {}.tap do |hash|
+          hash[:data] = @items.map(&:build_item)
 
           if @pagination
             hash[:meta] = {
@@ -33,13 +30,21 @@ module UsesThis
             }
           end
         end
+      end
 
-        JSON.pretty_generate(payload)
+      def build_item(item)
+        {
+          type: @type,
+          id: item[:slug],
+          attributes: item.reject { |key,| key == :slug }
+        }
       end
 
       def publish
         FileUtils.mkdir_p(@output_path) unless Dir.exist?(@output_path)
-        File.write(File.join(@output_path, 'index.json'), build_json)
+
+        json = JSON.pretty_generate(build_payload)
+        File.write(File.join(@output_path, 'index.json'), json)
       end
     end
   end
