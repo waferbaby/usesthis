@@ -4,6 +4,10 @@ module UsesThis
   module Api
     # A class that models a static API endpoint.
     class Endpoint
+      def self.publish(output_path, items, type, pagination = false)
+        new(output_path, items, type, pagination).publish
+      end
+
       def initialize(output_path, items, type, pagination = false)
         @type = type
         @output_path = output_path
