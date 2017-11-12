@@ -9,9 +9,7 @@ module UsesThis
 
         interviews.each do |interview|
           path = File.join(@output_path, 'interviews', interview[:slug])
-
-          endpoint = Endpoint.new(path, [interview], 'interviews')
-          endpoint.publish
+          Endpoint.publish(path, [interview], 'interviews')
         end
 
         interviews.map! do |interview|

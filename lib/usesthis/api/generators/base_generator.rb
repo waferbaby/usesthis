@@ -28,8 +28,7 @@ module UsesThis
                         path
                       end
 
-          endpoint = Endpoint.new(page_path, page_items, type, pager.to_h)
-          endpoint.publish
+          Endpoint.publish(page_path, page_items, type, pager.to_h)
         end
       end
     end

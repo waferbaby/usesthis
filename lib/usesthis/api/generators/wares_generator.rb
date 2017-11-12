@@ -10,9 +10,7 @@ module UsesThis
 
           wares.each do |ware|
             path = File.join(@output_path, gear_type, ware[:slug])
-
-            endpoint = Endpoint.new(path, [ware], 'wares')
-            endpoint.publish
+            Endpoint.publish(path, [ware], 'wares')
           end
 
           wares.map! { |ware| ware.reject { |key,| key == :interviews } }

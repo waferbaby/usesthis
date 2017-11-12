@@ -26,9 +26,7 @@ module UsesThis
         end
 
         path = File.join(@output_path, 'categories')
-
-        endpoint = Endpoint.new(path, categories, 'categories')
-        endpoint.publish
+        Endpoint.publish(path, categories, 'categories')
       end
     end
   end
