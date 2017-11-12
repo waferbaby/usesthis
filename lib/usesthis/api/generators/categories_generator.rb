@@ -4,16 +4,16 @@ module UsesThis
       def generate
         categories = []
 
-        @site.categories.keys.sort.each do |key|
-          category = @site.categories[key]
+        @site.categories.keys.sort.each do |slug|
+          category = @site.categories[slug]
 
           interviews = category.posts.map(&:to_h).map do |interview|
-            interview.clone.delete_if { |key,| [:contents, :gear].include?(key) }
+            interview.reject { |key,| [:contents, :gear].include?(key) }
           end
 
           path = File.join(@output_path, 'categories', category.slug)
 
-          paginate('interviews', interviews, path)
+          paginate(interviews, 'interviews', path)
 
           categories << {
             slug: category.slug,
@@ -23,9 +23,9 @@ module UsesThis
         end
 
         path = File.join(@output_path, 'categories')
-        json = build_json('categories', categories)
 
-        publish_json_file(path, json)
+        endpoint = Endpoint.new(path, categories, 'categories')
+        endpoint.publish
       end
     end
   end
