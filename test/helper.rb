@@ -21,6 +21,10 @@ def test_configuration
   }
 end
 
+def test_site
+  @test_site ||= UsesThis::Site.new(test_configuration)
+end
+
 def fixtures
   @fixtures ||= LittleFixtures.load(File.join(__dir__, 'fixtures'))
 end
@@ -32,7 +36,7 @@ def match_api_fixture(fixture)
   parts.delete('index') if parts.last == 'index'
 
   path = File.join(
-    @site.output_paths[:site],
+    test_site.output_paths[:site],
     parts,
     'index.json'
   )

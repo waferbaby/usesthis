@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "type": "wares",
+      "id": "text-editor",
+      "attributes": {
+        "name": "Text Editor",
+        "url": "http://www.example.com/text-editor/",
+        "description": "A text editor.",
+        "count": 2
+      }
+    },
+    {
+      "type": "wares",
+      "id": "image-editor",
+      "attributes": {
+        "name": "Image Editor",
+        "url": "http://www.example.com/image-editor/",
+        "description": "An image editor.",
+        "count": 1
+      }
+    }
+  ]
+}

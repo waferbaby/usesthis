@@ -1,7 +1,13 @@
 {
-  "stats": {
-    "interviews": 1,
-    "hardware": 2,
-    "software": 2
-  }
+  "data": [
+    {
+      "type": "stats",
+      "id": "stats",
+      "attributes": {
+        "interviews": 2,
+        "hardware": 2,
+        "software": 2
+      }
+    }
+  ]
 }

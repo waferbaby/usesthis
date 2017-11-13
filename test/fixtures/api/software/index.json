@@ -1,24 +1,33 @@
 {
-  "gear": [
+  "data": [
     {
-      "slug": "image-editor",
-      "name": "Image Editor",
-      "description": "An image editor.",
-      "url": "http://www.example.com/image-editor/"
+      "type": "wares",
+      "id": "image-editor",
+      "attributes": {
+        "name": "Image Editor",
+        "url": "http://www.example.com/image-editor/",
+        "description": "An image editor."
+      }
     },
-
     {
-      "slug": "text-editor",
-      "name": "Text Editor",
-      "description": "A text editor.",
-      "url": "http://www.example.com/text-editor/"
+      "type": "wares",
+      "id": "text-editor",
+      "attributes": {
+        "name": "Text Editor",
+        "url": "http://www.example.com/text-editor/",
+        "description": "A text editor."
+      }
     }
   ],
-  "paging": {
-    "current_page": "1",
-    "item_count": "2",
-    "page_count": "1",
-    "next_page_url": "",
-    "previous_page_url": ""
+  "meta": {
+    "page_count": 1,
+    "item_count": 2
+  },
+  "links": {
+    "self": "/api/software/",
+    "first": "/api/software/",
+    "last": "/api/software/",
+    "prev": "",
+    "next": ""
   }
 }

@@ -1,15 +1,19 @@
 {
-  "gear": {
-    "slug": "image-editor",
-    "name": "Image Editor",
-    "description": "An image editor.",
-    "url": "http://www.example.com/image-editor/",
-    "interviews": [
-      {
-        "slug": "interviewee",
-        "name": "Interviewee",
-        "summary": "Test interview fake person"
+  "data": [
+    {
+      "type": "wares",
+      "id": "image-editor",
+      "attributes": {
+        "name": "Image Editor",
+        "url": "http://www.example.com/image-editor/",
+        "description": "An image editor.",
+        "interviews": [
+          {
+            "slug": "interviewee",
+            "name": "Interviewee"
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }

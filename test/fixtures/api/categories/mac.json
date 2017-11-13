@@ -24,9 +24,9 @@
     "item_count": 2
   },
   "links": {
-    "self": "/api/categories/fake/",
-    "first": "/api/categories/fake/",
-    "last": "/api/categories/fake/",
+    "self": "/api/categories/mac/",
+    "first": "/api/categories/mac/",
+    "last": "/api/categories/mac/",
     "prev": "",
     "next": ""
   }

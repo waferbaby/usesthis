@@ -1,15 +1,19 @@
 {
-  "gear": {
-    "slug": "laptop",
-    "name": "Laptop",
-    "description": "A laptop.",
-    "url": "http://www.example.com/laptop/",
-    "interviews": [
-      {
-        "slug": "interviewee",
-        "name": "Interviewee",
-        "summary": "Test interview fake person"
+  "data": [
+    {
+      "type": "wares",
+      "id": "laptop",
+      "attributes": {
+        "name": "Laptop",
+        "url": "http://www.example.com/laptop/",
+        "description": "A laptop.",
+        "interviews": [
+          {
+            "slug": "interviewee",
+            "name": "Interviewee"
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }

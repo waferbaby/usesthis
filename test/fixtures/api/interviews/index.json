@@ -1,22 +1,33 @@
 {
-  "interviews": [
+  "data": [
     {
-      "slug": "interviewee",
-      "name": "Interviewee",
-      "url": "https://usesthis.com/interviews/interviewee/",
-      "summary": "Test interview fake person",
-      "date": 1483189200,
-      "categories": [
-        "fake", "test"
-      ],
-      "credits": ""
+      "type": "interviews",
+      "id": "another-interviewee",
+      "attributes": {
+        "name": "Interviewee",
+        "summary": "Speccy McSpecFace",
+        "date": "2017-01-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "interviews",
+      "id": "interviewee",
+      "attributes": {
+        "name": "Interviewee",
+        "summary": "Testy McTestFace",
+        "date": "2017-01-01T00:00:00+00:00"
+      }
     }
   ],
-  "paging": {
-    "current_page": "1",
-    "item_count": "1",
-    "page_count": "1",
-    "next_page_url": "",
-    "previous_page_url": ""
+  "meta": {
+    "page_count": 1,
+    "item_count": 2
+  },
+  "links": {
+    "self": "/api/interviews/",
+    "first": "/api/interviews/",
+    "last": "/api/interviews/",
+    "prev": "",
+    "next": ""
   }
 }

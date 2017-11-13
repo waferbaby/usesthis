@@ -1,23 +1,33 @@
 {
-  "gear": [
+  "data": [
     {
-      "slug": "laptop",
-      "name": "Laptop",
-      "description": "A laptop.",
-      "url": "http://www.example.com/laptop/"
+      "type": "wares",
+      "id": "laptop",
+      "attributes": {
+        "name": "Laptop",
+        "url": "http://www.example.com/laptop/",
+        "description": "A laptop."
+      }
     },
     {
-      "slug": "phone",
-      "name": "Phone",
-      "description": "A phone.",
-      "url": "http://www.example.com/phone/"
+      "type": "wares",
+      "id": "phone",
+      "attributes": {
+        "name": "Phone",
+        "url": "http://www.example.com/phone/",
+        "description": "A phone."
+      }
     }
   ],
-  "paging": {
-    "current_page": "1",
-    "item_count": "2",
-    "page_count": "1",
-    "next_page_url": "",
-    "previous_page_url": ""
+  "meta": {
+    "page_count": 1,
+    "item_count": 2
+  },
+  "links": {
+    "self": "/api/hardware/",
+    "first": "/api/hardware/",
+    "last": "/api/hardware/",
+    "prev": "",
+    "next": ""
   }
 }

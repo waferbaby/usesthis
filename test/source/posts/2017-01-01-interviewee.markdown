@@ -1,14 +1,14 @@
 ---
 title: Interviewee
-summary: Test interview fake person
+summary: Testy McTestFace
 categories:
-- fake
-- test
+- mac
+- software
 ---
 
 #### Who are you, and what do you do?
 
-Mmmmmm.
+Good question.
 
 #### What hardware do you use?
 
@@ -20,4 +20,4 @@ The best [image editor][image-editor] out there. And the best [text editor][text
 
 #### What would be your dream setup?
 
-Your face.
+This is pretty much it.
