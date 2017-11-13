@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "type": "interviews",
+      "id": "another-interviewee",
+      "attributes": {
+        "name": "Interviewee",
+        "summary": "Speccy McSpecFace",
+        "date": "2017-01-03T00:00:00+00:00"
+      }
+    },
+    {
+      "type": "interviews",
+      "id": "interviewee",
+      "attributes": {
+        "name": "Interviewee",
+        "summary": "Testy McTestFace",
+        "date": "2017-01-01T00:00:00+00:00"
+      }
+    }
+  ],
+  "meta": {
+    "page_count": 1,
+    "item_count": 2
+  },
+  "links": {
+    "self": "/api/categories/fake/",
+    "first": "/api/categories/fake/",
+    "last": "/api/categories/fake/",
+    "prev": "",
+    "next": ""
+  }
+}
