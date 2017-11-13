@@ -1,4 +1,9 @@
 {
-  "error": 404,
-  "message": "Not found"
+  "errors": [
+    {
+      "status": "404",
+      "title":  "Not Found",
+      "detail": "The requested resource was not found."
+    }
+  ]
 }
