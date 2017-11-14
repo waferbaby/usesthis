@@ -24,9 +24,9 @@
     "item_count": 2
   },
   "links": {
-    "self": "/api/software/",
-    "first": "/api/software/",
-    "last": "/api/software/",
+    "self": "https://usesthis.com/api/software/",
+    "first": "https://usesthis.com/api/software/",
+    "last": "https://usesthis.com/api/software/",
     "prev": "",
     "next": ""
   }

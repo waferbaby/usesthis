@@ -24,9 +24,9 @@
     "item_count": 2
   },
   "links": {
-    "self": "/api/hardware/",
-    "first": "/api/hardware/",
-    "last": "/api/hardware/",
+    "self": "https://usesthis.com/api/hardware/",
+    "first": "https://usesthis.com/api/hardware/",
+    "last": "https://usesthis.com/api/hardware/",
     "prev": "",
     "next": ""
   }

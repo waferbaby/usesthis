@@ -24,9 +24,9 @@
     "item_count": 2
   },
   "links": {
-    "self": "/api/interviews/",
-    "first": "/api/interviews/",
-    "last": "/api/interviews/",
+    "self": "https://usesthis.com/api/interviews/",
+    "first": "https://usesthis.com/api/interviews/",
+    "last": "https://usesthis.com/api/interviews/",
     "prev": "",
     "next": ""
   }

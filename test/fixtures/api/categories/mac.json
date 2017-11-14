@@ -24,9 +24,9 @@
     "item_count": 2
   },
   "links": {
-    "self": "/api/categories/mac/",
-    "first": "/api/categories/mac/",
-    "last": "/api/categories/mac/",
+    "self": "https://usesthis.com/api/categories/mac/",
+    "first": "https://usesthis.com/api/categories/mac/",
+    "last": "https://usesthis.com/api/categories/mac/",
     "prev": "",
     "next": ""
   }
