@@ -25,12 +25,16 @@ module UsesThis
               item_count: @pagination[:item_count]
             }
 
+            links = @pagination[:links].transform_values do |path|
+              'https://usesthis.com' + path if path
+            end
+
             hash[:links] = {
-              self: @pagination[:links][:current_page],
-              first: @pagination[:links][:first_page],
-              last: @pagination[:links][:last_page],
-              prev: @pagination[:links][:previous_page] || '',
-              next: @pagination[:links][:next_page] || ''
+              self: links[:current_page],
+              first: links[:first_page],
+              last: links[:last_page],
+              prev: links[:previous_page] || '',
+              next: links[:next_page] || ''
             }
           end
         end
