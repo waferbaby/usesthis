@@ -32,7 +32,7 @@ title: API
 </pre>
 
 <h5 id="categories-category">Getting a category</h5>
-<p class="summary">This method returns a basic list of all the interviews for the given category.</p>
+<p class="summary">This method returns a paginated list of all the interviews for the given category.</p>
 <p><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'categories', 'mac', 'index.json')) %>
@@ -51,7 +51,7 @@ title: API
 </pre>
 
 <h5 id="gear-item">Getting an item</h5>
-<p class="summary">This method returns a single piece of hardware or software for the given slug, including related interviews.</p>
+<p class="summary">This method returns a single piece of hardware or software for the given slug.</p>
 <p>
   <a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
   <a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
