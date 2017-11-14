@@ -36,16 +36,16 @@ module UsesThis
       end
     end
 
-    def generate
-      super
-
+    def publish_files
       Api::InterviewsGenerator.generate(self)
       Api::CategoriesGenerator.generate(self)
       Api::WaresGenerator.generate(self)
       Api::StatsGenerator.generate(self)
+
+      super
     end
 
-    def generate_posts
+    def publish_posts
       super
 
       errors_path = File.join(@source_paths[:root], 'errors', '*.markdown')
