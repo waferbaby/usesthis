@@ -152,10 +152,14 @@ padding: 0;
 footer {
 border-top: solid 1px #eee;
 clear: left;
-color: #888;
 font-size: 80%;
 margin-top: 30px;
 text-align: center;
+}
+
+form {
+padding: 0;
+margin: 10px 0;
 }
 
 img {
