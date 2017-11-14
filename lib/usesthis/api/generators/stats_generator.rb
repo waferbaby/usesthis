@@ -7,8 +7,6 @@ module UsesThis
       def generate
         %w[hardware software].each do |gear_type|
           gear_stats(gear_type).each do |stat_key, values|
-            values = values.sort_by(&:last).reverse[0..49]
-
             items = values.map do |slug, count|
               item = @site.send(gear_type.to_sym)[slug].to_h
               item.delete_if { |key| key == :interviews }
@@ -43,6 +41,10 @@ module UsesThis
             ware.interviews.each do |interview|
               (hash[interview.year.to_sym] ||= Hash.new(0))[ware.slug] += 1
             end
+          end
+
+          hash.transform_values! do |stats|
+            stats.sort_by(&:last).reverse[0..49]
           end
         end
       end
