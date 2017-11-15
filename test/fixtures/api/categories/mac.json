@@ -6,7 +6,8 @@
       "attributes": {
         "name": "Interviewee",
         "summary": "Speccy McSpecFace",
-        "date": "2017-01-03T00:00:00+00:00"
+        "date": "2017-01-03T00:00:00+00:00",
+        "categories": ["mac", "musician"]
       }
     },
     {
@@ -15,7 +16,8 @@
       "attributes": {
         "name": "Interviewee",
         "summary": "Testy McTestFace",
-        "date": "2017-01-01T00:00:00+00:00"
+        "date": "2017-01-01T00:00:00+00:00",
+        "categories": ["mac", "software"]
       }
     }
   ],
