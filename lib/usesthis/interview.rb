@@ -47,6 +47,7 @@ module UsesThis
         name: title,
         summary: summary,
         date: date.xmlschema,
+        categories: categories,
         credits: credits || '',
         contents: contents,
         gear: {}.tap do |gear|
