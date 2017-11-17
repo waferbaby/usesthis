@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 csso site/stylesheets/screen.css -o site/stylesheets/screen.css
-rsync -rvz --delete --keep-dirlinks site/ usesthis.com:/usr/local/www/usesthis.com/public/
+rsync -rvz site/ usesthis.com:/usr/local/www/usesthis.com/public/
