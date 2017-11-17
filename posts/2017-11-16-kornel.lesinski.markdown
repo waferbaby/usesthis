@@ -32,7 +32,7 @@ I live paperless. You won't find a pen on my desk. I scribble on my iPad or [Pix
 
 Speaking of the Pixel XL - it's excellent hardware. Sleek, beautiful screen, with a battery that's almost large enough and charges fast enough. The fingerprint sensor is so fast and so conveniently placed, that I use it, despite knowing that [Android][]'s hardware security is weak sauce.
 
-I dread upgrading Android phones. Every time Android migration assistant loses all my data from all non-Google apps. Reinstalls them fresh, with no logins, no local strorage, no save games -- nothing). As if Google did not believe data outside of their own servers exists. I might switch to an iPhone, because Apple's Android to [iOS][] migration assistant can't be any worse.
+I dread upgrading Android phones. Every time Android migration assistant loses all my data from all non-Google apps. Reinstalls them fresh, with no logins, no local storage, no save games -- nothing). As if Google did not believe data outside of their own servers exists. I might switch to an iPhone, because Apple's Android to [iOS][] migration assistant can't be any worse.
 
 I've got the [Daydream VR headset][daydream-view] for the Pixel. It's fun for a few minutes. Its controller significantly improves interaction in VR compared to [Cardboard][google-cardboard], but it has a fatal flaw: it has created another axis of Android fragmentation. The Daydream headset only works with a dozen of its own apps, and *deliberately blocks* access to the hundreds of VR apps written for Cardboard.
 
