@@ -191,7 +191,7 @@ margin: 0 40px 40px 0;
 ul#categories {
 display: grid;
 grid-gap: 10px 20px;
-grid-template-columns: 50% 50%;
+grid-template-columns: 33% 33% 33%;
 list-style: none outside;
 margin: 0 0 10px 0;
 }
@@ -210,6 +210,10 @@ margin: 0 0 10px 0;
 
   main, footer {
   padding: 0 20px;
+  }
+
+  ul#categories {
+  grid-template-columns: 50% 50%;
   }
 
   ul#interviews img {
