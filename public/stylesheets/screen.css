@@ -9,7 +9,7 @@ color: #fe2e9a;
 }
 
 a.selected {
-border-bottom: solid 1px #fe2e9a !important;
+font-weight: bold;
 }
 
 article header {
@@ -17,6 +17,7 @@ margin-bottom: 30px;
 }
 
 body {
+background-color: #fff;
 color: #000;
 font-family: -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 font-size: 1.2em;
@@ -91,8 +92,6 @@ text-transform: uppercase;
 
 header#primary nav a {
 color: #000;
-text-decoration: none;
-border-bottom: solid 1px #000;
 }
 
 figure {
@@ -152,7 +151,7 @@ padding: 0;
 footer {
 border-top: solid 1px #eee;
 clear: left;
-font-size: 80%;
+font-size: 75%;
 margin-top: 30px;
 text-align: center;
 }
