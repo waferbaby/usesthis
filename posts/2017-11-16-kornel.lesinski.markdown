@@ -26,7 +26,7 @@ I was an early adopter of high-res monitors. I've got an now-old [30" Dell WFP30
 
 My other monitor is a [4K Samsung U28D590][u28d590]. It's the early model with a TN matrix with bleak color, lousy viewing angle, and a non-VESA stand with absolutely no adjustment. I also have to reboot it every few days (yes, my monitor crashes). But the 4K resolution still makes up for all of it.
 
-As for keyboards, I don't understand why right-handed people tolerate keyboards with numeric pad taking up space where the mouse should be. I used to have (and love) an A4Tech keyboard with a numpad on the left. Now I use Truly Ergonomic. It deserves its name. It has an unusual, but very convenient layout. Return and Backspace are the middle of the keyboard. Arrow keys are 4-way rather than tetromino-shaped. It took me a while to re-learn touch typing on it, but it was worth it.
+As for keyboards, I don't understand why right-handed people tolerate keyboards with numeric pad taking up space where the mouse should be. I used to have (and love) an A4Tech keyboard with a numpad on the left. Now I use [Truly Ergonomic][mechanical-keyboard]. It deserves its name. It has an unusual, but very convenient layout. Return and Backspace are the middle of the keyboard. Arrow keys are 4-way rather than tetromino-shaped. It took me a while to re-learn touch typing on it, but it was worth it.
 
 I live paperless. You won't find a pen on my desk. I scribble on my iPad or [Pixel XL][pixel-xl]. I scan and archive all documents with an imageFORMULA scanner. It's nice, small and pretty fast.
 
