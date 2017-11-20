@@ -1,0 +1,5 @@
+{
+  "name": "Windows Subsystem for Linux",
+  "description": "A Linux environment for Windows.",
+  "url": "https://msdn.microsoft.com/en-us/commandline/wsl/about"
+}
