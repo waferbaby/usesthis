@@ -3,13 +3,13 @@ color: #7733ff;
 text-decoration: underline;
 }
 
-a:hover,
-header#primary nav a:hover {
-color: #fe2e9a;
+a:hover {
+color: #fe2e9a !important;
 }
 
-a.selected {
-font-weight: bold;
+a.selected,
+header#primary nav a:hover {
+border-bottom: solid 1px #fe2e9a !important;
 }
 
 article header {
@@ -91,7 +91,9 @@ text-transform: uppercase;
 }
 
 header#primary nav a {
+border-bottom: solid 1px #000;
 color: #000;
+text-decoration: none;
 }
 
 figure {
