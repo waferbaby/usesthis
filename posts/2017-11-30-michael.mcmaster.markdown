@@ -10,7 +10,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-My name is [Michael McMaster](http://michaeljmcmaster.com/ "Michael's website."), and at the moment I do a few things. I make videogames with [House House](http://househou.se/ "A Melbourne game studio."), a very small studio that I co-direct - last year we released a game called [Push Me Pull You][push-me-pull-you] and we recently announced our second project, which is called Untitled Goose Game for the time being.
+My name is [Michael McMaster](http://michaeljmcmaster.com/ "Michael's website."), and at the moment I do a few things. I make videogames with [House House](http://househou.se/ "A Melbourne game studio."), a very small studio that I co-direct - last year we released a game called [Push Me Pull You][push-me-pull-you] and we recently announced our second project, which is called [Untitled Goose Game][untitled-goose-game] for the time being.
 
 I'm also working on a PhD, which I started this year at RMIT University in Melbourne, Australia, where I'm researching the position of videogames within art and design museums. I also work on-and-off as a sessional tutor at RMIT, where I teach game design practice to undergraduate students.
 
@@ -18,7 +18,7 @@ That sounds like too many things, when I write it out like this, and it probably
 
 #### What hardware do you use?
 
-For my game development work, I have a big heavy PC that I put together a long time ago, with two monitors raised up to eye level on big books. I have a [Microsoft Sculpt ergonomic keyboard][sculpt-ergonomic-keyboard] that I ought to use, but its wireless receiver drops in and out a lot so right now I'm typing on a very plain Logitech keyboard. My mouse looks like a plain matte-black mouse, and it's very nice to use, but it is unfortunately called a Razer DeathAdder. I sometimes draw using an [Intuos Pro Medium][intuos-pro]. My desk is usually cluttered with game controllers - right now there are two [DualShock 4's][dualshock-4] and an [Xbox 360 controller][xbox-360-controller].
+For my game development work, I have a big heavy PC that I put together a long time ago, with two monitors raised up to eye level on big books. I have a [Microsoft Sculpt ergonomic keyboard][sculpt-ergonomic-keyboard] that I ought to use, but its wireless receiver drops in and out a lot so right now I'm typing on a very plain Logitech keyboard. My mouse looks like a plain matte-black mouse, and it's very nice to use, but it is unfortunately called a [Razer DeathAdder][deathadder-3500]. I sometimes draw using an [Intuos Pro Medium][intuos-pro]. My desk is usually cluttered with game controllers - right now there are two [DualShock 4's][dualshock-4] and an [Xbox 360 controller][xbox-360-controller].
 
 For my research, I use a [2015 MacBook Pro][macbook-pro], and a pair of Urbanears Zinken headphones. Lately I've started doing some audio interviews, too, so I bought a [Sony ICD-PX470 digital voice recorder][icd-px470], though I always end up doing a backup recording on my phone (a [Nexus 5X][nexus-5x]) because I'm paranoid of the voice recorder failing and wasting my subjects' time.
 
