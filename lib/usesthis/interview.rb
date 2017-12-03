@@ -6,7 +6,7 @@ module UsesThis
     attr_accessor :hardware
     attr_accessor :software
     attr_accessor :credits
-    attr_accessor :license
+    attr_accessor :licence
 
     def initialize(site, path)
       super

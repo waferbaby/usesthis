@@ -1,11 +1,11 @@
 ---
 title: Richard Stallman
 summary: Freedom campaigner
+licence: by-nd
 categories:
 - developer
 - linux
 - software
-license: by-nd
 ---
 
 #### Who are you, and what do you do?
