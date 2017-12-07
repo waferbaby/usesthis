@@ -1,0 +1,38 @@
+---
+title: Jenny Jiao Hsia
+summary: Indie game developer
+categories:
+- developer
+- game
+- mac
+---
+
+#### Who are you, and what do you do?
+
+Hi, my name is [Jenny Jiao Hsia](http://qdork.com/ "Jenny's website.") and I'm an independent game developer based in Brooklyn, NY. In 2014, I collaborated with [AP Thomson](http://apthomson.com/ "AP's website.") on a small game about [smooching and loneliness in space][stellar-smooch-ios]. The following year, we worked together again and released [a game about computers, magic, and insecurity][beglitched]. 
+
+Some of my solo projects include games about [doing your makeup in 10 seconds or less][morning-makeup-madness], [putting a noodle-limbed through a serious yoga workout][wobble-yoga], and [feeding your hungry buddy on a date][hungry-buddy]!
+
+When I'm not making games, I like prototyping with microcontrollers and sewing plush dolls called [Bedtime Buddies](http://qdork.com/image/165980515125 "A photo of Jenny's plush dolls."). 
+
+#### What hardware do you use?
+
+I use a 13-inch [MacBook Pro][macbook-pro] (early 2015) to make my games. My computer isn't equipped with a lot of storage space, so I keep my files on [a portable external hard drive][backup-plus-slim]. For drawing, I use a [small Wacom tablet][intuos-pro] and [this mouse][amazonbasics-3-button-usb-wired-mouse] -- it's cheap, but reliable... and I really like how it fits in my hand. 
+
+I always carry a notebook with me so I can jot down ideas and designs wherever I go. I really like how the pages are dotted instead of gridded. It provides enough of a guide to draw in straight lines, but doesn't constrain me too much if I want to scribble freely. I using pens instead of pencils, and [this one][energel-x] is my favorite to write with! 
+
+For non-digital crafting, I've been using [this small sewing machine from Janome][lady-lilac]. It doesn't come with a lot of fancy buttons or options, but this basic model gets the job done for me. I like the color and size a lot, but I wish it could handle thicker fabrics. Sometimes it even chugs a bit. If you're a beginner to sewing and you're looking for something fun to play around with -- I would recommend it. However you might want to make an investment and upgrade to something sturdier if you're looking for a machine for long-term use. 
+
+I find a lot of my textiles from the thrift store -- I'd recommend checking out the curtains and blankets because you get a lot of quality fabric for a really low price. Just throw them in the wash before cutting and sewing with them!  I pick up my other materials (like embroidery thread, buttons, ribbon, beads, key rings, etc.) at Flying Tiger and Michael's. It's fun to browse those stores because you can find really neat materials that will add a lot of character. 
+
+I've been using a [Makey Makey][makey-makey] to prototype the hardware portion of my controllers and I create the final version with a [FLORA microcontroller][flora] and conductive thread. I'd recommend checking Tinkersphere and Adafruit if you're looking for more sewable electronic parts.  
+
+I take photos using an [iPhone 6S][iphone-6s] and my workspace consists of [a small IKEA table][linnmon] and [one of those heavy-duty folding chairs from Costco][lifetime-folding-chair]. 
+
+#### And what software?
+
+I use [Unity][] to make games and [Bitbucket][] for source control. For art, I make 2D assets in [Photoshop][] and 3D models in [Maya][]. I edit sound effects in [Audition][] and I record gameplay footage with [QuickTime Player][quicktime-pro] and [Soundflower][]. Sometimes I use [LICEcap][] to capture gifs -- the framerate can end up looking sort of choppy and slow, so I will occasionally resort to Photoshop to create better quality gifs. I use [Google Drive][google-drive] on a regular basis, and recently I've been experimenting with the [Arduino IDE][arduino-ide]. My favorite app to edit photos with on my phone is [VSCO][vsco-cam-ios] and I like [doodling on these pictures](https://www.instagram.com/p/BOsQUuqhFkD/ "One of Jenny's Instagram photos.") with Facebook's [Messenger app][facebook-messenger-ios]. 
+
+#### What would be your dream setup?
+
+My dream setup would include a big sturdy desk, a nice comfy chair, an enormous bulletin board, a more serious and robust sewing machine, a powerful [Mac Pro][mac-pro] with tons of storage, and a couple of extra monitors! 
