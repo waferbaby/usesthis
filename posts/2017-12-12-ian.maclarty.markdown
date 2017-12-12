@@ -1,0 +1,34 @@
+---
+title: Ian MacLarty
+summary: Indie game developer
+categories:
+- developer
+- game
+- linux
+- mac
+- windows
+---
+
+#### Who are you, and what do you do?
+
+I'm an independent game designer, artist and programmer from Melbourne. I make a lot of small experimental games often with a visual focus. You can find my portfolio here: [http://ianmaclarty.com](http://ianmaclarty.com/ "Ian's website."). I'm currently working on an abstract puzzle game.
+
+#### What hardware do you use?
+
+I mainly use a [MacBook Pro][macbook-pro] (2017, 13", no touch bar). I don't use any external keyboards, mice or monitors. I dislike having to plug and unplug things and I like working in the kitchen where there's plenty of natural light. I also have an older desktop (Intel i5 CPU, 8GB RAM, GTX660 GPU, 1TB mechanical HDD, 23" monitor) with Linux and [Windows 7][windows-7] that I use less often, mainly for testing or playing games.
+
+I have an [iPhone 6][iphone-6] that I use for testing and sometimes for music production. I also have an older [iPad][] and some older iPhones and a cheap [Android][] phone that I use exclusively for testing. I have a pair of [KRK KNS-8400 headphones][kns-8400] and a [Behringer C-1U][c-1u] microphone for audio work.
+
+#### And what software?
+
+I mostly work in the terminal and use [vim][] as my editor. I use the standard [Terminal app][terminal] on Mac and whatever the default terminal on [Linux Mint][linux-mint] is. On Windows I use [MSYS][] and [rxvt][]. I often write [bash][] or [node.js][] scripts to automate repetitive tasks.
+
+I use my own game engine called [Amulet][] which is written in [C++][c-plusplus] and uses [GNU make][make] as its build system. I use the [Clang][], [GCC][] and [Visual C++][visual-c-plusplus] compilers. I've found [Valgrind][] very useful for tracking down memory errors and leaks. I rarely use a debugger, preferring print statements (this is somewhat ironic, because I did my postgraduate research on debuggers). I write my games in [Lua][] and use [LuaJIT][] on desktop and vanilla Lua on mobile and browser.
+
+For 2D graphics I'm currently using [Acorn][], but will sometimes use [GIMP][] when I'm working on Linux. For audio I use [Audacity][] on Mac and Linux and on my iPhone I've used [Figure][figure-ios] to produce music and [Animoog][animoog-ios] to produce sound effects. I've also used [SFXR][].
+
+I occasionally use [Blender][] for 3D modelling or trailer production. Sometimes I'll also use [iMovie][] for trailers, though it doesn't give as much control as Blender. I use [GIF Brewery 3][gif-brewery] and [QuickTime][quicktime-pro] to record GIFs and gameplay footage respectively and [Handbrake][] to transcode between video formats.
+
+#### What would be your dream setup?
+
+I'm pretty happy with what I've got. I'd like to get more into music production so if I could afford it I'd purchase [Ableton Live][live] and maybe get one of those fancy [Ableton Push devices][push].
