@@ -1,0 +1,5 @@
+{
+  "name": "LuaJIT",
+  "description": "A Lua compiler.",
+  "url": "http://luajit.org/"
+}
