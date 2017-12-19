@@ -38,6 +38,11 @@ font-weight: bold;
 margin: 0;
 }
 
+figcaption {
+color: #aaa;
+font-size: 70%;
+}
+
 figure {
 margin: 0 0 10px 0;
 }
