@@ -177,6 +177,10 @@ overflow: scroll;
 padding: 20px;
 }
 
+span.summary {
+font-size: 80%;
+}
+
 ul {
 list-style: square inside;
 margin: 10px;
