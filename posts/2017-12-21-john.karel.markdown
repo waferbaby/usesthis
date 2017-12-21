@@ -1,0 +1,26 @@
+---
+title: John Karel
+summary: Freelance computer animator
+categories:
+- animator
+- mac
+- windows
+---
+
+#### Who are you, and what do you do?
+
+I'm [John Karel](http://jjjjjjjjjjohn.tumblr.com/ "John's website."). I'm primarily a computer animator. I make GIFs and animated videos for a living, working as a freelancer.
+
+#### What hardware do you use?
+
+My main computer is a [Late 2013 iMac][imac]. I alternate between an Apple Bluetooth [keyboard][] and a [Logitech wireless solar keyboard][wireless-solar-keyboard-k750-mac] for when i need a number pad. My mouse is the [Logitech MX Master][mx-master], which if it broke today I would buy a new one tomorrow. I also have a [Microsoft Surface Pro 4][surface-pro-4], which I use mainly to draw on. My phone is an [iPhone 6s][iphone-6s].
+
+I used an art supply store gift certificate to buy a bunch of Copic Markers last year but have hardly used them... have been really meaning to make some drawings with them though.
+
+#### And what software?
+
+For 3D modeling and animation I use [Autodesk Maya][maya] and [Blender][] (separately, not both on one project). For video editing I use Apple's program [Motion][] and [Adobe Premiere][premiere]. For drawing I use [Adobe Photoshop][photoshop] and [Illustrator][]. My goal is to drop both Maya and Motion from my workflow though and only use Blender and the Adobe suite in the future.
+
+#### What would be your dream setup?
+
+My dream set-up would be a large room with large windows. A dual monitor set-up with a computer more substantial than an iMac. Surrounded by houseplants and a water cooler.
