@@ -10,14 +10,14 @@ title: API
 
 <h5 id="interviews-list">Getting a list</h5>
 <p class="summary">This method returns a paginated list of all the interviews.</p>
-<p><a href="/api/interviews" title="Request a list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
+<p><a href="/api/interviews" title="A list of all the interviews as JSON.">https://usesthis.com/api/interviews</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'interviews', 'index.json')) %>
 </pre>
 
 <h5 id="interviews-interview">Getting an interview</h5>
 <p class="summary">This method returns a complete interview for the given slug.</p>
-<p><a href="/api/interviews/<%= @site.latest_post.slug %>" title="Request a given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></p>
+<p><a href="/api/interviews/<%= @site.latest_post.slug %>" title="A given interview as JSON.">https://usesthis.com/api/interviews/{slug}</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'interviews', @site.latest_post.slug, 'index.json')) %>
 </pre>
@@ -26,14 +26,14 @@ title: API
 
 <h5 id="categories-list">Getting categories</h5>
 <p class="summary">This method returns a basic list of all the interview categories.</p>
-<p><a href="/api/categories" title="Request a list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></p>
+<p><a href="/api/categories" title="A list of all the interview categories as JSON.">https://usesthis.com/api/categories</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'categories', 'index.json')) %>
 </pre>
 
 <h5 id="categories-category">Getting a category</h5>
 <p class="summary">This method returns a paginated list of all the interviews for the given category.</p>
-<p><a href="/api/categories/mac" title="Request a list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
+<p><a href="/api/categories/mac" title="A list of a category's interviews as JSON.">https://usesthis.com/api/categories/{slug}</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'categories', 'mac', 'index.json')) %>
 </pre>
@@ -43,8 +43,8 @@ title: API
 <h5 id="gear-list">Getting a list</h5>
 <p class="summary">This method returns a paginated list of all the hardware or software mentioned on the site.</p>
 <p>
-  <a href="/api/hardware" title="Request a list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
-  <a href="/api/software" title="Request a list of all the software as JSON.">https://usesthis.com/api/software</a><br>
+  <a href="/api/hardware" title="A list of all the hardware as JSON.">https://usesthis.com/api/hardware</a><br>
+  <a href="/api/software" title="A list of all the software as JSON.">https://usesthis.com/api/software</a><br>
 </p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'hardware', 'index.json')) %>
@@ -53,8 +53,8 @@ title: API
 <h5 id="gear-item">Getting an item</h5>
 <p class="summary">This method returns a single piece of hardware or software for the given slug.</p>
 <p>
-  <a href="/api/hardware/macbook-pro" title="Request a given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
-  <a href="/api/software/photoshop" title="Request a given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
+  <a href="/api/hardware/macbook-pro" title="A given piece of hardware as JSON.">https://usesthis.com/api/hardware/{slug}</a><br>
+  <a href="/api/software/photoshop" title="A given piece of software as JSON.">https://usesthis.com/api/software/{slug}</a>
 </p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'hardware', 'macbook-pro', 'index.json')) %>
@@ -64,7 +64,7 @@ title: API
 
 <h5 id="stats-general">Getting general info</h5>
 <p class="summary">This method returns basic site statistics.</p>
-<p><a href="/api/stats" title="Request general site statistics as JSON.">https://usesthis.com/api/stats</a></p>
+<p><a href="/api/stats" title="General site statistics as JSON.">https://usesthis.com/api/stats</a></p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'stats', 'index.json')) %>
 </pre>
@@ -72,8 +72,8 @@ title: API
 <h5 id="stats-gear">Getting gear info</h5>
 <p class="summary">This method returns the top 50 hardware or software items mentioned on the site. You can also specify a given year by adding it to the URL.</p>
 <p>
-  <a href="/api/stats/hardware" title="Request recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a><br>
-  <a href="/api/stats/software" title="Request recent software statistics as JSON.">https://usesthis.com/api/stats/software</a><br>
+  <a href="/api/stats/hardware" title="Recent hardware statistics as JSON.">https://usesthis.com/api/stats/hardware</a><br>
+  <a href="/api/stats/software" title="Recent software statistics as JSON.">https://usesthis.com/api/stats/software</a><br>
 </p>
 <pre>
 <%= File.read(File.join(@site.output_paths[:site], 'api', 'stats', 'hardware', 'index.json')) %>

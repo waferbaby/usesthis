@@ -14,8 +14,8 @@ title: Interviews
 <% if @pagination && @pagination[:page_count] > 1 %>
   <nav id="paginator">
   Page <strong><%= @pagination[:current_page] %></strong> of <strong><%= @pagination[:page_count] %></strong> (<%= @pagination[:item_count] %> interview<% if @pagination[:item_count] > 1 %>s<% end %>):
-  <% if @pagination[:previous_page] %><a href="<%= @pagination[:links][:previous_page] %>" title="Go to page <%= @pagination[:previous_page] %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
+  <% if @pagination[:previous_page] %><a href="<%= @pagination[:links][:previous_page] %>" title="Page <%= @pagination[:previous_page] %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
   /
-  <% if @pagination[:next_page] %><a href="<%= @pagination[:links][:next_page] %>" title="Go to page <%= @pagination[:next_page] %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
+  <% if @pagination[:next_page] %><a href="<%= @pagination[:links][:next_page] %>" title="Page <%= @pagination[:next_page] %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
   </nav>
 <% end %>
