@@ -1,0 +1,5 @@
+{
+  "name": "Git Large File Storage",
+  "description": "A git extension for versioning large files.",
+  "url": "https://git-lfs.github.com/"
+}
