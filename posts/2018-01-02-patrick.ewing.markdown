@@ -1,10 +1,9 @@
 ---
 title: Patrick Ewing
-summary: Game designer (Firewatch), web developer
+summary: Game designer (Firewatch)
 categories:
 - developer
 - game
-- web
 - windows
 ---
 
@@ -18,18 +17,18 @@ I helped make [Firewatch][] along with the good citizens of Campo Santo, and I'm
 
 For the bulk of my development, I'm using a custom-built PC: Intel i7 CPU, two [GTX 1080ti][geforce-gtx-1080-ti] GPUs that are SLI'd together, yadda yadda yadda. I built it just after Firewatch shipped, when I thought making an adventure game in VR might be a good idea. I quickly decided against this, and it's now way-overpowered for the kind of game we're building instead.
 
-I use two 4K displays from LG, a Das Keyboard with Cherry MX switches with some lovely "trans colored" pink and blue pastel key-caps, and some cheesy wireless gaming mouse I wouldn't recommend to anybody. I'm using a Jarvis adjustable-height standing desk and a Focal mono-pod stool for when standing gets old.
+I use two 4K displays from LG, a [Das Keyboard][model-s-professional] with Cherry MX switches with some lovely "trans colored" pink and blue pastel key-caps, and some cheesy wireless gaming mouse I wouldn't recommend to anybody. I'm using a [Jarvis adjustable-height standing desk][jarvis-bamboo] and a [Focal mono-pod stool][mobis-i] for when standing gets old.
 
 #### And what software?
 
 I'm using [Windows 10][windows-10], because Video Games. Not a day goes by that I don't curse this life that I've chosen. It's an inferior OS in almost every way that I use because Apple doesn't ship computers with modern GPUs.
 
-My team (we're called _Chance Agency_) uses [Slack][] for all our creative coordination, and [appear.in][] for video conferencing.
+My team (we're called [Chance Agency](http://www.chanceagency.com/ "Patrick's game studio.")) uses [Slack][] for all our creative coordination, and [appear.in][] for video conferencing.
 
 We're building out game in [Unity][] 2017, using [ink][] as our narrative scripting language and [Spine][] for our animated characters. I write code in [Visual Studio][visual-studio], [VS Code][visual-studio-code] and [Sublime Text][sublime-text], depending on what language I'm in. [Git][] with [Git LFS][git-large-file-storage] for version control.
 
 #### What would be your dream setup?
 
-My dream setup would be a collaborative physical computing environment, something like [Dynamicland](https://dynamicland.org/ "A research group working on a new computing medium.") that worked remotely. I was to lay code components out on a table and see my coworkers physically rearrange them to make new connections. I want our version control to be incorporated into the 3D game environment. I want to set up a scene by manipulating game objects with my hands, like Timoni's amazing Unity VR demos. 
+My dream setup would be a collaborative physical computing environment, something like [Dynamicland](https://dynamicland.org/ "A research group working on a new computing medium.") that worked remotely. I was to lay code components out on a table and see my coworkers physically rearrange them to make new connections. I want our version control to be incorporated into the 3D game environment. I want to set up a scene by manipulating game objects with my hands, like Timoni's [amazing Unity VR demos](https://www.youtube.com/watch?v=FzjxRi5J4XI "A YouTube video of a Unity VR editor tool demo."). 
 
 This is a little more far-fetched, but I'd also love a Mac laptop that can run 3D games at 60fps.
