@@ -1,0 +1,81 @@
+---
+title: Jack Chen
+summary: Software developer (Ferocia)
+categories:
+- developer
+- mac
+- software
+- web
+---
+
+#### Who are you, and what do you do?
+
+Hey! My name is [Jack Chen](https://chen.do/ "Jack's website."), but I'm mostly known as 'chendo' on and off the internet. I love solving problems, building products, and working with technology.
+
+I build things at [Ferocia](https://www.ferocia.com.au/ "An financial software company."), currently building a new digital-first banking experience named [Alt][]. Before that, I was the CTO of a [telemedicine startup][mydr-go], and built the cloud backend for connected lighting at [LIFX](https://www.lifx.com.au/ "A connected lighting company.").
+
+For fun, I like to build things, go fast in go karts, and play video games. My usual creative outlet is photography.
+
+Some of the things I've made that you may have encountered:
+
+- [iTerm2][]'s Semantic History -- Cmd + click a path to open it in your editor
+- [FuzzyAutocomplete][] plugin for [Xcode][]
+- [Shortcat][] -- keyboard-focused productivity tool
+
+I have a keen interest in human-machine interfaces and am especially looking forward to thought-based control when they become a thing (and iron out security issues!).
+
+#### What hardware do you use?
+
+My primary machine is a [15" MacBook Pro][macbook-pro] with the controversial TouchBar. I kind of like it, but it desperately needs haptic feedback.
+
+I always have my [iPhone 6s][iphone-6s] with me, and I usually wear my [Apple Watch S0][apple-watch] assuming I don't forget to charge it the night before.
+
+At work, I use a [LG UltraFine 5K][ultrafine-5k] display with my MacBook Pro open. Sound isolation is provided by a pair of [Bose QC35s][quietcomfort-35].
+
+For desktop gaming, I went a little overboard and put together a [i7 6700k][core-i7-6700k], 32GB RAM, [GTX 1080][geforce-gtx-1080-ti], a bunch of SSDs encased in [Phanteks Enthoo Evolv ATX][enthoo-evolv-atx] with tempered glass sides. I have a [Logitech G910 keyboard][g910] (which I'm kinda meh about) and a [SteelSeries Rival 310][rival-310] for input devices. My headset is a [SteelSeries Arctis 7][arctis-7].
+
+I have a [Nintendo Switch][switch.2], [Xbox One S][xbox-one-s] and [Steam Link][steam-link] for living room gaming.
+
+I enjoy toying with home automation. I use LIFX lights for general lighting and basic information emitters. I have the [Hello Sense][sense] for sleep tracking and environmental sensors, and I reverse-engineered their API to push sensor data into [Datadog][] for monitoring and dashboards. I have a [Google Home][google-home] for voice control, but find the grammar for light control rather limiting.
+
+For energy monitoring, I have a [Smappee energy monitor][energy-monitor], and I push this data into Datadog for monitoring to have alerts set up for abnormal sustained usage.
+
+Data is stored on a [Synology DS2415+][diskstation-ds2415-plus] with mostly [WD Red][wd-red] drives, with an SSD cache. Routing of 100/40mbit internet is done by an [ASUS RT-AC68U][rt-ac68u] running [AdvancedTomato][] for improved bandwidth limiting and QoS, with bandwidth and latency data pushed into Datadog for monitoring.
+
+I recently picked up a [Sony a7r ii][a7r-ii] as an upgrade to my old [Panasonic GH2][lumix-dmc-gh2] and absolutely love it. I also have a [GoPro HERO5 Black][hero5-black] for go karting and occasional snowboarding.
+
+#### And what software?
+
+The basics:
+
+- Dvorak keyboard layout
+- [Safari][] for general browsing (better Accessibility support)
+- [Canary][canary-mail] for email
+- [Calendar][] for calendars
+- [Telegram][] and [Messages][] for messaging
+- [Tweetbot][] for shitposting on the bird website
+- [zsh][] in iTerm2 for terminal/shell
+- [Notion][] for information management
+- [1Password][] for credential management
+- [iStat Menus][istat-menus] for system monitoring
+- [BetterTouchTool][] for shortcut management
+
+Development tools:
+
+- [Sublime Text][sublime-text] for code
+- [Chrome][] for debugging web
+- [Dash][] for documentation
+- [Wireshark][] for network debugging
+- [Git][] for version control
+
+I use BetterTouchTool to set my heavily-used global shortcuts for my most commonly used apps for idempotent shortcuts that require minimal cognitive overhead. Usage stats show I average about 500 invocations on the average work day!
+
+For photography, I used to use [Aperture][] but am experimenting with [Picktorial][].
+
+#### What would be your dream setup?
+
+If we somehow ended up in a world where human-machine interfaces were secure, I'd love to have bionic eyeballs, the ability to naturally invoke mental commands, external memory storage, a thought augmentation engine and my own AI agent -- kind of like Clippy, but less annoying.
+
+Otherwise, I guess I'd settle for unobtrusive high-resolution augmented reality glasses that cover my entire vision with built-in eye tracking. It would run an intent-centric shell of my own design. If safe thought control was viable, I'd use that. If not, positional input would be through eye tracking, and high bandwidth input would be a chorded split keyboard if I was able to learn to use that at an effective speed.
+
+I'd be sitting in some sort of zero gravity chair for minimal stress on the body. Ideally though, I'd love to be able to upload myself to the internet so I can be everywhere and live forever!
