@@ -11,20 +11,26 @@ require 'json'
 
 Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
   next unless ((Time.now - File.mtime(path)) / 60 / 60 / 24).round > 1
-
   data = JSON.parse(File.read(path))
 
   print "- #{data['name']}: "
 
   begin
     response = Faraday.get(data['url'])
-    original_url = data['url']
+    source_url = URI.parse(data['url'])
 
     case response.status
     when 200
       puts 'All good.'
     when (301..308)
-      data['url'] = response.headers['location']
+      new_url = response.headers['location']
+
+      data['url'] = if new_url[0] == '/'
+                      "#{source_url.scheme}://#{source_url.host}#{new_url}"
+                    else
+                      new_url
+                    end
+
       puts 'Updated (redirected).'
     when 404
       data['error'] = 'Dead link'
@@ -42,7 +48,7 @@ Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
     puts 'Invalid URL!'
   end
 
-  if data['url'] != original_url.to_s || data['error']
+  if data['url'] != source_url.to_s || data['error']
     File.write(path, JSON.pretty_generate(data))
   end
 end
