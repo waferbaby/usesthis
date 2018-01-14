@@ -11,6 +11,7 @@ Metrics/BlockLength:
   Max: 30
   Exclude:
     - 'test/**/*.rb'
+    - 'tasks/**/*.rb'
 
 Metrics/ClassLength:
   Enabled: false
