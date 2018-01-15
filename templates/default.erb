@@ -42,16 +42,18 @@
   </head>
   <body>
     <header id="primary">
-      <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
-      <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
-      <p id="tagline">What do people use to get the job done?</p>
-      <nav>
-        <ul>
-          <li><a href="/" title="The most recent interviews."<% if @this.url.match?('/interviews/') %> class="selected"<% end %>>Home</a></li>
-          <li><a href="/categories/" title="All of the interview categories."<% if @this.url.match?('/categories/') %> class="selected"<% end %>>Categories</a></li>
-          <li><a href="/about/" title="General site information and FAQ."<% if @this.url.match?('/about/') %> class="selected"<% end %>>About</a></li>
-        </ul>
-      </nav>
+      <div>
+        <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
+        <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
+        <p id="tagline">What do people use to get the job done?</p>
+        <nav>
+          <ul>
+            <li><a href="/" title="The most recent interviews."<% if @this.url.match?('/interviews/') %> class="selected"<% end %>>Home</a></li>
+            <li><a href="/categories/" title="All of the interview categories."<% if @this.url.match?('/categories/') %> class="selected"<% end %>>Categories</a></li>
+            <li><a href="/about/" title="General site information and FAQ."<% if @this.url.match?('/about/') %> class="selected"<% end %>>About</a></li>
+          </ul>
+        </nav>
+      </div>
     </header>
     <main>
       <%= yield %>
