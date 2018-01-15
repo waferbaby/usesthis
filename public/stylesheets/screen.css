@@ -63,10 +63,18 @@ margin: 10px 0;
 h1,
 h2 {
 color: #fe2e9a;
+display: inline-block;
 font-size: 220%;
-margin: 10px;
+margin: 10px 0;
 padding: 0;
 text-transform: lowercase;
+}
+
+h2:before {
+content: "/ ";
+font-weight: normal;
+padding: 0;
+color: #ffcce6;
 }
 
 h1 a {
@@ -93,7 +101,7 @@ margin: 20px 0 5px 0;
 padding: 0;
 }
 
-header#primary > *,
+header#primary div,
 main {
 margin-left: auto;
 margin-right: auto;
@@ -215,6 +223,15 @@ margin: 0 0 10px 0;
 
   body {
   font-size: 100%;
+  }
+
+  h1,
+  h2 {
+  display: block;
+  }
+
+  h2:before {
+  content: "";
   }
 
   img {
