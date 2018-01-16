@@ -3,7 +3,6 @@ title: Simon Carless
 summary: Gamer (GDC, IGF, Gamasutra, GameSetWatch)
 categories:
 - game
-- suit
 - windows
 ---
 

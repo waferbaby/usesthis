@@ -3,7 +3,6 @@ title: Guy Kawasaki
 summary: Venture capitalist, entrepreneur
 categories:
 - mac
-- suit
 - writer
 ---
 

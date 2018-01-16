@@ -4,7 +4,6 @@ summary: Co-founder, Chief Product Officer (Oyster)
 categories:
 - designer
 - mac
-- suit
 - web
 ---
 

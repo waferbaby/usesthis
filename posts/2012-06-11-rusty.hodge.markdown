@@ -5,7 +5,6 @@ categories:
 - audio
 - developer
 - mac
-- suit
 - web
 ---
 

@@ -4,7 +4,6 @@ summary: Designer (ARRAY), co-founder (EVERYBODY)
 categories:
 - designer
 - mac
-- suit
 ---
 
 #### Who are you, and what do you do?

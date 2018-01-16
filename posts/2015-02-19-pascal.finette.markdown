@@ -4,7 +4,6 @@ summary: Entrepreneur, investor
 categories:
 - entrepreneur
 - mac
-- suit
 credits:
   name: Marko Priske
   url: http://www.markopriske.de/

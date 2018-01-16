@@ -4,7 +4,6 @@ summary: Executive director (CASH Music), musician (Hurry Up)
 categories:
 - mac
 - musician
-- suit
 ---
 
 #### Who are you, and what do you do?

@@ -4,7 +4,6 @@ summary: Writer, designer, publisher (Destructoid)
 categories:
 - designer
 - mac
-- suit
 - writer
 ---
 

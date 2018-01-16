@@ -4,7 +4,6 @@ summary: Founder of The Jacky Winter Group
 categories:
 - designer
 - mac
-- suit
 credits:
   name: Tatanja Ross
 ---

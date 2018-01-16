@@ -4,7 +4,6 @@ summary: Engineer, author, CTO (Empatico)
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

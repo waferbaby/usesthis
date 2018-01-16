@@ -3,7 +3,6 @@ title: Ari Weinzweig
 summary: Co-founder, Zingerman's.
 categories:
 - food
-- suit
 - writer
 ---
 

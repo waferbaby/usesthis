@@ -4,7 +4,6 @@ summary: Product guy, designer
 categories:
 - designer
 - mac
-- suit
 ---
 
 #### Who are you, and what do you do?

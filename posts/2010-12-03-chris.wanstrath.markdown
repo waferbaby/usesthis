@@ -4,7 +4,6 @@ summary: CEO and co-founder, GitHub
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

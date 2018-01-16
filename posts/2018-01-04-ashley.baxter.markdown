@@ -3,7 +3,6 @@ title: Ashley Baxter
 summary: Founder, With Jack
 categories:
 - mac
-- suit
 ---
 
 #### Who are you, and what do you do?

@@ -4,7 +4,6 @@ summary: Executive director, developer (CASH Music)
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

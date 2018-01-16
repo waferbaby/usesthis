@@ -4,7 +4,6 @@ summary: Founder, creative director (Little Wolf Studio)
 categories:
 - designer
 - game
-- suit
 - windows
 ---
 

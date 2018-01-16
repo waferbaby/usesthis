@@ -5,7 +5,6 @@ categories:
 - designer
 - developer
 - mac
-- suit
 - writer
 credits:
   name: David Kidd
@@ -17,7 +16,7 @@ I'm [Waldo Jaquith](https://waldo.jaquith.org/ "Waldo's website."), and I make d
 
 #### What hardware do you use?
 
-Most of my work is done on a late 2013 [13” Retina MacBook Pro][macbook-pro] (late 2013 model) hooked up to a basic 24” Dell LCD. I also maintain a home office where I use a [27” Retina iMac][imac] (which I just bought recently, upgrading from a 2009 iMac), with 32 GB of RAM and a 256 GB SSD. On both I use an [Apple keyboard][keyboard] and mouse, plus an [Apple trackpad][magic-trackpad] on the iMac. I also manage to get a surprising amount of work done on my [iPhone 6][iphone-6].
+Most of my work is done on a late 2013 [13" Retina MacBook Pro][macbook-pro] (late 2013 model) hooked up to a basic 24" Dell LCD. I also maintain a home office where I use a [27" Retina iMac][imac] (which I just bought recently, upgrading from a 2009 iMac), with 32 GB of RAM and a 256 GB SSD. On both I use an [Apple keyboard][keyboard] and mouse, plus an [Apple trackpad][magic-trackpad] on the iMac. I also manage to get a surprising amount of work done on my [iPhone 6][iphone-6].
 
 My home file server is a [Synology DiskStation DS414][ds414], with 8 TB of storage. (Well, 4 TB. The other 4 TB is to back up the first 4 TB.) I use a [1 TB Western Digital Passport drive][my-passport-ultra] to maintain an offsite backup of my most important data.
 

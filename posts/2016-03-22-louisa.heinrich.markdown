@@ -4,7 +4,6 @@ summary: Designer, founder (Superhuman Limited)
 categories:
 - designer
 - mac
-- suit
 ---
 
 #### Who are you, and what do you do?

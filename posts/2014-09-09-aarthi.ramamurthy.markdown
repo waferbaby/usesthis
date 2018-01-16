@@ -4,7 +4,6 @@ summary: Founder (Lumoid)
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

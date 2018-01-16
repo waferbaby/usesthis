@@ -4,7 +4,6 @@ summary: Hacker, speaker (Decide)
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

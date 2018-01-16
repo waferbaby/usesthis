@@ -5,7 +5,6 @@ categories:
 - designer
 - mac
 - product
-- suit
 - web
 ---
 

@@ -6,7 +6,6 @@ categories:
 - designer
 - developer
 - mac
-- suit
 - web
 ---
 

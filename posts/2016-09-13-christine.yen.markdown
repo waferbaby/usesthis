@@ -4,7 +4,6 @@ summary: Engineer, co-founder (Honeycomb)
 categories:
 - developer
 - mac
-- suit
 - web
 ---
 

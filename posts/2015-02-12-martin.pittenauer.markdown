@@ -6,14 +6,13 @@ categories:
 - game
 - mac
 - software
-- suit
 ---
 
 #### Who are you, and what do you do?
 
 I'm [map](http://twitter.com/map "Martin's Twitter account."). Or, if you prefer, Martin Pittenauer. I co-founded [TheCodingMonkeys](http://codingmonkeys.de/ "A Mac and iOS development house.") 11 years ago. We created [SubEthaEdit][], which won an Apple Design Award and kickstarted the idea of collaborative editing. Something now pretty common thanks to [Google Docs][google-docs] and virtually unheard of outside of academia back when we started.
 
-We helped to transform [Toronto's city hall](https://vimeo.com/6175371/ "A Vimeo video of the Stereoscope installation.") into a giant pixel display playing Space Invaders and Pong, co-developed [BoinxTV][], an Apple Design Award winning video production suite and then became a indie game studio driven by our passion for – what could be more German – board-games. [Carcassonne][carcassonne-ios], "which remains a benchmark of masterful iOS translations of classic board games" according to Apple, is the flagship product. Most recently we expanded into original game ideas with [RULES!][rules-ios] a puzzle-game designed by frequent collaborator Marcel-André Casasola Merkle. It won two German developer awards and made the App Store's "Best of 2014" list.
+We helped to transform [Toronto's city hall](https://vimeo.com/6175371/ "A Vimeo video of the Stereoscope installation.") into a giant pixel display playing Space Invaders and Pong, co-developed [BoinxTV][], an Apple Design Award winning video production suite and then became a indie game studio driven by our passion for -- what could be more German -- board-games. [Carcassonne][carcassonne-ios], "which remains a benchmark of masterful iOS translations of classic board games" according to Apple, is the flagship product. Most recently we expanded into original game ideas with [RULES!][rules-ios] a puzzle-game designed by frequent collaborator Marcel-André Casasola Merkle. It won two German developer awards and made the App Store's "Best of 2014" list.
 
 I also write for a feminist pop culture magazine called "[Kleinerdrei](http://kleinerdrei.org/ "A German feminist pop culture magazine.")", work on two podcast shows and experiment with short-form video documentary series about games development called "[Monkey Business](https://www.youtube.com/playlist?list=PLYhEK9exwoaagDnDphIBumnigtAe3gPpL "A YouTube playlist of the Monkey Business documentary series.")".
 

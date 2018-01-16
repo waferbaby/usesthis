@@ -6,7 +6,6 @@ categories:
 - developer
 - mac
 - software
-- suit
 ---
 
 #### Who are you, and what do you do?
@@ -21,7 +20,7 @@ I also sometimes make art!
 
 Recently I have been making a number of Twitter bots, most noteworthy of which are [@TVCommentBot](https://twitter.com/TVCommentBot "David's TV comment Twitter bot.") (a bot that watches live broadcast TV and inserts its own closed captioning) and [@TVFaceBot](https://twitter.com/TVFaceBot "David's TV face Twitter bot.") (a bot that looks for faces on live broadcast TV and tweets them), and a few spin offs like [@StarTrekTVBot](https://twitter.com/StarTrekTVBot "David's Star Trek comment Twitter bot.") (because I've run out of Star Trek episodes to watch) and [@TVCrimeBot](https://twitter.com/TVCrimeBot "David's crime TV comment Twitter bot."). Related to this I am also now developing a website for bots to find love online called [bot.dating](http://bot.dating/ "David's bot website.").
 
-Probably the project that I am most passionate about is [MIDIDogs.biz](http://mididogs.biz/ "David's website where dogs sing TV theme songs.") which is a website where I post videos of digitally synthesized barking dogs singing your favorite TV themes and pop songs along with puntastic titles like "Paw and Order" and "Fluffy The Vampire Spayer" and "Game of Bones" and "Doggie Howser" – I take requests.
+Probably the project that I am most passionate about is [MIDIDogs.biz](http://mididogs.biz/ "David's website where dogs sing TV theme songs.") which is a website where I post videos of digitally synthesized barking dogs singing your favorite TV themes and pop songs along with puntastic titles like "Paw and Order" and "Fluffy The Vampire Spayer" and "Game of Bones" and "Doggie Howser" -- I take requests.
 
 At the most recent [Stupid Hackathon](http://www.stupidhackathon.com/ "A hackathon for stupid ideas.") my project was the low tech "[Yell Hole](https://vimeo.com/206174341/ "David's Stupid Hackathon entry.")" which is basically a bucket with sound insulation that you can put on your head and yell into without disturbing your neighbors.
 
@@ -57,7 +56,7 @@ When creating new video filters typically I will use our free [ISF Editor][isf-e
 
 For making video tutorials [ScreenFlow][] is my favorite. I will sometimes also use [iMovie][] or [QuickTime Player 7 Pro][quicktime-pro] as part of my video workflow. Lately I have been trying to use [Affinity Designer][affinity-designer] and [Photo][affinity-photo] for the basic image and vector design work that I need to do.
 
-Some of my bots make use of open source machine learning techniques – I got started with one called [DeepBelief][deepbeliefsdk] which is still what powers the object detection for @TVCommentBot, though nowadays there are lots of even better libraries like [TensorFlow][] available for this kind of stuff.
+Some of my bots make use of open source machine learning techniques -- I got started with one called [DeepBelief][deepbeliefsdk] which is still what powers the object detection for @TVCommentBot, though nowadays there are lots of even better libraries like [TensorFlow][] available for this kind of stuff.
 
 #### What would be your dream setup?
 

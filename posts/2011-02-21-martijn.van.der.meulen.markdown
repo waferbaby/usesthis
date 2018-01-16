@@ -3,7 +3,6 @@ title: Martijn Van Der Meulen
 summary: Creative Producer (Sony Computer Entertainment)
 categories:
 - game
-- suit
 - windows
 ---
 

@@ -4,7 +4,6 @@ summary: Founder, Blue Bottle Coffee
 categories:
 - coffee
 - mac
-- suit
 ---
 
 #### Who are you, and what do you do?

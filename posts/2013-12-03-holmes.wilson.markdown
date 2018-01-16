@@ -4,7 +4,6 @@ summary: Co-founder (Fight for the Future)
 categories:
 - developer
 - mac
-- suit
 - web
 credits:
   name: Anne Helmond

@@ -4,7 +4,6 @@ summary: Product manager (Kickstarter)
 categories:
 - mac
 - product
-- suit
 credits:
   name: Sarah Lovrien
   url: http://www.sarahlovrien.com/

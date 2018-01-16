@@ -7,7 +7,6 @@ categories:
 - hacker
 - mac
 - musician
-- suit
 credits:
   name: Nokton
   url: https://www.flickr.com/photos/nokton/13623259103
