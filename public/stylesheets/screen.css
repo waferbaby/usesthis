@@ -22,7 +22,9 @@ margin: 0 40px 40px 0;
 }
 
 article header {
-margin-bottom: 30px;
+padding-bottom: 20px;
+margin-bottom: 20px;
+border-bottom: solid 1px #eee;
 }
 
 body {
@@ -105,7 +107,7 @@ footer {
 border-top: solid 1px #eee;
 clear: left;
 font-size: 75%;
-margin-top: 30px;
+margin-top: 20px;
 text-align: center;
 }
 
@@ -185,7 +187,7 @@ padding: 0;
 nav#paginator {
 clear: left;
 font-size: 80%;
-margin-top: 30px;
+margin-top: 20px;
 text-align: center;
 }
 
@@ -193,9 +195,14 @@ nav#paginator span {
 color: #ccc;
 }
 
-nav.categories, time {
-color: #888;
-font-size: 80%;
+nav.categories {
+color: #aaa;
+font-size: 75%;
+margin: 0;
+padding: 0;
+}
+
+nav.categories p {
 margin: 0;
 padding: 0;
 }
@@ -217,6 +224,13 @@ padding: 20px;
 }
 
 span.summary {
+font-size: 80%;
+}
+
+time {
+color: #888;
+display: block;
+margin: 10px 0;
 font-size: 80%;
 }
 
