@@ -7,13 +7,13 @@ categories:
 - usability
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Chris Clark, though literally everybody calls me [Clarko](http://twitter.com/clarko "Chris' Twitter account.") because we hit [peak Christopher](http://www.babynamewizard.com/voyager#prefix=christopher "A page showing the popularity of the name 'Christopher.'") when I was a kid. Disambiguation is key.
 
 Originally from Perth, Western Australia, I work as a designer for [Square][] in San Francisco, which probably outs me as a Photoshop Stockholm Syndrome sufferer and interminable nitpicker. I'm also a partner at [Black Pixel](http://blackpixel.com/ "A company making software for Apple hardware.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A huge part of my job - sketching and wire-framing software interfaces - I do with pen and paper. I never got the hang of carrying a notepad or Moleskine, and to be honest I prefer pages I can spread around the table and make a mess of, so I use regular ol' printer paper and a clipboard to keeps things tidy between doodle sessions. (Fun fact: it's actually the [VoodooPad][] clipboard, borrowed from my housemate [Brad Ellis](http://pacifichelm.com/ "Brad's website."), who worked on the icon many years ago).
 
@@ -27,7 +27,7 @@ But now at Square I sit on a black [Steelcase Think][think]. The office has plen
 
 I also carry a [teeny USB drive][pico] (encrypted, natch) and a [Utili-Key][] cutting/screwing/bottle-opening tool at all times. I use neither on a daily basis, but they're so useful in a pinch that I can't sacrifice either from my keychain. I'm astounded nobody in airport security notices the Utili-Key even though I'm one of those Opt-Out people, and a foreigner, so I get an extra pat-down every time I travel.
 
-#### And what software?
+### And what software?
 
 [Photoshop][], [OmniGraffle][], and [Keynote][] are almost industry standard for software design at this point, at least on Apple platforms. So although I spend an inordinate amount of time in each, and love and hate each of them separately in their special ways, there's not much I can say about them that hasn't been said.
 
@@ -39,14 +39,14 @@ I've also been beta testing a wonderful app named Napkin from my friends [Chris 
 
 It's kinda great that out of this golden age of consumer apps is born a host of tools for the people whose job is to build those apps.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
-I think it’s pretty much there already. Computers and phones and tablets and internet connections are just ridiculously good. Of course they’ll still get better, but I don’t notice their shortcomings now as much as I did when I was running a 75 MHz CPU and a 28.8 Kbps modem. Weirdly what I wish would improve is input.
+I think it's pretty much there already. Computers and phones and tablets and internet connections are just ridiculously good. Of course they'll still get better, but I don't notice their shortcomings now as much as I did when I was running a 75 MHz CPU and a 28.8 Kbps modem. Weirdly what I wish would improve is input.
 
-I’m really horrible with typing. I taught myself how to touch-type out of necessity while hanging out in IRC channels as a kid. My typing style is far from ideal: I over-reach with my left hand to keys that would be easily reached with the right, I hold modifier keys with the wrong fingers… it’s messy. So when I tried ergonomic split keyboards many years ago I gave up because they straight-up broke my ability to type: when I over-reached with my left hand I hit nothing but air. 
+I'm really horrible with typing. I taught myself how to touch-type out of necessity while hanging out in IRC channels as a kid. My typing style is far from ideal: I over-reach with my left hand to keys that would be easily reached with the right, I hold modifier keys with the wrong fingers... it's messy. So when I tried ergonomic split keyboards many years ago I gave up because they straight-up broke my ability to type: when I over-reached with my left hand I hit nothing but air. 
 
-I like the idea of ergonomic keyboards, but I’m happy to prioritize familiarity and proficiency over comfort. I’d love a split keyboard with redundant keys that work as training wheels. It’d also be nice if it didn’t look like a tank, didn’t cost hundreds of dollars, and was hand-delivered by a gang of underwear models. And a pony. And a [Señor Sisig](http://www.senorsisig.com/ "A Filipino fusion food truck in SF.") California burrito.
+I like the idea of ergonomic keyboards, but I'm happy to prioritize familiarity and proficiency over comfort. I'd love a split keyboard with redundant keys that work as training wheels. It'd also be nice if it didn't look like a tank, didn't cost hundreds of dollars, and was hand-delivered by a gang of underwear models. And a pony. And a [Señor Sisig](http://www.senorsisig.com/ "A Filipino fusion food truck in SF.") California burrito.
 
-I’m also big fan of the [Magic Trackpad][magic-trackpad]. Tap to click and three finger drag mean you don’t have to physically push the trackpad, which is kind of tedious (first world problems), but I always end up using a mouse because trackpads aren’t that precise. When you’re making marquee selections in Photoshop it’s really annoying to overshoot by a pixel, then undershoot by a pixel, only to give up and zoom way in so the pixels are bigger hit targets. I could fantasize about higher-resolution sensors in the trackpad, or having the hands of a surgeon, but at some point I’d be trying to slide my finger over a fraction of a fraction a millimeter of glass. That seems silly.
+I'm also big fan of the [Magic Trackpad][magic-trackpad]. Tap to click and three finger drag mean you don't have to physically push the trackpad, which is kind of tedious (first world problems), but I always end up using a mouse because trackpads aren't that precise. When you're making marquee selections in Photoshop it's really annoying to overshoot by a pixel, then undershoot by a pixel, only to give up and zoom way in so the pixels are bigger hit targets. I could fantasize about higher-resolution sensors in the trackpad, or having the hands of a surgeon, but at some point I'd be trying to slide my finger over a fraction of a fraction a millimeter of glass. That seems silly.
 
-I’d love it if the OS had a spring-loaded mode where your finger movements counted for a quarter of the actual mouse movement. Kind of like how the iOS video player gives you [variable-speed scrubbing](http://lifehacker.com/5811660/how-to-control-the-audio-and-video-scrubbing-speed-on-your-iphone "A Lifehacker article on audio/video scrubbing on the iPhone."). If I could hold down the Function and Option keys to slow-mo my mouse, I think that’d be pretty neat.
+I'd love it if the OS had a spring-loaded mode where your finger movements counted for a quarter of the actual mouse movement. Kind of like how the iOS video player gives you [variable-speed scrubbing](http://lifehacker.com/5811660/how-to-control-the-audio-and-video-scrubbing-speed-on-your-iphone "A Lifehacker article on audio/video scrubbing on the iPhone."). If I could hold down the Function and Option keys to slow-mo my mouse, I think that'd be pretty neat.

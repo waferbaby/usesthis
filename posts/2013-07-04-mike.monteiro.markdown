@@ -10,11 +10,11 @@ credits:
   url: http://www.flickr.com/photos/zeldman/8614963668/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Mike Monteiro](http://mikemonteiro.com/ "Mike's website."). I'm a designer by trade, and the Design Director at [Mule](http://muledesign.com/ "Mule's website."). I suppose I'm also a writer. Both are accidental.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Oh man, I just got myself a shiny new 13 inch retina [MacBook Pro][macbook-pro], so I'm still in the honeymoon phase with it. I spend a lot of time staring at the screen and saying "Wow, that's nice." I also have an [iMac][] at work that's starting to get a little long in the tooth which is probably getting put out to pasture as soon as Apple revs their displays, and I get something to hook up to the MBP.
 
@@ -26,7 +26,7 @@ I take notes in a Moleskine, although if Jim Coudal is reading this please tell 
 
 And I write with a Uniball Roller. Fine point. The black ones. All other pens suck.
 
-#### And what software?
+### And what software?
 
 I still use [Photoshop][] quite a bit, but not as much as I used to. I use [Illustrator][] when I need to, but never without breaking into a cold sweat as I dread how much time I'll have until it force quits. (It's still not as good as [Freehand][] was when they killed it.)
 
@@ -40,6 +40,6 @@ Haven't used a feed reader since [Twitter][] launched. And I get that through [T
 
 And I still prefer [Safari][] to [Chrome][], because the Chrome UI is a goddamn eyesore.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 An incredibly big work table lined with bins full of LEGO, sorted by color and shape. What? You did say dream.

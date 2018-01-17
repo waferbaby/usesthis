@@ -8,7 +8,7 @@ categories:
 - technologist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jane Friedhoff, and I'm a creative technologist at The New York Times's R&D Lab by day, and an [independent game developer](http://janefriedhoff.com/ "Jane's website.") by night. I also co-founded the [Code Liberation Foundation](http://codeliberation.org/ "Game development workshops for women."), which is a trans-inclusive organization that teaches women how to program games for free.
 
@@ -18,13 +18,13 @@ At the R&D Lab, I research and make prototypes with new and emerging technologie
 
 So I spend most of my time writing code in one language or another!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I mostly write software, both at the office and at home, so my hardware setup isn't extensive. For game development, I just started using a [15" MacBook Pro][macbook-pro] -- the 2.5GHz one. I had been happily using an older MacBook Pro until it suddenly died, like, 48 hours before I launched Slam City Oracles. Gah! Luckily, all that code was on [GitHub][] and I had a relatively recent backup on my backup drive, a [WD My Passport for Mac][my-passport-mac]. (This is your reminder -- yes, you! -- to back up your computer right now!) Although I was cranky about having to spend that much money, it's really nice to develop on.
 
 I have a drawing tablet as well -- although I'm primarily a coder, it's really nice for when I need to make mockups or put in placeholder art. I use one of the huge [Wacom Intuous 3's][intuos] -- an old one, but it still works fine --which takes up a ton of desk space, but is so comfortable to draw with.
 
-#### And what software?
+### And what software?
 
 When I make games, I primarily develop in [Unity][] and release on [itch.io][]. I used to work in [Processing][] and [openFrameworks][] (using [Xcode][]), but Unity ports to so many different platforms that there's really no beating it. I've made my last couple games in Unity and the release process is so much better. Now, [MonoDevelop][] I have different opinions of...
 
@@ -34,7 +34,7 @@ My absolute favorite tool is [SizeUp][], which allows you to use keyboard shortc
 
 Since I do all the business and PR for my games, I often have to make visual stuff for the press to use. I use the [Adobe Suite][creative-suite] for art-y stuff, and to make gifs, I tend to use either [ScreenFlow][] or QuickTime plus [Photoshop][]. When I'm teaching or writing, I use Google products (gifs in slides, heck yeah), use [Chrome][] for browsing, have the [Google Calendar][google-calendar] widget in my [Gmail][] to make sure my life is in order, and listen to [Spotify][] while I work (usually Boards of Canada or super loud metal, depending on how code is going).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The only thing I'm really hungry for is a huge, wall-mounted second monitor at home. I have one at work, and no matter how big of a screen my home computer has, it always feels so cramped compared to that.
 

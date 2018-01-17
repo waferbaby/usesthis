@@ -10,13 +10,13 @@ credits:
   url: http://samanthacliffe.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Jon Tan](http://jontangerine.com/ "Jon's website."). I'm a designer working mostly with the Web. I try to make things that resonate in the amygdala as well as with the higher functions of the brain; a 'happiness merchant' as one of my clients once said. Occasionally, I masquerade as a scribbler or orator.
 
 I'm part of [Analog](http://analog.coop/ "The Analog web co-op.") - a co-operative formed with friends - where we're currently working on our ace Mapalong web app, and do other things like run [Brooklyn Beta](http://brooklynbeta.org/ "A web conference in Brooklyn.") with our [FictiveKin](http://fictivekin.com/ "Fictive Kin's website.") friends, and our Bristol co-working studio, [Mild Bunch](http://mildbunch.org/ "A co-working studio in Bristol.") HQ. I also co-founded [Fontdeck][] with [Richard Rutter](http://clagnut.com/ "Richard's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I try and keep things as simple and portable as I can.
 
@@ -28,7 +28,7 @@ I have a first generation [iPad][]. I've tried valiantly to make it be a substit
 
 I have a [Fuji X100][finepix-x100]. It's a delight. I've learnt more about photography in the short time I've had it than I ever knew before. Being able to see the range of settings for aperture and film speed is a joy, and it's beautiful to hold and use. I pretty much take it everywhere.
 
-#### And what software?
+### And what software?
 
 Browsers are my friends. Forever. I like [Safari][], [Chrome][], and [Firefox][] equally, but [Safari][] is my current default. I use [Fluid][] for Web app instances. [Google Apps][google-apps] are also my friends. Mostly. [Gmail][] with [Apple Mail][mail] especially.
 
@@ -52,7 +52,7 @@ For day to day communication I use [Linkinus][], the IRC client, [Skype][], and 
 
 I switch around between apps on other devices quite a bit. [Tweetbot][tweetbot-ios] is good fun on the iPhone. [Echofon][] is a stalwart. After a while you learn which does RTs, or shortens URLs, or allows drafts in the form I prefer. A common theme, I think, is an appreciation of the platform technology rather than the clients with all the services I use.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 ###
 

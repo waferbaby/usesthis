@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Amy Nguyen](https://twitter.com/amyngyn "Amy's Twitter account.") and I'm an infrastructure software engineer. Right now, I work on the [Stripe][] observability team, which is the team that helps others "see" what's going on with their systems. I used to do the same type of work at [Pinterest][], and before that, I was studying computer science ([systems](http://csmajor.stanford.edu/Tracks.shtml "The available tracks for a computer science degree at Stanford.")) and philosophy (ethics) in college. You could say I have a need to get to the root of everything, both in life and with servers. Outside of work, I love [reading about self-improvement](https://www.pinterest.com/amyngyn/life-curriculum/ "Amy's self-improvement pins on Pinterest."), cooking, and [writing](http://blog.amynguyen.net/?page_id=318 "Amy's weblog posts.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work, I just use what my company gives me. I have a [2017 15" MacBook Pro Retina][macbook-pro] with a Touch Bar (ugh), second monitor, an [Anker ergonomic mouse][2.4g-wireless-vertical-ergonomic-mouse], and an [Apple Magic Keyboard][magic-keyboard]. I used to have wrist pain when using the Apple trackpad (though I love the gestures), so I'm making a bigger effort to learn about ergonomics. I also have the [Bose QuietComfort 35 noise cancelling headphones][quietcomfort-35], which have been a game changer. I used to use the wired version, but I found myself getting tangled up in my bag straps all the time. Now I can comfortably sit on the train with no tangling! I love them so much that I might buy a second pair so I can keep one at work and one for home/commuting.
 
@@ -23,7 +23,7 @@ For non-electronic things I love, I always keep a notebook and pen at work. Righ
 
 I know you probably weren't asking about this, but I feel like I would be doing a disservice to your audience if I didn't also mention that I have a [phone mount][easy-one-touch-car-and-desk-mount] on my bathroom mirror so I can watch videos while I brush my teeth. It's very important to me.
 
-#### And what software?
+### And what software?
 
 I started using [vim][] in college because I thought it would make people respect me. Now I use it because I have Stockholm syndrome and a sick [.vimrc](https://github.com/amyngyn/dotfiles/blob/master/.vimrc "Amy's .vimrc config file.") I can't abandon. Every few months, I think that I should try a modern editor like [Sublime][sublime-text]/[Atom][]/[IntelliJ][intellij-idea]/[PyCharm][] etc., but I'm too entrenched to figure out all of my workflows in another IDE. Other than that, I use [iTerm2][] and [tmux][] - I try to keep it no frills when it comes to development. I don't even remap my escape key to capslock. I love [scm-breeze][] for making [git][] easier - it adds some really great shortcuts and highlighting. The other application I want to give a shoutout to is [Spectacle][] for [Mac OS X][mac-os-x] window management. I'm a big fan of keyboard shortcuts and Spectacle is great for that.
 
@@ -35,7 +35,7 @@ For everything else on my phone, I'm usually on [Twitter][twitter-ios], [Reddit]
 
 One miscellaneous thing I want to share in case it helps other people: I just found out a week ago that there's an iOS/Android app for the Bose QuietComfort 35 headphones called [Bose Connect][bose-connect-ios]! It allows you to toggle noise canceling (which was not possible before) and customize some other settings. I'm really happy about this, because I hate being snuck up upon when I have headphones on.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 *takes deep breath* I want an Amy-sized desk where my back is against a wall and there are potted plants everywhere, natural sunlight that doesn't directly shine in my face, a nearby water cooler, a bathroom on the same floor, and at least three cats at all times. Also Bluetooth headphones that understand how to never embarrass me at work and never run out of battery.
 

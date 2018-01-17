@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Forrest M. Mims III](http://www.forrestmims.org/ "Forrest's website"). My degree is in government (Texas A&M). I served in Vietnam as an intelligence officer and spent three years working with high power lasers at the Air Force Weapons Lab. Since 1970 I've been a full time freelance writer and photographer and occasional science instructor and science consultant. My best selling book is "[*Getting Started in Electronics*](http://www.amazon.com/gp/product/0945053282/ "Forrest's book on Amazon.")" (1.3+ million sold).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My first computer was a crude hybrid machine that translated 20 words of Russian into English. I designed and built it for my high school science fair project back in 1962. It's now in the Smithsonian (go to [DigiBarn](http://www.digibarn.com/ "The DigiBarn computer museum.") and enter Mims in search box). My second computer (actually a calculator) was a Japanese soroban, the first of a series of abacuses I've collected.
 
@@ -24,11 +24,11 @@ Since those early days I've gone through many different desktops and laptops, mo
 
 In 2014 I graduated to the [Surface Pro 3][surface-pro-3] with an i7 processor. This machine is my complete office, and the Surface Pro 2 and Toshiba are now my main backups. The giant Dell desk machines and their giant monitors have been retired. I just returned from the 24th year of calibrating my instruments at Hawaii's Mauna Loa Observatory. The same Surface Pro 3 I use here in Texas accompanied me to Hawaii and is now back home. How amazing to be able to take my main work PC anywhere. It nicely fits inside a black Samsonite 10.1" Shuttle along with a mouse, cables, Netgear hotspot and a [2TB Passport Ultra][my-passport-ultra] (with 200,000+ photos and all my work).
 
-#### And what software?
+### And what software?
 
 For many years [WordPerfect][] was my favorite word processor. I still like WP but have moved to [Microsoft Word][word] for better compatibility. [Lotus 1-2-3][lotus-1-2-3] was long my preferred spreadsheet. After Lotus faded away, I moved to Excel and [OpenOffice][]. I now use Excel and [LibreOffice][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would need a much bigger desk. My current desk is a roll top that has convenient slots and drawers for all kinds of desktop stuff. But it's usable only with a laptop or the Surface Pros. Someday I may switch to a tabletop with room for 3 giant monitors, two connected to the Surface Pro 3 and one for a network PC.
 

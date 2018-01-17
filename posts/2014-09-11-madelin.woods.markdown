@@ -9,13 +9,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Madelin Woods](http://www.madelinwoods.com/ "Madelin's website."), an engineer, artist, illustrator, and urban gardener. I live in San Francisco.
 
 I have been working at [Square][] for the last 3 years, as a front-end engineer, building out the UI and front-end architecture for a handful of our web products. I'm currently working on our Receipts team, but I've helped launch products like [Square Market][square-market] and gift cards in the past. I tend to hack around a lot, making cool things with code, watercolors, laser cutters, and popsicle sticks.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I love my [11" MacBook Air][macbook-air] - though it's not super great for running a lot of services and applications at work, it's light and doesn't make too many funny noises. When I'm at my desk, I'll typically have it plugged into a [Cinema Display][cinema-display] for the bigger screen. I do a lot of pair programming, so I'm constantly jumping between different people's computers and [iMacs][imac] set up as pairing machines.
 
@@ -25,7 +25,7 @@ I have a black [iPhone 5][iphone-5]. I use it so much that it dies at least once
 
 In attempts to remove myself from electronic gadgets and screens all day, I've taken up physical art as a practice. I carry a Moleskine sketchbook with a [Quiver][double-pen-quiver] to hold my Muji 0.5 black pens. I also use a Windsor & Newton travel watercolor set, for coloring on the go, and have an assortment of Canson mixed-media sketchbooks for the thicker paper. I have so many pens and brushes that my girl friend [Anastasia](https://www.facebook.com/armadilloshop "Anatasia's Facebook page.") hand-made me the most perfect pencil case. Water's kind of hard to carry around, so I use a [Zig Water Brush2O Pen][zig-water-colour-system-h20-brush].
 
-#### And what software?
+### And what software?
 
 I run whatever the latest version of [OS X][mac-os-x] is, and am usually programming in [Ruby on Rails][rails], [JavaScript][] ([Ember][] & [CoffeeScript][] when possible), Slim and [Sass][]. I write my code in [Sublime Text 2][sublime-text] (tricked out with a ton of extra installed packages), use [iTerm2][] for my terminal, the latest version of [Chrome][] for browsing and development, and [Divvy][] to organize my screen.
 
@@ -37,7 +37,7 @@ I use Paper on my iPad for drawing, and have been using [TuneIn][tunein-radio-io
 
 I read a lot, and usually just use [iBooks][ibooks-ios] on my iPad, because I like being able to highlight things and refer back to them. I've been using [Yo][yo-ios] to bug all my friends and disrupt entire meetings. I'm really bad at being on time for things, so [Uber][uber-ios] helps with that.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A big room full of plants, an easel, never ending supply of canvases, paints, papers, and brushes. Occasionally I find this place, it alternates between [my apartment](http://instagram.com/p/ixIf7Qm4pR/ "Madelin's photo of her apartment."), a secret room I found at work, and the magic of [Airbnb](https://www.airbnb.com/rooms/897554 "An Airbnb apartment in Paris."), but I really just need to find the time to enjoy it.
 

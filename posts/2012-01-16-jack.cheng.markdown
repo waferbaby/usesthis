@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jack Cheng](http://jackcheng.com/ "Jack's website."), a writer and designer living in Brooklyn. I co-founded a digital product development studio called [Disrupto](http://disrupto.com/ "Jack's development studio"). Our latest project is [Memberly](http://member.ly/ "A subscription service platform."), a platform for subscription services. On my [blog](http://blog.jackcheng.com/ "Jack's weblog."), I write about time, memory, technology, and how the three fit together in our daily lives.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm a big believer in [carving out spaces for different activities](http://www.alistapart.com/articles/habit-fields/ "Jack's ALA article on habit fields.") and my work is distributed among three epicenters: the dining table in my apartment, the desk in my bedroom, and my desk at the office.
 
@@ -29,7 +29,7 @@ I recently bought a [Nikon D5100][d5100] with a 50mm f/1.8 manual focus lens. I'
 
 I have the original [iPad][], but have hardly touched it since I got my third-generation [Kindle][], which sits on my nightstand. I love my Kindle. It's crude and ghosty and imperfect and the keys are like sandpaper and the whole thing has the responsiveness of a fax machine or someone with a Sunday morning hangover. It's endearing in that way, reminds me of the technology I grew up with.
 
-#### And what software?
+### And what software?
 
 For building websites, here's a typical workflow: I sketch out wireframes in my MUJI notebook and snap pictures of them using [ScannerPro for iPhone][scanner-pro-ios], which automatically adjusts the contrast, converts them to a black and white multipage PDF, and uploads it to a [Dropbox][] folder. I open the scans in Photoshop, use them as a starting point for the mockups, and once those are done, I code the front-end with [Textmate][], working in a [Haml][]/[Sass][]/Stasis stack.
 
@@ -47,7 +47,7 @@ I use [Scrivener][] for longer-form writing, which has a ton of features I don't
 
 On my phone, the only third-party apps I have installed aside from ScannerPro are the [Kindle app][kindle-ios], [Instapaper][instapaper-ios], [Recco][recco-ios] and [Instagram][instagram-ios], along with the major social networking apps, which I keep in folder called "Do Not Touch."
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I was going to say it'd be great to have access to a wider variety of spaces to work from, but I realized I should just get out more because I live in New York City, a place overflowing with such spaces. I was at the [Morgan Library](http://themorgan.org/home.asp "The Morgan Library and Museum in New York.") a few weeks ago, taken aback by Pierpont Morgan's study, with its secret vaults, couches upholstered in lush velvet, and ornately framed renaissance paintings hanging on walls clad in red damask, all enveloping a desk that was over a hundred years old. It's the kind of place where you feel like you should be sitting with a quill pen drafting a constitution. From behind that desk, I thought to myself: it'd be pretty rad to sit here and write poop jokes.
 

@@ -6,7 +6,7 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Peter Hollo. I have a degree in pure maths & philosophy and a qualification in book editing which together have found me working in IT as both a programmer and sysadmin/desktop support guy - but that's not why I'm here. I'm a musician. I've been a cellist in bands for over 20 years - I'm not a classical musician anymore. At least equally, I'm a music fan and DJ, with a long-running show [Utility Fog](http://www.frogworth.com/utilityfog/ "Peter's radio show.") on Sydney's [FBi](http://fbiradio.com/ "The Australian radio station.") radio.
 
@@ -18,7 +18,7 @@ My "post-everything improv" quintet [Tangents](http://www.tangentsmusic.com/ "Pe
 
 And my indietronic trio Haunts combines cello, keyboards, samples and drum machines and has actual songs. Album due out early this year.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 As a solo artist, it took me a surprisingly long time of struggling with primitive soft synths & samples before I realised that I have some rather obvious sound sources at hand, viz my cello and piano. The cello remains my most important piece of hardware in music-making.
 
@@ -28,7 +28,7 @@ Currently I've been using a basic combo of (borrowed) [Korg nanoKONTROL][nanokon
 
 But my technological grounding in performance has for a long time been the good ol' looping pedal. They're also so ubiquitous that people write thinkpieces about freeing ourselves from them, but I still find so much to say with my little [Line 6 DL4][dl4]. The green pedal with four switches and four knobs. You can double the loop length, thus dropping anything in the current buffer down an octave (and it sounds gloriously lo-fi!) - or vice versa. You can reverse the loops - and then record some more forwards over the top. You can lay primitive but lovely delays over the top. And the loop lengths are determined purely in performance - start recording, then start overdubbing.
 
-#### And what software?
+### And what software?
 
 When I moved over to the Mac world, it was clear from the start that my love of Apple's computer hardware and basic OS is about equalled by my dislike for just about all their software, with [iTunes][] staring out from the top like a baleful Eye of Sauron (more an Ear of Sauron perhaps). There's no way that Music Fan Me could countenance having to use that piece of crap for music library maintenance, tagging, playlist management or even just listening, so ever since I moved to Mac I've run Windows virtually on the Mac in order to use the king of audio players, [foobar2000][]. For masstagging (because you can never trust third-party databases, especially for esoteric music, especially if you care about consistency - even though the Discogs tagger component is essential), for file naming and arranging, playlist management and smart autoplaylists, for the incredible waveform seekbar component, and much more, there is nothing else, in any OS.
 
@@ -36,7 +36,7 @@ The length of the preceding paragraph probably indicates just how much music col
 
 There's an awful lot of boring, uncreative Ableton pap out there in the electronica world, no doubt. It's easy. But there's no reason you can't also run your live, acoustic instruments through complex patches, automate unusual parameters in drum machines, timeshift samples, then layer more live sounds on top, or overdrive your wolf samples to terrifying effect a la Ben Frost if you like. To my mind most modular synth buffs are creating masturbatory yawnfests too - it's what you do with the tools that counts.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The controllers I have in my current setup, as mentioned above, have their drawbacks - and while creativity draws its strength from limitations, eventually standalone looping pedals become frustrating and the musical structures you can create inevitably repeat themselves.
 

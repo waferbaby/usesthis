@@ -6,11 +6,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a [drummer/musician](http://pete-zeldman.com/ "Pete's website.") and [rhythmic conceptualist](http://www.youtube.com/watch?v=Q_GG_ItfTnI "A vide of Pete on YouTube."), who has noticed the beauty of both standard and non-standard rhythm.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I am using a [Mac Pro][mac-pro] 64 bit workstation, a [MOTU 828 MK3][828mk3-hybrid] Hybrid Firewire & USB Audio Interface and a lot of external hard drives.
 
@@ -20,11 +20,11 @@ I use extra hi hats that may even be plastic hi hats at times. I have 9 pedals t
 
 The cymbals I use are Zildjian and are mainly 13" and 14" hi hats, 16" china, 20" ride cymbal, 15" and 16" crash cymbals and other funky junky cymbals for effect. When I record, my favorite Bass drum mic is an Electro voice [EV RE20][re20], RE-series dynamic large diaphragm microphone. I use AKG 451 mics as overheads and they are great! [Sennheiser 421 mics][md-421] for toms. [Shure SM57 mics][sm57] for snares. These are my favorite mics but I use others as well.
 
-#### And what software?
+### And what software?
 
 I am using [Apple Logic Pro][logic-pro] studio to record everything. [Final Cut Pro][final-cut-pro] (for video stuff) but will probably learn Avid soon.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love to have a real time rhythmic analyser, almost like a geiger counter, that would do live real time transcriptions based on parameters that I could punch in like BPM (beats per minute) and start to finish lengths. I have always noticed the beauty in rhythms that occur in nature. Similar to the beauty of the fractal geometry of tree branches. It's great to use some of the rhythms that nature creates to discover new sounding things. Sometimes there are rhythmic events that occur through man-made means as well like fireworks put to the backdrop of a beat. 
 

@@ -9,7 +9,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Bob Nystrom](http://journal.stuffwithstuff.com/ "Bob's website."), but, alas, not the [1980 Stanley Cup winning right winger for the New Jersey Islanders](http://en.wikipedia.org/wiki/Bob_Nystrom "The Wikipedia entry for Bob Nystrom.") Bob Nystrom. Instead, I'm a scrawny programmer nerd who couldn't grow a mustache if he tried.
 
@@ -21,7 +21,7 @@ These days, I work at Google on [a programming language called Dart][dart]. I am
 
 Every now and then, I ooze out of the Internet into meatspace and give [a talk](http://www.infoq.com/presentations/dart-introduction "Bob's talk on the Dart language.") on one of the above. I also write lots of little [open source projects](https://github.com/munificent/ "Bob's GitHub account."), mostly related to programming languages or games. Back before I had kids (read: "free time"), I was an [avid photo nerd](https://www.flickr.com/photos/bobisbob/ "Bob's Flickr account."), but these days I rarely get around to processing the few photos I take.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 About two years ago, I updated my work laptop to an SSD [MacBook Pro][macbook-pro] with a Retina display. It was damn near a religious experience for me. I love love love type, and seeing screen fonts with such gloriously sharp edges basically made all other hardware considerations irrelevant -- though the SSD part was nice too.
 
@@ -35,7 +35,7 @@ At home, I also have a 27" [iMac][] I use for photos and that I used for doing t
 
 The illustrations in my book are hand-drawn on an old graph paper notebook I found in a closet using a [Pilot Precise V5 pen][precise-v5]. I love the feel of ink on paper and kind of fetishize moleskines. But I'm also a lefty who smears ink everywhere he writes, so I've basically accepted that a computer is the best input device for me 99% of the time.
 
-#### And what software?
+### And what software?
 
 I write all of my prose in [Sublime Text][sublime-text], usually in [Markdown][], even my book. I don't think Markdown is the greatest markup format -- and having written a Markdown parser, I know exactly how hairy it is -- but after writing thousands of reddit comments in it, it's basically muscle memory at this point.
 
@@ -49,6 +49,6 @@ My laptop has [f.lux][] running on it which helps keep my sleep schedule happy w
 
 These days, music makes its way to me through [Google Play Music All Access][google-play-music] a wonderful service with quite possibly the world's worst brand name.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm sublimely happy to just be on a couch with my Retina Mac and some headphones. A giant Retina display on a desktop might be nice. But, really, the one thing that would massively improve my setup is more time. Between work and kids, there's just not enough hours in the day for all of the projects I want to hack on. Can I ask for a [Time-Turner](http://harrypotter.wikia.com/wiki/Time-Turner "The Harry Potter wiki entry for Time-Turners.") to be in my ideal setup? If so, that.

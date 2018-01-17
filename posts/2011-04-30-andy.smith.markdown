@@ -11,11 +11,11 @@ credits:
   url: http://www.flickr.com/photos/jsamsa/3402960203/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a core developer on OpenStack for Rackspace, coding the next big foundations for infrastructure and platform-as-a-service. I was a partner at a small company, Anso Labs, that got acquired by Rackspace in February of this year. Prior to that I've done interesting things at Google, Jaiku and Flock. I write at [http://term.ie](http://term.ie "Andy's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main machine right now is last year's 15" i7 [MacBook Pro][macbook-pro] with the high res screen, though within a week or so I should receive the latest top-of-the-line model this time with a big screaming SSD, which really helps when you need to start up virtual machines within virtual machines on your real machine all day.
 
@@ -33,7 +33,7 @@ When away from my computer I usually have a recent Android phone, right now an [
 
 I also have an [Xbox 360][xbox-360], and both a U.S. and a European [PS3][] hooked up to a 1080p projector, for when one really needs to zone out with a long-winded RPG or run some cars into things.
 
-#### And what software?
+### And what software?
 
 I'm a Linux guy at heart, usually the latest version of [Ubuntu][], but I do use [OS X][mac-os-x] on my laptop, mostly because it is useful having another OS around to run some apps just don't have decent counterparts, though in the majority of cases I think most Linux apps I use outshine their OS X counterparts. In most cases I don't agree with Apple's opinions as to how I should use my hardware and software so I try to avoid them as much as possible.
 
@@ -53,6 +53,6 @@ My phone is currently running last night's nightly build of [CyanogenMod 7][cyan
 
 Oh, and I play a lot of [Starcraft 2][starcraft-2].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love to have some non-Apple hardware that was close to being as sleek and stylish as the current Macbooks, that had a great open source photo management app and a bunch of horsepower. I also want a beast of desktop box with too much storage and too much power and a huge graphics card that was dead silent and is hooked up to a 30" monitor and my current keyboard, mouse and mousepad. I also hope that one of the Android tablets coming out will be awesome enough that somebody will make an app for it that lets me annotate mockups and diagrams.

@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Julia Evans. I write a [blog](http://jvns.ca/ "Julia's weblog") about programming, where I talk about how stuff works and occasionally post fun software I wrote (did you know how relational databases work? They use [btrees](http://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/ "Julia's post on SQLite.")! Here's why, and how it works! It's really cool!) I also draw [zines](http://jvns.ca/zines/ "Julia's zines.") to explains topics that I am especially excited about and make some [comics/drawings](http://drawings.jvns.ca/ "Julia's artwork.") which I usually post at [@b0rk](https://twitter.com/b0rk "Julia's Twitter account.").
 
@@ -16,7 +16,7 @@ Basically I think a lot of explanations of programming stuff are both unnecessar
 
 I really like to figure out how computer things work. I work as a software engineer at [Stripe][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [ThinkPad X230][thinkpad-x230] and I like it. My choices about what to type on are pretty boring. I don't own a monitor or a mouse or a keyboard.
 
@@ -24,7 +24,7 @@ But I have a story about hardware for comics! I started drawing comics one day b
 
 I keep my spices in 32 125ml Mason jars and my beans & grains in 18 larger jars. It makes me happy to see dozens of jars in my kitchen every day.
 
-#### And what software?
+### And what software?
 
 I write my blog in the [Hugo][] static site generator. I commissioned a theme for it from my amazing friend [Lea](http://www.instamatique.com/ "Lea's website.") (who works on [programming 3D knitting machines](https://www.youtube.com/watch?v=02h74L1PmaU "A YouTube video of Lea's StrangeLoop talk about 3D knitting machines.")!!). When I want someone to review my writing, I use [Google Docs][google-docs]. I code in [Sublime Text][sublime-text] or [vim][], and use [git][] for everything. I don't really keep backups and most of the stuff I really need day-to-day is on my public github anyway. My shell is [fish][] and I run [Ubuntu][] 16.04 with [Unity][unity.2]. I write [Python][], [Go][], [Ruby][], and [Rust][] mostly. I've been using Linux on my personal computer for 13 years now so I'm pretty attached to it. This year I set up wireless printing on Linux and it only took like 40 minutes! We truly live in the future of Linux on the desktop :)
 
@@ -48,6 +48,6 @@ Anyway, I use [Squid][squid-android] on Android and it's very very good. There a
 
 I use it to draw small drawings that I put on Twitter, 20-pages zines (like about computer networking!) and slides for my talks. It's great.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't really like desks. I spend most of my time working on the couch, so I would like a couch that is good for my back. Also a tablet that has hardware as nice as the Apple Pencil but runs Android.

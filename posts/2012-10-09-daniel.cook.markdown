@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Daniel Cook and I run our design experiments at the game company [Spry Fox](http://spryfox.com/ "Spry Fox's website."). I've been lucky enough to have 10 of millions of people play the games I've worked on. It is very strange meeting people that played my games since what I do is pretty geeky and solitary. My games range from shooters like [Tyrian][] and [Realm of the Mad God][realm-of-the-mad-god] to more tactical designs like [Steambirds][steambirds-survival] and [Triple Town][triple-town]. I'm really interested in design invention; how do we create new forms for games that push the medium forward. I don't want to make yet another adventure game. Instead let's try to create an entirely new genre. These days, we are exploring interesting multiplayer experiences and figuring out what happens if you treat a game like a decade long service instead of a consumable boxed product. 
 
 Our team works remotely so a big challenge is how to be innovative when you aren't constantly interacting face-to-face. As a side project, I run [Lostgarden.com](http://www.lostgarden.com/ "Daniel's game design weblog.") where I talk about game design. The Creative Commons art that I give away on that site has been used in dozens of released games at this point. Actually, Khan Academy just started up their new CS courses and I was delighted to find out they were using some of my art. You never know where a seed is going to blossom. 
  
-#### What hardware do you use?
+### What hardware do you use?
 
 I have two setups tailored to different tasks. My main station is a 27" monitor with a mid-tier Dell with 12 gigs of ram. This is where I do art and a little writing. I don't bother much with the details of my computers since the only things I've noticed that impacts my output is the size of my screen and having enough memory to keep multiple [Illustrator][] files and prototypes running simultaneously. There's also a Wacom tablet as well for when I do digital paintings but lately my art has been leaning towards a more graphic vector style so it doesn't get quite as much love. 
 
@@ -22,7 +22,7 @@ My second machine is an overly solid [15.6" Thinkpad T530][thinkpad-t530] with a
 
 Perhaps the most critical element of my home setup is a giant bay window looking out over some lovely trees. We live in such a technological cocoon, that is seems important to connect with nature just a little. A good day is when I 'm drinking a nice cup of oolong and I raise my gaze past my monitor to see birds flocking over the evergreens. Of course during Seattle winters, that means watching wet crows, but I love 'em all the same. 
  
-#### And what software?
+### And what software?
 
 The bulk of our conversation happens in [Skype][]. We've got each team set up in chat rooms and then we have on topic conversations throughout the day. What is great about this is that it is asynchronous. If you are in the middle of something, then a message from someone is stored until you are ready to read it. Since it is a team chat, everyone sees the conversation so there is less trouble keeping people up to date. When conversation starts to rathole, a quick voice chat usually brings things to a conclusion. There's also a screen sharing function. When I want to run a playtest for a game, I just call up someone on my Skype list, send them the URL to the latest online build and get them to share their screen. 
 
@@ -34,7 +34,7 @@ Early in my career, I was a big fan of co-located teams since I couldn't imagine
 
 For the games themselves, we've used [Flash][], [Unity][] or HTML. Essentially, we want to be cross platform so that once we've found an interesting game mechanics, we can quickly distribute it to as many people as possible. Having one codebase per game makes this a lot easier. 
  
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I carry a paper notebook with me everywhere. It is light, easily passed around the table. It can deal with scribbles, lists, prose and being rained on. Tablets are so close to being a replacement, but no one has yet figured out how to make touch devices into productivity tools. There are some rough attempts, but the majority of folks are using tablets as media consumption devices. 
 

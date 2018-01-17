@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Chad Whitacre](https://www.gittip.com/whit537/ "Chad's Gittip account."), and I like to mess with stuff. I'm currently trying to change the economy with a project called [Gittip][]. It's Kickstarter for people. I'm drinking my own kool-aid by trying to [make a living](http://blog.gittip.com/post/27072581481/i-believe-in-gittip "Chad's post on leaving his job to work on Gittip full-time.") on the site itself.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For years I've been waiting to show off this totally sweet IKEA standing desk (discontinued) with a [Kango 930][kango-930] perching stool and three Dell monitors (the middle 23" one in portrait, and the left one mounted on a Tyke monitor mount) connected to a Radeon HD 5450 inside an [OptiPlex GX620][optiplex-gx620] (Dell's business line, much better long-term support) running Windows, plus [FreeBSD][] under [VMWare][vmware-workstation] ("poor man's mac"), with a spot under the Tyke-mounted monitor for a laptop connected via [Synergy][] to a refurbished [Kinesis Essential][essential] with custom brass legs and a [Kensington Expert Mouse][expert-mouse] mounted in the middle, and with all the cables stored in an old metal milk box. But then my day job bought me a 15-inch [MacBook Pro][macbook-pro] and now I just use that by itself, even if I'm standing at the desk. Kinda sad, I rarely turn on the Dell anymore. I guess I don't need the real estate after all. I still use my [HP 1320tn][laserjet-1320], though.
 
@@ -25,7 +25,7 @@ I inherited this really nice leather brief case from my wife's grandfather that 
 
 Can I also tell you about our waffle iron? It's a Wagner double twin, patented in 1910, probably used in a hotel. It's 35 pounds of cast iron and has nice wooden handles on the four paddles. You heat it over a gas range. I believe that the waffles I make on it are really, really good.
 
-#### And what software?
+### And what software?
 
 I spend most of my time between [Vim][] and [Chrome][]. I run Vim under [screen][] and [bash][]. My favorite bash aliases are l="clear && pwd && ls -FGl" and u="cd .. && l". I just use [Terminal][]. I tried [iTerm2][] but it didn't stick. [PyFlakes][] definitely did stick. I get a lot of mileage out of [Python][], and I wrote a web framework called [Aspen][], which I love. I use the Google search engine to search the World Wide Web. I have an old VPS with John Companies, with newer projects going up on [Heroku][]. I love [Postgres][postgresql] almost as much as Python and greatly appreciate Heroku's Postgres service. I'm also a fan of [Git][], [GitHub][], [Gmail][], [Google Real-time Analytics][google-analytics], [Pandora][], [IWantMyName][], [Stripe][], and [Tumblr][]. There are some ridiculously good tools out there these days.
 
@@ -35,6 +35,6 @@ I use a stripped down file format to [track my time](http://blag.whit537.org/200
 
 Okay, so I discovered that [pâte à choux](http://en.wikipedia.org/wiki/Choux_pastry "The Wikipedia entry for Choux pastry.") makes really killer waffles. It's the same batter you use for éclairs, cream puffs, and [french cruller doughnuts](http://articles.latimes.com/2010/jun/03/food/la-fo-doughnutsrecd-20100603 "A recipe for French cruller donuts."). It was given to me in a dream to use it for waffles. The way the paddles are on our waffle iron you end up with twelve little four-bite poppers. Sometimes I'll fry an egg in the waffle iron and make an egg sandwich with a waffle cut in half. For classic sweet waffles my favorite is fresh berries and whipped cream from fresh raw milk. Mmm.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My family and I would be Amish (we used to subscribe to the national edition of [The Budget](http://www.thebudgetnewspaper.com/ "A local newspaper in Ohio."), which is basically the Amish blogosphere).

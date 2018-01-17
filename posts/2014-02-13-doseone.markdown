@@ -7,13 +7,13 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [doseone](http://doseonesite.tumblr.com/ "Adam's Tumblr site."), I make things. Always have, always will.
 
 Most of which is music and prose, but I also rap, paint, sing, do sound design for video games and film and MOST importantly house a high-quality elderly American cat.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Soooo, my home recording adventures began with a [BOSS Dr. Sample SP202][sp-202-dr-sample] and Tascam 4/8 tracks, and some mic that was the equivalent of singing through a DogDick.
 
@@ -25,7 +25,7 @@ And then sit with them in a separate instance, on COFEE, and mine/chop up said l
 
 For me, this process differs dramatically from song to song, but also remains rather intact as well. I like music and recording to be "full of surprises" so in general my home studio and inner musician are wired for spontaneous composition and capture. The rest is a matter of time spent mixing, editing, and being selective and honest with myself about what "makes" the song and what "takes away from it".
 
-#### And what software?
+### And what software?
 
 [Ableton Live][live] is my "Baby's Momma", for home recording and live playback, and I use [Push][], [Keith McMillen QuNEO][quneo], [touchAble][touchable-ios] and a [Novation LaunchPad][launchpad] to steer it on stage/at home.
 
@@ -35,7 +35,7 @@ I use the QuNeo at home as well, as a FINAL pass effects gauntlet. I have severa
 
 Live, I use Live as the motherbrain, and I trigger rather elaborate clip arrangements via the Launchpad and effect/solo/add to them with the QuNeo, which again I have MIDI mapped to high hell, so it supplements each Live set. I do a similar thing with the Push, which allows for chromatic playback additional fun, but using the Launchpad with the QuNeo allows me far more a "customizable playback" experience.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Same shit, EXCEPT:
 

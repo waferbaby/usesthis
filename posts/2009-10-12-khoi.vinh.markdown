@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm the design director for [NYTimes.com](http://nytimes.com/ "The New York Times.") and the author and proprietor of a popular blog at [Subtraction.com](http://subtraction.com "Khoi's website."), where I write about design, technology and culture.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 This is the hardware setup that I have at the office, which in some ways is an updated version of what I have at home.
 
@@ -51,7 +51,7 @@ I have more horsepower at the office, but of course I spend most of my day there
 
 **8.** I have a ton of peripherals hooked up as part of my home setup: about four external hard drives, my iPhone, my iPod, a Skype headset, a USB modem, et cetera, et cetera. I keep them all hooked up via a stack of hubs (both FireWire and USB) from ioGear, which I've found to be well-designed and reliable. Of course, the major drawback of all of these peripherals, which I've conveniently minimized here in these drawings, is the rat's nest of cables and cords that hang off and around my desk.
 
-#### And what software?
+### And what software?
 
 So much! Here's just a sampling...
 
@@ -69,6 +69,6 @@ All of my passwords go into [1Password][], one of the best pieces of software to
 
 People ask whether I prefer [Firefox][], [Safari][], [Chrome][] or some other browser, and my answer is yes. I like having multiple browsers going during most any work session; recently I've been really pleased with the newest versions of Firefox and Safari, though I favor Firefox by a few inches. However, there's one essential piece of software that I have to have available with these browsers: the excellent utility [Choosy][], which intercepts clicks on URLs in any program -- email, IM, word processors, etc. -- and lets you choose which browser to send that URL to. It's amazing and indispensable.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Something that lets me work just four hours a day and lets me spend the rest of my time with my family!

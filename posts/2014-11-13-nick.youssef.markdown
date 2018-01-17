@@ -7,13 +7,13 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Nick Youssef](http://nickyoussef.com/ "Nick's website.") and [I'm](http://www.twitter.com/nickyoussef/ "Nick's Twitter account.") an L.A based, nationally touring stand up comedian. I just released an album called "Stop Not Owning This," which right now can be [found on iTunes](https://itunes.apple.com/us/album/nick-youssef-stop-not-owning/id904091590 "Nick's album on iTunes.") and [All Things Records](http://www.allthingsrecords.com/nick-youssef-stop-not-owning-this "Nick's album on All Things Records."). The upcoming vinyl release will be out Jan. 13th, 2015 on Literally Figurative Records.
 
 I also host a podcast called [Occasionally Awesome](http://allthingscomedy.com/channels/33/occasionally-awesome "Nick's podcast.") on The All Things Comedy network.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The running theme with technology for me is user friendliness because I am basically computer illiterate. So, for the podcast, my co-host and I record all episodes on a [Zoom H4N recorder][h4n] because it is easy to use as well as portable. We use anywhere from two to four [Shure microphones][sm48], depending on the number of guests.
 
@@ -25,12 +25,12 @@ Moleskines don't come with pen holders, but this company, Lechtturum, makes [a g
 
 I write in a lot of coffeehouses so drowning out the sounds of college kids and screenwriters is essential to maintaining my focus and sanity.
 
-#### And what software?
+### And what software?
 
 I edit the audio for my podcast using [GarageBand][]. Audio of two or three people talking involves minimal editing or sound manipulation so for software, GarageBand is perfect. I can import audio, make tweaks and export it all inside of a half hour.
 
 If I start bits on paper and pen I always transcribe them into [Microsoft Word for Mac][word], then edit, re-write and catalog them into folders. A lot of writing involves sitting down at the computer and figuring out what went wrong. I like to stay inspired by listening to music. Like most people I've jumped onto the streaming music bandwagon and my service of choice has been [Rdio][]. From what I hear, they treat artists better when it comes to royalties. Also, their interface is album friendly, instead of playlist-oriented. I'm an album guy, through and through.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a home office complete with a 2TB hard drive MacBook Air (doesn't exist but it should) so I never have to worry about space again. That would sit on a large, vintage rosewood or walnut desk with some kind of old wooden swivel chair with arm rests. There would be a record player and some nice speakers, as well as a set up for digital music files. The final piece would be an [Eames chair][eames-lounge-chair], for reading and writing in a more relaxed position.

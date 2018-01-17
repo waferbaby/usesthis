@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Avery Edison, and I'm a stand-up comedian and humor writer. Odds are low that you know who I am, but if you do it's probably because of my [Twitter feed](http://www.twitter.com/aedison "Avery's Twiter account."). I also have a bunch of small side-projects, which are listed at [averyedison.com](http://www.averyedison.com/ "Avery's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I spend most of my time on my 2.8 GHz 17" [MacBook Pro][macbook-pro], with 4GB of RAM and a 500GB hard drive. It's a little too big for me to move around with, so it's often perched on a shelf in my desk and connected to an [Acer X223W][x223w] 22-inch monitor. I use an [Apple Wireless Keyboard][keyboard] and a [Magic Trackpad][magic-trackpad].
 
@@ -21,7 +21,7 @@ I don't back-up as often as I should, but when I do I use a 1TB [Western Digital
 
 When I'm motivated enough to make videos, I use a [Flip UltraHD][flip-ultra-hd] and [Blue Yeti][yeti] microphone. The Flip camera is also useful for recording the stand-up gigs I want to show to people on the internet.
 
-#### And what software?
+### And what software?
 
 I live in [Google Chrome][chrome], although every couple of months or so I try [Safari][] again. I do all my email through [Gmail][] (with Notify letting me know if I have something new), I keep track of feeds in [Google Reader][google-reader], and when I'm writing something collaboratively I use [Google Docs][google-docs]
 
@@ -49,7 +49,7 @@ I mainly use my iPad for reading, so my dock contains [Reeder][reeder-ios], [Kin
 
 For text-editing on either device, I use [Nocs][nocs-ios], which has Dropbox-sync and Markdown support. I like to play [The Incident][the-incident-ios] and [Words With Friends][words-with-friends-ios], and I'm addicted to [Peggle][peggle-ios]. Still. It's been years at this point. Send help.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like to have an [Apple Thunderbolt Display][thunderbolt-display], just because I'm shallow and would like my laptop, keyboard, mouse and monitor to match. I recently had a chance to experiment with shooting video on a [Canon 5D][eos-5d-mark-ii], and I was astonished by how gorgeous the results look. So I'd like one of those.
 

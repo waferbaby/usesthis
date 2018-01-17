@@ -9,23 +9,23 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello there, I'm [Vaughn Royko](http://vaughnroyko.com/ "Vaughn's website."). I do a lot of things, but most notably I'm a web designer and developer by trade and a hobbyist indie game designer and developer, primarily known for the HTML5-based survival roguelike, [Wayward][], branded under my fledgeling "company", [Unlok](http://www.unlok.ca/ "Vaughn's gaming company website."). I also enjoy game collecting (and playing, sometimes).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main computer is nothing special. Just some thing that I can game and work on. It's rocking a GeForce GTX 470 with a AMD Phenom II X6 1090T Black Edition Thuban 6 Core processor. I run a dual monitor set-up with one Samsung SyncMaster 29" and a Dell UltraSharp 19" (in tablet rotation) on the side. 
 
 I also lug around a fairly ancient [HP Compaq 6535b Notebook][compaq-6535b] around with me when I'm away from home (soon to be replaced when the new MacBook comes out this year). While at the office, I use a 2010 27" [iMac][].
 
-#### And what software?
+### And what software?
 
 I'm a recent convert to multi-platform [Sublime Text 2][sublime-text] and haven't looked back since - I use it for everything text and coding related. For the graphic side of things, I use [Adobe Photoshop][photoshop] and [Adobe Illustrator][illustrator]. For normal web browsing (when I'm not testing why my websites are broken in [IE7][internet-explorer]), I use [Chrome][] with dozens of cool plugins.
 
 Besides all that normal stuff, I have come to swear by [Google Docs][google-docs] and [Google Drive][google-drive]. Who needs an office software suite anymore? I use [Jing][] daily for sharing images and videos instantly, I can't believe I used to work without it. For video/audio editing, I use [Adobe Premiere Pro][premiere-pro] and [Audacity][]. For source control, I use both [Subversion][] and [Git][] (depending on the job). When I'm on Windows, I use [TortoiseGit][]/[TortoiseSVN][], and on the Mac, I use [Versions][]. I use FTP/SFTP a lot in both sides of my life. I have tried a lot of FTP clients over the years and now got it down to two choices: either [WinSCP][] or [FileZilla][] (if I am on the Mac).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would involve a very long desk where I would have a large array monitors and computers (maybe laptops and tablets as well?) - possibly all booted up at the same time, depending on what I am doing. Probably with a mix of operating systems such as [Windows 7][windows-7], [OS X Mountain Lion][mac-os-x] and possibly [Ubuntu][] so I can easily test across platforms without virtual machines or dual booting.
 

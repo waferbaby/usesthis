@@ -7,13 +7,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Joe Hewitt and I design and develop software. Every few years I seem to rotate between desktop, web, and mobile programming. My current specialty is [iPhone][] apps.
 
 I have been employed at [Facebook][] for two years, during which time I have created the Facebook iPhone app and the Facebook iPhone website. Before Facebook I had a web startup which was acquired before we launched our product, but I did launch a popular web debugging tool during that time called [Firebug][]. Before the startup I worked on the Netscape browser team, and helped with the creation of [Firefox][] just as Netscape was imploding and morphing into Mozilla.com.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a 3.2ghz 8-core [Mac Pro][mac-pro] with two 30" [cinema displays][cinema-display]. I can't say enough good things about having two 30" cinema displays. I use every pixel of each when I am programming and designing. They fill my entire field of view, and I am able to fit several editors and every tool I need on screen at once. I find it much more fluid to "switch" between windows just by moving my eyes, rather than juggling them with the keyboard and mouse. Having two of the same exact display is great because the top and bottom edges of each screen are aligned, so I can scan from side-to-side easily, and the colors and brightness match.
 
@@ -21,7 +21,7 @@ My laptop is a [MacBook Air][macbook-air], which I mainly use for Internet consu
 
 As you would expect I use an [iPhone 3G S][iphone-3gs] as my cell phone. I recently got a Canon [5D Mark II][eos-5d-mark-ii] (mostly for its incredible HD video abilities), but I still use my iPhone for most of my photography just because it's always with me. I don't own an iPod either due to the iPhone. I use an [Airport Extreme][airport-extreme] for WiFi, and a 1TB Lacie external drive for [Time Machine][time-machine] backups.
 
-#### And what software?
+### And what software?
 
 For iPhone development, I spend most of my day in [Xcode][]. I keep two editor windows open on the left screen, and on the right screen I keep the iPhone Simulator, one [Terminal][] window, one [Path Finder][path-finder] window, and [Firefox][] for documentation.
 
@@ -33,6 +33,6 @@ Safari 4 is my web browser. I used to use Firefox, but I got tired of its [Mac O
 
 On my iPhone, my most used apps are [Instapaper][instapaper-ios], [QuadCamera][quadcamera-ios], [Yelp][yelp-ios], [MLB At Bat][mlb-at-bat-ios], [Pandora][pandora-ios], [Kindle][kindle-ios], [Twitterrific][twitterrific-ios], and (of course) [Facebook][facebook-ios]. However, the main thing I do with my iPhone is not actually an app, but the web-based [Google Reader][google-reader].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dreamed of my current setup for years until I finally got it last year, so now that I am living the dream, most of the things I want have yet to be created. My biggest wish is for Apple to release a big-screen [iPod Touch][ipod-touch], so I can replace my MacBook Air with a more comfortable reading device.

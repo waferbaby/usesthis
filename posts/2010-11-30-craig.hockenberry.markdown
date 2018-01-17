@@ -7,7 +7,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Craig Hockenberry and I like to type.
 
@@ -17,7 +17,7 @@ I've also recently finished [my first book](http://appdevmanual.com/ "The websit
 
 AND DONT FORGET I INVENTED [THE CHOCKLOCK](http://www.google.com/search?q=chocklock "A Google search for 'chocklock'.") THE BEST KEY ON THE KEYBOARD AND [I KNOW HTML TO](http://shauninman.com/vs/?url=http%3A%2F%2Fchocklock.com "Craig knows HTML.")
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I work on many disparate projects and have different computing environments to handle each one. Each of these machines sits on a desk in my office.
 
@@ -45,7 +45,7 @@ I also use an [iMac][] 1.83 Ghz Core Duo with 1.5 GB of memory for general purpo
 
 I've also started using this machine for audio conferencing and chat. It makes it easy to shut off all distractions when I want to get in "the zone" for development.
 
-#### And what software?
+### And what software?
 
 The software I use varies depending on the machine I'm using. For business work, I use [Office][] ([Entourage][] every day, [Excel][] when needed, [Word][] under duress.) While I'm impressed with Apple's offerings for office productivity ([Mail][], [Numbers][] and [Pages][]), I've got documents going back to the mid-90's that I need to access. Closed formats suck, but I learned that lesson too late.
 
@@ -59,7 +59,7 @@ I also manage servers in my garage and in a rack we share with Panic in Portland
 
 To keep all these applications organized, I use [Overflow][] as a launcher.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I already have my dream setup!
 

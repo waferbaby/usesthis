@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, I'm [Dom](http://www.dominikjohann.de/ "Dominik's website."), a graphic designer and illustrator based in Germany. I'm the art director and a co-founder of Crows Crows Crows. We've made games like [Dr. Langeskov, The Tiger, And The Terribly Cursed Emerald: A Whirlwind Heist][dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist], and [Accounting for Virtual Reality][accounting]. Right now I'm also working on the monochrome Zelda-like [Minit][]. I'm into old cartoons, plants, and music.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most of my digital art is done on a [13" MacBook Pro][macbook-pro]. I've got the one with the weird touch bar and it's been glitching out on me a lot, to the point where I can't turn off the keyboard light sometimes.
 
@@ -23,7 +23,7 @@ Sometimes I do music and voice work, so I've got a [Rode NT1-A microphone][rode-
 
 Sketches, notes and ideas go into a small Leuchtturm1917 book with dotted pages. I can't really deal with pencils so I use Staedler pigment liners exclusively. The 0.2 mm version works perfectly for me.
 
-#### And what software?
+### And what software?
 
 Most of my time is spent in [Photoshop CC][photoshop], a heavy duty tool for almost everything I do in 2D. The animation engine is terrible and unreliable, so I've been trying out [Aseprite][] for pixel art and animation. [Illustrator][] is great for vector things but I recently switched to [Affinity Designer][affinity-designer], pretty good so far!
 
@@ -35,6 +35,6 @@ The more boring ones: odrive to manage my synced [Dropbox][] and [Google Drive][
 
 On my iPhone, I use [Tweetbot][tweetbot-ios] and [Headspace][headspace-ios] to adjust my level of calm. And since most of my work is visual I listen to lots of podcasts with [Overcast][overcast-ios] on the side.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Most days I dream of this: a standing desk, a neutral room with a smooth concrete floor, flooded with natural light, in an office with friends and collaborators doing the same sort of things I do. But I've been travelling a lot and I just wish your typical digital art setup could be more mobile, disconnected from any specific work space. No tower PC rig, laptops only, and I'd love to draw on the go, outside in the grass, maybe on an iPad? There should be lots of cool flora and bird ambience, and a cabin for cooking, music and contemplation.

@@ -11,19 +11,19 @@ credits:
   url: http://awolerizku.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Mike Essl](https://twitter.com/essl "Mike's Twitter account."). I am a graphic designer, educator, and Mr. T memorabilia collector. My main gig is working in New York for the [School of Art](http://www.cooper.edu/art/ "The School of Art at The Cooper Union.") at [The Cooper Union for the Advancement of Science and Art](http://en.wikipedia.org/wiki/Cooper_Union "The Wikipedia entry for Cooper Union."), as a full-time, tenured, Associate Professor in Graphic Design. I also have a freelance graphic design practice and for the past 10 years I've designed books for Abrams ComicArts, Chronicle Books, Rizzoli, and Titan Books. Most recently I designed the [Fables Encyclopedia](http://www.amazon.com/Fables-Encyclopedia-Jess-Nevins/dp/1401243959 "The Fables Encyclopedia, designed by Mike.") for DC Comics. Right now I'm on sabbatical from Cooper Union and working as a designer at [Mule Design](http://muledesign.com/ "A design agency in San Francosc.") in San Francisco.
 
 When I'm not trying to earn a living, I'm usually working on one of my side projects. I run [Mr. T and Me](http://mrtandme.com/ "Mike and Greg's Mr T fan site.") with my friend Greg Rivera. I cohost [Issues](http://issuesshow.com/ "Mike and Ed's comics podcast."), a comic book podcast, with Ed Casey. I also collaborate with Robb Irrgang under the name [Nerduo](http://nerduo.com/ "Mike and Robb's collaboration site."). Sometimes we make cool t-shirts like [The Battle](http://nerduo.com/thebattle/ "Mike and Robb's t-shirt.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home I rock an [iMac 27-inch, Mid 2011][imac] with 8GB of RAM and a 250GB SSD. Connected to that is an [Apple Cinema Display 23-inch][cinema-display] in the portrait orientation and about 10TBs of external Firewire 800 drives. The iMac and the Cinema Display sit on Humanscale monitor arms that are connected to an original [GeekDesk][]. I use an [Apple Keyboard][keyboard] with Numeric Keypad because [Adobe InDesign][indesign] stylesheet key commands ARE THE DEVIL and require a real number pad. I use an [Apple Magic Mouse][magic-mouse] and a large Wacom tablet for illustration work. ([This](https://www.flickr.com/photos/essl/5983116736/ "A photo of Mike's setup on Flickr.") is the set up circa 2011, but it hasn't changed much since then.)
 
 On the road I use a [MacBook Air][macbook-air] (11-inch, Mid 2012). I adore this tiny thing after downgrading from a 15-inch Powerbook. I also use a 64GB [iPhone 5S][iphone-5s] and an [iPad Mini 2][ipad-mini-2].
 
-#### And what software?
+### And what software?
 
 When I'm designing books I live in InDesign. My portrait 23-inch comes in handy for tracking a manuscript in [Microsoft Word][word] while I make edits in InDesign. There is also just enough room to keep most of the InDesign palettes open with a [VLC][] window playing my favorite TV show Supernatural. Screenshot [here](https://www.flickr.com/photos/essl/6034838191/ "A screenshot of Mike's desktop setup.").
 
@@ -43,6 +43,6 @@ For watching TV, I either watch files locally using VLC or I use [Plex][] to wat
 
 At the system level I run [Little Snitch][little-snitch] to monitor my network traffic and I use [RCDefaultApp][] to assign URLs to specific applications, like ftp:// or vnc://. I use [Fantastical][] to manage my calendar. [Soulver][] is great for quick back-of-the-envelope style math and I use the [iPhone version of Soulver][soulver-ios] to keep track of my freelance hours.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To be honest this is my dream set up. I would love a newer iMac with a larger retina screen. And something like [this](http://www.washingtonpost.com/news/speaking-of-science/wp/2015/03/03/a-paralyzed-woman-flew-a-f-35-fighter-jet-in-a-simulator-using-only-her-mind/ "A Washington Post article about neurosignaling research.") for Photoshop would be great. It would also be nice if this dream set up wasn't as hot as my current iMac. I've been sweating the entire time I've been typing this.

@@ -7,7 +7,7 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Raymond Gangstad](http://raymondgangstad.com/ "Raymond's website."), and I work as a colorist and an online artist at [Shortcut Oslo](http://www.shortcutoslo.no/ "A post production company in Norway.") in Norway. I do color grading, online editing, graphics, and VFX for commercials, music videos, documentaries, TV series and films of any length. 
 
@@ -15,7 +15,7 @@ My main gig is color grading. And a colorist is someone who looks at your movie 
 
 For work and for life I try to embrace change and be a jack-of-all-trades. I constantly keep educating myself on software, tech, science and the visual arts. So that no matter what job title I might be having at any given moment, I live a creative and interesting life.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work right now I use a 2012 [Mac Pro][mac-pro] with 2 x 3,06 GHz 6-Core Intel Xeon. It has 64 GB of RAM and a ton of local and SAN storage. It's got a [Cubix box][xpander-desktop-elite] with an [NVIDIA GeForce GTX Titan video card][geforce-gtx-titan-black] hanging off of it for playing back crisp high-res raw video. I have two 24-inch displays for my GUI and a Panasonic plasma reference monitor for working on images.
 
@@ -33,7 +33,7 @@ My [iPad][ipad-3] is a 3rd generation one that I use mainly for reading Wired, c
 
 For my photography these days I've gone from having a [Canon 7D][eos-7d] kit with a bunch of nice lenses, via a tiny Sony NEX camera, to just using my iPhone. I am looking to buy a new camera any day now. I'm really excited about the [DxO ONE][one.4]. That kind of concept just HAS to be the future for photography!
 
-#### And what software?
+### And what software?
 
 My main app is [Blackmagic Design's DaVinci Resolve][davinci-resolve]. We're currently on version 11 at our company, and I am really looking forward to upgrading to 12 as soon as it's out of beta. It's just a fantastic creative tool. It's fast, intuitive and you could run it on your laptop for free if you'd need to.
 
@@ -49,6 +49,6 @@ I listen to a lot of podcasts and my favorite app for that is [Pocket Casts][poc
 
 My favorite Twitter app is [Tweetbot on iOS][tweetbot-ios] and on the Mac I enjoy the web interface. My Twitter handle is [@rgangstad](https://twitter.com/rgangstad "Raymond's Twitter account.").  I'm an [avid Instagrammer](https://instagram.com/rgangstad/ "Raymond's Instagram account.") and editing photos on my iPhone is almost like meditating for me. I mostly use [Snapseed][snapseed-ios] or [Darkroom][darkroom-ios] for the initial color correction. [VSCO Cam][vsco-cam-ios] is where I add film looks. [Mextures][mextures-ios] is for when I want to grunge things up. [LensFlare][lensflare-ios], [LensFX][lensfx-ios] or [Alien Sky][alien-sky-ios] is where I get my VFX. [Pro HDR][pro-hdr-ios] for those tastefully done HDR photos. And I love [incorporating Star Wars imagery](https://instagram.com/p/2S-hIzxT50/ "Raymond's Darth Maul photo on Instagram.") in my photos and for that I comp with [Photoshop Mix][photoshop-mix] or [Juxtaposer][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I am really looking forward to enjoying immersive virtual experiences, [Snowcrash-style](https://en.wikipedia.org/wiki/Snow_Crash "The Wikipedia entry for Snow Crash."). I would love to build [a VR cave like the one ILMxLAB has](https://www.youtube.com/watch?v=IeaLgPMGzkQ "A YouTube video of ILM's virtual reality lab."), in my living room. And get myself an [Oculus Rift][oculus-rift] as well. I'd be creating virtual worlds by day and fighting off velociraptors and hanging out on the Millennium Falcon by night.

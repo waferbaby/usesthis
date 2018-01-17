@@ -8,11 +8,11 @@ categories:
 - scientist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Kieran Healy](http://www.kieranhealy.org/ "Kieran's website.") and I am a sociologist. I teach at [Duke University](http://www.duke.edu/ "Duke University's website."). I contribute to two blogs, [Crooked Timber](http://crookedtimber.org/ "Crooked Timber.") and [OrgTheory](http://orgtheory.wordpress.com/ "OrgTheory."). My research is mostly about market-and gift-based exchange in things like human blood, organs, genetic material, cultural goods, software, and ideas.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Mostly things made by Apple. The first computer I owned was a [PowerBook 145B][powerbook-145b] that I bought in 1994. Between about 1998 and 2003 I had a couple of Dell towers and an OEM laptop sold by a now-defunct Linux outfit. Then I switched back. 
 
@@ -22,7 +22,7 @@ I also have a late 2008 [15" 2.4 GHz Core 2 Duo MacBook Pro][macbook-pro]. In re
 
 I have a [16GB iPhone 3GS][iphone-3gs] that I use all the time, as well.
 
-#### And what software?
+### And what software?
 
 _The Usual Suspects:_ [Mail][], [iCal][], [iChat][], [Safari][], [Terminal][]. Each has its annoyances (iCal especially) but I try not to fiddle around with these apps too much, for reasons which will become apparent in a moment. Because so many of the people I work with or teach use it all the time, [Microsoft Office][office] is also a necessity. For me it functions mostly as a glorified file reader. [Excel][] is the only one of its components I spend any time working in, usually when collating or cleaning data. 
 
@@ -40,7 +40,7 @@ Integrating data analysis with writing is also something that Emacs shines at. [
 
 _Other Things:_ I use [Keynote][] for lectures and presentations. It's one of the best pieces of software Apple makes. I occasionally need to make use of [OmniGraffle][] and [Pixelmator][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 On the hardware side, there's that absurd productivity counterpart to the hedonic treadmill, where for some reason it's hard to get through the to-do list even though the café you're at contains more computing power than was available to the Pentagon in 1965. So fundamentally I have no real complaints on that front. I'd like to think that my dream setup is presently being implemented by someone somewhere, and it's so awesome I don't know what it is yet. I think that's what a lot of people looking at the iPad were hoping to see: something really new and effective in computer design, something that mades the gap between thought and outcome narrower, something that wasn't already there in embryo in the 1960s or '70s. 
 

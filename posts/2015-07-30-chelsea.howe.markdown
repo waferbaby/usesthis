@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Chelsea Howe](http://manojalpa.net/ "Chelsea's website.") and I make games. I'm currently a Creative Director at Electronic Arts (EA), and before that I was the lead designer on [Family Guy: The Quest for Stuff][family-guy-the-quest-for-stuff] and a designer on [FarmVille][farmville-ios]. I also make a variety of indie and experimental games, usually focused on love, queerness, and the surreal. When I'm not making games, I love to teach games: I taught a course on Play at California College of the Arts and run workshops on games for K-12 students. I frequently talk at conferences and companies about applied game design, f2p business models, and diversity issues in games.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 On my desk currently are three Mac laptops. My main personal computer is the mid 2014 [15-inch MacBook Pro][macbook-pro] with Retina display. I travel roughly twice a month, so I needed performance to play games but also portability. I also have an old 2010 13-inch MacBook Pro with legacy programs and non-cloud versions of Adobe software that used to be my personal computer and now is relegated to Internet tasks that are too fishy to trust on my main computer. My work laptop is a 2011 [MacBook Air][macbook-air] that's in desperate need of replacing. The lack of hard drive space is a constant nuisance and it can't Bluetooth to [Apple TV][apple-tv] which renders it near worthless in most work meetings.
 
@@ -21,7 +21,7 @@ For playing games, I've got an [iPhone 5][iphone-5], [Apple Watch][apple-watch] 
 
 On the experimental side of things, I've got the [littleBits Arduino coding kit][littlebits], which essentially lets you play around with circuitry soldering-free. Different components click together magnetically, making it infinitely easier to iterate on hardware prototypes.
 
-#### And what software?
+### And what software?
 
 The basics: [Office Suite][office]. I use [PowerPoint][] more than any other program on my computer, because it's a quick, visual way of conveying ideas which is the most important part of my job. [Excel][] and [Word][] are distant seconds - the first for editing systems and content bibles, the latter for entombing reference documentation.
 
@@ -41,6 +41,6 @@ Our games are being developed in [Unity][], so obviously that's a must, along wi
 
 A few odds and ends: [Scrivener][] for keeping track of world building, [Evernote][] for keeping track of random design ideas, [VLC][] for accessing all of the weird and strange video files I'm sent, [Fetch][] for FTP related website work and Arduino for circuitry exploration.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Most of my dreams are waiting in the future. I'd love to have essentially a Microsoft Surface drafting table/whiteboard. So much of what I do is about communicating information, and the fastest way to communicate information is visually. The larger the display, and the more people can interact with it, the easier time I'm going to have facilitating team collaboration and clarity around our goals. I also wish that there was better device-to-device connectivity, so that I didn't have to have so many USB plugs and thumb drives lying around.

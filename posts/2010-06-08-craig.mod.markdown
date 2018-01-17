@@ -7,7 +7,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Craig Mod](http://craigmod.com/ "Craig's website.").
 
@@ -15,7 +15,7 @@ Live and 'work' in Tokyo. Eat great '[food](http://craigmod.com/photography/suki
 
 Writer, designer, publisher and developer concerned with the future of publishing & storytelling. Co-author and designer (and now also publisher) of [Art Space Tokyo](http://artspacetokyo.com "Craig's Tokyo art site."). Also co-founding editor and engineer behind [TPUTH](http://tputh.com "Craig's fun news site."). Better known as 'the guy who wrote [that iPad article](http://craigmod.com/journal/ipad_and_books/ "Craig's infamous iPad post.")' or, 'the guy who wrote [that GF1 article](http://craigmod.com/journal/gf1-fieldtest/ "Craig's post on the GF1.")'.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 * 2.53GHZ 13" [MacBook Pro][macbook-pro] w/ 300GB 7200 RPM HDD, 8GB RAM.
 * 32gb [iPad][].
@@ -30,7 +30,7 @@ Writer, designer, publisher and developer concerned with the future of publishin
 * An MD notebook from Midori Paper Tokyo (with leather cover).
 * Pilot HI-TEC C Cavalier Pen
 
-#### And what software?
+### And what software?
 
 Google stuff:
 
@@ -84,7 +84,7 @@ Try and try as I might, I simply haven't been able to fall in love with [BBEdit]
 
 I would use [Textmate][] but need real Japanese language support. Also, I like my software to be updated ... ever.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 An iPad with: more internal storage; a higher density (300ppi+) screen; wireless cellular worldwide broadband 4G/5G/10G/etc; battery that lasts a month on one charge; real cloud storage for everything, always synced and always replicated around the world; an ebooks app that truly embraces the advantages of digital for the reader.
 

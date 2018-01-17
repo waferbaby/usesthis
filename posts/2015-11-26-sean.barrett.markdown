@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Sean Barrett](http://nothings.org/ "Sean's website."). Professionally, I develop [a software library for game developers][iggy]. In my free time I'm an independent game developer and a musician. I'm best known for what I squeeze in after all that: programming [open source libraries][stb] that help independent game developers and others get things done.
 
 Many years ago, I was a professional game developer at the much-loved, long- lamented [Looking Glass Studios](https://en.wikipedia.org/wiki/Looking_Glass_Studios "The Wikipedia entry for Looking Glass Studios.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I use a desktop with a 10-core [Xeon E5-2680][xeon-e5-2680] and two [Dell 3007 WFP monitors][ultrasharp-3007wfp]. At home I use a single desktop for both programming and music, so it's optimized for low noise, with a decent 4-core Intel CPU.
 
@@ -24,7 +24,7 @@ I mix using a pair of Bose stereo speakers, [Sennheiser HD-280 Pro headphones][h
 
 I sometimes livestream programming. For that, I use a [Logitech C310 webcam][hd-webcam-c310], a CowboyStudio lighting kit, and a [RODE NT1-A microphone][rode-nt1-a], repurposed from my musical equipment.
 
-#### And what software?
+### And what software?
 
 I'm not a fan of learning new user interfaces for little to no gain, so I use a lot of older software. I use [Windows 7][windows-7] at both work and home, with [Classic Shell][classic-shell] to emulate some features that were removed in [Vista][windows-vista]. I use [Eudora][] for email.
 
@@ -36,7 +36,7 @@ For music production, I tried [Pro Tools LE][pro-tools-le], but it wasn't for me
 
 I livestream using [OBS][], capture game footage with [Fraps][], and edit video with [Sony Vegas Pro][vegas-pro] (for which I have to boot to 64-bit Windows).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm actually pretty much there for most things; for example, at home I have only one 30" monitor, because the two I have at work is really more than I need; instead I just have a smaller second monitor turned sideways.
 

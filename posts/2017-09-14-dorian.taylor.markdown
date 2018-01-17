@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Dorian Taylor](https://doriantaylor.com/ "Dorian's website."), and my job is to clean up very specific kinds of messes. I've tried all sorts of florid and important-sounding job descriptions and concomitant titles, and at the end of the day they're not only pompous and alienating, but just plain inaccurate. I don't "design experiences"; I certainly don't "build products". I don't even really "architect information". I **schlep entropy**. I take the disorder I find in organizations and do my best to clean it up. In that way I'm more like a janitor than a designer, engineer, architect, strategist, management consultant, whatever.
 
@@ -24,7 +24,7 @@ Of course, if you bleach the "technology" out of "information technology", you'r
 
 Knowledge is (leverage over) power, so disparities in knowledge mark disparities in power. The "tech industry" is really all about making people dependent on your own little vision of reality. I don't believe it *has* to be that way, though.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do a lot of work on ordinary photocopier paper with a BIC mechanical pencil. If I have to travel, I use a Moleskine. I have a thing I made called a "[cell calendar](https://doriantaylor.com/cell-calendar "Dorian's post about his cell calendar.")" which is just a piece of Bristol board that represents a week's worth of [cells](https://doriantaylor.com/introducing-the-cell "Dorian's post about cells.") -- four-hour contiguous units of time in which the real thinking (and subsequent entropy-schlepping) gets done. When you subtract the irreducible maintenance time of sleep, food, hygiene and chores, I find you can max out on about three of these in a day. Emphasis on *max out*. When you're flying solo, the thing you consider to be your "actual job" only takes up a sliver of your waking life. With everything else going on, I'm lucky to get *one* of these in a day, and I might do a three-cell day only a handful of times a year.
 
@@ -38,7 +38,7 @@ If you're doing 3D or video compositing (and I suppose now, VR and/or AI) then I
 
 All that said, I suppose one of these days soon I'll get off my ass and buy some slick little [MacBook Air][macbook-air] in case I have to pull it out in front of a client - for the exact same reason a real estate agent drives a Mercedes.
 
-#### And what software?
+### And what software?
 
 I suppose I should start with the OS: The computer I actually type into is always a Mac because it has the finish quality you can only get with commercial software, but is still properly POSIX and won't fuss over open-source stuff. The development server is always some [Debian][] variant, because their stringent policy tends to produce a sane working environment, including a vastly superior packaging system. In my case the variant is [Ubuntu][], which is slightly less crunchy-granola than the original. Any router or firewall-like thing is always [OpenBSD][], because reasons. I've been running this hardware/OS configuration for about ten years now, and before then I would dual-boot Windows and Debian.
 
@@ -50,7 +50,7 @@ After my ménagerie of operating systems and relative paucity of apps, I actuall
 
 As is the trend with most programming polyglots, I have a workable proficiency in about eight other languages, each waiting for its opportunity to get put to meaningful use. I also have preferences: I generally eschew anything Microsoft (like [Visual Basic][visual-basic]), anything that relies too heavily on [JavaScript][], and you could not pay me enough to touch [PHP][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My "dream setup" doesn't exist. It *could* have existed - [it *did* exist](https://www.youtube.com/watch?v=yJDv-zdhzMY "A YouTube video of Douglas Engelbart's 1968 computer demo."), in experimental form, almost fifty years ago. There's no reason in principle why it *couldn't* exist, but it seems to chafe against prevailing cultural values.
 

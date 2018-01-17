@@ -8,11 +8,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Beau Sorenson](http://beaunoise.com/ "Beau's website."). I record / engineer / produce audio - mostly (but not exclusively) in the form recording, mixing, and sometimes mastering music for bands. I also write and record electronic music in my spare time. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 While most of what I do can be accomplished with a computer, I still use a lot of hardware. Software tends to be more efficient (and often sounds just as good), but I've found that I prefer the physicality, workflow, and interactivity that hardware provides. There's something unpredictable and non-linear about how certain kinds of hardware will react and respond - this is a big part of why I find it more compelling than strictly using software to work on sound. If it's music, I'm always trying to land on the side of art and expression vs sheer speed and efficiency. If I'm doing ADR or scoring a film, I'll probably stick to software exclusively. 
 
@@ -44,10 +44,10 @@ I listen on Focal monitors with a Focal subwoofer, a pair of vintage [JBL 4311 s
 
 My computer is an old Apple. It works.
 
-#### And what software?
+### And what software?
 
 I use both [Logic Pro X][logic-pro] and [Pro Tools][pro-tools] for digital audio recording; [iZotope RX][rx] for noise reduction, audio restoration and cleaning. Because I use a lot of hardware when mixing (and because Logic Pro comes with great collection of effects plugins) I don't use a lot of different third party plugins. I really love the effects plugins made by Valhalla DSP and Soundtoys. I use [Dropbox][] to exchange files. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It's hard to pin down what my 'dream setup' would be - it's always changing, and the setup I'm working with right now is as close as I've been able to come / the best version I've found so far. A common side effect of what I do is the never-ending quest to accumulate more and more equipment, and while there are plenty of things I wish I had, I'm cautious about simply becoming a 'collector of junk' instead of a maker of sound. That said, I'd someday like to own a multitrack tape recorder and a stereo 1/2" tape recorder to print final mixes to. As I've started doing more mastering in the last year, I'll eventually invest in a really nice hardware equalizer and a really nice hardware compressor. And I always want more synthesizers! Mostly, I'm thankful to have access to the tools I already have, and fortunate to spend time using them.

@@ -7,18 +7,18 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Leon. I post online ([Twitter](https://twitter.com/leyawn "Leon's Twitter account.")), I make art ([Tumblr](http://leyawn.tumblr.com/tagged/pixel "Leon's pixel art on Tumblr.")), and I make music ([Spotify](https://open.spotify.com/artist/3ciUz1yuEMltCsRaiEPBA8 "Leon's music on Spotify."), [SoundCloud](https://soundcloud.com/leyawn "Leon's music on SoundCloud."), [Bandcamp](https://leyawn.bandcamp.com/ "Leon's music on Bandcamp.")).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do everything on my laptop, an ASUS K501U I bought a couple years ago. I like it because it was cheap, and I can play video games on it. Last year I purchased a pair of [ATH-M50x headphones][ath-m50x], which is probably the best thing that's happened to my music making ability. I was making music through [Apple in-ear headphones][earpods] before that! I don't use much else when composing music, but when I play live I use an [M-Audio Trigger Finger][trigger-finger] that I got from Guitar Center ten years ago. My most recent purchase since then is the [Midi Fighter 3D][midi-fighter-3d] I bought with the money from my first album, which I just released in May! I also play around on my Janssen player piano I got off Craigslist for $250 that I've had for a few years.
 
-#### And what software?
+### And what software?
 
 I use [Adobe Photoshop CC][photoshop] pretty much every day, and have some experience in using [Adobe Premiere Pro CC][premiere-pro] now that you can post longer videos on Twitter. For music making I only use [Ableton Live][live]. There's so many free resources, tutorials, and tips online that I have been able to learn everything myself over the last two years. One of my favorite VSTs I've discovered is the [C700][], created by some person in Japan who goes by Osoumen. It emulates the SPC700, which is the audio processor from the [Super Nintendo][snes]. It features on a few tracks in [Bird World](https://leyawn.bandcamp.com/album/bird-world "Leon's album on Bandcamp."), my first album.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't need anything crazy computer-wise, the ASUS plays [Overwatch][] and can handle Ableton/Photoshop so I'm pretty happy. It would be cool to have a nice sound system (surround sound, speaker, monitors, etc), maybe after I set up a real desk and office. I work on my kitchen table and on the piano. I want to buy a trumpet, a flute, an accordion, and a harp. And if I can't get that, I would get the [Emperor][] and put it in a mech suit.

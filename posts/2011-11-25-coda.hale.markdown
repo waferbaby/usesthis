@@ -10,11 +10,11 @@ credits:
   url: http://www.flickr.com/photos/davefayram/4329110146/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm the infrastructure architect at [Yammer][], where I write a lot of [Java][] and worry about things breaking or not going fast enough.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got a [MacBook Pro][macbook-pro] running [Lion][mac-os-x] because I'm super original. Every two or three years, I fliff out enough for a top-of-the-line MBP, so right now I've got 8GB of RAM, four i7 cores, and a big ol' SSD. It's easily the fastest computer I've ever had. An [iPhone 4][iphone-4] and a [Time Capsule][time-capsule] in the closet rounds out the computational hardware.
 
@@ -22,7 +22,7 @@ I started out a die-hard overclocking modding build-it-myselfer, but as time pas
 
 I don't own an iPad or Kindle or tablet.
 
-#### And what software?
+### And what software?
 
 There's really three broad categories of software I use on a regular basis: personal stuff, work stuff, and random utilities.
 
@@ -36,6 +36,6 @@ In terms of organizational software, I use [iCal][], [Fantastical][], and [Thing
 
 Rounding it all out is [LaunchBar][], which I couldn't live without, [Divvy][], [Stay][], [AppZapper][], [Transmission][], and [Movist][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is any arrangement which removes an entity without sacrificing functionality. I'm a one-pair-of-shoes sort of person, so whenever a distinct tool gets merged into the background (iOS cloud syncing, for example, or Time Machine) it makes me happy. That frees up cognitive room for more interesting things.

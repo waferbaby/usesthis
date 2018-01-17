@@ -7,21 +7,21 @@ categories:
 - linux
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Charlie Lyne](http://www.charlielyne.com/ "Charlie's website."). I'm a filmmaker and film critic, based in London. My films include [Beyond Clueless](https://www.youtube.com/watch?v=DEz8pdxslYU "The YouTube trailer for Charlie's movie.") and [Fear Itself](https://www.youtube.com/watch?v=FCLCz9Dh57c "The YouTube trailer for Charlie's movie."), both of which were made by collaging together a bunch of existing movies.
 
-#### What hardware do you use?
+### What hardware do you use?
 
-Many of my films include no newly-shot material whatsoever, so they come together almost entirely on my [iMac][] (27 Inch, Late 2012) — which I use in conjunction with a pair of not-bad [M-Audio AV 40][studiophile-av-40] monitor speakers and an extra [24" Samsung display monitor][s24b300hl] that's become horribly warped by its proximity to various other bits of technology.
+Many of my films include no newly-shot material whatsoever, so they come together almost entirely on my [iMac][] (27 Inch, Late 2012) --- which I use in conjunction with a pair of not-bad [M-Audio AV 40][studiophile-av-40] monitor speakers and an extra [24" Samsung display monitor][s24b300hl] that's become horribly warped by its proximity to various other bits of technology.
 
-I tend to buy a new hard drive for each film I make — usually it's whichever 500GB portable drive is cheapest on Amazon at that moment, but sometimes I need larger drives. On Beyond Clueless, I was working with 400 hours of raw material, so I spent about a grand on this mammoth block called the Lacie [5big Thunderbolt][5big-thunderbolt], which stored 10TB and was the biggest one available at the time.
+I tend to buy a new hard drive for each film I make --- usually it's whichever 500GB portable drive is cheapest on Amazon at that moment, but sometimes I need larger drives. On Beyond Clueless, I was working with 400 hours of raw material, so I spent about a grand on this mammoth block called the Lacie [5big Thunderbolt][5big-thunderbolt], which stored 10TB and was the biggest one available at the time.
 
 I record audio on my [Zoom H5][h5], which I love, and more recently I've started shooting original video for my films, on a [Panasonic Lumix GH4][lumix-dmc-gh4]. I chose it because it was the only camera I could find that would let me record for 10 hours straight, which I needed to be able to do when making my protest film [Paint Drying](https://www.washingtonpost.com/news/the-intersect/wp/2015/11/19/a-filmmaker-is-trolling-the-british-film-board-with-an-unbelievably-long-movie-of-paint-drying/ "A Washington Post article about Charlie's 10 hour movie of paint drying.").
 
 My new favourite toy is [this bit of aluminium from China][as-klmh12], which lets you produce vaguely acceptable tracking shots on the cheap!
 
-#### And what software?
+### And what software?
 
 I edit all of my films on [Final Cut Pro X][final-cut-pro-x], which I love for its unashamedly simple, visuals-led interface. When I'm making a collage film, I use a haphazard combination of [PavTube ByteCopy][bytecopy] and [MakeMKV][] to rip DVDs and Blu-rays to Pro-Res 422 for editing.
 
@@ -29,6 +29,6 @@ Once I finish a film, I use [DCP-o-matic][] to generate a Digital Cinema Package
 
 Other bits of software I use for creative purposes include: [Final Draft][final-draft] for screenwriting, [Jubler][] for subtitling, [Transmit][] for FTP access, [Microsoft Word][word] for writing (10pt Helvetica Neue with line spacing set to 1.3), [uTorrent][] for torrenting, and [Super Empty Trash][super-empty-trash] for emptying the unbelievably stubborn [OS X][mac-os-x] trash bin.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I wouldn't have it any other way.

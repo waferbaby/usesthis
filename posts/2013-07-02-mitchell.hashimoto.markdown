@@ -10,11 +10,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a [developer](https://github.com/mitchellh "Mitchell's GitHub account."), [entrepreneur](http://www.hashicorp.com/ "Mitchell's company."), [author](http://www.oreillynet.com/pub/au/5373 "Mitchell's books."), and [speaker](http://lanyrd.com/profile/mitchellh/ "Mitchell's talks."). I'm most known for my work on [Vagrant][]. Last year, I started a company HashiCorp to work on Vagrant and tools in general. I currently live in San Francisco. You can often find me hiding around in various coffee shops in the city, drinking sparkling water or hot cider because I don't actually drink coffee.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary machine is a 13" [Retina MacBook Pro][macbook-pro]. I realized about a week after buying it that the economics of buying a fully-loaded 13" [MacBook Air][macbook-air] are actually better in terms of raw specs, but I fell in love with the screen too quickly, and wouldn't return it. This is the machine I use day in day out.
 
@@ -28,7 +28,7 @@ I read Reddit nightly on my iPad.
 
 My mobile phone is an [iPhone 5][iphone-5].
 
-#### And what software?
+### And what software?
 
 Vagrant, of course. I virtualize almost everything. Why do anything on your real computer when you can create a perfect sandboxed environment to do it instead? I rarely work on performance-critical applications, so this actually works out very nicely. I use Vagrant with [VMware Fusion][vmware-fusion], because Fusion is just better than [VirtualBox][]. Fact.
 
@@ -44,7 +44,7 @@ I use [Slate][] for Window management. I love love *love* [xmonad][] but it only
 
 [Alfred][] is indispensable if only for the clipboard history. I love going to websites and copying a handful of different things, and having access to all of them when I need it, rather than copying, switching windows, pasting, switching back, copying the next thing, etc. Honestly I only recently started using Alfred, so I'm sure it'll become more integral in my workflow in the future.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 In terms of hardware, I want a machine with exceptionally good battery life. Ideally I'd like to see laptop battery life reach 12 hours under normal workloads, and maybe 18+ hours idle (for example when I'm just staring at my text editor thinking). That would be great. My current laptop can last 6 hours or so while editing text which is pretty fantastic, but I'd love to run a ton of virtual machines, compile code, etc. and just not worry about sacrificing battery life.
 

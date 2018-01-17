@@ -7,11 +7,11 @@ categories:
 - reporter
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Hilary Sargent](http://hilarysargent.com/ "Hilary's website."). I very recently became the News & Homepage Editor of [Boston.com](http://www.boston.com/ "The boston.com news site.") (part of The Boston Globe). Before that, I was the founder of [ChartGirl](http://chartgirl.com "Hilary's chart site."). Before that, I investigated things like fraud and money laundering and the occasional political scandal. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When I'm at my [desk](https://twitter.com/lilsarg/status/447471749937258496/photo/1 "Hilary's photo of her desk, on Twitter."), I have a [MacBook Pro][macbook-pro] (2.4ghz, i5, 8GB memory) hooked up to two Dell 22" monitors and an external mouse and keyboard. In the rare moments when I'm not using it, I have a Cote & Ciel sleeve where it rests. (I also have a [MacBook Air][macbook-air] that I bought a year or so ago and never use.)
 
@@ -23,15 +23,15 @@ I have an old [Kindle][], or I did anyway. Haven't seen it in a while, meaning i
 
 I use [Zebra mechanical pencils][zebra-number-2-mechanical-pencil-0.7mm] and Sharpies for almost everything. I write on the backs of receipts, in the corners of important documents, and on my hands.
 
-#### And what software?
+### And what software?
 
 For ChartGirl - which is on hiatus at the moment - I used a combination of [Photoshop][] and [Omnigraffle][].
 
-At work I spend a lot of time on the Internet (via [Chrome][]) and in the Globe's content management system — [Méthode][methode]. Other than that, my software needs are pretty limited: [Tweetdeck][], Photoshop, [Google Drive][google-drive], [Excel][] on special spreadsheet-appropriate occasions. I use the [Mailbox][] app on my phone, and have never come remotely close to achieving "Mailbox Zero."
+At work I spend a lot of time on the Internet (via [Chrome][]) and in the Globe's content management system --- [Méthode][methode]. Other than that, my software needs are pretty limited: [Tweetdeck][], Photoshop, [Google Drive][google-drive], [Excel][] on special spreadsheet-appropriate occasions. I use the [Mailbox][] app on my phone, and have never come remotely close to achieving "Mailbox Zero."
 
 During the rare 15-minute windows when I'm not working, I listen to music on [Spotify][], take photos out of airplane windows on [Instagram][instagram-ios], and photograph my kid using [Camera+][camera-plus-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To never hear the words "content management system" again.
 

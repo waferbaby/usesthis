@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Christopher Allan Webber, or Chris Webber for short. (Though there's another Chris Webber in the FLOSS space that does devops things... if you see me expand my name all the time, now you know why!) You can find me at my [personal website](https://dustycloud.org/ "Christopher's website."), or on the federated social web [on identi.ca](https://identi.ca/cwebber "Christopher's Identica account.") which runs [pump.io][] and [octodon.social](https://octodon.social/@cwebber "Christopher's Mastodon account.") which runs [Mastodon][]. (Sadly you'll see those federated social web examples don't interoperably federate, but that's something we're working on... see the ActivityPub stuff later.) If you must, I'm also available on [the birdsite](https://twitter.com/dustyweb "Christopher's Twitter account.").
 
@@ -17,7 +17,7 @@ ActivityPub is taking up most of my time these days, but I think is pretty impor
 
 I have a good number of side projects which I don't find enough time for mainly because the ActivityPub stuff is taking up so much of my time. I think the most fun of these is [GNU 8sync][8sync], which is an implementation of the actor model in Guile. There's a video on the 8sync homepage that shows me doing a demonstration of 8sync where the talk was itself a MUD (multi-user-dungeon) that the audience was able to play as I discussed it. That kind of stuff is super fun to me and I hope I can find some time to get back to it soon.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At the moment, a [ThinkPad X200][thinkpad-x200] laptop flashed with [Libreboot][] which I usually have docked. It's upgraded with 8 gigs of RAM and a larger hard drive which makes things pretty manageable, but I wish it had a better graphics card. For whatever reason, even though I can run [OpenGL][] blob-free on this, it was one of Intel's earlier graphics cards, and the performance has gotten pretty bad for anything 3D. (I miss being able to do artwork in [Blender][]..) For everything else though it's surprisingly a pretty robust machine for something nearly a decade old. (That's probably due to computers not having improved that much CPU-wise over the last decade.)
 
@@ -27,7 +27,7 @@ For a while I would tell people about this and I think the average person was pr
 
 I also have a [Kinesis Advantage2][advantage2] keyboard because a few years ago I had serious repetitive strain issue problems. At one point I also used [foot pedals][savant-elite2] for ctrl and alt but I kind of stopped doing that, but I'm not sure why. (Why not use your feet for programming? They're just sitting there.)
 
-#### And what software?
+### And what software?
 
 I mostly live in [GNU Emacs][emacs], where I program, read my mail using [mu4e][], and organize my life using the incredible [org-mode][].
 
@@ -39,7 +39,7 @@ I currently run the window manager [StumpWM][] which I consider to be the most t
 
 Back in the day I used to do artwork in Blender and in [The GIMP][gimp] for fun. I haven't had time for that, but I really miss it. Some day maybe I'll learn to use [Krita][], which seems pretty cool. I'd also like to do more game development.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Wow, lots to unpack there. Let's start with me personally, and then broaden to social stuff.
 

@@ -8,13 +8,13 @@ credits:
   name: Sean Bonner
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Tony Konecny](https://twitter.com/tonx/ "Tony's Twitter account."), a coffee roaster, coffee writer, and coffee entrepreneur. I fell into coffee a decade ago and still haven't been able to drink my way out it.
 
 Two years ago I launched [Tonx](https://tonx.org/ "Tony's coffee company.") as the next chapter in my crusade to put excellent coffee in every kitchen.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 An iPhone and an unkempt 11" [MacBook Air][macbook-air] (with a large external monitor) both running one generation behind on their operating systems (for reasons I'd probably have to sit on a therapist's couch to fully unravel). Like so many others, I'm afflicted with the sense that my iPhone is an extension of my body and mind - and that I am incomplete without it. I feel the same way about my car. My phone and my car are my most deeply embedded cybernetic relationships... pry them from my cold, dead, eventually robotic hand, etc...
 
@@ -28,7 +28,7 @@ After years of being a skeptic, I've come around to the [Aeropress][] and have b
 
 I have two bags that I'm pretty keen on. I spent forever searching for a great laptop bag. Most of them suck or look like the backpack equivalent of a 'Member's Only' jacket. My Tom Bihn [Ristretto][ristretto-13-inch] laptop bag is just right in terms of size and ergonomics. For serious travel I have a [511 Tactical backpack][rush-12] that my pal Sean Bonner recommended to me (he uses one as a [bug out bag](http://www.flickr.com/photos/tonx/4462897713/ "A photo of the contents of the RUSH 12 bag.")). At first I thought it was overkill, but over time I've come to respect its unusually high quality, numerous pockets, and the thoughtfulness of the design. I've been asked by TSA "agents" on several occasions which branch of the armed services I'm in.
 
-#### And what software?
+### And what software?
 
 [Tweetbot][tweetbot-ios] is my Twitter client. Sometimes I think I love Tweetbot more than I love Twitter (and certainly much more than Twitter's own app or website).
 
@@ -36,6 +36,6 @@ On my Mac I use Apple's [TextEdit][] utility for most of my drafting and persona
 
 On my iPad I use [Instapaper][instapaper-ios] and [Flipboard][flipboard-ios] for most of my reading and [Notability][notability-ios] and [Adobe Ideas][adobe-ideas-ios] for sketching out stuff for work. And I can't imagine life without [Dropbox][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A hammock, a wood burning stove, a garden, a well stocked library and liquor cabinet. Maybe some goats. From a coffee perspective, I'm almost living my dream setup with everything from our roasting and lab equipment to a massive toy chest of brewing devices.

@@ -10,13 +10,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Hannah Nicklin](http://www.hannahnicklin.com/ "Hannah's website."), I'm a freelance writer, narrative designer, producer and performer who has work in games, theatre, academia and community arts. I'm currently working as a writer and narrative designer with [Die Gute Fabrik](http://gutefabrik.com/ "A Dutch/American gaming studio."), and previous did narrative design/creative production for [Twisted Tree Games](http://twistedtreegames.com/ "A UK gaming studio.") (Ed Key's studio/label). Other things I do include writing critical articles in response to games and games culture, giving performance talks, producing zines, giving lectures, running workshops, putting on and hosting events, and consultancy on narrative games and the spaces where theatre, games and play cross over.
 
 I also combine this with 10-15 hours of training and racing per week as a competitive cyclist, racing at a National level in the UK (hopefully branching out into Europe in 2018-19!). This year I also ran social media as a volunteer for the London Women's Racing league - a grassroots organisation supporting women getting into racing in the SE and London area.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My staple is a [MacBook Pro][macbook-pro], and I also have an old [iMac][] with a much larger screen (21" I think?) which I use a Thunderbolt connector from the MBP to use it as a second screen (cmd+f2) which allows me to run whatever I'm writing in next to a bunch of reference material, or the various spreadsheets which I'll be using to plot out plot elements and dialogue. If I need another screen I'll use my [iPad mini][ipad-mini]. I tend to read on a [Kindle][]. I also use plain or dotted A5ish size notebooks to run my day-to-day life (I like the Lamy Safari fountain pens with black ink, always black ink), and post it notes + sharpies to take notes/plan things out, as you can always move them around as your ideas constellate and crystallise.
 
@@ -24,7 +24,7 @@ I do a bit of recording audio (interviews for articles etc) and running small sc
 
 In terms of the bike training hardware: [Garmin vívoactive HR][vivoactive-hr], [Garmin Edge 810][edge-810] with HRM, Cadence and speed sensors, [Power Tap P1 power meter][p1], Canyon Ultimate carbon Ultegra/Di2 bike! I also have some Bluetooth Garmin body composition scales.
 
-#### And what software?
+### And what software?
 
 I use [Gdocs][google-docs]/[Drive][google-drive] for collaboration - and so do all of the games projects I've worked on. I swear by using the [Chrome][] 'People' function to separate projects out so I can keep my tabs open when not working on a particular project and keep my social/off hours Internet use separate from work. You can also then be signed into different Google identities, etc. I use [TextEdit][] to do basically all my temporary notes, meeting agendas, thoughts, and clear-thinking. I'll usually draft in full screen TextEdit before moving it to [Word][] to edit, and Gdocs to share. [Dropbox][] Pro is my go-to for file storing and sharing docs I'm not collaborating on. I've used [SourceTree][] mostly for [git][]-based projects and thus far only ever worked on [Unity][]-based games.
 
@@ -40,7 +40,7 @@ My training is set by a coach using [TrainingPeaks][] - a piece of really versat
 
 Finally; admin! I keep my accounts in [Excel][], run my site/s through [WordPress][] (self hosted), and promote my work through [Twitter][], [MailChimp][] (very rarely), and press release.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I thought the MBP with the line of customisable touch buttons was silly but I've seen one now and actually I think I'd find it super useful! I don't really need anything more in terms of how I work, though. The main thing is it would be good to be able to get Fibre broadband where I am in London - at the moment it's 2-4mbps and the walls in my flat seem to be made of lead or something. My upload/download times are pretty frustrating, and my [Steam Link][steam-link] doesn't actually work (I don't have a TV, but play games on the projector which is super nice). I'd also love a [Surface Pro][surface-pro] so I could use some Windows specific software/play Windows-specific games.
 

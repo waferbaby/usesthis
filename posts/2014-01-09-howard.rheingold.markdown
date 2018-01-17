@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am primarily a person who has refused to be categorized easily! I explore and try to understand the way our use of new media changes people and society, then communicate what I've found. To that end, I've written books and magazine articles, created and published videos, blogged, taught courses at Berkeley and Stanford and my own online courses at Rheingold U. You can find out about all these activities and more - such as my art work! - at [http://www.rheingold.com/](http://www.rheingold.com/ "Howard's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Quad Core [Mac][mac-pro] with maximum RAM and a 30 inch monitor and a 24 inch monitor. 4 year old [MacBook Pro][macbook-pro]. [iPhone 4S][iphone-4s], [iPad 3][ipad-3].
 
@@ -22,12 +22,12 @@ I do a fair amount of video editing, hence the 16 G RAM, 4X 1 Terabyte drives, a
 
 My home office is three steps from my garden. I had one of the first Macintosh laptops when I worked at Wired - a [Duo][powerbook-duo] with a dock that connected to my previously largest screen, which was one of those huge tube screens. As soon as I had a laptop, I started working in my garden, barefoot, under the plum tree. At one point, a Japanese magazine came by and took pictures. You can see the Mac Duo in the picture and tell how old the attached picture is by the size of the phone! As each generation of laptop improved, I upgraded. It's been four years since I bought my last MacBook Pro and I'll probably end up with an [Air][macbook-air] within a couple years. As soon as WiFi became available, I started working in my "outdoor office" for most of the day when weather permitted, which in my part of the world is April through October.
 
-#### And what software?
+### And what software?
 
 Tons! For writing, I love [Scrivener][]. I've also used [DEVONthink][] and [PersonalBrain][] for organizing large projects. I'm still using [Apple Mail][mail], but I use [Gmail][] as a backup. [GraphicConverter][], [Skitch][], Camtasia for Mac, [BBEdit][], [Spotify][], [MS Word][word] and [Powerpoint][], [Skype][], [Evernote][], [Diigo][].
 
 I use Diigo and Evernote as the big end of the funnel to save links, snippets, and articles - probably a couple of dozen each day. When I embark on a big book project, I spend some time mining those collections and move appropriate snippets, along with tags and citations, into DEVONthink. When I start writing, I keep DEVONthink open on one screen and move only the most relevant references into Scrivener. [Here](http://www.screenr.com/rNl/ "A screencast of Howard's workflow.") is a screencast of my workflow.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upgrade my QuadCore. I'd like to afford to have 3G on my iPad. More bandwidth is always good! Other than that, this IS my dream setup. Maybe a Wacom tablet for art stuff.

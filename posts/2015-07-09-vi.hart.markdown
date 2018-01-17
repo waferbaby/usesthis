@@ -13,13 +13,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Vi Hart](http://vihart.com/ "Vi's website."), mathemusician and philosopher. I direct the virtual reality research group [eleVR](http://elevr.com/ "A virtual reality research group."), though a lot of people know me from my side projects on [YouTube](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg "Vi's YouTube channel.") or in games. I mix ideas and media to find the place where something can be said that was not said before, whether it be explaining ideas about math in a story-driven YouTube video, or explaining systemic bias through an interactive blog post, or exploring higher dimensional spaces in a virtual world full of monkeys.
 
 I write, film, program, produce, edit, perform, collaborate. The variety of hardware and software I use on a daily basis is kind of terrifying.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The short answer: all of it. My VR research group specializes in VR video, which means we deal with piles of experimental VR headsets, VR cameras, sound equipment and computers and tablets and phones, and our job is to use them all. I'm lucky to have enough research funding, and to be friends with enough companies, that we have access to a ton of cool stuff.
 
@@ -85,7 +85,7 @@ I use [Etymonic ER20 earplugs][er20] for not-too-loud stuff. The squeeze-case th
 
 My pride and joy is Béla, my Bösendorfer grand. My piano is the only good and pure thing in all the world, my light and my life. It's a little terrifying how much I care about her as compared to anything else, how much I've worked for her and how hard I work to keep her.
 
-#### And what software?
+### And what software?
 
 I spend way too much time in [Chrome][], writing emails. I also use email for most of my writing and note taking, since it's more reliable and cross-platform than anything else.
 
@@ -105,7 +105,7 @@ For collaborating: [Google Hangouts][google-hangouts], Gchat, [Google Docs][goog
 
 That's some percentage of hardware and software, but then there's that weird mix of hardware+software+something else which is the human collaborator. I would not be able to do what I do without my many collaborators, especially Emily Eifler and Andrea Hawksley. If you wanted to know how many humans were essential to my work on a regular basis, the list would be longer than the lists of hardware and software.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 That's kind of the point of what I do. My small VR research group is part of the Communications Design Group, cofounded by Alan Kay on the model of Xerox PARC. By which I mean to say, we intend to invent the dream setups of 30 years from now. I don't know what that is yet, though.
 

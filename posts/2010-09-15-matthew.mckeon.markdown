@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name's [Matt McKeon](http://www.mattmckeon.com/ "Matt's website."), and I try to help people understand and talk about data in engaging and informative ways. Currently I'm a developer with the [Visual Communication Lab](http://www.research.ibm.com/visual/ "IBM's Visualisation Lab.") at IBM Research's Center for Social Software. My projects include [Many Eyes](http://manyeyes.alphaworks.ibm.com/manyeyes/ "Exploring the social side of visualisations.") and [Many Eyes Wikified](http://wikified.researchlabs.ibm.com/ "A wiki supporting visualisation data."); I've also helped my colleagues out a bit on [Many Bills](http://manybills.researchlabs.ibm.com/ "Visualisation of Congressional legislation."). In my spare time, I like create visualizations of data that interest me; I recently posted [an infographic](http://mattmckeon.com/facebook-privacy/ "Matt's Facebook visualisation.") to my personal site that examines the history of Facebook's default privacy settings.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary work machine is a [MacBook Pro][macbook-pro] 2.4Ghz/4GB RAM/180GB HDD with a matte screen. I'm glad I got the last MBP before glossy screens became the default - I find the reflections incredibly aggravating.
 
@@ -32,7 +32,7 @@ What do I do with them? Reinstall [Ubuntu][]. Occasionally use them for couch su
 
 My (currently 1-year-old) daughter and I play with an [XO1][xo-1] from One Laptop Per Child - she loves the keyboard and the camera as well as the Tam-Tam music apps. I wish we had a USB teether though.
 
-#### And what software?
+### And what software?
 
 I use a hodgepodge of tools for data and research. My browser homepage is set to a local [Tiddlywiki][] instance where I keep all my notes. I depend mightily on [Zotero][] to manage all the papers, books and articles I read, as well as [del.icio.us][delicious] to manage my bookmarks. 
 
@@ -58,6 +58,6 @@ I pretty much always write papers in [Word][] and presentations in [Powerpoint][
 
 On my phone my most frequently used apps (besides Mail and [Google Maps][google-maps]) are [Twitter][twitter-ios], [Instapaper][instapaper-ios], [Wikipanion][wikipanion-ios] and [MassTransit][masstransit-ios]. I'll also frequently read the [NYTimes][nytimes-ios] via their app.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Actually, I'm pretty content with what I have. I wouldn't mind having an iPad and a Nexus One so I can tinker with building visualizations for them. :)

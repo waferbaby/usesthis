@@ -9,11 +9,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://ruthiebendor.com/ "Ruthie's website.") a web designer & developer. This winter, I'll be moving to San Francisco to join [Code for America](http://codeforamerica.org/ "A non-profit for involving the web industry in the public service.") as one of their 2012 Fellows. Right now I'm riding my bicycle from Boston to San Francisco, interviewing web technologists as I go, and blogging at [CyclingCoder.com](http://cyclingcoder.com/ "Ruthie's cross-country-biking site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My mobile office lets me work from the road at the lowest possible weight, because, y'know, hills.
 
@@ -35,7 +35,7 @@ Bike nerds, I'm riding Peg, a stock [Surly Cross-Check][cross-check-complete] wi
 
 Fully loaded, Peg tips the scales at 73 pounds. Not too bad, considering.
 
-#### And what software?
+### And what software?
 
 For coding: [OSX 10.6][mac-os-x], [VirtualBox][] with [Windows XP][windows-xp] and [Windows 7][windows-7] Home Premium virtual machines, and [MAMP Pro][mamp-pro], along with every single browser you can think of and then some. Also: [Coda][], [Transmit][], [iTerm 2][iterm2], [Kaleidoscope][], and [Git][]. I use [Integrity][] to spot broken links, and [ExpressionEngine][] as the CMS on any site more complex than a blog.
 
@@ -49,6 +49,6 @@ For media production: [Aperture][] for photos. [VLC][] and [iMovie][] for videos
 
 For sanity: [1Password][], because my memory leaks like <del>Adobe Creative Suite</del> a sieve.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The weightless, waterproof, battery-free, crash-free version of all of the above, that also pedals itself up hills.

@@ -8,15 +8,15 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Melissa Gira Grant](http://melissagiragrant.com/ "Melissa's website."). I'm a writer and freelance journalist, covering sex, tech, and politics. My [reporting and commentary](http://melissagiragrant.com/work/journalism/ "Melissa's journalism.") appears in *The Nation*, *The Atlantic*, *Glamour*, *The Guardian*, *The New York Times*, *In These Times*, *Wired*, *The Washington Post*, *Dissent*, Slate, and Salon, among other publications. My latest book, [Playing the Whore: The Work of Sex Work](http://melissagiragrant.com/work/playing-the-whore/ "Melissa's book about sex work."), challenges the myths about selling sex and those who perpetuate them.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've been a Mac user since I was six and forced [Print Shop][the-print-shop] into service as my word processor. My 15" [MacBook Pro][macbook-pro] is my old reliable, but it rarely leaves the house anymore, and (in my first rule for working from home) it never comes to bed. That's what the [iPad][] is for. And embarrassingly near my pillow, the iPhone (a [3GS][iphone-3gs], still hanging on). Those are the basics.
 
-Every morning, I put together a daily agenda – deadlines, interview appointments, invoices to chase, press to file -- in an extra-large Moleskine plain soft notebook. My desk pen is a refillable [Tornado][tornado.2] by Retro 51, in red lacquer. Whatever comes of the day, that makes an elegant enough start. 
+Every morning, I put together a daily agenda -- deadlines, interview appointments, invoices to chase, press to file -- in an extra-large Moleskine plain soft notebook. My desk pen is a refillable [Tornado][tornado.2] by Retro 51, in red lacquer. Whatever comes of the day, that makes an elegant enough start. 
 
 I've kept a journal since I could write, and for the last ten years or so that's been in a series of plain pocket Moleskine notebooks with hardcovers. For taking notes while reporting, I used to use whatever I had on me - sometimes just my journal flipped on its back, writing from the back to meet the personal diary at the front. Now, on features or long-term research, I'll get a set of notebooks dedicated to each project. I stash handfuls of [Pilot G2 pens][g2.2] in my bag. 
 
@@ -26,9 +26,9 @@ I'm a hardware pack rat, or hardware nostalgic maybe. There's no reason to keep 
 
 There's also a terabyte backup drive that I actually use, and a half dozen others in a drawer. 
 
-#### And what software?
+### And what software?
 
-Writing and reporting is how I spend most of my work time (with the email and social media correspondence required – and sometimes enlivened by – in support of that). 
+Writing and reporting is how I spend most of my work time (with the email and social media correspondence required -- and sometimes enlivened by -- in support of that). 
 
 For books and features, I write in [Scrivener][]. I can create and easily modify outlines (usually just a duplicate of the [notecards](http://instagram.com/p/Tgod2BwRzv/ "A photo of Melissa's notecards.") tacked on my office wall), drag my research PDF's in, or photos, or interview transcripts. (Once a story goes my editors, I leave Scrivener and reluctantly move to [Microsoft Office][office] for the sake of track-changes.)
 
@@ -42,7 +42,7 @@ For [Glass Houses](http://www.glasshousespress.com/ "Melissa's print label."), t
 
 There's really nothing thrilling to say about email. I label excessively in [Gmail][] to organize myself. I use encrypted mail ([here's a good walkthrough](https://securityinabox.org/en/thunderbird_main "A guide for using Thunderbird with Enigmail and GPG.")). The discipline that [Gchat][google-talk] requires during the workday is usually spent elsewhere. (Like not just taking a notebook to [Greenwood Cemetery](http://www.green-wood.com/ "A cemetery in Brooklyn."). Or not "answering email" while working through *X-Files* from the first season onward.)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To sift through all my accumulated files by theme, by episode in my life, by multiple tags or some other structured annotation that folders are no good for, to walk into a space formed by them like a white-box gallery or the belly of a ship or layers of cool sheets on a bed. I want to find things by how I remembered creating them: all the pieces I wrote mentioning right wing organizations in the Pacific Northwest; or an easy scroll-through of just my webcam archives from December 2001; or, [Wikipedia][]-style compare-drafts of a chapter in progress and all the sections that were cut or forked off.
 

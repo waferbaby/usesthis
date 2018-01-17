@@ -6,11 +6,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Shawn Blanc. I write a tech and design-centric [website](http://shawnblanc.net/ "Shawn's website."), drink a cup of coffee every day, and love to snowboard.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I spend most of my work day sitting in front of a 23-inch [Apple Cinema Display][cinema-display]. It's the older, aluminum-style Cinema Display. You know, the nice one with the matte screen. 
 
@@ -24,7 +24,7 @@ Behind the Cinema Display is where I store my [Blue Yeti][yeti] microphone. It's
 
 Sitting on my desk next to the Cinema Display are an [iPad 2][ipad-2] and [iPhone 4S][iphone-4s]. Both black. Both the base model. The iPad has a Smart cover, the iPhone has no case at all.
 
-#### And what software?
+### And what software?
 
 Between my iPhone, iPad, and Mac, the number of apps I use on a daily basis makes up a list longer than my arm. Here's the hot list, in ascending order based on device screen size.
 
@@ -74,7 +74,7 @@ I also regularly write long-form articles. sometimes these get written in MarsEd
 
 [Yojimbo:][yojimbo] This is my "[Anything Bucket](http://shawnblanc.net/2009/09/yojimbo-and-anything-buckets/ "Shawn's post on using Yojimbo as his 'Anything Bucket'.")". I toss all my digital receipts, bookmarks, inspirational quotes, and whatever else into this fine application. I have several custom AppleScripts that tie in with Yojimbo so it's easy for me to toss items from Safari and Mail into the app.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 All things considered, I pretty much *do* have my dream setup. In my day-to-day, I rarely ever feel any lack in the hardware or software I use. 
 

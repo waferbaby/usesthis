@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Zahra Zainal](http://zahrazainal.com/ "Zahra's website."), an illustrator and [graphic recorder](https://www.youtube.com/watch?v=KiIgcoc7Wqg "A YouTube video explaining graphic recording.") based in Melbourne, Australia. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For illustration: I use a 12.9" [iPad Pro][ipad-pro] + [Apple Pencil][pencil]. 
 
@@ -24,7 +24,7 @@ I'm also using a Moleskine Monthly notebook to plan. It helps me see what I've s
 
 [Bose noise-cancelling headphones][quietcomfort-15] help me get into Concentration Zone.  
 
-#### And what software?
+### And what software?
 
 [Procreate][procreate-ios] on the iPad Pro is simply divine. The Procreate interface responds the usage patterns of long-time [Photoshop][] users, who are starting to make the switch over to devices. I also sometimes like [Tayasui Sketches Pro][tayasui-sketches-pro-ios], or [Adobe Sketch][photoshop-sketch-ios] for their brushes and blending. 
 
@@ -32,7 +32,7 @@ The [Adobe Creative Cloud Suite][creative-suite], mainly Photoshop, [Illustrator
 
 [Google Docs][google-docs] and Sheets for planning and sharing. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A super light, strong, foldable laptop that packs into its own tiny bag. It can also transform into a tablet, to be used with a responsive, pencil-like stylus. It's like if [this Kathmandu foldable backpack][pocket-pack], the MacBook Pro and the iPad Pro had a baby. Same Moleskin diaries, except they now weigh nothing. THE MOST ULTRA LIGHT SET-UP! 
 

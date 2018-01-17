@@ -9,13 +9,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I am](http://rlove.org/ "Robert's website.") a software engineer at Google. I helped launch the [Android][] mobile platform, working on its kernel and system stack. Nowadays I work on the distributed system that powers Google's web search. Prior to Google I did a bit of [Linux kernel work](http://www.kernel.org/pub/linux/kernel/people/rml/ "Robert's kernel work."), most recently at [Ximian](http://en.wikipedia.org/wiki/Ximian "A company which mades GNOME applications, bought by Novell."), which was acquired by [Novell](http://www.novell.com/ "Makers of 'infrastructure software.'").
 
 I also write books. My latest is the third edition of [Linux Kernel Development](http://www.amazon.com/gp/product/0672329468 "Robert's book on Amazon.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have four machines in my life: my workstation, my laptop, my server, and my smartphone. With each passing day, the phone is becoming the most important and useful of the four. It is hard to believe how stagnant and broken that industry was just three years ago, before the advent of iPhone and Android.
 
@@ -31,7 +31,7 @@ My smartphone is an Android-powered [Nexus One][nexus-one]. I love the gorgeous 
 
 My most-used consumer electronics device is a [Kindle 2][kindle].
 
-#### And what software?
+### And what software?
 
 My workstation runs Google's in-house version of [Ubuntu][], creatively named [Goobuntu][]. I run the [GNOME][] desktop environment (the default in Goobuntu). My main applications are [GNOME Terminal][gnome-terminal], [VIM][], and [Chrome][]. I do all my coding in VIM. For Android, I wrote in [C][], but my current project is mostly [C++][c-plusplus]. I'm coping. At Google, we use [GCC][], with a lot of nice productivity and development tools around that and we have vimrc files to tie everything together. It is the most powerful and productive C/C++ development environment I have ever used.
 
@@ -43,7 +43,7 @@ My phone runs Android 2.2 "Froyo." My most frequently-used apps are Twitter for 
 
 Most of my non-coding time, across all of these devices, is spent on the web. [Gmail][], [Google Calendar][google-calendar], [Google Reader][google-reader], and [Twitter][] are my most-used web apps. I store data in Dropbox. I use [Google Docs][google-docs]. I just need cloud-based streaming and storage of my music.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love a laptop with the profile and weight of the MacBook Air but with a gorgeous, high-resolution, pixel-dense display and with days upon days of battery capacity. Lots of RAM, SSD, and a fast but (more important) energy-efficient ARM core.
 

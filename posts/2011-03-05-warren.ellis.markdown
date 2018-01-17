@@ -6,11 +6,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name's [Warren Ellis](http://www.warrenellis.com/ "Warren's website."). I live in southeast England. I'm a writer. Mostly comics and graphic novels, sometimes books and journalism, occasionally involved in film and tv. If you saw RED at the cinema, you helped me buy food for my daughter's horse. Thanks.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Main machine is a brand new [Thinkpad W701][thinkpad-w701] with a 17-inch screen and 16GB of DDRAM, running [Windows 7][windows-7]. It's always piped into a Western Digital 1TB MyBook external drive, Altec Lansing speakers, a Canon printer and an LG DVD drive.
 
@@ -22,7 +22,7 @@ Phone is a [16GB iPhone 3GS][iphone-3gs], bluetooth-paired with an old Nokia fol
 
 I have a [Kindle 3][kindle], the wifi-only version. I am very fond of my Kindle, and here's one reason why. Reading a Sunday newspaper magazine, discovering a writer I'd never heard of who sounded very interesting, quick scan of the Kindle store on my phone discovers his autobiography, the large free sample downloads in seconds. I'm still at the table reading the magazine and flicking through the sample. I haven't finished my beer and I've bought the book, which is loaded onto the Kindle, which is in the other room waiting for me to come and sit down as soon as I've finished my beer at the table. That's the future I wanted.
 
-#### And what software?
+### And what software?
 
 Kind of a lot.
 
@@ -58,7 +58,7 @@ I will eventually remember to use [Remember The Milk][remember-the-milk].
 
 And my website uses [Wordpress][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would like to use less software. If that makes sense. When the Google Reader extension for Seesmic Desktop 2 broke for me -- as it seems it did for many people -- it meant I had to look for a second desktop app to give me live updates on new articles hitting Google Reader. I'm still looking for that One Desktop App That Shows Me Everything, so that I don't have to run six bloody apps just to get the full picture I want.
 

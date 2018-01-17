@@ -7,13 +7,13 @@ categories:
 - usability
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Máirín Duffy and I'm an [interaction designer](http://en.wikipedia.org/wiki/Interaction_design "Wikipedia entry on interaction design."). I create UI designs, mockups, and graphics, as well as perform usability testing and [ethnographic user research](http://en.wikipedia.org/wiki/Contextual_design "Wikipedia entry on contextual design.") for various open source software projects. I work at [Red Hat](http://www.redhat.com "Red Hat's website.") and I'm also the team lead for the [Fedora][] Design Team. Fedora is a popular [Linux](http://en.wikipedia.org/wiki/Linux "Wikipedia entry on Linux.") distribution.
 
 By the way, my name is pronounced "Maureen" - Máirín and Maureen are the same name, but I prefer the [Irish (Gaeilge)](http://www.daltai.com/home.htm "Irish information and resources.") spelling.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary machine (Aiko) is a [Lenovo Thinkpad x61 tablet][thinkpad-x61] with a 1400x1050 12.1" display, 2GB RAM, Intel Core 2 Duo L7500 processor, GM965 Intel graphics card, and a fingerprint reader that I use to log in. The tablet uses Wacom hardware and has a built-in pen which is very convenient. I love my x61 because it's far more portable than a Cintiq and extremely light.
 
@@ -23,7 +23,7 @@ I have a black [Canon Digital Rebel XTi SLR camera][digital-rebel-xti] for serio
 
 As far as other portable devices go, my music player is [the pink Sansa Clip 2GB model][sansa-clip]. It supports [OGG Vorbis](http://vorbis.com/ "The official site for the OGG audio format.") format and works great on Linux, both of which are very important to me. It's a very small device and has a built-in sound recorder, so it's very useful for recording interviews when I'm conducting user research. My phone is an old, basic, but pink (noticing a trend here?) [Virgin Mobile Flasher v7 phone][flasher-v7]; I would like to upgrade to a smart phone at some point, but I'm not ready yet. I'm waiting for the perfect open-source-friendly and Linux-based phone.
 
-#### And what software?
+### And what software?
 
 My primary operating system is [Fedora 11][fedora]. A new version of Fedora comes out every 6 months and I upgrade to the latest version on my laptop about as soon as it comes out. I have Fedora 8 running on my home machine, however; I'm hoping to get around to upgrading it at some point. The only other operating system I use on my systems is [Red Hat Enterprise Linux 5][rhel]. It's on my systems that I use to host stuff - I hook them up to [Red Hat Network][red-hat-network] and I don't worry about them too much. My desktop of choice is [GNOME][].
 
@@ -43,7 +43,7 @@ As part of my work at Red Hat and as part of my participation in theFedora commu
 
 There are a couple of tablet-centric tools that I use that have proven very helpful. [Xournal][] is a note-taking application aimed at tablets, and it's great for jotting down notes as I'm conducting a user interview or recording diagrams drawn during a meeting for later reference. It's also nice for filling out PDF forms so I don't have to waste paper printing them out, signing them with a pen, then re-scanning them into PDF format. Another useful tablet tool is [CellWriter][], which enables handwriting-to-text recognition - very useful for when I have my keyboard folded out of sight but I need to type text on-screen.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would likely involve a lot of custom-made hardware and a lot of metallic pink hardware, and potentially [Hello Kitty](http://kittyhell.com/ "A weblog dedicated to Hello Kitty items.") graphics. I wouldn't change anything about the software I use except maybe in my dream setup some of my pet bugs would be fixed and pet features would be implemented. For example, I'd love for Inkscape to have a timeline and animation tools, and I'd love for PiTiVi to have more filters and effects.
 

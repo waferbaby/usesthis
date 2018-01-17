@@ -7,11 +7,11 @@ categories:
 - producer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Chris](http://www.chris-zane.com/ "Chris' website.") and I'm a record producer. I work out of a studio in lower Manhattan that used to belong to Philip Glass. I'm originally from upstate NY, have played and studied music since I was in grade 4, but didn't get into recording until my early 20's.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I spend a lot of time fiddling on a [Mac Pro][mac-pro], and spend even more time in front of a [30" Apple Cinema Display][cinema-display]. It's a Nehalem 8 core 2.26ghz with 6gb RAM. Recently I've moved from Glyph external drives, to simply working off [WD Caviar Black drives][caviar-black] internally, and just keeping the last 2-3 projects on there at a time. 
 
@@ -25,12 +25,12 @@ Aside from computers though, I use quite a bit of analog equipment. Probably mor
 
 One last piece of gear that I'm really keen on is the [UBK Clariphonic][clariphonic]. This might be a little too geeky to talk about here, but I think it's worth mentioning because it's become such an integral part of my workflow. Long story short it's a kind of a parallel equalizer. Which is basically just fancy talk for an EQ that adds to the original sound, rather than just simply effect the original sound only. It's extraordinarily simple and beautifully musical. One of my all time favorites.
 
-#### And what software?
+### And what software?
 
 My main platform is [Pro Tools][pro-tools], but from time to time I do use [Ableton][live]. I have a vast array of plugins, but one thats worth mentioning is the UAD 2 setup that I have. I think they're just about the best sounding audio plugins that have ever been made. Period. They seem to go the extra mile modeling the plugins after really great pieces of analog gear, not to mention they are able to get licensing from some of the original companies and work with them, to make sure they really capture all the little nuances. I appreciate that. 
 
 I always recommend people check out [QuicKeys][], [Transmit][], and anyone that works in a recording studio should check out this rad application called [Teaboy Audio][teaboy-audio], which is used to replace paper recalls of equipment settings. It stores your notes on the cloud rather than locally, which is extra handy should you like to look up a setting for something anywhere, anytime.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 This sounds like an obnoxious thing to say, but I feel like I am pretty close to my dream setup, to be honest. At least from a tech point of view. I would like to add a 2nd display that is smaller and closer, for up close/fine tune edit jobs, or just co-op my iPad if I could find a app that had a frame rate fast enough so there was no noticeable lag, but aside from that, the only thing I think I would change is my location/the interior of my control room.

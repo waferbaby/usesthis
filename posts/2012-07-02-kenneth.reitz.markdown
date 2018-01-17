@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Kenneth Reitz. I'm a minimalist that loves APIs, web services, elegant design, and [Python][].
 
@@ -17,9 +17,9 @@ I'm most well known for my [open source software](https://github.com/kennethreit
 
 I'm also passionate about [digital photography](http://500px.com/kennethreitz/ "Kenneth's 500px account.") and [music production](https://vimeo.com/44188595 "Kenneth's Monome video.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
-I spend most of my time working on a quad-core i7 15" [MacBook Pro][macbook-pro]. It's the only computer I use, for both work and play. Using a single machine for everything is a bit of a pipe dream for me — I maintained a [crazy cluster of computers](https://sphotos.xx.fbcdn.net/hphotos-snc7/5135_110310080131_1578213_n.jpg "A photo of Kenneth's older computers.") in college.
+I spend most of my time working on a quad-core i7 15" [MacBook Pro][macbook-pro]. It's the only computer I use, for both work and play. Using a single machine for everything is a bit of a pipe dream for me --- I maintained a [crazy cluster of computers](https://sphotos.xx.fbcdn.net/hphotos-snc7/5135_110310080131_1578213_n.jpg "A photo of Kenneth's older computers.") in college.
 
 It has 16GB of RAM and 1.25TB of storage. 250GB is provided by an Intel 520 SSD and 1TB is provided by a Western Digital HDD mounted in the optical bay with an OptiBay.
 
@@ -43,7 +43,7 @@ I usually play games with a hacked [PSP Go][psp-go] loaded with [NES][], [SNES][
 
 I tell the time with a Mondaine Swiss Railway watch.
 
-#### And what software?
+### And what software?
 
 I write my software with Python, store it in [Git][] on [GitHub][], and test it with [Jenkins][]. My code is backed up hourly to [Amazon S3][s3] with [Arq][]. 
 
@@ -57,7 +57,7 @@ I play my FLAC collection with [Enqueue][enqueue] and everything else with [Spot
 
 I edit photos with [Adobe Photoshop Lightroom 4][lightroom] and publish them with [Flickr][] and [500px][].
 
-I sequence music with [Ableton Suite][suite-8], [Renoise][], and a few Native Instruments synths: mostly Razor, Massive, and FM8. I master samples and tracks with Cool Edit Pro… er, [Adobe Audition][audition] via an [Adobe Create Cloud][creative-cloud] subscription. 
+I sequence music with [Ableton Suite][suite-8], [Renoise][], and a few Native Instruments synths: mostly Razor, Massive, and FM8. I master samples and tracks with Cool Edit Pro... er, [Adobe Audition][audition] via an [Adobe Create Cloud][creative-cloud] subscription. 
 
 Everything else: I use GitHub's [Gaug.es][gaug.es] for web analytics. I use [Cloak][] to keep my connections secure while on the go. I've been weaning myself off of Hacker News lately with [Prismatic][].
 

@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a [preacher](https://www.youtube.com/watch?v=f4hVxT1is98 "A YouTube video of one of Matt's sermons."), an [essayist](https://www.poetryfoundation.org/poetrymagazine/browse?contentId=68713 "Matt's writing.") and a [podcast host](https://www.christiancentury.org/preachers-on-preaching "Matt's preacher podcast."). I live in Chicago with my wife, who is a psychotherapist. We're joined by our three kids and Zeus, a pit bull mix. She kills rats. I serve the best liberal church, [Saint Pauls UCC](http://spucc.org/ "A church in Chicago."). I also write devotions that elicit outraged email from strangers.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My beautiful bicycle was stolen, so I ride a Surly Karate Monkey with a gigantic Wald basket to visit hospitals and see people in their homes. I'd call myself a bicycle commuter, but I live in wonderful church housing less than 100 yards from Saint Pauls. To get there I walk down a rat infested alley. To kill the rats that get in our yard I use Zeus. To kill the rats in the alley I use a combination of glue traps and three feral cats, all of whom live at the church.
 
@@ -22,7 +22,7 @@ I listen to a lot of music, both to put liturgies together and to energize or so
 
 At work I have a [Razer Leviathan soundbar][leviathan] hooked to my iMac. During the workday I make coffee with an [Aeropress][]. 
 
-#### And what software?
+### And what software?
 
 My office is gigantic, elegant, wood-paneled, old. Imagine the office Dumbledore would have if he were a senator. It's ridiculous. There are walls of built-in bookshelves that hold a large theological library. I use books every day, old school page turning. I have too many books because I once believed I could learn my way to God.
 
@@ -30,6 +30,6 @@ I write short, quick things in [Word][] for Mac 14.7.3, Courier, 14 point font. 
 
 I record podcasts with [Audio Hijack][audio-hijack]. I love this program. It always works and is very simple. If my guest isn't in my office I use [Skype][] with the video turned off. Video conferencing unnerves me. I make to-do lists with a Uni-Ball Signo and scrap paper. I talk to church members on a land-line phone, over email (when will it end?) and in text messages. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To be honest, I've got my dream setup. Maybe less email and a more reliable home computer. As a kid I wanted a stand-up architect desk that I could adjust at an angle, but why? I'm terrible at math.

@@ -8,13 +8,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I blog at [inessential.com](http://inessential.com/ "Brent's website."). I'm one of the founders of [Sepia Labs](http://sepialabs.com/ "Sepia Labs' site."), where I write Glassboard for iOS. I've started doing web development again just recently, which is fun, but mostly I'm a Cocoa coder.
 
 In the past I created [NetNewsWire][], now at [Black Pixel](http://blackpixel.com/ "Black Pixel's site."); TapLynx, now at [Push IO](http://push.io/ "Push IO's site."); and [MarsEdit][], now at [Red Sweater](http://www.red-sweater.com/ "Red Sweater's site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'll skip enumerating my computers and displays, mainly because I'm a little paranoid about doing that - but also because they're not that interesting. Let's assume I have what I need to do my job, including the usual run of iOS devices. I'll mention some other things instead.
 
@@ -24,7 +24,7 @@ My most important piece of hardware, which I love even more than my trackpad, is
 
 Other perhaps-interesting office hardware: a [Verilux Happy Light][happylight-deluxe], which I run for a few hours every morning, which keeps me even-keeled. Four heavy Boeing surplus tables arranged in a U and strong enough to withstand massive earthquakes. (Our plan is to huddle under them, with our cat, when the 9.0 hits Seattle.) A cheap [Fender Squier][squier] and Frontman 15G amp. A box of [old-style Pilot Razor Point][razor-point] black pens. A graph-paper notebook I bought for 5 francs at Prisunic in 1992 that I've only recently started using.
 
-#### And what software?
+### And what software?
 
 Lately I've been trying to deal with ever-increasing complexity - and my own impatience - by moving as much as I can back to Terminal apps. Most of this is just about switching to one text editor - [Vim][] - for everything, including writing email, blog posts, notes, HTML, style sheets, and code.
 
@@ -42,8 +42,8 @@ I use the wonderful and better-than-grep [ack][] on the command line. For SCM I 
 
 Somehow, just in the past few days, I've finally moved from Monaco to Consolas. I never thought I'd switch from Monaco. (I would have gone with Menlo, but it's a bit too blurry for me.)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
-I wish wish wish that my iPad had a retina display. I don’t think we can over-estimate how stunning that will be.
+I wish wish wish that my iPad had a retina display. I don't think we can over-estimate how stunning that will be.
 
-That’s it — that’s all I wish for.
+That's it --- that's all I wish for.

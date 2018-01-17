@@ -8,17 +8,17 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Peter Molfese; I work as a Research Scientist at [Haskins Laboratories](http://www.haskins.yale.edu/ "A writing and speech research community.") studying how people learn. And if that isn't interesting enough, I use a variety of neuroimaging techniques (EEG, fMRI) to look at how the brain develops and changes during learning. I have a PhD in Psychology with a minor in statistics and an undergraduate degree in Computer Science.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I have an Apple [Mac Pro][mac-pro] with 12 "Westmere" cores, 40GB of RAM and a [27" Apple Thunderbolt Display][thunderbolt-display]. This manages to do some fraction of my work; I also farm some of the processing to four other Mac Pros with the similar specs, controlled by the now discontinued [Xgrid][]. I utilize an [Apple Keyboard][keyboard] with keypad and [Magic Mouse][magic-mouse], with a second-generation [Drobo][] for storing data; at most times I have an [Astro A40 headset][a40] for keeping out distracting noises. My chair is a [Herman Miller Aeron Chair][aeron], which solved most of my back problems that developed before I learned how important a good chair is. 
 
 My personal computer is a mid-2011 1.8Ghz Core i7 "Sandy Bridge" [MacBook Air][macbook-air] with 4GB of RAM and 256GB flash storage. I read books and browse the interwebs on the couch using my [iPad 2][ipad-2] Wifi with 32GB of storage. I'm rarely without my black [iPhone 5][iphone-5] on Verizon.
 
-#### And what software?
+### And what software?
 
 Both my work and home computers are running [OS X][mac-os-x] Mountain Lion. I install [homebrew][] for easy access to a number of tools, including the [GNU Scientific Library][gsl] and [GNU Parallel][parallel]. I use [Apple Mail][mail] for email, manage music in [iTunes][], photos using [iPhoto][] and [Aperture][] and my DVD collection with [Delicious Library][delicious-library]. My daily schedule is managed by [Calendar][ical] (formerly iCal) and [Fantastical][]. For odds and ends, there is still a [Yojimbo][] size hole in my workflow as I wait for an [iCloud][] compatible version. In the meantime I'm trying out [Evernote][], and I like it. I have been using [BBEdit][] as a quick powerful text editor for about a year, and it has changed my life in positive ways. 
 
@@ -26,7 +26,7 @@ For analysis of the neuroimaging data I use [AFNI][] (Analysis of Functional Neu
 
 For writing articles/books/etc, I use [Microsoft Word 2011][word] and [Microsoft Excel 2011][excel] (hoping to transition to [iWork][] someday), managing journal article PDFs in [Papers 2][papers]. For figures, I rely on a combination of Python/matplotlib, R, and [Adobe Creative Suite 5][creative-suite] ([Photoshop][], [Illustrator][]). For web browsing, I'm a fan of [Safari][] (nightly build) and [1Password][] for managing the somewhat obscene number of passwords the web now requires. I present with [Keynote][]. My workflow for web development uses [Dreamweaver][], [Coda 2][coda] and [Transmit][]. And of course, none of this would be possible without [Dropbox][]. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love to move most of my work to a 15" [MacBook Pro][macbook-pro] with Retina and pair it with dual Thunderbolt displays. For heavy computing, I would opt for five to ten Mac Pros and a job submission setup using either [Condor][htcondor] or [Hadoop][] (possibly both). I would also likely upgrade to a [Drobo 5D][drobo-5d], for the speed and capacity boost. 
 

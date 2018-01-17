@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Aura](https://twitter.com/sharpened_C "Aura's Twitter account."), a visual novel writer and independent game developer. I'm best known for my work on the visual novel [Katawa Shoujo][katawa-shoujo] with the Four Leaf Studios. I also have an [uncohesive tumblr](http://auramart.tumblr.com/ "Aura's Tumblr site.") I update less than I'd like to, and a literature podcast called [The Epiloguists](http://epiloguists.com/ "Aura's podcast.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A writer has little need for specialized hardware, and barely any of the gear I have was acquired with writing specifically in mind. Nevertheless, being at my own setup has become a comfort zone for me, but I've found that I can, and will, carve words with a toothpick on a piece of orange peel if it comes down to that.
 
@@ -20,7 +20,7 @@ I have a soon four year old custom-built desktop PC, and as long as it won't cat
 
 For mobile writing I have a bunch of pocket notebooks such as Moleskines that I strategically place in things I carry or wear so the only place where I'm without one is the shower, and my Samsung [Galaxy Gio smartphone][galaxy-gio] that I once took with me to the shower.
 
-#### And what software?
+### And what software?
 
 My PC still runs [Windows Vista][windows-vista] because the thought of upgrading my OS gives me anxiety, and Vista works sort of ok. My tastes in writing software are simple. [OpenOffice 3.3][openoffice] is the trusty workhorse of my stable. It doesn't get in the way of writing, which is the most desirable quality in a text editor. [Notepad][] is mostly used to digitally scribble down all my incoherent ideas, throwaway concepts and unused fragments, spread across hundreds of text files that probably form fractal patterns I hope to one day decipher into stories. When I start working on something that's too big to fit in my head all at once, I fire up [yWriter 5][ywriter] and meticulously note down everything I can, lest I forget and lose them forever.
 
@@ -28,7 +28,7 @@ Writing is not just writing however, and managing projects takes quite a few mor
 
 For swimming in the stream of social media, I use [Tweetdeck][tweetdeck-android] and the [Twitter app][twitter-android] for Android. All of this stuff was mostly chosen, or maybe settled for for the convenience factor, because I don't want to fight my tools in addition to struggling with the stuff I actually want to do. If a thing doesn't make me want to punch it, it's good enough for me.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm either in a good place already with my equipment, or too numb to feel a need for significant upgrades, so maybe my environment would be the thing to dream about. Some writers work the best in seclusion, and even I can't help feeling sometimes that the best thing for me too would be a hardened concrete bunker dug 30 feet under desert sand in the Gobi. However, the real dream setup, if I think about keeping doing what I do, would be a physical office for the studio (and since it's a dream, it should probably be on the Moon). 
 

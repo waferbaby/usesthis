@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a principal at [Project Projects](http://projectprojects.com/ "Projects Projects' website."), a design studio in New York. I teach at [RISD](http://gd.risd.edu/ "The graphic design department of the Rhode Island School of Design."), and I write about design and other things that race through my brain at [Lined & Unlined](http://linedandunlined.com/ "Rob's website.") and volley ideas at [The Mavenist](http://themavenist.org/ "Back and forth conversations.") with Frank Chimero. Otherwise, I try to keep busy and out of trouble. I routinely have too many emails and not enough slices of pizza.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've always used a single notebook at a time (currently: Moleskine Cahier Large Ruled Notebook Kraft Brown). Ideas get kind of messed up in there together so they can cross-pollinate. Usually I inscribe the start and end dates inside the front cover. In the same way, I like having a single computer at a time (currently: [13" MacBook Air][macbook-air]). Everyone says this, but it's the best laptop I've ever owned. I particularly love the SD slot, and bring a Lexar Pro 128GB SD Card with me everywhere I go. It's kind of a digital junk drawer with presentations I've given, movies to watch, image archives to share with students, etc. I have a bunch of [G-Drive Minis][g-drive-mini] and use them for a variety of on-site and offsite backups. Because the Air's HD is small, it's easy to backup and sync to the cloud with [Dropbox][]. Fantastic and lightweight in every way.
 
@@ -19,7 +19,7 @@ We have an [iPad][ipad-2] at the studio for testing things, and it's undeniably 
 
 I use 3-4 Bigso Stockholm Letter Boxes (Graphite) each year for the beautiful papers I want to keep, and I use a [Fujitsu Scan Snap S1500M][scansnap-s1500m] for the ones I want to shred. I cut cable and got an [Apple TV][apple-tv], which I love. Other hardware includes a paper copy of The New York Times, which arrives at my doorstep, and a [Uniform Wares 150 Series Rose Gold Wristwatch][150-series], which came as a gift. The paper allows me to unwind offline on the weekends, while the watch allows me to check the time discreetly during meetings and attempt to look like a grown-up.
 
-#### And what software?
+### And what software?
 
 [Fluid][] runs a lot of the things in my dock, including [Google Apps][google-apps] for work, [Gmail][] for life, [Google Calendar][google-calendar], [Basecamp][], and lesser-used things like [Pandora][] and [Tumblr][]. I also wish it played a little nicer with [1Password][], which is otherwise also fantastic. Hopefully people are working on this. 
 
@@ -33,7 +33,7 @@ I still use [TextEdit][], but I'm using [IA Writer][ia-writer] more and more as 
 
 On the iPhone, it's much of the same, but I pass time on Svpply, tweet sporadically with [Tweetbot][tweetbot-ios], jockey email with [Sparrow][sparrow-ios], listen to brainy chatter on [Instacast][instacast-ios] (current household nickname: "Podcast"), and kill the occasional 15 minutes with the addictively simple [UFO on Tape][ufo-on-tape-ios]. Buy it now.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I already feel like I live in the future, so I'm not sure what more I could possibly want; in fact, the older I get, the more actively I want less rather than more, with the exception of time. 
 

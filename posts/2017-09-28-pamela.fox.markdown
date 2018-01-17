@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Pamela Fox](http://www.pamelafox.org/ "Pamela's website."). My day job is being the CTO at [Woebot Labs][woebot], where we're making a chatbot that helps you track your moods and reduce your negative thinking habits, based on the techniques of Cognitive Behavioral Therapy. 
 
@@ -17,7 +17,7 @@ For sanity, I have a daily morning practice, which consists of meditation, Tibet
 
 I'm also a [recovering craftaholic](https://medium.com/@pamelafox/coding-a-hobby-for-the-waste-adverse-c98ec813040 "Pamela's Medium article on creating.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Don't try this at home, kids: I'm using a 5-year-old [MacBook Pro][macbook-pro]. Super heavy, broken webcam, broken-90%-of-time USB drive, and a trackpad that gets possessed every 3 months from the spirit of The Water Damage.
 
@@ -31,7 +31,7 @@ My improv setup: a laser-cut [Improv Marquee](https://www.thingiverse.com/thing:
 
 My meditation setup: a pillow, a belt or strap (to counter my slouching tendency), and a [doorknob hanger](http://www.instructables.com/id/Laser-Cut-Double-Sided-Wooden-Doorknob-Hanger/ "Pamela's doorknob hanger design on Instructables.") to let my roomies know what I'm doing.
 
-#### And what software?
+### And what software?
 
 We're coding up Woebot using JS gosh-darn-everywhere. The bot code is a [Node.js][] [AWS][] Lambda Function, the long-running tasks are handled by a worker tier Node [Beanstalk][aws-elastic-beanstalk] server, and the website is another Node Beanstalk server. Our "CMS" is a [Google Spreadsheet][google-sheets], and we use [Google Apps Script][google-apps-script] ([JavaScript][]) to lint and export the content.
 
@@ -39,7 +39,7 @@ We use [Atom][] as our editor of choice, because all the cool kids use it these 
 
 Besides coding, I'm an Adobe addict. I use [Illustrator][] to make [designs](https://www.thingiverse.com/pamelafox/designs/ "A list of Pamela's designs on Thingiverse.") for the TechShop laser cutter, and [Photoshop][] for anything else I can justify.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Here's what I'm envisioning:
 

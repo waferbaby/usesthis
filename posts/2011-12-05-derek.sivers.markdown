@@ -5,11 +5,11 @@ categories:
 - linux
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Derek Sivers](http://sivers.org/ "Derek's website"). Founded [CD Baby](http://cdbaby.com/ "An online music store.") in 1997, [sold it](http://sivers.org/trust "Derek's post on selling CD Baby.") in 2008. I [speak at TED](http://www.ted.com/speakers/derek_sivers.html "Derek's TED speaker page."), wrote [a book](http://sivers.org/a "Derek's book page."), [moved to Singapore](http://sivers.org/singapore "Derek's post on moving to Singapore."), and am now starting some [new](http://50pop.com/ "The 50pop site.") [companies](http://woodegg.com/ "The Wood Egg site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 * [Lenovo T400s][thinkpad-t400s] Linux laptop.
 * Google [Nexus One phone][nexus-one] (free gift from TED Conference).
@@ -21,7 +21,7 @@ That's all. I've been living out of [a carry-on bag][tri-star] for a few years, 
 
 Best feature of the Lenovo T400s laptop is its DVD bay can be removed with a switch and replaced with an easy 2.5" drive bay that you can just pop drives in and out of, with no screws. So I have everything backed-up twice on two cloned 2.5" terabyte drives. And two cloned drives filled with the entire collection of Roger Ebert's ["Great Movies"](http://rogerebert.suntimes.com/apps/pbcs.dll/section?category=greatmovies_fulllist "Robert Ebert's 'Great Movies' list.").
 
-#### And what software?
+### And what software?
 
 I love love LOVE [Arch Linux][arch-linux]. I used to be an [OpenBSD][] fan, but it was sometimes a drag for day-to-day laptop use. I switched to [FreeBSD][], which I still love, but missed having Flash for YouTube. I used [Ubuntu][] for a while, but it felt too hand-holdy, too much stuff pre-installed, like those awful Windows computers where the manufacturer has installed a bunch of crap in advance "for your convenience".
 
@@ -52,7 +52,7 @@ Lastly, I also use [Skype][], but hope that someday I could use a command-line V
 
 No apps on my phone. When I'm away from my computer, I enjoy being pretty disconnected. But I do use its built-in Google Maps + GPS, since I'm usually in places I've never been.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm very happy with this. Any shortcomings are my own, not my gear's.
 

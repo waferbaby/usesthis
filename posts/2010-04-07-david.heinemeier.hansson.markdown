@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [David Heinemeier Hansson](http://loudthinking.com/ "David's website."). I'm the creator of the web-framework [Ruby on Rails][rails] and a partner at [37signals](http://37signals.com/ "They make web applications."). I was in born in Copenhagen, Denmark, but I've been living in the US for the past 4 years (just got my green card too, so I'm not going back!).
 
 I care about beautiful code and sustainable businesses. I'm also allergic to "that's just the way it is".
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In Chicago, I use a 24" [cinema display][cinema-display] and a combination of a 17" [MacBook Pro][macbook-pro] w/ SSD and a [MacBook Air][macbook-air].
 
@@ -27,7 +27,7 @@ In both places I use the awesome [ScanSnap][scansnap-s1500m] from Fujitsu to tak
 
 I'm a big fan of the [iPhone][] and I'm lusting for the [iPad][].
 
-#### And what software?
+### And what software?
 
 For programming, I'm all about [TextMate][]. I helped Allan Odgaard get the original version released out of a selfish need for a decent editor on OS X. I'm still very happy with 1.x. It'll be nice to get 2.0 out there, but really, the original is still plenty awesome for me.
 
@@ -39,7 +39,7 @@ In short order, I also use [NetNewsWire][], [Tweetie][], and [Skitch][].
 
 On the web, I mostly end up building the software that I need. So that'd include [Basecamp][] for project management, [Highrise][] for contact tracking, and [Backpack][] for all the loose ends that don't fit anywhere else.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It's never fast enough until it's instant. So I'll take more speed any day. I'd also take even better synchronization between machines. Especially when you factor in iPhones and iPads. I just want my stuff available everywhere. Maybe that's why I love web applications.
 

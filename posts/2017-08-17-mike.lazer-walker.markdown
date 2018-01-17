@@ -10,13 +10,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Mike Lazer-Walker](http://lazerwalker.com/ "Mike's website.") (yes, that's my real name!). I make installation art and experimental games that ask people to interact with everyday objects in unexpected and playful new ways. A lot of my work involves vintage technology, such as [fully-functional USB telegraph keys](http://lzrwlkr.me/morsekey "Mike's USB telegraph key on Etsy.") and [a game played on a 90-year-old telephone switchboard](http://lazerwalker.com/hellooperator "Mike's telephone switchboard game."). Other projects revolve more around recontextualizing familiar objects and spaces, such as a [generative poetry walk in San Francisco's Fort Mason][computational-flaneur-ios] and a game where you [sext with a robot](http://lazerwalker.com/sextmachine "Mike's algorithmic sexting bot game.").
 
 Aside from my art practice, I build software tools. I care a lot about making sure that we're building technology and providing tools that actively enable and empower people to improve themselves. This tends to manifest itself in open-source software tools to help other programmers be more productive (my day job is building [iOS][] and web apps), "quantified self"-style tools mostly built for my own purposes, and educational projects to help others teach themselves new skills. I've spent a lot of time in spaces designed to foster self-driven creative learning, such as the [MIT Media Lab](https://media.mit.edu/ "The Media Lab at MIT.") (where I was a researcher with the now-defunct Playful Systems group) and the [Recurse Center](https://recurse.com/ "A developer retreat program in New York City.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main computer is a [12" MacBook][macbook.2]. It still feels weird using a computer with a lower GeekBench score than my phone, but I travel a lot and prefer to work out of coffee shops, so it's hard to put a price on having a laptop light enough I can legitimately forget it's in my bag. I'll occasionally augment it with my beefy home-built gaming PC at home or a Linux virtual box from [DigitalOcean][] if I need to do something more computationally intensive. It's usually paired with my [AirPods][], which I adore.
 
@@ -26,7 +26,7 @@ Most of my screen time is frankly spent on my [iPhone 6S Plus][iphone-6s-plus]. 
 
 I take a lot of freehand notes, typically using Moleskine notebooks (hardcover, paperback-sized, and with grid rule, please) and [Pilot Vpen][vpen] disposable fountain pens. They give me the tactile enjoyment of fountain pens without having to feel bad about losing them or getting sucked into the rabbithole of yet another time-consuming and pricey hobby.
 
-#### And what software?
+### And what software?
 
 For writing code: if I'm not writing native iOS apps in [Xcode][], you can usually find me in [Visual Studio Code][visual-studio-code]. Making games that use weird custom physical interfaces, I tend to write mostly cross-platform ES6 or [TypeScript][] code that can run anywhere from a [Raspberry Pi][raspberry-pi] as part of a physical installation to an iOS app that wraps the shared JS game logic in a native [Swift][swift.2] UI wrapper (which is incredibly useful for playtesting purposes). It's incredibly powerful to be able to write a single game engine that can run anywhere from a Unix shell to an iPad to a physical 90-year-old telephone switchboard.
 
@@ -40,7 +40,7 @@ Along with Bike NYC, a lot of the other apps I use frequently are ones I've buil
 
 I spend more time than I should playing videogames (it's "professional research", I swear). Although I love my [Nintendo Switch][switch.2], most of my gaming time is spent on my phone or tablet. I maintain a [list](http://lazerwalker.com/ios-games-list/ "Mike's list of his favourite iOS games.") of my favorite mobile games.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I can point to specific pieces of hardware I'd like --- an [iPad Pro][ipad-pro] so I can use an [Apple Pencil][apple-pencil] with Onshape and drawing software! One of the new beefier 12" MacBooks! A home PCB mill like an [Othermill][] so I can prototype PCBs without the turnaround time of mail services like [OSH Park](https://oshpark.com/ "A site for ordering printed circuit boards.")! --- but changes to my tools at that level are just incremental improvements.
 

@@ -7,11 +7,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Jessie Frazelle](https://blog.jessfraz.com/ "Jessie's website.") - some people call me "Jess", but I pretty much answer to anything except "Jessica". I'm a software engineer at Google. Most notably you might know me from being a maintainer of [Docker][] and "running everything in containers". I am also a contributor to a lot of other open source projects such as [runC][] and [golang][go]. I'm currently working on making containers more secure. I absolutely love all things Linux.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Let's see... I have quite a few setups, so I'll go over each of them.
 
@@ -25,7 +25,7 @@ I also have the SONOS surround sound speakers, and I'm waiting for Matthew Garre
 
 I use [Yubikeys][yubikey] for basically all 2FA, SSH, and GPG.
 
-#### And what software?
+### And what software?
 
 Globally: I use [vim][] (specifically [neovim][]), and my configuration is [here](https://github.com/jfrazelle/.vim "Jessie's vim config on GitHub."). This also works for plain old vim as well.
 
@@ -33,6 +33,6 @@ Dell XPS 13: I use [i3][] as my window manager and have converted SO many people
 
 Chromebook: I do not use [crouton][]. All I use if I need a terminal is the [SSH extension][secure-shell] to tunnel into a remote box. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A mainframe. Something so powerful I could just laugh mwahhahahahaha and stroke a white cat.

@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! My name is James Primate and I am a musician, video game developer and general internet basement art type person. For music, I'm mainly known for [Bright Primate](http://brightprimate.tk/ "James and Lydia's chiptune band."), a chiptune/vocal duo with my writing partner Lydia, as well as some assorted [video game soundtrack](https://jamesprimate.bandcamp.com/ "James' video game soundtracks on Bandcamp") work. As for game development stuff, in 2013 I co-founded a little company called Videocult with the lovely artist / programmer Joar Jakobsson for the purposes of making our current project (and white whale) [Rain World][rain-world], published by Adult Swim Games for [PS4][], PC, whatever.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Odds and ends mostly! For ye olde chiptune music band I use a collection of repurposed old [Nintendo Game Boys][game-boy] that have been customized for better sound quality and backlit for visibility on stage. I also use a number of [iPads][ipad-2] for performance, either for live-triggering samples or as touch based synthesizers, etc. Lydia uses a [TC Helicon VoiceLive Touch 2][voicelive-touch-2] for live vocal effects. Little of my music performance gear is what one would consider a proper musical instrument, though I do have a [microKORG XL keyboard][microkorg-xl] that I use for coding and the occasional melody line.
 
@@ -25,7 +25,7 @@ I have a collection of keyboards and hardware synths, but mostly they just colle
 
 As for video game production (AKA my real job), up until a few days ago I had mostly been using the same old Asus X750JB laptop from above and had been feeling pretty smug about it. I'm kind of anti-gear, like "you don't need expensive equipment to make art!" sort of philosophy, so having a workman-like middle of the road laptop appeals to me on that level. But right now I'm working on the TV trailer for Rain World under a super tight deadline and the limited spec GPU and RAM of that workman-like laptop just couldn't handle dealing with the high quality 60fps 1920x1080 video capture or editing! It was awful! Would crash even just when scrubbing through the clips! So I ran out (literally), rushed to MicroCenter and picked up this horrible ugly monstrous abomination of a gaming laptop, and despite all my silly pretensions I totally absolutely love it. It's an [Asus Predator 17][predator-17] (lol) and it eats raw video for breakfast, spits out 4k renders like it's nothing. I'm hereby converted. It's got super tacky backlit red keys and is so obviously styled like Optimus Prime's codpiece, lmao. I feel like I need to go out and get a Call of Duty hoodie to complete my ascension.
 
-#### And what software?
+### And what software?
 
 For hardware chiptune on Game Boys I use a program called [Little Sound DJ][little-sound-dj] (LSDJ for short), which is a synthesizer and sequencer built into a Game Boy cartridge.
 
@@ -37,6 +37,6 @@ With the iPad you have so much more processing power at your disposal compared t
 
 For gamedev my personal workflow is mostly on bespoke software, editors and devtools that Joar wrote specifically for Rain World, but beyond that it's fairly standard stuff: [Unity][], [Microsoft Visual Studio][visual-studio], [Adobe CS][creative-suite] stuff like [Photoshop][], [Illustrator][], [Director][], etc. For video work I'm using [Magix Vegas Pro 14][vegas-pro] (used to be called "Sony VEGAS").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As mentioned before I'm pretty indifferent to gear so I don't have much in the way of dream equipment or aspirations in that direction (other than maybe a [Roli Seaboard][seaboard-rise] at some point), but being comfortable and quiet is key for me. I have pretty sensitive hearing, so I like to have some white noise in the background to cover up the assorted noises of the outside world. Also ideally this would be in a location where there is a good variety of food a walkable distance away; long enough to where one can think things over on the way but close enough to where it wouldn't interrupt the day to take a food break. Basics!

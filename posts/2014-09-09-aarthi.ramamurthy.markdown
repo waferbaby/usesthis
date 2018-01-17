@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Aarthi Ramamurthy](http://aarthir.com/ "Aarthi's website."), and I'm the founder of [Lumoid][] - we are a try-before-you-buy service, starting with photography and video gear. We rent and sell gadgets to consumers who are looking to try them before they decide to buy it, or want to rent items from us for a one-time use, like going on a vacation. I started Lumoid because I wanted to be able to try different gear that my friends were using or from reviews that I'd read about, but often, I'd buy it and then realize that it wasn't the best gear for me, and deal with having to re-sell it or return the gear.
 
@@ -15,7 +15,7 @@ I live in San Francisco, CA. In my spare time, I'm into photography and running.
 
 Before I started Lumoid, I built products at Microsoft, such as [Xbox LIVE][xbox-live], and worked at [Netflix][] on the video streaming software.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I am a self-confessed gadget lover, which partially explains why I work at Lumoid. I'm one of those people who backs gadgets on Kickstarter at least about once a month. It's a problem.
 
@@ -29,7 +29,7 @@ When I run, I wear my [Nike Fuelband][fuelband] and [Soul Transform On-Ear headp
 
 And finally, I own a [Chumby][], a [Samsung Galaxy Gear][galaxy-gear] smart watch and [Bose QC15 headphones][quietcomfort-15].
 
-#### And what software?
+### And what software?
 
 I love [Siri][] on my phone and use it nearly everyday to compose messages, emails, find restaurants etc. This almost always surprises people around me.
 
@@ -41,7 +41,7 @@ I use [Fidelity.com][fidelity] to trade stocks, and am a fan of the content on [
 
 I use [Firebug][], [Sequel Pro][sequel-pro], [Balsamiq][mockups], [Pivotal Tracker][pivotal-tracker], [Google Analytics][google-analytics] and [Sublime Text][sublime-text] for prototyping/development/analytics purposes.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm considering getting an [Apple 27-inch display][thunderbolt-display] at home, and maybe upgrade to a 13-inch MacBook Pro at work.
 

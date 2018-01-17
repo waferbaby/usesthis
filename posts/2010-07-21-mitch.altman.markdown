@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I](http://en.wikipedia.org/wiki/Mitch_Altman "Mitch's Wikipedia entry.") still don't know who I am, but I enjoy learning more as I go along. I'm an inventor, teacher, support community, and I love tricking people into doing what they love to do. Some highlights: I invented [TV-B-Gone][tv-b-gone], a remote control keychain that turns off TVs in public places. I'm a co-founder of [Noisebridge](https://www.noisebridge.net/ "The hackerspace in SF."), a San Francisco hackerspace, creator of [the Brain Machine project](http://makezine.com/10/brainwave/ "A sound and light device.") in MAKE Magazine, [give workshops](http://www.nycresistor.com/2010/01/15/mitch-altmans-electronics-workshop-129-8pm/ "A writeup on Mitch's workshop.") around the world on how to solder and make cool things with microcontrollers, and am CEO of [Cornfield Electronics](http://www.cornfieldelectronics.com "Mitch's electronics company.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home I use a PC that I put together myself about a year ago: Asus P5E motherboard (which I really like, but isn't available anymore), with quad-core P4 Q6600 2.4GHz CPU (though, I'm not sure it is much noticeable difference from a duo-core, but it was only $35 more for the quad-core, so what the hell), 4GB of 1066MHz RAM (since I do a bunch of hi-res graphics, multi-track audio recording, a bit of video editing, and RAM is pretty cheap, and the more the merrier), nVidia GeForce 8600 GT (I'm not a gamer, so this is fine for my video and graphics), [Marian Marc 8 MIDI sound card][marc-8-midi] (very decent, with 8 inputs and 8 outputs and 2 MIDI), and [3ware Escalade 7850][escalade-7850] 8-port RAID controller card (this model is no longer available, but I co-founded 3ware, and wrote most of the firmware, so I know it still works great, and there are drivers for Vista, my OS -- it gives me plenty of super fast storage, with redundancy).
 
@@ -20,7 +20,7 @@ I am very conscious of how much I sit at my computer and write/type. I hate usin
 
 While on the road, which is about half the time, I use my new [Lenovo ThinkPad T400][thinkpad-t400]. My previous IBM ThinkPad traveled with me all around the planet many times with never so much as a hiccup, but I got tired of lugging around the 10 pounds of weight (on top of all of my workshop parts and tools) -- thus the upgrade. It works so well, and it is just as rugged as my old one (which still works). And not only that, but the super battery I got with it lasts over 6.5 hours without a recharge. Mine has a duo-core 2.66GHz P8800 CPU, which pretty much screams with my 4GB of 1066MHz RAM. It has built in b-g-n wireless that has never failed me (unlike previous adapters I've used), and also WiMAX, which seems cool, but I haven't had the opportunity to try it yet. I also like that it has both the pointing stick as well as the scratchpad for moving the cursor. The straight keyboard is not so wonderful for my wrists for hours of typing (which I do anyhow), but at least it is full-sized. And the bright LED lit screen is almost a pleasure to look at.
 
-#### And what software?
+### And what software?
 
 My OS on my computer at home is [Windows Vista][windows-vista]. I do plenty of microcontroller hardware development that requires proprietary software that runs only on Windows. So, rather than have multi-boot, I just stick with one OS (but occasionally use an [Ubuntu][] live CD when I need to run a Linux-only piece of software). My OS on my laptop for travel is [Windows 7][windows-7], which is really nice. (I'd update my home desktop to Windows 7, but it is about half-way down on my to-do list, and my list grows too fast for me to ever get half-way down the list.)
 
@@ -56,6 +56,6 @@ Since making PDF files doesn't come with all software, I use [Win2PDF][], sharew
 
 Hard drives die. This is just a reality of computers. I used to use Norton Ghost to make disk images of my hard drives in the case of this inevitability. But Symantec made it all bloated and expensive, so I switched to Acronis [True Image][true-image]. It has a Windows interface, but I simply created a bootable CD ROM (which the software creates) and boot my computer from it to create my disk images (on to a large external drive) and can use it to re-create my system when my internal drive dies. It is almost painless to use.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As much as I use computers, I really hate them. I mean, they make everything I do possible, and I'm glad for that, 'cause I love what I do. But computers are so cumbersome! Like, typing all this up should have been *so* easy -- it's all in my head, I knew almost exactly what I wanted to write, and yet this whole process of writing, formatting, and looking up links has taken me hours. Why is this necessary? Our whole way of looking at computing is simply wrong. It's gotten us this far, but there has to be a better way. I just wish I knew what it was. If I did, I'd do it, and make lots of people way happier. But for starts, let's get rid of the need to spend so much time moving our body parts to click on things. If we're going to move our body parts, let's dance! To compute let's move as little as possible and conserve our bodies so we can play more. Or, maybe make computing more playful? I don't know. I draw a blank. So, I keep using the machines I have. If anyone has any way cool ideas on how to make computing more of a pleasure, please let me know.

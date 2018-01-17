@@ -8,13 +8,13 @@ credits:
   name: Julio Job Lopez
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Bryan McClaran](http://www.twitter.com/bryanlikesbikes "Bryan's Twitter account.") and I'm the chef de cuisine for Uptown Management Group in Chicago. It's a company that owns a few bars and restaurants around the city, and plans on expanding a ton in the next couple of years.
 
 Right now, my project within the company is [Crew Bar + Grill](http://www.worldsgreatestbar.com/ "A sports bar in Chicago."). It's a LGBT-friendly neighborhood sports bar that is in the middle of getting re-conceptualized. Craft beer and awesome food are key points in that. In what little spare time I have, I am usually found hanging out with my wife or on my bike - sometimes commuting on my fixed gear, and sometimes racing [cyclocross](http://chicrosscup.com/ "A cyclocross competition in Chicago.") with a local team.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Cooking: There are few tools more integral to a profession than the knife is to being a chef. Most of us have an assortment, and here's my day-to-day setup:
 
@@ -42,7 +42,7 @@ Most of the work on my bikes was done myself, but the rest is done at my buddy L
 
 Both: Levi's 511 Commuter jeans are aces.
 
-#### And what software?
+### And what software?
 
 For cooking, I use [Digital Dining][digital-dining] and [Optimum Control][optimum-control] for inventory tracking, invoice management, and food cost control. My home PC is a custom rig running [Win7][windows-7]-64bit, Work PC is a [Dell Optiplex 390][optiplex-390], also on Win7. [Dropbox][] is a total game-changer. [Microsoft Office][office] is used across the board. It's pretty safe to say that my iPhone is my main computer, though. It's also got Office and [Dropbox][dropbox-ios], so I have work wherever I go. My wife gets pretty annoyed about that sometimes.
 
@@ -50,7 +50,7 @@ I support local foods whenever possible, so Dave Odd of [Odd Produce](http://www
 
 With cycling, the only software I really use is [Strava][]. It's great for tracking a myriad of statistics about any given ride. That said, my team is going to start using [TrainingPeaks][]. We will see how that goes...
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Cooking: Jade cooking appliances, a custom made wood-fired grill, PolyScience immersion circulators, Koch Ultravac vacuum sealers, a blast chiller, a liquid nitrogen tank or two... A bigger kitchen would be nice too, haha.
 

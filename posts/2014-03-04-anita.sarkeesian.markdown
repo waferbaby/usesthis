@@ -8,13 +8,13 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a media critic and the creator of [Feminist Frequency](http://www.feministfrequency.com/ "The Feminist Frequency website."), a non-profit video webseries that explores the representations of women in pop culture. My work focuses on deconstructing the stereotypes and tropes associated with women in mass media, as well as highlighting issues surrounding the targeted harassment of women in online and gaming spaces. All my videos are available for free online and viewers are never subjected to advertisements or paywalls. I'm regularly invited to give talks and facilitate workshops at universities, conferences and game development studios internationally.
 
 Currently, I'm working on a multi-part video series called [Tropes vs Women in Video Games](https://www.youtube.com/playlist?list=PLn4ob_5_ttEaA_vc8F3fjzE62esf9yP61 "Anita's videos about women in video games.") which explores the role of women throughout the history of interactive entertainment.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 On the video recording side, I have a small studio space set up with two [Nikon D7000 SLR cameras][d7000] and [power supply adaptors][ep-5b] so I don't have to stop shooting to recharge the removable batteries. I primarily shoot with a [Nikkor 50mm f/1.4 lens][af-nikkor-50mm-f1.4d] and a [Sigma 30mm f/1.4 lens][30mm-f1.4-ex-dc-hsm]. I record audio with a [Sennheiser MKE 600 shotgun microphone][mke-600] that feeds into a [Beachtek DXA-SLR Pro HDSLR Audio Adapter][dxa-slr-pro], plugged directly into my camera. If I film outside of my studio I often use a [Sanken COS-11D Miniature Omnidirectional Lavalier Microphone][cos-11d]. My main lighting rig consists of two [Kino Flo Diva-Lite 200 Fluorescents][diva-lite-200] with both daylight and tungsten lamps. The newest addition to my filming set up is [IKAN's Elite iPad Teleprompter Kit][pt-elite]. I use a [3rd generation Retina Display iPad][ipad-3] running the [Elite iPad app][elite-prompter-ios] paired with a [Bluetooth remote][elite-remote] to display and control my transcripts while in front of the camera. The teleprompter kit is fairly top heavy and ends up putting too much pressure on the tripod's removable faceplate so I use a heavier duty [Calumet tripod][ck7500] with an attached faceplate camera mount. The studio itself is a bit DIY with acoustic foam stapled to the walls to act as insulation and soundproofing. We also use a few pieces of black-out fabric to seal any light that might be coming in from the windows. My video backgrounds are also homemade, consisting of two Impact light stands with a long piece of PVC piping sitting across the top and then draped with fabric in various colors. For the backdrop itself, I use a sheet of coloured poly-blend fabric because it can be pulled taught with clips to hide any creases or wrinkles.
 
@@ -24,7 +24,7 @@ For research and recording video game footage I use the [El Gato Game Capture Hi
 
 Some other miscellaneous hardware that I use include a [Netgear Nighthawk AC1900 Router][nighthawk], [iPhone 5S][iphone-5s], [Apple TV][apple-tv], [Karma 4G Wireless hotspot][karma] and [NeatReceipts mobile scanner][neatreceipts].
 
-#### And what software?
+### And what software?
 
 The bulk of my work is split between research, writing and video editing. Much of the writing and research is collaborative so I use programs like [Google Drive][google-drive], [Evernote][], [Trello][] and [Springpad][] to collect, organize, record and share research findings, notes and script drafts. I use an older version of [LittleSnapper][] (before they rebranded) to screen cap, tag and organize images. I also use [ScreenFlow][] for video capture from the web as well as Valve's [Steam][] gaming platform. [Dropbox][] and Apple's Airdrop are used often to share files quickly. I use both the [Firefox][] and [Chrome][] web browsers but the [Search by Image extension][search-by-image] for Chrome is extremely helpful in finding the highest res versions of images on the web.
 
@@ -34,6 +34,6 @@ I use the web based video-translation platform [Amara][] to create English capti
 
 I use the simple [f.lux app][f.lux] to help ease eye strain when working after dark and [Caffeine][] to keep my computer awake even if I step away for a few minutes or during the presentations and workshops I give. To stay up to date with all the internet has to offer I use [Feedly][] as my RSS reader and [Pocket][] to save articles to read later. I regularly use [Skype][] and [FaceTime][] for remote video meetings with my team and project consultants. [VLC][] is my primary media player but I also use Plex Media Center with the Plex Home Theater app to organize and watch videos, TV shows and movies. I use [Donor Tools][donor-tools] to organize, track and communicate with Feminist Frequency donors and sustainers.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with my setup but there are a few things I'd like to add such as a motorized standing desk with a lot of surface area. I would prefer to have dual 27" monitors (either the [Dell Ultrasharp U2713HM][ultrasharp-u2713hm] or the [Apple Thunderbolt Display][thunderbolt-display]) and a dedicated [Mac Pro desktop][mac-pro] set-up for video production. I've also been eyeing the [Desk Rail][desk-rail] to organize all the items floating around my small desk space. I could also use a robust wireless networked RAID system to organize and share large files, like HD video footage, quickly and easily in the office.

@@ -9,11 +9,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Emily Nagoski](http://www.thedirtynormal.com/ "Emily's website."), I'm a sex nerd - an educator, researcher, and writer. Point of pride: I have the lowest [Erdős number](https://en.wikipedia.org/wiki/Erdős_number "The Wikipedia entry for Erdős_number.") of any sex educator in the world. Most recently I wrote a book called [*Come as You Are*](http://www.amazon.com/Come-You-Are-Surprising-Transform/dp/1476762090/ "Emily's book."), and these days I'm [traveling all around](https://www.google.com/maps/@38.010667,-96.1710255,5z/data=!3m1!4b1!4m2!6m1!1szJdavHi9tdX4.k00xMBAS_lVg "Emily's book tour map."), talking about the book, teaching about the science of sex, and generally trying to make the world a better place for people who have genitals.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [Microsoft Surface Pro 2][surface-pro-2]. My [marital euphemism](https://usesthis.com/interviews/r.stevens/ "Richard's interview.") brought it home one day when, as I was in the middle of writing the book, my laptop (a horrible Dell) suddenly died. I was distraught and helpless and he went out and came back and handed me this small, fast, simple thing, and I've loved it ever since. The screen is cracked by now, the keyboard magnet not perfectly reliable, and does occasionally just shut off sometimes, but it's part of my soul. I'm a PC.
 
@@ -27,7 +27,7 @@ The chair I write in is a [Varier Thatsit Balans][thatsit-balans]. When I was in
 
 When I record [podcasts](http://www.esn.fm/comeasyouare "Emily's podcast."), I use a [Yeti][] with a pop filter.
 
-#### And what software?
+### And what software?
 
 Is [Google Scholar][google-scholar] software? That. And [Chrome][].
 
@@ -35,6 +35,6 @@ Is [Google Scholar][google-scholar] software? That. And [Chrome][].
 
 I use [HootSuite][] when I need to plan tweets. I use [Photo Grid][photo-grid-android] to make composite Instagram photos.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Ideally, I'd have every medical provider in the country chained to chairs in a massive auditorium, where I had a stage, a microphone, and a copy of my book. I'd read it to them - all 104,180 words - and they'd never again tell a woman she's diseased just because she doesn't experience spontaneous desire.

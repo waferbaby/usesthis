@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey y'all! I'm [James T. Green](http://jamestgreen.com/ "James' website."). I'm an artist and designer living and working in Chicago.
 
@@ -17,7 +17,7 @@ My art practice explores race, culture, and their relationship with technology u
 
 [I also write](http://jamestgreen.com/writings/ "James' writing."), with various posts, journals, and [a weekly newsletter](http://jamestgreen.com/thestudiovisit/ "James' weekly newsletter."), because people still seem to like reading things on the Internet and it's practice for communication skills. Who knew?
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm a big nerd so I like trying out different hardware while sticking with what I have for as long as I can. I'm currently mashing these words on a [13-inch, Early 2011 MacBook Pro][macbook-pro] running [10.10 Yosemite][mac-os-x] (still surprisingly working after surviving a brief water accident). I [collaborated on an art piece with a friend for the Massachusetts Museum of Contemporary Art](http://jamestgreen.com/work/michaeljackson "James' artwork with Jason Lazarus for the MMoCA.") and in exchange for my time, I got hooked up with 8 GB of RAM. Gotta love the artist economy.
 
@@ -25,9 +25,9 @@ Other things that I use on the daily. An [iPad Air, 32GB with cellular data][ipa
 
 I also have a beautifully beat up [iPhone 5S, 32GB][iphone-5s] that is my daily driver for directions, Twittering, basically all the things. For longer trips, conferences, or art openings, I bring along a [Mophie Juice Pack][juice-pack-air-iphone-5] to make sure I have enough juice to get through the day. An unlikely hero in my daily life is my [Pebble Watch][pebble]. I ride [my bike](https://dl.dropboxusercontent.com/u/28699243/Documents/Websites/James%20T.%20Green/Links/bike.jpg "A photo of James' bike.") all around the flat lands of Chicago and many times I'll forget how to get somewhere. Directions on my wrist is really helpful, including all the health tracking that I'm doing to keep healthy.
 
-Before I head out the house, I have my favorite, beat up [Herschel Little America backpack with a “Go By Train” patch](http://jamestgreen.tumblr.com/image/80672372695 "A photo of James' backpack and patch.") designed by friend [Brent Knepper](http://brent.knepper.usesthis.com/ "Brent's interview."). My [laptop and iPad have matching Herschel sleeves][cypress-sleeve-ipad] to protect on those longer, wet bike rides (and my general clumsiness).
+Before I head out the house, I have my favorite, beat up [Herschel Little America backpack with a "Go By Train" patch](http://jamestgreen.tumblr.com/image/80672372695 "A photo of James' backpack and patch.") designed by friend [Brent Knepper](http://brent.knepper.usesthis.com/ "Brent's interview."). My [laptop and iPad have matching Herschel sleeves][cypress-sleeve-ipad] to protect on those longer, wet bike rides (and my general clumsiness).
 
-#### And what software?
+### And what software?
 
 My standards are [Adobe Illustrator][illustrator], [Photoshop][], and [InDesign CS6][indesign]. For markup and code, I use [Sublime Text][sublime-text], Apple's built in [Terminal][], [Xcode][], and [Arduino's][arduino] app when I'm trying to making physical objects. All my writing is done in [Writer Pro][ia-writer] and my daily journaling in [Day One][day-one], with [Mailchimp][] being my choice for sending out my weekly newsletter. Audio editing is handled in [Audacity][], [GarageBand][], and [Abelton Live][live]. Video editing is done mostly in [Final Cut Pro X][final-cut-pro-x] with later encoding handled in [Adobe Media Encoder][media-encoder]. All my task managing is handled through the built in [Reminders][] app on Mac and iOS, but scheduling is taken care of via [Fantastical for Mac][fantastical] and [iOS][fantastical-ios]. All my text notes and documents are backed up in [Evernote][], [Dropbox][], and [Backblaze][]. All my sketch notes and drawings are done in the app [Paper by FiftyThree][paper-ios].
 
@@ -35,7 +35,7 @@ When I need to focus, I flip on one of my music playlists in [Rdio][] but when I
 
 When I'm not working, [Tweetbot for Mac][tweetbot], [iPhone and iPad][tweetbot-ios] gets the job done. I use [Reeder 2][reeder] to keep up on news and feeds. [Instapaper][] gives me a bunch of long reads to check out on the train or before bed.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm really happy with my setup, for the most part! The only thing I would change is a more powerful machine for the desk and on the go, especially for larger video and audio projects. I would love to have a decked out 27-inch [iMac][] with 16GB of RAM to stay at home and a 15-inch Retina MacBook Pro to bring along to the art studio or off-site work days.
 

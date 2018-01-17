@@ -7,13 +7,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Flourish Klink](http://www.madelineklink.com/ "Flourish's website."). I'm Chief Participation Officer for [The Alchemists Transmedia Storytelling Co.](http://www.thealchemists.com/ "A storytelling company.") That means that I go around and talk to people in the entertainment industry about how to get folks more involved in their storyworlds, sometimes in lectures, sometimes in workshops, sometimes one on one. I also end up doing a fair amount of writing in-character Facebook updates et cetera, and even some basic interaction design.
 
 Mostly I work in Rio de Janeiro and LA. I'm also the Minister of Magic for Ascendio 2012, a *Harry Potter* [fan conference](http://www.hp2012.org/ "A Harry Potter conference."). That means I'm the head of the concom - "the Galleon stops here." Sometimes I teach courses at MIT. Finally, I'm an author of both interactive and non-interactive fan fiction for a variety of stories (right now I'm working on something based on *Lord of the Rings*). Basically, I'm a professional fan.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary computer is a [MacBook Pro][macbook-pro] from about a year ago - a 15-inch Intel core i7.  It plugs into a 10 port USB hub into which is also plugged an ancient 17-ish-inch Dell monitor (so old that I can't find a link for it). I also use a [Logitech Performance Mouse MX][performance-mouse-mx] when I'm at my desk. It backs up to a 750 GB [Seagate Freeagent GoFlex][freeagent-goflex] external hard drive. 
 
@@ -25,7 +25,7 @@ Until recently I was a [FitBit][] devotee - I ran mine through the wash recently
 
 (I also have an [Xbox][xbox-360] with [Kinect][] and a [PS3][], but those are for fun, not for work. Ask me about FEZ!)
 
-#### And what software?
+### And what software?
 
 I am slowly trying to wean myself off Google, so I always have [Mail][] open. I have a goal of running my own mail server sometime soon and doing things through the [Terminal][], but I'm not there yet, so it's sort of hobbling along. I use [NewsFire][] as an RSS feed reader. [Skype][] is almost always open so that I can speak with my colleagues in California and Brazil - we're working on getting a FlourishCam installed so that I'm virtually in the LA office at all times. [iCal][] is good enough for my calendar, but I support it with [Fantastical][], which is a truly fantastic app for anyone who doesn't have an assistant. My browser is typically [Firefox][].
 
@@ -37,7 +37,7 @@ Mostly if I need to use a spreadsheet it has to be shared with other people (ex:
 
 Mobile, I use [Instagram][instagram-ios] (who doesn't?) and [Pocket MBTA][pocket-mbta-ios] to help me get around in Boston.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd probably get two 27-inch [Thunderbolt displays][thunderbolt-display] - I'm always, always longing for more desktop real estate, because I'm so frequently comparing four or six different documents at a time. I'd plug them into a [MacBook Air][macbook-air] and a giant external hard drive of some sort - probably a Seagate, I've had good luck with them - and I'd be able to ditch my USB hub. I actually don't have any reason to have a higher-powered computer than a MacBook Air, since I don't do much non-console graphics-heavy gaming these days, plus it would mean that my mobile + non-mobile computers were the same thing, which would make my life a lot easier.
 

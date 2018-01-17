@@ -12,11 +12,11 @@ credits:
   url: http://www.flickr.com/photos/jasonsantamaria/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Shaun Inman](http://shauninman.com/ "Shaun's website.") and I'm kind of all over the place. I design, develop and compose for the web, apps and games. My bread-and-butter are self-hosted web-based applications like [Mint][] and [Fever][] but more recently I've been dabbling in iOS games and apps like [Horror Vacui 2][horror-vacui-2-ios], [Mimeo and the Kleptopus King][mimeo-ios] and the [Noise Entertainment System][noisees-ios]. When I'm not working I'm probably curled up on the couch with my DS or iPad.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary machine is a 15" [MacBook Pro][macbook-pro] 3.06GHz Intel Core 2 Duo with 8GB of memory and a matte screen. I use it largely accessory-free since ceding the floor of my home office to a new addition to the household.
 
@@ -30,10 +30,10 @@ I backup to a [Time Capsule][time-capsule] and use an old [Airport Extreme][airp
 
 For the longest time I used [Microsoft Explorer][explorer-mouse] mice when tethered (love having copy/paste/back/forward at a flick of the thumb) but recently switched to a [Magic Mouse][magic-mouse] and [Apple Wireless Keyboard][keyboard].
 
-#### And what software?
+### And what software?
 
 The usual suspects: [LaunchBar][], [Photoshop CS3][photoshop], [TextMate][], [Xcode][], [Transmit][], [Safari][] and [1Password][]. I keep [iSimulate][isimulate-ios] and [Screens][screens-ios] on each of my devices. On the web I prefer to eat my own dog food hitting Mint, Fever, [Shortwave][] and [Lessn][] at least once a day. [Twitter][] and [Dribbble][] are essential for venting and getting feedback. The Bannister emulators are great for travel or off-hours fun. [Audio Overload][audio-overload] in particular is essential to my [8-bit music composition workflow](http://shauninman.com/archive/2010/07/06/mml_bundle_now_creates_multi_song_nsfs "Shaun's post on his music workflow.").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm quite happy with what I have now relative to what's currently available. Dreams though? How about *everything* wireless -- including power. Testing on variety of tethered devices is an eyesore and a tangle. I'd love a huge matte [display/dock](http://www.macrumors.com/2008/01/03/apple-creating-imac-like-docking-station/ "An old rumour about an iMac-like docking station for Apple laptops.") that concealed all of its MacBook Pro connections internally. Oh, and a nice chair. Anything would be better than the hardback dining room table chair I've been using for the past year.

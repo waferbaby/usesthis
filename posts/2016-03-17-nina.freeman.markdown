@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Nina Freeman](http://ninasays.so/ "Nina's website."). I'm a level designer at [Fullbright](https://fullbrig.ht/ "A game development studio."), working on [Tacoma][]. I also work on games on my own time, including the recently released [Cibele][]. Cibele is a game based on a true story about a young woman and a young man who meet up to have sex after forming a relationship in an online game. I'm interested in making video games that are focused on concise stories with complex and honest characters. I want these games to support player-character embodiment and performance, because I strive to help players come away from the games I work on with a sense that they were able to perform as a character, or at least better understand their experience in an intimate way. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a home PC, a work PC and a [MacBook Air][macbook-air]. At Fullbright, I work in [Unity][] on PC at a nifty standing desk. That PC has two monitors, and I have one of them positioned vertically. I do most of my scripting on the vertical monitor and other Unity stuff on the horizontal one. 
 
@@ -23,12 +23,12 @@ For my personal work, I usually work on my MacBook Air. My MacBook Air is my pri
 
 Oh yeah, and I always have a lot of plushies on my desks, both at home and at work. Being surrounded by plushies while working all day is definitely a good thing!
 
-#### And what software?
+### And what software?
 
 Unity has been my main game making platform this year. Before Unity, I primarily worked in [ActionScript 3][actionscript] using the [Flixel][] library and [Adobe Air][air.2]. I sometimes use [Adobe Photoshop][photoshop] to make temp graphics or in-game text. For these [Flash][] games, the text editor I use is [Sublime Text 2][sublime-text]. I have also dabbled in [Audacity][] in order to make simple sound effects and record scratch dialogue.
 
 Outside of Flash and Unity, I have dabbled in [Twine][] and [Ruby][]/[Rails][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream set up would be a new [MacBook Pro][macbook-pro] and a new custom built PC. It's always been pretty important for me to develop and test simultaneously on both platforms, so being up to date with the hardware is important. I also think, perhaps even more important than the hardware, is the desk and chair. I don't have a very comfortable place to sit and work at home, and I find myself getting sore a lot. Whereas, at the Fullbright office, my setup is very comfortable. As someone who makes games all day every day, having a comfortable place to do it is really important. So, some kind of comfy desk and chair situation with new Mac and PC hardware would be my dream setup.

@@ -10,11 +10,11 @@ credits:
   name: David Kidd
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Waldo Jaquith](https://waldo.jaquith.org/ "Waldo's website."), and I make data be more available to the world at [U.S. Open Data](https://usopendata.org/ "A group promoting open source U.S. government data sets."), as a [Shuttleworth Foundation](https://www.shuttleworthfoundation.org/ "A foundation helping to fund projects for social change.") fellow. I'm a software developer, designer, and writer. My work is largely about helping governments work more effectively with each other and with the private sector, by getting them to make their data holdings public. I live in Charlottesville, Virginia with my wife, young son, and a small menagerie of animals.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most of my work is done on a late 2013 [13" Retina MacBook Pro][macbook-pro] (late 2013 model) hooked up to a basic 24" Dell LCD. I also maintain a home office where I use a [27" Retina iMac][imac] (which I just bought recently, upgrading from a 2009 iMac), with 32 GB of RAM and a 256 GB SSD. On both I use an [Apple keyboard][keyboard] and mouse, plus an [Apple trackpad][magic-trackpad] on the iMac. I also manage to get a surprising amount of work done on my [iPhone 6][iphone-6].
 
@@ -26,7 +26,7 @@ All of this is powered with an array of 14 280-watt SolarWorld Sunmodule solar p
 
 My everyday carry includes a [Uniball Vision Fine pen][vision-fine-0.7], a [Spyderco Native 5][native-5], a [YubiKey 4][yubikey], and a [PowerGen 5200mAh USB battery pack][handigen], in a [Jandd Gabriel messenger bag][gabriel] that I bought in 1995 for which they unwisely included a lifetime warranty.
 
-#### And what software?
+### And what software?
 
 My core desktop software is [Chrome][], [iTerm2][], [Transmit][], [Tweetbot][], [GitHub Desktop][github-mac], [MacDown][], [IRCCloud][], and [Slack][], all of which I run basically at all times. I manage all of my passwords in [1Password][]. Unable to stomach continuing to pay Adobe for [Photoshop][] upgrades, I've switched to [Pixelmator][] for image editing.
 
@@ -46,6 +46,6 @@ For security while traveling, I use [TunnelBlick][] to connect to [OpenVPN][], r
 
 On my servers, I lean heavily on [PHP][], [Python][], [Apache][], [MySQL][], [SQLite][], and [Elasticsearch][]. I'm a big fan of [mod_pagespeed][], which magically optimizes my websites' assets. [Pushover][] has been great for allowing my software to tell me when something unexpected or important has happened.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I have sporadic need for substantial computing power, and it sure would be nice to be able to lease computing power on the fly for automatic offloading of RAM or processor-intensive tasks from my personal computer, as a native function of the OS. A new office chair would be great - mine is falling apart. I'd like to have twice as much desk space at home, so I'd have project space. Gigabit at home and work would be awfully nice, too.

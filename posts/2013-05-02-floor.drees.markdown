@@ -7,23 +7,23 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Floor Drees, I'm a Dutchie living and working in Vienna, Austria. I studied Graphic Design in Rotterdam, worked as a Community Manager for about 5 years and now fiddle around with CSS and Rails after I realized in August last year that I miss making 'stuff'. 
 
 I've organized a Rails Girls event in Rotterdam in January and have another one planned for September this year in The Hague. I'm the co-organizer of the [Ruby developer](http://www.meetup.com/vienna-rb/ "The Meetup page for the Viennese Ruby developers user group.") and [WordPress user group meetups](http://www.meetup.com/Vienna-WordPress-Meetup/ "The Meetup page for the Viennese WordPress user group.") in Vienna and I'm [setting up a Python workshop](http://www.meetup.com/PyLadies-Vienna/ "The Meetup page for PyLadies in Vienna.") for aspiring girl coders.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I own a [MacBook Air][macbook-air], an [iPhone 4][iphone-4] (with a Dutch plan) and a [Galaxy Camera][galaxy-camera] running [Android][] 4.1 (yup, Jellybean!). The latter is my gadget of choice lately. It's an incredible tool that allows me to share good quality pictures and thoughts from the tech events I (co-)organize with the Interwebs. The flat I share with my boyfriend sports a [Raspberry Pi][raspberry-pi] farm and all kinds of blinking [Arduino][] stuff. 
 
-#### And what software?
+### And what software?
 
 I use most programs that come with [Adobe Creative Suite][creative-suite], a remainder of my years at the art academy. You'll find [Illustrator][] and/or [Photoshop][] open on my computer almost every day. Still learning, I read a lot of documentation on my laptop as well. [Textmate][] is my favorite text-editor for coding stuff and I use [iTerm][iterm2]. [Spotify][] is practically always on, as is the [GitHub for Mac][github-mac] application.
 
 Being abroad I like to keep in touch with the mother ship in the Netherlands, and with my Vienna friends whenever I visit Rotterdam or some other city in Europe. I like Europe. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Tablets aren't really my thing as I need a keyboard, but I don't want to carry a heavy laptop around all the time, hence the MacBook Air. I'd love to have a big, fat (or rather: slim) [iMac][] though, that syncs neatly with my laptop, for my home office. And/or a ThinkPad, to make me less prone to hackers at the conferences I attend. At the CCC last year, the hackedy-hackers couldn't get enough of hacking my iPhone. That's funny and all, until you try to have a serious conversation with your mum that you haven't seen for months.
 

@@ -6,19 +6,19 @@ categories:
 - cosplay
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Laura Jansen](http://mycosplayfun.tumblr.com/ "Laura's website."), and I'm a German cosplayer. Cosplay means you make costumes of characters you love and present them at conventions, or at a cosplay competition. You can cosplay any character you like - from a game, a manga or a movie, anything you like. My passion is computer games, and I love to create the costumes from different games and bring the characters to life.
 
 In my "normal" life I'm studying communications design. That takes a lot of my free time, so I mostly work on my costumes when I have holidays.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 There's a long list of hardware, from sewing machines through to dremels. For making a costume you must be creative with your tools. I use a dress form, scissors, needles, iron, box cutters, [hot air gun][expert-variable-heat-hot-air-gun-kit], electric soldering iron, tiny saw, paintbrush, sander, punch pliers and riveting pliers... the list has no end, because you constantly discover new tools you can use.
 
 One of the most important tools for me is the hot air blower. I need it to heat the thermoplastic materials which I use for the armor parts. And of course, my second important tool is the sewing machine, although we aren't good friends. Sewing is the part of making costumes I really don't like - my favorite part is crafting.
 
-#### And what software?
+### And what software?
 
 As a cosplayer you must be creative with many materials. For example, I made my first armor out of craft foam. It wasn't very stable, but I learned a lot about how to make patterns and to fix all the different armor parts on the body.
 
@@ -28,6 +28,6 @@ Working with thermoplastic materials is the main part of my costumes. It takes a
 
 What's important is that you don't get impatient when something doesn't work, or you don't know how to finish one part of the costume. Making a cosplay means experimenting with different materials and techniques - you may need two or three tries until you're happy with the result.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is to have my own big workshop, where I have all kind of machines I need to build amazing cosplays. A place where I can make dirt and noise and nobody would care about it. At the moment I make all my costumes in my tiny student flat, and as you can imagine, here there's not really much space for working. It would be so great if I could work in a big workshop with a team of other creative cosplayers, and work together on big challenges.

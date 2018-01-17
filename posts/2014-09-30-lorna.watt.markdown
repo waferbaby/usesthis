@@ -6,7 +6,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Lorna Watt, and I am a fiber artist at [Knits for Life](http://knitsforlife.com/ "Lorna's website.") in the Silicon Valley. I design knitting and crochet [patterns](https://www.etsy.com/shop/knitsforlife/ "Lorna's Etsy account.") for hobbyists, create fiber [art](http://www.ravelry.com/projects/KnitsForLife/momento-mori/ "Lorna's Ravelry project, 'Momento mori.'") for collectors, and [yarnbomb](http://knitsforlife.com/yarn-bombs/ "The Knits for Life page on yarnbombing.") the streets.
 
@@ -14,7 +14,7 @@ I mostly work with my sister, Jill Watt a.k.a. [The Dapper Toad](http://www.dapp
 
 I'm best known for our [Squid Tree](http://knitsforlife.com/2013/09/11/new-squid-tree-yarnbomb/ "Lorna's post about their Squid Tree yarnbombing project.") and [Monster Bench](http://knitsforlife.com/2014/04/20/new-buttmunches-yarnbomb-monster-benches-at-the-ferry-building/ "Lorna's post about their Monster Bench yarnbombing project.") yarnbombs, and my chain link [scarf](http://www.ravelry.com/patterns/library/crochet-chain-link-scarf/ "Lorna's chain-link pattern on Ravelry.") and monster feet [slippers](http://www.ravelry.com/patterns/library/monster-slippers-2 "Lorna's monster feet pattern on Ravelry.") patterns. Currently I'm pushing the boundaries of knitting with machine-knit [animations](http://instagram.com/p/pfD3YTGe5q/ "Lorna's knitting animation on Instagram.") about our technological lives and am [learning](http://www.meetup.com/machineknit-103/ "The Meetup for the South Bay Machine Knitting Group.") to [hack](https://www.youtube.com/watch?v=GhnTSWMMtdU "A YouTube video for hacking the Brother KH-930e knitting machine.") a knitting machine.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I believe in using the right needle craft for the job, so we have pretty much every fiber art tool known to man. Knitting uses straight, double pointed, and circular needles, for which we use a mix of [Clover][takumi], cheap bamboo [sets][carbonized-patina-9-inch-double-point], Addi [Clicks][click], and Knit Picks. I prefer sharp knitting needles with a short taper for speed with continental style knitting. Fortunately crochet is limited to simple hooks. I prefer Boye but Jill likes Susan Bates and is allergic to metal, so we have a wide mix from jumbo to micro. I store a wide assortment of yarn on a 9x13' [peg board wall](http://knitsforlife.com/2013/03/26/the-worlds-best-yarn-storage-idea/ "Lorna's post about their peg board wall."), which we wind on a [Lacis Ball Winder][yarn-ball-winder-mo17] with the yarn label tucked inside.
 
@@ -24,7 +24,7 @@ Photography is either on an [iPhone 4S][iphone-4s], a [Canon PowerShot SX200IS][
 
 Entertainment is essential with our repetitive tasks. I watch stuff in the studio on my [Kindle Fire][kindle-fire], which I have few better uses for, with audio on a JBL docking speaker. Transport is either my silver '98 New Beetle with 250k miles or on my teal 70's Ladies Schwinn Suburban with matching skirt guards.
 
-#### And what software?
+### And what software?
 
 Mostly web-based. I prefer not to invest until I outgrow open-source and free resources. I keep track of my projects and sell patterns on the giant online database, [Ravelry][]. [Google Drive][google-drive] and [Wordpress][] meet my publishing needs for the moment.
 
@@ -32,7 +32,7 @@ For photography I rely on Jill's [Lightroom][] and [Photoshop][] skills, but whe
 
 I scout yarnbombing sites with [Google Street View][google-street-view] and follow global #yarnbomb activity on Instagram. I consume media in the background all day and subscribe to [Rhapsody][], [Netflix][], [Hulu][], [HBO Go][hbo-go], and [Amazon Prime][amazon-prime], with nerdy podcasts and NPR in heavy rotation.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 We moved into our art studio this past spring and aimed for our dream set-up, so I'd say we're pretty close. It goes without saying that I'd trade my kingdom for a world with no electrical cords. I'd like a program that lets you chart an image onto knitting graph paper with a full range of options, but I think I'll have to create one in [Inkscape][].
 

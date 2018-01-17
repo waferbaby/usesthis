@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
  
 I am Kate Matsudaira. I am a hacker - in my code and projects, at work, and in life. I work hard, but also believe strongly that innovation and great ideas stem from laziness. I work at [Decide](https://www.decide.com/ "A site for deciding when to buy or wait for a product.") where we use data mining and machine learning to leverage "big data" to help consumers make more informed purchasing decisions. I write about [being awesome on my blog](http://katemats.com/ "Kate's weblog."), and curate content on similar topics for the [Technology & Leadership Newsletter](http://www.techleadershipnews.com/ "A weekly tech newsletter.").
  
-#### What hardware do you use?
+### What hardware do you use?
  
 I use a 13 inch [MacBook Air][macbook-air] - and pretty much everything else is in the cloud (Amazon Web Services specifically). Oh and my [iPhone][iphone-4s] - I use it so much it really could be considered an appendage to my body.
  
@@ -19,7 +19,7 @@ Recently I also started using a [Fitbit][]. I am a big fan of [Quantified Self](
  
 Oh, and I always wear a watch - I think it is rude to look at your cellphone when you are talking to someone, but like to know the time (growing up, my mother was late to everything and somehow that resulted in me being super punctual).
  
-#### And what software?
+### And what software?
  
 Let's see - I use a lot of applications! 
  
@@ -34,6 +34,6 @@ Let's see - I use a lot of applications!
 *  Audible.com - I use [their app][audible-ios] on my phone since I listen to a ton of audio books. I have a 30-60 minute commute most days so it is a great way to make productive use out of the time (and I swear it makes me a better, and more patient, driver).
 *  I also use a ton of other apps on my phone too - such as: [Words with Friends][words-with-friends-ios], a bunch of flash sale apps ([Gilt][gilt-ios], [Hautelook][hautelook-ios], [MyHabit][myhabit-ios]), [MindMeister][mindmeister-ios] for mind maps, [Foursquare][foursquare-ios], [Glympse][glympse-ios], and the list goes on.
  
-#### What would be your dream setup?
+### What would be your dream setup?
  
 Everything listed above but located in Hawaii - and maybe a pair of Bose headphones?

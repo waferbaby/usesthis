@@ -8,11 +8,11 @@ categories:
 - teacher
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Stefano Zacchiroli](http://upsilon.cc/ "Stefano's website."), but I usually go by the nickname "Zack." I'm a computer science researcher and teacher at [University Paris Diderot](http://www.univ-paris-diderot.fr/ "The University Paris Diderot."), as well as a [Free Software](https://www.gnu.org/philosophy/free-sw.html "GNU's free software definition.") developer and activist. I'm a [Debian][] Developer, former three-time Debian Project Leader, and Board Director at the [Open Source Initiative](http://opensource.org/ "A non-profit supporting open source software.") (OSI)</a>.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main hardware is my laptop, which I always carry with me. I'm now at my third iteration of (Lenovo) ThinkPads over a period of more than seven years and, overall, I'm a satisfied customer. As a geek I mostly interact with my OS by typing, and ThinkPad's keyboards are just unparalleled. My current ThinkPad is a [T440s][thinkpad-t440s], i7 CPU, 12GB RAM, 512GB SSD, and a Full HD display (not touchscreen, as I don't see the point of it).
 
@@ -20,7 +20,7 @@ When at the office I connect my laptop to an external LCD monitor and the best m
 
 As I believe in [autonomy](http://autonomo.us/2008/07/14/franklin-street-statement/ "An article about freedom in network services.") on the net, I also own various server-like machines. I run a virtual family server on a bare metal physical server which I rent from [So you Start](http://www.soyoustart.com/en/essential-servers/ "A dedicated server hosting service.") and share with a few close geek friends. At home I have a [Raspberry Pi][raspberry-pi] for home automation and a [QNAP TS-420 NAS][ts-420] with 4x 1TB disks (in RAID 5) for data storage. I also have a [Squeezebox 3][squeezebox] as music network player.
 
-#### And what software?
+### And what software?
 
 I run Debian wherever I can, and that includes all the machines mentioned above (most of them have in fact been chosen precisely for that reason).
 
@@ -43,7 +43,7 @@ To give a general idea about my work flow, here is a list of tools that I use on
 - [Ikiwiki][] (with Git) for Web publishing
 - [Ledger][] for accounting (again, with Git)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Hardware-related dreams first.
 

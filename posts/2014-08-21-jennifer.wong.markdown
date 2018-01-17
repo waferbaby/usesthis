@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jennifer Wong!](http://mochimachine.org/ "Jennifer's website.") Or Jennifer Erin Wong or jennz0r to differentiate me from the numerous others in the world. I'm a self-taught front-end developer, thanks to the help of [Girl Develop It SF](http://www.meetup.com/Girl-Develop-It-San-Francisco/ "A meetup for girls to learn how to code."). I currently work as a web developer for [HotPads][], a [Zillow][] company. Prior to that, I dabbled in customer support to get my foot in the door of the tech industry. And before THAT, I worked as a structural engineer at Front where my first project was [Yas Marina](http://www.yasmarina.ae "The website for a marina and yacht club in Abu Dhabi.").
 
 I'm a voting member at [Double Union](https://www.doubleunion.org/ "The SF hacker space for women's website."), where I spend time working with awesome feminist ladies on awesome projects. I've written for [Model View Culture](http://modelviewculture.com/ "The MVC magazine site.") and I'll be speaking (for the first time!) at [Northeast PHP](http://www.northeastphp.org/ "The website for the PHP conference.") this year. I'm a conflicted technologist and Bay Area native.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 It was time for me to retire my early 2008 [MacBook][], so I recently purchased a 13" [MacBook Pro][macbook-pro] with Retina display. I also love having dual monitors, and for that I have a 23.6" [Asus VS247H-P HD LCD monitor][vs247h-p]. I discovered that although HD, it ain't got nothing on the Retina! 
 
@@ -23,7 +23,7 @@ I've only owned a smart phone for about three years - I only purchased a [Galaxy
 
 For Christmas, my intergalactic superforce megazord brother gifted me a [Kindle Paperwhite][kindle-paperwhite], which I initially shunned, but now always have with me unless I'm biking. I still love the feel of and purchase books though. 
 
-#### And what software?
+### And what software?
 
 When I'm coding at home, I use and love [Sublime Text][sublime-text]. For debugging my code, I find [Chrome DevTools][chrome-devtools] indispensable - gotta love that emulator feature! I run [git][] directly in [Terminal][], so I can learn its intricacies better and I have a bunch of my personal projects committed to my [GitHub account](https://github.com/jennz0r "Jennifer's GitHub account.").
 
@@ -35,6 +35,6 @@ My optometrist prescribed me my first pair of (reading!) glasses (NOOoo!) becaus
 
 The last year or so, I've become incredibly lazy about finding new music for myself. So when I want to find new singles or put my head down to code and have a place to listen to music, I use my friend's site, Tuplet. I think that my new music obsession might've died with my youth - sad but true! I did just alphabetize all my CDs though. YES, you read correctly. CDs.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a zillion [Thunderbolt displays][thunderbolt-display]! Is there some sort of OSX and Ubuntu hybrid? Because if not, then that would also be on my list of dreams. I'm definitely going to have to upgrade my phone soon, but I'm so new to mobile devices, I have no idea what I want. Other than that, I really love everything I'm using at the moment - is that cheesy to say? And then if we could just make everything cost 10 times less... that would be perfect. :)

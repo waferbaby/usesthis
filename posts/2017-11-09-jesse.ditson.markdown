@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Jesse Ditson](https://jesseditson.com/ "Jesse's website.") - I grew up in Oregon and currently live in San Francisco.
 
@@ -21,7 +21,7 @@ I eventually participated in an event called [StartupBus](https://www.startupbus
 
 I now spend my days writing code for [Attic Labs](http://attic.io/ "The Attic Labs website."), and try to be as creative as possible with my evenings and weekends. I love learning things, which leads me down creative paths that include molding/casting, sewing, making music, DIY electronics, painting, and really anything else that helps me move things out of my head and in to the world.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For computer work, I have a Jarvis standing desk at home with an [LG 27MU88-W 27 inch monitor][27mu88-w] mounted to the desk with an arm, and a laptop stand on another arm. The USB-C port handles power, display, and acts as a USB hub, so when I'm using my work laptop (a [15" 2017 MacBook Pro][macbook-pro]), I just plug in one cord and everything works. When I'm working on music or side projects, I use my home laptop, which is a 2015 15" MacBook Pro.
 
@@ -58,7 +58,7 @@ For other projects, I keep around:
 - Various power tools and enough hex wrenches, tiny screwdrivers and ratchet sets to take pretty much anything apart and put it back together.
 - A giant collection of rattle cans, acrylics, paint brushes, and adhesives for work that usually involves paper.
 
-#### And what software?
+### And what software?
 
 For code I mostly use [iTerm2][] and [VS Code][visual-studio-code] (recently moved to this from [Atom][], which I'm not regretting at all) - these modern Javascript IDEs are pretty incredible once you have them configured correctly, and I've even been finding myself using [XCode][] a lot less for [Objective-C][] and [Swift][] unless I'm spinning up a new project.
 
@@ -82,7 +82,7 @@ For music, I mostly stay inside of [Ableton Live][live] and try to avoid using t
 
 The Push is a really great tool for avoiding using a mouse, and can for the most part replace your screen as well. When doing simpler tracking stuff I sometimes just use [GarageBand][], which is a really excellent tool that gets out of the way. I find that 90% of the time, that's all I'm looking for software to do.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 For the most part, I think I already have it. If I lived in a different city I'd probably do a lot more work on the music setup and dedicate a lot more time to it. Most places I've lived in my life had drum kits in them, and lots of space for collecting and storing weird instruments. Not having that has made it difficult for me to record as much as I used to, which is still something I struggle with.
 

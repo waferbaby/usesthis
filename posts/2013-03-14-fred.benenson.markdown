@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Fred Benenson](http://www.fredbenenson.com/ "Fred's website."), I work at [Kickstarter][] on data. I split my time between research, engineering, and fixing the wifi. Previously I worked for [Creative Commons](http://creativecommons.org/ "A non-profit revolving around copyright licenses.") and helped start the [Students for Free Culture](http://freeculture.org/ "A movement promoting public interest in IP.") movement. I'm obsessed with emoji and currently have multiple Rubiks cubes of my desk.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I just upgraded to a 13" Retina [MacBook Pro][macbook-pro] from a 15" MBP from 2010. I had maxed out the new machine's RAM and got it with the SSD. If you haven't upgraded to an SSD, it's the single best upgrade you can possibly make. The 13" MBP Retina is a lot lighter to carry up and down stairs which I tend to do a lot of at Kickstarter HQ. I also have the ubiquitous Dell 24" LCD as an external monitor.
 
@@ -24,7 +24,7 @@ This isn't at all impressive if you're used to working with "big data" or parall
 
 I used to do some professional event photography in NYC, so I have a couple Canon SLRs, and my [5D MkII][eos-5d-mark-ii] is my favorite. I typically pair that with my [Canon 50mm f/1.2 L lens][ef-50mm-f1.2l-usm], which I think is possibly one of the greatest lenses ever made, and shoot using manual focus in low light. I hear the MkIII's autofocus is incredible, so I've been contemplating an upgrade.
 
-#### And what software?
+### And what software?
 
 I spend most of my time working with text and code, and since I'm a [vim][] guy, I use [Sublime Text 2][sublime-text] with vintage mode turned on. It isn't a perfectly faithful translation of vim, but it's good enough for most of my habits. Combining ST2's multi-cursor support with vim controls is mind-blowing if you haven't tried it before. Slicing and dicing code with a dozen cursors in realtime using vim commands is way more fun than writing regular expressions. It's revelatory, really, and allows me to look past all of ST2's other shortcomings (of which aren't all that many).
 
@@ -34,7 +34,7 @@ Aside from RStudio, Hadley Wickham's libraries for R are essential. I make all o
 
 Since a lot of my day-to-day data work begins with writing a SQL query, I use [Sequel Pro][sequel-pro] extensively. The new version's icon is excellent, but other good features include the ability to save and export query lists, and good CSV export control. If you're writing SQL frequently and not using Sequel Pro, you're crazy.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If it existed (and it probably won't, ever), a 30" external retina screen driven by a 13" Macbook whose video card isn't underpowered and also has infinite system RAM.
 

@@ -6,13 +6,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Claire Hopkins (pronouns: she/her), and I am a botanist and informal science educator. I run the website [Brilliant Botany](https://www.brilliantbotany.com/ "Claire's plant community."), a hub of plant science information that includes resource lists, merch and weekly [YouTube][] videos. I spend my time updating the site, researching scripts, generating graphics and editing videos. 
 
 I also run [a small Etsy shop](https://www.etsy.com/shop/tumbletower "Claire's Etsy store.") selling knitted items, walk dogs and have a day job at a biotech company. In my spare time I knit, watch TV, walk my dog, and read. I love urban fantasy, The Great British Bakeoff, and makeup. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For filming and photography, I use a [Canon Rebel T5i DSLR][eos-rebel-t5i] with a 18-55mm lens, a [Rode VideoMicro microphone][videomicro], and a [Parrot Teleprompter][parrot], all on top of a [Polaroid PLTRI72 72" tripod][pltri72]. I currently use a Genaray Octolux Light. I use my [iPhone 6][iphone-6] for taking photos, to run my scripts on the Teleprompter and check social media. I have an [Opteka 10x Macro Conversion Lens][10x-high-definition-ii] that I occasionally use to get close-up photos and video of plants.
 
@@ -20,7 +20,7 @@ My computer is an [iMac][] with a 21.5 inch display. It sits on my dining room t
 
 For keeping track of my schedule and tasks, I use a Compact Lavender Bliss Passion Planner with a [Pilot Retractable Precise V5 RT pen][precise-v5-rt]. I'm lost without my planner!
 
-#### And what software?
+### And what software?
 
 My Mac currently runs [OS X][mac-os-x] El Capitan. For editing, I use [iMovie][], as I don't have particularly complex editing needs. I plan to upgrade to [Adobe Premiere][premiere] in the near future.
 
@@ -30,6 +30,6 @@ For script writing, I use [Google Drive][google-drive], since this allows me to 
 
 My website is hosted on [Squarespace][], and I use [HootSuite][] to schedule posts to [Instagram][] and [Twitter][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh boy, my wish list is extensive. I would love a [DJI Mavic Pro drone][mavic-pro], allowing me to add cinematic shots to my videos. A [MacBook Pro][macbook-pro] to let me to edit on the go. A [Canon EF 50mm f/1.4 lens][ef-50mm-f1.4-usm]. A ring light to use as a key light. A lavalier microphone. A proper desk chair to support my back while I'm editing. Or perhaps just an experienced editor to do my editing, as it's not my forte!

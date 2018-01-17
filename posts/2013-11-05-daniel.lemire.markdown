@@ -10,11 +10,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Daniel Lemire](http://lemire.me/ "Daniel's website."). I have been studying and programming computers since I was 12 years old. I have been an entrepreneur, a government researcher and a university professor. I once designed, built and sold software for a living. Somewhat by accident, I became a computer science professor but my true love is hacking. These days, I do research on indexing problems, trying to milk recent processors for bleeding edge performance. It is really an excuse to write crazy software. Most of my software is published as [open source software](https://github.com/lemire "Daniel's GitHub account."). I have also been blogging weekly since 2004 about computer science and related topics.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I own two MacBooks: a [MacBook Air][macbook-air] and a [MacBook Pro][macbook-pro]. Both are less than two years old. I also own an old [iMac][]. I spend most of my time on the MacBook Air because it is light and powerful enough. I should stress that I can work at the oddest of places, from my bed up to the local coffee place. I cannot stand office chairs and desk.
 
@@ -38,7 +38,7 @@ At home, I own a ridiculously large and expensive wireless Brother printer, but 
 
 I always carry a small notebook and a pen. More than anything else, it keeps me sane.
 
-#### And what software?
+### And what software?
 
 On my Macs, I use [Smultron][] as a text editor when I am not in a [bash][] shell, despite the fact that it is buggy. However, most of my [C++][c-plusplus] and [Java][] hacking is done using an older version of [Eclipse][]. I should stress that I mostly use Eclipse as a fancy programming text editor: my programming happens in command shells. For C/C++, I use [makefiles][make], and for Java, I use [maven][].
 
@@ -66,7 +66,7 @@ Most of my important content is on [GitHub][] these days though I still use [Sub
 
 When I must attend a meeting, I like to rely on [Skype][] though I have had good luck with [Google Hangouts][google-hangouts] too.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If I could find a way to make office documents go away, it would simplify my workflow. There would be no phone in sight.
 

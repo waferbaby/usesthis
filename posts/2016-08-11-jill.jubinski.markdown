@@ -7,7 +7,7 @@ categories:
 - recruiter
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jill Jubinski](https://twitter.com/jilljubs "Jill's Twitter account."), aka Hug Dispenser, Lead of Community and Culture Programs at IBM Cloud (until they give me a new title I'm going to keep making up cool ones). I currently reside in Seattle, WA, but grew up an Air Force Brat, so I've lived many places around the US (Texas being one, as you'll come to notice with all the y'alls that come out of my mouth). I'm a lover of humans and what makes them tick. 
 
@@ -19,15 +19,15 @@ I get the majority of my joy in my life from my kids (who happen to be dogs; sho
 
 Some of my quirky habits involve watching endless hours of beauty videos on YouTube, researching vegan cooking (even though I'm not vegan) and dancing in public. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
-My day-to-day computer work happens on a 13 inch [MacBook Air][macbook-air], 2015. I'm *constantly* on my [iPhone 6S Plus][iphone-6s-plus] (64GB), because I'm like every other millennial (okay, I'm barely a millennial, but let's disregard that fact) and feel the need to be connected at all times. I also have an [iPhone 6][iphone-6] (16GB) - thanks IBM - I use for my work calls (trust me, you don't want all candidates knowing your personal cell number). Related, I often call my parents from my work phone because "my 6s Plus is too big to make calls on.” I'm really dealing with some heavy #firstworldproblems in my life. 
+My day-to-day computer work happens on a 13 inch [MacBook Air][macbook-air], 2015. I'm *constantly* on my [iPhone 6S Plus][iphone-6s-plus] (64GB), because I'm like every other millennial (okay, I'm barely a millennial, but let's disregard that fact) and feel the need to be connected at all times. I also have an [iPhone 6][iphone-6] (16GB) - thanks IBM - I use for my work calls (trust me, you don't want all candidates knowing your personal cell number). Related, I often call my parents from my work phone because "my 6s Plus is too big to make calls on." I'm really dealing with some heavy #firstworldproblems in my life. 
 
 Music is an intricate part of my life so I'm typically using my [Bose around the ear headphones][soundtrue-headphones-ii] (they have upgraded since I bought mine, and now I feel like I need these new ones). Am I the only person who doesn't like noise cancelling headphones? 
 
 Additionally, I still very much enjoy physically writing things down, so I have a notebook and pen on hand at all times, along with post-its, as I have a strong addiction.
 
-#### And what software?
+### And what software?
 
 I work for IBM so I would be missing a good laugh if I didn't mention how I have to use [Lotus Notes][lotus-notes] on a daily basis. 
 
@@ -41,7 +41,7 @@ For quick notes during meetings/calls I am a huge fan of [Evernote][], which kin
 
 [LinkedIn Recruiter][linkedin-recruiter-ios] is a great tool for me to stalk people without them knowing. I very rarely message people on [LinkedIn][], unless it's dire straits, but I very often (even outside of work) look up people I meet on Recruiter.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I often daydream about a standup desk in my house (I live in an apartment right now, but I'm going all out fantasy in this answer) dressed with my MacBook Air and a 27 inch [iMac][] with Retina 5K display. A sick Sonos setup would let me take those headphones off, and a large window is key because natural light makes me happy.
 

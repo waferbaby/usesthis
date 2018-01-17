@@ -7,13 +7,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! I'm [Missy Titus](http://missytitus.com/ "Missy's website.") (that's [@missytitus](https://twitter.com/MissyTitus/ "Missy's Twitter account.") [everywhere](http://dribbble.com/MissyTitus/ "Missy's Dribbble account.") on [the internet](http://www.linkedin.com/in/missytitus/ "Missy's LinkedIn account.")). I'm currently a User Experience and Visual Designer (and the one-person design team) for a small tech startup. In previous lives I've worked in social games (I know) and even print (gasp!) design. I made the switch into User Experience because I love putting things together in a cohesive way, one that flows intuitively. I also think humans are a fascinating species and trying to understand their brains is interesting. 
 
 I also write on [Medium](https://medium.com/@MissyTitus/ "Missy's Medium account.") and [Stemmings](http://stemmings.com/in-house-manifesto/ "Missy's Stemmings post on in-house designers.") about design and Women in Technology, both of which are close to my heart. I found that expressing my ideas through writing comes most naturally to me, but I've also started giving short talks (like [this event](http://www.doubleunion.org/blog/65426697199-an-evening-of-talks-with-double-union-and-ashe-dryden "A talk that Missy was part of.") with [Double Union](http://www.doubleunion.org/ "The Double Union website.")) and getting involved and giving back in other ways (like [this fun project](http://thewarmandfuzzies.tumblr.com/ "The Warm + Fuzzies website.") to raise money for the Philippines). My hope is that putting ideas and positivity into the world helps someone, somewhere make sense of their own thoughts and ideas, feel connected in some way, or at least makes them laugh.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work, I have a 15" [MacBook Pro][macbook-pro] attached to a Dell monitor and a [Wacom Intuous Pro][intuos] tablet. I also use an [Apple keyboard][keyboard], but I could take it or leave it; I think the laptop keyboard is generally fine. I sit next to a window, so my most loved piece of hardware in the colder months (and this is San Francisco, so that's 11 out of 12 months) is the shared space heater which I commandeered and have sitting 3 inches from my body at all times. Finally, I have Apple earbuds plugged into my face 90% of the time I'm sitting at my desk. Even if I'm not listening to anything it's somehow comforting. 
 
@@ -23,7 +23,7 @@ I also use a WhiteLines notebook. I love WhiteLines because, as the name implies
 
 Oh, and I drive a VW Beetle convertible in charcoal gray. Holla!
 
-#### And what software?
+### And what software?
 
 I find [Adobe Illustrator][illustrator] to be the easiest program to make fast wireframes, mocks, and do visual exploration. I use Illustrator for making icons and assets as well, and of course, I also use [Photoshop][] for web-ready assets. 
 
@@ -31,7 +31,7 @@ I do some HTML and CSS work using [Sublime Text][sublime-text]. I've also been k
 
 And the internet! The internet is my favorite software. I use Google everything: [Chrome][], [Gmail][], [Calendar][google-calendar], [Drive][google-drive], Search, YouTube. We use [Hipchat][] for inter-office chatting, [Trello][] for project management, and I use [Dropbox][] for work and personal projects and file storage. I listen to music on [Rdio][] (and occasionally [Turntable.fm][] with my coworkers for nostalgia.) I admire cool things on [Dribbble][], [Tumblr][], and [Pinterest][]. I consume all of my news (and make new friends) on [Twitter][]. I occasionally [Instagram][instagram-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My setup at home is pretty ideal. The Thuderbolt monitor is awesome, and I love the Wacom Tablet. If anything, I'd like to super size both of those things, but add a MacBook Pro. 
 

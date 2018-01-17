@@ -6,11 +6,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Courtney Stanton, and I'm a member of [Feel Train](https://feeltrain.com/ "A creative tech co-op in Portland."), a creative technology cooperative. I volunteer at [Stream PDX](https://streampdx.com/ "A community podcast/recording studio in Portland."), a recording and podcast studio. That's where I record the weekly podcast, [JoJo's Bizarre Explainer](https://explainjojo.com/ "A podcast about JoJo's Bizarre Adventure."), where I talk about the manga and anime JoJo's Bizarre Adventure with [Darius Kazemi](http://tinysubversions.com/ "Darius' website.") and [Eliz Simins](http://cargocollective.com/eliz "Elizabeth's website."). Because I work from home, I've taken to alternating working out in my apartment while watching television with running around the park a block from said apartment. I also read a fair amount every day.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Oh gosh, this is where I'll begin to disappoint you, reader, because I super don't care about computer hardware. I'm writing this on... some kind of... PC tower? I grew up in a Cult of Perfectionism about a lot of things and I finally wrote myself one big blank check of "it's okay if it's good enough" and I've been free ever since, and unfortunately for y'all, "hardware specs" appear to fall under this umbrella. There is apparently a CyberPower PC keyboard involved, because I can read the logo. I assume it's also a CyberPower PC mouse because the logomark matches. Oh hey, it's the same logomark on the tower too, there we go, mystery solved. My husband picked this computer out and he felt very passionately about the keyboard and mouse being wired instead of wireless so that's some more information for you. He also cares a lot about how clacky the keyboard keys are. I couldn't give a fuck.
 
@@ -26,13 +26,13 @@ For the working out in front of my TV, I use [this weight bench][1000-super-max-
 
 I do almost all of my reading on my 4-year-old [iPad Air][ipad-air] and the rest happens on my [iPhone 6 Plus][iphone-6-plus], neither of which I plan to replace any time soon. (I feel the same way about computer hardware as I do about cars and other depreciating assets: buy outright and use until total failure.) 
 
-#### And what software?
+### And what software?
 
 This PC tower I'm on is running [Windows 10 Home][windows-10], which I jumped to from [Windows 7][windows-7]. The only thing I regret about the move is that I can no longer play [The Sims Medieval][the-sims-medieval], which was an incredibly weird, underrated game. Like all good product-humans, I use a variety of Google services ([Drive][google-drive], [Mail][gmail], [Docs][google-docs], [Sheets][google-sheets], [Calendar][google-calendar]), with [Boomerang][] added onto Gmail so I can actually keep track of correspondence and follow up with people (and just archive everything so it's out of the way). I also use [GitHub][] paired up with [ZenHub][] to manage the main Open Source project our company is working on right now. I cannot say enough good things about ZenHub -- it essentially fixes Github and makes it usable for people other than programmers. 
 
 I use [Spotify][] both at my desk and while running (and while running I pair it with [Runkeeper][runkeeper-ios]). I use the default Apple [Podcasts][podcasts-ios] app/[Netflix][netflix-ios]/[Hulu][hulu-ios]/[Amazon][amazon-prime-video-ios] in a roulette fashion to find something to keep my attention while weight lifting, because counting to 10 gets dull fast. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't really have a lot of "gear" fantasies. My biggest dream setup is probably Universal Basic Income at this point, and/or health insurance that covered transgender healthcare. That sort of thing would help my work out a lot more materially than if someone released Yet Another To-Do List App. That said...
 

@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am Jonathan Corbet, executive editor of [LWN.net](http://lwn.net/ "A Linux and free software news site."), occasional kernel contributor, lead author of Linux Device Drivers, member of the Linux Foundation's Technical Advisory Committee, and slave to the wife, two kids, and one golden retriever.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Looking most widely, my digital presence operates out of three dedicated systems at hosting facilities; two for LWN and one as a cooperative home for non-work stuff maintained with several friends.
 
@@ -32,7 +32,7 @@ One shouldn't neglect the [Netgear WNDR3700v2][n600] router running [OpenWRT][];
 
 Finally, alas, my [iRiver H340][h340] music player running [Rockbox][] died a definitive death a little while back. I've replaced it with a Cowon J3, which is an entirely nice piece of hardware, but I do miss Rockbox.
 
-#### And what software?
+### And what software?
 
 Linux on everything, of course.
 
@@ -52,7 +52,7 @@ Needless to say, I would go insane without [SpamAssassin][]. I currently get 3-4
 
 Other useful stuff includes [gnucash][] for personal finance management (though, alas, I've not yet found anything good enough to run a business with), [Firefox][] for the net (as much as anything because it has NoScript, which I'd hate to be without), and [rsync][] for managing directory trees and moving them around.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Such things may be hard to explain to all you kids out there, but I started programming on a CDC mainframe using punched cards. When I got to use an early BSD release on a VAX - with a vt100 terminal, no less - it seemed like a dream setup. I am still getting over the fact that I can not only have a Unix-like system in my house; I can have one in my backpack and my pocket as well. It all seems like a dream.
 

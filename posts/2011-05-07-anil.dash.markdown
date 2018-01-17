@@ -7,15 +7,15 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a blogger at [dashes.com](http://dashes.com/anil/ "Anil's website."), the founding director of [Expert Labs](http://expertlabs.org/ "A non-profit linking policy makers and people like you."), and Managing Director & cofounder of [Activate](http://activate.com/ "Anil's consultancy.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 These days I'm mostly on my 11" [MacBook Air][macbook-air]. I'm not a big hardware fetishist, but I have to say it's my favorite laptop I've ever owned, and remarkably fast. At home, I use a [Mac Mini][mac-mini] with a big [Cinema Display][cinema-display] as well. Oddly, just a few years ago I'd never owned an Apple computer, and I still really like Windows, but here I am being the guy syncing an iPhone to a Macbook.
 
-#### And what software?
+### And what software?
 
 Well, I spend all day in [Google Chrome][chrome], and that's where I do a ton of work, never really touching other browsers unless I'm testing something. I also probably use [iChat][] more than any other app, and feel like it gets a bit less credit than it deserves. Not the app so much, but instant messaging in general is enormously valuable and effective for me. I am constantly in my Twitter client, because that's a big part of managing my information flow, and I have a lot of Twitter followers which their app seems to handle just fine. I still run my blog on [Movable Type][movable-type], nothing really new there. I check in on [Facebook][] and Stellar and [Mlkshk][] throughout the day too. I always *want* to use [Evernote][], but somehow it just has a little bit too much interface getting in the way most of the time.
 
@@ -33,7 +33,7 @@ On my phone, [Twitter][twitter-ios] and [Words with Friends][words-with-friends-
 
 And increasingly, across all these platforms and scenarios, I find my work all grounded in [DropBox][]. It may be one of the more revolutionary apps I've ever used, and makes me excited about it as a platform like nothing I've seen since the early days of MS Office. To me, that's huge praise.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty close to it right now. I sort of wish I could wave my MacBook Air at my cinema display at home and just have it magically be faster and connected to the huge screen there, instead of having a separate desktop machine. DropBox and using Gmail and other cloud apps sort of take a lot of the pain out of that, though.
 

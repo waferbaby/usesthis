@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello, my name is Auriea. I make interactive art and design, mostly in collaboration with my husband Michael: on websites as [Entropy8Zuper!](http://e8z.org/ "Auriea and Michael's art website.") and on video games and other projects as [Tale of Tales](http://tale-of-tales.com/ "Auriea and Michael's gaming studio."). We have a studio in Ghent, Belgium where we live and work. I personally am more on the visual side and consider myself to be foremost a 3D artist. But I draw quite a lot too, and that's a real passion.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 What I like most is my everyday kit, which is the stuff I have in my bag almost constantly. I consider this to be my 'portable studio' equipment, so even if I'm travelling I could make a masterpiece if I'm feeling it. This consists of:
 
@@ -32,7 +32,7 @@ For work in the Studio I have a [27" iMac][imac] on a Ergotron arm so I can swiv
 
 Oh, and I guess I like my scanner - it's an [Epson Perfection V500 Photo][perfection-v500], so I can scan all those old photo negatives I have from the past... which I do look at when feeling nostalgic.
 
-#### And what software?
+### And what software?
 
 - The usual suspects: [Photoshop][], [Safari][], etc. boring.
 - I use [Fission][] and [Sound Studio][sound-studio] for audio editing.
@@ -46,6 +46,6 @@ Oh, and I guess I like my scanner - it's an [Epson Perfection V500 Photo][perfec
 - I have some time-management issues :> So I use [Pomodoro Timer][pomodoro-timer] if I need a procrastination-free day.
 - I have [Twitter][] ([@auriea](https://twitter.com/auriea "Auriea's Twitter account.")) instead of a real social life. [Tweetbot][tweetbot-ios], over the stock Twitter app.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I most wish I could have a small laptop like the Air but with a monster graphics card inside, a touchscreen with pressure sensitive pen input and a built-in high-quality video projector so I could work seriously on 3D anywhere. I'd like a 3D printer in our studio that outputs to wax, plaster, marble and bronze. 

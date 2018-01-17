@@ -7,15 +7,15 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Carly McCarthy, I'm a filmmaker, musician, illustrator, creator of things. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I always have my point-and-shoot 35mm camera on my shoulder, or up to my eye. If I'm gonna capture motion, I have a [5D Mark II][eos-5d-mark-ii] and a 16mm Bolex. A notebook and pen in my backpack, most likely an autobiography of an admired artist or thinker. I always stay curious about what gear and tools are out there to help me take a story to the next level, but I really prefer to keep it simple so I can shoot in a more guerrilla style.
 
-#### And what software?
+### And what software?
 
 [GarageBand][] and [Maschine][] for making weird soundscapes and scores for my films. So far I have done all of the sound work and composed the music in my films, which is always an unpredictable process. Making music is different every time for me. I bought a [Maschine Mikro][maschine-mikro] a few years ago, and honestly hadn't used it that much recently, but I've really taken some time to understand how it functions and it's a seriously powerful tool.
 
@@ -23,7 +23,7 @@ I use [Adobe Premiere][premiere] for all of my editing needs.
 
 I've recently been messing with [Photoshop's][photoshop] animation function, and I'm loving that and have some really exciting stuff in store for my first feature film that's currently in production. I haven't ever used animation as an element in my stories, but I think it's gonna be the key to stringing together this project.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Dream set up... damn. It would be like a playroom for my imagination! A room that would nurture big visions, and have all of the tools to get the nitty gritty details.
 

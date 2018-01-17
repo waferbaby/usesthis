@@ -7,13 +7,13 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [merkley???](http://www.flickr.com/photos/merkley/ "merkley???'s photos, which are not safe for work."), I'm a former mormon who now makes pictures with naked people, groceries & tossed pets.
 
 I'm The Heavyweight Sleep Champion of The World.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm using a little spinning beach ball generator otherwise known as a 15 inch 2.66ghz [MacBook Pro][macbook-pro] with 4gb memory from last year. [OS X 10.6.8][mac-os-x] -- yeah I know, shut up. One day someone will uncover the hidden "self destruct/send in the beach ball" code and we'll all go "I KNEW IT!"
 
@@ -28,7 +28,7 @@ Apple acts about porn, controlling the App Store and what not, is Apple a mormon
 
 I have my eye on the new giant screen [Samsung Galaxy II][galaxy-s-ii] longest name in the world phone. I think I'll get it next time I walk by a Sprint store.
 
-#### And what software?
+### And what software?
 
 I used [GraphicConverter][] to browse my photos until I discovered that two Finder windows side by side worked faster. I still use [CS4][creative-suite] to do all my Photoshopping. I've made no secret about my love for Photoshop and each time they come out with new features I find something useful. Although I have to say that most of what I do, I could do with Photoshop 7.
 
@@ -48,7 +48,7 @@ I use [Flickr][] for sharing my pictures and my love affair with them is no secr
 
 I hate [Facebook][] and I use it CONSTANTLY!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Apple needs to make a real computer tablet just for Photoshoppers and artists. It should be like the iPad but it should work with a stylus, have QWERTY keys on the back where your fingers can reach them and a bunch of thumbable keys on the front so when held, one could race through keyboard shortcuts and really keep it movin'.
 

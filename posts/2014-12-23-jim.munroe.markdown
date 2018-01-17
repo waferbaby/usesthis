@@ -7,13 +7,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jim Munroe, and for the past fifteen years or so I have been making indie culture via my imprint [No Media Kings](http://nomediakings.org/ "An indie culture collective."): post-Rapture [graphic](http://nomediakings.org/category/comics/therefore-repent "The 'Therefore Repeat! graphic novel.") [novels](http://nomediakings.org/category/comics/sword-of-my-mouth "The 'Sword of My Mouth' graphic novel."), lo-fi sci-fi [movies](http://ghostswithshitjobs.com "The 'Ghosts With Shit Jobs' movie."), and political [video games][unmanned]. I also co-founded the [Hand Eye Society](http://handeyesociety.com/ "A video game not-for-profit."), the first video game arts organization in the world.
 
 I just launched a [Kickstarter](https://www.kickstarter.com/projects/1453845642/haphead-a-near-future-videogame-subculture-webseri "Jim's web series Kickstarter.") for a web series I created about a near-future video game subculture. I also [tweeted](https://twitter.com/nomediakings/status/523537092685467648 "Jim's first tweet.") for the first time today. TOTALLY COINCIDENTAL.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Sigh. My feelings around gear are complicated (it took me a year and a half to answer this interview) as I feel like a sucker buying anything and feel smart making garbage computers work. I am attracted to shiny shiny new new, but also resistant to it. I am like a horny monk when it comes to technology.
 
@@ -23,7 +23,7 @@ I bought a cheap PC tower seven or eight years ago. Four years ago someone gave 
 
 So now I have to upgrade, right, Internet? I don't want to make my kid cry, do I?
 
-#### And what software?
+### And what software?
 
 Again with the fucked-up conflicts. I run [Ubuntu][] like any good freethinking citizen but then almost exclusively within that nice clean shell use the dirty Google privates. [Gmail][], [Calendar][google-calendar], [Docs][google-docs], the fucking works. Plus an [Android][] phone because it syncs so nicely with all that shit. 
 
@@ -33,6 +33,6 @@ I dual boot with [Windows 7][windows-7] because sometimes I need to use the powe
 
 I use [BitTorrent][] to avail myself of the wealth of human artistry, and that's one thing I'm not conflicted on -- I have plenty of cultural karma in the bank.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm not good on these "dreams" you speak of. For a sci-fi writer, I have a hard time thinking outside what is possible within my ethical/financial boundaries. I will be buying a new system this month with an eye towards value and being able to reuse all the feasible innards of my current gear -- much like the original digital natives, who used every part of the computers they obsoleted. But I may treat myself to an SSD. A small one.

@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Rusty Hodge, the founder and general manger of [SomaFM.com](http://somafm.com/ "A commercial-free Internet radio station."), a listener-support, commercial-free Internet radio service based in San Francisco. What I do is everything from choosing much of the music we play to audio production to web and app development to shooting photos and videos of bands to IT operations for our streaming servers and music playback systems.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main computer is a 27" [iMac][], "Late 2009" model, 2.8 GHz Intel Core i7, 8gb RAM, with a 2TB internal HD and a [Promise DS4600][smartstor-ds4600] configured in RAID10 with 4TB of usable space. I have a bunch of other drives I use for backups, including a second DS4600 configured as RAID5 for 6TB of usable space that's used for backups. And there is a Synology NAS with 6TB of space where I keep big media files that aren't actively being used.
 
@@ -38,7 +38,7 @@ I have a [HP Color LaserJet 2025][color-laserjet-cp2025] and a [Canon 8800F flat
 
 Finally, I carry an 160gb [iPod Classic][ipod-classic] and a [Bose Sounddock Portable][sounddock] when I travel.
 
-#### And what software?
+### And what software?
 
 [OmniOutliner][] is my main organizing/planning tool along with [Microsoft Excel][excel]. I don't really use [Word][] or [Powerpoint][], just Excel. I spend a ton of time doing web development using [BBedit][] and the OS X [Terminal][terminal] program. I use the [SpamSieve][] [Mail.app][mail] add on, it works very well. Other utility apps I rely on: [Interarchy][] for file transfers, [Twitter's OS X app][twitter-mac] and sometimes [Twhirl][] (another Twitter client), [SuperDuper][] for backups, [VLC][] for my "plays anything" media player. 
 
@@ -48,7 +48,7 @@ On the photography side, I use [iPhoto][], [Aperture][] and [Photoshop][].
 
 Our playout computers all use [OtsAV radio automation software][otsav-radio] for scheduling and sequencing the songs we playback. I (and our DJs) connect to them via [Remote Desktop Connection][remote-desktop-client] over a VPN so we can run the stations from anywhere. We use Orban AAC encoders and [Shoutcast][] MP3 encoders. We have a lot of custom shell scripts we use for managing music and controlling things.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My desktop machine would be a [Mac Pro][mac-pro] with 12 cores, 2.93ghz, with 32gb of RAM, with a 512gb or bigger SSD and 4 4TB internal drives in RAID5 for 12TB usable space, dual optical drives (I rip a lot of CDs still), dual 27-inch Apple displays, and a ATI Radeon HD 5870 graphics controller. I'd have a [RME Fireface audio interface][fireface-ucx], Genelec 6030a monitors and their matching sub.
 

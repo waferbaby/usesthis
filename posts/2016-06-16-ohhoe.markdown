@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Rachel White, and I'm a self taught Front-End Engineer for IBM Watson. I work on the part of the site that developers would go to if they wanted to use some of the cognitive computing services for Watson. Pretty much all of the information about what Watson does, the APIs and docs live on the site that I help build and maintain.
 
@@ -18,7 +18,7 @@ In my spare time I'm actively working on multiple video games, including a VR Ca
 - [http://imcool.online](http://imcool.online/ "Rachel's portfolio site.") - Portfolio Site
 - [http://twitter.com/ohhoe](http://twitter.com/ohhoe "Rachel's Twitter account.") - Twitter!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When I'm at work, I have a dual monitor setup, they're these really nice Dell Ultrasharp borderless monitors... I have them set up behind my [15" MacBook Pro][macbook-pro].
 
@@ -40,7 +40,7 @@ I also have my own 13" MacBook Pro I use for personal projects, game dev, and ju
 
 <img src="/images/interviews/ohhoe/laptop.jpg" width="500" height="335" alt="Rachel's cute MacBook Pro, covered in stickers." class="detail">
 
-#### And what software?
+### And what software?
 
 [Sublime Text][sublime-text] with [ITG Flat theme](http://itsthatguy.com/post/70191573560/sublime-text-theme-itgflat "A theme for Sublime Text.") along with this [Pastel color scheme](http://colorsublime.com/theme/Pastel "A colour scheme for Sublime Text.") - I'm always open to a better pastel on dark theme, though!
 
@@ -52,7 +52,7 @@ For CLI I use [iTerm][iterm2] with [oh-my-zsh][] alongside a custom theme I made
 
 I'm currently learning [Unity][] & [Maya][] & [Blender][] for the VR projects I'm working on as well.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 An apartment bigger than my Brooklyn one, with a ton of desk space so I can have enough space to work with my PC, Macbook, and hardware projects. I used to live in a 1200sq ft apartment in St. Louis, and moved alllll my things to my 750sq ft place that I share with my roommate, so I've been trying to get rid of about half of the things I own so things are less cluttered and I just feel calm and comfortable in my space. If my room isn't clean, it's hard for me to be productive. 
 

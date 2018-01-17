@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Emma Winston, and I'm a [PhD student](https://emmawinston.me/ "Emma's website."), [musician](http://deerful.com/), teaching assistant, sound artist, and botmaker.
 
@@ -22,7 +22,7 @@ I sometimes make [Twitter bots](http://deerful.space/ "A list of Emma's Twitter 
 
 On the surface my interests seem very diverse, but they're all linked together by a fascination with how and why people, including myself, make things, the expressive and empowering potential of building stuff, and the democratisation of creativity. Making things has changed my life and I want it to do the same for others. I also want to understand why and how it's so life-changing in the first place.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do everything digitally, which I have a sense is actually somewhat unusual in arts and humanities academia. This is largely because my flat is absolutely tiny, like, picture a really small flat then halve it and you're probably close, but also because I am terribly disorganised, clumsy, and with a tendency to step on, sit on or otherwise maim sheets of paper, but am great at keyword searches. So I digitise everything, and rarely handwrite (and when I do it gets scanned into my phone straight away). I work mostly on an [11" MacBook Air][macbook-air] and I love it to death. It's not too small. It's perfect. Except when it's too *big*, and then I take an [iPad Mini 2][ipad-mini-2] out with me instead. I like being able to change the space I'm in at the drop of a hat, and both devices let me go to my university library or to a cafe or anywhere else with no drama and no need to plug in anywhere, and the Macbook works for live performance as well as it works for thesis-writing. I can't imagine needing anything bigger.
 
@@ -32,7 +32,7 @@ When I started learning about electronic music production I got quite deep into 
 
 I am both quite a small person and quite an easily-stressed person, and I live in London, and I don't have a car, so I guess it makes sense that I want all my technology to be as little and cable-free and low-drama as possible. I pretty much feel like I've nailed that, I think.
 
-#### And what software?
+### And what software?
 
 All my research gets written up in [Scrivener][], because it stresses me out less than [Word][] and you can move things around more easily; it's less linear than a conventional word processor. It's meant for novel and screenplay-writing but obviously being able to move chapters around as if they were index cards, storing all of your notes in the same document without having to delete them when you print the final draft, taking snapshots and target-tracking is perfect for academic writing. My supervisor, however, loves Word, so I've got a workflow going where I write in Scrivener in [Markdown][], then use [Pandoc][] to compile my chapter drafts to Word. For citations, I store everything in [Zotero][] reference manager, then use David Smith's [ZotPick applet][zotpick-applescript] to insert citations into my writing. It works well enough that almost a year into my research I have not yet wanted to set fire to anything which is, I feel, all you can really ask of a thesis workflow.
 
@@ -42,7 +42,7 @@ For music-making, the only software I use for playing live is [Ableton Live][liv
 
 For botmaking and other miscellaneous coding I use [Sublime Text 2][sublime-text], although I'm fairly sure I don't make the most of its capabilities at all. All my Twitter bots are either written in (bad) [Python][] and hosted on [Heroku][], or written in Kate Compton's amazing generative grammar [Tracery][] and hosted on George Buckenham's cloud platform [Cheap Bots Done Quick](http://cheapbotsdonequick.com/ "A bot hosting site."). The latter combination is a fantastically creative and accessible tool, you don't need to be able to understand code at all to use it, and it's also surprisingly powerful - Graphic Score Bot, which is by far my most conceptually complex bot, is written in Tracery and runs on CBDQ.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think I'm actually relatively close to owning my dream setup, which is pretty amazing. This will probably change the next time any synth company releases anything small and battery-powered (actually I really wouldn't mind a [Korg volca fm][volca-fm], or a [Shbobo Shnth][shbobo], or an [OP-Z when it comes out][op-z] - Teenage Engineering strikes again! - but I feel like the setup I've got now is so conducive to the type of music I want to be making that it's not like I ever feel stuck or frustrated with it).
 

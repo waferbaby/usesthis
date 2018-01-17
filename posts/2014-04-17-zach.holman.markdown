@@ -8,7 +8,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Zach Holman](http://zachholman.com/ "Zach's website."). I'm a web developer and product person who can sometimes be found living in San Francisco.
 
@@ -18,7 +18,7 @@ I like writing. I write about startups and product and emoji on my blog. I write
 
 I like speaking. I've given [a bunch of talks](http://zachholman.com/talks "Zach's list of talks.") over the years, and I enjoy the process of public talks so much that I created [speaking.io](http://speaking.io/ "A site for helping you be a better public speaker."), a site to help you get better at public speaking.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm currently on a [15" Retina MacBook Pro][macbook-pro]. I've found myself simplifying my setup more and more over time. Previously I had an [iMac][], another display, and a MacBook, but realized that it's just simpler to toss everything on one machine and one screen.
 
@@ -30,7 +30,7 @@ I like playing with music. For live music, I play on a [Native Instruments Trakt
 
 It's possibly strange to include this as hardware, but the last few years I've flown 100k-200k miles each year, so airplanes are basically another set of hardware for me in some sense. I tend to fly [Delta](https://www.delta.com/ "The Delta website.") and stay at [SPG](http://spg.com/ "The Starwood Hotel website.") hotels, in large part because I think both of them don't have completely maddening UI in their product (be it technical or customer service or the service itself). Also yes I realize I'm a goddamn nerd for putting this in here but I've made my peace with it.
 
-#### And what software?
+### And what software?
 
 I run [OS X Mavericks][mac-os-x]
 
@@ -44,7 +44,7 @@ For photos, I use [Aperture][] to manage things locally, and [Exposure][] to sha
 
 For music, I use [Traktor][traktor-pro] and [Maschine][]. For regular daily listening, I use [iTunes][]. I'm wary of cloud-based music offerings ever since [iTunes Match][itunes-match] inserted a country song in the middle of Dre's *2001*. Besides, I have really odd bootlegs of jazz artists from the 50's that I'd never be able to listen to online.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I really wish I could go iPad-only. Unfortunately, as a programmer, I'm not super confident that that would ever be an option. This might be a reason why I should grow up to be a board member who only uses their computer for email and [PowerPoint][] and [Excel][] spreadsheets. Then I'd be golden.
 

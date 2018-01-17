@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! I'm Daniel Schauenberg and currently I'm a Staff Engineer on [Etsy][]'s fleet management and provisioning team. I've previously worked on the DevTools team at Etsy and in former jobs I was an embedded systems engineer and a network/systems administrator at a chemical plant before that.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In terms of hardware I use an [11" MacBook Air][macbook-air] as my personal laptop, and have the same model for work in conjunction with a [27" Thunderbolt Display][thunderbolt-display], [Apple Wireless Keyboard][keyboard], and [Apple Trackpad][magic-trackpad]. It's honestly the best laptop I have ever owned, and I can't imagine ever going with a different size (although Apple's current laptop lineup suggests that I will have to at some point).
 
@@ -19,7 +19,7 @@ I have [Sennheiser HD 280 Pro headphones][hd-280-pro] at work and also burn thro
 
 I recently acquired an [iPhone SE][iphone-se] after my trusty, almost 4 year old [iPhone 5][iphone-5] got too slow, and I have a 1st gen [iPad mini][ipad-mini] that I barely use. My phone is connected to a [Pebble Time][pebble-time] but I have most notifications disabled. I have a root server at Hetzner that hosts most of my stuff, an HP microserver at home for backups, and built my own homerouter on an [apu1d4][] board. And I *love* my [YubiKeys][yubikey] (I have a 4 for work and a [NEO][yubikey-neo] for personal stuff) which I mostly use for 2FA on my servers and home router (via [Duo Security][duo]) and for signing [git][] commits.
 
-#### And what software?
+### And what software?
 
 A lot of my work revolves around text files (code, journal, notes, ..) so the two pieces of software I probably interact with most are [vim][] and git. Most of the time I write [bash][], [Ruby][], [PHP][] or [Go][], and I use [Make][] religiously to automate as much as possible, sign git commits with GPG, read email in [mutt][] and generally live in a bunch of nested [tmux][] sessions in a fullscreen [iTerm2][] terminal. I use [Ledger][] for my accounting, which stays with the theme of being a bunch of text files, tracked in git, and automated with make.
 
@@ -29,6 +29,6 @@ I listen to music in either [iTunes][] or [Amazon Music][amazon-cloud-player] (R
 
 On my iPhone I mostly use [Tweetbot][tweetbot-ios], [Instagram][instagram-ios], [Reeder][reeder-ios] (<3 RSS), [Calm][calm-ios], and a combination of [Working Copy][working-copy-ios] and [Editorial][editorial-ios] to clone git repos on my phone and take notes or write blog posts. I also use [Pocket][pocket-ios] a lot, to the point where I had ~2000 articles backlogged. So I wrote a tool I called [pocketcleaner][] which runs on one of my servers and trims down the list to the 20 newest entries every Sunday night.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I basically have my dream set up in a lot of ways. It would be awesome if I didn't have to charge my MacBook Air so often, and I would love it if macOS had kept closer to its UNIX roots. But otherwise I'm really enjoying my setup.

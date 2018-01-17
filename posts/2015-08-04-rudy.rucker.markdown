@@ -10,11 +10,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a writer and a painter, and I spend a lot of time online promoting myself, building my brand, expressing myself, connecting with friends, whatever. I maintain a large website which includes a [blog](http://www.rudyrucker.com/blog/ "Rudy's weblog."), a number of webpages relating to [my individual books](http://www.rudyrucker.com/blog/books/ "Rudy's books."), and I have a [painting page](http://www.rudyrucker.com/paintings/ "Rudy's paintings.") as well. I also post a number of [podcasts](http://www.rudyrucker.com/podcasts/ "Rudy's podcasts."). I self-publish some of my books and I have a separate website for this: [Transreal Books](http://www.transrealbooks.com/ "Rudy's book publishing service."). And I take a lot of photos, many of which I post on my blog.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I run [Windows 7][windows-7] on my computers. I have a honking big desktop machine with a pair of RAID drives and not enough RAM (12 gigs). My son Rudy Jr. built the machine for me six years ago. My monitor is for shit, it's over ten years old, it's a ViewSonic, a [VP191B][], it used to be considered good. It's in the old-school 4 x 3 aspect ratio, which I prefer. I turn the monitor so it's a vertical rectangle like a sheet of paper. I use a [Microsoft ergonomic keyboard][natural-keyboard-elite], and I have a trackball on the left and a mouse on the right.
 
@@ -40,7 +40,7 @@ I have a pocket-sized Sony audio recorder for taping my talks, it's an [SX733][i
 
 So that's the hardware situation around here.
 
-#### And what software?
+### And what software?
 
 I've used Microsoft Word for about thirty years and, like with Windows, the commands are all in muscle memory. And I frikkin' hate it when a command changes or, worse, when a new computer has the keys arranged in a different way. I've written a few macros to simplify tasks, but basically it's just straight Word. When my writing is going well, the words flow down out of my brain, through my fingers, through the keyboard onto my screen, and there's no conscious awareness of the interface.
 
@@ -56,7 +56,7 @@ Even though I'm an emeritus professor of computer science, it was really hard to
 
 I sell my ebooks via Amazon mostly, but I also sell them direct using a product called [E-Junkie][], and I list them as Nook books on B&N, and maybe on [Apple iBooks][ibooks], but those last two channels are kind of a "why bother" thing. It's all about Amazon ebooks. And with my direct E-Junkie sales of MOBI / EPUB ebooks, I can satisfy those who'd rather not buy from Amazon.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To barely use a computer at all. Just paint, and read paper books, and write novels in Word, and have sycophantic, well-paying agents and publishers take care of the rest of it. Bring me meals, get me speaking gigs, send me and my wife on vacations.
 

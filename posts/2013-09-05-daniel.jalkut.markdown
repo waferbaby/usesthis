@@ -8,13 +8,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Daniel Jalkut. I grew up in California, started my career at Apple, quit to earn a 2nd BA in Music, and finally settled in to founding and running [Red Sweater Software](http://www.red-sweater.com/ "Red Sweater's website.").
 
 I'm active in the Mac and iOS developer community, where I have gotten to know folks through public speaking, blogging on my [company blog](http://www.red-sweater.com/blog/ "Red Sweater's weblog.") and [personal tech blog](http://bitsplitting.org/ "Daniel's weblog."), and through podcasting with my friend Manton Reece on [Core Intuition](http://coreint.org/ "Daniel and Manton's podcast."). I recently started an interview podcast: the [Bitsplitting Podcast](http://bitsplitting.org/podcast/ "The Bitsplitting podcast site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I work from home, so all the hardware I use to run the business doubles in some capacity as a personal computer as well. My main work machine is a 2010-era 15" [MacBook Pro][macbook-pro], which I imagine will eventually be upgraded to a rough equivalent in the Retina MacBook Pro line. I used to keep a humongous [Mac Pro][mac-pro] in my office but as the power of portable computers has increased I find the benefits of having one "home computer" that goes everywhere you do outweigh the minor performance losses compared to a behemoth workhorse.
 
@@ -26,7 +26,7 @@ This past year I have tipped my toes into the standing-desk revolution. I bought
 
 I have been gradually shifting to a paperless lifestyle and for this my [Fujitsu ScanSnap S1500M][scansnap-s1500m] has been a great help. Other hardware at my desk supports my podcasting, including a classic MOTU 828 audio interface with a [Shure SM58][sm58] microphone. I've recently standardized with my podcasting cohort on a new mic: the [Røde Podcaster][podcaster].
 
-#### And what software?
+### And what software?
 
 As a software developer, some of my most beloved apps are the ones I wrote myself. I'm constantly using [MarsEdit][] to draft and publish blog entries, and [FastScripts][] to shave seconds or minutes off the repetitive tasks that are part of my work day.
 
@@ -42,7 +42,7 @@ For podcasting I use [Audio Hijack Pro][audio-hijack-pro] with [Skype][] for rec
 
 What else? [Acorn][] for casual image editing, [Skitch][] (1.0 forever!) for easy screen captures, [Rdio][] for infinite music, and backups courtesy of [Backblaze][], [Time Machine][time-machine] and [SuperDuper!][superduper].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would welcome anything that allowed me to approach all my computing with a more centralized concept of "home base." The advantages of a portable Mac with a fast SSD drive are offset by the challenges of a small disk and, as I mentioned, the system sometimes being put to sleep or shut down. I am intrigued by the extent to which some solutions are syncing seamlessly across not only multiple Macs but to iOS devices as well. In the long term, I expect to be able to use whatever device is convenient for the task at hand, confident that the data will end up where it needs to be. For example, if I take a thousand pictures on my phone, it should not be a big deal to be assured those photos have been archived on my home computer and will be redundantly backed up within the hour. Currently there are ways of automating this kind of stuff, but they require up-front investment and research in to the best solutions.
 

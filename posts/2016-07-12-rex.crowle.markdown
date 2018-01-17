@@ -7,17 +7,17 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Rex Crowle](http://www.rexbox.co.uk/ "Rex's website."), and I'm mostly a game creator. My background is in graphic-design and illustration, but I accidentally fell into the world of video games, and have been mostly working in that area for the past decade.
 
 I was a Production Designer on [LittleBigPlanet 1][littlebigplanet] and [2][littlebigplanet-2], and more recently was the Creative Lead on [Tearaway][] and [Tearaway Unfolded][tearaway-unfolded], which are available on [Playstation Vita][vita] and [Playstation 4][ps4]. I'm now also the co-founder of a new studio: [Foam Sword](http://foamswordgames.com/ "A gaming studio."), and we've recently had our first project funded via a successful [Kickstarter](https://www.kickstarter.com/projects/foamsword/knights-and-bikes "The Kickstarter project for Knights And Bikes.") - it's called Knights And Bikes, which is a personal homage to The Goonies, childhood, and cycling around on BMXs, throwing Frisbees, digging up treasure and just generally looking for adventure!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Mostly I'm working off a [15 inch MacBook Pro][macbook-pro] coupled with an old [Apple Cinema Display][cinema-display] for a second-screen. Up until recently I worked entirely off a Wacom tablet, but I've recently upgraded to a [Cintiq][] screen, and I'm really noticing the difference now I'm directly drawing on the screen rather than indirectly drawing via the tablet (I can draw circles again!). Alongside this tangle of screens is the development hardware for whatever consoles we are currently developing for (currently this means a Playstation 4 Development Kit).
 
-#### And what software?
+### And what software?
 
 I spend the majority of my day swapping between the usual components of [Adobe Creative Suite][creative-suite], with particular use of [Photoshop][], [Illustrator][], [After Effects][after-effects] and [Premiere][]. My Photoshop work uses the natural media brushes from Kyle T Webster.
 
@@ -25,6 +25,6 @@ For game-development I now use [Unity][] as our game assembly tool/engine. It ma
 
 There's a few other tools I use; like [Spine Pro][spine] for 2D animation, [Maya][] for 3D modelling, [TexturePacker][] for exporting artwork and [Cornerstone][] for version-control backups. [Slack][] for chatting and sharing files and [Asana][] to remind me what deadlines I'm missing. And finally [Scrivener][] for writing, as it feels like software designed for writers, not typers.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't think I'd change anything about my hardware/software setup to make it a dream setup. I guess the only thing I'd tweak was where all this hardware is located (my flat in London), and would take the opportunity to hot-desk myself around the world, as I really enjoy working from new environments, and around other people, as getting fresh inspiration can make a bigger difference than any amount of tools and plugins!

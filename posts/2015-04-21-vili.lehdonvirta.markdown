@@ -9,7 +9,7 @@ categories:
 - social
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Vili Lehdonvirta](http://vili.lehdonvirta.com/ "Vili's website."), economic sociologist and one-time game developer. I research and teach at the [Oxford Internet Institute](http://www.oii.ox.ac.uk/ "A social Internet academic center."), University of Oxford, where I'm a faculty member (Research Fellow, comparable to Assistant Professor in the U.S.). I also direct the institute's doctoral programme, the [DPhil in Information, Communication, and the Social Sciences](http://www.oii.ox.ac.uk/graduatestudy/dphil/ "A social science doctorate degree."). I'm originally from Finland.
 
@@ -19,7 +19,7 @@ I previously worked at the [London School of Economics](http://www.lse.ac.uk/man
 
 As a sociologist, I'm sensitive to how consumption choices can be read as signals about social position and identity, and how technology consumption choices in particular are often overinterpreted. As a programmer, I'm wondering whether sharing details about my harware and software will make me an easier target for malicious behaviours. These considerations are probably going to moderate my answers!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main tool is a 13" [MacBook Air][macbook-air] (currently a Mid-2012 128GB SSD). I also use an [iPad][ipad-4] (currently a white 4th gen WiFi 32GB) for reading, gaming, and recently also for recording face-to-face interviews. I use a [Time Capsule][time-capsule] (currently a 5th gen 2TB) for over-the-air incremental backup. I have an external monitor at the office, but I've never used it. I don't have an external mouse or keyboard. I like to move around and often work from Oxford's various libraries, reading rooms, and quads.
 
@@ -27,7 +27,7 @@ My main phone is a white [iPhone 4][iphone-4] from 2011. I'm very unhappy with h
 
 I get to travel more than I'd like to, but two pieces of kit help to make it better. One is a [Micro 3in1 Luggage Scooter][3in1-luggage-scooter]. It holds everything I need for a short trip and gets me from security to gate in a couple of minutes. It's also guaranteed to start conversations with airline staff. The other piece of kit is an adaptor that allows me to plug my own earbuds to aircrafts' increasingly quaint entertainment systems. I like watching whatever films they've curated from the destination country as a means of rudimentary cultural acclimatization.
 
-#### And what software?
+### And what software?
 
 My MacBook Air runs [OS X][mac-os-x], which is set to Japanese to help to maintain my language skills. I use [Mail][] for mail and [iCal][] for calendars. I use [Chrome][] for browsing, though I'm unhappy with how it has started to bloat and duplicate operating system features. My most frequently used browser extensions are [AdBlock][], [rikaikun][], and [Website Blocker][website-blocker].
 
@@ -45,7 +45,7 @@ I use [oDesk][] to recruit temporary help for simple data input and web design t
 
 I use [Twitter](https://twitter.com/ViliLe "Vili's Twitter account.") and [LinkedIn](https://www.linkedin.com/in/vililehdonvirta "Vili's LinkedIn account.") for work-related communications and [Facebook][] for more personal communications. I use [WhatsApp][whatsapp-ios] to keep in touch with those closest to me in Finland, and [LINE][line-ios] to keep in touch with the same in Japan. I use [TripIt][] to organize and share flight information and [Expensify][] to track expenses. I use [DOSBox][] and [Steam][] for games.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I like moving around, zooming in and out, drawing on whiteboards, and making notes in book margins. These acts make use of our capacity for spatial cognition, which helps with problem solving, focus, and recollection. Digital user interfaces are not very good at making use of this yet. People like my former HIIT colleagues who founded [MultiTaction](http://www.multitaction.com "A developer of interactive displays.") are working on it, though. My dream UX will allow me to think with my whole body, not just with my brain.
 

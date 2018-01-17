@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Joost van Dongen](http://www.oogst3d.net/ "Joost's website."), a Dutch game developer. I am co-founder of [Ronimo Games](http://www.ronimo-games.com/ "A Dutch game developer."), the indie studio behind the award-winning downloadable games Swords & Soldiers and [Awesomenauts][]. We released these games on all kinds of platforms, like [Playstation 3][ps3], [Xbox 360][xbox-360], [Nintendo Wii][wii], PC, Mac, Linux, Android and iOS. I am the lead programmer at Ronimo and lead a team of, currently, five programmers.
 
@@ -18,7 +18,7 @@ I am also an amateur cellist. I currently play in the Kunstorkest, a baroque orc
 
 Finally, I write weekly about game development on my blog: "[Joost's Dev Blog](http://blog.oogst3d.net/ "Joost's weblog about game development.")". I try to write in-depth articles about all sides of game development there, from programming to art to music to game design and even marketing and creative philosophy. To my surprise, people really seem to like the diversity and depth of the articles, which is nice, because that is what I like to write about most!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My most important tool is just two normal [Windows 7][windows-7] PCs, one at home and one at work. There is not all that much to say about these, except that the videocard is important. At Ronimo I have a rather old and crappy videocard, so that I am constantly slapped in the face by low performance if our games don't run well enough. At home I have a very fast videocard, since I also like to play videogames there, and since I do the more advanced graphics programming for my hobby projects I need a videocard with all the latest features. I also have a Zepto laptop with [Windows XP][windows-xp], which I use when performing with Cello Fortress.
 
@@ -34,7 +34,7 @@ I also have an [M-Audio Oxygen 49 MIDI keyboard][oxygen-49]. Being a cellist onl
 
 Finally, a very special kind of device that few people have access to: devkits. At Ronimo we make console games, and developing for consoles requires special hardware that is only available to licensed developers. I have worked with Nintendo Wii, Xbox 360 and Playstation 3 devkits, and more. It is the dream of most game programmers to work with these, since it feels so much like the Real Deal when working for the big consoles, and since access to them is relatively limited. By now it has gotten kind of normal for me, but I remember how incredibly awesome the first weeks with the Wii devkit were...
 
-#### And what software?
+### And what software?
 
 I do most of my programming in [C++][c-plusplus] in [Microsoft Visual Studio][visual-studio] 2005 and 2010. There are some extensions to these tools to make them work with console devkits, so I can use them for almost everything.
 
@@ -44,7 +44,7 @@ For simple text editing, I use either [Context][] or [Notepad++][notepad-plusplu
 
 Finally, for composing and recording music I use [Steinberg Cubase LE][cubase-le] AI Elements 6. This is a great tool, but it doesn't really come to life until loads of plugins have been added for specific instruments and sound effects. A particular favourite of mine is [Tapeworm][], which emulates the sound of a Mellotron. A Mellotron is a strange type of keyboard that was mostly used in the seventies for prog-rock. These devices break down a lot and need constant cleaning, so with this plugin I can get a nice sound and don't need to worry about hardware breaking down!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I am pretty happy with what I have right now! The only thing I really miss right now is good speakers. I use my old Philips hifi stereo set now, and it distorts the sound quite a bit. It sounds good, but it makes everything so much warmer that I always doubt whether what I made would sound good on anything else. Also, it tends to freak out on certain frequencies, which isn't good either.
 

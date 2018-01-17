@@ -10,7 +10,7 @@ credits:
   url: http://www.flickr.com/photos/dvanhorn/6165121629/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Matt Might](http://matt.might.net/ "Matt's website.") ([@mattmight](http://twitter.com/mattmight "Matt on Twitter."), [matt.might.net](http://matt.might.net/articles/ "Articles and posts by Matt.")), a professor in the [School of Computing](http://www.cs.utah.edu/ "The school where Matt teaches.") at the [University of Utah](http://www.utah.edu/ "Matt's university."). My [research](http://matt.might.net/#papers "Research papers by Matt.") focuses on creating software that can think deeply about and predict the behavior of other software. (Usually, that's to improve performance and guarantee security.) But, when I'm recognized, it's usually as the author of [The Illustrated Guide to a Ph.D](http://matt.might.net/articles/phd-school-in-pictures/ "Matt's explanation of a PhD in pictures.").
 
@@ -18,7 +18,7 @@ In short, I research, I write, I teach, I lecture, I organize, I blog and I twee
 
 The guiding philosophy behind my setup is to make it easy to do the things I should be doing, and hard to do the things I shouldn't.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I travel a lot, so size is the dominant factor for my primary computer--a maxed-out 2011-model 11" [MacBook Air][macbook-air]. It docks with a 27" [ThunderBolt display][thunderbolt-display] and a [Harmon Kardon Soundsticks][soundsticks] speaker/subwoofer system.
 
@@ -46,7 +46,7 @@ We don't have cable, and I keep news websites blocked, so I read dead-tree newsp
 
 Atmosphere is critical to my creativity, so my home office has a view of the towering Wasatch mountains and the six pet chickens I raise for eggs wobbling innocently about my backyard. The juxtaposition of grandeur and responsibility keeps me grounded and focused.
 
-#### And what software?
+### And what software?
 
 To me, Unix is digital clay, [readily sculpted into any form or function](http://matt.might.net/articles/basic-unix/ "Matt's article on *nix.").
 
@@ -104,7 +104,7 @@ In any given month, I'll write code in about a dozen different programming langu
 
 One should always choose the programming language that reduces the impedance mismatch between a problem and its solution.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 When I was young, I dreamed about building a "nerd cave" full of fast hardware, big monitors, sleek software and cool gadgets.
 

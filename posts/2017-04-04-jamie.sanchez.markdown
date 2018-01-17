@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jamie Sanchez](https://jamiesanchez.com/ "Jamie's website."), a full-time creative consultant. My bread and butter is [custom WordPress development](https://curiouser.design/ "Jamie's WordPress designer site.") for clients but I frequently work on branding, event planning, and community building projects for Chicago-based nerds and organizations.
 
@@ -19,13 +19,13 @@ My other main project is [AnimeChicago](https://animechicago.com/ "A non-profit 
 
 Lastly, I'm also a WordPress Mentor for [Skillcrush](https://skillcrush.com/ "A site that helps teach people to become developers.") where I help new developers launch their freelance businesses or make drastic career changes to pursue a more fulfilling life.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm using a maxed-out 2009 [MacBook Pro][macbook-pro] that desperately needs replacement. I've loaded this machine with 8GB sticks of RAM, upgraded to a blazing fast SSD, and have even swapped the little $6 feet when they started chipping off. It's on its second battery and the "Service Battery" notice came back a few months ago. I'm a firm believer that technology shouldn't mirror fast fashion, and that minimalism includes caring for your tech items long term.
 
 My productivity increases with dual monitors, so I'm using a 27 inch LG at home and a hand-me-down [Wacom Cintiq 20][cintiq] with busted pen input at my co-working desk. [Magic Mouse][magic-mouse], Bluetooth [keyboard][], and headphones are a must for desk mode.
 
-#### And what software?
+### And what software?
 
 Most of my design time is spent in [Illustrator][] and [Sketch][] since I work on both print and web projects frequently. [Craft][] does a good job filling in the gaps between Sketch's native tools. [Photoshop][] is still my BFF photo editing suite. I also do some digital illustration on the side but have been waffling between [SketchBook][sketchbook-pro], [Clip Studio][clip-studio-paint], and [Krita][]. Utilities like [Noun Project][the-noun-project], [RightFont][], [LittleIpsum][], and [Sip][] make the day a little easier.
 
@@ -33,7 +33,7 @@ Most of my design time is spent in [Illustrator][] and [Sketch][] since I work o
 
 As for productivity software... I have _opinions_. [OmniFocus][] is a great tool but leaves a lot to be desired for long-term planning, so some Google Sheet worksheets fill in those gaps. For collaboration needs, [Slack][], [Dropbox][], and [Google Docs][google-docs] have worked perfectly. [1Password][], [Focus][focus.2], [Calendly][], [Harvest][], [YNAB][], and [Quickbooks Self-Employed][quickbooks-self-employed] have paid for themselves a thousand times over. I absolutely love [Spotify][] and [Numi][], which are just nice perks.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Realistically: The latest 15" MBP all tricked out, three new 27" displays for all three desks, Cintiq 13HD tablet, and the best noise-cancelling headphones and dictation software suite on the market.
 

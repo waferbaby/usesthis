@@ -7,11 +7,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Kim Boekbinder](http://www.kimboekbinder.com/ "Kim's website."), [musician](https://kimboekbinder.bandcamp.com/ "Kim's music on Bandcamp."), artist, iconoclast. I write, record, and release a lot of music. I also write essays and prose, make visual art, DJ, and perform live shows. Lately I've been composing soundtracks for games, audiobooks, and films. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 On a daily basis to get things done I use an 8x5 Moleskine plain unlined notebook and whatever nice pen I can get my hands on to make notes, lists of things to do, sketch out essays, jot down song lyrics, and plan world domination (even though world domination is so 2008.) I also use my [iPhone 4S][iphone-4s] and my [15" MacBook Pro][macbook-pro] for the emailing, social networking, graphic design, writing of essays, booking of shows and recording of music. 
 
@@ -37,7 +37,7 @@ For microphones I use a [Shure Beta 58][beta-58a] for live shows and home record
 
 I often record field samples as well and for that I use my iPhone or my [ZOOM H1][h1], tiny and powerful.
 
-#### And what software?
+### And what software?
 
 My Mac is still running one of the [big cats][mac-os-x] - the one before Lion. Mountain Lion? Tiger? Snow Cheetah? Meow.
 
@@ -67,7 +67,7 @@ I upload [videos](https://www.youtube.com/watch?v=ENJKo5jqjUw "Kim's video for '
 
 For my own website I use [WordPress][] and [Paid Memberships Pro][paid-memberships-pro] to run the subscriber part of my website called [MISSION CONTROL](http://theimpossiblegirl.com/missioncontrol/ "Kim's fan section on her site.") where fans get access to the songwriting process and downloads of everything I do, even the things that never get released.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 For live shows I'm really happy with what I've got, though I'll need to be replacing the loop pedal soon. Probably with Ableton and [Push][]. At some point I'd also like a Fender twin reverb amp and a few pedals: [Fuzz Factory][fuzz-factory], and the [Reuss RSH-02][rsh-02] to start, then every pedal ever. 
 

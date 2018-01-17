@@ -6,11 +6,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Kate Ray ([@kraykray](http://twitter.com/kraykray "Kate's Twitter account.")), technical co-founder of scroll kit, [Ruby][]/[JavaScript][] coder. Also made some stuff like this [documentary](http://vimeo.com/11529540 "Kate's Semantic Web documentary on Vimeo.") on the semantic web, and this app [TeachYourselfToCode](http://teachyourselftocode.com/ "A site that does what it says in the URL."). I'm into tools that make people creators.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got a 15" [MacBook Pro][macbook-pro] that's about two and a half years old (2010 model) but is good to me. It's set up on this [laptop stand][mstand] with a wireless [keyboard][] and [trackpad][magic-trackpad]. I wear a big pair of over-the-ear [headphones][mdr-7506] even though I don't listen to music while working; I think the physical metaphor of plugging into my computer improves my focus. I have a standing desk (actually an IKEA bar table), along with an anti-fatigue mat, that I use sometimes.
 
@@ -18,7 +18,7 @@ What I'll pick out though, is the large lined _paper_ notebook that's next to my
 
 I also have a [laser star projector][laser-stars] that I'm sure improves my code in some occult way.
 
-#### And what software?
+### And what software?
 
 I spend most of the day switching between [Chrome][], [iTerm][iterm2], and [Sublime Text 2][sublime-text] (Monokai color scheme). I can corroborate this because I use [RescueTime][] to track my productivity based on which applications I'm using. I'm a terrible insomniac so I also use [f.lux][], which slowly warms the colors of your screen based on the time of day and supposedly helps with your circadian rhythm or something.
 
@@ -28,6 +28,6 @@ My cofounder and I have also been using [Google Docs][google-docs] for awhile no
 
 Other tools/services we use and &lt;3 at scroll kit: [heroku][], [chartbeat][], [mixpanel][], Amazon [s3][] / [Cloudfront][], and [Olark][] - which enables the most human of feedback and often helps me remember why I'm working at all.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Okay, if this is like fantasy sci-fi dream, I'd say a noiseproof single-person pod, designed by Apple, built for a standing/leaning posture, with most of the front being taken up by a screen and a window on one side so I wouldn't get claustrophobic (and, if I'm allowed, in outer space with a nice view of stars). I like burrowing into small spaces.

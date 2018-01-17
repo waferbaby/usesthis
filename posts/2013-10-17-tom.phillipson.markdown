@@ -7,7 +7,7 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Tom Phillipson](http://www.auto64.com/ "Tom's website."), and I'm an Australian living in Berlin, Germany. For the most part I work with video, mainly film clip production for musicians and artists. Labels I have worked with include Trapez, Traumschallplatten, Thoughtless music, Klasse, Terminal M, and I've produced clips for Deepchild, Dominik Eulberg, Piemont, Sacha Robotti, and Noah Pred to name a few.
 
@@ -15,7 +15,7 @@ I also perform as a [VJ](http://vimeo.com/57269796 "Tom's 2013 showreel on Vimeo
 
 Aside to this, I also produce work for gallery shows/installations.When I have spare time, I produce music, but that is more just to keep sane when everything is getting too much.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My hardware for video is pretty straightforward - I use a [Canon 5D Mk III][eos-5d-mark-iii] and a [Canon 7D][eos-7d], with [16-35mm f2.8L][ef-16-35mm-f2.8l-ii-usm], [24-70mm f2.8L][ef-24-70mm-f2.8l-usm], and [100mm f2.8][ef-100mm-f2.8-macro-usm] macro lenses. Depending on the shoot and what it requires, I either use my Redrock DSLR Cinema rig with a [7 inch Marshall monitor][m-ct7] or the [Glidecam HD-4000 stedicam][hd-4000].
 
@@ -27,13 +27,13 @@ Although music and audio production is really just something I do on the side, i
 
 Back in Sydney I also have a [Waldorf Q Yellow Keyboard][q] and a [Yamaha O1V mixer][01v] in storage.
 
-#### And what software?
+### And what software?
 
 I have never really been one to rush out and upgrade software or move to the latest operating system... it's not that I dont like change, I just dont like having to take something that's working for me and change it all to things which often won't let me do the same things. To that end, I am still running [OS X][mac-os-x] Snow Leopard, [Final Cut 7][final-cut-pro], [After Effects CS5][after-effects], [VDMX 5][vdmx], [Quartz Composer][quartz-composer], [Cinema 4D][cinema-4d], [Ableton 9][live], and [Reason 4][reason].
 
 That said, I never have an issue with any of it. I know one day I will need to move up, but for now I'm happy, it's happy, we are all happy.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To be honest, my current studio is my pretty much my dream setup.  It's a 5 minute walk from my house, it's really cheap and really big.Plus I received a grant from the Australia council to set it up, so for the last 12 months I haven't had to pay rent either.
 

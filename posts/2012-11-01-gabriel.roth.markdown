@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://gabrielroth.com/ "Gabriel's website.") a novelist - my first book, _The Unknowns,_ comes out from [Reagan Arthur Books/Little, Brown](http://www.reaganarthurbooks.com/ "Gabriel's book publisher.") in July 2013. The book's about a computer programmer, and in the course of writing it I learned some programming and started doing freelance web development. I'm [@gabrielroth](http://twitter.com/gabrielroth "Gabriel's Twitter account.") on Twitter.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I write on a 17" [MacBook Pro][macbook-pro] from 2007. I took out the SuperDrive and replaced it with a second hard drive in an MCE OptiBay. I leave it in my locker at the [Brooklyn Writers' Space](http://www.brooklynwriters.com/ "An office space for writers in Brooklyn."). 
 
@@ -20,7 +20,7 @@ At home I use a third-generation [iPad][ipad-3], which I like better than a lapt
 
 While I'm working, I'm usually listening to music through a pair of [Sennheiser HD201][hd-201] headphones, which sound good, feel pretty comfortable, and cost about $20. 
 
-#### And what software?
+### And what software?
 
 #### Writing
 
@@ -40,7 +40,7 @@ Nothing unusual: text editing in BBEdit, version control with [Git][], FTP with 
 
 Cultured Code's [Things][] basically runs my life. [MacBreakZ][] helps me keep my chronic RSI issues under control. And for various system tasks, in order of how quickly I notice if they're missing: [Zooom2][zooom], [Path Finder][path-finder], [FastScripts][], [Jumpcut][], [Synergy][], [Hazel][], [Fantastical][], [Flux][f.lux].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 __Hardware:__ I need a laptop because I have to schlep it from my locker to a cubicle every day, so I can't fantasize about a 30" screen or anything like that. It would be nice to have a new laptop with all the features Apple's added since I got this one: unibody construction, solid-state storage, a retina display. It would be especially nice if I could still have a 17" screen - I hope Apple isn't killing them off forever.
 

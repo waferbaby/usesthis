@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Adrian Holovaty](http://www.holovaty.com/ "Adrian's website."), a Web developer and musician. I founded [EveryBlock][]. I'm a co-creator and co-BDFL of the [Django][] Web framework. I post [YouTube guitar videos](http://www.youtube.com/adrianholovaty "Adrian's guitar videos.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a 17-inch [MacBook Pro][macbook-pro] with a 250 GB SSD and 8 GB RAM. It's super fast and easily the best computer I've used. It has gotten a teeny bit slower as the hard drive has filled up, but complaining about that is like complaining about being in [a chair in the sky](http://www.youtube.com/watch?v=8r1CZTLk-Gk#t=156s "A video of Louis C.K talking about flying.").
 
@@ -28,7 +28,7 @@ I often record audio -- for my own YouTube videos, my own gigs or other live sho
 
 At home, I use Altec Lansing speakers that came with my Dell PC in 1998. They are OK.
 
-#### And what software?
+### And what software?
 
 I spend most of my day in [Google Chrome][chrome], [Terminal][], [Colloquy][] (IRC client) and [TextMate][].
 
@@ -42,7 +42,7 @@ Some little-known gems I use a lot: [youtube-dl][] for downloading YouTube video
 
 iPhone apps I use daily: [Buster][buster-ios] (real-time Chicago bus tracking). [Words][words-with-friends-ios]/[Chess][chess-with-friends-ios]/[Hanging With Friends][hanging-with-friends-ios]. [Facebook][facebook-ios]. Voice Memos for recording little musical ideas. [Everyday][everyday-ios] for taking photos of my son. [Remote][remote-ios]. And I love texting emoji to unsuspecting people!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love a portable recording setup that would let me plug in microphones and a video camera to my laptop, then sync the multiple audio and video files together automatically. Making multitrack YouTube videos is a big pain point for me.
 

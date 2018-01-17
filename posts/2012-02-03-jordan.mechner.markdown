@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a game designer, screenwriter, and graphic novelist ([Prince of Persia](http://jordanmechner.com/category/prince-of-persia/ "Jordan's posts on Prince of Persia."), [Karateka](http://jordanmechner.com/category/karateka/ "Jordan's posts on Karateka."), [The Last Express](http://jordanmechner.com/category/last-express/ "Jordan's posts on The Last Express.")). [@jmechner](http://twitter.com/#!/jmechner "Jordan's Twitter account.") on Twitter. I keep a blog at [jordanmechner.com](http://jordanmechner.com/ "Jordan's website.") where I sometimes post [sketches](http://jordanmechner.com/category/sketchbook "Jordan's sketches."), [journals](http://jordanmechner.com/ebook "Jordan's journals.") and "making of" stuff.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A year-old [MacBook Air][macbook-air]. When I'm in my home office, I dock it with the mother ship ([Apple Cinema display][cinema-display], [keyboard][], [Magic Mouse][magic-mouse], and external hard drive), but most days I'm nomadic, so what's on my desk is less important than what's in my shoulder bag.
 
@@ -36,7 +36,7 @@ Home office setup includes an [iMac][] with USB hub connected to various devices
 
 The fact that .pdf has replaced paper for 99% of what I do makes not having a networkable printer less of an inconvenience than it might be.
 
-#### And what software?
+### And what software?
 
 [Scrivener][] for big writing projects, especially in the researching and outlining phase. When I get to the point of actually writing pages, I switch to [Movie Magic Screenwriter][movie-magic-screenwriter] or [Final Draft][final-draft].
 
@@ -48,7 +48,7 @@ The fact that .pdf has replaced paper for 99% of what I do makes not having a ne
 
 I tweet mostly from the iPhone, using [Echofon][echofon-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I still have the Moleskine sketchbook -- except they've changed the paper, so it's more of a true white and doesn't repel watercolor.
 

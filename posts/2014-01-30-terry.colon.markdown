@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am an illustrator, sometime cartoonist, sometime humorist, or some combination of the three. Maybe an illustrationist? What I do is illustrations, cartoons and the occasional humor bit. Very convenient the way who I am and what I do sync up like that.
 
@@ -17,13 +17,13 @@ Considering the follow-up questions below, we can pretty much forget about the h
 
 The above who-I-am and what-I-do is my public persona. My private life, on the other hand, I choose to keep to myself. That's why it's called private.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use an old [G4][power-mac-g4] for scanning and a new Mac Whatever-it-is for everything else. I use two computers because, well, I'm cheap. Or thrifty, as my Scottish grandma would have said. When I got the new machine I simply didn't want to buy a new scanner or Photoshop upgrade since what I had worked fine on the creaky G4. 
 
 I can't tell you much about my hardware because I'm blissfully oblivious about it. My brother, who's the propellerhead in the family, helped me pick it out. All I know is it's one of these new-fangled Macs with an operating system named after a big cat of some sort. (Puma, ocelot, cerval? I dunno.) Beyond that, as far as I can tell computer coding is some kind of key-stroked, modern spell casting. Nerd voodoo.
 
-#### And what software?
+### And what software?
 
 Here's my working process:
 
@@ -38,6 +38,6 @@ It's easy as one-two-three, even though it's actually six steps in case you didn
 
 I build terrycolon.com with [BBEdit][]. Not that I know it's better than anything else, but that's what they used for [Suck.com](http://suck.com/ "The Suck website.") and so I just went with it. I upload to the web with [Filezilla][] because I got it free. Like I said, thrifty.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't dream of setups. Though I sometimes dream I'm at the computer doing illustrations. Which is really annoying because I never save the work and don't get paid for it.

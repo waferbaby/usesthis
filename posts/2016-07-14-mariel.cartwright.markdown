@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Mariel Cartwright](http://kinucakes.tumblr.com "Mariel's Tumblr account."), and I work in video games as an artist and animator. I'm currently art director, lead animator, and head of story on Lab Zero Games' new title, [Indivisible][]. Previously, I was lead animator on [Skullgirls][] and [Skullgirls Encore][skullgirls-encore]/2nd Encore, animator on [Scott Pilgrim vs. The World: The Game][scott-pilgrim-vs-the-world-the-game], and I also have done a lot of freelance on the side for studios like Wayforward. I've also dabbled a bit in storyboarding and comic illustration.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [2011 17" MacBook Pro][macbook-pro] at home, and ... some kind of PC at work. I was recently able to breathe new life into my Macbook by swapping out its HD with a SSD - it almost feels like a brand new computer again. I also had the 2008 and 2005 17" MBPs; I'm sad they don't make them anymore.
 
@@ -21,7 +21,7 @@ At work, I draw on a [Wacom Intuos Pro][intuos-pro]. I definitely prefer drawing
 
 And to keep me on task, I use my iPhone to maintain a calendar, and recently also just bought an [Apple Watch][apple-watch] to keep me on schedule and poke me when stuff happens.
 
-#### And what software?
+### And what software?
 
 My artwork is almost exclusively made in [Photoshop][]. I'm asked frequently about what brushes I use, and I really only use Photoshop's default hard round brush at varying opacities; only sometimes will I go into any more unique brushes. My animation is also done in Photoshop; it's really not made for animating and is a giant pain to use, but I've gotten used to it.
 
@@ -31,7 +31,7 @@ We also use [Maya][] at work for 3D modeling, and [TextPad][] for scripting. We 
 
 I've long used [Evernote][] to write down pretty much anything, and I've recently started using [Fantastical][] to schedule my day and collate my different calendars.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've always used laptops as my main computer because I needed to take everything from home to school or work and back, but now that I actually have a work setup, I'm kinda aching for a home setup that stays put. So maybe a big Cintiq, a couple monitors above... and maybe also my smaller Cintiq, still, for times I just want to sit differently.
 

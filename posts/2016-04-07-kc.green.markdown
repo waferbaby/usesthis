@@ -7,17 +7,17 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [KC Green](http://kcgreendotcom.com/ "KC's website."). I used to make the webcomic [Gunshow](http://gunshowcomic.com/ "KC's web comic."). Now I make the webcomic [He is a Good Boy](http://hiagb.com/ "KC's web comic."). I also write [BACK](http://backcomic.com/ "KC and Anthony's web comic.") with artist [Anthony Clark](http://nedroid.com/ "Anthony's website."), and I am making a [Pinocchio adaptation](http://carlocollodispinocchio.tumblr.com/ "KC's Pinocchio comic."). I've done work with the Invader Zim comic books, Adult Swim, Boom! Studios, and helped storyboard an Adventure Time ep that isn't out yet.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [Mac Mini][mac-mini] (Late 2012) that is only for drawing. It used to be my main computer but I upgraded and got a [Late 2013 Mac Pro][mac-pro] that I use for writing, playing games, tweeting, and video editing. On the drawing computer, I use a [Cintiq 22HD][cintiq] along with [Manga Studio EX 5][manga-studio-ex] to draw. Manga Studio has become my go to for drawing comics and drawing in general now. The UI isn't great, but once I started to get it, I loved it a lot. I have an [Adobe subscription][creative-cloud] but that is for [Dreamweaver][], [Photoshop][], [Indesign][] etc. for use on my Mac Pro. I only use Manga Studio for comics.
 
 I have been dabbling in more video motion comic stuff recently. So I use Manga Studio to draw character poses and frames to edit into a video using Apple's [Final Cut Pro][final-cut-pro]. Sometimes using [Motion][] too, Apple's version of [After Effects][after-effects]. I have a copy of [Storyboard Pro][storyboard-pro] from Toon Boom, to sort of make a general layout of the videos I do. To know what poses to draw, backgrounds, other things, etc. All gets edited in Photoshop and put into work in FPC.
 
-#### And what software?
+### And what software?
 
 Answered a lot of this in the last one! But let's go down the line:
 
@@ -28,6 +28,6 @@ Answered a lot of this in the last one! But let's go down the line:
 - Adobe's slew of Products for website/book - building and image editing.
 - [Steam][] for playing games. Steam id is dumpleton's dog, feel free to add me ✌️😎
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My head in a jar, hooked up to a robot drawing arm. A separate tube to get me high (not sure how, science will have figured it out by then). A lot of paper near my robot drawing arm. Someone to take the drawn-on paper and scan it for online publication. A TV playing Tiny Toons over and over. And people generally leaving me alone.

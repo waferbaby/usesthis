@@ -7,13 +7,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm an [interactive narrative consultant](http://emshort.wordpress.com/ "Emily's website.") and sometime academic.
 
 What that means in practice is that I work on video games, ebooks, and interactive fiction. If Roger Ebert thinks it can't be art, I'm there. I do content design, world-building, and dialogue writing; I code AI scripts and create design specs; I write criticism.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I work on-site for clients some of the time, and use whatever set-up they prefer; mostly Windows systems.
 
@@ -27,7 +27,7 @@ I also go nowhere without my [iPhone][], now several generations old, but still 
 
 And I'm usually toting one of an endless series of black Moleskine notebooks, unlined. Every time I buy one I wince at the price, but I have tried just about every other form of notebook known to man, and they all have something wrong with them. The bigger ones take too much space in a bag or on a cafe table. The smaller ones don't give you enough of a writing surface. Composition books don't lie flat enough. Spiral-bound notebooks shed pages too easily. Fancy leather journals are chunky and heavy and often not actually that fun to write in. Most kinds of notebooks get battered if you carry them around in a backpack for days on end. And many of them have such thin paper that you can only use a pen on one side of a sheet. So, Moleskine: good paper, tough but flexible binding, an elastic band to keep the book shut in transit. I'm never going back.
 
-#### And what software?
+### And what software?
 
 [Mac OS X 10.6.4][mac-os-x], along with [Mail][], [Safari][], [Terminal][], and [iChat][].
 
@@ -45,7 +45,7 @@ For presentations, [Keynote][] if I can get away with it; otherwise [PowerPoint]
 
 For graphical editing of various kinds, [Illustrator][], [Photoshop Elements][photoshop-elements], and [Aperture][]. Sometimes this is something as trivial as working up a screenshot to accompany an article (though for really minor edits I just resize in Preview); sometimes it's putting together cover art or graphical inclusions for a game.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Not too much unlike my current setup, except that I'd like my laptop hard drive to be much much larger -- over the years I've licensed a lot of royalty-free illustration and photography, mostly from [iStockphoto][], and I'd like to be able to keep that library permanently accessible rather than on external storage.
 

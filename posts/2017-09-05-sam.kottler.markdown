@@ -9,13 +9,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Sam Kottler](https://twitter.com/samkottler "Sam's Twitter account."), a systems engineer based in New York City. I work at [GitHub][] as an engineering manager on the site reliability engineering team, focused on our data centers. Before GitHub I led platform engineering at [DigitalOcean][], wrote systems management software at Red Hat, and was an early engineer at [Venmo][].
 
 Outside of work I enjoy traveling and spend a lot of time on airplanes.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main machine is (surprise!) a [13" Retina MacBook Pro][macbook-pro]. It's my second one and it's by far the best computer I've ever owned. The weight to performance is tough to beat. I use an [iPhone 7][iphone-7] too.
 
@@ -27,7 +27,7 @@ I listen to music constantly and have had a few pairs of Bose noise canceling he
 
 Since 2010 I've used a Mission Workshop backpack almost exclusively. It's been to five continents with me, including a 9 month trip around the world in 2013-2014, and is still going strong. I've tried other bags, but always come back to this one. I tend to travel as light as possible so often end up going on trips for up to a week with just the backpack. When I need more room I've got an Away rolling carry on. It's a recent addition and I've been digging it so far.
 
-#### And what software?
+### And what software?
 
 I don't customize [macOS][mac-os-x] too heavily and use [iTerm][iterm2] with [bash][]. For text editing I use [vim][], listen to music on [Spotify][], and browse the web with [Chrome][]. I'm a near-obsessive note taker and heavily rely on [OneNote][] across my iPad, laptop, and desktop.
 
@@ -35,7 +35,7 @@ My desktop runs [Windows 10][windows-10] with the Linux subsystem along with mos
 
 I spend a lot of time on Slack for work, talking with friends, and collaborating with folks on open source projects. I'm increasingly unhappy with the demands it puts on my time, how it has adapted chat from a best-effort ephemeral medium into something more like email, and the lack of federation. Lots of people dislike email, but I never found it burdensome in the same way realtime chat has become.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've got something pretty close to a dream setup already, but here we go.
 

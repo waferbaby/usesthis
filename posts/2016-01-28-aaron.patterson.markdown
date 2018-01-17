@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Aaron Patterson](http://tenderlovemaking.com/ "Aaron's website."), but people know me on the Internet as "tenderlove". I work remotely from Seattle, but I work for a small startup company that is based in Raleigh, North Carolina called "Red Hat". At Red Hat, I'm on the ManageIQ team. Our team is working on an Open Source cloud management thing that's built with [Ruby][], [Rails][], and a bunch of other fun technology. You can check out our [app on GitHub][manageiq].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [15" MacBook Pro][macbook-pro], but it's usually mounted in my [Henge Dock][henge-dock]. My "everyday use" monitor is a [27" Dell][ultrasharp-u2713hm].
 
@@ -29,7 +29,7 @@ I have a [CAD U37 USB Microphone][u37] that I use for all of the podcasts that I
 
 For my desk, I just have wooden desk that I think is from the '50s. It used to be my wife's desk, but she wanted me to use it.
 
-#### And what software?
+### And what software?
 
 I mainly program in Ruby (of course). So I'd have to say that is my main software. ;)
 
@@ -49,7 +49,7 @@ I use [iTunes][] for music, and I frequently use Dictionary.app. I use Dictionar
 
 For backups, I use [Time Machine][time-machine]. But I've never had it work correctly, so I just live my life as if all of my data is ephemeral. Once I got used to the idea that I could lose all my data at any time, life became more simple I think.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm mostly happy with my setup right now. The main thing I would change is that I would like a higher resolution monitor. My monitor isn't a retina display, so when I do actually look at my laptop screen I feel sad that my monitor doesn't have the same resolution. The next monitor I buy will definitely be a high resolution monitor. I would also like a mouse that doesn't have weird blue lights and a strange name. But I guess left-handed mouse users aren't a very large market, so I'll probably have to build one myself. I think building one myself might be fun though!
 

@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [fritzvd](http://fritzvd.com/ "Fritz's website"), I make [music](http://cheesesofmexico.com/ "Fritz's band."), [software](https://github.com/fritzvd "Fritz's GitHub account."). I have worked at Nelen & Schuurmans for the last 4 years on [flood simulation](http://3di.nu/ "Flood simulation and water management.") and [maps](https://demo.lizard.net/ "Fritz's maps for the Lizard demo."). I'm about to make a bit of a switch and teach about making software at a [technical college](https://han.nl/ "A university in The Netherlands."), I already also teach informatics at a [high school](http://marnixcollege.nl/ "A high school in The Netherlands."). In my off time I make [games](https://github.com/fritzvd/mexicombat "The code for Fritz's fighting game on GitHub."), or [bread](https://twitter.com/fritzvd/status/771378368667381761 "Fritz's tweet about bread."). I also give [talks](https://www.youtube.com/watch?v=WRSRVdLQ_-k "A YouTube video of Fritz's talk about NES development.") at times. Besides that I co-founded and run a [JavaScript meetup in Utrecht](http://www.meetup.com/Utrecht-JavaScript-Meetup/ "A JavaScript meetup in The Netherlands."). Lately I've been getting into old computers and started working on creating my own game for the [Famicom/NES][nes].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I used to use my [2010 Mac Mini][mac-mini] for most things, games, making music and editing videos. Even writing the occasional line of [Obj-C][objective-c] or some [Android][] stuff. But it's become quite old and slow. I stuck an SSD in it, and it ran way smoother. I gave it to my mom, though. At the moment I use a run-of-the-mill [Lenovo L430][thinkpad-l430] (Core i5, 2013 model) that belongs to my employer. With some extra RAM (16GB) for the flood modeling and an SSD, because it just makes sense.
 
@@ -26,7 +26,7 @@ I have a [Sony Xperia Z2][xperia-z2] which I have used intensively over the last
 
 I ride a Jan Janssen Vuelta from the mid 90s.
 
-#### And what software?
+### And what software?
 
 I've been running [Ubuntu][] since about 2005 and I haven't really felt the need to switch. If I do it might be an [Arch-like][arch-linux], or to [Mac OS X][mac-os-x], just because [Logic][logic-pro] / Garageband and [iOS][] development can only run on OS X.
 
@@ -44,7 +44,7 @@ When I make music I just use my guitar and a pen and paper. Or as mentioned I fi
 
 When I cycle I sometimes use [Strava][] to log my speed and distance.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Imagine a little cottage in lush valley next to a body of water or the ocean. In the shed next to the cottage there are a bunch of retro consoles / computers ([SNES][], [SMD/SG][genesis], [C64][commodore-64], [MSX][]) and cartridges (originals, and programmable). Turn the corner you see my desk, a [Fender Rhodes][rhodes], and a collection of vintage [Fender Stratocasters][stratocaster] with a [Fender Vibro-King][vibro-king]. Next to that you find my Martin and Guild acoustic guitars. A [Neumann D-01][d-01] on a stand for recording.
 

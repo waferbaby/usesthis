@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Mark Pilgrim](http://diveintomark.org/ "Mark's website."). I'm a developer advocate for Google. I write open source books and advocate open standards. Most recently, I've been advocating HTML5 and related web standards.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My desktop:
 
@@ -24,7 +24,7 @@ My desktop:
 
 My phone is an [Android G1 Dev Phone][g1] (a gift from my employer). My desk chair is an [IKEA Poäng][poang].
 
-#### And what software?
+### And what software?
 
 On my phone:
 
@@ -57,7 +57,7 @@ People then ask what format I use to write my books. That's a more interesting q
 
 [Dive Into Python 3](http://diveintopython3.org/ "Mark's Python v3 guide.") was my first major work that I wrote entirely in HTML. (I had to convert the entire book to Microsoft Word format as part of the print publication process. That was... unpleasant.) My next book, [Dive Into HTML5](http://diveintohtml5.org/ "Mark's HTML5 guide."), is also written in HTML, and my editor tells me that they will handle the nasty business of converting it into suitable formats for print. This may become a factor in choosing a publisher for future books: the ability to avoid Microsoft Word altogether.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I have an Apple IIe in my attic. My parents bought it in 1984. We used it exclusively for five years; I wrote my first program on it, I wrote my first poem on it, my mother ran her first business on it. We sold it to a family friend in 1989, and she used it as her primary computer for 10 more years, until 1999. A few years ago, I paid her to ship it back to me. The damn thing still works -- color monitor, 80-column card, original disk drives, everything. Most of my 25-year-old 5.25-inch floppy disks still work. Of course there's no software being written for it anymore (except [Silvern Castle][silvern-castle], God bless you), but what it could do in 1984, it can still do just as well in 2009.
 

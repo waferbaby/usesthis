@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://www.beloit.edu/philo/faculty/zebrowski/ "Robin's website.") an assistant professor of cognitive science at [Beloit College](http://www.beloit.edu/ "Robin's college"). I have joint affiliations with the philosophy and psychology departments and the computer science program. I work in the theory side of artificial intelligence, extended mind hypothesis, cyborg theory, robotics, and embodiment theories more generally.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A PC laptop (I go through 1 a year, either as a result of too much travel and 18 hours a day of use, or [the Gabriel Effect](http://www.penny-arcade.com/comic/2008/9/03 "A Penny Arcade comic about Gabe's computer woes.") which I'm pretty sure should be called the Robin Effect). I currently use a [Toshiba Portege R705][portege-r700]. My work laptop is a Dell, but it's brand new and I haven't even gotten my files copied over yet so I have nothing useful to say about it. I also have a homemade desktop PC that my husband built for me so that I could run [Skyrim][] and [Diablo 3][diablo-3].
 
@@ -27,7 +27,7 @@ When I need a break from work, my hardware of choice includes Addi Turbo knittin
 
 Since I started traveling often for work, I've also started trying to learn something about photography. I use a [Canon EOS Rebel T3][eos-rebel-t3], as well as the earlier version of the Digital Rebel ([the XT][eos-rebel-xt]). The only lenses we have are a Canon EFS 18-55mm (which comes in the camera kit) and [Canon macro EF 100mm][ef-100mm-f2.8-macro-usm]. I love the Digital Rebel (as evidenced by the fact that we've got 2) because it's such an excellent beginner's camera. Sometimes I look like I know what I'm doing. Not too often.
 
-#### And what software?
+### And what software?
 
 My college uses [Moodle][] for course management software since it's open source. I use it to store course readings as well as photos of our blackboards from each class, which helps the students remember what we were doing on any given day.
 
@@ -53,7 +53,7 @@ Surprisingly, I've got to list [Facebook][] here as a valuable piece of academic
 
 And my favorite hobby sites lately are [Ravelry][] and [Flickr][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I had dreams of setting up a Cyborg Lab at my current college, but I just don't know if the resources are in the cards. Someday, maybe. My dream Cyborg Lab includes:
 

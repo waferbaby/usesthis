@@ -10,11 +10,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Brendan Gregg](http://www.brendangregg.com "Brendan's website."), I'm a senior performance architect at [Netflix][], and do large scale computer performance design, analysis, and tuning. Performance tuning improves the customer experience and saves the company money, by doing more with fewer resources. I also write technical books, contribute to open source projects, and speak at technical conferences as a performance expert. This year I gave the keynote at [SCaLE](http://www.socallinuxexpo.org/ "The Southern California Linux Expo site."), the Southern California Linux Expo, on Linux and Solaris performance differences.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm currently using an Apple [MacBook Pro][macbook-pro] Retina 15 inch as my work computer, connected to a 27-inch Apple [Thunderbolt monitor][thunderbolt-display] when I'm at my desk. Apple products in the past have been very reliable, which is what I'm after. I use the DVORAK keyboard layout, for efficiency and performance. The keys are still labeled QWERTY, which I ignore.
 
@@ -30,7 +30,7 @@ I do own many retro consoles. These include [Atari 2600s][atari-2600], [C64s][co
 
 As for other hardware, I use a [Fujifilm X-A1][x-a1] for photographs, and wear a [Casio AL-180][al-180] for the time. The Casio is indestructible, and requires no batteries. I also take a lot of notes on paper, and write with different instruments. These days, often with a 0.5mm [Uni-ball Kuru Toga mechanical pencil][kuru-toga], which auto-rotates the lead to keep it sharp.
 
-#### And what software?
+### And what software?
 
 Operating systems I used today are [OS X][mac-os-x] for the Macbooks, and Linux and [FreeBSD][] for servers. I was doing a lot with [Solaris][], [OpenSolaris][], and [SmartOS][], but not anymore. 
 
@@ -52,7 +52,7 @@ I spent a lot of time in [Terminal][], with many tabs open. Many of these are ss
 
 If I need to concentrate and shut out distractions, I'll put on headphones and listen to a few different audio sources. Usually [SIDPLAY][] playing HVSC, and a noisy keyboard program (I've alternated between versions I write myself, and 3rd party ones). It helps me concentrate. I used to include KSFO tower ATC a lot as well (playing at the same time). Over the bridge for two eight right...
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Probably something like a 15-inch MacBook Air with at least 1 TB of flash storage, and enough CPU to run several VirtualBox instances. It'd probably run OS X, but with various bug fixes so that it never panic'd. I'd also be able to use the thing without having to agree to lengthy Apple T&Cs.
 

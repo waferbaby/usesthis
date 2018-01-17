@@ -8,7 +8,7 @@ categories:
 - systems
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Rui Carmo](http://about.me/rcarmo "Rui's About.me page."), a happy dad, random coder, occasional designer, hobby photographer and, professionally, a systems engineer with marketing experience who's been working in telecoms for nearly fifteen years as an undercover Mac user (and who's been in the Mac world for quite a bit longer than that).
 
@@ -16,7 +16,7 @@ I'm now adjusting to a major career shift: after a decade at a major global telc
 
 And I'm having a blast.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main machine at work is a 2010 [Mac Mini][mac-mini] with 4GB of RAM and three monitors - two Dell 23" and a mongrel Samsung 17", this last one via a DisplayLink USB adapter that the guys there kindly mailed me a few years back. I dearly love that little adapter, since it is nothing short of magical to be able to plug in an extra monitor via USB - and I'm looking forward to the ones able to do full HD on two displays that were announced recently.
 
@@ -36,7 +36,7 @@ I also have an embarrassing amount of USB storage and network hardware that I've
 
 That little box is the network's Swiss Army Knife - it's an SSH gateway, web server for sending Wake-on-LAN packets to other machines remotely, AirPrint gateway for my iOS devices - you name it, I've probably squeezed it in (including, once, a complete copy of my web site for performance tuning).
 
-#### And what software?
+### And what software?
 
 Despite being a Mac user I've always been a UNIX user, and as such I tend to stick to software that works everywhere - most of my staples are old chestnuts like [vim][], [screen][] and similarly crufty tools from bygone eras. And the stuff that ships with [OSX][mac-os-x] ([Mail][], [Safari][], [Xcode][], etc.) is mostly fine.
 
@@ -65,7 +65,7 @@ On the go, my iOS app list goes a bit beyond the typical social junklets such as
 * [Nebulous][nebulous-notes-ios] for editing code on the go
 * [iSSH][issh-ios] and [iTeleport][iteleport-ios] for accessing other machines
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I actually believe I'm pretty close to my dream setup already - I like the current mix of cloud services and native apps on the platforms I use, so a lightweight device like the iPad and a beefed-up desktop with big screens cover most of my needs. 
 

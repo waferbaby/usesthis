@@ -6,7 +6,7 @@ categories:
 - researcher
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Schuyler Towne](http://schuylertowne.com "Schuyler's website."), a security anthropologist and research scholar at the [Ronin Institute](http://ronininstitute.academia.edu/ "An institute promoting research outside of traditional academia."). I've been an independent academic for about 7 years now, following a brief stint as a competitive lockpicker. One passion lead pretty directly to the other. My areas of focus are in the history of mechanical security technologies and the ways in which those technologies have affected society. I also think a lot about modern human interaction with security technologies, mechanical and otherwise.
 
@@ -14,7 +14,7 @@ As tight a niche as I have dedicated myself to, I have found incredible variety 
 
 And if you are asking yourself how I can make a living doing any of that? I can't! Though I do get the occasional consulting gig, I make my living as a shift manager at Starbucks.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a small workshop in my basement that I've only recently mangled into usable shape. It features a [Shapeoko 2][shapeoko-2] that my wife & I received as a gift at our wedding. Thus far I've used it to cut out a few clunky test versions of a model combination lock, but I'm hoping to gain some competency and tackle new projects at some point. I have a nice little [mini mill][hitorque-mini-mill] that a machinist friend set me up with - it's just the right size for anything I would ever want to do, which is primarily making cutaways of locks and the occasional jig for the Shapeoko or other small parts.
 
@@ -26,7 +26,7 @@ I also do a lot of writing and sketching. I have myriad small notebooks laying i
 
 I use computers of course, but pretty ambivalently. Whenever something breaks or becomes dramatically slow/outdated I'll buy something cheap, often a refurb, to replace it. I briefly flirted with a very nice tablet that I received as a birthday present, but then one of my clients stepped on it at a gig and I've never been able to successfully repair it. The only piece of digital equipment I consistently rely on is my [Tascam DR-05 audio recorder][dr-05].
 
-#### And what software?
+### And what software?
 
 For writing, including the answers to these questions, I almost exclusively use [Sublime Text][sublime-text]. I began working with Sublime back when I was a front end web developer, and found that it best fits my typical method of writing. I've been writing somewhat seriously in a wide variety of contexts for about 15 years now, and never found a program that I have enjoyed writing in as much as Sublime. Years ago I loved [Q10][], a super minimalist, distraction free text editor, and in many ways Sublime replicates that experience by stripping away spell/grammar checking, word counts, page counts, etc. At the same time, my scattershot note taking is well managed by some very powerful text and file manipulation tools. For final drafts of significant papers, I used to rely on [OpenOffice][] Writer, but now that I'm in college & get the [Microsoft Office suite][office] for free I've returned to [Word][] for the first time in well over a decade and am kind of stunned by how pleasant an experience I've had with it.
 
@@ -38,7 +38,7 @@ I'm yet to find a solution I like for organizing research. I've used [Zotero][] 
 
 The only other software I use regularly is for what little design work I do anymore. I actually still use [Adobe Flash][flash] once in a while to bash out quick animations. Early in 2015 I ran a one hour conference session called "Let's make a lock!" where I gave a 20 minute crash course in lock engineering to a room of about 20 people, then we collaboratively designed a new lock. I wanted to show them how their incredibly elaborate new lock might operate, so after the session I mocked up an [animation](http://lock.gd/spinsync/ "Schuyler's article about inventing a lock.") in Flash. For more involved [lock animations](https://www.youtube.com/watch?v=a8N6esMFDYE "Schuyler's YouTube video of a lock.") I rely on [Blender][]. For any 2D graphics and often just to help me think visually through a 3 dimensional problem, I use [Adobe Illustrator][illustrator].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've been having a hard time with this one. Looking back on my current setup the running theme is "cheap or free" whether I saved something from the trash, received it as a gift, or gained access to it when I started school, and heck, even school is being paid for by Starbucks. I tend to look at most of the things I want and think "Yeesh, I can't spend that kind of money." All of that said, if I could set myself up with anything I wanted, I'd like to have a desk at a busy co-working space, as being around people and out of my house helps keep me productive. I'd love something like what the Ubuntu Edge promised, just a phone I could carry around and plug into a monitor as needed to get a full desktop experience. A modular collaborative research tool written in a language I can hack in would be pretty slick, I even have a pretty clear vision for the interface.
 

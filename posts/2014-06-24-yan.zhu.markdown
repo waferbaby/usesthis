@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, I'm Yan. My current title is Staff Technologist at the [Electronic Frontier Foundation](https://www.eff.org/ "The EFF's website.") in San Francisco. This means I write code and sometimes words to protect Internet users from corruptible entities, such as corporations and governments. I like information freedom, the right to privacy, theoretical physics, cryptography, free software, and an Internet that respects humans. I dislike consentless power structures.
 
@@ -17,7 +17,7 @@ All of my work is free and open-source.
 
 In past lives, I've been a writer, a freelance composer/arranger, a web security auditor, and an engineer of various things (batteries, rockets, telescopes, websites, immense vegan dinners). I got my B.S. from MIT in Physics and briefly worked on experimental tests of quantum gravity at Stanford for my (unfinished) PhD.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Ownership, particularly when it involves attaching emotion to physical objects, frequently strikes me as weird. As a remedy, I optimize for hardware that falls just a hair short of inspiring joy.
 
@@ -33,7 +33,7 @@ I don't have much else. A couple USB sticks for encrypted backups, a borrowed Bl
 
 A couple other things perpetually near my body that are not-technically hardware but certainly integral for making life not suck are (1) [a folding bike][mu-p8] that serves as my main form of transportation in San Francisco, (2) [a durable backpack][the-rambler] that fits a laptop + climbing gear + extra clothes + groceries, and (3) [a multitool][skeletool] for those unexpected situations that call for superb mechanical advantage.
 
-#### And what software?
+### And what software?
 
 My main laptop runs [Debian][] Testing ("Jessie"); as a result, I have gotten really good at ignoring lack of functionality that laptops generally have.
 
@@ -59,7 +59,7 @@ I do all of my web browsing in [Firefox][] unless I'm developing or testing some
 
 6. [Firebug][] and [JS Deminifier][JavaScript-deminifier] for finding security holes in websites.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Let's start with the easy ones. I would like (1) an e-book reader that has the portability and battery life of a Kindle, runs free software out-of-the-box, and doesn't support DRM; (2) an open-source maps application for [Android][]/CyanogenMod that can provide biking and public transit directions for any city that I happen to be in; and (3) a usable open-source password manager that syncs to mobile devices, integrates with browsers, and meets some set of minimum security requirements. (I'll work on the latter if someone else does the first two.)
 

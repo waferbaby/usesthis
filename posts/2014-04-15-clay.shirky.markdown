@@ -7,13 +7,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Clay Shirky](http://shirky.com/ "Clay's website."), and I've done a bunch of things related to the Internet and especially social media. In the mid-90s, I was the CTO of Site Specific, a web shop in Manhattan, and then a partner at an Internet accelerator. Since 2001, I've had a job teaching at [NYU](https://www.nyu.edu/ "The New York University website."), working on the social and economic effects of the Internet. 
 
 At NYU, I have a joint appointment in the [Interactive Telecommunications Program](http://itp.tisch.nyu.edu/page/home.html "The ITP at NYU website.") (which everybody just calls ITP) and the Journalism department. I wrote a couple of books about social media -- Here Comes Everybody and Cognitive Surplus -- and I'm currently trying to wrap my head around the Internet's effect on higher education. (Spoiler: Good news for cheap or great institutions, ungood for mediocre ones, double plus ungood for mediocre, expensive ones.)
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I not really much of an 'optimize hardware' guy, so my hardware setup is more Jawa Sandcrawler than Imperial-class Star Destroyer. This is partly bias -- I have never cared much for computers, but I love networks with all my heart -- and partly habit. My first computer was a [PowerBook 100][powerbook-100] with a 20M drive, most of which went to the OS and apps, so I got used to treating it like a portable VT100 terminal, and stored everything online. 
 
@@ -33,7 +33,7 @@ I carry two phones. My web phone is a [Galaxy S][galaxy-s], which includes a phy
 
 I keep a charged battery for each phone on the charging table at home, in case I need to hotswap, because I'm Indy pit crew like that. I've had all the children I want to, which is good because having two phones in my pocket all day every day can't be optimal for my motile gametes.
 
-#### And what software?
+### And what software?
 
 Like John McAfee, I like strong espresso. Unlike John McAfee, everything else.
 
@@ -45,7 +45,7 @@ I have enough machines of various sorts around that I can generally try any new 
 
 My private source of shame is that I have never been That Guy with strong, thoughtful musical tastes and well-groomed playlists. I was happy with [Napster][], I was happy with [last.fm][], I'm currently happy with, variously, [Amazon Cloud Player][amazon-cloud-player], [Banshee][], [iTunes][], [Pandora][], [Rdio][], and clicking on random [YouTube][] and [Soundcloud][] links my friends post on [Meatspace][meatspace]. My principal requirement in a music tool is that I can listen to Toots and the Maytals at least once a day, which requirement all of said tools handle nicely.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like to finish the transition and go back to really net-centric hardware (I treated my Powerbook 100 as a netbook avant la lettre) but I do just enough coding to want python running locally, and I've never found a Chrome extension that is anything like as good as Sublime for coding. (What do the Google engineers working on ChromeOS use for dogfood coding apps, I wonder?)
 

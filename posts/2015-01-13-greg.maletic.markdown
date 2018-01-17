@@ -9,11 +9,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Greg Maletic. I work on various projects at [Panic](http://panic.com/ "A Mac and iOS development company."), though [Status Board][status-board-ios] might be the one people know the best. I also do some [illustration and design work on the side](https://gregmaleticwork.wordpress.com/ "Greg's illustrations and design work."), and in the past have done work for Walt Disney Imagineering. I made a [documentary about the pinball industry](http://www.tilt-movie.com/ "Greg's pinball documentary."), and I used to co-run a Java software company called Zero G Software that made an app called [InstallAnywhere][]. A long time ago -- in the Michael Schindler-Gil Amelio era -- I worked at Apple Computer, as a product manager on [OpenDoc][] and [Apple Guide][apple-guide].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I use one of the new, cylindrical [Mac Pros][mac-pro]. It's more machine than I need, but I'm happy to take it.
 
@@ -27,7 +27,7 @@ At home, I use an old-ish [13" MacBook Air][macbook-air]. When necessary, I some
 
 I have a [Mac Mini][mac-mini] that runs my house: Insteon-based lighting, and [iTunes][]-based music that connects to speakers around our house. There's an external LaCie Thunderbolt drive where I store iTunes media; a second one stores [Time Machine][time-machine] backups. I'm about to upgrade the internal hard drive to an SSD because the Mini is just insanely slow whenever I have to actually sit down and use it. (As a server, its performance seems fine.)
 
-#### And what software?
+### And what software?
 
 [Xcode 6][xcode] for iOS programming. [Dropbox][]: it's essential for everything I do. (I'd be happy for [iCloud Drive][icloud-drive] to usurp Dropbox's usefulness, but the phrase "not holding my breath" hardly seems up to the task.) [1Password][] does a decent but important job. We use [Slack][] for intra-company communication, and it's very useful, though 1) it's a firehose of information; it feels like a full-time job to keep up with it, and 2) their "native" client is a little too HTML-y for my tastes. But on the whole I like it. [iMessage][] has a ton of flaws, but unified messaging between all my devices is so useful that I still love it. [Rdio][] for listening to music, though I don't often do that at work.
 
@@ -37,7 +37,7 @@ I do a [Disney podcast](https://itunes.apple.com/us/podcast/the-golden-horseshoe
 
 I run a [quarterly movie club with friends](http://matchcutmovieclub.com/ "Greg's movie club."), where we rent out a theater and show some cool, underrated film that no one has seen. I do our [movie promos](https://vimeo.com/user562016/videos "Greg's videos on Vimeo.") in Apple's [Motion][]. [After Effects][after-effects] is _probably_ better, but for some reason I've convinced myself that Motion's behavior-based approach is superior, even though in practice I haven't found that to be true.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would like a retina display on my Mac Pro. None of the current solutions for doing this seem very appealing, sadly.
 

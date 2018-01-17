@@ -7,15 +7,15 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am Emma Lugo, and I make [experimental video games](https://lycaon.itch.io/ "Emma's video games."), usually first-person experiments in procedural generation, but sometimes they're 2D shooters or dating games or puzzle games or whatever I feel like making. I also sometimes make music, mostly for said video games. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main work machine is a Windows desktop I built a few years back. I also have a Windows laptop that I use when I'm travelling. For recording audio, I have a [Samson C01U microphone][c01u] which is attached via shockmount to an [$8 IKEA lamp][tertial] I took the lamp part off of and mangled with a drill press. I also have a [Focusrite Scarlett 2i2 audio interface][scarlett-2i2] which I use to record my electric guitar, which is an extremely old Squier Stratocaster. For monitoring I also have a terrible <$100 Ibanez amplifier. 
 
-#### And what software?
+### And what software?
 
 Almost all of the games on my itch.io page were made with [Unity][], which is a lovely piece of software that allows me to get things done so much faster than I would otherwise. I've used other engines and frameworks, but nothing compares to Unity in terms of what it lets me get done quickly. My code editor of choice is [Visual Studio][visual-studio] when working with Unity, and [Sublime Text 3][sublime-text] otherwise. 
 
@@ -27,6 +27,6 @@ For audio editing I use either [Audacity][] or [FL Studio][fl-studio], depending
 
 For collaboration I mostly use [Skype][], which I would not recommend, and [Google Drive][google-drive], which I would recommend very heartily. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 More analog music things. Right now I lean very heavily on software synths and effects to get my music to sound right, which is not how I like doing things. I like having lots of physical knobs and buttons to push, and the limitation of only having the sounds I can make with my guitar and pedals (and hopefully synthesizers in the future) means that I can decide on sounds faster than having a whole world of sounds at my fingertips. 

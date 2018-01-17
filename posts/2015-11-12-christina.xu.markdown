@@ -7,7 +7,7 @@ categories:
 - researcher
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! I'm [Christina Xu](http://www.christinaxu.org/ "Christina's website."). Back home in Brooklyn, I'm an independent ethnographer/organizational designer and a faculty member at [SVA's Interaction Design](http://interactiondesign.sva.edu/ "The interaction design program at the School of Visual Arts in New York.") graduate program. I'm also a trustee of [Awesome Foundation's](http://www.awesomefoundation.org/ "A foundation providing $1000 grants every month to awesome ideas.") New York chapter and a member of the Orbital space/community in the Lower East Side. The common theme tying together everything I do is a fascination with communities, culture, technology, and how they all interact with and influence each other. I am most frequently vocal about these things on [Twitter](http://www.twitter.com/xuhulk "Christina's Twitter account.").
 
@@ -15,7 +15,7 @@ Right now, I'm in the middle of a 10 week trip around mainland China to do resea
 
 I'm normally a pretty carefree, minimalist traveler. But all these factors combined with the length of the trip forced me to really put some effort into figuring out my gear. I need it to stay inspired, effective, and (mostly) sane for the rest of the trip!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 By far the two most important devices for my work are my two phones: a [Samsung Galaxy S6][galaxy-s6] and an [Oppo A11][joy-3], both running [Android][].
 
@@ -27,7 +27,7 @@ In addition to the phones, I also rarely leave the house without my camera bag, 
 
 Back at headquarters (i.e. wherever I'm resting my head for the night), I recharge all my devices - even my laptop, if I'm not using it - off of an Anker USB power hub. I spend my nights and mornings reviewing notes and writing, mostly on my 12" Retina [Macbook][macbook.2]. When I need help waking up, I play some music on my [UE BOOM speaker][boom]. On the (frequent) days when I come home feeling defeated, having all my bathroom goods organized in an Eagle Creek hanging toiletry kit makes me feel unjustifiably triumphant.
 
-#### And what software?
+### And what software?
 
 If I made a list of my 10 most used apps while in China, #1-5 would probably all be [WeChat][wechat-android], China's most popular chat app. It's how I text and call my family and close friends back home, and also how I coordinate with and keep track of my new contacts and friends. Following official accounts - of magazines, blogs, venues, or communities - is how I learn out about what's happening and find new leads to investigate. I bought my train tickets to my next destination in its in-app payment portal, WeChat Wallet. I even use it to transfer files between my phones and laptop. Despite its shortcomings, I'm kind of [an unabashed WeChat fangirl](https://medium.com/chrysaora-weekly/three-moments-with-wechat-7deb56f11e0a "Christina's post about WeChat.").
 
@@ -45,7 +45,7 @@ I wish I had a VPN service to recommend, but they're all kind of unreliable thes
 
 The best way to follow along with my adventures is on [Instagram](http://instagram.com/xuhulk "Christina's Instagram account."), where I frequently post "live fieldnotes" - short snippets of findings from the field illustrated by a photo - as inspired by my friend and mentor [Tricia Wang](http://instagram.com/explore/tags/triciainchina/ "Tricia's Instagram photos in China.") I'm also sending less frequent, but maybe more cogent updates on [TinyLetter](http://tinyletter.com/xuhulk "Christina's email newsletter."). Eventually, everything worth sharing with the world will end up, in one form or another, on [multientry.com](http://www.multientry.com "Christina's website about China's youth.").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The privacy and surveillance ramifications would be horrific for society if these were widely available, BUT wow would my life be a lot easier if I just had cyborg eyes and automatically transcribing/translating ears. And if my brain was directly wired to the (unblocked) Internet. Basically, what I would really like is Iron Man's Extremis suit, but for documenting things rather than fighting evil geniuses. It'd be a great icebreaker, too.
 

@@ -6,7 +6,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Howdy, I'm Zandi Dandizette! I am an interdisciplinary artist at [bluep.ink](http://www.bluep.ink/ "Zandi's website.") and one of the founders of [The James Black Gallery collective](http://www.thejamesblack.gallery/ "An art gallery in Vancouver.") of which I curate and have ran since 2014 in Vancouver, BC. 
 
@@ -16,14 +16,14 @@ The James Black Gallery is dedicated to artists showing their work without havin
 
 I'm currently participating in the curation of three shows, ROVE x JBG, LIMINAL CONFINES at the JBG and HALO, WORLD at VIVO in Vancouver.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a dual-monitor i7 computer with an NVIDIA video card and 16GB of RAM, and the OS on an SSD. It's in a [blue led and pink tower](https://www.instagram.com/p/BDM8ThXTel1/). I use a [Bamboo tablet][bamboo] and an NEC projector. I'm fortunate to have lots of studio space, and a green screen basic lighting set up as well.
 
-#### And what software?
+### And what software?
 
 I use [Maya][], [V-Ray][], [ZBrush][], [Photoshop][], [Premiere][], [After Effects][after-effects], [Flash][], [Illustrator][], [Autodesk Sketchbook][sketchbook-pro], and [OpenOffice][], for the most part.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh golly, a better projector with higher lumens would really help me out a lot. Also a nice camera for shooting performance footage to meld in with my animation as well as better documentation. Dream world I'd also have a variety of colour lighting tools (1ks lighting with gels and LED strips) for the shoots, a fancy Wacom tablet, and better access to transportation with my big installations, hah.

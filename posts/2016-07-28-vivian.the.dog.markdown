@@ -8,11 +8,11 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Vivian, [a 6-foot tall dachshund living in New York City](http://mitchboyer.com/vivian-the-dog "Vivian's webpage."). I basically eat food and sleep 24/7. I'm also working on a children's book titled, ["Vivian the Dog Moves to Brooklyn."](https://www.kickstarter.com/projects/mitchboyer/vivian-the-dog-moves-to-brooklyn/ "Vivian's Kickstarter project.") The book is all about my move from Albuquerque, New Mexico to Brooklyn, New York. New York City is not really a great place for a giant dog to be.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 **Mitch**: I'm gonna take over here - hi, I'm [Mitch](http://mitchboyer.com/ "Mitch's website."), Vivian's owner, and I work as an illustrator and photographer. As I'm sure you've assumed, [Vivian is not actually 6 feet tall](https://www.instagram.com/p/BF0-PPSLNxK/ "A photo of Vivian on Instagram."). She's just barely over a foot tall and weighs 13 lbs. [All of the pictures in the book are photo-illustrations](http://imgur.com/gallery/cImIW "Details of how Mitch takes photos of Vivian.").
 
@@ -24,7 +24,7 @@ While editing the photos I use the [Wacom Bamboo tablet][bamboo]. It's a little 
 
 **Vivian**: I use a standard leash and poop bags most days. Nothing fancy.
 
-#### And what software?
+### And what software?
 
 **Mitch**: I process the raw files from the Fuji in [Adobe Lightroom][lightroom] and use the [VSCO Film][vsco-film] 02 pack a lot. I'm not a fan of the strong roll off you get in the highlights with digital images, and I think VSCO does a good job of smoothing that out. I love their Kodak Portra 400 emulator.
 
@@ -34,7 +34,7 @@ Outside of image processing, I use [Sunrise][] for my calander - so sad they're 
 
 **Vivian**: What's software? Can I eat it?
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 **Vivian**: Probably having 3-5 manservants shoveling food into my mouth at all times, while lounging in my [penthouse overlooking Central Park](http://www.forbes.com/sites/morganbrennan/2012/07/30/a-look-at-new-york-citys-100-million-penthouse/ "An article about a $100 million penthouse in New York.").
 

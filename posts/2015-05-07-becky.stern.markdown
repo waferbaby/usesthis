@@ -8,11 +8,11 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Becky Stern](http://beckystern.com/ "Becky's website."), director of wearable electronics at [Adafruit](http://www.adafruit.com/ "A DIY company."), a DIY kit and educational company in New York City. Our goal is to make the world a better place through the sharing of information to help inspire the next generation of makers, artists, hackers, designers and engineers. I make step­-by-­step guides for building electronics into your [clothing](https://learn.adafruit.com/firewalker-led-sneakers/overview "Becky's guide for making LED sneakers.") and [accessories](https://learn.adafruit.com/cyberpunk-spikes/overview "Becky's guide for making 3D printed spikes."), teaching hardware, software, and textile techniques along the way. I'm a video producer and an equal­-opportunity hobbyist :)
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a high­-specced [iMac][] for most of my heavy­-duty video editing, with 24TB of external storage split between work and home for backing up everything I've ever made in more than one location. I also rock a stickered 13" [MacBook Air][macbook-air] when I'm on the go. For focusing in an active factory environment, I wear a pair of [Sennheiser 518 headphones][hd-518]. I recently upgraded from a [Nexus 4][nexus-4] to a [Samsung Galaxy Note 4 phone][galaxy-note-4]. I prefer to think of it as a tiny tablet that also makes phone calls.
 
@@ -20,12 +20,12 @@ For recording project videos and photos, I use a [Nikon 5100 camera][d5100] with
 
 To build projects, I rely on my [Hakko FX-­888 soldering iron][fx-888], [Singer CONFIDENCE sewing machine][confidence], Gingher shears, and Akro­Mils organization bins & drawers. My desk and chair is from Global Industrial.
 
-#### And what software?
+### And what software?
 
 In order of frequency of use:
 
 [Chrome][], [Safari][], [1Password][], [Wordpress][], [Final Cut Pro X][final-cut-pro-x], [Arduino][arduino-ide], [Wirecast][], [Google Drive][google-drive], [Dropbox][] for Business, [Google Hangouts][google-hangouts], [HipChat][], [MPEG Streamclip][mpeg-streamclip], [Photoshop][], [Illustrator][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd really like one of those motorized standing/sitting desks, but the "everything within reach all the time" aspect of my space restricts that idea (I have shelves and louvered bin panels affixed to my desk), and I find myself standing a fair amount anyway. I'm about to put arm rests on my chair, which is a big deal for me. Otherwise I have every tool I could ever need, and access to dozens more if I ever feel compelled.

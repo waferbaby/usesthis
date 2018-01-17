@@ -12,11 +12,11 @@ credits:
   name: Heather Beschizza
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Rob Beschizza, a writer, artist and game developer. I love ambiguous and liminal things. My heart's always at home exploring strange places or searching for what's hidden in plain sight. I'm the managing editor of [Boing Boing](http://boingboing.net "The Boing Boing website."), where I can tell stories about [secret histories](http://boingboing.net/2011/10/11/mixtape-of-the-lost-decade.html "Rob's story about secret histories.") and [mystic technology](http://boingboing.net/2012/04/02/antikythera.html "Rob's story about the Antikythera mechanism."). I made [TinyHack][], a nasty little roguelike in 9x9 pixels.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A [Parker 51][51] that was my grandfather's. Cheap unlined notebooks. 2B graphite sticks, more fun than pencils.
 
@@ -28,7 +28,7 @@ My Shuttle Cube PC - a tool for playing games - lurks in a corner.
 
 For photos, I have a [Lumix GM1][lumix-dmc-gm1], a tiny interchangeable-lens camera no larger than the point-and-shoot it replaced. And yet the images are wonderful. I also have a [Blackmagic Cinema Camera][cinema-camera], an unwieldy box designed to produce more filmlike results than a similarly-priced DSLR. I've barely scratched the surface of what it can do, and look forward to continuing to imagine all the wonderful things I'll never get around to filming. I might trade it in for the [Digital Bolex][d16-cinema-camera], similar but more ergonomic.
 
-#### And what software?
+### And what software?
 
 Games! Games as far as the eye can see.
 
@@ -38,7 +38,7 @@ Game development used to involve [Flash][]; now [JavaScript][]. Work means [PHP]
 
 I've just about had it up to here with [Gmail][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a proper laptop of similar dimensions to an iPad Mini, an item of singular beauty and simplicity that I'd become as attached to as a sorcerer to a demon familiar. It would even brew tea.
 

@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Håkon Wium Lie](http://people.opera.com/howcome "Håkon's page on opera.com.") and I'm the CTO of [Opera Software](http://www.opera.com/ "The Opera Software website."), maker of browsers. In 1994 I invented a small language called [Cascading HTML Style Sheets](http://www.w3.org/People/howcome/p/cascade.html "The Cascading HTML Style Sheets proposal.") which developed into CSS which is used to describe web typography. I'm still actively involved in making sure CSS can do things beyond scrolled web pages. Especially, I'd like to see [CSS replace native apps](http://alistapart.com/blog/post/ten-css-one-liners-to-replace-native-apps "Håkon's A List Apart article about replacing native apps with CSS.").
 
 In addition to computer stuff, I have a [woodworking studio](http://østre.no/ "Håkon's woodworking studio website.") and a [small organic farm](http://www.eplegaard.no/ "The website for Håkon's farm.") with apples, geese and sheep.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm typing this on a [Thinkpad X220][thinkpad-x220]. It's a great machine with room for a 1TB disk, analog and digital video ports, and a classic Thinkpad keyboard. Alas, Lenovo switched to [island style keybords](http://en.wikipedia.org/wiki/Chiclet_keyboard "The Wikipedia entry for Chiclet keyboards.") in 2012, so I will depend on online auctions for a steady supply of used X220 in the future.
 
@@ -27,7 +27,7 @@ I drive electric cars: a Think from 2002 (still with original batteries), and a 
 
 I also carry a phone with me, but I don't have a favorite. Mine is not an iPhone, though the first computer I used was an Apple II in 1980. I now prefer real apples.
 
-#### And what software?
+### And what software?
 
 I currently run [Linux Mint][linux-mint] on the Thinkpad. The Thinkpad keyboard is almost perfect, but the Control key is in the wrong position. Therefore, after installing Linux, I run a utility to switch the Control key back to where it was in my childhood. For some reason, computer makers decided to place the totally useless CapsLock key there.
 
@@ -37,7 +37,7 @@ Then comes [Prince][], which converts HTML and CSS to beautiful PDF files. (Disc
 
 I also use [emacs][] a lot. I type this in emacs, and I read email in emacs (in [vm][], to be precise). I've used emacs since 1988 and I have email archives from back then.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The phone is the device that causes me most embarrassment and therefore should be fixed first. My phone makes calls and sends meaningless messages from my pocket. When I try to make phone calls for real, I get very little feedback while holding the phone to my ear. I'd like to press a tactile button to make the call, and to have tactile feedback from the phone while it tries to connect the call. Finally, I'd like a tactile button to hang up.
 

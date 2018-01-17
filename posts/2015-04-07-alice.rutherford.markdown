@@ -9,13 +9,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Alice Rutherford. I work full time as a textile/print designer for a swimwear company. This includes creating artwork from scratch (sometimes painting and drawing by hand and scanning it in, sometimes working directly on the computer), manipulating artwork purchased from independent studios, and putting everything into repeat and color-separating all artwork.
 
 I'm also a [freelance illustrator](http://alicerutherford.com/ "Alice's website."), and I create [custom paperdolls](http://etsy.com/shop/alicke/ "Alice's Etsy store.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At my job I have a PC -- a Dell with 8GB ram, dual monitors (also Dell), and a [Wacom tablet][intuos] with mouse & pen. We have an art team of 9 people and share a [big Epson scanner][expression-11000xl], a lightbox, & a bunch of art supplies. We also have three [large format Epson printers][stylus-pro-7890] which have been converted to use DigiFab sublimation inks instead of CMYK to approximate the more vivid colors in which the artwork will ultimately be screenprinted. These are a pain since you have to put on an apron and plastic gloves and use funnels, syringes and scales to carefully refill each cartridge from a huge bottle of ink. The PC connected to the scanner is always in some sort of weird configuration -- the tower is on top of a cabinet, the keyboard is precariously balanced on top of the tower, the monitor is on a shelf above and the mouse is used on top of the closed scanner lid. But it works! We also have a large manual paper cutter. We used to have a giant Mimaki printer and heat press to quickly print fabric for samples, but we moved to a new building without the proper ventilation.
 
@@ -25,13 +25,13 @@ I also have a ton of watercolors (I like [Angora][]), fineline felt tip pens ([M
 
 I also have an [iPhone 5s][iphone-5s], and a classic [iPod][] from 2006 that is still going strong. I have two pairs of Sony headphones because earbuds fall out of my ears ([these][mdr-7502] and [these][mdr-zx110ap]).
 
-#### And what software?
+### And what software?
 
 At my job we run [Windows 7][windows-7] and use [Photoshop][] and [Illustrator CS5][illustrator]. We also use [NedGraphics][] which is a niche software for textile designers that caters specifically to making repeats, cleaning and separating colors, and quickly switching colorways. We use [Evolution RIP][evolution-rip] for printing; another niche software targeted to repeating patterns and indexed color palettes. I like [Firefox][] best for browsing but I also use [Chrome][] since we use NGC as well and it doesn't like Firefox.
 
 At home I'm running [Mavericks][mac-os-x] but I'm still on [CS4][creative-suite]. I bought the Master Suite when I was just starting out as a freelancer, and I'm pretty cranky about the cloud subscription that Adobe is doing now and won't upgrade until I absolutely have to. I mostly use Photoshop and Illustrator, [Dreamweaver][] for my website, and very occasionally [Acrobat][] and [InDesign][]. I also weirdly love [Bridge][]. What else? [SnapNDrag][], [Fetch][] for FTP, and the usual Mac suspects like [iTunes][]. I love [Notes][] and [TextEdit][] for lists and copying art direction so I don't have to keep toggling back to my email. And Firefox. I use [Gmail][] and love [Google Docs][google-docs] for budgeting and planning (several of my friends are city planners and you should see the spreadsheets that circulate whenever anyone has a party or we take a group trip). 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Well, I definitely need a new Wacom tablet. I'm annoyed that they no longer come with a mouse -- you have to buy one separately now for like $70, ugh. But that's my next big purchase -- probably an [Intuos Pro][intuos-pro]. I also need a new, non-broken printer -- I like Epson products so that's likely what I'll go for. I'd like bigger and better monitors eventually, and a set of speakers since right now all sound comes out of a tiny section of the tower under my desk.
 

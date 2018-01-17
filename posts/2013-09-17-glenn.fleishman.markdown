@@ -8,13 +8,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Glenn Fleishman, a recovering typesetter, who recently added "publisher" to my "editor" title at *[The Magazine](http://the-magazine.org/ "The Magazine's website.")*, a fortnightly periodical for curious people founded by Marco Arment. I've worked making granola, running the tech at a Kodak educational facility in Maine, as a managing editor at a book firm, and at Amazon.com for six months in late 1996.
 
 I host the podcast [The New Disruptors](http://muleradio.net/newdisruptors "Glenn's podcast on Mule."), built the backend at [TidBITS](http://tidbits.com/ "The TidBITS site.") (where I also write), and am a regular contributor to the *Economist*. (I wrote "[The Sharing Economy](http://www.economist.com/news/technology-quarterly/21572914-collaborative-consumption-technology-makes-it-easier-people-rent-items "Glenn's article in The Economist.")" cover story in March 2013.)
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got four systems that I will list in declining screen area.
 
@@ -28,11 +28,11 @@ An [iPad 4][ipad-4] serves as a portable reading and video-watching device. The 
 
 My kids have access (at parental discretion) to a very old [iPod touch][ipod-touch] and an [iPhone 3GS][iphone-3gs] (with cell service turned off), as well as an [iPad 2][ipad-2] and a 2009 [MacBook][].
 
-#### And what software?
+### And what software?
 
-First and foremost is [BBEdit][]. I was a latecomer to it, being required to used [Word][] for most of my writing because editors relied on it (especially for tracking changes). But around version 8 several years ago, I started to use it more consistently. Now I essentially live in it. Probably 85% of the time I'm not reading or writing email — with the [Mailsmith][] client designed by Bare Bones founder Rich Siegel and now maintained as freeware — I'm programming, writing, or editing in BBEdit. 
+First and foremost is [BBEdit][]. I was a latecomer to it, being required to used [Word][] for most of my writing because editors relied on it (especially for tracking changes). But around version 8 several years ago, I started to use it more consistently. Now I essentially live in it. Probably 85% of the time I'm not reading or writing email --- with the [Mailsmith][] client designed by Bare Bones founder Rich Siegel and now maintained as freeware --- I'm programming, writing, or editing in BBEdit. 
 
-*The Magazine* and TidBITS use [Markdown][] as our native format, and I convert from Markdown into the HTML required by the *Economist*'s CMS. I use [SVN][subversion] for version control with *The Magazine* and TidBITS as well. I recently discovered and fell in love with Zenna•Ware's [Cornerstone][] as a Mac SVN manager. If I need to deal with a Word .doc or .docx file, I use [Pages][] instead. I started using [TextEdit][] not long ago to help with certain conversions, such as taking an RTF file with embedded links and exporting as not-too-horrible HTML, which I could then convert into Markdown.
+*The Magazine* and TidBITS use [Markdown][] as our native format, and I convert from Markdown into the HTML required by the *Economist*'s CMS. I use [SVN][subversion] for version control with *The Magazine* and TidBITS as well. I recently discovered and fell in love with Zenna-Ware's [Cornerstone][] as a Mac SVN manager. If I need to deal with a Word .doc or .docx file, I use [Pages][] instead. I started using [TextEdit][] not long ago to help with certain conversions, such as taking an RTF file with embedded links and exporting as not-too-horrible HTML, which I could then convert into Markdown.
 
 Rounding out the Bare Bones-related triumvirate is [Yojimbo][], a sort of junk-drawer program that lets me drop in notes, serial numbers, Web pages, images, and PDFs, and optionally encrypt individual items.
 
@@ -44,6 +44,6 @@ I admit a bit guiltily that for previewing and designing CSS, I turn to MacRabbi
 
 [Skype][] is invaluable. However irritating it can be, and however much I dislike the user-interface changes in the 5.x client update for Mac, it's still something I rely on. I gave up a landline phone line years ago, and switched to [Vonage][], until I found that Skype was much cheaper, more flexible, and not bad at all. When I record my podcast, I use Skype for the call, and can record my local audio while asking the guest to record his or hers as well.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 With the memory bump on the Mac mini, I'm fairly close to an ideal situation computationally: I have the computer, keyboards, and desk that I want. I would like to find affordable and compact IPS displays. But all the ones I can find are 16:9 ratio and huge. I'd also like to switch to SSDs for everything: boot and local backup. But the cost for my current capacity needs is too high.

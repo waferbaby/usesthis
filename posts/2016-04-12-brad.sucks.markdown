@@ -6,11 +6,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name's Brad and I write and record rock music as [Brad Sucks](http://www.bradsucks.net/ "Brad's website."). I was one of the first musicians to give my music away for free on the Internet. I have three records out: [I Don't Know What I'm Doing](http://www.bradsucks.net/albums/i_dont_know/ "Brad's album from 2003.") (2003), [Out of It](http://www.bradsucks.net/albums/out_of_it/ "Brad's album from 2008.") (2008) and [Guess Who's a Mess](http://www.bradsucks.net/albums/guess-whos-a-mess/ "Brad's album from 2012.") (2012). I'm also doing some music and voice for the animated series [Bee & PuppyCat](http://beeandpuppycat.cartoonhangover.com/ "The Bee & PuppyCat site."). I used to do a lot of web programming for money, but not anymore. It's nice.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 **For recording:** A 27" 500GB SSD [iMac][] with a 17" monitor on the side and a [Mac Matias Quiet Pro][quiet-pro-mac] mechanical keyboard with a [Logitech M510 mouse][m510]. My audio interface is a [UAD Apollo Twin Duo][apollo-twin], hooked up to [Focal CMS 65 monitors][cms-65] and [Sennheiser HD 280 Pro headphones][hd-280-pro].
  
@@ -20,13 +20,13 @@ I also just bought a [QNAP TS-251 NAS][ts-251] because I've gotta get serious ab
  
 **For live shows:** A [Line 6 M9 Stompbox Modeler][m9-stompbox-modeler] into a [Fender Blues Junior][blues-junior-iii] and a [Novation MiniNova][mininova] for synth sounds. I play live with the same guitars I record with and I use a stereo-split second generation [iPod Nano][ipod-nano] for backing tracks if it's a backing track kind of show. The iPod's left channel (with the backing tracks) goes to the PA, the right channel (with the click track) goes into a [Shure P2R-H2 receiver][p2r-h2] for the drummer.
 
-#### And what software?
+### And what software?
 
 For music, I use [Ableton Live][live] for jamming and sketching ideas and [REAPER][] to edit and mix. I own [Native Instruments' Komplete][komplete] and some UAD plugins like the [LA-2A compressor][la-2a], [EMT 140 plate reverb][140] and the [Neve 1073 Preamp & EQ][1073-preamp-and-eq]. I like a lot of simple, fat virtual instruments and effects like [NI's Monark][monark] and [Lennar Digital's Sylenth1][sylenth1]. I also love [Valhalla's VintageVerb][vintageverb].
  
 Other, mostly non-music software I use: [CrashPlan][], [DropBox][], [Evernote][] w/ [Alternote][], [MailPlane][] ([Gmail][] client), [trolCommander][] (fork of the [muCommander][] file manager/FTP client), [Spectacle][] (window manager), [VLC][], [Zooom/2][zooom] (window manager), [iTerm2][], [Little Snitch][little-snitch], [Piezo][] (for recording audio from apps and webpages), [Sequel Pro][sequel-pro] ([MySQL][] client), [Spark][] (hotkeys), [Sublime Text][sublime-text] (programming), [Tweetbot][], [VMware Fusion][vmware-fusion] (for Windows), [xACT][] (for MP3 conversion) and probably more I'm forgetting.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty content with what my setup can do right now. Mainly I'd like to stand more and stare at a computer screen less, as well as have a quality mobile recording/writing rig I could take anywhere. Getting an Ableton Push 2 is a move toward that and I'd like to see if I could do everything I need on a Macbook one day, but laptops have historically destroyed my arm and wrist.
  

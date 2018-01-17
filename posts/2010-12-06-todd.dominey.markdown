@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Todd Dominey](http://domineydesign.com/ "Todd's design site."), and I'm the founder of SlideShowPro. I started the business a few years ago as a personal project with zero intention of creating an actual business. I had developed a fairly basic photo slideshow player for myself, and -- thinking it was fairly decent -- put it out there for other Flash developers to purchase. That experiment has now grown into a platform of products, and consumes all attention and energy.
 
 Like a lot of small software companies, I wear a lot of hats. I'm the developer of the [SlideShowPro Player][slideshowpro-player] and related Flash products, designer and front-end markup guy for our web site and our content management system ([SlideShowPro Director][slideshowpro-director]), support contact, financial manager, documentation writer, marketer... a little of everything.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main work machine is a new 27" [iMac][] with 2.8GHz Quad-Core / SSD drive, plus a second Dell 27" display. The iMac was a recent purchase, replacing a four year old [Mac Pro][mac-pro] with a fried logic board. This is actually the first time I've ever owned / used an iMac as a workstation. Before now I'd only used towers. I made the change now for iMacs are plenty powerful for everything I'd possibly need, and are super affordable compared to what I used to spend on older Mac towers. So I'm quite pleased with it. The SSD drive is worth its weight in gold.
 
@@ -26,10 +26,10 @@ When away from the office I use an old 15" [MacBook Pro][macbook-pro] / 2.33GHz 
 
 As for other office hardware, own both an [Aeron][] and a [Mirra][] from Herman Miller (Mirra is better, IMO), a SteelSeries Icemat under my [Magic Mouse][magic-mouse], a pair of [Grado SR-80s][sr80i] from my DJ days (that still sound great), a [Samson C03U][c03u] USB mic for voiceover stuff, a [Canon 7D][eos-7d], and desks from Ikea.
 
-#### And what software?
+### And what software?
 
 The apps/utilities I have open all day include [Photoshop CS5][photoshop], [Illustrator CS5][illustrator], [Flash CS5][flash], [TextMate][], [Safari][], [Chrome][], [Firefox][], [Transmit][], [Tweetie][], [Skitch][], [TextExpander][], [Alfred][], [Default Folder][default-folder-x], [Terminal][], [Console][], [Dropbox][], [Mail][], [iTunes][], [Campfire][] and [1Password][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think my current setup is the best I've ever had. It's much quieter than listening to the Mac Pro's turbines whirrrrring all day, is much more compact, and the display is wonderful. I had serious reservations about using a glossy screen after years of matte, but it's turned out better than expected.

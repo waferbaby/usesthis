@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I'm [Lara Callender Hogan](http://larahogan.me/ "Lara's website."), and I'm a self-taught front-end developer. At [Etsy][] I've managed the mobile web engineering team, and now manage the performance engineering team. My teammates are *the best*.
 
@@ -15,7 +15,7 @@ I do a lot of [public speaking](https://www.youtube.com/watch?v=vG53j60ALIw "A Y
 
 I believe it's important to celebrate career achievements with [donuts](http://laraswanson.com/donuts/ "Lara's page about donuts."). I've had a myriad of jobs, including running my own photography business, co-founding a LGBT wedding website, and a stint where I got certified to be an EMT. I graduated college with degrees in Philosophy and Visual Media, which are just weird enough to equip someone to work in tech.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I use a 13" [MacBook Air][macbook-air] with a secondary 24" Samsung monitor, Bluetooth mouse and USB keyboard. I try not to bring my laptop along to meetings so I can be more present in them; the laptop is then replaced with a small notebook and a [Sharpie Pen][fine-point]. I've got an awful memory, and writing notes constantly helps me to better remember things. When I'm at my desk and have time to focus, I'll use [Audio-Technica ATH-M50S headphones][ath-m50s]. On my commute each morning I'll just use little [earclip headphones][shs4700-28], though. I rest my [iPhone 5c][iphone-5c] on a [handmade wooden stand](https://www.etsy.com/listing/96977351/natural-wood-iphone-4-4s-5-stand "A wooden stand for iPhones on Etsy.") during the day. I also keep a small $5 plastic watch handy when I need to keep track of time in a meeting but don't want to check my phone (like when I'm interviewing a candidate).
 
@@ -31,7 +31,7 @@ My laptop/everyday bag is a [messenger bag that compresses nicely yet has plenty
 
 Both at work and at home I try to be as energy-conscious as possible. In my apartment I use [Belkin Energy-Saving Outlets][conserve-socket], and my main media setup uses this [Energy-Saving surge protector][conserve-socket-energy-saving-outlet] which turns off peripherals when I turn off my TV. At work we use a [Modlet][the-modlet] in the [physical device testing lab](http://codeascraft.com/2013/08/09/mobile-device-lab/ "Lara's post about Etsy's testing lab."), which we use to measure energy consumption over time and find ways to optimize it.
 
-#### And what software?
+### And what software?
 
 I write everything for the book using [Sublime Text][sublime-text] and commit it to a [Git][] repo provided by my book publisher. O'Reilly has a [pretty sweet setup](https://atlas.oreilly.com "O'Reilly's online publishing system.") that takes the chapters in [Asciidoc][] format and outputs them in both HTML and PDF versions so I can see how they'll render in the online and print versions of the book. Using Git for the book has been awesome; I can track plenty of the writing process this way and it's fun to watch the diffs as I go. The HTML version of the book also allows comments from my technical reviewers, which makes it much easier for me to consolidate feedback as it gets edited.
 
@@ -47,6 +47,6 @@ When it comes to presenting, I live in [Keynote][]. And sometimes [Giphy][]. Whe
 
 At both work and home I listen to [Pandora][] and [Rdio][]. Both are tuned to some sort of Motown for working/focus hours. I also constantly have [TextEdit][] open on both laptops for eliminating formatting when copying/pasting. [Chrome DevTools][chrome-devtools] is always open when I'm coding. [ImageOptim][] stays in my dock on both laptops, too. [Seamless][] is open more often than I'd care to admit (but who can resist milkshake and/or donut delivery from local diners?). And of course, I love the [Etsy][etsy-ios] app as well as the web experience and buy *a lot* of stuff regularly.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Free, public, fast WiFi everywhere. Better battery life on everything. My own [Jarvis](http://ironman.wikia.com/wiki/J.A.R.V.I.S. "The Ironman Wikia entry on J.A.R.V.I.S."). A way to write the book on my laptop while on a beach (visible screen, sand prevention). Donut delivery service with no minimums.

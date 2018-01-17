@@ -8,13 +8,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Santiago Ortiz, married father of two, living in a small town in Argentina. I invent stuff using code, I research a lot and I love to [experiment](http://moebio.com/research/sevensets/ "Santiago's seven sets of Venn diagrams."). I do [interactive information visualization](http://moebio.com/ "Santiago's website."), and I'm a specialist in [networks visualization](http://moebio.com/newk/twitter/ "Santiago's Twitter employee conversations graph."). I'm interested in diversity (books, activities, people, places, data, stories) and innovation (creativity + social meaning + methodology + time + execution).
 
 I studied mathematics, with an emphasis in complexity, which I reckon is my most basic tool.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My first computer was a [Macintosh 512K][macintosh-512k] (well, it was my parent's computer but I used it like hell), and at 15 I got my first own one, a pocket tactile computer, the wonderful [Casio PB-1000][pb-1000] (tears). Afterwards I began using all sort of desktop Macs, with a 6 month black hole using a PC. Then, in 2001 I quit Colombia and start living in different places, and of course I  started using [iBooks][ibook] and [MacBooks][macbook] (the first one: the "snow" iBook, the most beautiful one so far in my opinion)
 
@@ -30,7 +30,7 @@ I have an iPad but I don't really like it or use it, so it's basically for my ki
 
 My favorite gadget is, without a doubt, the [Kindle][], and I'll soon update it to the Paperwhite version. For some reason this the only device I consider a 'gadget'. The other hardware are tools, and it's nice to have the most suitable ones, but I'm never extremely excited when buying one (and I don't give a shit about Apple device packaging). On the contrary, I'm very eager to get my brand new Kindle and I can imagine I'll be carrying it in my bag, even if I know I won't read anything.
 
-#### And what software?
+### And what software?
 
 I use the development tool [Aptana Studio 3][studio-3] to code all my projects. I code in [JavaScript][] and use my own framework which is actually my main software. I'm not completely satisfied with Aptana (it's slow), but I'm not sure there are better options (perhaps I'm waiting to change computers to see things working better magically?). 
 
@@ -44,7 +44,7 @@ Sporadically, I use [Photoshop][] and [Illustrator][] to process images, or, eve
 
 Other indispensable tools: [Dropbox][], [Safari][], [Chrome][], [Mail][], [Skype][], [Fetch][], Google tables, [Google Reader][google-reader] (tears).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dream of an impossible chimera: a MacBook Air 17" with a Retina display.
 

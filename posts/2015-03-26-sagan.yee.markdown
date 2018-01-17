@@ -7,13 +7,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Sagan Yee, and I'm a classical animator with skill points in experimental game design and digital media education. I graduated from [Sheridan College's](https://www.sheridancollege.ca/ "A university in Ontario.") Classical Animation program back in 2011. Since then, I've animated for TV shows airing on Adult Swim and Disney XD, collaborated on interactive projects that involved things like [throwing literal knives at the screen](http://www.saganyee.com/longtimecoming "Sagan's infidelity simulator game.") and [experiencing transhuman psychedelia in the back of a van](http://queerarcade.tumblr.com/post/54195802116/psxxyborg-is-the-vision-of-artist-hannah-epstein/ "A multi-screen game attached to a van."), shot [rabbit-ninja machinima](http://haphead.com/ "A neo-noir web series.") for a sci-fi webseries, made an [Earthbound fanimation](https://www.youtube.com/watch?v=-hVuv7mDNqM "Sagan's Earthbound video on YouTube."), and have coordinated several game-making workshops and outreach programs for the [Hand Eye Society](http://handeyesociety.com/ "A video game non-profit in Toronto.").
 
 Currently I run [Game Curious](http://handeyesociety.com/game-curious/ "Sagan's video game art program."), an initiative aimed at exploring video games as an artistic medium, and am a community member of [Dames Making Games](https://dmg.to/ "A group helping people who identify as women build games."). You can read/watch/play some of my projects on [my website](http://www.saganyee.com/ "Sagan's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Since 2010, I've done everything on a [15" MacBook Pro][macbook-pro] running [OS X 10.6.8 Snow Leopard][mac-os-x]. I will update my tech based on the needs of the project, but otherwise I'm pretty resistant to change. Case in point: I was still using a flip phone in 2013.
 
@@ -23,7 +23,7 @@ Recently I went to Japan and needed a light travel computer, so I have an [Asus 
 
 For someone who works so much in games, I don't own a lot of gaming equipment. I got a [Nintendo 3DS XL][3ds-xl] for Christmas this year, but most of what I play are [weird little browser-based games](http://forestambassador.com/ "A curated collection of web-based games.") or whatever is Mac-compatible on [Steam][].
 
-#### And what software?
+### And what software?
 
 I own [Adobe Master Collections CS4 and CS5][creative-suite] since Sheridan College started including it with tuition as part of their Animation program. Most of my animation contracts have had me using [Flash CS4][flash]. I like Flash because I'm familiar with it; I try to make my animation look more traditionally hand-drawn, rather than the heavily tweened puppet-style animation that Flash is often infamous for (although I often use the tweening function for efficiency's sake). I use an older version because I have a few plugins to help with keyframing that don't work with newer versions, and because sometimes my clients need files downgraded to CS3.
 
@@ -33,7 +33,7 @@ On the games side, I've dabbled with [Stencyl][], [Ren'Py][renpy] and [Twine][] 
 
 When I need to take a promo photo for interviews or panels, I use the [Interstellar Selfie Station][interstellar-selfie-station] by [Christine Love](http://loveconquersallgam.es "Christine's website.") and [Nadine Lessio](http://nadinelessio.com "Nadine's website."). Accept no substitutes!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'll probably stick with Mac for my new computer since that's what my Adobe Collections need; either the latest MacBook Pro or a desktop computer with more punch. Either way, I will want it to be able to run [Boot Camp][boot-camp] as I've been running into more and more situations where I want access to Windows. Like when I accidentally buy Windows-only games off Steam and can't play them!
 

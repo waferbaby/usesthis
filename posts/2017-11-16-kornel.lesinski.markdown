@@ -8,7 +8,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I love pixels. I'm a programmer and a newbie small business owner. I work on image compression.
 
@@ -16,7 +16,7 @@ I'm the author of the [ImageOptim][], [pngquant][], and a maintainer of [MozJPEG
 
 I spend most of my time finding ways to make images load faster and look better. My day job is the ImageOptim web service, where I turn my research experiments into a real product.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [2014 MacBook Pro][macbook-pro] with Retina Display. It's a very nice machine. I have the higher-specced i7 configuration, so the latest MacBooks don't seem like a big upgrade to me.
 
@@ -42,7 +42,7 @@ I've also got an AMD-Ryzen-based PC with [elementary OS][elementary-os] as my se
 
 The last bit of hardware is my beloved [Herman-Miller Mirra chair][mirra]. As a geek I used to think how many more megabytes or megapixels I could have gotten instead of "just a chair", but it has outlived several of my computers, and it's been absolutely good investment that literally saved my butt (and my spine).
 
-#### And what software?
+### And what software?
 
 My computer usage is mainly on the command line. I use [iTerm2][], for lots of small reasons. I can click to open filenames printed in the terminal. I have shortcuts and color-coded backgrounds for remote servers. Notifications when a background job finishes. It does everything that the stock [Terminal][] does, but a little bit better.
 
@@ -54,7 +54,7 @@ I plan my work in [OmniFocus][] (& [Focus GTD][focus-gtd-android] on Android). I
 
 I've been programming in [C][] for 17 years, but this year I've sucessfully switched to [Rust][]. Rust has a steep learning curve, but it does deliver. The language, its compiler and package manager are rock solid. It's an amazing language. In some areas it feels higher-level than [JavaScript][], but it's still as close to the metal as C.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 For the displays, all the cool new tech is already here. I'm just waiting for all of it to be brought together into one maximally awesome model.
 

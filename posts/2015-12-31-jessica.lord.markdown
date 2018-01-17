@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jessica Lord](http://jlord.us/ "Jessica's website."). I'm an engineer at GitHub on the [Atom][]/[Electron][] team. I get to write [open source](https://github.com/jlord "Jessica's GitHub account.") for work which is pretty awesome! I also do a lot of open source not for work. I'm really passionate about building tools that are accessible and hopefully empowering. 
 
@@ -17,7 +17,7 @@ I also like to sew. I [used to do so more](http://www.ecabonline.com/ "Jessica a
 
 I like to travel, but hate flying. I like [painting nails](https://www.instagram.com/explore/tags/nailconf/ "Instagram photos of painted nails."). I love walking!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a 13" [MacBook Pro][macbook-pro], it's my work computer and life computer because I can't deal with syncing. 
 
@@ -31,7 +31,7 @@ I recently treated myself to a [Bernina 350][350-pe] sewing machine. A Bernina h
 
 I have a [Fuji X100T][x100t] camera that I'm sad to admit that after a year I'm no better at shooting manual with. But I like that it's so compact, I do take it with me most places and try my best! I also really like using the wifi it has to put photos directly on my phone or take photos with the camera from my phone. 
 
-#### And what software?
+### And what software?
 
 I code in [Atom][], no surprise! I write [Markdown][] documentation in Atom, too, because the Markdown preview is great. But I usually also have something like 15 unnamed pages open in [iA Writer][ia-writer] or [Byword][] (I can't pick!) with notes and lists. It's kind of a mess. 
 
@@ -55,7 +55,7 @@ I've gone without a car since 2007 have have had the same 1980's Fuji road bike 
 
 Paper! Pens! I jot a lot. Getting a new planner each year is a big deal. I have a lot of notebooks but mostly use Muji ones with Muji pens or [Pilot Hi-Tec-C][hi-tec-c] pens in .3 which are my all time favorite.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think I'd like a like a smaller computer as a primary machine. I'd like a Photos app that was basically just a file manager with a few more features for viewing photos and didn't duplicate your photos or make them hard to find. I'd have [AirDrop][] work 100% of the time and batteries that lasted twice as long. Also if we're dreaming, I'd also have an industrial Juki in my basement so I could make all kinds of thick things. 
 

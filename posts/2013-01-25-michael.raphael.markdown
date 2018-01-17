@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Michael Raphael](http://twitter.com/sepulchra "Michael's Twitter account."). I'm a sound effects recordist and broadcast engineer. I founded [Rabbit Ears Audio](http://rabbitearsaudio.com "Michael's SFX company.") to create boutique SFX libraries. I also maintain a [field recording blog](http://sepulchra.com/blog "Michael's weblog").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When I'm out in the field recording sounds my workhorse setup is a pair of Schoeps Mid Side microphones ([CMC5 bodies][cmc-5-ug], [MK4][mk-4] and [MK8][mk-8] capsules), and a [Cooper CS-104][cs-104] mixer with the direct out option. The Cooper serves as a front end for a [Sound Devices 744T][744t] portable hard disk recorder. The Cooper adds a significant amount of weight to my bag, but it also adds a ton of character and warmth to my recordings. Sadly, Andy Cooper's wonderful line of mixers are no longer in production. My [Remote Audio High Noise Headset][hn-7506] protects my hearing and allows me to monitor recordings at a safe level.
 
@@ -24,7 +24,7 @@ The MacBook Pro is often closed and connected to a 27" Samsung monitor. My day t
 
 I take a ton of notes, and when I am not using a computer I like to use my [Lamy 2000][2000] fountain pen and Rhodia pads. I prefer the graph ruled ones. I tried the moleskines, but I like being able to tear away pages easily when I need to.
 
-#### And what software?
+### And what software?
 
 99% of my audio post work happens inside of [Pro Tools][pro-tools] 10.3.2 and [Soundminer v4 Pro][v4pro].
 
@@ -36,7 +36,7 @@ I can't get into [Evernote][] for note taking, but it is a good container for re
 
 My backups are managed by [Superduper][], [Chronosync][], [Backblaze][], and [Hazel][] automates a number of backup and maintenance tasks.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love to have some custom furniture built around my workspace, but other than that I have pretty decent workflow. I've built a system that revolves around apps that will keep me efficient and my devotion to plain text will keep my files accessible for years to come. 
 

@@ -7,11 +7,11 @@ categories:
 - politics
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Rick Falkvinge. I founded the Swedish and first [Pirate Party](http://piratpartiet.se/ "The Pirate Party's website."), represented in the European Parliament and which has spread to 40+ countries. Today, I travel and speak about the ideas. For more details, I have a blog at [http://falkvinge.net/](http://falkvinge.net/ "Rick's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For my primary workstation, I'm using a built-from-parts box optimized for silence with a couple of graphics cards. That also allows me to evade the Microsoft Tax that would otherwise annoy me to no end.
 
@@ -33,13 +33,13 @@ My bandwidth is full-duplex 100 Mbit, which is a bit slow by Swedish standards, 
 
 When away from the workstation, I like to use an [ASUS Transformer][eee-pad-transformer-tf101]. It's basically an Android tablet with an attached keyboard, giving you the feel of a lightweight netbook running Android, but one that has about two full days of battery life.
 
-#### And what software?
+### And what software?
 
 [Ubuntu][], a version of Linux, is used throughout as base operating system. Most of what I use is web-based, and I use [Chrome][] for that. Looking through my panel, I see mostly the usual office tools, some systems admin tools, and some video production tools. (In the Pirate Party, we produce quite a bit of video.) There's also a couple of games there -- [Nexuiz][], [Starcraft II][starcraft-2], and [Eve Online][eve-online] stick out. All running on my Linux box.
 
 Unfortunately, GNU/Linux can still not match Windows in the development department. I use an emulated Windows box with [Visual Studio][visual-studio] for that, inside of my Ubuntu environment. But once written there, the code runs for production on Ubuntu boxes again, using [Mono][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 More screens! If I get to dream freely, I'd like a four-by-three setup of screens, for twelve in total from today's six. The mounting starts to get pricey at that point, though, costing as much as or more than the monitors themselves.
 

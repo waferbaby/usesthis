@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Naomi Wu](https://twitter.com/realsexycyborg "Naomi's Twitter account."). I'm a maker, DIY and hardware enthusiast vlogging from Shenzhen, China.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 3D Printer: [Flashforge Creator Pro][creator-pro] upgraded with a [Flexion extruder][dual-flexion] and PEI build surface.
 
@@ -26,12 +26,12 @@ Cameras: Long-term loans or, like my computers, whatever's available used and in
 
 My living room is my office and workshop, so I have a rolling workstation I can move out of the way to make more room.
 
-#### And what software?
+### And what software?
 
 [GIMP][], [Inkscape][], [LibreOffice][], [Tinkercad][], [OpenSCAD][], [Fusion 360][fusion-360], [Simplify3D][]. I go back and forth between [OS X][mac-os-x], Windows and [Linux Mint][linux-mint], with my preference being Mint. 
 
 The [Grammarly][] plug-in has been an amazing help with all my online communication - English is my second language and I've never lived in an English speaking country, so it's challenging.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Something like a loft space? A laser cutter, small CNC machine, 3D printers, sewing machine. I'll sleep on a cot, I don't care! I'd love to have an [Airbnb][] for makers and hardware developers coming to visit Shenzhen, a place with all the tools and equipment they need, on-site translation and ordering assistance to help them get anything they came here for. I'd use this to support classes teaching local women coding and fabrication skills.

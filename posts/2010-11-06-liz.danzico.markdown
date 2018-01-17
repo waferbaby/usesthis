@@ -11,11 +11,11 @@ credits:
   url: http://farukat.es/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Liz Danzico. I'm a Brooklyn-based designer, educator, and editor. I'm chair of an [interaction design program](http://interactiondesign.sva.edu/ "The Interaction Design program at SVA.") in New York after co-founding it last year. I [consult](http://dis.bobulate.com/work/ "Liz's consulting work.") with companies of all kinds, specifically on intentional organization. I [write](http://bobulate.com/ "Liz's weblog.") and edit, and have been involved in a number of information architecture endeavors over the course of a decade.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In order of frequency:
 
@@ -27,7 +27,7 @@ All other times, a [MacBook Air][macbook-air] 1.6 GHz Intel Core 2 Duo, which I 
 
 I also couldn't live without: my trusted [Nikon D40][d40] (although have been borrowing a [Leica C-LUX 2][c-lux-2] for the better part of 2010 and looking for an upgrade), MD notebooks from Midori Paper, minimizing the amount of unnecessary paper in my life with [NeatReceipts][], and my [Apple TV][apple-tv] at home, which gets most use for watching TED Talks, YouTube clips, and streaming iTunes from my still handsome and strong white [iMac][] 2.16 GHz Intel Core-2 Duo via AirTunes. And a family tradition: My father has always given me old hardware to see if I can bring it back to life. This summer's latest: a [Zenith Trans-oceanic Multiband AM/FM Shortwave Radio][d7000y]. I don't have it working. Yet.
 
-#### And what software?
+### And what software?
 
 In order of use throughout the day:
 
@@ -45,6 +45,6 @@ For reading and remembering, [Instapaper Pro][instapaper-ios] and [SimpleNote][s
 
 For managing new music, I aggregate all the music blogs I read with [Peel][], then use a number of Smart Playlists in [iTunes][] to tell me which album I should purchase based on skip rate and play frequency. I have it down to a science - or at least one that works for me.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dream about having an iPhone and now an iPad with a built-in pico projector. The iPad has mitigated part of what I'm looking for, whereby we can be more social with our screens, passing them around, sharing a browser, a moment. But that's good for only as many people can crowd around its periphery. When can we throw that image on the wall? Talk about what's on the screen writ large? Argue about it there? That's the stuff of dreams. Until then, I'll keep on typing in TextEdit.

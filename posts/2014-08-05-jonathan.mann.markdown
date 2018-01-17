@@ -6,11 +6,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Jonathan Mann! I write songs. I've been writing a [song a day](http://www.youtube.com/user/therockcookiebottom "Jonathan's YouTube channel.") and posting them to the internet for over 2,000 days. Prior to this I had an online alter-ego called [GameJew](http://whereisgamejew.tumblr.com/ "The GameJew website."). Prior to that I created the [Mario Opera](https://www.youtube.com/watch?v=oozLnk1BZ5g "A video of Jonathan's Mario Opera."). I make my living making [custom songs on the spot for conferences, companies and fun](http://songsincorporated.com/ "Jonathan's music company.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 *[RANT] Because I make a new song everyday, I often get emails from people asking me for advice about being more creatively productive. A lot of times these emails are asking me what kind of gear I use. I tell them to just figure out what they want to do, find the absolute cheapest way to do it and just start - don't get fixated on having the exact right thing.  The reason I do this is because a preoccupation with gear can lead to people stifling their creativity - they use the fact that they don't have X or Y as an excuse for why they're not making what they want to make. So find what you absolutely NEED and just start! OK! Let's talk stuff! [/RANT]*
 
@@ -50,7 +50,7 @@ I have a table that I bought at Home Depot and it's standing on an AC unit and a
 
 I have a bunch of softbox lights and a green screen that I use for shooting [cheesy video stuff](https://www.youtube.com/watch?v=ytX9gKMsg-s "Jonathan's song about the digital prophet.").
 
-#### And what software?
+### And what software?
 
 I learned recording on [Digital Performer][digital-performer] (back in 2001), honed my skills on [Pro Tools][pro-tools], but for the first year or so of Song A Day, I used a combination of [GarageBand][] for recording and [Reason][] for backing tracks. I LOVE Reason. It's a fantastic program that I can't recommend highly enough. When they added audio recording to the mix, I switched to using it full time. That was my setup for about 4 years. 
 
@@ -66,7 +66,7 @@ I upload all my songs to [Bandcamp][]. When Bandcamp came out in 2009, I was so 
 
 I also just started using [Distrokid][], which I found through the recommendation of [Andy Baio](http://waxy.org/ "Andy's website."). Distrokid lets you publish your music on [iTunes][], [Amazon][amazon-cloud-player], [Google Play][google-play], [Spotify][], etc. It's cheap, simple, fast and awesome.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 One thing I'd really love is floating instruments. I want just a cloud of instruments around me while I'm working. I want to be able to just reach out into the air and grab the thing I need at any given moment. That's my fantasy.
 

@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Max](http://maxistentialism.com/ "Max's website."). I'm a designer from Chicago. I work for political campaigns and non-profits. I also make [Humans vs. Zombies](http://humansvszombies.org/ "A social game played in real life.") and [Cards Against Humanity](http://www.cardsagainsthumanity.com/ "A card game for horrible people.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm not sure if it's been noted on this website before, but Apple makes a good computer. I work on a new 15" MacBook Pro, which is a recent upgrade from the 2009 unibody MBP following a [chai tea incident](http://maxistentialist.tumblr.com/post/11092248162/this-morning-somebody-spilled-their-drink-on-my "Max's post about spilling tea on his laptop."). I have the high-res display and an extra 4GB of aftermarket RAM to reduce the amount of time I spend looking at Adobe launch screens.
 
@@ -35,7 +35,7 @@ My favorite computer accessory is State Farm™ laptop insurance. It costs $30/y
 
 One more hardware thing: Expo makes these [neon dry erase markers][neon] that write on my windows and the ceramic tiles in my shower, which is my favorite place to think and doodle wireframes because everything is completely disposable. In my current apartment, a [960px grid layout][960-grid-system] is 12 shower-tiles wide, plus the grout, which equates to almost exactly 5px of margin per shower-tile.
 
-#### And what software?
+### And what software?
 
 OSX: [Photoshop][], [Illustrator][], [InDesign][]. [Transmit][] and [Coda][]. [Chrome][]. [VLC][]. [FCP 7][final-cut-pro]. [FuzzyClock][], because knowing what time it is makes me anxious. [Flux][f.lux]. [Balsamiq][mockups]. [CloudApp][]. [MAMP][] and [TextMate][] for [WordPress][] development.
 
@@ -47,6 +47,6 @@ I really like the [Electric Sheep screen saver][electric-sheep], which is a dist
 
 My favorite website is [Tumblr][]. I think the constraints of the platform make it the best place to read and write on the internet.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Some days I think my dream setup would be a fully-upgraded [Mac Pro][mac-pro] that costs more than my car. I imagine myself riding it out of an airplane like Slim Pickens in Dr. Strangelove, 30" monitors flapping wildly behind me in the wind. But then I remember that my constraints come from within, and also I'll never be able to afford the airplane part anyway, so fuck it.

@@ -8,11 +8,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Lily Nishita](http://lilynishita.com "Lily's website."), a graphic designer/illustrator living and working in Los Angeles. I work at [Naughty Dog](http://www.naughtydog.com/ "A video game company.") during the day, doing everything from product design to in-game assets. My after hours are spent on a mix of [freelance](http://lilynishita.com/#/idle-weekend/ "An example of Lily's freelance art.") and [personal illustration](http://lilynishita.com/#/personal-illustration/ "Examples of Lily's illustrations."). I'm also getting really into drawing tiny comics, and I'm hoping to do a longer one soon!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For my home setup I'm on a 2012 [MacBook Pro][macbook-pro], and I use a [Cintiq 22HD tablet][cintiq] to do a lot of my drawing on, and use it instead of a mouse for convenience. I also have a [Razer Nostromo][nostromo] gaming keypad with a few different sets of keyboard shortcuts mapped to it for whatever I happen to be working on. It doesn't replace the main keyboard, but the keypad speeds up my workflow immensely and saves me from bouncing all over a keyboard. I also have a [Logitech G502 gaming mouse][g502] for 3D that I love the feel of, since it's pretty hefty but still fits my hand. It's unfortunate I like it so much, since the software doesn't work on Macs so I can't turn off the flashing rainbow lights!
 
@@ -20,7 +20,7 @@ I also keep a few sketchbooks stashed around and an assortment of pens for quick
 
 I also have a pair of slippers to wear while I work at home (and an extra pair for the office) because I get distracted if my feet are touching the cold floor. Having my dog close by is great too - he's a perfect reminder to take little breaks :)
 
-#### And what software?
+### And what software?
 
 I primarily use [Photoshop][], [Illustrator][] and occasionally [InDesign][] in that order for everything. For illustration I use a lot of Photoshop brushes collected from friends and blogs, as well as Kyle Webster's stellar brush packs. For design work I usually start sketching in Photoshop then move on to Illustratorm since I don't keep a scanner around.
 
@@ -28,6 +28,6 @@ When starting a new project I make [Pinterest][] boards for inspiration and brai
 
 I've also been experimenting with [MODO][] for 3D to incorporate into my work, but I've only scratched the surface, so hopefully I'll be able to do more in the future.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm really looking forward to getting a faster home computer - this one has served me well but is nearly 4 years old!

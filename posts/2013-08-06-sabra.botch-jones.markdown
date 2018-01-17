@@ -8,17 +8,17 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Sabra R. Botch-Jones, a rogue forensic toxicologist, researcher/writer and owner of [fTox Consulting](http://ftoxconsulting.com/ "Sabra's website."). I provide consulting services for issues related to forensic toxicology including scientific writing, data analysis, quality control and legal case reviews. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When it comes to consulting and writing my lifeline to the world is my [MacBook Air][macbook-air], iPad and iPhone. The ability to have all my devices synced and access documents with ease is essential for my work. I use Apple's [Magic Mouse][magic-mouse] with my MacBook, I love how it works on a variety of surfaces. As a mom of a 7 month old, I find myself working in the oddest places. A [QNAP TS-212-US][ts-212] NAS server with two 1.5 TB Seagate Barracuda 7200 hard drives houses some of my data and eventually it will house more, but I utilize [Dropbox][] for the bulk of my data. 
 
 As a forensic toxicologist it's all about the hardware. I could write pages about the instrumentation that we use. To begin testing a biological sample for the presence of alcohol and other drugs we conduct a preliminary screen on a relatively sensitive, yet not always specific instrument. This includes running prepared biological samples, primarily blood and urine but also tissue samples, on a number of types of instrumentation. The samples are run on a Thermo Scientific [ITQ Series Gas Chromatograph Ion Trap Mass Spectrometer][gc-ion-trap-ms] for basic and neutral compounds. For acidic compounds, samples are run on a [PerkinElmer Flexar Ultra High Performance Liquid Chromatograph][flexar-uhplc] (UHPLC) with an ultraviolet (UV)/Visible Spectrophotometer detector. Enzyme Linked Immunosorbent Assay ([ELISA](http://www.immunalysis.com/elisa "Details on the ELISA screening technique.")) is also conducted. ELISA is operated by the [Tecan EVO 75/2][freedom-evo-75] Workstation. Alcohol analysis is conducted on a PerkinElmer [TurboMatrix Head Space-Clarus GC][turbomatrix-hs-clarus-gc]. Quantitation and confirmation is conducted on either a Thermo Scientific TSQ [Quantum Access MAX Triple Stage Quadrupole Mass Spectrometer][quantum-access-max-triple-stage-quadrupole-mass-spectrometer] or an AB SCIEX [4000 QTRAP LC/MS/MS System][4000-qtrap-system] with a Shimadzu UPLC. Windows-based computers are used to run these instruments, but type is not important other than plenty of space to house the data. 
 
-#### And what software?
+### And what software?
 
 The fTox Consulting website and [blog](http://ftoxconsulting.com/?page_id=14 "Sabra's weblog.") were created by my husband Bryan W. Jones using [WordPress][]. In addition, web developer Jody Goodwin was consulted for some of the graphics and CSS optimization in the existing website. 
 
@@ -28,8 +28,8 @@ Consulting requires that I seamlessly share data. I am trying to embrace all of 
 
 Professionally I use [LinkedIn][] to keep connected to colleagues and take advantage of their groups function for specific areas of interest. I am beginning to use [Twitter][] ([@sabraruvera](https://twitter.com/SabraRuvera "Sabra's Twitter account.")) as my resistance to using it is waning. [GoToMeeting][] pops up in my life on a regular basis now, as I consult and interact with people all over the globe.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
-The dream: a massive room with floor to ceiling bookshelves housing every book I have ever wanted to own, including those stupidly expensive textbooks that are great resources. I would have multiple large monitors for my computer and unlimited processing power with amazing internet speed (Google Fiber, I’m looking at you!). 
+The dream: a massive room with floor to ceiling bookshelves housing every book I have ever wanted to own, including those stupidly expensive textbooks that are great resources. I would have multiple large monitors for my computer and unlimited processing power with amazing internet speed (Google Fiber, I'm looking at you!). 
 
 I am not a very "techie" person other than talking about instrumentation, but I constantly run out of storage on my devices. For my website and blog, I would have Jody design my website from scratch for more personalization and options. My own private island (with a fully functional analytical chemistry lab) would be nice too.

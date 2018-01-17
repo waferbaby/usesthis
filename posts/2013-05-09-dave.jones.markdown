@@ -6,7 +6,7 @@ categories:
 - engineer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Dave Jones, and I'm a full time video blogger at the [EEVblog](http://www.eevblog.com/ "The EEVblog."). I live in Sydney, Australia, and record my shows in a purpose designed
 lab (nerd cave!) a few minutes from home.
@@ -16,7 +16,7 @@ I make a living making niche Electronics Engineering [YouTube][] videos for othe
 I also host a weekly engineering internet podcast radio show called
 [The Amp Hour](http://www.theamphour.com/ "Dave and Chris' podcast."). My co-host Chris Gammell is based in Cleveland, Ohio.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A [Canon HF G10 video camera][vixia-hf-g10] is my main blogging camera, with a mix of microphone solutions. One of the biggest things I have learned about video blogging is that audio can be more important than video. People will watch crap video quality with good audio, but they won't want to watch top quality video with crap audio. I have fallen back to using the internal mic in the HF G10 a lot now for close-up, behind the camera commentary. Usually internal mics in cameras are crap, but this Canon has done the audio right - the mics are first class.
 
@@ -38,7 +38,7 @@ All of my video is shot in-sequence, even if I move the tripod 20 times, and att
 
 I use a [Samson C01U USB mic][c01u] for computer capture work, and also my radio show. With a pop filter of course. I have the same mic at home and the office so I can desktop record at both locations and have the same sound. I have [home-made acoustic absorption panels](http://www.youtube.com/watch?v=JQLDIrS8deU "Dave's YouTube video about DIY acoustic sound panels.") in my home recording studio to stop reflections.
 
-#### And what software?
+### And what software?
 
 Almost all my editing is done in Sony [Movie Studio Pro 12][vegas-pro]. It's cheap consumer-level editing software, but I don't do anything fancy. If you are doing fancy editing, then I think you are probably doing video blogging wrong! My workflow consists of taking the AVCHD files directly from the camera and dragging them onto my editing timeline. I then trim the dead space at the start and end of each video clip, and remove the occasional goofed clip. I might tweak the audio level of the odd clip, and occasionally add some text overlay explanations, but that's pretty much it for editing. Like I said, about as basic an editing requirement as you can get, and that's how I like it. And because I go to the trouble of shooting almost everything in sequence if possible, I don't have to spend hours figuring out which video clip goes in what order, I just drag all the clip to the timeline and the job is done in a few seconds. When some of my videos are over an hour long, with up to 200 clips, that's a HUGE deal!
 
@@ -52,7 +52,7 @@ For computer tutorials I screen capture using [Camtasia][]. It's got a file comp
 
 For the podcast radio show we use [Audacity][], a free open source audio program. We used to use [Skype][] for real-time chatting during the show, but the quality just wasn't there. We now use [Mumble][] instead and the sound quality is a huge improvement over Skype or [Google Talk][google-talk]. We rent a small server for this for a few bucks a month, and it allows guests to join the show and we can record their audio directly from Mumble in great quality. This frees the host from having to know how to record locally. We record our own audio locally using Audacity, and just use Mumble as the communications medium. Each recording is put through [The Levelator][the-levelator], which automagically fixes all our audio issues. This is done before the two or three audio clips are merged in Audacity.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A tribe of intelligent thought-reading monkeys to do everything for me!
 

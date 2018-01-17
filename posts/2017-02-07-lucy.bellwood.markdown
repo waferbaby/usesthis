@@ -7,13 +7,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Oh hello! I'm [Lucy Bellwood](https://lucybellwood.com/ "Lucy's website."), a professional Adventure Cartoonist based in Portland, Oregon. I worked as a deckhand aboard traditionally-rigged tall ships before transitioning to a life of words and pictures back in 2010. My first book, [*Baggywrinkles: a Lubber's Guide to Life at Sea*](https://lucybellwood.com/baggywrinkles/ "Lucy's autobiographical maritime comic book."), captures my experience working aboard a tall ship in the 21st century, along with a bundle of interesting nautical factoids.
 
 For shorter minicomics projects I travel and explore in order to bring back stories about life at sea, the natural world, and other new experiences. I've [rafted the Grand Canyon](https://medium.com/@lubellwoo/rim-to-river-221a4f8fe396#.v3pjd8ecs "Lucy's comic about rafting the Grand Canyon.") (and illustrated during the voyage) [twice](https://medium.com/@lubellwoo/grand-adventure-9f61be0b4d0b "Lucy's other comic about rafting the Grand Canyon."), explored [the feminist undertones of social dance](https://thenib.com/dance-yourself-clean-64e8a1d416fc "Lucy's comic about dancing and femininity."), been to sea on [the last wooden whaling ship in the world](https://medium.com/the-nib/down-to-the-seas-again-fa01117b922e#.o3muf4rk6 "Lucy's comic about riding the Charles W. Morgan."), tried out a [sensory deprivation tank](https://medium.com/the-nib/flip-the-switch-2801d727a6d2 "Lucy's comic about trying out a sensory deprivation tank."), and [a host of other things](https://lucybellwood.com/comics/ "A list of Lucy's comics.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I really love working with physical media, so for travel assignments I carry a modular, home-made watercolor sketchbook made according to Lucy Knisley's sketchbook recipe. (She's got a fantastic video about autobio travelogue comics that includes a section on how to make your own [here](https://vimeo.com/30249514 "Lucy Knisley's Vimeo video showing you how to make your own autobio travelogue.")!) It's 6x9 and pretty sturdy---five vigorous, multi-week outdoor trips and counting!
 
@@ -35,13 +35,13 @@ I keep organized with a Lechturm 1917 dotted notebook and the Bullet Journal met
 
 Also Post-It notes. Lots and lots of Post-It notes.
 
-#### And what software?
+### And what software?
 
 Since I self-publish a lot of my work, I need to be set up for the entire production pipeline. I use [Manga Studio 5 EX][manga-studio-ex] (now known as Clip Studio Paint Pro, I believe) for drawing digitally, but I do still cart around a copy of [Photoshop CS5][photoshop] for additional editing work. Manga Studio is just miles better for drawing comics and getting a natural-feeling inking experience with the Cintiq, which is huge for me. I use [InDesign CS5][indesign] for assembling comics, print design, and production work.
 
 I swear by Google's [Inbox by Gmail][google-inbox], and I really enjoy [Workflowy][] for brainstorming, list-making, and brain-dumping. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Hoo boy this is hard. Uh.
 

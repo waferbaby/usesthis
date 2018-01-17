@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi there, I'm [Steve](http://steveklabnik.com/ "Steve's website."). \*waves\*
 
@@ -19,7 +19,7 @@ I, like most people, am in a constant state of change. This particular snapshot 
 * Travel. I got my passport in 2010, and put a single stamp in it. In 2011, I got 4 more. At this point, I will need more pages shortly after the new year.
 * Waiting patiently for the fall of capitalism. If I could help accelerate this I would. Getting kinda impatient over here.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Right now I use an [X1 Carbon][thinkpad-x1-carbon] for all of my computing. It's whatever its max specs are. Once there is 100% free hardware that's full-sized, I'll buy it. The Carbon is pretty damn close.
 
@@ -29,7 +29,7 @@ Until this year, I did not have a cell phone. I have an [iPhone 5][iphone-5] now
 
 When I just want to mindlessly consume, I use a full-sized iPad. It's pretty okay for reading the web, great at PDFs, and has fun games.
 
-#### And what software?
+### And what software?
 
 I currently run [#!][crunchbang] (pronounced kɹʌntʃbæŋ(ɡ)) Linux. I like it. I use [Arch Linux][arch-linux] most of the time, but I gave #! a go this time so I wouldn't have to fiddle.
 
@@ -63,7 +63,7 @@ In general, I don't tweak my configuration files.
 
 Yup.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A computer that actually worked, and worked correctly most of the time. I've been searching for quite a while, such a thing seems not to actually exist. I have a sneaking suspicion software is fundamentally, irreparably broken. But a man can dream...
 

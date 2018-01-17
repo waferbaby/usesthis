@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Eric Mill](https://konklone.com/ "Eric's website."). Basically I make things on the Internet for work and for fun.
 
@@ -16,7 +16,7 @@ On the work side: for most of the last 5 or so years, I worked at the [Sunlight 
 
 And on the personal side: I put maybe an [irrational amount of energy](https://konklone.com/post/isitchristmas-dot-com-2013-more-and-better "Eric's post about his isitchristmas.com site.") into making [isitchristmas.com](https://isitchristmas.com/ "A site that tells you if it's Christmas or not.") a neat place once a year. I've tried to help out the post-Snowden Internet a bit by evangelizing [personal ownership](https://konklone.com/post/take-control-of-your-email-address "Eric's post about taking control of your email address.") and a web where encryption is so [omnipresent](https://konklone.com/post/github-pages-now-supports-https-so-use-it "Eric's post about GitHub Pages adding support for HTTPS.") and [simple](https://konklone.com/post/switch-to-https-now-for-free "Eric's post about switching to HTTPS for free.") that it's just baked into the background. I [follow](https://konklone.com/post/following-the-fisa-court-new-website-new-data "Eric's post about following the FISA Court.") the work of the [Foreign Intelligence Surveillance Court](https://twitter.com/fisacourt "Eric's FISA Court Twitter account.") closely, and try to elevate the work of the US government's [oversight community](https://oversight.io/ "Eric's service for tracking Inspector General reports.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For the last couple years, I've used a [Thinkpad W520][thinkpad-w520] laptop as my main companion. I get routinely mocked for how much of a tank this thing is. It is the farthest cry from a [MacBook Air][macbook-air]. I comfort myself with its 32GB of RAM, and the ability to run a hojillion things at once with impunity. 
 
@@ -28,7 +28,7 @@ After years of almost exclusively shared hosting, I now host most of my work on 
 
 But it's not the best situation, since Amazon is such a central point of failure and compromise now. I think there's a lot of lunch to be eaten from Amazon by competitors who offer a simple, secure experience and project a competitive, underdog image (and I've been messing with [DigitalOcean][], who I think is demonstrating this).
 
-#### And what software?
+### And what software?
 
 I'm an all-[Ubuntu][] kind of guy, at work and at home. I've been using Ubuntu all day every day since 2007, and I'm still in its corner.
 
@@ -42,7 +42,7 @@ My Thinkpad does keep a Windows partition around for the occasional Win- or Mac-
 
 For a text editor, I use [Sublime Text 3][sublime-text], which is the only piece of software I've paid for on my laptop. I've never been able to stand [vim][], [emacs][], or anything that forces me into the terminal for open-ended, creative pursuits like actual coding. (Before Sublime, I used to use [Kate][].) All I really need to get things done is a fast graphical tabbed editor, syntax highlighting, and find+replace with regular expression support.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm not a subscriber to the idea that tablets are replacing laptops. People still need to make things and get work done. 
 

@@ -7,13 +7,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Jewel Loree](http://www.jewelloree.com/about/ "Jewel's about page.") and I'm a Senior Data Analyst for Tableau Software. I work specifically with [Tableau Public][public], our free tool for journalists, hobbyists, and anyone with data to share to use to create interactive data visualizations on the web. My job is a mix of community engagement, public speaking, and [creating data visualizations](https://public.tableau.com/profile/jewel.loree#!/ "Jewel's visualisations in Tableau Public.") that people hopefully want to look at.
 
 In addition to that, I play bass for the band [Golden Idols](http://www.goldenidols.net/ "Jewel's band's website."). We play spooky psychedelic leaning surf rock and recently released a [self-titled EP](https://itunes.apple.com/us/album/golden-idols-ep/id1015699420 "The self-titled EP by Golden Idols, on iTunes."). I've been with them for about a year and a half now.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For data analysis: I have a really old, crappy Dell laptop. It's so slow that hashtags have formed at conferences I've spoken at about my need for a new computer. It's not good. But it sits on top of a really sweet motorized adjustable standing desk, and that's awesome.
 
@@ -25,13 +25,13 @@ For life: I don't think it would be too far off to hypothesize that I spend the 
 
 For both music and data viz purposes, I carry a little notebook around me in case of sudden inspiration of lyrics or data ideas. I use Leuchtturm 1917 softcover pocket notebooks and [Kikkerland Retro pens][retro-pen]. Leuchtturm also makes these sweet little adhesive pen loops to stick in your notebook, so I do that to keep the whole system together.
 
-#### And what software?
+### And what software?
 
 For data viz: All of the data visualization work is done in Tableau. I use [import.io][] quite a bit for web scraping and putting together datasets, like the one I used in my popular [KEXP visualizations](http://www.jewelloree.com/2015/01/15/pop-viz-what-music-matters-most-to-kexp-revisited/ "Jewel's post about her KEXP visualisations."). I also use the combination of [IFTTT][] and Google Spreadsheets to put together datasets from Craigslist or in conjunction with [Last.fm][] to create visualizations on my own music listening. My data viz blog runs on [WordPress][], which is fine, but I recently [made an article](https://jewelloree.atavist.com/data-atsume "Jewel's article about Neko Atsume.") with [Atavist][]. I loved the user experience and I'm thinking about using it much more. For doing the graphics in a lot of my data visualizations, like headers and buttons and things, I use Canva.
 
 For the band: I'm in charge of a lot of the social media parts of the band, so I like to use IFTTT to make cross-posting easy. I also use Canva to design gig posters and little social media posts. The band uses [Facebook][] groups and a long [iMessage][] chain to communicate. We keep all the important info about contacts, finances, and that kind of thing on [Google Docs][google-docs].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 For data visualization: A [MacBook Pro][macbook-pro] and a giant retina display. Or at least something that'll allow me to run web scraping in the background while working in Tableau.  
 

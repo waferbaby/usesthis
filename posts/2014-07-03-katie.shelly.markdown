@@ -9,13 +9,13 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Katie Shelly](http://katieshelly.com/ "Katie's website.") and I'm a media designer. I work at [Cooper-Hewitt Labs](http://labs.cooperhewitt.org/ "The Cooper-Hewitt Labs site."), which is a sort of tech-nerdy R&D space in the [Cooper-Hewitt Museum](http://www.cooperhewitt.org/ "The Cooper-Hewitt Smithsonian museum site."). I produce [videos about design](https://www.youtube.com/user/cooperhewitt/ "The Cooper-Hewitt YouTube account."), graphics for web and print, and multimedia prototypes for interface and service design concepts. I also do lots of hands-on audience research (using video especially) to support all the public-facing content and experiences that we help create.
 
 In my spare time, I also do illustration and animation projects. One of my projects unexpectedly took off and turned into a book deal (thank you, enthusiastic peoples of the Internet). The book is called *[Picture Cook](http://www.amazon.com/gp/product/1612432344/ "Katie's book on Amazon.")* (Ulysses Press, 2013) and it's a book of recipes which are explained through drawings, not words.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My key piece of hardware is a [Wacom Intuos4 tablet][intuos]. I have two -- one at work, and one at home. I actually use the stylus for video editing (not sure how common this is) but I find it to be way more precise and comfortable than editing with a mouse. For illustration, photo retouching, and graphic design I also use the stylus. All the illustrations and lettering in *Picture Cook* were drawn with the Intuos4, all in [Photoshop][]. Alternating between the stylus and mouse also helps with preventing arm/wrist fatigue. I switch to the mouse when I'm emailing, moving files around in [Finder][], procrastinating, [Facebooking][facebook].. in other words, the mouse is for "normal" computer use, and the stylus is for actual work and heavy lifting.
 
@@ -29,10 +29,10 @@ The [Sony ECM 44b][ecm44b] lavalier mic is solid, we have two. We also use a [Ca
 
 At home, where I do mostly illustration, occasional video/photo editing, and a bit of animation, I have a [MacBook Pro][macbook-pro] 6,2 with 8GB of RAM. I also have a nice external [Samsung 2333SW][syncmaster-2333sw] propped up on a 6" wooden stand so it's at eye level. I have [AudioEngine2 speakers][a2-plus] on my desk and in my living room, using [AirFoil][] with [Airport Express][airport-express] to sync them up. I also am very particular about desk chairs, and I splurged on a [Varier balans chair][balans] for my home setup. This chair is excellent. It really lets you maintain a straight back without straining, and you can cycle through a number of different seated postures as you work, and you can rock, which helps you get your wiggles out while you work.
 
-#### And what software?
+### And what software?
 
 I just can't let go of [FCP 7][final-cut-pro].. [FCP X][final-cut-pro] has changed too drastically for me to make a smooth transition, and [Premiere][] is OK but I'm just not as habitual/fast working in that app. I wish Apple had gradually worked changes into the FCP software over a series of updates, so that the user base could learn new habits incrementally, instead of completely overhauling it in a day, alienating us editors. I pop into [After Effects][after-effects] for more precise motion/animation needs that come up. I am a big Photoshop user. I use [InDesign][] for book layout. I could never get into [Illustrator][], it feels too limiting and rigid compared to Photoshop. [Chrome][] is my browser of choice. [Dropbox][] for Business is invaluable for sending big files round the world. I use [Sleepytime][] to play music for an hour before sleeping my computer when it's time for zzz's. [iPhone 5s][iphone-5s] is my smartphone of choice -- top apps are [Mind][mind-ios], [Spotify][spotify-ios], [Instagram][instagram-ios], [Foursquare][foursquare-ios], [Snapchat][snapchat-ios], [P.Tracker][period-tracker-deluxe-ios], [Yelp][yelp-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love a more kick-ass video camera, the XF105 is OK but sometimes the footage looks grainy or dullish in less than perfect light conditions. I'm also eyeing the new Mac Pro and wondering just how much faster it will be for video rendering and exporting and tasks like that. Other than that... I'd say I'm already livin' the dream!

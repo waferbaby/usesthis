@@ -9,19 +9,19 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Michael Colombo. I'm a writer, fabricator, and musician. I was a full-time blogger for MAKE Magazine, have done technical writing and documentation, and instructional design work. I also do construction, carpentry, home renovation, physical electronic interfaces, interactive art installations, and one-off musical instruments. I find myself performing music in unexpected situations, and doing some sound design work. I'm also an occasional visual artist and designer.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 [15" MacBook Pro][macbook-pro], Uniball pens, Leuchterm notebooks. Makita circular saw, Milwaukee drills and drivers, Bosch jigsaw, Weller soldering station, ['64 Gibson EB-O bass][eb-0] (think Jack Bruce from Cream), Bach Omega Bb trumpet, [Roland VS-1680 digital recorder][vs-1680], [Epiphone PR5-E acoustic guitar][pr5-e] (the same one Courtney Love plays on Hole Unplugged).
 
-#### And what software?
+### And what software?
 
 [Arduino][arduino-ide], [Google Docs][google-docs], [Audacity][], [Long Exposure Camera][long-exposure-camera-android] (seriously the best weirdo low-rent app I've ever used), [GIMP][], [Switch][], [Handbrake][], [Serato][serato-dj], [Storyline][storyline-360], [SketchUp][], [Logic Pro][logic-pro] and [Final Cut Pro][final-cut-pro].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm content with my writing setup already, but I'd like a full workshop for woodworking, plus a TIG welding station, CNC, laser cutter, 3D printer, lathes, and an electronics lab with oscilloscope, bench power supply, and every component imaginable on hand.
 

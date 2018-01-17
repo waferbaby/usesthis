@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Thomas Fuchs](http://mir.aculo.us/ "Thomas' website."). I'm the author of the [script.aculo.us][script.aculo.us] user interface [JavaScript][] library, a member of the [Prototype.js][prototype] core team and a [Ruby on Rails][rails] core alumnus.
 
 With my wife [Amy Hoy](http://amy.hoy.usesthis.com/ "Amy's Setup interview.") I develop and run web applications like [Freckle Time Tracking][freckle], teach JavaScript and sometimes consult for big companies you all know but that I can't name.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm on a late-model maxed out 15" [MacBook Pro][macbook-pro]. Because I sit in front of the computer basically all day long, there no justification in not getting the top-of-the-line model. Get all the gizmos and go for the Core i7, 8 GB of memory, 512 GB SSD drive model, and the hi-res display.
 
@@ -29,7 +29,7 @@ For late-night sessions of Diablo II (yes, that game runs just fine on OS X 10.6
 
 In case of disagreements in the office I keep my [USB rocket launcher](http://www.thinkgeek.com/interests/techies/8a0f/ "A USB-controlled foam rocket launcher.") handy.
 
-#### And what software?
+### And what software?
 
 I'm a Mac user since OS X 10.2, and have never looked back to Windows and Linux. For programming my main editor is [MacVIM][], though I keep [TextMate][] handy because it's easier for me to browse nested folders of code there.
 
@@ -43,7 +43,7 @@ For my virtualization needs (I need to test on IE6, IE7, IE8 and FF/Chrome on Li
 
 We use web applications extensively for collaboration ([Campfire][]) and server monitoring ([ServerDensity][server-density], [Pingdom][], [Clicky][]), and for email support we're working on our own support software, charmingly named Charm.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Amy has a MacBook Air and I love it. Once they make it work with some more RAM and have faster processors that allow me to painlessly run virtual machines I'll probably make the switch. Otherwise, I pretty much have my dream setup in place.
 

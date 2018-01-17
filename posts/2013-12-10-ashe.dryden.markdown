@@ -8,7 +8,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, I'm [Ashe Dryden](http://ashedryden.com "Ashe's website.") and [@ashedryden](https://twitter.com/ashedryden "Ashe's Twitter account.") pretty much anywhere that counts. I've been a programmer for 13 years and sometimes-organizer of conferences and other OSS related events. I spend most of my time in the [Ruby][] community right now, but am tentacle-ing my way into [Python][] and [Clojure][], too. 
 
@@ -16,7 +16,7 @@ I'm perhaps most well known for my work [writing](https://leanpub.com/the-divers
 
 I'm moderately obsessive about burritos, bubble tea, science fiction, board games, and cats.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My current machine is last summer's [13" MacBook Air][macbook-air], maxed out. During the 4ish months of the year when I'm at home, it's plugged into a [Thunderbolt display][thunderbolt-display]. I control it from a 10 year old [Logitech Trackman][trackman-marble], of which I own three because it's the best mouse of all time and I'm terrified of it not being able to replace it. I'm never without my [Urban Ears Medis headphones][medis]; they're not for audiophiles, but they get the job done without falling out of my super tiny ears, which is more than I can say about every other set of in-ears I've found.
 
@@ -28,7 +28,7 @@ Year round my only personal transport is a [Surly Cross-Check][cross-check] for 
 
 A [Fitbit Flex][flex] is my required piece of wearable tech.
 
-#### And what software?
+### And what software?
 
 I run [OS X][mac-os-x] Mavericks and have found it agreeable so far.
 
@@ -52,7 +52,7 @@ I give all of my talks from [Keynote][]. I practice my Spanish with [Duolingo][d
 
 I use iOS's accessibility shortcut to toggle to inverted mode to read at night and to avoid migraines.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 An LTE Retina 11" MacBook Air with a detachable touch screen that resists fingerprints, because I want to carry only one device for everything. Small in-ear Bluetooth noise canceling headphones that keep me up to date on reminders. It goes without saying that all of this is wireless, including power.
 

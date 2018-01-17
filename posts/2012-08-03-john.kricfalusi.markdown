@@ -6,19 +6,19 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
-I’m John Kricfalusi. I make [cartoons](http://johnkricfalusidemo.blogspot.com/ "John's Demo Reel site.") and sometimes I make [toys](http://johnkstuff.blogspot.com/2008/10/help-fix-economy.html "John's vinyl toys."). I use to love it when cartoons were allowed to have the characters sell toys of themselves in their own cartoons.
+I'm John Kricfalusi. I make [cartoons](http://johnkricfalusidemo.blogspot.com/ "John's Demo Reel site.") and sometimes I make [toys](http://johnkstuff.blogspot.com/2008/10/help-fix-economy.html "John's vinyl toys."). I use to love it when cartoons were allowed to have the characters sell toys of themselves in their own cartoons.
  
 I am currently trying to combine these 2 things I love so much and do it for [the](http://johnkstuff.blogspot.com/2012/02/thing.html "A post about John's digital toys.") [web](http://johnkstuff.blogspot.com/2011/07/i-wish-i-had-it.html "Another post about John's digital toys."). I also am doing [a Kickstarter campaign](http://www.kickstarter.com/projects/1056985656/john-ks-cans-without-labels "John's Kickstarter project.") for a cartoon I really want to make starring the most patriotic guy on the planet, George Liquor, American.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I plan my cartoon stories starting with a short plot outline in [Microsoft Word's][word] "outline" view. (like this document). Then I "write" them in detail on storyboards by drawing them. I like to use the crappiest drawing media so as not to be too concerned with the finish look of the storyboards. I want to [draw the stories](http://johnkstuff.blogspot.com/2010/12/slabs-first-fist-all-in-one-ez-to-read.html "Some of John's storyboards.") as fast as possible so as to keep a feeling of spontaneity and life in them. I draw with standard Bic ball point pens on lined pads.
  
 My hardware and software knowledge is somewhat limited. I use typical stuff like Macs, [Photoshop][], [Illustrator][], [Final Cut][final-cut-pro] etc. I animate in [ToonBoom][toon-boom-studio], and draw on a [Cintiq][].
 
-#### And what software?
+### And what software?
 
 I curse the computer and my software all the time. I'm always complaining that whoever designs programs for creative people or artists doesn't really take into consideration how we work and think.
  
@@ -32,7 +32,7 @@ I time all my cartoons to musical tempos like the directors did for the classic 
  
 It would be like having a yardstick that is only marked in 16ths of an inch and you had to keep track of 576 increments. Timelines in animation programs are incredibly primitive.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Having a small studio with just a handful of top cartoonists and animators. I want to do all the animation with animators of my own choice - artists who are highly skilled and whose styles complement my own.
  

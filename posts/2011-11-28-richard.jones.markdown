@@ -12,11 +12,11 @@ credits:
   url: http://www.flickr.com/photos/jwheare/5768164371/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Richard Jones (RJ). In 2002 I founded Audioscrobbler, which ultimately became [Last.fm][last.fm], and was CTO at Last.fm until 2009. I'm currently working on [irccloud.com][irccloud] - a unified web-based irc client+bouncer that keeps you connected all the time. I occasionally write blog posts on [www.metabrew.com](http://www.metabrew.com/ "Richard's website.") about interesting things I've done with Erlang and what not. I live in London, England, and therefore enjoy ale served at room temperature.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main machine at home is an ageing Dell can't-remember-the-model-name, with dual quad-core CPUs, and 16GB RAM. I added a pair of Intel X25 SSDs to it last year, which it boots off. (Best upgrade ever!). I have two Dell 30 inch monitors hooked up to it, powered off an Nvidia Quadro FX 1700 graphics card. It runs [Ubuntu][], and judging by the depth of my /home/rj/oldhome/rj/oldhome/rj... directory tree, it's probably time for some spring cleaning.
 
@@ -28,7 +28,7 @@ I've had a few different laptops running Linux over the years, with varying leve
 
 At work I have a laptop stand made out of an old cardboard box, made by tracing/cutting around an existing cardboard laptop stand, and slotting it together. I pirated my laptop stand.
 
-#### And what software?
+### And what software?
 
 [Ubuntu][] on the desktop. I used [KDE][] since 2-point-something, until I made the mistake of upgrading to KDE4, then I switched to [Gnome][]. I tried Unity when it came out, and gave up after a few days. I will give it another try now that Ubuntu 11.10 is out.
 
@@ -42,7 +42,7 @@ I'm using the imaginatively named [KeyRemap4Macbook][] to remap the keyboard to 
 
 The main applications I use are [Chrome][] (with Flashblock), the Tweetdeck Chrome App, IRCCloud for IRC (in Chrome), [Gmail][] for mail (Chrome again), \[insert rant about Google apps-for-your-domain accounts being second class citizens\], and [Vim][]/[MacVim][]/gVim.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A waterproof 15 inch Macbook that weighs next to nothing, has infinite battery life, built-in 3G connectivity (free worldwide, naturally), and can fold up to the size of a credit card, to fit in my wallet.
 

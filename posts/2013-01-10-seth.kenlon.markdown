@@ -9,11 +9,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Seth Kenlon, aka Klaatu, and I'm a writer, multimedia artist, and geek. I do a tech podcast called [GNU World Order](http://gnuworldorder.info/ "The GNU World Order podcast.") and run a site called [Slackermedia](http://www.slackermedia.info/ "The Slackermedia website."), which helps artists create stuff on a non-commercial OS. I also get paid to do video and film work and support, so I do a lot with moving and still imagery.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've always liked tinkering with hardware, so I have an over-abundance of computers that I rescue from trash bins and repair.
 
@@ -27,7 +27,7 @@ My personal web server is a [Raspberry Pi][raspberry-pi], running Slackware Linu
 
 I'm one of those people who hasn't got a tablet or a phone. I do have an old 3rd-Gen [iPod][] that I found in a trash bin outside an Apple store; I had to replace the hard drive and battery, and I flashed it with [Rockbox][] firmware so that I could structure my files the way I prefer, and the darned thing works to this day.
 
-#### And what software?
+### And what software?
 
 I write a lot, almost always in XML, so I use [Emacs][] in nxml-mode. I use the [Docbook][] schema and process it with xmlto or xsltproc. I also use Emacs for screenplays, organizing tasks, web design, and coding.
 
@@ -39,6 +39,6 @@ For more complex compositing and effects, I rely upon [Blender][], which is ubiq
 
 For revision control when writing or coding, I of course use [git][]. What an amazing tool. I guess the other major software application that I use is [GNU Bash][bash]; that is, a unix shell. The learning curve is a little steep but once you know your way around, the power it grants you is just unbelievable.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want a laptop that could be ultra low-powered like the Raspberry Pi so I could use it all day long and never have to charge it, maybe even on solar power. Then, when I needed a monster computer for audio and video, I'd want to flip the switch to turn it to full power, and suddenly have the workstation of my dreams. Of course I'd also want the laptop to be modular so that I could upgrade components as I saw fit.

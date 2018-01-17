@@ -8,15 +8,15 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Graham Linehan](https://about.me/glinner "Graham's website."), I'm a writer and director. I'm known mainly for The IT Crowd, Father Ted and Black Books but I've also written Count Arthur Strong, The Walshes and an adaptation of the Ealing film The Ladykillers for the stage. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have an Alienware which has failed so often on me that I've given up on the idea of playing PC games. I'm thinking of going desktop Mac, as I have a [MacBook Air][macbook-air] which has never let me down. I want things that just work.
 
-#### And what software?
+### And what software?
 
 [Scrivener][]. I love working in it. It makes writing a pleasure. 
 
@@ -24,6 +24,6 @@ I have an Alienware which has failed so often on me that I've given up on the id
 
 I transfer a story to [WorkFlowy][] when I have it mostly worked out, drilling down into each beat so that I have a 'menu' of ideas to draw from when writing a first draft. The 'menu' concept comes from [this brilliant Michael Moorcock advice](http://www.wetasphalt.com/content/how-write-book-three-days-lessons-michael-moorcock "An article about Michael Moorcock and writing a book.").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A room where the walls, floor and ceiling were all whiteboard. Maybe not the ceiling.

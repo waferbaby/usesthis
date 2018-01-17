@@ -9,18 +9,18 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Terri Burns](http://tcburning.com/ "Terri's website.")! I'm a product manager at a big company, an apprentice at a small company, and an occasional writer. But really, I'm just a lady who likes to make stuff, talk to people, and peruse the internet.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have two MacBooks -- an [Air][macbook-air] and a [Pro][macbook-pro]. I don't think one's really better than the other. I also have a planner and a notebook. The planner is used to organize all the things I need to get done during the week. The notebook is used when my planner gets too messy and I need to rewrite my lists (this happens often), and when I need to sketch through something I'm thinking about. Oh, and my [iPhone 6S][iphone-6s]. Pretty much always on that these days.
 
-#### And what software?
+### And what software?
 
 I mostly use every product on the [G Suite][google-apps] a ton, except for [Google Plus][google-plus] and [Google Sites][google-sites]. I use [Twitter][]/[TweetDeck][], almost just as much. I [Snapchat][snapchat-ios] a lot, too. (Wow, I sound like such an obnoxious Millennial.) I also love [vim][] as my text editor, [Signal][signal-ios] to send encrypted messages, [Spotify][spotify-ios] for my music, and [Dark Sky][dark-sky-ios] so I can obsessively check the weather. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It'd be cool to have a 27-inch Retina display [iMac][], to use as a monitor. But other than that my dream is just to have enough space for a really, really large desk to hold my monitor, laptops, a stack of notebooks/books, and other miscellaneous stuff. I think it's an attainable dream!

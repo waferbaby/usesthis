@@ -7,13 +7,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Michael Sng](http://machinationstudio.com/ "Michael's toy studio."). I'm a toy designer and the creator of Codename Colossus, a fully 3D printed electronic and mechanical toy. It's a hand-painted walking tank toy that stands over 20".
 
 I spent 2 years learning 3D modelling, electronic circuits, programming microcontrollers and 3D printing to make my ultimate toy. All these were complete new to me - we did not have access to any of these technologies when we made the [STIKFAS toys](http://stikfas.com/ "A brand of stick figure toys.") 14 years ago.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main work machine is a DIY PC featuring an i7 2700K processor, an ASUS Z68 Maximus IV motherboard, 8GB of G.Skill RAM, and two [AMD Radeon 7850s][radeon-hd-7800] in CrossFire. One is a Sapphire and the other is an MSI (don't ask). I've got it hooked up to two 23" 1080p monitors - one is an ASUS and the other an LG. This would have been a beast of a machine 5 years ago, but it still pretty much runs anything I throw at it (except for maybe the very latest games). Sandy Bridge is still kicking arse.
 
@@ -27,7 +27,7 @@ My everyday communication devices are a [Xiaomi Redmi 2 mobile phone][redmi-2]. 
 
 You can probably see a trend going on here. My devices were a beast when released 4-5 years ago, but are now several versions old - I even got some of them used. My logic is that if this piece of kit was the best 4 years ago, it's not going to be suddenly crappy in 2015. At any rate, since I'm starting out trying many of these processes, I'll hardly be pushing the gear to the limit. I do not need the absolute latest and best of any piece of gear to get my work done. So if anyone is starting out with something, you can pay 1/2 to 2/3 less by going used on tech that was top of the line a few years ago.
 
-#### And what software?
+### And what software?
 
 Because I work very closely with an engineering company, I have access to [SolidWorks][] as a 3D solid modelling software. It's a very expensive piece of professional software suite, without which I would have a hard time designing 435 3D printed pieces to fit together accurately.
 
@@ -37,7 +37,7 @@ I use [GoPro Studio][gopro-studio] to stitch my videos together - it's especiall
 
 [YouTube][], and my [WordPress][] website using the Avada theme, are where I show my work to the world.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Like I said, I do not feel the need to own the latest and greatest of anything, but when the market shifts enough to 4K video, I would probably have to replace my cameras with something with 4K capabilities like the [Panasonic GH4][lumix-dmc-gh4] or [GoPro HERO4 Black Edition][hero4-black], or their equivalent when that time comes.
 

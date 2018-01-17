@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [thrice](http://lczzz.me/ "thricedotted's website.") (short for "thricedotted", which is long for "ellipsis", which is a form of punctuation I was particularly fond of as a 14-year-old)! By day, I'm a PhD student in computer science with a focus on natural language processing; by night and other times of the day, I'm a very cool language hacker who likes to automatically cut and paste words together with algorithms and share those things with the internet. I'm best known for making [many, many Twitter bots](https://twitter.com/thricedotted/lists/thricedotted-bottes "thricedotted's Twitter bots."). I also wrote a program that wrote a novel called [The Seeker](https://github.com/thricedotted/theseeker/ "thricedotted's 2014 NaNoGenMo entry, on GitHub.") for NaNoGenMo 2014, which some people seemed to like. I also like cats a lot, and I like my cat Haku the best of all.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When I first arrived at grad school, I was issued a 14" [Asus Zenbook UX31][zenbook-ux31] that I have a bit of a love-hate relationship with. It's very light, and the screen is just the right size, and the battery lasts quite a long time -- but the wifi is unpredictably flaky, and the up/down arrow keys don't work, and every once in a while the screen will flash some nice glitch art based on whatever I was working on at the time and the laptop will turn itself off entirely. It's extremely rude, but I still always have its back in a fight regardless.
 
@@ -22,7 +22,7 @@ Last year I smashed my old phone while running to a bus that I did not even catc
 
 Though I don't "use" my cat per se (our relationship is, I hope, more symbiotic than parasitic... I think), he is important enough to the process of me getting anything done (or not done) to be worth mentioning. His name is Haku, he is about six years old, and I believe he's got a lot of Maine coon in him. I use my phone to take a lot of pictures of my cat!
 
-#### And what software?
+### And what software?
 
 About four years ago, I somehow had the free time to install [Arch Linux][arch-linux] on my laptop and spend way too much time customizing it to very nerdy extremes. The bad news is that creating it ate up a LOT of my time; the good news is that I've been using the same setup ever since, so maybe I can justify it after all.
 
@@ -34,7 +34,7 @@ When I'm coding bots and other projects, I would flail uselessly without the ama
 
 I have not yet attempted to install any software on Haku, though I can't say for sure that he has not done this to me.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Given that I've been using a flaky ultrabook for a few years now, my dream setup is pretty modest, I think! I'd like to stick with a more reliable ultrabook as my primary machine, but having a more powerful desktop machine that I could remote into at any time would be ideal. I don't terribly mind hooking my laptop up to my desk monitor/keyboard/mouse, but it would be nice to either (a) not have to do that or (b) have a more convenient docking solution that involves plugging in as few things as possible.
 

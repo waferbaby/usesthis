@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm an author, primarily of graphic novels and videogames, and occasionally books. I'm best known for the epic post-apocalyptic comic series [Wasteland](http://www.onipress.com/thebigwet/ "The Big Wet's site."), and the [Dead Space][dead-space] videogame and comics. I'm on Twitter [@antonyjohnston](https://twitter.com/#!/antonyjohnston "Antony's Twitter account."), and my website is the equally cunningly-titled [antonyjohnston.com](http://antonyjohnston.com/ "Antony's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've been a Machead since 1988, when my high school got a [Mac Plus][macintosh-plus], and I fell in love. Also, I used to be a graphic designer, and still design some of my own books. So the following won't surprise you.
 
@@ -35,7 +35,7 @@ I also make music, but that's an incredibly cheap, bare bones setup; a [Gibson E
 
 I could go on, frankly, but I don't think you want to know about my luggage bags (Red Oxx), razor (a Merkur), or DVR (Humax). If I have a general rule, it's that you should always buy the best you can afford -- because cheap crap will break, cause you stress, and ultimately cost you more when you have to keep replacing it. Don't skimp. Except on desks, apparently.
 
-#### And what software?
+### And what software?
 
 I'm going to restrict myself to software that I use for work purposes, here. It'll still bore the pants off you.
 
@@ -65,7 +65,7 @@ And finally, [iTunes][]. I know, I know, everyone hates it. I don't like the blo
 
 This is too long already, so I'm simply going to list the iOS stuff I like: [Reeder][reeder-ios], [Wikipanion][wikipanion-ios], [Cloudreaders][cloudreaders-ios], [GoodReader][goodreader-ios], [Due][due-ios], [Simplenote][simplenote-ios], [TripIt][tripit-ios], [Writing Kit][writing-kit-ios], [iA Writer][ia-writer-ios], [imo][imo-ios], [Skype][skype-ios]. Check 'em all out.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup involves a remote castle surrounded by forest, an antique study library, a very powerful laptop, and a dozen hounds happily snoozing nearby.
 

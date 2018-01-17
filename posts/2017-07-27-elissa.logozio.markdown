@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey there! I am Elissa Logozio, and what I do pretty much depends on where I am in the moment. I am both an artist and a Certified Integrative Life Coach. I also run an online community called [Empathy Embodied](http://empathyembodied.com/ "Elissa's community empathy site.") where we inspire healthy conversations about empathy and vulnerability through shared stories and art. In my free time (whenever I can find it!) I make sure to stay on top of making art just for art's sake. Regardless of where I am or what day it is, my passion is to connect, inspire, and support people all over the world. 
 
@@ -15,7 +15,7 @@ In any role I take, my responsibilities are two-fold: 1) support someone's creat
 
 I also believe that you cannot work without a certain level of play -- take some time to pause your to-do list, and go outside! Grab a coffee with a friend, draw a picture, go for a walk -- anything big or small that helps you forget the challenges of the day, and allows you a moment to breathe.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My go-to hardware for my art and my coaching is a [15" MacBook Pro][macbook-pro] partnered with a journal or pad of paper, and [Pilot G-Tec-C4 pen][g-tec-c4]. I live and die by my to-do list: a pad of graph paper where I list each and every task item I need to complete. Eveyrthing I do is based on interpersonal relationships, which means I talk to a bunch of folks and walk away with a ton of next steps to help keep the plates spinning. I had to develop a quick shortcut through illustrations or minimal graphics to quickly know by glancing: what have I completed, what have I started, what's most important, and what do I still have to do? (with a mixture of squares, triangles, stars, and highlighted sections, I'm able to scan my list and know exactly what needs to get done next) .
 
@@ -27,7 +27,7 @@ My hand bag is basically a Mary Poppins purse -- I have spare headphones, dongle
 
 And finally, at home my husband and I try to be as energy-conscious as we can. Our home is set up with Phillips Hue Wireless lighting, programmed to know our habits enough to turn lights off when we aren't around or don't need them, and turn on whenever we get home from work. That's just one small example of changes to our apartment that helped make positive impacts in our lifestyle and use of energy.
 
-#### And what software?
+### And what software?
 
 I am constantly in a state of left-brain-right-brain shifts. The most useful software for my day-to-day life is best reflected by where I am in the moment: 
 
@@ -39,6 +39,6 @@ If I'm "Mobile":
 
 My [iPhone 6s][iphone-6s] is usually active if I'm running around: the [Mail][mail-ios], [Notes][notes-ios], Calculator, [Google Drive][google-drive-ios], [Waze][waze-ios], [Play Music][google-play-music-ios], and [Spotify][spotify-ios] apps are probably utilized the most. I also get a lot of my inspiration from exploring outdoors -- so the use of design apps are a necessity: the [VSCO][vsco-cam-ios], [Word Swag][word-swag-ios], [Photos][photos-ios], and [Over][over-ios] apps are my go-to elements if I want to take or edit photos on the fly.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is all about comfort, endurance, and ease of use. With that being said -- free, fast, and safe Wi-Fi would be in my top 5 wants. More convenient solar-powered batteries and more energy-conscious options to keep everything rolling. Free sketchpads (the ones with the dotted paper for some added organization). Play Dough (I'm a kinesthetic learner). And probably most importantly: a sunny, hygge-inspired place to work surrounded by all things nature.

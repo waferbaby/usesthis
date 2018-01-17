@@ -8,13 +8,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Jerry Belich](http://www.monkeytheater.com "Jerry's projects website."), a [theremin](http://en.wikipedia.org/wiki/Theremin "The Wikipedia entry for Theremin.")-playing coder, engineer, and storyteller. I lead mobile development at [Clockwork Active Media](http://www.clockwork.net "Clockwork's website.") as well as mentor for our [Coder Dojo](http://www.coderdojotc.org "A chapter of the group teaching kids to write code.") chapter. I studied computer science, theatre, and film together, which combined with a passion for game design, has generated an odd list of projects under my belt.
 
 Lately this has meant trying to find that sweet spot between the technical and creative and build bridges between then. The latest bridge has been an interactive arcade machine called the [Choosatron](http://choosatron.com/ "An interactive fiction hardware device."). Also, I'm quite fond of [whiskey](http://www.bulleitbourbon.com/ "Jerry's favourite whiskey.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a knack for getting companies to purchase my hardware for me, so I'm typing this on a mid-2012, 15" [MacBook Pro][macbook-pro] w/ Retina and a 512GB SSD, and it is wonderful (and unfair I know). The large hard drive is because I refuse to have less than my entire music collection available. [Pandora][] and [Spotify][] just don't do it for me, call me old fashioned. It, along with whatever project I'm currently working on, are lugged around in my Saddleback Leather [classic briefcase][classic-briefcase] (medium, dark coffee brown). Best leather I've ever seen, and great size for a few days of travel too. For longer trips I take my medium sized [waterbag][] from the same people. I haven't checked luggage in over ten years.
 
@@ -28,7 +28,7 @@ For my electronics work, I'm usually hacking away on some [Arduino][] variant, o
 
 Lastly, I always keep a wooden fidget toy with me. My girlfriend gave me a few sets, stating she used them when working with children diagnosed with autism. And yes, I laughed. She clarified stating that she found them personally helpful, and you have to understand that she and I both deal with anxiety by fidgeting, me much more so. They help reduce more damaging subconscious ticks.
 
-#### And what software?
+### And what software?
 
 For managing Kindle books I use [Calibre][], and the Send to Kindle browser plugin constantly. I found myself filling my browsers with tabs of articles and sites I earnestly wanted to read, but never would. Once I started punting them to the Kindle, the problem disappeared. I use all browsers except for [IE][internet-explorer], with [Chrome][] used the most. Google... I'm sorry but I love many of their products, truly. [Gmail][] is THE mail (especially after I got a handle on using tags and stars intelligently), and I've been relying more and more on [Google Docs][google-docs] (and now in turn, [Google Drive][google-drive]). I don't use any other word processors anymore. The sharing, collaboration tools, and powerful scripting engine, especially for spreadsheets! I'm using it for all my financial tracking, personally and professionally and have saved eons of time. I wouldn't know when I was supposed to be anywhere without [Google Calendar][google-calendar], and [Google Hangouts][google-hangouts] beats Skype any day of the week.
 
@@ -36,7 +36,7 @@ For managing Kindle books I use [Calibre][], and the Send to Kindle browser plug
 
 Terminal of choice is [iTerm2][], and [Sublime][sublime-text] as my text editor. For my iOS dev, as well as some C++ work I use [Xcode][] which is free and really brilliant as far as IDEs go. For revision control I love [Git][], and [SourceTree][] has become my primary portal outside of the command-line. When it comes to creative coding, or 'playing in the sandbox' I write [Python][]. I do love Adobe products, but I'm really only a power user in Adobe [After Effects][after-effects] and [Premiere][]. [Pixelmator][] has replaced [Photoshop][] for me. [VLC][] is my swiss army knife when it comes to video and audio. Oh! Almost forgot, [Crashplan][] for my remote data backup. Great software and great people.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want my Kindle to auto-sort books and materials into categories. I hate doing it and I'm too OCD to just leave it as a giant list. I wish to death that the [NoteSlate][] was real. I would kill, or at least seriously maim for a dedicated piece of hardware for scribbles and notes that doesn't try to do anything else (other than save my work). Just a flexible e-Ink notepad in my pocket. I'm a sucker for dedicated devices that don't make me feel like I'm pushing my nose up against the glass to get to what I want.
 

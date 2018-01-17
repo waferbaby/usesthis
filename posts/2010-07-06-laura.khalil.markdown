@@ -7,13 +7,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a marketer by day and nerd by night. As the self-appointed Chief Nerd Herder for [dorkbyte.com](http://dorkbyte.com/ "Laura's weblog."), I blog about science, technology and art. I hack, make and dream and try to encourage my readers to do the same, regardless of their level of experience. I'm more of a generalist than an expert in anything, but that doesn't stop me from trying out new science projects and learning as much as I can from those around me. I look forward to the day I can hold an electric saw and people don't run out of the room screaming in abject fear. We're not quite there yet.
 
 When I'm not behind a computer I can be found making robots, solving puzzles, tinkering with my ham radio or running around San Francisco playing alternate reality games.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got a beat up 2GHz Intel Core 2 Duo white [Macbook][]. It has travelled halfway across the world with me and is falling apart at the seams...literally. I also have a beautiful 24-inch widescreen monitor from Dell.
 
@@ -29,7 +29,7 @@ To round out my nerd cred, I use an [Elecraft K2 HF][k2-hf] amateur radio.
 
 I nearly forgot. I have a [Wii][] which I use to stream [Netflix][]. Prior to that I was using it to play [Dance Dance Revolution][ddr], but after some rather overzealous stomping around, I injured my knee and have had to resign myself to the fact that I am no longer 13.
 
-#### And what software?
+### And what software?
 
 Google, Google, Google: [Gmail][]. [Google Calendar][google-calendar]. [Google Reader][google-reader].
 
@@ -39,6 +39,6 @@ dorkbyte is created with [Wordpress][] and hosted by yours truly. My writing can
 
 In terms of actual software, I use [Picasa][] to edit and store photos, [Audacity][] to record audio and [TextMate][] for dabbling in [Ruby][] and [Python][]. I really enjoy [Skitch][] for marking up pictures and [Balsamiq][mockups] for creating mockups.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like a second 24-inch monitor. I'd also like a laptop with a 19-inch collapsable screen that weighs less than 2 pounds. Somebody call Apple and put in an order for that. But barring that, I'm really OK with my old laptop.

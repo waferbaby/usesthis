@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Joe Armstrong](http://armstrongonsoftware.blogspot.ru/ "Joe's website."), software engineer. Best known for my work on [Erlang][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home I use a 15-inch [MacBook Pro][macbook-pro]. For travel, lectures etc. I have an 11-inch [MacBook Air][macbook-air]. I have an [iMac][] for picture editing.
 
@@ -30,7 +30,7 @@ Oh, and [Bose QuietComfort 15][quietcomfort-15] noise reducing headphones - esse
 
 Sonos sound system for listening to music.
 
-#### And what software?
+### And what software?
 
 [Emacs][], [make][] and [bash][] for all programming.
 
@@ -54,7 +54,7 @@ I use Erlang, bash scripts, JavaScript, [C][], [Prolog][], various [Lisps][lisp]
 
 [Evernote][] for a web clipbook, and [Chandler][] to organise jobs.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Software that's not broken. 
 

@@ -8,27 +8,27 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Abby Seymour](http://abbyseymour.com/ "Abby's website.") and I'm a Melbourne-based multidisciplinary artist who runs a small business entailing jewelry, prints and porcelain home wares. I come from a very hands on / tacile background: I have a bachelors of Printmaking and a Masters in Fine Art.
 
 I worked as a bookbinder until my interests in bespoke trades grew and changed my focus. From this extensive ranged background, my design aesthetic diverged over many mediums - now, my main focus is my business: bespoke jewelry and home wares. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
-I've got [MacBook Air][macbook-air] which I use to keep in touch with stockists, edit photos, publish HTML emails and upkeep of my online store. I use an [iPhone 4][iphone-4] for [Instagram][instagram-ios], which is a great way of showing people in-progress works, as my process tends to be fairly intensive and lengthy. Otherwise I shoot on a [Canon 50D][eos-50d], but most of the time I use professional photographers — they do a better job.
+I've got [MacBook Air][macbook-air] which I use to keep in touch with stockists, edit photos, publish HTML emails and upkeep of my online store. I use an [iPhone 4][iphone-4] for [Instagram][instagram-ios], which is a great way of showing people in-progress works, as my process tends to be fairly intensive and lengthy. Otherwise I shoot on a [Canon 50D][eos-50d], but most of the time I use professional photographers --- they do a better job.
 
-Computers aside, I use a Dremel drill, jewelry files, pliers, hammers, anvils, and an Orca blow torch — lots of utilitarian utensils for shaping raw porcelain. 
+Computers aside, I use a Dremel drill, jewelry files, pliers, hammers, anvils, and an Orca blow torch --- lots of utilitarian utensils for shaping raw porcelain. 
 
 My letterpress prints are printed on a Heidelberg windmill press, the plates are etched from my drawings in magnesium. Every one that I make begins in my sketchbook where I use pens, pencils, and watercolors to map out initial ideas and preliminary working plans. 
 
 Aside from that, my hands.
 
-#### And what software?
+### And what software?
 
-A few online services — [Big Cartel][big-cartel], [Wufoo][] & [Campaign Monitor][campaign-monitor] power my website. Otherwise I use [Photoshop][] & [Illustrator][] to adapt photos for my website / magazines / publications or generally create promotional material. I use [Sparrow][] for email, but really don't like it. 
+A few online services --- [Big Cartel][big-cartel], [Wufoo][] & [Campaign Monitor][campaign-monitor] power my website. Otherwise I use [Photoshop][] & [Illustrator][] to adapt photos for my website / magazines / publications or generally create promotional material. I use [Sparrow][] for email, but really don't like it. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A big enough space to include my 2X vintage (1856 & 57') iron hand presses, 500kg guillotines, type cabinets, jewelry and ceramic equipment. 
 

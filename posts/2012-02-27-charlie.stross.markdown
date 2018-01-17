@@ -8,13 +8,13 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Charlie Stross. I write science fiction. It used to be a hobby, but these days people pay me to do this full time (I have no idea why, but it makes me happy). I've sold about twenty novels -- most recently "Rule 34" -- and a couple of collections' worth of short stories. I'm on twitter as [@cstross](https://twitter.com/#!/cstross/ "Charles' Twitter account.") and I run a high-traffic blog: [http://www.accelerando.org/](http://www.accelerando.org/ "Charlie's weblog.")
 
 I have a pre-history, of course. When I was young and stupid I qualified and practiced as a pharmacist. When I was slightly older and wiser I went back to university, got a CS degree, and ended up writing and coding for a number of software companies. I also wrote the Linux column for Computer Shopper (the British magazine) for a number of years.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have too many computers: this is an occupational hazard for recovering freelance computer journalists. But most important among them are the colo server the blog and community runs on -- a boring commodity AMD box running a [Debian][]-based LAMP stack and [Movable Type Pro][movable-type] -- and the heap on my desktop.
 
@@ -24,7 +24,7 @@ Frankly, it's not a terribly interesting system. But you don't need a screamingl
 
 It sits on a rather eccentric 1970s Scandinavian folding writing bureau/desk, half-submerged under heaps and drifts of stuff (headphones, mice, bits of paper, USB sticks -- the usual office debris), in front of a second hand [Aeron][] chair. The early noughties were great for sourcing office furniture from all the broke startups!
 
-#### And what software?
+### And what software?
 
 I hate, loath, and despise [Microsoft Office][office]. (And I speak as someone who's written books with it.)
 
@@ -42,7 +42,7 @@ Other stuff I use includes [Firefox][] (plugins: [NoScript][], [Adblock Plus][ad
 
 Yes, the iOS devices are jailbroken (and their default login passwords changed).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I bought the third-gen 13" MacBook Air with a Core 2 Duo as soon as it came out. If it vanished in a puff of smoke tomorrow, I'd buy another ... only in the 11" form factor, with the high end 1.8GHz i7 processor, 4Gb of RAM, and OWC's 6G SSD upgrade (which is allegedly somewhat faster than Apple's regular 250Gb SSD). I'd then couple it with a 27" [Apple Thunderbolt Display][thunderbolt-display] and a steaming pile of RAID storage for backup and/or overflow.
 

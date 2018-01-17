@@ -9,11 +9,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Zara Gonzalez Hoang](http://zarprey.com "Zara's website."). I'm a bit of a generalist, I'm design, illustrate and code - basically I like to do a bit of everything so I can pitch in where I'm needed. I run a little creative studio called [twistcone](http://twistcone.com "Zara's studio.") which is mostly focused on creating mobile apps although we do other things too. I'm also a part of a sweet screenprinting studio called [Big Table Studio](http://bigtablestudio.com "A screen printing studio.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm a one computer girl as of March when I purchased my 2.33GHz Intel Core i7 15" [MacBook Pro][macbook-pro] which I do everything on. It's been working out great so far. I never use a mouse, instead I use a 6x8 [Intuos4 wireless tablet][intuos] - although it's almost always plugged in because I find it lags too much when I use it over Bluetooth. I have an ancient 24" Dell Monitor that I use when I am in the office, but it's not super color accurate so it will probably be upgraded soon. Occasionally I use an Apple Bluetooth [keyboard][] but lately I've been working with my laptop open so I just use the built-in keyboard. I always have a variety of iOS devices around for testing, usually both generations [of][ipad] [iPads][ipad-2] (one running the iOS 5 beta) as well as an [iPhone 3GS][iphone-3gs] and an [iPhone 4][iphone-4].
 
@@ -27,7 +27,7 @@ In addition to doing things digitally I'm also part of a screenprinting studio w
 
 I also have a Kelsey 5x8 tabletop letterpress that I am currently restoring but hope to be printing with soon.
 
-#### And what software?
+### And what software?
 
 For any graphics-related work I use Adobe [Photoshop][] (CS5) and [Illustrator][] (CS5). Every once in awhile I'll open [InDesign][] (CS5) if I have to do some print work, create an invoice, write a proposal or create a presentation. I can't stand [Powerpoint][] and tend to ignore [Keynote][] in favor of simple full-screen PDF presentations
 
@@ -43,6 +43,6 @@ For saving inspiration I use a combination of [Pinterest][], [Ffffound][], [Drib
 
 I've recently been experimenting to see if I can give up paper and comfortably sketch on the iPad so I've been playing around in [SketchBook Pro][sketchbook-pro-ios] (with a [More/Real Stylus Cap][more-real]) - I'm not sure how I like it yet but it's growing on me.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My setup is pretty close to perfect for me. It's quite portable (which is fantastic since I tend to work in a variety of different places) and pretty fast. If I could have anything I wanted I'd probably add a new 27" [Apple Cinema Display][cinema-display] for when I'm in the office, a [Cintiq 12WX][cintiq], and the largest SSD drive out there to speed up my laptop.

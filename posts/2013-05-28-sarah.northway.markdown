@@ -7,17 +7,17 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Sarah Northway](http://northwaygames.com/ "Sarah and Colin's indie game company."), travelling indie game developer and creator of the Rebuild series.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got a maxed out [Alienware M11x][m11x], one of the smallest gaming laptops out there. I love this computer; it's one of the only things I own that matters. To be honest it's one of the only things I own, period. My husband and I have been travelling perpetually for the last 3 years while we write our games, and have to fit just about everything we own into two backpacks. Secret: if you think an 11 inch screen is too small, try holding it closer to your face.
 
 Between my husband and I we also carry a [Nexus One][nexus-one], [iPhone 4S][iphone-4s], [iPad 2][ipad-2] and [BlackBerry PlayBook][playbook] - a decent range of low to high end devices for testing mobile games. By weight we own more electronics than anything else; I know because they all go in my backpack and it's heavy as hell!
 
-#### And what software?
+### And what software?
 
 I seem to get use out of just about every Adobe product in [CS6][creative-suite]. I bought it for [Flash Pro][flash], [Photoshop][] and good karma, but regularly use [Premiere][], [Illustrator][], [Audition][] and [Bridge][] as well. But for AS3 development I prefer [FlashDevelop][flashdevelop] (vs Adobe's [Flash Builder][flash-builder]) which is fast, reliable, and free.
 
@@ -25,6 +25,6 @@ Although I develop games for iOS, I am solidly Windows folk, or at least anti-Ma
 
 I rely pretty heavily on remote storage software like [Dropbox][], [SVN][subversion] and [Google Docs][google-docs], at least when I've got the bandwidth to use them.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 without the serially unstable Flash Builder. And [XCode][] or Apple's Application Loader for Windows or Linux.

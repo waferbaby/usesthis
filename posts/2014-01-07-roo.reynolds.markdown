@@ -6,11 +6,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Roo Reynolds](http://rooreynolds.com/ "Roo's website.") and I'm a product manager at the [Government Digital Service](http://digital.cabinetoffice.gov.uk/ "The GDS site."). I lead a multi-disciplinary agile team delivering the information and services on [GOV.UK](https://www.gov.uk/ "The GOV.UK site.") used by over six million people every week.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My [MacBook Air 13"][macbook-air] comes with me everywhere, to the extent that I wish I'd gone for the 11". My [iPhone][iphone-4s] (4S, though I'm probably due an upgrade by now) means I've always got easy access to my inbox, calendar and a fairly reasonable camera.
 
@@ -22,7 +22,7 @@ I've been wearing my [Pebble][] a bit more recently, and even spent a week exper
 
 I ripped my entire DVD collection on to a USB hard disk this year. Not only did it free up a few shelves of DVD cases from the living room, but the one terabyte disk (plus the [Raspberry Pi][raspberry-pi] it's plugged in to, acting as a home media server) was probably cheaper than the shelves anyway. The future is great.
 
-#### And what software?
+### And what software?
 
 Commuting between Southampton and London each day means I treat the train as a portable (and unfortunately only intermittently online) office, so having systems which can work both online and offline really helps.
 
@@ -34,7 +34,7 @@ I love [nvALT][] for writing stuff. I have it hooked up to [Simplenote][simpleno
 
 I'm also a fan of [Sublime Text][sublime-text] for the odd bit of coding, [TotalTerminal][] (which replaced [Visor][]) for bringing down a terminal console at the press of a button, and [f.lux][] which makes my laptop display bearable in the evening.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The thing that gets in the way isn't a lack of *stuff* but rather a lack of *time*.
 

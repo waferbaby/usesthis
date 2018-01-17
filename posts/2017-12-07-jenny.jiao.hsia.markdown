@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, my name is [Jenny Jiao Hsia](http://qdork.com/ "Jenny's website.") and I'm an independent game developer based in Brooklyn, NY. In 2014, I collaborated with [AP Thomson](http://apthomson.com/ "AP's website.") on a small game about [smooching and loneliness in space][stellar-smooch-ios]. The following year, we worked together again and released [a game about computers, magic, and insecurity][beglitched]. 
 
@@ -15,7 +15,7 @@ Some of my solo projects include games about [doing your makeup in 10 seconds or
 
 When I'm not making games, I like prototyping with microcontrollers and sewing plush dolls called [Bedtime Buddies](http://qdork.com/image/165980515125 "A photo of Jenny's plush dolls."). 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a 13-inch [MacBook Pro][macbook-pro] (early 2015) to make my games. My computer isn't equipped with a lot of storage space, so I keep my files on [a portable external hard drive][backup-plus-slim]. For drawing, I use a [small Wacom tablet][intuos-pro] and [this mouse][amazonbasics-3-button-usb-wired-mouse] -- it's cheap, but reliable... and I really like how it fits in my hand. 
 
@@ -29,10 +29,10 @@ I've been using a [Makey Makey][makey-makey] to prototype the hardware portion o
 
 I take photos using an [iPhone 6S][iphone-6s] and my workspace consists of [a small IKEA table][linnmon] and [one of those heavy-duty folding chairs from Costco][lifetime-folding-chair]. 
 
-#### And what software?
+### And what software?
 
 I use [Unity][] to make games and [Bitbucket][] for source control. For art, I make 2D assets in [Photoshop][] and 3D models in [Maya][]. I edit sound effects in [Audition][] and I record gameplay footage with [QuickTime Player][quicktime-pro] and [Soundflower][]. Sometimes I use [LICEcap][] to capture gifs -- the framerate can end up looking sort of choppy and slow, so I will occasionally resort to Photoshop to create better quality gifs. I use [Google Drive][google-drive] on a regular basis, and recently I've been experimenting with the [Arduino IDE][arduino-ide]. My favorite app to edit photos with on my phone is [VSCO][vsco-cam-ios] and I like [doodling on these pictures](https://www.instagram.com/p/BOsQUuqhFkD/ "One of Jenny's Instagram photos.") with Facebook's [Messenger app][facebook-messenger-ios]. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would include a big sturdy desk, a nice comfy chair, an enormous bulletin board, a more serious and robust sewing machine, a powerful [Mac Pro][mac-pro] with tons of storage, and a couple of extra monitors! 

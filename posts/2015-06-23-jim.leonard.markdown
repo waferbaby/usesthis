@@ -9,7 +9,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jim Leonard](http://trixter.oldskool.org/ "Jim's website."), although I've been known as Trixter for nearly three decades in various circles, such as the [demoscene](http://en.wikipedia.org/wiki/Demoscene "The Wikipedia entry for demoscene."). I've played a part in many [vintage hardware](http://www.vintage-computer.com/vcforum/forum.php "The Vintage Computer forums.") and software preservation activities, such as co-founding [MobyGames](http://www.mobygames.com/ "A video game database."), consulting museums on how to archive electronic entertainment, and working with [private collectors](https://groups.google.com/forum/#!forum/swcollect "A software collectors Google group.") on how to rescue and preserve the digitial bits in their collection. I bang on old hardware, both figuratively and literally.
 
@@ -19,16 +19,16 @@ I've also been interested in desktop digital video production since the early 19
 
 A few years ago, I combined all these passions into [a video series documenting some of the demoscene's "greatest hits"](http://www.mindcandydvd.com/ "Jim's collection of greatest hits from the demoscene."), with commentary from the people who created them.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My daily driver is a custom-built Core i7-920 assembled in 2008, currently retrofitted with a GTX 970 to assist in video production. (And for playing games, naturally.) But the proper tools of my trade are vintage systems, such as the [Apple II][ii], [C64][commodore-64], Amiga, and of course the original [IBM PC][pc]. I have roughly 30 vintage systems that I rotate in and out of use as needed, with various methods of connecting them to the modern world to transfer bits back and forth. (And for playing games, naturally.)
 
-#### And what software?
+### And what software?
 
 Desktop runs [Windows 7][windows-7], because I roll a lot of my own video utilities using [AviSynth][]. I edit video using [Premiere Pro][premiere-pro], and OpenCL-assisted-[x264][] handles video encoding.
 
 For programming my demoscene productions, I usually design and prototype in [DOSBox][], then copy to the real metal for testing and refinement. In that space, I've been using the same set of tools for over 25 years: [Turbo Pascal][turbo-pascal], [Turbo Assembler][turbo-assembler], [Turbo Debugger][turbo-debugger].. and whatever [WordStar][]-compatible editor that happens to be lying around on the hard drive.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As someone who is on the leading edge of the trailing edge, every old computer I use is already my dream setup. But a better Windows machine (12 cores, SSD array) wouldn't hurt, nor would a 3-panel display.

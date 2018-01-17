@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I'm Karolina Szczur and I'm a designer, developer, photographer and wannabe writer working with my friends at [&amp;yet](https://andyet.com/ "The &amp;yet site.").
 
@@ -17,7 +17,7 @@ You can find me sharing and chatting on [Twitter](https://twitter.com/fox "Karol
 
 If I'm not working in front of my laptop with bad posture and poor eyesight, I'm running around shooting pictures and hanging out with people that are dear to me.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Last year I switched to a 15" [MacBook Pro][macbook-pro] Retina with 700GB SSD, 16 gigs of RAM and 2.8 GHz i7 processor. This machine is a beast. Since I travel a lot I don't really have a fancy office, but as a part of my home setup I do use a [Macally Bamboo Stand][bamboo-cooling-stand] to prevent overheating and so I can alter wrist position from time to time. I also have a delightful, very comfortable bag(pack) from [Hard Graft](http://www.hardgraft.com/ "The Hard Graft website.") - might be one of the best accessory buys of my life so far.
 
@@ -27,7 +27,7 @@ Music is an essential part of my life so I've spent a significant amount of time
 
 For photography I shoot with a full frame [Canon EOS 6D][eos-6d] with either a [17-40mm f/4L][ef-17-40mm-f4l-usm] or a [50mm/1.4][ef-50mm-f1.4-usm] lens. I do own two film cameras as well, a [Polaroid Supercolor 635][supercolor-635cl] and an old [Zenit 122][zenit-122]. Unfortunately analogue photography is quite time consuming and it got way too costly so I don't do it as often as I used to. I carry my gear in a Hard Graft bag (see a pattern here?).
 
-#### And what software?
+### And what software?
 
 I've been running [OS X Yosemite][mac-os-x] since the first beta was available. My life wouldn't be the same without a couple of tiny utility applications like [Alfred][], [Caffeine][], [f.lux][] and [Bartender][]. [Dropbox][] and [Google Drive][google-drive] are my backups. I share pictures and files through the blazingly fast [Cloudup][]. Two other apps worth mentioning are [Sunrise][] as a native calendar alternative and [1Password][].
 
@@ -43,7 +43,7 @@ I write in [IA Writer][ia-writer], its lesser known but still awesome competitor
 
 [Rdio][] and [SoundCloud][] are feeding me music all day long. I listen to podcasts through [Instacast][instacast-ios] on iOS.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 While I love the screen real estate, power, and speed that the 15" MacBook gives, it can be quite cumbersome to travel with, especially if you pair it with a DSLR. I'd like to have something more lightweight - a 13" [MacBook Air][macbook-air] Retina would be perfect. I'd pair it with one of these [Ona bags](http://www.onabags.com/ "The Ona website.") - they are just gorgeous.
 

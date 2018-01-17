@@ -7,7 +7,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Joey Hess](http://joeyh.name/ "Joey's website.") and I write programs.
 
@@ -15,7 +15,7 @@ Lately I've been focusing on programs that encourage broader use of version cont
 
 I'm also a long-time [Debian][] developer, having been involved in building the Debian installer, and I run a 30-year delayed Usenet feed at [olduse.net](http://olduse.net/ "A time-delayed Usenet feed.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do everything on a netbook, a [Dell Mini 9][inspiron-mini-9]. I've been using it since 2008, and have worn out two keyboards. (The down arrow key is always the first to go.) I like the Mini's small size, easy access to expansion slots, and lack of any breakable moving parts other than the keyboard and hinge. I particularly need my laptop to be silent; no fan become a requirement for me years ago, around the time I stopped using desktop computers.
 
@@ -29,7 +29,7 @@ This place is nicely remote, and off the grid, relying on solar power. I only ge
 
 When power is low, I often hack in the evenings by lantern light.
 
-#### And what software?
+### And what software?
 
 I run Debian unstable on my laptop and most of my servers. I have one production web server that runs Debian stable instead, but mostly I can deal with any day-to-day glitches that come up using Debian unstable. I've used nothing else since 1996.
 
@@ -41,6 +41,6 @@ I seem to live half the time out of range of broadband, and still use dialup sin
 
 Other notable software includes the [Music Player Daemon][mpd], which runs on my netbook and also my home server. And the excellent [Redshift](https://launchpad.net/redshift) application, which adjusts the screen color temperature depending on the time of day and preserves my night vision. And I should mention that I'm using [Obnam][] for backups lately.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dream of a ARM-based netbook with exceptionally good battery life, an E-ink display, and fully open and non-proprietary hardware. I've put off upgrading for years since this seems such an obvious thing for the market to produce, but the market is fascinated with locked-down tablets instead.

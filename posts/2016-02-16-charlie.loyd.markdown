@@ -11,13 +11,13 @@ credits:
   name: Jacques Tardie
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Charlie Loyd, and I'm on the satellite imagery team at [Mapbox](https://www.mapbox.com/ "A mapping company."). With my teammates, I've worked on projects like [Cloudless Atlas](http://www.wired.com/2013/05/a-cloudless-atlas/ "A WIRED article about MapBox's satellite imagery."), [Landsat Live](http://www.citylab.com/design/2015/03/roam-the-earth-in-real-time/388252/ "A CityLab article about MapBox's real-time satellite imagery."), [disaster response](https://www.mapbox.com/blog/nepal-imagery-collection/ "Charlie's MapBox's post about map data collection and disasters."), and [maintaining the basemap](https://www.mapbox.com/blog/new-zealand-aerial/ "Charlie's MapBox post about New Zealand."). I also [tweet too much](https://twitter.com/vruba "Charlie's Twitter account.") about Earth observation, tamales, and the common names of plants and animals; write [a similarly diffuse newsletter](http://tinyletter.com/vruba "Charlie's newsletter."), increasingly irregularly; and am [looking for Space Shuttle tile records](http://shuttletiles.space "Charlie's space shuttle tiles website.").
 
 I made [Glittering Blue](https://glittering.blue/ "Charlie's Earth animation site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work we're on small [MacBook Pros][macbook-pro] with maxed-out RAM and external monitors on standing desks. What matters is the RAM, for ridiculous images - mural-size TIFFs that were never meant to be viewed directly. The laptops are scratchpads and network terminals. Production code runs in a datacenter [somewhere](http://creativetimereports.org/2014/05/20/ingrid-burrington-the-cloud-is-not-the-territory-wnv/ "An article about data centers in northern Virginia."), on hardware that must generate the heat and sound of an overloaded A380 flying straight up. We're carbon-neutral, so I assume we've funded an entire forest somewhere.
 
@@ -27,7 +27,7 @@ Also with me when walking around: An [Anker battery][astro-6700], an iPhone (som
 
 On the camera shelf: A [Nikon FE][fe] and a [50mm f/1.4 Nikkor-S][50mm-f1.4-nikkor-s-auto] - a half-century-old manual lens that's sharp, affordable, and has pleasingly old-fashioned flares. It's sometimes attached to a Canon DSLR (occasionally running [Magic Lantern][magic-lantern]), which has Canon non-L primes and a few toys. And the silly one: a [Mamiya RZ67 II][rz67-professional-ii], a medium format film camera from the '90s, with the [110mm f/2.8][rz67-110mm-f2.8]. That lens... 😍.
 
-#### And what software?
+### And what software?
 
 [Safari][] is my web browser. It doesn't support WebP or every HTML5 feature yet, but it's reliable, clean, and fast. I'm biased toward vanilla apps. I fear the brittleness of overoptimized workflows.
 
@@ -41,7 +41,7 @@ For programming: [Python][]! Lots of [`numpy`][numpy], a library for math on n-d
 
 On [iOS][]: The apps I recommend most are [Signal][signal-ios], [Spectrogram Pro][spectrogram-pro-ios], [SensorLog][sensorlog-ios], [Barograph][barograph-ios], [Dark Sky][dark-sky-ios], [VesselTracker][vesseltracker-ios], and [iFlares][iflares-ios]. I still like [Twitter][twitter-ios] and I'm fine with [Instagram][instagram-ios], but [Taptalk][] is my favorite social network right now: personal, ambiguous, ephemeral.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Obviously, vision into ultraviolet and infrared is the big thing. Finer spectral resolution is also a persistent need, to get more perceived colors and fewer [metamers](https://en.wikipedia.org/wiki/Metamerism_%28color%29 "The Wikipedia entry for Metamerism (colour).").
 

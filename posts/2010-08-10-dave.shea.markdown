@@ -11,13 +11,13 @@ credits:
   url: http://www.flickr.com/photos/plasticbag/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Dave](http://mezzoblue.com/ "Dave's website."), I put food on the table as [a freelance web and UI designer](http://brightcreative.com/ "Dave's design/web studio.") in [Vancouver](http://www.flickr.com/photos/tym/11168035/ "Dave's photo of the Vancouver skyline.").
 
 It's getting increasingly harder to pin down the the 'what do you do' question, but here's a quick attempt. I build things that scratch a creative itch. In 2003, I wanted the world to move to CSS based design, so I built the [CSS Zen Garden](http://www.csszengarden.com/ "A site showing examples of what CSS can do."). In 2007 and 2008 I wanted a web design conference in Vancouver so I helped put on [Web Directions North](http://brightcreative.com/portfolio/events/ "The Canadian version of the Web Directions conference."). In 2007 I wanted to dip my toes back into illustration so I built [a rather large icon family](http://chalkwork.com/ "Dave's royalty-free icons."). In 2009 I wanted a 3D GPS mapping tool so I built [Elevation][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Over the past couple of years I've spent time bouncing around between shared co-working spaces, coffee shops, my home office, and various far-flung locales as I've travelled. I've gotten used to the tradeoffs that come along with portability: smaller screen sizes, trackpads, less memory and processing power. Around 2008 my setup had shrunk to a single [MacBook Pro][macbook-pro].
 
@@ -35,7 +35,7 @@ I still shoot with a 5 year old [Canon 20D][eos-rebel-xt] digital SLR which I'm 
 
 My phone is an unlocked [32GB iPhone 3GS][iphone-3gs], which replaced my first gen [aluminum model][iphone]. I'm not on the yearly upgrade train since I prefer to buy my phones contract-free, but the iPhone 4 will be replacing this one sometime soon.
 
-#### And what software?
+### And what software?
 
 You know, I could come close to surviving on Apple, Adobe and Panic alone.
 
@@ -51,7 +51,7 @@ If you're counting web apps, I'm a heavy [GMail][] and [DropBox][] user, light [
 
 On my iPhone, I have screens and screens of apps I never use. The home screen is the only one that counts, and it's the usual suspects: iPod, Calendar, Photos, Camera, Mail, Twitter, Maps, Calculator, Contacts, Notes, Phone, Messages, Safari, and Settings. The only even slightly-remarkable apps are the non-standard ones: [WeatherEye][weathereye-ios] (to replace the terrible Apple weather widget), [1Password][1password-ios] (to make sure I can login to my accounts), [Air Sharing][air-sharing-ios] (to store documents while travelling that I'd rather not incur roaming airtime charges to look up on Dropbox), and [RunKeeper][runkeeper-ios] (which I use for GPS tracking my bike routes).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 There are very few changes I might make. I'd obviously prefer more RAM and a solid state drive on my MacBook Air. Perhaps I'll some day invest in a better walkaround lens for my camera. I'm currently trying to decide whether I need an [Android][] phone or an [iPad][] to tinker with and test my work, though I can't say I actually need either. I suspect the iPad may win out eventually.
 

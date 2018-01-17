@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Meghan Newell](http://www.calcium75.com "Meghan's website."). I'm a freelance hired gun that works for ad agencies, design studios and direct for clients doing all manner of design and animation. I've worked under Calcium75 for just about a decade now!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My only machine currently is a 2.66GHz Intel Core i7 [MacBook Pro][macbook-pro] with the matte screen (essential!). Not only is the interior of the screen better but the silver border is so much gentler on the eyes. Previously I had a 8 core 2.26 Nehalem [Mac Pro][mac-pro] tricked out with 16gb ram, but I sold it when I moved to Berlin and have been happy to discover that only 3D renders slow me up much on the MBP. I use a MCE Tech Hard Drive enclosure to add a 1 TB [WD Scorpio Blue][scorpio-blue] drive (name: duran duran) to the 128GB SSD (name: barbarella) that shipped with the computer and only occasionally have to tote my fonts, images and elements on my old faithful WD 100gb Passport portable drive. I keep a full collection of all my elements and previous work on two additional 1 TB hard drives in enclosures and backup everything to a [Drobo][] with 4 1TB WD [Scorpio Black][scorpio-black] drives.
 
@@ -27,7 +27,7 @@ Lately my projects have involved taking advantage of the resources in the city b
 
 Finally, I love my [Kindle][], but I have yet to justify spending the money on an iPad. I love the code art people are developing for them, so I'll have to make the leap sometime.
 
-#### And what software?
+### And what software?
 
 I would not get through a day without [Photoshop][] and [Illustrator][] (currently CS5). Most days also involve [Cinema4d][cinema-4d] (12) and [After Effects][after-effects] (CS5). I do less and less with [Flash][] (CS5) these days, but it still comes in handy for all sorts of things - animation, coding and its particular style of vector drawing. I also keep my CS3 version loaded for occasional pre-64 bit needs and since I haven't repurchased all the plugins that comes in handy - Knoll Light Factory and the Trapcode Suite for AE and Genuine Fractals for Photoshop especially.
 
@@ -35,6 +35,6 @@ When I code, I'm fond of [Coda][] and I use [Chrome][] pretty exclusively as a b
 
 My font manager (essential) is [Suitcase Fusion 3][suitcase-fusion], although I've been really disappointed with this release. I left after X1 to use the free [Linotype Font Explorer][fontexplorer-x], but when that became a paid app I figured I'd return to my roots. I've had so many crashes and issues that I may not be using it for much longer. A random essential is QT Pro 7 to compress for H.264 and screenshot - the new release lost important features and I always reinstall from disk when I set up a machine.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It's been thrilling to me to be able to have a portable computer powerful enough to be a primary workstation, but now I dream of having that in the form factor of the MacBook Airs - I know it can't be far away! Keep the large screen, but get rid of the optical drive and make it light and lovely but POWERFUL - then any sunshiny spot with lots of windows and a flat surface will become my dream setup!

@@ -9,17 +9,17 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm an international executive music hacker - that is, I go to lots of hackathons like [Music Hack Day](http://musichackday.org/ "The Music Hack Day site.") where I combine my two passions of music and programming to create music hacks like [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html "A hack that generates a never-ending always-changing version of an uploaded song."), [Boil the Frog](http://static.echonest.com/frog/ "A hack that generates two seamless playlists of different artists.") and [The Bonhamizer](http://static.echonest.com/bonhamizer/ "A hack that re-renders a song as though Led Zepplin's drummer was playing in it."). When I am not at a hackathon, I'm usually at [The Echo Nest](http://the.echonest.com/ "The Echo Nest site.") office where I work and play all day with big music data. I also write a blog called [Music Machinery](http://musicmachinery.com/ "Paul's music weblog").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do all my programming on a 2 year old 17" [MacBook Pro][macbook-pro], which, sadly, they no longer make. I really like the bigger screen, so even though I travel quite a bit, I'm willing to carry the extra pounds for the extra screen size.
 
 For my ears I have a pair of [Beats Studio headphones][studio] for when I am on the road, and a pair of [Behringer MS40 Digital Monitor Speakers][ms40] for when I am at my desk. I have an [iPad 3][ipad-3] which I only use for book reading and an [iPhone 5S][iphone-5s] that I use for everything but programming. I'll sometimes travel with unusual electronic music instruments like the [Stylophone][] or the [Korg Monotron][monotron]. I put all my gear in a [Wenger Pegasus Backpack][pegasus].
 
-#### And what software?
+### And what software?
 
 For most of my coding, I use [vim][] in a terminal window. I mostly debug by thinking and with print statements. I couldn't get the job done without the many of the Unix text processing commands such as [grep][], [sed][], [diff][], [sort][] and [awk][]. My go-to language for processing big buckets of data is [Python][]. I use [gnuplot][] for quick data plots, and use [graphviz][] for visualizing graphs and networks. For back-end webserver stuff, I use [CherryPy][]. I may have 50 different servers running on a machine, so I use [Pound][] as a reverse proxy to send client requests to the correct server.
 
@@ -29,6 +29,6 @@ Although I tend to avoid using IDEs I will use [Xcode][] when writing for iOS an
 
 For organizing hackathons, I use [Eventbrite][] for ticketing and registration and [Hacker League][hacker-league] for managing the event. I use [Wordpress][] to host my blog.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My current setup is pretty close to my dream setup already. I like to have everything I need to code with me at all times so I don't need a big desktop machine or display. However, my 17" laptop is too big to use on a plane, so having an 11" or 13" [MacBook Air][macbook-air] for those times would pretty nifty.

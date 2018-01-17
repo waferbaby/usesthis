@@ -9,13 +9,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! My name is Bo Adepoju. I work at [Intel](http://www.intel.com/ "Intel's website.") on chip goodness (specifically, power management firmware validation). Essentially I work on enabling devices to boot and reset at a chip level.
 
 Computing excites me. I like to think of myself as a lifetime learner and tinkerer.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Between work and distance learning graduate school @ [University of Illinois at Urbana-Champaign](http://cs.illinois.edu/prospective-students/graduate-students/professional-masters-mcs "The site for the Professional Master's at the University of Illinois."), I'm almost always glued to being in front of a computer. At home I use a Haswell 11-inch [MacBook Air][macbook-air] as my daily driver. I was hesitant using the 11-inch as my main machine at first having given up a 15-inch [Retina MacBook Pro][macbook-pro] when I moved to Portland from Southern California, but it has worked out admirably.
 
@@ -27,12 +27,12 @@ I just recently bought a [Haswell-E i7-5960X][core-i7-5960x-extreme-edition] and
 
 I have several microcontroller boards lying around my place. The ones I have from undergraduate days ([8051][mcs-51], [LPC2148][]), and an [Arduino Uno][arduino-uno] are doing nothing at the moment, but I do have an [Intel Galileo][galileo] hooked up to [Philips Hue][hue] at home with the sole purpose of strobing lights (personal light show)!
 
-#### And what software?
+### And what software?
 
 I'm a big Linux [KDE][] user and spend a lot of time in [Kate][] (and sometimes [vim][]). I also rely on [Sublime Text][sublime-text]. [C][], [C++][c-plusplus], [Ruby][]. I'm learning even when I think I've fully escaped from [Matlab][], but it'll never actually happen.
 
 I use [Spotify][] all day long and usually have [TweetDeck][] displayed on a vertical monitor at work.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think I'm mostly at a good spot with what I use today, but contributing to my dream setup will definitely be the gaming PC I'm working on now! With a 4K monitor, mechanical keyboard and all that jazz. And having more microcontrollers. You can never have too many microcontrollers.

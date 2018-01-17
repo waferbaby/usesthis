@@ -10,11 +10,11 @@ credits:
   name: Heather Champ
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Derek Powazek](http://powazek.com/ "Derek's website.") and I'm a writer, designer, and geek. I'm fascinated by the fertile intersection between online community and offline media. I've written books (Design for Community: The Art of Connecting Real People in Virtual Places), started companies (JPG Magazine), and designed more websites than I can remember. Currently I publish [Fray](http://fray.com/ "Fray - stories!"), the magazine of true stories and original art, and consult with HP on [MagCloud](http://magcloud.com "A service for publishing your own magazines."), where anyone can publish their own real, printed magazine.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've been using Apple products since before it was cool. If it wasn't for Apple, I probably would have never touched a computer.
 
@@ -24,12 +24,12 @@ Other hardware that I cant work without: a Canon [EOS 5D][eos-5d] for making pho
 
 I also have a large collection of Star Wars Lego, but that doesn't seem relevant here.
 
-#### And what software?
+### And what software?
 
 The [Adobe Creative Suite][creative-suite] is where I spend most of my time. I'm still using CS3 - the new window stuff in CS4 scared me off. [Apple Mail][mail] is probably where I spend the rest of my time, even though it's a frustrating app that Apple could (and should) improve. I really like [WriteRoom][] for creative writing. I open [Microsoft Office][office] apps only as a last resort.
 
 Managing Fray subscriptions requires a whole bunch of other apps. I use a [FileMaker][filemaker-pro] database to keep track of subscribers and print labels to the Dymo and [Endicia][] to print postage. I love being able to drop off prepaid shipments at the post office.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I covet the new 27" iMacs, in spite of their stupid glossy screens. And I'm going to buy an [iPad][] as soon as possible. I'm really hoping for that it bridges the divide between the web and print media. If an Apple device can do to the print industries what the iPod did to the music biz, I'll be the first to say thanks.

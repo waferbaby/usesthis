@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Jeff Atwood, co-founder of [Stack Overflow][stack-overflow] and long time blogger at [codinghorror.com](https://blog.codinghorror.com/ "Jeff's website."). Since 2013 I've been working on [Discourse][], an open source discussion platform. 
 
 I came to be a programmer, a writer, an entrepreneur, and a father, in that order. I am still at least three of those things.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I try to live by the golden rule: always have at least five computers within a ten foot range of where you are at any given time. Here's what I use regularly:
 
@@ -30,7 +30,7 @@ The Surface Pro is probably my preferred device at any given time if I have to p
 
 I apologize for the lack of [Android][] here, because although the OS has improved dramatically in the last 2 years, I've really struggled to find hardware I like that runs Android. Everything is Qualcomm, and Qualcomm is .. not so good lately. That said, I love the Google ecosystem and I set my Mom up with the [Nexus 9][nexus-9] and [Pixel phone][pixel]. I sure hope one day Google will make their own mobile hardware like Apple does.
 
-#### And what software?
+### And what software?
 
 I guess it's true, every other version of Windows is the good one: [Windows XP][windows-xp] good, [Vista][windows-vista] bad, [Windows 7][windows-7] good, [Windows 8][windows-8] bad, [Windows 10][windows-10] good. While Stack Overflow was mostly a .net and Windows platform, it's true that Linux is a big part of my life now with Discourse -- and the big news is that, in Windows 10, Microsoft has internalized Linux on Windows! I can launch a real [Bash][] shell with a real Linux right in Windows, with (almost) no virtualization overhead.
 
@@ -40,7 +40,7 @@ That said, I'm not an OS bigot, I use [OS X][mac-os-x] (albeit very, very lightl
 
 My favorite software of all time happens works on every platform: the web browser. Modern versions of [Edge][edge.2], [Chrome][], [Firefox][], and [Safari][] are all my huckleberry and I love them like I love my kids. For development I use [Visual Studio Code][visual-studio-code], which is built using browser technology and works everywhere, and has become remarkably great in the last year as they keep iterating on it. I also need a clipboard history tool installed wherever I go, because the world was built on the back of the humble cut and paste.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dreamt for _years_ about high DPI displays, and those finally happened, even on desktop, thank God. I recently purchased an OLED television and the quality of the colors and the depth of the dynamic range -- blacks that are infinitely black -- blew my freaking mind. So now I'm desperate for OLED displays on my phone, my tablet, and my desktop and laptop and everywhere else.
 

@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm mostly a programmer. For two years, I published screencasts on various software development topics at [Destroy All Software](http://www.destroyallsoftware.com/ "Developer screencasts."). It was very popular, but I got tired of talking to myself in a recording studio. I'm now working on an unannounced product related to finance (for good, not evil). I also speak at a lot of conferences: about 25 in the last three years, although I'm trying to reduce that significantly.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Not much. There's no version control for hardware failures, and I don't have the patience to deal with that. I use a late-2011 13" [MacBook Air][macbook-air] as my only computer. At my office, I use it with a [Thunderbolt Display][thunderbolt-display].
 
@@ -26,7 +26,7 @@ I have an [iPhone 4][iphone-4], but find it frustrating. Every action is awkward
 
 For screencasting, I used a [Rode Podcaster mic][podcaster] and a pair of inconsequential in-ear headphones for monitoring. Towards the end, I was recording in a professional studio here in Seattle. Before that, I had a cobbled-together home studio. And before that, I recorded in my living room because I didn't know what I was doing.
 
-#### And what software?
+### And what software?
 
 For programming, I use [Vim][] (but I used [Emacs][] years ago). Most code that I write is in [Python][] or [Ruby][]. Other than that, it's just [Unix](http://web.mit.edu/~simsong/www/ugh.pdf "A PDF of the Unix-Haters Handbook."), mostly unchanged from what it was in the year I was born. My terminal is [iTerm 2][iterm2] with the pastel color scheme and the [Inconsolata-g font][inconsolata-g].
 
@@ -44,7 +44,7 @@ The "why" of all of that is a long story, but that's roughly the minimum configu
 
 I suspect that many people will skip past that backup stuff. Backup is boring, which is why everyone loses their data.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If I can only have things that exist, then pretty much what I have now. I'd swap my Air for the newest model; maybe try one of those new [Mac Pros][mac-pro]; maybe try two 24" monitors instead of my 27". But I don't want more or fancier things; I just want the computer to actually work.
 

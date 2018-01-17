@@ -6,20 +6,20 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Dietrich Groundsel. I live in the spook rich suburbs just outside the District. I'm a freelance creative consultant and curator of [otakugangsta.com](http://otakugangsta.com "Dietrich's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 "Vintage" [Mac Pro][mac-pro] Dual-Core 2.66 with dual 21" LG monitors. It is tempting to upgrade to my ideal setup, but my current rig gets the job done. I recently upgraded from an [iPhone 3GS][iphone-3gs] to a Space Grey [iPhone 6][iphone-6] with Stealth Grey [Magpul case][field-case-iphone-6]. The usefulness of the 3GS had run its course as a primary internet appliance but lives on as a music device usually attached to some [Audio-Technica ATH-M50x headphones.][ath-m50x] I would rather not have to use smartphones due to surveillance factors, and keep a feature-dumb flip-phone with the batteries out in a Faraday pouch at a dead drop well outside my home as a sort of insurance.
 
 My EDC changes day to day and includes either an [Acronymn 3A-3TS bag][3a-3ts] or [Goruck Radio Ruck][radio-ruck] carrying a mix of Moleskine, [Field Notes][field-notes] and Word notebooks, a few black [Pilot G-2 0.38mm pens][g2.2], an [iPad 3][ipad-3], a [Surefire Minimus headlamp][minimus], a [Carson Bandit 8x25 Quick-Focus Monocular][bandit-8x25], an [ITS EDC Trauma Kit][edc-trauma-kit], and a [Powermonkey Extreme][powermonkey-extreme-12v] for recharging devices. Packed inside a Radio Ruck field pocket I have a couple Go-Tubes holding select urban survival items from Vigilant Gear, assorted spare batteries and cables, a Fischer Space Pen and Rite in the Rain Tactical Pocket Notebook. On my person I usually carry the iPhone, a [Suunto Ambit2][ambit2], [flashlight and knife of the day](https://instagram.com/p/RgS0Y1hWUB/ "A photo of Dietrich's flashlight and knife."), a [TIHK][], select items from a [Vigilant Gear Micro SERE Kit][micro-sere-kit], [Lindberg AIR Titanium glasses][air] and [Yasutomo Wa-Ben wallet][wa-ben].
 
-#### And what software?
+### And what software?
 
 [Adobe Photoshop][photoshop] and [Illustrator][] for design. [Aperture][] for photo management. [Google Chrome][chrome] with [TweetDeck][] and [Tumblr][] open in the primary window. [Adium][] for chat. For email I use [Apple Mail][mail] with GPG Suite. [Lastpass][] for password management. [Notational Velocity][notational-velocity] for notes, ideas and lists, just about everything text based. [Firefox][], [Safari][], [TextMate][] and [Transmit][] are used when editing or designing sites. [Terminal][] when troubleshooting latency issues and for some remote admin. [Transmission][], rarely. On the iPhone and iPad I mainly use [Instagram][instagram-ios], [TweetDeck][tweetdeck-ios], and [Tumblr][tumblr-ios], and stock apps such as [Notes][] and [iCal][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup could easily get out of hand but would basically be a Mac Pro and a 13-inch [MacBook Air][macbook-air] completely maxed out, dual [27-inch Apple monitors][thunderbolt-display], wireless [keyboard][], [mouse][magic-mouse] and [trackpad][magic-trackpad]. Maybe a [Harman Kardon Soundsticks III 2.1 Channel Multimedia Speaker System with Subwoofer][soundsticks-iii] and an adjustable standing desk like a [Stirworks M1][stir-kinetic-desk-m1]. The gear would be housed underground in a reinforced matte grey 'iceberg stealth shack' with discreet satellite and solar hookups, hydroelectric power and hydroponic gardening; the sort of place riotous post-shtf bandits would pass right over.

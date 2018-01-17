@@ -6,23 +6,23 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jeffrey Brodsky](http://jeffreybrodsky.com/ "Jeffrey's website."). I make [electronic music](https://soundcloud.com/jeffreybrodsky/decay "One of Jeffrey's electronic songs on SoundCloud."), [dance music](https://soundcloud.com/xlr8r/jeffrey-brodsky-ill-be-strong "One of Jeffrey's dance songs on SoundCloud."), [pop music](https://soundcloud.com/jeffreybrodsky/never-let-you-go "One of Jeffrey's pop songs on SoundCloud."), [music for television and commercials](http://jeffreybrodsky.com/commercial-music "Jeffrey's TV and commercials music."), and play drums in the bands [YACHT](http://teamyacht.com/ "YACHT's website.") and [RAC](http://rac.fm/ "RAC's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [27" iMac][imac] for recording all my music through an [Apogee Duet][duet] jamming on a [Roland Juno-106][juno-106] and I recently got a [Moog Voyager][minimoog-voyager-performer] which I'm in love with. I also record with lots of little toys and other synths like the [Critter & Guitari Pocket Piano][pocket-piano], [the Korg volca bass][volca-bass] and the [Korg monotron DELAY][monotron-delay], which is an amazing way to make any super clean, crop, boring, sound like a broken dusty piece of vintage electronics.
 
 I also record a lot with my [4th generation iPad][ipad-4] because there are so many killer synth and music apps out there. I do my playback through the [KRK ROKIT 6s][rokit-6] which sound pretty good for the price. I'll play any old drum kit but my favorite cymbals are the [Istanbul 70s][nostalgia-70s-ride] and the [Zildjian 14" K hihats][14-inch-k-custom-dark-hihats].
 
-#### And what software?
+### And what software?
 
 [Ableton Live][live] is the centerpiece of my music production life, but I couldn't do what I do without the Arturia suite of plugins, or a bunch of amazing [Kontakt][] plugins like the [AbbeyRoad drums][abbeyroad].
 
 Also, like I said, there are some epic iPad apps that I love like [Korg Gadget][gadget-ios], [TweakyBeat][tweakybeat-ios], [SeekBeats][seekbeats-ios], [DM1][dm1-ios], [Magellan][magellan-ios], and [Animoog][animoog-ios]. I also recently made a song I'm pretty excited about using the [John Cage App][john-cage-prepared-piano-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Nothing too fancy, just something where everything is always wired up and ready to go. That way you don't have to trouble shoot the vocal mic, or pull out another cable to record a synth, or mic up a drum kit through a mixer and then do a stereo mix down into a two-input audio interface, etc. 
 

@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey! My name is [Jack Chen](https://chen.do/ "Jack's website."), but I'm mostly known as 'chendo' on and off the internet. I love solving problems, building products, and working with technology.
 
@@ -24,7 +24,7 @@ Some of the things I've made that you may have encountered:
 
 I have a keen interest in human-machine interfaces and am especially looking forward to thought-based control when they become a thing (and iron out security issues!).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My primary machine is a [15" MacBook Pro][macbook-pro] with the controversial TouchBar. I kind of like it, but it desperately needs haptic feedback.
 
@@ -44,7 +44,7 @@ Data is stored on a [Synology DS2415+][diskstation-ds2415-plus] with mostly [WD 
 
 I recently picked up a [Sony a7r ii][a7r-ii] as an upgrade to my old [Panasonic GH2][lumix-dmc-gh2] and absolutely love it. I also have a [GoPro HERO5 Black][hero5-black] for go karting and occasional snowboarding.
 
-#### And what software?
+### And what software?
 
 The basics:
 
@@ -72,7 +72,7 @@ I use BetterTouchTool to set my heavily-used global shortcuts for my most common
 
 For photography, I used to use [Aperture][] but am experimenting with [Picktorial][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If we somehow ended up in a world where human-machine interfaces were secure, I'd love to have bionic eyeballs, the ability to naturally invoke mental commands, external memory storage, a thought augmentation engine and my own AI agent -- kind of like Clippy, but less annoying.
 

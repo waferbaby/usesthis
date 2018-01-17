@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Brendon Chung and I make video games at my company, [Blendo games](http://blendogames.com/ "Blendo games."). I'm the only employee, so I do all the design, art, programming, and business stuff. I'm based in the Los Angeles area, and I've made games for PC, Mac, Linux, and [Xbox 360][xbox-360].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My home office desktop computer has an Intel i5 CPU (2.67 GHz) with 6 GB RAM and a 22" 1680x1050 Gateway monitor. I use [Logitech Z-2300][z-2300] speakers. Everything's set up on an [Ikea Jerker][jerker] standing desk, and I stand on a Sublime Anti-Fatigue Mat.
 
@@ -24,7 +24,7 @@ I like to be mobile and work outside of my office. For that, I have an ASUS lapt
 
 I have a 13-inch [MacBook][] I use for making Mac ports and testing.
 
-#### And what software?
+### And what software?
 
 My computers use [Windows 7][windows-7] for their operating systems. For [Subversion][] version control, I use [TortoiseSVN][].
 
@@ -38,7 +38,7 @@ Audio work is done in [Audacity][].
 
 I use [Notepad++][notepad-plusplus] for text editing. I had been using [OpenOffice][] for documents and spreadsheets, but have recently started moving things over to [Google Docs][google-docs]. It's convenient to be able to access my documents when I only have my phone on me.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like a large-scale monitor, to have the benefit of more screen real estate with the convenience of having just one monitor. I often need multiple windows open at the same time, and having them all displayed on one mega monitor would be ideal for me.
 

@@ -8,11 +8,11 @@ categories:
 - scientist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Ramsey Nasser. I am a computer scientist, game designer, and educator from Lebanon living in New York. I was an [Eyebeam Fellow](http://eyebeam.org/people/ramsey-nasser "Ramsey's fellow page.") and currently teach at a variety of Universities around the city and develop software as a freelancer while working on my own projects. I am particularly interested in code education and the design of programming languages and programming tools.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A [15" MacBook Pro][macbook-pro] from 2011 serves as my sole computer. It has 16GB of RAM (which is more than every computer I've ever owned combined), so it's snappy. At home, my 27" [Cinema Display][cinema-display], [wireless keyboard][keyboard] and trackpad turn my laptop into a desktop.
 
@@ -28,7 +28,7 @@ When it's not raining, a motorcycle is my preferred way of getting around. I rid
 
 I still have my [TI-83][] graphing calculator on my desk, and it gets used constantly.
 
-#### And what software?
+### And what software?
 
 I'm on [Mac OS][mac-os-x], having been a Linux user for a long time. OS X is fine, it works well as a POSIX system and works well as an OS that normal people (which I like to be from time to time) can use. [Homebrew][] is a must if you're a hacker using OS X on a daily basis.
 
@@ -46,9 +46,9 @@ I prototype a lot of my web-based projects on [Heroku][] and usually migrate the
 
 A lot of my game development happens in [Unity 3D][unity]. It is quick and easy to get something up and running, and Unity's Component system is quite powerful when used correctly.
 
-For long-form writing, I love [Byword][]. It turns my laptop into a typewriter and gets out of my way – perfect.
+For long-form writing, I love [Byword][]. It turns my laptop into a typewriter and gets out of my way -- perfect.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Well, I tend to feel that everything is profoundly broken, so my actual dream setup involves rewriting operating systems and applications as we know them from scratch.
 

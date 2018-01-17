@@ -8,13 +8,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Greg Kroah-Hartman](http://www.kroah.com/log/ "Greg's website."). I am a Linux kernel developer working for [The Linux Foundation](http://www.linuxfoundation.org "The Linux Foundation's site.") as a Fellow. I'm responsible for different parts of the Linux kernel as a maintainer (USB, driver core, staging area, other various bits), and I do the Linux kernel stable releases every week or so, taking the bug fixes from the latest development tree and backporting them to the last released kernel for all to use. 
 
 I started the [Linux Driver Project](http://www.linuxdriverproject.org "The Linux Driver Project's site.") many years ago while I was working at Novell/SuSE which provides free Linux drivers for any company that wants them. That project still continues today, writing a handful of new drivers every year.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My laptop is a [MacBook Pro][macbook-pro] Retina. My workstation is an old pieced-together Intel machine, the parts selected for the size and lack of noise more than anything else, with two large monitors connected. The laptop and the workstation all only have SSD drives in them. I have an old Dell workstation as a build machine for kernel testing, with an extremely fast Micron Flash PCI drive in it for building kernels. Thanks to Amazon's generosity, I've been doing a lot more kernel build testing on their AWS systems, utilizing a 32 processor, 64Gb virtual machine, allowing me to build multiple kernels at the same time all on a RAM disk in minutes. That has enabled me to be more productive while traveling.
 
@@ -22,7 +22,7 @@ I also have a few virtual and physical servers floating around the cloud that I 
 
 For a phone I have a [Galaxy Nexus][galaxy-nexus]. I also have a [Nexus 7 tablet][nexus-7], which I'm finding I like more and more these days, and have given up my previous [Kindle][] and iPad for it.
 
-#### And what software?
+### And what software?
 
 Linux everywhere of course. On the desktop I am running the [openSUSE][] Tumbleweed distribution (a rolling version of openSUSE that provides the latest stable packages) as I'm the one responsible for that distribution. I run [Gentoo Linux][gentoo] on my servers and my build machine. I am trying out [Arch Linux][arch-linux] on my MacBook as I wanted to see how that distro was due to hearing good things about it. So far I'm impressed with it, and given that openSUSE doesn't work on the MacBook Pro yet, I'm sticking with it for now.
 
@@ -32,7 +32,7 @@ For desktop environment, on my workstation, I use [GNOME 3][gnome], despite me c
 
 My Nexus 7 tablet is running the nightly [CyanogenMod][] releases and have had no problems at all with it. My Galaxy Nexus phone is running the stock Jelly Bean release from Google, no modifications.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I spend most of my time reading and responding to email, and over the years, my combination of mutt, vim, offlineimap, and msmtp really work just about as good as I could ever imagine, synchronizing emails around different systems without any loss of data. So on that front, I do have my dream setup already. Combined with git, the best source code control tool I've ever used (and I've used them all), I can set up a bare machine in a matter of minutes and have full access to all of my kernel trees, emails, and development tools.
 

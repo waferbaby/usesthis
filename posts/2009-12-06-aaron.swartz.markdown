@@ -9,11 +9,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Aaron Swartz](http://aaronsw.com/ "Aaron's site."). I co-direct the [Progressive Change Campaign Committee](http://boldprogressives.org "The PCCC site").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I just bought a new bottom-of-the-line [MacBook Pro][macbook-pro]. Before that I had an original white [MacBook][]. I felt a little bad buying something new when my laptop was still functional, but pieces were falling off of it and it was crazy slow. I started leaving it out in the open in hopes that someone would steal it, but that didn't work. Finally, I decided to concede and just buy a new one.
 
@@ -31,7 +31,7 @@ Herman Miller (somewhat puzzlingly) sent me a free [Embody chair][embody] to rev
 
 But my main computing device is an [Android G1][g1].
 
-#### And what software?
+### And what software?
 
 When I got the new computer, I only copied over the bare minimum I needed, so it made me pare back to the essentials. In the Dock, I keep:
 
@@ -51,6 +51,6 @@ On my servers, I run [Ubuntu][] with [GNU screen][screen]. I mainly program in [
 
 I wrote my own weblog software. I keep quotes in [Tumblr][], photos in [Flickr][], links in [Delicious][], and articles to read in [Instapaper][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I wish that I could lift up the screen on my laptop so that it would be closer to eye-level. I wish I had one of those desks that worked sitting down or standing up. I wish I had a faster Internet connection. I wish all my hard drives were consolidated onto one big drive. I wish I had SoundSticks. I wish my G1 was much, much faster. I wish that Terminal would have built-in support for screen so that different screens would appear as tabs and it would auto-reconnect. I wish that there was decent todo management software that deeply integrated with my email. I wish that everyone had perfectionist levels of attention to detail.

@@ -10,11 +10,11 @@ credits:
   url: http://www.flickr.com/photos/silvertje/5522016335/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a co-founder of [fightforthefuture.org](http://fightforthefuture.org/ "The Fight for the Future site."). The Internet has this massive potential to make peoples' lives better. Our mission is to defend and expand that potential. We're best known for organizing the first online protest against the censorship bill SOPA.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [MacBook Pro 13"][macbook-pro] with an SSD, and a 1TB drive in place of the optical drive (using Optibay).
 
@@ -26,7 +26,7 @@ I spend huge chunks of time in Brazil (my wife is from there and we've lived the
 
 I've also got [this wireless headset][wireless-headset-h760] that lets me stretch my legs on calls, and has a really good UI for muting, though the range isn't great.
 
-#### And what software?
+### And what software?
 
 I use [Taskpaper][] for personal todos, and [Trello][] for team todos. We use [Grove][] for group chat, which is a sort of perfect IRC / webchat hybrid. Since it's IRC, there's a million desktop and mobile clients that connect to it.
 
@@ -42,6 +42,6 @@ I use [Transmission][] to download stuff and [VLC][] to play it :)
 
 Finally, in the last couple years, affordable [Android][] phones got fast enough to be actually useful for day-to-day work. The large screens and the availability of almost every platform I use for Android makes it pretty easy to do real work on my phone. Swiftkey and Google's built-in voice recognition make typing almost fast enough (but not quite!). The only real gap is for composing and editing text, or building mockups. Speed and software are the limiters. It will be a beautiful day when I can ditch my Mac for a cheap phone or tablet with a (mostly) open source operating system.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A wireless headset with house-covering range and great battery life, perfect voice recognition with a good user interface, and a phone with good enough speed and software that I could use it for all aspects of daily work (writing and mockups, as well as browsing, email and chat).

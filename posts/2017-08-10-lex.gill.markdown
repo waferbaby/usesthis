@@ -6,13 +6,13 @@ categories:
 - researcher
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I'm a research fellow at the [Citizen Lab](https://citizenlab.ca/ "A research lab inside the University of Toronto.") and a legal researcher at the [Canadian Civil Liberties Association](https://ccla.org/ "A Canadian group fighting for civil liberties and human rights."). Between these two roles I work on all kinds of stuff -- from encryption policy and national security to policing, prisons and borders. My favourite legal problems are messy, high-stakes, and interdisciplinary. 
 
 Both organizations are based in Toronto, but I mostly live and work in Montreal. It's still a little gritty, and intensely creative -- queer and quirky and brave. No matter how much I travel, being a Montrealer is a big part of my setup. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a early 2016 [12" MacBook][macbook.2] (space grey!) and an [iPhone 6S][iphone-6s] (gold!).
 
@@ -22,7 +22,7 @@ I can't find an e-reader I like, so I do a lot of long-form reading on this real
 
 I have an [Apple Watch 2][apple-watch-series-2], which I use pretty much exclusively as a fitness tracker (I'd never get anything done if I enabled other notifications). I get everywhere on a [cheap and reliable fixed gear bike][draft-lite] and have a set of [rainbow Monkeylectric lights][m204] which are an endless source of joy for small children and drunk local partygoers alike.
 
-#### And what software?
+### And what software?
 
 I'm a [Todoist][] power user. It's beautiful, reliable, and intuitive -- just about everything I plan to do or want to remember gets catalogued there somehow. I'm not a very good multi-tasker ([apparently few people are](http://nymag.com/scienceofus/article/high-intensity-interval-training-work-productivity-breaks.html "A NYMag article about managing time.")) so it helps free up my working memory. 
 
@@ -32,7 +32,7 @@ A lot of my day-to-day work involves quiet writing and legal research, but I can
 
 I support [the Tor Project][tor], and use Tor for as much of my browsing as I reasonably can. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I have almost superstitious ideas about how spaces change the way we think and work. I think being in the right environment can encourage people to be their best selves. 
 

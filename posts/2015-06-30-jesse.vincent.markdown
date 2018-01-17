@@ -12,13 +12,13 @@ credits:
   name: Julian Cash
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Jesse Vincent, and I make stuff. I've spent most of my career writing software of one kind or another, though for the past two years, I've primarily been working on hardware.
 
 I'm co-founder and CTO of [Keyboardio](http://www.keyboard.io/ "Jesse's keyboard startup."), a boutique keyboard startup. We're making a gorgeous hackable ergonomic keyboard, the Model 01. This all started off as a hobby. After my last startup cratered, I decided to take a year off to screw around. Somewhere in there, I discovered that making your own keyboard was kind of a thing and decided to give it a try. Not that I knew how to design circuit boards, solder, laser cut, 3D print or CNC mill things. Somewhere a couple months in, people in cafes started to ask where they could buy my keyboard. I blogged about it. A few days later, there were a thousand people on our waitlist. The rest, as they say, is history.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Right now, I'm typing this on my prototype Keyboardio Model 01 keyboard. It features a split layout that echos how your fingers actually move, mechanical keyswitches and a CNC-milled hardwood enclosure.
 
@@ -54,7 +54,7 @@ The multimeter is a $5 item I picked up at [GuangHua Digital Plaza](http://www.g
 
 Non-hardware-hacking things in the travel kit include spare MicroUSB cables, a fast-charging USB wall plug, a [PortaPow USB condom][fast-charge-data-block-usb-adaptor], a couple SD cards and a USB stick or two. The PortaPow does something pretty simple - it severs the data line on a USB connection. This makes it much harder for a malicious host to pwn your device when you plug it in to grab a few spare electrons. More practically, it tricks your device into charging much faster because it believes it's connected to a wall plug rather than a computer.
 
-#### And what software?
+### And what software?
 
 I've been living my life on the command-line for... a very long time. Many of my workflows are very... terminal-centric. I'm writing my responses to this interview in 'note', a shell script I've been using instead of [Evernote][] for a good few years:
 
@@ -93,7 +93,7 @@ For 'traditional' solid CAD, I've been using [Autodesk Fusion 360][fusion-360]. 
 
 There are some things, like USB debugging, that Linux is just better at. As you might expect, that's not the sort of thing that works well in virtualization, either. To that end, I went out and bought the aforementioned JetDrive and installed a recent Ubuntu + [GNOME][] on it. I was blown away by how much it didn't suck. It even deals reasonably well with the Retina screen on the MacBook. I use [rEFIt][] to triple-boot between OS X, Windows and Linux. I still feel a little dirty booting to Windows in public.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm still waiting for my heads-up virtual display. It's my hope that the recent interest in VR gaming will get me the lightweight infinite desktop I've always wanted.
 

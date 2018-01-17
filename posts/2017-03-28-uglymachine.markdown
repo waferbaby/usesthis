@@ -6,7 +6,7 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [EMiSpicer](http://uglymachine.net/ "EMi's website."). I'm best known for my work as a documentarian photographer. The main focus of my photos is music and video game culture events, mostly in indie and DIY-inspired spaces. I also work with instant film photography, the bulk of that work being portraiture or environmental photos. I've recently begun shooting using crappy film cameras instead of my cellphone for slice of life style photography.
 
@@ -14,15 +14,15 @@ In addition to that I work as an events organizer. I book music shows, most nota
 
 Finally, I'm employed as a social media manager for the gaming company [MidBoss](http://midboss.com/ "A diverse game studio in San Francisco."), which creates queer-focused media. We recently released a game called [_2064: Read Only Memories_][2064-read-only-memories] which is available now on [PS4][] and PC!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My digital camera is a [Nikon D750][d750], with which I use with a [50mm lens][af-nikkor-50mm-f1.8d], an [18-200mm lens][af-s-dx-nikkor-18-200mm-f3.5-5.6g-ed-vr-ii], and occasionally an [external flash][sb-700-af-speedlight]. Due to financial constraints my rig is very minimal, and I tend to push it to its limits. I think I probably own 15 or 20 Polaroid cameras, but these days I primarily shoot on an [SX-70 Sonar][sx-70-sonar]. Then there's all the disposable cameras I use, which I buy in bulk from Amazon. I edit on a 2014 15" Retina [MacBook Pro][macbook-pro].
 
-#### And what software?
+### And what software?
 
 [Adobe Bridge][bridge] for image selection, and [Adobe Photoshop][photoshop] for gentle retouching. I keep things simple!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Ah oh gosh. I'm not much of a gear head if I'm being honest, so my lens wishlist is very small at the moment. I had been borrowing a [24mm f/4][nikkor-20mm-f4] from a friend for several months and really miss it though. I'm hoping when I have some extra cash I'll be able to get it back.
 

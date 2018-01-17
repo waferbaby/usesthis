@@ -8,17 +8,17 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Alex Evans, and I'm a co-founder at PlayStation game makers [MediaMolecule](http://www.mediamolecule.com/ "The MediaMolecule website.") ([LittleBigPlanet][], [Tearaway][]). I'm mostly responsible for the look of games (the 'graphics engine', as we call it), as I seem to care more about how they look than how they play. I used to make visuals for Warp Records and others as 'bluespoon', and learnt to program largely thanks to the demoscene (as '[statix](http://www.pouet.net/prod.php?which=75 "A demoscene coded by Alex.")'). I've always been interested in using code directly to create moving images, and all of the above falls under that broad category.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home, I have a 13" [MacBook Air][macbook-air]; all of LittleBigPlanet's servers were written on its predecessor, an 11" Air. I love the smaller form factor even more than the 13". At work, I have a couple of home-brew PCs with multiple Dell 27" monitors, and a stack of [Playstation 4][ps4] devkits, at least one of which is connected to a large LG telly. It's one of the few televisions where you can switch off all the processing, re-scaling, sharpening and tinting of the image - so that my lovingly crafted 1080p pixels are displayed 1-to-1, as unmolested as possible. It's incredibly frustrating how hard this is to do, and often impossible on consumer televisions.
 
 I have a [monome 128][one-twenty-eight] which I adore from afar - it is as yet unused, as it arrived at roughly the same time as my first child. I can't wait to use it! I also long for an [Ableton Push][push]. I would probably use both devices as tactile interfaces to whatever random code doodles I feel like creating in my 'down' time, whether audio or visual. One of the things I learnt working with live electronic musicians is that nothing beats a real, tactile interface. Call me a luddite, but touchscreens and even touchless interfaces like [Leap Motion][leap-motion-controller] leave me a bit cold; a physical push button, slider or knob is a wonderful thing to touch, especially when it 'magically' controls an explosion of digital colour and sound.
 
-#### And what software?
+### And what software?
 
 On my Mac, I use [Sublime Text][sublime-text] to edit [C++][c-plusplus] code compiled with simple [make][] files, to create [OpenGL][] 'toys'. I'm not a Mac expert, and I loathe [Xcode][] every time I try to use it. I love [clang][] however. Between [GLFW][], [PortAudio][], Sean Barrett's [stb libraries][stb], OpenGL and the [C][] standard library, I have everything I need to tinker with musical and visual experiments, with a minimum of fuss and API learning. I avoid larger or higher level libraries; I find peace in understanding more or less how my code is working, down to the CPU/GPU level.
 
@@ -26,7 +26,7 @@ I've really enjoyed relaxing creatively by using [ShaderToy][] [as a sketchpad](
 
 At work, I almost exclusively use [Microsoft Visual Studio][visual-studio] to write PS4 code, along with MediaMolecule's in-house tools. We build games about making games - so I find myself using traditional content creation software ([Photoshop][], [After Effects][after-effects], [Maya][], [3D Studio][3ds-max]) less and less. It ends up being quite a minimalist setup! Lastly, I find [Twitter](http://www.twitter.com/mmalex/ "Alex's Twitter account.") surprisingly useful for staying up to date with the latest developments in the real-time graphics world.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Something that doesn't get in my way! Ever since I learnt to program, I've enjoyed having a creative (virtual) environment to play in, with minimum fuss. Initially that was writing ['trackers'](http://en.wikipedia.org/wiki/Music_tracker "The Wikipedia entry for Music Trackers.") and later this evolved into VJing. Trackers are very immediate, very rewarding. I have written 4 large scale versions of a live visuals/VJ setup - collectively called 'bluespoon', with various idoms for creation. The first was raw C code, and never made it out of small pub gigs; the second took inspiration from AfterFX-type interfaces, and did me proud for a few early Warp gigs like their 10th birthday party; the third was 'boxes and lines' akin to [Pure Data][pure-data] or [vvvv][]; the fourth was something like a personal version of [openFrameworks][] or [Cinder][]. All of the preceding links I recommend checking out if you don't know them!
 

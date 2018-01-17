@@ -7,13 +7,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Hiné [hee-neh] Mizushima](http://www.hinemizushima.com/ "Hiné's website."), and I am a super-slow crafter who currently lives in Vancouver, Canada with my family. I was born and raised in Japan, and I majored in Japanese traditional paintings at my art university in Tokyo.
 
 My main work is [felt sculpture (needle-felting)](http://www.hinemizushima.com/72050/felt-sculptures "Hiné's sculptures."). I like to make squids octopi, bugs, microbes, mushrooms and dolls, etc. I also make stop-motion animation music videos (mostly for [They Might Be Giants](https://www.behance.net/gallery/8439009/Video-Insect-Hospital "Hiné's TMBG video on Behance."), [dioramas](https://www.behance.net/gallery/25898041/Cephalopod-Anatomy-Class "Hiné's anatomy diorama on Behance.") and [miniature collages](http://www.hinemizushima.com/335608/miniature-collage "Hiné's felt collages.") using my felt sculptures. My work has been exhibited in galleries in many cities, and published in books, magazines and on DVDs as well. I sell my felt creations and prints on [my Etsy shop](https://www.etsy.com/shop/hine "Hiné's Etsy store."), and I also have a Society6 [art print & goods shop](http://society6.com/hine "Hiné's Society6 store.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I just realized that I don't use much hardware, because my work is mostly handmade!
 
@@ -25,7 +25,7 @@ For crafting, I use [these tools](https://www.flickr.com/photos/sheishine/160465
 
 I got a [Kindle][] last year as a gift. Now I finally can buy and read Japanese books anytime via Kindle (there's no Japanese book store in Vancouver). That's so wonderful!
 
-#### And what software?
+### And what software?
 
 I use [Adobe Photoshop][photoshop] almost everyday for fixing up photographs of my work, but I'm totally at beginner level. Sometimes I use [Illustrator][] too, for making illustrations, miniature props, and my shop cards, tags, stickers, etc.
 
@@ -33,7 +33,7 @@ When I work on stop-motion music videos, I use [Final Cut Express][final-cut-exp
 
 I love [Instagram](https://instagram.com/sheishine/ "Hiné's Instagram account."), [Flickr](https://www.flickr.com/photos/sheishine/ "Hiné's Flickr account.") and [iPhoto][]. I use them everyday.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I love [my home studio](https://www.etsy.com/seller-handbook/article/inspiring-workspaces-hine/22265183158 "An Etsy interview with Hiné.") but it's tiny, so I want a bigger one. I wish I could have a second big desk there, exclusively for photographing and cutting papers & fabrics.
 

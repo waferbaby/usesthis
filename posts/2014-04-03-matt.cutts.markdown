@@ -6,11 +6,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Matt Cutts and I'm the head of the webspam team at Google. Our group [works to ensure](https://www.google.com/intl/en/insidesearch/howsearchworks/thestory/ "Details behind how Google's search works.") that Google's web search results are relevant, useful, and spam-free. My first project at Google was [SafeSearch](https://support.google.com/websearch/answer/510?hl=en "Details about Google's SafeSearch."), a family filter that removes porn. Before that, I was studying computer graphics and motion tracking at [UNC-Chapel Hill](http://unc.edu/ "The University of North Carolina at Chapel Hill's website."). You can find me at [my personal website](http://www.mattcutts.com/blog/ "Matt's website.") or [@mattcutts](https://twitter.com/mattcutts "Matt's Twitter account.") on Twitter. I'm [+MattCutts](https://plus.google.com/+MattCutts/posts "Matt's Google+ account.") on Google+, but I'm not on Facebook. My wife and I have two cats, [Emmy and Ozzie](http://www.mattcutts.com/images/two-cats-and-laptop.jpg "A photo of Matt and his kitties.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For my day-to-day work, I've been using a [Chromebook Pixel][chromebook-pixel] since June 2013. It has a couple Google-specific Chrome extensions to access our virtual private network, but otherwise it's an off-the-shelf Chromebook Pixel. Before June 2013, I'd used IBM/Lenovo ThinkPads since 1999, usually with [Ubuntu][] Linux installed. At work I use a standing desk to keep me on my toes.
 
@@ -42,7 +42,7 @@ I'm also a runner. For headphones that won't come out, I recommend Sony's [MDR-A
 
 [Strava][] is a free smartphone app and website for tracking your running and biking. Once you have a few friends in Strava, you can share kudos and motivate each other. Of course, you can also get a dedicated GPS watch for running. If you're going to run no more than 5-6 hours (like a marathon), I'd recommend the [Garmin Forerunner 610][forerunner-610]. It has an intuitive interface and touch screen. If you plan on running 7-8 hours or more (like a half-Ironman or more), the [Garmin Forerunner 910XT][forerunner-910xt] is really nice. 
 
-#### And what software?
+### And what software?
 
 For my day-to-day software, it's pretty much [Chrome][] and the web. In 2009 I set myself a [30 day challenge to stop using Microsoft software completely](http://www.mattcutts.com/blog/30-days-no-microsoft-software/ "Matt's article on his 30 day challenge."), and after that challenge, [Word][] and other Windows software isn't really appealing. Day to day, I use Linux, Chrome, [Chrome OS][chrome-os], and [Google Apps][google-apps] to get all my work done. I use [Google Authenticator][google-authenticator-android] and [two-factor authentication](https://support.google.com/accounts/answer/180744?hl=en "Details about Google's two-factor authentication.") to make my Google accounts more secure.
 
@@ -59,7 +59,7 @@ For my phone, I use a [Moto X][moto-x] running [Android][] on Verizon. I use mos
 - The latest [Fitbit Android app][fitbit-android] will sync with your Fitbit -- no need for a desktop computer or base station any more. Soon I won't even need a desktop computer for my self-tracking fitness devices, thanks to Bluetooth Low Energy (BLE). Once printers, scanners, storage and my devices are wireless, I'll probably switch to a Chromebox for my home desktop computing.
 - If you haven't tried [Waze][waze-android] yet, it's really good at shaving off a few minutes from your morning drive commute.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Let's see. How about contact lenses that lase images directly on your retina. But, you know, gently so there's no damage. And we'll also want high quality earphones that are as unobtrusive as hearing aids. Do those subvocal microphones from all the SEAL team/Tom Clancy technothrillers really exist? Let's say they do, and I'll take one of those. At that point, I could be wired up pretty much any time I want. Next we'd need ubiquitous Internet access, either from [satellites](http://www.computerworld.com/s/article/print/9246033/Satellite_hotspot_promises_to_bring_Wi_Fi_everywhere "An article about satellite WiFi hotspots.") or [Project Loon](http://www.google.com/loon/ "Google's balloon-powered Internet access project."). Either is fine; I'm not picky.
 

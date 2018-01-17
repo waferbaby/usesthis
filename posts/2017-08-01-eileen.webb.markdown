@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Eileen Webb and I'm a content strategist focused on structure and systems architecture. I like organizing content and making clever data models, and especially I like working with teams to figure out how to document and communicate that strategy and structure so that everyone can use it well. Practically speaking, I:
 
@@ -18,7 +18,7 @@ I'm Eileen Webb and I'm a content strategist focused on structure and systems ar
 
 My official job title is [Director of Strategy and Livestock](http://webmeadow.com/ "Eileen and Aaron's company site."). I live on a small farm and raise [poultry](https://twitter.com/webmeadow/status/787023685265657860 "Eileen's Twitter photo of her poultry.") and lambs and pigs and [rabbits](https://twitter.com/webmeadow/status/836584676181434370 "Eileen's Twitter photo of her bunnies."). I [cook](https://twitter.com/webmeadow/status/828289423322148864 "Eileen's Twitter photo of her bagels.") a lot, raise a big garden, make some of my own clothes, and spend a lot of time [hanging out in the woods](https://twitter.com/webmeadow/status/773190108564582400 "Eileen's Twitter photo of the woods.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [MacBook Pro][macbook-pro] that's a few years old. The most taxing thing I do is join [Google Hangouts][google-hangouts] (hey cooling fan heyyy), so I expect it to last me for a while longer. My partner and I have only a single iPhone between us, which people think is crazy, but there's not much cell signal up in our mountains so there's no reason to have two. 
 
@@ -30,7 +30,7 @@ I swear by Premier electric fence netting for protecting all our animals. Techni
 
 Also I love having a window-mount bird feeder near my desk. I get visitors all day.
 
-#### And what software?
+### And what software?
 
 In the summer my primary software is the [hammock on my back deck](https://twitter.com/webmeadow/status/746841330974810112 "Eileen's Twitter photo of her hammock."). I've figured out a way to wedge my laptop securely between the sides, and it's a pretty great way to review spreadsheets. 
 
@@ -40,6 +40,6 @@ I use [iA Writer][ia-writer] for all my writing and note taking because I like h
 
 Whenever I need to buckle down and focus, I put on headphones and fire up [Brain Wave][brain-wave-ios]. Supposedly it's adjusting my brain frequencies to be better focused and energized, or maybe it's just a Pavlovian association I've created between listening to that ambient sounds and getting good work done. It's at least 62% pseudo-science, but who cares? 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It's buggy here, so I would love a screen porch. I should probably have a more ergonomic screen/keyboard rig, but to be honest I'd rather just spend less time typing than more time making it comfortable. I'd make good use of a tea station (boiling water, bar sink, etc) upstairs in my office, instead of having to trek downstairs to the kitchen like an animal. We **really** need a legit barn (instead of the collection of sheds and hutches we have for the livestock now), but I think that will have to wait for our next house. These are all extra luxuries, though. My life is good.

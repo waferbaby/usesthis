@@ -7,7 +7,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I've been at Google since March 15th; my title is "Developer Advocate" currently working on Android-related stuff. But really I'm a general-purpose Internet geek. Seems to me that the Net is still at the center of everything that matters.
 
@@ -15,7 +15,7 @@ If I die without discovering the cure for the common cold or bringing peace to t
 
 Most of the software I've written over the years was closed-source and is thus out of sight, but there are [a few bits and pieces](http://www.tbray.org/ongoing/misc/Software "Software written by Tim.") visible. Since 2004, I've written more than a million words on [my blog](http://www.tbray.org/ongoing/ "Tim's weblog.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I just got a new 13" [MacBook Pro][macbook-pro]; small and light and with an SSD. It's slick, has FireWire and an SD card reader. I'm very happy except that the SSD is only 113G so I have to carry around an outboard disk for my pictures.
 
@@ -27,7 +27,7 @@ In my office I plug a 24" Sun display, an Apple outboard keyboard, and some Logi
 
 For many years, off in the back rooms at Sun I had a [SPARC T2000][sun-fire-t2000] that I use to run concurrency experiments of [one kind](http://www.tbray.org/ongoing/When/200x/2008/05/01/Wide-Finder-2 "Tim's post on Wide Finder 2.") and [another](http://www.tbray.org/ongoing/When/200x/2009/09/27/Concur-dot-next "Tim's posts on Concurrent Programming."). I'll need something at Google to replace that. I carry around a [Nexus One][nexus-one] Android phone.
 
-#### And what software?
+### And what software?
 
 I'd like to use Free Software but I'm addicted to [Keynote][], [Lightroom][], suspend/resume that Always Just Works, and a competent outboard-display manager.
 
@@ -41,7 +41,7 @@ On the Android I use mostly the built-in stuff. Then there's [Twidroid][twidroid
 
 On the server, everything I work on seems to involve some combination of [Debian][] Linux or [OpenSolaris][], Apache [httpd][], Ruby, [Rack][], and [MySQL][]. I prefer Ruby to all other programming languages although I'm probably more proficient in C, and have a big soft spot for Erlang.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like my computer to be lighter and faster, my screen to be bigger and brighter and have better color, Mac OS X and its apps to be open-source, and to have whatever the hot Android phone of 2 years from now is going to be.
 

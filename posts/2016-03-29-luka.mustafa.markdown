@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Luka Mustafa, otherwise known as Musti, a 20 something year old diggin' deep into creating open source things. Currently I'm a Shuttleworth Foundation Fellow, working full-time on development of the wireless optical system [KORUZA][] at [Institute IRNAS Rače](http://irnas.eu/ "Luka's hardware hacking institute.") in Slovenia that I founded in 2014. I'm also a PhD student at University College London.
 
 My work focuses on opening up technology to solve real and immediate problems I see in the world, enabled by some great funding opportunities and an awesome team assembled around me. Current development projects include developing a novel and open wireless optical communication system (KORUZA), backing it up with the low-cost and manufacturing suitable toolset of [GoodEnoughCNC machines](http://goodenoughcnc.eu/ "Luka's open source CNC machines."), designed to be built out of commonly available parts. My vision is to develop and create systems that enable people on a global scale to solve their own problems.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The hardware I use is a mix of reasonably priced industry grade equipment and a bunch of open hardware systems, a good number of them developed with my team, documented in an incomplete list at [http://irnas.eu/services](http://irnas.eu/services "A partial list of some of the equipment Luka uses.").
 
@@ -28,7 +28,7 @@ Handheld power tools: A selection of generally cheaper/discount brands, but only
 
 Electronics dev hardware: The complete range of open source, open hardware utilities like [Bus Pirate][bus-pirate], and a number of other open source tools, completed with generally available oscilloscopes and power supplies. A large box of [Arduino][] and other open hardware platforms is a part of the toolset - just picking what works best for the particular task.
 
-#### And what software?
+### And what software?
 
 Software, as for the hardware, is a mix of just about everything we might need to get a project developed. Since most hardware development software is for Windows, that's the preferred platform for most work, except software and networking which is so much easier on Ubuntu with the native shell.
 
@@ -38,6 +38,6 @@ For communication with my team as well as the outside world, we use a mix of [Sl
 
 Open source documentation for the projects is all located on [GitHub][], as the workflow is simple enough for anyone to use, not just software devs, while simultaneously offering web hosting and thus direct user commits to a live set of instructions or websites about open projects.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 In my terms, the dream setup is a highly motivated group of people, each being able to use whichever tools they choose to develop solutions in a rapid prototyping flow. Generally this defaults to using open source tools where understanding and modification of them may be needed, and converging on whichever tool/software/process offers the most effective workflow to get the job done.

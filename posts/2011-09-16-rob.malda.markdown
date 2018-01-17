@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Rob](http://cmdrtaco.net/ "Rob's website."). [Slashdot](http://slashdot.org/ "News for nerds."). Brief Enough?
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm currently using a 17" 2.3 ghz Core i7 [MacBook Pro][macbook-pro] laptop for pretty much all of my computational needs.
 
@@ -19,13 +19,13 @@ I have a [Drobo][] plugged into an ancient Macbook in my basement with 2 TB on i
 
 I also have a [PodPro][pod-pro] on my desk and a red [Gibson SG][sg-standard] on the wall, but I usually wear headphones because I am a conscientious person, and I fear that people on the other sides of my office walls have firearms if I cycled through all 3 power chords a couple times per day.
 
-#### And what software?
+### And what software?
 
 Truthfully almost everything I do lives inside of [Chrome][]. Webapps for mail, news, spreadsheets, doc writing, bug tracking, reporting, and the entire Slashdot administrative UI. etc. My work is all in a web page.
 
 I create [Fluid][] installs for each of my major web applications ([Mail][gmail], [Google Reader][google-reader], Slashdot, [Google Docs][google-docs], we use [Jira][] for bug tracking internally, etc). I've used a number of different chat clients - I find myself increasingly using the built-in chat and Facebook chats. The only thing that taxes this beast of a machine is the occasional video game, but besides playing the [Warcraft][wow] auction house, I don't have much time for games these days. I use [Aperture][] for organizing my photo library. I have an [Apple TV][apple-tv] that basically is used by my kids to watch Cars or Toy Story 3 whenever Mommy and Daddy need 30 seconds to boil water. Sometimes I rip a DVD. This thing transcodes videos at 3-4x the actual frame rates, although it sure does get the fans spinning up. I wouldn't recommend leaving it directly on your lap.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd really like another monitor and a VESA mount so I could suspend a second screen without eating up my desk space. Then I could keep stuff that I casually monitor throughout the day visible, but without losing screen real-estate for the core of my day, which is generally spent writing documents, emails, and of course reading stories.
 

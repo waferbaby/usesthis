@@ -10,15 +10,15 @@ credits:
   url: http://nycfoodphotographer.com/html/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Morgan Holzer, and I work for the [New York Public Library](http://www.nypl.org/ "The NYPL's website.") (NYPL). I'm the Information Architect for the user experience team, which basically means that I try and make our website and other digital products work well for our patrons.
 
-I often equate my job to that of a building architect — just like they need to make sure that the floors are sound and people can walk across without hitting beams, get to an elevator and push a button and when they get off they see what they expected to see, I have to make sure that if a patron is on our website, they can understand our navigational elements and when they get to a page all of the information they need is front and center.
+I often equate my job to that of a building architect --- just like they need to make sure that the floors are sound and people can walk across without hitting beams, get to an elevator and push a button and when they get off they see what they expected to see, I have to make sure that if a patron is on our website, they can understand our navigational elements and when they get to a page all of the information they need is front and center.
 
 I also run the Library's [Instagram account](http://instagram.com/nypl "The NYPL's Instagram account.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have an [HP EliteBook][elitebook-2570p] attached to a nice big [HP monitor][zr2440w] with an additional wireless Logitech keyboard and mouse combo. I have [giant red headphones][tempo] from Urban Beatz that dwarf my head but keep out noise nicely. And I use an [iPhone 5][iphone-5] to shoot all of my [Instagram][instagram-ios] photos. 
 
@@ -26,7 +26,7 @@ I also use a lot of things you might find in an elementary school art class. Mar
 
 I keep a lot of notes in journals from [Ex Libris Anonymous](http://www.exlibrisanonymous.com/ "Notebooks made out of old books."). They are made out of old library books, which I get a kick out of; and they are good conversation starters in meetings. I write a lot in pencil, and the [Paper Mate Pink Pearl eraser][pink-pearl] is sometimes my best friend.
 
-#### And what software?
+### And what software?
 
 Desktop [Rdio][] set to a random song station every morning means one day I'm listening to Pavarotti and the next it's rappers who sample 70s soul music. Almost all of my work ends up in some sort of [Google Doc][google-docs] or Sheet.
 
@@ -34,6 +34,6 @@ I do a lot of testing for work, and use a lot of different software for that. Op
 
 I let [Basecamp][] handle a lot of my freelance projects; and the [Wunderlist app][wunderlist] organizes things for me. I've been experimenting with [Tapestry][] to find a new avenue to engage our patrons, and am in love with FiftyThree's [Paper app][paper-ios]. It is beautiful.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm actually pretty happy with [my current setup](http://instagram.com/p/ksqPNVijTi/ "A photo of Morgan's desk."). It would be great to have a bulletin board and a giant basket filled with colored push-pins. I keep saying I'm going to order a GoPro for recording spontaneous user testing. And I want a nice DSLR.

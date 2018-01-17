@@ -7,11 +7,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Daniel Stenberg](http://daniel.haxx.se/ "Daniel's website."). I'm an open source developer and consultant. Some of my claims in life so far include being the creator and main developer of [curl][] and libcurl, leading additional projects such as [c-ares][] and [libssh2][], as well as having co-founded [Rockbox][]. I'm a contract embedded systems developer by day and an Internet protocol addict by night. I work at [Haxx](http://www.haxx.se/).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 <img src="/images/interviews/daniel.stenberg/computers.jpg" width="500" height="335" alt="The Stenberg family computers." class="detail">
 
@@ -29,7 +29,7 @@ The household internet setup is all centered around where media converter is loc
 
 There's not a single tablet in my house, since I simply haven't found any compelling reason for one. I'm assuming I'll figure out a reason one day...
 
-#### And what software?
+### And what software?
 
 I'm a Linux guy. I run Linux on as many machines as possible and out of all distros I really prefer [Debian][]. I run Debian unstable on my primary machine, and I use Debian testing and most others. Apart from the OS, I'm a [C][] coder and an [Emacs][] user, and what more do you need?
 
@@ -37,7 +37,7 @@ I was quite happily using [gnome2][gnome] and I'm one of those guys really upset
 
 I do daily backups of my primary machine to the NAS and to a friend's (off-site) NAS.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I wouldn't mind having a refreshed pair of developer machines, like:
 

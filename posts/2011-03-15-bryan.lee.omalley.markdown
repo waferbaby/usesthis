@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Bryan Lee O'Malley](http://radiomaru.com/ "Bryan's website.") and I draw comic books mostly. I did a thing called [Scott Pilgrim](http://www.scottpilgrim.com/ "The Scott Pilgrim website."), some people liked it, it's over now.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a 24" [iMac][] for my desktop and a 13" [Macbook][] for my laptop. I mainly do artwork production on the desktop and writing, music and web junk on the laptop. They are both circa 2009 and so I can't justify upgrading them for another couple of years, which is the saddest thing in our modern world.
 
@@ -22,7 +22,7 @@ My desk is actually pretty nice. It's a Biomorph ergonomic desk. It's curved and
 
 Scanner: [Epson 10000XL][expression-10000xl]. Pretty much the best I can imagine. Printer: some HP monstrosity for color. It's terrible, it causes actual nightmares. I also have a Brother laser for document printing that I cannot complain about.
 
-#### And what software?
+### And what software?
 
 [Photoshop][]: I got CS5 recently and have been pretty impressed. There are actual improvements and new features that I actually use regularly, like the fancy zoom tool and the magical heal brush and the special magic wand. The best is that they finally have fancy brush tips that recognize all the motion of my Wacom stylus, so sketching on the tablet FINALLY feels like I'm actually drawing.
 
@@ -30,7 +30,7 @@ I dunno, what else? Sometimes I use [Final Draft][final-draft] to write scripts,
 
 I think I kind of hate software and I want it all to become invisible. That's why I switched to a Mac in the first place (in 2009) after a lifetime of messing around with PCs and having knowledge and technical crap in my head. I just don't care anymore. I have other stuff to do.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As a cartoonist who does the majority of his work in ink on paper, I don't need all that much. I'm considering a [Cintiq][] (I'm on the waiting list, actually) but it'd mostly be a toy. Who knows, maybe I'll love it and start doing more things with it. I do find myself sketching more on the computer now that Photoshop CS5 has workable brushes (and I'm too lazy to go over to my drawing table most days -- I haven't used it in months).
 

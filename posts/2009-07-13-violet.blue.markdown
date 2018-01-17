@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://tinynibbles.com/ "Violet's website.") an author, columnist, speaker, sex educator, pro-porn pundit, media disruptor, pinup model, sex ed nerd, sex and technology futurist, and tech fetishist.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home I run a [Mac Mini][mac-mini] (Intel Core 2 Duo) with an aluminum Apple [Cinema Display][cinema-display] circa 2007, with a Porsche LaCie hard drive as backup, plus an extra Mini from 2006 that I use for slave tasks. That setup, my Lumix camera, and my home music setups are the only pieces of hardware (currently in use) that I've purchased: the rest are gifts from anonymous individual sponsors, or from company sponsors.
 
@@ -21,7 +21,7 @@ In my purse at all times I have a camera and two phones, and a small card reader
 
 Either way I require a phone with 3G, QWERTY, 30fps video and a decent lens. Instant mobile uploading is *everything* to me. I've hacked the Ocean and Nokia(s) to hell and back so I can use [Flickr][], 12seconds and [Qik][] any time, any place with any kind of image I can create -- all meshed into whatever RSS I think is the right channel for the video or photo media I create (my [Twitter][] stream, my blog, my Flickr, etc.). I need complete control over my media. The Ocean has had me with 3G for years; but the Nokia is easily hacked into a modem for my laptop so I'm always connectable, even if it's beholden to AT&T's annoying coverage whims. If someone gave me a new iPhone -- now that the hardware has caught up to my needs with 3G and video -- I'd actually use an [iPhone][] now (I wasn't interested before), especially because I want to make media with apps my friends have been writing and releasing.
 
-#### And what software?
+### And what software?
 
 All my Macs run [Leopard][mac-os-x]. My primary work is done through [Firefox][] and I tend to beta whatever they're working on; offline I piecemeal corporate crap for persnickety reasons. I don't believe in paying corporations for software; I like to give money to individuals. That said, I do most of my writing in [MS Word][word] because most mainstream media outlets and my publishers all use Word, plus it's got features that allow me to see who did what to my docs even if they think I can't see changes have been made; also the Track Changes function is essential when I'm arguing a point with an editor. Otherwise I'd use [Google Docs][google-docs] exclusively. I use [Google Sheets][google-sheets] to track authors in anthologies, to share work projects with others or teams, and I use Google Docs when I do onstage presentations so I never need to worry about having the right hardware -- all I need to give a talk is to show up (and use their Internet connection and projector).
 
@@ -33,7 +33,7 @@ Online I use Firefox (with [AdBlock Plus][adblock-plus]), a [Fluid][] app for [G
 
 I know, I know -- I like to be disruptive, but I hate being interrupted when I'm writing.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I live in a constant state of wishing all hardware would catch up to my needs. My dream home setup would be two large (like 26") LCD flat panel displays and one smaller ancillary flat panel: two for main work projects and having multiple docs, photo/video projects and all the simultaneous work I'm always doing, and the smaller one to parse out my communication and social apps. This way, I could focus on work and keep distractions absolutely separate -- great for when I'm on a book deadline. Under the desk I'd have a [Mac Pro][mac-pro] tower 8-core Xeon with 12G of RAM, for pure processing pleasure. And a projector, medium quality, for entertainment but also for group projects where I need to teach or demo something technical to non-technical people (something I do a lot with sex ed).
 

@@ -8,13 +8,13 @@ credits:
   name: Chris Glass
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 For love, I keep a blog called [communicatrix](http://communicatrix.com/ "Colleen's website.") where I write about fear and change, and occasionally proselytize for the lifesaving Specific Carbohydrate Diet (like Paleo, only with less CrossFit and more fun).
 
 For money, I write and speak about marketing. But if you've got something else...
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main rig is a 15" 2.8 GHz, matte-screen [MacBook Pro][macbook-pro] from late 2009 maxed out with a 500GB hard drive and 8GB of RAM. But it's an all-new hard disk and RAM, as both went kaput on me last fall. (Right between two ginormous projects. Thanks, Universe.)
 
@@ -34,7 +34,7 @@ Oh, and I'm a firm believer in the adoption of an "analog desk" - a surface wher
 
 I also make a half-gallon of outstanding full-fat yogurt (SCD-legal!) every week in a [Yogourmet][] yogurt maker. And eat it all. My colon is populated by the happiest, healthiest legion of good bacteria you'd ever want to meet.
 
-#### And what software?
+### And what software?
 
 I'm running [Lion][mac-os-x] on the Air, because I'm lazy. The MBP is still on Snow Leopard because it was hard enough getting the HP to print on that, and because I steadfastly refuse to upgrade from [Adobe CS3][creative-suite]. (I mostly only use it for [Photoshop][] these days, but I like having the other apps JUST IN CASE. I mean, what if I woke up one day and wanted to design another logo and make it move or something? It could happen!)
 
@@ -56,7 +56,7 @@ On the iPhone, I'm mostly about native apps: [Mail][mail-ios], Phone, [Messages]
 
 I also love love love [Instapaper][]; I have a bunch of RSS readers, but don't like any of them, so I wait to read in [Google Reader][google-reader] at home. I take notes in [Simplenote][simplenote-ios] and have, like, eleventy-billion timers and alarms in [Due][due-ios]. I've tried a number of photo apps, but usually end up using the plain, old Camera app. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love to get back down to one computer and a phone. And I'd like the computer to be keyboard-sized and light as a feather, but I'd like for there to be a big, beautiful screen to plug into anywhere I went.
 

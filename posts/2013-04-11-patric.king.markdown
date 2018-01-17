@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Patric King](http://fixingthehobosuit.com/ "Patric's website."). I'm a sort of blend of a writer, hobbyist typographer (by no means professional, although I did actually intend to be a pro while in college), print designer, and interactive designer. I started my career in print about fifteen years ago with Thirst, where we developed work for Herman Miller and Gary Fisher, but I then quickly became enthralled by interactive work. I've worked on the net, almost exclusively, since 1997. I think my biggest claim to fame since then is that I designed all of the brands in the Gawker Media stable of blogs.
 
 Right now, my focus is bringing well-designed marketing to industries I believe in, to help them develop more financing. We're doing work to promote new architecture, solar infrastructure, shared kitchens, and low-cost insurance. It is not glamorous, but it is the right thing to do. Designing pretty things is nice, but it's time for me to do something bigger than me.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've never worked on anything but Macs, more out of coincidence than preference. I'm sort of not really loving [Mac OS][mac-os-x] right now, but it's the devil I know.
 
@@ -27,13 +27,13 @@ As for mobile computing, I carry an iPad with me to meetings because I desperate
 
 I generally don't need to sketch in meetings, but if I do, it happens on paper. Digital sketchbooks don't work for me, primarily because I need the tactile response while I'm going through ideas. Working on a screen feels too much like work for me. I *always* have a pocket-sized sketchbook, hand sharpener, pencil, and kneaded eraser on me. I never use pens, ever, I like to start with an idea and revise. Pens don't let you do that.
 
-#### And what software?
+### And what software?
 
 [Adobe CS6][creative-suite] (I'm on their advisory panel for [Creative Cloud][creative-cloud]), [do.com][do] for project management between myself and my partner, [Dropbox][] for file sharing with clients, [Google+][google-plus] Hangouts for remote meetings, [Maxon's Cinema 4D][cinema-4d] for dimensional rendering and animation (it's rare, but it happens), [Coda][] & [Transmit][] from Panic software for coding and moving around files, and I'm moving to [Gridset][] for grid design. Typography (when I need custom faces) happens in [Glyphs][].
 
 When I'm designing for the web, sketches happen on paper, then are moved to [Adobe Illustrator][illustrator] where I can be assured my work remains resolution-independent as I move between low rez and high rez scenarios (the best example of this is our work with movieline.com a few years back when we needed to reproduce the same things for the web, as [a series of banner ads](http://houseofpretty.com/Movieline-Portraits "House of Pretty's movie portraits."), and for backdrops to be displayed in their lounge at the Sundance film festival).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 This is vague, but a system which dispenses with pixels as a measurement unit now that they're beginning to not matter.
 

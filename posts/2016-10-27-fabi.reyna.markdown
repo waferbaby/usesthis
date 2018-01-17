@@ -9,11 +9,11 @@ credits:
   url: http://www.colecwilson.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Fabi Reyna: I'm Mexican, I'm a guitarist, I'm usually late and I'm the founder and Editor In Chief of [She Shreds Magazine](http://www.sheshredsmag.com/ "A magazine dedicated to female guitarists."). 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Currently, at this very moment, I use...
 
@@ -29,11 +29,11 @@ into a BOSS tuner (keeps your guitar sounding fresh)
 
 into a [Fender Hot Rod Deluxe amp][hot-rod-deluxe] (currently looking for something that can handle more power). 
 
-#### And what software?
+### And what software?
 
 The software of my brain and slowly but surely [Ableton Live][live].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm not sure or really care about the technical name for all of this but I'd love to have a situation where I can sync up my loop pedal to Ableton Live so I can play and control my own beats better. I also want a setup where I can easily switch from bass tones to lead tin like tones and feel completely entrenched in my guitar - so maybe like 2-3 completely opposing amps to balance out the EQ.
 

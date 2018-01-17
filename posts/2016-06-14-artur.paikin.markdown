@@ -8,7 +8,7 @@ credits:
   name: Afisha Magazine
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Artur Paikin](http://arturpaikin.com "Artur's website."), designer and founder at [Baguette](http://unebaguette.com/ "Artur's creative studio.").
 
@@ -18,7 +18,7 @@ I'm also into home automation and robots. I recently gave a fun 10-minute talk
 
 I travel quite often and write stories about my adventures in [Russian](http://arturpaikin.com/ru/blog/ "Artur's weblog (in Russian).") and [English](http://arturpaikin.com/en/blog/ "Artur's weblog (in English).").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I value being able to work from anywhere, and try to keep my setup minimal. I have a [13" Retina MacBook Pro][macbook-pro], and it's the best computer I've ever owned. I especially love the screen: once you go Retina, it's hard to go back.
 
@@ -30,13 +30,13 @@ All my possessions fit nicely in a [Tom Bihn Daylight][daylight] backpack and�
 
 Finally, both me and my bag fit on an amazing foldable city bike, [Strida][lt]. I've been riding it around for over 4 years now, and I love it, and can honestly recommend it. Here is my [Strida review](http://arturpaikin.com/ru/strida/ "Artur's Stride LT review (in Russian).") (in Russian, but with pictures).
 
-#### And what software?
+### And what software?
 
 [Sketch][] is my go-to app for designing and prototyping, as well as preparing SVG assets for the web. It's lightweight, doesn't cost as much as my rent and is very powerful. Not a big fan of Adobe software and their weird pricing model, but I do use [Photoshop][] and [Illustrator][] from time to time, mostly to open files someone has sent me.
 
 [Atom][] editor for coding. I like that it's free, open source and actively developed, and that you can write extensions for it in JavaScript. I also use it for [Markdown][] writing sometimes, but tend to switch to [iA Writer][ia-writer] for that particular task.
 
-[iTerm][iterm2] is great for command line stuff - I usually have about 3–4 tabs open, some of them split into two panes. [GitHub Desktop][github-mac] is really handy for managing [git][] repositories and traversing commit history (pro tip: works with any git repo, not just github.com). [F.lux][] keeps it easy on my eyes in evenings and nights (as does the new Night Shift, which could have been F.lux on [iOS][]).
+[iTerm][iterm2] is great for command line stuff - I usually have about 3--4 tabs open, some of them split into two panes. [GitHub Desktop][github-mac] is really handy for managing [git][] repositories and traversing commit history (pro tip: works with any git repo, not just github.com). [F.lux][] keeps it easy on my eyes in evenings and nights (as does the new Night Shift, which could have been F.lux on [iOS][]).
 
 [Backblaze][] makes continuous online backups for $5 a month, and I'm thankful for that piece of mind. I also do [Time Machine][time-machine] backups twice a month or so. Simplicity for me also means not worrying about losing data, and I wish more people took this seriously - all your work and memories can be [gone in a blink of an eye](https://www.youtube.com/watch?v=lTT-v7bwJsI "A YouTube video of the Backblaze backup song."). Jason Scott [explains it better](https://vimeo.com/96634067 "Jason Scott's Vimeo video about the Archive Team.") - please watch that, and please backup your data somewhere.
 
@@ -48,7 +48,7 @@ I really like [Deckset][]'s themes and Markdown support, so I use it for keyn
 
 [Instapaper][] is one of my most-used apps on the iPad: I save articles on the web, and then read them whenever I feel like it - usually on trains - in a nice, clean format with comfortable typeset.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would like an open source operating system and hardware, that's as good design- and quality-vise as everything Apple does. I used to be a die-hard Apple person, and I still use their products, but tend to think about switching more often for ideological reasons.
 

@@ -11,11 +11,11 @@ credits:
   url: http://www.flickr.com/photos/pete-karl/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Eric Meyer](http://meyerweb.com/ "Eric's website."), web standards booster and speaker and author of several books, co-founder of the conference series [An Event Apart](http://aneventapart.com/ "A design conference for people who make websites."), web technology training consultant, husband, and father of three. I try to make the web and the world a little bit better every day.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a 4GB dual-core 15" [MacBook Pro][macbook-pro], which is my "compromise size": a screen just big enough for desktop work in a physical factor just small enough for me to haul around when I travel. I occasionally plug a secondary monitor into it, that currently being a crappy old 17" Acer flat-panel. I also plug in an old Macally iKey keyboard and a [Logitech MX 500][mx500] optical mouse so I can have better input channels than what's built into the laptop. I don't particularly care for the keyboard built into the MacBook Pro - though it did cause me to name the machine "CoCo" and thus the hard drive "C-60", so I suppose some good came of it. (Kids, ask your parents.)
 
@@ -25,7 +25,7 @@ My office also houses a circa-2000 [G4/500][power-mac-g4] tower with an original
 
 For mobile, I have an unhacked [iPhone 3GS][iphone-3gs]. I've been deliberately delaying my iPhone 4 upgrade until I can also upgrade to Verizon or Sprint or dear Ged anyone but AT&T. Of course, my AT&T contract expires shortly before the iPhone 5 is expected to come out, and I wouldn't want to upgrade before then, so...
 
-#### And what software?
+### And what software?
 
 I run [OS X][mac-os-x] Leopard on the MacBook because I can't be bothered to mess with a perfectly functional setup just to say I have the latest operating system, and also because I have some beloved old programs that I'm afraid will be broken by an upgrade. (Eventually, of course, the pressure of newer programs that won't run on Leopard will force me to advance.) Also, [Windows XP][windows-xp] in a number of [VMware Fusion][vmware-fusion] instances - one for each major [IE][internet-explorer] release plus an extra "baseline" instance in case I have to build up a new one from scratch. I have a copy of [Windows 7][windows-7] but have yet to set up a VMware instance to run it. The Mac is running a number of local development webservers on a LAMP stack of some variety or another, though I forget exactly when I installed it so the version numbers are probably a tad out of date. Of course, [Terminal][] gets a fair number of launches into a lightly customized bash shell.
 
@@ -45,6 +45,6 @@ I'm a longtime user and fan of [DragThing][], because it lets me organize things
 
 For those rare moments of relaxation I turn to [Osmos][], which offers semi-hypnotic chilling-out time as well as some serious challenges; and [Darwinia][], which I still play even though I've beaten it a few times. There's just something deeply satisfying about mass-airstriking a viral concentration.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A 15" 64GB RAM/2TB SSD MacBook Air with the ability to simultaneously run two 27" 16:9 monitors and natively connect to an [Apple Extended Keyboard II][extended-keyboard-ii], plus USB and FireWire ports and available-everywhere fat-pipe broadband that is shared as a wifi hotspot. And an integrated high-intensity digital projector. And a toaster oven.

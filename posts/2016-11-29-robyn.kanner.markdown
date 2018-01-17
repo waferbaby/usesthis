@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, I'm [Robyn Grace Kanner](http://robynkanner.com/ "Robyn's website.")!
 
 I'm currently a UX designer at Amazon within Community where I primarily focus on system design with a strong focus in mobile. I also co-founded and designed [MyTransHealth](http://mytranshealth.com/ "A service for helping trans people link up with appropriate healthcare.") which is a resource dedicated to helping trans people find access to quality healthcare - you can read about it in [The Verge](http://www.theverge.com/2016/5/4/11592644/mytranshealth-website-doctors-trans-community-lgbt "The Verge's article about MyTransHealth."), [Business Insider](http://www.businessinsider.com/transgender-healthcare-website-mytranshealth-launches-a-kickstarter-2015-7 "Business Insider's article about MyTransHealth."), and [Upworthy](http://www.upworthy.com/its-hard-being-trans-its-even-harder-when-you-cant-find-a-doctor-a-new-site-hopes-to-fix-that "Upworthy's article about MyTransHealth.") or watch me give a [keynote](https://www.youtube.com/watch?v=tvvMaPRVFb8 "Robyn's MyTransHealth keynote video on YouTube.") on it. In addition, I was invited to The White House to be a part of the 2016 [#WHLGBTQTECH](http://www.recode.net/2016/8/24/12623276/white-house-taps-lgbt-techies "Recode's article about a gathering of LGBTQ tech people at The White House.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work it's pretty standard setup. I use a [standing desk][jarvis-bamboo] and to my right is a [15" MacBook Pro][macbook-pro] that sits on a [Rain Design mStand][mstand]. Directly in front of me is a [27" Cinema Display][cinema-display] and a Leuchtturm1917 notebook for me to sketch in. To my left is a whiteboard with a few black markers. Oh, and I just use a regular 'ol Apple mouse and [keyboard][].
 
@@ -21,7 +21,7 @@ At home I have a [21.5" iMac][imac] that sits on this [Blu Dot Cant Desk][cant].
 
 Finally, I have a [12" MacBook][macbook.2] that I mostly use to write on or edit simple front end code in the café.
 
-#### And what software?
+### And what software?
 
 I learned how to be a designer through print so I still use [Adobe Illustrator][illustrator], [InDesign][], and [Photoshop][] on occasion.
 
@@ -29,8 +29,8 @@ As far designing for the web, I typically use [Sketch][] for screens and then ex
 
 To cap things off, I do all of my writing using [Byword][]. The [mobile app][byword-ios] syncs files with desktop which is super convenient.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly, it's basically what I have now. I've been a designer for about 10 years and am fortunate to have been able to build a setup that works for me.
 
-I will say this: I didn't start to use a whiteboard up until about a year and a half ago and that might have been my biggest mistake. They've been critical for me to think through a design — so, I highly suggest picking up one!
+I will say this: I didn't start to use a whiteboard up until about a year and a half ago and that might have been my biggest mistake. They've been critical for me to think through a design --- so, I highly suggest picking up one!

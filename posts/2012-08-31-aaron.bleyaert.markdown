@@ -9,13 +9,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Howdy! My name is Aaron Bleyaert, and I work for [Team Coco](http://teamcoco.com/ "Team Coco's website."), the digital arm of the show "CONAN", which airs weeknights at 11 on TBS. We have an absolutely top notch team of talent here in the Digital Department, and that's critical - because we're called upon to do a ton of stuff on a regular basis: We clip up the show every night, have a constantly churning comedy blog, send out billions of tweets, have fan contests, shoot extra web exclusive songs with bands, record podcasts with comedians, interview celebs in their dressing rooms, etc etc. We're all over the place with all the crazy things we're doing every week. It's awesome and fantastic and exciting and overwhelming and very... exhausting.
 
 Personally, I do a little bit of everything. On The Tonight Show, I was the show's entire web department, and now the easiest way to describe what I do is "Human Glue" - I kind of step in and do whatever needs to be done. This can include writing, shooting, editing, crying, photoshopping, interviewing, pitching, crying, podcasting, crying, and quietly crying. I cry easily.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Since my daily output can run from having to write a thousand tweets to interviewing Dr. Drew (which for some reason happens more than you think), I have a lot of different tools at my disposal - the most important by far being my ol' trusty 15 inch [MacBook Pro][macbook-pro]. When The Tonight Show ended and Conan wanted to join [Twitter][], I realized that the only computer that I actually owned outright was this tiny little Hackintosh netbook, and I cannot tell you how much shit Conan gave me for being such a big guy who was using such a tiny computer. It was merciless (and hilarious).
 
@@ -33,7 +33,7 @@ Staring off into the distance contemplating all the mistaken choices I've made i
 
 Like I said, it depends on what's happening that day or what I've got to get done. (If you want the real nitty gritty I also work off of a [2 TB CalDigit drive][t2] that's all the speed and storage a girl could hope for.)
 
-#### And what software?
+### And what software?
 
 Oh boy: 
 
@@ -41,6 +41,6 @@ Oh boy:
 
 And of course, [Chrome][], [Firefox][], [Safari][]. (It's hard to work on a website without using a web browser). I'm also currently really into that scary game called "Slender", but I'm not sure if that really qualifies as "Software that helps me do my job"... Unless that job is pissing my pants with fear.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is exactly what I have now: A tremendous group of smart, funny, creative, good looking, talented people. I could always use a better lighting kit, a more expensive lens, more sensitive mics, etc, but all the hardware and software in the world is completely useless without a killer team of people to use it. Honestly, we could all be forced to share one crappy Gateway desktop computer from 1996, and I'm confident these guys (and gals) would still be able to rock out an amazing and hilarious site. I seriously could not ask for a better setup than I have right now. Except maybe, you know, better deodorant. My officemates have been giving me some weird glances lately, and I think it's because my "Showtime" scented Old Spice ain't cutting it. ;)

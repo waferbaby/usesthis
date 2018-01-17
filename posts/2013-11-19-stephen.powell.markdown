@@ -6,13 +6,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Stephen Powell, and I'm one of two founders of the menswear company [Gustin](http://www.weargustin.com/ "The Gustin website."). We design and manufacture premium men's clothing in SF, and use crowdsourcing to do it very efficiently - resulting in very low prices.
 
 We're a pretty small shop - I mainly work on our platform (outsourced), fulfillment (outsourced), marketing (outsourced), community management (in-house), and I take out the trash.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My personal technology stack is pretty standard for here in SF.
 My laptop is a loaded 13" [MacBook Air][macbook-air]. It's the best laptop ever, super easy to drag around everywhere with me, and more than fast enough for the [Photoshop][] work I have to do. I use my [iPhone 5s][iphone-5s] for photography (mostly [Instagram][instagram-ios]), and phone calls. My Macbook is almost always with me, so I do almost no work on my phone.
@@ -21,7 +21,7 @@ I think my favorite piece of hardware we have is [our table](http://instagram.co
 
 We also have an [oldschool iron kickpress](http://instagram.com/p/fBjaxTDgSE/ "A photo of Gustin's kickpress.") in the office. We haven't used it yet, but it's a nice accent to our space.
 
-#### And what software?
+### And what software?
 
 I thought my answer to this was going to be pretty simple, but when I started listing it out, I realized that I rely on a lot more software than I would have thought. Roughly in order of importance, here's what helps me run my life.
 
@@ -45,7 +45,7 @@ I thought my answer to this was going to be pretty simple, but when I started li
 
 [F.Lux][] for keeping my eyes from burning out.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with my hardware/software setup these days, but feel like we're really lacking in the furniture department (given that the table and chairs is our only furniture). Here's what my dream setup would be: two Herman Miller [Eames Lounge Chairs][eames-lounge-chair], one Herman Miller [Eames LCW][eames-molded-plywood-chair], one J. Rusten [Orchard Slab Table][orchard-slab-table], and maybe a Wells Sofa.
 

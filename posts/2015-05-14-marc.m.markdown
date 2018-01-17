@@ -7,15 +7,15 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, my name is Marc M, AKA [Sick Animation](http://sickanimation.com/ "Marc's animations."). I make animated cartoons as well as music; often times together.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a Windows-based PC and the [Adobe Creative Suite][creative-suite] for most of my computing needs. For my [online shop](http://www.sickanimationshop.com/ "Marc's online store."), I started screen printing my own t-shirts and things based on my cartoons. I use a one-head printing press that my Uncle made for me.
 
-#### And what software?
+### And what software?
 
 I make my cartoons in [Flash][] and then export them through [After Effects][after-effects] and QuickTime. I use [Premiere][] for video editing and [Audition][] for recording voices and music.
 
@@ -23,7 +23,7 @@ I draw directly into Flash with a [22 HD Cintiq][cintiq]. I've gone without a Ci
 
 For recording, I use a [Shure SM7B microphone][sm7b]. It's a really great mic for the price, especially for vocal stuff. I boost the signal of the SM7B with a [Cloudlifter][cloudlifter-cl-1]. It's a good pairing because the SM7B has a naturally low signal in. I interface with the computer through an [Mbox Mini][mbox-2-mini] - sometimes I use a [Lexicon Lambda][lambda], depending on which computer I'm on.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The dream set up, AKA the NEXT set up will include these 5 things:
 

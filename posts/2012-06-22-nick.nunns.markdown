@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Nick Nunns. I don't make apps, sites, or anything else digital other than noise. I'm the proprietor and brewer at [TRVE Brewing Company](http://trvebrewing.com/ "Nick's brewing company.") in Denver, Colorado. I love beer, heavy metal, and the conjunction of the two.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Our brewhouse is a three barrel system from Stout Tanks and Kettles. It's a relatively small system when compared to other breweries out there but it's the most robust system we could spring for while still being able to bootstrap our launch. I'm actually really damn impressed with it so far. Our mash is pulling out at 88-92% efficiency without any optimization and the kettle gets up to a great rolling boil quickly and without any trouble.
 
@@ -22,7 +22,7 @@ Everything gets tossed in a Mishka backpack from a couple of years ago. I tried 
 
 I'm a notebook fetishist. For a while I was playing around with a bunch of different options, but I keep coming back to using Field Notes. Seasonal editions help me feel like it's a new experience while still being consistent. I'm convinced there'll never be an electronic equivalent to tracking ideas that's as intimate and personal as a pen and paper. 
 
-#### And what software?
+### And what software?
 
 - [Chrome][] to browse.
 - [Reeder][] for news.
@@ -44,7 +44,7 @@ All my documents are in [Dropbox][].
 
 On my iOS devices some apps I dig are [Tweetbot][tweetbot-ios], [Calcbot][calcbot-ios], [Convertbot][convertbot-ios], [Instagram][instagram-ios], [Flipboard][flipboard-ios], and [iA Writer][ia-writer-ios]. I've used [Touchdraw][touchdraw-ios] for a lot of diagramming and to plan out our space and realized that doing CAD work with your fingers is pretty great. All of our POS stuff is run through [Square][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Someday, I dream of having a 15 barrel system with fancy manifolds, a packaging line, and a place big enough to fit all of it.
 

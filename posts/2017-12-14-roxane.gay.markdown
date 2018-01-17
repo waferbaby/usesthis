@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Roxane Gay](http://www.roxanegay.com/ "Roxane's website.") with one n. I am a writer and an associate professor at Purdue.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use several different machines because I live in two places and travel several times a month. I travel with a tiny pink [Macbook][macbook.2]. It is so cute and dainty and looks ridiculous in my hands because I am cute but not dainty. At home in Indiana I use an [iMac][] and a [MacBook Air][macbook-air]. In Los Angeles I use a [MacBook Pro][macbook-pro] I hate. It's the new one with the Touch ID and it's just designed all wrong. MY FINGER CONSTANTLY HITS THE ESCAPE BUTTON AND OMG I'm mad just thinking about it. 
 
@@ -21,10 +21,10 @@ I listen to music on Sonos speakers. I have conversations with my [Amazon Echos]
 
 I watch TV on Samsung TVs that are garishly large with accompanying sound bars. I use an HP laser printer that is no longer made but it is perfect. I think it is the M400 or something. I hope it never breaks because if it does, I just don't know what I will do. 
 
-#### And what software?
+### And what software?
 
 I use [Google Suite][google-apps], [Google Keep][google-keep], [Microsoft Word][word], [Final Draft][final-draft], [Chrome][], [Adobe Creative Suite][creative-suite], and a bunch of apps on my phone to make it appear as if I am on top of everything when I am not -- respective banking apps, apps for [American][american-airlines-ios], [Delta][fly-delta-ios], [United][united-airlines-ios], and [Alaska Airlines][alaska-airlines-ios], [Kayak][kayak-ios], [TripAdvisor][tripadvisor-ios], [Carey][carey-ios], [Uber][uber-ios], blah blah blah. Also [Scrabble][scrabble-ios] and [Words With Friends][words-with-friends-ios], [Candy Crush Saga][candy-crush-saga-ios], [Pokémon GO][pokemon-go-ios], [Snapchat][snapchat-ios], [Twitter][twitter-ios], and [Dropbox][dropbox-ios]. I have a bunch of other apps on my phone but I generally use them once and then never open them again.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I pretty much have my dream set up but if I were to get really outrageous with my dreams, I would spend less time staring at screens and simply have an ocular implant and be able to think my thoughts into the cloud and write and do research and waste time that way. At the very least, I want to be able to project things from my laptop onto the wall so I can see what emojis I am working with. They are so fucking tiny on the phone. I feel we're fewer than 33 years away from this technological nirvana. Fingers crossed.

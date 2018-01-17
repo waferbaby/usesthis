@@ -5,7 +5,7 @@ categories:
 - athlete
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Justin Morgan](http://justin-morgan.com/ "Justin's website.") and I'm 24 years young. I have been a professional snowboarder since I was 20. I grew up in Upstate New York in a tight-knit community known as Ballston Lake. I was raised in a hardworking genuine community where all my friends were my family. I loved to snowboard, but Ballston Lake was a solid drive from the mountains. I found ways to get to the resorts, skipping school with my friends during the week or driving to Vermont on the weekends, but I never felt I had enough time on a snowboard.
 
@@ -13,7 +13,7 @@ I realized that instead of wasting time traveling to the mountains, I could just
 
 When I was 18 I felt I needed to take my career to the next level, so I moved to Breckenridge Colorado. [This](https://vimeo.com/39315500 "A video of Justin snowboarding.") is an example of who I am and what I do.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 **Board:**
 
@@ -35,12 +35,12 @@ Under Armour ColdGear and spring gear. Head to toe... even my underwear. Nuff sa
 
 I wear the [Smith I/OS][i-os]. My opinion, best goggles on the market. They have many lenses to choose from and are easy to interchange. They have great visibility and a clean look/style. Fresher than ya boy Will Smith rappin'.
 
-#### And what software?
+### And what software?
 
 The most important software is what keeps me going in life; the mountain. When I'm out shredding with my friends, nothing matters, I have a clear mind and I live in the moment. Snowboarding, like music for many, has pushed me through many struggles in life. It has taught me discipline, courage, passion, pain and at the same time building many friendships. For me, no time on a snowboard is wasted time.
 
 "Follow your heart and your dreams will never die" - Sandlot. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've actually lived my dream setup... riding in a private park at Copper Mountain in Colorado with [Shaun White](https://twitter.com/@shaun_white "Shaun's Twitter account."). Some of the best park jumps and rails I have ever seen. Snowmobiles continuously picked us up and dropped us at the top of the course, and it felt like endless laps and progression. What made it all worth it? Riding with one of the hardest working athletes I know.

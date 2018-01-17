@@ -9,7 +9,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Olivia](https://twitter.com/babelfishwars "Olivia's Twitter account.") [Wood](http://www.oliviawood.co.uk/ "Olivia's website."). I'm a narrative editor, writer, content manager and game developer. 
 
@@ -25,7 +25,7 @@ I also line-edit and proofread novels. I am a Science Fiction and Fantasy specia
 
 I drink cocktails; caipirinha, please. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My home computer is a custom build gaming rig/workstation. I have two 26" monitors - I can't work on fewer. The mouse is [Logitech G502][g502] - I care more about having a nice mouse than a good keyboard. My keyboard is some old one with a leg gaffer-taped on. I'm still on [Windows 7][windows-7] because I'm not having any of the [Windows 10][windows-10] nonsense. At work the setup is similar, but less high powered. 
 
@@ -37,7 +37,7 @@ My [iPad mini][ipad-mini] is invaluable for talks. I also store articles and blo
 
 I never go anywhere without a pen and notepad. I prefer to write on a computer - I type faster than I can write, but I can't brainstorm on a screen.
 
-#### And what software?
+### And what software?
 
 Failbetter Games uses [StoryNexus][] as our CMS. It's a powerful tool for interactive narrative, but it's not intuitive. We use [Google Docs][google-docs] and Spreadsheets to store and share story pitches, lore and game design. We mostly avoid email by using [Slack][]. The Narrative Director often works remotely, so - via [FaceTime][] - he lives in an iPad on my desk. For tracking work, I use Trello and Google Spreadsheets. 
 
@@ -49,6 +49,6 @@ When working on novels, I use [Microsoft Word][word]. It's not perfect, but it's
 
 For fun game design stuff, I play with both [Twine][] and [ink][] (with the Inky Editor). 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty pleased with what I've got already. A gentle wish would be for a more powerful PC that I didn't have to dust. I'd like the same laptop, but with better gaming capabilities and a near-infinite battery. An actual dream setup? What I've already got, but ski-in ski-out - while still being based in London. Oh, and someone to yell at me to sit up straight. My posture's crap.

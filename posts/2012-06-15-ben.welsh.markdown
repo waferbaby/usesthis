@@ -8,17 +8,17 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Ben Welsh](http://palewi.re/who-is-ben-welsh/ "About Ben."). My Internet handle is palewire. I work as a reporter at the Los Angeles Times, where I use computer programming tools to collect, organize, analyze and present large amounts of information. At The Times, I'm part of an informal group known as [The Data Desk](http://datadesk.latimes.com/ "The LA Times' Data Desk.") which, put simply, turns databases into news. That means building [websites](http://palewi.re/apps/ "Ben's websites.") and writing [stories](http://palewi.re/clips/ "Ben's LA Times articles."). I recently gave [a talk about the scope of our work](http://www.youtube.com/watch?v=S62J6SssxNE "A video of Ben's talk about The Data Desk."), if you're interested in learning more.
 
 I also chip in on open-source projects in my free time, most recently kickstarting an archive of news homepages called [pastpages.org](http://www.pastpages.org/ "An archive of the homepage of news websites.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most of the time I use my [Lenovo X220 Thinkpad][thinkpad-x220]. I've loved laptops sized around 13 inches since the original fat Macbooks that came out five or six years ago. They're not too heavy to lug around, but still big enough to mash my fat fingers on. I use my laptop both at home and at work, plugging it into an external Dell monitor at both locations to add a bigger screen to work with.
 
-#### And what software?
+### And what software?
 
 I have [Ubuntu 12.04][ubuntu] installed and use it for everything. Unlike every other developer on the planet, I actually like Ubuntu's new [Unity user interface][unity.2]. I think the Ubuntu team is dead on. They need a stark redesign to grow across the new, fragmented landscape of desktops, laptops, netbooks, tablets and smartphones. As a long-time user of [GNOME Do][gnome-do], and before that [Quicksilver][], the new quick launch options are right in my wheelhouse. I love it.
 
@@ -28,7 +28,7 @@ I write most of my code in [Python][]. My job calls on me both to build websites
 
 [PostgreSQL][] is my database of choice, mostly because of the awesome power of its [PostGIS][] extensions, which are easy to use thanks to Django's excellent [GeoDjango][] app. For something quick and dirty, I might substitute the lighter weight [SQLite][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm happy with what I have for work. It's always nice to see the price to spin up servers in the cloud go down. It was a big hit to our team when Google App Engine [raised their prices so much](http://www.informationweek.com/news/cloud-computing/platform/231600672 "An article about Google raising their App Engine pricing."). 
 

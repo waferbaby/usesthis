@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Shawn Thorsson](http://protagonist4hire.blogspot.com/ "Shawn's website.") and in my copious free time I make insanely elaborate costumes for myself and my friends.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use an old Toshiba Satellite laptop, a Canon inkjet printer, a Craftsman Carvewright carving machine, a homemade vacuum forming machine, and a host of old-school woodworking and machine shop tools in a repurposed chicken barn out in the country. The tools I get the most use out of are my two hands and the [Mark One Mod Zero eyeball](http://en.wikipedia.org/wiki/Visual_inspection "The Wikipedia entry for visual inspection.").
 
@@ -23,10 +23,10 @@ Sometimes I'll create more realistic scratches in the paint by starting with a m
 
 Each project is different and every time I start something new I end up learning new skills and materials.
 
-#### And what software?
+### And what software?
 
 Much of what I do is done by hand. The software that helps me the most in these projects is [Pepakura][], a shareware program that unfolds a digital 3D model and lays it out flat so you can print it out and build it. For me, it serves as a sort of poor man's rapid prototyping system. Other than that, I spend a lot of time in [Photoshop][] making comparison overlays between pieces I've made and screenshots from the games or movies I'm trying to bring into the real world.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is Tony Stark's basement workshop in the Ironman movies. Since it's still not available, I'd be happy with a 5-axis CNC mill, a high-resolution 3D printer big enough to crank out a motorcycle helmet, and a staff of five or six people to do my 3D modelling, moldmaking, sewing, and rough painting. That, and a climate-controlled building big enough to park six cars inside.

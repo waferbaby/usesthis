@@ -9,11 +9,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello world! I'm Susan Lin, ['bysusanlin'](http://bysusanlin.com/ "Susan's website.") online. I work in a myriad of mediums including design, code, pen, pixel art, and paint. Professionally, I currently work at [Treehouse][] as a designer and spend my after hours as [an artist](http://shop.bysusanlin.com/ "Susan's online store."). You may have seen my [sketchnotes](http://sketch.bysusanlin.com/tagged/sketchnotes "Susan's sketchnotes.") or one of my [watercolor trees](http://levelframes.com/collections/watercolor-trees "Susan's watercolour trees.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 *Let's start with machines*. I prefer the [13" MacBook Pro Retina][macbook-pro]. Its specs are: 3.1GHz i7, 16GB RAM, 512GB SSD. Things are backed-up on a [Seagate 4TB USB 3.0 External HD][backup-plus]. I wield 2 [Thunderbolt monitors][thunderbolt-display]. It spoils me to say, but I don't remember how I worked without the second one before -- it's indispensable for coding, exporting UI assets, and updating my prints shop. One of the monitors sits on a [Grovemade Maple Stand][maple-monitor-stand].
 
@@ -27,7 +27,7 @@ Miscellaneous tools on my desk are organized by MUJI acrylic pen holders and sta
 
 *Some other things I use*. I take photos with a [Panasonic DMC-GF7KK][lumix-dmc-gf7kk]. A [Slik tripod][sprint-pro-ii] has been the most useful purchase I've made lately. I also bought a mount that holds phones. I'll have the [iPhone 5S][iphone-5s] for about a month more. I'm very happy with my [Braun BN0031][bn0031] for telling time. It's the perfect color and [matches my favorite teapot and mug](https://twitter.com/bysusanlin/status/634112529678012417 "Susan's tweet about her teapot and mug.").
 
-#### And what software?
+### And what software?
 
 For email, I stubbornly hang onto [Sparrow for Mac][sparrow] and use [Mailbox on iPhone][mailbox].
 
@@ -45,6 +45,6 @@ I have a thing for customizability. I built [an RSS page](http://daily.bysusanli
 
 I'm crazy about these [Ghibli Mac Icons](http://dlanham.com/ui/ghibli/ "David's Ghibli icons."). It makes interacting with my software a delight.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've iterated a lot on my tools and am very pleased with the choices themselves. The next level setup would be to find a space that I can manipulate. For once I'd like to be able to drill holes into the walls without worry! My ultimate dream is to live in a [MUJI home](http://www.muji.net/ie/tatenoie/ "A narrow little house."), I need to space for one of their [bead cushions.](http://www.muji.com/jp/beadssofa/ "A beanbag.") Ideally, I will have a dog companion in the near future.

@@ -8,13 +8,13 @@ categories:
 - statistician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm David Lawrence Miller, and I work as an ecological statistician at various places (currently between the Commonwealth Scientific & Industrial Research Organisation in Hobart, Tasmania and the University of St Andrews in Scotland). I spend a lot of time thinking about how to model where animals are in space and how we can use those models to count them better. Much of my time is spent doing modelling of whales, but I like to be fairly species-agnostic.
 
 For fun I like to make weird things with computers, usually involving some kind of stochasticity. I've written a few Twitter bots, the most famous of which is [@birdcolourbot](http://twitter.com/birdcolourbot "David's bird colour Twitter bot.") which tweets the colours (as identified by humans) of various North American birds ([a little write-up it got in NYT](https://www.nytimes.com/2017/04/28/science/twitter-bots-science.html?_r=0 "A New York Times article that mentions David's bot.")). I also wrote [@transect575](http://twitter.com/transect575 "David's whale haiku Twitter bot.") which takes observer comments from survey data looking for whales, and builds haikus.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I currently use a [2013 MacBook Air][macbook-air] - it's the best computer I've ever bought. It seems to still be working fine, though I am dreading the next upgrade. I use a [Nifty MiniDrive][minidrive] with a 128Gb SD card to store large things (music, movies, datasets) without having to cart around an external hard disk (get the fastest, largest card you can!). If I need to do "serious" computing, I send my jobs to a server called isbjørn (polar bear) in St Andrews with more cores/RAM than I can count.
 
@@ -30,7 +30,7 @@ For bird watching I carry [Monarch 3][monarch-3-8x42-atb] 8x42s and use a [cheap
 
 [Sony MDR-V6][mdr-v6]s are easily the best headphones I've ever owned. They are not good for walking around/travel but for sitting in a quiet office, they are perfect. I am regularly pleased by how good they sound and how comfortable they are for long periods (you can get replacement covers, which are much more comfortable than the faux-leather ones they come with).
 
-#### And what software?
+### And what software?
 
 I spend 80% of my time in the terminal ([iTerm2][]) and the rest in [Thunderbird][]. [vim][macvim] is where most of my code/paper editing happens, when writing papers, I use [Papers citation manager][papers] to quickly insert references (set up to pop-up search in any context with a double tap of ctrl) - this is the only thing that keeps me using that program but it saves a lot of time.
 
@@ -40,7 +40,7 @@ Almost everything I do ends up in [git][], I use git-prompt to show the status o
 
 Sitting in my menubar is [Arq][] (backup), [Caffeine][] (stops your Mac sleeping), [1Password][] and [f.lux][] (set to pretty red all the time, for the sake of my eyes).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Something that's both small and rugged would be great -- an indestructible MacBook Air 11" would be perfect. I haven't looked at non-Mac laptops in a while, but given Apple's increasing complications with cloud-based solutions, I'm thinking of going back to Linux (after 13 years on Mac). A more portable version of the Kinesis keyboard would be great too.
 

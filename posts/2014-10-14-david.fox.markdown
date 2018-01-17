@@ -8,24 +8,24 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey, I'm [David Fox](http://www.electriceggplant.com/ "David's website."), long-time game designer and more recently, app developer. Back in 1977, my wife, Annie Fox, and I started the first public access microcomputer center, [Marin Computer Center](http://en.wikipedia.org/wiki/Marin_Computer_Center "The Wikipedia entry for the Marin Computer Center."). We reviewed games from new publishers like Brøderbund and Adventure International for [Creative Computing magazine](http://www.atarimagazines.com/creative/ "The Creative Computing website."). Then I created my first game, [Mix and Match][mix-and-match] Muppets for Children's Television Workshop. Right around the time I completed my book, [*Computer Animation Primer*](http://www.atariarchives.org/cap/ "David's computer animation book."), I heard that Lucasfilm was starting a new Games Group. I got an interview, showed them my manuscript, and was hired as their first game designer (employee #3).
 
 During my 10 years there, the name changed from Lucasfilm Games to LucasArts, and I designed/programmed/project led a bunch of games. My favorites were my first, [Rescue on Fractalus!][rescue-on-fractalus] and [Zak McKracken and the Alien Mindbenders][zak-mckracken-and-the-alien-mindbenders]. I also worked on [Maniac Mansion][maniac-mansion] and [Indiana Jones and the Last Crusade: The Graphic Adventure][indiana-jones-and-the-last-crusade-the-graphic-adventure]. I took a hiatus from games, and just released my first game in 20 years, [Rube Works: The Official Rube Goldberg Invention Game][rube-works] for [iOS][], [Android][], Mac, PC, Linux.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm a Mac guy from way back. Our first Mac was a [128KB Mac Plus][macintosh-plus]. First hard drive was a whopping 20MB (figured that would be more than enough storage for years!). Now I'm on a [MacBook Pro][macbook-pro] with a 23" [Cinema Display][cinema-display], an [iPad Air][ipad-air], and an [iPhone 4s][iphone-4s] (I update about every 3 years). We also have various Android tablets ([Nook][], [Kindle Fire][kindle-fire], Nexus) for testing.
 
 But back at the Marin Computer Center, we had 9 Processor Technology [Sol-20s][sol-20] with 16K-24K of RAM connected to audio tape recorders so you could load in BASIC and other programs, 1 Equibox with dual 8" floppy drives, 5 [Apple \]\[s][ii] connected to a single shared 10MB hard drive, 30 Atari [800s][800.2] and [400s][400], a [TRS-80][trs-80], [Commodore PET][pet], an [Apple 1][1] in a briefcase (on loan from Mitch Waite), a [VCS 2600][2600] on a video projector, and probably a few more... I like my MacBook Pro better!
 
-#### And what software?
+### And what software?
 
 On my Mac, I run the current [OS X][mac-os-x] (currently Mavericks). I spend most of my time using [Photoshop][], [BBEdit][], [Dreamweaver][], [Adobe Premiere][premiere], [QuickTime 7][quicktime-pro] and QuickTime Player, [InDesign][], [GarageBand][], [Audacity][], [Podcast Maker][podcast-maker], [Keynote][], [iPhoto][], [iMovie][], [iTunes][], [Word][], [Excel][], Quicken, [Pages][], [Numbers][], [Preview][], [Interarchy][], [Skype][], [Messages][]. I use [Corona SDK][corona] and [Unity 3D][unity] for app development along with [Xcode][], [AppViz 2][appviz] to track our apps on the App Store, and [ScreenFlow][] for video screen capture. For social media, lots of [Twitter][] (using Twitter's app on [Mac][twitter-mac] and [iPad][twitter-ios]), some [Facebook][], [LinkedIn][], [Google+][google-plus].
 
 My favorite browser is [Safari][], but I also use [Chrome][] and [Firefox][]. [Firebug][] on Firefox is great for debugging/testing CSS code.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love a newer MacBook Pro... or maybe a [Mac Pro][mac-pro], but I haven't used a desktop Mac for about 7 years. A larger monitor would be awesome, as would infinitely fast Internet (50Mbs is nice but...) Other than that, I pretty much have what I want. Oh, how about a Tesla while I'm dreaming.

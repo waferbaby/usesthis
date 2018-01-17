@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://zeldman.com/ "Zeldman's site.") a web designer and writer. I publish [A List Apart](http://www.alistapart.com/ "The ALA site.") "for people who make websites" and am founder and executive creative director of [Happy Cog](http://www.happycog.com/ "Happy Cog's site."), a web design studio with offices in New York, Philadelphia, and San Francisco.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In our New York studio I have 24" [iMacs][imac] (2.8 GHz Intel Core 2 Duo, 4 GB 667 MHz DDR2 SDRAM) running Mac OS X 10.6 Snow Leopard, an old scanner, an old metal filing cabinet, [Eames desks][eames-desk] designed in 1952 because, hey, grey Aeron chairs with lumbar support because likewise, LaCie hard drives for backup and video storage, and all manner of new and old connectors, monitors, jacks, and cables. Our space is on the 23rd floor of an old building at 28th Street and 5th Avenue in the Flatiron, and looks out over the rooftops of New York City to the East River. Sadly, my nose is always pressed up against a monitor, and I have almost no awareness of the glorious views.
 
@@ -23,7 +23,7 @@ I should point out that it's in the last year or two that I've indulged a desire
 
 The high-end stuff at Happy Cog is an indulgence, and it's also nice when clients come visiting.
 
-#### And what software?
+### And what software?
 
 I edit in HTML in [PageSpinner][] and [TextMate][]. TextMate is cool and clean and lets me save and upload as UTF-8, something PageSpinner still doesn't support. PageSpinner is from 1996 (although it's continually updated), and it has convenient features no other HTML or text editor offers. For instance, I can take lines of carriage-returned text, click a command key combination, and instantly wrap each line as a LI. TextMate is a clean modern text editor whose simple interface hides deep features I'm only beginning to learn. The combination of the two is just about perfect. For FTP I use [Fetch][] (and I was thrilled that Happy Cog got the opportunity to redesign the Fetch website).
 
@@ -39,12 +39,12 @@ Happy Cog has many clients across three offices, plus many extracurricular proje
 
 Other apps I find essential include:
 
-* [Dropbox][] – a shared folder between all my Macs. No brainer.
+* [Dropbox][] -- a shared folder between all my Macs. No brainer.
 * Address Book and Calendar with [Mobile Me][mobile-me] - syncs my iPhone to my Macs from the cloud. A dream.
 * [Snapz Pro X][snapz-pro-x] - the ultimate screen shot tool. (Trust me: after three editions of DWWS, I know).
 * [CoverScout][] - finds missing artwork when I create MP3 or AC3 versions of old LPs and CDs.
 * [xScope][] by The Iconfactory and ARTIS Software. Every web or screen designer needs this. Period.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want for nothing -- except someone to cook for besides my daughter. ;)

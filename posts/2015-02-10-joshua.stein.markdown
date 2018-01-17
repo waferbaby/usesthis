@@ -9,13 +9,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [joshua stein](https://jcs.org/ "joshua's website."). I live in Chicago doing software development and consulting under the guise of [Superblock](https://superblock.net/ "joshua's consultancy."). I make [Pushover][], a notification service and app. I also run [Lobsters](https://lobste.rs/ "A tech link aggregation site."), a technology-focused link-aggregation website. On rare occasions I still find time to hack on [OpenBSD][].
 
 When I'm not behind a keyboard, I like to be behind a [steering wheel](https://jcs.org/exige "joshua's fancy car.") or a [joystick](https://jcs.org/tagged/arcade "joshua's posts about video game arcades.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I stand at a [GeekDesk][] and primarily type things into an [11" MacBook Air][macbook-air] which dual-boots [OS X][mac-os-x] and OpenBSD.
 
@@ -27,7 +27,7 @@ I usually prefer to work in silence, but when I feel like listening to music, it
 
 I use a [Kindle Paperwhite][kindle-paperwhite] for reading long-form articles and books.
 
-#### And what software?
+### And what software?
 
 [vim][] is my [editor of choice](https://github.com/jcs/dotfiles/blob/master/.vimrc "justin's .vimrc file on GitHub.") with a few plugins like [NERDTree][the-nerd-tree] and [sbd][]. [mutt][] is [my mail client](https://github.com/jcs/dotfiles/blob/master/.muttrc "justin's .muttrc on GitHub.").
 
@@ -39,6 +39,6 @@ For [Android][] development, I do everything in vim and push builds to my phone 
 
 For non-mobile development I usually write things in [Ruby][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty close to it with the newer MacBook Air's battery life, light weight, low heat, and silent fans. I suppose a higher-density screen would be nice, but I don't dream about it.

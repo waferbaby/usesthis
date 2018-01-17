@@ -7,13 +7,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 People call me Cameron, last name Walters. My initials are the genesis of my online identity in many places: [cee-dub](http://about.me/cee-dub/ "Cameron's About.me page."). Of course, different services have different username requirements, so I end up using [@ceedub](https://twitter.com/ceedub "Cameron's Twitter account.") a lot, too.
 
 By trade I'm a software engineer. Since 2005 or so, anyway. In that time I've been on the founding teams of [Get Satisfaction][get-satisfaction] and [Square][], and started my own small company, [nb.io](http://nb.io/ "A development shop in San Francisco.") (best known for [Domainr][]) with two [good](http://vedana.net/ "Eric's website.") [friends](http://ydnar.com/ "Randy's website."). I'm currently spending my work hours with a small crew of very smart people building a next-generation cloud platform at [Apcera](http://apcera.com/ "A cloud platform.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm typing this on a 13" Retina [MacBook Pro][macbook-pro]. I like to keep it pretty basic, as long as I have enough RAM. I hook it up to a 27" [Thunderbolt display][thunderbolt-display] at the office to get code and a browser side by side. Pair this with an Apple extended keyboard and a [Magic Trackpad][magic-trackpad] on the desk and I'm set. If I work from home I just use it on my lap, which works out well because I love the crispness of the Retina display. I'm using this stuff to develop software that should be able to run on anything from your laptop to a huge compute cluster or a public cloud like [EC2][].
 
@@ -21,11 +21,11 @@ My home computer is a 1.5 year-old 13" [MacBook Air][macbook-air], it's where I 
 
 My [iPhone 4S][iphone-4s] is in my pocket so much that my jeans always have a rectangular mark from the corners. I also use an original [iPad][] in the kitchen sometimes for recipes and such.
 
-#### And what software?
+### And what software?
 
 I write code in [Go][] using [Sublime Text][sublime-text], run my programs and tests via [iTerm 2][iterm2] plus the lovely [oh-my-zsh][], keep code in [Git][] repos and do almost everything else in [Google Chrome][chrome] (using multiple profiles to help keep multiple Google accounts separated). I'm writing this in [iAWriter][ia-writer] which is wonderful for removing distractions. I get most of my music through [Rdio][], both on a laptop and through their iOS app. My other music comes from [RapGenius articles like this](http://rapgenius.com/posts/793-The-top-10-mixtapes-of-2011 "Rap Genius' list of the top 10 mixtapes of 2011.") (*hello, [drama](http://rapgenius.com/Lemon-money-trees-rap-genius-response-to-heroku-lyrics "Rap Genius responding to Heroku.")!*).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh man, a way to keep my photos somewhere that doesn't suck (sorry, my external hard drive and [Flickr][] aren't really good enough) so that I can go back and look at the best of them without having to do so much work to upload, edit, tag, blah blah blah.
 

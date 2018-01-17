@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Yusuke Endoh. I'm one of the developers of the Ruby programming language. I'm involved in bug fixes, test maintenance and release engineering of Ruby.
 
@@ -20,7 +20,7 @@ I have another face. I'm a Quine programmer. A [Quine](http://www.nyx.net/~gthom
 
 You can see my other creations at [my blog](http://d.hatena.ne.jp/ku-ma-me/ "Yusuke's weblog.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have just two laptop computers: the [Thinkpad X60][thinkpad-x60] and the [X200][thinkpad-x200]. I used to use the [X24][thinkpad-x24]. I've only ever bought from the Thinkpad X series. This is not because I love Thinkpad, but because I'm not interested in hardware.
 
@@ -30,7 +30,7 @@ There is no desktop PC currently at my home.
 
 It is notable that unlike other interviewees, I have no Apple products. However, many Ruby users like [OS X,][mac-os-x] and there are many reports for bugs that can only be reproduced in OS X. I'm in trouble because I cannot address such an issue. Anyone feel like giving me a Mac? :-P
 
-#### And what software?
+### And what software?
 
 I believe that I'm using a typical Ruby/vim user's setup:
 
@@ -60,6 +60,6 @@ I use vim to write any text - when writing programs, when developing Ruby, when 
 
 Maybe unlike many other programmers, I absolutely hate configuration. "It is possible with configuration" means "it is impossible" for me. So I don't use [emacs][]. I'm using vim with very few configuration changes. My .vimrc has only about 30 lines now. I used to use Debian, but switched to Kubuntu because it requires less configuration of /etc. I like Windows as a user interface, but it requires too much configuration when we do programming.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A world where everyone enjoys programming.

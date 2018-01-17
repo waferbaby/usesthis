@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Steph Thirion](http://trsp.net "Steph's website."). Since recently I've been designing iPhone toys. I've just made my number one release, a game called [Eliss][eliss-ios]; which in a way sums up most of what I do, as it assembles user interfaces, code graphics, sound and music. And I sometimes [teach](http://www.trsp.net/teaching/gamemod/) how to get creative with code without necessarily understanding it.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My workstation is a [MacBook Pro][macbook-pro] from summer 2007, 15' with a Core 2 Duo with 2.2 GHz and 2GB of RAM, and a mate display. She's still a beast. When at my desk, I connect her to a 20.1' LCD screen by Dell, the uh... [E2007WFP][]. It can be flipped in any orientation, and it's got all kinds of connectors; I can borrow a PS2 or a Wii and play in all their pixel goodness.
 
@@ -21,7 +21,7 @@ I also have a first generation 8GB [iPod touch][ipod-touch] that I use mainly fo
 
 Then I have this little toy synth, a [Casio SK-10][sk-10], which I sometimes use to sketch melodies, and is one of my favorite gadgets. Amazingly, I found it for 1 euro in a flea market here in Barcelona.
 
-#### And what software?
+### And what software?
 
 For all my notes, task management and writing, I use [Scrivener][] (I'm using its full-screen mode as I write). It's not really meant for all those things, but its tree structure and flexibility just works for me. I like [TaskPaper][] a lot, but it also taught me that a task manager doesn't really have to be more complex than a text editor, so I stopped using it and integrated that idea into Scrivener - I prefer to have it all in one place, like a big notebook. I use [iCal][] to log what I do and how long I spend doing it. And [Apple Mail][mail] to, uh, mail. For browsing I use both [Safari][] 4 and [Firefox][] 3. I wish Firefox was fast, and I wish Safari had add-ons (maybe there's a correlation?).
 
@@ -35,7 +35,7 @@ My main workspace is on [Leopard][mac-os-x]. I use [Spaces][] extensively and re
 
 I almost forgot - as it's become so basic that it's nearly invisible - [QuickSilver][], that I use mostly for opening apps and files.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A computer that every time I lose focus while browsing the web, gives me a big slap in the face with its mechanical arm, and shoots water jets at my eyes when I should eat something or go see real people. And it would jump and run around randomly, to make me healthier and fitter. And its screen light would transform my bluish pale skin color trademark into a perfect sun-golden tan. And finally - here comes a funny fantasy - my data would be secure with it.
 

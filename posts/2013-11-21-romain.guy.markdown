@@ -8,13 +8,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Romain Guy](http://www.curious-creature.org/ "Romain's website."). I'm a software developer and photographer. I work at Google where I've spent the past 6 years helping ship every version of [Android][]. I have also done a lot of developer community support and outreach through talks, articles, etc. I recently changed team a few weeks ago to join a new exciting project. In a past life I worked as a tech journalist for French magazines, a books translator, a University teacher, a tech writer...
 
 Photography is mostly a hobby but I sometimes license my work. One of my photos was part of the recent [Nexus 5][nexus-5] launch and marketing campaign, for instance.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I rely on a powerful workstation, a 12-core [Mac Pro][mac-pro] with 24 GB of RAM, hooked up to a 30" [HP ZR30w][zr30w] and a 24" [Dell 2408WFP][ultrasharp-2408wfp].
 
@@ -28,7 +28,7 @@ Speaking of photography, I now use a [Canon 5D Mk III][eos-5d-mark-iii] for all 
 
 My equipment is carefully chosen to fit in a small [Domke F-803 shoulder bag][domke-701-83]. I can pack a MacBook Air 11", a Leica M with a couple of lenses, a Kindle or Nexus 7 and have everything I need to write software, give talks at conferences and take and process photos.
 
-#### And what software?
+### And what software?
 
 I'm a big fan of IDEs for software development - I used to use 3 at the same time when I was working on Android: [IntelliJ IDEA][intellij-idea] and 2 instances of [Eclipse][]. [TextMate][] is my swiss-army knife for everything else.
 
@@ -40,6 +40,6 @@ There are a few other tools I could not be productive without: [1Password][], [S
 
 On my Android devices, I'm an avid user of [Pocket][pocket-android], [Press][press-android], [Falcon Pro][falcon-pro-android], [Hangouts][google-hangouts-android], [Gmail][gmail-android], [Google Music][google-play-music-android], [1Password][1password-android], [Dropbox][dropbox-android], [Evernote][evernote-android] and [Wunderlist][wunderlist-android].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I am always looking for lighter, thinner and more powerful devices. I would love to see an 11" MacBook Air with a high-density display and a (much) better gamut. The current 11" is pretty terrible for serious color work. The Leica M is a heavy camera and I would love to use a lighter one that's as enjoyable to use. Maybe the [Sony A7R][alpha-7r]?

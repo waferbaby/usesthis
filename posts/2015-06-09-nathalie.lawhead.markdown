@@ -8,7 +8,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I started out as a net artist in the 90's. I remember when the World Wide Web was still a new thing, and I had to explain to people what that is, and why it's the future. Now I laugh, but I was told often that it's a niche, it will die, and I'm ruining my future. I love being right. :)
 
@@ -23,7 +23,7 @@ I think it is amazing that we're at a point where games are exactly that, and th
 
 You can see my work at [tetrageddon.com](http://tetrageddon.com/ "Nathalie's website.")
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have your classic setup of desktop, and mobile. I've moved to an Apple setup, but I used to be all about PC. I miss it.
 
@@ -37,7 +37,7 @@ The last PC I had was a really old one that used to overheat so I took the case 
 
 Now I have a nice [iMac][], but I still miss that machine. Not that I'm against high-end gadgetry. I want the latest and greatest just as much as anyone else, but it's not necessary.
 
-#### And what software?
+### And what software?
 
 [Xcode][], [Final Cut Pro][final-cut-pro], Adobe Creative Cloud (Edge, [Photoshop][], [Flash][], [After Effects][after-effects]), and lots of open source stuff. I use [AIR][air.2] a lot. I love HTML5, and love Flash even more. They work really great together. I use [FL Studio][fl-studio] for music and sound.
 
@@ -45,7 +45,7 @@ I enjoy working with anything AI. I've used [Program E][program-e], AIML, a lot 
 
 Things I use/do almost daily is [PHP][], [JavaScript][], [MySQL][], HTML, [ActionScript][].. It's all so fun. I love it.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Dream would be some way of zapping ideas straight from my brain into the computer. Like I think of it and the game is just done. I have so many ideas but all this menial "getting it done" stuff takes a lot of time.
 

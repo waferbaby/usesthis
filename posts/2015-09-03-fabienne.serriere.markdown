@@ -6,13 +6,13 @@ categories:
 - linux
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Fabienne Serriere, or fbz ("fah-bz", rhymes with bobs, lobs, robs). I'm a hardware hacker and I do other computer related things like design, deploy and maintain storage clusters for datacenters. Currently I'm working on [KnitYak](http://knityak.com/ "Fabienne's knitting project."), a project to make knits locally on demand by scripting them with software. I'm crowdfunding the purchase of an industrial knitting machine to use for on demand production in Seattle, WA.
 
 I'm a fan of open source, especially open source hardware, and I run a little hands-on hacking event called [hardhack](http://www.hardhack.org/ "Fabienne's hardware hacking event."). I like to build weird things too, like [the orchidarium](http://fabienne.us/2013/10/23/the-orchidarium/ "Fabienne's orchard project.") and [multithreaded banjo dinosaur knitting adventure 2D extreme](http://www.mediamatic.net/168233/en/multi-threaded-banjo-dinosaur-knitting-adventure "Fabienne's knitted adventure game.") and [the massage couch](http://www.mediamatic.net/52720/en/mobile-massage-couch "Fabienne's massaging couch.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [Lenovo X230][thinkpad-x230], a [hackintosh](http://fabienne.us/2010/11/27/installing-dual-boot-os-x-and-ubuntu-on-a-dell-mini-10v/ "Fabienne's hackintosh."), a [OnePlus One][one.2] [Android][] phone, [Weller WES51 soldering iron][wes51], [Sony MDR-7506 headphones][mdr-7506], [Canon EOS 400D][digital-rebel-xti], [Leatherman Juice CS4][juice-cs4], a hacked [Girltech IM Me][im-me] [reflashed as a spectrum analyzer](http://ossmann.blogspot.com/2010/03/16-pocket-spectrum-analyzer.html "A guide for turning an IM Me into a spectrum analyzer."), some [Baofeng UV-5R radios][uv-5r] (I'm a licensed ham). For hardware hacking and prototyping I often use [Arduinos][arduino], [BeagleBone Blacks][black], [DVBT sticks][rtl2832u] for [software defined radio][osmosdr], and my own circuits.
 
@@ -20,11 +20,11 @@ I just cleared out most of my material possessions after leaving Berlin, Germany
 
 I also had a collection of working vintage hardware including [three adding machines](http://fbz.smugmug.com/keyword/addingmachine/i-qB88Pj5/A "Photos of Fabienne's adding machines."), an [Apple QuickTake camera][quicktake-100], a [Newton][newton-messagepad-110], a [vintage bus display matrix](http://fbz.smugmug.com/keyword/hardware/i-tt9jt65/A "Photos of Fabienne's bus display matrix.") from the Netherlands, and some of the [hand soldered circuits](http://fbz.smugmug.com/keyword/telephoneswitchingstandard/i-h5ccGrT "Photos of Fabienne's telephone switching standard circuit boards.") and the [complete service manuals](http://fbz.smugmug.com/keyword/telephoneswitchingstandard/i-8mD6kfQ "Photos of Fabienne's telephone switching standard manuals.") for an East German telephone switching standard.
 
-#### And what software?
+### And what software?
 
 I mostly use open source stuff as I run Linux on my main laptop. Most used software is probably [Firefox][], the UNIX terminal, an offline desktop password manager, a Jabber client with [OTR][], [GIMP][], [Processing][], and [Shotwell][]. On my OnePlus One phone I use [Plume][plume-android] (Twitter), [Neko Atsume][neko-atsume-android] (addictive Japanese cat game), [Threema][threema-android], and [Google Maps][google-maps-android] (I used to use [OpenStreetMap][] on Android, but I find the interface too clunky for daily use).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love a large electronics lab with a standing desk and sitting desk, and an extra desk, and an extra desk besides that. In my old lab at home in Berlin I had the most desk real estate known to mankind. I also had a big couch with lots of windows around it in my lab, to sit on and code or read. I would love to have a setup like that again. I would love to have a kajillion monitors and some nice big fat workstations, Linux and Mac, one of which can do video editing.
 

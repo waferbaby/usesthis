@@ -7,7 +7,7 @@ credits:
   name: Sam Bricker
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Eric Larsen](http://ericlarsenexplore.com/ "Eric's website."), and I'm a polar adventurer and expedition guide. I've spent the past 20 years traveling in some of the most remote and extreme environments on the planet and have completed more polar expeditions than any other American in history. Included in that list are the first ever summer expedition to the North Pole as well as a world record expedition to the South Pole, North Pole and top of Mt. Everest all within a 365-day period.
 
@@ -17,7 +17,7 @@ I've done a couple of bicycle expeditions in Antarctica, was a dog musher back i
 
 I consider myself a story teller more than anything, and my ultimate goal is to connect people to the last great frozen wildernesses on the planet and show them how they are changing. My current no shower record is 72 days. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My expeditions are very gear intensive and I rely heavily on my equipment for my safety as well as survival. Equally important to me is to 'document' my adventures in real time so I carry a lot of electronics as well.
 
@@ -47,7 +47,7 @@ Stanley - Insulated flasks. Hot water. Hot soup. Even at 40 below. Any questions
 
 [UCO Stormproof Matches][stormproof-matches] - In such extreme environments, at some point, everything is going to be difficult. Starting our stoves can mean the difference between life and death. UCO matches are exactly what they say - storm-proof! 
 
-#### And what software?
+### And what software?
 
 Anything from Helly Hansen - I've been using Helly Hansen gear on my expeditions for several years now. Their base layer is easily the best on the market today and they're outer layers are both tough and light. They also make some killer insulated clothing that integrates sustainably sourced down from Allied Feather and Down.
 
@@ -57,6 +57,6 @@ ExOfficio sports mesh underwear - In 2014, I wore a single pair for 55 days stra
 
 Wigwam Ice Sock - Warm feet. Always. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Most of my expeditions are long suffer-fests where gear and comfort are at a minimum, so my dream is always to have a comfortable base camp set up. The MSR Hubba tent with Therm-A-Rest treo chairs, a table... in some remote area of the Himalayas, Baffin Island or Svalabard. Each day we'd take off on another adventure - skis, snowshoes, fat bike, climbing gear and A LOT of camera gear!

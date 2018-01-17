@@ -6,13 +6,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Klaus Pichler](http://www.kpic.at/ "Klaus' website."), I live in Vienna/Austria and I'm a photographer. 
 
 I'm trained as a landscape architect, but immediately after my diploma I decided to follow my heart, risk a miscarriage and become a photographer. Since then, I've been a freelance photographer, focusing on both commissions for international companies and agencies and on creating art photo projects.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I will start with my photo gear. For my free projects, I mostly use analog medium format cameras. My favourite cameras are from the Japanese company Mamiya: the [Mamiya RZ][rz67] is a workhorse of a camera: heavy, bulky and huge, which means the perfect camera for studio use! I love to work with it when it comes to still life and studio portraits. For outside purposes like editorials and photo documentaries I use the RZ's little sister, the [Mamiya 7][7]. The 7 is quite a tiny camera, especially compared to other medium format cameras, and its lenses are the sharpest and most accurate ones I have ever worked with. Besides that, the focusing requires a lot of concentration and therefore working with it is quite meditative and slow, which I really like.
 Next to the Mamiyas, I also work with a [Nikon F4 film camera][f4] and a [Kiev Horizon 202][horizon-202] panoramic camera.
@@ -25,10 +25,10 @@ I have a lot of different strobes and flash units - for example, the [Elinchrom 
 
 I use a desktop PC (yes, no Mac!) with [Windows 7][windows-7] for post production and editing, and an [iPad][ipad-2] for the presentation. I am really thankful for the invention of the iPad, because before I bought one I always had to carry heavy portfolio maps with my images when having an appointment with either clients or curators, editors etc. It was really annoying, especially when going abroad. The iPad is a perfect tool for presentation and it contains my whole portfolio, which makes everything really simple.
 
-#### And what software?
+### And what software?
 
 This will be a very short answer, since I do not use a lot of programs. I mainly work in programs of a company which starts with an 'A' and ends with a 'dobe' - [Lightroom][] (version 5 at the moment) is perfect for selecting and rating images, and also for one-layer-based editing with different presets, and when it comes to retouching or multi-layer editing, I use [Photoshop CS 6][photoshop]. For the layouts of my books, I use [InDesign][] which is very simple in its basic functions, but can be very sophisticated too, when one knows how to use the elaborate functions (which I do not know in most of the cases, I have to admit).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It sounds strange, but I think that I'm working with the best setup I can imagine. I have developed a workflow which enables a quick basic editing of the images but also leaves space for more elaborate editing and retouching, if the purpose of the images is requiring it. Camera-wise, I wouldn't trade the Mamiyas for anything else.

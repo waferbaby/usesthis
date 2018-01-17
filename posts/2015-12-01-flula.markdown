@@ -8,11 +8,11 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Flula](http://www.flulaborg.com/ "Flula's website."), and I am a Musiking-Actoring-Journalisting-Writering-Hosting-Hypeman Dude. Also, I am a Large Lover of Explorings and Adventures and yes, Cookies.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [MacBook Pro][macbook-pro] Core i7 for my Brain-Storming of [Not-Spell-Checked Novels](https://www.youtube.com/watch?v=5pqwRwLG7J8 "Flula's YouTube video where he finishes a 50,000 word novel."), [Songs about Disc Jockeying Dinosaurs](https://www.youtube.com/watch?v=CyMlfTM9-48 "Flula's YouTube of his Dinosaur DJ song."), and also Rekordings of my Father nibbling Spätzle.
 
@@ -24,7 +24,7 @@ For Notes and Ideas I use a Leuchtturm 1917 Medium Notebook, the [iPhone 6][ipho
 
 For Filming I use mostly a iPhone 6, [GoPro Hero2][hd-hero2] and [Hero4][hero4-black], and a [Canon T4i][eos-650d] with [18-135mm EF-S IS STM lens][ef-s-18-135mm-f3.5-5.6-is-stm], and a [Canon EOS C300][eos-c300].
 
-#### And what software?
+### And what software?
 
 For my Music I use Old Schools Software like 2006 [Garageband][], 1998 version of [Ejay][], but also [Novation Launchpad for iPad][launchpad-ios], and also new things like [Logic][].
 
@@ -32,7 +32,7 @@ For Video Editing I am still loving [Final Cut Pro][final-cut-pro] v7.
 
 For Editing of [strange Fotos and Images](https://www.instagram.com/p/7V_ckdgpYU/ "Flula's Instagram photo of him in labour.") I do love [Adobe Illustrator][illustrator] and [Photoshop][] CS.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 <img src="/images/interviews/flula/dreams.jpg" width="500" height="500" alt="Flula's dream setup." class="detail">
 

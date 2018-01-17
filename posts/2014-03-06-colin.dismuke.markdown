@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Colin Dismuke](http://www.cpdis.com/ "Colin's website."), I live in Houston, TX, and I'm currently an ocean engineer at [Delmar Systems](https://web-server-1.delmarus.com/Engineering/index.html "The Delmar Systems website.") where I help design, analyze, and install mooring systems, among other things. Recently, work has taken me back and forth to Australia half a dozen times so I've become a bit of a travel enthusiast. At home, I'm either training for a race (sometimes [triathlons](http://www.flickr.com/photos/cpdis/sets/72157637473975913/ "Colin's NYC Ironman photoset.") but mostly half marathons) or taking [photographs](http://www.flickr.com/photos/cpdis "Colin's Flickr account.") with my wife.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Since we're a Windows only engineering firm I use a [Latitude E6230][latitude-e6230] with a 12.5-inch screen, 2.9 GHz i7 CPU, 8 GB RAM, and 256 GB SSD running 64-bit [Windows 7][windows-7]. It's not the most powerful machine but it runs very smoothly and is more than enough when I'm on a plane or offshore. When I'm at my desk in Houston, the laptop is connected to a 27-inch Dell LED [monitor][ultrasharp-u2713hm] and [Bose Companion 5 speakers][companion-5]. In addition to the regular backups on our company servers, I have an [encrypted][truecrypt] 1TB Silicon Power Shock/Waterproof [external hard drive][armor-a80] that's incredibly durable and fast. To stay comfortable I sit in an [Aeron Chair][aeron] although I'm considering some type of arrangement that would allow me to stand for part of the day.
 
@@ -21,7 +21,7 @@ At home, almost all hardware is Apple-made not only because I find it to be bett
 
 When my wife and I are taking photographs, mostly for pleasure but sometimes as a service, we use two cameras. I usually shoot with a [D800][] and [Series E 50-mm 1:1.8 lens][50mm-f1.8-series-e]. The lens was manufactured in the early 80's and lacks the features of more modern lenses, however, I love the image quality and have grown to prefer the manual operation of the lens. When autofocus or image stabilization is needed we use a [D90][] and a [AF-S DX VR Zoom-NIKKOR 18-200mm][af-s-dx-vr-zoom-nikkor-18-200mm-f3.5-5.6g-if-ed] lens.
 
-#### And what software?
+### And what software?
 
 There are two main applications that I use when working on mooring design projects: ANSYS [AQWA][]/[Workbench][] and [Orcaflex][]. Workbench is used to create meshes of new models that were designed in Solidworks. Workbench is a very powerful program that makes it possible to intergrate many ANSYS products into one interface, however, we simply export the meshed model as a text file of nodes and elements. From there [Sublime Text][sublime-text], the Windows Command Prompt, and [Excel][] are used alongside our in-house software to perform the mooring analysis and design in AQWA. Orcaflex provides a more visual interface and is used for various projects.
 
@@ -37,6 +37,6 @@ On the iPhone I use [Pocket Casts][pocket-casts-ios] for listening to podcasts b
 
 Finally, there's a long list of apps that are synced across both the iPhone and iPad. [Clear][] for lists, [Tweetbot][tweetbot-ios], [Instapaper][instapaper-ios], [Omnifocus][omnifocus-ios], [1Password][1password-ios], [Reeder][reeder-ios], [Rdio][rdio-ios], and [Hangouts][google-hangouts-ios] for chatting.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run ANSYS software natively on OS X. Oh, and some type of teleportation that would allow me to travel to Australia sans 26-hour plane ride.

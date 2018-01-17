@@ -7,7 +7,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Judd Vinet](http://www.zeroflux.org "Judd's website."). I'm a software engineer who likes open source software and startups. I tend to try and combine the two whenever I can.
 
@@ -17,7 +17,7 @@ In my dayjob, I'm the CTO of a little startup called Bet Smart Media. We build s
 
 When I'm not in front of a keyboard, I enjoy outdoor pursuits, music, and a few sports. You'll either find me underwater (swimming), on two wheels (cycling), strumming (guitar), or cheering at a baseball stadium (or pub) somewhere.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Gone are the days when I had 15 desktop computers in my bedroom as build clusters for Arch Linux. Today I'm more of a minimalist, prioritizing mobility over screen size or computing power.
 
@@ -33,7 +33,7 @@ I don't use the mouse/trackpad a lot when I'm working, but if I do need to move 
 
 I also keep an older [MacBook Pro][macbook-pro] on my desk that does run OS X. This computer mostly serves as a build machine for [iOS][] apps.
 
-#### And what software?
+### And what software?
 
 First and foremost is Arch Linux. On top of that, I use the [i3 tiling window manager][i3], which I've customized with a couple patches and a number of homegrown utilities that I use to keep myself productive. Examples include a custom notification system, dynamic per-workspace LCD backlighting, and a few other sundry scripts that integrate with i3 over its IPC channel.
 
@@ -53,7 +53,7 @@ In addition to these major parts of my working environment, I lean on a number o
 - Languages: [bash][], [Python][], [JavaScript][] ([nodejs][node.js]), [Lua][], [Go][], [C][], [PHP][]
 - MQ and DB: [Redis][], [RabbitMQ][], [ZeroMQ][], [MySQL][], [Postgres][postgresql], [SQLite][]
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To be honest, I'm already pretty close to it. I've spent a lot of hours refining my workflow, and I'm fairly happy with things on the software side.
 

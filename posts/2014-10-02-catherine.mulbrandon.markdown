@@ -6,13 +6,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Catherine Mulbrandon and I'm a designer. Economic data is scattered over many websites like the IRS, the Census Bureau, the Congressional Budget Office and in academic journals. Over the years, I have taken this data and tried to make it accessible through clear, easy to understand data graphics which I post to my site, [Visualizing Economics](http://visualizingeconomics.com/ "Catherine's website.").
 
 In 2009, I started consulting for clients who need my expertise creating static data-heavy graphics about financial/economic subjects or designing interactive dashboards for startups. In 2011, I used [Kickstarter][] to raise funds for my book, [An Illustrated Guide to Income in the United States](http://visualizingeconomics.com/book/ "Catherine's book."), which was published last year.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My digital home is a [2011 MacBook Pro][macbook-pro]. It's starting to slow down and I hope to replace it in the next year or two. At home, I connect it to my [23" Apple Cinema Display][cinema-display] set up on [Ikea IVAR][ivar] shelves, but a lot of my work is done at a co-working space in Hoboken, where I connect to whatever PC monitor is available. I can often be found at a standing desk - even at a cafe you'll find me at the counter, standing up. Too many years in bad office chairs have taken their toll. 
 
@@ -22,7 +22,7 @@ My older white [Macbook][] from 2006 has been repurposed as my "entertainment ce
 
 I recently bought an eBags [eTech 2.0 Downloader Laptop backpack][etech-2.0-downloader] to be my portable office (my 20-year-old backpack is still around for everything else.)
 
-#### And what software?
+### And what software?
 
 My starting point for most visualizations is [MS Excel 2011][excel] for Mac, where I clean/reformat the data tables (I used to run [Parallels][parallels-desktop] on my Mac so I could have the Windows version of Excel, but it was slow and awkward and most software now has a Mac version). When I want to sketch out an idea I often copy the data into [OmniGraphSketcher][], which is now open source and very useful for simple data tables. If the data set is large or a more complex visualization is needed I can open [R][] or the new [Tableau][public] for Mac. After I get comfortable with the data, I sketch ideas with any pens and graphing paper I have available. My sketches are just for me, so I can get an idea out of my head quickly then back into the software again. 
 
@@ -36,7 +36,7 @@ New additions to my software library include [Unibox][] (used with my [Gmail][] 
 
 While I have many free apps on my iPhone and iPad, most go unused. What I'm using often: [Fantastical][fantastical-ios], [Tweetbot][tweetbot-ios], [Safari][safari-ios], [Downcast][downcast-ios] for podcasts, [Google Maps][google-maps-ios], and occasionally [Paper][paper-ios.2] for [Facebook][], and [Feedly][feedly-ios] for my RSS feeds. However, RSS has become less interesting to me the more I use Twitter.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want a laptop that's very lightweight but very fast, since I carry it everywhere and I normally connect to a monitor so it doesn't need a large screen. While I can code if I need to, I prefer to spend my time either looking at the numbers or looking at my design. I'm not happy when I'm debugging code or trying to figure out a workaround in a software package. What I want is a WYSIWYG editor where I can view and design a visualization while simultaneously edit its underlining logic in real time, but still take a peek at the data used in the graphic.
 

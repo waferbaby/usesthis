@@ -6,11 +6,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Meg Pickard](http://www.megpickard.com/ "Meg's website."), and I'm the [Guardian's](http://www.guardian.co.uk/ "The Guardian's website.") Head of Digital Engagement, which means I work with journalists, editors and technologists to explore and develop new ways of telling stories in ways which involve or reflect users & readers, plus using or creating new platforms to help with that. But I'm also a longtime creative geek - I've been blogging for over eleven years, studying and writing about the anthropological aspects of online culture since the mid nineties, and much of my free time is spent tinkering with photos, ideas and various web projects including my bilious anti-valentine cards.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home and when travelling, I'm wedded to my 13" [MacBook Pro][macbook-pro] (clad in a purple Speck softotuch shell), which replaces (and far exceeds) the MSI-WIND I was previously using for casual browsing on the couch and on trains/planes and so on. I travel a lot for work, so for a long time, weight and form-factor were more important than speed or capability, but I finally snapped after struggling to present from [Open Office][openoffice] on the netbook while visiting someone else's office. Netbooks are great for surfing wikipedia while you're watching TV, but my needs had outgrown that particular, limited use-case. Like, I need to type, present, and tinker with music etc. I also have an 24" [iMac][], which I occasionally use to process photos, wrangle audio etc, though since being relegated to the spare room when we moved house last year, I've barely used it.
 
@@ -24,7 +24,7 @@ Camera-wise, I have a [Nikon D70][d70], with several delicious lenses (like a ta
 
 My iPhone 4 is surgically attached to my hand, practically, at least until they bring out the new one, and as a result, it's the camera, entertainment device and information retriever I use most of all. Unfortunately, due to the shocking battery life, I also need to carry around a Kensignton emergency travel charger pack, which you charge up via USB and then delivers a full charge boost to the iPhone. Invaluable for long journeys and emergencies, and pretty small/light. Work also provide me with a [Blackberry 8100][pearl-8100], which is better for writing email - watch those thumbs fly! - but isn't particularly good for anything else, so I've gradually stopped using it.
 
-#### And what software?
+### And what software?
 
 I struggle with this, because my main software of choice is a browser. [Safari][], for preference, but [Firefox][] also good. I do so much of my work/storage/interaction/etc in the cloud, that the browser is the natural portal for all that.
 
@@ -38,7 +38,7 @@ I'll cop to a few other bits and pieces, though:
 
 Other apps and things on the laptop (let's not even start with the iPhone...) include [Cyberduck][], [LittleSnitch][little-snitch], [EtreTask][] and [Twhirl][] (for Twitter - I like being able to have different windows for different accounts, so I can close a particular one (e.g. a work one) at the weekends, not have it nagging away as an unchecked tab).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Well. I'd really like a camera that's small enough to fit in my pocket, but which acts like a powerful camera in terms of variable depth of field, shutter speed, ISO settings and so on. I'd then stick an [eyefi][eye-fi] card in it, and synch it to the cloud somewhere - iCloud, perhaps?
 

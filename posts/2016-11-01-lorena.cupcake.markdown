@@ -10,11 +10,11 @@ credits:
   url: http://katerjayne.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Lorena Cupcake. I'm a [freelance writer](https://lorenacupcake.contently.com/ "Lorena's writing.") and [music editor](https://storebrandsoda.com/ "Lorena's music writing."). I manage social media and marketing for [Do312](http://do312.com/ "A Chicago social activity site."), which connects Chicago residents with local events.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have one of the new [12" MacBooks][macbook.2] that doesn't have real USB, it drives me bananas on a daily basis and I'm the only person in my office who can't get a dual display working even though I have the newest computer. 
 
@@ -22,7 +22,7 @@ I have an [iPhone 6][iphone-6]. I get a lot of use out of a $10 tripod I screwed
 
 I'm not sure I'd survive covering music festivals without my [EasyAcc battery pack][6000mah-ultra-slim-power-bank] or Raw Pre-Rolled Cones.
 
-#### And what software?
+### And what software?
 
 I spend like two hours a day in [Facebook][] [Power Editor][power-editor] and I hate everything about it. [Twitter][]'s new Dashboard scheduler is pretty nice compared to third party apps like [HootSuite][] or [Buffer][]. [Instagram][instagram-ios] and [Snapchat][snapchat-ios] don't really let anyone tap that API, but I do have a [Notes][notes-ios] doc on my phone full of Instagram tags I copy paste.
 
@@ -32,6 +32,6 @@ As far as apps go, I like making GIFs with [DSCO][dsco-ios] and editing photos w
 
 I download a lot of mixtapes off [Dat Piff](http://www.datpiff.com/ "A mixtape website.") and [Hot New Hip Hop](http://www.hotnewhiphop.com/ "A hip hop themed mixtape website.") and then torture my coworkers via SONOS.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I dunno, a beach with a piña colada maker and a convenient pile of rocks to lash to my body as I walk into the sea.

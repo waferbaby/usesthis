@@ -8,13 +8,13 @@ categories:
 - service
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a gentleman hacker, an artifex, a raconteur. People think I'm a consummate snowball artist, but really I'm either a certified genius or an authentic wacko.
 
 I'm [Andy Bakun](https://twitter.com/thwartedefforts "Andy's Twitter account.") and I keep websites running. I've been using computers almost daily since I was nine, started with a [VIC-20][] and then to the [Commodore-64][]. Some days I consider myself an amateur comedy writer.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When I'm sitting a desk, my home setup is a [white box computer](http://en.wikipedia.org/wiki/White_box_(computer_hardware) "The Wikipedia entry for white box computer hardware.") that I periodically piecemeal upgrade. At work I use a [13" MacBook Pro][macbook-pro], which I find more portable than the 15" (which I used to have) for the rare occasion when it does leave the office. My primary display in both places are 30" monitors. At home, it's a [Dell UltraSharp U3011][ultrasharp-u3011], which is a fantastic monitor. I also run a [Dell UltraSharp 2405FPW 24"][u2405fpw] in portrait orientation at home. The dual monitor setup is really nice because I can keep things like chat windows, IRC, email, and documentation up on the secondary while I focus on the primary.
 
@@ -28,7 +28,7 @@ For looking up 80s trivia, settling bets while watching TV, and playing games ag
 
 There's also an iPad and a [Kindle Fire][kindle-fire] floating around the house. The latter is used by my three year old son to continuously watch garbage truck videos on loop.
 
-#### And what software?
+### And what software?
 
 All of my machines run Linux, even my work MacBook Pro. I personally prefer [Redhat][red-hat-enterprise-desktop]/rpm-based distributions for personal stuff. We use a mix of [Ubuntu][] and [CentOS][] on the servers at work.
 
@@ -44,7 +44,7 @@ I leverage [puppet][] pretty heavily to bulk manage the servers at work. The sta
 
 My home media server runs [mediatomb][], which streams videos to a [Vizio Co-Star][co-star].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Overall, I think I have a pretty good setup currently. On the physical/hardware side, the only thing I'd change is more space and some way to enable longer stretches of quiet/focus time. My home office is kind of tight making it a challenge to keep my area from becoming cluttered. After a while it settles down into a mass of junk-mail, cables, dead electronics, and random pieces of paper.
 

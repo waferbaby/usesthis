@@ -6,11 +6,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Maggie Vail. I am one of the executive directors of the nonprofit organization [CASH Music][cash-music], label manager of [Bikini Kill Records](http://www.bikinikill.com/ "A record label."), the bass player in Hurry Up, DJ Magic Beans, and 1/3 of the all lady DJ troupe Strange Babes. I'm also Johnny's best friend and am working on my first solo album.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a 2014 [MacBook Air][macbook-air] for computing.
 
@@ -24,11 +24,11 @@ I also have a [microKORG synthesizer][microkorg].
 
 I record demos on a [Tascam 8 track Portastudio][dp-008].
 
-#### And what software?
+### And what software?
 
 This is probably the least interesting part of my life. I use boring stuff like [Mail][], [Chrome][], [Endicia][] for mailing stuff, [Slack][] for yelling at you, [Sublime Text][sublime-text], [Office][]. I have to use the shit out of [Excel][] for royalties. I uses [Notes][notes-ios] on my phone so I don't forget good song titles and lyrics. Been trying to use [TeamGantt][] but I don't get it really.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Computer-wise I'd like a HUGE monitor and a shit-ton of memory. I want this to magically pop up wherever I travel to. I do NOT want to carry it. I loathe actually using a laptop as I have terrible back problems and being hunched over all the time causes me pain but circumstances are such that I must work wherever I go. Sigh. 
 

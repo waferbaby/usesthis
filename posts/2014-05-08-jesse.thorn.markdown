@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Jesse Thorn. I own [MaximumFun.org](http://maximumfun.org/ "The podcast community site."), which is a podcast network. I also host and produce the NPR program [Bullseye](http://www.maximumfun.org/shows/bullseye "The Bullseye website."), and am the publisher and editor of the menswear blog [Put This On](http://putthison.com/ "The menswear weblog.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home, I use a [Windows 7][windows-7] PC that I bought a couple years ago at Costco. With a Microsoft mouse and ergonomic keyboard that I kept from the computer before that. And a 22" screen. Honestly, I like desktop computers. Outside of being a bit ugly, I like big screens and full-size keyboards and all that stuff.
 
@@ -24,7 +24,7 @@ We record with [Shure SM7 microphones][sm7b] and a [Mackie Onyx mixer][onyx-1220
 
 I take pictures of my family and pictures for Put This On with a [Pentax K-01][k-01], which is a really handsome little camera. I use the 40mm lens it came with for everything. I am a bad photographer, but it is amazing how much a decent modern camera papers over that.
 
-#### And what software?
+### And what software?
 
 I use [Adobe Audition][audition] to record and edit, though my editor prefers [Sony Vegas][vegas-pro], so he uses that. I've been using Audition since it cost $20 and was called [Cool Edit][cool-edit], and while it costs $300 or something now, it is basically exactly the same for my purposes. 
 
@@ -32,6 +32,6 @@ I usually write in browser for blog posts, and in [Notepad][] for the radio show
 
 I use [Excel][] for budgeting and stuff, and an ancient version of [Photoshop][] (CS2) for image cropping and the like.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I guess just the new version of all of those things? But maybe it has less cables? Cables are annoying and ugly. And if there was an ergonomic keyboard that was also click-y, I would like that.

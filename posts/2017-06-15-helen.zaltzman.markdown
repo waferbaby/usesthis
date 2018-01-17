@@ -6,13 +6,13 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Helen Zaltzman](http://helenzaltzman.com/ "Helen's website."), I am a podcaster. I host and produce [The Allusionist](http://theallusionist.org/ "Helen's podcast about linguistics.") and [Answer Me This](http://answermethispodcast.com/ "Helen and Olly's comedy podcast.").
  
 Answer Me This began in my living room in suburban London in January 2007. I had no idea what I was doing - I had barely heard of podcasts, I hadn't listened to any, I'd never edited audio or run a website before or done anything relevant to podcasting, except talking, which is hardly a unique qualification. Ten years later, the show is still going, to my great surprise and wonder. In January 2015 I began the Allusionist, with the Radiotopia collective. It's an entertainment show about linguistics. No, really. And it's the greatest job I've ever had in my life.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 [13" MacBook Pro][macbook-pro], a couple of years old, slightly dented. It is hardworn. The trackpad stopped working a couple of months ago and I need to work on my laptop too much to send it off for the requisite two weeks to get it fixed, so I'm using an external Magic Mouse because audio editing without sideways scroll induces fury. 
  
@@ -30,7 +30,7 @@ Mostly I write or draw in the Leuchtturm with pens I have stolen from hotel room
  
 [I keep](https://www.instagram.com/p/9GDDV-F-Lz/ "Helen's Instagram photo of her dictionary.") an Oxford Concise Dictionary to hand to choose the randomly selected word that appears at the end of every episode of the Allusionist, and a charity shop Boggle set for spelling out the name of each episode. 
 
-#### And what software?
+### And what software?
 
 I edit my shows on [Logic Pro X][logic-pro]. I kind of hate it, but it's partly my fault for being resistant to understanding it. I just want tech to work without having to devote any brainspace to it.
  
@@ -50,7 +50,7 @@ Similarly, my podcast app is stuffed full of thousands of shows I want to listen
  
 Being a podcaster is a solitary existence much of the time, so [Slack][] is where most of my social interaction takes place. The Radiotopians are a delightful bunch of people, but all scattered geographically, so we get to hang out on Slack more than in [real life](https://twitter.com/romanmars/status/665026047599972352 "Roman's photo tweet of the Radiotopia crew."). Hrishikesh Hirway from Song Exploder and The West Wing Weekly is my regular late night Slack buddy. We're both insomniacs and work at appalling times of day (i.e. middle of the night), but him being awake at 3am in LA needing a second pair of ears on an episode he's finishing works fine when I'm in the UK and it's 11am. A couple of weeks ago, his Friday night pre-dinner entertainment was screen sharing with me trying to sort out a weird problem with the sound wave of my episode. It was 2am my time and I was desperate to get that episode done and released so I could go to bed. What a gent; thanks, Hrishi. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Having a job that is portable and allows/requires a lot of travel is pretty much my dream setup. I can carry all the equipment I really need in one bag: my microphones, Zoom, laptop. As long as I have a decent wifi connection, I can and do get my job done from [hotels](https://www.instagram.com/p/BE0YFNvF-AQ/ "Helen's Instagram photo of her hotel podcast setup."), Airbnbs, friends' couches, cafes, trains, [museum cupboards](https://www.instagram.com/p/BJacmtiBCMM/ "An Instagram photo of Helen's recording setup in the British Museum."), wherever... 
  

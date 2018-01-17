@@ -8,7 +8,7 @@ credits:
   name: Tatanja Ross
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jeremy Wortsman and I am the founder and managing director of [The Jacky Winter Group](http://www.jackywinter.com/ "A production agency in Melbourne and NYC."), a creative representation and production agency with offices in Melbourne and New York City. Our artists complete thousands of commissions a year for some of the world's leading brands and businesses and we just celebrated our ten-year anniversary!
 
@@ -16,7 +16,7 @@ I also manage [Lamington Drive](http://lamingtondrive.com/ "A online store, and 
 
 In a previous life, I was the co-founder of the design practice, [Chase & Galley](http://www.chaseandgalley.com/ "A former design studio in Melbourne."), as well as one of the founding publishers and designers of [Is Not Magazine](https://en.wikipedia.org/wiki/Is_Not_Magazine "The Wikipedia entry for Is Not Magazine."). There are some other things that I'm sure I'm forgetting, but reading the question all I can think of is those [Arnold Schwarzenegger prank calls](https://celebdial.com/c/arnold-schwarzenegger "An Arnold Schwarzenegger soundboard.") so I got distracted.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My 2017 [15" MacBook Pro][macbook-pro] drives pretty much everything along with my trusty [iPhone 7+][iphone-7-plus]. When seated at my workstation, I'm running a 29" LG Ultra Widescreen Monitor. [Bose QC30's][quietcontrol-30] are my sanity maker, and are probably in my ears at least half the day. I use an [Anker Vertical Mouse][2.4g-wireless-vertical-ergonomic-mouse] and [Apple wireless keyboard][keyboard]. All our workstations are also fitted with [12 South Fermata][fermata] headphone stands and [HiRise 2][hirise-2] stands, as we use our mobiles for all telecommunications via [Bria][]. We use Synology units for local file access, with their great cloud sync feature so we can keep portfolios updated via [Dropbox][]. All our desks are standing desks - some of them manual [WorkFit-D units from Ergotron][workfit-d], and some electronic ones from IKEA - all with custom tops. We also have a treadmill desk (of course) from Lifespan, which we love. 
 
@@ -28,7 +28,7 @@ We also just started a digital life drawing event in our gallery called Looking 
 
 I like hardware.
 
-#### And what software?
+### And what software?
 
 [Google Apps][google-apps], [Slack][], Dropbox, [Adobe Creative Cloud][creative-cloud], [1Password][] and [Xero][] run all the day to day stuff, nothing new there. [Basecamp][] runs most of our projects, and it's all hooked up to a custom [Filemaker Pro][filemaker-pro] setup which we have been delicately maintaining and developing like a bonsai for the last ten years. We also have a suite of custom-made web apps that we use - some built into our [WordPress][] setup, some totally bespoke. It's all held together with various APIs and plugins so that everything talks to each other, which is really nifty.
 
@@ -44,6 +44,6 @@ Reading through all this, I realise I haven't even scratched the surface of all 
 
 Of course, this is why I endorse the [Insight Timer][insight-timer-ios] app for 2x 30 minute meditation sessions per day, so I can try to forget about said hardware and software.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly, I think it's pretty close to actually being achieved! Typing is a bit of a bummer sometimes. Something that would allow me to type my thoughts would be awesome, but in the meantime voice recognition will have to do, so I'm really excited for it to actually work properly someday. 32GB of RAM in an Apple laptop wouldn't be too much to ask either, maybe? One can dream...

@@ -7,17 +7,17 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Eric Kissack](http://erickissack.com/ "Eric's website.") and I'm a filmmaker. I've edited a bunch of comedies (*Role Models*, *Cedar Rapids*, *The Dictator*, *Horrible Bosses 2*) and I've directed a number of short films and web series ([*The Gunfighter*](https://vimeo.com/79306807 "'The Gunfighter' on Vimeo."), [*Blessing in Disguise*](https://vimeo.com/62920984 "'Blessing in Disguise' on Vimeo."), [*Wainy Days*](https://www.youtube.com/watch?v=DZ4vaL8G4zc "'Wainy Days' on Vimeo.")). I'm currently writing a feature that I hope to direct next Spring.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For directing, my main piece of hardware is a 2013 13" [MacBook Air][macbook-air]. I use it to do pretty much everything... write scripts, plan shoots, find visual inspiration, keep track of all my tasks, etc. I use an [iPad Mini][ipad-mini] to read scripts, sometimes although I could never get on the iPad-as-creation-tool bandwagon. I use an [iPhone 5s][iphone-5s] mainly to take frequent Scrabble breaks.
 
 For editing, the hardware shifts from job to job but it's usually some variation of [Mac Pro][mac-pro] with an [Avid Media Composer][media-composer] box for video acceleration and monitoring. Also, I edit standing up... nothing fancy, though. I have a couple versions of [this Ikea Standing Desk house](http://lifehacker.com/5919778/build-your-own-sturdy-good-looking-standing-desk-for-less-than-25 "A Lifehacker article about building your own standing desk.") that I bring to various jobs.
 
-#### And what software?
+### And what software?
 
 Software-wise, I'm a bit of a mess of overlapping and competing programs. Anything that requires collaboration, I do in [Google Docs][google-docs]. I'm talking about creating shot lists for film shoots with my Director of Photography, reviewing budgets with my producer, coming up with a strategy for launching a new video, that kind of thing. But I also use [Evernote][] for collecting my thoughts and storing inspiration. And I use [JustNotes][] for quick, ephemeral writing. Honestly, it's all a bit of a mess and at some point I'll force myself to consolidate to one platform. Someday...
 
@@ -27,7 +27,7 @@ For writing scripts, I use [Highland][] which is a very simple, bare-bones writi
 
 For editing, I use Avid Media Composer 7 pretty much exclusively. Now that Apple has abandoned [Final Cut Pro][final-cut-pro] (don't get me started on Final Cut X), it's pretty much the only game in town, as far as I'm concerned. [Adobe Premiere][premiere] seems interesting but since it lacks the collaboration tools built into the Avid that are essential to the workflow on a studio feature, it's a non-starter for me. Occasionally I'll pop into [Adobe After Effects][after-effects] or [Adobe Photoshop][photoshop] to do some simple FX work.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would look a lot like my current setup, actually, only everything would be lighter and have longer battery life. I want a MacBook Air that has the same battery life as my iPad Mini. Oh and I'd like SSD's to grow in capacity and come down in price to the point where I could easily fit a terabyte worth of films onto my MacBook Air.
 

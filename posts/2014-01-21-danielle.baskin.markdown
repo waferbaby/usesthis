@@ -9,11 +9,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Danielle Baskin](http://www.alinkisenabled.com/ "Danielle's website.") and I'm the founder of [Inkwell Helmets](http://www.inkwellhelmets.com/ "The Inkwell Helmets website."), a hand-painted bicycle helmet company. I specialize in designing custom, cool helmets for cyclists in hopes of making safety more fashionable. I'm also a freelance art director. I create props for plays, scenic paint, design sets, illustrate books - and do a spectrum of things visual.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My computer is a 21.5" [iMac][], which lives in my studio on a cramped, paint-covered desk. Its portable companion, the [iPhone 5S][iphone-5s], is like a laptop to me, and lives a busy life in an OtterBox. Both devices communicate with my all-powerful, but not all-in-one, [HP LaserJet Pro 200][laserjet-pro-200], which excels at both mundane and elaborate tasks - like printing shipping labels really fast or printing UV-protected color images on vinyl. 
 
@@ -25,13 +25,13 @@ Some great chemicals and tools for sculpting/fabricating that I use: Acetone (fo
 
 For transportation, I ride an old Columbia Tourist IV, illuminated with Bike Brightz, and the 'z' in the logo is hopefully the only uncool thing about this gadget that makes my bike appear to float in a blue orb of light. I also have a [Citi Bike][citi-bike] membership, which is my one-way trip bike, bike-to-train bike, rainy day bike, lend-a-friend-a-bike bike, and backup bike. I also have a second-hand Worksman Front Load tricycle (which is so damn useful!). I use it to deliver helmets, move supplies, and occasionally to set up a mobile shop. This thing is awesome and I highly suggest using it for your next move instead of a truck. I'm hoping there's a tricycle lane one day.
 
-#### And what software?
+### And what software?
 
 The CS6 versions of Photoshop, [Illustrator][], and [InDesign][] is what I use for all illustration and graphic work. Even if I create something by hand, I'm probably finalizing it in the Adobe Suite. My browser of choice is [Chrome][]. I organize all my Internet findings on [Evernote][]. I read blogs and comics through [Feedspot][], which is like the new Google Reader. [Artsy][] is a good tool for discovering artists. [Google Cultural Institute][google-cultural-institute] is an incredible site for looking at magnified artwork. [Spinlister][] is a great way to rent a bike while traveling, though I don't really leave New York that often. I process words in [Google Docs][google-docs] or [Bean][]. Play games in [Steam][]. Download fonts from [DaFont][]. Run my company website through [Shopify][]. Create promotions with scroll kit. Code some things in [Sublime Text 2][sublime-text]. Look at how [JavaScript][] works in [JSFiddle][]. Send marketing campaigns through [Mailchimp][]. Send emails at 8:17 AM with [Boomerang][] (now you know, 8:17 AM Danielle is a cyborg).
 
 I use [Instagram][instagram-ios], [Frametastic][frametastic-ios], [Twitter][twitter-ios], and [Tumblr][tumblr-ios], mostly for my company. When I sell helmets in the street, I accept payments with [Square][]. I find out Citi Bike docks' availability with [NYC Bikes][nyc-bikes-ios]. I listen to [Podcasts][podcasts-ios] and audiobooks on [Audible][audible-ios] while painting. Communicate through [Gmail][gmail-ios]. And remember things, draft things, and make lists with Notes - lots of 'em. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Visualization tools! This doesn't exist, but I'm thinking of a device that could project sharp images (or solid colors) onto irregular or non-flat objects at short distances. It would kind of be like a [Pico Projector][pico] meets [Google Glass][google-glass] meets [Maya's][maya] UV mapper. It would detect an object's edge, then project distorted pictures onto its surface with an aperture that mimics its contour. This would facilitate painting on objects by showing a template to trace images or text. It would also be a tool to show other people prototypes for different aesthetic variations on objects, without actually creating it. While I love intricately hand-made objects, I'm getting increasingly less stubborn about doing the entire process by hand and eye... because, speeding up the process yields more ideas. 
 

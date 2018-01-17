@@ -6,11 +6,11 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi, I'm Brent Knepper! I'm a freelance photographer in Chicago, and I run a photoblog about my adventures in train travel in the US. You can check the blog at [railpass.tumblr.com](http://railpass.tumblr.com/ "Brent's Tumblr site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 **Digital Cameras:** [Nikon D800][d800], [D700][]; [Fuji X100][finepix-x100]; [iPhone](https://i.imgur.com/LpcYp1D.jpg "A NSFW photo of a man holding an iPhone.").
 
@@ -20,13 +20,13 @@ Hi, I'm Brent Knepper! I'm a freelance photographer in Chicago, and I run a phot
 
 **Computers:** I edit on a 2010 or something [iMac][] in Chicago and from my [iPad mini][ipad-mini] while traveling.
 
-#### And what software?
+### And what software?
 
 **Computer Software:** [Photo Mechanic][photo-mechanic] to sort and add metadata, [Lightroom][] with VSCO presets. I don't really use [Photoshop][] as I never want to do a lot of retouching on my photos.
 
 **iPad Software:** [VSCO Cam][vsco-cam-ios] for the iPhone blown up 2x so it looks super terrible. Like just really really bad. I'm always surprised how good the pictures look once I'm back on a native-res application, though.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh, boy, now there's a question! I'm gonna break this one down like I did the second question.
 

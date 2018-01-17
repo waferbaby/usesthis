@@ -7,13 +7,13 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [Geoffrey Grosenbach](http://twitter.com/topfunky "Geoffrey's Twitter account."). I'm the founder of [PeepCode](https://peepcode.com/ "The PeepCode site.") (recently acquired by [Pluralsight](http://pluralsight.com/ "The Pluralsight site.")), video education and entertainment for professional designers and developers (along with about 8 other employees and contractors).
 
 When not at a computer, I get creatively rejuvenated by riding and racing bicycles on dirt.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 * I do most of my [computering](https://peepcode.com/blog/2013/charismatic-duo/img/dinosaur-hands.gif "A GIF of dinosaur hands.") on Apple products. Full size 15" [MacBook Pro][macbook-pro] with both an SSD and a HDD (in place of the DVD drive). The high resolution matte screen option is a must for me. [iPhone 5][iphone-5], [Retina iPad][ipad-3].
 
@@ -41,7 +41,7 @@ Away from work, my hardware looks like this:
  
 * 333fab titanium cyclocross bike. Welded from scratch for me with all my favorite components and a [custom paint job](https://www.facebook.com/media/set/?set=a.438084979603385.1073741826.262675223811029&type=1 "Photos of Geoffrey's bike.").
 
-#### And what software?
+### And what software?
 
 * Adobe Software. I'm a huge fan of [After Effects][after-effects]. My production workflow became much easier once I started using [Premiere Pro][premiere-pro] and Adobe's video encoding tools.
 
@@ -51,7 +51,7 @@ Away from work, my hardware looks like this:
 
 * [Emacs][] for text editing. Most of the time I don't know what my fingers are typing. They just do what I'm thinking. To me, that's the definition of a great text editor.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Until 2009, I did 90% of my work on a beefy desktop tower and wouldn't consider any other machine for serious work. Multi-core, multi-drive, full power. I slowly transitioned to being able to do all my work on a 15" MacBook Pro, which is faster than the 8-core [Mac Pro][mac-pro] tower I have at home.
 

@@ -7,21 +7,21 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Bruce Sterling](http://www.well.com/conf/mirrorshades/ "Bruce's website."). I'm a novelist and journalist with an interest in futurism, technology art, and design. I tend to unite my time between the three cities of Austin, Texas, Torino, Italy, and Belgrade, Serbia.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Mac laptops, a pocket camera, Victorinox and Leatherman multitools, paper notebooks, pens, shoulder bags, travel clothes. I'm fond of augmented reality gizmos and maker-lab gear. Passports, visas, credit cards and international banking services are a big part of my life. I've also got zipper-bags always standing by, stocked with the every-day carry rubbish a writer needs on the road: vitamins, string, carabiner clips, combs, international power plugs, batteries, thumb-drives, that basic airport-store stuff.
 
 I've decided I don't much care for cellphones or smartphones any more, because I dislike the surveillance marketing and the abuse by intelligence services. Actually, I don't even like the smartphone manufacturers or the wireless service providers. That's become a cruel, sick industry.
 
-#### And what software?
+### And what software?
 
 [Nisus Writer Pro][nisus-writer-pro], [TextEdit][], [Wordpress][], [iTunes][], [Safari][], [Netscape][firefox], [Wordpress][], [Twitter][], [Tumblr][], [Flickr][], [Vimeo][]. I decided I don't like [Google Plus][google-plus] or [Facebook][]. I like "[Ghostery][]" because it shows the cookie-trackers that pounce on you as you surf the web nowadays. Being a writer, I just plain read a lot of stuff. I've got a book in the bag, most of the time.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Being a science fiction writer, I can dream pretty big. I suppose my ideal situation would be some kind of scholar-in-residence gig, where I had immediate, painless, cost-free access to several tons worth of tech-art equipment, a fab lab, a library and a private publishing house. As long as I didn't have to personally pay or maintain any of that stuff, or, in fact, do anything at all, except mess around blogging about cool oddities, and maybe lecture sometimes. That's what I generally, in fact, do.
 

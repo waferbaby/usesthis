@@ -6,13 +6,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I](http://cate.blog/ "Cate's website.") work at Automattic as the 📱👑. Expressed in words rather than emoji (although why would you want to), I lead a team of 27, including designers, [iOS][], and [Android][] developers. We work mainly on the [WordPress][] [mobile][wordpress-ios] [apps][wordpress-android].
 
 Outside of my job I have various projects, including running a newsletter called [Technically Speaking](http://techspeak.email/ "Cate and Chiu-Ki's newsletter.") with my friend Chiu-Ki.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 So much hardware. I have two phones, two tablets, and two computers. 
 
@@ -34,7 +34,7 @@ I used to have a pink [Apple Watch][apple-watch], but it died. Before I had a [M
 
 Aside from devices, headphones are important to me. I've not bought [Earpods][] (yet!) - they look nice, but I have too many Android devices and I'm worried I'll lose them. I love my noise cancelling [Bose QuietComfort 20 headphones][quietcomfort-20], and after years of searching I've finally found the perfect Bluetooth headphones - beautiful pink [Sony h.ear on Wireless][mdr-100abn].
 
-#### And what software?
+### And what software?
 
 [Simplenote][]! I live in this app. It's where I keep my running documents of things to do or think about in a given week, where I draft all my blog posts and letters. It syncs across _every_ device, so I always have it there to capture what I'm thinking.
 
@@ -58,7 +58,7 @@ Photo apps (mainly iPhone): [Google Photos][google-photos], [Instagram][], [Rook
 
 [Xcode][] and Android Studio - because I'm still a developer at heart :) Also [SourceTree][], because I find it makes [Git][] easier.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I wish Apple and Android devices worked together better. Sometimes I use my Android phone more, but I can't pair it with my Watch (and when I had an Android wear, I couldn't pair it with my iPhone). I can't use my Android Tablet with my [Apple TV][apple-tv]. If things work across platform, it's normally because of the apps. Although I'm currently a bit mystified as to how Google Photos has selected which photos to back up from my iPhone and why it didn't back up all of them. I find myself going to certain devices for certain things, and sometimes this is good - like having a separate device with all my work accounts. But for my personal stuff, I wish it would flow between things more easily.
 

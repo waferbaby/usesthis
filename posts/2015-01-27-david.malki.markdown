@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm the author of the comic strip [Wondermark](http://wondermark.com/ "David's web comic."), which is a gag strip constructed [collage-style](http://vimeo.com/channels/16489 "David's Vimeo video of his comic creation process.") out of 19th-century book and magazine illustrations. I've been doing the comic since 2003, and in that time I've managed to build a rickety little publishing company around the thing, so now I publish [books and cards and calendars](http://store.wondermark.com "David's online store.") and things like that. Recently I just wrapped up a Kickstarter for a series of [jigsaw puzzles](https://www.kickstarter.com/projects/malki/wondermarks-jigsaw-puzzles-of-fictional-victorian "David's jigsaw puzzle Kickstarter project."), which are on the press right now.
 
@@ -17,7 +17,7 @@ I also do the art direction for the books published by [TopatoCo][], a comics pu
 
 Most of my day-to-day work is design-related, whether I'm making comics, or doing layout for books or posters or packaging, or working out prepress requirements with printers and manufacturers. I like to [make things with my hands](http://unusualtimes.net/one-last-question-for-our-curate-a-box-artist-mr-david-malki/ "An interview with David about a box he made."). Intermittently, I also make [weird videos](https://www.youtube.com/user/darthkittenlover "David's YouTube videos.") and write articles exploring the [fun and amazing things](http://wondermark.com/tag/true-stuff/ "David's posts about real things he finds in old books.") I stumble across in musty old books.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The raw materials for my comics are my collection of 19th-century books -- mostly bound collections of periodicals, but also catalogs, storybooks, primers and newspapers. I have a bookshelf full of crumbly old volumes and I'm acquiring more all the time.
 
@@ -27,7 +27,7 @@ I use a [Canon 7D camera][eos-7d] for stills and video, and a [Tascam DR-05][dr-
 
 I try to carry a notebook everywhere. Pentalic makes some pocket journals that are just as good as Moleskine and about a third the price, but usually I just pick up a handful of notebooks whenever I see some on sale and throw them in a drawer. Then I always have a stack of new ones ready. A typical notebook lasts me 8-12 months, and then I number it and put it on a shelf, which makes for a really cool series to watch grow over time.
 
-#### And what software?
+### And what software?
 
 80% of my work is done in [Adobe Creative Suite][creative-suite] -- chiefly [Photoshop][], [Illustrator][], and [InDesign][]. I use [Final Cut Pro][final-cut-pro] to edit video (and podcasts and other audio-only stuff too -- it's a much easier program for me to use than dedicated audio programs). 
 
@@ -47,7 +47,7 @@ Monotasking - If the schedule says I'll work on X, I try my best to just work on
 
 Handwriting - Computers and phones are distraction machines. Writing in a notebook or scrawling on a crumpled-up printout makes things flow more easily for me. When my mind's buzzing and flitting everywhere, sitting and scrawling something by hand feels clunky and forced for five minutes... but if I can just make myself physically write on paper without doing anything else, minutes six and onward usually start feeling pretty decent.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My limitations now revolve mainly around space. Real estate is expensive in Los Angeles! I'm lucky to have a cool little office/studio where I can do lots of stuff, but it doesn't allow for much expansion. I'd love to have an alcove with a little photo/video stage, and another nook or a garage with a proper workshop -- a place where I can fit real tools, like a table-sized [board shear](http://en.wikipedia.org/wiki/Board_shear "The Wikipedia entry for a board shear."). And a courtyard where we can properly enjoy the California sunshine.
 

@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm foremost a human, secondly [an artist](https://www.instagram.com/emhaasch/ "Emily's Instagram account.") and finally [a designer](http://www.emilyhaasch.com/ "Emily's website."). I was born & raised in Chicago, made a stopover in San Francisco, and am now residing in NYC.
 
@@ -15,7 +15,7 @@ I led design at Cards Against Humanity, reimagined spaces for digital art at Ele
 
 I also raise [marimos](https://en.wikipedia.org/wiki/Marimo "The Wikipedia entry on Marimos.") and do a lot of walking in my spare time.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I tend to travel a lot, so everything has to be mobile to some extent.
 
@@ -27,7 +27,7 @@ When in the office, I sometimes work from an [Apple Cinema Display][cinema-displ
 
 Finally, when stressed about design projects, I burn sage.
 
-#### And what software?
+### And what software?
 
 I like to keep things basic, and don't believe in superfluous or crazy-expensive software setups unless necessary. That having said, my work setups can flex based on employer or client, but here's a general overview.
 
@@ -37,6 +37,6 @@ I create product design work primarily in [Sketch][], with iconography and gener
 
 For my practice as an artist, it's all IRL / analog. Pieces are usually touched up in [Photoshop][] afterwards to remove dust and adjust color grading for a digital screen. Work is stored via [Dropbox][]. I host and promote most of my work via [Instagram][]. I've been getting back into using [Are.na][] for exploration and documenting taste. Finally, I record invoices and track cash flow via [Harvest][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be to have both a quiet studio overlooking a foggy beach, and a more responsible American president.

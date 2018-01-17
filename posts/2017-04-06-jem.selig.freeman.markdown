@@ -7,15 +7,15 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jem Selig Freeman and I run a furniture design and manufacturing business called [Like Butter](http://likebutter.com.au/ "Jem's furniture design company website."). We make a whole range of our own furniture and other custom jobs that come our way. I trained as an Industrial Designer with very few skills, then formed the business with Laura Woodward (now married!) - she taught me to weld, and everything since has been self taught and developed on the job.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 An abbreviated list in order of current perceived importance: Multicam CNC Router, [Lamello Zeta P2][zeta-p2], [SawStop Industrial Cabinet Saw][industrial-cabinet-saw], [Festool ETS 150/5 sander][ets-150-5], cheap [eBay][] calipers, Tajima tape measure, [Bose QuietComfort 25 headphones][quietcomfort-25], [iPad Pro][ipad-pro], [iPhone 6][iphone-6], unbranded workstation PC, twin 24" Dell IPS displays, [Canon 7D][eos-7d]. My all-time favorite PC keyboard is the [Dell SK-8115][sk-8115].
 
-#### And what software?
+### And what software?
 
 [Chrome][] and [Gmail][] because the emails are endless. [Rhino 5][rhino] is our standard CAD package in the business - this started as a budgetary consideration but has since become our best friend for all drafting, designing and CNC preparation. For CNC programming we use [EnRoute][] 5 and 6. [SketchUp][] gets a look-in occasionally when I need to mock up an image for a client in a hurry.
 
@@ -23,7 +23,7 @@ On the iPad Pro I use [Adobe Sketch][photoshop-sketch-ios] for drawing and the [
 
 [WorkFlowy][] and [Slack][] form our task management and team communications package - they're both fantastic for managing a small team and 30-60 jobs per month. I use [Adobe Lightroom][lightroom] to manage and edit product documentation.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 It's almost there, really - I'm always pushing for less dust and more light, so I suppose the dream would be a clean-room with powerful centralised dust extraction and stacks of natural light through double glazed windows. A lush country paddock for morning tea and maybe a deaf workshop dog to play frisbee. More robots, always more robots, a wide belt thickness sander and some general assembly robotic arms.
 

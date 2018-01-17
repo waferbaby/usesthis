@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I maintain [Git][], a distributed version control system. Linus Torvalds (of Linux fame) started the project in April 2005, which quickly grew and gained many contributors, which I was one of. Linus passed the project to me later in that year, and I've been running the project ever since. We'll have the 10 year anniversary this coming April.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The primary "machine" I use daily for my work lives somewhere in Google datacenters. It's all virtualised and I'm not sure what the actual hardware looks like - all I know is that the instance is assigned 3 recent-model Intel CPU cores with 12GB RAM.
 
@@ -22,7 +22,7 @@ I carry a [Nexus 4][nexus-4] phone or a [Nexus 5][nexus-5] phone, and keep eithe
 
 To commute, I use a [Micro Sprite kick-scooter][sprite], as I hate walking and a bicycle is too bulky to get on a bus with.
 
-#### And what software?
+### And what software?
 
 I use [Secure Shell][secure-shell] SSH client on my Chromebooks to log in to my primary development environment, which runs some version of Ubuntu Linux the IT folks at Google manage for me.
 
@@ -32,6 +32,6 @@ I use [GnuCash][] to keep track of my checking account and credit card usage. Th
 
 I use [Calibre][] to manage my e-books, installing them to and removing them from my Nook e-Readers. I haven't experimented with this in the crouton environment yet, though. When I don't have my Nook with me, I use either [Google Play Books][google-play-books-android] (on Android) or [Google Play Books][google-play-books] (on Chromebook or other laptops) for my reading.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I am good with what I use right now. I used to be picky about CPU performance, thermals, DRAM timings and all that, and I used to build my own boxes by picking the boards and parts, but over time I learned that good enough is good enough.

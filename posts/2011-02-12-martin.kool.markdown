@@ -7,13 +7,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 <img src="/images/interviews/martin.kool/1.jpg" width="500" height="300" alt="I'm Martin Kool." class="detail">
 
 Smart, charming, funny. Things I'd love to be one day. And until that moment comes I'm just [Martin Kool](http://twitter.com/mrtnkl "Martin's Twitter account."), HTML5 adventurer, retro gamer and technology geek. I am Creative Director at the Dutch [Q42](http://q42.nl/ "Martin works here."), wrote [sarien.net](http://sarien.net/ "Web-based Police/Space/King's Quest.") (of which the iPad saga went from [Cease and Desist](http://www.martinkool.com/2011/01/sariennet-full-story.html "Martin's write up of the Sarien/Activision drama.") to [Activision's support](http://toucharcade.com/2011/01/30/sarien-net-is-back-with-activisions-approval/ "Touch Arcade's article on Sarien/Activision.")), I co-founded [Quplo][], and initiated a few open-source projects such as [BackFire][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 <img src="/images/interviews/martin.kool/2.jpg" width="500" height="300" alt="This is my hardware." class="detail">
 
@@ -25,7 +25,7 @@ My [iPad 3G][ipad-3g] goes everywhere I go, and with [Flipboard][flipboard-ios] 
 
 At Q42 I use a run-off-the-mill [Dell OptiPlex 760][optiplex-760] with two monitors attached. One of them is at the desired height, the other is resting on one of the many books we have lying around by "I write big books and I can not lie" Martin Fowler. I'm actually quite fond of my IO setup; a mouse on the left and a trackball on the right helps me prevent repetitive strain injury, and the fact that it frustrates anyone that needs to use my PC for a second is a nice free bonus.
 
-#### And what software?
+### And what software?
 
 <img src="/images/interviews/martin.kool/3.jpg" width="500" height="300" alt="This is my software." class="detail">
 
@@ -37,7 +37,7 @@ Tools I cannot live without are [PNGOutWin][] to crush PNG files and [AutoHotkey
 
 Oh, and I am very fond of Flipboard.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 <img src="/images/interviews/martin.kool/4.jpg" width="500" height="261" alt="The end." class="detail">
 

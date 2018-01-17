@@ -9,11 +9,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Nicole He](http://nicole.pizza/ "Nicole's website."), a programmer and artist, currently a graduate student at [ITP](http://itp.nyu.edu/itp/ "A graduate program at NYU.") at NYU. I like to make things that are playful.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do most things on my [2015 MacBook Air][macbook-air], which is usually covered in food. 
 
@@ -21,7 +21,7 @@ Many of my projects are made with microcontrollers. The two that I use the most 
 
 There's a lot of wiring and soldering, so two tools I use the most are my [digital multimeter][3320] and my [wire stripper and cutter][5203].
 
-#### And what software?
+### And what software?
 
 Mostly, I code in [JavaScript][] (for web stuff) and [Python][] (for bots and text generative stuff), with a little [C#][c-sharp] for [Unity][] work on the side and [C][] for Arduino. I just agreed to begin a [Kinect][] project over the next couple months, so presumably I'll be getting all up in some [C++][c-plusplus] real soon too. 
 
@@ -31,6 +31,6 @@ I switched recently to [Atom][] as my text editor. I'm constantly looking for th
 
 I use the [Adobe suite][creative-suite] for quick and janky video and GIF-making. [1Password][] for password management, [Dropbox][] for storage, and [Backblaze][] for backup. And of course [TweetDeck][], for terrible distraction.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is an idyllic, remote cabin in a forest with a gentle creek that runs nearby. There are fruit trees outside, ripe for the picking. The cabin has an enormous kitchen with wide windows that let in the sunlight and crisp air. There's a fireplace. Also a squat rack. And flawless, lightning-fast wifi. And obviously the forest is full of friendly, magical owls and bears who can teach me ES6.

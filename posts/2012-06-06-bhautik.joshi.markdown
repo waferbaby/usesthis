@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a research engineer working at [Industrial Light & Magic](http://www.ilm.com/ "A visual effects studio."), where I work on building proprietary tools for artists to use. In my spare time I'm a [photographer](http://www.flickr.com/photos/captin_nod/ "Bhautik's photos on Flickr."), and I'm [constantly experimenting](http://cow.mooh.org/projects/ "Bhautik's photography projects.") with computational photography techniques and [hacking together](http://blog.cow.mooh.org/2010/04/fisheye-tin-cam.html "Bhautik's home-made fisheye lens.") my [own lenses](http://cow.mooh.org/projects/tiltshift/ "Bhautik's home-made tilt-shift lens.") and [camera setups](http://blog.cow.mooh.org/2009/12/phone-o-scope-attaching-slr-lenses-to.html "Bhautik's post on attaching SLR lenses to his iPhone."). I'm soon going to be a new dad and I'm looking forward to [geeking out](http://vimeo.com/39035740 "Bhautik's video of a Tron stroller.") with my kid.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I like to be as minimal as possible, and reliability trumps speed. I haven't owned a laptop in a long time and I don't miss having one. At home, I have three primary machines:
 
@@ -27,7 +27,7 @@ My primary camera is a [Canon 7D][eos-7d]. The image quality is great, it works 
 
 Outside of that, I've got an [iPhone 3g][iphone-3g] that's been downgraded to iOS 3, making it a fast and reliable little device. I use it a lot for remotely logging into my DNS-323, and a couple of basic apps for color grading make it a remarkably good camera as well.
 
-#### And what software?
+### And what software?
 
 On the iMac, I'm running [OS X 10.6][mac-os-x]. I use whatever the latest version of [Firefox][] is for web browsing (I've always liked its minimal approach and the wide range of plugins available). I don't need many bells-and-whistles for my document processing, so I use [Google Docs][google-docs] for that. Day-to-day, I use [Lightroom 4][lightroom] for processing images, and I'll pop out to [Photoshop][] if a picture needs detail work. I use [hugin][] quite a lot for photo stitching and for aligning stacks of images for experiments. For the heavy-duty computational photography, I'll prototype in [PIL][] and then re-implement in [C++][c-plusplus] if I need the speed.
 
@@ -37,7 +37,7 @@ I've been using virtual machines for a long time; I use [VirtualBox][]. I do my 
 
 On the iPhone, I've recently been making a lot of use of [Mill Colour][mill-colour-ios] and [Instagram][instagram-ios]. On the phone, I focus on colour and composition and use Mill Colour to give the images a basic colour grade to fix up the strange exposure metering the iPhone does. After that, I post the images on Instagram unmolested, as I find the prepackaged filters pretty cheesy.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I tend to only want what I actually need, so as far as computers go, my dream would be to have less stuff. It's useful to have two desktop machines to alternate between when one is busy doing work (I value responsiveness) but if I could get away with just one desktop I would. The only exception here is the display - if I could possibly justify it, I'd love to get a high-color-depth display, like the [HP DreamColor LP2480zx][dreamcolor-lp2480zx].
 

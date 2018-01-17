@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Karl Anderson](http://monkey.org/~kra/ "Karl's website."). I help run [Futel](http://futel.net/ "A free phone company."), a free phone company. I'm a software engineer for [Duo Security][duo]. I make post-apocalyptic training installations with members of [Dorkbot PDX](http://dorkbotpdx.org/ "A group of people having fun with electricity.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a 12.5" [ThinkPad X220 laptop][thinkpad-x220]. It's small and it has a full-size mechanical keyboard, and it's underpowered and not too valuable. The important feature is that I can throw it in my backpack and pull it out on the couch or a dark corner of the bar, so it gives me time to work. Nothing special. I love it like I love my bike and my space heater (which are similarly covered with stickers). It's a tool that's very familiar to my hands. It's a mistake to get sentimental about a computer. At work I get to use a sweet large [MacBook Pro][macbook-pro] with a lot of memory so I can do things in several virtual machines at once and talk with my co-workers at the same time. I'm not sentimental about it, not sure why. I lose myself in it as much as I lose myself in my own laptop.
 
@@ -28,13 +28,13 @@ Futel runs on payphones we get off Craigslist, [Linksys WRT54G routers][wrt54g] 
 
 The hardware hacking I do mostly runs on the [Teensy][], an [Arduino][]-compatible platform, and various bent devices and other junk. I know hardly anything about hardware. This is a great time for people like me to mess around with it, because it's so easy to do jump in and start with simple things.
 
-#### And what software?
+### And what software?
 
 I spend most of my screen time in [Emacs][], in terminal and editor buffers, whether on my host OS or a virtual box. My personal laptop is an [Ubuntu][] box, which I don't like that much, but I spent too much time in my youth figuring out what OS to run and how I wanted to configure it. Seriously, I used to make my own menu bars, now I wonder why I bothered. My work Mac is set up however my co-workers tell me to, because they're more paranoid and knowledgeable than I am. The Mac constantly annoys me for different reasons than the Ubuntu box, but so long as I the important setup is in a VM, I don't have to worry about it much.
 
 Futel is basically a VoIP service implemented with [Asterisk][] and [OpenVPN][] and a lot of scripts. We use [DD-WRT][] on routers because we can use cheap hardware, and because we can put an OpenVPN client directly on the router. We want to expose as little Asterisk as possible. When we put an Asterisk box directly on the net, kids immediately start trying to break in and make toll calls or resell service or DDOS numbers or whatever they want to do with VoIP services these days. We can't re-flash the SIP boxes, so we're at the mercy of whatever firmware they have, and they're often carrier-locked, so we have to be careful when buying them. It's evil, a lot of energy went into making those chips, and now they're worthless because some defunct corporation didn't want us to use their hardware long after they were dead.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want to answer this question with some Stanisław Lem scenario. Interacting with computers is the dreamtime, because people are on the other side of that abstract space, and we're letting that space change how we interact with them. It's made out of words, it's poetry. But it's a stupid dream, because the real world is out there too, with real people to interact with.
 

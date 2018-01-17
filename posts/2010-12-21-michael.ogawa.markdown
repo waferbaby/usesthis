@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Michael Ogawa](http://www.michaelogawa.com/ "Michael's website."), a Ph.D. student at [UC Davis](http://www.ucdavis.edu/ "The University of California Davis."). I study software visualization (a branch of information visualization) and have created [code_swarm][code-swarm] and [software evolution storylines][evolines], among other things. I want to illuminate the dedication and effort put forth by open source developers.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 While my research lab-mates have workstations and 30" monitors, I work on my personal laptop, a [15" Dell XPS M1530][xps-m1530] that I got in 2008. It has a dual core 2.4 GHz CPU and Nvidia Geforce 8400M graphics card. I chose a somewhat modest setup due to my belief in designing on the same hardware one's audience uses. I think I'm due for an upgrade soon though.
 
@@ -21,7 +21,7 @@ When I'm not at home, I carry a Logitech portable corded mouse and Sony earbuds.
 
 I recently started experimenting with [Arduino][]. My favorite entertainment hardware is the [Ion Drum Rocker][drum-rocker-xbox] I got for my birthday.
 
-#### And what software?
+### And what software?
 
 I have [Windows 7][windows-7] on the laptop. I occasionally ssh into my old Linux lab desktop and lab server. I browse the web with [Google Chrome][chrome]. Other Google stuff that gets me through the day are [Gmail][], [Calendar][google-calendar], [Docs][google-docs] and [Reader][google-reader].
 
@@ -29,7 +29,7 @@ I have [Windows 7][windows-7] on the laptop. I occasionally ssh into my old Linu
 
 My lab uses a [MoinMoin][] wiki to keep track of stuff. I recently started using [Gephi][] for network analysis and visualization. It simplifies the layout and exploration process, but I use Processing for final rendering.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 How about a powerful laptop in a [MacBook Air][macbook-air] form factor?
 

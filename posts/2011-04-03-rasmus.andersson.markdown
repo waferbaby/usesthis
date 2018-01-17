@@ -8,11 +8,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm one of those designer-slash-programmers and am probably known best for [designing Spotify](http://rsms.me/about/spotify/ "Rasmus' page about his work with Spotify."). Been a professional designer since primary school.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I try to minimize the number of things in my life, thus I have one [MacBook Pro 15"][macbook-pro], one [iPhone 4][iphone-4] and an [iPad][] which I should probably sell or give away (since I don't really use it). And I also own a pair of [LV2 speakers][living-lv2]. That's about it when it comes to electronics, part from my [old beautiful PowerBook 15](http://www.flickr.com/photos/rsms/73641960/ "A photo of Rasmus' PowerBook.") which I keep in a closet and take out once in a while just to look at it. A true piece of art.
 
@@ -22,7 +22,7 @@ Back to computers. When in need to do precision work (pixel-precision stuff), I 
 
 And I use a lot of pen-and-paper. That's hardware, right?
 
-#### And what software?
+### And what software?
 
 Just as with things in the physical world I'm driven toward simplicity in the software world. The less tools I need to work with, the more space for creativity, thus I usually go by the motto "less tools is more output". I do all my raster image editing in [Photoshop][] or even [Preview][], use Google's web-based [mail][gmail], [calendar][google-calendar] and [docs][google-docs] through [Chrome][], let [Spotify][] handle all of my music. My ~/Documents are managed by [Dropbox][] so I never need to worry when my computer gets stolen.
 
@@ -38,7 +38,7 @@ The software I'm using tends to come and go as I believe in evaluating things an
 
 Okay, I'll shut up about software in a few words, but just gotta list a few websites which IMHO are also "software": [GitHub][] is an amazing place, product and breeding ground for ideas revolving around software development, created by the ever so humble [Chris Wanstrath](http://chris.wanstrath.usesthis.com/ "Chris' interview.") (and Tom Preston-Werner). But I don't really use Twitter.com but rather the [Twitter desktop application][twitter-mac] although they have changed the icon three times in a month and it's still fugly.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Just needing to care about the pure essentials of what I'm creating or am trying to accomplish. Not having to learn any tools or walk long roads just to find a map to the next road, leading to what I'm actually interested in, if you follow the parable. What's persistent and important is humans and human interaction. Everything else will change and is less relevant in life.
 

@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Aaron Boodman](http://www.aaronboodman.com/ "Aaron's website."), a software engineer. I am probably best-known for having created [Greasemonkey][]. I currently work on Google Chrome. In particular, I lead development of its [extension system](http://code.google.com/chrome/extensions/index.html "Information on Chrome's extension system.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have kind of an embarrassing amount of hardware.
  
@@ -35,7 +35,7 @@ I like to work from home a fair amount. For that, I have a [Levono T61][thinkpad
  
 I have the usual nerd collection of phones, iPods, Kindles, etc. I have a [Cr48][cr-48].
 
-#### And what software?
+### And what software?
 
 The constraints that have shaped my software setup are:
  
@@ -65,7 +65,7 @@ Git also has great features for understanding your work's history. For example, 
  
 I've used more complex tools like visual IDEs in the past. They have some nice features, but they tend to be slower, more crashy, require extensive setup, and not work well remotely. Over time, I realized they are a net loss to my time and energy.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with what I have, within the constraints of reality.
  

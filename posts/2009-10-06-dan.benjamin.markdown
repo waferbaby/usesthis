@@ -8,11 +8,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Dan Benjamin. I write, broadcast, and create websites. I'm the author of [Hivelogic](http://hivelogic.com/ "Dan's website."), screencaster at [PeepCode](http://peepcode.com "High intensity screencasts."), the founder of [Playgrounder](http://playgrounder.com/ "A web magazine for the best in kids' stuff."), co-creator of [Cork'd](http://corkd.com/ "A social network for wine aficionados."), and the co-host of a number of podcasts.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My focus is on simplicity, so I'm always trying to reduce and minimize what I own and use. When I figure out a way to get by with fewer things in a way that creates less effort, I'll give it a try.
 
@@ -32,7 +32,7 @@ The Shure SM7B is clamped to the desk with a [Heil Sound PL2T studio mic boom][h
 
 I have an [Airport Extreme][airport-extreme] base station which shares a [HP OfficeJet 6210][officejet-6210] all-in-one printer/scanner/copier/fax (which we really just use for printing and copying).
 
-#### And what software?
+### And what software?
 
 I make every attempt to use the most default, stock installation possible. This makes it easier to use different machines when necessary, and eliminates much of the configuration time when changing systems. As a result, I've installed very little additional software and made very few customizations. Here's a list of all of the software I use:
 
@@ -52,7 +52,7 @@ I make every attempt to use the most default, stock installation possible. This 
   * [Tweetie][]
   * [iChat][]
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My goal is to be more efficient, to have and use less, and to downsize what i already have, so my dream setup would involve having fewer things.
 

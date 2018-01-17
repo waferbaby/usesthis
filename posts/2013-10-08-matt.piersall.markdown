@@ -8,17 +8,17 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Matt Piersall, I'm the founder and the lead sound guy for [GL33k](http://gl33k.com/ "The GL33k website."), a company based in Austin, Texas that creates and implements audio content for video games. My typical day consists of sending a lot of emails and doing a ton of sound design. My head is usually in about four projects at a time so I'm normally a little overwhelmed!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got quite a few different setups for different purposes. My main sound rig consists of a [Mac Pro][mac-pro], [Pro Tools HD Native][pro-tools-hd-native], an [Ableton Push Controller][push], and a [Neumann Microphone][tlm-103] that's always ready to go. In addition to that I have a [5.1 DynAudio setup][bm5a-mkii]. People are weird about speaker choices but I just know them well. In addition to all of that I also have a PC setup that's mainly used for any project that uses non-Mac game engines like [Unreal][unreal-engine] and [Trinigy][vision]. All of this is connected to an internal network (around 12 TB) at our office that allows us to go from the creation stations to the implementation stations.
 
 Most of my work is done on my design/creation station. Also, I think this is important to note: I sit in a really weird chair that forces me to sit up straight. It's actually sort of comfortable but the first few weeks I sat in it my abs were sort of sore. The chair is called an [Ergo Orange][ergoergo].
 
-#### And what software?
+### And what software?
 
 Wow, I could go into detail here, but I'll start with the basics. [Pro Tools HD][pro-tools-hd], [Ableton 9][live], [Unity 3D][unity], [AudioKinetic Wwise][wwise] and a host of others. I tend to use [Google Calendar][google-calendar] a lot as well as [Gmail][] for business.
 
@@ -28,7 +28,7 @@ I actually think audio people probably use more gear and software than most. Whe
 
 I'd say out of the software list I'm at a zen stage with Pro Tools and Ableton, where I know them so well that I don't really have to think about using them anymore. I finally got to that point where I can hear it in my head and I more or less know how to create it.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Compared to what I had when I started doing sound design professionally in 2001, I have my dream setup! If I were to think really big I'd say I'd like a proper foley stage in my office. I'd like to have the floors floated and pro out the space a little bit more. It would also be nice to invest in an Argossy desk, which is affordable but I don't really need it (I'm also highly superstitious about my current desk).
 

@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://torahhorse.com/ "Ben's website.") an independent game maker based in Los Angeles. I cofounded [Glitch City](http://glitch.city/ "An indie game collective in LA."), a collective of indie game makers in LA, and I'm working on a big solo project called [Donut County][donut-country]. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have been developing games on a 2011 [MacBook Pro][macbook-pro] since... 2011. I love that it has a CD drive & Audio In. It only turns on about 60% of the time now, though, so I got a desktop gamer PC. [This](http://i.dell.com/sites/imagecontent/products/PublishingImages/precision-t3x20-series-workstation/desktop-precision-3000-3420-3620-pol-mag-pdp_V2_28.jpg "A photo of Ben's PC tower case.") is the least embarrassing case I could find.
 
@@ -24,7 +24,7 @@ For music and audio editing I use a pair of [ATH-M50 headphones][ath-m50]. They 
 
 Finally, I use a ruled Moleskine notebook that acts as a daily journal / planner / concept sketchpad. I do a quick (~1 hour) journaling and planning session most mornings to figure out tasks for the day, and to dream a little bit.
 
-#### And what software?
+### And what software?
 
 For development:
 
@@ -36,6 +36,6 @@ For development:
 - [Audacity][] (most basic sound editing)
 - [Google Sheets][google-docs]!!!! I love setting up beautiful spreadsheets for task tracking.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is simple!! I have an adjustable standing / sitting desk. My office has AC and heat. The office has really high ceilings, there's a sky painted on the ceiling. The floor is fake grass. Outdoor ambience plays, and there's windchimes. The lighting makes it look like you're outside, and matches the time of day. There is a running stream for gentle thoughts, and a grotto for serious ideas!!

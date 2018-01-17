@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Annica Lydenberg and I run a small design studio called [Dirty Bandits](http://dirtybandits.com/ "Annica's design studio.") that specializes in hand-drawn typography. My work ranges from logos and branding, to food packaging, to sign painting, to t-shirt graphics.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Typically I start using mechanical pencils for sketching, which I do mostly on graph paper. Then I scan in my sketches and manipulate them on the computer. I work on my [iMac][] whenever possible and avoid my 4 year old laptop at all costs. Once I have my layouts and letter blocked out the way I want them I print it out. I just have a cheap-o printer/scanner combo thing that does the job just fine. 
 
@@ -18,12 +18,12 @@ Then my process differs pretty greatly. If the final piece is digital I use shar
 
 You'll also find brushes, acrylics, brush markers, india ink and chopsticks, rollers, quills, and [X-Acto][] knives in my drawers.
 
-#### And what software?
+### And what software?
 
 [Illustrator][], [Photoshop][], and [InDesign][] for book layout, [FontLab][fontlab-studio] for font making, [Cocoapotrace][] for auto tracing drawings, and [Image Capture][image-capture] for scanning.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
-Got it! I couldn’t ask for anything more - I have a studio where I can paint, draw and do design work with some very talented and fun artists. 
+Got it! I couldn't ask for anything more - I have a studio where I can paint, draw and do design work with some very talented and fun artists. 
 
-Although I desperately need a new camera, laptop and iPhone if we’re talking "dream setup"! I used a friend's [Canon9000 printer][canoscan-9000f] and it was excellent! I also used a friend's [Canon D600][eos-rebel-t3i] camera and it made me drool.
+Although I desperately need a new camera, laptop and iPhone if we're talking "dream setup"! I used a friend's [Canon9000 printer][canoscan-9000f] and it was excellent! I also used a friend's [Canon D600][eos-rebel-t3i] camera and it made me drool.

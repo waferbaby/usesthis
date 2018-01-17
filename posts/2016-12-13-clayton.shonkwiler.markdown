@@ -7,19 +7,19 @@ categories:
 - mathematician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! I'm [Clayton Shonkwiler](http://shonkwiler.org/ "Clayton's website.") and I'm a mathematician at Colorado State University. I use differential geometry to study random polygons. The basic idea of my work is actually kind of simple: say you want to study random triangles. First, you need to know the collection of all possible triangles, which you can think of as some nice space, like a sphere or a torus, and then you can answer questions about random triangles by answering questions about the geometry of the space. For example, if you want to know [what fraction of triangles are obtuse](https://www.youtube.com/watch?v=wcHHRwAfwAo "Clayton's geometry video on YouTube."), you just need to figure out the size of the set of points in the space which correspond to obtuse triangles. I think these sorts of questions are beautiful in their own right, but they're also useful: random polygons provide a model for polymers like bacterial DNA which form closed loops.
 
 I also create geometric animations and stills which I post on [Tumblr](http://flotsam.sellingwaves.com/ "Clayton's Tumblr account."), [Twitter](https://twitter.com/shonk "Clayton's Twitter account."), and [Instagram](https://www.instagram.com/shonk/ "Clayton's Instagram account."). I [got into making animations](https://ello.co/yourdailybread/post/hj6nmr4jkexxq-1b6hg72g "An interview with Clayton about his animations.") to provide nice visuals for talks and some are still inspired by my research, but a lot of my more recent pieces are just things that appealed to me aesthetically. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My work computer is a late [2013 Mac Pro][mac-pro] nicknamed "The Beast" by a collaborator. My personal computer is a [2011 MacBook Air][macbook-air], which is probably my favorite-ever computer, but it's definitely seen better days: there's a big dead region in the top right of the screen, one of the arrow keys is falling off, the trackpad goes through phases where it registers almost every touch as a click (which is completely infuriating), and it's got a low-res screen.
 
 I also have an [iPad Air 2][ipad-air-2], which I use for writing lecture notes and reading, and an iPhone 6, which very rarely gets used for work.
 
-#### And what software?
+### And what software?
 
 For both research and art, I use [Mathematica][] constantly. Besides being incredibly powerful and flexible, I love the fact that I can intersperse code, prose, and media however I like, and that it's absurdly easy to add interactive objects. My default when starting to work on something is to open a Mathematica notebook, since I can always add code if needed or just have Mathematica evaluate an annoying integral. I go into more detail about how I use Mathematica to make art in [this talk](https://icerm.brown.edu/video_archive/#/play/1089 "Clayton's talk on animating mathematics.").
 
@@ -27,7 +27,7 @@ I write papers in [LaTeX][] using [TextMate][] and [Skim][]. I also use TextMate
 
 Also: [GoodNotes][goodnotes-ios] for writing [lecture notes](http://www.math.colostate.edu/~clayton/teaching/m676f16/lectures/ "Some of Clayton's lecture notes."), [Papers][] for reference management, and [Gifsicle][], which is a delightful little command-line utility for manipulating GIFs.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The basic form of my current setup is pretty good. All of my hardware will eventually get replaced by something faster and better, but everything fills a niche: the iPad for reading and handwriting, the small laptop for travel and working on the couch, the desktop for heavy computations and the big screen. 
 

@@ -7,7 +7,7 @@ categories:
 - scientist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Hervé This von Kientzheim](https://en.wikipedia.org/wiki/Hervé_This "Hervé's Wikipedia entry."). I'm an Alsatian physical chemist, in exile in Paris (because ich habe mein Herz in Kientzheim verloren) and my research is "molecular gastronomy", a scientific discipline that I created in 1988 with my old friend Nicholas Kurti. I have to add that contrary to a misconception, molecular gastronomy is not cooking, but a scientific activity, and more precisely, a science of nature (opposed to sciences of human and societies).
 
@@ -25,7 +25,7 @@ I also forgot to tell you about "note by note cooking", which means cooking with
 
 And there's more, but let's come back to the most important: sciences of nature, physical chemistry! Indeed, this is the basis on which all is built.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm not a native English speaker, so I can interpret "hardware" as computers, but also more generally electronics... and nuclear magnetic resonance spectroscopy is mostly a big magnet with a lot of electronics.
 
@@ -37,12 +37,12 @@ On my desks there are other computers, and most are Dell, but indeed I don't car
 
 The way I calculate, the way I think, the way I speak, the way I write... and this is why I am so sad to answer your questions in English, because my English is very poor (it means that I cannot express myself with the utmost precision that I love).
 
-#### And what software?
+### And what software?
 
 Here, the answer is straightforward. I told you that Linux is on my ultrabooks and computers (or UNIX), but the main software that I am using is [Maple][].
 
 Indeed this software is really good, and I regret that it is so expansive, because it deserves being used by more people. Using it, you can write, but primarily you can do good science, i.e. calculus, equations. I love it, and it is almost the only software that I am using. Immediately when my computer is on, a Maple file is opened (my "notebook"). Right now, answering the questions, I am looking on the left of the screen and I can see that I am also using (sometimes) [Unison][] (for backups), [LibreOffice][] Writer, [GIMP][], [Avogadro][]..
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If Maple could include a chemistry software, it would be wonderful. But indeed, I am not sure that this would change a lot. What I need is intelligence, kindness and time.

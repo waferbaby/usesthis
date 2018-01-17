@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 There are some who call me... Tim. Or at least that's what I'd tell you if we were reenacting *Monty Python*. But since we're not, here's a better answer:
 
@@ -17,7 +17,7 @@ My most successful art pieces include [Thanksgiving Special](http://www.hrothste
 
 When not making art, I moonlight as a copywriter, rock climber, camper, costume-wearer, hiker, cooperative-house resident, and deliverer of ridiculous karaoke performances.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most often, I turn to my sketchbook, with pencil, ball point, or [micron pens][pigma-micron] in hand. It's here that I got down silly ideas, themes to follow, concepts to reinvigorate, and good and bad drawings alike. Depending on the project, I also break out my watercolors, acrylics, [X-Acto knife][x-acto], self-healing cutting mat, and rice paste. When working on a photography project, I borrow my lovely sister Tess' Canon Rebel. Someday I might get my own camera, but right now, my head is pretty aligned with the sharing economy.
 
@@ -25,13 +25,13 @@ Alongside conventional art supplies, my work takes me into many odd mediums incl
 
 I also frequently use my computer, a 2013 [MacBook Air][macbook-air] 13", and surprisingly well made Monoprice graphics tablet. I wish I could spend less time on my technology (sometimes, I feel like I do 90% admin and 10% art), but 'tis necessary and rather useful!
 
-#### And what software?
+### And what software?
 
 My brain. Spending quality time with it, feeding it with inspiration, and letting it noodle over concepts is the foundation of all my work. 
 
 But perhaps that's a cop-out answer. Here's more: I use [Instagram][instagram-ios] to [share new art](https://www.instagram.com/HRothsteinArt/ "Hannah's Instagram account.") and some amusing things I encounter. To keep track of items to accomplish, I loosely use [Todoist][]. [Photoshop][] and [Illustrator][] often come into play for projects I work on. Next up, I'm hoping to learn a little [SketchUp][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Someday, I'd love to have a big, light-soaked, airy studio with cement floors, tall ceilings, enormous windows, and plenty of room to make a mess. The studio would be filled with an astounding array of paints, Prismacolor *e-ver-y-thing*, drawing utensils, old magazines, luscious art books, shiny bits and bobs, and brushes. I'd have a standing desk for my computer work, and an infinite amount of teas nested next to an electric kettle and array of Heath Ceramics mugs.
 

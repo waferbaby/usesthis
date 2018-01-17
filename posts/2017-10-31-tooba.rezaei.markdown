@@ -7,19 +7,19 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Tooba Rezaei](http://www.toobarezaei.com/ "Tooba's website."), and I'm a visual artist and animation artist. I've been working in the industry since 2003. I work both digitally and traditionally, and my work has been released in animated shorts, animated features, animation TV shows, games, books, and gallery shows in many different countries. The animated short I created and directed has received over twelve screenings worldwide alongside nominations and awards, and my fine art paintings have been included in over twenty solo and group shows. I have studied and worked in many different countries such as Iran, Holland and the USA. 
 
 Currently I live and work in Los Angeles.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I alternately use a Mac and PC to do my work, and I'm very comfortable working with either of them. 
 
 I use mostly a [Cintiq][] for illustrations and animation these days, but I can work with the simpler pen tablet that I used in the past. Of course, I also use traditional art hardware like pencils, paper, and paint to do my work. I enjoy using both types of creation tools, and try to use the ones that best fit the particular project I'm working on.
 
-#### And what software?
+### And what software?
 
 When I started to work digitally, [Adobe Photoshop][photoshop] and [Adobe Illustrator][illustrator] were the programs that I mainly worked with. But now I work with over ten software programs, such a [Adobe After Effects][after-effects], [Autodesk Maya][maya], [Mudbox][], [SketchUp][], [ZBrush][] and more.
 
@@ -27,7 +27,7 @@ When I'm designing concepts after doing research, I start drawing a lot of thumb
 
 For my animation I use Photoshop, After Effects, [Flash][] and sometimes Maya. For the editing part, beside After Effects, I use [Premiere][], [Snagit][] and [Camtasia][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 On one side of my studio, I would like to have a [Mac Pro][mac-pro] with a large monitor and Cintiq tablet, with all the software programs I need. I'd love to have a nice north-facing window to look out of as I work on my computer as well.
 

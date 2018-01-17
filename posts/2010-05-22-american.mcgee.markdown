@@ -8,13 +8,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [American McGee](http://www.americanmcgee.com/ "American's site."). A game developer living in Shanghai, China. Founder and Sr. Creative Director of [Spicy Horse](http://www.spicyhorse.com/home.html "American's gaming company.") - the largest independent Western game studio in China. We're currently working on a sequel to "Alice", which will launch on PC, PS3 and 360.
 
 In my spare time I cook, explore China, read, study Chinese language and am learning to play cello.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 [iPhone][iphone-3g] (3G unhacked, provided by China Unicom); [spicypony.cn](http://spicypony.cn/) is our internal iPhone dev studio, we've released two games "[DexIQ][dexiq-ios]" and "[American McGee's Crooked House][crooked-house-ios]" - Chinese iPhones come with the Wi-Fi functionality disabled - which made me think twice about switching from my hacked iPhone (purchased in Hong Kong, jail broken, then brought to the mainland). But since our office Internet comes from China Unicom (official seller of iPhones in China) and they offered us a great deal on our network hook-up with 3G iPhones included, I decided to take the plunge. Have to say I don't really miss the Wi-Fi unless I'm traveling outside of China, at which point :(
 
@@ -30,7 +30,7 @@ Mystery Brand Media Box (Chinese made hard drive in a box with every kind of dig
 
 Cello (made in Beijing, probably the most expensive single item in my house) - Learning cello is how I spend free time at nights. Been at it for less than a year, but can already play at an Intermediate level - my brain and body seem to be taking to it quite naturally. I keep stumbling on aspects of musical instrument learning that are perfect analogies to core game play experiences - grinding, leveling up, boss fights, new weapons/spells, crashes, frustration, scoring, achievements and breakthrough/epiphanies. Hopefully these insights can be applied to actual game creation at some point.
 
-#### And what software?
+### And what software?
 
 [Unreal 3][unreal-engine] - Epic has big offices here in China, provide great support for their software, and are friendly to our studio. UE3 has a long history of use by teams in Shanghai, making it relatively easy to find skilled users. Ultimately, it's a great pipeline for content production - which is key when working quickly and efficiently is important.
 
@@ -42,6 +42,6 @@ Cello (made in Beijing, probably the most expensive single item in my house) - L
 
 Various development tools ([Perforce][], [Bugzilla][], etc) - Lots of other little tools keep our boat afloat. As a rule we try to work with simple, feature-lite tools that get the job done. This is partly about cost-saving, but also about making sure our processes and systems are easy to understand by everyone in the studio.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is simply one that functions as expected, when needed. What I absolutely hate are computers (and display devices, input devices, etc) that aren't configured to function properly. Like going into a meeting room for a video conference to discover the video camera is missing. Or trying to open a file in a meeting then realizing the necessary application has been uninstalled. So long as the computer and its devices don't draw attention to themselves I'm happy.

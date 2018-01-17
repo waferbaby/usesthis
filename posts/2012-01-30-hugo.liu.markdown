@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Hugo Liu](http://larifari.org/ "Hugo's website."). I'm the Chief Scientist at [Hunch][], a web app that learns about you, then predicts things you'll like, using a massive [taste graph](http://blog.hunch.com/?p=47384 "A Hunch post about their taste graph."). I've been researching [taste](http://larifari.org/writing/ "Hugo's writings.") at the [MIT Media Lab](http://www.media.mit.edu/ "The MIT Media Lab's site.") for the past nine years. In between I worked in fashion predictives, and computational food design. At MIT I teach philosophy of aesthetics, and artificial intelligence. I also advise some pretty interesting startups on product design.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 "Luxury lies not in richness and ornateness but in the absence of vulgarity," Coco Chanel once [said](http://larifari.org/blog/if-chanel-were-product-designer/ "Hugo's post about Chanel."). Harkening to this, I strive to employ just the essential "hardware" I need to flourish, while shedding everything else. As Notorious B.I.G. liked to say, "Mo Polygons Mo Problems."
 
@@ -23,7 +23,7 @@ And then, there is sartorial hardware. My strategy is to find style while avoidi
 
 Other hardware dear to me are: a Jade Fusion mat that I practice yoga on; a Bianchi fixie that gets me around town; and a Le Creuset Dutch Oven that I cook about half my meals in.
 
-#### And what software?
+### And what software?
 
 I like to hack in [Python][] using [Emacs][] in a [Terminal][] window. My blog lives in a [MySQL][] table, with about a hundred lines of Python to render it. For word processing I use [GMail][].
 
@@ -35,7 +35,7 @@ My linux servers live at MediaTemple. I use [rsync][] to backup my documents and
 
 Finally, the iPhone apps I use most frequently are: [foursquare][foursquare-ios], [camera+][camera-plus-ios], [buddha machine][buddha-machine-ios], [exit strategy][exit-strategy-nyc-ios], and [greplin][greplin-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh the [#firstworldproblems](http://www.reddit.com/r/firstworldproblems/ "Reddit's first world problems subreddit.") we have!
 

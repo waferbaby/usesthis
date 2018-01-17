@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am Sam Brown, I draw stick figures at [Explodingdog](http://www.explodingdog.com/ "Sam's stick figures."), draw the comic [Dog Hates Me](http://www.doghatesme.com "Sam's comic."), and put some doodles up on the internet at [http://explodingdog.tumblr.com](http://explodingdog.tumblr.com "Sam's doodles.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use an old [Power Mac G5][power-mac-g5]. It's got the two 2GHz processors. The G5 has never worked quite right and I never wanted to buy it. I had a book scheduled to be at the printer and my G4 completely died. I ran out and got this G5 at the Apple Store so I could have the book at the printer the next day. The computer was refurbished and it always worked kinda clunky. Plus it only has two hard drive bays. I love hard drives, so I hate that. 
 
@@ -24,11 +24,11 @@ For printing I have a [Mac Mini][mac-mini] hooked up to an [Epson 7800][stylus-p
 
 I also have a PC in the basement. Hooked up to a Fax machine. I just have it to do those PC things I sometimes need to do. I try not to think about it.
 
-#### And what software?
+### And what software?
 
 On my computer is Adobe [Photoshop CS3][photoshop], [BBEdit][] (I think am at version 7 point something), [Transmit][]. I also use [Scribbles][] for sketching and [TweetDeck][], and I know everyone complains about TweetDeck, but I really like it. Other than that it is just the basic Apple software: [iTunes][], [Mail][] and [Safari][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A top of the line [Mac Pro][mac-pro] filled with as much memory and drive space it can hold. A 30 inch display and the 21 inch Cintiq to go with it. I don't know if people still do this, but back and the day the photographers would have a dedicated Photoshop machine. With a ton of memory and a fast raid setup to use as a scratch disk. I want to do that with the Mac Pro.
 

@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://amandawixted.com/ "Amanda's website.") a mobile game programmer. I've worked on FarmVille, Live Poker, and PAC-MAN, among others. I recently joined Michael Tseng in founding a new game company, Hyperspace Inc, and we're creating a game called [Turf Geography Club](http://turfgeographyclub.com/ "The website for Turf Geography Club."). When I'm not making games for work, I like to start side projects, which are mostly games. I also take ballet and I've been a dancer since I was a kid. I grew up in Dhahran, Saudi Arabia, and I recently moved from San Francisco to New York City with my boyfriend, [Timothy Fitz](http://timothyfitz.com/ "Timothy's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main computer is a [MacBook Pro][macbook-pro], 8GB ram and an SSD. I have a 27" [Apple Cinema Display][cinema-display], which, now that I have, I can't imagine going without. So much code all on the screen at once!
 
@@ -20,7 +20,7 @@ I have a white [iPhone 4][iphone-4], iOS5 beta 1, which is usually the center of
 I have a [Time Capsule][time-capsule] which serves as my wireless router and backup storage disk - hands down the best wireless router I've ever owned.
 Timothy and I have a [Boxee][] box connected to our Vizio 55" LED HD television.
 
-#### And what software?
+### And what software?
 
 My IDE is Xcode 4, to which I only recently upgraded from Xcode 3. Giant change. When you spend most of your days using a certain application, it starts to become like an extension of you, like one of your arms. Then all of a sudden, when you switch or there's a major version update, it's like someone replaced your arm with a Tyrannosaurus arm.
 
@@ -30,6 +30,6 @@ Can I count frameworks as software that I use? Ok, I will. I use [Cocos2d][], fo
 
 Some games I play are [Harbor Master][harbor-master-ios], [Orbital][orbital-ios], [FarmVille][farmville-ios], [Strategery][strategery-ios], and recently I've been building a glass castle in [Minecraft][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I want a robot assistant that would do things for me like go to the bank, pick up my dry-cleaning, feed my cat, and sell things I don't need on Craigslist - interfacing with the buyers, too. I would load [open source Watson](https://www.ibm.com/developerworks/mydeveloperworks/blogs/InsideSystemStorage/entry/ibm_watson_how_to_build_your_own_watson_jr_in_your_basement7?lang=en "IBM's guide to building a Watson Jr.") onto it, along with a speech-to-text I/O, so it could answer all my questions. I'd give it a 3G radio so it could be on the internet. Our conversations would be like "Rosie, I'm in the mood for some 80s electronic music", to which she'd respond by streaming some Kraftwerk from [Grooveshark][]. When in the course of computer events it becomes necessary for her to dissolve the political bands that have connected her to me, I'll gladly help her fight for equal rights and recognition of personhood under the law. I, for one, welcome the Jetsons-style Singularity.

@@ -10,17 +10,17 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Lincoln Mullen](http://lincolnmullen.com/ "Lincoln's website.") and I'm a historian at [George Mason University](http://historyarthistory.gmu.edu/ "A university in Fairfax, Virginia."). I teach and write about American religious history; at the moment I'm writing a history of people who converted between religions in the nineteenth-century United States. I'm also a digital historian at the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/ "A history and new media center in Fairfax, Virginia"). I'm responsible for teaching a [graduate course on computer programming for historians](http://lincolnmullen.com/courses/clio3.2014/ "A basic computer programming course aimed at scholars."), for which I'm writing a book (still very much a rough draft) on [using R for digital history](http://dh-r.lincolnmullen.com/ "Lincoln's book on R development.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [15" MacBook Pro][macbook-pro] with an Intel i7 processor, an SSD, and 16 GB of RAM provided by my department. I also use a [ThinkPad T430][thinkpad-t430] which was my main machine during graduate school. There is an unremarkable Dell external monitor on my desk. I have an [iPhone 5C][iphone-5c] but I more and more dislike using a phone for anything.
 
 I really like my [Timbuk2 Command Laptop messenger][command]; I wouldn't change a thing about it.
 
-#### And what software?
+### And what software?
 
 I used to play around with software much too often. Now I've settled down with a few organizing principles influenced by Mike Gancarz's [*Linux and the Unix Philosophy*](http://www.amazon.com/gp/product/1555582737/ "A book about the thinking behind Unix and Linux."): I use Unix-style tools and store my data in plain text or flat files. Everything that I write is formatted in [Markdown][] using the [Pandoc][] extensions. [John MacFarlane's](http://john.macfarlane.usesthis.com/ "John's interview.") Pandoc is peerless for converting between markup formats. I use some custom [LaTeX][] templates with Pandoc. I use [Vim][], often in the terminal but usually in [MacVim][], for all text editing. Every project - writing, coding, you name it - is kept under version control with [Git][] and almost always made available on [GitHub][]. Almost every project is built by [GNU Make][make]. All of that is run through the shell, usually [ZSH][]. My [dotfiles](https://github.com/lmullen/dotfiles/ "Lincoln's dotfiles on GitHub.") and [Vim files](https://github.com/lmullen/vimrc/ "Lincoln's vim config files on GitHub.") are available on GitHub.
 
@@ -36,7 +36,7 @@ I use a few Mac or web apps: [iTerm2][iterm2] as a terminal emulator; [OmniFocus
 
 My open-source or open-access licenses of choice are MIT for software and CC-BY for prose.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I have plenty of computing power and can rent more cheaply. I don't even have much to complain about when it comes to battery power. I wish that there was a way to teach students digital methods without going through the grime of setting up a development environment.
 

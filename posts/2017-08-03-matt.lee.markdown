@@ -8,7 +8,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Matt Lee, aka [mattl](https://mat.tl/ "Matt's website."). I'm a filmmaker and free software hacker from the UK, but I have spent most of the last ten years in and around Boston, MA. I moved to the US in 2008 after making a [short film about GNU and free software with Stephen Fry](https://www.youtube.com/watch?v=NM8VGiOv_I8 "Matt's GNU birthday video on YouTube."). For the last fifteen years or so, I've been working on the [GNU operating system][gnu] in various guises, and in the last eight of those years I started and worked on the [GNU FM][gnu-fm] and (co-founded) [GNU social projects][statusnet]. GNU FM is a bit like [Last.fm][], and the flagship site is [Libre.fm][] and GNU social is a bit like [Twitter][] I suppose. GNU social uses the OStatus protocol, which is also used by [Mastodon][] to build a federated social network.
 
@@ -16,7 +16,7 @@ Previously I was the technical lead at [Creative Commons](https://creativecommon
 
 And when I say we, it's basically myself and my co-writer [Ryan Dougherty](http://www.governorband.com/ "Ryan's band's website."), plus some [friends from the free software world](http://roguetrader.us/ "The Rogue Trader website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main laptop these days is a [Dell XPS 13][xps-13] Developer Edition, kindly donated to me by [GitLab][]. It has a 4K touch screen display, 16Gb of RAM and a half terabyte of SSD storage, as well as an awkwardly placed webcam. It's okay to type on, but I mostly have it connected to a Dell 4k monitor and a WASD mechanical keyboard in the office. I'm also lucky to have one of Dell's Project Sputnik developers as a friend of mine for support, if I ever need it. I also have a [ThinkPad T440S][thinkpad-t440s], also with 16GB of RAM but a full terabyte of SSD.
 
@@ -24,7 +24,7 @@ The movies are filmed using a [Canon XA10 camera][xa10], which I picked because 
 
 The box also contains all the [Raspberry Pis][raspberry-pi] and [Firefox OS][firefox-os] phones I'll never get around to doing anything with. I have a [Google Pixel phone][pixel], which seems to lock up about once every two days, and a couple of Apple products that don't get used much at all, but it can be interesting to know what they're up to. I also have the final model of [PowerBook G3][powerbook-g3] running [Mac OS 9][mac-os], so it's a bit of a screamer. I picked that up to attend the Web 1.0 Conference at MIT last year, and its still on the floor of my apartment. Oh, and there's a random $30 tower PC I picked up on eBay to run OPENSTEP too. I suppose I'm a bit of an operating system nut.
 
-#### And what software?
+### And what software?
 
 Pretty much everything I've ever written down on a computer since the early 1990s has been in [GNU Emacs][emacs]. When writing scripts for the movies, I use a format called [Fountain][], which is essentially just [Markdown][]. I usually don't even have the Fountain mode turned on in Emacs, but it can be useful to check things sometimes. I use a script called [Textplay][] to turn the Fountain markup into HTML. I also use a tool called [Pandoc][] for doing things like producing PDFs of books from Markdown. Everything is stored in both [git][] and [Dropbox][] -- git for myself, Dropbox for non-hackers. I make a lot of notes on my phone, emailing them to myself and then turning those into folders for later projects.
 
@@ -32,7 +32,7 @@ Video editing is done entirely in [Blender][], which is by far the most stable v
 
 To support all these tools I run GNU/Linux on all my day to day computers -- [Ubuntu][] on the Dell for the better support for HiDPI displays in [Unity][unity.2], and [Debian][] on the ThinkPad. Once [GNOME][] has better support for HiDPI displays I will put Debian on the Dell, so I don't have to think too much about what I'm doing. My desktop needs are pretty basic -- a browser, several terminals, GIMP/Inkscape or just Blender for when I'm editing.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a super fast laptop with excellent build quality and a touchscreen. The Dell XPS comes pretty close. Maybe Apple will produce a decent MacBook Pro that can run GNU/Linux well, but I doubt it. I'll probably wind up building a new PC soon for rendering. I'm a little bewildered by the parts in my local Microcenter -- I know I want a screamer, but I need to be careful to not buy a video card that requires proprietary drivers. I'd like to see better support for HiDPI displays in free software, and I'd like to see more people using Blender to edit video, so that Blender itself becomes better and gets more features for video editing and video editors. I'm very happy editing my own work right now, but if that ever changes, I can see it taking a little while to get someone else up to speed using Blender.
 

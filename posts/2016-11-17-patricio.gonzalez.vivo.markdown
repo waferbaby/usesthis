@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Patricio Gonzalez Vivo](https://twitter.com/patriciogv "Patricio's Twitter account."), an artist and graphical engineer working at [Mapzen][]. I make digital maps and landscapes. My creative process is led by curiosity and wonder.
 
@@ -19,7 +19,7 @@ As an artist I make poetic explorations like [Point Cloud City](http://patriciog
 
 All these projects are made using code and some custom tools.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I find it crucial for my creative practice to be comfortable and have a sense of abundance during the process. For that, especially in the early stages of a project, I enjoy working with powerful gear (which is nice but usually expensive) together with inexpensive gear (so I can buy as much as I want).
 
@@ -27,11 +27,11 @@ Before any line of code, I usually sketch ideas using pen & paper. I really like
 
 <img src="/images/interviews/patricio.gonzalez.vivo/desk.jpg" width="500" height="281" alt="Patricio's desk." class="detail">
 
-Once I start coding, I work on a powerful laptop (a [MacBook Pro][macbook-pro] Retina 15" with a NVIDIA GPU card) connected to a big screen. I usually use the Retina display screen for the code editor - typography works beautifully on it - while the other screen is to display whatever I'm working on. That way I can see the result right away. Shortening that distance between the code and how it looks on the screen is probably one of the most important things for me — it keeps the rhythm and flow of the process going, so I can discover and explore naturally and organically.
+Once I start coding, I work on a powerful laptop (a [MacBook Pro][macbook-pro] Retina 15" with a NVIDIA GPU card) connected to a big screen. I usually use the Retina display screen for the code editor - typography works beautifully on it - while the other screen is to display whatever I'm working on. That way I can see the result right away. Shortening that distance between the code and how it looks on the screen is probably one of the most important things for me --- it keeps the rhythm and flow of the process going, so I can discover and explore naturally and organically.
 
 Once something is working I pass it to disposable hardware. I use as many [Raspberry Pi][raspberry-pi] as I can get a hold of. Raspberry Pi are small and inexpensive ($5 ~ $35) computers that run a Linux distributions. For me they are my zen practice. Working on limited hardware forces me to be a better programmer. This is the part of the job that requires technical expertise and with time I can get really good at. If I can get something complex running smoothly on the Pi, it will run beautifully anywhere.
 
-#### And what software?
+### And what software?
 
 Well, for this eclectic way of working I have my own custom tools. I can also say that this way of working is made possible by the tools I work with. "We shape our tools and thereafter our tools shape us" (Marshall McLuhan) 
 
@@ -47,8 +47,8 @@ Sometimes maps need some special data to come alive, and for that I prefer parsi
 
 <img src="/images/interviews/patricio.gonzalez.vivo/space.jpg" width="500" height="281" alt="Patricio's ISS live stream." class="detail">
 
-When I'm not working on the Raspberry Pi, I use it to display digital artwork or [a live video stream from the ISS](http://www.ustream.tv/channel/live-iss-stream/theater "A live stream from the International Space Station.") — it helps me to keep an open mind :)
+When I'm not working on the Raspberry Pi, I use it to display digital artwork or [a live video stream from the ISS](http://www.ustream.tv/channel/live-iss-stream/theater "A live stream from the International Space Station.") --- it helps me to keep an open mind :)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with this setup, but I always wish I had more time for drawing and working outside.

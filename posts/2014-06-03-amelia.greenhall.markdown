@@ -9,13 +9,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Amelia Greenhall](http://www.ameliagreenhall.com/ "Amelia's website."), and I'm the Executive Director of [Double Union](http://doubleunion.org/ "A feminist hacker space in San Francisco."), a non-profit feminist hacker/maker space. Right now, I'm writing a book about adventuring in the Bay Area (Sept 2015, Microcosm) and working on prototyping a bike light that flashes with your heartbeat. I also publish a literary journal called the [Open Review Quarterly](http://openreviewquarterly.com/ "Amelia's literary journal.").
 
 Previously, I've worked on a pretty wide range of things, such as co-founding the publication [Model View Culture](http://modelviewculture.com/ "A tech and diversity publication."), and doing design for a number of startups focused on health and finance. I've mainly focused on UX design and data analysis, but I've done everything from writing and editing to illustration and book design, so my tools are pretty varied.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Day to day, I work on an [11" MacBook Air][macbook-air]. I like that having one small screen keeps me focused. I take calls and pictures on an [iPhone 4S][iphone-4s]. I also take pictures with a Canon DSLR - a Digital Rebel model from 2005.
 
@@ -27,7 +27,7 @@ Double Union hackerspace has a pretty incredible array of hardware that I'm just
 
 Finally, a few miscellaneous hardware preferences: I write morning pages in those giant 8x10" Moleskines, lined, and have Pentel [Hybrid Technica 0.3 pens][hybrid-technica-0.3mm]. And for fun, sometimes I use a [blink1][] - a little USB RGB LED, to alert me when things happen.
 
-#### And what software?
+### And what software?
 
 Much of my workday right now is spent in email and text editors. For writing, depending on the use case, I choose between [TextMate][], [Google Docs][google-docs], or [Mou][] (for previewing writing in [Markdown][] side-by-side). For development, I have been using TextMate for a while, along with plain old [Terminal][]. What I'm working on at the moment is fairly standard [Ruby][]/[Rails][] stuff, so I don't need a particularly fancy setup. I keep [Postgres.app][postgres.app] running in the background when I'm doing local development.
 
@@ -43,6 +43,6 @@ I try not to spend much time on my phone, but my go-to apps there are [VSCO Cam]
 
 On the silly side, I use the [Dogecoin-Qt][dogecoin] app for keeping my doges.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I can imagine that going back to having an iMac-style monitor is in my future at some point, for my posture's sake. And I'll likely upgrade my phone for the camera's sake in the next year or so, since cameras on phones are so good now! But right now I'm really happy with my setup - I'm super privileged and lucky to have been able to slowly build up all the tools that let me do what I need to do.

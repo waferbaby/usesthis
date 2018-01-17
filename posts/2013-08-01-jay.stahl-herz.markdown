@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a forensic pathologist working for the [New York City Office of Chief Medical Examiner](http://www.nyc.gov/html/ocme/html/home/home.shtml "The New York City Office of the Chief Medical Examiner website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most forensic pathologists are unbelievably picky about what they use for autopsies. If you asked 100 people, you'd get 100 different answers. I personally use a [MAC Professional MKS-105 carving knife][mks-105], a #4L scalpel handle and #70 scalpel blades, 10" Russian tissue forceps, 8" curved Mayo scissors and a 6"/15cm stainless steel ruler for every case. In my kit (an eight pocket leather chef's knife roll) I also have an 18" stainless steel ruler, a 99¢ nail clipper, 6" serrated dressing forceps, a pair of disposable plastic forceps and a backup knife (Victorinox, scimitar style).
 
@@ -19,7 +19,7 @@ As for computers, I work for a government agency and have zero input over anythi
 
 My personal computer is a 15" [MacBook Pro][macbook-pro] with the optical drive swapped out for an OWC SSD.
 
-#### And what software?
+### And what software?
 
 Our office just migrated to a new custom-designed platform based on [UVIS][] which is called UVIS-CMS. It's written in .NET, [Flash][] and [Silverlight][] and is quite buggy, slow and has a craptacular UX at the moment. We're in version 1.1 now, and I've been told that there is a road map to version 4.0 already. Our labs just got a [LIMS](https://en.wikipedia.org/wiki/Laboratory_information_management_system "The Wikipedia entry for LIMS.") online which was supposed to interface directly with CMS, but that isn't working either at the moment. Nobody likes CMS in its current form. While I see lots of back-end improvements on the horizon in the short term, the UX will remain garbage for the foreseeable future.
 
@@ -27,7 +27,7 @@ I use [EndNote X3][endnote] as a citation/reference manager for my scholarly wor
 
 We use [VeriPic's Digital Photo Lab/Digital Evidence Manager][digital-evidence-manager] software package for image management - however, photo support has been rolled into CMS. We also use the [Office][] suite for email, word processing, etc. and we use [the NYC DOHMH computer system](http://www.nyc.gov/html/doh/html/services/vr-edrs.shtml "The Electronic Death Registration System website.") and an APC biometric fingerprint scanner for death certificates, just like all doctors in NYC do.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd contemplated getting a [MAC Ultimate SKS-105 10 1/4" slicer][sks-105], but it was too heavy for my liking. There are other tools I'd include in my kit if I worked in a smaller ME office that wasn't as well supplied as the office I currently work in.
 

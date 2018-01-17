@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Chris Glass](http://www.chrisglass.com/ "Chris' website.") and I'm a [designer](http://www.wireandtwine.com/ "The Wire & Twine site.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A long in the tooth and discontinued [MacBook Pro 17"][macbook-pro] (I am clinging to the CD drive stubbornly) with an external 27" [Thunderbolt Display][thunderbolt-display].
 
@@ -25,7 +25,7 @@ I used to have a [prime 50mm lens][ef-50mm-f1.4-usm] and it was my favorite ever
 
 Favorite paper for drawing? Bienfang Graphics 360. Pens vary on what is around that isn't dried up. Usually a fine point Sharpie.
 
-#### And what software?
+### And what software?
 
 I live largely in Adobe's [Creative Cloud][creative-cloud] suite, which is a pretty awesome way to have access to all their software that can be loaded and unloaded as projects warrant. Currently spending most of my time in [Illustrator][], [Photoshop][], and [After Effects][after-effects].
 
@@ -35,13 +35,13 @@ I use [Lightroom][] with [VSCO Film][vsco-film] presets for photo editing. I've 
 
 Other apps commonly in my dock? [Mail][], [Keynote][], [Skype][] and [Chrome][]. I use [Wunderlist][] on my laptop and phone to organize and synchronize ideas, goals and a slew of lists, including grocery. [Dropbox][] is always running.
 
-I use [Day One][day-one] on my laptop and phone to remind myself to write in my journal. It’s just for me, but I still find it valuable to reflect on each day.
+I use [Day One][day-one] on my laptop and phone to remind myself to write in my journal. It's just for me, but I still find it valuable to reflect on each day.
 
 [Airfoil][] paired with [Spotify][] for streaming music because [iTunes][] is putrid and completely unenjoyable these days.
 
 Online software includes [Freshbooks][], which has made billing and estimates as enjoyable as possible. I love it So. Very. Much.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Dream computing rig? I'd love to have a hard drive that could contain *every* file, photo and project from all time. It has to be extremely searchable. I'd be fine if it was all in some secure private cloud, but the initial upload, costs and confusion have prevented me from making the leap.
 

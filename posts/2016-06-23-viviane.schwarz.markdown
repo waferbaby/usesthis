@@ -10,11 +10,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Viviane Schwarz](http://www.vivianeschwarz.co.uk/ "Viviane's website."). I write, illustrate and design interactive books, and I do related other work involving game design and improvisation.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Mostly paper, from the A5 sketchbooks I carry over cartridge sheets for dummy making to the massive rolls of corrugated cardboard I use to build interactive mazes and other installations.
 
@@ -28,7 +28,7 @@ I work away from home a lot, in libraries and cafes. Then I just use whatever de
 
 One of my most important work tools is a bingo wheel which I throw wooden balls in labelled with the projects I need to work on - I've found it absolutely impossible to run a schedule based on priority, they all need work all the time and thinking about which one is the most pressing is just wasting time. I spin out a project, set a timer and work on it for half an hour or an hour to take it forward, then I spin again until it's time to stop working. It sounds quite ridiculous but it beats every other system I've ever tried for productivity; you just have to make sure the right balls are in the cage, throw in more if a deadline is approaching or take some out if something gets less urgent. Statistically, as long as it all gets done on time, who cares what order it happened in?
 
-#### And what software?
+### And what software?
 
 I use [Scrivener][] to write novels, it's frustrating that it doesn't work on mobile devices but it's still worth the fuss of carrying a laptop for writing.
 
@@ -36,6 +36,6 @@ For the illustration work I use [Adobe CS5][creative-suite], to be fully compati
 
 I do most of my development work on paper, then I photograph or scan it if needed. [Gmail][] is so searchable now that it has replaced [Evernote][] for me. Most of the devices I use run Linux, but the specifics vary depending on what the device is used for in the project and what it can run. For example, last time I needed a teleprompter, I built it from an old eeepc, some open source teleprompting software (I forgot which) and a picture frame, a black petticoat and some gaffer tape. I added a USB controller from a [Makey Makey][makey-makey] and a breadboard because that was still to hand from a workshop teaching kids to make video games that week. By the end of the day it's all back in its respective drawers. If I'd been in a hurry I'd just have taped my mobile to the camera tripod and scrolled through the text with a spare Bluetooth keyboard. The best solution is usually the one that's to hand when you need it.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A studio with brick walls and concrete floor, printing equipment, some work benches, big shelves. Enough space to be as analogue as I like.

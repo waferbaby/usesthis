@@ -7,11 +7,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Tim Wood, one of the founders and the CTO of [The Omni Group](https://www.omnigroup.com/ "The Omni Group's website."). I work with developers on all our product teams as needed, and our frameworks for Mac and iOS. My most recent projects have been [OmniPresence][], our new document syncing system, [OmniOutliner 2 for iPad][omnioutliner-ios], and [OmniOutliner 4][omnioutliner].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main work machine is a [15" Retina MacBook Pro][macbook-pro]. At the office, it is attached to a [27" Thunderbolt display][thunderbolt-display] on a VESA arm. Next to that, is a [Mac Pro][mac-pro] with a [30" Cinema Display][cinema-display], and a couple iPads for testing document synchronization. In our recent office move, we switched over to adjustable height desks, so I typically work standing in the morning and sit down after lunch. Also tucked away in my office is a [Mac Mini][mac-mini] with an attached [Drobo][], acting as a [CrashPlan][] server for itself, my laptop, Mac Pro and (importantly) my home machines. Finally, there is my 5.1 system, NHT speakers all around, and a Rega turntable. During the construction of our new space, extra sound insulation may have been added to my office...
 
@@ -19,7 +19,7 @@ At home, I use a Mac Pro and a 30" Cinema Display. It's slower than the laptop t
 
 My wife is a photographer and musician, so she generates a fair bit of data that needs backing up. This gets stored on a Mac mini with a Pegasus Thunderbolt RAID, and then cloned via [SuperDuper!][superduper] to 3TB drives in a [drive dock][voyager-s3], which I rotate back to the office. It also gets backed up to CrashPlan's server *and* to the previously mentioned CrashPlan server at the office. We have various other [Time Machine][time-machine] drives for each workstation.
 
-#### And what software?
+### And what software?
 
 The vast majority of my time is spent in [Xcode][] and [Terminal][] ([zsh][], but [fish][] looks like it merits a try). We have some internal applications for bug tracking and monitoring our continuous build system that I always have running, as well as most of our published applications.
 
@@ -27,7 +27,7 @@ I use [TextMate 2][textmate] for random scripting and viewing small diffs, with 
 
 Finally, for open source package management, I'm currently using [homebrew][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Refreshing the Mac Pro is a nice step, but there is still a lot of room left for improvement. I'm a big fan having my laptop always with me, and always up to date. Cloud storage and sync is great for some sorts of documents, but doesn't really help for in-progress changes to source code. I could do some silly dance to commit to a personal branch each time I want move between machines, but that is enough pain that I don't bother most of the time.
 

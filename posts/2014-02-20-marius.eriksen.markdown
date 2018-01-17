@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Marius Eriksen](http://monkey.org/~marius/ "Marius' website.") ([@marius](https://twitter.com/marius "Marius' Twitter account.")) and I write software. My formative years were spent at [CITI](http://www.citi.umich.edu/ "The Center for Information Technology's website.") at the University of Michigan, hacking on [operating systems][openbsd], [distributed file systems](http://datatracker.ietf.org/wg/nfsv4/charter/ "Version 4 of the NFS file system standard."), and [various](http://static.usenix.org/event/usenix05/tech/freenix/full_papers/eriksen/eriksen.pdf "Marius' article on Trickle.") [networking][nylon] and [computer](http://monkey.org/~marius/tmp/fsraces.pdf "Marius' article on preventing file system races.") [security][systrace] related projects.
 
@@ -15,7 +15,7 @@ Since then, I've spent time working on infrastructure at Google and Twitter. Rec
 
 I also help organize the annual [CUFP](http://cufp.org/ "The Commercial Users of Functional Programming website.") workshop.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm using a [Retina MBP 13"][macbook-pro]. As with any new-ish computer, it's the best one I've had. It's light & compact -- this is important to me as I drag it along on my commute -- but also packs enough hardware that I am rarely in want of more power. And that display. It is gorgeous. When I get to work, I hook it up to a 27" Dell display, and use a wireless [Evoluent VerticalMouse][verticalmouse] (I do a lot of mousing. See below.) together with an [Apple Wireless Keyboard][keyboard].
 
@@ -29,7 +29,7 @@ To get around I use a homemade fixed-gear bicycle with a [Raleigh Rush Hour][rus
 
 At work, I listen to music with headphones: [Beyerdynamic DR-1350s][dt-1350] when it's quiet enough; otherwise a pair of [Bose QC-15s][quietcomfort-15].
 
-#### And what software?
+### And what software?
 
 I used to be quite exacting of my software environment. I went to great lengths to make it just-so: I even wrote a window manager -- [cwm][], it survives to this day, and ships in the base OpenBSD distribution -- to escape the tyranny of having an environment designed by others. (A fun story: When I was at Google, Sergey Brin once rollerskated -- yes, rollerskated -- into my office, spotted my strange windowing system, and proceeded to debate me about the merits of tiling vs. floating window management.)
 
@@ -47,7 +47,7 @@ On iOS I use the stock apps, and [Twitter][twitter-ios] of course; [Reeder][reed
 
 The [Duo Security][duo] app helps me access both [monkey.org](http://monkey.org/ "Marius' shared website.") and Twitter's internal networks securely.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Instead of answering your question directly, let me instead wax philosophical.
 

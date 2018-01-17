@@ -7,19 +7,19 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Chief scientist at [Hipmunk][], formerly first and longest employee at reddit, and before that experimental Physics PhD at Harvard (where the scientist bit comes from). I'm 32, married, and have an almost-3-month-old daughter.
  
 Since it's a small start up, we all wear a lot of hats, but on average I end up working on the projects that require the most data crunching/analysis. I do the heat maps for our hotel search (scraping Wikipedia, OpenStreetMaps, and SimpleGeo to figure out where the interesting parts of a given city are). I do a lot of work trying to maintain consistency across our hotel inventory (merging up 6 different providers with varying levels of corruption) and spent some time trying to map the data we have on hotels to some estimation of the actual quality of the place.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Personally, there's an [iPhone 4][iphone-4] in my pocket, a first gen [iPad][] in my backpack, a [MacBook Pro][macbook-pro] on my desk for work, and a [Mac Mini][mac-mini] hooked up to my TV. It's not that I'm a fan boy so much as I've done my time dealing with Windows and I'm too lazy/busy to deal with Linux. I also find them pretty.
 
 At Hipmunk, we have about 15 servers somewhere on the west coast on Amazon's [EC2][] running [Ubuntu][].
 
-#### And what software?
+### And what software?
 
 For the software side of things, we run [Python][] for the vast majority of our scripts as well as for our webserver processes. The latter is powered by [Tornado][], which is one of the few asynchronous web frameworks, originally used to power Friendfeed. The main advantage here is speed: each Python process is single-threaded and the framework is structured in such a way that rather than blocking on I/O it switches out to work on another task that has been queued up. The hard bit about using it is that Python isn't really designed around asynchronous code and a lot of the time it feels like you're writing inside-out and backwards. At the moment we have about 20 processes running Hipmunk sitting behind a software load balancer by the name of [HAProxy][].
 
@@ -35,7 +35,7 @@ Oh and [VMware][vmware-fusion]. How could I forget about that lovely piece of so
 
 With IE8 on the other hand, there is still no such luck, and it typically requires some special treatment to get those last few pixels of layout just so. (We don't even try any more on IE7 and less but rather encourage the user to download chrome frame). Point is, seeing as the only way to run IE is via windows (How silly is that, when you really think of it? A browser is completely different from all the rest, closed source, and running only on one OS? How quaint...), which is where VMware comes in. It's wonderful to be able to run IE8 and 9 right next to each other along with Chrome and Firefox in the same screen to squeeze out those last few pixels that IE insists must be there.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly and truly, I'm waiting for an awesome pair of glasses that projects the screen right on my retina.  I mean, for one, retina display or no, I have this absurdly powerful computer that I keep with me in my pocket whose capacity for video is limited by the form factor of my pocket. This seems silly. 
 

@@ -9,13 +9,13 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Daniel Cid](http://dcid.me/ "Daniel's website."). I am current the CTO of a security company called [Sucuri](http://sucuri.net/ "Sucuri's website."). But don't let the title fool you, since we are a small company, I do real work and I spend most of my time doing malware analysis, security research and trying to recover compromised servers for our clients.
 
 In the past, I founded the [OSSEC][] project (an intrusion detection system) and was the lead developer there for many years (2003-2011). In the meantime the project was acquired by Trend Micro in 2008 and I joined them and kept working solely on OSSEC until last year (2011).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I am well known for not using any fancy hardware (yes, people make fun of me because of that). For many years (until 2010), my main development server was a very old PIII with very little memory that I just used to [SSH][] in and do most of my work. It worked well and I took pride on being so backwards in time. I also had a SPARC server sitting under my feet that I used to help my posture and keep my feet up. It once got to more than 1,000 days without being shut down.
 
@@ -27,7 +27,7 @@ Another important part of my hardware setup is my keyboard and chair. I avoid us
 
 I am very lean in terms of hardware, and I don't even use a watch or cell phone or any of the fancy new tools that most tech people like. If you checked my site a week ago, it would still be all in ASCII.
 
-#### And what software?
+### And what software?
 
 I always ran [OpenBSD][] on both my servers and desktop, but when my old PIII died, I got lazy and just installed [Xubuntu][] on my laptop and have been using and enjoying it since. Very lightweight and simple. For my servers I have been using [Linux CentOS][centos].
 
@@ -37,6 +37,6 @@ For my servers, I keep the minimalistic setup, installing only the necessary. [A
 
 I store every thing remotely and I use [sshfs][] (SSH file system) to access it and HG ([mercurial][]) for source control. That allows me to easily switch laptops without losing any data.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I don't have much of a dream setup as long as everything works. But I would certainly like to have a more lightweight laptop that I could still use Xubuntu in there. Something like the [MacBook Air][macbook-air], but without the Mac :)

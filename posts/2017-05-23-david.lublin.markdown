@@ -8,7 +8,7 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [David Lublin](http://www.davidlubl.in/ "David's website.") and since 2004 I have been half of a company called [VIDVOX](http://vidvox.net/ "David's software company.") that makes software for artists. I do a bit of everything, which includes coding, design, sales, support, marketing, tutorials and documentation, beta testing, blogging, tweeting, community building, managing freelancers and a bunch of other things.
 
@@ -24,7 +24,7 @@ Probably the project that I am most passionate about is [MIDIDogs.biz](http://mi
 
 At the most recent [Stupid Hackathon](http://www.stupidhackathon.com/ "A hackathon for stupid ideas.") my project was the low tech "[Yell Hole](https://vimeo.com/206174341/ "David's Stupid Hackathon entry.")" which is basically a bucket with sound insulation that you can put on your head and yell into without disturbing your neighbors.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Currently my primary development machine is a 15" TouchBar [MacBook Pro][macbook-pro] with an [LG 4k display][ultrafine-4k]. I miss the physical escape key but otherwise very happy. I've used a similar setup of a MacBook Pro along with an external monitor for over a decade and this is the best version of it yet.
 
@@ -42,7 +42,7 @@ The best purchase I have made in the last few years is [a peg board with hooks f
 
 I have had the same [HP LaserJet 1320 printer][laserjet-1320] since 2004 and have tried out lots of different kinds of small notebooks over the years (currently making my way through a small graph paper book from Muji). I have a couple of typewriters that I've collected over the years, a newer [Olivetti MS 25 Plus][ms-25-plus] manual sometimes gets dusted off for use.
 
-#### And what software?
+### And what software?
 
 When VJing and otherwise making video art I typically use [VDMX][] which is software that we primarily work on at VIDVOX. Sometimes I'll connect it to other custom software using [Syphon][] or MIDI / OSC.
 
@@ -58,7 +58,7 @@ For making video tutorials [ScreenFlow][] is my favorite. I will sometimes also 
 
 Some of my bots make use of open source machine learning techniques -- I got started with one called [DeepBelief][deepbeliefsdk] which is still what powers the object detection for @TVCommentBot, though nowadays there are lots of even better libraries like [TensorFlow][] available for this kind of stuff.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A giant science fiction laboratory that includes a Holodeck from Star Trek that somehow fits inside my apartment in NYC and is also sound insulated because I love working from home but being able to walk across the street for a bagel / slice of pizza pretty much anytime of day is also a requirement.
 

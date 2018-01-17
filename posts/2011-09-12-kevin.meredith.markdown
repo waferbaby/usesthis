@@ -6,11 +6,11 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a photographer, writer and teacher. I have written [3 books on photography](http://lomokev.com/books/ "Kevin's books."), I also [blog](http://lomokev.com/ "Kevin's weblog.") and run [monthly photography courses](http://lomokev.com/hot-shots-the-photography-course/ "Kevin's photography courses."). I am best known for my work using a cult classic Russian film camera, the [Lomo LC-A][lc-a]. I slowly changed my career to photography through my use of [Flickr][] where I can be found as [Lomokev](http://www.flickr.com/photos/lomokev "Kevin's Flickr account."). I can also be found on [Twitter](http://twitter.com/#!/lomokev "Kevin's Twitter account.") and [Tumblr](http://lomokev.tumblr.com/ "Kevin's tumblelog.") as Lomokev too.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 When it comes to photography, I have a ton of cameras but the ones used the most are my trusted Lomo LC-As and [LC-A+s][lc-a-plus]. Most of the time I will carry 2 Lomo LC-As (with different film loaded). I have also recently acquired the new [Lomo LC-W][lc-wide]. The W is for wide, it has a 17mm lens instead of the LC-A's 32mm. If you want to know more about this camera you can read [my slightly biased review](http://lomokev.com/blog/lomo-lcw-review/ "Kevin's review of the LC-Wide."). I will also sometimes carry slightly more technologically advanced film cameras that have, wait for it: Auto focus! This will either be the [Contax T2][contax-t2] that produces über sharp photos or the smaller [Olympus Mju ii][mju-ii]. When it comes to film photography it's not just about the cameras, image quality is down to film as well. I mostly use: Lomography's 100 chrome xpro film, Kodak Portra 400 VC, Fuji Reala 100 and I still have about 40 rolls of refrigerated Agfa Ultra that expired in 2008 that I bring out for special occasions.
 
@@ -26,7 +26,7 @@ I also have a 15" unibody [MacBook Pro][macbook-pro] with 4GB of RAM that I use 
 
 I don't own an iPad as I have an [iPhone 4][iphone-4], a MacBook Pro and a Mac Pro. My commute is a 10 minute cycle so I don't have a place for one in my life. I also have a 1st gen Intel [Mac Mini][mac-mini] under the TV for watching iPlayer and other Internet video on a big screen.
 
-#### And what software?
+### And what software?
 
 I shoot a lot on the iPhone 4 but my iPhone shots will rarely end up on Flickr. I like to keep my iPhone apps lean. For photography, I use [Instagram][instagram-ios] and [Everyday][everyday-ios]. I used to use [Hipstamatic][hipstamatic-ios], but I prefer Instagram because of the social element.
 
@@ -42,7 +42,7 @@ For some of my tasks, I really don't see the point in having an app for somethin
 
 For blogging I use a self-hosted [Wordpress][] installation. My top tips for WP Plugins are: 'Share Buttons Simple Use' adds Facebook and Twitter share buttons to posts and pages. 'Redirection' lets you add 303 redirects without touching .htaccess. 'jQuery lazy load' stops images below the fold loading to improv page load times, and then only loads when you scroll down. 'Broken Link Checker' tells you if a page you have linked to is a dead URL or a 404 - because of this plugin I have been able to tell friends that their site has gone down before they knew. 'Are You Sure' stops you accidently posting when you just meant to save a draft, by asking if you are sure every time you hit publish. 'After The Deadline' is a spell checker. Last but not least 'WordPress SEO' by Yoast is a new SEO plugin that gives you preview of what the search result will look like in Google's search pages as you input the page title and meta description.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I am tempted to put an SSD in my Mac Pro just as a system disk because of app launch times. I would also love to get the new 27" Apple LED display as it has a resolution of 2560 by 1440px which means you can view 2 web pages side by side. I have the raw power of my Mac Pro so it would make total sense to replace my MacBook Pro for a MacBook Air as you can get them with 4GB of RAM. When they just had 2GB it was not an option for me as Lightroom and Photoshop on 2GB is no fun.
 

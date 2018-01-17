@@ -9,7 +9,7 @@ credits:
   url: http://www.sarahlovrien.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Ellen Chisa](http://www.ellenchisa.com/ "Ellen's website."). Right now, I'm living in Brooklyn, but I'm moving back to Cambridge (the one near Boston, not in England) soon. 
 
@@ -17,7 +17,7 @@ I work for [Kickstarter][] where I'm a Product Manager, and work on the backer e
 
 I'm also a trustee of the [Awesome Foundation](http://www.awesomefoundation.org/ "A foundation that gives away $1000 grants."), where we give away money, no strings attached!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [13" MacBook Air][macbook-air]. My main laptop is always 13" - the size just feels right for me. I prefer MacBooks for a ridiculous reason: I prefer the way the keyboard feels. I never use an external monitor because the amount of screen space overwhelms me.
 
@@ -31,7 +31,7 @@ When I'm meeting with someone, I try not to have my technology out. I've experim
 
 I also have a [Fitbit One][one], but I lost it for a few months and haven't gotten back into the swing of it.
 
-#### And what software?
+### And what software?
 
 My favorite software is [FuzzyClock][]. My clock only has a few options: "morning, lunch, afternoon, go to bed." It tells the real time of day between 7 and 10pm, and 10pm - 10am. So far, I haven't missed too many meetings. I also use [f.lux][], which helps prevent me from staying up all night.
 
@@ -47,7 +47,7 @@ My writing process uses the most different things. I draft everything in [Day On
 
 A few of my favorite things are: [Pinterest][] for procrastinating, [Spotify][] for listening to music, [Pocket][] for saving articles that I'll probably never read, [Goodreads][] for documenting books that I do read, and [Product Hunt](http://www.producthunt.com/ "A product discovery site.") for doing research on cool new stuff. I still miss [Google Reader][google-reader].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 This will sound funny, but If I could have anything, I'd want another laptop. I just wish I had a PC to run [PowerPoint][] on. [Office][] for Mac isn't the same. 
 

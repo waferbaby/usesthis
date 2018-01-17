@@ -9,7 +9,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [James Ernest](http://boardgamegeek.com/boardgamedesigner/61/james-ernest "James' entry on BoardGameGeek."). I run a tabletop game company, [Cheapass Games](http://cheapass.com/ "James' game company."), which I founded in 1996. I do the design and production for nearly all of the Cheapass titles. We've released upwards of 150 games, including board games, card games, dice games, and more.
 
@@ -17,7 +17,7 @@ I also do photography and video production, just one of the many side-talents th
 
 Because I'm doing a lot of my business through Kickstarter, I've become a freelance videographer and consultant for other Kickstarter projects. I've produced about a dozen videos for digital games, tabletop games, comic books, and other unusual Kickstarter projects.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I used to be all-Mac, but in the last few years my production has switched over to PC. My work computer is a Gateway DX4831 ([Win 7][windows-7]). I just got a [NEC MultiSync P241W][p241w-bk] for prepress and video work, retiring a genuinely sick Samsung that was developing stalagmite-like burn-in along the bottom edge... This is the first monitor I've owned that can actually calibrate itself. I feel like I'm living in the future. My second monitor is the functional but cheap LG Flatron E2241. I still have my old [Wall Street G3 PowerBook][powerbook-g3] on deck, because I'm often transferring old files from the early days of Cheapass, back when that was my production machine.
 
@@ -25,13 +25,13 @@ For video, I have a set of Sony cameras and lenses, Sony's E-Mount NEX series, i
 
 I still have a Mac in the music room, composing on a [MacBook Pro][macbook-pro] with a [Roland XP-30 keyboard][xp-30] and a set of Roland V-Drums. I also do quite a lot of music composition on my [iPad][ipad-2] when I am on the road.
 
-#### And what software?
+### And what software?
 
 Here's another area where I've recently made a jump from Mac to PC. I edited my first movie ([The Man Between](http://www.imdb.com/title/tt0404217/ "The IMDB entry for 'The Man Between.'"), in 2003) on a Mac in [Final Cut Pro][final-cut-pro], and for about the first 10 years of Cheapass I did all my layout work in [Quark][quarkxpress]. Now it's all Adobe, all the time. I have the [CS5][creative-suite] Master Suite, so I'm cutting video in [Premiere][], editing audio in [Soundbooth][], and doing layout in [InDesign][]. [Photoshop][] and [Illustrator][] are the only constant pieces.
 
 For music I'm using [GarageBand][]. I have more powerful stuff but I really don't need it, and GarageBand is reasonable for anything I want to do.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I feel like I already have it. I'm lucky enough to have a large budget for work-based hardware. So aside from "bigger hard drive, faster processor" which is inevitable, there isn't much on my wish list. There's always a better camera out there, and I certainly do a lot of window shopping, but for making how-to-play videos and Kickstarter videos, my setup is more than adequate.
 

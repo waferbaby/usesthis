@@ -7,19 +7,19 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jane Ng. I am an environment artist for video games. I am currently working at the independent game studio [Campo Santo](http://www.camposanto.com/ "A video game studio."), and we are creating our own first person narrative exploration mystery called [Firewatch][]. Environment Artists are sometimes called World Builders, because that's what we do. I create all manner of 3D models, 2D textures, and lighting for various game worlds. Sometimes the worlds are rather photo realistic, sometimes they are very stylized.  
 
 These days I also help with customer support for our [Campo Santo company store](http://store.camposanto.com/ "The Campo Santo online store."). We sell our own limited screen prints and other video game related merchandise.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do my work on a [Windows 7][windows-7] PC (core i5-4430, 8GB of RAM, [NVIDIA GTX 660][geforce-gtx-660]) with dual monitors, and just a normal mouse and keyboard. Most of the time I am wearing my [Sennheiser RF wireless headphones][rs-120] so I can listen to music while I work. I have access to a [Wacom Intuos][intuos] tablet but I rarely use it these days. I use a webcam to join our perpetual Campo Santo [Google Hangouts][google-hangouts] (so I can see and hear what's going on in the office) if I'm working from home.
 
 At home I play games on my [iPad Air][ipad-air], [PS3][], [Xbox 360][xbox-360] and desktop Windows PC with a core i7-2600k, 8GB of RAM and an [NVIDIA GTX 760][geforce-gtx-760]. I might get a [PS4][] sometime soon.
 
-#### And what software?
+### And what software?
 
 I primarily use [Maya][] as my main 3D modeling package and [Photoshop][] as my main 2D tool.  I use [Zbrush][] when I need to do more advanced 3D sculpting, and use [XNormal][] for when I need to bake texture maps (diffuse, normal and ambient occlusion maps) from my high-res Zbrush sculpts. I recently started using Quixel Suite's [NDO][] to generate normal maps from 2D textures I create from scratch in Photoshop. Once in a while I use [World Machine][world-machine] to generate terrain assets.
 
@@ -29,6 +29,6 @@ As for communications we use a web-based chat called [Slack][] for work discussi
 
 For company store management, we use [Shopify][] to handle the store backend and [Zendesk][] to handle customer support.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm not too far from my dream setup! It would be nice if our office was a little bigger so I could have a bit more desk space to put out the Wacom I never use, a tea pot perhaps. I would like a shelf next to my monitors to put up my art books and toys etc. Oh, maybe an office cat. I would really like to have an office cat that likes to sit in my lap.

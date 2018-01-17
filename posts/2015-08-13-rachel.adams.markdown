@@ -10,11 +10,11 @@ credits:
   url: http://www.evadeitch.com/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a writer, cook, and blogger based in Chicago. I run [Dinner was Delicious](http://www.dinnerwasdelicious.com/ "Rachel and Lucy's cooking website.") with my best friend, taking responsibility for recipe development and writing all the words good. Outside of the blog: I write essays about making and eating food for print and online publications, and cook for anyone who will eat it.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [MacBook Air][macbook-air] on a cat-scratched CB2 outlet chaise and/or the dining room table. I wear Warby Parker glasses (Preston, gimlet tortoise / Durand, woodland tortoise). I barely need them, but they make me look *adorable*.
 
@@ -49,7 +49,7 @@ Both kitchens contain:
 - A Pinterest-load of 24 oz Ball Jars with straight sides, and [Kilner][round-hermetic-canning-jar] and [Le Parfait][french-hermetic-glass-terrines] hermetic round canning jars and terrines. I tend to buy in bulk (for cheapness) but, even when I don't, I like to transfer my packaged stuff into clear glass containers. I don't like opening cabinets and seeing brand names. It's distracting and annoying and feels like a commercial, which I resent. Not because I'm too cool for labels, but because I'm fucking stubborn and like to opt out of things for the sheer spite of it. Also: I want to see the food, and how much of it I have at a glance. TL;DR - Glass jars are much tidier and make me feel like less of a crazy pants.
 - Butter. Local, cultured, and salted for toast; Kalona unsalted for baking and sauteing.
 
-#### And what software?
+### And what software?
 
 My needs here are much smaller.
 
@@ -59,7 +59,7 @@ Beyond Excel, I could not live without [Google Drive][google-drive]. Working wit
 
 I sometimes use [Pages][] and [Dropbox][], but Google Drive is def my preference. The self-loathing period of writing is deeply tied to my "process;" the auto-save-cloud-sync-computer-beep-boop-nonsense that lets me slam my computer shut in self-disgust without losing work is an actual life saver.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 TWO OVENS.
 

@@ -9,11 +9,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Ade Oshineye](http://www.oshineye.com/ "Ade's website.") and I work as a Developer Advocate on the [Google+ project][google-plus]. I make things and connect people. I'm also an [author](http://shop.oreilly.com/product/9780596518387.do "The page for Ade's book, 'Apprenticeship Patterns'."), a software craftsman and a [photographer](http://www.flickr.com/photos/adewale_oshineye/sets/72157603469493010/ "Ade's photos on Flickr.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I travel a lot so all my hardware falls into 2 buckets: stuff that's portable and stuff that makes up for the lack of portability by being absurdly powerful.
 
@@ -33,7 +33,7 @@ I travel everywhere with a pair of [Bose QC15 noise-cancelling headphones][quiet
 
 I lug a random sub-set of this kit in bags from Crumpler since they're a vendor who understand that I'm going to try to cram a lot of stuff into a very small space.
 
-#### And what software?
+### And what software?
 
 I'm addicted to Go (the game, not the programming language) so I end up running [SmartGo][smartgo-kifu-ios] on iPhone and iPad whenever I have a few spare minutes. On the desktop I use [CGoban][kgs-go-client] and the [Kiseido Go Server][kgs-go-server] to play with other people.
 
@@ -55,7 +55,7 @@ I use several programming languages regularly but [Python][] is my default. It's
 
 I use [Keynote][] for all my presentations nowadays. It allows me to easily re-use slides and it helps me focus on the story I'm telling rather than the colour of my bullet points.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I've spent a lot of time making sure I have tools that fit into my life so there are few things I'd change in my dream setup.
 

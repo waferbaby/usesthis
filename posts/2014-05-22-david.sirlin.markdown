@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://www.sirlin.net/ "David's website.") a game designer. I used to work in video games and I was lead designer of [Puzzle Fighter HD Remix][super-puzzle-fighter-ii-turbo-hd-remix] and [Street Fighter HD Remix][super-street-fighter-ii-turbo-hd-remix]. Now I run my own company, [Sirlin Games](http://www.sirlingames.com/ "David's game company."), where I've published several tabletop games such as [Yomi][], [Puzzle Strike][puzzle-strike], [Flash Duel][flash-duel], and [Pandante][]. The online versions are at [www.fantasystrike.com](http://www.fantasystrike.com/forums/index.php?portal/ "Online versions of David's card games."). I also wrote the book [Playing to Win](http://www.sirlin.net/ptw "David's book about games.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main tool is a 2009 [iMac][], with whatever the highest specs were available at that time. Upgraded to 24 GB of RAM. I have two [2 TB G-Tech external hard drives][g-drive]. One is for data and the other is a scratch disc for [Photoshop][]. I'm using a [Diablo 3][diablo-3] mouse. I used to use the [Apple Wireless Keyboard][keyboard] but I switched to the [Logitech Bluetooth Easy Switch Keyboard K811][bluetooth-easy-switch-keyboard] because it allows me to easily use a keyboard with my [Apple TV][apple-tv]. I ditched cable TV and I just use AppleTV now, by the way.
 
@@ -23,7 +23,7 @@ For backups and as a router, I use the [Apple Time Capsule][time-capsule].
 
 For playing fighting games, I use a [Madcatz TE joystick][street-fighter-iv-fightstick-tournament-edition] and a [Sony 55W900A LED TV][kdl-55w900a]. It has the lowest input latency of any TV of its class, which is important for fighting games.
 
-#### And what software?
+### And what software?
 
 [OS X][mac-os-x] as my OS. My main software is Photoshop CC, I do way more in it than I should, and use it for crazy things it was not intended for. I have an important file that has over 10,000 layers, for example. I also use [Illustrator][] occasionally, but I try to avoid it. [InDesign][] confuses me, so I don't use it. For page layout I use Apple's iWork [Pages][]. For spreadsheets I sometimes use Apple [Numbers][], and other times Google Spreadsheets. I also use [Google Docs][google-docs] for some documents, Pages for others, and [TextEdit][] for others. I have lots of documents and I'm not really that organized.
 
@@ -33,7 +33,7 @@ For instant messaging, [Adium][]. For interviews, [Skype][]. For stuff involving
 
 I use [Dropbox][] a lot as well. To link pics and files to friends, to transfer large files to and from contractors, and a bit for backup as well. I should probably use it a lot more for backup. It's generally really great. It would be too bad to have to stop using it because the Dropbox company invited Condoleezza Rice onto their board, a person who participated, condoned, and facilitated 4th amendment violations with warrantless wiretaps. I mean seriously, what the fuck? Way to make an amazing product and erase all your goodwill in one move.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I plan to get a [Mac Pro][mac-pro] soon. I've just been waiting around because of the lack of Thunderbolt 2 SSD options and the lack of an updated Apple monitor. I'll probably get the [LaCie Little Big Disk Thunderbolt 2][little-big-disk-thunderbolt-2]. Still not sure what to do about monitors - I might get the [super wide LG monitor][34um95] if Apple doesn't come out with anything.
 

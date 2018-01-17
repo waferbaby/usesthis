@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Cal Henderson](http://iamcal.com/ "Cal's website.") and I worked at [Flickr][] for over 5 years as the head of engineering. I wrote a book called [Building Scalable Web Sites](http://oreilly.com/catalog/9780596102357 "Cal's book on the O'Reilly site.") which is all about, err, building scalable web sites. These days I'm working for a mysterious new company called [Tiny Speck](http://tinyspeck.com/ "Some sort of thing.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'll lose any nerd cred I had, but I primarily use a PC. I've just never really got on with OS X, especially as a window manager. If most people are using [Quicksilver][] then I think that pretty much points to a badly designed OS.
 
@@ -30,7 +30,7 @@ Both of my machines sit on a pair of [Ikea Jerker desks][jerker], the best cheap
 
 For music on my PC, I have a pair of [Sony MDR-7506 headphones][mdr-7506] that are comfortable enough to wear all day without getting squished ears. They sound pretty good too.
 
-#### And what software?
+### And what software?
 
 On my PC I run [Windows XP Professional][windows-xp]; Vista is a bit too high-tech for me. My most used application is probably [noted][], a text editor I wrote in 2001. It doesn't do syntax highlighting, Unicode, or anything fancy really. I just like it. I always have [Firefox][] and [Thunderbird][] open - I just don't get on with GMail. I used [Outlook Express][outlook-express] for a really long time, but Thunderbird has gotten a lot better at IMAP lately. [mIRC][] is for IRC, [Miranda][] is for everything else. I used [Trillian][] for a few years, but it became more and more bloated. Miranda starts quickly and uses very little memory.
 
@@ -44,7 +44,7 @@ One of the best pieces of software in a web developer's toolbox is [phpMyAdmin][
 
 For music, I use [iTunes][] on my Mac, with [iTunes Remote][itunes-remote] to control it. Though these days I'm using [Pandora][] more and more.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I pretty much have my dream setup already. Of course, it would be nice if there was a version of the Flash player plugin that didn't cause Firefox to bloat and die. Or Thunderbird didn't crash when loading HTML email.
 

@@ -8,11 +8,11 @@ credits:
   name: Hazel Darden
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello, I'm Chris Darden. I am a Senior Data Analyst for a nonprofit healthcare organization in St. Louis, MO, a [board game][dungeon-roll] designer, and co-organizer of [Geekway](http://geekway2west.com/ "The Geekway site.") (an annual board game convention here in town). In the future, I'll eventually have a website and finally publish something to [Medium](https://medium.com/@cbdarden/ "Chris' Medium site."). In the meantime, you can see what snarky comments I have about [lots and lots of board games](http://boardgamegeek.com/collection/user/cbdarden?rated=1&subtype=boardgame&ff=1 "Chris' posts on BoardGameGeek.").
  
-#### What hardware do you use?
+### What hardware do you use?
 
 I have an unremarkable system at work that runs [Windows 7][windows-7]. The only saving grace is the extra memory they let me have and the dual monitors that make my job a lot easier. At home for leisure and game design I'm typically on a cheap Acer [Aspire V5-571-6893][aspire-v5-571-6893] laptop that's running [Windows 8][windows-8] (which I've done my best to make it look like Windows 7) or an [iPad 3][ipad-3]. In addition, I'm basically naked without my [iPhone 4S][iphone-4s], it's with me at all times.
  
@@ -24,7 +24,7 @@ For prototyping games at home I have a 6x3 table I picked up at Goodwill for $20
  
 In addition I have tons of old Magic cards, lots of clear and colored sleeves, cubes, dice, and pawns to flesh out ideas quickly.
 
-#### And what software?
+### And what software?
 
 At work: it's the standard [Microsoft Office][office] apps that I'm mainly in. Nothing special here.
  
@@ -34,6 +34,6 @@ On my iPhone, I'm always using the native Notes app to capture thoughts and game
  
 On the iPad I use it to write notes, check email, and play games. I use [Adobe Ideas][adobe-ideas-ios] to sketch out a quick idea and [CardWarden][cardwarden-ios] to deal out sample hands of games I create. CardWarden really is amazing, every budding game designer should be using it. I would also be completely lost without [Dropbox][], I use it every single day.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a old red train caboose set up on a short section of rails in my backyard near the tree line. A short walk from the house, but far enough away that you would think twice about interrupting me. Inside would be a fast PC with dual monitors, printer, my prototyping supplies, and clear table space to assemble prototypes. I'd also want a small selection of games, a table for four, a small fridge, and a place to take a nap.

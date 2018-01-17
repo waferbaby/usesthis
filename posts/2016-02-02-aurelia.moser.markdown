@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Aurelia and I'm a creative coder living in Brooklyn working at the Mozilla Science Lab on community projects. I've dabbled in the library world as a preservation lab tech, in the journalism world as a former [Mozilla OpenNews fellow](https://opennews.org/what/fellowships/2014meet/ "A post about the OpenNews fellows of 2014."), in the education and advocacy world as a chapter leader for [Girl Develop It](https://www.girldevelopit.com/chapters/new-york "The New York chapter of the non-profit that helps women learn coding.") / programming professor at [Parson's Journalism school](http://journalismdesign.com/people/ "The core faculty at Parson's Journalism."), and in the creative tech space as [a tinkerer](http://www.meetup.com/nodebots/ "The NodeBots NY meetup for hardware and JavaScript hackers."), a [data viz artist](http://bl.ocks.org/auremoser "Aurelia's blocks"), and a generally hungry human for intellectual calisthenics and development.
 
@@ -16,7 +16,7 @@ I like contributing to small collaborative programs with friends like [Biononymo
 
 You can find more about me [@auremoser](https://twitter.com/auremoser "Aurelia's Twitter account.") on [Twitter][], [auremoser](https://github.com/auremoser/ "Aurelia's GitHub account.") on [GitHub][] or via my über-infrequently updated website: [http://algorhyth.ms/](http://algorhyth.ms/ "Aurelia's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 That depends on the project, really. I have a [MacBook Air][macbook-air] for work/projects/travel, which I like because it's lightweight and pretty o.k. as long as I swap files before my startup disk O.D.s. I have two burner machines that I use for art show installs and public projects where a computer needs to run continuously or I need to crush my CPU for something (another, older, [MacBook Pro][macbook-pro] and a [Chromebook Pixel][chromebook-pixel] which I won at a conference a few years ago). 
 
@@ -24,7 +24,7 @@ Sometimes, I work with lightweight hardware for little projects; a few friends a
 
 For my radio show, I have a small microphone but I record at a local station so I can use their better resources and boards. And I'm not really a wearable gal, but I bought a few of them to test projects with their data, so I have a Jawbone and I've been tracking those data (but not actually changing behavior) for a few months. I have an [Airport Wifi backup system][time-capsule] which builds [Time Machine][time-machine] archives of my machines when I connect, that's something I'd totally recommend. For audio play, I have a midcentury vacuum tube stereo table that a friend helped me future-fix to sync with an old [iPod][] so I can play music with a kind of crackly-record sound, which is rad; I also have some [Anker tiny portable speakers][a7910], for travel, which produce great sound when I'm on the go, connect over Bluetooth, and easily recharge. I have a little [Karma][] device for Wifi anywhere, which is great while traveling when internet access is uncertain. Oh, and I have an iPhone though mostly to minimize the annoyance of cross-platform device syncing and because a lot of the patented gestures are pretty beaten into my reflexes at this point.
 
-#### And what software?
+### And what software?
 
 So much so much, this is hard to answer, and again, this totally depends on the project but where possible, I try to keep my stack open source. I write most of my code in scripting languages on a Mac so I use [Sublime Text][sublime-text] as my text editor, [Terminal][] for CLI utilities, [git][] and Github for code storage/versioning, [Mou][] for [Markdown][] formatting, [Firefox][] (and sometimes [Chrome][]) for browsing, browser testing, and dev tools, Mike Bostock's Bl.ocks for some small visualization tests/rendering. I have a pile of customizations and plugins for these things that are too numerous to mention, but I'll list a few themed ones below. 
 
@@ -36,6 +36,6 @@ For pretty viz, I have a bunch of chart libraries listed in [a little repo](http
 
 For privacy, I sometimes opt for more secure tool usage, so I have a PGP setup and encrypt external drives. I have a [Keybase][] account, and I search via [DuckDuckGo][], in Private Window on Firefox/Incognito on Chrome, [Adium][] for chatting (with logging off). 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh man, probably an 11-inch weightless MacBook Air with all the power of a Pro and a Retina display; I'd love something that would fit in my purse, because I feel like I've been a backpack girl for ages and I'd love to graduate high school with an adult bag. JK. My dreams are crazy, and the technology available next year will probably be crazier. Who knows what I'll want to upgrade to? Probably tech that imitates (my) life: fast, light, mobile, and magical.

@@ -6,11 +6,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am [Douglas Rushkoff](http://www.rushkoff.com/ "Douglas' site."). I am a media theorist, and I write books and articles about media, technology, and culture - most recently, [Program or Be Programmed](http://www.rushkoff.com/program-or-be-programmed/ "Douglas' book."). I give lots of lectures, make television documentaries, write comic books and do a whole lot of radio.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do most of what I do through a [MacBook Pro 15"][macbook-pro] - the last of the models with beveled keys. I can't replace it because I can't type on the flat keys. I've got a typing speed of around 120 words-per-minute on a beveled keyboard, but the chiclet keys on newer Macs force my pinkies out too far. The iMac screens are too high and shiny for me, so I'm pretty well locked into the laptop for any intensive work. I use a 20" [iMac][] (11,2) for Skype, movie-watching, and audio-video editing.
 
@@ -18,7 +18,7 @@ I have an [M-Audio Firewire 410][firewire-410] I use as an external sound card a
 
 I got an iPhone because Helio went out of business (I had a phone I loved called the [Ocean2][ocean-2]), but I don't like the iPhone because I need keys.
 
-#### And what software?
+### And what software?
 
 I write my books and comics scripts in [Scrivener][]. Articles happen in [Word][], but I'm leaving it behind more and more, and just writing in [Textedit][] to save myself all the time and energy associated with Microsoft. I did write a dissertation this year in Word because of the way it handles footnotes (there were over a thousand in that document), but I don't have much use for it moving forward. I record a lot of things using [Audio Hijack Pro][audio-hijack-pro] or even [Audacity][]. I do most all audio I want to work right in [REAPER][]. I use Apple's [Mail][] program right now, but will probably go back to [Thunderbird][]. I use [Dropbox][] for almost everything I need to store. I'm starting to do simple graphics and tables on [Google Docs][google-docs] instead of Adobe. I'm moving into [Chrome][] full time, in order to take advantage of some plugins.
 
@@ -26,7 +26,7 @@ I am just starting with [Tweetdeck][] to manage flow. I threw my website onto Sq
 
 I use [Handbrake][] a lot, ripping DVD's to watch on the laptop on the plane. And I watch everything through [VLC][], and avoid [iTunes][] as much as possible (I don't have time or the heart to do all the legal paperwork and signature signing involved in the twice-weekly contractual changes.) In fact, iTunes is part of what pushes me away from Apple.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would like a current MacBook Pro laptop but with my old beveled keys. And a matte screen. It's really pretty much that simple. And then a big 27" external flat matte screen for source materials. The laptop recreates the typewriter experience most accurately, and that's where I started writing so it's really better for me. I also like the head position where I'm looking slightly down, even near to where my hands are. It's less disconnected than all the bluetooth keyboards. You have to remember I am a producer of words, so my relationship to the text might need to be a bit more intimate.
 

@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Christine Yen](https://twitter.com/cyen "Christine's Twitter account."), an engineer and co-founder at [Honeycomb][] in SF. I like working on developer tools and building beautiful, effective ways for smart folks to do their jobs. I've worked at a series of now-defunct startups (either via acquisition or failure) since leaving MIT with a CS degree, and have the most fun being a generalist, hopping around between thinking deeply about the product down to the storage layer.
 
 Besides software, I like making things (fabric, wood, and craft foam are my favorite mediums) and get anxious if I haven't started planning my Halloween costume by late September.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My hardware needs are pretty simple: I use a [2015 15" MacBook Pro][macbook-pro] for everything. My favorite keyboard for the last 10 years was a [Microsoft Natural Keyboard 4000][natural-ergonomic-keyboard-4000] but I recently switched to the [Sculpt][sculpt-ergonomic-keyboard] (and am not loving the spotty wireless reception). Mouse-wise, I use an [Evoluent VerticalMouse][verticalmouse].
 
@@ -21,7 +21,7 @@ My monitor is an [LG 34" UM95][34um95] and I don't know if I'm ever going to be 
 
 <img src="/images/interviews/christine.yen/case.jpg" width="500" height="335" alt="Christine's laptop case." class="detail">
 
-#### And what software?
+### And what software?
 
 On the software side, I love my tools to be powerful but streamlined. I do all my development (on [OS X][mac-os-x]) in [MacVim][], and the vim plugins I currently can't live with are: [CtrlP][], [Surround][], [The NERD Tree][the-nerd-tree], [YouCompleteMe][], [delimitMate][], and [vim-go][]. (The unsung hero in this list is, of course, [pathogen][].) If a newfangled text editor doesn't have smooth split-screen support out of the box, it's dead to me. I work primarily in [Golang][go] and [JavaScript][] these days, and have been particularly impressed by [Hugo][] and [d3][d3.js] lately.
 
@@ -35,6 +35,6 @@ After having tried what feels like all of the to-do applications out there (grap
 
 Otherwise, I regularly use all the other standard pieces of software in today's software startup scene: [Slack][], [GitHub][], [Quip][], [Spotify][], and [Sketch][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with my setup for all practical intents and purposes these days, but I fell in love with Vernor Vinge's vision of [augmented reality in the near future](https://en.wikipedia.org/wiki/Rainbows_End#Augmented_reality "The augmented reality section of the Wikipedia entry for Rainbows End") from his 2007 novel Rainbows End, and now can't wait for AR overlays and smart contact lenses. I'm also holding out for a light-filled room with a window seat and wireless peripherals with signals that don't get [interfered with by USB 3.0](http://thewirecutter.com/reviews/best-usb-hubs/#note "A note on a Wirecutter article about USB 3 interference.").

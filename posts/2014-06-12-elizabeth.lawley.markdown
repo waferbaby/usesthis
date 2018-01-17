@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Liz Lawley](http://lawley.rit.edu/ "Elizabeth's website."), a professor in the [School of Interactive Games and Media](http://igm.rit.edu/ "The RIT IGM website.") at Rochester Institute of Technology, where I also run the [Lab for Social Computing](http://labforsocialcomputing.net/ "The Lab for Social Computing site.") in our [MAGIC Center](http://magic.rit.edu/ "RIT's Magic Center site."). When I'm not teaching, building community games and game-based systems (like [Picture the Impossible](http://picturetheimpossible.com/ "A community game for the city of Rochester.") or [Just Press Play](http://play.rit.edu/ "The website for Just Press Play.")), or [giving talks](http://www.slideshare.net/mamamusings/ "Elizabeth's talks."), I also run the annual [Microsoft Research Social Computing Symposium](http://scs.fuselabs.org/ "The Social Computing Symposium website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've been a Mac user since I got my first computer -- a [128K original Mac][macintosh-128k] when I graduated from college in 1984. These days I'm carrying a 13" [Retina MacBook Pro][macbook-pro], with a 2.8ghz i7, 16GB RAM, and 1TB flash drive; by maxing out the specs, I can keep my laptops for about three years without running into problems with the software I need to use. My phone is a 32GB [iPhone 5][iphone-5], unless I'm traveling overseas, in which case I use a [Nexus 4][nexus-4] since it's unlocked and easy to pop a new SIM into. I tend to upgrade my iPhone alternating years, so I won't be upgrading 'til v6 comes out. I've got a 64GB [iPad 2 with 3G][ipad-2] that I use primarily for watching TV and movies at the gym, or as my portable stereo system at home. I also use it occasionally as a laptop replacement when traveling so I have a wonderful [Logitech keyboard case][ultrathin-keyboard-cover] to enable production as well as consumption. 
 
@@ -26,7 +26,7 @@ I pulled the plug on cable TV three years ago, and use a [Roku 2 HD][roku-2-hd] 
 
 I have a [Jabra Tour][tour] Bluetooth speakerphone in my car that I use for reading and responding to texts when I'm driving. I'm increasingly impressed with [Siri's][siri] skill at taking dictation (or maybe I'm just getting better at talking to her). 
 
-#### And what software?
+### And what software?
 
 On my Mac, I primarily use [Microsoft Office][office] for productivity software; I find Apple's suite to be underpowered and poorly designed for serious writers (or number crunchers). I use [Google Docs][google-docs] when I have to work on documents collaboratively, but they always end up back in [Word][] at the end for tight control over formatting. I used to use [EndNote][] for bibliography management, but I switched from that to [Zotero][] about two years ago, and have been really happy about that switch. 
 
@@ -48,6 +48,6 @@ On my phone, besides the standard email/social apps, I absolutely love [TripIt][
 
 I use the camera on my phone and [Instagram](http://instagram.com/mamamusings/ "Elizabeth's Instagram account.") every day to post a gratitude photo (#365grateful), and I save [those photos in Flickr](https://www.flickr.com/photos/liz/collections/72157639420006734/ "Elizabeth's gratitude photo sets on Flickr."), as well -- I've been using [Flickr][] since before it was actually released, so it's the obvious place for me to archive images. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty much "living my dream" already... my job gives me access to nearly every tool and toy I can imagine wanting to use!

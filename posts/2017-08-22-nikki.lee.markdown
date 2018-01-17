@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Nikki](http://nicoleblee.com/ "Nikki's website."). I'm a product manager and product strategist, which seems to mean that I spend most of my time talking to people.
 
@@ -20,7 +20,7 @@ Sometimes I [write](https://medium.com/@nkkl/you-hate-yourself-because-we-told-y
 
 I'm sorry this is so many words. If you tweet at me I'll send you a cat picture to apologize.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 <img src="/images/interviews/nikki.lee/hardware.jpg" width="500" height="570" alt="A sketch of a MacBook Pro, iPhone 6, ThinkPad Yoga, Google Pixel, a standing desk with a Dell XPS 8500 next to it, and Nikki's peripherals: personal and work keyboard/mouse setups, game controller, and an array of headphones." class="detail">
 
@@ -62,7 +62,7 @@ I snagged an [Xbox Elite controller][xbox-elite-wireless-controller] as a goodby
 
 Pretty all of my gaming is on my PC, but I also have a [New Nintendo 3DS XL][new-nintendo-3ds-xl], which is particularly great for travel. It is also by far the worst named product I have ever owned. Seriously Nintendo, what gives?
 
-#### And what software?
+### And what software?
 
 **Work**
 
@@ -102,7 +102,7 @@ Almost all of my PC games are managed via [Steam][].
 
 When I stream, I use [OBS Studio][obs-studio] to capture and stream to [Twitch][]. I'm not a very dedicated streamer, so I don't need any other plugins.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love to use a [Surface Pro][surface-pro] at work. In my time at Microsoft I used a [Surface Pro 3][surface-pro-3], [Surface Pro 4][surface-pro-4], and [Surface Book][surface-book], and they were all excellent devices for the type of work I do.
 

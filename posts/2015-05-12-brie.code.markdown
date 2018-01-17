@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Brie Code](https://twitter.com/briecode "Brie's Twitter account."), and I'm a lead programmer at Ubisoft Montreal. My last project was [Child of Light][child-of-light].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Each person on the team has a different setup depending on their needs - or when they last got their hardware upgraded. But we all use fairly new PCs with two large monitors. I use one monitor for email and one for whatever else I'm currently trying to accomplish. We have an open office plan, so when I need to concentrate I wear an [Astro A30][a30] headset which I got at the launch party for [Assassin's Creed: Brotherhood][assassins-creed-brotherhood], and it's customized with Assassin's Creed tags. We also use various video game consoles and TVs. On Child of Light my team developed for PC, [PS4][], [PS3][], [XB1][xbox-one], [X360][xbox-360], and [Wii U][wii-u]. In general we share each console between 2-3 people.
 
@@ -21,7 +21,7 @@ At home I use a [13-inch MacBook Pro][macbook-pro] from early 2011 and an [iPad 
 
 I also have a PS3 and an Xbox 360. I haven't bought a PS4 or XB1 yet and may not buy one. I've been borrowing a PS4 from work every once in a while. I don't have Windows installed at home, so when I want to play a PC game, I play it at work during lunch. But most of the games I play now are on tablet or phone.
 
-#### And what software?
+### And what software?
 
 My work computer is running [Windows 7][windows-7]. For email I use [Microsoft Outlook][outlook]. For documentation, schedules, and presentations, I use [Microsoft Excel][excel], [Visio][], or [PowerPoint][]. For development I use [Microsoft Visual Studio 2012][visual-studio]. For source control I use [Perforce][].
 
@@ -29,6 +29,6 @@ I have tried lots of TODO list and note-taking apps, but I still just use a tabl
 
 At home I use [MonoDevelop][] for programming and [Chrome][] for watching [Netflix][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The [Mac Pros][mac-pro] are so pretty now. I would also be happy with a new PC built into a [DIYPC HTPC MiniCube][htpc-minicube] in Gold Aluminum. And I like to have a lot of those Sharpie pens around.

@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Thomas Marban](http://www.marban.com/ "Thomas' website.") ([@thomas](http://twitter.com/thomas/ "Thomas' Twitter account.")), founder of [tomatic](http://www.tomatic.com/ "Thomas' company site.") based out of Austria. I've been running digital businesses since the mid-ninties in various lineups.
 
@@ -15,13 +15,13 @@ I've created the original [popurls](http://popurls.com/ "An aggregator service."
 
 I spend the rest of my time on running up to 60 miles a week.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In recent years, I've settled for a two-machine setup. That is, an [iMac][] maxed-out to get a lot of mileage out of it and a low-spec 11" [MacBook Air][macbook-air] that's being replaced on every new hardware release together with the usual iPhone and iPad combo. Other than that, I dislike gadget maintenance and ownership in general so I'm keeping just a very small collection of quality stuff. A [Sony RX1][cyber-shot-dsc-rx1] for photography, Bowers & Wilkins [P7][] & [MM-1][] audio gear, along with the very [first iPod][ipod-classic] from 2001 and a japanese [Game Boy Light][game-boy-light] with Tetris in permanent residence.
 
 It took me many years but, I've successfully digitized all my music, movies and books which are stored on Drobos in redundant locations. If I weren't invested in them, I wouldn't purchase one today for reasons of their utterly slow performance. I don't own a TV, media center or other tech gear so the rest is literally just a box of chargers and cables. I like to travel very light but I'm a sucker for quality luggage that stands the test of time. Products by Rimowa, Filson, Porter and Killspencer are in heavy rotation during my trips. I don't sketch on paper so I just keep a small Midori Memo Pad around.
 
-#### And what software?
+### And what software?
 
 Contrary to popular stock-app bashing, I'm a zealot of anything that's built-in as for me, tight OS integration simply trumps everything. So other than [Lightroom][] & [Photoshop][] for photography and [Sketch][] for design, I'm only using Apple's productivity apps on Mac & iOS. I've tried each and every tool from [Evernote][] to [Things][] or Ember and [iA Writer][ia-writer] but turns out the file system is already pretty powerful if you're disciplined enough. Also, if there's a web-based version for applications such as [news readers][feedly], I'll always use that over a native equivalent --- even for [Gmail][].
 
@@ -29,6 +29,6 @@ For music, I only listen to my local [iTunes][] library since it's lossless and 
 
 I consume tons of RSS feeds but even though I build stuff around it and other than the infrequent tweet, I don't really engage in social media. I do maintain a collection of vintage Porsches on [Pinterest](http://www.pinterest.com/thomas/vintage-porsche-911/ "Thomas' Porsche pins on Pinterest.") though.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As soon as Macbooks ship with 2TB of Flash memory, I'll switch back to a one-machine setup, but other than that I don't really worry about hardware decisions as long as they get the job done - dream setups are just always two years away.

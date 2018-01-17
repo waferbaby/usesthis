@@ -7,7 +7,7 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Aroon Karuna. I'm an experimental musician and intellectual property attorney.
 
@@ -19,7 +19,7 @@ I tend to favor sounds that are drifting, disorienting, woozy, broken, gritty, l
 
 Lately I've been working with the Institute of Contemporary Art in London, who commissioned me to compose pieces for their video materials and promos - [here](https://www.youtube.com/watch?v=_18iNYXqU8Q "A YouTube video with some of Aroon's music.") are a [few](https://www.youtube.com/watch?v=fs1AhzRxpf0 "A YouTube video with some of Aroon's music.") [examples](https://www.youtube.com/watch?v=YSINgf_UBS8 "A YouTube video with some of Aroon's music.") of my work in that context. It's been exciting working with a group of people who encourage me to get weirder and stretch my boundaries.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 As an attorney: typically it's whatever my workplace's IT department has in store for me. When I'm given a choice, I prefer a [MacBook][macbook.2] and my trusty [Samsung S7 Edge][galaxy-s7-edge] (voice recording of interviews, checking email, etc.) I also use a Hobonichi Weeks planner. As some patent examiners are old school, I still use a fax machine sometimes.
 
@@ -49,7 +49,7 @@ Other much-loved pieces of gear that I own and use:
 
 8. [Madrona Soundplane][soundplane-model-a] - this is a controller, but it's not a MIDI controller. Instead it's MPE, which means multidimensional polyphonic expression. It communicates across x, y, and z (or pressure) dimensions, all of which are assignable to various parameters of your software or hardware, and all of which respond to multiple touches on an individual basis (similar to polyphonic aftertouch). And it's especially fast, reactive, and expressive in ways that MIDI controllers aren't. It's also a beautiful instrument - a smooth walnut surface that feels great to play.
 
-#### And what software?
+### And what software?
 
 As an attorney, I like [OmniGraffle][] for creating patent figures. Google Patent is a godsend for no-nonsense searching and downloading of patent materials. I'm fairly boring and utilitarian - I use [Microsoft Word][word] for most of my work, even though it frustrates me more often than not. I'd use something nifty like [WriteRoom][] or [Scrivener][], but ultimately I have to be able to use something that inventors, attorneys, and examiners also use, because I'm sending and receiving tracked changes on my documents. Word is the industry default.
 
@@ -61,7 +61,7 @@ My other favorite software:
 
 2. [Madrona Aalto][aalto] - For my money, this is the best software plugin instrument ever made. It's got a west coast complex oscillator, vactrol emulation, and a generous "patch zone" for easily patching together various elements in a semi-modular fashion. It sounds as good as some of the hardware I've got, which is something I wouldn't be able to say about most plugin synths. Pairing this with the Madrona Soundplane controller, you've got a match made in heaven. A hardware controller designed from the ground up to play well with an amazing, unusual software instrument.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Pretty much what I've got now, I suppose! In the short term, I'm really looking for a powerful sampler - [Elektron's Octatrack MKII][octatrack-mkii] is what I've been eyeing when I can set aside some funds for it. The [Digitakt][] sampler is great too; I tried it out for a month, but decided it was so wonderful that I wanted the more extensive feature set of an Octatrack. Other neat-looking things I wouldn't mind trying out: the [Volca FM][volca-fm], [Organelle][], [Axoloti][], [Behringer D][d.2], and [Deckard's Dream][deckards-dream]. I'm also waiting for a Soundplane eurorack module, which Randy of Madrona Labs is hard at work on. I'd like an updated version of the Nord Modular, maybe in eurorack format, with extensive, programmable CV capabilities. I'd like some ice cream.
 

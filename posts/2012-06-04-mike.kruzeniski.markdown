@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Until just recently I was a principal design lead on Windows Phone at Microsoft. But, this summer [I'm](http://kruzeniski.com/ "Mike's website.") moving down to San Francisco and joining [Twitter][]'s design team, where I'll be working on their desktop and mobile sites and apps. I'm an experience designer, interaction designer, UI designer, and industrial designer - meaning, I try to work on products from every possible aspect that I can.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Since I'm between jobs at Microsoft and Twitter, my answers are based off of what I've been using most recently at Microsoft. For work I use a loaded up Lenovo Thinkpad with a 15.6" display, and that's pretty much it. I've never gotten in to using multiple displays because I spend a lot of time back and forth between meetings, workshops, and the desks of colleagues or designers on my team. It's easier to stay light and mobile with just the laptop. To compensate, I keep the display resolution as high as my video card will allow, to get as many pixels on there as I can. I'm terrible for keeping dozens of apps and documents open at any given time. 
 
@@ -24,7 +24,7 @@ I have a [Nikon D7000][d7000] for photography projects, though it gets used far 
 
 I've got a [Western Digital 2TB][elements-desktop] external drive for backing up all those photos and side projects.
 
-#### And what software?
+### And what software?
 
 For design work, I live in [Photoshop][] and [Illustrator][]. But a lot of my work is collaborating with our Engineering team, which means I spend a lot of time in [Outlook][], [Word][], and building presentations in [Powerpoint][]. 
 
@@ -34,6 +34,6 @@ For web browsing I jump back and forth between [IE10][internet-explorer], [Safar
 
 I read books on my Nokia Lumia and my iPad using [Kindle][kindle-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 If I could, I would have one computer for everything. It would be a tablet that ran all the software I've mentioned above, and worked with a pen, for sketching in an app like [Paper][paper-ios]. I like to be mobile when I work, especially for sketching and writing down notes. The more I could treat it like a sketchbook, the better. But, it would wirelessly connect to a keyboard, mouse, and a large display - let's say 30" - at my desk, for getting the kind of stuff done that's hard to get done with just a finger on a touch screen.

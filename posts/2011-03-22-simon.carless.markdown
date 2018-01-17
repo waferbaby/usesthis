@@ -6,11 +6,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](http://www.simoncarless.com/ "Simon's personal website.") based in San Francisco, and I oversee the four worldwide [Game Developers Conference](http://www.gdconf.com/ "The GDC.") events, encompassing the [Independent Games Festival](http://www.igf.com/ "The IGF."). I also run a suite of video game-related websites which include 'art and business of games' site [Gamasutra](http://www.gamasutra.com/ "A website about the art and business of games.") and alt.game weblog [GameSetWatch](http://www.gamesetwatch.com/ "A game weblog.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Although indie games, my love, aren't very hardware intensive, my main home PC is a [VoodooPC HP Firebird 803][firebird]. (It's kind of a cop-out overdesigned gaming PC for people who don't have the patience to build their own, which suits me fine!) With a widescreen [Asus VE245TL][ve245tl] 24-inch monitor, it keeps me multitasking fairly efficiently.
 
@@ -30,7 +30,7 @@ And (do I win the 'largest piece of hardware ever listed on UsesThis' award?) I 
 
 (The Japanese mini-arcade cabinets are a bit difficult to find in the States, but they're much nicer to have in the home, because they're more aesthetically pleasing and easier to switch boards out. They also tend to have higher-quality components like monitors than the generic Western arcade cabinets, which are often older. Mini-thesis on arcade machines over. And don't you DARE think about making a MAME cabinet.)
 
-#### And what software?
+### And what software?
 
 Since most of what I do is talking to people and writing words down, [Mozilla Firefox][firefox] is pretty much open at all times on any computer that I'm using, PC or Mac. Within that, communication is key, so my fellow Gamasutra editors and I find [Campfire][] to be invaluable for group chat and organizing - the comprehensive searchable logs are particularly useful.
 
@@ -54,7 +54,7 @@ The same bite-sized social experience is true of Xbox Live Arcade titles like [P
 
 I also just picked up [Disney Epic Mickey][epic-mickey] for Wii, since I'm enthused about the amazing amount of Disney lore that Warren Spector, its creator, has poured lovingly into it, and I'm going to see if I can overlook the apparently semi-terrible third person camera system. And I very much enjoy [Rock Band 3][rock-band] for Xbox 360 in 'Pro Keyboard' mode and the keyboard peripheral, since I used to play piano as a kid. It's fiendishly difficult at times (sight-reading without being able to see the keys and the screen at the same time), but c'mon, playing along to 'Everybody Wants To Rule The World' by Tears For Fears? That's some great software. :)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm not sure I have a dream setup, as such. I'd like to migrate to a nicer Mac laptop - and I'd really like all my laptops to be Macs, since they seem to be so much more essentially pleasant than Windows laptops.
 

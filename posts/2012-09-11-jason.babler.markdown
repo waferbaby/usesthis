@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Jason Babler](http://www.mantlestudios.com/ "Jason's website."). I'm the Creative Director at [MAKE](http://makezine.com/ "A DIY magazine."), essentially in charge of design, branding and video production for all of Make: Magazine, online properties and of course, Maker Faire. In my spare time, I sculpt monsters.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I design with a [MacBook Pro][macbook-pro], with a [LaCie 324i][324i] screen for photo color correction. My mouse is a [Logitech M510 wireless][m510], fully mapped with hotkeys. I use a Belkin USB hub for all my My Passports (I neurotically make redundant backups now). When I illustrate, I use my [Cintiq 12WX][cintiq] tablet. When I shoot, I use a [Canon EOS Rebel T2i][eos-rebel-t2i].
 
@@ -23,13 +23,13 @@ I airbrush with an [Iwata HP-C Plus airbrush][hp-c-plus] and use variety of craf
 
 For staying alive on the road, nothing beats my [iPhone 4S][iphone-4s].
 
-#### And what software?
+### And what software?
 
 Adobe CS6 for design ([Photoshop][], [InDesign][] and [Illustrator][]). I am teaching myself [Zbrush][] for 3D modeling with hopes to not only create 3D models for work-related stories but also to create 1/6 scale statues. I also use [Maya][] for hard-surface models (and for the iPhone games I've created), but I haven't touched it in a while, now that I have Engineering interns at MAKE.
 
 [Transmit][] for FTP serves me well to this day. [OS X Mail][mail] for sorting through 8 email addresses. I'd be lost with [Dropbox][] to work on projects with people remotely. [Yojimbo][] is my junk box and I simply throw screenshots, PDFs and other riffraff into it for future ideas. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The Cintiq 24HD touch is the top of my list. Give me a fully loaded MacBook Pro with Retina display and set me lo. 
 

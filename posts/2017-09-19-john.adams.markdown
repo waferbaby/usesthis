@@ -12,7 +12,7 @@ credits:
   url: https://www.flickr.com/photos/violetblue/7370332628/
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is John Adams, and I am a security researcher, sound designer, videographer/photographer, and lover of electronics. I've been doing this since my dad showed me a working radio when I was young.
 
@@ -22,7 +22,7 @@ I spent my last year building the "[Ides of DEF CON](https://dc25spqr.com/ "A ha
 
 In addition to all of this, I am on the advisory board of [Open Technology Fund](https://www.opentech.fund/ "A group supporting Internet freedom projects.") and I'm a speaker, fellow, and videographer for [Odd Salon](https://www.oddsalon.com/ "A series of lectures in San Francisco."), a monthly talk series on odd things -- "Expert Talks on Odd Topics. Odd Talks on everything else!"
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I've got a small recording studio at home. It consists of a large [ProStation][], on a desk manufactured by Omnirax. It's filled with quite a bit of audio production gear:
 
@@ -90,7 +90,7 @@ My daily carry is a [MacBook Pro][macbook-pro], and sometimes if I'm traveling, 
 
 I nearly always carry the following: A pair of [Ultimate Audio UE-7 headphones][ue-7-pro], a Sharpie, a roll of Board Tape (aka Artist's Tape), a Gerber Multitool, and a strong, bright flashlight. Batteries like many Eneloop AA's and a Mophie get me through my day.
 
-#### And what software?
+### And what software?
 
 Daily software / security work:
 
@@ -110,7 +110,7 @@ Video/Photo:
 - Adobe Lightroom
 - [Adobe After Effects][after-effects]
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think for the most part I'm there. There are a few more things I want but there's very little that I think I need to survive these days. The room is really, really excellent to work in. I could use some sound proofing / sound treatment in here, and I'd really like it if my HOA allows me to tear out the windows and install a roof deck, but hey, it's great in here.
 

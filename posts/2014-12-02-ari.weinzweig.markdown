@@ -6,11 +6,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Ari Weinzweig. Co-founding partner of [Zingerman's Community of Businesses](http://www.zingermanscommunity.com/ "The Zingerman's website.") in Ann Arbor.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I love books. Although reading articles works fine online, I really prefer holding a book in my hand. The paper, the smell, the feel of it is all part of the experience. Just finished reading a hardcover first edition of [E.F. Schumacher's](https://en.wikipedia.org/wiki/E._F._Schumacher "The Wikipedia entry for E.F. Schumacher.") *Good Work* from 1979. I have a large stack of them on my table and I keep ordering more all the time! 
 
@@ -26,10 +26,10 @@ I journal every day. I do it on a fine lined detachable legal pad and I write wi
 
 Good bread. I always carry bread with me in my shoulder bag. Just in case! Good tea. I'm a big fan of first flush Darjeeling.
 
-#### And what software?
+### And what software?
 
 Don't know? [Word][], I guess. I love the sun. Sitting outside on a summer's day is a great thing! 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Putting those together! Sitting outside in the sun writing on the computer or journaling on the legal pad, drinking good tea, nibbling on good bread.

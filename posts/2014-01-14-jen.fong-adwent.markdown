@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Jen Fong-Adwent but some people know me as Edna Piranha. I work at [Mozilla](http://mozilla.org/ "The Mozilla group's site.") on the Apps Engineering team, building mobile-friendly open sourced HTML5 apps.
 
@@ -17,7 +17,7 @@ I don't blog too often but when I do you can read my [project updates and though
 
 Most of my spare time is spent on hacking on [personal code projects and libraries](http://github.com/ednapiranha "Jen's GitHub account.") - recently I've been working with a lot of [Node.js][], [LevelDB][], [IndexedDB][] and [WebRTC][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work and personal computer usage, I have two [13" MacBook Airs][macbook-air] that I do everything on. For a while I was using a [Wacom Intuos tablet][intuos] but I've lost the pen so I'll have to get a replacement soon.
 
@@ -29,7 +29,7 @@ For mobile devices, I have an [iPhone 5s][iphone-5s] that I use everyday as my d
 
 For location-based devices, I have a [Garmin Forerunner 210][forerunner-210] that I use for tracking trail running, street running and hiking.
 
-#### And what software?
+### And what software?
 
 I do all my local coding on projects using [Sublime Text 2][sublime-text] and all my remote server editing with [Vim][].
 
@@ -41,6 +41,6 @@ For social apps, I primarily use Meatspace Chat, Twitter and [Adium][].
 
 For password management, I use [1Password][] to generate passwords for all the random sites I sign up to.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I would love to have an external monitor like an [Apple Thunderbolt display][thunderbolt-display] at home and a 13" [MacBook Pro][macbook-pro] with Retina display. Actually, having a couple of these simultaneously would be cool.

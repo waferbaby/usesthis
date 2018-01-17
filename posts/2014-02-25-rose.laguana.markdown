@@ -6,11 +6,11 @@ categories:
 - musician
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Rose Laguaña](http://roselaguana.com/ "Rose's website.") and I'm a working musician.  
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main guitar is a [PRS custom 24 Dave Navarro signature series][dave-navarro-signature], a [PRS custom 24 Standard Satin][standard-satin-24], a [Fender Standard Telecaster][standard-telecaster], a [Gibson SG][sg-gothic-morte] with EMG pickups, a [Seagull acoustic/electric][entourage-cw-gt-qi], a Martin acoustic, and a [Lanikai ukulele][ck-c-concert-size] (koa wood/concert series). I use GHS Boomer strings - .010's. 
 
@@ -38,11 +38,11 @@ Instrument cables are Mogami cables w/ copper connectors. [Pedaltrain][pedaltrai
 
 Recording hardware: [15" MacBook Pro][macbook-pro], [Apogee Duet 2][duet-2] (interface), [Sony headphones][mdr-7502], Mogami cables.
 
-#### And what software?
+### And what software?
 
 Pretty straightforward - [Pro Tools][pro-tools] and/or [GarageBand][]. I also use [Garageband on my iPad][garageband-ios] with [JamUp Pro XT][jamup-pro-xt-ios] and [Audiobus][audiobus-ios]. What I appreciate most about my iPad setup is that I can comfortably make as much noise as I want through my headphones and not have to deal with angry neighbors. But of course you can only do so much using headphones. It's great for laying down ideas and continuing to hone your craft, especially when you're on the go. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I think right now I have it for the most part BUT, since there's always a constant change in taste when it comes to the process of growing and learning I'll give it a go on the wish list... 
 

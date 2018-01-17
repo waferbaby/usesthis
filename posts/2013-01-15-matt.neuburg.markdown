@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Matt Neuburg](http://www.apeth.net/matt/default.html "Matt's website."). I used to be a Classics professor (you know, Greek and Latin and other dead languages), but now I'm a computer programmer, and I write, especially about computer programming. I've written several large books about various programming languages, all published by O'Reilly Media. My most recent book is [Programming iOS 5](http://shop.oreilly.com/product/0636920023562.do "Matt's iOS programming book."). I also write software documentation, such as the [online help](http://www.apeth.com/sd5help/index.html "The online manual for Script Debugger.") for [Script Debugger][script-debugger]. Plus I'm a contributing editor for [TidBITS](http://tidbits.com/ "The TidBITS website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My current desktop machine is a [Mac mini][mac-mini] (early 2009). It's a little long in the tooth, I suppose, but it's dead quiet, has FireWire (I'm loaded with FireWire backup drives), has a SuperDrive slot, and leaves me free to choose my own keyboard, trackball, and monitor.
 
@@ -22,7 +22,7 @@ My current main monitor is an [HP ZR24w][zr24w]. It's pretty easy on the eyes. B
 
 I use a knee chair and I get up often, usually to make myself another tiny cup of coffee from my trusty [Pavoni Napolitana][napolitana].
 
-#### And what software?
+### And what software?
 
 I write in plain text, lightly marked up, using [TextMate][]; TextMate is also where I code in [Ruby][], my favorite programming language. O'Reilly wants its books in [DocBook][] format, so I use [AsciiDoc][] by means of the [AsciiDoc TextMate bundle][asciidoc-textmate]. When producing Web pages (software documentation or my own Web sites), I use a TextMate tool I wrote myself, [RubyFrontier][] (written in Ruby, and modeled after [UserLand Frontier][frontier]); naturally I take advantage of whatever cool Ruby tools are available, such as kramdown.
 
@@ -32,6 +32,6 @@ Of course for iOS programming I have to use [Xcode][], but the less said about t
 
 Everything I write, whether text or code, is versioned in wonderful, wonderful [git][], which I also use (through [github][]) to open-source things, such as RubyFrontier and the [code examples from my book](https://github.com/mattneub/Programming-iOS-Book-Examples "The code examples from Matt's book.").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with my setup. Of course one always needs more RAM, a faster hard drive, a sharper monitor, and so on, but that goes on forever. However, if I could change one thing, I long for much faster broadband. The state of home Internet connectivity in this country (USA) is shameful.

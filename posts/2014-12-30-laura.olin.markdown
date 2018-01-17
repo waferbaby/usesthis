@@ -7,17 +7,17 @@ categories:
 - strategy
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I](http://www.lauraolin.com/ "Laura's website.") do digital strategy for Democratic political campaigns, media companies, and nonprofits. Before getting into consulting, I ran social media strategy for President Obama's re-election campaign, so it was my job for 19 months to tweet as [@barackobama](http://twitter.com/barackobama/ "Obama's Twitter account.") and I got paid to Tumbl so I was pretty jealous of myself. My fun braggy trivia fact for the rest of my life will probably be that a tweet and Facebook post I put up the night of the election became the most-liked and retweeted in history (until Ellen DeGeneres stole my record with her Oscars tweet - damn you, Ellen). In 2030 no one will remember what Twitter or Facebook are but I will still talk about it anyway.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I was using a [MacBook Pro][macbook-pro] during the campaign because I needed [Photoshop][] a lot to edit photos and graphics, but as soon as it was over I got a [MacBook Air][macbook-air]. My biceps are less impressive now but I am otherwise a much happier person. I've actually never owned a non-Apple computer - the first one I bought for myself, for college, was one of the candy-colored [iMacs][imac]. From there I started buying laptops.
 
 Otherwise, I've got an [iPhone 5S][iphone-5s], an iPod, and a [Kindle Fire][kindle-fire]. I'm one of those assholes who was too snobbish about paper books to get an e-reader but I've had my Kindle Fire for a year and I love it. I read so much more now than I was relying on paper books, I think because e-readers are so much easier to use on the subway. And I think it's important for people who write a lot to read a lot.
 
-#### And what software?
+### And what software?
 
 Most of what I do is writing and bugging people about things and looking at shit on the Internet and tweeting about all of the above. For writing I mostly use [TextEdit][] and [Google Docs][google-docs] and, occasionally, [Scrivener][].
 
@@ -27,7 +27,7 @@ I love the app [TeuxDeux][] for to-do lists and rely on it more than is probably
 
 I make the occasional site and am trying to learn more code, and I use [Coda][] for that.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I feel like I'm perpetually looking for note-taking apps and bookmarking apps that will let me make note of things super-quickly on whatever device I'm using at the moment while also making it really easy for me to find stuff later. I haven't come across that magic thing yet.
 

@@ -7,13 +7,13 @@ categories:
 - teacher
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jennifer Brook](http://twitter.com/jenniferbrook "Jennifer's Twitter account."), an interaction designer, book artist, and educator based in Brooklyn, NY. My current work includes research, strategy, and design for media companies and startups. I lecture about design internationally at conferences like Webstock, Úll, UX London, and teach in the school of Art, Media, and Technology at [Parsons The New School of Design](http://www.newschool.edu/parsons/ "The Parsons Design School site.") and in SVA's [MFA in Interaction Design](http://interactiondesign.sva.edu/ "SVA's Interaction Design site."). 
 
 Since last summer I've been structuring my client work to allow time for slow travel and personal projects between engagements. I'm currently in Laos, traveling with my husband by motorbike around SE Asia.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My passport, along with a debit card, is the minimum required hardware needed to make an adventure. 
 
@@ -33,7 +33,7 @@ I've been writing in urban gridded notebooks for the past three years, they're b
 
 In my electronics bag I have a [Kindle Paperwhite][kindle-paperwhite], an old [iPhone 5][iphone-5], a new [11" MacBook Air][macbook-air], a [universal converter][usb-travel-adaptor], the [Mophie Juice Pack Plus][juice-pack-plus-iphone-5], a [NEX-7][alpha-nex-7] camera with a [16mm lens][sel16f28], and an awkward pair of [Sony noise-canceling ear buds][mdr-nc13] purchased from an airport vending machine.
 
-#### And what software?
+### And what software?
 
 [Global Entry](http://www.globalentry.gov/ "The Global Entry site.") is magic. It not only speeds up getting back into the country, but allows you to zip through a special security line via [TSA Pre](http://www.tsa.gov/tsa-precheck "The TSA Pre site."), without subjecting yourself to the naked scanner, taking your shoes off, or opening your bags. Global Entry is currently vying with wet wipes for the #2 position on my necessary list. 
 
@@ -45,7 +45,7 @@ While traveling, [Mailbox][], [Simplenote][simplenote-ios], [1Password][1passwor
 
 I use [Twitter][] less when I'm traveling and [Instagram][instagram-ios] more. I love [Foursquare][foursquare-ios] for remembering places when I'm in cities and have access to wifi. It's not so great for documenting nameless (albeit delicious) street food vendors or during the multi-day wifi droughts we encounter while traveling through rural areas. I love finding new music while traveling and use [SoundHound][] to tag and identify songs and artists; its instant Karaoke feature has untapped potential. 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 We bought our motorcycles on a whim so we picked up whatever gear we could find in Hanoi, which is no small feat, considering full-face helmets and protective gear are almost unheard of in Vietnam. So I'm looking forward to upgrading the style and fit of my riding gear when I'm back in the States. 
 

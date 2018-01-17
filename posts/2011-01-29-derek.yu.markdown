@@ -9,11 +9,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name's [Derek Yu](http://www.derekyu.com/ "Derek's website.") and I'm a sometimes illustrator, rarely comicker, and [mostly game developer](http://mossmouth.com/ "Derek's game studio.")! I'm probably best known for these three games: [Eternal Daughter][eternal-daughter], [Aquaria][], and [Spelunky][]. I also run [TIGSource](http://www.tigsource.com/ "The indie game community site."), an independent games community.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm writing this on Cyberpower's [X58][] system, more or less unchanged from the default configuration. It's got an Intel Core i7-930 CPU, 6GB RAM, and an ATI Radeon HD 5750 video card.
 
@@ -25,7 +25,7 @@ For traditional drawing, I prefer [Faber-Castell PITT Artist Pen Brushes][pitt-a
 
 I also have an [HP Photosmart C4580][photosmart-c4580] All-in-One Printer/Scanner/Copier combo that I use mainly for printing boarding passes and scanning drawings. It works about as well as you would expect an All-in-One Printer/Scanner/Copier combo to work. That is to say, not well at all.
 
-#### And what software?
+### And what software?
 
 The XBLA version of Spelunky is being developed in [Microsoft Visual Studio 2008][visual-studio] (Standard Edition). The original game was created with YoYo Games' [Game Maker][game-maker], which I'm quite fond of. [Diabolika][diabolika-ios], my iPhone game, was developed in [Unity][].
 
@@ -37,6 +37,6 @@ My browser of choice is [Chrome][]. I like that you can drag tabs around without
 
 Other utility apps that I use a lot: [WinRAR][], [Notepad++][notepad-plusplus], and [Filezilla][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be completely wireless. I have a Gordian Knot of wires and cables in the middle of my bedroom and it's not only unsightly, it's kinda dangerous!
