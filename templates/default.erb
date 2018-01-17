@@ -41,11 +41,11 @@
   </script>
   </head>
   <body>
-    <header id="primary">
+    <header>
       <div>
         <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
         <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
-        <p id="tagline">What do people use to get the job done?</p>
+        <p>A collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
         <nav>
           <ul>
             <li><a href="/" title="The most recent interviews."<% if @this.url.match?('/interviews/') %> class="selected"<% end %>>Home</a></li>
