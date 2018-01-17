@@ -48,7 +48,7 @@ display: grid;
 
 body > header nav {
 border-top: solid 1px #ffcce6;
-font-size: 80%;
+font-size: 90%;
 grid-column: 1/3;
 grid-row: 2;
 margin: 10px 0 5px 0;
@@ -167,7 +167,7 @@ main > h2 + p {
 font-size: 80%;
 margin: 10px 0 20px 0;
 padding-bottom: 10px;
-border-bottom: solid 1px #ffcce6;
+border-bottom: solid 1px #eee;
 }
 
 nav li {
@@ -256,10 +256,11 @@ margin: 0 0 10px 0;
 
   body > header p {
   border: 0;
+  font-size: 90%;
   grid-column: 1;
   grid-row: 3;
   padding: 0;
-  margin: 20px 0 0 0;
+  margin: 25px 0 0 0;
   }
 
   img {
