@@ -3,13 +3,11 @@ layout: default
 title: Interviews
 ---
 
-<ul id="interviews">
-  <% @items.each do |interview| %>
-  <li class="h-card">
-    <%= render_template('shared.interview', interview: interview) %>
-  </li>
-  <% end %>
-</ul>
+<% @items.each do |interview| %>
+<article class="interviewee h-card">
+  <%= render_template('shared.interview', interview: interview) %>
+</article>
+<% end %>
 
 <% if @pagination && @pagination[:page_count] > 1 %>
   <nav id="paginator">
