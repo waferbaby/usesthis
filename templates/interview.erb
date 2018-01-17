@@ -3,9 +3,7 @@ layout: default
 ---
 
 <article class="h-card">
-  <header>
-    <%= render_template('shared.interview', interview: @this, selected: true) %>
-  </header>
+  <%= render_template('shared.interview', interview: @this, selected: true) %>
 
   <%= yield %>
 
