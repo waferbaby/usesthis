@@ -8,8 +8,17 @@ color: #fe2e9a !important;
 }
 
 a.selected,
-header#primary nav a:hover {
+body > header nav a:hover {
 border-bottom: solid 1px #fe2e9a !important;
+}
+
+article.interviewee {
+clear: left;
+}
+
+article.interviewee img {
+float: left;
+margin: 0 40px 40px 0;
 }
 
 article header {
@@ -21,15 +30,60 @@ background-color: #fff;
 color: #000;
 font-family: -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
 font-size: 1.2em;
-line-height: 1.7em;
+line-height: 1.3em;
 margin: 0;
 padding: 0;
+}
+
+body > header {
+background-color: #ffe6f3;
+border-bottom: solid 1px #ffcce6;
+margin-bottom: 25px;
+padding-top: 20px;
+}
+
+body > header div {
+display: grid;
+}
+
+body > header nav {
+border-top: solid 1px #ffcce6;
+font-size: 80%;
+grid-column: 1/3;
+grid-row: 2;
+margin: 10px 0 5px 0;
+padding: 10px 0;
+text-transform: uppercase;
+}
+
+body > header nav a {
+border-bottom: solid 1px #000;
+color: #000;
+text-decoration: none;
+}
+
+body > header p {
+border-left: solid 1px #ffcce6;
+color: #666;
+font-size: 70%;
+margin-left: 50px;
+padding: 0 15px;
 }
 
 dd {
 display: block;
 font-size: 80%;
 margin: 5px 0 20px 0;
+}
+
+div,
+main {
+margin: auto;
+max-width: 600px;
+}
+
+main p {
+line-height: 1.7em;
 }
 
 dt {
@@ -60,75 +114,60 @@ padding: 0;
 margin: 10px 0;
 }
 
-h1,
-h2 {
+h1 {
+align-self: center;
 color: #fe2e9a;
-display: inline-block;
-font-size: 220%;
-margin: 10px 0;
+font-size: 250%;
+grid-column-start: 1;
+grid-row: 1;
+margin: 0;
 padding: 0;
 text-transform: lowercase;
-}
-
-h2:before {
-content: "/ ";
-font-weight: normal;
-padding: 0;
-color: #ffcce6;
 }
 
 h1 a {
 text-decoration: none;
 }
 
-h3 {
+h1 a:hover {
+color: #7733ff !important;
+text-decoration: underline;
+}
+
+h1 a span {
 color: #fe2e9a;
-font-size: 140%;
+}
+
+h2 {
+color: #fe2e9a;
+font-size: 160%;
+margin: 0;
+padding: 5px 0;
+}
+
+h3 {
+font-size: 120%;
 margin: 0;
 padding: 0;
 }
 
 h4 {
-font-size: 120%;
-margin: 0 0 10px 0;
-padding: 0;
-}
-
-h5 {
 font-size: 100%;
 font-weight: 600;
 margin: 20px 0 5px 0;
 padding: 0;
 }
 
-header#primary div,
-main {
-margin-left: auto;
-margin-right: auto;
-max-width: 600px;
-}
-
-header#primary {
-background-color: #ffe6f3;
-border-bottom: solid 1px #ffcce6;
-margin-bottom: 25px;
-padding: 20px 30px;
-}
-
-header#primary nav {
-font-size: 85%;
-text-transform: uppercase;
-}
-
-header#primary nav a {
-border-bottom: solid 1px #000;
-color: #000;
-text-decoration: none;
-}
-
 img {
 border: solid 1px #aaa;
 padding: 5px;
+}
+
+main > h2 + p {
+font-size: 80%;
+margin: 10px 0 20px 0;
+padding-bottom: 10px;
+border-bottom: solid 1px #ffcce6;
 }
 
 nav li {
@@ -165,14 +204,6 @@ p#licence {
 font-size: 70%;
 }
 
-p#tagline {
-color: #666;
-font-size: 80%;
-margin-bottom: 10px;
-margin-top: 0;
-padding: 0;
-}
-
 p.summary {
 margin: 5px 0;
 }
@@ -195,22 +226,6 @@ margin: 10px;
 padding: 0;
 }
 
-ul#interviews {
-list-style: none outside;
-margin: 0;
-padding: 0;
-}
-
-ul#interviews > li {
-clear: left;
-margin-bottom: 30px;
-}
-
-ul#interviews img {
-float: left;
-margin: 0 40px 40px 0;
-}
-
 ul#categories {
 display: grid;
 grid-gap: 10px 20px;
@@ -221,17 +236,30 @@ margin: 0 0 10px 0;
 
 @media all and (max-width: 750px) {
 
+  article.interviewee img {
+  float: none;
+  margin: 0;
+  width: 100%;
+  }
+
   body {
   font-size: 100%;
   }
 
-  h1,
-  h2 {
-  display: block;
+  body > header div {
+  padding: 10px 20px 0 20px;
   }
 
-  h2:before {
-  content: "";
+  body > header nav {
+  grid-row: 4;
+  }
+
+  body > header p {
+  border: 0;
+  grid-column: 1;
+  grid-row: 3;
+  padding: 0;
+  margin: 20px 0 0 0;
   }
 
   img {
@@ -246,11 +274,5 @@ margin: 0 0 10px 0;
 
   ul#categories {
   grid-template-columns: 50% 50%;
-  }
-
-  ul#interviews img {
-  float: none;
-  margin: 0;
-  width: 100%;
   }
 }
