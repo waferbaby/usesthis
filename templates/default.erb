@@ -43,8 +43,7 @@
   <body>
     <header>
       <div>
-        <h1><a href="/" title="The most recent interviews.">Uses This</a></h1>
-        <h2><% if @type == :interview %>Interview<% elsif @category %><%= @site.categories[@category].name %><% else %><%= @this.title %><% end %></h2>
+        <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
         <p>A collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
         <nav>
           <ul>
