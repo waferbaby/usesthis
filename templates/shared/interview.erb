@@ -17,8 +17,9 @@
     <h3><a href="/interviews/<%= @interview.slug %>/" title="An interview with <%= @interview.title %>." class="p-name"><%= @interview.title %></a></h3>
   <% end %>
   <p class="summary p-job-title"><%= @interview.summary %></p>
-  <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>"><%= @interview.date.strftime('%B %d, %Y') %></time>
+  <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>">Posted <%= @interview.date.strftime('%B %d, %Y') %></time>
   <nav class="categories">
+    <p>Filed under:</p>
     <ul>
     <% @interview.categories.each do |slug| %>
       <li><a href="/categories/<%= slug %>/" title="All the <%= @site.categories[slug].name %> interviews." class="p-category"><%= slug %></a></li>
