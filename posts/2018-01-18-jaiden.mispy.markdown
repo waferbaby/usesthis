@@ -1,0 +1,51 @@
+---
+title: Jaiden Mispy
+summary: Lead developer, Our World In Data
+categories:
+- developer
+- mac
+- web
+- windows
+---
+
+#### Who are you, and what do you do?
+
+My name is [Jaiden Mispy](https://mispy.me/ "Jaiden's website.")! I'm the lead developer for [Our World in Data](https://ourworldindata.org/ "An online publication tracking how living conditions are changing."), a project at the University of Oxford which explores the quantitative side of human history. We cover many different subjects, especially big global changes like [child mortality rates](https://ourworldindata.org/child-mortality/ "An OWID post on global child mortality rates."), [population growth](https://ourworldindata.org/world-population-growth/ "An OWID post on global population growth.") or [life expectancy](https://ourworldindata.org/life-expectancy/ "An OWID post on global life expectancy."). 
+
+My role is to make the work of our [research team](https://ourworldindata.org/about/#team "The research team at Our World In Data.") easier by automating tasks for them wherever possible. Having your main users also be your coworkers is a satisfying position to be in as a programmer, and everyone is super nice to me! I'd love to see more of these tech-academia collaborations happen.
+
+From day to day, I'm usually working on the code for our visualization tool [owid-grapher][], which we use for exploring the data and creating embeddable interactive charts [like this](https://ourworldindata.org/grapher/internet-users-by-world-region "A OWID post on Internet users by world region."). This system has grown pretty big: we have some 23,000 variables in the database, aggregated from a whole bunch of different public datasets.
+
+The data we see is often [surprisingly positive](https://ourworldindata.org/a-history-of-global-living-conditions-in-5-charts/ "An OWID post on the history of global living conditions.") and my worldview has become much more optimistic over the course of this job. Of course, the world also faces vast new challenges like [carbon emissions](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions/ "An OWID post on global carbon emissions."), so we cannot be complacent. I encourage thinking of humanity's past progress as motivation to push forward-- it is now conceivably within our power to eliminate [poverty](https://ourworldindata.org/extreme-poverty "An OWID post on global poverty.") and [disease](https://ourworldindata.org/eradication-of-diseases/ "An OWID post on the eradication of diseases.") entirely.
+
+In the past I've worked on a few other projects, most notably the [preprint](https://en.wikipedia.org/wiki/Preprint "The Wikipedia entry for Preprint.") peer review site [SciRate](https://scirate.com/ "A scientific collaboration network."), and my [Ruby][] twitterbot framework [twitter_ebooks][].
+
+#### What hardware do you use?
+
+My work computer is a [2016 MacBook Pro][macbook-pro], the first piece of Apple tech I've ever owned! I like that I can install most webdev stuff natively using [Homebrew][] and don't need to fuss with VMs as much anymore. Not sure if it is worth the huuuge price tag though: it's my most expensive physical possession by far.
+
+I usually work from home with the MacBook connected to an Asus external monitor, a Razer mechanical keyboard (nice clicky sounds!), and a cheap Microsoft mouse. The new Macbooks do need a lot of USB-C adapters to connect external hardware: I use a [HyperDrive Hub][hyperdrive-usb-c-5-in-1-hub].
+
+I also have an older [Windows 10][windows-10] PC I use for gaming and testing things in Internet Explorer or Edge. It bluescreens a lot so I should really replace it one of these days...
+
+#### And what software?
+
+I write a lot of [TypeScript][] using [Visual Studio Code][visual-studio-code], both tools I discovered earlier this year and really love. I can't imagine how I ever lived without type-based editor autocompletion. It works best in TypeScript, but even if you're writing plain [JavaScript][], VSCode makes a valiant effort at it by automatically downloading type declarations for libraries when they're available.
+
+I've gone through a lot of different frameworks and libraries-- my particular favorites right now are [MobX][] and [Preact][]. These both solve very broad, abstract problems. Mobx lets me do reactive data processing, e.g. parsing a CSV file and transforming it based on some options into JSON. Preact takes the output of that and efficiently updates the SVG in our visualizations using the new data. They're excellent building blocks for frontend development.
+
+I'm a big fan of [Netlify][] and would host everything there if I could. Static sites on Netlify are fast, scalable, and need very little security or maintenance work. It's great!
+
+When I absolutely need a server, I fall back to [DigitalOcean][] droplets running [Ubuntu][] and use a [Cloudflare][] CDN caching layer to minimize the risks involved. This is how ourworldindata.org currently works: a small backend server and then a lot of s-maxage headers to offload most requests to Cloudflare.
+
+Since the OWID team is distributed around the world, we use [Slack][] for general communication and [Basecamp][] for organizing tasks. I recently discovered that you can integrate DigitalOcean's monitoring alerts with Slack to get messages about problems like excessive CPU consumption, which is handy!
+
+My life is deeply entwined with [Twitter](https://twitter.com/m1sp "Jaiden's Twitter account."), for better or worse. The bird website is how I found my current job, my wonderful boyfriend, and many of the people I'm closest to. My main client is [TweetDeck][] and I use lots of different accounts, lists, mutes and search filters to extract happiness from the chaos.
+
+#### What would be your dream setup?
+
+Owning one of every device with every major browser for testing would be nice...
+
+More realistically, I'd love to have an [iPad Pro][ipad-pro] or a similar tablet I can easily do little sketches and mockups with. My art and design skills aren't anywhere near as good as my programming, and it'd be great to practice more of that side of things.
+
+As for software, my "dream setup" is really just a question of making everything I want to make. I'd love for all of ourworldindata.org to be a statically generated PWA universal Preact site hosted on Netlify which lets you do fine-grained filtering of a full annotated database by topic and region with beautiful responsive variable-height interactive visualizations... maybe one day!
