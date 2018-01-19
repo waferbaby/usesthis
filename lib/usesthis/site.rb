@@ -36,7 +36,7 @@ module UsesThis
       end
     end
 
-    def publish_files
+    def publish_pages
       Api::InterviewsGenerator.generate(self)
       Api::CategoriesGenerator.generate(self)
       Api::WaresGenerator.generate(self)
