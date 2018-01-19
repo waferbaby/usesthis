@@ -3,7 +3,7 @@ GEM
   specs:
     codeclimate-test-reporter (1.0.8)
       simplecov (<= 0.13)
-    dimples (4.2.0)
+    dimples (4.3.0)
       tilt (~> 2.0)
       trollop (~> 2.1)
     docile (1.1.5)
@@ -12,7 +12,7 @@ GEM
       multipart-post (>= 1.2, < 3)
     json (2.1.0)
     little-fixtures (0.0.1)
-    minitest (5.10.3)
+    minitest (5.11.1)
     mongoose (0.2.5)
     multipart-post (2.0.0)
     rake (12.3.0)
