@@ -10,8 +10,7 @@ title: Interviews
 <% else %>
   There <% if @pagination[:item_count] > 1 %>are<% else %>is<% end %> currently
 <% end %>
-  <%= @pagination[:item_count] %> interview<%if @pagination[:item_count] > 1 %>s<% end %>
-  <% if @category %> in this category<% end %><% if @archive_type %> this <%= @archive_type %><% end %>.
+  <%= @pagination[:item_count] %> interview<%if @pagination[:item_count] > 1 %>s<% end %><% if @category %> in this category<% end %><% if @archive_type %> this <%= @archive_type %><% end %>.
 </p>
 
 <% @items.each do |interview| %>
