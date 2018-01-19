@@ -6,7 +6,7 @@
       "attributes": {
         "name": "Interviewee",
         "summary": "Testy McTestFace",
-        "date": "2017-01-01T00:00:00+00:00",
+        "date": "2017-01-01",
         "categories": ["mac", "software"],
         "credits": "",
         "contents": "### Who are you, and what do you do?\n\nGood question.\n\n### What hardware do you use?\n\nA [laptop][] and a [phone][].\n\n### And what software?\n\nThe best [image editor][image-editor] out there. And the best [text editor][text-editor].\n\n### What would be your dream setup?\n\nThis is pretty much it.\n\n[laptop]: http://www.example.com/laptop/ \"A laptop.\"\n[phone]: http://www.example.com/phone/ \"A phone.\"\n[image-editor]: http://www.example.com/image-editor/ \"An image editor.\"\n[text-editor]: http://www.example.com/text-editor/ \"A text editor.\"",
