@@ -1,9 +1,18 @@
 ---
 layout: default
+title: Interviews
 ---
 
-<h2><% if @category %><%= @site.categories[@category].name %><% else %>Interviews<% end %></h2>
-<p>There <%if @pagination[:item_count] > 1 %>are<% else %>is<% end %> currently <%= @pagination[:item_count] %> interview<%if @pagination[:item_count] > 1 %>s<% end %><% if @category %> in this category<% end %>.</p>
+<h2><%= @this.title %></h2>
+<p>
+<% if @archive_date && @archive_date < @site.latest_post.date %>
+  There <% if @pagination[:item_count] > 1 %>were<% else %>was<% end %>
+<% else %>
+  There <% if @pagination[:item_count] > 1 %>are<% else %>is<% end %> currently
+<% end %>
+  <%= @pagination[:item_count] %> interview<%if @pagination[:item_count] > 1 %>s<% end %>
+  <% if @category %> in this category<% end %><% if @archive_type %> this <%= @archive_type %><% end %>.
+</p>
 
 <% @items.each do |interview| %>
 <article class="interviewee h-card">
