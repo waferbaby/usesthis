@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Uses This<% if @this.title %> / <%= @this.title %><% end %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
+    <title>Uses This / <%= @this.title %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
@@ -21,7 +21,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
     <meta name="twitter:creator" content="@waferbaby" />
-    <meta name="twitter:title" content="Uses This: <%= @this.title %>" />
+    <meta name="twitter:title" content="Uses This / <%= @this.title %>" />
     <meta name="twitter:description" content="<%= @this.summary %>" />
     <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= @this.slug %>/portrait.jpg" />
     <meta name="twitter:label1" content="Published" />
