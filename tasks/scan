@@ -23,13 +23,11 @@ Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
     when 200
       puts 'All good.'
     when (301..308)
-      new_url = response.headers['location']
+      data['url'] = response.headers['location']
 
-      data['url'] = if new_url[0] == '/'
-                      "#{source_url.scheme}://#{source_url.host}#{new_url}"
-                    else
-                      new_url
-                    end
+      if data['url'].start_with?('/')
+        data['url'] = "#{source_url.scheme}://#{source_url.host}#{data['url']}"
+      end
 
       puts 'Updated (redirected).'
     when 404
@@ -38,10 +36,7 @@ Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
     else
       puts "Ignoring (#{response.status})"
     end
-  rescue Faraday::ConnectionFailed,
-         Faraday::TimeoutError,
-         Faraday::SSLError,
-         Zlib::DataError
+  rescue Faraday::ClientError, Zlib::DataError
     puts 'Connection failed - ignoring.'
   rescue URI::InvalidURIError
     data['error'] = 'Invalid URL'
