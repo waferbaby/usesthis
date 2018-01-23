@@ -14,7 +14,7 @@ My name is [Zach Gage](http://www.stfj.net/ "Zach's website."), I make videogame
 
 #### What hardware do you use?
 
-I actually just did a total overhaul on my extremely-aged digital setup a few months ago so it's all probably a little boring --- I use a [13" 2017 MacBook Pro][macbook-pro], a [5K LG UltraFine display][ultrafine-5k]. I prop my MacBook up on an old [IndieBox](hhttps://store.theindiebox.com/ "An indie game subscription service.") box. I keep cool with a [Vornado Zippi fan][zippi] which was harvested from a friend's company when they moved offices. It sounds exactly like a physical hard-drive reading and writing a ton of data when it's on. I also have an old Vew-Do balance board for keeping me focused on long calls. 
+I actually just did a total overhaul on my extremely-aged digital setup a few months ago so it's all probably a little boring --- I use a [13" 2017 MacBook Pro][macbook-pro], a [5K LG UltraFine display][ultrafine-5k]. I prop my MacBook up on an old [IndieBox](https://store.theindiebox.com/ "An indie game subscription service.") box. I keep cool with a [Vornado Zippi fan][zippi] which was harvested from a friend's company when they moved offices. It sounds exactly like a physical hard-drive reading and writing a ton of data when it's on. I also have an old Vew-Do balance board for keeping me focused on long calls. 
 
 I work at a standing desk that is built out of a desk my dad made a long time ago with some MultiTable legs on it. I use a [Drobo 5N2][5n2] for backup.
 
