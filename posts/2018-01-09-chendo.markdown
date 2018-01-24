@@ -12,7 +12,7 @@ categories:
 
 Hey! My name is [Jack Chen](https://chen.do/ "Jack's website."), but I'm mostly known as 'chendo' on and off the internet. I love solving problems, building products, and working with technology.
 
-I build things at [Ferocia](https://www.ferocia.com.au/ "An financial software company."), currently building a new digital-first banking experience named [Alt][]. Before that, I was the CTO of a [telemedicine startup][mydr-go], and built the cloud backend for connected lighting at [LIFX](https://www.lifx.com.au/ "A connected lighting company.").
+I build things at [Ferocia](https://www.ferocia.com.au/ "An financial software company."), currently building a new digital-first banking experience named [Up][up.2]. Before that, I was the CTO of a [telemedicine startup][mydr-go], and built the cloud backend for connected lighting at [LIFX](https://www.lifx.com.au/ "A connected lighting company.").
 
 For fun, I like to build things, go fast in go karts, and play video games. My usual creative outlet is photography.
 
