@@ -24,7 +24,6 @@ margin: 0 40px 40px 0;
 article header {
 padding-bottom: 20px;
 margin-bottom: 20px;
-border-bottom: solid 1px #eee;
 }
 
 body {
@@ -224,7 +223,8 @@ padding: 20px;
 }
 
 span.summary {
-font-size: 80%;
+font-size: 75%;
+color: #888;
 }
 
 time {
@@ -242,6 +242,7 @@ padding: 0;
 
 ul#categories {
 display: grid;
+font-size: 90%;
 grid-gap: 10px 20px;
 grid-template-columns: 33% 33% 33%;
 list-style: none outside;
