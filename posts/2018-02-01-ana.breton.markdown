@@ -1,0 +1,24 @@
+---
+title: Ana Breton
+summary: Digital producer (Full Frontal with Samantha Bee)
+categories:
+- mac
+- producer
+- video
+---
+
+#### Who are you, and what do you do?
+
+My name is [Ana Breton](http://www.anabretonfilms.com/ "Ana's website.") and I'm a Digital Producer for Full Frontal with Samantha Bee. I film and edit videos, take behind the scenes photos, and co-manage our show's social media accounts and website. 
+
+#### What hardware do you use?
+
+At work I edit on a [Mac Pro][mac-pro] desktop and two Samsung monitors; at home I work on a 27" [iMac][]; and on the road I edit on a 17" [MacBook Pro][macbook-pro]. For filming, I use a [Canon EOS C300][eos-c300] with Canon lenses; for photos I use the [Canon 5D Mark III][eos-5d-mark-iii]. If Apple or Canon people are reading this, please send me free stuff. I love you. 
+
+#### And what software?
+
+For Full Frontal with Samantha Bee, I edit videos on [Avid Media Composer][media-composer]. I edit photos in [Lightroom][] and make mockups in [Photoshop][]. For script-writing, we use [Scripto][], which allows our entire team to collaborate at the same time. At home, I edit freelance projects on [Premiere Pro][premiere-pro] under a Snuggie. 
+
+#### What would be your dream setup?
+
+My ideal set up: for filming, a small studio with a green screen, white cyc, and endless equipment to play with. For editing, as many monitors as humanly possible. I love monitors. If you're someone who makes monitors, well, you know what to do.
