@@ -1,6 +1,7 @@
 ---
 title: Aarthi Ramamurthy
 summary: Founder (Lumoid)
+layout: interview
 categories:
 - developer
 - mac

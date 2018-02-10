@@ -1,6 +1,7 @@
 ---
 title: Courtney Stanton
 summary: Co-founder (Feel Train), podcaster
+layout: interview
 categories:
 - podcaster
 - windows

@@ -1,6 +1,7 @@
 ---
 title: Justin Morgan
 summary: Professional snowboarder
+layout: interview
 categories:
 - athlete
 ---

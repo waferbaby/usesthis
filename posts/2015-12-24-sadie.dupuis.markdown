@@ -1,6 +1,7 @@
 ---
 title: Sadie Dupuis
 summary: Musician (Speedy Ortiz), poet
+layout: interview
 categories:
 - mac
 - musician

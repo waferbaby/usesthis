@@ -1,6 +1,7 @@
 ---
 title: Darby Thomas
 summary: Product designer (Patreon)
+layout: interview
 categories:
 - designer
 - web

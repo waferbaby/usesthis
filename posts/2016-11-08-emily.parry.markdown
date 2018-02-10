@@ -1,6 +1,7 @@
 ---
 title: Emily Parry
 summary: Subversive cross-stitcher (Institchingly)
+layout: interview
 categories:
 - crafter
 - mac

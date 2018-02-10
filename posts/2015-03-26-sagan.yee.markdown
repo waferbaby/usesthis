@@ -1,6 +1,7 @@
 ---
 title: Sagan Yee
 summary: Animator, indie game artist
+layout: interview
 categories:
 - animator
 - game

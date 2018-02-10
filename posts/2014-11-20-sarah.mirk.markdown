@@ -1,6 +1,7 @@
 ---
 title: Sarah Mirk
 summary: Journalist, editor (Bitch)
+layout: interview
 categories:
 - editor
 - journalist

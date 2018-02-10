@@ -1,6 +1,7 @@
 ---
 title: Khoi Vinh
 summary: Designer director (NYTimes.com)
+layout: interview
 categories:
 - designer
 - mac

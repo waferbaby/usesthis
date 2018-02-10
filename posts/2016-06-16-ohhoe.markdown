@@ -1,6 +1,7 @@
 ---
 title: Rachel White
 summary: Front-end engineer (IBM Watson)
+layout: interview
 categories:
 - developer
 - mac

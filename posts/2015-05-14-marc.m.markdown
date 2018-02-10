@@ -1,6 +1,7 @@
 ---
 title: Marc M
 summary: Animator (Sick Animation), musician
+layout: interview
 categories:
 - animator
 - musician

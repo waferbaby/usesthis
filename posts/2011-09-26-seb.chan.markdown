@@ -1,6 +1,7 @@
 ---
 title: Seb Chan
 summary: Head of Digital, Powerhouse Museum
+layout: interview
 categories:
 - mac
 - musician

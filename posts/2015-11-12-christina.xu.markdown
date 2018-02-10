@@ -1,6 +1,7 @@
 ---
 title: Christina Xu
 summary: Ethnographer, organizational designer
+layout: interview
 categories:
 - designer
 - mac

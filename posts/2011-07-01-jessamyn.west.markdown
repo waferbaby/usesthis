@@ -1,6 +1,7 @@
 ---
 title: Jessamyn West
 summary: Librarian, MetaFilter community manager
+layout: interview
 categories:
 - community
 - librarian

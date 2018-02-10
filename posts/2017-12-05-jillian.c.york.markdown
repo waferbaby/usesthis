@@ -1,6 +1,7 @@
 ---
 title: Jillian C. York
 summary: Writer, Activist (EFF)
+layout: interview
 categories:
 - activist
 - mac

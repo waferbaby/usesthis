@@ -1,6 +1,7 @@
 ---
 title: Crystal Beasley
 summary: User experience designer (Mozilla)
+layout: interview
 categories:
 - designer
 - interface

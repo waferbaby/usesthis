@@ -1,6 +1,7 @@
 ---
 title: Chris Remo
 summary: Game designer, composer (Campo Santo), podcaster (Idle Thumbs)
+layout: interview
 categories:
 - designer
 - game

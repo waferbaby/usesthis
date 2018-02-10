@@ -1,6 +1,7 @@
 ---
 title: Raymond Gangstad
 summary: Colorist, online artist (Shortcut Oslo)
+layout: interview
 categories:
 - mac
 - television

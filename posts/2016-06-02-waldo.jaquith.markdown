@@ -1,6 +1,7 @@
 ---
 title: Waldo Jaquith
 summary: Designer, developer, director (U.S. Open Data)
+layout: interview
 categories:
 - designer
 - developer

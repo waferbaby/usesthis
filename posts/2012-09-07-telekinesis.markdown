@@ -1,6 +1,7 @@
 ---
 title: Michael Benjamin Lerner
 summary: Musician (Telekinesis)
+layout: interview
 categories:
 - mac
 - musician

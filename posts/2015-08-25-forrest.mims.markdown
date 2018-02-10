@@ -1,6 +1,7 @@
 ---
 title: Forrest M. Mims III
 summary: Freelance writer, photographer, science consultant
+layout: interview
 categories:
 - photographer
 - teacher

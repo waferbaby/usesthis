@@ -1,6 +1,7 @@
 ---
 title: John Siracusa
 summary: Programmer, writer (Ars Technica)
+layout: interview
 categories:
 - developer
 - mac

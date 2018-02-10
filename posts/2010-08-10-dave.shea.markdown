@@ -1,6 +1,7 @@
 ---
 title: Dave Shea
 summary: Designer, illustrator
+layout: interview
 categories:
 - artist
 - designer

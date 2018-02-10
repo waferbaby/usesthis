@@ -1,6 +1,7 @@
 ---
 title: Chris Darden
 summary: Board game designer (Dungeon Roll)
+layout: interview
 categories:
 - game
 - windows

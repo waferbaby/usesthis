@@ -1,6 +1,7 @@
 ---
 title: Alex Payne
 summary: API developer (Twitter)
+layout: interview
 categories:
 - developer
 - mac

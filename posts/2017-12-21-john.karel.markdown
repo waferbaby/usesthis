@@ -1,6 +1,7 @@
 ---
 title: John Karel
 summary: Freelance computer animator
+layout: interview
 categories:
 - animator
 - mac

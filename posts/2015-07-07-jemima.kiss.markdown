@@ -1,6 +1,7 @@
 ---
 title: Jemima Kiss
 summary: Head of technology (Guardian)
+layout: interview
 categories:
 - editor
 - mac

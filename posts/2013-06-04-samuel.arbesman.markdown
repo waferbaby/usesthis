@@ -1,6 +1,7 @@
 ---
 title: Samuel Arbesman
 summary: Writer, complexity scientist
+layout: interview
 categories:
 - mac
 - scientist

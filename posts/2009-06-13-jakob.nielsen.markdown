@@ -1,6 +1,7 @@
 ---
 title: Jakob Nielsen
 summary: Usability specialist (Nielsen Group)
+layout: interview
 categories:
 - designer
 - usability

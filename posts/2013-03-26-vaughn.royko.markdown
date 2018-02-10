@@ -1,6 +1,7 @@
 ---
 title: Vaughn Royko
 summary: Web designer, indie game developer
+layout: interview
 categories:
 - developer
 - game

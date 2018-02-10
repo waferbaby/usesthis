@@ -1,6 +1,7 @@
 ---
 title: Elaine Short
 summary: Writer, editor, cartoonist
+layout: interview
 categories:
 - cartoonist
 - editor

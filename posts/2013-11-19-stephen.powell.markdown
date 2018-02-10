@@ -1,6 +1,7 @@
 ---
 title: Stephen Powell
 summary: Co-founder, Gustin
+layout: interview
 categories:
 - fashion
 - mac

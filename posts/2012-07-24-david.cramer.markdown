@@ -1,6 +1,7 @@
 ---
 title: David Cramer
 summary: Developer, infrastructure nerd (DISQUS)
+layout: interview
 categories:
 - developer
 - mac

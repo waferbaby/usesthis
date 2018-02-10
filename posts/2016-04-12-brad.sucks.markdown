@@ -1,6 +1,7 @@
 ---
 title: Brad Sucks
 summary: Musician
+layout: interview
 categories:
 - mac
 - musician

@@ -1,6 +1,7 @@
 ---
 title: Abby Seymour
 summary: Bookbinder, jewelry maker
+layout: interview
 categories:
 - artist
 - bookbinder

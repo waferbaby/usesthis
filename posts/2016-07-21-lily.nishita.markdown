@@ -1,6 +1,7 @@
 ---
 title: Lily Nishita
 summary: Graphic designer, illustrator (Naughty Dog)
+layout: interview
 categories:
 - designer
 - game

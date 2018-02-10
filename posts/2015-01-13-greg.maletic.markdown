@@ -1,6 +1,7 @@
 ---
 title: Greg Maletic
 summary: Developer (Panic), illustrator
+layout: interview
 categories:
 - designer
 - developer

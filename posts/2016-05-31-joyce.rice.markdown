@@ -1,6 +1,7 @@
 ---
 title: Joyce Rice
 summary: Cartoonist, creative director (Symbolia)
+layout: interview
 categories:
 - cartoonist
 - developer

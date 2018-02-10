@@ -1,6 +1,7 @@
 ---
 title: Chanda Prescod-Weinstein
 summary: Theoretical cosmologist
+layout: interview
 categories:
 - mac
 - scientist

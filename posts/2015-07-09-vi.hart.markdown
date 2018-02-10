@@ -1,6 +1,7 @@
 ---
 title: Vi Hart
 summary: Mathemusician, philosopher
+layout: interview
 categories:
 - editor
 - linux

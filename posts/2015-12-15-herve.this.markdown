@@ -1,6 +1,7 @@
 ---
 title: Hervé This
 summary: Physical chemist, co-creator of molecular gastronomy
+layout: interview
 categories:
 - food
 - linux

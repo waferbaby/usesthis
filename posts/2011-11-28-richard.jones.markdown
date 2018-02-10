@@ -1,6 +1,7 @@
 ---
 title: Richard Jones
 summary: Developer (Last.fm, IRCCloud)
+layout: interview
 categories:
 - developer
 - linux

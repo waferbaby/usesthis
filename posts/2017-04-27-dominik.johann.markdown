@@ -1,6 +1,7 @@
 ---
 title: Dominik Johann
 summary: Designer and illustrator, Crows Crows Crows
+layout: interview
 categories:
 - designer
 - game

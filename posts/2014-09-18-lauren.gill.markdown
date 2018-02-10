@@ -1,6 +1,7 @@
 ---
 title: Lauren Gill
 summary: Pastry diva, facilitator of weirdness (Ag47)
+layout: interview
 categories:
 - artist
 - baker

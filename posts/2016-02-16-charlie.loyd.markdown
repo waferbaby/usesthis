@@ -1,6 +1,7 @@
 ---
 title: Charlie Loyd
 summary: Geo developer, Earth fanatic (Mapbox)
+layout: interview
 categories:
 - developer
 - designer

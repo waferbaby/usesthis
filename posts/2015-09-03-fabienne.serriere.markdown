@@ -1,6 +1,7 @@
 ---
 title: Fabienne Serriere
 summary: Hardware hacker (KnitYak)
+layout: interview
 categories:
 - hacker
 - linux

@@ -1,6 +1,7 @@
 ---
 title: Rose Laguaña
 summary: Musician
+layout: interview
 categories:
 - mac
 - musician

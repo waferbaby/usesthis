@@ -1,6 +1,7 @@
 ---
 title: Dorian Taylor
 summary: Entropy schlepper, maker of toys and diversions
+layout: interview
 categories:
 - development
 - mac

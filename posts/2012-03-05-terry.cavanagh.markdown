@@ -1,6 +1,7 @@
 ---
 title: Terry Cavanagh
 summary: Indie game developer (VVVVVV)
+layout: interview
 categories:
 - developer
 - game

@@ -1,6 +1,7 @@
 ---
 title: Kate Compton
 summary: Artist, inventor
+layout: interview
 categories:
 - artist
 - developer

@@ -1,6 +1,7 @@
 ---
 title: Jenny Jiao Hsia
 summary: Indie game developer
+layout: interview
 categories:
 - developer
 - game

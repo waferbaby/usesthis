@@ -1,6 +1,7 @@
 ---
 title: Steve Klabnik
 summary: Software developer
+layout: interview
 categories:
 - developer
 - linux

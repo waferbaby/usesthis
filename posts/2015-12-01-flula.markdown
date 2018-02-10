@@ -1,6 +1,7 @@
 ---
 title: Flula
 summary: Actor, musician
+layout: interview
 categories:
 - actor
 - mac

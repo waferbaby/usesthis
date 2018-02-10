@@ -1,6 +1,7 @@
 ---
 title: Schuyler Towne
 summary: Security anthropologist, research scholar (Ronin Institute)
+layout: interview
 categories:
 - anthropologist
 - researcher

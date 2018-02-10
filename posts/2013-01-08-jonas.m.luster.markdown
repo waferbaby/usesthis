@@ -1,6 +1,7 @@
 ---
 title: Jonas M. Luster
 summary: Food scientist (el Bulli), developer
+layout: interview
 categories:
 - chef
 - developer

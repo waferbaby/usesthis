@@ -1,6 +1,7 @@
 ---
 title: Zach Gage
 summary: Game developer, artist
+layout: interview
 categories:
 - artist
 - developer

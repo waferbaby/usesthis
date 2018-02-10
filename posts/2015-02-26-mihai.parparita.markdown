@@ -1,6 +1,7 @@
 ---
 title: Mihai Parparita
 summary: Software engineer
+layout: interview
 categories:
 - developer
 - mac

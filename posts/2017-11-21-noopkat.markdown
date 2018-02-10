@@ -1,6 +1,7 @@
 ---
 title: Suz Hinton
 summary: Developer (Microsoft), hardware hacker
+layout: interview
 categories:
 - developer
 - hacker

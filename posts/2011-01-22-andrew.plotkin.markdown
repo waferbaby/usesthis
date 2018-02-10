@@ -1,6 +1,7 @@
 ---
 title: Andrew Plotkin
 summary: Hacker, IF Wizard
+layout: interview
 categories:
 - developer
 - game

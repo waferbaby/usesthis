@@ -1,6 +1,7 @@
 ---
 title: Keita Takahashi
 summary: Game designer (Katamari Damacy)
+layout: interview
 categories:
 - designer
 - game

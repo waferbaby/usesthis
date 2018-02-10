@@ -1,6 +1,7 @@
 ---
 title: Carlos Bueno
 summary: Software developer (MemSQL), writer
+layout: interview
 categories:
 - developer
 - mac

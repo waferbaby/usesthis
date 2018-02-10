@@ -1,6 +1,7 @@
 ---
 title: Charles Berret
 summary: Communications Ph.D. student (Columbia)
+layout: interview
 categories:
 - developer
 - linux

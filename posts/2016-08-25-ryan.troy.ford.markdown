@@ -1,6 +1,7 @@
 ---
 title: Ryan Troy Ford
 summary: Artist, designer, screenprinter (Ghost Press)
+layout: interview
 categories:
 - artist
 - designer

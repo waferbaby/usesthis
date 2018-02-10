@@ -1,6 +1,7 @@
 ---
 title: Joel Johnson
 summary: Writer
+layout: interview
 categories:
 - mac
 - windows

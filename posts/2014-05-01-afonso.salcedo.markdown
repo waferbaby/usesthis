@@ -1,6 +1,7 @@
 ---
 title: Afonso Salcedo
 summary: Filmmaker, photographer (Sutro Studios)
+layout: interview
 categories:
 - film
 - mac

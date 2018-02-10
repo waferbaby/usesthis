@@ -1,6 +1,7 @@
 ---
 title: David Lanham
 summary: Visual artist, iconographer (The Iconfactory)
+layout: interview
 categories:
 - artist
 - icon

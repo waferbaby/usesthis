@@ -1,6 +1,7 @@
 ---
 title: Bruce Shapiro
 summary: Motion control artist, father of Eggbot
+layout: interview
 categories:
 - artist
 - developer

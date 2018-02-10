@@ -1,6 +1,7 @@
 ---
 title: Sylvain Tegroeg
 summary: Designer and illustrator (Hidden Folks)
+layout: interview
 categories:
 - designer
 - illustrator

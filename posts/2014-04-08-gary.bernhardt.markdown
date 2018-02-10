@@ -1,6 +1,7 @@
 ---
 title: Gary Bernhardt
 summary: Software developer, screencaster (Destroy All Software)
+layout: interview
 categories:
 - developer
 - mac

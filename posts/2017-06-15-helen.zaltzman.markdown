@@ -1,6 +1,7 @@
 ---
 title: Helen Zaltzman
 summary: Podcaster (The Allusionist, Answer Me This)
+layout: interview
 categories:
 - mac
 - podcaster

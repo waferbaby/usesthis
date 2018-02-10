@@ -1,6 +1,7 @@
 ---
 title: James Freeman
 summary: Founder, Blue Bottle Coffee
+layout: interview
 categories:
 - coffee
 - mac

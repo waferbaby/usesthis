@@ -1,6 +1,7 @@
 ---
 title: Brendon Chung
 summary: Indie game developer (Blendo)
+layout: interview
 categories:
 - developer
 - game

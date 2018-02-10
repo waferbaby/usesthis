@@ -1,6 +1,7 @@
 ---
 title: Jake Hollands
 summary: Multi-disciplinary graphic designer
+layout: interview
 categories:
 - designer
 - developer

@@ -1,6 +1,7 @@
 ---
 title: Kate Ray
 summary: Web developer, technical co-founder (scroll kit)
+layout: interview
 categories:
 - developer
 - web

@@ -1,6 +1,7 @@
 ---
 title: Warren King
 summary: Cardboard sculptor
+layout: interview
 categories:
 - artist
 - mac

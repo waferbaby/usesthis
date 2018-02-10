@@ -1,6 +1,7 @@
 ---
 title: Vili Lehdonvirta
 summary: Economic sociologist
+layout: interview
 categories:
 - developer
 - game

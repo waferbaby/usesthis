@@ -1,6 +1,7 @@
 ---
 title: Nora Reed
 summary: Twitter bot artist
+layout: interview
 categories:
 - developer
 - web

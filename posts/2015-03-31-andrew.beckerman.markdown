@@ -1,6 +1,7 @@
 ---
 title: Andrew Beckerman
 summary: Comedian, podcaster (Beginnings, Snap Impression)
+layout: interview
 categories:
 - comedian
 - mac

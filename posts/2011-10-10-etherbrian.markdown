@@ -1,6 +1,7 @@
 ---
 title: etherbrian
 summary: Illustrator, icon artist (Gowalla)
+layout: interview
 categories:
 - artist
 - icon

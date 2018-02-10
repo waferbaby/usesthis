@@ -1,6 +1,7 @@
 ---
 title: Lorena Cupcake
 summary: Freelance writer, music editor
+layout: interview
 categories:
 - editor
 - mac

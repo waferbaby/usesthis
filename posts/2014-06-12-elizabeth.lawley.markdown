@@ -1,6 +1,7 @@
 ---
 title: Elizabeth Lawley
 summary: Professor, School of Interactive Games and Media (RIT)
+layout: interview
 categories:
 - game
 - mac

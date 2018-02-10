@@ -1,6 +1,7 @@
 ---
 title: Daniel Cook
 summary: Chief Creative Officer, Spry Fox
+layout: interview
 categories:
 - designer
 - developer

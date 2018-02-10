@@ -1,6 +1,7 @@
 ---
 title: Jeff LaMarche
 summary: Author, software developer
+layout: interview
 categories:
 - developer
 - mac

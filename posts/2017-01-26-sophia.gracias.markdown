@@ -1,6 +1,7 @@
 ---
 title: Sophia Gracias
 summary: Artist, designer
+layout: interview
 categories:
 - artist
 - designer

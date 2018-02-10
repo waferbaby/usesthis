@@ -1,6 +1,7 @@
 ---
 title: Mat Marquis
 summary: Web designer, developer (Bocoup)
+layout: interview
 categories:
 - designer
 - developer

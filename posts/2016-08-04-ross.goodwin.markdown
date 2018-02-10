@@ -1,6 +1,7 @@
 ---
 title: Ross Goodwin
 summary: Creative technologist, artist, hacker
+layout: interview
 categories:
 - artist
 - developer

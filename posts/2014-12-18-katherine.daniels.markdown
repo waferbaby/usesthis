@@ -1,6 +1,7 @@
 ---
 title: Katherine Daniels
 summary: Web operations engineer (Etsy)
+layout: interview
 categories:
 - engineer
 - mac

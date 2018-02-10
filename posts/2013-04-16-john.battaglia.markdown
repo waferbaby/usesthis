@@ -1,6 +1,7 @@
 ---
 title: John Battaglia
 summary: Coffee roaster
+layout: interview
 categories:
 - coffee
 ---

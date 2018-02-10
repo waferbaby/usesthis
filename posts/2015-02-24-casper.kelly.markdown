@@ -1,6 +1,7 @@
 ---
 title: Casper Kelly
 summary: Writer, director, producer (Adult Swim)
+layout: interview
 categories:
 - director
 - producer

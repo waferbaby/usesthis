@@ -1,6 +1,7 @@
 ---
 title: Alicia Swiz
 summary: Professor, performer (SlutTalk)
+layout: interview
 categories:
 - mac
 - performer

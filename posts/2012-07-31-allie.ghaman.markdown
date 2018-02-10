@@ -1,6 +1,7 @@
 ---
 title: Allie Ghaman
 summary: Art director (Sunday Style, The Washington Post)
+layout: interview
 categories:
 - designer
 - mac

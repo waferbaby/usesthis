@@ -1,6 +1,7 @@
 ---
 title: Brandon Lucia
 summary: Computer researcher, musician (netcat)
+layout: interview
 categories:
 - mac
 - musician

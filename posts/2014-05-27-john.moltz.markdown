@@ -1,6 +1,7 @@
 ---
 title: John Moltz
 summary: Writer, editor (Crazy Apple Rumors Site)
+layout: interview
 categories:
 - editor
 - mac

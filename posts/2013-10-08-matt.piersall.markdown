@@ -1,6 +1,7 @@
 ---
 title: Matt Piersall
 summary: Game sound designer (GL33k)
+layout: interview
 categories:
 - audio
 - game

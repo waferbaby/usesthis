@@ -1,6 +1,7 @@
 ---
 title: Colin Percival
 summary: Developer, security officer (FreeBSD)
+layout: interview
 categories:
 - bsd
 - developer

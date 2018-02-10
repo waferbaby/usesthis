@@ -1,6 +1,7 @@
 ---
 title: David Bull
 summary: Woodblock printmaker
+layout: interview
 categories:
 - crafter
 - mac

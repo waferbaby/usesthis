@@ -1,6 +1,7 @@
 ---
 title: Jennifer Wong
 summary: Web developer (HotPads)
+layout: interview
 categories:
 - developer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Stephen Wolfram
 summary: Scientist, developer, mathematician
+layout: interview
 categories:
 - developer
 - mac

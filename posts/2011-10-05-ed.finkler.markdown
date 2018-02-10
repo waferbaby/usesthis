@@ -1,6 +1,7 @@
 ---
 title: Ed Finkler
 summary: Web developer (Gimme Bar, Spaz)
+layout: interview
 categories:
 - developer
 - linux

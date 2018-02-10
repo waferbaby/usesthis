@@ -1,6 +1,7 @@
 ---
 title: KC Green
 summary: Cartoonist, writer (Gunshow, He is a Good Boy)
+layout: interview
 categories:
 - cartoonist
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Scout Niblett
 summary: Musician, astrologer
+layout: interview
 categories:
 - astrologer
 - mac

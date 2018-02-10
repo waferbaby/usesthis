@@ -1,6 +1,7 @@
 ---
 title: Ellen Chisa
 summary: Product manager (Kickstarter)
+layout: interview
 categories:
 - mac
 - product

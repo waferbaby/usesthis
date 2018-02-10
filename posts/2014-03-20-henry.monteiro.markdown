@@ -1,6 +1,7 @@
 ---
 title: Henry Monteiro
 summary: Writer (Henry's Music Blog)
+layout: interview
 categories:
 - writer
 credits:

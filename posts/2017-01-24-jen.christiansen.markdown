@@ -1,6 +1,7 @@
 ---
 title: Jen Christiansen
 summary: Senior graphics editor (Scientific American)
+layout: interview
 categories:
 - artist
 - mac

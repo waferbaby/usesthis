@@ -1,6 +1,7 @@
 ---
 title: Aaron James Draplin
 summary: Designer, guitar player, badass
+layout: interview
 categories:
 - designer
 - mac

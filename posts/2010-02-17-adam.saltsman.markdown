@@ -1,6 +1,7 @@
 ---
 title: Adam Saltsman
 summary: Game designer (Canabalt)
+layout: interview
 categories:
 - designer
 - game

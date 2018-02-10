@@ -1,6 +1,7 @@
 ---
 title: Jeremy Wortsman
 summary: Founder of The Jacky Winter Group
+layout: interview
 categories:
 - designer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Julieanne Smolinski
 summary: Freelance writer, editor
+layout: interview
 categories:
 - editor
 - mac

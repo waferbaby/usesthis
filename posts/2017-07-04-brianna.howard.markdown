@@ -1,6 +1,7 @@
 ---
 title: Brianna Howard
 summary: Artist, tattooist
+layout: interview
 categories:
 - artist
 - tattooist

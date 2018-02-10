@@ -1,6 +1,7 @@
 ---
 title: Yuri Victor
 summary: Developer, user experience designer (Vox Media)
+layout: interview
 categories:
 - designer
 - developer

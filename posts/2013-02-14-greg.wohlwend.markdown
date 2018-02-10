@@ -1,6 +1,7 @@
 ---
 title: Greg Wohlwend
 summary: Game designer (Hundreds, Gasketball, Solipskier)
+layout: interview
 categories:
 - designer
 - game

@@ -1,6 +1,7 @@
 ---
 title: Joe Grand
 summary: Computer engineer, hardware hacker
+layout: interview
 categories:
 - development
 - hacker

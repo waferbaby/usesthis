@@ -1,6 +1,7 @@
 ---
 title: Candy Chan
 summary: Urban designer, architect
+layout: interview
 categories:
 - architect
 - designer

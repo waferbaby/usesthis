@@ -1,6 +1,7 @@
 ---
 title: Drew Conway
 summary: Researcher (terrorism, maths, stats, machine learning)
+layout: interview
 categories:
 - data
 - linux

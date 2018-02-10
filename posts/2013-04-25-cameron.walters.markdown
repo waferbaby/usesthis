@@ -1,6 +1,7 @@
 ---
 title: Cameron Walters
 summary: Software engineer (Apcera, Square, Domainr)
+layout: interview
 categories:
 - developer
 - mac

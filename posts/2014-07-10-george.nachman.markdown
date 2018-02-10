@@ -1,6 +1,7 @@
 ---
 title: George Nachman
 summary: Software developer (Google Search App, iTerm2)
+layout: interview
 categories:
 - developer
 - mac

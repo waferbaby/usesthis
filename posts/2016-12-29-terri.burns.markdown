@@ -1,6 +1,7 @@
 ---
 title: Terri Burns
 summary: Product manager (Twitter), chair of tech@nyu
+layout: interview
 categories:
 - developer
 - mac

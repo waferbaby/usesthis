@@ -1,6 +1,7 @@
 ---
 title: Jim Guthrie
 summary: Musician (Sword & Sworcery, Sound Shapes)
+layout: interview
 categories:
 - mac
 - musician

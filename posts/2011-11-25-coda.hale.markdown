@@ -1,6 +1,7 @@
 ---
 title: Coda Hale
 summary: Infrastructure architect (Yammer)
+layout: interview
 categories:
 - developer
 - mac

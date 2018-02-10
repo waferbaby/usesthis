@@ -1,6 +1,7 @@
 ---
 title: Becky Stern
 summary: Director of wearable electronics (Adafruit)
+layout: interview
 categories:
 - hacker
 - mac

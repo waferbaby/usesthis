@@ -1,6 +1,7 @@
 ---
 title: Betsy Bauer
 summary: Illustrator, character designer
+layout: interview
 categories:
 - artist
 - film

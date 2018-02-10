@@ -1,6 +1,7 @@
 ---
 title: Annica Lydenberg
 summary: Designer (Dirty Bandits)
+layout: interview
 categories:
 - designer
 - mac

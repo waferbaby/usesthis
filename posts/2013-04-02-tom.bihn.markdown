@@ -1,6 +1,7 @@
 ---
 title: Tom Bihn
 summary: Bag designer, CEO
+layout: interview
 categories:
 - designer
 - fashion

@@ -1,6 +1,7 @@
 ---
 title: James Primate
 summary: Musician, game developer, artist (Rain World)
+layout: interview
 categories:
 - artist
 - developer

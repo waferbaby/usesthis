@@ -1,6 +1,7 @@
 ---
 title: Bruce Sterling
 summary: Novelist, journalist
+layout: interview
 categories:
 - journalist
 - mac

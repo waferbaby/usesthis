@@ -1,6 +1,7 @@
 ---
 title: Mara Altman
 summary: Freelance journalist, writer (Bearded Lady)
+layout: interview
 categories:
 - journalist
 - mac

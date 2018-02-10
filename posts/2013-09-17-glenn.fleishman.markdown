@@ -1,6 +1,7 @@
 ---
 title: Glenn Fleishman
 summary: Editor (The Magazine), podcaster (The New Disruptors)
+layout: interview
 categories:
 - editor
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Shelly Alon
 summary: Game developer (Glitchskier, Sputnik Eyes)
+layout: interview
 categories:
 - designer
 - developer

@@ -1,6 +1,7 @@
 ---
 title: Fritz van Deventer
 summary: Developer, musician (Cheeses of Mexico)
+layout: interview
 categories:
 - developer
 - mac

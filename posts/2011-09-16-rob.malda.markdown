@@ -1,6 +1,7 @@
 ---
 title: Rob Malda
 summary: Founder, Slashdot
+layout: interview
 categories:
 - developer
 - mac

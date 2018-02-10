@@ -1,6 +1,7 @@
 ---
 title: Viviane Schwarz
 summary: Writer, illustrator, creator
+layout: interview
 categories:
 - designer
 - game

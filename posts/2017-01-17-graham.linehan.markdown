@@ -1,6 +1,7 @@
 ---
 title: Graham Linehan
 summary: Writer, director (The IT Crowd, Father Ted, Black Books)
+layout: interview
 categories:
 - director
 - mac

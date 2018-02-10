@@ -1,6 +1,7 @@
 ---
 title: Steven Frank
 summary: Mac developer, co-founder of Panic
+layout: interview
 categories:
 - developer
 - mac

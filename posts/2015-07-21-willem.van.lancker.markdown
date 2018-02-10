@@ -1,6 +1,7 @@
 ---
 title: Willem Van Lancker
 summary: Co-founder, Chief Product Officer (Oyster)
+layout: interview
 categories:
 - designer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Bennett Foddy
 summary: Moral philosopher, game developer
+layout: interview
 categories:
 - game
 - mac

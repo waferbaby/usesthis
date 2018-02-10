@@ -1,6 +1,7 @@
 ---
 title: Jack Cheng
 summary: Writer, designer (Disrupto, Memberly)
+layout: interview
 categories:
 - designer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Dana Contreras
 summary: Systems engineer (Twitter), pilot
+layout: interview
 categories:
 - developer
 - mac

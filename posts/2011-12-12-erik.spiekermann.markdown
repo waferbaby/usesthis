@@ -1,6 +1,7 @@
 ---
 title: Erik Spiekermann
 summary: Type and information designer
+layout: interview
 categories:
 - designer
 - mac

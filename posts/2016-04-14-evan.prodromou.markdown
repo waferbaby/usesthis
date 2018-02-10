@@ -1,6 +1,7 @@
 ---
 title: Evan Prodromou
 summary: Developer, founder (fuzzy.io, Wikitravel, Identi.ca)
+layout: interview
 categories:
 - developer
 - linux

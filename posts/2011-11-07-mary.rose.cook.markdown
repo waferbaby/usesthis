@@ -1,6 +1,7 @@
 ---
 title: Mary Rose Cook
 summary: Coder, musician
+layout: interview
 categories:
 - developer
 - mac

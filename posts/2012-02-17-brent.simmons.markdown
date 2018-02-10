@@ -1,6 +1,7 @@
 ---
 title: Brent Simmons
 summary: Mac, web developer (Glassboard, ex-NetNewsWire)
+layout: interview
 categories:
 - developer
 - mac

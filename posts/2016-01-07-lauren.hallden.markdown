@@ -1,6 +1,7 @@
 ---
 title: Lauren Hallden
 summary: Designer (RJMetrics), web tinkerer
+layout: interview
 categories:
 - designer
 - developer

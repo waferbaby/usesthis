@@ -1,6 +1,7 @@
 ---
 title: Steven Sanders
 summary: Illustrator, concept artist (Marvel, Image)
+layout: interview
 categories:
 - illustrator
 - mac

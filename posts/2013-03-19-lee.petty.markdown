@@ -1,6 +1,7 @@
 ---
 title: Lee Petty
 summary: Art Director (Double Fine)
+layout: interview
 categories:
 - artist
 - game

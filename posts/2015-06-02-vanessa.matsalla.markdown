@@ -1,6 +1,7 @@
 ---
 title: Vanessa Matsalla
 summary: Interior designer (Studio Matsalla)
+layout: interview
 categories:
 - mac
 - designer

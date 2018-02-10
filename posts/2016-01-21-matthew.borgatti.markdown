@@ -1,6 +1,7 @@
 ---
 title: Matthew Borgatti
 summary: Lead scientist (Super-Releaser)
+layout: interview
 categories:
 - scientist
 ---

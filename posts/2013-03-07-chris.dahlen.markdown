@@ -1,6 +1,7 @@
 ---
 title: Chris Dahlen
 summary: Video game writer, coder
+layout: interview
 categories:
 - developer
 - game

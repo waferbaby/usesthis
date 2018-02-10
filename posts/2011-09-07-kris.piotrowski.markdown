@@ -1,6 +1,7 @@
 ---
 title: Kris Piotrowski
 summary: Creative director and co-founder (CAPY)
+layout: interview
 categories:
 - designer
 - game

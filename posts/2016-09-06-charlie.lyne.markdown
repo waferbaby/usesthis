@@ -1,6 +1,7 @@
 ---
 title: Charlie Lyne
 summary: Filmmaker, film critic
+layout: interview
 categories:
 - film
 - mac

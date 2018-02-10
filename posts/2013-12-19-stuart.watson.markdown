@@ -1,6 +1,7 @@
 ---
 title: Stuart Watson
 summary: Investigative reporter (WCNC-TV)
+layout: interview
 categories:
 - mac
 - reporter

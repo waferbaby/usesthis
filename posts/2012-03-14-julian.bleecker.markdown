@@ -1,6 +1,7 @@
 ---
 title: Julian Bleecker
 summary: Designer, technologist (Near Future Laboratory)
+layout: interview
 categories:
 - designer
 - mac

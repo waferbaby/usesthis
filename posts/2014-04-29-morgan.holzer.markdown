@@ -1,6 +1,7 @@
 ---
 title: Morgan Holzer
 summary: Information architect (NYPL)
+layout: interview
 categories:
 - architect
 - web

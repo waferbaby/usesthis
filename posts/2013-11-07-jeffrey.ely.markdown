@@ -1,6 +1,7 @@
 ---
 title: Jeffrey Ely
 summary: Professor of economics (Northwestern University)
+layout: interview
 categories:
 - linux
 - mac

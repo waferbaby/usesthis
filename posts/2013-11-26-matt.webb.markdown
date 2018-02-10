@@ -1,6 +1,7 @@
 ---
 title: Matt Webb
 summary: CEO (BERG)
+layout: interview
 categories:
 - developer
 - mac

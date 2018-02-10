@@ -1,6 +1,7 @@
 ---
 title: Matt Neuburg
 summary: Developer, writer, contributing editor (TidBITS)
+layout: interview
 categories:
 - developer
 - editor

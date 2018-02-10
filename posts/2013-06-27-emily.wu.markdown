@@ -1,6 +1,7 @@
 ---
 title: Emily Wu
 summary: Senior production manager (Next Media Animation)
+layout: interview
 categories:
 - producer
 - web

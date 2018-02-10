@@ -1,6 +1,7 @@
 ---
 title: Eric Kissack
 summary: Filmmaker, editor
+layout: interview
 categories:
 - editor
 - film

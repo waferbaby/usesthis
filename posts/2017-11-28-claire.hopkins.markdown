@@ -1,6 +1,7 @@
 ---
 title: Claire Hopkins
 summary: Botanist, educator (Brilliant Botany)
+layout: interview
 categories:
 - botany
 - mac

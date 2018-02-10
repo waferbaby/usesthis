@@ -1,6 +1,7 @@
 ---
 title: Sue Pemberton
 summary: Cultural assistant, specimen preparator (California Academy of Sciences)
+layout: interview
 categories:
 - animal
 - curator

@@ -1,6 +1,7 @@
 ---
 title: Derek Powazek
 summary: Designer, writer, small dog appreciator
+layout: interview
 categories:
 - designer
 - mac

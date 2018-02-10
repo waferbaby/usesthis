@@ -1,6 +1,7 @@
 ---
 title: Chelsea Howe
 summary: Creative Director (Electronic Arts)
+layout: interview
 categories:
 - designer
 - game

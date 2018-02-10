@@ -1,6 +1,7 @@
 ---
 title: Jona Bechtolt
 summary: Half of the band YACHT
+layout: interview
 categories:
 - mac
 - musician

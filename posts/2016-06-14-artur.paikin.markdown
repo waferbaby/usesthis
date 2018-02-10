@@ -1,6 +1,7 @@
 ---
 title: Artur Paikin
 summary: Founder (Baguette), designer, traveler & robot maker
+layout: interview
 categories:
 - designer
 - mac

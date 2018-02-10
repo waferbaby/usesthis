@@ -1,6 +1,7 @@
 ---
 title: Jeffrey Brodsky
 summary: Musician (YACHT, RAC)
+layout: interview
 categories:
 - mac
 - musician

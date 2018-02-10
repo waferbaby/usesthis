@@ -1,6 +1,7 @@
 ---
 title: Rob Beschizza
 summary: Managing editor (Boing Boing), storyteller, artificer
+layout: interview
 categories:
 - developer
 - editor

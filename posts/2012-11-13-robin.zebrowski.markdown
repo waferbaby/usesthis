@@ -1,6 +1,7 @@
 ---
 title: Robin Zebrowski
 summary: Assistant professor of cognitive science
+layout: interview
 categories:
 - professor
 - scientist

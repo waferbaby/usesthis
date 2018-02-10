@@ -1,6 +1,7 @@
 ---
 title: Lane Moore
 summary: Comedian, filmmaker, actor, writer, musician
+layout: interview
 categories:
 - actor
 - comedian

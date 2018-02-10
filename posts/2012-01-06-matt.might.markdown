@@ -1,6 +1,7 @@
 ---
 title: Matt Might
 summary: CS Professor (University of Utah)
+layout: interview
 categories:
 - linux
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Casey Kolderup
 summary: Software developer, bot wrangler
+layout: interview
 categories:
 - developer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Janet Echelman
 summary: Artist, sculptor
+layout: interview
 categories:
 - artist
 ---

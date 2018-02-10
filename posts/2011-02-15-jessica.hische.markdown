@@ -1,6 +1,7 @@
 ---
 title: Jessica Hische
 summary: Letterer, graphic designer
+layout: interview
 categories:
 - designer
 - mac

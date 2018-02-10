@@ -1,6 +1,7 @@
 ---
 title: Keith Ehrlich
 summary: Filmmaker (Made by Hand)
+layout: interview
 categories:
 - film
 - mac

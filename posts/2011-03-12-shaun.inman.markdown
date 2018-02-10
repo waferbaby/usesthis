@@ -1,6 +1,7 @@
 ---
 title: Shaun Inman
 summary: Designer, developer, composer
+layout: interview
 categories:
 - designer
 - developer

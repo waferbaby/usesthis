@@ -1,6 +1,7 @@
 ---
 title: Mike Fogus
 summary: Software developer, author
+layout: interview
 categories:
 - developer
 - mac

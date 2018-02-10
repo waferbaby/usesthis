@@ -1,6 +1,7 @@
 ---
 title: Kelly Townsend Jennings
 summary: Process engineer (HeartFlow)
+layout: interview
 categories:
 - health
 - software

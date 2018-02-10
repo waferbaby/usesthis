@@ -1,6 +1,7 @@
 ---
 title: Joel David Hamkins
 summary: Mathematician and philosopher (The City University of New York)
+layout: interview
 categories:
 - mathematician
 - philosopher

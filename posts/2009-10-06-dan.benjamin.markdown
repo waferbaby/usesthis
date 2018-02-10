@@ -1,6 +1,7 @@
 ---
 title: Dan Benjamin
 summary: Developer, broadcaster
+layout: interview
 categories:
 - developer
 - mac

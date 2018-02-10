@@ -1,6 +1,7 @@
 ---
 title: Yihui Xie
 summary: PhD statistician, R developer
+layout: interview
 categories:
 - data
 - developer

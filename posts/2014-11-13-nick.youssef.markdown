@@ -1,6 +1,7 @@
 ---
 title: Nick Youssef
 summary: Comedian, podcaster
+layout: interview
 categories:
 - comedian
 - mac

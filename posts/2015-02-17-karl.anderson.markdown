@@ -1,6 +1,7 @@
 ---
 title: Karl Anderson
 summary: Software engineer, phone hardware hacker
+layout: interview
 categories:
 - developer
 - linux

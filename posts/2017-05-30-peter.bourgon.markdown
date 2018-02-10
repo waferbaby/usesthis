@@ -1,6 +1,7 @@
 ---
 title: Peter Bourgon
 summary: Distributed systems developer (Fastly)
+layout: interview
 categories:
 - developer
 - mac

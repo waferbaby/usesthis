@@ -1,6 +1,7 @@
 ---
 title: Elissa Logozio
 summary: Artist, life coach
+layout: interview
 categories:
 - artist
 - coach

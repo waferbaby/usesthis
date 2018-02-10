@@ -1,6 +1,7 @@
 ---
 title: Lake Sharp
 summary: Designer (ARRAY), co-founder (EVERYBODY)
+layout: interview
 categories:
 - designer
 - mac

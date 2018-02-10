@@ -1,6 +1,7 @@
 ---
 title: Dave Pell
 summary: Writer, news gatherer
+layout: interview
 categories:
 - mac
 - writer

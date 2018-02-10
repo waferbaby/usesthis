@@ -1,6 +1,7 @@
 ---
 title: Andrew Kim
 summary: Designer, dog lover
+layout: interview
 categories:
 - designer
 - mac

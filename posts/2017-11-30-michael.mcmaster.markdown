@@ -1,6 +1,7 @@
 ---
 title: Michael McMaster
 summary: Game designer, co-director (House House), PhD student
+layout: interview
 categories:
 - game
 - mac

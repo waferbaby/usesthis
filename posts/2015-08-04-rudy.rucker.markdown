@@ -1,6 +1,7 @@
 ---
 title: Rudy Rucker, Sr.
 summary: Writer, developer, painter, podcaster
+layout: interview
 categories:
 - artist
 - developer

@@ -1,6 +1,7 @@
 ---
 title: Adam Gnade
 summary: Musician, author
+layout: interview
 categories:
 - musician
 - windows

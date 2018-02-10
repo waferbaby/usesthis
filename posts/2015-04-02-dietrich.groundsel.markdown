@@ -1,6 +1,7 @@
 ---
 title: Dietrich Groundsel
 summary: Creative consultant, image analyst, curator
+layout: interview
 categories:
 - designer
 - mac

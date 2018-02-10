@@ -1,6 +1,7 @@
 ---
 title: Erin Kissane
 summary: Writer, editor (Source)
+layout: interview
 categories:
 - editor
 - mac

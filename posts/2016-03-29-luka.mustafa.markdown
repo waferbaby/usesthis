@@ -1,6 +1,7 @@
 ---
 title: Luka Mustafa
 summary: Hardware hacker (KORUZA, GoodEnoughCNC)
+layout: interview
 categories:
 - hacker
 - hardware

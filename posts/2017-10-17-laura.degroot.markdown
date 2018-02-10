@@ -1,6 +1,7 @@
 ---
 title: Laura DeGroot
 summary: Web developer, designer, poet
+layout: interview
 categories:
 - designer
 - developer

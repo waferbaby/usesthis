@@ -1,6 +1,7 @@
 ---
 title: Rui Carmo
 summary: Systems Engineer
+layout: interview
 categories:
 - developer
 - mac

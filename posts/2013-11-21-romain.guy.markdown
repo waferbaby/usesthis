@@ -1,6 +1,7 @@
 ---
 title: Romain Guy
 summary: Software developer, photographer
+layout: interview
 categories:
 - developer
 - mac

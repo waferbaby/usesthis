@@ -1,6 +1,7 @@
 ---
 title: Tony Konecny
 summary: Coffee guy (Tonx)
+layout: interview
 categories:
 - coffee
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Kate Welch
 summary: Podcaster, designer (ArenaNet)
+layout: interview
 categories:
 - designer
 - game

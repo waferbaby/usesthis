@@ -1,6 +1,7 @@
 ---
 title: William Gibson
 summary: Novelist
+layout: interview
 categories:
 - mac
 - writer

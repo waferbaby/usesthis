@@ -1,6 +1,7 @@
 ---
 title: Renaud Bédard
 summary: Game developer (FEZ)
+layout: interview
 categories:
 - developer
 - game

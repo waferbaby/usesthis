@@ -1,6 +1,7 @@
 ---
 title: Santiago Ortiz
 summary: Developer, visualiser
+layout: interview
 categories:
 - artist
 - developer

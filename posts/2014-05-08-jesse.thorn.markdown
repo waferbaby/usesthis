@@ -1,6 +1,7 @@
 ---
 title: Jesse Thorn
 summary: Podcaster (Maximum Fun, Bullseye), editor (Put This On)
+layout: interview
 categories:
 - editor
 - podcaster

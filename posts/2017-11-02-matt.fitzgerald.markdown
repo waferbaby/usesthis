@@ -1,6 +1,7 @@
 ---
 title: Matt Fitzgerald
 summary: Preacher, essayist, podcast host
+layout: interview
 categories:
 - mac
 - podcaster

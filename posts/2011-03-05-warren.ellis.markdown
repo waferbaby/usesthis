@@ -1,6 +1,7 @@
 ---
 title: Warren Ellis
 summary: Writer (Transmetropolitan, Crooked Little Vein)
+layout: interview
 categories:
 - windows
 - writer

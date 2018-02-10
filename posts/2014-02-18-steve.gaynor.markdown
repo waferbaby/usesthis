@@ -1,6 +1,7 @@
 ---
 title: Steve Gaynor
 summary: Game designer, writer, co-founder (The Fullbright Company)
+layout: interview
 categories:
 - designer
 - game

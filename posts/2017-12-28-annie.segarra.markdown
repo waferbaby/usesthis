@@ -1,6 +1,7 @@
 ---
 title: Annie Segarra
 summary: YouTuber, actress, activist
+layout: interview
 categories:
 - activist
 - actor

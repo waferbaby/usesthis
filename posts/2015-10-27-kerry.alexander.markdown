@@ -1,6 +1,7 @@
 ---
 title: Kerry Alexander
 summary: Musician (Bad Bad Hats, Mixed History)
+layout: interview
 categories:
 - musician
 ---

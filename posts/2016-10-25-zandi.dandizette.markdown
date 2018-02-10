@@ -1,6 +1,7 @@
 ---
 title: Zandi Dandizette
 summary: Artist, gallery founder
+layout: interview
 categories:
 - artist
 - windows

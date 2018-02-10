@@ -1,6 +1,7 @@
 ---
 title: Esra'a Al Shafei
 summary: Civil rights advocate, founder (Majal)
+layout: interview
 categories:
 - activist
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Ian Hickson
 summary: Standards editor, HTML specification
+layout: interview
 categories:
 - editor
 - mac

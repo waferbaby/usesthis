@@ -1,6 +1,7 @@
 ---
 title: Liz Danzico
 summary: Designer, educator, editor
+layout: interview
 categories:
 - designer
 - editor

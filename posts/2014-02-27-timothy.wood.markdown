@@ -1,6 +1,7 @@
 ---
 title: Timothy Wood
 summary: CTO and co-founder (The Omni Group)
+layout: interview
 categories:
 - developer
 - mac

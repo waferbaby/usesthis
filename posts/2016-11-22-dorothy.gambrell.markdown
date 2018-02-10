@@ -1,6 +1,7 @@
 ---
 title: Dorothy Gambrell
 summary: Cartoonist (Cat and Girl)
+layout: interview
 categories:
 - cartoonist
 - mac

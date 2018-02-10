@@ -1,6 +1,7 @@
 ---
 title: Eric S Raymond
 summary: OSS developer, writer ('The Cathedral and the Bazaar')
+layout: interview
 categories:
 - developer
 - linux

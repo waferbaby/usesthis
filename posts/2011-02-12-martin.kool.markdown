@@ -1,6 +1,7 @@
 ---
 title: Martin Kool
 summary: HTML5 rocket surgeon, underpants gnome
+layout: interview
 categories:
 - developer
 - web

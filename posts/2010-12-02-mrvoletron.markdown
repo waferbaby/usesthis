@@ -1,6 +1,7 @@
 ---
 title: MrVoletron
 summary: Musician/gnome-wrangler
+layout: interview
 categories:
 - musician
 - windows

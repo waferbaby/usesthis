@@ -1,6 +1,7 @@
 ---
 title: Dave Lloyd
 summary: Game developer (Crawl)
+layout: interview
 categories:
 - developer
 - game

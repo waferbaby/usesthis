@@ -1,6 +1,7 @@
 ---
 title: Jamillah Knowles
 summary: Writer, journalist, broadcaster (BBC Outriders)
+layout: interview
 categories:
 - journalist
 - podcaster

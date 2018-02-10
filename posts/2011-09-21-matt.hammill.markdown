@@ -1,6 +1,7 @@
 ---
 title: Matt Hammill
 summary: Artist, animator, game designer
+layout: interview
 categories:
 - artist
 - designer

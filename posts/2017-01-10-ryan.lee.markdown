@@ -1,6 +1,7 @@
 ---
 title: Ryan Lee
 summary: Bread baker, potter
+layout: interview
 categories:
 - baker
 - potter

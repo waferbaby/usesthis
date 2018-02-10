@@ -1,6 +1,7 @@
 ---
 title: Klaus Pichler
 summary: Freelance photographer
+layout: interview
 categories:
 - photographer
 - windows

@@ -1,6 +1,7 @@
 ---
 title: James Duncan Davidson
 summary: Photographer (TED), developer, writer
+layout: interview
 categories:
 - mac
 - photographer

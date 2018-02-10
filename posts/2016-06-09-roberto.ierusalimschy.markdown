@@ -1,6 +1,7 @@
 ---
 title: Roberto Ierusalimschy
 summary: Associate professor, lead architect (Lua)
+layout: interview
 categories:
 - developer
 - professor

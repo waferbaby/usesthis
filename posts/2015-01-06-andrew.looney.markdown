@@ -1,6 +1,7 @@
 ---
 title: Andrew Looney
 summary: Game designer (Fluxx, Chrononauts, Loonacy)
+layout: interview
 categories:
 - designer
 - game

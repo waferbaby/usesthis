@@ -1,6 +1,7 @@
 ---
 title: Jesse von Doom
 summary: Executive director, developer (CASH Music)
+layout: interview
 categories:
 - developer
 - mac

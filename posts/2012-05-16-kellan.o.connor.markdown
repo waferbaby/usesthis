@@ -1,6 +1,7 @@
 ---
 title: Kellan O'Connor
 summary: Engineer (SpaceX)
+layout: interview
 categories:
 - engineer
 - mac

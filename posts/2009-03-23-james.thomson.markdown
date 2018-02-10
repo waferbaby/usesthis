@@ -1,6 +1,7 @@
 ---
 title: James Thomson
 summary: Mac developer (DragThing, PCalc)
+layout: interview
 categories:
 - developer
 - mac

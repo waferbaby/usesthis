@@ -1,6 +1,7 @@
 ---
 title: Bo Adepoju
 summary: Silicon architecture engineer (Intel)
+layout: interview
 categories:
 - developer
 - hardware

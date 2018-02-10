@@ -1,6 +1,7 @@
 ---
 title: Matt Lee
 summary: Filmmaker, free software hacker
+layout: interview
 categories:
 - developer
 - film

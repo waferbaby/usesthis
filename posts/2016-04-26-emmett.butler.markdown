@@ -1,6 +1,7 @@
 ---
 title: Emmett Butler
 summary: Software engineer (PyKafka), game developer (Cibele)
+layout: interview
 categories:
 - developer
 - game

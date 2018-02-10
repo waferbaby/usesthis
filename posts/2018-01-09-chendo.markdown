@@ -1,6 +1,7 @@
 ---
 title: Jack Chen
 summary: Software developer (Ferocia)
+layout: interview
 categories:
 - developer
 - mac

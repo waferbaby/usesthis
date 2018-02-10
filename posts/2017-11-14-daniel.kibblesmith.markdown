@@ -1,6 +1,7 @@
 ---
 title: Daniel Kibblesmith
 summary: Writer (The Late Show With Stephen Colbert)
+layout: interview
 categories:
 - mac
 - writer

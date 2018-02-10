@@ -1,6 +1,7 @@
 ---
 title: Pete Zeldman
 summary: Drummer
+layout: interview
 categories:
 - mac
 - musician

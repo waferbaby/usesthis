@@ -1,6 +1,7 @@
 ---
 title: Michael Sng
 summary: Toy designer (Codename Colossus)
+layout: interview
 categories:
 - designer
 - toy

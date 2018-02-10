@@ -1,6 +1,7 @@
 ---
 title: Cal Henderson
 summary: Web developer, professional asshat
+layout: interview
 categories:
 - developer
 - mac

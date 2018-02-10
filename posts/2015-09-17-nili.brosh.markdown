@@ -1,6 +1,7 @@
 ---
 title: Nili Brosh
 summary: Instrumental guitarist, composer
+layout: interview
 categories:
 - musician
 ---

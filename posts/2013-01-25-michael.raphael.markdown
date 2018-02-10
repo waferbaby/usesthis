@@ -1,6 +1,7 @@
 ---
 title: Michael Raphael
 summary: Sound effects recordist (Rabbit Ears Audio)
+layout: interview
 categories:
 - audio
 - mac

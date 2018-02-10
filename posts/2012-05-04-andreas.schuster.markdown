@@ -1,6 +1,7 @@
 ---
 title: Andreas Schuster
 summary: Illustrator
+layout: interview
 categories:
 - cartoonist
 - illustrator

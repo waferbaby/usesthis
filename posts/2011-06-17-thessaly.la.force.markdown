@@ -1,6 +1,7 @@
 ---
 title: Thessaly La Force
 summary: Writer, editor (The Paris Review)
+layout: interview
 categories:
 - editor
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Andrew W.K.
 summary: Professional partyer
+layout: interview
 categories:
 - mac
 - musician

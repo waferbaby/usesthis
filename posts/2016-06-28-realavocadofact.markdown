@@ -1,6 +1,7 @@
 ---
 title: Avocado
 summary: Fruit
+layout: interview
 categories:
 - fruit
 ---

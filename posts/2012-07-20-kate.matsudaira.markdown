@@ -1,6 +1,7 @@
 ---
 title: Kate Matsudaira
 summary: Hacker, speaker (Decide)
+layout: interview
 categories:
 - developer
 - mac

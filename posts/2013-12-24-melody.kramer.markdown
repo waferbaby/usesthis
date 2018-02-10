@@ -1,6 +1,7 @@
 ---
 title: Melody Kramer
 summary: Digital and social strategy (NPR)
+layout: interview
 categories:
 - mac
 - web

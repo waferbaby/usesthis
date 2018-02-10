@@ -1,6 +1,7 @@
 ---
 title: Peter Hollo
 summary: Musician (FourPlay, raven, Tangents, Haunts)
+layout: interview
 categories:
 - mac
 - musician

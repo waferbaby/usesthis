@@ -1,6 +1,7 @@
 ---
 title: Gabriel Weinberg
 summary: Web developer, founder of DuckDuckGo
+layout: interview
 categories:
 - developer
 - web

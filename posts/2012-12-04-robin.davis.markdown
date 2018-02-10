@@ -1,6 +1,7 @@
 ---
 title: Robin Camille Davis
 summary: Digital librarian, web developer
+layout: interview
 categories:
 - developer
 - librarian

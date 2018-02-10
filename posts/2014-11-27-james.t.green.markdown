@@ -1,6 +1,7 @@
 ---
 title: James T. Green
 summary: Artist, designer
+layout: interview
 categories:
 - artist
 - designer

@@ -1,6 +1,7 @@
 ---
 title: Jonathan Coulton
 summary: Internet musical superstar
+layout: interview
 categories:
 - mac
 - musician

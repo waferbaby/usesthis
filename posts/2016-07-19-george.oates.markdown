@@ -1,6 +1,7 @@
 ---
 title: George Oates
 summary: Designer, founder of Good, Form & Spectacle
+layout: interview
 categories:
 - designer
 - mac

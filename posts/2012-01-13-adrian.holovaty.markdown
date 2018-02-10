@@ -1,6 +1,7 @@
 ---
 title: Adrian Holovaty
 summary: Web developer (EveryBlock, Django), musician
+layout: interview
 categories:
 - developer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Catherine Mulbrandon
 summary: Designer (Visualizing Economics)
+layout: interview
 categories:
 - designer
 - mac

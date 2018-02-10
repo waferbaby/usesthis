@@ -1,6 +1,7 @@
 ---
 title: Zoltan Istvan
 summary: Futurist, journalist, transhumanist
+layout: interview
 categories:
 - journalist
 - windows

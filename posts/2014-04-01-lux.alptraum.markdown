@@ -1,6 +1,7 @@
 ---
 title: Lux Alptraum
 summary: Writer, sex educator
+layout: interview
 categories:
 - mac
 - sex

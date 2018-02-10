@@ -1,6 +1,7 @@
 ---
 title: Violet Blue
 summary: Writer, speaker, sex educator
+layout: interview
 categories:
 - mac
 - sex

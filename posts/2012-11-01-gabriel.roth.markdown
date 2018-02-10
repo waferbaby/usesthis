@@ -1,6 +1,7 @@
 ---
 title: Gabriel Roth
 summary: Writer, web developer
+layout: interview
 categories:
 - developer
 - mac

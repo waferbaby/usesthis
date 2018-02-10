@@ -1,6 +1,7 @@
 ---
 title: Karina van Schaardenburg
 summary: User experience researcher (Twitter)
+layout: interview
 categories:
 - interface
 - mac

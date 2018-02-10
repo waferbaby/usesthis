@@ -1,6 +1,7 @@
 ---
 title: Emma Lugo
 summary: Experimental game developer
+layout: interview
 categories:
 - developer
 - game

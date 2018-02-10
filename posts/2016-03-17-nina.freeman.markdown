@@ -1,6 +1,7 @@
 ---
 title: Nina Freeman
 summary: Level designer (Fullbright), game designer (Cibele)
+layout: interview
 categories:
 - developer
 - designer

@@ -1,6 +1,7 @@
 ---
 title: Louisa Heinrich
 summary: Designer, founder (Superhuman Limited)
+layout: interview
 categories:
 - designer
 - mac

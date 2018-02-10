@@ -1,6 +1,7 @@
 ---
 title: Chris Klimas
 summary: Web developer (Twine)
+layout: interview
 categories:
 - developer
 - game

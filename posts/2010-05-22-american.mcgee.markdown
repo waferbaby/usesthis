@@ -1,6 +1,7 @@
 ---
 title: American McGee
 summary: Game designer
+layout: interview
 categories:
 - developer
 - game

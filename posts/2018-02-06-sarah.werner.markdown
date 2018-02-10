@@ -1,6 +1,7 @@
 ---
 title: Sarah Werner
 summary: Independent librarian, book historian
+layout: interview
 categories:
 - librarian
 - researcher

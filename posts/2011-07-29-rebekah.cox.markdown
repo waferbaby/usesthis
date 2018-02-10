@@ -1,6 +1,7 @@
 ---
 title: Rebekah Cox
 summary: Product designer (Quora)
+layout: interview
 categories:
 - designer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Steve Jackson
 summary: Game designer
+layout: interview
 categories:
 - designer
 - game

@@ -1,6 +1,7 @@
 ---
 title: Ben Heck
 summary: Maker, builder, hacker
+layout: interview
 categories:
 - hacker
 ---

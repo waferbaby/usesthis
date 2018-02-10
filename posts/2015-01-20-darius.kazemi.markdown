@@ -1,6 +1,7 @@
 ---
 title: Darius Kazemi
 summary: Internet artist (Tiny Subversions)
+layout: interview
 categories:
 - artist
 - developer

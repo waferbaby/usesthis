@@ -1,6 +1,7 @@
 ---
 title: John Pavlus
 summary: Writer, film maker (Small Mammal)
+layout: interview
 categories:
 - film
 - mac

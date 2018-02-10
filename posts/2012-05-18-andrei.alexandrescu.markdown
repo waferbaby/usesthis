@@ -1,6 +1,7 @@
 ---
 title: Andrei Alexandrescu
 summary: Research scientist (Facebook)
+layout: interview
 categories:
 - linux
 - mac

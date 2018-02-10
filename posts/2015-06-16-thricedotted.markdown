@@ -1,6 +1,7 @@
 ---
 title: thricedotted
 summary: Language hacker, Twitter bot master
+layout: interview
 categories:
 - developer
 - hacker

@@ -1,6 +1,7 @@
 ---
 title: Anil Dash
 summary: Blogger, director of Expert Labs
+layout: interview
 categories:
 - developer
 - mac

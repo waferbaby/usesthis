@@ -1,6 +1,7 @@
 ---
 title: Amit Gupta
 summary: Photographer, entrepreneur
+layout: interview
 categories:
 - designer
 - entrepreneur

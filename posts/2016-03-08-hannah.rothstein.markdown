@@ -1,6 +1,7 @@
 ---
 title: Hannah Rothstein
 summary: Conceptual artist
+layout: interview
 categories:
 - artist
 - mac

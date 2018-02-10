@@ -1,6 +1,7 @@
 ---
 title: Howard Rheingold
 summary: Writer, blogger, teacher
+layout: interview
 categories:
 - blogger
 - mac

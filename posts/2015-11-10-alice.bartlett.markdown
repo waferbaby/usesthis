@@ -1,6 +1,7 @@
 ---
 title: Alice Bartlett
 summary: Web developer (Financial Times), founder (Tampon Club)
+layout: interview
 categories:
 - developer
 - mac

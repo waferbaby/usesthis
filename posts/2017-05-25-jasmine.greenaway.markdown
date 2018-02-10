@@ -1,6 +1,7 @@
 ---
 title: Jasmine Greenaway
 summary: Developer, GitHub Editor Tools
+layout: interview
 categories:
 - developer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Lindsay Small-Butera
 summary: Animator, designer, director (Baman Piderman)
+layout: interview
 categories:
 - animator
 - artist

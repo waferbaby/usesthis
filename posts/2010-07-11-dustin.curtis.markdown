@@ -1,6 +1,7 @@
 ---
 title: Dustin Curtis
 summary: Writer, UX designer
+layout: interview
 categories:
 - designer
 - interface

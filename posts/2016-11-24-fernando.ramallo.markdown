@@ -1,6 +1,7 @@
 ---
 title: Fernando Ramallo
 summary: Coder, designer, visual artist
+layout: interview
 categories:
 - artist
 - developer

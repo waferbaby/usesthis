@@ -1,6 +1,7 @@
 ---
 title: Jessica Lord
 summary: Software engineer (Atom, Electron)
+layout: interview
 categories:
 - mac
 - software

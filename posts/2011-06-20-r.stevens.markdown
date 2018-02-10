@@ -1,6 +1,7 @@
 ---
 title: r. stevens
 summary: Cartoonist (Diesel Sweeties)
+layout: interview
 categories:
 - cartoonist
 - mac

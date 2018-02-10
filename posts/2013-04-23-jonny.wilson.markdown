@@ -1,6 +1,7 @@
 ---
 title: Jonny Wilson
 summary: Video DJ
+layout: interview
 categories:
 - mac
 - musician

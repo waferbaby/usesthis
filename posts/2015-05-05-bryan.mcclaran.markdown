@@ -1,6 +1,7 @@
 ---
 title: Bryan McClaran
 summary: Chef de cuisine (Uptown Management Group)
+layout: interview
 categories:
 - chef
 - windows

@@ -1,6 +1,7 @@
 ---
 title: Lucy Bellwood
 summary: Adventure Cartoonist (Baggywrinkles)
+layout: interview
 categories:
 - adventurer
 - cartoonist

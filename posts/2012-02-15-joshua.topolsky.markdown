@@ -1,6 +1,7 @@
 ---
 title: Joshua Topolsky
 summary: Co-founder, editor (The Verge)
+layout: interview
 categories:
 - editor
 - mac

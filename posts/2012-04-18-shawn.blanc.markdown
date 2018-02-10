@@ -1,6 +1,7 @@
 ---
 title: Shawn Blanc
 summary: Writer (shawnblanc.net)
+layout: interview
 categories:
 - mac
 - writer

@@ -1,6 +1,7 @@
 ---
 title: Kenneth Reitz
 summary: Minimalist, photographer, developer (Heroku)
+layout: interview
 categories:
 - developer
 - mac

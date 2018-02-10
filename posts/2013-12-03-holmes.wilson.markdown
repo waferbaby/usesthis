@@ -1,6 +1,7 @@
 ---
 title: Holmes Wilson
 summary: Co-founder (Fight for the Future)
+layout: interview
 categories:
 - developer
 - mac

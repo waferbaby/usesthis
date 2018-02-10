@@ -1,6 +1,7 @@
 ---
 title: Katy Goodman
 summary: Musician (Vivian Girls, La Sera), web developer (CASH Music)
+layout: interview
 categories:
 - developer
 - mac

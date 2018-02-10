@@ -1,6 +1,7 @@
 ---
 title: Patricio Gonzalez Vivo
 summary: Artist, graphical engineer (Mapzen)
+layout: interview
 categories:
 - artist
 - developer

@@ -1,6 +1,7 @@
 ---
 title: Douglas Wilson
 summary: Assistant professor, co-founder of Die Gute Fabrik
+layout: interview
 categories:
 - designer
 - game

@@ -1,6 +1,7 @@
 ---
 title: Bret Taylor
 summary: CTO (Facebook), co-founder (FriendFeed)
+layout: interview
 categories:
 - developer
 - linux

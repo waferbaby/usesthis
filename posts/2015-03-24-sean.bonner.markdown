@@ -1,6 +1,7 @@
 ---
 title: Sean Bonner
 summary: Activist, musician, co-founder (Safecast)
+layout: interview
 categories:
 - developer
 - entrepreneur

@@ -1,6 +1,7 @@
 ---
 title: Nozlee Samadzadeh
 summary: Writer, editor, IA (Flat, The Morning News)
+layout: interview
 categories:
 - editor
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Jessica Lippincott
 summary: Paleontologist, director of The Big Horn Basin Foundation
+layout: interview
 categories:
 - scientist
 ---

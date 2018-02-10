@@ -1,6 +1,7 @@
 ---
 title: John Resig
 summary: Programmer (jQuery)
+layout: interview
 categories:
 - developer
 - mac

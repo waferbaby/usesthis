@@ -1,6 +1,7 @@
 ---
 title: Jim Crawford
 summary: Game developer (Frog Fractions)
+layout: interview
 categories:
 - developer
 - game

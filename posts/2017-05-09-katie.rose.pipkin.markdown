@@ -1,6 +1,7 @@
 ---
 title: Katie Rose Pipkin
 summary: Artist, developer
+layout: interview
 categories:
 - artist
 - developer

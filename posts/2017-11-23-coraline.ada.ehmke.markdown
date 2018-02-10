@@ -1,6 +1,7 @@
 ---
 title: Coraline Ada Ehmke
 summary: Web developer (Stitch Fix)
+layout: interview
 categories:
 - developer
 - mac

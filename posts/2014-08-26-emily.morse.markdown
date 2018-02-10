@@ -1,6 +1,7 @@
 ---
 title: Emily Morse
 summary: Sexologist, podcaster
+layout: interview
 categories:
 - doctor
 - mac

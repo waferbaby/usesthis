@@ -1,6 +1,7 @@
 ---
 title: Alice Rutherford
 summary: Textile designer, illustrator
+layout: interview
 categories:
 - designer
 - fashion

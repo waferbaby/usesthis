@@ -1,6 +1,7 @@
 ---
 title: Henry Smith
 summary: Indie game developer (Spaceteam)
+layout: interview
 categories:
 - developer
 - game

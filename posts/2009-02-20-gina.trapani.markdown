@@ -1,6 +1,7 @@
 ---
 title: Gina Trapani
 summary: Writer, blogger (Smarterware)
+layout: interview
 categories:
 - developer
 - mac

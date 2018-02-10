@@ -1,6 +1,7 @@
 ---
 title: Jon Tan
 summary: Designer (Fontdeck, Mapalong, Brooklyn Beta)
+layout: interview
 categories:
 - designer
 - mac

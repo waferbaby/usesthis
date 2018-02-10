@@ -1,6 +1,7 @@
 ---
 title: Lisa Wade
 summary: Sociologist, professor
+layout: interview
 categories:
 - professor
 - windows

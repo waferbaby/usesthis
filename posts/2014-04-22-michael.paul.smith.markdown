@@ -1,6 +1,7 @@
 ---
 title: Michael Paul Smith
 summary: Photographer, model maker (Elgin Park)
+layout: interview
 categories:
 - artist
 - mac

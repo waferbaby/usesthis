@@ -1,6 +1,7 @@
 ---
 title: Auriea
 summary: Interactive artist, game designer (Tale of Tales)
+layout: interview
 categories:
 - artist
 - game

@@ -1,6 +1,7 @@
 ---
 title: Mark Jardine
 summary: Designer (Tapbots)
+layout: interview
 categories:
 - designer
 - mac

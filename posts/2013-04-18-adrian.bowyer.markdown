@@ -1,6 +1,7 @@
 ---
 title: Adrian Bowyer
 summary: Mechanical engineer, inventor (RepRap)
+layout: interview
 categories:
 - engineer
 - linux

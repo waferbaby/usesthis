@@ -1,6 +1,7 @@
 ---
 title: Shawn Thorsson
 summary: Prop replica and costume hobbyist
+layout: interview
 categories:
 - fashion
 - hacker

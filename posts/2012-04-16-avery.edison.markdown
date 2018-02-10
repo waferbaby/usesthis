@@ -1,6 +1,7 @@
 ---
 title: Avery Edison
 summary: Stand-up comedian, writer
+layout: interview
 categories:
 - comedian
 - mac

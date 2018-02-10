@@ -1,6 +1,7 @@
 ---
 title: Jon Hicks
 summary: Designer, gentleman
+layout: interview
 categories:
 - designer
 - mac

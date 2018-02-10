@@ -1,6 +1,7 @@
 ---
 title: Ashlyn Anstee
 summary: Director, storyboard artist (Nickelodeon)
+layout: interview
 categories:
 - animator
 - director

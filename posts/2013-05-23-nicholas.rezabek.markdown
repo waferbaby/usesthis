@@ -1,6 +1,7 @@
 ---
 title: Nicholas Rezabek
 summary: Designer, poster maker (The Bubble Process)
+layout: interview
 categories:
 - designer
 - illustrator

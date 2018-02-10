@@ -1,6 +1,7 @@
 ---
 title: Laura Ballance
 summary: Bassist (Superchunk), record label manager
+layout: interview
 categories:
 - artist
 - musician

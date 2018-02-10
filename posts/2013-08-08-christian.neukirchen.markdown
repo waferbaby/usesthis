@@ -1,6 +1,7 @@
 ---
 title: Christian Neukirchen
 summary: Software developer (Rack, bacon)
+layout: interview
 categories:
 - bsd
 - developer

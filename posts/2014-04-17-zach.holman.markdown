@@ -1,6 +1,7 @@
 ---
 title: Zach Holman
 summary: Web developer (GitHub)
+layout: interview
 categories:
 - developer
 - mac

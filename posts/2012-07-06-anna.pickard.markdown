@@ -1,6 +1,7 @@
 ---
 title: Anna Pickard
 summary: Writer (The Guardian, Glitch)
+layout: interview
 categories:
 - game
 - journalist

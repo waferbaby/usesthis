@@ -1,6 +1,7 @@
 ---
 title: Ann Friedman
 summary: Journalist (New York magazine, Tomorrow)
+layout: interview
 categories:
 - editor
 - journalist

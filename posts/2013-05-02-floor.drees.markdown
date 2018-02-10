@@ -1,6 +1,7 @@
 ---
 title: Floor Drees
 summary: Junior developer, education aficionado
+layout: interview
 categories:
 - developer
 - mac

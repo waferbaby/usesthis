@@ -1,6 +1,7 @@
 ---
 title: Peter Richardson
 summary: Map hacker (Mapzen)
+layout: interview
 categories:
 - designer
 - developer

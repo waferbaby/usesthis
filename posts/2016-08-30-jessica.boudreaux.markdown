@@ -1,6 +1,7 @@
 ---
 title: Jessica Boudreaux
 summary: Musician (Summer Cannibals)
+layout: interview
 categories:
 - mac
 - musician

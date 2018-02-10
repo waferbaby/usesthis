@@ -1,6 +1,7 @@
 ---
 title: Greg J. Smith
 summary: Editor (HOLO), designer
+layout: interview
 categories:
 - designer
 - editor

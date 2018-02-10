@@ -1,6 +1,7 @@
 ---
 title: Blair Hickman
 summary: Digital journalist
+layout: interview
 categories:
 - journalist
 - mac

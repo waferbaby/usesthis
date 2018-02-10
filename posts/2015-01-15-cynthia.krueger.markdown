@@ -1,6 +1,7 @@
 ---
 title: Cynthia Krueger
 summary: Patent agent, freelance writer
+layout: interview
 categories:
 - mac
 - patent

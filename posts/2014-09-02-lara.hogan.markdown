@@ -1,6 +1,7 @@
 ---
 title: Lara Hogan
 summary: Front-end developer, performance engineering manager (Etsy)
+layout: interview
 categories:
 - developer
 - mac

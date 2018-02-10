@@ -1,6 +1,7 @@
 ---
 title: Misha Glouberman
 summary: Teacher, improviser
+layout: interview
 categories:
 - teacher
 - windows

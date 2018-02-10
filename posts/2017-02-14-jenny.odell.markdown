@@ -1,6 +1,7 @@
 ---
 title: Jenny Odell
 summary: Conceptual artist
+layout: interview
 categories:
 - artist
 - mac

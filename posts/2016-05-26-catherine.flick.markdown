@@ -1,6 +1,7 @@
 ---
 title: Catherine Flick
 summary: Senior Lecturer in Computing & Social Responsibility (De Montfont University)
+layout: interview
 categories:
 - game
 - mac

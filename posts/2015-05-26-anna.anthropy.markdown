@@ -1,6 +1,7 @@
 ---
 title: anna anthropy
 summary: Game developer, game historian
+layout: interview
 categories:
 - developer
 - game

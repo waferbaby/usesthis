@@ -1,6 +1,7 @@
 ---
 title: Cate Huston
 summary: Mobile lead, Automattic
+layout: interview
 categories:
 - developer
 - software

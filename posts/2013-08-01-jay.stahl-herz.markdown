@@ -1,6 +1,7 @@
 ---
 title: Jay Stahl-Herz
 summary: Forensic pathologist (NYC)
+layout: interview
 categories:
 - mac
 - pathologist

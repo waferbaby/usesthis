@@ -1,6 +1,7 @@
 ---
 title: Jen Fong-Adwent
 summary: Apps engineer (Mozilla)
+layout: interview
 categories:
 - developer
 - mac

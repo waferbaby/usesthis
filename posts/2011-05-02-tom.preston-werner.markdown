@@ -1,6 +1,7 @@
 ---
 title: Tom Preston-Werner
 summary: Co-founder of Github
+layout: interview
 categories:
 - developer
 - mac

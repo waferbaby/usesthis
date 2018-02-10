@@ -1,6 +1,7 @@
 ---
 title: Michael Ogawa
 summary: PhD student, developer (code_swarm)
+layout: interview
 categories:
 - developer
 - software

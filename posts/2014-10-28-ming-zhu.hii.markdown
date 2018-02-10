@@ -1,6 +1,7 @@
 ---
 title: Ming-Zhu Hii
 summary: Actor, experimental filmmaker
+layout: interview
 categories:
 - actor
 - director

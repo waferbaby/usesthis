@@ -1,6 +1,7 @@
 ---
 title: Claire L. Evans
 summary: Writer, editor, singer (YACHT)
+layout: interview
 categories:
 - editor
 - mac

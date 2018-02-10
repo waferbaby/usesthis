@@ -1,6 +1,7 @@
 ---
 title: Hadley Wickham
 summary: Chief scientist (RStudio)
+layout: interview
 categories:
 - developer
 - mac

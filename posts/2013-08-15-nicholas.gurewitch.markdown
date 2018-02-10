@@ -1,6 +1,7 @@
 ---
 title: Nicholas Gurewitch
 summary: Cartoonist (The Perry Bible Fellowship)
+layout: interview
 categories:
 - cartoonist
 credits:

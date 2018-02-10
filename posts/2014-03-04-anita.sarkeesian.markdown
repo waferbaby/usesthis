@@ -1,6 +1,7 @@
 ---
 title: Anita Sarkeesian
 summary: Media critic, creator (Feminist Frequency)
+layout: interview
 categories:
 - critic
 - editor

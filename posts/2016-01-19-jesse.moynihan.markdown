@@ -1,6 +1,7 @@
 ---
 title: Jesse Moynihan
 summary: Cartoonist (Forming)
+layout: interview
 categories:
 - cartoonist
 ---

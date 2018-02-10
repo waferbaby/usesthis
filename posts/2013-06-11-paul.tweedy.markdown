@@ -1,6 +1,7 @@
 ---
 title: Paul Tweedy
 summary: Senior Technical Architect, BBC
+layout: interview
 categories:
 - developer
 - mac

@@ -1,6 +1,7 @@
 ---
 title: Roxane Gay
 summary: Writer, associate professor
+layout: interview
 categories:
 - mac
 - professor
