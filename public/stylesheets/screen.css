@@ -7,11 +7,6 @@ a:hover {
 color: #fe2e9a !important;
 }
 
-a.selected,
-body > header nav a:hover {
-border-bottom: solid 1px #fe2e9a !important;
-}
-
 article.interviewee {
 clear: left;
 }
@@ -58,9 +53,7 @@ text-transform: uppercase;
 }
 
 body > header nav a {
-border-bottom: solid 1px #000;
 color: #000;
-text-decoration: none;
 }
 
 body > header p {
