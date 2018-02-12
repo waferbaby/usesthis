@@ -9,7 +9,7 @@ class InterviewGearScanner < Dimples::Plugin
 
   def gear
     @gear ||= {}.tap do |gear|
-      path = File.join(@site.paths[:source], 'gear', '**', '*.json')
+      path = File.join(@site.paths[:base], 'gear', '**', '*.json')
 
       Dir.glob(path).sort.each do |path|
         slug = File.basename(path, '.json')
