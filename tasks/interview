@@ -39,7 +39,6 @@ output = <<OUTPUT
 ---
 title: #{name}
 summary: (summary)
-layout: interview
 categories:
 - (category)
 - (category)
