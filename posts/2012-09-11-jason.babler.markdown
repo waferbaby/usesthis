@@ -1,7 +1,6 @@
 ---
 title: Jason Babler
 summary: Creative Director (MAKE), sculptor
-layout: interview
 categories:
 - artist
 - designer

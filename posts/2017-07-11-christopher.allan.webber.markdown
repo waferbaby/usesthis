@@ -1,7 +1,6 @@
 ---
 title: Christopher Allan Webber
 summary: Developer, co-founder of MediaGoblin
-layout: interview
 categories:
 - developer
 - linux

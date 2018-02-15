@@ -1,7 +1,6 @@
 ---
 title: Bernie DeKoven
 summary: Game designer, fun theorist
-layout: interview
 categories:
 - designer
 - game

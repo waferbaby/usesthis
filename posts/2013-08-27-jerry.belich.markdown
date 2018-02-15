@@ -1,7 +1,6 @@
 ---
 title: Jerry Belich
 summary: Software/hardware engineer (Clockwork)
-layout: interview
 categories:
 - engineer
 - hardware

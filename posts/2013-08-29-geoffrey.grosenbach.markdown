@@ -1,7 +1,6 @@
 ---
 title: Geoffrey Grosenbach
 summary: Independent video publisher (PeepCode)
-layout: interview
 categories:
 - mac
 - publisher

@@ -1,7 +1,6 @@
 ---
 title: Ed Hunsinger
 summary: Developer, blogger, fire artist
-layout: interview
 categories:
 - artist
 - developer

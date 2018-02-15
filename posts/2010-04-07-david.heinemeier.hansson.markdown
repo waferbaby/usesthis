@@ -1,7 +1,6 @@
 ---
 title: David Heinemeier Hansson
 summary: Software developer (37signals)
-layout: interview
 categories:
 - developer
 - mac

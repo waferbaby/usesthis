@@ -1,7 +1,6 @@
 ---
 title: Sara Hendren
 summary: Artist, design researcher, writer
-layout: interview
 categories:
 - artist
 - mac

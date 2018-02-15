@@ -1,7 +1,6 @@
 ---
 title: Fred Benenson
 summary: Data researcher (Kickstarter)
-layout: interview
 categories:
 - data
 - developer

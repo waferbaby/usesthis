@@ -1,7 +1,6 @@
 ---
 title: Meg Lewis
 summary: Designer (Ghostly Ferns)
-layout: interview
 categories:
 - designer
 - mac

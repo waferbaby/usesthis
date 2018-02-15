@@ -1,7 +1,6 @@
 ---
 title: Aurelia Moser
 summary: Developer (Mozilla Science Lab)
-layout: interview
 categories:
 - artist
 - developer

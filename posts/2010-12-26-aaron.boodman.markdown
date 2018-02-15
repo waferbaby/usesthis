@@ -1,7 +1,6 @@
 ---
 title: Aaron Boodman
 summary: Developer (Greasemonkey, Google Chrome)
-layout: interview
 categories:
 - developer
 - linux

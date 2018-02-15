@@ -1,7 +1,6 @@
 ---
 title: Rob Pike
 summary: Software developer (Unix, Plan 9)
-layout: interview
 categories:
 - developer
 - linux

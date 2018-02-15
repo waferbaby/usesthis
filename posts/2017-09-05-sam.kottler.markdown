@@ -1,7 +1,6 @@
 ---
 title: Sam Kottler
 summary: Site reliability engineer (GitHub)
-layout: interview
 categories:
 - engineer
 - mac

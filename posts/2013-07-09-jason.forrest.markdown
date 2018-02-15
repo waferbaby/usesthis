@@ -1,7 +1,6 @@
 ---
 title: Jason Forrest
 summary: Musician, founder (Network Awesome)
-layout: interview
 categories:
 - mac
 - musician

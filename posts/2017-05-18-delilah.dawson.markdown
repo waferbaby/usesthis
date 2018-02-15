@@ -1,7 +1,6 @@
 ---
 title: Delilah Dawson
 summary: Writer
-layout: interview
 categories:
 - mac
 - writer

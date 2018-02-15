@@ -1,7 +1,6 @@
 ---
 title: Kate Towers
 summary: Fashion designer, artist
-layout: interview
 categories:
 - artist
 - designer

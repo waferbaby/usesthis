@@ -1,7 +1,6 @@
 ---
 title: Amy Nguyen
 summary: Infrastructure engineer (Stripe)
-layout: interview
 categories:
 - developer
 - linux

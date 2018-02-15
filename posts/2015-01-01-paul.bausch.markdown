@@ -1,7 +1,6 @@
 ---
 title: Paul Bausch
 summary: Web developer (MetaFilter)
-layout: interview
 categories:
 - developer
 - mac

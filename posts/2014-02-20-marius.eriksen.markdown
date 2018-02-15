@@ -1,7 +1,6 @@
 ---
 title: Marius Eriksen
 summary: Software developer (Twitter)
-layout: interview
 categories:
 - developer
 - mac

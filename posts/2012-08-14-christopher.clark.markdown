@@ -1,7 +1,6 @@
 ---
 title: Christopher Clark
 summary: UI designer (Square)
-layout: interview
 categories:
 - designer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Gemma Lord
 summary: Designer
-layout: interview
 categories:
 - designer
 - mac

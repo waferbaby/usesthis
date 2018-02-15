@@ -1,7 +1,6 @@
 ---
 title: Kitty Horrorshow
 summary: Indie game developer
-layout: interview
 categories:
 - developer
 - game

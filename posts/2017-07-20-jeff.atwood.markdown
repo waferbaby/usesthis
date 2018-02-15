@@ -1,7 +1,6 @@
 ---
 title: Jeff Atwood
 summary: Developer, co-founder of Stack Overflow
-layout: interview
 categories:
 - developer
 - mac

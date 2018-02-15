@@ -1,7 +1,6 @@
 ---
 title: Adam WarRock
 summary: Nerdy hip hop artist
-layout: interview
 categories:
 - mac
 - musician

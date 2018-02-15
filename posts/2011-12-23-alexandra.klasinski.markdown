@@ -1,7 +1,6 @@
 ---
 title: Alexandra Klasinski
 summary: Photographer, designer
-layout: interview
 categories:
 - designer
 - photographer

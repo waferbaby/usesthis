@@ -1,7 +1,6 @@
 ---
 title: Dhanji Prasanna
 summary: Hacker, ex-Googler (Wave, Plus, Search)
-layout: interview
 categories:
 - mac
 - software

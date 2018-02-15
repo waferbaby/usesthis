@@ -1,7 +1,6 @@
 ---
 title: Hiné Mizushima
 summary: Felt sculptor, animator
-layout: interview
 categories:
 - animator
 - artist

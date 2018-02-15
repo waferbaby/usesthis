@@ -1,7 +1,6 @@
 ---
 title: Jessie Frazelle
 summary: Software engineer (Google, Docker)
-layout: interview
 categories:
 - developer
 - linux

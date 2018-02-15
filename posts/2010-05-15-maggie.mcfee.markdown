@@ -1,7 +1,6 @@
 ---
 title: Maggie McFee
 summary: Technologist
-layout: interview
 categories:
 - artist
 - mac

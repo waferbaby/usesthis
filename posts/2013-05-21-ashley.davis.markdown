@@ -1,7 +1,6 @@
 ---
 title: Ashley Davis
 summary: Cartoonist (Jailbird)
-layout: interview
 categories:
 - cartoonist
 - illustrator

@@ -1,7 +1,6 @@
 ---
 title: Kirby Ferguson
 summary: Filmmaker, writer, speaker (Everything is a Remix)
-layout: interview
 categories:
 - film
 - mac

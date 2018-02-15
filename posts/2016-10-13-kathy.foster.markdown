@@ -1,7 +1,6 @@
 ---
 title: Kathy Foster
 summary: Bassist (The Thermals), drummer (Hurry Up)
-layout: interview
 categories:
 - mac
 - musician

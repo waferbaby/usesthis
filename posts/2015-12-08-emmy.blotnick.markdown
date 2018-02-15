@@ -1,7 +1,6 @@
 ---
 title: Emmy Blotnick
 summary: Comedian, writer
-layout: interview
 categories:
 - comedian
 - mac

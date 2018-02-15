@@ -1,7 +1,6 @@
 ---
 title: Hilary Sargent
 summary: News & Homepage Editor (Boston.com), founder (ChartGirl)
-layout: interview
 categories:
 - editor
 - mac

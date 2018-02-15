@@ -1,7 +1,6 @@
 ---
 title: Sam Brown
 summary: Illustrator (Exploding Dog)
-layout: interview
 categories:
 - artist
 - mac

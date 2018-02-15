@@ -1,7 +1,6 @@
 ---
 title: Ana Breton
 summary: Digital producer (Full Frontal with Samantha Bee)
-layout: interview
 categories:
 - mac
 - producer

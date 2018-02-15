@@ -1,7 +1,6 @@
 ---
 title: Ian MacLarty
 summary: Indie game developer
-layout: interview
 categories:
 - developer
 - game

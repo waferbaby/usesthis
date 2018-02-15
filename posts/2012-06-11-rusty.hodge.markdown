@@ -1,7 +1,6 @@
 ---
 title: Rusty Hodge
 summary: Founder and general manager (SomaFM)
-layout: interview
 categories:
 - audio
 - developer

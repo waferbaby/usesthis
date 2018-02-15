@@ -1,7 +1,6 @@
 ---
 title: Ramsey Nasser
 summary: Computer scientist, game designer
-layout: interview
 categories:
 - developer
 - game

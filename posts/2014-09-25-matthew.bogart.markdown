@@ -1,7 +1,6 @@
 ---
 title: Matthew Bogart
 summary: Cartoonist (The Chairs' Hiatus and Oh, It's the End of the World)
-layout: interview
 categories:
 - cartoonist
 - mac

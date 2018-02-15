@@ -1,7 +1,6 @@
 ---
 title: John Adams
 summary: Security researcher, sound designer, photographer
-layout: interview
 categories:
 - audio
 - mac

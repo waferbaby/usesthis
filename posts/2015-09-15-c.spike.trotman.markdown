@@ -1,7 +1,6 @@
 ---
 title: C. Spike Trotman
 summary: Cartoonist, publisher (Iron Circus Comics)
-layout: interview
 categories:
 - artist
 - publisher

@@ -1,7 +1,6 @@
 ---
 title: Cheryl Klein
 summary: Writer, book editor (Scholastic)
-layout: interview
 categories:
 - editor
 - mac

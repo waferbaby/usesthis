@@ -1,7 +1,6 @@
 ---
 title: Julie Ann Horvath
 summary: Designer, developer (GitHub)
-layout: interview
 categories:
 - designer
 - developer

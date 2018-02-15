@@ -1,7 +1,6 @@
 ---
 title: Ryan North
 summary: Cartoonist (Dinosaur comics)
-layout: interview
 categories:
 - cartoonist
 - mac

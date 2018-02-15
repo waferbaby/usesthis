@@ -1,7 +1,6 @@
 ---
 title: Julia Evans
 summary: Developer (Stripe), cartoonist, zine maker
-layout: interview
 categories:
 - cartoonist
 - developer

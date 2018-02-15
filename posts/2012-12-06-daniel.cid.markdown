@@ -1,7 +1,6 @@
 ---
 title: Daniel Cid
 summary: Security researcher, developer (OSSEC)
-layout: interview
 categories:
 - bsd
 - developer

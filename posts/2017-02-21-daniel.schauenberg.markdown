@@ -1,7 +1,6 @@
 ---
 title: Daniel Schauenberg
 summary: Staff engineer (Etsy)
-layout: interview
 categories:
 - developer
 - mac

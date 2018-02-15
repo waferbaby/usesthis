@@ -1,7 +1,6 @@
 ---
 title: Javier Arce
 summary: Designer, illustrator, web developer (CARTO)
-layout: interview
 categories:
 - designer
 - developer

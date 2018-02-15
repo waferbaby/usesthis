@@ -1,7 +1,6 @@
 ---
 title: Iris Willow
 summary: Jewellery designer
-layout: interview
 categories:
 - designer
 - jeweller

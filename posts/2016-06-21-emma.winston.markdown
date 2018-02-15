@@ -1,7 +1,6 @@
 ---
 title: Emma Winston
 summary: PhD student, musician, botmaker
-layout: interview
 categories:
 - developer
 - mac

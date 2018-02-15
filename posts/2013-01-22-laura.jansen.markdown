@@ -1,7 +1,6 @@
 ---
 title: Laura Jansen
 summary: Cosplayer
-layout: interview
 categories:
 - artist
 - cosplay

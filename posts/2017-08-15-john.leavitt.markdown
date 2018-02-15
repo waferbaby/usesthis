@@ -1,7 +1,6 @@
 ---
 title: John Leavitt
 summary: Writer, cartoonist, activist
-layout: interview
 categories:
 - activist
 - cartoonist

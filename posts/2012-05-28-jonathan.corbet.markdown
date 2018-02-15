@@ -1,7 +1,6 @@
 ---
 title: Jonathan Corbet
 summary: Linux kernel contributor, editor (LWN)
-layout: interview
 categories:
 - developer
 - editor

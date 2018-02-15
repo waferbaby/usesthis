@@ -1,7 +1,6 @@
 ---
 title: David Fox
 summary: Game designer (Zak McKracken, Maniac Mansion)
-layout: interview
 categories:
 - designer
 - developer

@@ -1,7 +1,6 @@
 ---
 title: Melissa Gira Grant
 summary: Writer, freelance journalist
-layout: interview
 categories:
 - journalist
 - mac

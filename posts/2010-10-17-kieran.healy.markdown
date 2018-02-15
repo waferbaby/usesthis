@@ -1,7 +1,6 @@
 ---
 title: Kieran Healy
 summary: Sociologist
-layout: interview
 categories:
 - mac
 - professor

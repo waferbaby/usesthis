@@ -1,7 +1,6 @@
 ---
 title: Amanda Cohen
 summary: Chef, owner (Dirt Candy)
-layout: interview
 categories:
 - chef
 - mac

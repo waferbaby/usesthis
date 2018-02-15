@@ -1,7 +1,6 @@
 ---
 title: why the lucky stiff
 summary: Internet rodent
-layout: interview
 categories:
 - developer
 - mac

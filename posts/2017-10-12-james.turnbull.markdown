@@ -1,7 +1,6 @@
 ---
 title: James Turnbull
 summary: Engineer, author, CTO (Empatico)
-layout: interview
 categories:
 - developer
 - mac

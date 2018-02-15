@@ -1,7 +1,6 @@
 ---
 title: Diana Kimball
 summary: Writer, programmer (SoundCloud)
-layout: interview
 categories:
 - developer
 - mac

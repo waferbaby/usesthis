@@ -1,7 +1,6 @@
 ---
 title: Yusuke Endoh
 summary: Quine fan and software developer (Ruby)
-layout: interview
 categories:
 - developer
 - linux

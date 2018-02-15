@@ -1,7 +1,6 @@
 ---
 title: Kitto Katsu
 summary: Japanese pop-culture reviewer
-layout: interview
 categories:
 - culture
 - windows

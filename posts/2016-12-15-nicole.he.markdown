@@ -1,7 +1,6 @@
 ---
 title: Nicole He
 summary: Programmer, artist
-layout: interview
 categories:
 - artist
 - developer

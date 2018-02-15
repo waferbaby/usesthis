@@ -1,7 +1,6 @@
 ---
 title: Blaise Aguera y Arcas
 summary: Architect (Bing Maps/Mobile)
-layout: interview
 categories:
 - developer
 - web

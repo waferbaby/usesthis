@@ -1,7 +1,6 @@
 ---
 title: Lorna Watt
 summary: Yarnbomber (Knits for Life)
-layout: interview
 categories:
 - knitting
 - mac

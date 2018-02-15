@@ -1,7 +1,6 @@
 ---
 title: Madelin Woods
 summary: Developer (Square), artist
-layout: interview
 categories:
 - artist
 - developer

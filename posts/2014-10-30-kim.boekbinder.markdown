@@ -1,7 +1,6 @@
 ---
 title: Kim Boekbinder
 summary: Artist, musician (The Impossible Girl)
-layout: interview
 categories:
 - artist
 - mac

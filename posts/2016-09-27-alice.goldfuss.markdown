@@ -1,7 +1,6 @@
 ---
 title: Alice Goldfuss
 summary: Site Reliability Engineer (New Relic)
-layout: interview
 categories:
 - developer
 - linux

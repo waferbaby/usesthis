@@ -1,7 +1,6 @@
 ---
 title: Richard Stallman
 summary: Freedom campaigner
-layout: interview
 licence: by-nd
 categories:
 - developer

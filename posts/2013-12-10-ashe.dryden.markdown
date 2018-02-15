@@ -1,7 +1,6 @@
 ---
 title: Ashe Dryden
 summary: Developer, speaker, writer
-layout: interview
 categories:
 - developer
 - mac

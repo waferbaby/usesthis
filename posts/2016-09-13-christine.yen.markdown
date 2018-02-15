@@ -1,7 +1,6 @@
 ---
 title: Christine Yen
 summary: Engineer, co-founder (Honeycomb)
-layout: interview
 categories:
 - developer
 - mac

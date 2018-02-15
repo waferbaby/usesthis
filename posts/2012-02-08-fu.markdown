@@ -1,7 +1,6 @@
 ---
 title: Fu
 summary: Robot illustrator, sculptor, game creator
-layout: interview
 categories:
 - artist
 - developer

@@ -1,7 +1,6 @@
 ---
 title: Lee Martin
 summary: Designer, developer
-layout: interview
 categories:
 - designer
 - developer

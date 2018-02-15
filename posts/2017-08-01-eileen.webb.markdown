@@ -1,7 +1,6 @@
 ---
 title: Eileen Webb
 summary: Director of Strategy and Livestock (webmeadow)
-layout: interview
 categories:
 - mac
 - strategy

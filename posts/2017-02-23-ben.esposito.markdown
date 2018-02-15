@@ -1,7 +1,6 @@
 ---
 title: Ben Esposito
 summary: Independent game developer (Tattletail, Donut Country)
-layout: interview
 categories:
 - developer
 - game

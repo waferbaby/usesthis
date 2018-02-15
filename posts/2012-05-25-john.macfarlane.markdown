@@ -1,7 +1,6 @@
 ---
 title: John MacFarlane
 summary: Philosophy professor, developer (pandoc, gitit)
-layout: interview
 categories:
 - developer
 - linux

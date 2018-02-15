@@ -1,7 +1,6 @@
 ---
 title: Jim Leonard
 summary: MobyGames co-founder, demoscene developer
-layout: interview
 categories:
 - developer
 - game

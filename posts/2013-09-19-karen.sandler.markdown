@@ -1,7 +1,6 @@
 ---
 title: Karen Sandler
 summary: Software activist, executive director (GNOME)
-layout: interview
 categories:
 - lawyer
 - linux

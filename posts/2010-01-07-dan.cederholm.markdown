@@ -1,7 +1,6 @@
 ---
 title: Dan Cederholm
 summary: Web designer (SimpleBits)
-layout: interview
 categories:
 - designer
 - mac

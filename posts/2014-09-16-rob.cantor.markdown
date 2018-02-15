@@ -1,7 +1,6 @@
 ---
 title: Rob Cantor
 summary: Singer, songwriter
-layout: interview
 categories:
 - mac
 - musician

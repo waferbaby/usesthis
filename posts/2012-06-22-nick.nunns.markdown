@@ -1,7 +1,6 @@
 ---
 title: Nick Nunns
 summary: Owner, brewer (TRVE Brewing Company)
-layout: interview
 categories:
 - beer
 - mac

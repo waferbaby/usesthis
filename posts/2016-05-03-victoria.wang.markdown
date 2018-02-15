@@ -1,7 +1,6 @@
 ---
 title: Victoria Wang
 summary: Designer, developer (Neocities, Hibari)
-layout: interview
 categories:
 - designer
 - developer

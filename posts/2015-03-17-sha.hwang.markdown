@@ -1,7 +1,6 @@
 ---
 title: Sha Hwang
 summary: Designer, technologist (Gifpop, Meshu, Healthcare.gov)
-layout: interview
 categories:
 - designer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Rasmus Andersson
 summary: Designer, programmer (Spotify, Facebook)
-layout: interview
 categories:
 - designer
 - developer

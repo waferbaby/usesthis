@@ -1,7 +1,6 @@
 ---
 title: Brian Brophy
 summary: Photographer, attorney
-layout: interview
 categories:
 - lawyer
 - mac

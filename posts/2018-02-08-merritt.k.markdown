@@ -1,7 +1,6 @@
 ---
 title: merritt k
 summary: Writer, podcaster
-layout: interview
 categories:
 - mac
 - podcaster

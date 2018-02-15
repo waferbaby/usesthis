@@ -1,7 +1,6 @@
 ---
 title: Lincoln Mullen
 summary: Historian, teacher
-layout: interview
 categories:
 - developer
 - historian

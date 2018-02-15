@@ -1,7 +1,6 @@
 ---
 title: Mel Croucher
 summary: Pioneering video game developer
-layout: interview
 categories:
 - developer
 - game

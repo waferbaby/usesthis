@@ -1,7 +1,6 @@
 ---
 title: Emily Nagoski
 summary: Sex educator, author
-layout: interview
 categories:
 - podcaster
 - sex

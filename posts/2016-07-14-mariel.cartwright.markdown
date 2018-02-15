@@ -1,7 +1,6 @@
 ---
 title: Mariel Cartwright
 summary: Art director, lead animator (Indivisible, Skullgirls)
-layout: interview
 categories:
 - animator
 - game

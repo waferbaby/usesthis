@@ -1,7 +1,6 @@
 ---
 title: Kathryn Borel
 summary: Writer and editor (The Believer, American Dad!)
-layout: interview
 categories:
 - editor
 - mac

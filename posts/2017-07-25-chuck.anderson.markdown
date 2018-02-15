@@ -1,7 +1,6 @@
 ---
 title: Chuck Anderson
 summary: Art guy (NoPattern)
-layout: interview
 categories:
 - designer
 - mac

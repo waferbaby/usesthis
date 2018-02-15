@@ -1,7 +1,6 @@
 ---
 title: Jennifer Brook
 summary: Interaction designer, book artist
-layout: interview
 categories:
 - designer
 - mac

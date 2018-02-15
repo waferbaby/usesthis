@@ -1,7 +1,6 @@
 ---
 title: Chad Fowler
 summary: Programmer, musician, author, speaker
-layout: interview
 categories:
 - developer
 - linux

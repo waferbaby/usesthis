@@ -1,7 +1,6 @@
 ---
 title: Joe Armstrong
 summary: Software developer (Erlang)
-layout: interview
 categories:
 - developer
 - linux

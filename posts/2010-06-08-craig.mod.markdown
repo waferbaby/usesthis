@@ -1,7 +1,6 @@
 ---
 title: Craig Mod
 summary: Writer, designer, publisher, developer
-layout: interview
 categories:
 - designer
 - mac

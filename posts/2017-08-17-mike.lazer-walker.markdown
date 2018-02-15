@@ -1,7 +1,6 @@
 ---
 title: Mike Lazer-Walker
 summary: Interactive artist, developer
-layout: interview
 categories:
 - developer
 - game

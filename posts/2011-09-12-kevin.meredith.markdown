@@ -1,7 +1,6 @@
 ---
 title: Kevin Meredith
 summary: Photographer, teacher
-layout: interview
 categories:
 - mac
 - photographer

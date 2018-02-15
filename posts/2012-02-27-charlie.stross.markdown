@@ -1,7 +1,6 @@
 ---
 title: Charlie Stross
 summary: Novelist, recovering software developer
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Sean T. Collins
 summary: Writer (comics, Rolling Stone, BuzzFeed)
-layout: interview
 categories:
 - mac
 - writer

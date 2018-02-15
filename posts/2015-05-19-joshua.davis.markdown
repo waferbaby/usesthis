@@ -1,7 +1,6 @@
 ---
 title: Joshua Davis
 summary: Writer, filmmaker, co-founder (Epic Magazine)
-layout: interview
 categories:
 - editor
 - film

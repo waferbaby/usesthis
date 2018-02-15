@@ -1,7 +1,6 @@
 ---
 title: Damien Miller
 summary: Open-source developer (OpenSSH, OpenBSD)
-layout: interview
 categories:
 - bsd
 - developer

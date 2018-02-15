@@ -1,7 +1,6 @@
 ---
 title: Rob Giampietro
 summary: Designer (Project Projects), writer
-layout: interview
 categories:
 - designer
 - mac

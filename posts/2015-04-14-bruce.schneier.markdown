@@ -1,7 +1,6 @@
 ---
 title: Bruce Schneier
 summary: Security technologist
-layout: interview
 categories:
 - developer
 - security

@@ -1,7 +1,6 @@
 ---
 title: David Malki !
 summary: Designer, cartoonist (Wondermark)
-layout: interview
 categories:
 - cartoonist
 - designer

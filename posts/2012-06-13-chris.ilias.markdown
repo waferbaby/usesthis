@@ -1,7 +1,6 @@
 ---
 title: Chris Ilias
 summary: Chef at Sweet Basil, Colorado
-layout: interview
 categories:
 - chef
 - food

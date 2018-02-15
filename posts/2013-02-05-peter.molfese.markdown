@@ -1,7 +1,6 @@
 ---
 title: Peter Molfese
 summary: Research scientist (Haskins Labs)
-layout: interview
 categories:
 - developer
 - mac

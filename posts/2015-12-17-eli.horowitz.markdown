@@ -1,7 +1,6 @@
 ---
 title: Eli Horowitz
 summary: Editor, writer
-layout: interview
 categories:
 - editor
 - mac

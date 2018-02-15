@@ -1,7 +1,6 @@
 ---
 title: Laura Khalil
 summary: Marketer, puzzler, robot builder
-layout: interview
 categories:
 - blogger
 - hacker

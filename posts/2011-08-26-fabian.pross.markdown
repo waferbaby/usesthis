@@ -1,7 +1,6 @@
 ---
 title: Fabian Pross
 summary: Technical director (Polynoid)
-layout: interview
 categories:
 - artist
 - film

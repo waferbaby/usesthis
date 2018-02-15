@@ -1,7 +1,6 @@
 ---
 title: Daniel Sinker
 summary: Director, Knight-Mozilla OpenNews
-layout: interview
 categories:
 - journalist
 - mac

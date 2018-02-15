@@ -1,7 +1,6 @@
 ---
 title: Max Temkin
 summary: Designer (Cards Against Humanity, political campaigns)
-layout: interview
 categories:
 - designer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Kee Chi
 summary: Gameplay programmer (Double Fine)
-layout: interview
 categories:
 - developer
 - game

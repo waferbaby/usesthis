@@ -1,7 +1,6 @@
 ---
 title: danah boyd
 summary: Researcher, Microsoft Research New England
-layout: interview
 categories:
 - mac
 - researcher

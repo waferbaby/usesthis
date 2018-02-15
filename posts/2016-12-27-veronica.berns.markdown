@@ -1,7 +1,6 @@
 ---
 title: Veronica Berns
 summary: Science cartoonist
-layout: interview
 categories:
 - cartoonist
 - mac

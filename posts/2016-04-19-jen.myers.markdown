@@ -1,7 +1,6 @@
 ---
 title: Jen Myers
 summary: Technologist, writer (Girl Develop It, Code and Cupcakes Chicago)
-layout: interview
 categories:
 - developer
 - mac

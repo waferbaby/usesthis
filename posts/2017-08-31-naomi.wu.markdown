@@ -1,7 +1,6 @@
 ---
 title: Naomi Wu
 summary: Maker, hardware hacker
-layout: interview
 categories:
 - hacker
 - linux

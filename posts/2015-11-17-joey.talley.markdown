@@ -1,7 +1,6 @@
 ---
 title: Reverend Joey Talley
 summary: Wicca minister
-layout: interview
 categories:
 - mac
 - witch

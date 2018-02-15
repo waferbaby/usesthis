@@ -1,7 +1,6 @@
 ---
 title: Bjarne Stroustrup
 summary: Creator of C++
-layout: interview
 categories:
 - developer
 - linux

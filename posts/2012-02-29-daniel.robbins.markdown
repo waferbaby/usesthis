@@ -1,7 +1,6 @@
 ---
 title: Daniel Robbins
 summary: Software developer, creator of Gentoo
-layout: interview
 categories:
 - developer
 - linux

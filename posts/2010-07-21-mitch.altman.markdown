@@ -1,7 +1,6 @@
 ---
 title: Mitch Altman
 summary: Inventor
-layout: interview
 categories:
 - hacker
 - hardware

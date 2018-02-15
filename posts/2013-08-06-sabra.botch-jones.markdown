@@ -1,7 +1,6 @@
 ---
 title: Sabra Botch-Jones
 summary: Forensic toxicologist, researcher
-layout: interview
 categories:
 - mac
 - researcher

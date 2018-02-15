@@ -1,7 +1,6 @@
 ---
 title: Tom Phillipson
 summary: Video editor, VJ, musician
-layout: interview
 categories:
 - mac
 - musician

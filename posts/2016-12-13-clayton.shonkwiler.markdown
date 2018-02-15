@@ -1,7 +1,6 @@
 ---
 title: Clayton Shonkwiler
 summary: Mathematician, animator
-layout: interview
 categories:
 - animator
 - mac

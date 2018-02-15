@@ -1,7 +1,6 @@
 ---
 title: Morgan Evans
 summary: Writer, director
-layout: interview
 categories:
 - director
 - mac

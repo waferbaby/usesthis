@@ -1,7 +1,6 @@
 ---
 title: Ben Kamens
 summary: Lead developer (The Khan Academy)
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Adit Gupta
 summary: Founder and CEO (Function Space)
-layout: interview
 categories:
 - developer
 - linux

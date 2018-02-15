@@ -1,7 +1,6 @@
 ---
 title: Martin Pittenauer
 summary: Co-founder (TheCodingMonkeys)
-layout: interview
 categories:
 - developer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Robert Böhnke
 summary: Software developer (SoundCloud)
-layout: interview
 categories:
 - developer
 - mac

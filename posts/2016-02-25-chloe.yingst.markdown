@@ -1,7 +1,6 @@
 ---
 title: Chloé Yingst
 summary: Illustrator, designer (Mutual Mobile)
-layout: interview
 categories:
 - designer
 - illustrator

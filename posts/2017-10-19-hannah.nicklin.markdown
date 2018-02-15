@@ -1,7 +1,6 @@
 ---
 title: Hannah Nicklin
 summary: Writer, narrative designer, producer, cyclist
-layout: interview
 categories:
 - cyclist
 - designer

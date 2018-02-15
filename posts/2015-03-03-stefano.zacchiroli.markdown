@@ -1,7 +1,6 @@
 ---
 title: Stefano Zacchiroli
 summary: Computer science researcher, teacher, developer (Debian)
-layout: interview
 categories:
 - developer
 - linux

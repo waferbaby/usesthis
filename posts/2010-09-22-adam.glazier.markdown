@@ -1,7 +1,6 @@
 ---
 title: Adam Glazier
 summary: Interaction + sound designer (IDEO)
-layout: interview
 categories:
 - designer
 - developer

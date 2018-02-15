@@ -1,7 +1,6 @@
 ---
 title: Laura Olin
 summary: Digital strategist
-layout: interview
 categories:
 - mac
 - politics

@@ -1,7 +1,6 @@
 ---
 title: Adam "doseone" Kidd
 summary: Musician, rapper, painter
-layout: interview
 categories:
 - artist
 - mac

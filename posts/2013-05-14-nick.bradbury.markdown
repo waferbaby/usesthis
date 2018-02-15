@@ -1,7 +1,6 @@
 ---
 title: Nick Bradbury
 summary: Software developer (FeedDemon, Glassboard)
-layout: interview
 categories:
 - developer
 - mac

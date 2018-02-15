@@ -1,7 +1,6 @@
 ---
 title: Mark Pilgrim
 summary: Developer & standards advocate (Google)
-layout: interview
 categories:
 - developer
 - linux

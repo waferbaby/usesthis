@@ -1,7 +1,6 @@
 ---
 title: Theodore Gray
 summary: Co-founder (Wolfram Research), element collector
-layout: interview
 categories:
 - developer
 - mac

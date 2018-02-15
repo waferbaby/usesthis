@@ -1,7 +1,6 @@
 ---
 title: Max Shron
 summary: Data scientist (Shron LLC, ex-OkCupid)
-layout: interview
 categories:
 - data
 - linux

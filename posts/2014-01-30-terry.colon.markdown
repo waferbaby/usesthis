@@ -1,7 +1,6 @@
 ---
 title: Terry Colon
 summary: Illustrator, cartoonist
-layout: interview
 categories:
 - cartoonist
 - illustrator

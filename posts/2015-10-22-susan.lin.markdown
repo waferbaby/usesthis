@@ -1,7 +1,6 @@
 ---
 title: Susan Lin
 summary: Artist, designer, developer (Treehouse)
-layout: interview
 categories:
 - artist
 - developer

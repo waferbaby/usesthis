@@ -1,7 +1,6 @@
 ---
 title: Kathryn Yu
 summary: Photographer
-layout: interview
 categories:
 - mac
 - photographer

@@ -1,7 +1,6 @@
 ---
 title: Colin Gourlay
 summary: Interactive story developer (ABC News, Australia)
-layout: interview
 categories:
 - data
 - developer

@@ -1,7 +1,6 @@
 ---
 title: Ben Welsh
 summary: Reporter, web developer (LA Times)
-layout: interview
 categories:
 - developer
 - linux

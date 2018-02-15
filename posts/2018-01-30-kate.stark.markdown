@@ -1,7 +1,6 @@
 ---
 title: Kate Stark
 summary: Twitch Partner, broadcaster
-layout: interview
 categories:
 - game
 - streamer

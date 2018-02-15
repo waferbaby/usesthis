@@ -1,7 +1,6 @@
 ---
 title: Ben Fry
 summary: Data designer, co-creator of Processing
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Nicole Stafford
 summary: Freelance 2D animator (Souviens Ten-Zan), designer
-layout: interview
 categories:
 - animator
 - designer

@@ -1,7 +1,6 @@
 ---
 title: Ryan Humphrey
 summary: Illustrator, art tutor, creator of Bartkira
-layout: interview
 categories:
 - illustrator
 ---

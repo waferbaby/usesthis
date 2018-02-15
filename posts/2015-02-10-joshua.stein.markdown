@@ -1,7 +1,6 @@
 ---
 title: joshua stein
 summary: Developer (Pushover, Lobsters)
-layout: interview
 categories:
 - bsd
 - developer

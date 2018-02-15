@@ -1,7 +1,6 @@
 ---
 title: Steiner
 summary: Graffiti artist, illustrator
-layout: interview
 categories:
 - artist
 - illustrator

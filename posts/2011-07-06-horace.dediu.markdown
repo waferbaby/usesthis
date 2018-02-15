@@ -1,7 +1,6 @@
 ---
 title: Horace Dediu
 summary: Writer, podcaster (Asymco, The Critical Path)
-layout: interview
 categories:
 - mac
 - podcaster

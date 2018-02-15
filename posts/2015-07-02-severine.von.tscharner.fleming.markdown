@@ -1,7 +1,6 @@
 ---
 title: Severine von Tscharner Fleming
 summary: Organiser, cultural worker (Greenhorns, Agrarian Trust, Farm Hack)
-layout: interview
 categories:
 - agriculture
 - hacker

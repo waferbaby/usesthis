@@ -1,7 +1,6 @@
 ---
 title: Abby Howard
 summary: Cartoonist (The Last Halloween, Junior Scientist Power Hour)
-layout: interview
 categories:
 - cartoonist
 ---

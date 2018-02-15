@@ -1,7 +1,6 @@
 ---
 title: Theresa Couchman
 summary: Author (The Unmapped Lands)
-layout: interview
 categories:
 - windows
 - writer

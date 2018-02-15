@@ -1,7 +1,6 @@
 ---
 title: Beau Sorenson
 summary: Recording engineer, musician
-layout: interview
 categories:
 - audio
 - engineer

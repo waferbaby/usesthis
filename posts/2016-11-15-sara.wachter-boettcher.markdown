@@ -1,7 +1,6 @@
 ---
 title: Sara Wachter-Boettcher
 summary: Content strategy and UX consultant
-layout: interview
 categories:
 - interface
 - mac

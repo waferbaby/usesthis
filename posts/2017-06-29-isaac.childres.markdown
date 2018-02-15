@@ -1,7 +1,6 @@
 ---
 title: Isaac Childres
 summary: Owner and designer, Cephalofair Games
-layout: interview
 categories:
 - designer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Wiley Wiggins
 summary: Creative director, actor, animator, musician
-layout: interview
 categories:
 - actor
 - game

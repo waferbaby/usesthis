@@ -1,7 +1,6 @@
 ---
 title: Leslye Headland
 summary: Writer, director (Sleeping with Other People)
-layout: interview
 categories:
 - director
 - mac

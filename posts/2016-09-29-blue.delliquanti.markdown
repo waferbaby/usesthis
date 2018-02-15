@@ -1,7 +1,6 @@
 ---
 title: Blue Delliquanti
 summary: Cartoonist (O Human Star)
-layout: interview
 categories:
 - cartoonist
 - illustrator

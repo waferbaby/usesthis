@@ -1,7 +1,6 @@
 ---
 title: Jean Yang
 summary: Computer scientist (programming languages)
-layout: interview
 categories:
 - developer
 - linux

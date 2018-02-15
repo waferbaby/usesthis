@@ -1,7 +1,6 @@
 ---
 title: Sue Allspaw
 summary: Poet, information security analyst
-layout: interview
 categories:
 - poet
 - security

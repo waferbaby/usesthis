@@ -1,7 +1,6 @@
 ---
 title: Paige Saez
 summary: Visual artist, interaction designer, Makerlab founder
-layout: interview
 categories:
 - artist
 - designer

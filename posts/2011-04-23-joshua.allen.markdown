@@ -1,7 +1,6 @@
 ---
 title: Joshua Allen
 summary: Funny writer dude
-layout: interview
 categories:
 - mac
 - writer

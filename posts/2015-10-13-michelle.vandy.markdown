@@ -1,7 +1,6 @@
 ---
 title: Michelle Vandy
 summary: Brand designer (Omada Health)
-layout: interview
 categories:
 - designer
 - mac

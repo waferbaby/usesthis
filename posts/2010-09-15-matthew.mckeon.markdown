@@ -1,7 +1,6 @@
 ---
 title: Matthew Mckeon
 summary: Developer (IBM Visual Communication Lab)
-layout: interview
 categories:
 - developer
 - linux

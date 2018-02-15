@@ -1,7 +1,6 @@
 ---
 title: Ligaya Turmelle
 summary: MySQL DBA, PHP developer
-layout: interview
 categories:
 - developer
 - mac

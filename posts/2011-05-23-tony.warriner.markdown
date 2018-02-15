@@ -1,7 +1,6 @@
 ---
 title: Tony Warriner
 summary: Game developer, co-founder (Revolution)
-layout: interview
 categories:
 - developer
 - game

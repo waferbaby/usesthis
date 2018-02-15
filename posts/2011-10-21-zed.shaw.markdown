@@ -1,7 +1,6 @@
 ---
 title: Zed Shaw
 summary: Developer, writer and musician
-layout: interview
 categories:
 - developer
 - linux

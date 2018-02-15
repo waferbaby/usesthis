@@ -1,7 +1,6 @@
 ---
 title: John W. McKelvey
 summary: Music journalist, hip-hop historian, filmmaker.
-layout: interview
 categories:
 - film
 - historian

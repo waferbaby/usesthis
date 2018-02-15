@@ -1,7 +1,6 @@
 ---
 title: Benjamin Porter
 summary: Game developer (Moonman)
-layout: interview
 categories:
 - developer
 - game

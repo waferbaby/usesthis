@@ -1,7 +1,6 @@
 ---
 title: Katie Shelly
 summary: Media designer (Cooper-Hewitt Labs)
-layout: interview
 categories:
 - animator
 - designer

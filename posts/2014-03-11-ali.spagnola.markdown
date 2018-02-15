@@ -1,7 +1,6 @@
 ---
 title: Ali Spagnola
 summary: Maker of nice things
-layout: interview
 categories:
 - artist
 - mac

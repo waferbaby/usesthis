@@ -1,7 +1,6 @@
 ---
 title: Veronica Belmont
 summary: TV host, emcee, podcaster
-layout: interview
 categories:
 - emcee
 - mac

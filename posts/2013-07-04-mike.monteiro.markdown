@@ -1,7 +1,6 @@
 ---
 title: Mike Monteiro
 summary: Designer, director (Mule)
-layout: interview
 categories:
 - designer
 - mac

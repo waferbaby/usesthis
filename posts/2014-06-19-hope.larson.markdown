@@ -1,7 +1,6 @@
 ---
 title: Hope Larson
 summary: Cartoonist, writer, director
-layout: interview
 categories:
 - cartoonist
 - director

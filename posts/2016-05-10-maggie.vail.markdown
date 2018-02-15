@@ -1,7 +1,6 @@
 ---
 title: Maggie Vail
 summary: Executive director (CASH Music), musician (Hurry Up)
-layout: interview
 categories:
 - mac
 - musician

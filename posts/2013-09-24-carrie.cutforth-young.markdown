@@ -1,7 +1,6 @@
 ---
 title: Carrie Cutforth-Young
 summary: Professional storyteller, producer, community builder
-layout: interview
 categories:
 - community
 - producer

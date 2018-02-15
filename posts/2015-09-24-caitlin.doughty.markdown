@@ -1,7 +1,6 @@
 ---
 title: Caitlin Doughty
 summary: Mortician (Undertaking LA)
-layout: interview
 categories:
 - mac
 - mortician

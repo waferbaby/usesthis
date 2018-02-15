@@ -1,7 +1,6 @@
 ---
 title: Lex Gill
 summary: Research fellow (Citizen Lab), legal researcher (CCLA)
-layout: interview
 categories:
 - mac
 - researcher

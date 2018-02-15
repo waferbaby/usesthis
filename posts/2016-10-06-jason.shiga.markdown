@@ -1,7 +1,6 @@
 ---
 title: Jason Shiga
 summary: Cartoonist (Meanwhile, Demon)
-layout: interview
 categories:
 - cartoonist
 ---

@@ -1,7 +1,6 @@
 ---
 title: Eric Mill
 summary: Web developer (18F)
-layout: interview
 categories:
 - developer
 - linux

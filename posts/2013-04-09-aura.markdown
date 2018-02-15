@@ -1,7 +1,6 @@
 ---
 title: Aura
 summary: Visual novel writer, game developer
-layout: interview
 categories:
 - developer
 - game

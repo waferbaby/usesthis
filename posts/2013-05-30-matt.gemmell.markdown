@@ -1,7 +1,6 @@
 ---
 title: Matt Gemmell
 summary: Mac and iOS developer
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Neha Narula
 summary: PhD student, data scientist, developer
-layout: interview
 categories:
 - developer
 - linux

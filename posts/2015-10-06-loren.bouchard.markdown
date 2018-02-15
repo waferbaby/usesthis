@@ -1,7 +1,6 @@
 ---
 title: Loren Bouchard
 summary: Creator of Bob's Burgers
-layout: interview
 categories:
 - mac
 - musician

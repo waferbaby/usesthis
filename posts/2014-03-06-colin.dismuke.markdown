@@ -1,7 +1,6 @@
 ---
 title: Colin Dismuke
 summary: Ocean engineer (Delmar Systems)
-layout: interview
 categories:
 - engineer
 - mac

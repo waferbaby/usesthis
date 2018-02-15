@@ -1,7 +1,6 @@
 ---
 title: Ariel Waldman
 summary: Space hacker
-layout: interview
 categories:
 - hacker
 - mac

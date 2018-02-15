@@ -1,7 +1,6 @@
 ---
 title: Lynn Root
 summary: Software developer (Red Hat, PyLadies SF)
-layout: interview
 categories:
 - developer
 - linux

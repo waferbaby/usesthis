@@ -1,7 +1,6 @@
 ---
 title: John Martz
 summary: Illustrator, robot
-layout: interview
 categories:
 - cartoonist
 - mac

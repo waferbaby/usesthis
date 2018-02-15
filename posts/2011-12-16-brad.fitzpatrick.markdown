@@ -1,7 +1,6 @@
 ---
 title: Brad Fitzpatrick
 summary: Developer (LiveJournal, memcached)
-layout: interview
 categories:
 - developer
 - linux

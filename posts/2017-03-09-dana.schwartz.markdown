@@ -1,7 +1,6 @@
 ---
 title: Dana Schwartz
 summary: Entertainment writer (The Observer)
-layout: interview
 categories:
 - mac
 - writer

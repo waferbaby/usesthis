@@ -1,7 +1,6 @@
 ---
 title: Matt Lubchansky
 summary: Cartoonist (Please Listen to Me)
-layout: interview
 categories:
 - cartoonist
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Madame Fromage
 summary: Cheese blogger
-layout: interview
 categories:
 - blogger
 - food

@@ -1,7 +1,6 @@
 ---
 title: Ryan Essmaker
 summary: Designer, developer (The Great Discontent)
-layout: interview
 categories:
 - designer
 - developer

@@ -1,7 +1,6 @@
 ---
 title: Lauren Gallagher
 summary: Lead designer (Cards Against Humanity)
-layout: interview
 categories:
 - designer
 - mac

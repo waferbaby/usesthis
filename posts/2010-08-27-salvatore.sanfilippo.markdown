@@ -1,7 +1,6 @@
 ---
 title: Salvatore Sanfilippo
 summary: Software developer (Redis)
-layout: interview
 categories:
 - developer
 - linux

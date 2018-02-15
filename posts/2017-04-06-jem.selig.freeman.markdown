@@ -1,7 +1,6 @@
 ---
 title: Jem Selig Freeman
 summary: Furniture designer, co-founder (Like Butter)
-layout: interview
 categories:
 - designer
 - furniture

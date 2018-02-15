@@ -1,7 +1,6 @@
 ---
 title: Russ Cox
 summary: Software developer (Plan 9, RE2, Go)
-layout: interview
 categories:
 - developer
 - mac

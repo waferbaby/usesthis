@@ -1,7 +1,6 @@
 ---
 title: Justin Frankel
 summary: Software developer (Winamp, REAPER)
-layout: interview
 categories:
 - developer
 - mac

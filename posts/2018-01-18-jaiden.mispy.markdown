@@ -1,7 +1,6 @@
 ---
 title: Jaiden Mispy
 summary: Lead developer, Our World In Data
-layout: interview
 categories:
 - developer
 - mac

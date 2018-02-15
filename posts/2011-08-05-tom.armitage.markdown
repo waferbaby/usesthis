@@ -1,7 +1,6 @@
 ---
 title: Tom Armitage
 summary: Game designer, technologist (Hide and Seek)
-layout: interview
 categories:
 - designer
 - developer

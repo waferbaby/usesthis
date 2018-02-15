@@ -1,7 +1,6 @@
 ---
 title: Ashley Baxter
 summary: Founder, With Jack
-layout: interview
 categories:
 - mac
 ---

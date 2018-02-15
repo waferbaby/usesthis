@@ -1,7 +1,6 @@
 ---
 title: Jane Ng
 summary: Environment artist (Firewatch)
-layout: interview
 categories:
 - artist
 - game

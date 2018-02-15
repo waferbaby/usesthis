@@ -1,7 +1,6 @@
 ---
 title: Chuck Tingle
 summary: Author of erotic fiction
-layout: interview
 categories:
 - writer
 ---

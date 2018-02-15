@@ -1,7 +1,6 @@
 ---
 title: Chloe Cross
 summary: Writer (VICE)
-layout: interview
 categories:
 - journalist
 - mac

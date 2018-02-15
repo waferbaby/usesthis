@@ -1,7 +1,6 @@
 ---
 title: Kornel Lesiński
 summary: Software developer (ImageOptim)
-layout: interview
 categories:
 - developer
 - linux

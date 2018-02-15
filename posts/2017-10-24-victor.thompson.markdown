@@ -1,7 +1,6 @@
 ---
 title: Victor Thompson
 summary: Programmer (Caper Academy)
-layout: interview
 categories:
 - developer
 - game

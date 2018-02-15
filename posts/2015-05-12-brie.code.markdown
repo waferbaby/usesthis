@@ -1,7 +1,6 @@
 ---
 title: Brie Code
 summary: Lead developer (Ubisoft Montreal)
-layout: interview
 categories:
 - developer
 - game

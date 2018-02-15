@@ -1,7 +1,6 @@
 ---
 title: Phil Hagelberg
 summary: Hacker-errant (Heroku)
-layout: interview
 categories:
 - developer
 - linux

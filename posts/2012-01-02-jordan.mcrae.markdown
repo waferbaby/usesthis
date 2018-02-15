@@ -1,7 +1,6 @@
 ---
 title: Jordan McRae
 summary: Inventor
-layout: interview
 categories:
 - hacker
 - hardware

@@ -1,7 +1,6 @@
 ---
 title: Tara Mann
 summary: Product and UI Designer (Basecamp)
-layout: interview
 categories:
 - designer
 - mac

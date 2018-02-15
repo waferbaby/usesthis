@@ -1,7 +1,6 @@
 ---
 title: Chris Onstad
 summary: Cartoonist (Achewood), writer
-layout: interview
 categories:
 - cartoonist
 - windows

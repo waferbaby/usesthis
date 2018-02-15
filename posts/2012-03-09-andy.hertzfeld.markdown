@@ -1,7 +1,6 @@
 ---
 title: Andy Hertzfeld
 summary: Developer (Macintosh), software designer (Google+)
-layout: interview
 categories:
 - designer
 - developer

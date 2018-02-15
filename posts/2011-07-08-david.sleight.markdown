@@ -1,7 +1,6 @@
 ---
 title: David Sleight
 summary: Creative director, web designer, tinkerer
-layout: interview
 categories:
 - designer
 - interface

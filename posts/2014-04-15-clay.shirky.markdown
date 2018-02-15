@@ -1,7 +1,6 @@
 ---
 title: Clay Shirky
 summary: Writer, teacher (NYU)
-layout: interview
 categories:
 - mac
 - teacher

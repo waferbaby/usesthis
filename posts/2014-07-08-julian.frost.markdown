@@ -1,7 +1,6 @@
 ---
 title: Julian Frost
 summary: Animator, illustrator
-layout: interview
 categories:
 - animator
 - illustrator

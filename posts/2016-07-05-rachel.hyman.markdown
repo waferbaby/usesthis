@@ -1,7 +1,6 @@
 ---
 title: Rachel Hyman
 summary: Software developer, writer, publisher
-layout: interview
 categories:
 - mac
 - poet

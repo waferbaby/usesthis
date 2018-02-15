@@ -1,7 +1,6 @@
 ---
 title: Junio C Hamano
 summary: Developer (git)
-layout: interview
 categories:
 - developer
 - linux

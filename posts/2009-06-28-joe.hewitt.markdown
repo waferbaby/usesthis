@@ -1,7 +1,6 @@
 ---
 title: Joe Hewitt
 summary: Creator of Firebug, iPhone developer (Facebook)
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Pascal Finette
 summary: Entrepreneur, investor
-layout: interview
 categories:
 - entrepreneur
 - mac

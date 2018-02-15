@@ -1,7 +1,6 @@
 ---
 title: John Romero
 summary: Game designer (Doom, Quake), developer
-layout: interview
 categories:
 - game
 - designer

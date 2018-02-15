@@ -1,7 +1,6 @@
 ---
 title: Joanne McNeil
 summary: Writer, editor
-layout: interview
 categories:
 - editor
 - mac

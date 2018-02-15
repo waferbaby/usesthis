@@ -1,7 +1,6 @@
 ---
 title: Geof Morris
 summary: Aerospace and systems engineer
-layout: interview
 categories:
 - engineer
 - mac

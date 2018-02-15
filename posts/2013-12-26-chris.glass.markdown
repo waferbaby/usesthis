@@ -1,7 +1,6 @@
 ---
 title: Chris Glass
 summary: Designer (Wire & Twine)
-layout: interview
 categories:
 - designer
 - mac

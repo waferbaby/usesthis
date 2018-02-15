@@ -1,7 +1,6 @@
 ---
 title: Jim Munroe
 summary: Writer, founder of No Media Kings
-layout: interview
 categories:
 - linux
 - windows

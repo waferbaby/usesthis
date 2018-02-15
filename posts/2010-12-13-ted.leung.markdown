@@ -1,7 +1,6 @@
 ---
 title: Ted Leung
 summary: Technologist, photographer
-layout: interview
 categories:
 - mac
 - photographer

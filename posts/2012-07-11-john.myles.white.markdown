@@ -1,7 +1,6 @@
 ---
 title: John Myles White
 summary: Statistics hacker, PhD student
-layout: interview
 categories:
 - data
 - developer

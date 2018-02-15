@@ -1,7 +1,6 @@
 ---
 title: Helen Shewolfe Tseng
 summary: Artist, designer, wolf witch
-layout: interview
 categories:
 - artist
 - designer

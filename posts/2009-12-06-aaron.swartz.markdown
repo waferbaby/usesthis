@@ -1,7 +1,6 @@
 ---
 title: Aaron Swartz
 summary: Hacker, activist
-layout: interview
 categories:
 - developer
 - hacker

@@ -1,7 +1,6 @@
 ---
 title: Aaron "tenderlove" Patterson
 summary: Ruby developer (Red Hat)
-layout: interview
 categories:
 - developer
 - mac

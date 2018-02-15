@@ -1,7 +1,6 @@
 ---
 title: Thomas Marban
 summary: Startup founder, developer
-layout: interview
 categories:
 - developer
 - mac

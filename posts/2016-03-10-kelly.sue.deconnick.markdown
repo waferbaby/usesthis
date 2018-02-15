@@ -1,7 +1,6 @@
 ---
 title: Kelly Sue DeConnick
 summary: Comic book, TV writer
-layout: interview
 categories:
 - mac
 - writer

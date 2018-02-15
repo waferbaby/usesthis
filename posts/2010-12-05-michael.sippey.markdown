@@ -1,7 +1,6 @@
 ---
 title: Michael Sippey
 summary: VP Corp Development (Six Apart/SAY)
-layout: interview
 categories:
 - mac
 - software

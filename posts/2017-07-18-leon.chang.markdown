@@ -1,7 +1,6 @@
 ---
 title: Leon Chang
 summary: Artist, musician
-layout: interview
 categories:
 - artist
 - musician

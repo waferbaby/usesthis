@@ -1,7 +1,6 @@
 ---
 title: Sirron Norris
 summary: Artist, animator
-layout: interview
 categories:
 - artist
 - mac

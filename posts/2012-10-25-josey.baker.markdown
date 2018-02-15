@@ -1,7 +1,6 @@
 ---
 title: Josey Baker
 summary: Baker
-layout: interview
 categories:
 - baker
 - food

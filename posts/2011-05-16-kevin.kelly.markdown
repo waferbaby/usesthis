@@ -1,7 +1,6 @@
 ---
 title: Kevin Kelly
 summary: Writer, co-founder of Wired
-layout: interview
 categories:
 - editor
 - mac

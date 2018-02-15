@@ -1,7 +1,6 @@
 ---
 title: Olivia Wood
 summary: Narrative editor, writer, developer (Failbetter Games)
-layout: interview
 categories:
 - developer
 - editor

@@ -1,7 +1,6 @@
 ---
 title: Lisa Congdon
 summary: Artist, illustrator
-layout: interview
 categories:
 - artist
 - mac

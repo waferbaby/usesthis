@@ -1,7 +1,6 @@
 ---
 title: George Upton
 summary: Music producer, performer
-layout: interview
 categories:
 - mac
 - musician

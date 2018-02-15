@@ -1,7 +1,6 @@
 ---
 title: Alice Lee
 summary: Illustrator, painter
-layout: interview
 categories:
 - artist
 - illustrator

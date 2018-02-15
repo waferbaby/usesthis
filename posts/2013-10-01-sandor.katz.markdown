@@ -1,7 +1,6 @@
 ---
 title: Sandor Katz
 summary: Fermentation revivalist
-layout: interview
 categories:
 - food
 ---

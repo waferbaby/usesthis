@@ -1,7 +1,6 @@
 ---
 title: Bryan Lee O'Malley
 summary: Cartoonist (Scott Pilgrim)
-layout: interview
 categories:
 - cartoonist
 - mac

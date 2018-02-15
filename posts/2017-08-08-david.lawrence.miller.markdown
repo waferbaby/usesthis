@@ -1,7 +1,6 @@
 ---
 title: David Lawrence Miller
 summary: Ecological statistician
-layout: interview
 categories:
 - developer
 - mac

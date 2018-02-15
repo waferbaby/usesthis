@@ -1,7 +1,6 @@
 ---
 title: Jason Shellen
 summary: Product guy, designer
-layout: interview
 categories:
 - designer
 - mac

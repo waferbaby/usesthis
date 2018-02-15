@@ -1,7 +1,6 @@
 ---
 title: Rex Crowle
 summary: Game designer, illustrator (LittleBigPlanet, Knights And Bikes)
-layout: interview
 categories:
 - developer
 - game

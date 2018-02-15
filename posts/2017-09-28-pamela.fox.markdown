@@ -1,7 +1,6 @@
 ---
 title: Pamela Fox
 summary: CTO (Woebot), improv aficionado
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Milena Popova
 summary: Activist, PhD researcher (consent in fan fiction)
-layout: interview
 categories:
 - activist
 - blogger

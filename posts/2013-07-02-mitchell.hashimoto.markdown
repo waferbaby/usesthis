@@ -1,7 +1,6 @@
 ---
 title: Mitchell Hashimoto
 summary: Entrepeneur, developer (Vagrant)
-layout: interview
 categories:
 - developer
 - linux

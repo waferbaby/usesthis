@@ -1,7 +1,6 @@
 ---
 title: Robert Yang
 summary: Game developer, teacher
-layout: interview
 categories:
 - developer
 - game

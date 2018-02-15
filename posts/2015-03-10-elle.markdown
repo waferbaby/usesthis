@@ -1,7 +1,6 @@
 ---
 title: ELLE
 summary: Street artist
-layout: interview
 categories:
 - artist
 ---

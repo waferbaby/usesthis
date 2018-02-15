@@ -1,7 +1,6 @@
 ---
 title: Janelle Shane
 summary: Research scientist, neural network trainer
-layout: interview
 categories:
 - mac
 - researcher

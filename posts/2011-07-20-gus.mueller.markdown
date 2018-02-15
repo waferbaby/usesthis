@@ -1,7 +1,6 @@
 ---
 title: Gus Mueller
 summary: Founder, Flying Meat (VoodooPad, Acorn)
-layout: interview
 categories:
 - developer
 - mac

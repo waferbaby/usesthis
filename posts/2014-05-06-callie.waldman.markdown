@@ -1,7 +1,6 @@
 ---
 title: Callie Waldman
 summary: Chef (BandPage)
-layout: interview
 categories:
 - chef
 - food

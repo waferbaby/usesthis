@@ -1,7 +1,6 @@
 ---
 title: Sarah Brin
 summary: Writer, curator (Autodesk Pier 9)
-layout: interview
 categories:
 - curator
 - mac

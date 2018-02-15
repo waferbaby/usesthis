@@ -1,7 +1,6 @@
 ---
 title: Mike Krieger
 summary: Co-founder of Instagram
-layout: interview
 categories:
 - developer
 - mac

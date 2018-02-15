@@ -1,7 +1,6 @@
 ---
 title: Johan Nordberg
 summary: Freelance developer (Wintersmith)
-layout: interview
 categories:
 - designer
 - developer

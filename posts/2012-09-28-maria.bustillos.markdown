@@ -1,7 +1,6 @@
 ---
 title: Maria Bustillos
 summary: Writer
-layout: interview
 categories:
 - windows
 - writer

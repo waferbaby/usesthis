@@ -1,7 +1,6 @@
 ---
 title: Mike Essl
 summary: Graphic designer, educator, Mr. T memorabilia collector
-layout: interview
 categories:
 - designer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Amy Hoy
 summary: Interface designer
-layout: interview
 categories:
 - designer
 - mac

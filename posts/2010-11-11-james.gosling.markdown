@@ -1,7 +1,6 @@
 ---
 title: James Gosling
 summary: Software engineer (Java)
-layout: interview
 categories:
 - developer
 - linux

@@ -1,7 +1,6 @@
 ---
 title: Chris Zane
 summary: Record producer, engineer and mixer
-layout: interview
 categories:
 - mac
 - musician

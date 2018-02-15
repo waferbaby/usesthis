@@ -1,7 +1,6 @@
 ---
 title: Paul Lamere
 summary: Music hacker (The Echo Nest)
-layout: interview
 categories:
 - audio
 - developer

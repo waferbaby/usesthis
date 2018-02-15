@@ -1,7 +1,6 @@
 ---
 title: Marco Arment
 summary: Developer (Instapaper, Tumblr)
-layout: interview
 categories:
 - developer
 - mac

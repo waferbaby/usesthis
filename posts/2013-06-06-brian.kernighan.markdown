@@ -1,7 +1,6 @@
 ---
 title: Brian Kernighan
 summary: Computer scientist (Unix), writer
-layout: interview
 categories:
 - developer
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Leah Culver
 summary: Developer (Convore, Pownce)
-layout: interview
 categories:
 - developer
 - mac

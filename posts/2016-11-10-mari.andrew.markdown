@@ -1,7 +1,6 @@
 ---
 title: Mari Andrew
 summary: Illustrator, writer
-layout: interview
 categories:
 - illustrator
 - writer

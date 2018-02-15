@@ -1,7 +1,6 @@
 ---
 title: Jenn Bane
 summary: Community lead (Cards Against Humanity), podcaster (Friendshipping)
-layout: interview
 categories:
 - community
 - editor

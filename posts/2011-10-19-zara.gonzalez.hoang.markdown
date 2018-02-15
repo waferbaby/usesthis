@@ -1,7 +1,6 @@
 ---
 title: Zara Gonzalez Hoang
 summary: Designer, illustrator, developer, screen printer
-layout: interview
 categories:
 - designer
 - developer

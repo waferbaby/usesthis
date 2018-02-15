@@ -1,7 +1,6 @@
 ---
 title: James Ernest
 summary: Creator of Cheapass Games, videographer
-layout: interview
 categories:
 - designer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Claire Robertson
 summary: Writer, illustrator, crafter
-layout: interview
 categories:
 - crafter
 - illustrator

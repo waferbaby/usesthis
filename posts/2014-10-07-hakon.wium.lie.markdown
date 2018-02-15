@@ -1,7 +1,6 @@
 ---
 title: Håkon Wium Lie
 summary: CTO (Opera Software), creator of CSS
-layout: interview
 categories:
 - developer
 - linux

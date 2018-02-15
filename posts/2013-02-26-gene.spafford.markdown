@@ -1,7 +1,6 @@
 ---
 title: Gene Spafford
 summary: Professor (Purdue University), security expert
-layout: interview
 categories:
 - linux
 - mac

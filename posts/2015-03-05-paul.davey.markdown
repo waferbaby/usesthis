@@ -1,7 +1,6 @@
 ---
 title: Paul Davey
 summary: Painter, illustrator
-layout: interview
 categories:
 - artist
 - game

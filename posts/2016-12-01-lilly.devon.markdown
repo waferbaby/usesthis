@@ -1,7 +1,6 @@
 ---
 title: Lilly Devon
 summary: Founder, creative director (Little Wolf Studio)
-layout: interview
 categories:
 - designer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Jill Jubinski
 summary: Lead of Community and Culture Programs at IBM Cloud
-layout: interview
 categories:
 - community
 - mac

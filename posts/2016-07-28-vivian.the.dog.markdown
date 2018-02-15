@@ -1,7 +1,6 @@
 ---
 title: Vivian The Dog
 summary: 6-foot tall dachshund
-layout: interview
 categories:
 - animal
 - illustrator

@@ -1,7 +1,6 @@
 ---
 title: Porpentine Heartscape
 summary: Writer, game designer
-layout: interview
 categories:
 - designer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Katie O'Shea
 summary: Barista, bike fanatic
-layout: interview
 categories:
 - biker
 - coffee

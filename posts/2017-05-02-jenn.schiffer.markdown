@@ -1,7 +1,6 @@
 ---
 title: Jenn Schiffer
 summary: Artist, engineer (Fog Creek)
-layout: interview
 categories:
 - artist
 - developer

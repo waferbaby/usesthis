@@ -1,7 +1,6 @@
 ---
 title: David Lublin
 summary: Developer, artist, co-founder (VIDVOX)
-layout: interview
 categories:
 - artist
 - developer

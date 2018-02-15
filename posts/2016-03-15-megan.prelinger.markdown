@@ -1,7 +1,6 @@
 ---
 title: Megan Prelinger
 summary: Writer, historian, librarian, naturalist
-layout: interview
 categories:
 - historian
 - librarian

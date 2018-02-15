@@ -1,7 +1,6 @@
 ---
 title: Harper Reed
 summary: Technologist (Threadless, Barack Obama)
-layout: interview
 categories:
 - developer
 - linux

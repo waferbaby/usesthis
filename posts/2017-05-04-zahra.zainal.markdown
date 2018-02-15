@@ -1,7 +1,6 @@
 ---
 title: Zahra Zainal
 summary: Illustrator, graphic recorder
-layout: interview
 categories:
 - illustrator
 - mac

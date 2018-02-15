@@ -1,7 +1,6 @@
 ---
 title: Tim Bray
 summary: Developer Advocate (Google)
-layout: interview
 categories:
 - developer
 - mac

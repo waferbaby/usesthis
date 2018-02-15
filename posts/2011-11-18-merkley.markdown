@@ -1,7 +1,6 @@
 ---
 title: merkley???
 summary: Photographer, artist
-layout: interview
 categories:
 - artist
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Tom Scott
 summary: Geek comedian
-layout: interview
 categories:
 - comedian
 - windows

@@ -1,7 +1,6 @@
 ---
 title: Sean Barrett
 summary: Game developer (Looking Glass Studios), musician
-layout: interview
 categories:
 - developer
 - game

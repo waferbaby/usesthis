@@ -1,7 +1,6 @@
 ---
 title: Kate Hush
 summary: Neon artist, fabricator
-layout: interview
 categories:
 - artist
 ---

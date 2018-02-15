@@ -1,7 +1,6 @@
 ---
 title: Ruthie BenDor
 summary: Web designer/developer
-layout: interview
 categories:
 - biker
 - designer

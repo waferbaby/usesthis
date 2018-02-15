@@ -1,7 +1,6 @@
 ---
 title: Patrick Ewing
 summary: Game designer (Firewatch)
-layout: interview
 categories:
 - developer
 - game

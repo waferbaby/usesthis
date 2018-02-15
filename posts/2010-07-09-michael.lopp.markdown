@@ -1,7 +1,6 @@
 ---
 title: Michael Lopp
 summary: Engineering manager, reposer
-layout: interview
 categories:
 - mac
 - manager

@@ -1,7 +1,6 @@
 ---
 title: Jeff Dean
 summary: Developer, researcher (Google)
-layout: interview
 categories:
 - developer
 - linux

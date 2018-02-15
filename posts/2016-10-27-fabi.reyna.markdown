@@ -1,7 +1,6 @@
 ---
 title: Fabi Reyna
 summary: Guitarist, founder of She Shreds
-layout: interview
 categories:
 - editor
 - musician

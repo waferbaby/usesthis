@@ -1,7 +1,6 @@
 ---
 title: Kathleen De Vere
 summary: Actor, writer, video editor, illustrator (LoadingReadyRun)
-layout: interview
 categories:
 - actor
 - editor

@@ -1,7 +1,6 @@
 ---
 title: Miranda Harmon
 summary: Cartoonist, illustrator
-layout: interview
 categories:
 - cartoonist
 - illustrator

@@ -1,7 +1,6 @@
 ---
 title: Amber Case
 summary: Cyborg anthropologist, UX designer
-layout: interview
 categories:
 - designer
 - interface

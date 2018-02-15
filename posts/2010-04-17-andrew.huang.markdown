@@ -1,7 +1,6 @@
 ---
 title: Andrew Huang
 summary: Hardware misfit
-layout: interview
 categories:
 - hacker
 - hardware

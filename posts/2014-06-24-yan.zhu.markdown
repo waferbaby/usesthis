@@ -1,7 +1,6 @@
 ---
 title: Yan Zhu
 summary: Staff Technologist (Electronic Frontier Foundation)
-layout: interview
 categories:
 - developer
 - linux

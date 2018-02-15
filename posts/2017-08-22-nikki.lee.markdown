@@ -1,7 +1,6 @@
 ---
 title: Nikki Lee
 summary: Product manager, product strategist (18F)
-layout: interview
 categories:
 - mac
 - product

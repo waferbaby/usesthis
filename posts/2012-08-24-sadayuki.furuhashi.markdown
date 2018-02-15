@@ -1,7 +1,6 @@
 ---
 title: Sadayuki Furuhashi
 summary: Hacker (MessagePack, Fluentd)
-layout: interview
 categories:
 - developer
 - hacker

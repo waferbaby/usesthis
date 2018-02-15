@@ -1,7 +1,6 @@
 ---
 title: Wilson Miner
 summary: Web designer (Rdio)
-layout: interview
 categories:
 - designer
 - mac

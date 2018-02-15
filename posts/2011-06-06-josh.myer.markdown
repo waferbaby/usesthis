@@ -1,7 +1,6 @@
 ---
 title: Josh Myer
 summary: Analytics hacker (BitTorrent, Applied Platonics)
-layout: interview
 categories:
 - developer
 - hacker

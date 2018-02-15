@@ -1,7 +1,6 @@
 ---
 title: Steph Thirion
 summary: Game developer (Eliss)
-layout: interview
 categories:
 - developer
 - game

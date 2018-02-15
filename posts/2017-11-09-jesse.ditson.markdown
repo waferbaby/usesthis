@@ -1,7 +1,6 @@
 ---
 title: Jesse Ditson
 summary: Maker, musician, developer (Attic Labs)
-layout: interview
 categories:
 - developer
 - musician

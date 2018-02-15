@@ -1,7 +1,6 @@
 ---
 title: Terry Davis
 summary: Developer (TempleOS)
-layout: interview
 categories:
 - developer
 - software

@@ -1,7 +1,6 @@
 ---
 title: Gabe Newell
 summary: Co-founder of Valve
-layout: interview
 categories:
 - game
 - windows

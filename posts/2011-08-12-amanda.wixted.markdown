@@ -1,7 +1,6 @@
 ---
 title: Amanda Wixted
 summary: iPhone game developer (FarmVille, PAC-MAN)
-layout: interview
 categories:
 - developer
 - game

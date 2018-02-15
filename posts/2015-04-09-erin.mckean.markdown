@@ -1,7 +1,6 @@
 ---
 title: Erin McKean
 summary: Founder of Wordnik
-layout: interview
 categories:
 - developer
 - fashion

@@ -1,7 +1,6 @@
 ---
 title: Andy Smith
 summary: Software developer (OpenStack for Rackspace)
-layout: interview
 categories:
 - developer
 - linux

@@ -1,7 +1,6 @@
 ---
 title: Emily Haasch
 summary: Artist, designer
-layout: interview
 categories:
 - artist
 - designer

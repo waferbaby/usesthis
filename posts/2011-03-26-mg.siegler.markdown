@@ -1,7 +1,6 @@
 ---
 title: MG Siegler
 summary: Tech reporter (TechCrunch)
-layout: interview
 categories:
 - developer
 - journalist

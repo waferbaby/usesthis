@@ -1,7 +1,6 @@
 ---
 title: Stephin Merritt
 summary: Songwriter, musician (The Magnetic Fields)
-layout: interview
 categories:
 - mac
 - musician

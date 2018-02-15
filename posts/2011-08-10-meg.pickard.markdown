@@ -1,7 +1,6 @@
 ---
 title: Meg Pickard
 summary: Creative geek (The Guardian)
-layout: interview
 categories:
 - mac
 - writer

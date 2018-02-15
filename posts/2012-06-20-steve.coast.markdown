@@ -1,7 +1,6 @@
 ---
 title: Steve Coast
 summary: Founder, OpenStreetMap
-layout: interview
 categories:
 - developer
 - linux

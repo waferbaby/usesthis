@@ -1,7 +1,6 @@
 ---
 title: Ada Palmer
 summary: Science fiction & fantasy novelist, history professor, musician
-layout: interview
 categories:
 - musician
 - professor

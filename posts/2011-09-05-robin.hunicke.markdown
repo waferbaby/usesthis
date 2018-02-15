@@ -1,7 +1,6 @@
 ---
 title: Robin Hunicke
 summary: Game designer/producer (thatgamecompany)
-layout: interview
 categories:
 - designer
 - game

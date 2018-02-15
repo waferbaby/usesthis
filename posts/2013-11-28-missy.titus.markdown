@@ -1,7 +1,6 @@
 ---
 title: Missy Titus
 summary: UX and visual designer (StackMob)
-layout: interview
 categories:
 - designer
 - interface

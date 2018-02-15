@@ -1,7 +1,6 @@
 ---
 title: Amy Jean Porter
 summary: Artist, friend to animals
-layout: interview
 categories:
 - artist
 - mac

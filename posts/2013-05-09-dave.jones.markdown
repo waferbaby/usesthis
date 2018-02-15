@@ -1,7 +1,6 @@
 ---
 title: Dave Jones
 summary: Electrical engineer, video blogger (EEVblog)
-layout: interview
 categories:
 - electrical
 - engineer

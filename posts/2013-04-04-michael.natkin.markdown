@@ -1,7 +1,6 @@
 ---
 title: Michael Natkin
 summary: Software developer, cook
-layout: interview
 categories:
 - developer
 - food

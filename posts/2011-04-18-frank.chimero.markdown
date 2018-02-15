@@ -1,7 +1,6 @@
 ---
 title: Frank Chimero
 summary: Designer, illustrator, writer
-layout: interview
 categories:
 - artist
 - designer

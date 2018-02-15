@@ -1,7 +1,6 @@
 ---
 title: Robyn Kanner
 summary: UX designer (Amazon), co-founder (MyTransHealth)
-layout: interview
 categories:
 - designer
 - mac

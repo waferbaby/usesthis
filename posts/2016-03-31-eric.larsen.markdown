@@ -1,7 +1,6 @@
 ---
 title: Eric Larsen
 summary: Polar adventurer, expedition guide
-layout: interview
 categories:
 - adventurer
 credits:

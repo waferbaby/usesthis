@@ -1,7 +1,6 @@
 ---
 title: Leigh Alexander
 summary: Video game journalist (Edge, Kotaku), editor (Gamasutra)
-layout: interview
 categories:
 - editor
 - game

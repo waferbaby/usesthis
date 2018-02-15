@@ -1,7 +1,6 @@
 ---
 title: Frances Berriman
 summary: Designer, developer, artist
-layout: interview
 categories:
 - artist
 - designer

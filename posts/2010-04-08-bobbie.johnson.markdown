@@ -1,7 +1,6 @@
 ---
 title: Bobbie Johnson
 summary: Writer
-layout: interview
 categories:
 - journalist
 - mac

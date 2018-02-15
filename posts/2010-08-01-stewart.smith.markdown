@@ -1,7 +1,6 @@
 ---
 title: Stewart Smith
 summary: Programmer, graphic designer
-layout: interview
 categories:
 - designer
 - developer

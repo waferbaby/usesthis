@@ -1,7 +1,6 @@
 ---
 title: Chad Whitacre
 summary: Hacker, Founder (Gittip)
-layout: interview
 categories:
 - developer
 - linux

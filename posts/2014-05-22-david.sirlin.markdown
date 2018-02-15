@@ -1,7 +1,6 @@
 ---
 title: David Sirlin
 summary: Game designer (Sirlin Games)
-layout: interview
 categories:
 - designer
 - game

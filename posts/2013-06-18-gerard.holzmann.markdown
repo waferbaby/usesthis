@@ -1,7 +1,6 @@
 ---
 title: Gerard Holzmann
 summary: Software researcher (JPL), developer (Spin)
-layout: interview
 categories:
 - developer
 - linux

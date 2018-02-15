@@ -1,7 +1,6 @@
 ---
 title: EMiSpicer
 summary: Documentarian photographer
-layout: interview
 categories:
 - mac
 - photographer

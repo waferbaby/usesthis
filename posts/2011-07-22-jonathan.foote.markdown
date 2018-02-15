@@ -1,7 +1,6 @@
 ---
 title: Jonathan Foote
 summary: Recovering scientist
-layout: interview
 categories:
 - artist
 - hacker

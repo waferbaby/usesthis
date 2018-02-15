@@ -1,7 +1,6 @@
 ---
 title: Brendan Gregg
 summary: Senior performance architect (Netflix)
-layout: interview
 categories:
 - bsd
 - developer

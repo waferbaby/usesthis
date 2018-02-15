@@ -1,7 +1,6 @@
 ---
 title: Adam Wiggins
 summary: Hacker, entrepreneur (Heroku)
-layout: interview
 categories:
 - developer
 - mac

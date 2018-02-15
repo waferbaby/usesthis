@@ -1,7 +1,6 @@
 ---
 title: Rich Siegel
 summary: Developer and co-founder, Bare Bones Software
-layout: interview
 categories:
 - developer
 - mac

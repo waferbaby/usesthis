@@ -1,7 +1,6 @@
 ---
 title: Lee Hardcastle
 summary: Indie clay animator
-layout: interview
 categories:
 - animator
 - windows

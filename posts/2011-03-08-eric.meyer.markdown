@@ -1,7 +1,6 @@
 ---
 title: Eric Meyer
 summary: Web standards monkey
-layout: interview
 categories:
 - developer
 - mac

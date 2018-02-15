@@ -1,7 +1,6 @@
 ---
 title: Sam Lavigne
 summary: Programmer, artist
-layout: interview
 categories:
 - artist
 - developer

@@ -1,7 +1,6 @@
 ---
 title: Andy Bakun
 summary: UNIX systems administrator
-layout: interview
 categories:
 - engineer
 - linux

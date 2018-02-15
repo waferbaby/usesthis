@@ -1,7 +1,6 @@
 ---
 title: John Gruber
 summary: Writer (Daring Fireball)
-layout: interview
 categories:
 - mac
 - writer

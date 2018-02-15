@@ -1,7 +1,6 @@
 ---
 title: Michael Colombo
 summary: Writer, fabricator, musician
-layout: interview
 categories:
 - artist
 - designer

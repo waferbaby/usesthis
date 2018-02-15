@@ -1,7 +1,6 @@
 ---
 title: Patric King
 summary: Designer
-layout: interview
 categories:
 - designer
 - mac

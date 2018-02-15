@@ -1,7 +1,6 @@
 ---
 title: Cher Vincent
 summary: Audio producer, co-founder of Postloudness
-layout: interview
 categories:
 - audio
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Dillon Markey
 summary: Film maker, inventor, stop motion animator (Robot Chicken)
-layout: interview
 categories:
 - animator
 - film

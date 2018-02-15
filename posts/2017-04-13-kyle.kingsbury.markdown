@@ -1,7 +1,6 @@
 ---
 title: Kyle Kingsbury
 summary: Computer safety researcher
-layout: interview
 categories:
 - developer
 - linux

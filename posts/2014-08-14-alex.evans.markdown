@@ -1,7 +1,6 @@
 ---
 title: Alex Evans
 summary: Co-founder of MediaMolecule (LittleBigPlanet)
-layout: interview
 categories:
 - developer
 - game

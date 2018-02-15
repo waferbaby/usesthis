@@ -1,7 +1,6 @@
 ---
 title: Jana Kinsman
 summary: Illustrator, beekeeper
-layout: interview
 categories:
 - beekeeper
 - illustrator

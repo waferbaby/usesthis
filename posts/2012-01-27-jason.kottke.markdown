@@ -1,7 +1,6 @@
 ---
 title: Jason Kottke
 summary: Weblogger, web developer (Stellar)
-layout: interview
 categories:
 - developer
 - mac

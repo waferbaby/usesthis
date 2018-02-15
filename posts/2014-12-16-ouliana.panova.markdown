@@ -1,7 +1,6 @@
 ---
 title: Ouliana Panova
 summary: Student engineer, stained glass artist
-layout: interview
 categories:
 - artist
 - engineer

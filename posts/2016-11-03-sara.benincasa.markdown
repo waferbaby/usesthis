@@ -1,7 +1,6 @@
 ---
 title: Sara Benincasa
 summary: Comedian, author
-layout: interview
 categories:
 - comedian
 - mac

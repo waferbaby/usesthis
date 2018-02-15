@@ -1,7 +1,6 @@
 ---
 title: John McAfee
 summary: Security consultant
-layout: interview
 categories:
 - security
 - software

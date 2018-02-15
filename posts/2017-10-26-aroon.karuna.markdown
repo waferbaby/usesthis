@@ -1,7 +1,6 @@
 ---
 title: Aroon Karuna
 summary: Experimental musician, intellectual property attorney
-layout: interview
 categories:
 - lawyer
 - mac

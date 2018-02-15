@@ -1,7 +1,6 @@
 ---
 title: Brent Knepper
 summary: Photographer
-layout: interview
 categories:
 - mac
 - photographer

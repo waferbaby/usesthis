@@ -1,7 +1,6 @@
 ---
 title: Robert Love
 summary: Software engineer (Google)
-layout: interview
 categories:
 - developer
 - linux

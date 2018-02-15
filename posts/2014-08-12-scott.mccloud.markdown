@@ -1,7 +1,6 @@
 ---
 title: Scott McCloud
 summary: Cartoonist, author
-layout: interview
 categories:
 - cartoonist
 - mac

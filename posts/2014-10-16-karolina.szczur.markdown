@@ -1,7 +1,6 @@
 ---
 title: Karolina Szczur
 summary: Designer, developer, photographer (&amp;yet)
-layout: interview
 categories:
 - designer
 - developer

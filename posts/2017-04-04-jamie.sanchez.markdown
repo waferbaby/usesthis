@@ -1,7 +1,6 @@
 ---
 title: Jamie Sanchez
 summary: Creative consultant, developer (Bit Bash, AnimeChicago)
-layout: interview
 categories:
 - community
 - designer

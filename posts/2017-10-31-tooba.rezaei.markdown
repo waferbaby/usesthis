@@ -1,7 +1,6 @@
 ---
 title: Tooba Rezaei
 summary: Visual and animation artist
-layout: interview
 categories:
 - artist
 - mac

@@ -1,7 +1,6 @@
 ---
 title: Pippin Barr
 summary: Game maker, writer, teacher
-layout: interview
 categories:
 - artist
 - developer

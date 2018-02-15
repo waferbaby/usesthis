@@ -1,7 +1,6 @@
 ---
 title: Paula Pell
 summary: Actor (30 Rock, Parks and Recreation), writer (SNL)
-layout: interview
 categories:
 - actor
 - mac

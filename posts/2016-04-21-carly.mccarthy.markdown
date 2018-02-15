@@ -1,7 +1,6 @@
 ---
 title: Carly McCarthy
 summary: Filmmaker, musician, illustrator
-layout: interview
 categories:
 - film
 - illustrator

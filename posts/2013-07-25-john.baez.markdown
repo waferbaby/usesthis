@@ -1,7 +1,6 @@
 ---
 title: John Baez
 summary: Mathematical physicist
-layout: interview
 categories:
 - scientist
 - windows

@@ -1,7 +1,6 @@
 ---
 title: Sebastian Quack
 summary: Artist, game designer
-layout: interview
 categories:
 - artist
 - designer

@@ -1,7 +1,6 @@
 ---
 title: Deborah "CandyStations" Johnson
 summary: Visual and concert designer
-layout: interview
 categories:
 - designer
 - mac

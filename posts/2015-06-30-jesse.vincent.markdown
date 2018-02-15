@@ -1,7 +1,6 @@
 ---
 title: Jesse Vincent
 summary: Developer, CTO of Keyboardio
-layout: interview
 categories:
 - developer
 - hacker

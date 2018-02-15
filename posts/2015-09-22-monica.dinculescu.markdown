@@ -1,7 +1,6 @@
 ---
 title: Monica Dinculescu
 summary: Emojineer (Chrome, Polymer)
-layout: interview
 categories:
 - developer
 - mac

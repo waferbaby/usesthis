@@ -1,7 +1,6 @@
 ---
 title: Adam Lisagor
 summary: Video director
-layout: interview
 categories:
 - artist
 - film

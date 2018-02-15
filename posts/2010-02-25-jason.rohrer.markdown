@@ -1,7 +1,6 @@
 ---
 title: Jason Rohrer
 summary: Game developer (Passage)
-layout: interview
 categories:
 - developer
 - game

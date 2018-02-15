@@ -1,7 +1,6 @@
 ---
 title: Daniel Jalkut
 summary: Software developer (MarsEdit, FastScripts), podcaster
-layout: interview
 categories:
 - developer
 - mac

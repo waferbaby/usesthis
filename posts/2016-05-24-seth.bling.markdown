@@ -1,7 +1,6 @@
 ---
 title: Seth Bling
 summary: Game hacker, streamer, speedrunner
-layout: interview
 categories:
 - game
 - video

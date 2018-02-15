@@ -1,7 +1,6 @@
 ---
 title: Mark Nottingham
 summary: Web infrastructure developer (Atom, HTTP)
-layout: interview
 categories:
 - developer
 - linux

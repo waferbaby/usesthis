@@ -1,7 +1,6 @@
 ---
 title: Christopher Leary
 summary: Musician (Ochre)
-layout: interview
 categories:
 - musician
 - windows

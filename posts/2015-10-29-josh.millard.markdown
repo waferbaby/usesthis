@@ -1,7 +1,6 @@
 ---
 title: Josh Millard
 summary: Musician, developer (MetaFilter)
-layout: interview
 categories:
 - developer
 - mac

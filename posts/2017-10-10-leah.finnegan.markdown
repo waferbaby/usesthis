@@ -1,7 +1,6 @@
 ---
 title: Leah Finnegan
 summary: Features editor (The Outline)
-layout: interview
 categories:
 - editor
 - mac

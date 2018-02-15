@@ -1,7 +1,6 @@
 ---
 title: Conner Habib
 summary: Writer, lecturer, activist, gay porn star
-layout: interview
 categories:
 - activist
 - mac

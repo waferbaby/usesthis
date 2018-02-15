@@ -1,7 +1,6 @@
 ---
 title: Nicklas Nygren
 summary: Game developer (Uurnog)
-layout: interview
 categories:
 - developer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Daniel Lemire
 summary: Computer researcher, professor
-layout: interview
 categories:
 - developer
 - linux

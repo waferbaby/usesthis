@@ -1,7 +1,6 @@
 ---
 title: Brett Terpstra
 summary: Developer, AOL Tech (Engadget, TUAW) and nvALT
-layout: interview
 categories:
 - developer
 - mac

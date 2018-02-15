@@ -1,7 +1,6 @@
 ---
 title: Neil Cicierega
 summary: Animator, musician, web artist
-layout: interview
 categories:
 - animator
 - artist

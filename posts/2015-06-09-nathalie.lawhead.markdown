@@ -1,7 +1,6 @@
 ---
 title: Nathalie Lawhead
 summary: Indie game developer (Tetrageddon)
-layout: interview
 categories:
 - designer
 - developer

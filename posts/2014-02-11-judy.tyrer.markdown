@@ -1,7 +1,6 @@
 ---
 title: Judy Tyrer
 summary: Game developer (Ever, Jane)
-layout: interview
 categories:
 - developer
 - game

@@ -1,7 +1,6 @@
 ---
 title: Tony Ruth
 summary: Illustrator
-layout: interview
 categories:
 - artist
 - designer

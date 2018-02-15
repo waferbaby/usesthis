@@ -1,7 +1,6 @@
 ---
 title: Derek Chatwood
 summary: Game designer, illustrator
-layout: interview
 categories:
 - designer
 - game

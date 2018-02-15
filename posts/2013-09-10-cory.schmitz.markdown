@@ -1,7 +1,6 @@
 ---
 title: Cory Schmitz
 summary: Graphic designer, illustrator
-layout: interview
 categories:
 - designer
 - illustrator

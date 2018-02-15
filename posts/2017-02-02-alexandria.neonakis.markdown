@@ -1,7 +1,6 @@
 ---
 title: Alexandria Neonakis
 summary: UI designer, illustrator (Naughty Dog)
-layout: interview
 categories:
 - designer
 - game
