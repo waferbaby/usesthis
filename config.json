@@ -14,10 +14,10 @@
   },
 
   "layouts": {
-    "posts": "interviews",
+    "post": "interview",
     "category": "interviews",
-    "year_archives": "interviews",
-    "month_archives": "interviews"
+    "archives": "interviews",
+    "date_archives": "interviews"
   },
 
   "category_names": {
