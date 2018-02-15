@@ -1,6 +1,5 @@
 {
   "generation": {
-    "paginated_posts": true,
     "day_archives": false
   },
 
@@ -21,22 +20,8 @@
     "month_archives": "interviews"
   },
 
-  "pagination":{
-    "per_page": 15
-  },
-
   "category_names": {
     "bsd": "BSD",
     "mac": "Macintosh"
-  },
-
-  "feed_formats": [
-    "atom",
-    "json"
-  ],
-
-  "class_overrides": {
-    "site": "UsesThis::Site",
-    "post": "UsesThis::Interview"
   }
 }
