@@ -16,8 +16,8 @@
   "layouts": {
     "post": "interview",
     "category": "interviews",
-    "archives": "interviews",
-    "date_archives": "interviews"
+    "archive": "interviews",
+    "date_archive": "interviews"
   },
 
   "category_names": {
