@@ -1,16 +1,12 @@
 {
-  "generation": {
-    "day_archives": false
-  },
-
-  "date_formats": {
-    "month": "%B %Y"
-  },
-
   "paths": {
     "archives": "interviews",
     "posts": "interviews",
     "categories": "categories"
+  },
+
+  "generation": {
+    "day_archives": false
   },
 
   "layouts": {
@@ -19,6 +15,15 @@
     "archive": "interviews",
     "date_archive": "interviews"
   },
+
+  "date_formats": {
+    "month": "%B %Y"
+  },
+
+  "feed_formats": [
+    "atom",
+    "json"
+  ],
 
   "category_names": {
     "bsd": "BSD",
