@@ -1,9 +1,0 @@
-{
-  "errors": [
-    {
-      "status": "404",
-      "title":  "Not Found",
-      "detail": "The requested resource was not found."
-    }
-  ]
-}
