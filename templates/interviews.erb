@@ -3,27 +3,20 @@ layout: default
 title: Interviews
 ---
 
-<h2><%= @this.title %></h2>
-<p>
-<% if @archive_date && @archive_date < @site.latest_post.date %>
-  There <% if @pagination[:item_count] > 1 %>were<% else %>was<% end %>
-<% else %>
-  There <% if @pagination[:item_count] > 1 %>are<% else %>is<% end %> currently
-<% end %>
-  <%= @pagination[:item_count] %> interview<%if @pagination[:item_count] > 1 %>s<% end %><% if @category %> in this category<% end %><% if @archive_type %> this <%= @archive_type %><% end %>.
-</p>
+<h2><%= page.title || template.title %><% if pagination.current_page > 1 %> (Page <%= pagination.current_page %>)<% end %></h2>
+<p>There<% if pagination.post_count > 1 %> are<% else %>'s<% end %> <%= pagination.post_count %> interview<%if pagination.post_count > 1 %>s<% end %> <% if page.category %>in this category.<% elsif page.archive_type %>this <%= page.archive_type %>.<% else %>on the site. Happy reading!<% end %></p>
 
-<% @items.each do |interview| %>
+<% pagination.posts.each do |interview| %>
 <article class="interviewee h-card">
-  <%= render_template('shared.interview_header', interview: interview) %>
+  <%= render('shared.interview_header', interview: interview, selected: false) %>
 </article>
 <% end %>
 
-<% if @pagination[:page_count] > 1 %>
+<% if pagination.page_count > 1 %>
   <nav id="paginator">
-  Page <strong><%= @pagination[:current_page] %></strong> of <strong><%= @pagination[:page_count] %></strong> (<%= @pagination[:item_count] %> interview<% if @pagination[:item_count] > 1 %>s<% end %>):
-  <% if @pagination[:previous_page] %><a href="<%= @pagination[:links][:previous_page] %>" title="Page <%= @pagination[:previous_page] %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
+  Page <strong><%= pagination.current_page %></strong> of <strong><%= pagination.page_count %></strong> (<%= pagination.post_count %> interview<% if pagination.post_count > 1 %>s<% end %>):
+  <% if pagination.previous_page %><a href="<%= pagination.links.previous_page %>" title="Page <%= pagination.previous_page %> of the interviews." id="previous">Previous</a><% else %><span id="previous">Previous</span><% end %>
   /
-  <% if @pagination[:next_page] %><a href="<%= @pagination[:links][:next_page] %>" title="Page <%= @pagination[:next_page] %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
+  <% if pagination.next_page %><a href="<%= pagination.links.next_page %>" title="Page <%= pagination.next_page %> of the interviews." id="next">Next</a><% else %><span id="next">Next</span><% end %>
   </nav>
 <% end %>

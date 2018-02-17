@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Uses This / <%= page.title %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
+    <title>Uses This / <%= page.title || template.title %><% if pagination && pagination.current_page > 1 %> (Page <%= pagination.current_page %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
-  <% if @pagination %>
-    <% if @pagination[:previous_page_url] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
-    <% if @pagination[:next_page_url] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
+  <% if pagination %>
+    <% if pagination.previous_page_url %><link rel="prev" href="<%= pagination.previous_page_url %>"><% end %>
+    <% if pagination.next_page_url %><link rel="next" href="<%= pagination.next_page_url %>"><% end %>
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup<% if @type == :interview %>, <%= page.categories.join(', ') %><% end %>">
+    <meta name="keywords" content="interview, setup,<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
   <% if page.date %>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
