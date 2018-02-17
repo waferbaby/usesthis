@@ -5,6 +5,10 @@
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
+    <% if page.category %>
+    <link href="/categories/<%= page.category.slug %>/feed.atom" rel="alternate" title="<%= page.category.name %> Atom feed" type="application/atom+xml">
+    <link href="/categories/<%= page.category.slug %>/feed.json" rel="alternate" title="<%= page.category.name %> JSON feed" type="application/json">
+    <% end %>
   <% if pagination %>
     <% if pagination.previous_page_url %><link rel="prev" href="<%= pagination.previous_page_url %>"><% end %>
     <% if pagination.next_page_url %><link rel="next" href="<%= pagination.next_page_url %>"><% end %>
