@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-<title>Uses This<% if @category %> / <%= @category.capitalize %><% end %></title>
-<link href="http://usesthis.com/<% if @category %>/interviews/<%= @category %>/<% end %>feed.atom" rel="self"/>
+<title>Uses This<% if page.category %> / <%= page.category.name %><% end %></title>
+<link href="http://usesthis.com/<% if page.category %>/interviews/<%= page.category.slug %>/<% end %>feed.atom" rel="self"/>
 <link href="http://usesthis.com/"/>
 <updated><%= Time.new.strftime('%FT%T') %>Z</updated>
 <id>http://usesthis.com/</id>
@@ -10,7 +10,7 @@
   <name>Daniel Bogan</name>
 </author>
 
-<% @posts.each do |interview| %>
+<% page.feed_posts.each do |interview| %>
 <entry>
   <id>https://usesthis.com/interviews/<%= interview.slug %>/</id>
   <title><%= interview.title %></title>
