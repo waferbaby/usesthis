@@ -1,0 +1,5 @@
+{
+  "name": "jq",
+  "description": "A command line tool for manipulating JSON data.",
+  "url": "https://stedolan.github.io/jq/"
+}
