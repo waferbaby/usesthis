@@ -1,27 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    codeclimate-test-reporter (1.0.8)
-      simplecov (<= 0.13)
-    dimples (4.3.2)
+    dimples (5.0.0)
+      hashie (~> 3.5, >= 3.5.7)
       tilt (~> 2.0)
       trollop (~> 2.1)
-    docile (1.1.5)
     erubis (2.7.0)
-    faraday (0.13.1)
+    faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
-    json (2.1.0)
-    little-fixtures (0.0.1)
-    minitest (5.11.1)
-    mongoose (0.2.5)
+    hashie (3.5.7)
     multipart-post (2.0.0)
-    rake (12.3.0)
     redcarpet (3.4.0)
-    simplecov (0.13.0)
-      docile (~> 1.1.0)
-      json (>= 1.8, < 3)
-      simplecov-html (~> 0.10.0)
-    simplecov-html (0.10.2)
     tilt (2.0.8)
     trollop (2.1.2)
 
@@ -29,19 +18,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  codeclimate-test-reporter
   dimples
   erubis
   faraday
-  little-fixtures
-  minitest
-  mongoose
-  rake
   redcarpet
-  simplecov
 
 RUBY VERSION
-   ruby 2.4.2p198
+   ruby 2.5.0p0
 
 BUNDLED WITH
-   1.15.4
+   1.16.1
