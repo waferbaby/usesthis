@@ -1,33 +1,23 @@
 {
-  "generation": {
-    "paginated_posts": true,
-    "day_archives": false
-  },
-
-  "date_formats": {
-    "month": "%B %Y"
-  },
-
   "paths": {
     "archives": "interviews",
     "posts": "interviews",
     "categories": "categories"
   },
 
+  "generation": {
+    "day_archives": false
+  },
+
   "layouts": {
-    "posts": "interviews",
+    "post": "interview",
     "category": "interviews",
-    "year_archives": "interviews",
-    "month_archives": "interviews"
+    "archive": "interviews",
+    "date_archive": "interviews"
   },
 
-  "pagination":{
-    "per_page": 15
-  },
-
-  "category_names": {
-    "bsd": "BSD",
-    "mac": "Macintosh"
+  "date_formats": {
+    "month": "%B %Y"
   },
 
   "feed_formats": [
@@ -35,8 +25,8 @@
     "json"
   ],
 
-  "class_overrides": {
-    "site": "UsesThis::Site",
-    "post": "UsesThis::Interview"
+  "category_names": {
+    "bsd": "BSD",
+    "mac": "Macintosh"
   }
 }

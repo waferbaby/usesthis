@@ -3,15 +3,7 @@ layout: default
 ---
 
 <article class="h-card">
-  <%= render_template('shared.interview_header', interview: @this, selected: true) %>
+  <%= render('shared.interview_header', interview: page, selected: true) %>
   <%= yield %>
-  <% if @this.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= @this.licence %>/3.0/" title="Full details of the licence."><%= @this.licence.upcase %> Creative Commons licence</a>.</p><% end %>
-
-  <% if @this.previous_post || @this.next_post %>
-  <nav id="paginator">
-    <% if @this.next_post %>Next: <a href="/interviews/<%= @this.next_post.slug %>/" title="An interview with <%= @this.next_post.title %>" id="next"><%= @this.next_post.title %></a><% end %>
-    <% if @this.previous_post && @this.next_post %> / <% end %>
-    <% if @this.previous_post %>Previously: <a href="/interviews/<%= @this.previous_post.slug %>/" title="An interview with <%= @this.previous_post.title %>" id="previous"><%= @this.previous_post.title %></a><% end %>
-  </nav>
-  <% end %>
+  <% if page.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= page.licence %>/3.0/" title="Full details of the licence."><%= page.licence.upcase %> Creative Commons licence</a>.</p><% end %>
 </article>

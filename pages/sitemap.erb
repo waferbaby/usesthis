@@ -16,10 +16,10 @@ extension: xml
   <url>
     <loc>http://usesthis.com/api/</loc>
   </url>
-  <% @site.posts.each do |post| %>
+  <% site.posts.each do |post| %>
   <url>
     <loc>http://usesthis.com/interviews/<%= post.slug %>/</loc>
-    <lastmod><%= post.year %>-<%= post.month %>-<%= post.day %></lastmod>
+    <lastmod><%= post.date.strftime('%Y') %>-<%= post.date.strftime('%m') %>-<%= post.date.strftime('%d') %></lastmod>
   </url>
   <% end %>
 </urlset>

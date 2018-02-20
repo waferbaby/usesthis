@@ -1,31 +1,32 @@
 <!DOCTYPE html>
 <html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <title>Uses This / <%= @this.title %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
+    <title>Uses This / <%= page.title || template.title %><% if pagination && pagination.current_page > 1 %> (Page <%= pagination.current_page %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
     <link href="/feed.json" rel="alternate" title="Main JSON feed" type="application/json">
-  <% if @type == :interview %>
-    <% if @this.previous_post %><link rel="prev" href="https://usesthis.com/interviews/<%= @this.previous_post.slug %>/"><% end %>
-    <% if @this.next_post %><link rel="next" href="https://usesthis.com/interviews/<%= @this.next_post.slug %>/"><% end %>
-  <% elsif @pagination %>
-    <% if @pagination[:previous_page_url] %><link rel="prev" href="<%= @pagination[:previous_page_url] %>"><% end %>
-    <% if @pagination[:next_page_url] %><link rel="next" href="<%= @pagination[:next_page_url] %>"><% end %>
+    <% if page.category %>
+    <link href="/categories/<%= page.category.slug %>/feed.atom" rel="alternate" title="<%= page.category.name %> Atom feed" type="application/atom+xml">
+    <link href="/categories/<%= page.category.slug %>/feed.json" rel="alternate" title="<%= page.category.name %> JSON feed" type="application/json">
+    <% end %>
+  <% if pagination %>
+    <% if pagination.previous_page_url %><link rel="prev" href="<%= pagination.previous_page_url %>"><% end %>
+    <% if pagination.next_page_url %><link rel="next" href="<%= pagination.next_page_url %>"><% end %>
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup<% if @type == :interview %>, <%= @this.categories.join(', ') %><% end %>">
-  <% if @type == :interview %>
+    <meta name="keywords" content="interview, setup,<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
+  <% if page.date %>
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@usesthis" />
     <meta name="twitter:creator" content="@waferbaby" />
-    <meta name="twitter:title" content="Uses This / <%= @this.title %>" />
-    <meta name="twitter:description" content="<%= @this.summary %>" />
-    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= @this.slug %>/portrait.jpg" />
+    <meta name="twitter:title" content="Uses This / <%= page.title %>" />
+    <meta name="twitter:description" content="<%= page.summary %>" />
+    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg" />
     <meta name="twitter:label1" content="Published" />
-    <meta name="twitter:data1" content="<%= @this.date.strftime('%B %-d, %Y') %>" />
+    <meta name="twitter:data1" content="<%= page.date.strftime('%B %-d, %Y') %>" />
   <% end %>
   <script type="text/javascript">
     var _paq = _paq || [];
@@ -47,9 +48,9 @@
         <p>A collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
         <nav>
           <ul>
-            <li><a href="/" title="The most recent interviews."<% if @this.url.match?('/interviews/') %> class="selected"<% end %>>Home</a></li>
-            <li><a href="/categories/" title="All of the interview categories."<% if @this.url.match?('/categories/') %> class="selected"<% end %>>Categories</a></li>
-            <li><a href="/about/" title="General site information and FAQ."<% if @this.url.match?('/about/') %> class="selected"<% end %>>About</a></li>
+            <li><a href="/" title="The most recent interviews.">Home</a></li>
+            <li><a href="/categories/" title="All of the interview categories.">Categories</a></li>
+            <li><a href="/about/" title="General site information and FAQ.">About</a></li>
           </ul>
         </nav>
       </div>
@@ -66,7 +67,7 @@
         <input type="submit" value="Go">
       </form>
       <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="A Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
-      <p><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a> / <a href="/feed.atom" title="The Atom feed.">Atom Feed</a> / <a href="/feed.json" title="The JSON feed.">JSON Feed</a> / <a href="/api/" title="The API.">API</a></p>
+      <p><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a> / <a href="/feed.atom" title="The Atom feed.">Atom Feed</a> / <a href="/feed.json" title="The JSON feed.">JSON Feed</a></p>
     </footer>
   </body>
 </html>

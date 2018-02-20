@@ -1,30 +1,30 @@
 <header>
   <figure>
-  <% if @selected %>
-    <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= @interview.title %>">
-    <% if @interview.credits %>
-      <figcaption>Photo by <% if @interview.credits['url'] %><a href="<%= @interview.credits['url'] %>" title="More details about <%= @interview.credits['name'] %>."><%= @interview.credits['name'] %></a><% else %><%= @interview.credits['name'] %><% end %>.</figcaption>
+  <% if selected %>
+    <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= interview.title %>">
+    <% if interview.credits %>
+      <figcaption>Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="More details about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %>.</figcaption>
     <% end %>
   <% else %>
-    <a href="/interviews/<%= @interview.slug %>/" title="An interview with <%= @interview.title %>.">
-      <img src="/images/interviews/<%= @interview.slug %>/portrait.jpg" width="300" height="201" class="portrait" alt="A picture of <%= @interview.title %>">
+    <a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>.">
+      <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="300" height="201" class="portrait" alt="A picture of <%= interview.title %>">
     </a>
   <% end %>
   </figure>
-  <% if @selected %>
-    <h2 class="p-name"><%= @interview.title %></h2>
+  <% if selected %>
+    <h2 class="p-name"><%= interview.title %></h2>
   <% else %>
-    <h3><a href="/interviews/<%= @interview.slug %>/" title="An interview with <%= @interview.title %>." class="p-name"><%= @interview.title %></a></h3>
+    <h3><a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="p-name"><%= interview.title %></a></h3>
   <% end %>
-  <p class="summary p-job-title"><%= @interview.summary %></p>
-  <time datetime="<%= @interview.date.strftime('%Y-%m-%d') %>">
-    Posted <a href="/interviews/<%= @interview.date.year %>/<%= @interview.date.strftime('%m') %>/" title="All interviews from <%= @interview.date.strftime('%B, %Y') %>."><%= @interview.date.strftime('%B %d') %></a>, <a href="/interviews/<%= @interview.date.year %>/" title="All interviews from <%= @interview.date.year %>."><%= @interview.date.strftime('%Y') %></a>
+  <p class="summary p-job-title"><%= interview.summary %></p>
+  <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>">
+    Posted <a href="/interviews/<%= interview.date.year %>/<%= interview.date.strftime('%m') %>/" title="All interviews from <%= interview.date.strftime('%B, %Y') %>."><%= interview.date.strftime('%B %d') %></a>, <a href="/interviews/<%= interview.date.year %>/" title="All interviews from <%= interview.date.year %>."><%= interview.date.strftime('%Y') %></a>
   </time>
   <nav class="categories">
     <p>Filed under:</p>
     <ul>
-    <% @interview.categories.each do |slug| %>
-      <li><a href="/categories/<%= slug %>/" title="All the <%= @site.categories[slug].name %> interviews." class="p-category"><%= slug %></a></li>
+    <% interview.categories.each do |slug| %>
+      <li><a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews." class="p-category"><%= slug %></a></li>
     <% end %>
     </ul>
   </nav>

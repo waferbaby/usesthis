@@ -4,16 +4,16 @@ title: Categories
 ---
 
 <h2>Not just Macs</h2>
-<p>There are currently <strong><%= @site.categories.count %></strong> categories on the site.</p>
+<p>There are currently <strong><%= site.categories.count %></strong> categories on the site.</p>
 
 <% ('a'..'z').each do |letter| %>
-  <% unless (slugs = @site.categories.keys.select { |key| key[0] == letter }.sort).empty? %>
+  <% unless (slugs = site.categories.keys.select { |key| key[0] == letter }.sort).empty? %>
     <h3 id="<%= letter %>"><%= letter.upcase %></h3>
     <ul class="categories">
       <% slugs.each do |slug| %>
         <li>
-          <a href="/categories/<%= slug %>/" title="All the <%= @site.categories[slug].name %> interviews."><%= @site.categories[slug].name %></a><br>
-          <span class="summary"><%= @site.categories[slug].posts.count %> interview<% if @site.categories[slug].posts.count != 1 %>s<% end %>.</span>
+          <a href="/categories/<%= slug %>/" title="All the <%= site.categories[slug].name %> interviews."><%= site.categories[slug].name %></a><br>
+          <span class="summary"><%= site.categories[slug].posts.count %> interview<% if site.categories[slug].posts.count != 1 %>s<% end %>.</span>
         </li>
       <% end %>
     </ul>
