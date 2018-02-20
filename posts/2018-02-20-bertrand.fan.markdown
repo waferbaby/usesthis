@@ -1,0 +1,100 @@
+---
+title: Bertrand Fan
+summary: Engineer (Slack)
+categories:
+- developer
+- mac
+- web
+---
+
+#### Who are you, and what do you do?
+
+I'm [Bertrand Fan](http://thatsaspicymeatball.com/ "Bert's website."), an engineer on the Platform team at [Slack][]. I [build things](https://api.slack.com/ "The Slack API.") so that you can [build things](https://api.slack.com/apps?new_app=1 "The process for starting a new Slack app."), but sometimes I [also](https://bobamcbobaface.com/ "Bert's boba tea group order tool for Slack.") [build](https://dopewarsbot.com/ "Bert's Dope Wars bot for Slack.") [things](https://vandelayindustries.online/ "Bert's Seinfeld GIF bot for Slack.") to verify that the things that I'm building actually help you build things.
+
+I'm less interesting than my wife, [Iris Willow](http://iriswillow.com/ "Iris' website."). You should be reading [her interview](https://usesthis.com/interviews/iris.willow/ "Iris' Uses This interview.") instead.
+
+Previously, I [helped Barack Obama become president](https://en.wikipedia.org/wiki/Barack_Obama_presidential_campaign%2C_2008#MyBo "The Wikipedia entry for Obama's 2008 campaign."), built [VR](https://techcrunch.com/2015/12/09/flickr-comes-to-gear-vr-with-360-degree-photo-viewing-experience/ "A TechCrunch article about Flickr's VR support.") at [Flickr][] and [architected its transition to a Node.js stack](https://www.youtube.com/watch?v=vBo0aFtg1_M "The YouTube video of Bert's talk about switching Flickr to Node."), and [failed at building a startup](https://www.wired.com/2012/10/recollect-gives-social-media-ephemera-a-permanent-home/ "A Wired article about Bert's social media archival startup.").
+
+#### What hardware do you use?
+
+I have a [256 GB Jet Black iPhone 7][iphone-7] and my [AirPods][airpods] with me at all times. If you have the kind of ear canals that can tolerate in-ear monitors, you should use those instead, they sound way better. I put my phone in an [ElevationDock][elevationdock-3] with a [NanoPad][nanopad.2] that uses thousands of tiny suction cups to secure it to my bedside table. 
+
+My favorite pen is the [Pilot Hi-Tec-C Cavalier][hi-tec-c], which unfortunately has been discontinued by Pilot Japan. I've tried a lot of different notebooks but I like the Kyokuto F.O.B COOP W Ring Notebook - B5 - Dot Grid - Silver best because it has a subtle dot grid and you can lay it flat to read it.
+
+I have two [MacBook Pros][macbook-pro], one for work (15-inch, Mid 2015) and one for personal use (15-inch with Touch Bar, Space Grey, 2016). I also have a recertified Acer Chromebook 11 that I'm [experimenting with as a writing device](https://medium.com/@bertrandom/a-modern-typewriter-7d8b4c86b625 "Bert's Medium post about writing on the Chromebook.") and a [desktop](https://www.flickr.com/photos/bertrandom/27964118280/ "Bert's Flickr photo of his desktop PC.") that [I built](https://www.flickr.com/photos/bertrandom/28244943505/ "Bert's Flickr photo of his desktop PC parts.") which serves as my VR rig.
+
+The 2016 Macbook Pro seems like a misstep to me. It has a lack of useful ports so I have to supplement it with an [Arc Hub][arc-hub] and a [Belkin USB-C to Gigabit Ethernet adapter][usb-c-to-gigabit-ethernet-adapter]. If you want additional power chargers, you have to buy a [USB-C Charge Cable][usb-c-charge-cable-2m] and [Power Adapter Extension Cable][power-adapter-extension-cable] separately. A Power Adapter Extension Cable costs \$19 and it doesn't even come with the laptop. The touchbar remains to be a gimmick to me and key travel distance on the keyboard isn't great.
+
+If I'm at a desk, I use [WASD v2 TKL][wasd-v2-87-key] keyboards. My work keyboard has [PuLSE SA keycaps and Cherry MX brown switches](https://www.flickr.com/photos/bertrandom/28581802223/ "Bert's Flickr photo of his work keyboard.") and my home keyboard has [1976 SA keycaps and Cherry MX silent red switches](https://www.flickr.com/photos/bertrandom/29723520272/ "Bert's Flickr photo of his home keyboard."). I recently acquired a [5x6 Macropad](https://www.flickr.com/photos/bertrandom/38104104681/ "Bert's Flickr photo of his Macropad array.") that runs off a [Teensy][] that I use as an [emoji keyboard](https://www.flickr.com/photos/bertrandom/38499638930/ "Bert's Flickr photo of his custom emoji keyboard.").
+
+At work, I use a [Magic Mouse 2][magic-mouse-2] and at home I have a discontinued [Logitech V550][v550] mouse that I love and buy new old stock of whenever I can find it. I also sometimes use a [modified](https://www.tindie.com/products/option8/m0100-to-usb-conversion/ "A guide for converting the M0100 mouse to USB.") [M0100][macintosh-mouse] because I think its funny, but the lack of a right mouse button prohibits me from using it regularly.
+
+I own a [Raspberry Pi][raspberry-pi], [Tessel][], [C.H.I.P.][c.h.i.p], and a Teensy that I'm constantly wiping clean and experimenting with [new](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8 "Bert's Medium article about automating the snowball game in Breath of the Wild.") [hardware](https://www.flickr.com/photos/bertrandom/20103972574/ "Bert's Flickr video of his Amazon Dash hack.") [projects](http://thatsaspicymeatball.com/post/3567097734/rfid-record-player "Bert's post about his RFID record player.").
+
+I recently sold my [HTC Vive][vive] because my house is too small for room-scale VR but am keeping my [Oculus Rift][oculus-rift] until the next generation of headsets comes out. I'll probably buy an [Oculus Go][oculus-go] when it comes out.
+
+I have an [HP 7550A][7550a] pen plotter which originally cost \$3900 in 1984, but I picked up one in really good condition for around \$100 in 2015 on [eBay][]. It has a ridiculous set of adapters coming out of it (parallel to serial to USB A to USB C) but it produces some impressive [plots](https://www.flickr.com/photos/bertrandom/16585002600/ "Bert's Flickr photo of his plotter output."). I've modified it to also use Pilot Hi-Tec-C refills.
+
+I dabble in cryptocurrency but am fairly paranoid so I store the majority of my funds in a [Ledger Nano S][nano-s] hardware wallet.
+
+I got really frustrated with the wifi situation at my last place so I went a little overboard and bought enough network equipment to run a small conference in my home. This includes an [EdgeRouter PoE][edgerouter-poe], three [Unifi AP AC Pro][unifi-ap-ac-pro] hotspots, and a [Motorola MB8600][mb8600] cable modem.
+
+My house has [Amazon Echo][echo.3] and [Echo Dots][echo-dot] in every room so I spend a lot of my time yelling at it. Each light switch has been replaced with a [Lutron P-PKG1W-WH Caseta Wireless Dimmer][p-pkg1w-wh] that I control with a [Wink Hub 2][wink-hub-2]. The Echo Dots are hooked up to 10-year old [Sonic Impact Gen 2 T-Amps][impact-5065] attached to 20-year old bookshelf speakers that I use [Spotify][] Connect to control with my iPhone. I'm considering switching to the Sonos ecosystem.
+
+I have a [Mac Mini][mac-mini] (Late 2014) running [Plex][] and a [Synology DS415+][diskstation-ds2415-plus] with 4 [WD Red][wd-red] 6TB drives that hold my movie collection.
+
+I collect old videogame systems, but my favorite console is the [SNES][]. I prefer to play on the original hardware, so I own a [Super Wild Card DX][super-wild-card-dx] which takes 3.5" floppy disks (most SNES games can fit on 1-2 1.44 MB disks) and a [sd2snes][] which can fit the entire SNES library on a single SD card. I also own a [Super NES Classic Edition][super-nes-classic-edition] and a Raspberry Pi running [RetroPie][] with [USB Super RetroPorts][usb-super-retroport] so that you can use the original controllers.
+
+I rarely travel without my [Fujifilm X100S][x100s], [iPad Mini 2][ipad-mini-2], [Lightning to SD Card Camera Reader][lightning-to-sd-card-camera-reader], [Kindle Paperwhite][kindle-paperwhite], [Nintendo Switch][switch.2], [Jackery Bolt 6000 mAh battery charger][bolt], [Monoprice Noise Cancelling Headphones][active-noise-cancelling-headphones], and [Monster MP OTG400 BK Outlets To Go Power Strip][outlets-to-go].
+
+If there is a theme here, it's that the hardware you love will become discontinued and sometimes won't be replaced by anything better. So if you can afford to, buy two (or three) of the them and set them aside for when the first one breaks.
+
+#### And what software?
+
+[OS X][mac-os-x] is my primary operating system. I had held out for ages on upgrading but the [Meltdown and Spectre attacks](https://meltdownattack.com/ "Details about the Meltdown and Spectre vulnerabilities.") forced me to upgrade to High Sierra.
+
+I spend a lot of time in Slack, either in the Mac app or the [iOS client][slack-ios]. I tend to stay in all channels that I have a passing interest in, but only routinely read the channels that I have starred.
+
+I use [Sublime Text][sublime-text] to write code. My favorite plugins are [VCS Gutter][vcs-gutter], [SFTP][], [Pretty JSON][pretty-json], [Requester][], [Gist][gist.2], and [Package Syncing][package-syncing]. I probably should be embarrassed to admit that I use [nano][] to edit files on servers when I need to, but [vim][] seems needlessly obtuse to me.
+
+[Moom][] is one of my favorite apps for controlling my window sizes and position. I've remapped my Caps Lock key to be my Moom trigger.
+
+I use [iTerm2][] as my terminal app. My prompt is a customized [powerline-shell][] and I use [autojump][] to do most of my navigation between directories.
+
+[Homebrew][] is one of the first things I install on any OS X computer because it has so many packages that I depend on. Sometimes I'll run [iftop][] if my network connection seems particularly slow. I've found [exiftool][], [imagemagick][], [youtube-dl][], and [ffmpeg][] to be useful enough to install by default on all my computers.
+
+I mostly use [git][] on the command line, but I will supplement my workflow with a variety of visual tools. I use [tig][] to navigate through my previous commits and [Github Desktop][github-desktop] to select which files I want to go into a commit and do quick visual sanity checks of what I'm committing. For diffs and merging, I use [Kaleidoscope][].
+
+A lot of my job involves testing the [Slack API](https://api.slack.com/methods "Documentation for the Slack API endpoints.") in various ways. I use a combination of [curl][] piping to [jq][], Requester in Sublime Text, and [Postman][] depending on what I'm trying to do.
+
+[ngrok][] is invaluable for testing various Slack Platform features that require an externally accessible endpoint, but I'll also use the [Heroku][] and [Google Cloud][google-cloud] CLI tools when I need a more reliable environment.
+
+[Google Chrome][chrome] is the only browser I use, for both browsing and development. I spend a lot of time in the Network tab of [Developer Tools][chrome-devtools], but I also rely on a bunch of different extensions: [EditThisCookie][], [Pinboard Keyboard Shortcut][pinboard-keyboard-shortcut], [Window Resizer][window-resizer], [uBlock Origin][ublock-origin], and [SAML Chrome Panel][saml-chrome-panel]. I have a bunch of different profiles for being signed-in to different accounts on various 3rd-party services. Also, since I use Chrome exclusively, I will often build CLI tools using my [cookie extraction library][chrome-cookies-secure] to automate workflows with different websites.
+
+[ScreenFlow][] is great for recording interactions, I use it for providing examples in bug reports, demonstrating how something works, or just taking the risk out of a live demo. [Monosnap][] is like a non-Evernote-tainted Skitch and I use it all the time for taking screenshots and annotating them.
+
+I store all my passwords in [1Password][] but I've had enough bad experiences with iCloud to only sync it with [Dropbox][]. I try to store everything in Dropbox and use Selective Sync pretty carefully to avoid filling up my entire hard drive.
+
+As far as apps that live on my menubar, [Caffeine][], [Day-O][], and [Next Meeting][next-meeting] each do a single thing well.
+
+I use [Nativefier][] to create SSBs for both [Gmail][] and [Google Calendar][google-calendar]. I listen to music on Spotify, but occasionally I'll use [Cog][] to listen to some mp3s or [iTunes][] to stream from my iTunes Match collection.
+
+Whenever I'm writing [Markdown][], like right now when I'm writing the answers to these questions, I use [MacDown][]. I also spend a fair amount of time writing in Sublime Text in Distraction Free Mode, [Google Docs][google-docs], and [Dropbox Paper][dropbox-paper].
+
+I use [OmniGraffle][] to create flowcharts, [Keynote][] for presentations, and [Photoshop][] for image manipulation. [Highlight][] is useful for pasting syntax highlighted code into a Keynote slide.
+
+#### What would be your dream setup?
+
+In most places I've worked, I've slowly acquired monitors until there's no room left on my desk to add any more until I do an ergo evaluation and they convince me to get rid of them all. For this reason, I'll be happy to switch to a VR headset as my primary display when they are high resolution enough to not make me want to throw up after using them for sustained periods of time.
+
+My dream keyboard would probably be a [Rama M65-A][m65-a] with an entire row of Jellykey keycaps. I imagine this interfacing with something like the [Logitech BRIDGE](https://blog.vive.com/us/2017/11/02/introducing-the-logitech-bridge-sdk/ "An HTC post about Logitech's BRIGE SDK.") so that it would work seamlessly in VR.
+
+I have a [Jeremiah Collection laptop desk][mid-century-modern-laptop-desk] and wouldn't mind the [larger version][mid-century-desk-with-cord-management] of it, but I live in SF. I guess in my dream setup, the median price per square foot of space in SF would be lower.
+
+For my video game console collection, I wouldn't mind a grid of [Sony BVM-20F1U][bvm-20f1u] broadcast monitors hooked up to [XRGB-mini Framemeisters][xrgb-mini-framemeister]. I'd love to mod both my top-loading NES with a [Hi-Def NES upgrade kit][hi-def-nes] and my N64 with an [UltraHDMI upgrade kit][ultrahdmi-upgrade-kit]. I already have a [1CHIP SNES](http://retrorgb.com/snes1chip.html "An article about the SNES consoles with the 1CHIP motherboards.") but a [SNES Mini with a THS7314 RGB bypass amp](http://retrorgb.com/snesminirgb.html "An article detailing how to add RGB to the SNES Mini.") would be a nice addition. For my Dreamcast, a [GDEMU][] or [USB-GDROM][] to replace the optical drive would help future proof it.
+
+Now that the [GameCube][] [WaveBird][], the best gaming controller of all time, is [compatible with the Nintendo Switch](https://www.polygon.com/2017/10/24/16533932/nintendo-switch-gamecube-controllers "A Polygon article about the Switch supporting WaveBird controllers."), I wouldn't mind picking up a couple of those with and a [Wii U][wii-u] controller adapter.
+
+I've considered replacing my pen plotter with an [AxiDraw V3][axidraw-v3] because I see it pop up all the time on [#plottertwitter](https://twitter.com/hashtag/plottertwitter "The #plottertwitter hashtag on Twitter.").
+
+As far as software is concerned, I jumped ship from Windows to OS X around 10.6 "Snow Leopard", but with every new release of OS X, I feel like it's getting further and further away from an OS that helps me as a software developer. I think it's still better than Windows, despite the [WSL][windows-subsystem-for-linux], and the old joke that this year will be the year of Linux on the desktop still remains. I learned the hard way that developing for VR on OS X is an exercise in futility, so I'm hoping that something better comes around that replaces all of these - something that fulfills the original promise of UI/UX that "just works", a healthy app ecosystem, and the Linux toolchain that we expect.
