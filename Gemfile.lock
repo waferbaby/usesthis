@@ -18,10 +18,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  dimples
-  erubis
-  faraday
-  redcarpet
+  dimples (~> 5.0.0)
+  erubis (~> 2.7.0)
+  faraday (~> 0.14.0)
+  redcarpet (~> 3.4.0)
 
 RUBY VERSION
    ruby 2.5.0p0
