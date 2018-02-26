@@ -22,11 +22,13 @@ unless Dir.glob(path.gsub(type, '**')).empty?
   abort("Entry already exists for '#{slug}'.")
 end
 
+current_url = `osascript -e 'tell application "Safari" to get URL of current tab of front window'`
+
 entry = <<ENTRY
 {
   "name": "#{name}",
   "description": "(description)",
-  "url": "(url)"
+  "url": "#{current_url.strip}"
 }
 ENTRY
 
