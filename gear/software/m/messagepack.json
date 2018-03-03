@@ -1,5 +1,5 @@
 {
   "name": "MessagePack",
   "description": "A binary serialisation format, similar to JSON.",
-  "url": "http://msgpack.org/"
+  "url": "https://msgpack.org/"
 }
