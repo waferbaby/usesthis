@@ -19,12 +19,12 @@ class InterviewGearScanner < Dimples::Plugin
   end
 
   def supported_events
-    [:post_write]
+    [:before_post_write]
   end
 
   def process(event, interview, &block)
     case event
-    when :post_write
+    when :before_post_write
       links = ''
 
       interview.contents.scan(GEAR_LINK).each do |link|
