@@ -1,0 +1,5 @@
+{
+  "name": "DynamoDB",
+  "description": "A NoSQL database service.",
+  "url": "https://aws.amazon.com/dynamodb/"
+}
