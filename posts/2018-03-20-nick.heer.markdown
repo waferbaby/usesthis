@@ -1,0 +1,45 @@
+---
+title: Nick Heer
+summary: Web designer, developer (Pixel Envy)
+categories:
+- (category)
+- (category)
+---
+
+#### Who are you, and what do you do?
+
+Hey there, I'm Nick Heer. I'm enthusiastic about taking photographs, but I'm not a photographer. I've been writing [Pixel Envy](https://pxlnv.com/ "Nick's website.") for about seven years, but I'm not a writer either. I write "web designer/developer" in the *Occupation* field of official documents. I'm a professional converter of coffee into bytes.
+
+I live right smack in the middle of Calgary.
+
+#### What hardware do you use?
+
+I have a maxed-out mid-2012 13-inch [MacBook Air][macbook-air] that still works very well, and it is connected to my [Thunderbolt Display][thunderbolt-display] about 95% of the time. I use one of Apple's aluminum Bluetooth keyboards and a second-generation Magic Trackpad.
+
+I keep a lot of stuff connected to the Thunderbolt Display, including a 2 TB [Buffalo MiniStation][ministation-thunderbolt] which contains my fairly large [iTunes][] library. I also have a USB digital-to-analog converter that goes through an amplifier and powers a couple of bookshelf speakers -- tragically, [Bose][161] -- so the music I play actually sounds like, well, music.
+
+I use a black [Caran D'Ache 849][849] and various notebooks for drafts, outlines, and general jotting.
+
+I use a "Space Grey" [iPhone X][iphone-x] and an [iPad][] -- the 9.7-inch one that has no suffix.
+
+I use a [Canonet QL-19 "New"][canonet-ql19] and a [Leica Q][q.2] to make photographs.
+
+I use an [AeroPress][] to brew Monogram or Phil & Sebastian coffee.
+
+#### And what software?
+
+Websites are built using [Coda][], [Transmit][], and [TextMate][]. Because I started designing websites in the early 2000s, I still use [Photoshop][] (CS 5.1!) to create mockups and build graphics.
+
+I write in [MarsEdit][].
+
+I use [Fantastical][] to keep track of many days, [Things][] to keep track of what I need to do every day, and iTunes to keep my ears occupied all day long.
+
+I waste time in [Slack][] and [Tweetbot][].
+
+On my iPhone, I keep up with the news using [Reeder][reeder-ios], check how cold Calgary is using [Weather Line][weather-line-ios], and find out when the bus arrives using [Transit][transit-ios].
+
+#### What would be your dream setup?
+
+I'd like to have something faster and more capable for handling the very large RAW files off my camera, and being able to have Slack open in the background. The non-Touch Bar [MacBook Pro][macbook-pro] is very appealing -- especially when paired with a [5K display][ultrafine-5k] -- but I have worries about the keyboard's long-term reliability and I do wish it had an SD card slot. The 5K [iMac][] also looks tremendous, but I still want portability for that 5% of the time when I really need it. I guess I'll see what WWDC brings this year.
+
+Truth be told, though, I'm still very happy with what I have. I replaced my last computer -- a 2007 MacBook Pro -- after five years, and it felt like it was on its last legs by that time. This MacBook Air still feels very fast most of the time, and does everything I ask of it. And the Thunderbolt Display is something I like so much that I [wrote an obituary for it](https://pxlnv.com/blog/requiem-thunderbolt-display/ "Nick's post about the Thunderbolt Display.") after Apple announced that they would no longer be making displays. They have since reversed that position -- thankfully.
