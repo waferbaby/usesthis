@@ -2,8 +2,10 @@
 title: Nick Heer
 summary: Web designer, developer (Pixel Envy)
 categories:
-- (category)
-- (category)
+- designer
+- developer
+- mac
+- web
 ---
 
 #### Who are you, and what do you do?
