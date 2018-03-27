@@ -10,9 +10,9 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm a [machine learning researcher](https://www.linkedin.com/in/arwengriffioen/ "Arwen's LinkedIn account."), data scientist and [bookworm](https://www.goodreads.com/user/show/7335996-arwen-twinkle-griffioen "Arwen's Goodreads account."). I have a husband who's also a data geek and a 6 year old son. We're joined by Relu cat, and a small flock of chickens. I maintain a hard line between work and life. Work enables life it doesn't dictate life. I try to grow my own fruits and veggies as well as develop a mostly native garden to attract birds. I spend a great deal of time just pottering around the yard, reading, and playing.
+I'm a [machine learning researcher](https://www.linkedin.com/in/arwengriffioen/ "Arwen's LinkedIn account."), data scientist and [bookworm](https://www.goodreads.com/user/show/7335996-arwen-twinkle-griffioen "Arwen's Goodreads account."). I have a husband who's also a data geek and a 6 year old son. We're joined by Relu cat, and a small flock of chickens. I maintain a hard line between work and life. Work enables life, it doesn't dictate life. I try to grow my own fruits and veggies as well as develop a mostly native garden to attract birds. I spend a great deal of time just pottering around the yard, reading, and playing.
 
-Machine Learning has the power to be of immense benefit or detriment to humanity and the world.I chose to focus on the beneficial and did my PhD Research in developing machine learning algorithms for ecological modeling. I continue to align my belief in the benefits of ML with the projects and positions I undertake. I work as a data scientist at [Zendesk][], teaching machines to [make customer service better for everyone][answer-bot].
+Machine Learning has the power to be of immense benefit or detriment to humanity and the world. I chose to focus on the beneficial and did my PhD Research in developing machine learning algorithms for ecological modeling. I continue to align my belief in the benefits of ML with the projects and positions I undertake. I work as a data scientist at [Zendesk][], teaching machines to [make customer service better for everyone][answer-bot].
 
 #### What hardware do you use?
 
