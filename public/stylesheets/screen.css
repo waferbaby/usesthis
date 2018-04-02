@@ -82,8 +82,7 @@ line-height: 1.7em;
 
 dt {
 display: block;
-font-weight: bold;
-margin: 0;
+margin: 0 0 10px 0;
 }
 
 figcaption {
