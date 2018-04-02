@@ -1,0 +1,10 @@
+---
+layout: default
+filename: 404
+---
+
+## 404
+
+I can't find anything at that URL.
+
+Sorry about that! Would searching the site help?
