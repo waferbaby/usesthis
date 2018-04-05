@@ -45,7 +45,7 @@ I have a [Mac Mini][mac-mini] (Late 2014) running [Plex][] and a [Synology DS415
 
 I collect old videogame systems, but my favorite console is the [SNES][]. I prefer to play on the original hardware, so I own a [Super Wild Card DX][super-wild-card-dx] which takes 3.5" floppy disks (most SNES games can fit on 1-2 1.44 MB disks) and a [sd2snes][] which can fit the entire SNES library on a single SD card. I also own a [Super NES Classic Edition][super-nes-classic-edition] and a Raspberry Pi running [RetroPie][] with [USB Super RetroPorts][usb-super-retroport] so that you can use the original controllers.
 
-I rarely travel without my [Fujifilm X100S][x100s], [iPad Mini 2][ipad-mini-2], [Lightning to SD Card Camera Reader][lightning-to-sd-card-camera-reader], [Kindle Paperwhite][kindle-paperwhite], [Nintendo Switch][switch.2], [Jackery Bolt 6000 mAh battery charger][bolt], [Monoprice Noise Cancelling Headphones][active-noise-cancelling-headphones], and [Monster MP OTG400 BK Outlets To Go Power Strip][outlets-to-go].
+I rarely travel without my [Fujifilm X100S][x100s], [iPad Mini 2][ipad-mini-2], [Lightning to SD Card Camera Reader][lightning-to-sd-card-camera-reader], [Kindle Paperwhite][kindle-paperwhite], [Nintendo Switch][switch.2], [Jackery Bolt 6000 mAh battery charger][bolt], [Monoprice Noise Cancelling Headphones][active-noise-cancelling-headphones], and [Monster MP OTG400 BK Outlets To Go Power Strip][otg400].
 
 If there is a theme here, it's that the hardware you love will become discontinued and sometimes won't be replaced by anything better. So if you can afford to, buy two (or three) of them and set them aside for when the first one breaks.
 
