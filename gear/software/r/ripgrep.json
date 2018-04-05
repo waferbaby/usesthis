@@ -1,0 +1,5 @@
+{
+  "name": "ripgrep",
+  "description": "A tool for searching directories via regular expressions.",
+  "url": "https://github.com/BurntSushi/ripgrep"
+}
