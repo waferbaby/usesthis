@@ -3,6 +3,7 @@ title: Samantha Vilkins
 summary: Communications and Engagement Officer (ANU), PhD candidate
 categories:
 - mac
+- researcher
 - student
 ---
 
