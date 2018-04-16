@@ -3,7 +3,7 @@
   <% if selected %>
     <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= interview.title %>">
     <% if interview.credits %>
-      <figcaption>Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="More details about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %>.</figcaption>
+      <figcaption>Photo by <% if interview.credits['url'] %><a href="<%= interview.credits['url'] %>" title="More details about <%= interview.credits['name'] %>."><%= interview.credits['name'] %></a><% else %><%= interview.credits['name'] %><% end %><% if interview.credits['licence'] %> (<a href="http://creativecommons.org/licenses/<%= interview.credits['licence'] %>/4.0/" title="The <%= interview.credits['licence'].upcase %> Creative Commons licence."><%= interview.credits['licence'].upcase %></a>)<% end %>.</figcaption>
     <% end %>
   <% else %>
     <a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>.">
