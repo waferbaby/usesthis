@@ -5,5 +5,5 @@ layout: default
 <article class="h-card">
   <%= render('shared.interview_header', interview: page, selected: true) %>
   <%= yield %>
-  <% if page.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= page.licence %>/3.0/" title="Full details of the licence."><%= page.licence.upcase %> Creative Commons licence</a>.</p><% end %>
+  <% if page.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= page.licence %>/4.0/" title="The <%= page.licence.upcase %> Creative Commons licence."><%= page.licence.upcase %> Creative Commons licence</a>.</p><% end %>
 </article>
