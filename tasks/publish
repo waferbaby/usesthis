@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
-csso site/stylesheets/screen.css -o site/stylesheets/screen.css
-rsync -azP --delete site/ usesthis.com:/usr/local/www/usesthis.com/public/
+git pull
+bundle exec dimples build -o /usr/local/www/usesthis.com/public/
