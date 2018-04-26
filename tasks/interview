@@ -32,7 +32,7 @@ file_path = File.join(source_path, 'posts', filename)
 
 abort("Interview already exists for #{slug}.") if File.exist?(file_path)
 
-portrait_path = File.join(source_path, 'public', 'images', 'interviews', slug)
+portrait_path = File.join(source_path, 'static', 'images', 'interviews', slug)
 FileUtils.mkdir(portrait_path) unless File.exist?(portrait_path)
 
 output = <<OUTPUT
