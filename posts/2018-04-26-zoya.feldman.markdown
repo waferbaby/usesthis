@@ -1,0 +1,28 @@
+---
+title: Zoya Feldman
+summary: Designer, illustrator
+categories:
+- designer
+- illustrator
+- mac
+---
+
+#### Who are you, and what do you do?
+
+My name is Zoya Feldman, and I am a designer and illustrator. I help run [Hype Machine][the-hype-machine], a music discovery service we've been working on since 2005. I also make cards, stickers, buttons, and t-shirts about the 3 Cs: [cats, carbs, and computers](http://www.catslock.com/ "Zoya's Etsy store.").
+
+#### What hardware do you use?
+
+I split my time between a [2010 Mac Pro][mac-pro] with a [27" Cinema Display][cinema-display], and a [2011 MacBook Air][macbook-air] you can pry from my cold dongle-free hands. I use a [Wacom Bamboo][bamboo] drawing tablet and a [CanoScan LiDE 120][canoscan-lide-120], and I recently got a new [Canon PIXMA iX6820 printer][pixma-ix6820] because the power supply on my old one burned out. A printer that can go 13" wide is so nice for mocking up everything from posters to shirts.
+
+For drawing/lettering, I start with a [Pilot Fineliner][fineliner], Speedball pens, or Mack brushes on tracing paper. I have an Alvin cutting mat which doubles as a baseline grid, and I cannot overstate the convenience of a good bone folder for cardmaking.
+
+#### And what software?
+
+After scanning in drawings, I rework them in [Illustrator][] or color them in [Photoshop][]. My default way to work is vector, but sometimes raster graphics are the right call. I use a lot of public-domain imagery in my designs; [Flickr][] [Commons](https://www.flickr.com/commons "A library of no-known-copyright photos.") is an absolute goldmine and I wish it well every day of my life.
+
+I use [Glyphs Mini][glyphs-mini] for making fonts, and [Skala][skala-preview] for previewing layouts and graphics on mobile. (It's also the best way I've found of sending images from Photoshop to my phone.) I edit CSS and transfer files in [Coda][], collect data with [Typeform][], and meet up with my coworkers in [HipChat][].
+
+#### What would be your dream setup?
+
+Pretty psyched on my office nook, though I have been considering getting a mini water dispenser so I don't have to walk the 20 feet to my kitchen.
