@@ -1,6 +1,6 @@
 ---
 title: Polina Fearon
-summary: Illustrator, designer
+summary: Designer, illustrator
 categories:
 - designer
 - illustrator
