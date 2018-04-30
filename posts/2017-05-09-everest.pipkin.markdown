@@ -1,5 +1,5 @@
 ---
-title: Katie Rose Pipkin
+title: Everest Pipkin
 summary: Artist, developer
 categories:
 - artist
@@ -11,7 +11,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [KR Pipkin](http://katierosepipkin.com/ "Katie's website."), I make generative books, bots, games, and software. I also make drawings on paper, and collaborative work under the label [Withering Systems](http://withering.systems/ "Katie's collaborative group"). I'm currently in Pittsburgh, PA, at Carnegie Mellon University. Right now, I'm thinking a lot about the commodification of commons on the internet.
+I'm [Everest Pipkin](http://everest-pipkin.com "Everest's website."), I make generative books, bots, games, and software. I also make drawings on paper, and collaborative work under the label [Withering Systems](http://withering.systems/ "Everest's collaborative group"). I'm currently in Pittsburgh, PA, at Carnegie Mellon University. Right now, I'm thinking a lot about the commodification of commons on the internet.
 
 ### What hardware do you use?
 
