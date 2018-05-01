@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 git pull
-bundle exec dimples build -o /usr/local/www/usesthis.com/public/
+bundle exec dimples build
