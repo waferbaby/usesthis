@@ -1,5 +1,6 @@
 {
   "paths": {
+    "output": "/usr/local/www/usesthis.com/public/",
     "archives": "interviews",
     "posts": "interviews",
     "categories": "categories"
