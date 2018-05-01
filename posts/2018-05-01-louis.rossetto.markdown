@@ -1,0 +1,51 @@
+---
+title: Louis Rossetto
+summary: Writer, entrepreneur (Wired, TCHO)
+categories:
+- food
+- mac
+- web
+- writer
+credits:
+  name: Christopher Michel
+  url: https://www.flickr.com/photos/cmichel67/41082233621/
+  licence: by
+---
+
+#### Who are you, and what do you do?
+
+[I'm](https://about.me/louisrossetto "Louis' About.me page.") full circle back to describing myself like I did when I graduated from university --- namely, a writer. In between, I've been an entrepreneur, the co-founder, E-I-C, publisher, and CEO of Wired, a web pioneer (Hotwired), a chocolate maker (TCHO), a father, a contrarian, and a troublemaker (what it says on LinkedIn).
+
+#### What hardware do you use?
+
+Lots. My main computer is a sturdy [Mac Pro][mac-pro] (mid-2010, 2 x 3.46 GHz 6-Core Intel Xeon) hotrodded with 64GB of memory, an OWC PCIe RAID 480 SSD that holds only the system and apps, an [NVIDIA GeForce GTX 1060][geforce-gtx-1060] 6GB graphics card, USB3 card, a PCIe RAID filled with 4TB of mSATA SSDs for all my photos, a bunch of other hard drives inside the Mac Pro for data and clones, a [27 inch Apple LED Cinema Display][cinema-display] and a [23 inch Apple Cinema HD Display][cinema-hd-display]. I have ScanSnap scanner, as well as a [Epson Perfection V600][perfection-v600] photo scanner, as well as a Nikon slide scanner. I have a [Dymo 4XL][labelwriter-4xl] mailing label printer (love it), and a [Brother Pro DX][pt-9200dx] for PTouch labels.
+
+I have a bunch of iPads including [Minis][ipad-mini].
+
+I also use a [MacBook Air][macbook-air] when I'm traveling.
+
+I have a mid 2011 [iMac][] 3.4Ghz Core i7 with 32GB of memory in my writing office with a solid state drive holding the system and apps.
+
+I shoot RAW photos with a [Sony α6000][a6000] and a [Sony RX100 V][rx100-v]. Love them, they're small, light, fast, sharp, and shoot beautiful color. I also have a Nikon DSLR, but haven't touched it in three years.
+
+And then there are all the [Mac Minis][mac-mini] running music, backup, and mail servers. And racks of D-Link 24 port switches. And iMacs repurposed to show slideshows.
+
+I have a [Synology RS812][rs812] 4 disk NAS and its [RX410][] 4 disk expansion unit, running [WD Red][wd-red] 4TB disks, for 32TB of online storage and backup ([CrashPlan][]).
+
+I use an [iPhone 8][iphone-8] with 256GB memory.
+
+For sound, I have a dozen [Sonos Connects][connect.2] driving three AudioControl 700 10 channel amps running the whole house music sysem. I have an MSD Gold DSP and Monarchy Audio massaging the digital signal. I also have a bunch of Sonos Plays, a couple of [Sonos Ones][one.5]. I used to have a Crestron system, but it was slow, expensive, and inflexible. And I have Dynaudio speakers, a California Audio Labs CD player, and a Krell amp for critical listening.
+
+For video, I have a 60 inch Samsung LED, a Denon receiver, Dynaudio speakers, Sony Blu-Ray, [Amazon Fire][fire.2], [Apple TV][apple-tv], DirectTV satellite (but on the way out). All controlled by a iPad Mini running [Simple Control][simple-control-ios].
+
+For home automation, I have a dozen [Alexa Echoes][echo], a dozen [Hue][] bulbs, [Nest][] thermostats, TP-Link and Wemo outlet switches, Neato robot vac, August locks, a hundred Hyperikon and Philips Warm Glow LEDs. And a Vantage Controls whole house lighting system.
+
+No 3D printing, I leave that to my son.
+
+#### And what software?
+
+In no order: [Microsoft Office][office], [Adobe Creative Suite][creative-suite] (of which I use [Lightroom][], [InDesign][], [Illustrator][], [Photoshop][], [Acrobat][]), DxO PhotoLab, [TeamViewer][], [VMWare Fusion][vmware-fusion] so I can run Windows (the Vantage whole house lighting software can only be programmed from Windows), [Dropbox][] for storage, [1Password][], [Carbon Copy Cloner][carbon-copy-cloner], [FontExplorer X Pro][fontexplorer-x], CrashPlan for backups, [Notes][], [EverNote][], Apple's [Mail][], [Safari Technology Preview][safari-technology-preview], [Firefox][], [Fantastical][] for calendaring, Apple's [Contacts][], [Scrivener][] for complex writing, [Spotify][], [VueScan][] for scanning, [SpamSieve][] for junk mail screening, [Remote Desktop][remote-desktop], [Screens][], [DiskWarrior][] to fix messed up hard drives, Hue software, [iConnectHue][iconnecthue-ios], [Yonomi][yonomi-ios].
+
+#### What would be your dream setup?
+
+I suppose I'm waiting for the new Mac Pro, but Apple's been passive aggressive about their computer business that I have no faith that they understand the needs of professionals any more, nor the power of the halo of high end systems on their entire business. I don't really have a dream set up at this point. I have an ecology of equipment I use, which is in a process of constant maintenance, upgrade, or replacement. I'll probably upgrade my Synology NAS to the new [RS818+][rs818-plus], because the current model I'm running is feeling slow. I'm probably going to upgrade the screens to 4K so I can work on my photos better.
