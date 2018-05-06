@@ -3,10 +3,6 @@ require 'json'
 class InterviewGearScanner < Dimples::Plugin
   GEAR_LINK = /\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/
 
-  def initialize(site)
-    @site = site
-  end
-
   def gear
     @gear ||= {}.tap do |gear|
       path = File.join(@site.paths[:base], 'gear', '**', '*.json')
