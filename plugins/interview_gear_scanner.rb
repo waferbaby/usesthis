@@ -18,7 +18,7 @@ class InterviewGearScanner < Dimples::Plugin
     [:before_post_write]
   end
 
-  def process(event, interview, &block)
+  def process(event, interview)
     case event
     when :before_post_write
       links = ''
