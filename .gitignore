@@ -1,2 +1,4 @@
-public
-coverage
+.bundle/
+vendor/
+public/
+coverage/
