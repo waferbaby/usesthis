@@ -1,0 +1,44 @@
+---
+title: Lam Thuy Vo
+summary: Data reporter (BuzzFeed News)
+categories:
+- data
+- mac
+- reporter
+---
+
+#### Who are you, and what do you do?
+
+I'm [Lam Thuy Vo](http://lamthuyvo.com/ "Lam's website."). I'm a (data) reporter for BuzzFeed News where I specialize in covering the intersection of technology and society. I also teach (data journalism, coding for journalists) a fair amount and am currently writing a coding book.
+
+#### What hardware do you use?
+
+[MacBook Pro][macbook-pro] (though in rare cases when I still do videos and photography I shoot with a [Canon 5D Mark II][eos-5d-mark-ii] and a [Sony α7S][a7s]).
+
+#### And what software?
+
+I tell stories in various formats. Some software I use to do so are below. 
+
+For data analysis:
+[Python][] and [Jupyter][] notebooks.
+
+For data visualizations:
+Interactive: [JavaScript][], [d3][d3.js], [Highcharts][], Canvas and whatever other libraries any project may call upon.
+Web dev: [Atom][] text editor.
+Static: [Adobe Illustrator][illustrator].
+
+For other visuals:
+Gifs: [Gyazo][] for quick ones; [QuickTime][quicktime-pro] or [After Effects][after-effects], [Premiere][] and [Photoshop][] for more custom ones.
+
+For photography:
+[Adobe Bridge][bridge] and Photoshop, [Snapseed][snapseed-ios] on the go/mobile.
+
+For videos:
+Premiere, Adobe After Effects.
+
+For writing: 
+[Google Docs][google-docs] (on phone and on desktop).
+
+#### What would be your dream setup?
+
+Adjustable standing desk in a room with many windows with a climbing wall close enough so I can think and climb in between coding milestones :)
