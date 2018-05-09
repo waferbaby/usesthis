@@ -232,7 +232,8 @@ margin: 10px;
 padding: 0;
 }
 
-ul.categories {
+ul.categories,
+ul.months {
 display: grid;
 font-size: 90%;
 grid-template-columns: 33% 33% 33%;
@@ -240,7 +241,8 @@ list-style: none outside;
 margin: 20px 0;
 }
 
-ul.categories li {
+ul.categories li,
+ul.months li {
 margin-bottom: 10px;
 }
 
@@ -261,6 +263,7 @@ margin-bottom: 10px;
   }
 
   body > header nav {
+  font-size: 75%;
   grid-row: 4;
   }
 
@@ -283,7 +286,7 @@ margin-bottom: 10px;
   padding: 0 20px;
   }
 
-  ul.categories {
+  ul.categories, ul.months {
   grid-template-columns: 50% 50%;
   }
 }
