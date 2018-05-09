@@ -1,7 +1,7 @@
 {
   "paths": {
     "output": "/usr/local/www/usesthis.com/public/",
-    "archives": "interviews",
+    "paginated_posts": "interviews",
     "posts": "interviews",
     "categories": "categories"
   },
@@ -12,6 +12,7 @@
 
   "layouts": {
     "post": "interview",
+    "paginated_post": "interviews",
     "category": "interviews",
     "archive": "interviews",
     "date_archive": "interviews"
