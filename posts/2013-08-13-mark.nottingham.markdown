@@ -21,7 +21,7 @@ I usually work from home in Melbourne; most of my time is spent e-mailing, proto
 
 ### What hardware do you use?
 
-When sitting at my desk, I use a [Mac Mini][mac-mini] with 8G of RAM and a [Crucial SSD][m4] added to the stock hard disk. No microphone, no camera, but I do have a pair of [Logitech V20 speakers][v20]. I use an [Apple Wired Compact Keyboard][keyboard] so that I don't have to reach too far to the right to use the mouse, an [Apple Magic Mouse][magic-mouse]. My monitor is a [24" Dell][u2412m].
+When sitting at my desk, I use a [Mac Mini][mac-mini] with 8G of RAM and a [Crucial SSD][m4] added to the stock hard disk. No microphone, no camera, but I do have a pair of [Logitech V20 speakers][v20]. I use an [Apple Wired Compact Keyboard][keyboard] so that I don't have to reach too far to the right to use the mouse, an [Apple Magic Mouse][magic-mouse]. My monitor is a [24" Dell][ultrasharp-u2412m].
 
 For anywhere else, I have an [11" MacBook Air][macbook-air] (I like to travel light).
  
