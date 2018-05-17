@@ -1,0 +1,51 @@
+---
+title: John Murphy
+summary: Game designer (Young Horses)
+categories:
+- designer
+- game
+- mac
+- windows
+---
+
+#### Who are you, and what do you do?
+
+I'm [John Murphy](https://twitter.com/johmmmmmm "John's Twitter account.") and I'm a game designer based in Chicago. I'm a co-founder of [Young Horses](http://www.octodadgame.com/press/ "A gaming company in Chicago.") and one of the creators of [Octodad][octodad-dadliest-catch]. I'm currently working on a secret new game, organizing events as part of [Bit Bash](http://bitbashchicago.com/ "A gaming festival in Chicago."), and spending a lot of time traveling and living my dang life.
+
+#### What hardware do you use?
+
+When I'm at home or traveling I [Boot Camp][boot-camp] my late [2013 15" MacBook Pro][macbook-pro], because our Horsepower editor only runs in [Windows][windows-10].
+
+Most days I go to the Young Horses office to work. I use this little white [babycube PC][sst-ps07w] that I built in May 2015. I should probably upgrade it soon. I have [two monitors][ultrasharp-u2412m] mounted on [monitor arms][jarvis-dual-monitor-arm] on my [sit-stand desk][jarvis-bamboo-standing-desk]. I'm currently using this [keyboard][surface-ergonomic-keyboard] and this [pink mouse][lancehead-tournament-edition].
+
+While I work I listen to music on these [Sennheiser HD 598][hd-598] headphones that look like they are from the 70s. Almost all headphones hurt my ears after half an hour or so, but these are incredibly comfortable.
+
+I attempt to counteract the horrible effects of working at a computer with some additional hardware. When I'm standing, I stand on [this][topo]. When I'm sitting, I sit on [this][gesture]. When I take breaks, I sometimes play around on [this][multi-grip-pull-up-bar].
+
+I use my [iPhone][iphone-8] to take notes during meetings, document inspiring things in the world, and as a general repository for all of the things that my shitty brain can't remember.
+
+When brainstorming, planning a prototype, thinking through a new game system, etc., I work that out on the whiteboard wall that I painted when we moved into the office. I then take a photo of the board with my iPhone and attach it to a [Trello][] card. Uh oh I mentioned Trello it must be software time!
+
+#### And what software?
+
+Trello is probably the most important tool that I use. At Young Horses, we use it for day-to-day task management, bug reporting, design documentation, long-term planning and most everything else. I use Trello for my personal to-do list and life-planning. My partner Cat and I use Trello for shared-life tasks like grocery shopping and vacation planning. Trello.
+
+I spend most of my time working in our proprietary Horsepower editor on Windows. We use [TortoiseSVN][] for version control. I use [Notepad++][notepad-plusplus] for editing XML files. That's pretty much it for my day-to-day technical tools!
+
+I listen to music on [Spotify][].
+
+For moment-to-moment communication, mostly of amusing online content, I use [Slack][].
+
+I store things I want to read in [Instapaper][]. I track and categorize books on [Goodreads][] and read them on a [Kindle][]. I send my Instapaper notes and highlights to [Evernote][] with [IFTTT][]. I send my Kindle notes to Evernote with [Clippings.io][]. I also collect and tag other interesting stuff in Evernote.
+
+I listen to a lot of podcasts. I use [Pocket Casts][pocket-casts-ios] because it allows me to continue where I left off at the office or in the car when I get home and connect to Sonos. I strive to summarize my podcast takeaways in Evernote, but I do a bad job of this.
+
+I use the default [notes][] app on iPhone to take notes during playtests and meetings, which I then convert to checklists on Trello cards. If a document has a lot of text, requires a lot of collaboration and feedback, or is otherwise too cumbersome to be in Trello, I use [Google Docs][google-docs] and link those docs to any relevant Trello cards. I very occasionally blog on [Medium][]. I use [LastPass][] for password management.
+
+[Freedom][] stops me from entering the procrastination loop of checking [social media][tweetbot], [news aggregators][digg] and my [RSS feed][feedly]. It also encourages me to take breaks away from the computer. I use [f.lux][] on Windows and the Night Shift feature on [Mac][mac-os-x] and [iOS][] to get rid of that pesky blue light in the evening.
+
+#### What would be your dream setup?
+
+If I could move my current setup to a climbing and/or gymnastics gym that would be great. Having a kitchen at the office would also improve my life considerably. Some sort of courtyard with trees? The ability to explain what I want to build to an AI that does all of the tedious stuff for me so I never have to sit at a desk or look at a screen ever again.
+
+In the meantime, I've been thinking about putting a treadmill under this here standing desk.
