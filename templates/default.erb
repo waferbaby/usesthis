@@ -30,8 +30,8 @@
   <% end %>
   </head>
   <body>
-    <header>
-      <div>
+    <div id="wrapper">
+      <header>
         <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
         <p>A collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
         <nav>
@@ -42,21 +42,21 @@
             <li><a href="/about/" title="General site information and FAQ.">About</a></li>
           </ul>
         </nav>
-      </div>
-    </header>
-    <main>
-      <%= yield %>
-    </main>
-    <footer>
-      <form id="search" method="get" action="https://duckduckgo.com/">
-        <label><strong>Search:</strong>
-        <input type="search" name="q" placeholder="MacBook Pro">
-        </label>
-        <input type="hidden" name="sites" value="usesthis.com">
-        <input type="submit" value="Go">
-      </form>
-      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
-      <p><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a> / <a href="/feed.atom" title="The Atom feed.">Atom Feed</a> / <a href="/feed.json" title="The JSON feed.">JSON Feed</a></p>
-    </footer>
+      </header>
+      <main>
+        <%= yield %>
+      </main>
+      <footer>
+        <form id="search" method="get" action="https://duckduckgo.com/">
+          <label><strong>Search:</strong>
+          <input type="search" name="q" placeholder="MacBook Pro">
+          </label>
+          <input type="hidden" name="sites" value="usesthis.com">
+          <input type="submit" value="Go">
+        </form>
+        <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
+        <p><a href="http://twitter.com/usesthis/" title="The site's Twitter account.">Twitter</a> / <a href="/feed.atom" title="The Atom feed.">Atom Feed</a> / <a href="/feed.json" title="The JSON feed.">JSON Feed</a></p>
+      </footer>
+    </div>
   </body>
 </html>

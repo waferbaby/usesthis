@@ -23,6 +23,9 @@ margin-bottom: 20px;
 
 body {
 background-color: #fff;
+background-image: linear-gradient(#ffe6f3, #fff);
+background-repeat: no-repeat;
+background-size: 100% 250px;
 color: #000;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 font-size: 1.2em;
@@ -31,18 +34,19 @@ margin: 0;
 padding: 0;
 }
 
-body > header {
-background-color: #ffe6f3;
+div#wrapper {
+margin: auto;
+max-width: 600px;
+}
+
+div#wrapper > header {
 border-bottom: solid 1px #ffcce6;
+display: grid;
 margin-bottom: 25px;
 padding-top: 20px;
 }
 
-body > header div {
-display: grid;
-}
-
-body > header nav {
+div#wrapper > header nav {
 border-top: solid 1px #ffcce6;
 font-size: 90%;
 grid-column: 1/3;
@@ -52,11 +56,11 @@ padding: 10px 0;
 text-transform: uppercase;
 }
 
-body > header nav a {
+div#wrapper > header nav a {
 color: #000;
 }
 
-body > header p {
+div#wrapper > header p {
 border-left: solid 1px #ffcce6;
 color: #666;
 font-size: 70%;
@@ -68,12 +72,6 @@ dd {
 display: block;
 font-size: 80%;
 margin: 5px 0 20px 0;
-}
-
-div,
-main {
-margin: auto;
-max-width: 600px;
 }
 
 main p {
@@ -258,16 +256,16 @@ margin-bottom: 10px;
   font-size: 100%;
   }
 
-  body > header div {
-  padding: 10px 20px 0 20px;
+  div#wrapper > header {
+  padding: 25px 20px 0 20px;
   }
 
-  body > header nav {
+  div#wrapper > header nav {
   font-size: 75%;
   grid-row: 4;
   }
 
-  body > header p {
+  div#wrapper > header p {
   border: 0;
   font-size: 90%;
   grid-column: 1;
