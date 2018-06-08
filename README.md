@@ -1,1 +1,1 @@
-Uses This is a nerdy interview website, asking people what they use to _get the job done_. It's a static site built with [dimples, my own little site generator](http://github.com/waferbaby/dimples/ "A very simple static site generator.").
+Uses This is a [nerdy little interview website](https://usesthis.com/ "The Uses This site."), asking people what they use to get the job done.
