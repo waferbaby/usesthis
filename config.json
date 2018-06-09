@@ -1,6 +1,7 @@
 {
+  "destination": "/usr/local/www/usesthis.com/public/",
+
   "paths": {
-    "output": "/usr/local/www/usesthis.com/public/",
     "paginated_posts": "interviews",
     "posts": "interviews",
     "categories": "categories"
