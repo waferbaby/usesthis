@@ -34,7 +34,7 @@ For version control, it varies. At work I use [Perforce][]. My open source libra
 
 For music production, I tried [Pro Tools LE][pro-tools-le], but it wasn't for me. I use [REAPER][], the only DAW software I've found which embraces the capabilities of digital, avoiding imitating analog production where it's unnecessary. My most common plug-ins are [FreeAmp][], [Superior Drummer 2.0][superior-drummer], and plug-ins from Kontakt Komplete. For composing ideas, I often draw MIDI in REAPER and play it back with the [ForteDXi][coyote-fortedxi] GM sample set. For the rare times I'm writing for orchestra, I use my own custom sequencing/playback software which uses samples from an old version of [Vienna Symphonic Library][symphonic-cube] back when you could get raw samples instead of only virtual instruments.
 
-I livestream using [OBS][], capture game footage with [Fraps][], and edit video with [Sony Vegas Pro][vegas-pro] (for which I have to boot to 64-bit Windows).
+I livestream using [OBS Studio][obs-studio], capture game footage with [Fraps][], and edit video with [Sony Vegas Pro][vegas-pro] (for which I have to boot to 64-bit Windows).
 
 ### What would be your dream setup?
 
