@@ -27,7 +27,7 @@ Most recently I added an [Avantone MixCube Active mono speaker][mixcube-active].
 
 I'm a keyboard player so I have a few musical instruments and effects. This includes a basic USB MIDI keyboard ([IK Multimedia iRig 37][irig-keys-37-pro]), a tonewheel organ simulator ([Ferrofish B4000+][b4000-plus]), a Leslie Speaker simulator ([Neo Instruments Vent II][ventilator-ii]), and an analogue synth ([Arturia MicroBrute][microbrute]). I also have an analogue drum machine with a step sequencer that I bought in a sale and have hardly touched since ([Korg volca beats][volca-beats]).
 
-The other crucial tool for my day job is my trusty [iPhone SE][iphone-se]. Despite being a Mac person, this is only my second iPhone, having previously used phones by BlackBerry, Nokia, and Handspring/Palm because of my then preference for a physical keyboard (I write a lot of emails). I've also recently invested in a [Gemini PDA][gemini], a new smartphone with a keyboard that is inspired by original devices by Psion.
+The other crucial tool for my day job is my trusty [iPhone SE][iphone-se]. Despite being a Mac person, this is only my second iPhone, having previously used phones by BlackBerry, Nokia, and Handspring/Palm because of my then preference for a physical keyboard (I write a lot of emails). I've also recently invested in a [Gemini PDA][gemini.2], a new smartphone with a keyboard that is inspired by original devices by Psion.
 
 #### And what software?
 
