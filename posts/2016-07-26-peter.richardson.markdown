@@ -47,7 +47,7 @@ Once in Oxford I saw [some buildings](https://en.wikipedia.org/wiki/Mob_Quad "Th
 
 ### And what software?
 
-Most of my writing is done in the [Mac OS][mac-os-x] [Notes][] app. It's synced through [iCloud][], which has a web interface so I can use it on my PC, and also I can edit on my phone on the subway. I code in [Sublime][sublime-text] and I settled on [iTerm][iterm2] because it fought me least. I mostly code in [JavaScript][], and sometimes I use bash, or [Python][] when I can. I spend my time in browsers roughly proportional to their global usage statistics.
+Most of my writing is done in the [Mac OS][macos] [Notes][] app. It's synced through [iCloud][], which has a web interface so I can use it on my PC, and also I can edit on my phone on the subway. I code in [Sublime][sublime-text] and I settled on [iTerm][iterm2] because it fought me least. I mostly code in [JavaScript][], and sometimes I use bash, or [Python][] when I can. I spend my time in browsers roughly proportional to their global usage statistics.
 
 For the time-lapses I use a variety of buggy [Android][] apps syncing images to [Google Drive][google-drive]. The apps crash a lot which adds something to the result. Most of the time when I check on them I find that some kind of auto-update has stopped the capture, or frames have been dropped for unknown reasons which makes a jump in the time-lapse. My favorite is called [Tina Time-lapse][tina-time-lapse-android] which sometimes shows a personal apology from the creator when it crashes which starts "Dear Friend" so I keep using it. But I can't ever count on getting anything in particular, which makes whatever I get feel really lucky. I'm trying to think that way more lately.
 

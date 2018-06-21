@@ -35,7 +35,7 @@ My most-used consumer electronics device is a [Kindle 2][kindle].
 
 My workstation runs Google's in-house version of [Ubuntu][], creatively named [Goobuntu][]. I run the [GNOME][] desktop environment (the default in Goobuntu). My main applications are [GNOME Terminal][gnome-terminal], [VIM][], and [Chrome][]. I do all my coding in VIM. For Android, I wrote in [C][], but my current project is mostly [C++][c-plusplus]. I'm coping. At Google, we use [GCC][], with a lot of nice productivity and development tools around that and we have vimrc files to tie everything together. It is the most powerful and productive C/C++ development environment I have ever used.
 
-My laptop runs [Mac OS X][mac-os-x] 10.6 "Snow Leopard." The only apps I run on it are Chrome, iTunes, and GIMP.
+My laptop runs [Mac OS X][macos] 10.6 "Snow Leopard." The only apps I run on it are Chrome, iTunes, and GIMP.
 
 My server runs [Red Hat Enterprise][rhel] Linux 5 with a kernel of my own compilation.
 

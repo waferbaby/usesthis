@@ -16,7 +16,7 @@ Hello! I'm [Salvatore Sanfilippo](http://antirez.com/ "Salvatore's website."), 3
 
 I mostly use the following three computers:
 
-A [MacBook Pro][macbook-pro] 13" running [Mac OS X][mac-os-x], as my desktop and primary development computer. No additional monitors or keyboards, I feel well with the 13" display.
+A [MacBook Pro][macbook-pro] 13" running [Mac OS X][macos], as my desktop and primary development computer. No additional monitors or keyboards, I feel well with the 13" display.
 
 A Linux [Ubuntu][] system running on a [Dell T3500][precision-t3500] with 24 GB of RAM. Most of the times I use this other computer from ssh.
 

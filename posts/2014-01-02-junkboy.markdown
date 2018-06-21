@@ -24,7 +24,7 @@ I had a [Wacom Cintiq 24 HD][cintiq] for a while, but after a year of only using
 
 Most of the [Creative Suite 6][creative-suite] really, thanks to Adobe's rather affordable subscription service. I use [Photoshop CS6][photoshop] and [Illustrator CS6][illustrator] for the majority of my work, but I will occasionally do stuff in [Flash][], [After Effects][after-effects] and [InDesign][]. I still have no idea what I'm supposed to do with [Bridge][].
 
-Most of my work is 2D, but every now and then I'll dabble in 3D using [Wings 3D][wings-3d], [Blender][] and [Sculptris][]. I have [Parallels Desktop][parallels-desktop] set up on my computers, so I can run [Win7][windows-7] simultaneously with [OSX][mac-os-x] and incorporate some of the Windows-only stuff into my workflow, such as [GraphicsGale][], a fantastic little pixel art animation program. 
+Most of my work is 2D, but every now and then I'll dabble in 3D using [Wings 3D][wings-3d], [Blender][] and [Sculptris][]. I have [Parallels Desktop][parallels-desktop] set up on my computers, so I can run [Win7][windows-7] simultaneously with [OSX][macos] and incorporate some of the Windows-only stuff into my workflow, such as [GraphicsGale][], a fantastic little pixel art animation program. 
 
 ### What would be your dream setup?
 

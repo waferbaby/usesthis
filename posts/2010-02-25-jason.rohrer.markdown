@@ -38,7 +38,7 @@ For slide presentations, I use [Firefox][] in full-screen mode (I have coded a l
 
 In terms of libraries, I use [SDL][] for graphics/sound/input and OpenGL if I need to draw polygon-based graphics.
 
-On the cross-platform side, I compile my ports using the same makefiles and GCC. On [Mac OS X][mac-os-x], these things are built-in (as they should be), but on the Windows side, I use [MinGW][] and [MSys][]  to provide a sane, command-line build environment. SDL and OpenGL work on all these platforms, fortunately.
+On the cross-platform side, I compile my ports using the same makefiles and GCC. On [Mac OS X][macos], these things are built-in (as they should be), but on the Windows side, I use [MinGW][] and [MSys][]  to provide a sane, command-line build environment. SDL and OpenGL work on all these platforms, fortunately.
 
 On Windows, I've also made some of my games (my small, 1-week "sketches") using [GameMaker][game-maker] , which is absolutely amazing. A Mac port is in beta right now, which is great, because I don't like having my work trapped on a single platform.
 

@@ -19,7 +19,7 @@ I not really much of an 'optimize hardware' guy, so my hardware setup is more Ja
 
 I used Macs until 1995, when Windows provided built-in TCP/IP and a much more stable platform for Netscape. I added a desktop running [Red Hat][red-hat-enterprise-desktop] in 1996. I used [BeOS][] for a month or so in 1997, which was beautiful but didn't play well with others. 
 
-I dropped Windows in 2000, when [OS X][mac-os-x] became Unix-with-a-non-suck-GUI and stopped crashing. Since then, everything I run, with the exception of one phone, sits on top of some *n[iu]x kernel. I have a 12.04 USB installer on my keyring.
+I dropped Windows in 2000, when [OS X][macos] became Unix-with-a-non-suck-GUI and stopped crashing. Since then, everything I run, with the exception of one phone, sits on top of some *n[iu]x kernel. I have a 12.04 USB installer on my keyring.
 
 A working machine for me has a browser, a telnet window, and a text editor, so I can keep machines around for a long time. Right now, I have (and I am counting this up for the first time) a Chromebox as my work machine, an 11" [MacBook Air][macbook-air] as my home machine, a [15" MacBook][macbook-pro] as the family machine in the living room, an Ubuntu netbook as the 3D printer base station (where I'm typing this while babysitting a print run for my son, who is going on a class trip to China and wanted to print out some little plastic tchotchke's to bring his Chinese hosts, which strikes me as approximately hilarious.)
 

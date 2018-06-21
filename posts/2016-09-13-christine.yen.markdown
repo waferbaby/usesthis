@@ -23,7 +23,7 @@ My monitor is an [LG 34" UM95][34um95] and I don't know if I'm ever going to be 
 
 ### And what software?
 
-On the software side, I love my tools to be powerful but streamlined. I do all my development (on [OS X][mac-os-x]) in [MacVim][], and the vim plugins I currently can't live with are: [CtrlP][], [Surround][], [The NERD Tree][the-nerd-tree], [YouCompleteMe][], [delimitMate][], and [vim-go][]. (The unsung hero in this list is, of course, [pathogen][].) If a newfangled text editor doesn't have smooth split-screen support out of the box, it's dead to me. I work primarily in [Golang][go] and [JavaScript][] these days, and have been particularly impressed by [Hugo][] and [d3][d3.js] lately.
+On the software side, I love my tools to be powerful but streamlined. I do all my development (on [OS X][macos]) in [MacVim][], and the vim plugins I currently can't live with are: [CtrlP][], [Surround][], [The NERD Tree][the-nerd-tree], [YouCompleteMe][], [delimitMate][], and [vim-go][]. (The unsung hero in this list is, of course, [pathogen][].) If a newfangled text editor doesn't have smooth split-screen support out of the box, it's dead to me. I work primarily in [Golang][go] and [JavaScript][] these days, and have been particularly impressed by [Hugo][] and [d3][d3.js] lately.
 
 Other software I use to be productive: [iTerm2][]'s visor/hotkey mode is great and I'm a big fan of [ack][]. I finally started using [Dash][] to organize various bits of documentation or API references - it's super useful when the internet is spotty, and especially powerful in conjunction with [Alfred][] workflows. (I used to be a [Quicksilver][] devotee back in the day but have been really impressed with the Alfred team's continued devotion to a _fast_, smooth experience.)
 

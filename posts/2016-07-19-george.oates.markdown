@@ -20,7 +20,7 @@ Mostly all web stuff these days: [Google Drive][google-drive], [Slack][], [GitHu
 
 On a personal note, [Citymapper][citymapper-ios] has literally changed my life for the better since I moved to London. I can't imagine getting around this massive city without it. Seriously, it's the best, most useful software I've used in 10 years.
 
-Incidentally, I'm very interested in the challenge of digital archiving, so this list of various web services makes me nervous if I consider how I might represent these heady early days of G,F&S in, say, 20 years. My laptop previous to this one died the other day and I got a scary [OS X][mac-os-x] setup thing I'd never seen before. The slow decline begins!
+Incidentally, I'm very interested in the challenge of digital archiving, so this list of various web services makes me nervous if I consider how I might represent these heady early days of G,F&S in, say, 20 years. My laptop previous to this one died the other day and I got a scary [OS X][macos] setup thing I'd never seen before. The slow decline begins!
 
 ### What would be your dream setup?
 

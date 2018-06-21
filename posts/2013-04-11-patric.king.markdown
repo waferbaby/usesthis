@@ -15,7 +15,7 @@ Right now, my focus is bringing well-designed marketing to industries I believe 
 
 ### What hardware do you use?
 
-I've never worked on anything but Macs, more out of coincidence than preference. I'm sort of not really loving [Mac OS][mac-os-x] right now, but it's the devil I know.
+I've never worked on anything but Macs, more out of coincidence than preference. I'm sort of not really loving [Mac OS][macos] right now, but it's the devil I know.
 
 Right now I'm on a 15" SSD [MacBook Pro][macbook-pro], one of the retina ones, and I jammed it with 16GB of RAM. I use a Wacom Intuos 4 for all my input, mice hurt the hand too much.
 

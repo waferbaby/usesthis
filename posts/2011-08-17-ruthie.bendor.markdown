@@ -37,7 +37,7 @@ Fully loaded, Peg tips the scales at 73 pounds. Not too bad, considering.
 
 ### And what software?
 
-For coding: [OSX 10.6][mac-os-x], [VirtualBox][] with [Windows XP][windows-xp] and [Windows 7][windows-7] Home Premium virtual machines, and [MAMP Pro][mamp-pro], along with every single browser you can think of and then some. Also: [Coda][], [Transmit][], [iTerm 2][iterm2], [Kaleidoscope][], and [Git][]. I use [Integrity][] to spot broken links, and [ExpressionEngine][] as the CMS on any site more complex than a blog.
+For coding: [OSX 10.6][macos], [VirtualBox][] with [Windows XP][windows-xp] and [Windows 7][windows-7] Home Premium virtual machines, and [MAMP Pro][mamp-pro], along with every single browser you can think of and then some. Also: [Coda][], [Transmit][], [iTerm 2][iterm2], [Kaleidoscope][], and [Git][]. I use [Integrity][] to spot broken links, and [ExpressionEngine][] as the CMS on any site more complex than a blog.
 
 For designing: 95% [Fireworks][], 4.9% [Illustrator][], 0.1% [Photoshop][], along with [ImageOptim][] to compress production graphics.
 

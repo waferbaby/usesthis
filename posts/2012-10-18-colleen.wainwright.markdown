@@ -36,7 +36,7 @@ I also make a half-gallon of outstanding full-fat yogurt (SCD-legal!) every week
 
 ### And what software?
 
-I'm running [Lion][mac-os-x] on the Air, because I'm lazy. The MBP is still on Snow Leopard because it was hard enough getting the HP to print on that, and because I steadfastly refuse to upgrade from [Adobe CS3][creative-suite]. (I mostly only use it for [Photoshop][] these days, but I like having the other apps JUST IN CASE. I mean, what if I woke up one day and wanted to design another logo and make it move or something? It could happen!)
+I'm running [Lion][macos] on the Air, because I'm lazy. The MBP is still on Snow Leopard because it was hard enough getting the HP to print on that, and because I steadfastly refuse to upgrade from [Adobe CS3][creative-suite]. (I mostly only use it for [Photoshop][] these days, but I like having the other apps JUST IN CASE. I mean, what if I woke up one day and wanted to design another logo and make it move or something? It could happen!)
 
 For writing, I create drafts for almost everything - blog posts, essays, my marketing column for actors - in [MarsEdit][], although I'm revisiting [Scrivener][] for long-form writing, since using it to write a couple of chapters for an upcoming book. If I need to blather or copy/paste something quickly, I'll open a text file - [TextWrangler][] for my HTML needs, [TextEdit][] for anything else. I use [Word][] for the tracking feature and because everyone else does, but I hate it; [Pages][] is far nicer to work in, as full-on word processors go.
 

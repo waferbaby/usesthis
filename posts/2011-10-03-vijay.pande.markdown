@@ -23,7 +23,7 @@ I also use a 64GB [iPad 2][ipad-2] daily, usually at home in the early morning a
 
 ### And what software?
 
-I'm using [OS X][mac-os-x] 10.6.8, but waiting for 10.7.2 to come out to upgrade the OS. I use [Word 2011][word] pretty heavily, since a lot of my work involves writing or editing papers and grant proposals. I like Word's markup capabilities for editing very much and use them frequently.
+I'm using [OS X][macos] 10.6.8, but waiting for 10.7.2 to come out to upgrade the OS. I use [Word 2011][word] pretty heavily, since a lot of my work involves writing or editing papers and grant proposals. I like Word's markup capabilities for editing very much and use them frequently.
  I also give a lot of presentations and use [Keynote '09][keynote] (looking forward to upgrading that too). I find Keynote much more elegant to use than [Powerpoint][] as well as faster and more responsive, which is important for fast editing which I frequently do. I also really like its transitions.
 
 The [Papers][] app is also a fundamental part of my day, helping organize scientific journal articles, which otherwise would be a major mess. I've been curious about Papers 2.0, but haven't seen a compelling reason to upgrade just yet.

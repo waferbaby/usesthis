@@ -19,7 +19,7 @@ I use one laptop and one desktop computer to get my work done: a 15-inch [MacBoo
 
 ### And what software?
 
-Since I write about software for a living, I need to stay conversant on both Mac and Windows, so I split my time between them. I'm triple-booting [XP][windows-xp], [Vista][windows-vista], and the [Windows 7 beta][windows-7] on my PC, but primarily I use XP and just switch to the others to test software or make comparisons. On the Mac I'm running [Leopard][mac-os-x].
+Since I write about software for a living, I need to stay conversant on both Mac and Windows, so I split my time between them. I'm triple-booting [XP][windows-xp], [Vista][windows-vista], and the [Windows 7 beta][windows-7] on my PC, but primarily I use XP and just switch to the others to test software or make comparisons. On the Mac I'm running [Leopard][macos].
 
 Most of my work happens in [Firefox][] using various webapps, so it's OS-agnostic. On any given day my copy of Firefox has several tabs open with [Gmail][], [Google Reader][google-reader], [Google Calendar][google-calendar], my WordPress installation, [Google Docs][google-docs], and [Twitter][] loaded. 
 

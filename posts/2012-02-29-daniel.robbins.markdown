@@ -14,7 +14,7 @@ I'm Daniel Robbins, creator of [Gentoo Linux][gentoo] and currently working on [
 
 ### What hardware do you use?
 
-Hardware changes regularly but is currently a Zenoss-supplied new Core i7 [MacBook Pro][macbook-pro] 15" with matte display, which I typically run hooked up to a 1920x1200 HP display when I'm working. I grudgingly use [MacOS X][mac-os-x] Lion. Snow Leopard was much better. I really don't like how Apple and other companies are trying to turn their desktop operating systems into "mobile experiences." Just seems to make things bloated and slow.
+Hardware changes regularly but is currently a Zenoss-supplied new Core i7 [MacBook Pro][macbook-pro] 15" with matte display, which I typically run hooked up to a 1920x1200 HP display when I'm working. I grudgingly use [MacOS X][macos] Lion. Snow Leopard was much better. I really don't like how Apple and other companies are trying to turn their desktop operating systems into "mobile experiences." Just seems to make things bloated and slow.
 
 The HP display is one of three S-PVA displays that I bought refurbed from NewEgg. For a while, I was running them in a triple-monitor setup with a Radeon HD card but I found that three 1920x1200 displays was a bit much. Two works really well, though. I hope to put together a new desktop soon and go back to a dual 1920x1200 setup.
 

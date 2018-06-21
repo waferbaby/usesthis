@@ -36,7 +36,7 @@ I guess it's true, every other version of Windows is the good one: [Windows XP][
 
 In a stunning plot twist, it turns out that Microsoft was the one to finally make it the year of Linux on the Desktop. That's right, you no longer need to pick iOS if you want kinda-sorta-Unix on a modern GUI that won't make your eyes bleed. Well, not too much, anyway.
 
-That said, I'm not an OS bigot, I use [OS X][mac-os-x] (albeit very, very lightly), Linux, Android, and iOS regularly alongside Windows. Diversity is good for the soul.
+That said, I'm not an OS bigot, I use [OS X][macos] (albeit very, very lightly), Linux, Android, and iOS regularly alongside Windows. Diversity is good for the soul.
 
 My favorite software of all time happens works on every platform: the web browser. Modern versions of [Edge][edge.2], [Chrome][], [Firefox][], and [Safari][] are all my huckleberry and I love them like I love my kids. For development I use [Visual Studio Code][visual-studio-code], which is built using browser technology and works everywhere, and has become remarkably great in the last year as they keep iterating on it. I also need a clipboard history tool installed wherever I go, because the world was built on the back of the humble cut and paste.
 

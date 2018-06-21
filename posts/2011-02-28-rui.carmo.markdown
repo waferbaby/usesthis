@@ -38,7 +38,7 @@ That little box is the network's Swiss Army Knife - it's an SSH gateway, web ser
 
 ### And what software?
 
-Despite being a Mac user I've always been a UNIX user, and as such I tend to stick to software that works everywhere - most of my staples are old chestnuts like [vim][], [screen][] and similarly crufty tools from bygone eras. And the stuff that ships with [OSX][mac-os-x] ([Mail][], [Safari][], [Xcode][], etc.) is mostly fine.
+Despite being a Mac user I've always been a UNIX user, and as such I tend to stick to software that works everywhere - most of my staples are old chestnuts like [vim][], [screen][] and similarly crufty tools from bygone eras. And the stuff that ships with [OSX][macos] ([Mail][], [Safari][], [Xcode][], etc.) is mostly fine.
 
 But what I use daily depends mostly on context, and most of what I do is, actually, juggling those contexts. I'm long past the GTD mania and into pragmatism but needed something that worked across all of my devices, so I settled on [Evernote][] (where I do a lot of drafting, note taking and filing) and [MobileMe][mobile-me] to manage a number of work and personal projects across all my machines.
 

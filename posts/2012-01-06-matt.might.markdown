@@ -50,7 +50,7 @@ Atmosphere is critical to my creativity, so my home office has a view of the tow
 
 To me, Unix is digital clay, [readily sculpted into any form or function](http://matt.might.net/articles/basic-unix/ "Matt's article on *nix.").
 
-I ran [Red Hat Linux][red-hat-enterprise-desktop] for about seven years before switching to the Mac. I've been using [OS X][mac-os-x] for about six years now.
+I ran [Red Hat Linux][red-hat-enterprise-desktop] for about seven years before switching to the Mac. I've been using [OS X][macos] for about six years now.
 
 My only regret in switching from Linux to OS X is giving up the raw efficiency of tiling window managers like [ion][]. [ShiftIt][] makes up some of the difference. To make up some more, I pin applications to one of six desktops: (1) terminal and text-editing; (2) real-time communication; (3) browsing; (4) organization and planning; (5) reading; and (6) media and games. Each desktop captures one frame of mind.
 

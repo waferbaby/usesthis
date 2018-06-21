@@ -28,7 +28,7 @@ The X200 is my primary computer, which is a dual-boot of [Kubuntu][] and Windows
 
 There is no desktop PC currently at my home.
 
-It is notable that unlike other interviewees, I have no Apple products. However, many Ruby users like [OS X,][mac-os-x] and there are many reports for bugs that can only be reproduced in OS X. I'm in trouble because I cannot address such an issue. Anyone feel like giving me a Mac? :-P
+It is notable that unlike other interviewees, I have no Apple products. However, many Ruby users like [OS X,][macos] and there are many reports for bugs that can only be reproduced in OS X. I'm in trouble because I cannot address such an issue. Anyone feel like giving me a Mac? :-P
 
 ### And what software?
 

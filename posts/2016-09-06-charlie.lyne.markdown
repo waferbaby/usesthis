@@ -27,7 +27,7 @@ I edit all of my films on [Final Cut Pro X][final-cut-pro-x], which I love for i
 
 Once I finish a film, I use [DCP-o-matic][] to generate a Digital Cinema Package, which I then put on a EXT3 formatted USB key using an old [MacBook][] with [Ubuntu][] installed on it.
 
-Other bits of software I use for creative purposes include: [Final Draft][final-draft] for screenwriting, [Jubler][] for subtitling, [Transmit][] for FTP access, [Microsoft Word][word] for writing (10pt Helvetica Neue with line spacing set to 1.3), [uTorrent][] for torrenting, and [Super Empty Trash][super-empty-trash] for emptying the unbelievably stubborn [OS X][mac-os-x] trash bin.
+Other bits of software I use for creative purposes include: [Final Draft][final-draft] for screenwriting, [Jubler][] for subtitling, [Transmit][] for FTP access, [Microsoft Word][word] for writing (10pt Helvetica Neue with line spacing set to 1.3), [uTorrent][] for torrenting, and [Super Empty Trash][super-empty-trash] for emptying the unbelievably stubborn [OS X][macos] trash bin.
 
 ### What would be your dream setup?
 

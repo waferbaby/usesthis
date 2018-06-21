@@ -30,7 +30,7 @@ I still have my [TI-83][] graphing calculator on my desk, and it gets used const
 
 ### And what software?
 
-I'm on [Mac OS][mac-os-x], having been a Linux user for a long time. OS X is fine, it works well as a POSIX system and works well as an OS that normal people (which I like to be from time to time) can use. [Homebrew][] is a must if you're a hacker using OS X on a daily basis.
+I'm on [Mac OS][macos], having been a Linux user for a long time. OS X is fine, it works well as a POSIX system and works well as an OS that normal people (which I like to be from time to time) can use. [Homebrew][] is a must if you're a hacker using OS X on a daily basis.
 
 I browse the web using [Chrome][]. The combined search/address bar is a great idea, and the V8 JavaScript engine is noticeably better than other browsers' scripting support.
 

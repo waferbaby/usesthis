@@ -17,7 +17,7 @@ I'm [Pippin Barr](http://www.pippinbarr.com/ "Pippin's website"). For today I'll
 
 ### What hardware do you use?
 
-My digital life revolves around my 13" [MacBook Pro][macbook-pro] from the 2011 generation. Sometimes I worry that I ought to have upsized to the 15" version with its separate graphics card, but then I forget about it again. The laptop spends most of its time in [Mac OS X Lion][mac-os-x] (which I'm trying to learn to love) and the time I have for playing PC games in [Windows 7][windows-7] (which I'm trying to learn not to loathe).
+My digital life revolves around my 13" [MacBook Pro][macbook-pro] from the 2011 generation. Sometimes I worry that I ought to have upsized to the 15" version with its separate graphics card, but then I forget about it again. The laptop spends most of its time in [Mac OS X Lion][macos] (which I'm trying to learn to love) and the time I have for playing PC games in [Windows 7][windows-7] (which I'm trying to learn not to loathe).
 
 The other device I use a lot is my [iPod Touch][ipod-touch], which serves as my iPhone surrogate except with the delightful quality of not being a phone. For an actual phone I have a semi-ancient [Sony Ericsson K800i][k800i] that is frequently either not on my person, is in silent mode, or is not charged. Sony Ericsson's website says it's for the "digital connoisseur".
 

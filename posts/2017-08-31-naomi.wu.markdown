@@ -28,7 +28,7 @@ My living room is my office and workshop, so I have a rolling workstation I can 
 
 ### And what software?
 
-[GIMP][], [Inkscape][], [LibreOffice][], [Tinkercad][], [OpenSCAD][], [Fusion 360][fusion-360], [Simplify3D][]. I go back and forth between [OS X][mac-os-x], Windows and [Linux Mint][linux-mint], with my preference being Mint. 
+[GIMP][], [Inkscape][], [LibreOffice][], [Tinkercad][], [OpenSCAD][], [Fusion 360][fusion-360], [Simplify3D][]. I go back and forth between [OS X][macos], Windows and [Linux Mint][linux-mint], with my preference being Mint. 
 
 The [Grammarly][] plug-in has been an amazing help with all my online communication - English is my second language and I've never lived in an English speaking country, so it's challenging.
 

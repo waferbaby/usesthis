@@ -27,7 +27,7 @@ Oh, and my portable speaker, the "[iLoud][]". I love music and this speaker soun
 
 I use lots and lots of software! What I use varies greatly with the type project I'm working on, but I'll try list the tools and libraries I keep coming back to.
 
-[Sublime Text 3][sublime-text] is probably where I spend most of my time - it's where I do all my coding. Except for [iOS][] and [OS X][mac-os-x] apps, though, where [Xcode][] is the only sane option. My second-most used app must be [iTerm2][], which is a great replacement for OS X's [Terminal.app][terminal]. I especially love the "visor" feature that lets you have a system-wide hotkey to quickly toggle a terminal. And in that terminal, my shell is [zsh][] with [oh-my-zsh][].
+[Sublime Text 3][sublime-text] is probably where I spend most of my time - it's where I do all my coding. Except for [iOS][] and [OS X][macos] apps, though, where [Xcode][] is the only sane option. My second-most used app must be [iTerm2][], which is a great replacement for OS X's [Terminal.app][terminal]. I especially love the "visor" feature that lets you have a system-wide hotkey to quickly toggle a terminal. And in that terminal, my shell is [zsh][] with [oh-my-zsh][].
 
 I use the [Creative Suite][creative-suite] (mainly [Photoshop][], [Illustrator][] and [Lightroom][]) for design and mockups, and [Final Cut Pro][final-cut-pro] for video editing. And when things need to get automated I use [GraphicsMagick][] and [ffmpeg][] respectively.
 

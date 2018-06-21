@@ -32,7 +32,7 @@ It's possibly strange to include this as hardware, but the last few years I've f
 
 ### And what software?
 
-I run [OS X Mavericks][mac-os-x]
+I run [OS X Mavericks][macos]
 
 I tend to build things with [Ruby][], and I'm pretty in love with that language even after all these years. If it's on the web, I'm usually using [Rails][rails] to build it, with the exception of some smaller apps where I'll still drop down to [Sinatra][] from time to time.
 

@@ -14,7 +14,7 @@ I'm [Terry Cavanagh](http://distractionware.com/blog/ "Terry's weblog."), and I'
 
 ### What hardware do you use?
 
-I got a 2011 13" [MacBook Air][macbook-air] in April. It's less powerful than the big monolithic Clevo laptop I used to own, but so, so much more pleasant to use. I go to a lot of indie developer meetups and jams, and work in a lot of different places, so it's really nice to have an extremely light and portable laptop. I gave [Mac OS X][mac-os-x] a shot when I originally got it, but ended up just dual booting into [Windows 7][windows-7]. A lot of the software I use isn't available on Mac, and there are a lot of Windows only indie games which I'd miss out on.
+I got a 2011 13" [MacBook Air][macbook-air] in April. It's less powerful than the big monolithic Clevo laptop I used to own, but so, so much more pleasant to use. I go to a lot of indie developer meetups and jams, and work in a lot of different places, so it's really nice to have an extremely light and portable laptop. I gave [Mac OS X][macos] a shot when I originally got it, but ended up just dual booting into [Windows 7][windows-7]. A lot of the software I use isn't available on Mac, and there are a lot of Windows only indie games which I'd miss out on.
 
 Having a Mac is very useful for doing ports of my games. Unfortunately I haven't been able to work out how to triple boot it into Linux yet, but I'll have another go at that once I've backed everything up.
 

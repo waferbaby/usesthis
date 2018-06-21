@@ -23,7 +23,7 @@ I also have a [Linode VPS][linode] that I use for my website and a few web appli
 
 ### And what software?
 
-I use [Debian Squeeze][debian] with [xmonad][] at work and [OS X Lion][mac-os-x] at home. No matter which OS I'm using, I spend most of my time in a terminal, a web browser (usually [Chrome][]), or a PDF viewer. I do all of my writing and programming with [Vim][] in a terminal. I use [Emacs][] for just a few things -- browsing compressed archives, for example, and maintaining a todo list with [org-mode][]. [Evil-mode][] makes Emacs bearable.
+I use [Debian Squeeze][debian] with [xmonad][] at work and [OS X Lion][macos] at home. No matter which OS I'm using, I spend most of my time in a terminal, a web browser (usually [Chrome][]), or a PDF viewer. I do all of my writing and programming with [Vim][] in a terminal. I use [Emacs][] for just a few things -- browsing compressed archives, for example, and maintaining a todo list with [org-mode][]. [Evil-mode][] makes Emacs bearable.
 
 I use [pandoc's extended markdown](http://johnmacfarlane.net/pandoc/README.html#pandocs-markdown "John's extension of Markdown.") for lecture notes, letters, slide presentations, handouts, and short articles. For books and more complex documents, I use [LaTeX][].
 

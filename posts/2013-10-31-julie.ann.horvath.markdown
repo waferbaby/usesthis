@@ -36,7 +36,7 @@ I use [CloudApp][] obsessively. As a designer, I'm constantly taking screenshots
 
 [Apple Mail][mail]. I do a lot of outreach work in our community and I manage most of my GitHub notifications from my inbox, so I use Mail a ton. I've set up a keyboard shortcut to archive directly from my inbox list. So that saves me a ton of time when wading through inbound notifications and random junk that piles up.
 
-I used to use the [Mac OS][mac-os-x] [sticky notes][stickies] for jotting things down until I got tired of them covering my desktop. As an alternative, I started using [Notational Velocity][notational-velocity] a few years ago, which is rad for note taking and general to-do list chicken scratch. It's also fully searchable and you can sync all of your "notes" to the cloud with [simplenote][simplenote-ios].
+I used to use the [Mac OS][macos] [sticky notes][stickies] for jotting things down until I got tired of them covering my desktop. As an alternative, I started using [Notational Velocity][notational-velocity] a few years ago, which is rad for note taking and general to-do list chicken scratch. It's also fully searchable and you can sync all of your "notes" to the cloud with [simplenote][simplenote-ios].
 
 [iMessage][]: I use iMessage to chat to people during my work day. I sync my old AIM accounts, my personal phone number, and my [Gmail][] accounts. It's great to access all of those contacts through the same interface.
 

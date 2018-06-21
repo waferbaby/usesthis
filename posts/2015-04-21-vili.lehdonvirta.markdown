@@ -29,7 +29,7 @@ I get to travel more than I'd like to, but two pieces of kit help to make it bet
 
 ### And what software?
 
-My MacBook Air runs [OS X][mac-os-x], which is set to Japanese to help to maintain my language skills. I use [Mail][] for mail and [iCal][] for calendars. I use [Chrome][] for browsing, though I'm unhappy with how it has started to bloat and duplicate operating system features. My most frequently used browser extensions are [AdBlock][], [rikaikun][], and [Website Blocker][website-blocker].
+My MacBook Air runs [OS X][macos], which is set to Japanese to help to maintain my language skills. I use [Mail][] for mail and [iCal][] for calendars. I use [Chrome][] for browsing, though I'm unhappy with how it has started to bloat and duplicate operating system features. My most frequently used browser extensions are [AdBlock][], [rikaikun][], and [Website Blocker][website-blocker].
 
 Most of the time I simply use [TextEdit][] for taking notes and drafting papers, proposals, and book chapters. I zoom in and out of its little text windows with OS X's gesture zoom. When I need focus, I draft with [WriteRoom][]. I wrote my first journal article and some later collaborations with [TeXShop][], using [CVS][] for version control. But LaTeX-based solutions missed a good visual editor and change tracking features essential to collaborative writing and editing, so for most of my career I've used [Word][] for collaborative writing, passing files back and forth via email or shared storage.
 

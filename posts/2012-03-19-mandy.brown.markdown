@@ -20,7 +20,7 @@ I carry everything around in a [Moop messenger bag][messenger-no-1]; there's eno
 
 ### And what software?
 
-I'm still running [Snow Leopard][mac-os-x], largely out of laziness. I'll get around to updating soon, perhaps. I use [Propane][] to connect to Typekit's Campfire account; we're virtual, with folks spread out between San Francisco and Berlin, so this is where much of our work happens. I'm also routinely on [Skype][]. I often forget that my iPhone is actually, you know, a *phone*. 
+I'm still running [Snow Leopard][macos], largely out of laziness. I'll get around to updating soon, perhaps. I use [Propane][] to connect to Typekit's Campfire account; we're virtual, with folks spread out between San Francisco and Berlin, so this is where much of our work happens. I'm also routinely on [Skype][]. I often forget that my iPhone is actually, you know, a *phone*. 
 
 I spend a lot of my time in a browser; usually [Safari][]. [Chrome][] is arguably a better browser, but I seem to be sticking with Safari out of inertia and appreciation for its stronger visual polish. I keep [Firefox][] around for testing and because [Firebug][] is still the best way to debug a site. I use [1Password][] to log in everywhere. It's completely insane how many logins one person can acquire.
 

@@ -16,7 +16,7 @@ I work from home, so I kind of just make due with what I've got hanging around. 
 
 #### And what software?
 
-I use [GIF Brewery 3][gif-brewery] to make GIFs, [Skitch][] for quick photo edits, and [Photoshop][] for more detailed work. I make due with [iMovie][] and [GarageBand][] for audio and video work. For writing, I use the built-in [Notes][] app for quick projects, but use [Google Drive][google-drive], [Word][], [Scrivener][], and [Final Draft 10][final-draft] when the situation calls for it. I get a lot of use out of [Spotify][] during the workday, and the whole thing runs on [macOS High Sierra][mac-os-x].
+I use [GIF Brewery 3][gif-brewery] to make GIFs, [Skitch][] for quick photo edits, and [Photoshop][] for more detailed work. I make due with [iMovie][] and [GarageBand][] for audio and video work. For writing, I use the built-in [Notes][] app for quick projects, but use [Google Drive][google-drive], [Word][], [Scrivener][], and [Final Draft 10][final-draft] when the situation calls for it. I get a lot of use out of [Spotify][] during the workday, and the whole thing runs on [macOS High Sierra][macos].
 
 #### What would be your dream setup?
 

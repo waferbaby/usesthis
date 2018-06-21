@@ -17,7 +17,7 @@ When I'm not behind a keyboard, I like to be behind a [steering wheel](https://j
 
 ### What hardware do you use?
 
-I stand at a [GeekDesk][] and primarily type things into an [11" MacBook Air][macbook-air] which dual-boots [OS X][mac-os-x] and OpenBSD.
+I stand at a [GeekDesk][] and primarily type things into an [11" MacBook Air][macbook-air] which dual-boots [OS X][macos] and OpenBSD.
 
 For mobile development I prefer to test on actual devices so I use a [Nexus 5][nexus-5] and an [iPhone 6][iphone-6], with two [Nexus S][nexus-s] and an [iPhone 5][iphone-5] for testing on older OS releases. I frequently use a [SideCar][] for keeping a development phone attached to my laptop screen.
 

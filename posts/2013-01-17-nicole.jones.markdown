@@ -37,7 +37,7 @@ When I'm surfing, I ride a custom two-toned [9'1" Almond Lumberjack](http://life
 
 ### And what software?
 
-My personal machine runs [Mac OS X Lion][mac-os-x]; my work machine's on Mountain Lion now. I'm still struggling to accept the junk Apple keeps adding to OS X. I worked there for five years, so I'm trying to keep the faith...
+My personal machine runs [Mac OS X Lion][macos]; my work machine's on Mountain Lion now. I'm still struggling to accept the junk Apple keeps adding to OS X. I worked there for five years, so I'm trying to keep the faith...
 
 [Dropbox][] syncs my files across my different Apple devices. [iCloud][] takes care of my contacts and notes. I use a couple of accounts from [Google][google-apps] for mail, calendars, and sharing docs. I read and reply to email in [Apple Mail][mail].
 

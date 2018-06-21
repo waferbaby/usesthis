@@ -20,7 +20,7 @@ My primary machine is a 13" [Retina MacBook Pro][macbook-pro]. I realized about 
 
 I hook up my laptop to a [Crossover 27Q][27q] monitor, one of those Korean IPS monitors I bought from eBay. The color and screen quality is incredible, and I'd highly recommend it. My 27" high-resolution monitor only cost around $350. I use both the 27" screen and 13" screen at the same time. The 13" screen usually just has music and/or chat on it, though.
 
-I carry around a 1 TB [SeaGate external hard drive][expansion-portable] that has saved virtual machines of almost every version of every major operating system imaginable: [Mac OS X][mac-os-x] (10.5, 10.6, 10.7, 10.8), Windows (XP, Vista, 7, 8), [Ubuntu][] (10.04, 12.04), [CentOS][] (5.x, 6.x), [FreeBSD][], [OpenBSD][], and more... many more.
+I carry around a 1 TB [SeaGate external hard drive][expansion-portable] that has saved virtual machines of almost every version of every major operating system imaginable: [Mac OS X][macos] (10.5, 10.6, 10.7, 10.8), Windows (XP, Vista, 7, 8), [Ubuntu][] (10.04, 12.04), [CentOS][] (5.x, 6.x), [FreeBSD][], [OpenBSD][], and more... many more.
 
 In addition to my virtual devices, I have a [ThinkPad T410s][thinkpad-t410s] and a [ThinkPad T410][thinkpad-t410] for native Windows and Linux testing, respectively. These machines stay at home. I also have a 2010 MacBook Pro that I should've sold a long time ago. I haven't booted that thing up in years...
 

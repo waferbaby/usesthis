@@ -29,7 +29,7 @@ Since 2010 I've used a Mission Workshop backpack almost exclusively. It's been t
 
 ### And what software?
 
-I don't customize [macOS][mac-os-x] too heavily and use [iTerm][iterm2] with [bash][]. For text editing I use [vim][], listen to music on [Spotify][], and browse the web with [Chrome][]. I'm a near-obsessive note taker and heavily rely on [OneNote][] across my iPad, laptop, and desktop.
+I don't customize [macOS][] too heavily and use [iTerm][iterm2] with [bash][]. For text editing I use [vim][], listen to music on [Spotify][], and browse the web with [Chrome][]. I'm a near-obsessive note taker and heavily rely on [OneNote][] across my iPad, laptop, and desktop.
 
 My desktop runs [Windows 10][windows-10] with the Linux subsystem along with most of the same apps I use on macOS.
 

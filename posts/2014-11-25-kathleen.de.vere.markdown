@@ -17,7 +17,7 @@ I'm Kathleen De Vere. I'm a writer, video editor, actor and illustrator for [Loa
 
 When I'm writing I just use [Google Docs][google-docs] on whatever computer I happen to be working at. I usually supplement that with some [Panasonic RP-HTX7-W1 Stereo Headphones][rp-htx7] (in white) and either [Rdio][] or my own music. I have been listening to Syro recently. Wait, does music count as hardware anymore? I suppose I need at least hardware to physically listen to it, so that's something. 
 
-When I'm working at home, I use a hand-me-down 27" [iMac][]. It's from 2009, and being a jerk, I'm still running [10.8.5][mac-os-x]. I use a lot of older hardware in my personal life and I have learned that if you are using an older computer/phone/device any leap forward in operating system is usually means awful performance. That said in 2009 my computer was pretty boss, and it's got a 2.8 GHz processor and 16 GB of RAM. 
+When I'm working at home, I use a hand-me-down 27" [iMac][]. It's from 2009, and being a jerk, I'm still running [10.8.5][macos]. I use a lot of older hardware in my personal life and I have learned that if you are using an older computer/phone/device any leap forward in operating system is usually means awful performance. That said in 2009 my computer was pretty boss, and it's got a 2.8 GHz processor and 16 GB of RAM. 
 
 If I'm editing at the LoadingReadyRun office I use the brand new computer, a quad core trashcan [Mac Pro][mac-pro]! Honestly, the thing doesn't run as well as I'd like it to, considering the price. 
 

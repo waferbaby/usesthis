@@ -33,7 +33,7 @@ My phone is a [iPhone 4S][iphone-4s], I also own an [iPad 2][ipad-2].
 
 ### And what software?
 
-I'm not emotionally attached to any particular brand or operating system. Still, I run [OS X Lion][mac-os-x] almost exclusively, the only exception being the occasional game on [Windows 7][windows-7].
+I'm not emotionally attached to any particular brand or operating system. Still, I run [OS X Lion][macos] almost exclusively, the only exception being the occasional game on [Windows 7][windows-7].
 
 I use a very clever tool called [F.lux][] to automatically adjust my monitor's white-point based on the time of day. It takes a great amount of stress off your eyes and *I urge everyone to try it out* for a couple of days. It's cross platform, too.
 

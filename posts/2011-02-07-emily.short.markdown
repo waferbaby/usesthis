@@ -29,7 +29,7 @@ And I'm usually toting one of an endless series of black Moleskine notebooks, un
 
 ### And what software?
 
-[Mac OS X 10.6.4][mac-os-x], along with [Mail][], [Safari][], [Terminal][], and [iChat][].
+[Mac OS X 10.6.4][macos], along with [Mail][], [Safari][], [Terminal][], and [iChat][].
 
 [Inform][] is the interactive fiction development system I've been helping to develop for the last few years. I use it on a near-daily basis both for my own work and to develop example material and do troubleshooting for other interactive fiction authors.
 

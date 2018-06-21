@@ -28,7 +28,7 @@ In the house I've got an early 90s pair of really underrated [Celestion SL6 spea
 
 ### And what software?
 
-Both Macs now run [Lion][mac-os-x]. I spend most of the day in [Textmate][] and [Scrivener][] and a web browser - [Safari][] or [Chrome][] if I'm in the office but the [Firefox][]-based [Tor][] browser bundle if I'm on the road. My browser tabs are usually set to the backends of the various [Wordpress][] blogs I write or manage, [Twitter][], [Bit.ly][bitly], and if I'm in the office then its usually tabbed to [Google Analytics][google-analytics], [Flurry][] and Reinvigorate as well. [Mail.app][mail] sits in the dock alerting me hourly to whether communication from elderly people, fantastic business propositions from deposed dictators, endless meeting requests, or just that new digital promos from record labels have arrived.
+Both Macs now run [Lion][macos]. I spend most of the day in [Textmate][] and [Scrivener][] and a web browser - [Safari][] or [Chrome][] if I'm in the office but the [Firefox][]-based [Tor][] browser bundle if I'm on the road. My browser tabs are usually set to the backends of the various [Wordpress][] blogs I write or manage, [Twitter][], [Bit.ly][bitly], and if I'm in the office then its usually tabbed to [Google Analytics][google-analytics], [Flurry][] and Reinvigorate as well. [Mail.app][mail] sits in the dock alerting me hourly to whether communication from elderly people, fantastic business propositions from deposed dictators, endless meeting requests, or just that new digital promos from record labels have arrived.
 
 I make my presentations with [Keynote][] and screen capture with [Little Snapper][littlesnapper]. Video conversions are handled by [Handbrake][] and tested on [VLC][].
 

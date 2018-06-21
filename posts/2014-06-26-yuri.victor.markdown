@@ -59,6 +59,6 @@ Phew.
 
 I wish I had a smaller everything. Smaller iPhone, smaller MacBook. I want a computer I can code on that hooks up to 4G that fits in my pocket or at the very least the front pocket of overalls.
 
-I really wish it was easier to program on the iPad, but the keypad setup hides a lot of programming keys one or two screens away, which means an extra keyboard is necessary, which is basically a poor non-multi-tasking laptop. Essentially my dream setup is a smaller [Microsoft Surface][surface-rt] running [Mac OS X][mac-os-x].
+I really wish it was easier to program on the iPad, but the keypad setup hides a lot of programming keys one or two screens away, which means an extra keyboard is necessary, which is basically a poor non-multi-tasking laptop. Essentially my dream setup is a smaller [Microsoft Surface][surface-rt] running [Mac OS X][macos].
 
 Also, you're a star and I love you. Follow me on twitter maybe: [@yurivictor](http://twitter.com/yurivictor "Yuri's Twitter account.").

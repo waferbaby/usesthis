@@ -28,7 +28,7 @@ I love the [iPhone 4][iphone-4], especially for the high-resolution display. Its
 
 ### And what software?
 
-I love [Mac OS][mac-os-x], especially because of the respect Apple shows for my time and attention.
+I love [Mac OS][macos], especially because of the respect Apple shows for my time and attention.
 
 I live in [TextMate][] for both coding and writing. [AckMate][] recently saved me from the frustration of Find In Project's performance in large projects.
 

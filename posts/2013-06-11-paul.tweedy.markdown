@@ -16,7 +16,7 @@ Outside of work I'm principally a commuter, husband, father (to a wonderful one-
 
 ### What hardware do you use?
 
-Somewhat predictably, I rely on a [MacBook Pro][macbook-pro] for work and play. I did Linux-on-the-desktop for years and years, before I finally got bored of the constant round of customisation, kernel recompilation, drivers and things just-not-quite-working, and made the shift to [OS X][mac-os-x]. I've never regretted it! Virtualisation takes care of the need to run Linux occasionally. 
+Somewhat predictably, I rely on a [MacBook Pro][macbook-pro] for work and play. I did Linux-on-the-desktop for years and years, before I finally got bored of the constant round of customisation, kernel recompilation, drivers and things just-not-quite-working, and made the shift to [OS X][macos]. I've never regretted it! Virtualisation takes care of the need to run Linux occasionally. 
 
 I did have a stand-alone camera at one point - but the fact I don't know where it is tells you how much I use it now. The camera in my phone is miles better anyway for all my point-and-shoot needs. I have a [Sony HDR-CX730E][hdr-cx730e] camcorder for capturing video, which just seems to accumulate without the time to edit any of it down. 
 

@@ -17,7 +17,7 @@ For the last four years, I've been focused on how American teenagers have used s
 
 ### What hardware do you use?
 
-The bulk of my technology use centers on two devices: 1) my 13" aluminum [MacBook][]; 2) my [iPhone 3G][iphone-3g]. I have a PC desktop at work and various [Mac Minis][mac-mini] and backup laptops at home, but I spend most of my time on those two devices. My MacBook is the 9th in a long line of Apple laptops post-[OSX][mac-os-x] and my iPhone is the 4th in its series. I typically upgrade when I destroy or lose the previous incarnation. Or when curbs jump off the road to kick my laptop. Or when water just seems to magically appear out of nowhere to cover my phone. This is why backups are necessary. That reminds me, my [Time Machine][time-machine] is very very central to my household setup.
+The bulk of my technology use centers on two devices: 1) my 13" aluminum [MacBook][]; 2) my [iPhone 3G][iphone-3g]. I have a PC desktop at work and various [Mac Minis][mac-mini] and backup laptops at home, but I spend most of my time on those two devices. My MacBook is the 9th in a long line of Apple laptops post-[OSX][macos] and my iPhone is the 4th in its series. I typically upgrade when I destroy or lose the previous incarnation. Or when curbs jump off the road to kick my laptop. Or when water just seems to magically appear out of nowhere to cover my phone. This is why backups are necessary. That reminds me, my [Time Machine][time-machine] is very very central to my household setup.
 
 Truthfully, I really miss my [Sidekick][]. I loved the form factor of that puppy far more than I love my iPhone. But my iPhone has apps that are useful to me and T-Mobile handicapped the Sidekick. I used to carry both but that got to be a bit ridiculous. Le sad.
 

@@ -21,7 +21,7 @@ I also have a [MacBook Pro][macbook-pro] but honestly I don't use it for work th
 
 Pretty much just Adobe products. [Photoshop][] and [Illustrator][] are like 99% of my workflow. I'm working on learning [Cinema 4D][cinema-4d] but that's more hobby/on the side right now than anything else. Boring answer :/ Sorry.
 
-One thing I do use a LOT on [OS X][mac-os-x] is [Spaces][]. I have all my internet windows in one space, Photoshop in its own space, Illustrator in its own, [Spotify][spotify-mac], etc. It's nice to be able to break up where each piece of software is at instead of having a zillion windows on one screen. I've realized a lot of people don't use Spaces lately, and just minimize stuff, which is crazy to me. Use it! And just ctrl + arrow to fly around your workspace. It's the best.
+One thing I do use a LOT on [OS X][macos] is [Spaces][]. I have all my internet windows in one space, Photoshop in its own space, Illustrator in its own, [Spotify][spotify-mac], etc. It's nice to be able to break up where each piece of software is at instead of having a zillion windows on one screen. I've realized a lot of people don't use Spaces lately, and just minimize stuff, which is crazy to me. Use it! And just ctrl + arrow to fly around your workspace. It's the best.
 
 ### What would be your dream setup?
 

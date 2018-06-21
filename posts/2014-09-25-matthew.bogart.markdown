@@ -30,7 +30,7 @@ I publish new pages of my comics every couple of days on my site, which is power
 
 I've never had a more rewarding experience making digital comics than I've had on [Patreon][], where I [post](http://patreon.com/matthewbogart/ "Matthew's Patreon page.") explanations of my process as well as occasional video tutorials on how I use my tools. 
 
-Other software not directly related to making comics that I would have a hard time living without includes, [1Password][] for making the management of hundreds of passwords simple, [Alfred][] for getting almost anything done on my Mac faster, [DragonDrop][] for making working with files in full screen mode on [OS X][mac-os-x] possible, [Day One][day-one] for reminding me that my life is actually happening, [OmniFocus][] for making it all seem manageable, [TextExpander][] oh, just go *get Text Expander*, and [Instapaper][] so the best stuff on the web doesn't speed right by me.  
+Other software not directly related to making comics that I would have a hard time living without includes, [1Password][] for making the management of hundreds of passwords simple, [Alfred][] for getting almost anything done on my Mac faster, [DragonDrop][] for making working with files in full screen mode on [OS X][macos] possible, [Day One][day-one] for reminding me that my life is actually happening, [OmniFocus][] for making it all seem manageable, [TextExpander][] oh, just go *get Text Expander*, and [Instapaper][] so the best stuff on the web doesn't speed right by me.  
 
 ### What would be your dream setup?
 

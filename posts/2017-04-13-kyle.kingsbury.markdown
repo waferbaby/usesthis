@@ -35,7 +35,7 @@ I run [Debian][] (hi Jess!). It's mostly stock except for ZFS, and using [OpenBo
 
 I'm hopelessly reliant on middle-click-paste. Laptop trackpads drive me nuts. This is entirely my own fault.
 
-Every so often I try to become a Normal Computer User so I can spend less time futzing with my weird tools, try [OS X][mac-os-x] for a week, and give up. At this point I live in perpetual, mild trepidation that the people who maintain the Galapagos island of software I rely on will stop caring, stranding me in desktop Linux limbo.
+Every so often I try to become a Normal Computer User so I can spend less time futzing with my weird tools, try [OS X][macos] for a week, and give up. At this point I live in perpetual, mild trepidation that the people who maintain the Galapagos island of software I rely on will stop caring, stranding me in desktop Linux limbo.
 
 I have a terrible memory and need to see everything on the screen at once, or I'll forget! So when I'm writing software I live in six to twelve [gnome-terminals][gnome-terminal]. Most are running Vim, editing the different namespaces I'm calling through at that time. Then there's usually a [clojure][] repl, and a test runner that automatically reloads and runs tests when I write files to disk. Maybe a window for [git][] commands and running various tools.
 

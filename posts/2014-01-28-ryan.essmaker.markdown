@@ -39,7 +39,7 @@ And if you're interested in what guitars I play, I own two Martin acoustics - a 
 
 ### And what software?
 
-I'm running [OSX Mavericks][mac-os-x] on my MBP and [iOS7][ios] on my iPhone and iPad. My life wouldn't be the same without [Dropbox][], [1Password][], or [Alfred][]. I use and love [Adobe Creative Cloud][creative-cloud] and much prefer it over the older upgrade model. Within CC I work in [Photoshop][], [Lightroom 5][lightroom], [Illustrator][], [Premiere][], [Speedgrade][], and [Audition][]. [InDesign][] will be used a little more in 2014 as I'm planning to do more print projects. 
+I'm running [OSX Mavericks][macos] on my MBP and [iOS7][ios] on my iPhone and iPad. My life wouldn't be the same without [Dropbox][], [1Password][], or [Alfred][]. I use and love [Adobe Creative Cloud][creative-cloud] and much prefer it over the older upgrade model. Within CC I work in [Photoshop][], [Lightroom 5][lightroom], [Illustrator][], [Premiere][], [Speedgrade][], and [Audition][]. [InDesign][] will be used a little more in 2014 as I'm planning to do more print projects. 
 
 I use Apple [Mail][mail], [Numbers][], [Pages][], and [Keynote][] for your typical office tasks. [CloudApp][cloudapp] and [Dropmark][] are frequented throughout the day to share or collect. [Evernote][] fills in the gaps and [Mailchimp][] is used for email newsletters.
 

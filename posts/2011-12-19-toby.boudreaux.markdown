@@ -38,7 +38,7 @@ I purchase nearly everything I can find, and support indy dev strongly - even if
 
 On mobile, I spend a lot of time with Mail, [Feedler][feedler-ios], [iClone][iclone-for-eve-online-ios], various games, [Weightbot][weightbot-ios]/[Withings][wiscale-ios], and a rotating set of games that happen to fit a NYC commute perfectly. My iPad is essentially a giant Kindle that happens to have a software version of a Korg MS-20. It works for me...
 
-For OS, I run [Lion][mac-os-x] at home and Snow Leopard and [Windows 7][windows-7] at work. For my personal devices, iOS 5 in various stages of beta.
+For OS, I run [Lion][macos] at home and Snow Leopard and [Windows 7][windows-7] at work. For my personal devices, iOS 5 in various stages of beta.
 
 ### What would be your dream setup?
 

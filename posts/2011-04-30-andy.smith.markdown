@@ -35,7 +35,7 @@ I also have an [Xbox 360][xbox-360], and both a U.S. and a European [PS3][] hook
 
 ### And what software?
 
-I'm a Linux guy at heart, usually the latest version of [Ubuntu][], but I do use [OS X][mac-os-x] on my laptop, mostly because it is useful having another OS around to run some apps just don't have decent counterparts, though in the majority of cases I think most Linux apps I use outshine their OS X counterparts. In most cases I don't agree with Apple's opinions as to how I should use my hardware and software so I try to avoid them as much as possible.
+I'm a Linux guy at heart, usually the latest version of [Ubuntu][], but I do use [OS X][macos] on my laptop, mostly because it is useful having another OS around to run some apps just don't have decent counterparts, though in the majority of cases I think most Linux apps I use outshine their OS X counterparts. In most cases I don't agree with Apple's opinions as to how I should use my hardware and software so I try to avoid them as much as possible.
 
 Almost all of my time is spent either in a browser, [Google Chrome][chrome], a terminal (GNOME Terminal on Ubuntu or [iterm2][] on OS X), or in [gvim][vim] ([MacVim][] on OS X). I use [zsh][].
 

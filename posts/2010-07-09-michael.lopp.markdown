@@ -30,7 +30,7 @@ I religiously use the .5 Zebra Sarasa gel pen to write all things, I write in AL
 
 ### And what software?
 
-I'm a [Mac OS X][mac-os-x] nerd and have been so for the past eight years. I'm a [LaunchBar][] guy. Any time I have to touch the mouse, I feel inefficient.
+I'm a [Mac OS X][macos] nerd and have been so for the past eight years. I'm a [LaunchBar][] guy. Any time I have to touch the mouse, I feel inefficient.
 
 For information consumption and tracking, I've recently moved to [Chrome][] because of the blazing speed, but also because it felt like it was time to escape the Cone of Kool-Aid that is Apple to see what the rest of the world was doing. I fall in love with newsreaders like I fall in love with productivity systems. The love affair lasts for three weeks and then I move back to reading via Tab Groups and keeping track of my day on a piece of paper. There's an important lesson about human nature for both application domains that is going to make someone a pile of money. If I had to commit to a newsreader, it'd be [NetNewsWire][]. If I had to commit to a productivity application, it'd be [Things][].
 

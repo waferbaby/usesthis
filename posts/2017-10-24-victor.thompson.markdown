@@ -35,7 +35,7 @@ For taking notes, minor project planning, and simple layout design, I like to ha
 
 ### And what software?
 
-Almost all of my computing happens under [OS X][mac-os-x]. I've been using [Unity][] for the last few years, for West of Loathing and for several other projects. This is a complete replacement of my setup five years ago, which was a Windows machine and various self-built game engines. I still write my own low-level code for a personal project here and there, but any time where I'm accountable to other people it seems unconscionable to take the extra time.
+Almost all of my computing happens under [OS X][macos]. I've been using [Unity][] for the last few years, for West of Loathing and for several other projects. This is a complete replacement of my setup five years ago, which was a Windows machine and various self-built game engines. I still write my own low-level code for a personal project here and there, but any time where I'm accountable to other people it seems unconscionable to take the extra time.
 
 For editing code, I use Microsoft's [VS Code][visual-studio-code] almost exclusively. The integration of Code with the Unity engine really cemented that for me, as I was never comfortable using Unity's included editor, [MonoDevelop][]. When I can't use VS Code (such as when I need to inspect giant JSON files), I fall back on [Sublime Text 2][sublime-text].
 

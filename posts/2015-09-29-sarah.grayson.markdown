@@ -22,7 +22,7 @@ Of course, when a gig requires a visit to a professional studio, there is much m
 
 ### And what software?
 
-My MacBook is running [OS X][mac-os-x]. Beyond that, I'm afraid that answering this truthfully is going to highlight an embarrassing wonkiness in my process. I record with [GarageBand][], but I edit with [Peak LE][peak-le]. Ideally, I'd be doing everything through one program, and initially did with Peak, but it developed a nasty bug along the way and everything I record through it now sounds like I'm talking at half speed under water. That's when I turned to GarageBand for the recording side, but I still edit in Peak since that's where I'm most proficient. It's an odd system, but it'll work until I get things sorted.
+My MacBook is running [OS X][macos]. Beyond that, I'm afraid that answering this truthfully is going to highlight an embarrassing wonkiness in my process. I record with [GarageBand][], but I edit with [Peak LE][peak-le]. Ideally, I'd be doing everything through one program, and initially did with Peak, but it developed a nasty bug along the way and everything I record through it now sounds like I'm talking at half speed under water. That's when I turned to GarageBand for the recording side, but I still edit in Peak since that's where I'm most proficient. It's an odd system, but it'll work until I get things sorted.
 
 ### What would be your dream setup?
 

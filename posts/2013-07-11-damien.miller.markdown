@@ -37,7 +37,7 @@ I also keep a motley collection of servers for testing software I write. I have 
 
 **Work desktop**: I'm running Goobuntu (Google's customisation of Ubuntu). The only two desktop programs I have open with any regularity are a terminal window ([gnome-terminal][] currently) and a web browser ([Google Chrome][chrome]); everything else happens in one of these two. In the web browser, I use [Gmail][], [Google Drive][google-docs] (nee Docs), [Google Calendar][google-calendar] and a bunch of internal tools. In the terminal window, I edit code with [Vim][] and usually have a bunch of ssh sessions open. On the rare occasions that I have to prepare a document to be printed that goes beyond the abilities of Google Docs (e.g. a conference paper) I'll usually use [LaTeX][].
 
-**Work laptop**: Pretty much the same, except the operating system ([OS X][mac-os-x]) and the terminal ([iTerm2][])
+**Work laptop**: Pretty much the same, except the operating system ([OS X][macos]) and the terminal ([iTerm2][])
 
 **Personal desktop**: I use this mostly for photo editing and the occasional videogame. It runs [Windows 7][windows-7], [Adobe Lightroom 4][lightroom], [Photoshop CS6][photoshop] and [Nik Software's collection][nik-collection] of tools for photography.
 

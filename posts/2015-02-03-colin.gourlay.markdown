@@ -32,7 +32,7 @@ My current favourite piece of 'hardware' is the gaming table I built from a coll
 
 ### And what software?
 
-I run [OS X Yosemite][mac-os-x]. I ran the developer preview and I was surprised so the amount of rough edges that made it into the public release. Yosemite is very much an OS for high DPI screens only. I updated my 2009 MacBook Pro recently, and I can hardly read the text in the UI.
+I run [OS X Yosemite][macos]. I ran the developer preview and I was surprised so the amount of rough edges that made it into the public release. Yosemite is very much an OS for high DPI screens only. I updated my 2009 MacBook Pro recently, and I can hardly read the text in the UI.
 
 I haven't done much to customise the OS X experience, other than installing Mathias Bynen's [dotfiles](https://github.com/mathiasbynens/dotfiles "Mathias' dotfiles on GitHub.") for some terminal goodies, as well as a few convenience apps:
 

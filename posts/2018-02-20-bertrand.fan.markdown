@@ -51,7 +51,7 @@ If there is a theme here, it's that the hardware you love will become discontinu
 
 #### And what software?
 
-[OS X][mac-os-x] is my primary operating system. I had held out for ages on upgrading but the [Meltdown and Spectre attacks](https://meltdownattack.com/ "Details about the Meltdown and Spectre vulnerabilities.") forced me to upgrade to High Sierra.
+[OS X][macos] is my primary operating system. I had held out for ages on upgrading but the [Meltdown and Spectre attacks](https://meltdownattack.com/ "Details about the Meltdown and Spectre vulnerabilities.") forced me to upgrade to High Sierra.
 
 I spend a lot of time in Slack, either in the Mac app or the [iOS client][slack-ios]. I tend to stay in all channels that I have a passing interest in, but only routinely read the channels that I have starred.
 

@@ -31,6 +31,6 @@ For editing, I use Avid Media Composer 7 pretty much exclusively. Now that Apple
 
 My dream setup would look a lot like my current setup, actually, only everything would be lighter and have longer battery life. I want a MacBook Air that has the same battery life as my iPad Mini. Oh and I'd like SSD's to grow in capacity and come down in price to the point where I could easily fit a terabyte worth of films onto my MacBook Air.
 
-I'm excited about the possibilities offered by the Continuity features Apple is introducing in [iOS][] 8 and [OS X][mac-os-x] Yosemite but I'd like them to go farther. I want what I'm working on to just magically follow me from device to device. I'd like to be editing a film on my MacBook Air, then have it pop up on my desktop when I switch to that and then be ready to watch on my Apple TV automatically as soon as I'm done. I realize this is a little ways off. I can wait. I'm patient.
+I'm excited about the possibilities offered by the Continuity features Apple is introducing in [iOS][] 8 and [OS X][macos] Yosemite but I'd like them to go farther. I want what I'm working on to just magically follow me from device to device. I'd like to be editing a film on my MacBook Air, then have it pop up on my desktop when I switch to that and then be ready to watch on my Apple TV automatically as soon as I'm done. I realize this is a little ways off. I can wait. I'm patient.
 
 I'm also looking forward to an iPhone with a larger screen. I'm pretty sure it will make me that much better at Scrabble.

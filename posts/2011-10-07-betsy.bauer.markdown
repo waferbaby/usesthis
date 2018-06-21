@@ -20,7 +20,7 @@ In addition, I have a 5 year old [MacBook Pro][macbook-pro] that was given to me
 
 ### And what software?
 
-The operating system being run at work is [Mac OS X][mac-os-x]. On my Dell at home I run [Windows 7][windows-7], and on my Macbook I obviously run Mac OS X. Software wise, I almost exclusively use [Photoshop CS5][photoshop]. I have dabbled with [Corel Painter][painter], and I think it's a beautiful program. However, it's just so heavy that it has a difficult time handling itself; it crashes constantly. If you download or create some nice custom brushes, you can get almost the same effects with Photoshop.
+The operating system being run at work is [Mac OS X][macos]. On my Dell at home I run [Windows 7][windows-7], and on my Macbook I obviously run Mac OS X. Software wise, I almost exclusively use [Photoshop CS5][photoshop]. I have dabbled with [Corel Painter][painter], and I think it's a beautiful program. However, it's just so heavy that it has a difficult time handling itself; it crashes constantly. If you download or create some nice custom brushes, you can get almost the same effects with Photoshop.
 
 ### What would be your dream setup?
 

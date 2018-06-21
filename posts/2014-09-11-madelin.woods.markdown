@@ -27,7 +27,7 @@ In attempts to remove myself from electronic gadgets and screens all day, I've t
 
 ### And what software?
 
-I run whatever the latest version of [OS X][mac-os-x] is, and am usually programming in [Ruby on Rails][rails], [JavaScript][] ([Ember][] & [CoffeeScript][] when possible), Slim and [Sass][]. I write my code in [Sublime Text 2][sublime-text] (tricked out with a ton of extra installed packages), use [iTerm2][] for my terminal, the latest version of [Chrome][] for browsing and development, and [Divvy][] to organize my screen.
+I run whatever the latest version of [OS X][macos] is, and am usually programming in [Ruby on Rails][rails], [JavaScript][] ([Ember][] & [CoffeeScript][] when possible), Slim and [Sass][]. I write my code in [Sublime Text 2][sublime-text] (tricked out with a ton of extra installed packages), use [iTerm2][] for my terminal, the latest version of [Chrome][] for browsing and development, and [Divvy][] to organize my screen.
 
 We've recently switched over to using Atlassian products at work, so we use [Stash][] for our [Git][] code management, [Jira][] for bug tracking, and [HipChat][] for team chats. I also use [iMessage][], [Google Hangouts][google-hangouts], and [FaceTime][] for chatting. I use [xScope][] for color checking and pixel measuring, [BrowserStack][] for IE testing, and [Litmus][] for email testing.
 

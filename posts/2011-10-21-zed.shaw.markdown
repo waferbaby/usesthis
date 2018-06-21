@@ -22,7 +22,7 @@ I also attempt to make music and post everything I make, good or bad, as part of
 
 ### What hardware do you use?
 
-When it comes to hardware it doesn't really matter what I use. I tend to use whatever computer the end user will be working with or something close to it. If I'm writing software for [OS X][mac-os-x], I use a white [MacBook][] I bought years ago. If I'm working on my server software then I use a couple of junky Linux laptops. I honestly could probably code with nearly anything, so having the same setup as the end user is more important than having the most awesome piece of tech ever.
+When it comes to hardware it doesn't really matter what I use. I tend to use whatever computer the end user will be working with or something close to it. If I'm writing software for [OS X][macos], I use a white [MacBook][] I bought years ago. If I'm working on my server software then I use a couple of junky Linux laptops. I honestly could probably code with nearly anything, so having the same setup as the end user is more important than having the most awesome piece of tech ever.
 
 For writing books I work almost exclusively on my junk Linux laptops, since they're already sitting on my desk. I have things setup so that I can switch between the PC/Linux laptops and my MacBook easily, so again the hardware seems to not matter. With book writing there's not as much of a long compile phase so fast awesome hardware doesn't help as much. Although I do find writing rants easier on my worst computer. Maybe the discomfort brings out more of the hate?
 

@@ -24,7 +24,7 @@ I curse the computer and my software all the time. I'm always complaining that w
  
 I think programmers like each function to take as many arbitrary steps as possible. Functions that should just be one click of a key take multiple steps and you have to dig through cluttered interfaces to find what you want.
  
-Artists like the tools to be basic and simple instead of buried under thousands or palettes and drag down menus - not interfaces that change with every new incarnation of the same programs! Or when simple commands become more complicated in later incarnations - like when Apple introduced [OS X][mac-os-x] and changed "new folder" from "Command N" to some time wasting drag down menu. Aaargh.
+Artists like the tools to be basic and simple instead of buried under thousands or palettes and drag down menus - not interfaces that change with every new incarnation of the same programs! Or when simple commands become more complicated in later incarnations - like when Apple introduced [OS X][macos] and changed "new folder" from "Command N" to some time wasting drag down menu. Aaargh.
  
 I'm dying to design my own more functional programs. I have been talking to the people at Toonboom and practically begging them to simplify their animation programs to make them more user-friendly. I want to design a plug-in for them that is geared to animation directors and traditional animators.
  

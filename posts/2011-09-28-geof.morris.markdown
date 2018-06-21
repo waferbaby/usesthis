@@ -13,7 +13,7 @@ I am [Geof Morris](http://gfmorris.net/ "Geof's website."), a degreed aerospace 
 
 ### What hardware do you use?
 
-I've got a Late 2009 27" [iMac][], the 2.8GZ i7 model maxed out at 16GB of RAM, running [OS X Lion][mac-os-x]. I've been a Mac guy since sometime in the Tiger era after more than a decade of laughing at them. I use Apple's wireless [keyboard][] and [trackpad][magic-trackpad], but I also use a [Kensington Expert Mouse][expert-mouse]. I bought the trackpad knowing that Lion was coming, and it's been great for that, but it's not a mouse substitute. I've used trackballs for almost 15 years and will fight you about giving them up.
+I've got a Late 2009 27" [iMac][], the 2.8GZ i7 model maxed out at 16GB of RAM, running [OS X Lion][macos]. I've been a Mac guy since sometime in the Tiger era after more than a decade of laughing at them. I use Apple's wireless [keyboard][] and [trackpad][magic-trackpad], but I also use a [Kensington Expert Mouse][expert-mouse]. I bought the trackpad knowing that Lion was coming, and it's been great for that, but it's not a mouse substitute. I've used trackballs for almost 15 years and will fight you about giving them up.
 
 I've got a second [Mac mini][mac-mini] that does all my media storage, although I'm increasingly thinking that's a waste of good electricity. It's slaved to a nice [Drobo][], as is the iMac upstairs.
 

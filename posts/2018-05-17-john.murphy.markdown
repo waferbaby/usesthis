@@ -42,7 +42,7 @@ I listen to a lot of podcasts. I use [Pocket Casts][pocket-casts-ios] because it
 
 I use the default [notes][] app on iPhone to take notes during playtests and meetings, which I then convert to checklists on Trello cards. If a document has a lot of text, requires a lot of collaboration and feedback, or is otherwise too cumbersome to be in Trello, I use [Google Docs][google-docs] and link those docs to any relevant Trello cards. I very occasionally blog on [Medium][]. I use [LastPass][] for password management.
 
-[Freedom][] stops me from entering the procrastination loop of checking [social media][tweetbot], [news aggregators][digg] and my [RSS feed][feedly]. It also encourages me to take breaks away from the computer. I use [f.lux][] on Windows and the Night Shift feature on [Mac][mac-os-x] and [iOS][] to get rid of that pesky blue light in the evening.
+[Freedom][] stops me from entering the procrastination loop of checking [social media][tweetbot], [news aggregators][digg] and my [RSS feed][feedly]. It also encourages me to take breaks away from the computer. I use [f.lux][] on Windows and the Night Shift feature on [Mac][macos] and [iOS][] to get rid of that pesky blue light in the evening.
 
 #### What would be your dream setup?
 

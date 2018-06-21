@@ -28,7 +28,7 @@ I ride a Jan Janssen Vuelta from the mid 90s.
 
 ### And what software?
 
-I've been running [Ubuntu][] since about 2005 and I haven't really felt the need to switch. If I do it might be an [Arch-like][arch-linux], or to [Mac OS X][mac-os-x], just because [Logic][logic-pro] / Garageband and [iOS][] development can only run on OS X.
+I've been running [Ubuntu][] since about 2005 and I haven't really felt the need to switch. If I do it might be an [Arch-like][arch-linux], or to [Mac OS X][macos], just because [Logic][logic-pro] / Garageband and [iOS][] development can only run on OS X.
 
 You will see me browsing the internet alternating [Chrome][] and [Firefox][] (in alphabetical order). These 2 browsers are ALWAYS running.
 

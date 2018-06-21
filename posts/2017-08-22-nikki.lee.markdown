@@ -26,7 +26,7 @@ I'm sorry this is so many words. If you tweet at me I'll send you a cat picture 
 
 **Computers**
 
-At work I use a [13" MacBook Pro][macbook-pro] (pre Touch Bar) and [iPhone 6][iphone-6]. They have a certain amount of techie cred, but I resent both of these devices, and many of my coworkers have heard a variety of rants about the core interaction models of [iOS][] and [OS X][mac-os-x]. I love the virtual desktops functionality in OS X, but that's basically the only design choice I prefer to Windows.
+At work I use a [13" MacBook Pro][macbook-pro] (pre Touch Bar) and [iPhone 6][iphone-6]. They have a certain amount of techie cred, but I resent both of these devices, and many of my coworkers have heard a variety of rants about the core interaction models of [iOS][] and [OS X][macos]. I love the virtual desktops functionality in OS X, but that's basically the only design choice I prefer to Windows.
 
 We also have a bunch of [Thunderbolt displays][thunderbolt-display] in our office. They're nice for extra real estate and the integrated cameras in the display are better positioned for video calls.
 

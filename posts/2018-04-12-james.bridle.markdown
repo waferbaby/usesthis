@@ -13,7 +13,7 @@ I'm James Bridle, I'm a writer and artist. I'm from London and I live in Athens,
 
 #### What hardware do you use?
 
-I have a [2013 MacBook Air][macbook-air] which I am keeping going as long as I can. I've been trying to extricate myself from the Apple ecosystem, and this summer I finally installed [Ubuntu][] on it and am now 93% there, occasionally dual-booting back to [OSX][mac-os-x] when I need to use [Photoshop][], [Illustrator][] and [InDesign][]. In my studio I have a much bigger monitor with external keyboard and mouse for working on.
+I have a [2013 MacBook Air][macbook-air] which I am keeping going as long as I can. I've been trying to extricate myself from the Apple ecosystem, and this summer I finally installed [Ubuntu][] on it and am now 93% there, occasionally dual-booting back to [OSX][macos] when I need to use [Photoshop][], [Illustrator][] and [InDesign][]. In my studio I have a much bigger monitor with external keyboard and mouse for working on.
 
 I have a [Fairphone 2][fairphone-2], which is about two years old now and part of the same de-Appling process. It's a bit more sustainable (I have upgraded it several times with component parts) and ethical, and while far from perfect at least points the way towards better things. If there's a pattern here it's that of choosing intentionally difficult tech which frequently makes life less efficient, but hopefully, like putting a bit of tape over the webcam, this self-flagellation is balanced by the necessity of paying a bit more thought and attention to the fabric of things.
 

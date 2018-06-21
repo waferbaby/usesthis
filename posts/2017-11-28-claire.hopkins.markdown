@@ -22,7 +22,7 @@ For keeping track of my schedule and tasks, I use a Compact Lavender Bliss Passi
 
 ### And what software?
 
-My Mac currently runs [OS X][mac-os-x] El Capitan. For editing, I use [iMovie][], as I don't have particularly complex editing needs. I plan to upgrade to [Adobe Premiere][premiere] in the near future.
+My Mac currently runs [OS X][macos] El Capitan. For editing, I use [iMovie][], as I don't have particularly complex editing needs. I plan to upgrade to [Adobe Premiere][premiere] in the near future.
 
 For graphics for my videos, website and merch, I use [Adobe Illustrator][illustrator] and occasionally [Adobe Photoshop][photoshop].
 

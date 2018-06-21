@@ -39,7 +39,7 @@ I use Vim as my editor. I've been using Vim for about 16 years, my entire progra
 
 I mainly use [Safari][] as my browser since it has the best Keychain integration. When I need to do serious web development, I'll usually use [Firefox][] or [Chrome][]. Firefox has an extremely nice feature that I like for web development: if you hit ' (single quote) it will bring up a search box, but the search box only searches through links on the page. Then you can hit enter to navigate to that link. That way I can avoid using my mouse.
 
-I use the [terminal][] that ships with [OS X][mac-os-x]. [Keynote][] for presentations. I enjoy using Keynote for making presentations because it allows me to focus on the content and still the presentation comes out looking good.
+I use the [terminal][] that ships with [OS X][macos]. [Keynote][] for presentations. I enjoy using Keynote for making presentations because it allows me to focus on the content and still the presentation comes out looking good.
 
 For [Twitter][] I use [Echofon][]. It has a very small interface, and I like that.
 

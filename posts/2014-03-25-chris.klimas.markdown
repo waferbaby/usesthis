@@ -15,7 +15,7 @@ categories:
 
 ### What hardware do you use?
 
-My main computer is a Dell 15z laptop running [Windows 7][windows-7]. I switched from [OS X][mac-os-x] so I could keep up with PC gaming. I have an external monitor, keyboard, and mouse, but I barely use them -- I'm almost always couch computing. I don't use headphones at all. I used to, but I started to worry about my hearing.
+My main computer is a Dell 15z laptop running [Windows 7][windows-7]. I switched from [OS X][macos] so I could keep up with PC gaming. I have an external monitor, keyboard, and mouse, but I barely use them -- I'm almost always couch computing. I don't use headphones at all. I used to, but I started to worry about my hearing.
 
 I just traded in an original [iPad][] for an [iPad Air][ipad-air], which I mainly use for web browsing before bed, and I carry around an [iPhone 5C][iphone-5c].
 

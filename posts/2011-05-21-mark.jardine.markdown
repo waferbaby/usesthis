@@ -26,7 +26,7 @@ When I feel like pretending to be a photographer, I take out my trusty [Canon 5D
 
 ### And what software?
 
-Obviously, my main OS of choice is [Mac OS X][mac-os-x]. I try to stay away from 3rd party software as much as I can. Apple's software just works and works great for my needs. I love [Safari][]. It syncs bookmarks to my iOS devices and I think it renders text the best out of all the browsers. I rely heavily on [iCal][], [Address Book][address-book], and [Mail][]. They all work very well with each other and with my iOS devices. I also use [iChat][] for IM. I think it's the best chat client by far.
+Obviously, my main OS of choice is [Mac OS X][macos]. I try to stay away from 3rd party software as much as I can. Apple's software just works and works great for my needs. I love [Safari][]. It syncs bookmarks to my iOS devices and I think it renders text the best out of all the browsers. I rely heavily on [iCal][], [Address Book][address-book], and [Mail][]. They all work very well with each other and with my iOS devices. I also use [iChat][] for IM. I think it's the best chat client by far.
 
 I keep my notes in [Notational Velocity][notational-velocity] because it's fast and it syncs with [SimpleNote][simplenote-ios] on iOS. Also, life would be unbearable without [Dropbox][]. It is the key to being able to own and use more than one computer. I usually have [Twitter for Mac][twitter-mac] running, but I don't have much time to keep up with it these days. [iTunes][] is the center of my media life. Besides music, I keep all the ripped (that I own) and digitally downloaded movies in iTunes format so they can play on my iOS devices as well as on both of my [Apple TV's][apple-tv] in the house. 
 

@@ -30,7 +30,7 @@ A [Fitbit Flex][flex] is my required piece of wearable tech.
 
 ### And what software?
 
-I run [OS X][mac-os-x] Mavericks and have found it agreeable so far.
+I run [OS X][macos] Mavericks and have found it agreeable so far.
 
 I use a lot of the usual suspects: [1Password][] to manage passwords across devices, [Alfred][] with the Powerpack to get to basically everything, [Caffeine][] to thwart sleep mode, [F.lux][] to prevent migraines, [Shush][] for mic management, [Dropbox][] for file backups, the pre-V2 release of [Skitch][] because it's far superior, and [Bartender][] to sweep all of that out of sight.
 

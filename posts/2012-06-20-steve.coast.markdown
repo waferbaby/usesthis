@@ -25,7 +25,7 @@ On a daily basis I use all of them. I often carry 3 or more computers around. It
 
 ### And what software?
 
-[Windows 7][windows-7], [Mac OS X 10.7.4][mac-os-x], [Windows 8][windows-8], [Windows Phone][windows-phone], [iOS 5][ios]. I use [VirtualBox][] to carry [Ubuntu][] around with me. I back up everything in 3 places automatically, partially with [BackBlaze][]. I love [Mathematica][] and [Evernote][].
+[Windows 7][windows-7], [Mac OS X 10.7.4][macos], [Windows 8][windows-8], [Windows Phone][windows-phone], [iOS 5][ios]. I use [VirtualBox][] to carry [Ubuntu][] around with me. I back up everything in 3 places automatically, partially with [BackBlaze][]. I love [Mathematica][] and [Evernote][].
 
 I try very hard not to use the Internet. Synchronous communication is terribly wasteful when it's just you and the Internet, reading news or Reddit. I have a script which mails to [Instapaper][] the Hacker News front page twice a day. From there I can just tap on things and read them later, at any time, with Instapaper on my iPad or Windows Phone. That means plane flights, queuing and other apparent wastes of time can be used to catch up on old Hacker News.
 

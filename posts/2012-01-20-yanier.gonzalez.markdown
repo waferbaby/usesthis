@@ -21,7 +21,7 @@ I play video games for a living (depressing, I know) on a [Samsung LN40A550][ln4
 
 I publish four online web sites and work with a team of a hundred contributors, so a lot of my software is hosted and virtual. We rely on [Google Docs][google-docs], [Basecamp][], [Campfire][], and a home-grown content editing system we call Elephant, which was authored with a brute-force [Terminal][], [Bash][], [TextMate][]-driven development team and maintained on [Github][]. My personal text editor of choice these days is [Coda][].
 
-Despite working for a dozen years as web developer I've developed an allergy to Adobe products, so to this day I still do all my graphics work on [Corel Photopaint 8][photo-paint], released in 1996 like an old man in the woods with his manual camera. I've heavily customized and scripted many shortcuts over the years, so I feel like its my own design software. I'm fond of the online editor [Pixlr][] and also rely on [Screenshot Plus][screenshot-plus] [OS X][mac-os-x] widget for quick and easy blogging.
+Despite working for a dozen years as web developer I've developed an allergy to Adobe products, so to this day I still do all my graphics work on [Corel Photopaint 8][photo-paint], released in 1996 like an old man in the woods with his manual camera. I've heavily customized and scripted many shortcuts over the years, so I feel like its my own design software. I'm fond of the online editor [Pixlr][] and also rely on [Screenshot Plus][screenshot-plus] [OS X][macos] widget for quick and easy blogging.
 
 ### What would be your dream setup?
 

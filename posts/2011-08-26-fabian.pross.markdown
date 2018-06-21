@@ -18,7 +18,7 @@ I have a core i7 workstation under my desk, rocking 12 gigs of RAM. Not sure wha
 
 ### And what software?
 
-Our main production software is [Autodesk Softimage][softimage], which I use with several plugins like emPolygonizer, emRPC, emFluid and lately Arnold for rendering. For distributed rendering we use [Royal Render][royal-render]. [Eyeon Fusion][fusion] serves for comp work besides [Photoshop][] and [After Effects][after-effects] as well as [Chrome][] and [Firefox][] for Browsing and [Google Docs][google-docs] for Spreadsheets and Word Processing. I love [Mac OS][mac-os-x] on my Mac, but my workstation is running [Windows 7][windows-7] because there is no Mac version of Softimage. It took us two weeks to set up our [Ubuntu 64][ubuntu-server] server, but since then, we never had a problem with it.
+Our main production software is [Autodesk Softimage][softimage], which I use with several plugins like emPolygonizer, emRPC, emFluid and lately Arnold for rendering. For distributed rendering we use [Royal Render][royal-render]. [Eyeon Fusion][fusion] serves for comp work besides [Photoshop][] and [After Effects][after-effects] as well as [Chrome][] and [Firefox][] for Browsing and [Google Docs][google-docs] for Spreadsheets and Word Processing. I love [Mac OS][macos] on my Mac, but my workstation is running [Windows 7][windows-7] because there is no Mac version of Softimage. It took us two weeks to set up our [Ubuntu 64][ubuntu-server] server, but since then, we never had a problem with it.
 
 ### What would be your dream setup?
 

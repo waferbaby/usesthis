@@ -21,7 +21,7 @@ I have a Martian smart watch, although it doesn't get much use now that I'm not 
 
 ### And what software?
 
-My Mac's just been upgraded to [OS X 10.10 Yosemite][mac-os-x], somewhat regrettably. The U.S. Patent and Trademark Office is as behind the times as you'd imagine a government office would be, and the upgrade has broken my ability to access their EFS-Web system for filing patent applications. The PTO requires not only the use of [Firefox][] or an older version of [Safari][] instead of [Chrome][], but also [Java][] running in unsafe mode. Fortunately, their system still works in [Windows 7][windows-7] on that backup PC.
+My Mac's just been upgraded to [OS X 10.10 Yosemite][macos], somewhat regrettably. The U.S. Patent and Trademark Office is as behind the times as you'd imagine a government office would be, and the upgrade has broken my ability to access their EFS-Web system for filing patent applications. The PTO requires not only the use of [Firefox][] or an older version of [Safari][] instead of [Chrome][], but also [Java][] running in unsafe mode. Fortunately, their system still works in [Windows 7][windows-7] on that backup PC.
 
 The tablet and cellphone are both running [Android][], 4.4.4 Kit Kat and 4.1.1 Jelly Bean, respectively. [Microsoft Word][word] is what I use for writing on the Mac, and on the tablet, there's [Google Docs][google-docs]. I suppose if I'd gone all in on Apple, I'd use more of the native software on my Mac, but I'm pretty deep into the Googleverse instead.
 

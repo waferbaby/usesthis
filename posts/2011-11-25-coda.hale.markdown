@@ -16,7 +16,7 @@ I'm the infrastructure architect at [Yammer][], where I write a lot of [Java][] 
 
 ### What hardware do you use?
 
-I've got a [MacBook Pro][macbook-pro] running [Lion][mac-os-x] because I'm super original. Every two or three years, I fliff out enough for a top-of-the-line MBP, so right now I've got 8GB of RAM, four i7 cores, and a big ol' SSD. It's easily the fastest computer I've ever had. An [iPhone 4][iphone-4] and a [Time Capsule][time-capsule] in the closet rounds out the computational hardware.
+I've got a [MacBook Pro][macbook-pro] running [Lion][macos] because I'm super original. Every two or three years, I fliff out enough for a top-of-the-line MBP, so right now I've got 8GB of RAM, four i7 cores, and a big ol' SSD. It's easily the fastest computer I've ever had. An [iPhone 4][iphone-4] and a [Time Capsule][time-capsule] in the closet rounds out the computational hardware.
 
 I started out a die-hard overclocking modding build-it-myselfer, but as time passes I find myself giving less and less fucks about the actual hardware. I don't even have stickers on my laptop at this point. Should I find myself with some money burning a hole in my pocket, I'd probably bump the 'book up to 16GB of RAM.
 

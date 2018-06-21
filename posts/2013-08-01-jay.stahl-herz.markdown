@@ -35,4 +35,4 @@ As for computers, I've used a lot of the different pathology software packages o
 
 I think it would be entirely possible to roll all the disparate bits of software into one monolithic program and that's an eventual goal with CMS. It really is a PITA at the moment using so many different pieces of software daily. 
 
-I'd also like to use [OS X][mac-os-x] and [LibreOffice][] at work but you can always dream.
+I'd also like to use [OS X][macos] and [LibreOffice][] at work but you can always dream.

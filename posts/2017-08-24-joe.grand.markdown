@@ -28,7 +28,7 @@ For rapid prototyping and desktop manufacturing, I employ two main tools: A [T- 
 
 ### And what software?
 
-My primary operating system is [macOS][mac-os-x] and I use the standard complement of provided applications, most often [Mail][], [Keynote][], [Pages][], [Numbers][], and [TextEdit][]. I like staying in the native environment as much as possible, but use [VMware Fusion][vmware-fusion] to run Windows and [Ubuntu][] when I need a sandbox to play in or to work with engineering software not supported by macOS.
+My primary operating system is [macOS][] and I use the standard complement of provided applications, most often [Mail][], [Keynote][], [Pages][], [Numbers][], and [TextEdit][]. I like staying in the native environment as much as possible, but use [VMware Fusion][vmware-fusion] to run Windows and [Ubuntu][] when I need a sandbox to play in or to work with engineering software not supported by macOS.
 
 I'm the most efficient when I focus on one task at a time, so I use [Things][] to keep my to-do lists in order and to help plan my day.
 

@@ -20,7 +20,7 @@ I've got an [iPhone 6][iphone-6], which I think is a bit too large and fragile; 
 
 ### And what software?
 
-I use a pretty bone-stock [Mac OS][mac-os-x]. For the vast majority of my day-to-day work, I use [iTerm][iterm2], [Visual Studio Code][visual-studio-code], and [Chrome][]. I also use [Homebrew][] and [Homebrew Cask][homebrew-cask] to manage my applications; [Dropbox][] to manage some of my files; [f.lux][] to let me sleep at night; [SizeUp][] to move my windows around; and [Spotify][] and SoundCloud to listen to music. Finally, I owe [DigitalOcean][] and [Terraform][] a debt of gratitude: they're my one-two punch when I need more compute power for testing, benchmarking, or demos.
+I use a pretty bone-stock [Mac OS][macos]. For the vast majority of my day-to-day work, I use [iTerm][iterm2], [Visual Studio Code][visual-studio-code], and [Chrome][]. I also use [Homebrew][] and [Homebrew Cask][homebrew-cask] to manage my applications; [Dropbox][] to manage some of my files; [f.lux][] to let me sleep at night; [SizeUp][] to move my windows around; and [Spotify][] and SoundCloud to listen to music. Finally, I owe [DigitalOcean][] and [Terraform][] a debt of gratitude: they're my one-two punch when I need more compute power for testing, benchmarking, or demos.
 
 ### What would be your dream setup?
 

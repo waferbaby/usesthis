@@ -17,7 +17,7 @@ Depends on what I am making. My laptop is probably my most used hardware -- it's
 
 #### And what software?
 
-I use mostly FLOSS/FOSS software on [Ubuntu][] -- I have a love/hate relationship with [GIMP][] and [Inkscape][]. I really had to relearn how to do everything when I switched from [OS X][mac-os-x] 12 years ago. I really found it horrible and painful when I was used to everything Adobe.
+I use mostly FLOSS/FOSS software on [Ubuntu][] -- I have a love/hate relationship with [GIMP][] and [Inkscape][]. I really had to relearn how to do everything when I switched from [OS X][macos] 12 years ago. I really found it horrible and painful when I was used to everything Adobe.
 
 #### What would be your dream setup?
 

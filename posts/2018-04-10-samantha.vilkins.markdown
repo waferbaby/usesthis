@@ -45,7 +45,7 @@ As a baseline, my vital organs are hooked into the Google ecosystem --- 16 separ
 
 I use [Papers][] for research and references, but only because it actively frustrates me the least out of the options.
 
-I use the [macOS][mac-os-x] [Mail][] app to deal with my 4+ regular email addresses and I would love to upgrade to something nicer but absolutely everything else has failed me, so here we still are.
+I use the [macOS][] [Mail][] app to deal with my 4+ regular email addresses and I would love to upgrade to something nicer but absolutely everything else has failed me, so here we still are.
 
 I use [Tweetbot][] because [TweetDeck][] crossed me one too many times.
 

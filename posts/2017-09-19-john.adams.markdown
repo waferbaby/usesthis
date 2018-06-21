@@ -94,7 +94,7 @@ I nearly always carry the following: A pair of [Ultimate Audio UE-7 headphones][
 
 Daily software / security work:
 
-[Emacs][] (yes, still), [gcc][], [OpenOCD][], [Burp][] proxy, [Metasploit][], [Kali Linux][kali], [macOS][mac-os-x], nmap, [Wireshark][], tcpdump, etc. 
+[Emacs][] (yes, still), [gcc][], [OpenOCD][], [Burp][] proxy, [Metasploit][], [Kali Linux][kali], [macOS][], nmap, [Wireshark][], tcpdump, etc. 
 
 Music:
 

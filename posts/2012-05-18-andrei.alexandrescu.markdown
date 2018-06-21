@@ -14,7 +14,7 @@ I'm Andrei Alexandrescu (I know! no-win name) and work as a Research Scientist a
 
 ### What hardware do you use?
 
-My work machine is a 13-inch [MacBook Pro][macbook-pro] (8GB RAM, 256GB SSD) running [OS X Lion][mac-os-x]. While at my desk I connect it to a [30-inch Dell monitor][ultrasharp-u3011]. When I started working for Facebook (I work from home) my manager asked me what monitor I have. I told him I already had a 26-inch Soyo that serves me well. He was like, 'A larger monitor means you're more productive. I'm FedEx-ing you one. Don't feel flattered, it's just good business.' Since then the Soyo does little else than collecting dust.
+My work machine is a 13-inch [MacBook Pro][macbook-pro] (8GB RAM, 256GB SSD) running [OS X Lion][macos]. While at my desk I connect it to a [30-inch Dell monitor][ultrasharp-u3011]. When I started working for Facebook (I work from home) my manager asked me what monitor I have. I told him I already had a 26-inch Soyo that serves me well. He was like, 'A larger monitor means you're more productive. I'm FedEx-ing you one. Don't feel flattered, it's just good business.' Since then the Soyo does little else than collecting dust.
 
 When at the desk I also connect a stock Apple [flat keyboard][keyboard]. I tried a few others, including Microsoft's Digital Media Pro 1031 wireless keyboard. The meta keys don't match the Mac all that well, so I gave up on that. Finally I use a [Logitech M510][m510] wireless mouse.
 

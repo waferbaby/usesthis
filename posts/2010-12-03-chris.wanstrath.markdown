@@ -39,7 +39,7 @@ For version control I use [git][] on the command line and through [magit][], whi
 
 My files gets backed up to S3 using [Arq][], my computer screen doesn't dim unless I want it to thanks to [Caffeine][], and I take pictures of myself all the time with [Photo Booth][photo-booth]. Not because I'm vain (though there is that), but because I proudly subscribe to [Stunners of the Month](http://stunnerofthemonth.com/ "A sunglasses club.") and like to photograph each new pair I receive.
 
-The very first piece of non-Apple software I bought for [OS X][mac-os-x] was [LaunchBar][] back in 2005 and I haven't stopped using it since.
+The very first piece of non-Apple software I bought for [OS X][macos] was [LaunchBar][] back in 2005 and I haven't stopped using it since.
 
 For basic image manipulation I use [Acorn][] and for basic "todo" stuff I use [Things][]. But only the Inbox, and mainly for their superb "Quick Entry" feature.
 

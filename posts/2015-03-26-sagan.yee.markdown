@@ -15,7 +15,7 @@ Currently I run [Game Curious](http://handeyesociety.com/game-curious/ "Sagan's 
 
 ### What hardware do you use?
 
-Since 2010, I've done everything on a [15" MacBook Pro][macbook-pro] running [OS X 10.6.8 Snow Leopard][mac-os-x]. I will update my tech based on the needs of the project, but otherwise I'm pretty resistant to change. Case in point: I was still using a flip phone in 2013.
+Since 2010, I've done everything on a [15" MacBook Pro][macbook-pro] running [OS X 10.6.8 Snow Leopard][macos]. I will update my tech based on the needs of the project, but otherwise I'm pretty resistant to change. Case in point: I was still using a flip phone in 2013.
 
 As a digital animator, I rock a [Wacom Intuos 4][intuos] for all my artistic needs. For backups, I had brick-like Seagates for a while, but lately I've been looking to get another [Western Digital Passport][my-passport-ultra] since they're so light and portable.
 

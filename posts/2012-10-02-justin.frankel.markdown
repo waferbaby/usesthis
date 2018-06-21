@@ -32,7 +32,7 @@ Finally, I end up doing a good deal of busy work on my [iPhone 4S][iphone-4s] --
 
 **Operating Systems:**
 
-I use [Windows 7][windows-7] and [OS X 10.6][mac-os-x] most of the time. 
+I use [Windows 7][windows-7] and [OS X 10.6][macos] most of the time. 
 
 I generally prefer to use Windows, and my practice for running things is to hit the start button on the keyboard, and type things that I will expect to find in the start menu. I also use Start+R, then type "cmd" to launch a command prompt, "ssh \<host\>" to run [PuTTY][putty] (which I have in my path named as ssh.exe, etc), or just a URL.
 

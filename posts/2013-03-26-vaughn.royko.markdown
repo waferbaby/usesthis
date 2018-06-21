@@ -27,6 +27,6 @@ Besides all that normal stuff, I have come to swear by [Google Docs][google-docs
 
 ### What would be your dream setup?
 
-My dream setup would involve a very long desk where I would have a large array monitors and computers (maybe laptops and tablets as well?) - possibly all booted up at the same time, depending on what I am doing. Probably with a mix of operating systems such as [Windows 7][windows-7], [OS X Mountain Lion][mac-os-x] and possibly [Ubuntu][] so I can easily test across platforms without virtual machines or dual booting.
+My dream setup would involve a very long desk where I would have a large array monitors and computers (maybe laptops and tablets as well?) - possibly all booted up at the same time, depending on what I am doing. Probably with a mix of operating systems such as [Windows 7][windows-7], [OS X Mountain Lion][macos] and possibly [Ubuntu][] so I can easily test across platforms without virtual machines or dual booting.
 
 Also, I need one of those stand-up, commercial-grade coffee makers beside me - Starbucks branded preferred. Actually, scratch all that, just the coffee maker will be good.

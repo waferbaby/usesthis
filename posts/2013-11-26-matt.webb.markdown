@@ -41,7 +41,7 @@ But either software's harder than it was, apps and applications are less open to
 
 It disappoints me that [Excel][] hasn't learnt from Python and [Github][] and become a great environment for coding and modelling. It's sad that there's no plain text backend for [Twitter][], [Foursquare][] and everything else I use. It's annoying that [Aperture][] owns all of my photos, and there's no IMAP-like protocol for keeping my photos in the cloud forever, being able to hop between applications and code my own custom views and actions against an API.
 
-I cut my teeth on the open web of the early 2000s. It was APIs, and mashups. [Mac OS X][mac-os-x] turned my laptop into a web server and coding machine, just the same as where I hosted the toys and tools that I wrote. This is what the future was going to be like.
+I cut my teeth on the open web of the early 2000s. It was APIs, and mashups. [Mac OS X][macos] turned my laptop into a web server and coding machine, just the same as where I hosted the toys and tools that I wrote. This is what the future was going to be like.
 
 And then it didn't happen. Code is fragile because APIs keep changing and nobody cares about scripting anymore. There are no text and image file formats anymore, practically speaking, because there's no file interchange. Once photos are on Instagram, that's it.
 

@@ -21,7 +21,7 @@ I also do some freelance design work. Nothing that's worth mentioning.
 
 ### What hardware do you use?
 
-I'm mostly working on a custom built Windows computer. It's not the monster I would like it to be, but it's more than enough for what I'm doing. Additionally I own a second-hand [MacBook Pro][macbook-pro] (13 inch) from 2011. You need some kind of [OS X][mac-os-x] machine in order to submit apps to the [Apple App Store][app-store] -- and it's useful to have something portable. Right now I'm in Israel for a few months and I'm only using this Macbook. I have a (second hand, buy second hand, people!) [iPhone 5s][iphone-5s] as my phone and testing device.
+I'm mostly working on a custom built Windows computer. It's not the monster I would like it to be, but it's more than enough for what I'm doing. Additionally I own a second-hand [MacBook Pro][macbook-pro] (13 inch) from 2011. You need some kind of [OS X][macos] machine in order to submit apps to the [Apple App Store][app-store] -- and it's useful to have something portable. Right now I'm in Israel for a few months and I'm only using this Macbook. I have a (second hand, buy second hand, people!) [iPhone 5s][iphone-5s] as my phone and testing device.
 
 I also use a [Wacom Intuos][intuos] (aprox. A4), though I'll be changing to a [Cintiq][] soon, I hope.
 

@@ -32,7 +32,7 @@ As for other hardware, I use a [Fujifilm X-A1][x-a1] for photographs, and wear a
 
 ### And what software?
 
-Operating systems I used today are [OS X][mac-os-x] for the Macbooks, and Linux and [FreeBSD][] for servers. I was doing a lot with [Solaris][], [OpenSolaris][], and [SmartOS][], but not anymore. 
+Operating systems I used today are [OS X][macos] for the Macbooks, and Linux and [FreeBSD][] for servers. I was doing a lot with [Solaris][], [OpenSolaris][], and [SmartOS][], but not anymore. 
 
 On my Macbook I usually have [Activity Monitor][activity-monitor] running to keep an eye on CPU resources, and [Temperature Monitor][temperature-monitor] Lite to keep an eye on GPU utilization, inferred by its temperature. Temperature Monitor Lite stopped working for the recent versions of OS X, so I've been figuring out GPU utilization by touching above the 1 and 2 keys and feeling the temperature.
 

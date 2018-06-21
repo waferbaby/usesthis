@@ -31,7 +31,7 @@ And under the TV: most modern games consoles, although I don't own a [PS3][], an
 
 ### And what software?
 
-You know all the stuff people who make stuff on the web use on [OSX][mac-os-x]? I use that. Browsers, [NetNewsWire][], [iTunes][], [Textmate][], things like [Office][] and [iWork][], [Adium][], and [Twitter][].
+You know all the stuff people who make stuff on the web use on [OSX][macos]? I use that. Browsers, [NetNewsWire][], [iTunes][], [Textmate][], things like [Office][] and [iWork][], [Adium][], and [Twitter][].
 
 It's the diversions from the norm that are interesting. I like [Mailplane][] for mail, because it handles multiple accounts well and has lovely keyboard shortcuts. [MarsEdit][] makes posting to blogs easy.
 

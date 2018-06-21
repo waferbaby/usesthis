@@ -33,7 +33,7 @@ I can't say enough good things about [DropBox][]. It completed changed the way I
 
 [iTunes][] is my music player of choice, though I'm using [lala.com][lala] more and more lately. I use [Adium][], which is hands down the best IM client on any platform. For web browsing I use [Google Chrome][chrome] most of the time, though I still do open up [Safari][] occasionally. 
 
-And, because [Mac OS X][mac-os-x] is such a goldmine for beautiful independent apps, here are a few I can't live without: [Billings][] for time tracking and invoicing, [CandyBar][] for icon management and customization, [ExpanDrive][] for SFTP, [Scrivener][] for writing, and [OmniFocus][] for task tracking. As far as games go, I need not look further than Jeff Vogel's brilliantly plotted and Mac-native [Avernum][] games, Ambrosia's [Escape Velocity][escape-velocity-nova], [Zoom][] for interactive fiction, and yes, even a little [Dwarf Fortress][dwarf-fortress] from time to time.
+And, because [Mac OS X][macos] is such a goldmine for beautiful independent apps, here are a few I can't live without: [Billings][] for time tracking and invoicing, [CandyBar][] for icon management and customization, [ExpanDrive][] for SFTP, [Scrivener][] for writing, and [OmniFocus][] for task tracking. As far as games go, I need not look further than Jeff Vogel's brilliantly plotted and Mac-native [Avernum][] games, Ambrosia's [Escape Velocity][escape-velocity-nova], [Zoom][] for interactive fiction, and yes, even a little [Dwarf Fortress][dwarf-fortress] from time to time.
 
 ### What would be your dream setup?
 

@@ -22,7 +22,7 @@ I'm co-founder and CTO of [Keyboardio](http://www.keyboard.io/ "Jesse's keyboard
 
 Right now, I'm typing this on my prototype Keyboardio Model 01 keyboard. It features a split layout that echos how your fingers actually move, mechanical keyswitches and a CNC-milled hardwood enclosure.
 
-My primary computer these days is a late-2013 Core i5 [Retina MacBook Pro][macbook-pro] with 16 gigs of ram and 500 gigs of SSD. Primarily, it runs [OS X][mac-os-x], though for reasons I'll get into later, I've got [Boot Camp][boot-camp] set up with [Windows 8.1][windows-8] as well. The SD slot on the MacBook is cute little[ 64GB Transcend JetDrive Lite][jetdrive-lite] with an [Ubuntu 14.10][ubuntu] install.
+My primary computer these days is a late-2013 Core i5 [Retina MacBook Pro][macbook-pro] with 16 gigs of ram and 500 gigs of SSD. Primarily, it runs [OS X][macos], though for reasons I'll get into later, I've got [Boot Camp][boot-camp] set up with [Windows 8.1][windows-8] as well. The SD slot on the MacBook is cute little[ 64GB Transcend JetDrive Lite][jetdrive-lite] with an [Ubuntu 14.10][ubuntu] install.
 
 When I'm working at a table or desk, the laptop is perched on a [Roost][] laptop stand. The Roost keeps my laptop screen at eye-height. It's laser-cut from carbon fiber and folds down to almost nothing. Combined with the keyboard in my lap, I've got a reasonably ergonomic setup that fits in my laptop bag and takes less than a minute to set up in a cafe.
 

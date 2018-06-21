@@ -21,7 +21,7 @@ I'm using a [13" MacBook Pro][macbook-pro] with 2.66 GHz Intel Core Duo, and the
 
 ### And what software?
 
-The Mac runs [OS X Snow Leopard][mac-os-x] (with [MacPorts][]) and [Windows XP SP2][windows-xp] (with [Cygwin][]). When compiling on the Mac, I use a [Makefile][make] with [gcc][] and sometimes [scons][]. I use [emacs][] as my IDE, splitting the editor in half and having [eshell][] in the top window to run the Makefile. I will also compile in [Xcode][], [Code::Blocks][codeblocks], and [Visual Studio][visual-studio] depending on the project.
+The Mac runs [OS X Snow Leopard][macos] (with [MacPorts][]) and [Windows XP SP2][windows-xp] (with [Cygwin][]). When compiling on the Mac, I use a [Makefile][make] with [gcc][] and sometimes [scons][]. I use [emacs][] as my IDE, splitting the editor in half and having [eshell][] in the top window to run the Makefile. I will also compile in [Xcode][], [Code::Blocks][codeblocks], and [Visual Studio][visual-studio] depending on the project.
 
 For version control, I use [git][] and [svn][subversion]. For general shell scripting, I choose [Python][]. For server-side scripting, I choose [PHP][]. I do [software art](http://en.wikipedia.org/wiki/Software_art "The Wikipedia entry for Software Art.") using boilerplates like [jttoolkit][], [OpenFrameworks][], [Processing][], and [Cinder][]. In [C++][c-plusplus], I prefer the GUI toolkit [wxWidgets][].
 
