@@ -30,7 +30,7 @@ I like hardware.
 
 ### And what software?
 
-[Google Apps][google-apps], [Slack][], Dropbox, [Adobe Creative Cloud][creative-cloud], [1Password][] and [Xero][] run all the day to day stuff, nothing new there. [Basecamp][] runs most of our projects, and it's all hooked up to a custom [Filemaker Pro][filemaker-pro] setup which we have been delicately maintaining and developing like a bonsai for the last ten years. We also have a suite of custom-made web apps that we use - some built into our [WordPress][] setup, some totally bespoke. It's all held together with various APIs and plugins so that everything talks to each other, which is really nifty.
+[Google Apps][g-suite], [Slack][], Dropbox, [Adobe Creative Cloud][creative-cloud], [1Password][] and [Xero][] run all the day to day stuff, nothing new there. [Basecamp][] runs most of our projects, and it's all hooked up to a custom [Filemaker Pro][filemaker-pro] setup which we have been delicately maintaining and developing like a bonsai for the last ten years. We also have a suite of custom-made web apps that we use - some built into our [WordPress][] setup, some totally bespoke. It's all held together with various APIs and plugins so that everything talks to each other, which is really nifty.
 
 Our podcast is recorded with [Zencastr][], which is amazing for connecting our New York and Melbourne Offices, using [Zoom][zoom.2] for video meetings. We use [Envoy][] at our reception desk to announce visitors and handle couriers. 
 

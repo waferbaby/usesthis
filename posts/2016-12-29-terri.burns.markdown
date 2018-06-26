@@ -19,7 +19,7 @@ I have two MacBooks -- an [Air][macbook-air] and a [Pro][macbook-pro]. I don't t
 
 ### And what software?
 
-I mostly use every product on the [G Suite][google-apps] a ton, except for [Google Plus][google-plus] and [Google Sites][google-sites]. I use [Twitter][]/[TweetDeck][], almost just as much. I [Snapchat][snapchat-ios] a lot, too. (Wow, I sound like such an obnoxious Millennial.) I also love [vim][] as my text editor, [Signal][signal-ios] to send encrypted messages, [Spotify][spotify-ios] for my music, and [Dark Sky][dark-sky-ios] so I can obsessively check the weather. 
+I mostly use every product on the [G Suite][g-suite] a ton, except for [Google Plus][google-plus] and [Google Sites][google-sites]. I use [Twitter][]/[TweetDeck][], almost just as much. I [Snapchat][snapchat-ios] a lot, too. (Wow, I sound like such an obnoxious Millennial.) I also love [vim][] as my text editor, [Signal][signal-ios] to send encrypted messages, [Spotify][spotify-ios] for my music, and [Dark Sky][dark-sky-ios] so I can obsessively check the weather. 
 
 ### What would be your dream setup?
 

@@ -47,7 +47,7 @@ On the iPhone I mostly use [iMessage][] and the [Twitter app][twitter-ios].
 
 On the iPad I mostly practice with [Duolingo][duolingo-ios] and play [ReRave][rerave-ios].
 
-I use a few web services, though I'm generally replacing them with equivalent desktop apps, or copies that I run on my own servers. I run a Jabber server with [ejabberd][], and will soon have a full replacement for [Google Apps][google-apps], which I've used over the last few years. [Twitter][] and Duolingo are the two largest that I use right now that I don't have a good replacement for. I enjoy [GitHub][], but could live without it.
+I use a few web services, though I'm generally replacing them with equivalent desktop apps, or copies that I run on my own servers. I run a Jabber server with [ejabberd][], and will soon have a full replacement for [Google Apps][g-suite], which I've used over the last few years. [Twitter][] and Duolingo are the two largest that I use right now that I don't have a good replacement for. I enjoy [GitHub][], but could live without it.
 
 In general, I don't tweak my configuration files.
 

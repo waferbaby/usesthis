@@ -29,7 +29,7 @@ I read a lot and I am a huge fan of the Kindle as an e-reader. I have owned one 
 
 ### And what software?
 
-My life runs out of a combination of [G Suite][google-apps], [Postbox][], [Remember The Milk][remember-the-milk], [1Password][], and [Evernote][].
+My life runs out of a combination of [G Suite][g-suite], [Postbox][], [Remember The Milk][remember-the-milk], [1Password][], and [Evernote][].
 
 I have multiple [Chrome][] profiles for different purposes and usually have way too many tabs open at a time.
 

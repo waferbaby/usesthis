@@ -44,7 +44,7 @@ I'm also a runner. For headphones that won't come out, I recommend Sony's [MDR-A
 
 ### And what software?
 
-For my day-to-day software, it's pretty much [Chrome][] and the web. In 2009 I set myself a [30 day challenge to stop using Microsoft software completely](http://www.mattcutts.com/blog/30-days-no-microsoft-software/ "Matt's article on his 30 day challenge."), and after that challenge, [Word][] and other Windows software isn't really appealing. Day to day, I use Linux, Chrome, [Chrome OS][chrome-os], and [Google Apps][google-apps] to get all my work done. I use [Google Authenticator][google-authenticator-android] and [two-factor authentication](https://support.google.com/accounts/answer/180744?hl=en "Details about Google's two-factor authentication.") to make my Google accounts more secure.
+For my day-to-day software, it's pretty much [Chrome][] and the web. In 2009 I set myself a [30 day challenge to stop using Microsoft software completely](http://www.mattcutts.com/blog/30-days-no-microsoft-software/ "Matt's article on his 30 day challenge."), and after that challenge, [Word][] and other Windows software isn't really appealing. Day to day, I use Linux, Chrome, [Chrome OS][chrome-os], and [Google Apps][g-suite] to get all my work done. I use [Google Authenticator][google-authenticator-android] and [two-factor authentication](https://support.google.com/accounts/answer/180744?hl=en "Details about Google's two-factor authentication.") to make my Google accounts more secure.
 
 If I need to edit or write a tiny program, [vim][] and [Python][] normally do the trick. For photo editing I use [GIMP][], and if I need something deeper, my wife has a Mac with [Photoshop][], [Illustrator][], and software to make movies and burn DVDs.
 

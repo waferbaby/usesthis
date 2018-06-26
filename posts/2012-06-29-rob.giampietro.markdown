@@ -21,7 +21,7 @@ I use 3-4 Bigso Stockholm Letter Boxes (Graphite) each year for the beautiful pa
 
 ### And what software?
 
-[Fluid][] runs a lot of the things in my dock, including [Google Apps][google-apps] for work, [Gmail][] for life, [Google Calendar][google-calendar], [Basecamp][], and lesser-used things like [Pandora][] and [Tumblr][]. I also wish it played a little nicer with [1Password][], which is otherwise also fantastic. Hopefully people are working on this. 
+[Fluid][] runs a lot of the things in my dock, including [Google Apps][g-suite] for work, [Gmail][] for life, [Google Calendar][google-calendar], [Basecamp][], and lesser-used things like [Pandora][] and [Tumblr][]. I also wish it played a little nicer with [1Password][], which is otherwise also fantastic. Hopefully people are working on this. 
 
 I do my browsing in [Chrome][] with a side of [Safari][], and I monitor feeds in [Google Reader][google-reader]. A friend and I recently swapped feed subscriptions and pruned each others' reading lists. He shared the idea of downloading [NetNewsWire][] for all my "Saturday" feeds, cooking and style blogs and the like -- I followed his advice and now enjoy my Saturday morning blog-a-palooza, it's like a bonus section of the weekend paper. We do something similar with "internet hour" on Monday nights with the Apple TV, watching Vimeo and YouTube clips that have piled up during the week. Time-shifting: it's the future.
 

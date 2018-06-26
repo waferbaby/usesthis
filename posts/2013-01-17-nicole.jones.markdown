@@ -39,7 +39,7 @@ When I'm surfing, I ride a custom two-toned [9'1" Almond Lumberjack](http://life
 
 My personal machine runs [Mac OS X Lion][macos]; my work machine's on Mountain Lion now. I'm still struggling to accept the junk Apple keeps adding to OS X. I worked there for five years, so I'm trying to keep the faith...
 
-[Dropbox][] syncs my files across my different Apple devices. [iCloud][] takes care of my contacts and notes. I use a couple of accounts from [Google][google-apps] for mail, calendars, and sharing docs. I read and reply to email in [Apple Mail][mail].
+[Dropbox][] syncs my files across my different Apple devices. [iCloud][] takes care of my contacts and notes. I use a couple of accounts from [Google][g-suite] for mail, calendars, and sharing docs. I read and reply to email in [Apple Mail][mail].
 
 For chat, I've moved to using [Facebook Messenger][facebook-messenger-ios] way more than I expected to. I used to rely on [iChat][] (or is it iMessage?), [Colloquy][], and [Skype][] for that, but I'm a total convert with Messenger. It's super fast and lets you switch from mobile to web and back again without a hitch. It helps that most of my friends and all of my coworkers use it, too.
 

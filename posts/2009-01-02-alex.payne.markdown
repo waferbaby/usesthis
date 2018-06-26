@@ -29,7 +29,7 @@ I use [iChat][] for IM and [Twitterrific][] to interact with Twitter. [iCal][] s
 
 I also run some of the usual "power user" Mac enhancements: [TextExpander][] to make emails go faster, [LaunchBar][] to get to what I need quickly and to keep my clipboard history accessible, [Growl][] and [HardwareGrowler][] to get visual notifications from software, and [Caffeine][] to keep my Mac awake while watching web videos and such. I keep tabs on my machine with [iStat pro][istat-pro].
 
-We use [Dropbox][] at Twitter to share documents, and we make pretty extensive use of [Google Apps][google-apps]. We use [Trac][] for ticketing internally, but I keep API-related tickets public on [Google Code](http://code.google.com/p/twitter-api/issues/list "The Twitter API issue list."). We do code reviews with [Review Board][review-board] and browse our [Git][] repositories with [cgit][].
+We use [Dropbox][] at Twitter to share documents, and we make pretty extensive use of [Google Apps][g-suite]. We use [Trac][] for ticketing internally, but I keep API-related tickets public on [Google Code](http://code.google.com/p/twitter-api/issues/list "The Twitter API issue list."). We do code reviews with [Review Board][review-board] and browse our [Git][] repositories with [cgit][].
 
 I've usually got [iTunes][] or [Last.fm][] playing, though lately I've been listening to [Bloom][bloom-ios] play itself when I need to focus. Speaking of focus, I use [Isolator][] to get distractions out of the way. When I need distractions again, I see what's on my [Instapaper][] or [Google Reader][google-reader].
 

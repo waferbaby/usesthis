@@ -42,7 +42,7 @@ The fact that .pdf has replaced paper for 99% of what I do makes not having a ne
 
 [Evernote][] for notes, journaling, and quickie writing like emails and blog posts. I also use it to transcribe what I've scribbled in my red Moleskine. When the notebook fills up, I shelve it and start a new one. Notebooks aren't great for searchability, but they're interesting to browse through years later.
 
-[Apple Mail][mail], [Address Book][address-book], and [iCal][] (synced through [MobileMe][mobile-me] so I can use whichever Apple gadget is closest) form the unified front end for a tangled unholy mess of [Gmail][] accounts, [Google Calendars][google-calendar] and [Google Apps][google-apps]. The sync problems are insidious, never-ending, and drive my assistant and me crazy.
+[Apple Mail][mail], [Address Book][address-book], and [iCal][] (synced through [MobileMe][mobile-me] so I can use whichever Apple gadget is closest) form the unified front end for a tangled unholy mess of [Gmail][] accounts, [Google Calendars][google-calendar] and [Google Apps][g-suite]. The sync problems are insidious, never-ending, and drive my assistant and me crazy.
 
 [Things][] for getting things done. Although the [Allenic](http://www.davidco.com/ "David Allen's website.") ideal of an empty in-box eludes me, I do try to be vigilant about consistently moving action items out of Mail, iCal, Evernote and Moleskine and into Things, so they're all in one place.
 

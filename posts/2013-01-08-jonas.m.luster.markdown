@@ -33,7 +33,7 @@ I write my cooking works and the occasional "that's what it's like to be a chef"
 
 Adobe's [Edge Inspect][edge-inspect] makes developing for the mobile web so much easier for me.
 
-Recently we have started playing with [Google Apps Script][google-apps-script] and [Google Apps][google-apps] to make it easier for local purveyors to connect directly to restaurants. We have a rudimentary prototype running and hope to have, by mid-2013, a system where Farmer Frank can whip out his Nexus 7, scan a crate, and offer it to Chef Corrie who needs precisely what he's selling, twenty miles away. Without middlemen, just middleware.
+Recently we have started playing with [Google Apps Script][google-apps-script] and [Google Apps][g-suite] to make it easier for local purveyors to connect directly to restaurants. We have a rudimentary prototype running and hope to have, by mid-2013, a system where Farmer Frank can whip out his Nexus 7, scan a crate, and offer it to Chef Corrie who needs precisely what he's selling, twenty miles away. Without middlemen, just middleware.
 
 We manage source in-house in Git with an eye on publishing it all in one block into [Github][] as Open Source as soon as we have a working prototype kitchen setup.
 

@@ -32,7 +32,7 @@ I'm trying to carry less and less, so I'm carrying that around in [a small Crump
 
 On my MacBook Air:
 
-I love the new [Adobe Creative Suite][creative-suite]. I'll never be a version late on Photoshop & Illustrator again. I'm using [Coda][] from Panic. I browse in [Chrome][] and test in [Safari][], but this might be the first machine I don't have [Firefox][] on. I use [Apple Keynote][keynote] for presentations and [Google Apps][google-apps]/[Drive][google-drive] for docs, spreadsheets and anything else.
+I love the new [Adobe Creative Suite][creative-suite]. I'll never be a version late on Photoshop & Illustrator again. I'm using [Coda][] from Panic. I browse in [Chrome][] and test in [Safari][], but this might be the first machine I don't have [Firefox][] on. I use [Apple Keynote][keynote] for presentations and [Google Apps][g-suite]/[Drive][google-drive] for docs, spreadsheets and anything else.
 
 Peeking at my taskbar, I run [Dropbox][], [PandaBar][] (a minimal Pandora client), [CloudApp][], [Twitter for Mac][twitter-mac], [Caffeine][], [Alfred][] & [1Password][].
 
