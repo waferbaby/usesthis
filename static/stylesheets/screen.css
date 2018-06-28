@@ -161,15 +161,15 @@ padding-bottom: 10px;
 border-bottom: solid 1px #eee;
 }
 
-nav li {
-display: inline-block;
-margin: 0 10px 0 0;
-padding: 0;
-}
-
 nav ul {
 list-style: none outside;
 margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline-block;
+margin: 0 10px 0 0;
 padding: 0;
 }
 
@@ -225,9 +225,14 @@ font-size: 80%;
 }
 
 ul {
+font-size: 90%;
 list-style: square inside;
 margin: 10px;
 padding: 0;
+}
+
+ul li {
+padding: 5px;
 }
 
 ul.categories,
@@ -241,6 +246,7 @@ margin: 20px 0;
 
 ul.categories li,
 ul.months li {
+padding: 0;
 margin-bottom: 10px;
 }
 
