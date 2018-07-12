@@ -58,6 +58,4 @@ File.open(file_path, 'w') do |file|
   file.write(output)
 end
 
-Dir.chdir(source_path) do
-  `#{editor} . && #{editor} #{file_path}`
-end
+exec("#{editor} #{file_path}")

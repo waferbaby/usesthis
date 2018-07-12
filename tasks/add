@@ -37,4 +37,4 @@ File.open(path, 'w') do |f|
   f.write(entry)
 end
 
-`#{editor} #{path}`
+exec("#{editor} #{path}")
