@@ -48,7 +48,7 @@ At Mountains I use [Slack][], [Trello][], Google Drive, and [Spotify][]. Music p
 
 Being able to create spaces/desktops is super helpful for me. On my external monitor, I have a desktop with my Trello board and a calendar for the day so I can easily see what I’m doing and when. The next monitor desktop is for whatever task I’m currently working on. The laptop monitor is for any other sites I need to support that work. Spotify is always the first, then Slack, then work, and occasionally I’ll have a social media desktop. 
 
-For my personal projects, I’m currently migrating to [Asana][]. It’s a very similar idea to my work set up: different spaces/desktops depending on task, Spotify, calendar, and a notebook. I use the Chrome Extension [Forest][], which is based on the Pomodoro technique and blocks access to any sites that I haven’t whitelisted. It helps me think of what I need going into a task, rather than just diving straight in! 
+For my personal projects, I’m currently migrating to [Asana][]. It’s a very similar idea to my work set up: different spaces/desktops depending on task, Spotify, calendar, and a notebook. I use the [Chrome][] extension [Forest][], which is based on the Pomodoro technique and blocks access to any sites that I haven’t whitelisted. It helps me think of what I need going into a task, rather than just diving straight in! 
 
 #### What would be your dream setup?
 
