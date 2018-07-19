@@ -4,6 +4,7 @@ summary: Twitch broadcaster, illustrator
 categories:
 - illustrator
 - streamer
+- windows
 ---
 
 #### Who are you, and what do you do?
