@@ -2,7 +2,7 @@
 title: Joe Grand
 summary: Computer engineer, hardware hacker
 categories:
-- development
+- developer
 - hacker
 - mac
 - software
