@@ -33,6 +33,6 @@ end
 
 return if links.empty?
 
-contents.gsub!(/\[.+\]: http(.+)\n/, '').strip!
+contents.gsub!(/\[.+\]: http(.+)\n/, '')
 
-File.write(ARGV[0], contents << "\n\n#{links.join}")
+File.write(ARGV[0], contents.strip << "\n\n#{links.join}")
