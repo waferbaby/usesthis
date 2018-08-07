@@ -49,3 +49,23 @@ A waterproof 15 inch Macbook that weighs next to nothing, has infinite battery l
 I'm less concerned with my desktop set up - it gets the job done. I'll probably replace it at some point with a smaller, quieter machine that uses less power. But since it's fast enough, and I have giant monitors plugged into it, I can't really complain. I suppose having a few terabytes of RAM would be nice, for those times when I'm loading in database dumps to experiment with.
 
 I'd like a bigger desk, although I think It would still end up covered in stuff that should be neatly filed away somewhere.
+
+[realforce-105uk]: http://www.keyboardco.com/keyboard_details.asp?PRODUCT=790 "A capacitive keyboard."
+[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mx-518]: https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[irccloud]: https://www.irccloud.com/ "A web-based IRC service."
+[gfxcardstatus]: https://gfx.io/ "A Mac tool for switching between the integrated and dedicated GPUs in recent laptops."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
+[starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
+[macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[bettertouchtool]: https://www.boastr.net/ "Mac software to add custom multi-touch gestures."
+[keyremap4macbook]: https://pqrs.org/osx/karabiner/ "Mac software for remapping the keys of your laptop."
+[kde]: https://www.kde.org/ "A graphical environment for *nix operating systems."
+[last.fm]: https://www.last.fm/ "An online radio/tool for tracking your listening habits."

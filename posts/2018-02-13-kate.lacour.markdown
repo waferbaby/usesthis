@@ -21,3 +21,5 @@ I use [Photoshop][] to make minor tweaks to my scanned artwork. By far, the most
 #### What would be your dream setup?
 
 I finally have my ideal physical setup - a tiny desk, an iPad, an expensive paintbrush, a quiet little room for art making. I'm also lucky enough to have a nice little suburban house, two children and a full-time job. My dream would be having a babysitter or housekeeper to cover for me while I make more art.
+
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -22,4 +22,24 @@ Because I work remotely, I have to print, sign and scan a lot of paperwork for c
 
 ### What would be your dream setup?
 
-I dream of working on a handcrafted maple wood desk, with an amazing view, and a [Seiki 39" 4K Display][se39uy04], [MacBook Pro 17"][macbook-pro], [Bose Companion 2 Series III][companion-2] (speakers) constantly blasting my favorite music from Mideast Tunes, and a [Logitech G602 wireless gaming mouse][g602] that refuses to die on me. I do my best work in complete silence, so the desk will be on an isolated treehouse where no one (except for my partner) is allowed to trespass. Those who do will be immediately and mercilessly devoured by albino squirrels. 
+I dream of working on a handcrafted maple wood desk, with an amazing view, and a [Seiki 39" 4K Display][se39uy04], [MacBook Pro 17"][macbook-pro], [Bose Companion 2 Series III][companion-2] (speakers) constantly blasting my favorite music from Mideast Tunes, and a [Logitech G602 wireless gaming mouse][g602] that refuses to die on me. I do my best work in complete silence, so the desk will be on an isolated treehouse where no one (except for my partner) is allowed to trespass. Those who do will be immediately and mercilessly devoured by albino squirrels.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[nexus-6]: http://www.google.com/nexus/6/ "A large Android phone/tablet."
+[galaxy-s4]: http://www.samsung.com/global/microsite/galaxys4/ "A 5 inch Android smartphone."
+[g602]: https://gaming.logitech.com/en-us/product/g602-wireless-gaming-mouse "A wireless mouse."
+[se39uy04]: https://www.amazon.com/Seiki-SE39UY04-39-Inch-Ultra-Discontinued/dp/B00DOPGO2G "A 39 inch 4K TV."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[companion-2]: https://www.bose.com/en_us/products/speakers/stereo_speakers/companion-2-series-iii-multimedia-speaker-system.html "Multimedia speakers."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[slack]: https://slack.com/ "A collaboration service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[mideast-tunes]: https://mideastunes.com/ "A music platform for underground artists from the Middle East and North Africa."
+[crowdvoice]: http://crowdvoice.org/ "A service for tracking protest data around the world."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[vlc]: http://www.videolan.org/vlc/ "An open-source media player."
+[basecamp]: https://basecamp.com/ "Web-based project management."

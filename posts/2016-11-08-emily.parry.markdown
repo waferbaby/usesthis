@@ -29,3 +29,8 @@ For some stuff, my boyfriend and I played around with a tool to help convert ima
 A whole craft room, with amazing lighting and a super comfy chair. Is that too much to ask for? Software-wise, I'd like something to help make drawing cross-stitch easier - the vast majority of the software I played with was older or quite complex, whereas I'd love to be able to use something like [Sketch][] and then export for cross-stitch.
 
 I would love something that turns a photo into a properly detailed stitch pattern - all the ones I've found you kinda have to squint and look sideways at the pattern and then it _somewhat_ resembles your photo.
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[stitch-fiddle]: https://www.stitchfiddle.com/en "A web-based cross-stitch pattern generator."
+[buildkite]: https://buildkite.com/ "A continuous integration developer service."

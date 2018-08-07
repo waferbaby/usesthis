@@ -46,3 +46,19 @@ I also use [Philips Hue bulbs][hue] for my main lighting - I turn off all my oth
 Ideally, a way bigger room - I feel like most people in Brooklyn would say that. I'd love to have my own apartment with another bedroom to use as an office and studio space, with great natural lighting and room for a larger desk as well as storage for my paints, markers, and paper. With a larger room, I'd also have space for a printer with high-quality color to produce my own prints and easy shipping labels. Finally, I'd love to have a more lightweight MacBook Pro, since this 2010 one is pretty heavy to carry around to coffee shops!
 
 If I could have the creative hustle and community of NYC combined with some sunshine and mountains outside my window, that would be my ultimate dream. I adore mountains. I'll have to keep exploring for a place like that!
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
+[hue]: https://www2.meethue.com/en-us/ "A wireless controllable LED light system."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[stitch-fix]: https://www.stitchfix.com/ "A personal clothes styling service."
+[spark.2]: https://sparkmailapp.com "A Mac email client."
+[simplenote]: https://simplenote.com/ "A note-taking/syncing service."
+[safari-ios]: https://en.wikipedia.org/wiki/Safari_(web_browser)#iOS-specific_features "A web browser included with iOS."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

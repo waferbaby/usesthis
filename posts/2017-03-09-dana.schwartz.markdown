@@ -22,4 +22,15 @@ The [Twitter app][twitter-ios]: constantly, obsessively, to my detriment. I used
 
 ### What would be your dream setup?
 
-A giant, very neat, gorgeous desk with fresh flowers and a notebook and a black pen that you don't have to press too hard and doesn't bleed through the page. And a laptop that's not connected to the internet. And my phone very far away, in the other room, which will only ding if someone _really_ cool texts me. And a nice view. 
+A giant, very neat, gorgeous desk with fresh flowers and a notebook and a black pen that you don't have to press too hard and doesn't bleed through the page. And a laptop that's not connected to the internet. And my phone very far away, in the other room, which will only ding if someone _really_ cool texts me. And a nice view.
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[freewrite]: https://getfreewrite.com/ "A distraction-free smart typewriter."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[word]: https://products.office.com/en-us/word "A document editor."

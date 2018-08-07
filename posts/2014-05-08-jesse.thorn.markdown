@@ -35,3 +35,17 @@ I use [Excel][] for budgeting and stuff, and an ancient version of [Photoshop][]
 ### What would be your dream setup?
 
 I guess just the new version of all of those things? But maybe it has less cables? Cables are annoying and ugly. And if there was an ergonomic keyboard that was also click-y, I would like that.
+
+[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[onyx-1220]: http://www.mackie.com/products/discontinued/onyx1220/index.html "An analog mixer."
+[k-01]: https://en.wikipedia.org/wiki/Pentax_K-01 "A 16.28 megapixel mirrorless digital camera."
+[podcaster]: http://www.rodemic.com/microphones/podcaster "A USB microphone."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[cool-edit]: https://en.wikipedia.org/wiki/Adobe_Audition "Digital audio creation software."
+[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
+[windows-phone]: https://en.wikipedia.org/wiki/Windows_Phone "A mobile operating system."
+[wordperfect]: https://en.wikipedia.org/wiki/WordPerfect "A word processor."

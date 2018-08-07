@@ -33,3 +33,18 @@ Most of my screen time is spent in a terminal emulator, [Emacs][], and [Firefox]
 I'd replace the userspace drive on my PC with an SSD. Then I'd set up three 2560x1600 flatscreens (Dell UltraSharps or [NEC PA301Ws][pa301w] or the like) in a wraparound rack - I'd like even more pixels if I could get them.
 
 I'd also like to have an Android 4.0 phone, and expect to get one within a few months.
+
+[g2]: https://en.wikipedia.org/wiki/LG_G2 "An Android smartphone."
+[trackman-marble]: https://www.logitech.com/en-us/product/trackman-marble "A trackball."
+[thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
+[syncmaster-1100df]: https://www.amazon.com/Samsung-SyncMaster-1100DF-Monitor-Black/dp/B0000B0SNW "A 21 inch CRT monitor."
+[model-m]: https://en.wikipedia.org/wiki/Model_M_keyboard "A keyboard."
+[pa301w]: https://www.necdisplay.com/p/desktop-monitors/pa301w-bk?type=support "A 30 inch widescreen monitor."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[unity.2]: http://unity.ubuntu.com/projects/unity/ "A desktop and notebook environment."
+[gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[arch-linux]: https://www.archlinux.org/ "A Linux distro."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[xfce]: http://www.xfce.org/ "A lightweight UNIX-like desktop environment."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."

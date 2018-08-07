@@ -47,3 +47,16 @@ News apps on my iPhone, such as [Metro Online][metro-ios] and [Standard][london-
 ### What would be your dream setup?
 
 My dream set up would be my old white MacBook on a wooden desk, looking out of my floor to ceiling glass windows where I can see the canal that runs through East London and the Olympic Stadium, which I'm only metres from. I have everything I need, so I'd be happy with that and maybe a printer and some Bose speakers.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[d40]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25420/D40.html "A 6.1 megapixel digital SLR camera."
+[ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[metro-ios]: https://itunes.apple.com/us/app/id465059515 "A news app."
+[london-evening-standard-ios]: https://itunes.apple.com/us/app/id542140360 "The news app."
+[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[word]: https://products.office.com/en-us/word "A document editor."

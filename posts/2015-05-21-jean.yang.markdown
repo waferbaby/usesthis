@@ -33,3 +33,14 @@ I'm skeptical of software fetishism. I firmly believe in taking time away from t
 Something with as few interactions with present-day computers as possible. I love everything computers can do for me, but the physical act of using them wrecks me. In college I had physical therapy twice for a Repetitive Stress Injury in my neck. I have so many ergonomic problems that each night I spend about an hour stretching to undo the damage of the day.
 
 With current technologies I could go a long way towards computerlessness with a small, dedicated team of stenographers to record my ideas and meetings and to transcribe my notable quotes into tweets. I don't yet have a good story for coding without traditional computers. I might be stuck typing into these little death machines for the next good while.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[notebook-a5]: http://postalco.net/products/20124_a5/ "A notebook."
+[thinkpad-x230]: https://www.amazon.com/Thinkpad-Lenovo-Ultraportable-Notebook-x230/dp/B008A115NC "A 12.5 inch PC laptop."
+[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
+[rescuetime]: https://www.rescuetime.com/ "A Web-based time tracking and productivity suite."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[leechblock]: https://addons.mozilla.org/en-US/firefox/addon/leechblock/ "A Firefox extension for blocking chosen websites."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."

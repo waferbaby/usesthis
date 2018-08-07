@@ -43,3 +43,27 @@ My dream set up? I'd like to be a foot taller and have the space in my apartment
 Ideally I'd have the next version of the Canon 5D with a nice big viewfinder, a lightning quick autofocus system and a ton more autofocus points (this is where they failed with the 5D Mark II), and a sensor with even better noise and high ISO performance.
 
 I've also been eyeing an ultrawide lens like the Canon 14mm f/2.8 or 15mm fisheye lens.
+
+[ultra-wide-and-slim]: http://camerapedia.wikia.com/wiki/Vivitar_Ultra_Wide_%26_Slim "A plastic point-and-shoot film camera."
+[speedlight-580ex]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/flashes/speedlite_580ex "A flash for DSLRs."
+[speedlight-430ex]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/flashes/speedlite_430ex "A flash for DSLRs."
+[sprocket-rocket]: https://microsites.lomography.com/sprocketrocket/ "A panoramic film camera."
+[actionsampler]: https://microsites.lomography.com/actionsampler/main/ "A film camera that takes 4 photos per shot."
+[fisheye-2]: https://microsites.lomography.com/fisheye/ "A fisheye film camera."
+[holga]: https://microsites.lomography.com/holga/ "A toy plastic film camera."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[diana-f-plus]: https://microsites.lomography.com/diana/cameras/diana-f-clones "A film camera."
+[drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
+[xa2]: http://camerapedia.wikia.com/wiki/Olympus_XA#XA_2 "A compact film camera."
+[ef-70-200mm-f2.8l-is-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_70_200mm_f_2_8l_is_usm "A telephoto zoom lens."
+[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[lc-a]: https://en.wikipedia.org/wiki/Lomo_LC-A "A very popular film camera."
+[iview-mediapro]: https://en.wikipedia.org/wiki/IView_Media "Image organisation and management software."
+[aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photo-mechanic]: http://www.camerabits.com/ "Photo organisation and management software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

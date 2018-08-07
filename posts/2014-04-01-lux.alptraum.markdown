@@ -33,3 +33,22 @@ And if I am on a computer, I am almost definitely on [Adium][]. As with email, c
 ### What would be your dream setup?
 
 I have this fantasy in which I am a minimalist, but real life always proves otherwise. My dream set up would be a MacBook Air hooked up to a 27" monitor on a small, wall mounted standing desk, with absolutely no papers cluttering anything, and no mess anywhere to be seen. I dream of a paperless office -- one day I'll achieve it, right?
+
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[bjursta]: http://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
+[imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
+[notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[simplenote]: https://simplenote.com/ "A note-taking/syncing service."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[draft]: https://draftin.com/ "A version-controlled distraction-free writing service."
+[postbox]: https://www.postbox-inc.com/ "A cross-platform email client."
+[word]: https://products.office.com/en-us/word "A document editor."

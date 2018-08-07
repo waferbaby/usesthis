@@ -26,3 +26,7 @@ I draw everything in [Adobe Illustrator 9][illustrator] (I just do simple vector
 ### What would be your dream setup?
 
 I can do whatever I want with those two forms of input and a keyboard. Mouse for sharper lines, tablet for free-form lines, voila. I guess I could get a smaller monitor, but this one is paid for. I might like to add a USB panini press at some point, or some kind of small toaster oven, perhaps the size of a perfect plate of nachos, for cooking waffles in. A toasted waffle with room-temperature cream cheese and Oregon blueberry jam is not unlike a small, personal cheesecake.
+
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[photoshop-elements]: https://www.adobe.com/products/photoshop-elements.html "A lightweight image editor."
+[windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

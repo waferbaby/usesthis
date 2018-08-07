@@ -30,3 +30,27 @@ Besides all that normal stuff, I have come to swear by [Google Docs][google-docs
 My dream setup would involve a very long desk where I would have a large array monitors and computers (maybe laptops and tablets as well?) - possibly all booted up at the same time, depending on what I am doing. Probably with a mix of operating systems such as [Windows 7][windows-7], [OS X Mountain Lion][macos] and possibly [Ubuntu][] so I can easily test across platforms without virtual machines or dual booting.
 
 Also, I need one of those stand-up, commercial-grade coffee makers beside me - Starbucks branded preferred. Actually, scratch all that, just the coffee maker will be good.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[compaq-6535b]: http://www.lapspecs.com/detail/HP-Compaq+6535b "A 14.1 inch PC laptop."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[git]: https://git-scm.com/ "A version control system."
+[tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
+[tortoisegit]: https://tortoisegit.org "A Git client for Windows."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[filezilla]: https://filezilla-project.org/ "Open-source FTP software."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[jing]: https://www.techsmith.com/jing.html "An image sharing and annotation tool"
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[versions]: https://versionsapp.com/ "A Subversion client for the Mac."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
+[wayward]: http://www.unlok.ca/wayward/ "An HTML5 browser game."
+[winscp]: https://winscp.net/eng/index.php "A free S/FTP and SCP client for Windows."

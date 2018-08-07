@@ -40,3 +40,21 @@ I'd like a better phone camera. Not enough to buy a better phone, but if we're d
 I'd like a Serger for sewing jersey. Although I sew a lot of clothes for myself, I am a terrible slob, and the kinds of slovenly clothes slobs like (stretchy) are actually difficult to sew at home on a normal sewing machine.
 
 I'd like a better sewing machine. My E & R is a bit of a weakling, it can't sew denim or with thick threads, and it drops stitches a lot.
+
+[iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
+[ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[classic-kpn400]: https://www.reevoo.com/p/e-and-r-classic-kpn400-sewing-machine "A sewing machine."
+[bullet-journal]: http://bulletjournal.com/ "An organisational notebook."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
+[the-old-reader]: https://theoldreader.com/ "A social feed reader."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
+[sinatra]: http://www.sinatrarb.com "A lightweight Ruby web framework."
+[atom]: https://atom.io/ "A text editor based on web technology."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

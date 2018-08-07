@@ -29,3 +29,18 @@ I browse the web with [Firefox][], but I am not very happy with that. Sometimes 
 ### What would be your dream setup?
 
 My main dream is faster internet connection (everywhere, but mainly at home). A better Firefox would help, too.
+
+[internet-keyboard]: https://www.amazon.com/Microsoft-Internet-Keyboard-PS-Interface/dp/B00002MZ8G "A keyboard."
+[zenbook-ux305]: https://www.amazon.com/UX305-13-Inch-Laptop-PREVIOUS-MODEL/dp/B00SGS7ZH4 "A 13.3 inch PC laptop."
+[syncmaster-s23b550v]: https://www.amazon.com/Samsung-S23B550V-23-Inch-LED-Lit-Monitor/dp/B007TO3EK8 "A 23 inch LCD screen."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[gcc]: http://gcc.gnu.org/ "Code compiler frontends."
+[ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[opera]: http://www.opera.com/ "A cross-platform web browser."
+[mutt]: http://www.mutt.org/ "A command-line email client."
+[clang]: http://clang.llvm.org/ "A C/C++ frontend for the LLVM compiler."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[lua]: http://www.lua.org/ "An interpreted scripting language."
+[luatex]: http://www.luatex.org/ "A TeX-based typesetting system with Lua support."

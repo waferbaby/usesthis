@@ -32,3 +32,14 @@ I like to treat the local machine as a dumb terminal. It makes it easier to deal
 ### What would be your dream setup?
 
 Anything with low latency and a decent keyboard, really. Honestly the only thing stopping me from editing the spec on my smaller devices is that on-screen keyboards are just unusable.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
+[drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
+[irssi]: https://irssi.org/ "A CLI irc client."
+[ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
+[screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[pine]: http://www.washington.edu/pine/ "A terminal email/news client."

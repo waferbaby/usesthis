@@ -45,3 +45,26 @@ Finally, in the last couple years, affordable [Android][] phones got fast enough
 ### What would be your dream setup?
 
 A wireless headset with house-covering range and great battery life, perfect voice recognition with a good user interface, and a phone with good enough speed and software that I could use it for all aspects of daily work (writing and mockups, as well as browsing, email and chat).
+
+[natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
+[me-3-ew]: https://en-us.sennheiser.com/headworn-cardoid-microphone-headmic-singers-speakers-presenters-me-3-ew "A headset microphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[ms227n]: https://www.asus.com/Monitors_Projectors/MS227N/ "A slim 22 inch LCD screen."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[wireless-headset-h760]: https://www.amazon.com/Logitech-Wireless-Headset-Behind-Design/dp/B003VAK1G4 "A wireless microphone headset."
+[grove]: https://grove.io/ "A hosted IRC service."
+[gpgtools]: https://gpgtools.org/ "A suite of Mac software for secure communication."
+[google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
+[transmission]: https://transmissionbt.com/ "A BitTorrent client."
+[trello]: https://trello.com/ "A project management service."
+[taskpaper]: http://www.hogbaysoftware.com/products/taskpaper "A simple task/to do list application for the Mac."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[fastmail]: https://www.fastmail.com/ "An email hosting service."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[mockups]: https://balsamiq.com/products/mockups/ "Drawing-like mockup software."
+[dragon-dictate-mac]: https://en.wikipedia.org/wiki/DragonDictate "Speech-recognition software."
+[vlc]: http://www.videolan.org/vlc/ "An open-source media player."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[private-internet-access]: https://www.privateinternetaccess.com/ "A VPN service."

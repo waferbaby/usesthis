@@ -25,3 +25,12 @@ But actually I do, because I don't want to be shafted when I eventually leave my
 ### What would be your dream setup?
 
 5k retina. One day I can have two 5k screens, but I'd settle for two separate machines just so I could have the two screens. Dell does a 5k screen though, so that might do for the meantime..
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-6-plus]: https://en.wikipedia.org/wiki/IPhone_6 "A large smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[slack]: https://slack.com/ "A collaboration service."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

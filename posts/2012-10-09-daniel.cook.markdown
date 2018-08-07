@@ -41,3 +41,17 @@ I carry a paper notebook with me everywhere. It is light, easily passed around t
 I'd be happy with the following magical machine: a 1.5lb 17" tablet with 10 hours of battery life and a matte 200+ DPI display. Give me a pressure sensitive pen like you find on a [Wacom Cintiq][cintiq] and art software that works with a pen interface. Slap on a Surface-esque stand and a keyboard/cover with decent key action and we are starting to build a real productivity tablet. Oh, and make it crazy fast with enough memory to multitask. Such a thing is probably 3-5 years out. Just in time for me to use it when I'm commuting to the coffee shop in my self driving car. 
 
 Can you imagine carrying such a thing as your only machine? Alternatively when you get home, it seamlessly syncs with your 40" standing drafting desk whose surface is just another always connected window into your network of projects. I'm not as interested in augmented reality or virtual reality. Ultimately I want to be working with my hands manipulating physical objects.
+
+[thinkpad-t530]: http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t530/ "A 15.6 inch PC laptop."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[realm-of-the-mad-god]: http://www.realmofthemadgod.com/ "A co-op MMO shooter game."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[tyrian]: https://en.wikipedia.org/wiki/Tyrian_(video_game) "A scrolling shooter game."
+[triple-town]: http://spryfox.com/our-games/tripletown/ "A three-matching city-building puzzle game."
+[steambirds-survival]: http://spryfox.com/our-games/steambirds-survival/ "A turn-based aerial combat game."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[word]: https://products.office.com/en-us/word "A document editor."

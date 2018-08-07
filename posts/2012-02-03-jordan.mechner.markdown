@@ -57,3 +57,28 @@ One iPad-sized tablet combining the functions of all the Macs, cameras, iPhone, 
 An iPhone-sized version that's identical, only the screen is smaller. They're always synced, so whichever one I take with me, it has all the same stuff on it.
 
 And a one-touch off button, so I can toss those amazing gadgets in a drawer and forget they exist, at least for a couple of hours.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
+[things]: https://culturedcode.com/things/ "A task management application for the Mac."
+[scansnap-s1500m]: http://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
+[movie-magic-screenwriter]: http://www.screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[echofon-ios]: https://itunes.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
+[evernote]: https://evernote.com/ "Online software for capturing notes."

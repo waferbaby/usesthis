@@ -37,3 +37,24 @@ On the iPad I use it to write notes, check email, and play games. I use [Adobe I
 ### What would be your dream setup?
 
 My dream setup would be a old red train caboose set up on a short section of rails in my backyard near the tree line. A short walk from the house, but far enough away that you would think twice about interrupting me. Inside would be a fast PC with dual monitors, printer, my prototyping supplies, and clear table space to assemble prototypes. I'd also want a small selection of games, a table for four, a small fridge, and a place to take a nap.
+
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[the-minimalist]: http://www.geekchichq.com/the-minimalist-gaming-table.html "A table designed for gaming."
+[aspire-v5-571-6893]: https://www.amazon.com/Acer-Aspire-V5-571-6893-15-6-Inch-Midnight/dp/B009CQNPXW "A 15.6 inch PC laptop."
+[megamat]: http://www.chessex.com/mats/Battlemats_MegamatsReversible.htm "A reversable vinyl mat."
+[dungeon-roll]: https://www.amazon.com/Tasty-Minstrel-9004TTT-Dungeon-Board/dp/1938146999 "A dice-rolling board game."
+[lumocolor]: https://www.staedtler.com/en/products/markers-refill-ink/permanent-markers/lumocolor-permanent-marker-set-31-set4-permanent-marker-set/ "A permanent marker pen."
+[powershot-s110]: https://www.amazon.com/Canon-PowerShot-Digital-Camera-3-Inch/dp/B009B0MYSQ "A 12.1 megapixel digital camera."
+[1-second-everyday-ios]: https://itunes.apple.com/us/app/1-second-everyday/id587823548 "An app for capturing a second of video every day."
+[game-icons]: http://game-icons.net/ "A collection of free game-themed icons."
+[the-noun-project]: https://thenounproject.com/ "A collection of icons representing nouns."
+[timehop-ios]: https://itunes.apple.com/us/app/timehop/id569077959 "An app for reliving old moments from social networks."
+[adobe-ideas-ios]: https://itunes.apple.com/us/app/adobe-ideas-1-0-for-ipad/id364617858 "A digital sketchbook app for iOS."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[cardwarden-ios]: https://itunes.apple.com/app/id596230297 "An app for importing and playing card games."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

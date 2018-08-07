@@ -40,3 +40,20 @@ Ooooh - Is it weird that the first item that I think about in my dream setup is 
 I could (and probably should) integrate some ergonomics into the situation - a better chair, a keyboard to stave off the carpal tunnel, perhaps even a mouse. I don't know why, but these feel like luxury items.
 
 But the pièce de résistance would be the teleportation device tucked into the corner that would allow me to meet with anyone whenever I want... and would allow me to avoid flying forevermore!
+
+[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
+[soundsticks]: https://en.wikipedia.org/wiki/Harman_Kardon#SoundSticks "Swanky-looking computer speakers."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[vision-elite]: https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
+[xperia-z1]: https://en.wikipedia.org/wiki/Sony_Xperia_Z1 "A 5 inch Android phone."
+[earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
+[icloud]: https://www.apple.com/icloud/ "A cloud service."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
+[tripit]: https://www.tripit.com/ "A travel planning web service."
+[signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[bear]: http://www.bear-writer.com "A note taking application for macOS."
+[keepassx]: https://www.keepassx.org/ "Secure password storage software."
+[wire]: https://wire.com/ "A secure messaging service."

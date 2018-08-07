@@ -25,3 +25,24 @@ Incidentally, I'm very interested in the challenge of digital archiving, so this
 ### What would be your dream setup?
 
 I'm pretty close to it, I think, or at least I'm enough of a luddite not to care too much about the bleeding edge and have the newest stuff. At this stage in my career, I'm doing more writing (proposals, pitches, [blogs](https://goodformandspectacle.wordpress.com/ "The Good, Form & Spectacle weblog.")) than other work, so mostly find myself in some kind of text editor. I also really enjoy collaborating with people who are mature and skilled, and also have super hawt setups themselves.
+
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[github]: https://github.com/ "A Git code repository service."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[slack]: https://slack.com/ "A collaboration service."
+[amazon-cloud-player]: https://www.amazon.com/b?ie=UTF8&node=2658409011 "A web-based music service."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[citymapper-ios]: https://itunes.apple.com/gb/app/citymapper-london-public-transport/id469463298 "A city transport app."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

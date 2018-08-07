@@ -29,3 +29,7 @@ For the controllers I use old furniture, scrap wood, IKEA bits and Kmart bobs. I
 My dream setup would be a big workshop with space and storage - oh wow, space and storage, I would be so happy. I recently did some work in London for a festival called [Now Play This](https://twitter.com/SK_Louie/status/982971660335833089 "Louie's tweet about Now Play This in London.") and they provided me with some time in a workshop. It was amazing having access to so many different types of power tools - I can't believe how much I love drop saws. I also dream of a huge wall of shelves and drawers for buttons and electronic components, with a ladder on a rail like an old library.
 
 I also dream of a bigger bar - I'd love something in an old building, where you can see the character in the bricks and the layout that shows its previous use. Somewhere with a backyard and some good trees, somewhere central to Melbourne, with cheap rent - okay, now I'm really dreaming.
+
+[i-pac]: https://www.ultimarc.com/ipac1.html "A board for connecting arcade controllers to a computer."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."

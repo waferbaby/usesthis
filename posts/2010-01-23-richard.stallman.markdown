@@ -35,3 +35,9 @@ I would ideally like to have a machine with the speed and memory of a laptop, an
 Until I can have them both, freedom is my priority. I've campaigned for freedom since 1983, and I am not going to surrender that freedom for the sake of a more convenient computer.
 
 I do hope to switch soon to a newer model of Yeelong with a 10-inch display.
+
+[yeelong]: http://www.lemote.com/en/products/Notebook/2010/0310/112.html "A 9 inch laptop with 100% free software (BIOS, drivers, etc.)."
+[gnewsense]: https://en.wikipedia.org/wiki/GNewSense "A completely free GNU/Linux distribution."
+[xfree86]: http://www.xfree86.org/ "An open-source window system."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[pmon]: https://www.linux-mips.org/wiki/PMON "Freeware ROM firmware."

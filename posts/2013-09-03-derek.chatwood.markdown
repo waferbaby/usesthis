@@ -35,3 +35,24 @@ Illustration: Photoshop CS6, in combination with the Wacom tablet. I use an ador
 Well, it's a silly dream, but I would love a dual monitor setup with one of the monitors the [Wacom Cintiq 22HD][cintiq]. It's ridiculous overkill, but whoo boy, so awesome. I would also kill for a .3mm mechanical pencil with an extendable eraser (you know, you twist and it seems endless.) For some reason this is a nigh-impossible dream at the .3mm size.
 
 That's it. My dreams are simple. Other than the Cintiq thing.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[graph-gear-1000]: https://www.amazon.com/Pentel-Automatic-Drafting-Accents-PG1013E/dp/B005GSL762 "A drafting pencil."
+[canoscan-lide-110]: https://www.usa.canon.com/internet/portal/us/home/products/details/scanners/photo-scanner/canoscan-lide-110 "A USB flatbed photo scanner."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[potenza]: https://www.maingear.com/custom/desktops/potenza/ "A gamer's desktop PC."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[udk]: https://www.unrealengine.com/previous-versions "A free version of the Unreal Engine."
+[unrealed]: https://en.wikipedia.org/wiki/UnrealEd "A level editor for the Unreal games."
+[unreal-engine]: https://www.unrealengine.com/what-is-unreal-engine-4 "A 3D game engine."
+[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[gtkradiant]: http://icculus.org/gtkradiant/ "A level editor for id games (Doom, Quake)."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[source]: https://en.wikipedia.org/wiki/Source_(game_engine) "A game engine."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[xnview]: https://www.xnview.com/en/xnview/ "Media viewer/browser software."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[p4v]: https://www.perforce.com/product/components/perforce-visual-client "A graphical client for the Perforce version control system."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

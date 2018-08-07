@@ -41,3 +41,26 @@ Finally, I have almost everything on my laptop backed up to a giant [Dropbox][] 
 A foldable, paper-light, high-res second screen that I could travel with, and maybe a projection keyboard and some sort of gestural interface that would remove the need for mouse or Wacom. Apart from that, I've pretty much got what I need - I'm just always thinking about how I can accomplish more while carrying less. 
 
 I'd also love it if Apple would stop removing useful ports from the Macbooks - having to lug around a bunch of peripherals and adaptors pretty much negates the benefit of having an extremely lightweight machine.
+
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[airmail]: http://airmailapp.com/ "A mail client for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."

@@ -28,3 +28,28 @@ Despite working for a dozen years as web developer I've developed an allergy to 
 My ideal work hardware is a swiss-army computer-tablet-tv-phone. It would look like an 11" [MacBook Air][macbook-air] that ran OS X Lion, can be shut and used as a tablet running [Android][] 4, but could also somehow unfold into a 37" OLED that I could roll-up (or use an internal projector of some kind) and bootcamp into [Windows 7][windows-7] or an external device via HDMI. It would have built-in 4GLTE or better connectivity and its LED touchpad would be removable so I could also use it as a phone.
 
 My ideal game console is limitless in power and invisible in my home: a cloud farm where I login and upload my money away.
+
+[iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
+[ipod-nano]: https://www.apple.com/ipod-nano/ "A small music player."
+[galaxy-s-ii]: http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[g70]: http://event.asus.com/2008/nb/g70/index.htm "A 17 inch gaming-oriented PC laptop."
+[z-5500]: https://www.amazon.com/Logitech-THX-Certified-Digital-Surround-Speaker/dp/B0002WPSBC "5.1 digital speakers."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[copperhead]: https://www.amazon.com/RAZER-Copperhead-Razor-Precision-Gaming/dp/B000C28VM0 "A gaming mouse."
+[vaio-eb46fx-wi]: https://www.cnet.com/products/sony-vaio-eb-series-vpc-eb46fx-wi-15-5-core-i5-480m-windows-7-home-premium-64-bit-4-gb-ram-640-gb-hdd/ "A 15.5 inch PC laptop."
+[ln40a550]: https://www.amazon.com/Samsung-LN40A550-40-Inch-1080p-Model/dp/B001418W2C "A 40 inch LCD television."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[github]: https://github.com/ "A Git code repository service."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[screenshot-plus]: https://www.apple.com/downloads/dashboard/business/screenshotplus.html "A Dashboard widget for capturing screenshots."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[campfire]: https://campfirenow.com/ "Web-based chat."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[basecamp]: https://basecamp.com/ "Web-based project management."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."
+[photo-paint]: https://en.wikipedia.org/wiki/Corel_Photo-Paint "An old graphics editing program."
+[pixlr]: https://pixlr.com/ "A web-based image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

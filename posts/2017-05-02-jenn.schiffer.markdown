@@ -31,3 +31,16 @@ I always have an IRC client, [Slack][], a BLEEDING EDGE browser, [Spotify][], an
 ### What would be your dream setup?
 
 I would love a 13" Macbook Air that can have 16GB+ of memory. And I would like to be able to take it apart to mod it like I used to be able to do to all my old iBooks. I also wish Apple would stop doing that thing where they decide to Thunderbolt everything and then a year later USB-C everything. And taking away the headphone jack was annoying as fuck. I used to build machines for Windows and Linux, but they work so unpredictably (if at all) with various peripherals (ie. any of the 900 projectors I encounter when speaking at conferences) that I cannot adopt them full-time unfortunately. Maybe one day. I just really want Siri to leave me alone.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[glitch.3]: https://glitch.com/ "A web-based IDE."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[siri]: https://en.wikipedia.org/wiki/Siri "An intelligent personal assistant service."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[slack]: https://slack.com/ "A collaboration service."
+[atom]: https://atom.io/ "A text editor based on web technology."
+[firefox-developer-edition]: https://www.mozilla.org/en-US/firefox/developer/ "A browser aimed at web developers."
+[messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."
+[chrome-canary]: https://www.google.com/intl/en/chrome/browser/canary.html "Developer builds of Chrome."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."

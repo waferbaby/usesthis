@@ -48,4 +48,37 @@ Oh, and I guess I like my scanner - it's an [Epson Perfection V500 Photo][perfec
 
 ### What would be your dream setup?
 
-I most wish I could have a small laptop like the Air but with a monster graphics card inside, a touchscreen with pressure sensitive pen input and a built-in high-quality video projector so I could work seriously on 3D anywhere. I'd like a 3D printer in our studio that outputs to wax, plaster, marble and bronze. 
+I most wish I could have a small laptop like the Air but with a monster graphics card inside, a touchscreen with pressure sensitive pen input and a built-in high-quality video projector so I could work seriously on 3D anywhere. I'd like a 3D printer in our studio that outputs to wax, plaster, marble and bronze.
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[i-xy]: http://www.ixymic.com/ "A microphone for the iPhone."
+[art-pen]: https://www.wacom.com/en-us/store/pens/art-pen "A pen for Wacom tablets."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[creative-stylus]: https://www.amazon.com/Wacom-Intuos-Creative-Stylus-CS500PK0/dp/B00FC7DOCW "A stylus for the iPad."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[perfection-v500]: https://www.amazon.com/Epson-Perfection-Photo-Scanner-V550/dp/B00E1O74SW "A photo scanner."
+[web-case-ipad-mini]: https://www.amazon.com/Quirky-Case-iPad-mini-PWEB1-BK01/dp/B00E4LAL82/ "A case for the iPad Mini."
+[123d-catch-ios]: https://itunes.apple.com/us/app/123d-catch/id513913018 "An app for capturing 3D images."
+[zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[things]: https://culturedcode.com/things/ "A task management application for the Mac."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[sound-studio]: https://en.wikipedia.org/wiki/Sound_Studio "A sound editor for the Mac."
+[fission]: http://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."
+[oddmuse]: https://oddmuse.org/wiki "A wiki engine."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[espresso]: http://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[pomodoro-timer]: https://itunes.apple.com/us/app/pomodoro-timer-focus-on-your/id872515009 "A Mac timer for the Pomodoro technique."
+[painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

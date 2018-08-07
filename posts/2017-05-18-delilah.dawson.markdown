@@ -31,3 +31,14 @@ I have everything I need, although I would love to get rid of the guilt I feel e
 Ultimately, my dream setup would be to get to work from interesting places all around the world, especially near the ocean. I try to find fun experiences everywhere I go - trapeze lessons in DC, shows in NYC, surfing class in Kauai, ziplining over Florida swamps, driving through the Arizona desert under the full moon. As long as I have my laptop and wifi, I can get my work done. 
 
 Also, I would like a new gallbladder and a functional thyroid gland so I could go back to eating gluten and fat and coffee and red wine like a normal person.
+
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[suntouch-plus]: https://www.amazon.com/NatureBright-SunTouch-Light-Therapy-package/dp/B000W8Y7FY "A light therapy lamp."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cyber]: https://www.ospreypacks.com/us/en/product/cyber-CYBER.html "A daypack."
+[nook-ios]: https://itunes.apple.com/us/app/nook-read-books-magazines-newspapers-comics/id373582546 "A book reading app."
+[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
+[picmonkey]: https://www.picmonkey.com/ "A web-based image editor."

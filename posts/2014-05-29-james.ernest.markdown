@@ -36,3 +36,27 @@ For music I'm using [GarageBand][]. I have more powerful stuff but I really don'
 I feel like I already have it. I'm lucky enough to have a large budget for work-based hardware. So aside from "bigger hard drive, faster processor" which is inevitable, there isn't much on my wish list. There's always a better camera out there, and I certainly do a lot of window shopping, but for making how-to-play videos and Kickstarter videos, my setup is more than adequate.
 
 Graphically, game production is pretty simple, and I could probably still be making board games on my old Wall Street PowerBook if I didn't mind waiting a little longer for things to load. (I cheated back then; most of my games were in black and white). So except for the aforementioned dying monitor, I've been pretty well fixed for hardware and software.
+
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[ntg2]: http://www.rodemic.com/microphones/ntg-2 "A condenser shotgun microphone."
+[nex-3n]: https://www.amazon.com/Sony-NEX-3NL-Compact-Interchangeable-Digital/dp/B00BF9MUBM "A 16.1 megapixel mirrorless digital camera."
+[nex-f3]: https://www.amazon.com/Sony-NEX-F3K-Compact-System-18-55mm/dp/B00836H2BI "A 16.1 megapixel mirrorless digital camera."
+[nex-vg10]: https://www.amazon.com/Sony-NEXVG10-Interchangeable-Camcorder-Black/dp/B003WQMSOU "An HD camcorder with interchangeable lenses."
+[alpha-nex-7]: http://store.sony.com/alpha-nex-7-camera-body-zid27-NEX7/B/cat-27-catid-All-Alpha-NEX-Cameras "A 24.3 megapixel mirrorless camera."
+[h4]: https://www.zoom.co.jp/english/products/h4/ "A digital audio recorder."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[vp83f-lenshopper]: http://www.shure.com/americas/products/microphones/vp/vp83f "A camera-mounted condenser microphone."
+[xp-30]: http://www.rolandus.com/products/details/265 "A 64-voice synth."
+[e-mount-18-200mm-f3.5-6.3-zoom]: https://www.bhphotovideo.com/c/product/732292-REG/Sony_SEL18200_DT_18_200mm_f_3_5_6_3_Zoom.html "A zoom lens for Sony's E-Mount system."
+[powerbook-g3]: https://en.wikipedia.org/wiki/PowerBook_G3 "An old Mac laptop."
+[p241w-bk]: https://www.necdisplay.com/p/desktop-monitors/p241w-bk "A 24 inch LCD monitor."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[soundbooth]: https://en.wikipedia.org/wiki/Adobe_Soundbooth "Audio editing software."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[quarkxpress]: https://en.wikipedia.org/wiki/QuarkXPress "Desktop publishing software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

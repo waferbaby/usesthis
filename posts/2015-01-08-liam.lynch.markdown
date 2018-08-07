@@ -34,3 +34,25 @@ Another useful set of plugins for After Effects is the [Trapcode collection][tra
 ### What would be your dream setup?
 
 I would like to build my own green screen stage. A large green stage with a setup for motion capture and a programmable robotic motion control camera rig. A space where really any kind of visuals and effects could be created. With that, I'd also have a nice editing suite that was soundproofed and had the proper architecture for good sound design and mixing. I do have my own home studio, but it would be nice to have a green stage and my editing and sound mixing all in one space.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[trapcode-form]: https://www.redgiant.com/products/trapcode-form/ "A plugin for After Effects."
+[trapcode-lux]: https://www.redgiant.com/products/trapcode-lux/ "A lighting plugin for After Effects."
+[trapcode-sound-keys]: https://www.redgiant.com/products/trapcode-sound-keys/ "An audio synchronising plugin for After Effects."
+[trapcode-shine]: https://www.redgiant.com/products/trapcode-shine/ "A light ray plugin for After Effects."
+[trapcode-particular]: https://www.redgiant.com/products/trapcode-particular/ "A particle generation plugin for After Effects."
+[trapcode-horizon]: https://www.redgiant.com/products/trapcode-horizon/ "A sky generating plugin for After Effects."
+[trapcode]: https://www.redgiant.com/products/trapcode-suite/ "A suite of plugins for After Effects."
+[soundtrack-pro]: https://en.wikipedia.org/wiki/Soundtrack_Pro "A Mac audio editor tailored for movies."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
+[magic-bullet-looks]: https://www.redgiant.com/products/magic-bullet-looks/ "A colour and light plugin for After Effects."
+[cosmo]: https://www.redgiant.com/products/magic-bullet-cosmo/ "A skin tone and blemish plugin for After Effects."
+[element.2]: https://www.videocopilot.net/products/element2/ "A 3D rendering engine for After Effects."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[particleillusion]: https://en.wikipedia.org/wiki/ParticleIllusion "Particle-based visual effects rendering software."
+[poser-pro]: http://my.smithmicro.com/poser-pro-11.html "3D character rendering software."

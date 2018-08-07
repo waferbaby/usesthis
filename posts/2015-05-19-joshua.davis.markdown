@@ -31,3 +31,12 @@ I usually don't write with music, but occasionally I'll listen to a [Pandora][] 
 ### What would be your dream setup?
 
 Some sort of tree house-office hybrid. Maybe something like [this](http://updatedhome.com/amazing-tree-house-homes/ "An article about fancy tree house homes."), but with high speed wifi.
+
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[wf-3620]: http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=C11CD19201 "An all-in-one wireless printer."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[word]: https://products.office.com/en-us/word "A document editor."

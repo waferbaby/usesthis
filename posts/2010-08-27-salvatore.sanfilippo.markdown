@@ -49,3 +49,25 @@ I'm looking for a search engine designed for skilled users, I hate that Google i
 I wish browsers had a better way to handle bookmarks, much more similar to delicious, but resident (I know you can use tags with new browsers, but the bookmarking experience for me is a pain with the current interface provided by Chrome/Firefox).
 
 I would love the ability to transfer all the context of a computer I'm using into another computer in a matter of seconds. Time Machine makes this feasible on hardware upgrades, but we are nowhere near to an experience where switching device will lead to the same environment, applications, user data. Computers should be just like "white" devices where you load your environment. Web apps are fixing this in some way but at the cost of more latency.
+
+[iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[precision-t3500]: https://www.dell.com/us/business/p/precision-t3500/pd "A tower desktop PC."
+[redis]: https://redis.io/ "A key-value data store and more."
+[utorrent]: http://www.utorrent.com/ "A BitTorrent client."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[github]: https://github.com/ "A Git code repository service."
+[git]: https://git-scm.com/ "A version control system."
+[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[fvwm]: http://fvwm.org/ "A window manager for X."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[hping]: https://en.wikipedia.org/wiki/Hping "A command-line packet analyser."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[colloquy]: http://colloquy.info/ "An IRC client for the Mac."
+[duckduckgo]: https://duckduckgo.com/ "A new search engine."
+[vim]: http://www.vim.org/ "A command-line text editor."

@@ -30,3 +30,17 @@ For music I use Pro Tools. My every day plug-ins are [Native Instruments Kontakt
 ### What would be your dream setup?
 
 I spend a fair amount of time online digging up odd instruments like the [Hohner Guitaret][guitaret], the [glass xylophone](https://www.youtube.com/watch?v=op6ee3ubnjM "A YouTube video of a glass xylophone.") or the [aquaphone](https://en.wikipedia.org/wiki/Waterphone "The Wikipedia entry for the Waterphone."). I also love the sound and the innocence of old keyboards, particularly the ones that were considered toys, or "home organs", So I guess my dream setup would probably look a lot like a flea market that was well mic'ed up, plugged in, batteries fresh, ready to record.
+
+[nord-piano-2]: http://www.nordkeyboards.com/products/nord-piano-2 "A musical keyboard."
+[sk-5]: https://en.wikipedia.org/wiki/Casio_SK-5 "A musical keyboard."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[casiotone-mt-70]: http://weltenschule.de/TableHooters/Casio_MT-70.html "A musical keyboard."
+[guitar-rig-pro]: https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-5-pro/ "Guitar and bass audio software."
+[guitaret]: https://en.wikipedia.org/wiki/Guitaret "An electric lamellophone."
+[soundtoys]: http://www.soundtoys.com/ "A collection of audio plugins."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/ "A large sound library."
+[pro-q-2]: https://www.fabfilter.com/products/pro-q.php "An equaliser audio plugin."
+[phoenixverb-stereo]: https://www.exponentialaudio.com/phoenixverb-stereo/ "A reverb audio plugin."
+[pro-l]: https://www.fabfilter.com/products/pro-l.php "A limiter audio plugin."
+[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

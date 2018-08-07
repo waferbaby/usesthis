@@ -40,3 +40,12 @@ But I also like improvising in more traditional ways. I play an electronic piano
 The real problem is finding the time. If I have an hour to spend on music I always prefer to play music than learn how to use technologies. What I'd really love is someone who'd tell me what to buy and show me how to use it!
 
 I also spend a lot of time writing ideas and doing calculations in notebooks - pen and paper. Typing math is a lot slower than writing it, because there are all sorts of weird symbols, and I always using weird mixtures of equations and diagrams. It would be nice to computerize this, but drawing with a stylus feels clumsy, and converting hand-written equations into LaTeX hasn't been automated yet. So here again, there's a lot of room for improvement.
+
+[instiki]: https://github.com/parasew/instiki "Wiki software."
+[irfanview]: http://www.irfanview.com/ "An image viewer/editor for Windows."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[quasimusic]: http://gregegan.customer.netspace.net.au/APPLETS/34/34.html "A Java app for mathematically generating music."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[latex]: https://www.latex-project.org/ "Typesetting software."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[wolframtones]: http://tones.wolfram.com/ "An audio generating tool."

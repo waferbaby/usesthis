@@ -40,3 +40,26 @@ Another common hack I use is to hire people on [oDesk][] and other freelancing s
 Today an ultrabook or [MacBook Air][macbook-air] but with a touch screen are the closest to what I want. There will be a point sometime between 2014 and 2016 where SSD & processor speeds, sizes and costs are where I need them to be for the amount of data I (will) have. 128Gb is not enough. Today 8Gb RAM in my MacBook is not sufficient to run a couple of virtualized operating systems plus some heavy lifting computing applications. I would happily run any OS with the ability to access the other two via VirtualBox or similar.
 
 The need will continue - just look at how painful it is to use [Rails][] on a Mac. That's why I have Ubuntu in VirtualBox. Similarly Windows Phone development is a pleasure but you need Windows in place. I find [PhoneGap][] most fun on a Mac. I want it all in one, with all my data wherever I am with an unreasonably long battery life, a touch screen and a pony.
+
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[thinkpad-x201]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x201 "A 12.1 inch lightweight laptop."
+[series-7-slate]: http://www.samsung.com/us/computer/tablet-pcs/XE700T1A-A01US "A tablet PC."
+[focus]: http://www.samsung.com/us/mobile/cell-phones/SGH-I917ZKAATT "A Windows Phone smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[rails]: http://rubyonrails.org/ "A Ruby-based web framework."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[openstreetmap]: http://www.openstreetmap.org/ "A crowdsourced map."
+[odesk]: https://en.wikipedia.org/wiki/Upwork "A service for hiring contractors."
+[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[phonegap]: https://phonegap.com/ "A framework for building native mobile apps with web technology."
+[windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
+[windows-phone]: https://en.wikipedia.org/wiki/Windows_Phone "A mobile operating system."

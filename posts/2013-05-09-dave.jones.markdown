@@ -77,3 +77,23 @@ Infinite bandwidth between my office PC and home PC. At the moment my only optio
 A software tool that allows me to easily respond to YouTube comments in a logical and quick manner. The YouTube comment system is nothing short of retarded.
 
 An acoustically quiet and damped lab to work (and shout!) in. Preferably a huge separate garage out the back of my house.
+
+[10x-high-definition-ii]: http://opteka.com/10x.aspx "A macro lens for SLRs."
+[atr-3350]: http://www.audio-technica.com/cms/wired_mics/9c6eca17168eef6f/index.html "An omnidirectional microphone."
+[c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
+[cam-3]: https://www.amazon.com/AZDEN-CAM-3-On-Camcorder-Audio-Mixer/dp/B00006JPD1 "A mini audio mixer."
+[vixia-hf-g10]: https://www.amazon.com/Canon-G10-Camcorder-Internal-Memory/dp/B004HW7DZM "An HD camcorder."
+[vixia-hf-m400]: https://www.amazon.com/Canon-M40-Camcorder-Internal-Memory/dp/B004HW7E3I "An HD camcorder."
+[videomic]: http://www.rodemic.com/microphones/videomic "A condenser shotgun microphone."
+[pro-88w]: http://www.audio-technica.com/cms/wls_systems/f706c310ed826ec4/index.html "A wireless microphone system."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
+[the-levelator]: https://en.wikipedia.org/wiki/Levelator "Software for auto-adjusting the levels in audio."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
+[mumble]: https://wiki.mumble.info/wiki/Main_Page "Voice chat software."
+[camtasia]: https://www.techsmith.com/camtasia.html "Screencasting software."
+[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
+[videostudio-pro]: https://www.videostudiopro.com/en/products/videostudio/pro/ "Video editing software."
+[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

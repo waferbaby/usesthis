@@ -27,3 +27,18 @@ For non-work stuff I use mainly well-know products ([Netflix][] etc), but I have
 ### What would be your dream setup?
 
 I'm not sure what I'd add. I certainly don't need more processing power. If I'm allowed to fantasize about online services, I'd like to see Spotify or something similar expand to include everything. Meaning EVERYTHING -- every piece of music that was ever recorded in a studio, every radio show, every playlist, every mix tape, every concert. Let's make the Lester Bang fantasy come true! I won't go into the challenges involved in making that happen, other than to say that opposition from the recording industry would likely be more of a barrier than technical or logistical issues.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[readability]: https://www.readability.com/ "A service for converting web pages into cleaner readable forms."
+[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
+[ommwriter]: http://www.ommwriter.com/ "A full-screen text editor."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[bitcasa]: https://www.bitcasa.com/ "A cloud storage service."
+[pocket]: https://getpocket.com/ "A service for storing links to look at later on."

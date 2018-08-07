@@ -42,3 +42,28 @@ But yes, after hanging the seaweed, eating a fatty bacon brunch, and sleeping in
 While we're at it, I'd like to know that I'm not being tracked, stalked and hacked by agrichemical corporations. I'd like to be a part of a support community for activists so that when servers get wobbly or issues arise, there's a cooperative of happy helpers with whom I have a longstanding reciprocity. I'd like to have some kind of smart-sorting e-secretary that bundles my email into trophic and topical work-lumps. I'd like some kind of activist calendar manager where events from all the groups I love get automatically loaded into my calendar so that I can track/manage/blog/tweet and attend them. I'd like to be a part of a post-email culture, where we become much better taking responsibility, managing our work autonomously, impressing each other with massive strides during weekly in-person meetings.
 
 I'd like all of us to have time to farm and land to farm on.
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[campstove]: http://www.biolitestove.com/products/biolite-campstove "A wood-burning stove that generates electricity."
+[kelly-kettle]: https://www.kellykettle.com/ "A wood-powered kettle."
+[riseup]: https://help.riseup.net/ "A collection of online communcation services."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[internet-archive]: https://archive.org/ "A non-profit Internet library."
+[nationbuilder]: http://nationbuilder.com/ "A hosted community service."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[guifi]: https://en.wikipedia.org/wiki/Guifi.net "An open wireless networking service in Spain."
+[github]: https://github.com/ "A Git code repository service."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[trello]: https://trello.com/ "A project management service."
+[stitcher]: https://www.stitcher.com/ "An on-demand radio service."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[ourgoods]: https://ourgoods.org/ "A creative barter network service."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[mailchimp]: https://mailchimp.com/ "A templated mailing list system."
+[drupal]: https://www.drupal.org/ "An open-source content management system."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[etsy]: https://www.etsy.com/ "A doily deployment system."
+[librarything]: https://www.librarything.com/ "A site for keeping track of your books."
+[loomio]: https://www.loomio.org/ "A collaborative decision-making service."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

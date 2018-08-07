@@ -38,3 +38,22 @@ When it comes to software, I am not that experimental. Once I find something I l
 I would love a setup that would minimize the stress on my shoulders and wrists. I am no spring chicken. I find myself hunching a lot while I work. That can't be good for Future Robert™. Some sort of brain -> computer interface so I can think the code and it will type itself would be fantastic. Perhaps even some form of virtual display embedded in the eyes themselves so you could have the ultimate monitor with you at all times.
 
 Then again, maybe just a cabin in the woods and no electronics might be just what I need. I am a man of extremes, it seems.
+
+[3g-microcell]: https://www.att.com/att/microcell/ "A personal 3G mini cell tower."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[cinder]: https://libcinder.org/ "A C++ framework for visual and audio projects."
+[vonage]: https://www.vonage.com/ "A VoIP service."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[pinboard]: http://pinboard.in/ "A bookmarking web service."

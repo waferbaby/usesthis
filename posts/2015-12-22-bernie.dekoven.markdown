@@ -22,3 +22,9 @@ I like [Pages][] for some strange reason. Sometimes, when I need to sketch out a
 ### What would be your dream setup?
 
 I think I might be living the dream. O, sure, it'd be neat if everything, everything were integrated. I'd plug my paper notebook into my computer and it'd upload it as text (in outline form). I'd plug in my voice recorder and it would also be integrated into my working outline. And, of course, everything would be socially mediated. On the other hand, I'm very happy with my little notebook and my Air.
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[thinktank]: http://outliners.scripting.com/thinkTank2Pc.html "Outliner software."
+[more]: http://outliners.scripting.com/more30.html "Outliner software."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[word]: https://products.office.com/en-us/word "A document editor."

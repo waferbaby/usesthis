@@ -31,3 +31,24 @@ I've also been experimenting with [MODO][] for 3D to incorporate into my work, b
 ### What would be your dream setup?
 
 I'm really looking forward to getting a faster home computer - this one has served me well but is nearly 4 years old!
+
+[nostromo]: https://www.razerzone.com/gaming-keyboards-keypads/razer-nostromo "A gaming controller/keyboard."
+[g502]: http://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[hi-tec-c]: https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mildliner]: https://www.jetpens.com/Zebra-Mildliner-Double-Sided-Highlighters/ct/894 "A softer highlighter pen."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[pocket-brush-pen]: http://www.pentel.com/store/pentel-pocket-brush-pen "A pen."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[slack]: https://slack.com/ "A collaboration service."
+[fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
+[messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."
+[modo]: https://www.thefoundry.co.uk/products/modo/ "3D modelling and sculpting software."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."

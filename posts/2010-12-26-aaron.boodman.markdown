@@ -72,3 +72,16 @@ I'm pretty happy with what I have, within the constraints of reality.
 If we're willing to throw that out, I'd love to be able to work on Chrome for Windows, Mac, and Linux all from a lightweight netbook. The compiles would be happening on some remote cluster somewhere.
  
 And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](http://chris.wanstrath.usesthis.com/ "Our interview with Chris Wanstrath."), too, please.
+
+[2-port-ps-2-kvm]: http://www.belkin.com/us/p/P-F1DK102P/ "A KVM for sharing monitors, PS/2 mice and keyboards between two computers."
+[z600]: https://www.amazon.com/HP-Z600-Workstation-Quad-2-13GHz/dp/B003H0KZ6E "A powerful PC workstation."
+[thinkpad-t61]: https://www.cnet.com/products/lenovo-t61/ "A 14 inch PC laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[cr-48]: http://en.wikipedia.org/wiki/Chromebook#Cr-48_prototype "Google's first Chrome OS netbook."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[irssi]: https://irssi.org/ "A CLI irc client."
+[greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
+[git]: https://git-scm.com/ "A version control system."
+[screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

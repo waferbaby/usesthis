@@ -31,3 +31,20 @@ I used the fine tools offered by [Mailchimp][] to send out my newsletter. And I'
 ### What would be your dream setup?
 
 For the most part, my current setup is only two inches short of my dream setup. I have been begging Apple to come out with a 15 inch MacBook Air. I'm convinced that Tim Cook is unwilling to release this model because he fears the power I'd have with that rig. The whole Internet might go on tilt. I'd also love a pile of old [Mac Pro][mac-pro] keyboards so I wouldn't have to be so worried about the day I finally tap the life out of the last one I've got.
+
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
+[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
+[nextdraft-ios]: https://itunes.apple.com/us/app/nextdraft-days-most-fascinating/id549358690 "An app for the NextDraft news site."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[simplenote]: https://simplenote.com/ "A note-taking/syncing service."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[fluid]: http://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
+[mailchimp]: https://mailchimp.com/ "A templated mailing list system."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[woopra]: https://www.woopra.com/ "A web analytics service."

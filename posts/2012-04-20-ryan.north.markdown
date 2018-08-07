@@ -48,3 +48,25 @@ The others are pretty routine: [Thunderbird][] for email, [Opera][]/[Chrome][]/[
 ### What would be your dream setup?
 
 My dream setup is a super-powerful laptop with two monitors (one slides out from the other, both are full size) that has always-on worldwide cellular internet access that won't bankrupt me if I download a large file while in the States. Anyone who's in Canada can tell you that last element may take a while to ever come true. Actually if we're talking dreams, the laptop is so tiny it fits in my pocket and unfolds itself, Transformer-style, to full size. Also, it's a phone. And it can call THE FUTURE.
+
+[iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
+[thinkpad-t520]: http://shop.lenovo.com/us/laptops/thinkpad/t-series/t520 "A 15.2 inch PC laptop."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[droid-3]: https://en.wikipedia.org/wiki/Droid_3 "An Android-based smartphone."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[lx-desk-mount-lcd-arm]: https://www.ergotron.com/Products/tabid/65/PRDID/351/language/en-CA/Default.aspx "An arm for LCD monitors."
+[performance-mouse-mx]: https://www.logitech.com/en-us/product/performance-mouse-mx "A wireless laser mouse."
+[wifi-body-scale]: https://www.amazon.com/Withings-WiFi-Body-Scale-Black/dp/B002JE2PSA "A set of scales that can track your weight via your computer or smartphone."
+[ultramon]: http://www.realtimesoft.com/ultramon/ "A multi-monitor utility for Windows."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[textpad]: https://www.textpad.com/ "A text editor for Windows."
+[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[opera]: http://www.opera.com/ "A cross-platform web browser."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[pidgin]: http://www.pidgin.im/ "An open-source multi-protocol chat client."
+[winamp]: http://www.winamp.com/ "A media player."

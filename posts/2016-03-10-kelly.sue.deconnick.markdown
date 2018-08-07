@@ -23,3 +23,22 @@ My name is [Kelly Sue DeConnick](http://kellysue.tumblr.com/ "Kelly's Tumblr sit
 I'm pretty happy with my tools, I think? I hate [Word][], but I almost never have to use it. I hate Skype. Some version of Skype that was more dependable, would be part of a dream set up. OH I KNOW: a landline. I miss having a landline.
 
 My dreams have less to do with my setup and more to do with having free time.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-6-plus]: https://en.wikipedia.org/wiki/IPhone_6 "A large smartphone."
+[scansnap-evernote-edition]: https://www.pcmag.com/article2/0,2817,2428573,00.asp "A scanner designed for use with Evernote."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[novamind]: https://www.novamind.com/ "Mind-mapping software."
+[numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[sanebox]: https://www.sanebox.com/ "A service for helping to control your inbox."
+[slack]: https://slack.com/ "A collaboration service."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[aeon-timeline]: http://www.aeontimeline.com/ "A Mac timeline app for writers."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[busycal]: http://www.busymac.com/busycal/ "Advanced calendar software for Mac OS X."
+[word]: https://products.office.com/en-us/word "A document editor."

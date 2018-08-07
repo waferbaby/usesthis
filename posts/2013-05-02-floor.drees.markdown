@@ -28,3 +28,19 @@ Being abroad I like to keep in touch with the mother ship in the Netherlands, an
 Tablets aren't really my thing as I need a keyboard, but I don't want to carry a heavy laptop around all the time, hence the MacBook Air. I'd love to have a big, fat (or rather: slim) [iMac][] though, that syncs neatly with my laptop, for my home office. And/or a ThinkPad, to make me less prone to hackers at the conferences I attend. At the CCC last year, the hackedy-hackers couldn't get enough of hacking my iPhone. That's funny and all, until you try to have a serious conversation with your mum that you haven't seen for months.
 
 But the real dream setup would be a neat space somewhere in Vienna, with 20 something laptops, decent WiFi, desks, a coffee machine and a beamer so that I can start my own little coding school. Teaching girls the workings of whatever programming language in the evenings and helping kids out during the day. And don't forget about the pensionados. I'd love to organize workshops to help them get their online banking done safely and teach them the workings of [Skype][] so they can stay in touch with relatives.
+
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[galaxy-camera]: http://www.samsung.com/in/promotions/galaxycamera/ "An Android-based 16 megapixel digital camera."
+[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[github-mac]: https://desktop.github.com/ "A client for the versioning control service."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

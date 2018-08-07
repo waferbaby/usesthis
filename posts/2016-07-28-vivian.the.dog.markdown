@@ -39,3 +39,22 @@ Outside of image processing, I use [Sunrise][] for my calander - so sad they're 
 **Vivian**: Probably having 3-5 manservants shoveling food into my mouth at all times, while lounging in my [penthouse overlooking Central Park](http://www.forbes.com/sites/morganbrennan/2012/07/30/a-look-at-new-york-citys-100-million-penthouse/ "An article about a $100 million penthouse in New York.").
 
 **Mitch**: Honestly, I'm pretty happy with what I have now. I guess I'd always love to grab an [iPad Pro][ipad-pro] - I've been wanting to play around with the [Pencil][apple-pencil] for a while now. I've been getting back into filmmaking, so I've got my eye on a [Blackmagic Cinema Camera][cinema-camera] and some nice Zeiss Primes. But that's a pipe dream for now, and it's usually better to rent that stuff. We'll see!
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
+[cinema-camera]: https://www.blackmagicdesign.com/products/cinemacameras "A digital film camera."
+[x-t10]: http://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x_t10/ "A 16 megapixel mirrorless camera."
+[xf35mmf2-r-wr]: http://www.fujifilm.com/products/digital_cameras/x/fujinon_lens_xf35mmf2_r_wr/ "A camera lens."
+[eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
+[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[pigment-liner-308]: https://www.staedtler.com/en/products/ink-writing-instruments/fineliners/pigment-liner-308-fineliner/ "A pen."
+[grammarly]: https://www.grammarly.com/ "A writing and grammar service."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[sunrise]: https://itunes.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."
+[outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
+[duolingo-ios]: https://itunes.apple.com/app/duolingo-learn-spanish-french/id570060128 "An app for learning languages."
+[vsco-film]: http://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

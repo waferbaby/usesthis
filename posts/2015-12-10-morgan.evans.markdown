@@ -27,4 +27,15 @@ I also feel it is of import to mention that I'm still using [Final Cut 7][final-
 
 ### What would be your dream setup?
 
-I would like a bungalow on a studio lot I could smoke cigarettes inside. I'd keep everything else the same. 
+I would like a bungalow on a studio lot I could smoke cigarettes inside. I'd keep everything else the same.
+
+[government-pen]: https://www.amazon.com/Skilcraft-Government-Retractable-Point-7520-00-935-7135/dp/B0055KSNYK "A ballpoint pen."
+[sm-3]: http://mytypewriter.com/olympiasm3and4.aspx "A typewriter."
+[hl-2170w]: http://www.brother-usa.com/Printer/ModelDetail/1/hl2170W/Overview "A laser printer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[mindmanager-mac]: https://www.mindjet.com/mindmanager/ "A mind mapping tool for the Mac."
+[writerduet]: https://writerduet.com/ "A collaborative screenwriting service."

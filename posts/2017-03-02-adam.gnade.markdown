@@ -32,3 +32,8 @@ For editing my books I have a [Microsoft Word][word] knockoff and for home recor
 For the last year or so I've operated under this dumb/proud idea that you should be able to work anywhere so I record and write wherever I am. In hotels, in the back bedroom of the farmhouse, in my big yellow chair by the window, etc. I wrote my book [_Caveworld_](http://pioneerspress.com/products/caveworld-a-novel "Adam's second novel.") in the barn here on the farm. The one before that, Hymn California, I wrote mostly in cars, airports, buses, and that sort of thing. 
 
 Once I get over that I'd love to build a shack in the lower fields here with a good view of the woods. It would be something like: small, low coffee table with a stack of composition notebooks and a jar of pens, my yellow chair from the farmhouse, and the best analog handheld tape recorder 1971 had to offer. Maybe a [Fender Twin amp][twin] in one corner I could plug into with a nice plastic Japanese electric guitar to get spooky. Sparse besides that. Wood burning stove would be good too.
+
+[goodtime]: https://www.deeringbanjos.com/collections/goodtime-banjos "A banjo."
+[twin]: https://en.wikipedia.org/wiki/Fender_Twin "A guitar amp."
+[hd-audio-recorder-pro-android]: https://play.google.com/store/apps/details?id=com.motivity.hqaudiorecorder.activities "An audio recording app."
+[word]: https://products.office.com/en-us/word "A document editor."

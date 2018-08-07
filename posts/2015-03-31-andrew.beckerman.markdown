@@ -29,3 +29,21 @@ I mentioned Reason above, which is the best. And I use standard programs like [F
 ### What would be your dream setup?
 
 Like I said above, when I was a kid, I could probably answer this in a way that would satisfy people that know tech stuff. But let me try. I like [iMacs][imac]. They look sleek and they have giant screens. Two of them together for video editing would be pretty dope. But that's expensive, right? Apple makes really nice products, but they're priced like status symbols, which bugs me. If I had the knowledge and ability, I'd probably just build my own computer and run Linux on it because that seems more free to me, but as a person with limited knowledge in that area, I am beholden to large corporations.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[sk-1]: https://en.wikipedia.org/wiki/Casio_SK-1 "A 32 key synthesizer."
+[oxygen-49]: http://www.m-audio.com/products/en_us/Oxygen49.html "A 49-key MIDI keyboard."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[casiotone-mt-100]: https://en.wikipedia.org/wiki/Casio_MT-100 "A 49 key keyboard."
+[x1204usb]: http://www.behringer.com/EN/Products/X1204USB.aspx "A mixer with a USB interface."
+[eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
+[procaster]: http://www.rode.com/microphones/procaster "A dynamic microphone."
+[reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[the-levelator]: https://en.wikipedia.org/wiki/Levelator "Software for auto-adjusting the levels in audio."
+[sound-forge]: http://www.sonycreativesoftware.com/soundforgepro "Audio editing software."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[vlc]: http://www.videolan.org/vlc/ "An open-source media player."
+[yacreader]: http://www.yacreader.com/ "A comic book reader."

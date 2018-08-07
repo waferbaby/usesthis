@@ -24,3 +24,9 @@ With my digital-only projects, pages are drawn in [Photoshop CS5][photoshop]. I 
 ### What would be your dream setup?
 
 A lot of my colleagues have made the jump in tablets to a [Cintiq][], where you draw with your stylus directly on the screen. That's pretty tempting. But I'd love to marry the analog and digital drawing processes - draw my pencils digitally, and print them directly onto bristol board for the inking stage. That'd take a much bigger printer, and probably a bigger scanner, too. And as long as I'm dreaming, I'd love to have access to a Risograph printer so I can experiment with formatting comics and zines for the limited color palettes the Riso does so well. Not to mention, Riso ink smells amazing!
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

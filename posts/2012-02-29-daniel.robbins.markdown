@@ -45,3 +45,24 @@ Something strange and unusual happened after I initially completed this intervie
 Since my initial answer, I was able to move my work location to a loft in downtown Albuquerque with lots of natural light, set up a nice stereo system there, and hook into a fiber network with 10Gbit/sec connectivity to Los Angeles. And yes, there is a good restaurant nearby. Still working on the wall-mounted displays though :)
 
 If anything can be learned from this, there is power in actually articulating your dream setup, since once you know what it would look like, you may actually find that making it happen is easier than you think. So I do owe a big thank you to Daniel Bogan for asking me the question :)
+
+[swopper]: https://www.amazon.com/Via-Inc-A-801-Swopper/dp/B00079EH3U "An ergonomic chair."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[poweredge-r710]: http://www.dell.com/us/business/p/poweredge-r710/pd "A rack-mounted PC server."
+[workfit-s]: https://www.ergotron.com/tabid/640/language/en-US/default.aspx "A monitor/keyboard station that lets you switch between sitting and standing."
+[raphael]: https://dmitrybaranovskiy.github.io/raphael/ "A Javascript library for working with vector graphics."
+[gentoo]: https://www.gentoo.org/ "A Linux distribution."
+[zope]: http://zope.org/ "A Python-based web application framework."
+[tornado]: http://www.tornadoweb.org/en/stable/ "A fast web server."
+[ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
+[screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
+[funtoo]: https://www.funtoo.org/Welcome "A Linux distribution."
+[openvz]: http://wiki.openvz.org/Main_Page "Virtualisation software for *nix."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[jquery]: http://jquery.com/ "A Javascript framework."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[ext-js]: https://www.sencha.com/products/extjs/ "A Javascript framework."
+[python]: https://www.python.org/ "An interpreted scripting language."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

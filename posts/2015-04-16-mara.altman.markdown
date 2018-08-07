@@ -26,3 +26,5 @@ When you say software and hardware, I think, 'why soft?' and 'why hard?' and 'a 
 ### What would be your dream setup?
 
 I guess I already have my dream setup. It's kind of surprising, because before you asked, I didn't think I had my dream anything. I suppose I'm low maintenance when it comes to computers. All I need is a blank screen and buttons with all of the letters on them, but if I could change anything, I might supplement my setup with a puppy.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

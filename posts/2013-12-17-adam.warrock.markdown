@@ -26,3 +26,19 @@ I would love to have a 15" MacBook Pro with a 27" [Thunderbolt Display][thunderb
 As for sound, I would love to have an [AT 4000 series microphone][4000-series] with a more fully featured preamp-mixer. But something tells me having a $700 microphone before I have the software and peripherals to support it would be a waste of money. So I guess in that vein, I'd love to learn how to use [Logic][]/[Pro-Tools][] or whatever else, but I've just found that my setup works for me pretty well. 
 
 Oh and I'd love to have a bigger TV. Because, uh, I guess that's work, right? Yeah. Of course it is. Definitely for only work-related reasons.
+
+[4000-series]: http://www.audio-technica.com/cms/wls_systems/b9be9e72f3de3740/index.html "A wireless microphone system."
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
+[at2020]: http://www.audio-technica.com/cms/wired_mics/c75c5918ed57a8d0/index.html "A USB digital microphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[multimix-8]: http://www.alesis.com/multimix8usb "A USB audio interface/mixer."
+[logic]: https://www.saleae.com/logic/ "A hardware debugger."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
+[ozone]: https://www.izotope.com/en/products/master-and-deliver/ozone.html "A mastering system plugin."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

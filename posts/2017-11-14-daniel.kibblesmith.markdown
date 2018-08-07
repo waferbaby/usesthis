@@ -23,3 +23,8 @@ For comics, I write primarily in [Google Docs][google-docs] for saving, sharing,
 ### What would be your dream setup?
 
 I think this is it, I'm good. But I did stay in a hotel over my honeymoon where they put a little tackle-box of coffee and scones outside your door before you woke up, so if I could add anything at this point, it'd be that.
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[scripto]: http://scripto.computer/ "A tool for collaboratively writing TV scripts."

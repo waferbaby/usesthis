@@ -34,3 +34,19 @@ For music I use [Ableton][live] with Fabfilter's creative plugins. I love the de
 My dream setup would be to live in a world without internet comments. If that's off the table, I'd settle with the smallest, most souped up MacBook Pro (sans touch bar) and a fancy [Kindle Voyage][kindle-voyage]. I lost my Kindle dragging my suitcase through a very snowy London and I'm terrified that eons from now someone will find it and base their understanding of the human race off my incredibly odd assortment of young adult fiction and romance novels. It keeps me up at night, and Amazon does not offer a remote wipe option. Trust me, I checked.
 
 I'm not sure this is the right place for it, but following on from #2, I'm selling a cat. Just in case anyone is interested.
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
+[op-1]: https://www.teenageengineering.com/products/op-1 "A unique synthesizer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[kindle-voyage]: https://www.amazon.com/High-Resolution-Display-Adaptive-PagePress-Sensors/dp/B00IOY8XWQ "A high-resolution ebook reader."
+[launchpad]: http://us.novationmusic.com/midi-controllers-digital-dj/launchpad "A controller for Ableton Live."
+[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[sandpit]: https://sandpitjs.com/ "A JavaScript canvas experimentation tool."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."

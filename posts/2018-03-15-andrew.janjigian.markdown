@@ -42,4 +42,24 @@ Like most photographers, have a love/hate relationship with [Instagram][] (chron
 
 #### What would be your dream setup?
 
-To be honest, I'm pretty happy with the setup I have now. I just hope the tools I do prefer to use don't become hard to find, difficult to repair, etc. And I'd like it for Fuji to [bring back peel apart film](https://www.change.org/p/save-instant-film "A petition to bring back Fujifilm FP-100c."). 
+To be honest, I'm pretty happy with the setup I have now. I just hope the tools I do prefer to use don't become hard to find, difficult to repair, etc. And I'd like it for Fuji to [bring back peel apart film](https://www.change.org/p/save-instant-film "A petition to bring back Fujifilm FP-100c.").
+
+[rz67]: https://en.wikipedia.org/wiki/RZ67 "A medium format analog camera."
+[7]: https://en.wikipedia.org/wiki/Mamiya_7 "A medium format camera."
+[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
+[new-wide-lens]: https://www.shopmoment.com/shop/new-wide-lens "A camera lens for mobile phones."
+[anniversary-speed-graphic]: https://graflex.org/speed-graphic/anniversary-graphic.html "A large format film camera."
+[aws-600-blk]: https://www.amazon.com/American-Weigh-Scales-AWS-600-BLK-Nutrition/dp/B000O37TDO/ "Kitchen scales."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[classic-grain-mill]: https://pleasanthillgrain.com/komo-classic-grain-mill-flour-grinder-wood-stone "A flour grinder."
+[danish-dough-whisk]: https://breadtopia.com/store/danish-dough-whisk/ "A dough whisk."
+[baking-steel]: https://shop.bakingsteel.com/collections/steels/products/baking-steel "A steel sheet for baking pizza."
+[reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
+[1writer-ios]: https://itunes.apple.com/us/app/1writer/id680469088 "A text editor app."
+[instagram]: https://www.instagram.com/ "A photo sharing service."
+[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
+[flume]: https://flumeapp.com/ "A Instagram client for the Mac."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[breadstorm-reader-ios]: https://itunes.apple.com/us/app/breadstorm-reader/id880900479 "A companion app for BreadStorm."
+[breadstorm]: http://www.breadstorm.com/ "Bread formulation software for the Mac."

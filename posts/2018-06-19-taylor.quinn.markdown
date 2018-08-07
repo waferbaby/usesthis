@@ -32,3 +32,17 @@ Gaming software ranges depending on the game, and for actual streaming purposes 
 My dream setup would probably include an office of my own, and a better lighting rig. Right now my lighting is a simple bulb behind my desk and room lights. I would also love to have one of the [Elgato Green Screens][green-screen] that store away when not in use, but they're currently out of stock for Canadian purchase. Otherwise, I'm really happy with what I have!
 
 A fun fact about me is that 10% of my income goes to children's wellness organizations like [Child's Play](http://childsplaycharity.org/ "A video game-based charity."), as well as animal rescues like NYC Second Chance Rescue & MotleyZooCrew; I do charity streams to raise funds for organizations like these regularly!
+
+[green-screen]: https://www.elgato.com/en/gaming/green-screen "A green screen for chroma keying."
+[geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/ "A graphics card."
+[apex-350]: https://steelseries.com/gaming-keyboards/apex-350 "A gaming keyboard."
+[a50]: https://www.astrogaming.com/headsets/A50-GEN3.html "A gaming headset."
+[arctis-7]: https://steelseries.com/gaming-headsets/arctis-7 "A wireless gaming headset."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[xeon-e3-1231-v3]: https://ark.intel.com/products/80910/Intel-Xeon-Processor-E3-1231-v3-8M-Cache-3_40-GHz "A CPU."
+[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[nightbot]: https://beta.nightbot.tv/ "A Twitch and YouTube chat bot."
+[streamlabs]: https://streamlabs.com/ "A streaming service."
+[obs-studio]: https://obsproject.com/ "Video recording and streaming software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -30,3 +30,26 @@ If I were threatened with a gun and told to only keep one app that I currently u
 ### What would be your dream setup?
 
 Silent room. Like, Silent silent. It'd be about 65°F with a tree and a babbling brook that only babbles when I'm not in the mood for silence. When I need a break from coding in this dream office, my best friends show up. Then they always leave just when I'm about to go into the zone without my needing to say anything. This hardware exists, right? Also, I'd like a bunch of more realistic stuff I plan on grabbing soon anyway, like the latest [MacBook Pro][macbook-pro] with solid state and gobs of memory.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[github]: https://github.com/ "A Git code repository service."
+[gtmetrix]: https://gtmetrix.com/ "Online-based web performance analysis."
+[git]: https://git-scm.com/ "A version control system."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[sight]: https://chrome.google.com/webstore/detail/sight/epmaefhielclhlnmjofcdapbeepkmggh "A Chrome extension that adds syntax highlighting."
+[app-engine]: https://cloud.google.com/appengine/?csw=1 "Hosting for web applications."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
+[macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
+[mercurial]: https://www.mercurial-scm.org/ "A version control system."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[vico]: http://www.vicoapp.com/ "A text editor for Mac OS X"
+[vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
+[quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
+[kiln]: http://www.fogcreek.com/kiln/ "A hosted Mercurial version control system."

@@ -29,3 +29,28 @@ I suppose I think of "my setup" very broadly. Not only the specific tools I'm us
 So I don't have a dream setup, really. I just want to keep interrogating, adjusting, and re-assessing all of these things, in a constant introspective conversation.
 
 With that said, I'd love to have a laptop that was a little lighter and thinner than my Air, with a better, higher-resolution screen. Am I just describing the new [MacBook][macbook.2]? Maybe. Shame about the single USB-C port, though.
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
+[time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
+[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[go]: https://golang.org/ "A compiled programming language."
+[go-kit]: https://gokit.io/ "A microservices toolkit for Go."
+[terraform]: https://www.terraform.io/ "A tool for managing computer infrastructure."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
+[sizeup]: http://www.irradiatedsoftware.com/sizeup/ "Mac software for arranging windows."
+[fastly]: https://fastly.com/ "A CDN."
+[f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
+[ok-log]: https://github.com/oklog/oklog/ "A distributed log management tool."
+[homebrew-cask]: https://github.com/caskroom/homebrew-cask "A command-line tool for installing Mac applications."
+[homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
+[visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

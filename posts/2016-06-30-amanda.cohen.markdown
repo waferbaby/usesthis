@@ -27,3 +27,13 @@ I use [Gmail][] for email, [Webhook][] for the restaurant's website, [Shopify][]
 ### What would be your dream setup?
 
 The biggest piece of hardware I use is my restaurant, and this one is so much bigger than the original Dirt Candy (60 seats as opposed to 18) that I can't imagine having anything better. I just wish I had more room for recipe testing, but prep is so intense it takes up every nook and cranny of my kitchen all day long. The main software I use is my staff, and that can be overwhelming, especially because at the original Dirt Candy I had six employees and now I have around 30. They're great, but taking care of them, keeping them motivated, training them, and supervising them is a huge job. It's worth it, but I would be lying if I didn't confess there were moments when [I just want to resort to monkeys](https://youtu.be/KeSQ5Rv7eH8 "A YouTube video about monkeys as waiters in a restaurant in Japan.").
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[color-laserjet-professional-cp5225n]: http://store.hp.com/us/en/pdp/business-solutions/hp-color-laserjet-pro-cp5225n-printer-ce711a-bgj "A printer."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[shopify]: https://www.shopify.com/ "A service for selling goods online."
+[opentable]: https://www.opentable.com/start/home "A restaurant reservation service."
+[quickbooks]: https://quickbooks.intuit.com/ "Business accounting software for Windows."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[webhook]: http://www.webhook.com/ "An open source hosted CMS."

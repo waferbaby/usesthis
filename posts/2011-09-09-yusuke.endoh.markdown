@@ -63,3 +63,24 @@ Maybe unlike many other programmers, I absolutely hate configuration. "It is pos
 ### What would be your dream setup?
 
 A world where everyone enjoys programming.
+
+[thinkpad-x24]: http://www.thinkwiki.org/wiki/Category:X24 "A 12.1 inch PC laptop."
+[thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
+[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
+[ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[github]: https://github.com/ "A Git code repository service."
+[git]: https://git-scm.com/ "A version control system."
+[scala]: http://www.scala-lang.org/ "A compiled programming language."
+[ocaml]: http://caml.inria.fr/ocaml/index.en.html "An object-oriented version of the Caml programming language."
+[haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
+[mlterm]: http://mlterm.sourceforge.net/ "A multi-lingual terminal for X11."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[debian]: https://www.debian.org/ "A Linux distribution."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."
+[kubuntu]: http://www.kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
+[kate]: https://kate-editor.org/ "A text editor for KDE."

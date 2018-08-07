@@ -40,3 +40,13 @@ Our medicine cabinet has fever reducers and asthma medications that are basicall
 #### What would be your dream setup?
 
 Sticking to technology, I want a sauna, an internet that isn't destroying democracy and society, and a cure for pain.
+
+[trackman-marble]: https://www.logitech.com/en-us/product/trackman-marble "A trackball."
+[premium-quilted-heated-mattress-pad]: http://www.sunbeam.com/heated-bedding/mattress-pads/sunbeam-premium-quilted-heated-mattress-pad/MRU5S-MASTER+PMP.html "A heated mattress pad."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[github]: https://github.com/ "A Git code repository service."
+[zotero]: https://www.zotero.org/ "A research tool."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[clue-ios]: https://itunes.apple.com/us/app/clue-health-period-tracker/id657189652 "A period and health tracking app."
+[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[pandoc]: http://pandoc.org/ "A Markdown document converter."

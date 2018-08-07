@@ -31,3 +31,13 @@ I'm not super picky! I try to make anything work: I've made drawings on scraps o
 My preferred methods above have emerged from being scrappy, trying things, and working with what I have and what I know. I learned Photoshop for editing figures at work, so that's what I'm comfortable with. Inertia is a powerful force of nature.
 
 I have tried drawing on digital tablets instead of the paper-then-scanner method, and I may want to go that way in the future, but it hasn't happened yet. I'm really liking having a huge secondary display though! Some change is overwhelmingly good!
+
+[hl-2280dw]: http://www.brother-usa.com/Printer/ModelDetail/1/HL2280DW/Overview "A laser printer and scanner."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[doxie-go]: http://www.getdoxie.com/product/doxie-go/ "A portable wireless scanner."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[simplenote]: https://simplenote.com/ "A note-taking/syncing service."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[word]: https://products.office.com/en-us/word "A document editor."

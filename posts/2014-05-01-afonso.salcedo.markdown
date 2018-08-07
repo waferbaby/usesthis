@@ -34,3 +34,14 @@ All my photography goes through [Lightroom 5][lightroom], and other image manipu
 My dream setup would be to be able to invest in a higher end professional camera, instead of renting it as I currently do. Something like a RED package, or a Sony F55. I would also be able to own my own lighting rig, including some LED panels, and more, enough to cover the basics. Of course a set of great cinema lenses would just be icing on the cake.
 
 When you work in film and photography, the gear and equipment needs are pretty intense, and it can easily be a never ending list so it's important to be wise about the investments and choose accordingly.
+
+[nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
+[alpha-7r]: http://store.sony.com/a7r-alpha-7r-interchangeable-lens-camera-zid27-ILCE7R/B/cat-27-catid-All-Alpha-NEX-Cameras "A 36.4 megapixel full-frame digital camera."
+[f55-cinealta-4k]: https://pro.sony.com/bbsc/ssr/show-highend/resource.solutions.bbsccms-assets-show-highend-F55.shtml "A high-end digital video camera."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[pocket-cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/ "A Super 16 digital video camera."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
+[davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

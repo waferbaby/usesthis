@@ -28,3 +28,11 @@ I use Adobe most of all, and primarily the [CS3][creative-suite] suite still, si
 ### What would be your dream setup?
 
 I'd adore having a Cintiq Companion and to be more mobile in general; it's tough being tied exclusively to the office for most of the time due to the digital nature of our art! We have a lot of fun though and I'm just happy to have any kind of set up at all! Haha!
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

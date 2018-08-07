@@ -51,3 +51,28 @@ My dream setup would be a wearable computer with a lightweight, non-invasive tra
 The problem is that no one is making a high quality see-thru monocular HMD because there's no market for it. There's a tiny niche market for dual-display goggles for people who want to watch movies in business class, but not for everyday use. I've been lucky to know some researchers in wearable computing, and sometimes they let me borrow their hacked displays, but the industry is a slow moving one, and I'm just going to have to wait. I'd love to have a MicroOptical (Now MyVu) [Industrial Monocular Display](http://www.flickr.com/photos/caseorganic/4611801231/ "Amber's photo of the MyVu.") but they are no longer produced, and the company is out of business. If you're building one, please send it to me so I can test it.
 
 Other than that, I have my dream setup right now. I have a tiny keyboard on my phone. I have a camera and a lightweight computer. I have trigger-based geofence technology that triggers actions in my home. I never thought I'd be able to have devices that were larger than the inside than they were on the outside, and I never thought I'd be able to interact with invisible interfaces. These kind of things were always in my mind as I tried to sleep during insomnia-filled nights as a 4 year old. I'm quite happy with how things are turning out.
+
+[ultrasharp-u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[connect-x2]: https://www.amazon.com/Eye-Fi-Connect-Wireless-Memory-EYE-FI-4CN/dp/B003DV4234 "An SD card that can upload to photo sites for you."
+[powershot-elph-300-hs]: http://usa.canon.com/cusa/consumer/products/cameras/digital_cameras/powershot_elph_300_hs "A 12.1 megapixel digital camera."
+[netdraw]: http://www.analytictech.com/Netdraw/netdraw.htm "A Windows tool for visualising social network data."
+[google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[geoloqi]: https://geoloqi.com/ "A geo-location service for smartphones."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
+[mediawiki]: https://www.mediawiki.org/wiki/MediaWiki "A PHP-based Wiki package."
+[mapattack]: http://mapattack.org/ "A location-based real-world game."
+[jumpcut]: http://jumpcut.sourceforge.net/ "A clipboard buffer for Mac OS X."
+[colloquy]: http://colloquy.info/ "An IRC client for the Mac."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[visio]: https://products.office.com/en-us/visio/flowchart-software "Visualising/diagraming software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

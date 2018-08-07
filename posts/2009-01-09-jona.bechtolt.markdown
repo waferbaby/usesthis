@@ -37,3 +37,25 @@ For downloading "files" I use [Unison][], [Transmission][], [binsearch][], and [
 Wow, this is a cool question. I think I have it? I love consumer-grade computers. I don't think I would get much more out of a 30" Cinema Display and a quadrillion-core MacPro. I would like to have a better desk and chair, though. My friend Flint builds really beautiful furniture for himself. I would love to have a desk on giant casters, some sort of cable management system, and everything always plugged in and ready to go. The same goes for audio stuff; I wish I could have everything connected and ready to record instead of having to move my single microphone around all the time.
 
 Thank you for asking!
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[audio-kontrol-1]: https://www.amazon.com/Native-Instruments-Audio-Kontrol-Interface/dp/B000NHWPK8 "A high-end audio interface."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[powershot-sd1000]: https://www.amazon.com/Canon-PowerShot-SD1000-Digital-Optical/dp/B000NK8EWI "A 7.1 megapixel compact digital camera."
+[reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
+[unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[transmission]: https://transmissionbt.com/ "A BitTorrent client."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
+[mda-vst]: http://mda.smartelectronix.com/ "A collection of open source VST/AU plugins."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[binsearch]: http://binsearch.info/ "An online newsgroup search engine."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[pizzatorrent]: http://pizzatorrent.com/ "An online meta-search engine for torrent sites."
+[peak]: https://www.pcworld.com/article/157969/article.html "A music creation and editing tool."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -44,3 +44,28 @@ A tiny printer like [this][little-printer] that prints reminders of meetings I'm
 An office where all walls are painted with [IdeaPaint][].
 
 A car navigation system that alternated between the voice of Ira Glass and Morgan Freeman.
+
+[ideapaint]: http://www.ideapaint.com/products/ideapaint "A paint that's useable as a whiteboard."
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[zebra-number-2-mechanical-pencil-0.7mm]: https://www.amazon.com/Zebras-Zebra-Mechanical-Pencil-51391/dp/B001BZ4RJS "A mechanical pencil."
+[slingbox-500]: https://www.amazon.com/Sling-Media-SB500-100-Slingbox-500/dp/B009FU8BR0 "An Internet-connection set top box."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[jetpack-mifi-5510l]: https://www.pcmag.com/article2/0,2817,2415262,00.asp "A mobile hotspot device."
+[eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
+[bc278clt]: https://www.uniden.com/scanners/fully-programmable-with-100-channels12-bands-5-banks/invt/bc278cltg "A 10-band police scanner."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[little-printer]: http://littleprinter.com/ "A small Internet-connected printer."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
+[mailbox]: http://www.mailboxapp.com/ "A email client."
+[methode]: https://www.eidosmedia.com/platform/ "A content management system used by newspapers."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[camera-plus-ios]: http://camera.plus/ "A pro photo app for the iPhone."
+[chartbeat]: https://chartbeat.com/ "A real-time data tracking service."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

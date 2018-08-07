@@ -36,3 +36,19 @@ As for computers, I've used a lot of the different pathology software packages o
 I think it would be entirely possible to roll all the disparate bits of software into one monolithic program and that's an eventual goal with CMS. It really is a PITA at the moment using so many different pieces of software daily. 
 
 I'd also like to use [OS X][macos] and [LibreOffice][] at work but you can always dream.
+
+[sks-105]: https://www.amazon.com/Mac-Knife-Ultimate-Slicing-4-Inch/dp/B0017VK3Y4 "A big knife."
+[mks-105]: https://www.amazon.com/Mac-Knife-Professional-Slicing-4-Inch/dp/B000N5BV4Q "A big knife."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[uvis]: https://en.wikipedia.org/wiki/Unified_Victim_Identification_System "A database system for identifying people, pre/post-death."
+[internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
+[silverlight]: http://www.microsoft.com/silverlight/ "A platform for creating Web and mobile applications."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[copathplus]: https://store.cerner.com/items/311 "Pathology lab software."
+[digital-evidence-manager]: http://www.veripic.com/?go=demanager "A platform for managing evidence for law enforcement."
+[endnote]: http://endnote.com/ "Reference and bibliography software."
+[libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

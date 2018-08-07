@@ -38,3 +38,25 @@ I use [Finale][] for music composition, and [Reaper][] for mixing. I use [Photos
 ### What would be your dream setup?
 
 Because I travel so much, the key to my dream setup is dream portability. I've cobbled the closest thing I can to a portable ergonomic desk using special keyboards and stands, but it's a lot to carry. My dream setup would be one where the screen of the laptop could pull upward away from the keyboard and stay that way, so I could position the screen up at face height while keeping the keyboard down at lap height or just above. With such a setup I could travel with just the laptop and trackball, and leave all the clunky stands. I know you can use keyboards with tablets, but then I would still need a stand to keep the tablet up at head height, which is so important for avoiding slouching/crouching which is so much of what causes RSI. With that, a good keyboard, and plenty of storage constantly accessible on the cloud, I could bring all my work anywhere, and that is optimum for someone like me who has to balance multiple careers at the same time.
+
+[up-1000]: http://www.uprisedesk.com/uprise-independent-leg-standing-desk/ "A standing desk."
+[us-4x4]: http://tascam.com/product/us-4x4/ "A USB audio interface."
+[thinkvision-lt1421]: https://support.lenovo.com/us/en/documents/pd015702 "A 14 inch portable monitor."
+[tru-ss100]: https://www.ergoprise.com/ergoprise-zuma-sit-to-stand-tru-ss100-single-monitor-arm/ "A monitor arm."
+[lts50]: http://www.samash.com/lts50-laptop-stand--slts50xxx? "A tripod-based laptop stand."
+[yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
+[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
+[icloud]: https://www.apple.com/icloud/ "A cloud service."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[activeinbox]: http://www.activeinboxhq.com/ "A Gmail tool to help control email."
+[finale]: https://www.finalemusic.com/products/finale/ "Music notation software."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[onenote]: https://www.onenote.com/ "Synced notes software (part of Office)."
+[habitrpg]: https://habitica.com/static/front "A productivity game."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[endnote]: http://endnote.com/ "Reference and bibliography software."
+[box]: https://www.box.com/ "A syncing and storage service."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[word]: https://products.office.com/en-us/word "A document editor."

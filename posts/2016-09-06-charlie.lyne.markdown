@@ -32,3 +32,24 @@ Other bits of software I use for creative purposes include: [Final Draft][final-
 ### What would be your dream setup?
 
 I wouldn't have it any other way.
+
+[5big-thunderbolt]: https://www.amazon.com/MODEL-LaCie-Thunderbolt-External-9000378U/dp/B00AX9ZA6W/ "A large hard drive bay."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[studiophile-av-40]: http://www.m-audio.com/products/en_us/StudiophileAV40.html "Desktop speakers."
+[s24b300hl]: http://www.samsung.com/uk/support/model/LS24B300HL/EN "A 23.6 inch LED screen."
+[as-klmh12]: http://www.koolertron.com/koolertron-professional-120cm-video-camera-mini-slider-for-dv-dslr-video-camera-canon-p-180.html "A metal slide for tracking a recording."
+[h5]: https://www.zoom.co.jp/products/handy-recorder/h5-handy-recorder "A digital audio recorder."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[lumix-dmc-gh4]: https://www.amazon.com/Panasonic-DMC-GH4KBODY-16-05MP-Mirrorless-Cinematic/dp/B00I9GYG8O "A 16.05 megapixel digital camera."
+[utorrent]: http://www.utorrent.com/ "A BitTorrent client."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[super-empty-trash]: https://www.macupdate.com/app/mac/16727/super-empty-trash "A tool for force-emptying the Trash in macOS."
+[final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[makemkv]: http://www.makemkv.com/ "Video conversion software."
+[jubler]: http://www.jubler.org/ "A tool for editing subtitles."
+[dcp-o-matic]: http://dcpomatic.com/ "A tool to create a Digital Cinema Package from videos and images."
+[bytecopy]: http://www.pavtube.cn/bytecopy/ "A Blu-ray and DVD ripper."
+[word]: https://products.office.com/en-us/word "A document editor."

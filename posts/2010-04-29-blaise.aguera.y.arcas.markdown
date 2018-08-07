@@ -26,3 +26,20 @@ I'm a bit irritated by the politics of software. I don't feel any need to make a
 ### What would be your dream setup?
 
 The Greek island where Lawrence Durrell wrote, or the imaginary island where I imagine him to have written. A cafe and taverna down the rocky path, by the sea, with good espresso in the morning, and retsina in the evening, resinous and spiky. The fish, prepared simply, with sea salt and olive oil. Good WiFi coverage, in spite of these things, during particular hours of the day-- say, 9am to 3pm, then 8pm-10pm.
+
+[iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
+[vgn-z690]: https://www.cnet.com/products/sony-vaio-z-series-vgn-z690-13-1-core-2-duo-p8700-vista-home-premium-64-bit-2-gb-ram-160-gb-hdd/ "A PC laptop with a 13.1 inch screen."
+[ice]: http://research.microsoft.com/en-us/um/redmond/projects/ice/ "Panorama image stitching software."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[takeone]: https://www.microsoft.com/en-us/research/project/takeone-screen-recording-and-presentation/ "Screen recording software."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
+[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
+[matlab]: https://en.wikipedia.org/wiki/MATLAB "A language and environment for data computation."
+[miktex]: https://miktex.org/ "Typesetting software for Windows."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[photosynth]: https://photosynth.net/ "A web service for sewing images into a 3D scene."
+[python]: https://www.python.org/ "An interpreted scripting language."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[word]: https://products.office.com/en-us/word "A document editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -28,3 +28,26 @@ Nothing too fancy. Everything I write, from grocery lists to magazine articles, 
 My dream setup would have lots and lots of natural light, a good sound system and leafy plants. And a nice big labrador. I'd need a lot of table space so I could spread out all my dumb scribbly drafts, floor plans and reference books. (So far I'm just describing my friends' Steve and Michelle's house in Los Angeles - I've done all of my best writing while watching their dogs while they were on vacation!) 
 
 I'd like a proper desktop [iMac][], too. And more [colored pencils][premier-soft-core]. And more pictures of my friends.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[go-travel]: https://www.goldtouch.com/the-goldtouch-go-travel-notebook-tablet-stand/ "A laptop and tablet stand."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[verticalmouse-wireless]: https://evoluent.com/products/vm4rw/ "A unique wireless mouse."
+[va2445m-led]: https://www.viewsonic.com/us/va2445m-led.html "A 24 inch monitor."
+[k810]: https://www.logitech.com/en-us/product/bluetooth-illuminated-keyboard-k810 "A multi-device Bluetooth keyboard."
+[pixma-mg5620]: https://www.usa.canon.com/internet/portal/us/home/products/details/printers/inkjet-multifunction/mg-series-inkjet/mg5620/ "An all-in-one printer."
+[premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
+[play-1]: http://www.sonos.com/shop/play1 "A wireless speaker."
+[numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[trello]: https://trello.com/ "A project management service."
+[tomato-timer]: https://tomato-timer.com/ "A web service for tracking your time."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[sunrise]: https://itunes.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."
+[outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[word]: https://products.office.com/en-us/word "A document editor."

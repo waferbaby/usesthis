@@ -28,3 +28,22 @@ The biggest changes for me, though, are behavior. At the most basic level, I've 
 Of course, my dream setup would be for all of this equipment to vanish. I miss the flexibility I used to have, but I don't miss the amount I used to work. Setting up boundaries around work has been both a survival strategy and a huge benefit to my life, both personally and for the time I spend with friends and family. Hundred hour work weeks didn't used to scare me but now they feel laughable --- that it would ever be worth it again to damage my body in such deep and lasting ways just to squeeze out a few more hours of typing.
 
 My work over the last year hasn't been healthy by any means, but it has allowed me to take a step back from everything and approach work with a lot more patience and care.
+
+[sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
+[smartglove]: https://www.amazon.com/gp/product/B005THDUE2/ "A wrist wrap."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[cumuluspro]: http://imprintmats.com/cumuluspro-anti-fatigue-mat-perfect-for-standing-desks/ "Anti-fatigue standing mats."
+[energizing-wrist-support]: https://www.amazon.com/Futuro-Energizing-Wrist-Support-Small/dp/B0026RHGA2/ "A wrist brace."
+[wired-ergonomic-mouse-small]: https://www.amazon.com/3M-Ergonomic-Optical-Compatible-EM500GPS/dp/B000F2BP7U "A vertical mouse"
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[gifme]: http://gifme.io/ "A GIF-storing service/app."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[fish]: http://fishshell.com/ "A command-line shell."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[dwellclick]: http://pilotmoon.com/dwellclick/ "Mac software that clicks the mouse for you."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."
+[browserstack]: https://www.browserstack.com/ "A service for testing a site live across a multitude of browsers."
+[pinboard]: http://pinboard.in/ "A bookmarking web service."
+[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."

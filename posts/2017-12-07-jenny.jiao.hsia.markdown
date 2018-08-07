@@ -35,4 +35,34 @@ I use [Unity][] to make games and [Bitbucket][] for source control. For art, I m
 
 ### What would be your dream setup?
 
-My dream setup would include a big sturdy desk, a nice comfy chair, an enormous bulletin board, a more serious and robust sewing machine, a powerful [Mac Pro][mac-pro] with tons of storage, and a couple of extra monitors! 
+My dream setup would include a big sturdy desk, a nice comfy chair, an enormous bulletin board, a more serious and robust sewing machine, a powerful [Mac Pro][mac-pro] with tons of storage, and a couple of extra monitors!
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
+[amazonbasics-3-button-usb-wired-mouse]: https://www.amazon.com/AmazonBasics-3-Button-Wired-Mouse-Black/dp/B005EJH6RW/ "A wired mouse."
+[flora]: https://www.adafruit.com/product/659 "A round microcontroller."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[makey-makey]: https://www.makeymakey.com/ "An invention kit."
+[energel-x]: https://www.amazon.com/Pentel-EnerGel-X-Retractable-Liquid-BLN105/dp/B005EE4UPS "A retractable gel pen."
+[backup-plus-slim]: https://www.amazon.com/Seagate-Backup-Portable-External-STDR2000100/dp/B00FRHTSK4 "An external hard drive."
+[linnmon]: http://www.ikea.com/us/en/catalog/products/S29932181/ "A table."
+[lady-lilac]: http://janome.com/en/machines/sewing/lady-lilac/ "A sewing machine."
+[lifetime-folding-chair]: https://www.costco.com/Lifetime-Folding-Chair%2C-4-pack.product.11482116.html "A folding chair."
+[licecap]: https://www.cockos.com/licecap/ "Screen capture software."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[soundflower]: https://rogueamoeba.com/freebies/soundflower/ "Mac software for passing audio between applications."
+[stellar-smooch-ios]: https://itunes.apple.com/us/app/stellar-smooch/id931063942 "A game about two space probes kissing."
+[arduino-ide]: https://www.arduino.cc/en/Main/Software "A development environment for Arduino hardware."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[facebook-messenger-ios]: https://itunes.apple.com/us/app/facebook-messenger/id454638411 "A Facebook chat client app."
+[hungry-buddy]: https://q_dork.itch.io/hungry-buddy "A game about feeding your date."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[morning-makeup-madness]: https://q_dork.itch.io/morning-makeup-madness "A game about putting on makeup."
+[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."
+[beglitched]: http://beglitched.net/ "A game about insecurity."
+[bitbucket]: https://bitbucket.org/ "A source code hosting service."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[wobble-yoga]: https://q_dork.itch.io/wobble-yoga "A game about matching yoga poses."

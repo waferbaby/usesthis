@@ -44,3 +44,25 @@ A MacBook Pro that drives multiple external displays. I have actually dreamt of 
 Laptops with true sunlight readable displays. Because it's just so hard to work at the beach right now.
 
 A wearable, one-touch recorder that captures conversations and todo items. It syncs to the cloud. Because by the time I open an iPhone app, that big idea could be long gone.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[er4-micropro]: http://www.etymotic.com/ephp/er4.html "In-ear headphones."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[greplin-ios]: https://itunes.apple.com/us/app/greplin/id424909109 "A client app for the Greplin service."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[things]: https://culturedcode.com/things/ "A task management application for the Mac."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[foursquare-ios]: https://itunes.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
+[hunch]: https://en.wikipedia.org/wiki/Hunch_(website) "A personal taste service."
+[mysql]: https://www.mysql.com/ "A relational database server."
+[camera-plus-ios]: http://camera.plus/ "A pro photo app for the iPhone."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[exit-strategy-nyc-ios]: http://www.exitstrategynyc.com/ "A New York navigation app."
+[buddha-machine-ios]: https://itunes.apple.com/gb/app/buddha-machine-ipad-edition/id394619578 "An ambient noise generator app, based on real-world plastic devices."
+[python]: https://www.python.org/ "An interpreted scripting language."

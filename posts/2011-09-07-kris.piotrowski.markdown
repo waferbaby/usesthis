@@ -23,3 +23,24 @@ I spend a lot of time in [Google Docs][google-docs], which our teams use to keep
 ### What would be your dream setup?
 
 When I get super rich, I'm going to demand [Optimal Sleeping and Working Arrangements](http://theheavenlyhome.com/kids-bunk-beds-with-desk-the-optimal-sleeping-and-working-arrangement/ "The concept of bunk beds with desks built in."). And [this chair][cocon].
+
+[usb-snes-classic-controller]: https://www.amazon.com/Nintendo-Retrolink-Super-Classic-Controller-NES/dp/B002824SNS "What it says on the label."
+[sr80i]: https://www.amazon.com/Grado-SR80i-Headphone-Discontinued-Manufacturer/dp/B0055P9K38 "Headphones."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[monotron]: https://www.amazon.com/Korg-Monotron-Analogue-Ribbon-Synthesizer/dp/B003DX96TW "An analog synth."
+[cocon]: http://www.super-ette.com/produits/cocon.php?lang=en "A chair with a built-in sleeping bag."
+[vita]: http://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
+[ufo-enemy-unknown]: https://en.wikipedia.org/wiki/UFO:_Enemy_Unknown "A strategy video game."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
+[sword-and-sworcery-ios]: http://www.swordandsworcery.com/ "A pixelated adventure game for iOS."
+[might-and-magic-clash-of-heroes]: http://www.capybaragames.com/might-magic-clash-of-heroes/ "An RPG/adventure game for the DS."
+[dosbox]: http://www.dosbox.com/ "An x86/DOS emulator."
+[boot-camp]: https://en.wikipedia.org/wiki/Boot_Camp_(software) "Software to allow Macs to run Windows natively."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

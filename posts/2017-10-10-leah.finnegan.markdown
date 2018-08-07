@@ -25,4 +25,21 @@ For six years I lived in a shoebox studio and basically did all my work on my la
 
 ### What would be your dream setup?
 
-My apartment, but in a silent place, with a constantly replenishing supply of Diet Coke. 
+My apartment, but in a silent place, with a constantly replenishing supply of Diet Coke.
+
+[iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
+[go-cart]: https://www.cb2.com/go-cart-white-rolling-desk/s454133 "A rolling desk."
+[s2318nx]: http://www.dell.com/en-us/shop/accessories/apd/210-alil?ref=p13n_std_pdp_mv&c=us&cs=19&l=en&s=dhs "A 23 inch LCD display."
+[magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[m325]: https://www.logitech.com/en-us/product/wireless-mouse-m325 "A wireless mouse."
+[k10]: https://www.amazon.com/Keurig-Mini-Brewing-System-Black/dp/B00RD82ZW8 "A coffee brewer."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[solitaire-ios]: https://itunes.apple.com/us/app/solitaire/id479280326?mt=8 "A card game."
+[slack]: https://slack.com/ "A collaboration service."
+[feedly]: https://feedly.com/ "A feed reader."
+[kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."

@@ -45,3 +45,28 @@ On Windows, I've also made some of my games (my small, 1-week "sketches") using 
 ### What would be your dream setup?
 
 Dream setup? This is it!
+
+[inspiron-4100]: http://www.zdnet.com/dell-inspiron-4100-3010000050/ "An old PC laptop."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[the-professional-ii]: http://www.atpm.com/7.05/datahand.shtml "An oldish USB-based input device."
+[mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
+[powertower-pro-250]: http://www.everymac.com/systems/powercc/powertower_pro/powertower_pro250.html "A PowerPC-based Mac clone."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[game-maker]: https://www.yoyogames.com/studio "A game creation GUI for Windows."
+[gcc]: http://gcc.gnu.org/ "Code compiler frontends."
+[sdl]: http://www.libsdl.org/ "A cross-platform multimedia/gaming library."
+[skencil]: http://www.skencil.org/ "A freeware vector drawing application for *nix."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[msys]: http://www.mingw.org/wiki/MSYS "A Bash shell for Windows."
+[mtpaint]: http://mtpaint.sourceforge.net/ "A painting program for *nix and Windows."
+[make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
+[mingw]: http://www.mingw.org/wiki/MinGW "A compiler system for Windows based on GCC."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[xubuntu]: https://xubuntu.org/ "A lightweight version of the Ubuntu distribution."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[latex]: https://www.latex-project.org/ "Typesetting software."
+[passage]: http://hcsoftware.sourceforge.net/passage/ "A cross-platform game of discovery."
+[windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

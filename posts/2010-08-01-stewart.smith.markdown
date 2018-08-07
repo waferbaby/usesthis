@@ -32,3 +32,16 @@ Take a step and a half backward. Tilt your head to one side. Un-focus your eyes.
 And these instruments ought to be accessible to children as well. Look at the piano for example. An uninstructed child will discover on their own that the keyboard's x-axis relates to pitch, force relates to volume, and if their little legs are long enough they can experiment with sustain. Minutes to learn (albeit badly). A lifetime to master. That's a good goal for new computing tools: intuitive enough to jump in on, but with room to evolve real skill and elegance. And programming (in some simplified visual form) ought to be taught in kindergarten alongside literacy. Conservatives love to harp on English and Math at the expense of Music and Art. Programming could integrate with and augment all of these. (At least in my fantasy future world. I'm dreaming here... just roll with it.) Think of it this way: You don't need [Mavis Beacon][mavis-beacon] when you have instant messaging. Adults and [children](http://bits.blogs.nytimes.com/2010/02/13/chatroulettes-founder-17-introduces-himself/ "A NYT piece on the creator of Chatroulette.") alike will endure the hardships of a learning curve if it enables them to more actively create, gossip, fight, and make up with their peers. (And that's doubly so if you're in the [cutthroat social status cesspool of adolescence](http://www.paulgraham.com/nerds.html "An article by Paul Graham on nerds.") where mastering a meme might get you a degree higher in the pecking order. Pianos don't just learn themselves you know.) Combine code and creativity in the classroom at an early age. [Good things will come](http://www.ted.com/talks/ken_robinson_says_schools_kill_creativity.html "Ken Robinson's TED talk on schools killing creativity.").
 
 I have some other far-fetched ideas about guilds and collectives but it's all a jittery blur. Maybe the [coffee was a bad idea](http://theoatmeal.com/comics/coffee "The Oatmeal comic about coffee.").
+
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
+[scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
+[applesoft-basic]: https://en.wikipedia.org/wiki/Applesoft_BASIC "A version of BASIC included with Apple II computers."
+[objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
+[opengl]: https://www.opengl.org/ "An industry standard/implementation for 2D/3D graphics."
+[mavis-beacon]: http://www.broderbund.com/c-33-mavis-beacon.aspx "Popular typing tutoring software."
+[javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[python]: https://www.python.org/ "An interpreted scripting language."

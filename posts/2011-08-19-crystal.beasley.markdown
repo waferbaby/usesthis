@@ -28,3 +28,19 @@ The first things I've reinstalled on this new machine are the best indicators of
 I'll start with a product idea I keep yammering on about in hopes LexMark or HP will wise up and make it for me. It's a super basic, tiny printer that would fit easily in a desk drawer. It would only print black and the ink/toner/thermo wouldn't dry out even if you only printed every other month or so. I don't care if the image quality is crap as long as it would power off the USB and cost under $150.
 
 My mystery, unicorn-and-glitter-in-the-moonbeams setup would be one that is optimized for visual collaboration. My favorite part of any project is to sketch madly through lots of ideas of what a website could and should be. I, like the majority of Mozilla employees, work remotely. This is great most of the time for general life happiness, but it makes brainstorming with others difficult. I dream of a magic video-streaming whiteboard that all of my remote collaborators could draw on with me in real time. Perhaps I should shell out the bucks and get a [Cintiq][] but first I'm concocting a rigged version with a whiteboard plus cheapo webcam on a stick. I'll let you know how that goes.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[sketch-marker]: http://store.copicmarker.com/pages/overview-sketch-markers "A marker with replaceable nibs."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."
+[cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
+[colloquy]: http://colloquy.info/ "An IRC client for the Mac."
+[espresso]: http://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

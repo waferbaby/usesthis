@@ -36,3 +36,26 @@ When it comes to audio I'll usually mess around with [Audacity][] & [Adobe Sound
 ### What would be your dream setup?
 
 A simple MacBook Pro & Magic Mouse inside a large working space which discourages going straight to the computer for tasks. I'd like two desks --- one covered in different types of paper, inks, paints & other things that I can make a mess with --- the other clean, minimal computer bits, one of those [lovely Japanese flip-clocks that Cory Schmitz has](http://beautifulpixels.com/wp-content/uploads/2013/10/cory-schmitz-dialogue-bp-720x340.jpg "A picture of Cory's desk."), a pen and my Mark+Fold notebook. I suppose my dream setup would also involve either an [HTC Vive][vive] or perhaps a better choice --- a decent daydream-ready phone so I can begin experimenting with accessible VR.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[vive]: http://www.htcvr.com/ "A SteamVR headset."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[not-a-hero]: http://www.notahe.ro "A video game about an assassin/political campaign manager."
+[git]: https://git-scm.com/ "A version control system."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[trello]: https://trello.com/ "A project management service."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[tower]: https://www.git-tower.com/ "A Mac GUI for Git."
+[spaceplan]: http://jhollands.co.uk/spaceplan/ "A web-based clicky game set in space."
+[soundbooth]: https://en.wikipedia.org/wiki/Adobe_Soundbooth "Audio editing software."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[agile-tasks-android]: https://play.google.com/store/apps/details?id=com.sauce.agile&hl=en "A task management app."
+[javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
+[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

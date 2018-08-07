@@ -25,3 +25,22 @@ For soft-synths, my favorites are NI's [Massive][] or [U-he's Diva][diva]. As fo
 Like most everyone, I would love more analog gear. Especially helpful would be a vintage mic pre-amp ([Neve 1073][1073-console-module], if you're looking for a great gift idea!) and an outboard compressor ([UA 1176][1176-peak-limiter], maybe). I could also use upgrade in the monitor department -- I'd love a nice pair of Adams.
 
 And, heck, while we're dreaming... I'll take a bunch more great mics, a vibey upright piano, some analog synths, a vintage drumset, more fun outboard gear, a live room, a jacuzzi, and a tuxedo-clad butler named Helmsley, who I could send out for Taco Bell.
+
+[reference-cardioid-microphone]: http://manley.com/refcard.php "A microphone."
+[rokit-8]: https://www.amazon.com/KRK-RP8G3-NA-Generation-Powered-Monitor/dp/B00FXBIG1G/ "A pair of powered speakers."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[j-185]: http://www2.gibson.com/Products/Acoustic-Instruments/Jumbo/Gibson-Acoustic/J-185.aspx "An acoustic guitar."
+[duet-2]: http://www.apogeedigital.com/products/duet-2 "An audio interface for the Mac."
+[les-paul-standard]: http://www2.gibson.com/Products/Electric-Guitars/Les-Paul/Gibson-USA/Les-Paul-Standard.aspx "An electric guitar."
+[1176-peak-limiter]: https://en.wikipedia.org/wiki/1176_Peak_Limiter "A preamp."
+[1073-console-module]: https://en.wikipedia.org/wiki/Neve_Electronics#Neve_1073_Console_Module "A preamp."
+[fairchild-670]: http://www.uaudio.com/store/compressors-limiters/fairchild-670.html "An audio plugin."
+[oldblackgrand]: https://www.acousticsamples.net/oldblackgrand "A piano audio plugin."
+[massive]: https://www.native-instruments.com/en/products/komplete/synths/massive/ "A synth audio plugin."
+[cla-76]: https://www.waves.com/plugins/cla-76-compressor-limiter "An audio plugin."
+[decapitator]: http://www.soundtoys.com/product/decapitator/ "An analog audio plugin."
+[drumlab]: https://www.native-instruments.com/en/products/komplete/drums/drumlab/ "A drum audio plugin."
+[diva]: http://www.u-he.com/cms/diva "A synth audio plugin."
+[kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/ "A large sound library."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[piano-in-blue]: https://cinesamples.com/product/piano-in-blue "A piano sound plugin."

@@ -52,3 +52,16 @@ When I'm not working on the Raspberry Pi, I use it to display digital artwork or
 ### What would be your dream setup?
 
 I'm pretty happy with this setup, but I always wish I had more time for drawing and working outside.
+
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[glslviewer]: https://github.com/patriciogonzalezvivo/glslViewer "A live GLSL code renderer."
+[tangram-es]: https://github.com/tangrams/tangram-es "A C++ library for rendering maps with OpenGL ES."
+[tangram-play]: https://mapzen.com/tangram/play/ "A YAML editor for Tangram's map data."
+[tangram]: https://github.com/tangrams/tangram "A JavaScript library for rendering maps with WebGL."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[mapzen]: https://mapzen.com/ "An open mapping platform."
+[javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[python]: https://www.python.org/ "An interpreted scripting language."

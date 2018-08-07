@@ -40,3 +40,20 @@ This is a hard question. Obviously my dream setup would be like, "Think somethin
 Ideally I'd have some kind of mouse that isn't fundamentally awful; even more ideally I'd have an operating system and web browser where I could quickly navigate everything without having to move my hands off the keyboard. The browser being the hard part. Having written that though, I did just google and find [Vimium][], which applies Vim keyboard shortcuts to Chrome, so I'm excited to try that!
 
 I'd also like a very, very quiet room with good natural light. I prefer silence while I work. I envy people who can listen to music while working, but it's not for me.
+
+[nexus-5]: http://www.google.com/nexus/5/ "An Android smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[chromebook-pixel]: https://www.google.com/intl/en-US/chrome/devices/google-chromebook-pixel/ "A PC laptop with a Retina display."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[grunt-init]: https://gruntjs.com/project-scaffolding "A command-line tool for creating new projects."
+[grunt-init-textgen]: https://github.com/dariusk/grunt-init-textgen "A grunt-init template for generating text."
+[grunt]: https://gruntjs.com/ "A task runner."
+[grunt-init-twitter-bot]: https://github.com/dariusk/grunt-init-twitter-bot "A grunt-init template for a Twitter bot."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[corpora]: https://github.com/dariusk/corpora "A data corpus collection."
+[chrome-os]: https://en.wikipedia.org/wiki/Chrome_OS "A Linux distribution for running web applications."
+[crouton]: https://github.com/dnschneid/crouton "A set of scripts to generate a chroot in Chrome OS."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
+[xfree86]: http://www.xfree86.org/ "An open-source window system."

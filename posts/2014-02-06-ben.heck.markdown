@@ -39,3 +39,13 @@ The shop I have now is pretty great, but I do wish we had more outlets. That's r
 I don't necessarily need more space - just better utilization of it; something that is easy to get around in and is designed for hacking. There's nothing super fancy I would want or need out of a shop. Really that's just where you make things. The tools and skills are really what matter, and I already have a good set of tools.
 
 That being said, a better break room -- or a break room in general -- wouldn't hurt!
+
+[replicator]: https://store.makerbot.com/replicator "A 3D printer."
+[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[cube]: https://www.3dsystems.com/3d-printers/personal/cube "A 3D printer."
+[wesd51]: https://www.amazon.com/Weller-WESD51-Digital-Soldering-Station/dp/B000ARU9PO "A digital soldering station."
+[123d-design]: http://www.123dapp.com/design "3D creation software."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[eagle]: https://cadsoft.io "Software for designing printed circuit boards."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

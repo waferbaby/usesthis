@@ -34,3 +34,17 @@ If I start bits on paper and pen I always transcribe them into [Microsoft Word f
 ### What would be your dream setup?
 
 My dream setup would be a home office complete with a 2TB hard drive MacBook Air (doesn't exist but it should) so I never have to worry about space again. That would sit on a large, vintage rosewood or walnut desk with some kind of old wooden swivel chair with arm rests. There would be a record player and some nice speakers, as well as a set up for digital music files. The final piece would be an [Eames chair][eames-lounge-chair], for reading and writing in a more relaxed position.
+
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[g2-mini]: http://pilotpen.us/categories/gel-ink-pens/g2-mini/ "A gel ink pen."
+[sm48]: http://www.shure.com/americas/products/microphones/sm/sm48-vocal-microphone "A microphone."
+[swift]: https://www.lamyusa.com/us_en/rollerball-pen-lamy-swift.html "A rollerball pen."
+[hex-o-matic]: http://www.retro51.com/fwi_tor_hexomatic.html "A combination ballpoint pen and pencil."
+[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[detox-pro]: http://www.musiciansfriend.com/pro-audio/monster-beats-pro-special-edition-detox-professional-headphones "A pair of headphones."
+[eames-lounge-chair]: http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html "A chair."
+[pen-loop]: http://www.leuchtturm1917.com/en/content/pen-loop "A loop for attaching a pen to a notebook."
+[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[word]: https://products.office.com/en-us/word "A document editor."

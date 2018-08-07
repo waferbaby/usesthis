@@ -34,3 +34,22 @@ I actually have day dreams about a proper computer set up and a proper office an
 As far as my dream camera set up I am pretty happy with what I have. I mean I would love a few more fast prime lenses and I would love it if the d700 shot video as good as the Cannon 5D does but otherwise I am pretty happy. Clearly some crazy telephoto lens would be fun and it would be great if my SB-800's weren't so banged up but really that's it. I would rather have the D700 than the D3x. It's lighter and not as valuable. Even bringing the equipment I have out now scares the hell out of me so bringing a $7000 camera out to a night club would just be stupid. I don't need that kind of power.
 
 I guess my biggest dream would be if the 24-70 was about half as big and had Vibration Reduction on it. If you make that lens I'll give you 2,000 for it tomorrow. Until then I will stick with what I got...
+
+[70-200mm-ex-dg]: https://www.sigmaphoto.com/apo-70-200mm-f28-ex-dg-os-hsm "A telephoto zoom lens."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[sb-800-af-speedlight]: http://www.nikonusa.com/Nikon-Products/Product-Archive/Flashes/4801/SB-800-AF-Speedlight-.html` "A flash."
+[af-s-nikkor-24-120mm-f3.5-5.6g-if-ed]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Camera-Lenses/2145/AF-S-VR-Zoom-NIKKOR-24-120mm-f%252F3.5-5.6G-IF-ED.html "A zoom lens."
+[af-s-nikkor-24-70mm-f2.8g-ed]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2164/AF-S-NIKKOR-24-70mm-f%252F2.8G-ED.html "A wide-angel zoom lens."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[c-lux-3]: https://www.amazon.com/Leica-C-Lux-Digital-Camera-Black/dp/B001H8FAQI "A 10.1 megapixel camera."
+[d700]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25444/D700.html "A 12.1 megapixel DSLR."
+[d300]: https://en.wikipedia.org/wiki/Nikon_D300 "A 12.3 megapixel DSLR."
+[qb-1-plus]: http://www.qtm.com/index.php?Itemid=168 "A flash battery pack."
+[internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[jalbum]: https://jalbum.net/en/ "Photo gallery software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[camino]: http://caminobrowser.org/ "An alternative Mac browser based on Gecko."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

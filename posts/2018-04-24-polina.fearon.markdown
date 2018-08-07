@@ -29,4 +29,17 @@ I would love to have a little studio set up in my home with an easel, a drafting
 
 My studio would also feature a giant window with some sort of body of water outside and a comfy couch, where I can use my sketchbook and [iPad Pro][ipad-pro] for research and drawing and gaze outside. I would also love some framed art and family photos in the room, for inspiration. 
 
-Ideally I would also like a shelving unit to help organize art supplies, canvases and paper and to help hide the general chaos. 
+Ideally I would also like a shelving unit to help organize art supplies, canvases and paper and to help hide the general chaos.
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
+[pigment-liner-308]: https://www.staedtler.com/en/products/ink-writing-instruments/fineliners/pigment-liner-308-fineliner/ "A pen."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

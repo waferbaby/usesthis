@@ -33,3 +33,26 @@ I'd say out of the software list I'm at a zen stage with Pro Tools and Ableton, 
 Compared to what I had when I started doing sound design professionally in 2001, I have my dream setup! If I were to think really big I'd say I'd like a proper foley stage in my office. I'd like to have the floors floated and pro out the space a little bit more. It would also be nice to invest in an Argossy desk, which is affordable but I don't really need it (I'm also highly superstitious about my current desk).
 
 Overall getting the setup to be slightly more "Hollywood" would be nice but not completely necessary. I definitely like to stay agile and foley pits make it hard to move :)
+
+[tlm-103]: http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm103_description "A studio microphone."
+[traktor-kontrol-s4]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s4/ "A hardware/software DJ system."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[ergoergo]: http://www.ergoergo.com/ "A special chair."
+[bm5a-mkii]: https://www.amazon.com/Dynaudio-BM5A-mkII-Channel-Monitor/dp/B0050SNCPM "Studio speakers."
+[push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
+[pro-tools-hd-native]: http://www.avid.com/US/products/Pro-Tools-HD-native "A digital audio workstation."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unreal-engine]: https://www.unrealengine.com/what-is-unreal-engine-4 "A 3D game engine."
+[google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[grm-tools-classic]: https://www.sweetwater.com/store/detail/GRMToolsRTAS/ "A collection of audio plugins."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[traktor-pro]: https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[soundtoys]: http://www.soundtoys.com/ "A collection of audio plugins."
+[s-layer]: http://twistedtools.com/shop/reaktor/s-layer/ "An audio plugin for playing with samples."
+[skanner-xt]: https://www.native-instruments.com/en/products/komplete/synths/skanner-xt/ "An audio plugin."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[vision]: https://en.wikipedia.org/wiki/Vision_(game_engine) "A video game engine."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[pro-tools-hd]: http://www.avid.com/US/products/family/Pro-Tools/Pro-Tools-HD "Audio studio software."
+[wwise]: https://www.audiokinetic.com/products/wwise/ "An audio pipeline and sound engine."

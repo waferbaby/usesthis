@@ -33,3 +33,27 @@ I have [Spotify][] on every platform, and prefer just throwing on a [Daily Mix](
 I can work pretty much anywhere and on any hardware, so I don't have a dream in those terms but if I could pick an aesthetic for my ideal live/work location, it would probably look something like Ferris Bueller's-best-friend [Cameron's house](https://en.wikipedia.org/wiki/Ben_Rose_House "The Wikipedia entry for the Ben Rose House.") or the [Blueshore ELC building](http://www.cheakamuscentre.ca/about-us/elc "An environmental learning center.") used as a filming location in Legion -- all glass walls and wood in a beautiful natural environment. I work best with lots of natural light and a very controllable environment in terms of sound and temperature and I like to be in a space that responds automatically to my needs - it's probably why I'm drawn to smart home technology. I'm pretty happy with my setup today, though, and I couldn't really ask for much more. 
 
 Maybe a teleporter to more easily pop back to London?
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[nyanboard-nyanbo-mobile-battery]: http://www.japantrendshop.com/nyanboard-nyanbo-mobile-battery-p-3758.html "A mobile phone battery pack."
+[apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
+[foldsack-no-1]: https://www.fjallraven.us/products/foldsack-no-1-backpack "A backpack."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[chromebook-pixel]: https://www.google.com/intl/en-US/chrome/devices/google-chromebook-pixel/ "A PC laptop with a Retina display."
+[quietcomfort-20i]: http://worldwide.bose.com/productsupport/en_us/web/qc20i/page.html "Noise-cancelling in-ear headphones."
+[kindle-voyage]: https://www.amazon.com/High-Resolution-Display-Adaptive-PagePress-Sensors/dp/B00IOY8XWQ "A high-resolution ebook reader."
+[pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
+[pebble-time-round]: https://www.pebble.com/pebble-time-round-smartwatch-features "A smartwatch."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
+[gqueues]: https://www.gqueues.com/ "A task manager for Google's web software."
+[google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[glitch.3]: https://glitch.com/ "A web-based IDE."
+[todoist]: https://todoist.com/ "A to-do service."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
+[chrome-devtools]: https://developer.chrome.com/devtools "Web developer tools built into Chrome."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[dock]: https://en.wikipedia.org/wiki/Dock_(macOS) "The macOS application launcher."

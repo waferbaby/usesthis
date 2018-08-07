@@ -44,3 +44,21 @@ There's very little I'm unhappy with in my current computer setup. I'm a big fan
 Every time I look at my shelf of external hard drives, I mutter "[Drobo][]..." but I've heard as much bad about them as good, so I'm not rushing to buy one. I want all my devices to sync wirelessly, quickly, and in the background. That's not something I can change right now so I'm just waiting.
 
 I want a higher-PPI iPad and beefier software for it - again, a matter of time. The next Mac I buy will almost certainly be an iMac, unless the new [MacBook Air][macbook-air] blows me away later this year (I've been told that it might.) I had one for a year and I really loved it; I just didn't find much use for a laptop.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[simplifi]: https://www.amazon.com/Griffin-Simplifi-Dock-iPod-iPhone/dp/B001DQNAK2 "An iOS device dock, card reader, and USB hub."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
+[cotweet]: https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=61046133 "A tool for tracking social media engagement."
+[cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[liveview-ios]: https://itunes.apple.com/us/app/liveview/id301069270 "An iPhone remote screen viewer app for design and prototyping."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[web-inspector]: https://trac.webkit.org/wiki/WebInspector "Developer tools included with WebKit."

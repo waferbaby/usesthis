@@ -24,3 +24,18 @@ On the Mac I write almost exclusively in [BBEdit][]. I've experimented with [Uly
 ### What would be your dream setup?
 
 I wouldn't use any other machine than the 11-inch Air, so maybe just a faster one with more RAMs and gigabits and stuff. I'd love a new, faster iMac for serving media but this one keeps working. It'd be a shame if it accidentally fell off the desk one day...
+
+[ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
+[ibook]: https://en.wikipedia.org/wiki/IBook "A laptop."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
+[cover]: https://www.zagg.com/us/en_us/ipad-air-keyboard/8534 "A keyboard and cover for the iPad Air."
+[powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
+[ulysses]: http://www.ulyssesapp.com/ "A writing/text editor for the Mac."
+[ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[byword-ios]: https://itunes.apple.com/us/app/byword/id482063361 "A Markdown text editor app."

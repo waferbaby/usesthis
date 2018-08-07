@@ -37,3 +37,17 @@ I really like the fullscreen text editor [Dark Room][dark-room] for taking notes
 Hardware wise, I think I pretty much have it. This laptop is awesome.
 
 Software wise, I feel like the programs I use to make graphics and music could all be much better. If I ever get the time, I'd really love to make my own programs from scratch and use those. I love that Jason Rohrer uses his own music tools, and Eskil Steenberg makes his own 3D tools. I think it's a big part of why their work is so distinctive.
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
+[flashdevelop]: http://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."
+[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[modplug]: https://sourceforge.net/projects/modplug/ "An audio editor/tracker for Windows."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[dark-room]: http://jjafuller.com/dark-room/ "A full screen text editor for Windows."
+[vvvvvv]: https://thelettervsixtim.es/ "An indie platformer."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

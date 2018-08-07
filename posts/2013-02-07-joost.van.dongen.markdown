@@ -49,3 +49,23 @@ Finally, for composing and recording music I use [Steinberg Cubase LE][cubase-le
 I am pretty happy with what I have right now! The only thing I really miss right now is good speakers. I use my old Philips hifi stereo set now, and it distorts the sound quite a bit. It sounds good, but it makes everything so much warmer that I always doubt whether what I made would sound good on anything else. Also, it tends to freak out on certain frequencies, which isn't good either.
 
 Another thing that could improve a lot is my set of instrument plugins for Cubase. This is more of a skill-thing than a setup-thing, though: I still have a lot to learn about audio production and finding the right plugins is part of that process.
+
+[oxygen-49]: http://www.m-audio.com/products/en_us/Oxygen49.html "A 49-key MIDI keyboard."
+[c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
+[wii]: https://www.nintendo.com/wii "A unique gaming console."
+[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
+[tapeworm]: https://www.tweakbench.com/tapeworm "A synthesiser that sounds like a mellotron."
+[awesomenauts]: https://www.awesomenauts.com/ "A 2D cartoony side-scrolling game."
+[cubase-le]: https://en.wikipedia.org/wiki/Steinberg_Cubase "Music creation software."
+[cello-fortress]: http://www.cellofortress.com/ "An game cum live music performance."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[context]: http://www.contexteditor.org/index.php "A programmer's text editor for Windows."
+[v-ray]: https://en.wikipedia.org/wiki/V-Ray "A 3D rendering engine."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[proun]: http://www.proun-game.com/ "An abstract ball game."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

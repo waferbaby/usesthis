@@ -29,3 +29,18 @@ Generally I code in [Python][]. When writing testable code I work on my laptop a
 Honestly I'm pretty happy with my current setup and job but if was living in my fantasy land...
 
 I'd have both work and home near the beach. I'd like to be able to walk my son to school on the way to work and get to sneak in a lunchtime swim. All publicly and privately held ecological and environmental data would be open access. Governments and Industrial Complexes would fund high quality objective research so we could balance growing population needs and the environment. My ecological modelling company would be able to support a large team of environmental scientists, ML researchers and engineers and have a large bank of [Google TPUs](https://en.wikipedia.org/wiki/Tensor_processing_unit "The Wikipedia entry for Tensor processing units.") or [AWS 16xlarge GPUs](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/ "An Amazon article about their NVIDIA Tesla V100 instances.").
+
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[studio-xps-9100]: http://www.dell.com/en-us/shop/cty/dell-studio-xps-9100-desktop/spd/studio-xps-9100 "A desktop PC tower."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[rstudio]: https://www.rstudio.com/ "An IDE for the R language."
+[r]: http://www.r-project.org/ "Software for statistical computing and graphics."
+[zendesk]: https://www.zendesk.com/ "A customer service service."
+[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[scikit-learn]: http://scikit-learn.org/stable/ "A machine learning library for Python."
+[answer-bot]: https://www.zendesk.com/answer-bot/ "A Zendesk machine learning bot to help customers help themselves."
+[jupyter]: http://jupyter.org/ "Web-based live document software."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
+[ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
+[python]: https://www.python.org/ "An interpreted scripting language."

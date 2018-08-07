@@ -34,3 +34,28 @@ Programming languages aren't strictly software, but I'm a huge fan of [Python][]
 In the SciFi World of Tomorrow, I would love to run everything I need on one tiny machine with ubiquitous connectivity that I can fit in my pocket, then seamlessly use with available monitors and input decides.
 
 If I have to choose something that exists today, I'd probably use just my 11" MacBook Air and have one of those huge amazing Apple [Cinema Displays][cinema-display] both in the office and at home. Along with a comfy chair and a cup of coffee.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[r]: http://www.r-project.org/ "Software for statistical computing and graphics."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
+[sed]: http://www.gnu.org/software/sed/ "Text filtering software."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[bitly]: https://bitly.com/ "A link shortening and tracking service."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."
+[python]: https://www.python.org/ "An interpreted scripting language."

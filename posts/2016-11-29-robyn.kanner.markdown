@@ -34,3 +34,25 @@ To cap things off, I do all of my writing using [Byword][]. The [mobile app][byw
 Honestly, it's basically what I have now. I've been a designer for about 10 years and am fortunate to have been able to build a setup that works for me.
 
 I will say this: I didn't start to use a whiteboard up until about a year and a half ago and that might have been my biggest mistake. They've been critical for me to think through a design --- so, I highly suggest picking up one!
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[telecaster]: https://en.wikipedia.org/wiki/Fender_Telecaster "An electric guitar."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mstand]: http://www.raindesigninc.com/mstand.html "A laptop stand."
+[my-passport-ultra]: https://www.wdc.com/en/products/products.aspx?id=1000 "A portable external hard drive."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
+[jarvis-bamboo]: https://www.ergodepot.com/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[cant]: https://www.smartfurniture.com/products/Cant-Desk-by-Blu-Dot.html "A desk."
+[blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[flinto]: https://www.flinto.com/mac "App prototyping software for the Mac."
+[experience-design]: https://www.adobe.com/products/experience-design.html "Web design and prototyping software."
+[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword-ios]: https://itunes.apple.com/us/app/byword/id482063361 "A Markdown text editor app."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

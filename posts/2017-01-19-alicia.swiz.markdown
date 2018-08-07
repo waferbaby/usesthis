@@ -30,3 +30,19 @@ My dream setup is a mobile studio/venue. Technically, a van. A sweet, refurbishe
 And a new iPhone with case. 
 
 [Support our journey](https://www.indiegogo.com/projects/we-are-sluttalk-feminism "Alicia's Indiegogo project.") & follow @wearesluttalk on [Instagram](https://www.instagram.com/wearesluttalk/ "Alicia's SlutTalk Instagram account.") & [Twitter](https://twitter.com/wearesluttalk "Alicia's SlutTalk Twitter account.").
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[scarlett-18i20]: https://us.focusrite.com/usb-audio-interfaces/scarlett-18i20 "A USB audio interface."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[c214]: https://www.akg.com/pro/p/c214 "A condenser microphone."
+[dr-40]: http://tascam.com/product/dr-40/ "A portable digital recorder."
+[x32]: http://www.music-group.com/Categories/Behringer/Mixers/Digital-Mixers/X32/p/P0ASF "A digital mixer."
+[beta-58a]: http://www.shure.com/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
+[instagram]: https://www.instagram.com/ "A photo sharing service."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[facebook]: https://www.facebook.com/ "A social networking site."
+[office]: https://products.office.com/en-us/home "An office productivity suite."

@@ -32,3 +32,20 @@ Also: [GoodNotes][goodnotes-ios] for writing [lecture notes](http://www.math.col
 The basic form of my current setup is pretty good. All of my hardware will eventually get replaced by something faster and better, but everything fills a niche: the iPad for reading and handwriting, the small laptop for travel and working on the couch, the desktop for heavy computations and the big screen. 
 
 I wish learning management systems weren't so terrible, but otherwise I'm pretty happy with the software I use. I would like to add [Processing][]/[p5.js][p5js] and Reza Ali's new app [F3][] to my repertoire, but I haven't yet dedicated the time to learning either very well.
+
+[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[reveal.js]: https://lab.hakim.se/reveal-js/ "An HTML-based presentation tool."
+[goodnotes-ios]: http://www.goodnotesapp.com "A handwritten note-taking app."
+[gifsicle]: https://www.lcdf.org/gifsicle/ "A command-line tool for working with GIFs."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[skim]: http://skim-app.sourceforge.net/ "PDF reader/note-taker software for the Mac."
+[f3]: http://www.syedrezaali.com/#/f3-mac-app/ "A 3D design app."
+[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
+[mathjax]: https://www.mathjax.org/ "A Javascript framework for displaying LaTeX/MathML."
+[beamer]: https://bitbucket.org/rivanvx/beamer/wiki/Home "A LaTeX class for creating presentations."
+[latex]: https://www.latex-project.org/ "Typesetting software."
+[papers]: http://papersapp.com "iTunes-like software for organising articles."
+[processing]: https://processing.org/ "A programming language/environment."
+[p5js]: https://p5js.org/ "A Javascript library based on Processing."

@@ -32,3 +32,18 @@ This will be a very short answer, since I do not use a lot of programs. I mainly
 ### What would be your dream setup?
 
 It sounds strange, but I think that I'm working with the best setup I can imagine. I have developed a workflow which enables a quick basic editing of the images but also leaves space for more elaborate editing and retouching, if the purpose of the images is requiring it. Camera-wise, I wouldn't trade the Mamiyas for anything else.
+
+[rz67]: https://en.wikipedia.org/wiki/RZ67 "A medium format analog camera."
+[7]: https://en.wikipedia.org/wiki/Mamiya_7 "A medium format camera."
+[645d]: https://www.amazon.com/Pentax-645D-Medium-Format-Digital/dp/B004A4U886 "A 40 megapixel medium format DSLR."
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[super-coolscan-9000-ed]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Film-Scanners/9237/Super-COOLSCAN-9000-ED.html "A multi-format film scanner."
+[f4]: https://en.wikipedia.org/wiki/Nikon_F4 "A 35mm analog SLR."
+[horizon-202]: http://www.kievusa.com/panoramic.html "A panoramic film camera."
+[d800]: https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
+[quadra-hybrid]: https://www.amazon.com/Elinchrom-Ranger-Quadra-Hybrid-10405-1/dp/B00B10CS30 "A set of camera lights."
+[bxri-500]: http://www.elinchrom.com/product/BXRi-500.html "An external camera flash unit."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

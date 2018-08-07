@@ -32,3 +32,15 @@ For comics scripts and screenplays I use [Final Draft][final-draft]. I created a
 ### What would be your dream setup?
 
 For the most part I have my dream setup already. I spent ten years working out my tools and setup, and very little of what I do is dependent on technology or gear. However, I just moved to a new neighborhood and I'm still searching for my new writing coffee shop yet. The ideal is a place that makes a great "dainty" (heavy on the milk) iced latte and keeps a basket of slightly underripe bananas on the counter.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[col-erase]: https://www.amazon.com/Prismacolor-Col-Erase-Erasable-Assorted-20517/dp/B000089DCH "Erasable coloured pencils."
+[drawing-ink-a]: https://www.pelikan.com/pulse/Pulsar/en_US.Store.displayStore.135680./the-drawing-ink-a-from-pelikan "A drawing ink."
+[expression-11000xl]: http://www.epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
+[kolinsky-8404]: https://www.amazon.com/Raphael-Kolinsky-Sable-Brush-8404/dp/B005WJRLQK "An ink brush."
+[precise-v7]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Point/dp/B00006IEBL "A pen."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

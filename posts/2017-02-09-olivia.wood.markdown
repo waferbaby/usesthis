@@ -52,3 +52,28 @@ For fun game design stuff, I play with both [Twine][] and [ink][] (with the Inky
 ### What would be your dream setup?
 
 I'm pretty pleased with what I've got already. A gentle wish would be for a more powerful PC that I didn't have to dust. I'd like the same laptop, but with better gaming capabilities and a near-infinite battery. An actual dream setup? What I've already got, but ski-in ski-out - while still being based in London. Oh, and someone to yell at me to sit up straight. My posture's crap.
+
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[g502]: http://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[aspire-s7-392]: https://www.amazon.co.uk/Acer-Touchscreen-Processor-Integrated-Graphics/dp/B00FLPFZBS/ "A 13.3 inch touchscreen PC laptop."
+[pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
+[1password]: https://1password.com "Password management software for Mac OS X."
+[ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[twine]: http://twinery.org/ "A tool for creating non-linear stories."
+[trello]: https://trello.com/ "A project management service."
+[tomatotimer]: https://tomato-timer.com/ "A web-based Pomodoro timer."
+[storynexus]: http://www.storynexus.com/s "A web-based tool for building interactive stories."
+[slack]: https://slack.com/ "A collaboration service."
+[sunless-sea]: https://www.failbettergames.com/sunless/ "A gothic steamship video game."
+[facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
+[fallen-london]: http://fallenlondon.storynexus.com/ "A browser-based game."
+[classic-shell]: http://www.classicshell.net/ "A tool for customising Windows."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[lethophobia]: http://lethophobia.storynexus.com/s "A browser-based adventure game."
+[pocket]: https://getpocket.com/ "A service for storing links to look at later on."
+[windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
+[word]: https://products.office.com/en-us/word "A document editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

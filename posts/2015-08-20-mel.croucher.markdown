@@ -28,3 +28,10 @@ I have achieved my dream setup, right here in the future. When I was young and t
 When I'm not wandering the planet and working away, I work from my home base on the South coast of the amusingly-named United Kingdom. It's a very tall, very old house by the sea, with miles of beach and ancient ramparts to walk on, a co-op on the corner to shop in, and a micro-brewery across the road to drink in, the National Health Service to patch me up when I am broken, and the Welfare State that pays me a senior citizens pension once every four weeks. Truly, this is paradise.
 
 Thank you for reading this. Now go and do something wonderful.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."

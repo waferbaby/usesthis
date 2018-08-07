@@ -35,3 +35,22 @@ I download a lot of mixtapes off [Dat Piff](http://www.datpiff.com/ "A mixtape w
 ### What would be your dream setup?
 
 I dunno, a beach with a piña colada maker and a convenient pile of rocks to lash to my body as I walk into the sea.
+
+[6000mah-ultra-slim-power-bank]: https://www.easyacc.com/623-easyacc-6000mah-ultra-slim-power-bank-with-built-in-cable.html "An external phone battery."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
+[giphy]: https://giphy.com/ "A GIF searching service."
+[giphy-cam-ios]: https://itunes.apple.com/us/app/giphy-cam.-the-gif-camera/id1017480918 "A GIF capturing app."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[snapchat-ios]: https://itunes.apple.com/us/app/snapchat/id447188370 "An image chatting app."
+[snapseed-ios]: https://itunes.apple.com/us/app/snapseed/id439438619 "A photo app."
+[aviary]: https://www.aviary.com/ "A web-based image editor."
+[facebook]: https://www.facebook.com/ "A social networking site."
+[hootsuite]: https://hootsuite.com/ "A social media management service."
+[dsco-ios]: https://itunes.apple.com/us/app/dsco-by-vsco/id1038318658 "A photo and GIF app."
+[buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
+[landscape]: https://sproutsocial.com/landscape "A web-based image resizer."
+[power-editor]: https://www.facebook.com/business/help/162528860609436 "Facebook's ad editor."
+[pixlr]: https://pixlr.com/ "A web-based image editor."

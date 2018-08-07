@@ -27,3 +27,16 @@ The switch from in-house designer to product designer was interesting. At Photoj
 ### What would be your dream setup?
 
 This is pretty typical of someone in a city but more space. Right now I'm a few shelves and a desk away from feeling like I'm not drowning in stuff.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[maxify-mb2720]: https://www.amazon.com/Canon-Business-MB2720-Wireless-Printing/dp/B01IIOMMRS "A wireless all-in-one printer."
+[expression-xp-640]: https://www.amazon.com/Epson-XP-640-Expression-Premium-Wireless/dp/B01J7H8HP6 "A wireless all-in-one printer."
+[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-groups]: https://groups.google.com "A group forum service."
+[signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[dropbox-paper]: https://www.dropbox.com/paper "A document collaboration service."
+[patreon]: https://www.patreon.com/ "A service for offering patronage to people online."
+[parabo-press]: https://parabo.press/ "An online photo printing service."

@@ -32,3 +32,17 @@ For programming my demoscene productions, I usually design and prototype in [DOS
 ### What would be your dream setup?
 
 As someone who is on the leading edge of the trailing edge, every old computer I use is already my dream setup. But a better Windows machine (12 cores, SSD array) wouldn't hurt, nor would a 3-panel display.
+
+[ii]: https://en.wikipedia.org/wiki/Apple_II "An 8-bit computer."
+[commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
+[pc]: https://en.wikipedia.org/wiki/IBM_Personal_Computer "The original IBM personal computer."
+[turbo-assembler]: https://en.wikipedia.org/wiki/Turbo_Assembler "An assembly code tool."
+[turbo-pascal]: https://en.wikipedia.org/wiki/Turbo_Pascal "A compiler and IDE for Pascal."
+[turbo-debugger]: https://en.wikipedia.org/wiki/Borland_Turbo_Debugger "A debugger for MS-DOS executables."
+[avisynth]: http://avisynth.nl/index.php/Main_Page "A video editor and processor tool for Windows."
+[dosbox]: http://www.dosbox.com/ "An x86/DOS emulator."
+[video-for-windows]: https://en.wikipedia.org/wiki/Video_for_Windows "A multimedia framework for video playback on Windows."
+[x264]: http://www.videolan.org/developers/x264.html "An H.264 library and tool."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[wordstar]: https://en.wikipedia.org/wiki/WordStar "A DOS word processor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

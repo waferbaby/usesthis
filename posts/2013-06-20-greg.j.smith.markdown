@@ -35,3 +35,19 @@ In terms of my more basic task-to-task workflow, I recently started using [Clear
 Whatever works is good enough, I'm not too fussy about tools. 
 
 However, so as to not be a spoil sport, here is some related speculation: the only tool that I would kill for would be a web application for snagging documents and online links and snippets and organizing them for future reference purposes. I've used [DEVONthink Personal][devonthink] for the last several years and the interface/user experience there leaves a bit to be desired. Given that I'm not feeling current web bookmarking services, I'm at a loss how to organize material for larger writing/research projects -- maybe I need to build a [Memex](http://en.wikipedia.org/wiki/Memex "The Wikipedia entry for the Memex.") workstation.
+
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[h2]: https://www.zoom.co.jp/english/products/h2/ "A stereo hand recorder."
+[ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[tilemill]: https://www.mapbox.com/tilemill/ "An interactive map design tool."
+[agenda-ios]: https://savvyapps.com/agenda/ "A calendar app."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[clear]: https://realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[devonthink]: http://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[basecamp]: https://basecamp.com/ "Web-based project management."
+[word]: https://products.office.com/en-us/word "A document editor."

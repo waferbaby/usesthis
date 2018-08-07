@@ -27,3 +27,16 @@ My digital camera is a [Nikon D750][d750], with which I use with a [50mm lens][a
 Ah oh gosh. I'm not much of a gear head if I'm being honest, so my lens wishlist is very small at the moment. I had been borrowing a [24mm f/4][nikkor-20mm-f4] from a friend for several months and really miss it though. I'm hoping when I have some extra cash I'll be able to get it back.
 
 This is silly, but I'd also really love an [iPad for mobile working][ipad-pro]. A lot of my work days involves a lot more administrative work than editing, and carrying around the heavy laptop takes a toll. Though, conversely, I'd love to have a second screen that I can devote to being a dedicated MidBoss screen. I'm a good task manager so I can switch back and forth between my personal accounts and theirs pretty well, but the convenience of a second screen seems like it would make things way easier.
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[nikkor-20mm-f4]: http://www.kenrockwell.com/nikon/20f4.htm "A camera lens."
+[sx-70-sonar]: https://eu.impossible-project.com/products/polaroid-sx70-camera-sonar "A Polaroid camera."
+[sb-700-af-speedlight]: https://www.nikonusa.com/en/nikon-products/product/flashes/sb-700-af-speedlight.html "An external DSLR flash."
+[af-nikkor-50mm-f1.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2137/AF-NIKKOR-50mm-f%252F1.8D.html "A lens for SLR cameras."
+[af-s-dx-nikkor-18-200mm-f3.5-5.6g-ed-vr-ii]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2192/AF-S-DX-NIKKOR-18-200mm-f%252F3.5-5.6G-ED-VR-II.html "A lens for DSLR cameras."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[d750]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/1543/d750.html "A 24.3 megapixel DSLR."
+[ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[2064-read-only-memories]: https://readonlymemori.es/ "A cyberpunk adventure game."
+[bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

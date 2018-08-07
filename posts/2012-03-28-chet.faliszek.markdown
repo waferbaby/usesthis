@@ -32,3 +32,17 @@ For all our games, most of the writers hook up the audio so we are always editin
 ### What would be your dream setup?
 
 I use my iPhone for everything. It unlocks my house, turns on my lights, plays music, answers calls, takes notes, and as an added bonus - it's a phone. My dream would be that Siri was better. It's a good start to voice control but it still needs to get better. I just wish I could stop my habit of thanking her or apologizing for when she can't understand me. I think a part of me is just a little worried that if she becomes sentient, I want to be on her good side.
+
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[m11x]: http://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
+[rhapsody]: https://en.wikipedia.org/wiki/Rhapsody_(online_music_service) "A music streaming service."
+[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[counter-strike-global-offensive]: http://store.steampowered.com/app/730/ "A team-based action game."
+[visual-foxpro]: https://en.wikipedia.org/wiki/Visual_FoxPro "An data-centric programming language."
+[editplus]: https://www.editplus.com/ "A text editor for Windows."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[left-4-dead-2]: http://store.steampowered.com/app/550/ "A zombie horror survival game."
+[portal-2]: http://store.steampowered.com/app/620/ "A sequel to the awesome, groundbreaking game."
+[word]: https://products.office.com/en-us/word "A document editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -34,3 +34,11 @@ For writing I used to use [Microsoft Word][word], but for the book I'm working o
 ### What would be your dream setup?
 
 Dream setup is a cabin outside of LA that serves as a death think tank, library, video studio, writer's retreat, etc.  "If I only had the perfect space, all procrastination would be over" I tell myself, falsely.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
+[power-pak-ii-plus]: http://www.matthewscremation.com/products/cremation-equipment/human-cremators.html "A human cremation system."
+[imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
+[word]: https://products.office.com/en-us/word "A document editor."

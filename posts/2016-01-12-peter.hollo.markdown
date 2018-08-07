@@ -47,3 +47,15 @@ So whatever setup I end up with, I want to be able to *extend* the capabilities 
 It's important that all of that control is as *natural* as can be, so that I can improvise live within its frameworks - the cello is such a versatile instrument that I can lay down basslines, percussive beats, yearning string pads and melodies. And not just solo - this is a setup which means improvising with live beats & electronics, and other looped and effected instruments. With my quintet Tangents we're fast realising this dream - creating a technological space where we can combine the most futuristic aspects of studio post-production and remixing with acoustic and electric performance, in a live context - and that's incredibly exciting.
 
 There are plenty of other people exploring this space, like Tim Exile and Matthew Herbert - and there are others like Owen Pallett and Zoë Keating who have perfected the art of making their deep control of the technology *invisible*. I think my way, and Tangents' way, is different, and hopefully illuminating and satisfying for the audience at least as much as for us.
+
+[nanokontrol]: https://www.amazon.com/Korg-nanoKONTROL-USB-Controller-Black/dp/B001J8LJWK "A USB MIDI controller."
+[nanopad]: https://www.amazon.com/Korg-nanoPAD-Drum-Controller-White/dp/B001H2QCMU "A USB drum controller."
+[softstep]: https://www.keithmcmillen.com/products/softstep/ "A MIDI foot controller."
+[dl4]: https://line6.com/dl4/ "An effects pedal."
+[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[sound-forge]: http://www.sonycreativesoftware.com/soundforgepro "Audio editing software."
+[acid-pro]: https://en.wikipedia.org/wiki/ACID_Pro "Digital audio workstation software."
+[audiomulch]: http://www.audiomulch.com/ "Music software for live performances and composition."
+[foobar2000]: http://www.foobar2000.org/ "An audio player for Windows."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."

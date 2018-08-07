@@ -25,3 +25,18 @@ We recently used this very cool software for our last piece Resonance, Pepakura,
 ### What would be your dream setup?
 
 A 3D printer like the one [Junior Veloso](http://3dhomemade.blogspot.com/ "Junior's website about his 3D printer.") has built, a CNC machine that can cut metal, a laser cutter, a stereoscopic screen+graphic card, a huge SSD raid that's indestructible, visual programming software that is node-based and doesn't need any code writing. And then, oh! a microwave that cools down in seconds instead of heating up.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[propeller]: https://www.parallax.com/catalog/microcontrollers/propeller "A chip for rapid embedded development."
+[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
+[zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[autopagerize]: http://autopagerize.net/ "A browser extension for paginating content."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[xmarks]: http://www.xmarks.com/ "A bookmark syncing service."
+[eagle]: https://cadsoft.io "Software for designing printed circuit boards."
+[processing]: https://processing.org/ "A programming language/environment."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

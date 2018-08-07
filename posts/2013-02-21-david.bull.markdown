@@ -29,3 +29,12 @@ Upstairs in the office it's a pretty basic selection: my web sites are either co
 ### What would be your dream setup?
 
 I can't really ask for much over and above what I have. It's not a new 'setup' that I dream about, but simply better quality: the paper and wood that are available these days would be considered 'throw out' material by craftsmen of just a couple of generations back. Because the number of practitioners of this craft has become so low, the number of suppliers is also low, with the result that we now have a very poor selection of products available. Hopefully, with the 'wake up' that is being given to this old craft with [the new Ukiyoe Heroes project](http://mokuhankan.com/heroes/ "A project to portray video game characters in woodblock prints."), that might now start to change!
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[h2]: https://www.zoom.co.jp/english/products/h2/ "A stereo hand recorder."
+[eos-650d]: https://en.wikipedia.org/wiki/Canon_EOS_650D "An 18 megapixel DSLR camera."
+[imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[movable-type]: https://movabletype.org/ "Weblog publishing software."

@@ -33,3 +33,21 @@ On my computer is Adobe [Photoshop CS3][photoshop], [BBEdit][] (I think am at ve
 A top of the line [Mac Pro][mac-pro] filled with as much memory and drive space it can hold. A 30 inch display and the 21 inch Cintiq to go with it. I don't know if people still do this, but back and the day the photographers would have a dedicated Photoshop machine. With a ton of memory and a fast raid setup to use as a scratch disk. I want to do that with the Mac Pro.
 
 I draw my pictures at a 10000x10000 pixels and that is about the best my G5 can handle with out being useless. I want to draw them 3 times as big, or bigger. I am a resolution junkie. I want a 100 megapixel camera. I want to scan paper at 12000dpi. I know many people say we have reached the peak and don't need any more detail. But I think if insanely high resolutions become normal we will see some amazing things come out of it. I want the digital to go far beyond what was available before.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[stylus-pro-7800]: https://www.epson.com/cgi-bin/Store/support/supDetail.jsp?infoType=Overview&oid=60321 "A 24 inch wide format printer."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
+[power-mac-g5]: https://en.wikipedia.org/wiki/Power_Mac_G5 "A desktop Mac with an IBM PowerPC G5 CPU."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[scribbles]: https://www.macupdate.com/app/mac/26428/scribbles "A simple drawing program for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -28,3 +28,18 @@ Other software I use: [Google Docs][google-docs], [Firefox][], [TOTAL COMMANDER]
 My dream setup would be a nerdy butler that I could just give money (and compliments) to and he would buy what ever hardware he deems necessary, make it all work nicely, and bring me aperitifs. I frequently say to myself "stupid Justin, you spend too much time doing suchandsuch over and over" but I never invest any time into improving my processes. Someone to manage all that would be priceless.
 
 Also, Santa, I would like CS5 so I can make game art entirely by using context-aware fill. Finally, part of my dream is to one day own a computer that didn't make an iota of noise. Not a hum!
+
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[total-commander]: http://www.ghisler.com/ "A file explorer replacement for Windows."
+[sfxr]: http://www.drpetter.se/project_sfxr.html "A sound generator for video games."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[merge]: https://www.araxis.com/merge/ "File diff and merging software for Windows."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[visual-studio-express]: https://www.visualstudio.com/vs/visual-studio-express "An IDE for Windows."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[enviro-bear-2010-ios]: http://www.enviro-bear.com/ "A game for the iPhone with a bear driving a car."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

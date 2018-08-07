@@ -57,3 +57,27 @@ No apps on my phone. When I'm away from my computer, I enjoy being pretty discon
 I'm very happy with this. Any shortcomings are my own, not my gear's.
 
 I wish I could piece together laptops like I can desktops. I'll take this shell, this keyboard, that display, this CPU, that GPU, this drive, that mouse, etc. I could upgrade certain parts when needed, but keep the rest as-is.
+
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
+[tri-star]: https://www.tombihn.com/PROD/TB0940.html "A carry-on bag."
+[thinkpad-t400s]: https://www.cnet.com/products/lenovo-thinkpad-t400s/ "A thin 14 inch PC laptop."
+[ath-anc7b]: http://www.audio-technica.com/cms/headphones/1c7efaa15727a938/index.html "Noise-cancelling headphones."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[ratpoison]: http://www.nongnu.org/ratpoison/ "A window manager for X"
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[anki]: http://www.ankisrs.net/ "A flash-card based learning tool."
+[arch-linux]: https://www.archlinux.org/ "A Linux distro."
+[freebsd]: https://www.freebsd.org/ "An open source operating system."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
+[mplayer]: http://www.mplayerhq.hu/ "Movie viewing software."
+[mutt]: http://www.mutt.org/ "A command-line email client."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[xpdf]: http://foolabs.com/xpdf/about.html "An open source PDF viewer."
+[xterm]: https://en.wikipedia.org/wiki/Xterm "Terminal software for the X Window System."
+[ledger]: https://ledger-cli.org/ "A command-line accounting system."
+[postfix]: http://www.postfix.org/ "Mail server software."
+[pinyin-tooklit]: http://batterseapower.github.io/pinyin-toolkit/ "A plugin for Anki that helps with learning Chinese."
+[wenlin]: http://www.wenlin.com/ "Software to help you learn Chinese."

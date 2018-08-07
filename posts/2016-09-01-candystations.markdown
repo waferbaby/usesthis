@@ -34,3 +34,18 @@ To make the 'stable', pre-edited compositions, I use [Adobe After Effects][after
 ### What would be your dream setup?
 
 I'd like to know more about more practical effects and construction. A big space that could house lights, mirrors, oils, projectors, smoke machines, LEDs --- the ability to experiment with physical materials just as much as the digital.
+
+[aud-rca-xlr]: https://www.markertek.com/product/ses-aud-rca-xlr/sescom-aud-rca-xlr-1-channel-rca-to-xlr-unbalanced-to-balanced-audio-converter "An audio converter device."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[nato.0+55+3d]: https://en.wikipedia.org/wiki/Nato.0%2B55%2B3d "A realtime video and graphics manipulation program."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[ai]: http://www.avolites.com/ai-features "A media server."
+[max]: https://cycling74.com/products/max/ "A visual programming environment."
+[catalyst-media-server]: http://www.tdc.com.au/media-servers/catalyst-v4 "A media server."
+[director]: https://en.wikipedia.org/wiki/Adobe_Director "Multimedia authoring software."
+[vdmx]: http://vidvox.net/ "Real-time video studio software for the Mac."
+[quartz-composer]: https://en.wikipedia.org/wiki/Quartz_Composer "A visual programming environment."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
+[watchout]: https://www.dataton.com/watchout "A media server."

@@ -35,3 +35,25 @@ I'm either in a good place already with my equipment, or too numb to feel a need
 As convenient as communication over the Internet is these days, it's never the same thing as working in the same space.
 
 I've been thinking about buying a [MacBook Air][macbook-air] and a pony, for writing on the move.
+
+[galaxy-gio]: http://www.samsung.com/galaxyace/gio_overview.html "A 3.2 inch Android smartphone."
+[hd-429]: https://en-us.sennheiser.com/over-ear-headphones-ambient-noise-isolation-hd-429 "Over the ear headphones."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[dra-f101]: http://www.devicemanuals.com/productsupport/Denon_DRA-F101_manual.html "A stereo receiver."
+[dm601-s3]: https://www.soundandvision.com/content/bw-dm600-series-3-home-theater-speakers "Home theater speakers."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[tweetdeck-android]: https://www.bluestacks.com/blog/app-reviews/archive/tweetdeck.html "A Twitter/Facebook client for Android."
+[twitter-android]: https://play.google.com/store/apps/details?id=com.twitter.android "A Twitter client for Android."
+[tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
+[trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox "A web browser for Android."
+[filezilla]: https://filezilla-project.org/ "Open-source FTP software."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[chatzilla]: https://addons.mozilla.org/en-US/firefox/addon/chatzilla/ "A Firefox IRC client extension."
+[katawa-shoujo]: http://www.katawa-shoujo.com/ "A bishoujo-style visual novel."
+[ywriter]: http://www.spacejock.com/yWriter5.html "A Windows word processor."
+[phpbb]: https://www.phpbb.com/ "Self-hosted forum software."
+[windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

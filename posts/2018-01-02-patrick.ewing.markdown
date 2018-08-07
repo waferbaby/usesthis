@@ -32,3 +32,20 @@ We're building out game in [Unity][] 2017, using [ink][] as our narrative script
 My dream setup would be a collaborative physical computing environment, something like [Dynamicland](https://dynamicland.org/ "A research group working on a new computing medium.") that worked remotely. I was to lay code components out on a table and see my coworkers physically rearrange them to make new connections. I want our version control to be incorporated into the 3D game environment. I want to set up a scene by manipulating game objects with my hands, like Timoni's [amazing Unity VR demos](https://www.youtube.com/watch?v=FzjxRi5J4XI "A YouTube video of a Unity VR editor tool demo."). 
 
 This is a little more far-fetched, but I'd also love a Mac laptop that can run 3D games at 60fps.
+
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[mobis-i]: https://store.focalupright.com/mobis-seat-p/ffs-1000.htm "An ergonomic chair."
+[model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
+[jarvis-bamboo]: https://www.ergodepot.com/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
+[git-large-file-storage]: https://git-lfs.github.com/ "A git extension for versioning large files."
+[git]: https://git-scm.com/ "A version control system."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[spine]: http://esotericsoftware.com/ "2D animation software."
+[slack]: https://slack.com/ "A collaboration service."
+[appear.in]: https://appear.in/ "A service for web-based video conferencing."
+[firewatch]: http://www.firewatchgame.com/ "A fire lookout adventure game."
+[visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

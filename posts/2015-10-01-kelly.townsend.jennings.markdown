@@ -32,3 +32,24 @@ At home, primarily use Chrome, Pandora, and Spotify. I use [Flickr][] for postin
 My dream work setup would be pretty much my computer as it is now, maybe with even more memory so it wouldn't bog down at all even when I have a ton of big CT datasets open. But I'm not that picky about my computers. Maybe a comfier stool to switch to when I want to sit? And a cube closer to the windows at our office that overlook the Bay?
 
 At home, I'd love to have a nice fancy SLR camera to take better pictures when I'm traveling, but somehow it would only weigh the same amount as my Canon PowerShot. I'm not hardcore enough about photography for it to be worth carrying a heavy camera for me.
+
+[iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
+[soundsport-apple]: https://www.bose.com/products/headphones/earphones/soundsport-in-ear-headphones-apple-devices.html "In-ear headphones for Apple devices."
+[charge-hr]: https://www.fitbit.com/chargehr "A fitness and heart rate tracker."
+[envy-6t-1000]: https://www.amazon.com/HP-ENVY-Sleekbook-6t-1000-Laptop/dp/B0082CW72W "A 15.6 inch PC laptop."
+[powershot-sx260-hs]: https://www.amazon.com/Canon-PowerShot-Digital-Stabilized-Wide-Angle/dp/B0075SUK14 "A 12.1 megapixel digital camera."
+[performance-mouse-mx]: https://www.logitech.com/en-us/product/performance-mouse-mx "A wireless laser mouse."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[minitab]: http://www.minitab.com/en-us/products/minitab/ "Statistical software."
+[meshlab]: http://meshlab.sourceforge.net/ "An open source 3D mesh processor and editor."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[visio]: https://products.office.com/en-us/visio/flowchart-software "Visualising/diagraming software."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[paraview]: https://www.paraview.org/ "An open-source data analysis and visualisation tool."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[word]: https://products.office.com/en-us/word "A document editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

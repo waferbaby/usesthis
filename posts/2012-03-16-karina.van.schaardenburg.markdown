@@ -36,3 +36,15 @@ To edit highlight videos of research sessions to share, we use Quicktime. I use 
 ### What would be your dream setup?
 
 I haven't found a good solution to the tool I really need: a hand-held phone cradle with an arm that has a webcam to capture someone using the phone. I have seen homemade ones online, and some clever workarounds, but my ideal cradle doesn't exist yet!
+
+[ultrasharp-2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
+[hvr-a1u]: https://pro.sony.com/bbsc/ssr/cat-recmedia/cat-recmediahdv/product-HVRA1U/ "An HD video recorder."
+[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
+[ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
+[gotomeeting]: https://www.gotomeeting.com/ "Online meeting software."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[silverback]: https://silverbackapp.com/ "Usability testing software for the Mac."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[surveymonkey]: https://www.surveymonkey.com/ "An online survey service."

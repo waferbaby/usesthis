@@ -33,3 +33,24 @@ I realized recently when I got my new computer at home that almost everything I 
 ### What would be your dream setup?
 
 Someday perhaps I will go around carrying only a book, a change of clothes, a pen, a water bottle, a folding umbrella, and a little capsule that turns into my livelihood when opened. Rollable hi-res screen and keyboard, tiny computer the size of a cell phone or smaller but as light as a pen, with high-speed satellite connectivity anywhere on the globe. In this world, my sleeping bag, pad and windproof hammock weigh only a pound put together. For half of the year I travel the world, alone and with companions, with a small bag slung over my shoulder like Kwai Chang Caine. We sleep outdoors, travel on trains, and a few days of the week sit some place cozy and create beautiful software or solve interesting problems that improve the world.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[ipython]: http://ipython.org/ "An interactive shell for Python."
+[numpy]: http://www.numpy.org/ "A Python package for scientific computing."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[github]: https://github.com/ "A Git code repository service."
+[screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
+[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[sed]: http://www.gnu.org/software/sed/ "Text filtering software."
+[scikits]: http://scikits.appspot.com/ "Add-on packages for SciPy."
+[solarized]: http://ethanschoonover.com/solarized "A colour theme for text editors."
+[awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
+[okcupid]: https://www.okcupid.com/ "An online dating service."
+[machinarium]: http://machinarium.net/ "A pretty point-and-click game."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[pandas]: http://pandas.pydata.org/ "A Python data analysis library."
+[python]: https://www.python.org/ "An interpreted scripting language."

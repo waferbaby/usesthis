@@ -23,3 +23,8 @@ Almost exclusively [Photoshop][] CS5. I've had it since college, and it still wo
 #### What would be your dream setup?
 
 I would really like to get a fancy electric booklet stapler, but my setup as it currently exists is already better than anything I could have hoped for. I'm very lucky! My bedroom looks like a state-of-the art print studio from 20 years ago!!
+
+[1501x]: https://martinyale.com/paper-handling-products/1501x-automatic-paper-folder/ "An automatic paper folder."
+[gr-3770]: https://en.wikipedia.org/wiki/Risograph "A photocopier."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

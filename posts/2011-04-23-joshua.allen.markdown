@@ -27,3 +27,21 @@ For website stuff I kick it Panic-style with [Coda][] and [Transmit][]. I use [C
 ### What would be your dream setup?
 
 I'd like a secretarial pool available around the clock so I could just shout out something and have it written down or researched. Maybe get a back rub from time to time. Nothing creepy, just to help me unwind.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[slimtype-mac]: https://www.cnet.com/products/kensington-slimtype-keyboard-mac/ "A USB keyboard."
+[snowball]: http://bluemic.com/snowball/ "A USB microphone."
+[optical-mouse]: http://reviews.logitech.com/7061/344/logitech-optical-mouse-reviews/reviews.htm "A simple mouse."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[metasynth]: http://www.uisoftware.com/MetaSynth/index.php "Unique audio creation software for the Mac."
+[candybar]: https://panic.com/blog/candybar-mountain-lion-and-beyond/ "Software for changing the default icons in Mac OS X."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[peak]: https://www.pcworld.com/article/157969/article.html "A music creation and editing tool."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[word]: https://products.office.com/en-us/word "A document editor."

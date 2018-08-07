@@ -48,3 +48,20 @@ I often daydream about a standup desk in my house (I live in an apartment right 
 Since I was a little girl I've loved whiteboards (ask my mom, I'm weird) so my dream setup would include a whiteboard paint wall next to my computer. 
 
 Final touches would include two dog beds so I could bounce ideas off the girls, and we wouldn't mind a large, grassy backyard with a pool.
+
+[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[soundtrue-headphones-ii]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/soundtrue-around-ear-headphones-ii-apple-devices.html "Around-the-ear headphones."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
+[slack]: https://slack.com/ "A collaboration service."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[lotus-notes]: https://en.wikipedia.org/wiki/IBM_Notes "Integrated email, calendar and IM software."
+[linkedin-recruiter-ios]: https://itunes.apple.com/us/app/linkedin-recruiter/id712437486 "An app for the recruiter platform."
+[linkedin]: https://www.linkedin.com "A business-focused social network."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[word]: https://products.office.com/en-us/word "A document editor."

@@ -48,3 +48,16 @@ Right now, I am not urgently interested in faster Internet connectivity. In fact
 For travel use, I still want a laptop with a full-sized keyboard and a big screen, and a 15-inch display seems to be as much as I can fit into my carry-on bag, so that's what I'll keep using. But I want it to be thin (half an inch) and weigh at most one pound. Also, a much smaller and lighter power brick. Consider the total user experience, which requires business travelers to bring both the laptop and its power supply, so it's the combination that counts.
 
 For mobile, either an iPhone with a European-quality carrier, or a mobile phone from another vendor with a great Web-browsing user experience. In [the user testing we have done](http://www.useit.com/alertbox/mobile-usability.html "Jakob's mobile usability tests."), most other phones had lousy Web-browsing support, even when they had nice, big touch screens.
+
+[ultrasharp-3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
+[ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[acer-ferrari-5000]: https://www.amazon.com/Acer-Ferrari-5000-5832-Processor-Ultimate/dp/B000LO8ZPM "A co-branded PC laptop."
+[area-51]: https://www.pcmag.com/article2/0,2817,2361731,00.asp "A souped-up gaming PC computer."
+[wii]: https://www.nintendo.com/wii "A unique gaming console."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[snagit]: https://www.techsmith.com/snagit.html "Screen capturing software."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[morae]: https://www.techsmith.com/morae.html "Software to record and monitor users during testing."
+[photoshop-elements]: https://www.adobe.com/products/photoshop-elements.html "A lightweight image editor."
+[windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

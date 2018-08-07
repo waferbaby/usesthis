@@ -34,3 +34,9 @@ Those crimes will need to become not-crimes too, and whenever an avocado says ge
 You may have noticed avocado didn't mention states or militaries or the cloud (the cloud is other people's computers) at all. That's true. A trouble with dream setups is that they tend to blithely and dreamily erase things that aren't erasable blithely and dreamily but only through centuries of patient scrubbing. A good thing about dream setups anyway is that sometimes we're all wrong about what can be changed. Sometimes that's everything.
 
 tyvm again for interviewing an avocado this was fun. If there's one thing to remember, it's that avocados used to be dispersed in the poop of giant mammals but now there's Twitter and globalized capitalism.
+
+[internet-archive]: https://archive.org/ "A non-profit Internet library."
+[tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
+[mubi]: https://mubi.com/ "A subscription service for curated cult/classic movies."
+[callisto]: http://www.projectcallisto.org/ "A system for reporting sexual assault at university."
+[wikipedia]: https://en.wikipedia.org/wiki/Main_Page "A free online encyclopedia."

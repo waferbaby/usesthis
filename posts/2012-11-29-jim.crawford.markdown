@@ -44,3 +44,27 @@ I've also got a big pile of command line utilities that I've been collecting in 
 This is such an open-ended question. I love it. Okay, in the short term, something like the wearable computers with whole body input and contact lens displays we saw in Vinge's [Rainbows End](http://en.wikipedia.org/wiki/Rainbows_End "The Wikipedia entry for 'Rainbows End'.").
 
 In the long term, well, let's just say if *I'm* not software within the next 30 years, we've screwed up as a species.
+
+[syncmaster-2333hd]: https://www.amazon.com/Samsung-SyncMaster-2333HD-Widescreen-Monitor/dp/B00213QXFA "A 23 inch monitor/TV."
+[h1]: https://www.zoom.co.jp/products/h1 "A digital recorder."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[commodore-128]: https://en.wikipedia.org/wiki/Commodore_128 "An 8-bit computer."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[git]: https://git-scm.com/ "A version control system."
+[tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
+[turbo-assembler]: https://en.wikipedia.org/wiki/Turbo_Assembler "An assembly code tool."
+[schism-tracker]: http://schismtracker.org/wiki/Schism%20Tracker "Audio creation software."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[flashdevelop]: http://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."
+[frog-fractions]: http://twinbeard.com/frog-fractions/ "A game about frogs and fractions."
+[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[frotz]: https://en.wikipedia.org/wiki/Z-machine#Frotz "A Z-Code interpreter."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[bladeenc]: http://freecode.com/projects/bladeenc "An MP3 encoder."
+[pkzip]: https://en.wikipedia.org/wiki/PKZIP "A file compression tool."
+[pidgin]: http://www.pidgin.im/ "An open-source multi-protocol chat client."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

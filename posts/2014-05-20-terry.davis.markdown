@@ -28,3 +28,12 @@ I use [VMware Workstation 8.0.6][vmware-workstation] because TempleOS won't run 
 ### What would be your dream setup?
 
 I would like Windows to abolish Secure-Boot, so I can run [Win8][windows-8] dual booted with TempleOS. I would like a machine with a disk controller and BIOS that used ATA/ATAPI PIO and a BIOS which also supported legacy PS/2 keyboard/mouse emulation, so I could run TempleOS natively. I am aware of a 70 core Knights Landing Intel CPU coming-out. That might be nice.
+
+[internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
+[templeos]: http://www.templeos.org/ "An operating system."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
+[full-video-audio-mixer]: http://www.moredan.com/full.video.audio.mixer.htm "A Windows tool for mixing audio and video."
+[vmware-workstation]: https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
+[windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

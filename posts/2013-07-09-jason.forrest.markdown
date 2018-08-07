@@ -25,3 +25,12 @@ I have used [Photoshop][], [Illustrator][] and [Final Cut][final-cut-pro] extens
 ### What would be your dream setup?
 
 As far as computers go, I have used the newest, fastest apple [MacBook Pro][macbook-pro] and it's great - but really, what I want is a team of people to help me build something that has a value that is measured in generational terms.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

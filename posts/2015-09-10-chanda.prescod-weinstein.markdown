@@ -26,3 +26,15 @@ Recently I've also been learning how to do cosmological calculations using softw
 ### What would be your dream setup?
 
 I wish my MacBook Pro would fold up somehow. Also, I think it should have a touch screen. Sometimes I forget it doesn't and start pushing things on my screen. I wish I could add a 12" iPad into the rotation so that it made more sense to use it for calculations, although that Sony e-paper notepad is looking increasingly interesting, maybe at a lower price point or with more capabilities. Also, it would be great if someone could sell a Moleskine-like notebook with glossy paper in it. That would be perfect.
+
+[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[maglus-stylus]: http://maglusstylus.com/product.php/2/Maglus_Stylus_with_Removable_Tip_System "A stylus for mobile devices."
+[vanishing-point]: http://www.namiki.com/collections/pilotVanishingPoint_RA.php "A very fancy pen."
+[quietcomfort-20i]: http://worldwide.bose.com/productsupport/en_us/web/qc20i/page.html "Noise-cancelling in-ear headphones."
+[goodreader-ios]: http://goodreader.com/ "A PDF reader for the iPad."
+[sugarsync]: https://www.sugarsync.com/ "A syncing and backup service."
+[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
+[cosmosis]: https://bitbucket.org/joezuntz/cosmosis/wiki/Home "Cosmological parameter estimation software."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."

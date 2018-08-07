@@ -24,3 +24,21 @@ I'm a fairly schizophrenic worker. If you watched me work from over my shoulder 
 ### What would be your dream setup?
 
 If I were to configure a new setup, I'd probably go with a 13 inch 2.13GHz 256GB [MacBook Air][macbook-air] with the RAM upgraded to 4GB, for good measure. It's tough because the 15 inch MBP has the high-resolution antiglare display is really tempting but I'm mobile enough where not having to deal with the weight is very attractive. My software needs are pretty basic so it's not super important for me to run the latest and greatest.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[quora]: https://www.quora.com/ "A Q&A web service."
+[expandrive]: https://www.expandrive.com/ "Software that makes remote servers appear as local disks."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[python]: https://www.python.org/ "An interpreted scripting language."

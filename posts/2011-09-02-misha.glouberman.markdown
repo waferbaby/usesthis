@@ -39,3 +39,15 @@ I'd like even better sync. I like to feel like my information isn't attached to 
 I wish email software was better. I like Thunderbird better than Outlook, but both seem not-so-great to me. In theory, IMAP should let me work off-line, but in practice it never works. The ability to search old mail fast is invaluable. Both Thunderbird and Outlook seem to behave badly when keeping and searching large archives. Gmail works, but it seems to get slower all the time. And I can't help but feel there out to be ways for me to generally navigate my mail more quickly and effectively than I do: Be able to find the messages I need quickly, file stuff away effectively, etc.
 
 I wish all the software I used was open source.
+
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[spamassassin]: http://spamassassin.apache.org/ "Server-side spam-fighting software."
+[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[fastmail]: https://www.fastmail.com/ "An email hosting service."
+[foldershare]: https://en.wikipedia.org/wiki/Windows_Live_Mesh#FolderShare_and_Windows_Live_Sync "File synchronisation software."
+[mailchimp]: https://mailchimp.com/ "A templated mailing list system."
+[coldfusion]: https://www.adobe.com/products/coldfusion-family.html "A web application development system."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

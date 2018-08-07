@@ -26,3 +26,20 @@ I use [Google Docs][google-docs] and [BlinkSale][] for all my wordsmithing and b
 ### What would be your dream setup?
 
 Ideally? To never have to sit at a desk ever again. Basically a fully interactive environment where I can manipulate things digitally with my hands and body - something I worked on with @anselm ([bodycode](http://slowcode.makerlab.org/index.php/Main_Page/ "A post on Body Code.")). For now I'd settle for a [Primer](http://en.wikipedia.org/wiki/The_Diamond_Age "The Wikipedia entry for The Diamond Age.").
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[a30]: https://www.astrogaming.com/a30/headsets "Street/gaming headphones."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[powershot-g10]: https://www.usa.canon.com/cusa/support/consumer/digital_cameras/powershot_pro_series/powershot_g10 "A 14.7 megapixel camera."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
+[openframeworks]: http://openframeworks.cc "A C++ library for creative projects."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
+[quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
+[blinksale]: https://www.blinksale.com/ "An invoicing service."
+[processing]: https://processing.org/ "A programming language/environment."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

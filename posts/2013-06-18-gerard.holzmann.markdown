@@ -28,3 +28,21 @@ I write most of my code in [C][], using the standard Unix development tools ([ba
 ### What would be your dream setup?
 
 I'd love to have unlimited access to a Google-sized network of CPUs to run jobs on. It would have to be a couple of thousand always available computers that are as simple to invoke as the cores in my work and home machines. It would be incredibly empowering. We also still do not have very good visualization tools for studying software systems. There is, for instance, no default method for looking at executing code, so that one can hunt for patterns and spot the unpredictable small anomalies in an execution.
+
+[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[portege-z930-s9301]: https://www.amazon.com/Toshiba-Portege-Z930-S9301-1-8GHz-Notebook/dp/B009ECKZFA "A 13.3 inch PC laptop."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
+[sam]: https://en.wikipedia.org/wiki/Sam_(program) "A multi-file text editor."
+[sed]: http://www.gnu.org/software/sed/ "Text filtering software."
+[spin]: http://spinroot.com/ "An open-source software verification tool."
+[awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[pico.2]: http://spinroot.com/pico/ "An early digital image editing system."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

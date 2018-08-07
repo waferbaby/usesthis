@@ -31,3 +31,24 @@ My research is done across a heap of [Google Docs][google-docs] and a lot of not
 ### What would be your dream setup?
 
 It depends how dreamy I'm allowed to get! I have three desks - one at home, one at university, and one at my studio's office - and a lot of the time I feel like most of my life is spent moving in vectors between these three spaces. I'd really love two rooms right next to each other - one with all my research books and a clean desk, and another with all my game development equipment - so that I could switch between work modes more easily. Also, a big lazy dog that follows me between the rooms and sits with me while I work. And a standing desk, I guess.
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[icd-px470]: https://www.sony.com/electronics/voice-recorders/icd-px470 "A voice recorder."
+[nexus-5x]: https://www.google.com/nexus/5x/ "A 5.2 inch Android smartphone."
+[sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[dualshock-4]: https://www.playstation.com/en-us/explore/accessories/gaming-controllers/dualshock-4/ "A wireless game controller for the PS4."
+[deathadder-3500]: https://www.amazon.com/Razer-DeathAdder-3500-Gaming-Mouse/dp/B004MR3QY4/ "A gaming mouse."
+[xbox-360-controller]: https://en.wikipedia.org/wiki/Xbox_360_controller "A controller for the Xbox 360."
+[untitled-goose-game]: http://househou.se/goose/ "A horrible goose simulator game."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[strict-workflow]: https://chrome.google.com/webstore/detail/strict-workflow/cgmnfnmlficgeijcalkgnnkigkefkbhd "A Chrome Pomodoro timer plugin."
+[slack]: https://slack.com/ "A collaboration service."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[push-me-pull-you]: http://pmpygame.com/ "A multiplayer sports hug game."

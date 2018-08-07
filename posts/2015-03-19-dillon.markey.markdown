@@ -47,3 +47,14 @@ The roof, though, is the really special part. The roof would be my bedroom. I wo
 Also, right next to the telescope platform, there would be a slip and slide that ends at a waterslide that spins you around the whole building and dumps you out to the pool in the back. I'm pretty sure there's no way to beat that entrance to a pool party.
 
 Anyways, that's my ideal setup. Basically a hive for play and creativity with every imaginable tool and toy at my disposal. Thanks for letting me share!
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[d810]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/D810.html "A 36.3 megapixel DSLR."
+[digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
+[eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
+[power-glove]: https://en.wikipedia.org/wiki/Power_Glove "A glove-based controller for the NES."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[dragonframe]: http://www.dragonframe.com/ "Stop-motion animation software."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."

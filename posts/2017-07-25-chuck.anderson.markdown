@@ -26,3 +26,14 @@ One thing I do use a LOT on [OS X][macos] is [Spaces][]. I have all my internet 
 ### What would be your dream setup?
 
 I'll be honest, this is a pretty new iMac and it's not really pulling its weight in the ways I was hoping it would. I work with a lot of super huge PSDs and need things to be snappy, and I'm not sure if its this machine or the software or what but things just haven't been super smooth. I wish Apple would get moving and focus back on their Mac Pros more. I know they said they're going to do that but it seems they keep on coming up short in that department. My dream setup is a setup I don't have to think about. Tools should be just that - tools. Never commanding attention on their own, just working seamlessly.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[spaces]: https://en.wikipedia.org/wiki/Spaces_(software) "Virtual desktop software included with Mac OS X."
+[spotify-mac]: https://www.spotify.com/us/download/mac/ "A Mac client for the music service."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -36,4 +36,30 @@ My dream setup would include Valve Employee level access to every [Steam][] game
 
 And something equivalent for phones, a Mary Poppins bag where I can grab any device on the market, and not have to rely on a beta community to identify hardware specific bugs post soft launch. Someone else would have solved versioning for non-binary files like PSDs with a reasonable browsing interface.
 
-And all of this available in a cat cafe where they don't judge me if I order decaf. 
+And all of this available in a cat cafe where they don't judge me if I order decaf.
+
+[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq-companion-2]: https://www.wacom.com/en-us/products/pen-displays/cintiq-companion-2 "A drawing tablet."
+[vive]: http://www.htcvr.com/ "A SteamVR headset."
+[gifcam]: http://blog.bahraniapps.com/gifcam/ "Windows GIF screen capture software."
+[google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
+[tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
+[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[speex]: https://en.wikipedia.org/wiki/Speex "An audio compression format."
+[assembla]: https://www.assembla.com/ "A code and task management service."
+[azure]: https://azure.microsoft.com/en-us/ "A cloud computing platform."
+[frame-by-frame-for-youtube]: https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB "A Chrome extension to view YouTube videos frame by frame."
+[opus]: https://en.wikipedia.org/wiki/Opus_(audio_format) "An audio encoding format."
+[obs-studio]: https://obsproject.com/ "Video recording and streaming software."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[mysql]: https://www.mysql.com/ "A relational database server."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[xnview]: https://www.xnview.com/en/xnview/ "Media viewer/browser software."
+[ebay]: https://www.ebay.com/ "An auction service."
+[blowup]: https://www.alienskin.com/BlowUp/ "An image enlargement Photoshop plugin."
+[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windirstat]: https://windirstat.net/ "A Windows tool to visualise disk usage."

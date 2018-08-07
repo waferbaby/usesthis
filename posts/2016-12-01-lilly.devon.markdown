@@ -32,3 +32,16 @@ You know that scene in the Matrix where Neo is sitting in the ship with all of t
 Honestly? I would just like to have a machine that could handle opening both Photoshop and my game engine at the same time, without taking everything out in its path and dramatically jumping to its blue-screen demise.
 
 Did I mention 6 monitors?
+
+[area-51]: https://www.pcmag.com/article2/0,2817,2361731,00.asp "A souped-up gaming PC computer."
+[m18x-r2]: http://www.dell.com/en-us/shop/productdetails/alienware-m18x-r2 "A gaming laptop."
+[ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unreal-engine]: https://www.unrealengine.com/what-is-unreal-engine-4 "A 3D game engine."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[visio]: https://products.office.com/en-us/visio/flowchart-software "Visualising/diagraming software."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[project]: https://products.office.com/project "Project management software."
+[paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[word]: https://products.office.com/en-us/word "A document editor."

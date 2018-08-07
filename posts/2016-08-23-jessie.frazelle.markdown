@@ -36,3 +36,21 @@ Chromebook: I do not use [crouton][]. All I use if I need a terminal is the [SSH
 ### What would be your dream setup?
 
 A mainframe. Something so powerful I could just laugh mwahhahahahaha and stroke a white cat.
+
+[model-m]: https://en.wikipedia.org/wiki/Model_M_keyboard "A keyboard."
+[xps-13]: http://www.dell.com/us/p/xps-13-9333/pd "A 13 inch PC laptop."
+[yubikey]: https://www.yubico.com/products/yubikey-hardware/yubikey/ "A USB-based tool for generating one-time passwords."
+[runc]: https://runc.io/ "A command line tool for running containers."
+[i3]: https://i3wm.org/ "An X window manager."
+[neovim]: https://neovim.io/ "A refactored vim."
+[go]: https://golang.org/ "A compiled programming language."
+[secure-shell]: https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo "A terminal Chrome extension."
+[ms-dos]: https://en.wikipedia.org/wiki/MS-DOS "A text-based operating system."
+[microsoft-flight-simulator]: https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator "A flight simulator game."
+[cobol]: https://en.wikipedia.org/wiki/COBOL "A compiled programming language."
+[chrome-os]: https://en.wikipedia.org/wiki/Chrome_OS "A Linux distribution for running web applications."
+[crouton]: https://github.com/dnschneid/crouton "A set of scripts to generate a chroot in Chrome OS."
+[debian]: https://www.debian.org/ "A Linux distribution."
+[docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[kid-pix]: https://en.wikipedia.org/wiki/Kid_Pix "Bitmap drawing software aimed at kids."

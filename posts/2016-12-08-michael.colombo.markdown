@@ -26,3 +26,20 @@ I'm Michael Colombo. I'm a writer, fabricator, and musician. I was a full-time b
 I'm content with my writing setup already, but I'd like a full workshop for woodworking, plus a TIG welding station, CNC, laser cutter, 3D printer, lathes, and an electronics lab with oscilloscope, bench power supply, and every component imaginable on hand.
 
 Oh, and a bangin' recording studio with tons of instruments, amps, mics, and an old Neotek mixing desk.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[vs-1680]: https://www.roland.com/us/products/vs-1680/ "A 16-track audio workstation."
+[eb-0]: https://en.wikipedia.org/wiki/Gibson_EB-0 "A bass guitar."
+[pr5-e]: http://www.epiphone.com/Products/Acoustic-Electric/PR-5E.aspx "An acoustic guitar."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[switch]: http://www.nch.com.au/switch/mp3.html "MP3 conversion software."
+[serato-dj]: https://serato.com/dj "DJing software."
+[storyline-360]: https://articulate.com/360/storyline "Course publishing software."
+[arduino-ide]: https://www.arduino.cc/en/Main/Software "A development environment for Arduino hardware."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[long-exposure-camera-android]: https://play.google.com/store/apps/details?id=com.longexposure2 "An app for taking long exposure photos."

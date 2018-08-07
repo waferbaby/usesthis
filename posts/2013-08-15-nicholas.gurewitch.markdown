@@ -22,3 +22,5 @@ I do a lot of post-production work on the computer as well. Lately it's been lim
 ### What would be your dream setup?
 
 My dream set up would probably be a Disney-esque studio in the 1930's with a team of cheery colorists and painters that all hung out together on lunch and dinner breaks. This would be a well-ventilated non-Hollywood studio located in a field or forest. I also dream of having an environmentally friendly studio that has zero carbon footprint and never disposes of anything (including cells, backgrounds, and sets). Shreds of old works would be reintegrated into new works in such a way that people employed at that studio felt part of an ageless dynasty of creation that could be traced through eternity.
+
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

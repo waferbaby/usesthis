@@ -46,3 +46,17 @@ Desktop: a modern core i7 CPU, perhaps 8 or 16GB RAM and a fairly large SSD. Tha
 A decent developer laptop with a decent CPU and SSD, but no larger than 15" LCD to keep it portable. It would have >1000 lines vertical resolution on the screen, not have a numerical keypad and not have any annoying switchable 3D graphics stuff that won't work on Linux or just suck/waste more power. Why do the laptop manufactorers insist on numerical keypads to such a high degree?
 
 I should also update my kids' computers to a set of modern computers. Probably laptops to allow them to bring them along when they want to. It isn't that my kids have any really demanding computer use yet, and the fact that their computers run Linux have sort of kept them away from some of the most CPU and graphics eating PC games. It is mostly that they want snappy operations and being able to enjoy modern things in full-screen and at decent frame rates.
+
+[f3ja]: https://www.asus.com/Notebooks_Ultrabooks/F3Ja/ "A 15.4 inch PC laptop."
+[desire-hd]: https://en.wikipedia.org/wiki/HTC_Desire_HD "A 4.3 inch Android smartphone."
+[eee-pc-s101]: https://www.asus.com/Notebooks_Ultrabooks/Eee_PC_S101/ "A 10.2 inch PC laptop."
+[rockbox]: https://www.rockbox.org/ "Replacement firmware for music players."
+[gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
+[curl]: https://curl.haxx.se/ "A command-line tool for transferring data from URLs."
+[c-ares]: https://c-ares.haxx.se/ "A DNS library."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[debian]: https://www.debian.org/ "A Linux distribution."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[kde]: https://www.kde.org/ "A graphical environment for *nix operating systems."
+[libssh2]: https://www.libssh2.org/ "An SSH2 library."
+[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

@@ -28,3 +28,11 @@ Since I was working at home most of the day, I made and drank pourovers of two s
 ### What would be your dream setup?
 
 I feel fortunate that, in terms of hardware, my aspirations are beneath my accomplishments. I would have to think long and hard to change my current coffee gear one iota.
+
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[takahiro-kettle]: https://www.bluebottlecoffee.com/products/takahiro-kettle "A fancy kettle."
+[aws-scale]: https://bluebottlecoffee.com/products/aws-scale "A set of scales."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[ceramic-dripper]: https://bluebottlecoffee.com/products/bonmac-ceramic-dripper "A coffee dripper."
+[kenaf-filters]: https://www.bluebottlecoffee.com/products/bonmac-4-filters "Coffee filters."
+[porlex-mini]: https://www.bluebottlecoffee.com/products/porlex-mini-hand-grinder "A mini coffee grinder."

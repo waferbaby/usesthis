@@ -28,3 +28,16 @@ Second, a really good desk. Right now I use a $40 folding walmart banquet table,
 Third, some custom software: Cosmigo Pro Motion is a really cool package for doing pixel art, but it has a lot of legacy features that I don't use, and it is Windows-only. I've started building my own slimmed-down replacement for it in Flash, but I haven't had time to finish it. Getting that built and debugged will be a big deal I think. I am utterly satisfied with all of our hardware, though the LaCie's single support makes it annoyingly wiggly on our crappy table-desk.
 
 Finally, if we're doing a dream sequence anyways, a second monitor + wacom so that the wife and I can both work on art at the same time would be nice!
+
+[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[flixel]: http://flixel.org/ "A games framework written for Actionscript/Flash."
+[cfxr]: http://thirdcog.eu/apps/cfxr "8-bit sound creation tool, ported to the Mac."
+[canabalt-ios]: http://www.canabalt.com/ "A side-scrolling parkour game for the iPhone."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[pro-motion]: https://www.cosmigo.com/promotion/index.php "Drawing and animation software for Windows."
+[wurdle-ios]: http://wurdlegame.com/ "A word game for the iPhone."

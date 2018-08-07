@@ -39,3 +39,19 @@ On my iPad I use [Instapaper][instapaper-ios] and [Flipboard][flipboard-ios] for
 ### What would be your dream setup?
 
 A hammock, a wood burning stove, a garden, a well stocked library and liquor cabinet. Maybe some goats. From a coffee perspective, I'm almost living my dream setup with everything from our roasting and lab equipment to a massive toy chest of brewing devices.
+
+[ristretto-13-inch]: https://www.tombihn.com/laptop-bags/TB0223.html "A laptop bag."
+[rush-12]: http://www.511tactical.com/rush-12-backpack.html "A backpack."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[aeropress]: https://aerobie.com/products/aeropress.htm "A pressure-based coffee/espresso maker."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[mini-paraframe-serrated]: https://www.amazon.com/Gerber-22-48484-Paraframe-Knife-Serrated/dp/B000G0OMK8 "A pocket knife."
+[porlex-mini]: https://www.bluebottlecoffee.com/products/porlex-mini-hand-grinder "A mini coffee grinder."
+[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[notability-ios]: https://itunes.apple.com/us/app/notability/id360593530 "A note-taking app."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
+[adobe-ideas-ios]: https://itunes.apple.com/us/app/adobe-ideas-1-0-for-ipad/id364617858 "A digital sketchbook app for iOS."
+[flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."

@@ -50,3 +50,16 @@ Countertops. Countertops, countertops. When I close my eyes and dare to dream of
 I'm relegated to an unheated two-car garage for all my woodworking and endless motorcycle-tinkering, and that isn't the ideal situation up here in the frozen northeast. Just... just heat, y'know? I'd like heat. We're not even talking seventy two degrees year-round, here - just, like, warm enough that my wood glue doesn't turn to chalk during everything but our week and a half of Summer. I mean, sure, I wouldn't be mad about having enough space to ditch some of these tiny benchtop tools. But man. _Heat_.
 
 At work, y'know, I'm doing just fine. "Have laptop, will travel." I am - at least, at work - pretty low-maintenance.
+
+[sora-3.5-inch-paring-knife]: https://www.amazon.com/Shun-VB0700-Paring-Knife-2-Inch/dp/B00BQ83CBY "A knife."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[classic-5.5-inch-santoku-knife]: https://www.amazon.com/Shun-Classic-Santoku-Knife-2-Inch/dp/B000QEGFR2 "A knife."
+[classic-8-inch-chefs-knife]: https://www.amazon.com/Shun-DM0706-Classic-8-Inch-Chefs/dp/B0000Y7KNQ "A knife."
+[d-8]: http://www.disstonianinstitute.com/d8page.html "A handsaw."
+[12-rounds-ios]: https://itunes.apple.com/us/app/12-rounds-boxing-timer-mma/id865732243 "A boxing timer app."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[canvas]: https://usecanvas.com "A service for writing and sharing realtime Markdown documents."
+[editorially]: http://web.archive.org/web/20130806043131/https://editorially.com/ "A web-based collaborative text editor."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

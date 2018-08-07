@@ -29,3 +29,8 @@ And lastly, our biggest asset would probably be our website and [PayPal][]. With
 A double-sided washbasin, with a car-wash rig for a screen blaster. Also a big studio, light room, flat-files from floor to ceiling - for each of us. We like the long distance. We tend to have more fun doing what we like on the side, and bringing all our stories and adventures to the table. 
 
 This is pretty much if we won the lotto though. Until then, we'll keep it simple and keep dreaming.
+
+[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."
+[paypal]: https://www.paypal.com/home "A payment service."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

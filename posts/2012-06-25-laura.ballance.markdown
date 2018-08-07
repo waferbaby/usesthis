@@ -38,3 +38,20 @@ Oh boy. Well, with the computer stuff I think I am satisfied. In my dreams I wou
 I wish I could have the bass I have now, but that it would somehow magically weigh about 5 pounds less than it does. Maybe some wood bees could handle that for me. Oh, and I wish the Acoustic 370 and my personal, improved Ampeg cabinet could also experience some weight loss and conveniently shrink to pocket size for air travel.
 
 I have an old [LC-A][] camera and wish there were other lenses I could put on it. Also, I wish I had a flash for it. I think it would be a good idea for me to use 35mm film so that I am not waving film around in the air and making an exposure mess.
+
+[370]: https://www.amazon.com/Acoustic-370-Bass-Amplifier-Cabinet/dp/B00DH05L54 "A guitar amp."
+[tu-2]: http://www.bossus.com/gear/productdetails.php?ProductId=122 "A chromatic tuner."
+[the-hotcake]: http://crowtheraudio.net/products/hotcake/ "A guitar distorter."
+[sensation]: https://en.wikipedia.org/wiki/HTC_Sensation "An Android-powered smartphone."
+[diana-f-plus]: https://microsites.lomography.com/diana/cameras/diana-f-clones "A film camera."
+[bass-terror-1000]: https://www.amazon.com/Orange-Amplifiers-Terror-Bass-1000/dp/B0046IH1XQ "A guitar amp."
+[blackwing]: https://pencils.com/product-category/all-brands/blackwing/palomino-blackwing-12-pk "A pencil"
+[b25b]: http://www.vintageguitaramplifiers.net/for-sale/vintage-ampeg-b25b-speaker-cabinet/18519/ "A guitar amp."
+[blackwing-602]: https://en.wikipedia.org/wiki/Blackwing_602 "A pencil."
+[lc-a]: https://en.wikipedia.org/wiki/Lomo_LC-A "A very popular film camera."
+[lumix-dmc-fx01]: https://www.amazon.com/Panasonic-DMC-FX01-Compact-Digital-Stabilized/dp/B000EBOC9U "A 6 megapixel digital camera."
+[precision-bass]: http://www.fender.com/products/search.php?section=basses&bodyShape=Precision+Bass® "A bass guitar."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[quickbooks]: https://quickbooks.intuit.com/ "Business accounting software for Windows."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."

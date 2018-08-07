@@ -26,3 +26,9 @@ Once I have the comics on my computer, it comes time to edit them! I use regular
 My dream setup is basically what I have now! I have a massive tablet, a massive scanner, a lovely drawing desk, and a desktop to handle my giant files. My chair is terrible, though, so maybe I'd swap it out for a more comfy one! Oh, and maybe an EVEN bigger scanner. Maybe one that could scan up to 18x24, so I could do full-size posters. I think that doesn't exist, but a girl can dream.
 
 And a robot to clean up my eraser shavings for me. Those things tend to pile up.
+
+[surface-pro-2]: https://en.wikipedia.org/wiki/Surface_Pro_2 "A Windows 8 tablet."
+[a3-2400s]: https://www.amazon.com/Mustek-A3-2400S-11-7-Inch-16-5-Inch/dp/B009LHWGLY "A large format colour scanner."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

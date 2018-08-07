@@ -61,3 +61,28 @@ But my real dream setup, I guess, is a setup where I am in control. That means o
 For a compelling explanation of how important this is, go have a look at Karen Sandler's [linux.conf.au keynote](http://mirror.internode.on.net/pub/linux.conf.au/2012/Keynote_Karen_Sandler.ogv "A link to an OGG video about free software.").
 
 If you were to find yourself in a position where you needed a computer implanted into your chest, wired to your heart, and with wireless connectivity to the world, wouldn't you want a chance to look at the code? My dream setup, I guess, is one where that kind of access isn't something I have to explain to people and fight for.
+
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
+[n600]: https://www.amazon.com/NETGEAR-Wireless-Router-Gigabit-WNDR3700/dp/B002HWRJY4 "A dual-band wireless router."
+[n9]: https://en.wikipedia.org/wiki/Nokia_N9 "A MeeGo-based smartphone."
+[h340]: https://www.amazon.com/iriver-H340-Digital-Player-Display/dp/B00065W74Q "A digital music player."
+[compaq-2510p]: https://www.cnet.com/products/hp-compaq-2510p/ "A 12.1 inch PC laptop."
+[dinovo-edge]: http://support.logitech.com/product/dinovo-edge "A rechargeable Bluetooth keyboard."
+[xo]: http://laptop.org/en/laptop/ "A laptop designed for children in developing countries."
+[rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."
+[rockbox]: https://www.rockbox.org/ "Replacement firmware for music players."
+[notmuch]: https://notmuchmail.org/ "An email index and search tool."
+[gnucash]: http://www.gnucash.org/ "Open-source personal finance software."
+[git]: https://git-scm.com/ "A version control system."
+[spamassassin]: http://spamassassin.apache.org/ "Server-side spam-fighting software."
+[fedora]: https://getfedora.org/ "A Linux distribution."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[openwrt]: https://openwrt.org/ "An embedded Linux distribution for wireless routers."
+[centos]: https://www.centos.org/ "A Linux distribution."
+[cyanogenmod]: http://www.cyanogenmod.org/ "A custom ROM for Android phones."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[claws-mail]: http://www.claws-mail.org/ "A GTK+ email client."
+[dovecot]: https://dovecot.org/ "A secure IMAP server."
+[libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[postfix]: http://www.postfix.org/ "Mail server software."
+[python]: https://www.python.org/ "An interpreted scripting language."

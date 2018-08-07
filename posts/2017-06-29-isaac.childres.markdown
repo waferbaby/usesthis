@@ -25,3 +25,16 @@ You might also call all my prototyping components for game designs "hardware" to
 ### What would be your dream setup?
 
 Honestly, I don't really think much about improving my setup. It is functional, which is all I need. My computer could probably do with some upgrades, I guess. I could use more memory and processing power.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[gloomhaven]: http://www.cephalofair.com/gloomhaven "A tactical combat board game."
+[forge-war]: http://www.cephalofair.com/forge-war "A resource management board game."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."

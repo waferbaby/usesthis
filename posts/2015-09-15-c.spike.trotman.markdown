@@ -27,3 +27,9 @@ Sometimes there's no getting around Photoshop, though. I'm still on Photoshop 2,
 ### What would be your dream setup?
 
 I pretty much have it!
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[manga-studio]: http://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
+[manga-studio-ex]: http://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

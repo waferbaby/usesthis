@@ -49,3 +49,23 @@ I use [Mailchimp][] for my email list, and the messages are always just plain te
 ### What would be your dream setup?
 
 I'm waiting patiently for cheap, flexible displays that feel just like paper, in terms of both economics and user experience alike. I want to pull a web page or an iOS app or an e-book down into an 8.5 x 11 screen, then roll it up and stuff it into my back pocket. I want the screen to have all the richness of an iPad's display, but I also want it to work in sunlight and cost next to nothing, just like paper. I want to write stories and make apps for that kind of material.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[pullman]: https://www.filson.com/products/pullman.70243.html "A bag."
+[rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."
+[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
+[gas-mask]: https://www.macupdate.com/app/mac/29949/gas-mask "A hosts file editor for the Mac."
+[google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
+[mailchimp]: https://mailchimp.com/ "A templated mailing list system."
+[jekyll]: https://jekyllrb.com/ "A static site generator."
+[cloudfront]: https://aws.amazon.com/cloudfront/ "A content delivery service."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
+[prizmo-ios]: https://itunes.apple.com/app/id366791896 "An OCR app."

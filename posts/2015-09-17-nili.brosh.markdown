@@ -20,3 +20,17 @@ I use [Logic Pro X][logic-pro] as my DAW. I also use [Transcribe][] in order to 
 ### What would be your dream setup?
 
 To be honest, I'm not sure I have a dream setup at the moment... the setup I have isn't fancy, but I've tweaked it over the years to be able to get the exact tones I'm looking for when recording. I have to say that I am fairly satisfied with it at the moment, but I'm sure that as I make more records and my ears get more sensitive to smaller details, I will have new ideas for how I'd like to refine it further - both for my instruments and gear, as well as the recording setup itself.
+
+[rg-prestige-1527m]: https://en.wikipedia.org/wiki/Ibanez_RG_Prestige "An electric guitar."
+[rg-prestige-2727fz]: https://en.wikipedia.org/wiki/Ibanez_RG_Prestige "An electric guitar."
+[rg-premium-927]: https://en.wikipedia.org/wiki/RG_Premium "An electric guitar."
+[rokit-8]: https://www.amazon.com/KRK-RP8G3-NA-Generation-Powered-Monitor/dp/B00FXBIG1G/ "A pair of powered speakers."
+[ultralite-mk3]: http://www.motu.com/products/motuaudio/ultralite-mk3 "An audio interface."
+[tourmaster-4100]: http://www.egnateramps.com/EgnaterProducts/Tourmaster/Tourmaster4100/Tourmaster4100.html "A guitar amp."
+[sm57]: http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone "An instrument microphone."
+[md-421-ii]: https://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii "A microphone."
+[jsx-head]: https://www.ultimate-guitar.com/reviews/guitar_amplifiers/peavey/jsx_joe_satriani_signature_head/index.html "A guitar amp."
+[voodoo-vr1]: https://www.seelectronics.com/voodoo-ribbons "A ribbon microphone."
+[ep-booster]: http://xotic.us/effects/ep-booster "An effects booster."
+[transcribe]: http://transcribe.wreally.com/ "A web service for transcribing audio."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

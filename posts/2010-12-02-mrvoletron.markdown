@@ -29,3 +29,21 @@ There's [an episode](http://en.wikipedia.org/wiki/The_Nth_Degree_\(Star_Trek:_Th
 My dream interface would have to be something similar, because I'm rather lazy and in fact, forgetful, when it comes to learning how to do music-related things like play an instrument, write music, or learn music theory and composition. I want to simply imagine a work of music, and have it be so notation just appears in my production suite as a result of imagining the music in my mind. Wouldn't that be wonderful?
 
 Since I probably won't live to see something like this, my reality-based dream setup is, in fact, exactly what I have. I suppose as long as there's a stream of new game audio to play with and new sample packs to help build tracks, that's just enough. :)
+
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[naga]: http://store.razerzone.com/store/razerusa/en_US/pd/productID.169418900 "A gaming mouse."
+[g15]: https://www.amazon.com/Logitech-G15-Gaming-Keyboard-Black/dp/B000UHE8YM "A gaming keyboard."
+[axiom-pro-49]: http://www.m-audio.com/products/en_us/AxiomPro49.html "A 49-Key USB MIDI controller."
+[mdr-v600]: https://www.amazon.com/Sony-MDR-V600-Headphone-Discontinued-Manufacturer/dp/B00001W0DI "Studio headphones."
+[companion-3]: https://www.amazon.com/Bose-Companion-Multimedia-Speaker-System/dp/B00011CNWG "Three-piece stereo speakers for computers."
+[carcharias]: https://www.amazon.com/Razer-Carcharias-Over-Gaming-Headset/dp/B001PTH0VW "A gaming headset."
+[presario-sr5648f]: http://h10025.www1.hp.com/ewfrf/wc/product?lc=en&dlc=en&cc=us&site=null&key=null&product=3809125& "A tower desktop PC."
+[wii]: https://www.nintendo.com/wii "A unique gaming console."
+[glitch]: http://illformed.org/plugins/ "An effects sequencer."
+[zebra]: http://www.u-he.com/cms/zebra "A modular synthesiser."
+[absynth]: https://www.native-instruments.com/en/products/komplete/synths/absynth-5/ "A synthesiser/audio effects plugin."
+[ozone]: https://www.izotope.com/en/products/master-and-deliver/ozone.html "A mastering system plugin."
+[loopmasters]: https://www.loopmasters.com/ "Royalty-free audio samples."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[wow]: http://us.battle.net/wow/en/ "A fantasy MMORPG."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

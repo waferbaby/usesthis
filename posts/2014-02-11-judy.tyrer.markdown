@@ -31,3 +31,14 @@ We have [SendLove][] because it is THE coolest tool ever for setting a positive 
 Even though we are fully funded, our budgets remain low and reasonable. This allows us to take much greater risks than we would be able to otherwise. In a dream company I would be able to field games that lose money but are worth building just because we have so much to learn by trying knowing eventually we'll get it right. In a dream company, the games that are selling provide sufficient R&D budgets so we can make some that may not and have that be not only okay, but a crucial part of our development process.
 
 And as long as I'm dreaming, the rest of the video game industry ignores how much money we are making and continues to believe that women don't play games leaving the entire market to us. And we all live comfortably ever after.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
+[sendlove]: http://www.sendlove.us/trial/index.php "An employee recognition and peer review service."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
+[db4o]: https://en.wikipedia.org/wiki/Db4o "An embeddable database."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[ever-jane]: http://www.everjane.com/ "An MMO set in the world of Jane Austen."

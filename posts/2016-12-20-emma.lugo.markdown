@@ -29,4 +29,22 @@ For collaboration I mostly use [Skype][], which I would not recommend, and [Goog
 
 ### What would be your dream setup?
 
-More analog music things. Right now I lean very heavily on software synths and effects to get my music to sound right, which is not how I like doing things. I like having lots of physical knobs and buttons to push, and the limitation of only having the sounds I can make with my guitar and pedals (and hopefully synthesizers in the future) means that I can decide on sounds faster than having a whole world of sounds at my fingertips. 
+More analog music things. Right now I lean very heavily on software synths and effects to get my music to sound right, which is not how I like doing things. I like having lots of physical knobs and buttons to push, and the limitation of only having the sounds I can make with my guitar and pedals (and hopefully synthesizers in the future) means that I can decide on sounds faster than having a whole world of sounds at my fingertips.
+
+[tertial]: http://www.ikea.com/us/en/catalog/products/20370383/ "A desk lamp."
+[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[tiled]: https://thorbjorn.itch.io/tiled "A 2D map editor."
+[tiled2unity]: https://seanba.itch.io/tiled2unity "A tool for importing Tiled map assets into Unity."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
+[bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[yarn]: https://github.com/infiniteammoinc/Yarn "A dialogue editor/language."
+[yarn-spinner]: https://github.com/thesecretlab/YarnSpinner "A C# library for the Yarn dialogue language."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

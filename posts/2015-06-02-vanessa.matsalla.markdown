@@ -27,3 +27,15 @@ Lastly, QuickBooks keeps my time billing and business ultra-organized. I don't k
 ### What would be your dream setup?
 
 My dream set up would be the [new gold Macbook][macbook.2] with a [27in Thunderbolt display][thunderbolt-display]. Those are my next essential purchases in the next 6 months!
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[ipad-mini-3]: https://en.wikipedia.org/wiki/IPad_Mini_3 "A 7.9 inch tablet device with a Retina screen."
+[nx300m]: http://www.samsung.com/global/nx/nx300m/index.html "A 20.3 megapixel digital camera."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[autocad]: https://www.autodesk.com/products/autocad/overview "CAD software."
+[quickbooks]: https://quickbooks.intuit.com/ "Business accounting software for Windows."
+[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

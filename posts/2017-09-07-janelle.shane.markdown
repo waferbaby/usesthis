@@ -32,3 +32,12 @@ I've also been experimenting with the visual neural network framework by Prof. M
 ### What would be your dream setup?
 
 One day, I'd like to have a MacBook Pro for everyday use and a cheap Linux machine with a decent GPU at home to run calculations. AWS is handy, but I always have to remember to shut down my session after my calculations are done. An iPad would be nice to use as a lab notebook, but it would make an even better travel computer if it could run regular programs like the [Surface Pro][surface-pro] can. Maybe one of these days.
+
+[surface-pro]: http://www.microsoft.com/surface/en-us/support/browse/surface-windows-8-pro "A tablet/laptop hybrid."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[tensorflow-char-rnn]: https://github.com/crazydonkey200/tensorflow-char-rnn "A Recurrent Neural Network library built on top of TensorFlow."
+[torch]: http://torch.ch/ "A Lua-based computing framework."
+[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[aws]: https://aws.amazon.com/ "Amazon's web service platforms."
+[char-rnn]: https://github.com/karpathy/char-rnn "A Recurrent Neural Network library for Torch."
+[cuda]: https://en.wikipedia.org/wiki/CUDA "A programming platform for GPUs."

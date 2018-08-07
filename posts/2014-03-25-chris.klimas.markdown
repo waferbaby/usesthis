@@ -36,3 +36,24 @@ I'm waiting for [Firefox][] to win my heart back from [Chrome][]. Each release g
 The practical answer would be either a magical version of OS X that could run Windows games without the hassle of VMs, or a magical version of Linux that can sync my phone with [iTunes][]. I miss using a *nix, in short.
 
 More ambitiously, I'd love to replace my paper notebooks with a magical e-ink device. I don't need character recognition or anything like that; I just want something I can write and sketch on and have the result saved digitally. You can do this more or less on a tablet, but it fails the beach test for me on two counts: backlit screens don't do well outdoors, obviously, and I also want something that I don't feel like I have to baby in the great wide world. Paper, on the other hand, is an invisible technology.
+
+[iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
+[ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[twine]: http://twinery.org/ "A tool for creating non-linear stories."
+[tortoisehg]: https://tortoisehg.bitbucket.org/ "A Windows GUI/shell extension for Mecurial."
+[the-nerd-tree]: https://github.com/scrooloose/nerdtree "A vim plugin for browsing files and directories."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[mercurial]: https://www.mercurial-scm.org/ "A version control system."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[ctrlp]: http://kien.github.io/ctrlp.vim/ "A vim plugin for fuzzy filename matching."
+[camp-keepalive]: http://twofoldsecret.com/campkeepalive/ "A turn-based camp horror video game."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[q10]: http://www.baara.com/q10/ "A full-screen text editor for Windows."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

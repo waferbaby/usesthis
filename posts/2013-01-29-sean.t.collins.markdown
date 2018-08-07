@@ -33,3 +33,14 @@ I use [Twitter][] for linking and venting and keeping up with the Joneses. It's 
 ### What would be your dream setup?
 
 Unlimited shelf space! Man, that is an easy, easy question to answer. I want to work in a vast cavernous hall lined floor to ceiling with my books so I never have to get rid of one again. I miss them when they go, and again, cleaning and sorting and pruning eats up valuable mental-emotional bandwidth. Last night I spent two hours going through a stack of unread minicomics about two feet high for which I have no room, and now I feel hung over.
+
+[ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[movable-type]: https://movabletype.org/ "Weblog publishing software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[word]: https://products.office.com/en-us/word "A document editor."

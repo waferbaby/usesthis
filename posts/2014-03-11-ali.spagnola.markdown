@@ -26,3 +26,26 @@ I write/record all my music in [Logic X][logic-pro]. My favorite visual program 
 ### What would be your dream setup?
 
 A recording studio that's also a dance studio. I'm not really particular with the hardware or software. I just want an awesome studio that's connected to a room with hardwood floors and wall to wall mirrors so I can choreograph and compose simultaneously. I would love a grand piano in that room, too. For both posing on and playing.
+
+[ultimate-ears-pro]: https://www.ultimateears.com/en-us/pro "Custom-made in-ear headphones."
+[gpcpa4]: https://www.martinguitar.com/model/item/171-gpcpa4.html "An acoustic guitar."
+[td-6]: http://www.roland.com/products/en/TD-6/ "An electric drum module."
+[s08]: https://usa.yamaha.com/products/musical-instruments/keyboards/synthesizers/s08/ "An 88-key synthesizer."
+[stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
+[snowball]: http://bluemic.com/snowball/ "A USB microphone."
+[sonicare-essence]: https://www.amazon.com/Philips-Sonicare-Essence-Power-Toothbrush/dp/B000AMRII0 "An electric toothbrush."
+[ax-synth]: http://www.roland.com/products/ax-synth/ "A keytar."
+[at2020]: http://www.audio-technica.com/cms/wired_mics/c75c5918ed57a8d0/index.html "A USB digital microphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[quartet]: http://www.apogeedigital.com/products/quartet "An audio interface for the Mac and iPad."
+[eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
+[lucina-ax-09]: http://www.rolandus.com/products/details/1075 "A keytar."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

@@ -45,3 +45,15 @@ For me, the object of my machine is just to try and remove as many barriers as p
 Slightly more realistically, I'd like my setup to be even more portable than it is -- how about something that was light enough not to notice, had a really long battery life, huge screen real estate and was a dream to type on?
 
 Actually, despite everything, that's not a great deal more realistic than the cybernetic thing. In which case, yeah, I'd also like the moon on a stick, please.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[writeroom]: http://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

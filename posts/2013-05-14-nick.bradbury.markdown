@@ -32,3 +32,26 @@ Before I had kids I was an avid gamer with a love for Quake-style games. I dropp
 ### What would be your dream setup?
 
 A telepathic version of [Google Glass][google-glass] that could read my thoughts and write the software I imagine without me having to do all that tedious coding.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[nexus-4]: https://en.wikipedia.org/wiki/Nexus_4 "An Android smartphone."
+[nexus-7]: http://www.google.com/nexus/#/7 "An Android tablet."
+[google-glass]: http://www.google.com/glass/start/ "Wearable computing eyeware."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[1password]: https://1password.com "Password management software for Mac OS X."
+[topstyle]: https://en.wikipedia.org/wiki/TopStyle "A CSS/HTML editor for Windows."
+[sourcetree]: https://www.sourcetreeapp.com/ "A Mac GUI client for Git, Subversion and Mercurial."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[social-sites-android]: https://play.google.com/store/apps/details?id=com.newsgator.android.SocialSites "An Android client for Social Sites."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
+[feeddemon]: https://en.wikipedia.org/wiki/FeedDemon "A feed reader for Windows."
+[homesite]: https://en.wikipedia.org/wiki/Macromedia_HomeSite "A WYSIWYG HTML editor for Windows."
+[machg]: http://jasonfharris.com/machg/ "A Mac GUI for the Mercurial revision control system."
+[mockups]: https://balsamiq.com/products/mockups/ "Drawing-like mockup software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[colorschemer-studio]: http://www.colorschemer.com/osx_info.php "A Mac tool for building colour palettes."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."

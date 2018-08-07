@@ -39,3 +39,18 @@ For development:
 ### What would be your dream setup?
 
 My dream setup is simple!! I have an adjustable standing / sitting desk. My office has AC and heat. The office has really high ceilings, there's a sky painted on the ceiling. The floor is fake grass. Outdoor ambience plays, and there's windchimes. The lighting makes it look like you're outside, and matches the time of day. There is a running stream for gentle thoughts, and a grotto for serious ideas!!
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[sculpt-ergonomic-mouse]: https://www.microsoft.com/accessories/en-us/products/mice/sculpt-ergonomic-mouse/l6v-00001 "An ergonomic mouse."
+[ath-m50]: http://www.audio-technica.com/cms/headphones/0edf909675b1be4d/index.html "Studio headphones."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
+[blackwidow-chroma]: https://www.amazon.com/Razer-BlackWidow-Chroma-Mechanical-Keyboard/dp/B00MTWV0II "A mechanical gaming keyboard."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[donut-country]: http://www.donutcounty.com/ "A video game where you play an ever-growing hole in the ground."
+[xamarin-studio]: https://www.xamarin.com/studio "A development IDE."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

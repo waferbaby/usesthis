@@ -50,3 +50,23 @@ The best way to follow along with my adventures is on [Instagram](http://instagr
 The privacy and surveillance ramifications would be horrific for society if these were widely available, BUT wow would my life be a lot easier if I just had cyborg eyes and automatically transcribing/translating ears. And if my brain was directly wired to the (unblocked) Internet. Basically, what I would really like is Iron Man's Extremis suit, but for documenting things rather than fighting evil geniuses. It'd be a great icebreaker, too.
 
 Until then, I'd settle for a partner to work with and a hyper-effective but non-toxic form of mosquito repellant. I also wouldn't mind some kind of thin sleeping pad - you really don't appreciate mattresses enough until you travel somewhere where they aren't the norm.
+
+[galaxy-s6]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S6 "An Android smartphone."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
+[joy-3]: http://www.oppo.com/en/smartphone-joy-3/ "A 4.5 inch Android smartphone."
+[eos-rebel-t2i]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."
+[boom]: https://www.amazon.com/UE-BOOM-Wireless-Bluetooth-Speaker/dp/B00CM0XHNS "A Bluetooth speaker."
+[750-words]: http://750words.com "A service that helps encourage people to write every day."
+[instagram-android]: https://play.google.com/store/apps/details?id=com.instagram.android "A photo taking/sharing app."
+[google-maps]: https://www.google.com/maps/ "Web-based map tools."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[simplenote-android]: https://play.google.com/store/apps/details?id=com.automattic.simplenote "A note app with cloud syncing."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[android-file-transfer]: https://www.android.com/filetransfer/ "A tool for transferring files between an Android device and a Mac."
+[airdroid]: https://www.airdroid.com "Software for working with an Android device from a computer."
+[didi-dache-android]: https://en.wikipedia.org/wiki/Didi_Dache "An app for the taxi-hailing service."
+[dianping-android]: https://play.google.com/store/apps/details?id=com.dianping.v1 "An app for the check-in/review service."
+[baidu-maps]: https://en.wikipedia.org/wiki/Baidu_Maps "A mapping service."
+[pleco-android]: https://play.google.com/store/apps/details?id=com.pleco.chinesesystem "A Chinese dictionary app."
+[wechat-android]: https://play.google.com/store/apps/details?id=com.tencent.mm "An app for the messaging service."

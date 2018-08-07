@@ -35,3 +35,16 @@ I use [Kontakt 5][kontakt] and I really love my Imperfect Samples Grand Piano sa
 ### What would be your dream setup?
 
 My dream setup would be to have a person who sat in a corner of my studio and who could magically fix any tech problems that occur. I seem to spend at least 3 hours of my day trying to work out what's buzzing, why sound isn't outputting, why Logic is short on memory, why the beam on a certain crotchet is shorter than the rest... you know what I mean people! We could all do with that little genie in the closet I reckon.
+
+[rd-700nx]: http://www.roland.com/products/en/RD-700NX/ "A MIDI keyboard."
+[rd-500]: https://www.sweetwater.com/sweetcare/articles/roland-rd-500-technical-specifications/ "A MIDI keyboard."
+[8020a]: https://www.genelec.com/support-technology/previous-models/8020a-studio-monitor "Monitor speakers."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[saffire-6-usb]: http://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
+[dt-770-pro]: https://north-america.beyerdynamic.com/shop/hah/headphones-and-headsets/studio-and-stage/studio-headphones/dt-770-pro.html "Closed headphones."
+[sibelius]: http://www.avid.com/US/products/sibelius "Music notation software."
+[albion]: https://www.spitfireaudio.com/shop/ranges/albion/albion-one/ "A set of audio samples."
+[hpl-engine]: https://en.wikipedia.org/wiki/HPL_Engine "A 3D gaming engine."
+[kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/ "A large sound library."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

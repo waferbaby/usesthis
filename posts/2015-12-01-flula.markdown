@@ -37,3 +37,24 @@ For Editing of [strange Fotos and Images](https://www.instagram.com/p/7V_ckdgpYU
 <img src="/images/interviews/flula/dreams.jpg" width="500" height="500" alt="Flula's dream setup." class="detail">
 
 In my Dream Setup of Life, I would have 5 friendly Robots filming me 25 Hours in the Day. Also, one of these Robots is a Chef who is feeding me delishus Purèe of Broccoli and Yogurt and Pasta. Also one of the Robots is sleeping for me, so I do not need sleep, and one of the Robots does hug me all Day so am feeling enough Affection for the Day.
+
+[2880]: https://www.ehx.com/products/2880 "A multi-track looper."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[hero4-black]: https://www.amazon.com/GoPro-HERO4-BLACK-Action-Camera/dp/B00NIYNUF2 "A 4K video camera."
+[hd-hero2]: https://gopro.com/support/hd-hero2-support "An HD video camera."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[dl4]: https://line6.com/dl4/ "An effects pedal."
+[eos-650d]: https://en.wikipedia.org/wiki/Canon_EOS_650D "An 18 megapixel DSLR camera."
+[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
+[ef-s-18-135mm-f3.5-5.6-is-stm]: https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/standard-zoom/ef-s-18-135mm-f-3-5-5-6-is-stm/ "A zoom lens."
+[launchpad-mini]: http://us.novationmusic.com/launchpad-mini "A mini controller for Ableton Live."
+[logic]: https://www.saleae.com/logic/ "A hardware debugger."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[ejay]: https://en.wikipedia.org/wiki/EJay "Audio editing software."
+[launchpad-ios]: http://global.novationmusic.com/launch/launchpad-app "A remixing and recording app."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

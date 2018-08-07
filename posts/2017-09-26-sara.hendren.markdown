@@ -39,3 +39,22 @@ Glad you asked! [The Writers' Room of Boston](http://www.writersroomofboston.org
 ### What would be your dream setup?
 
 I've been eyeing this [Punkt dumb phone][mp01] for years, but what I want is this phone with a mapping function. And then I'd want all that to live in a wallet that had a perfect pen-holder down the inner fold. I'd keep my iPhone for all the scanning and photos and other conveniences, but I'd use the dumb phone more often and consolidate my internet browsing in my laptop or desktop. In the meantime, my car commute is getting whittled down to 1-2 days per week, so I'll be using [Stitcher][] less often. But what I really want is to see services like [Audm][] or [SpokenLayer][] go fully mainstream, so I can easily line up written content online to consume as audio instead.
+
+[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
+[the-tube]: https://www.thetubewaistband.com "A waistband with pockets."
+[mp01]: https://www.punkt.ch/en/products/mp01-mobile-phone/ "A mobile phone just for calls and texting."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[metropolitan]: https://www.jetpens.com/Pilot-Metropolitan-Fountain-Pen-Black-Plain-Fine-Nib/pd/12075 "A fountain pen."
+[bullet-journal]: http://bulletjournal.com/ "An organisational notebook."
+[liliput]: https://www.jetpens.com/Kaweco-Liliput-Fountain-Pen-Eco-Brass-Extra-Fine-Nib/pd/13696 "A fountain pen."
+[reading]: https://www.reading.am/ "A service to keep track of what you're reading online."
+[reeder-ios]: http://reederapp.com/ios/ "A Google Reader client for iOS."
+[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[newsblur]: http://www.newsblur.com/ "An online feed reader."
+[zotero]: https://www.zotero.org/ "A research tool."
+[teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
+[spokenlayer]: https://www.spokenlayer.com/ "An audio distribution and analytics platform."
+[stitcher]: https://www.stitcher.com/ "An on-demand radio service."
+[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[audm]: https://www.audm.com/ "An audio story service."
+[omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."

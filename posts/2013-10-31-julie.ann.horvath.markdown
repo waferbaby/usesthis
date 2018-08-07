@@ -43,3 +43,24 @@ I used to use the [Mac OS][macos] [sticky notes][stickies] for jotting things do
 ### What would be your dream setup?
 
 I'm dying for a MacBook Air with more memory and a Retina screen. At GitHub, so many of us work remotely and on the go. We've built a company around being able to do that. So, I'm just waiting for the right tech to come along to compliment that mobility, or at least one that would play nicely with the software I use. :fingers_crossed:
+
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
+[notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[github]: https://github.com/ "A Git code repository service."
+[github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
+[stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome-devtools]: https://developer.chrome.com/devtools "Web developer tools built into Chrome."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[colorsnapper]: https://colorsnapper.com/ "A colour picker for the Mac."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

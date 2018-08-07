@@ -22,3 +22,11 @@ I write most of my early drafts and outlines in [Apple Notes][notes], synced acr
 ### What would be your dream setup?
 
 I suppose I mainly want hardware/software I don't have to think about, that doesn't get in my way with intrusive UIs and unnecessary tools. The closest I've come to that ideal is Apple Notes. Except now they keep adding new features and it's getting too bloated and complicated, so I guess I'll quit writing.
+
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
+[google-inbox]: http://www.google.com/inbox/ "A Gmail client app."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."

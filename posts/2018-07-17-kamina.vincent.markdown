@@ -56,4 +56,19 @@ I’m pretty flexible about where I can work. I need some noise to keep me focus
 
 Mountains is based in the Arcade, which is a co-working space for game developers. It’s great because I can ask people for help and generally chat to people about what’s going on. It’s also close enough for me to cycle which means I’m forced to exercise each day! 
 
-I’d love to have another monitor and more fairy lights everywhere but I’m pretty happy with my work setup! 
+I’d love to have another monitor and more fairy lights everywhere but I’m pretty happy with my work setup!
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[galaxy-s7]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S7 "A 5.1 inch smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google]: https://www.google.com/ "A search engine."
+[trello]: https://trello.com/ "A project management service."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[slack]: https://slack.com/ "A collaboration service."
+[asana]: https://asana.com/ "A project management service."
+[forest]: https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk "A Chrome extension to manage distractions."
+[florence-ios]: https://itunes.apple.com/us/app/florence/id1297430468 "A game about love."
+[florence-android]: https://play.google.com/store/apps/details?id=com.mountains.feathertop&hl=en_US "A game about love."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

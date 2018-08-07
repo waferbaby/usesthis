@@ -38,3 +38,22 @@ I'm also a big fan of something my friends and I term "care robots" - various ap
 ### What would be your dream setup?
 
 One of the things I'd like to get into at some point is video, for which I'd probably need a better camera, a better lighting set-up, and more RAM. Also, video editing on Linux is dicey, so that's something to (reluctantly) think about. In an ideal world I'd probably also have a better mic, a screen, and maybe even a sound-proof recording space.
+
+[galaxy-s8]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S8 "A 5.8 inch Android smartphone."
+[handshoe]: http://handshoemouse.com/ "An ergonomic mouse."
+[relax-melodies-android]: https://play.google.com/store/apps/details?id=ipnossoft.rma.free "An audio app that helps you fall asleep."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[zombies-run-android]: https://play.google.com/store/apps/details?id=com.sixtostart.zombiesrunclient "A zombie-themed running app."
+[twilight-android]: https://play.google.com/store/apps/details?id=com.urbandroid.lux "An app that adjusts the screen's colours based on the time of day."
+[sleep-as-android-android]: https://play.google.com/store/apps/details?id=com.urbandroid.sleep "A sleep tracking app."
+[slack]: https://slack.com/ "A collaboration service."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
+[mendeley]: https://www.mendeley.com/ "A reference and academic service."
+[xed]: https://github.com/linuxmint/xed "A text editor that comes bundled with Linux Mint."
+[libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[linux-mint]: https://www.linuxmint.com/ "A Linux distribution."
+[latex]: https://www.latex-project.org/ "Typesetting software."
+[pokemon-go-android]: https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo "An AR game about catching monsters in small balls."
+[word]: https://products.office.com/en-us/word "A document editor."

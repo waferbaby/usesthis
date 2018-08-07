@@ -23,4 +23,12 @@ I use mostly FLOSS/FOSS software on [Ubuntu][] -- I have a love/hate relationshi
 
 I recently lost my studio, so I'm working from my couch and kitchen table everyday, so my dream setup would be a real space I can work in again, and mess up the floors, and leave projects out and everywhere without having to think about the dog stepping on them or eating stuff... :) I'd love a big warehouse that's well heated -- like, Mark Bradford's studio looks amazing, or like [Picasso's Cannes studio](https://theartstack.com/artist/pablo-picasso/his-cannes-studio-1956 "An ArtStack article about Picasso.") -- somewhere I can escape to and not be bothered. 
 
-I really have dreams about having unlimited space and materials to experiment with, without having to think about where it's going to dry or be stored... 
+I really have dreams about having unlimited space and materials to experiment with, without having to think about where it's going to dry or be stored...
+
+[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
+[pixel-2]: https://en.wikipedia.org/wiki/Pixel_2 "A 5 inch Android smartphone."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
+[google-maps]: https://www.google.com/maps/ "Web-based map tools."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

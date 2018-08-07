@@ -41,3 +41,21 @@ Software I will additionally commonly use is [Keynote][], [shared shell][shared-
 I don't think I want much. A new 15 inch MacBook Pro with lots of RAM and with dual external monitors (23 inch or larger). I'd like to have all my applications spread out for me to see and track.
 
 As I said I am a simple kinda girl.
+
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
+[alto-connect]: https://www.amazon.com/Logitech-Connect-Notebook-4-Port-Notebooks/dp/B00171377E "A laptop stands with a USB hub."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[shared-shell]: http://www.oracle.com/us/support/systems/premier/shared-shell-sun-systems-163755.html "A Java-based tool to remotely control and view Sun systems."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[mysql]: https://www.mysql.com/ "A relational database server."
+[virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
+[vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."
+[xchat]: http://xchat.org/ "A cross-platform IRC client."
+[keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

@@ -71,3 +71,23 @@ The perfect host:
 * is so standards- and container-oriented that anything you create could easily be snapshotted, downloaded, and migrated seamlessly onto a Raspberry Pi.
 
 It would also have documentation and an interface optimized for non-experts and single-use tasks. For example, a graphical UX to manage "the box's" crontab, and ways to point the box at, say, a [Dockerfile][docker] hosted on [GitHub][] and have it just go from there.
+
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
+[nexus-5]: http://www.google.com/nexus/5/ "An Android smartphone."
+[galaxy-nexus]: http://www.google.com/nexus/ "An Android-based smartphone."
+[g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
+[thinkpad-w520]: https://www.amazon.com/Lenovo-ThinkPad-W520-427637U-Notebook/dp/B004U5Y9LC/ "A 15.6 inch PC laptop."
+[one.2]: https://oneplus.net/one/ "A 5.5 inch Android-based smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[github]: https://github.com/ "A Git code repository service."
+[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[aws]: https://aws.amazon.com/ "Amazon's web service platforms."
+[debian]: https://www.debian.org/ "A Linux distribution."
+[docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
+[digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[kate]: https://kate-editor.org/ "A text editor for KDE."

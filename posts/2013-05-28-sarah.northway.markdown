@@ -28,3 +28,23 @@ I rely pretty heavily on remote storage software like [Dropbox][], [SVN][subvers
 ### What would be your dream setup?
 
 An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 without the serially unstable Flash Builder. And [XCode][] or Apple's Application Loader for Windows or Linux.
+
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
+[m11x]: http://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
+[playbook]: https://en.wikipedia.org/wiki/BlackBerry_PlayBook "A BlackBerry tablet."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[flashdevelop]: http://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[flash-builder]: https://www.adobe.com/products/flash-builder.html "A tool for generating Flash apps via the Flex framework."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

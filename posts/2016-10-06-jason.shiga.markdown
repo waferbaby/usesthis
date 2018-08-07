@@ -22,3 +22,10 @@ For printing, I use a [RISO RP3700 Risograph Duplicator][rp3700] that I bought o
 ### What would be your dream setup?
 
 A drawing desk 3 feet deep that stretched 10 miles long and a pedal-powered chair that rolled along a track.
+
+[rp3700]: http://www.acmcopiers.com/product/risograph-rp3700/ "A large printer."
+[cotman-brush-series-222]: http://www.winsornewton.com/na/shop/brushes/for-water-colour/cotman-brushes/cotman-brush-series-222-designers-short-handle-size-0-brush-5302000 "An ink brush."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[flatten-pro]: https://peltmade.com/psplugins-flatting.html "A Photoshop plugin for colour flattening artwork used in comics."
+[craigslist]: https://www.craigslist.org/ "A classifieds service."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

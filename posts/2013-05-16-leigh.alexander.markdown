@@ -39,3 +39,21 @@ I guess what I'm driving at is I've stopped meaningfully desiring hardware anymo
 If I lust after anything, it's the nostalgia of when my relationship to computing and gaming was weighty and tactile and puzzling, black screens winking serenely at me in luminescent green. I would love a working [TurboGrafx-16][] and an [Apple IIe][iie]; I miss the particular texture of black, wiggly floppies. I have outlived the objects that raised me, and I feel very romantic about their physicality and their frailty and obsolescence. 
 
 But really, my ideal setup is pretty close to how it presently is: tiny little keyboard on my knee, and probably some kind of whiskey within reach. Simple stuff.
+
+[3ds]: https://www.nintendo.com/3ds/ "A portable gaming console with a 3D screen."
+[iie]: https://en.wikipedia.org/wiki/Apple_IIe "The desktop computer."
+[turbografx-16]: https://en.wikipedia.org/wiki/TurboGrafx-16 "A video game console."
+[system-6]: https://www.amazon.com/Tamrac-5606-System-Camera-Black/dp/B00004X10C "A carry bag for DSLRs."
+[vita]: http://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[ps2]: https://en.wikipedia.org/wiki/PS_2 "A gaming console."
+[ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
+[wii]: https://www.nintendo.com/wii "A unique gaming console."
+[irfanview]: http://www.irfanview.com/ "An image viewer/editor for Windows."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[hypercard]: https://en.wikipedia.org/wiki/HyperCard "A multimedia programming interface."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[word]: https://products.office.com/en-us/word "A document editor."

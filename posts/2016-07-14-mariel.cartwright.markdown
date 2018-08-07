@@ -36,3 +36,20 @@ I've long used [Evernote][] to write down pretty much anything, and I've recentl
 I've always used laptops as my main computer because I needed to take everything from home to school or work and back, but now that I actually have a work setup, I'm kinda aching for a home setup that stays put. So maybe a big Cintiq, a couple monitors above... and maybe also my smaller Cintiq, still, for times I just want to sit differently.
 
 I mean... I'd also just like to be able to work in bed, and have my monitors mounted above me so I never have to move or leave. That'd be nice.
+
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[apple-watch]: https://www.apple.com/watch/ "A smartwatch."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[indivisible]: http://indivisiblegame.com/ "An action role playing game."
+[textpad]: https://www.textpad.com/ "A text editor for Windows."
+[skullgirls]: https://en.wikipedia.org/wiki/Skullgirls "A 2D fighting game."
+[skullgirls-encore]: https://en.wikipedia.org/wiki/Skullgirls "A 2D fighting game."
+[scott-pilgrim-vs-the-world-the-game]: https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game "A side scrolling fighting game."
+[slack]: https://slack.com/ "A collaboration service."
+[fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
+[manga-studio]: http://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[evernote]: https://evernote.com/ "Online software for capturing notes."
+[basecamp]: https://basecamp.com/ "Web-based project management."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

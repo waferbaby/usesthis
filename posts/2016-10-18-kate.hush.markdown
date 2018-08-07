@@ -24,3 +24,5 @@ The human is the operating system in this scenario. Every thought process, decis
 ### What would be your dream setup?
 
 Air conditioning, I have dreams of air conditioning in the neon shop. And no one ever emailing me again asking me to recreate a Tracey Emin piece for them.
+
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

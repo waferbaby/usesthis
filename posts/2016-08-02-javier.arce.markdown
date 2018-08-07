@@ -37,3 +37,21 @@ I manage all of my passwords using [1Password][]. My assets are stored in [Dropb
 ### What would be your dream setup?
 
 Computer-wise I'm pretty happy with my current setup. If I could get my hand on a [Leica Q][q.2] I would be super duper happy, though.
+
+[ultrasharp-up2414h]: https://www.amazon.com/Dell-UltraSharp-U2414H-Widescreen-Monitor/dp/B00H3JIGHA "A 23.8 inch monitor."
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
+[fudegokochi-brush-pen]: https://www.jetpens.com/Kuretake-Fudegokochi-Brush-Pen-Regular/pd/2658 "A pen."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[q.2]: https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
+[lumix-dmc-gx80]: https://www.panasonic.com/uk/consumer/cameras-camcorders/lumix-g-compact-system-cameras/dmc-gx80.html "A 16 megapixel 4K camera."
+[pok3r]: https://corus-kb.com/en/27-pok3r "A keyboard."
+[1password]: https://1password.com "Password management software for Mac OS X."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
+[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[github]: https://github.com/ "A Git code repository service."
+[carto]: https://carto.com/ "An analysis service for working with geospatial data."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[vectorscribe]: https://astutegraphics.com/software/vectorscribe/ "A vector plugin for Illustrator."

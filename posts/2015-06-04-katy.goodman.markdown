@@ -28,3 +28,16 @@ I code most stuff using [TextWrangler][]. I love [Terminal][]. I design iPhone a
 ### What would be your dream setup?
 
 I would have a sweet desk that has like, 3 monitors, 2 of which are always streaming "The Matrix" (the movie, not just the falling numbers). My chair would be a cloud and my light source calm, indirect sunlight. Plants everywhere. Including a giant vine I would have to climb to ascend to my treehouse computer lab.
+
+[musicmaster]: https://en.wikipedia.org/wiki/Fender_Musicmaster "An electric guitar."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
+[f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
+[mamp]: https://www.mamp.info/en/ "A one-click Mac solution for Apache, MySQL, PHP."
+[cash-music]: https://cashmusic.org/ "An open source platform for musicians."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[php]: http://php.net/ "An interpreted scripting language."

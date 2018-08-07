@@ -30,3 +30,26 @@ I create [Fluid][] installs for each of my major web applications ([Mail][gmail]
 I'd really like another monitor and a VESA mount so I could suspend a second screen without eating up my desk space. Then I could keep stuff that I casually monitor throughout the day visible, but without losing screen real-estate for the core of my day, which is generally spent writing documents, emails, and of course reading stories.
 
 I also want a Marshall Stack and a 12 string Rickenbacker but noise restrictions apply. I wouldn't mind a really big telephoto lens like a Canon [EF 600mm f/4.0 IS II][ef-600mm-f4l-is-usm] or a Canon [EF 400mm f/2.8 IS II][ef-400mm-f2.8l-is-ii-usm]. Then I could take pictures of nature and children without having to run around after them. I'm more of a hard core "sitting down" kind of person. I could also use more TBs in the RAID array: The 2TB that I have now is enough for now, but in 2011, it seems like 10TB is actually fairly inexpensive these days.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[sg-standard]: http://www2.gibson.com/Products/Electric-Guitars/SG/Gibson-USA/SG-Standard.aspx "An electric guitar."
+[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
+[xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
+[xoom]: https://en.wikipedia.org/wiki/Motorola_Xoom "An Android-based tablet."
+[ef-600mm-f4l-is-usm]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_600mm_f_4l_is_usm "A super telephoto lens for cameras."
+[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[ef-400mm-f2.8l-is-ii-usm]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_400mm_f_2_8l_is_ii_usm "A super telephoto lens for cameras."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[pod-pro]: https://line6.com/legacy/podpro "Hardware for creating guitar sounds."
+[ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
+[fluid]: http://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
+[jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[wow]: http://us.battle.net/wow/en/ "A fantasy MMORPG."

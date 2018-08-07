@@ -26,3 +26,17 @@ I've decided I don't much care for cellphones or smartphones any more, because I
 Being a science fiction writer, I can dream pretty big. I suppose my ideal situation would be some kind of scholar-in-residence gig, where I had immediate, painless, cost-free access to several tons worth of tech-art equipment, a fab lab, a library and a private publishing house. As long as I didn't have to personally pay or maintain any of that stuff, or, in fact, do anything at all, except mess around blogging about cool oddities, and maybe lecture sometimes. That's what I generally, in fact, do.
 
 Failing that, I can dream up some radical guerrilla alternative where I'm a complete cyberpunk autonomist dropout, Information Wants to Be Free style. A small, post-national island in the net, with my own, personal solar power, satellite broadband, and open-source, secondhand everything. No ads, bills, governments, cops, priests, or salesmen. I might be willing to put up with some rain barrels and some Thoreau-style green gardening, just to get out of the matte-black bunker a little.
+
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[nisus-writer-pro]: https://nisus.com/pro/ "A word processor for the Mac."
+[ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
+[google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[flickr]: https://www.flickr.com/ "A photo sharing website."
+[facebook]: https://www.facebook.com/ "A social networking site."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[vimeo]: https://vimeo.com/ "A video sharing service."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

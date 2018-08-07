@@ -23,3 +23,6 @@ Aside from the Mac Pro, I have a studio full of vintage synthesizers and rhythm 
 ### What would be your dream setup?
 
 I live in a townhouse with a similar house on either side. If I could buy one (or both!) of the houses next door, I could double the size of my studio just by knocking down a wall. Then I'd have room for a harpsichord! A reverb chamber! A drum room! A gamelan orchestra! Prepared piano(s)! A toy train set that plays percussion as it goes by, forming a very large and slow electroacoustic rhythm unit! These are the things I think about when I have too much caffeine.
+
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

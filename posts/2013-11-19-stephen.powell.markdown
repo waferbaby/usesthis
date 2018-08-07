@@ -50,3 +50,23 @@ I thought my answer to this was going to be pretty simple, but when I started li
 I'm pretty happy with my hardware/software setup these days, but feel like we're really lacking in the furniture department (given that the table and chairs is our only furniture). Here's what my dream setup would be: two Herman Miller [Eames Lounge Chairs][eames-lounge-chair], one Herman Miller [Eames LCW][eames-molded-plywood-chair], one J. Rusten [Orchard Slab Table][orchard-slab-table], and maybe a Wells Sofa.
 
 Unfortunately this would set us back around $15k, so I'll just keep dreaming for now.
+
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[eames-lounge-chair]: http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html "A chair."
+[eames-molded-plywood-chair]: http://www.hermanmiller.com/products/seating/multi-use-guest-chairs/eames-molded-plywood-chairs.html "A chair."
+[pws]: https://grainaudio.com/collections/handheld/products/pws "A wooden wireless speaker."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[github]: https://github.com/ "A Git code repository service."
+[zendesk]: https://www.zendesk.com/ "A customer service service."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
+[orchard-slab-table]: http://jrusten.com/2010/07/orchard-slab-table/ "A unique wooden table."
+[mailchimp]: https://mailchimp.com/ "A templated mailing list system."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[pgadmin]: https://www.pgadmin.org/ "A GUI for managing PostgresSQL databases."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[pivotal-tracker]: https://www.pivotaltracker.com/ "A project management service."

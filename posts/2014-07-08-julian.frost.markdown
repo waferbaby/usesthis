@@ -34,3 +34,23 @@ Also I would love to ditch the Cintiq for magical drawing paper where you can CM
 Also I would prefer not to work by myself because I wander into the dreary corners of my mind a little too often.
 
 Otherwise everything's good.
+
+[super-sculpey]: http://www.sculpey.com/product/super-sculpey/ "A polymer modelling clay."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[namechanger]: https://mrrsoftware.com/namechanger/ "Mac software for renaming files in bulk."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[filezilla]: https://filezilla-project.org/ "Open-source FTP software."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
+[dumb-ways-to-die-ios]: https://itunes.apple.com/au/app/dumb-ways-to-die/id639930688 "A game based on the video of the same name."
+[quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

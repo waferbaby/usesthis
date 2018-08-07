@@ -34,3 +34,27 @@ I use the [Adobe suite][creative-suite] for quick and janky video and GIF-making
 ### What would be your dream setup?
 
 My dream setup is an idyllic, remote cabin in a forest with a gentle creek that runs nearby. There are fruit trees outside, ripe for the picking. The cabin has an enormous kitchen with wide windows that let in the sunlight and crisp air. There's a fireplace. Also a squat rack. And flawless, lightning-fast wifi. And obviously the forest is full of friendly, magical owls and bears who can teach me ES6.
+
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[3320]: https://www.innova.com/en-US/Product/Detail/3320 "A digital multimeter."
+[5203]: https://www.adafruit.com/product/147 "A wire cutter/stripper."
+[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[1password]: https://1password.com "Password management software for Mac OS X."
+[github]: https://github.com/ "A Git code repository service."
+[git]: https://git-scm.com/ "A version control system."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[atom]: https://atom.io/ "A text editor based on web technology."
+[heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
+[javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
+[c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
+[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[python]: https://www.python.org/ "An interpreted scripting language."

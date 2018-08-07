@@ -25,3 +25,11 @@ Much of what I do revolves around [Microsoft Word][word], since I write so frequ
 I'm not thrilled with Windows, but, again, it's hard to make the switch to anything else, so my dream setup would include a [Microsoft Surface 4][surface-pro-4] with keyboard, with full [Office][] suite built-in, and the latest version of [Premiere][]. I do a lot of video and audio interiews.
 
 Regarding my phone, I'm pretty thrilled with the capabilities of my iPhone and iPad. For me, the quest is really to upgrade to a better laptop, since that is such a vital component of my daily work life -- and night life is watching videos too.
+
+[ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
+[iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
+[surface-pro-4]: https://en.wikipedia.org/wiki/Surface_Pro_4 "A Windows tablet."
+[sitebuilder]: http://webhosting.yahoo.com/ps/sb/index.php "A tool for easily building a website."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
+[word]: https://products.office.com/en-us/word "A document editor."

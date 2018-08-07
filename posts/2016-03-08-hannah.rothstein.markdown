@@ -36,3 +36,12 @@ But perhaps that's a cop-out answer. Here's more: I use [Instagram][instagram-io
 Someday, I'd love to have a big, light-soaked, airy studio with cement floors, tall ceilings, enormous windows, and plenty of room to make a mess. The studio would be filled with an astounding array of paints, Prismacolor *e-ver-y-thing*, drawing utensils, old magazines, luscious art books, shiny bits and bobs, and brushes. I'd have a standing desk for my computer work, and an infinite amount of teas nested next to an electric kettle and array of Heath Ceramics mugs.
 
 I'd also be making 100% of my living with self-initiated art, a mix of conceptual work and painting. Ah, to dream - and damned if I stop trying to make that dream a reality!
+
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[x-acto]: https://en.wikipedia.org/wiki/X-Acto "A knife."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[todoist]: https://todoist.com/ "A to-do service."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

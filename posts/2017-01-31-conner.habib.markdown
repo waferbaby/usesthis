@@ -31,3 +31,7 @@ I don't mean the old trope of "do what you love" where you're a tech employee ea
 Instead, I mean setups aimed at making your day truly meaningful to you, and that would get you participating in the world in a way you'd love.
 
 My dream setups are setups that help create a world where everyone is happier in and loving their days.
+
+[zoom.2]: https://zoom.us "Video conferencing software."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[eventbrite]: https://www.eventbrite.com/ "An event-hosting service."

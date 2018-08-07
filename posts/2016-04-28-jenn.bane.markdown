@@ -33,3 +33,21 @@ I need to include that I'm not qualified to touch any of these things, and I wou
 Cards Against Humanity shares a work space in Chicago with the most talented and generous designers, writers, photographers, developers, comedians, teachers, musicians, and podcasters. Our rule for the space is, "if you can teach a skill to someone who wants to learn, you do it." We often just quit working to play games together and we cook meals for one each other all the time. I feel very, very lucky to already be living my dream setup.
 
 For the days I'm feeling introverted and sick of the Internet, though, I wouldn't mind a bungalow on an island somewhere.
+
+[us-2x2]: http://tascam.com/product/us-2x2/ "A USB audio interface."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
+[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[mixwizard-wz4-16-2]: http://www.allen-heath.com/ahproducts/wz4-16-2/ "A 16 input mixing board."
+[cloudlifter-cl-1]: https://www.amazon.com/Cloud-Microphones-CL-1-Cloudlifter/dp/B004MQSV04 "A microphone booster."
+[beta-87a]: http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone "A condenser microphone."
+[1password]: https://1password.com "Password management software for Mac OS X."
+[ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
+[textexpander]: https://smilesoftware.com/textexpander "A Mac app for adding custom abbreviations for often-used text."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[slack]: https://slack.com/ "A collaboration service."
+[front]: https://frontapp.com/ "A customer support service."
+[cleanmymac]: https://macpaw.com/cleanmymac "Software for removing unwanted files from your Mac."
+[basecamp]: https://basecamp.com/ "Web-based project management."

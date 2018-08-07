@@ -38,3 +38,26 @@ For data visualization: A [MacBook Pro][macbook-pro] and a giant retina display.
 For music: A [Rickenbacker 4003][4003], [Aguilar Tone Hammer 500 head][tone-hammer-500], two [Aguilar SL-112 amps][sl-112]. Those last two items especially because I'm not particular huge or muscular and would like to be able to move my own bass gear without injuring myself. And, I'm just generally an Aguilar fan girl.
 
 I'd also like a pair of Urbanears Plattans in every color so that they would always match my outfit.
+
+[retro-pen]: http://www.kikkerland.com/products/retro-pens-5-per-set/ "A pen styled like it's from the 1960's."
+[4003]: http://www.rickenbacker.com/model.asp?model=4003 "An electric bass."
+[tone-hammer]: http://www.aguilaramp.com/products_preamps_tonehammer.htm "A preamp."
+[tone-hammer-500]: http://www.aguilaramp.com/products_amplifiers_TH500.htm "A bass head."
+[tlc-compressor]: http://www.aguilaramp.com/products_tlc_compressor.htm "A compressor pedal."
+[tribute-jb-2]: http://www.glguitars.com/instruments/TributeSeries/basses/JB-2_new/index.asp "An electric bass guitar."
+[sl-112]: http://www.aguilaramp.com/products_cabinets_SL112.htm "A lightweight bass amp."
+[agro]: http://www.aguilaramp.com/products_agro.htm "A bass overdrive pedal."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mv88]: http://www.shure.com/americas/products/microphones/motiv/mv88-ios-digital-stereo-condenser-microphone "A stereo condenser microphone for iOS devices."
+[bg250-112]: http://www.tcelectronic.com/bg250-112/ "A guitar amp."
+[polytune-2]: http://www.tcelectronic.com/polytune-2/ "A guitar tuner."
+[plattan]: http://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
+[imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
+[ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
+[import.io]: https://www.import.io/ "A service for scraping data from websites."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[atavist]: https://atavist.com/ "A web publishing system."
+[facebook]: https://www.facebook.com/ "A social networking site."
+[last.fm]: https://www.last.fm/ "An online radio/tool for tracking your listening habits."
+[public]: https://public.tableau.com/s/ "Visualisation software."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

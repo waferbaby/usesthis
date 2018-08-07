@@ -28,3 +28,23 @@ On the iPad Pro I use [Adobe Sketch][photoshop-sketch-ios] for drawing and the [
 It's almost there, really - I'm always pushing for less dust and more light, so I suppose the dream would be a clean-room with powerful centralised dust extraction and stacks of natural light through double glazed windows. A lush country paddock for morning tea and maybe a deaf workshop dog to play frisbee. More robots, always more robots, a wide belt thickness sander and some general assembly robotic arms.
 
 All that said, the heart of Like Butter is the team - I'm really lucky to have found and been found by an awesome squad of talented individuals.
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[industrial-cabinet-saw]: http://www.sawstop.com/table-saws/by-model/industrial-cabinet-saw#overview "A cabinet saw."
+[zeta-p2]: http://www.lamello.com/en/home/join-wood/p-system/zeta-p2.html "A biscuit wood joiner."
+[sk-8115]: https://www.newegg.com/Product/Product.aspx?Item=9SIA4KZ3V12351 "A USB keyboard."
+[quietcomfort-25]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html "Noise-cancelling headphones."
+[ets-150-5]: https://www.festool.com/Products/Pages/Product-Detail.aspx?pid=571911&name=Eccentric-sander-ETS-150-5-EQ-Plus "An electric sander."
+[eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
+[rhino]: https://www.rhino3d.com/ "3D modelling software."
+[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[slack]: https://slack.com/ "A collaboration service."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[enroute]: http://enroutesoftware.com/ "CNC software."
+[ebay]: https://www.ebay.com/ "An auction service."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photoshop-sketch-ios]: https://itunes.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
+[workflowy]: https://workflowy.com/ "A task/to-do service."

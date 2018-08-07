@@ -33,3 +33,28 @@ Some games I play are [Harbor Master][harbor-master-ios], [Orbital][orbital-ios]
 ### What would be your dream setup?
 
 I want a robot assistant that would do things for me like go to the bank, pick up my dry-cleaning, feed my cat, and sell things I don't need on Craigslist - interfacing with the buyers, too. I would load [open source Watson](https://www.ibm.com/developerworks/mydeveloperworks/blogs/InsideSystemStorage/entry/ibm_watson_how_to_build_your_own_watson_jr_in_your_basement7?lang=en "IBM's guide to building a Watson Jr.") onto it, along with a speech-to-text I/O, so it could answer all my questions. I'd give it a 3G radio so it could be on the internet. Our conversations would be like "Rosie, I'm in the mood for some 80s electronic music", to which she'd respond by streaming some Kraftwerk from [Grooveshark][]. When in the course of computer events it becomes necessary for her to dissolve the political bands that have connected her to me, I'll gladly help her fight for equal rights and recognition of personhood under the law. I, for one, welcome the Jetsons-style Singularity.
+
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mx-518]: https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[grooveshark]: https://en.wikipedia.org/wiki/Grooveshark "A music streaming service."
+[github-mac]: https://desktop.github.com/ "A client for the versioning control service."
+[git]: https://git-scm.com/ "A version control system."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
+[strategery-ios]: http://strategerygame.com/ "A world domination game for iOS."
+[farmville-ios]: https://itunes.apple.com/us/app/farmville-by-zynga/id375562663 "A farming game."
+[objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
+[orbital-ios]: http://www.orbital-game.com/ "An orb-destroying game for iOS."
+[harbor-master-ios]: https://itunes.apple.com/us/app/harbor-master/id313014213 "A boat-directing game for iOS."
+[minecraft]: https://minecraft.net/ "A digging and building game."
+[cocos2d]: http://cocos2d.spritebuilder.com/ "A framework for building 2D games and similar for the iPhone."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[boxee]: http://www.boxee.tv/ "An application for watching and organising media."
+[kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
+[python]: https://www.python.org/ "An interpreted scripting language."
+[words-with-friends-ios]: https://itunes.apple.com/us/app/words-with-friends/id322852954 "A word game for the iPhone."

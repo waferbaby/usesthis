@@ -25,3 +25,19 @@ If I'm doing [Ruby][], I do it in both [Atom][] and [BBEdit][] (I love the regex
 ### What would be your dream setup?
 
 I wouldn't change a thing about my physical space. I work from home, which is great, and my desk is in a sunroom that is pretty much all windows (west-facing so I can see the gorgeous sunset at the end of my day.) I love my hardware setup but I would be even happier with two 42.5" 4k displays, one on either side of my laptop. Preferably on adjustable mounts. In the studio I would love to have a maxed-out 27" [iMac][] dedicated to music production --- even my MacBook Pro has trouble keeping up with Logic at a decent sample rate. My Patreon is at... just kidding. Sort of.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[faderport-8]: https://presonus.com/products/FaderPort-8 "An eight-channel audio controller."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[linnstrument]: http://www.rogerlinndesign.com/linnstrument.html "A unique MIDI controller."
+[logic]: https://www.saleae.com/logic/ "A hardware debugger."
+[ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
+[go]: https://golang.org/ "A compiled programming language."
+[swift.2]: https://swift.org/ "A compiled programming language."
+[atom]: https://atom.io/ "A text editor based on web technology."
+[visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[platform]: https://output.com/products/platform "A desk designed for musical equipment."

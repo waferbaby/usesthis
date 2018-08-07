@@ -36,3 +36,27 @@ Since my computer requirements are not extreme, the current setup is pretty nice
 If you are talking sci-fi future stuff, I would like an iPad with a pressure-sensitive stylus, because only kids like to draw with their fingers. 
 
 I would also like some sort of compiler which would automagically figure out how to parallelize my code. Processors seem to have stalled out at 3gHz and aren't helping to get us to the Singularity any faster!
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[iweb]: https://en.wikipedia.org/wiki/IWeb "A WYSIWYG web design and publishing app for the Mac."
+[inchworm-animation]: http://www.inchwormanimation.com/ "An animation system for the Nintendo DS."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[headspace-ios]: http://www.flatblackfilms.com/iphone/Headspace/Headspace.html "A 3D mind-mapping/outline tool for iOS."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[codewarrior]: https://en.wikipedia.org/wiki/CodeWarrior "A development IDE primarily for embedded systems."
+[voxel-ios]: https://itunes.apple.com/us/app/voxel/id333186489 "A 3D pixel editor for iOS."
+[virtual-ii]: http://www.virtualii.com/ "An Apple ][ emulator for the Mac."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

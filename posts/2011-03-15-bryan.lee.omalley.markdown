@@ -35,3 +35,14 @@ I think I kind of hate software and I want it all to become invisible. That's wh
 As a cartoonist who does the majority of his work in ink on paper, I don't need all that much. I'm considering a [Cintiq][] (I'm on the waiting list, actually) but it'd mostly be a toy. Who knows, maybe I'll love it and start doing more things with it. I do find myself sketching more on the computer now that Photoshop CS5 has workable brushes (and I'm too lazy to go over to my drawing table most days -- I haven't used it in months).
 
 The other cool thing would be if my giant scanner was wireless. I think it's about time we had that technology. It's hard enough to find a large-format scanner, though.
+
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[expression-10000xl]: https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
+[iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
+[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -28,3 +28,23 @@ We use [Celtx][] to write the scripts and then to breakdown and create schedules
 ### What would be your dream setup?
 
 In all honesty, I'm not very techy, but thankfully my team is. I could live only with my bed and my iPhone in my hand, and with my MacBook on the bed so I can watch Girls, Bored to Death and House of Cards... oh, and Bron!
+
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[alexa-mini]: http://www.arri.com/alexamini/ "A digital video camera."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[skype]: https://www.skype.com/en/ "Voice and video chat software."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
+[highrise]: https://highrisehq.com/ "A web service for managing business contacts."
+[celtx]: https://www.celtx.com/index.html "A pre-production/script writing software suite."
+[davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[basecamp]: https://basecamp.com/ "Web-based project management."
+[prestashop]: https://www.prestashop.com/ "An online store service/software."
+[wetransfer]: https://www.wetransfer.com/ "A service for sending large files."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

@@ -38,3 +38,20 @@ Something that makes using the computer less awful... As it stands now, getting 
 I'd like computing to feel a bit more like working at my desk in studio, going out walking, or drawing/writing in my sketchbook. Newer gesture-driven interfaces are getting us ever so slightly closer, but we need more drastic rethinking about how applications are built--the computer as all-purpose device with interface paradigms from the late 70s and early 80s has worn out its welcome. I'm rooting for my friends at [Oblong](http://oblong.com/ "Inventors of the 'g-speak spatial operating environment'."), who provide a glimpse into the alternatives.
 
 But mostly I hope it gets sorted out before my back gets too creaky from hunching in front of a display and my wrists give out from repetitive stress injury.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[compass-597]: https://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6 "A USB device for EVDO access."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
+[transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
+[fontforge]: http://fontforge.github.io/ "An open-source font editor."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[hex-fiend]: http://www.ridiculousfish.com/hexfiend/ "An open-source hex editor for the Mac."
+[macports]: https://www.macports.org/ "A collection of *nix software ported to Mac OS X."
+[carbon-emacs]: https://www.emacswiki.org/emacs/CarbonEmacsPackage "A Mac-friendly version of GNU Emacs."
+[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[picasa]: http://picasa.google.com/ "A photo client and web service."
+[processing]: https://processing.org/ "A programming language/environment."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -56,3 +56,19 @@ A custom-built Pelican case that could hold my sketchbook and protect it from ge
 And I'm even thinking about making a *bigger travel sketchbook*? Like... *9x12???*
 
 Dream big, Little Bellwood.
+
+[neck-led-light]: https://www.amazon.com/DLAND-Flexible-Reading-4-level-Control/dp/B01MAUA14H/ "A light that sits on your neck."
+[aquash-water-brush]: http://www.pentel.com/store/aquash-water-brush-large-fine-point-tip "A water brush."
+[hi-tec-c]: https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[carbon-desk-fountain-pen]: https://www.amazon.com/Platinum-Carbon-Fountain-Super-DP-800S/dp/B006CQT87W "A pen."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[l-500grp]: https://www.amazon.com/NT-Heavy-Duty-Aluminum-Auto-Lock-L-500GRP/dp/B009F6BT0A/ "A utility knife."
+[perfection-v550]: https://www.amazon.com/Epson-Perfection-V550-Negative-B11B210201/dp/B00E1O74SW "A colour scanner."
+[professional-water-colour-compact-set]: https://www.amazon.com/Winsor-Newton-Professional-Water-Compact/dp/B000N85WVQ/ "A set of water colour paints."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[google-inbox]: http://www.google.com/inbox/ "A Gmail client app."
+[manga-studio-ex]: http://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[cosmo]: https://www.redgiant.com/products/magic-bullet-cosmo/ "A skin tone and blemish plugin for After Effects."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[workflowy]: https://workflowy.com/ "A task/to-do service."

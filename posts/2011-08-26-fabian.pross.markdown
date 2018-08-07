@@ -23,3 +23,26 @@ Our main production software is [Autodesk Softimage][softimage], which I use wit
 ### What would be your dream setup?
 
 When you're dealing with 3D production, there is (and never will be) a setup that can handle your stuff as fast as you'd like it to. It's a vicious cycle: the more horsepower you have, the more you crank up settings and polycounts. No matter what hardware there will be in the future, I will always hope for something faster...
+
+[ultrasharp-2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[shooter-case]: https://www.burton.com/mens-bags-luggage-packs-shooter-case/256170,default,pd.html "A camera bag."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[verner]: http://furniture.about.com/od/furniturebytheroom/gr/IKEA_verner.htm "An office chair."
+[eos-500d]: https://en.wikipedia.org/wiki/Canon_EOS_500D "A 15.1 megapixel DSLR."
+[kackel-dackel]: https://www.amazon.de/Goliath-Toys-30594-30591006-Kackel/dp/B003CJJE4Y "It's a toy dog that poops. Really."
+[pixie-plus]: https://www.gsmarena.com/palm_pixi_plus-3250.php "A WebOS-based smartphone."
+[royal-render]: http://www.royalrender.de/ "Software for organising rendering jobs on rendering farms."
+[ubuntu-server]: https://www.ubuntu.com/server "A server version of Ubuntu."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[softimage]: https://www.autodesk.com/products/softimage/overview "3D character animation software."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[fusion]: https://www.blackmagicdesign.com/products/fusion "VFX production software."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -33,3 +33,23 @@ This is probably the least interesting part of my life. I use boring stuff like 
 Computer-wise I'd like a HUGE monitor and a shit-ton of memory. I want this to magically pop up wherever I travel to. I do NOT want to carry it. I loathe actually using a laptop as I have terrible back problems and being hunched over all the time causes me pain but circumstances are such that I must work wherever I go. Sigh. 
 
 I almost have my dream set up music equipment wise. I'd like to not share a hi-hat stand with my bandmate Kathy so I have it set up at all times. I need a better crash cymbal but I haven't found it yet. Other than that I have the drums I've always wanted. My guitar is a fucking dream. I miss my old Sunn bass amp, it's a solid state [Coliseum 300][coliseum-300] that seems to have a ghost in it. I've tried to have it repaired but the problem remains. I used to have to hit it in my old band, sort of like Fonzie, to get it to stop rumbling.
+
+[370]: https://www.amazon.com/Acoustic-370-Bass-Amplifier-Cabinet/dp/B00DH05L54 "A guitar amp."
+[scrambler]: http://analogman.com/scramblr.htm "A guitar pedal."
+[supraphonic]: https://www.ludwig-drums.com/usasnares_supraphonic.php "A snare drum."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[microkorg]: http://www.korg.com/us/products/synthesizers/microkorg/ "A synthesizer."
+[mustang]: https://en.wikipedia.org/wiki/Fender_Mustang "An electric guitar."
+[coliseum-300]: http://johnkvintageguitars.homestead.com/SunnColiseum.html "A bass amp."
+[dp-008]: http://tascam.com/product/dp-008/ "A portable 8-track recorder."
+[blues-custom-30]: http://www.epiphone.com/News-Features/News/2006/The-Blues-Custom-30--Great-Tone-Killer-Looks-And-S.aspx "A guitar amp."
+[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
+[teamgantt]: https://www.teamgantt.com/ "Web-based Gantt chart software."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[slack]: https://slack.com/ "A collaboration service."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[cash-music]: https://cashmusic.org/ "An open source platform for musicians."
+[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[endicia]: https://www.endicia.com/segments/all-products/endicia-for-mac "Label, tracking and postage software."

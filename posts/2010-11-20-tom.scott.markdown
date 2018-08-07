@@ -42,3 +42,20 @@ Oh, and [Winamp][] for playing music, still with the classic skin. When you can 
 ### What would be your dream setup?
 
 A heads-up display. The "names and faces" part of my brain has never really worked properly, so I'd happily outsource that to face recognition software that reminds me who someone is and where I've met them before. When the iPhone 4 announcement mentioned a '[Retina Display](http://www.apple.com/iphone/features/retina-display.html "Information on the iPhone 4's screen.")', I was briefly, absurdly hopeful that they might have actually [worked out the technology](http://en.wikipedia.org/wiki/Virtual_retinal_display "The Wikipedia article on Virtual retinal display."), but I suspect that like [so](http://en.wikipedia.org/wiki/Speech_recognition "The Wikipedia article on speech recognition.") [many](http://en.wikipedia.org/wiki/Duke_Nukem_Forever "The Wikipedia article on Duke Nukem Forever.") [things](http://en.wikipedia.org/wiki/Fusion_power "The Wikipedia article on Fusion power."), it'll always be "a few years away".
+
+[4104-commentators]: http://www.coleselectroacoustics.com/index.php/microphones/4104-commentators-microphone "A microphone."
+[iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
+[n770]: https://en.wikipedia.org/wiki/Nokia_770_Internet_Tablet "An Internet tablet device."
+[myx-2]: https://en.wikipedia.org/wiki/Sagem_myX-2 "A simple mobile phone."
+[vixia-hv20]: https://www.usa.canon.com/cusa/support/consumer/camcorders/high_definition_camcorders/vixia_hv20 "A high definition video camcorder."
+[xacti-vpc-fh1]: https://www.amazon.com/Sanyo-VPC-FH1-Memory-Camcorder-advance/dp/B001Q3M9PY "A high definition video recorder and 8 megapixel camera."
+[latitude-d830]: https://www.amazon.com/Dell-Latitude-16-Inch-processor-windows/dp/B001P9CZ9O "A 15 inch PC laptop."
+[notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[avisynth]: http://avisynth.nl/index.php/Main_Page "A video editor and processor tool for Windows."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[virtualdub]: http://www.virtualdub.org/ "A video capture and processing tool for Windows."
+[winamp]: http://www.winamp.com/ "A media player."

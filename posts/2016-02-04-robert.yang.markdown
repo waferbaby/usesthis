@@ -31,3 +31,14 @@ What I'm saying is it's important to unpack a concept like "software", to also c
 ### What would be your dream setup?
 
 My dream setup would involve everything other than my setup -- time, funding, support... oh, right, that's not the answer you want?... ummm... then I guess one of those laptops that's made of titanium or something. I want to be able to toss my laptop off a building, because in my weaker moments, that's what I feel like doing.
+
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[gitlab]: https://about.gitlab.com/ "A git repository manager."
+[github]: https://github.com/ "A Git code repository service."
+[gifcam]: http://blog.bahraniapps.com/gifcam/ "Windows GIF screen capture software."
+[sourcetree]: https://www.sourcetreeapp.com/ "A Mac GUI client for Git, Subversion and Mercurial."
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

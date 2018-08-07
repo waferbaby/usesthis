@@ -44,3 +44,23 @@ Other notable software includes the [Music Player Daemon][mpd], which runs on my
 ### What would be your dream setup?
 
 I dream of a ARM-based netbook with exceptionally good battery life, an E-ink display, and fully open and non-proprietary hardware. I've put off upgrading for years since this seems such an obvious thing for the market to produce, but the market is fascinated with locked-down tablets instead.
+
+[inspiron-mini-9]: http://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
+[sheevaplug]: https://en.wikipedia.org/wiki/SheevaPlug "A plug computer with a tiny footprint."
+[rss2email]: http://www.allthingsrss.com/rss2email/ "A tool for delivering news from RSS feeds to an email address."
+[ikiwiki]: http://ikiwiki.info/ "A wiki tool based around a revision control system."
+[git-annex]: http://git-annex.branchable.com/ "A tool for tracking the details of large files in git."
+[git]: https://git-scm.com/ "A version control system."
+[obnam]: https://liw.fi/obnam/ "A backup tool."
+[offlineimap]: http://www.offlineimap.org/ "A tool for syncing mail from an IMAP server."
+[haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
+[mpd]: http://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki "A music playing server."
+[chromium]: http://www.chromium.org/ "Open-source builds of the Chrome web browser."
+[c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[debian]: https://www.debian.org/ "A Linux distribution."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[xfce]: http://www.xfce.org/ "A lightweight UNIX-like desktop environment."
+[xmonad]: http://xmonad.org/ "A tiling window manager for X11."
+[etckeeper]: http://joeyh.name/code/etckeeper/ "A tool for managing /etc with git."
+[perl]: https://www.perl.org/ "An interpreted scripting language."

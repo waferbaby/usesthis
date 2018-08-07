@@ -26,3 +26,6 @@ Fairly "vanilla" software. I use the major C++ compilers and whatever tools are 
 Two pounds, good keyboard, good pen for scribbling and drawing, dockable, running all the major operating systems. Good Internet connection, but able to perform perfectly when disconnected from the web. Able to act as an interface to other systems. Simple and predictable to use. Stable, never needs rebooting.
 
 Obviously, such a marvel does not exist today.
+
+[surface-pro-3]: https://en.wikipedia.org/wiki/Microsoft_Surface_Pro_3 "A 12 inch Windows 8.1 Pro tablet."
+[c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."

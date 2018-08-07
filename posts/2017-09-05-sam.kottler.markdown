@@ -42,3 +42,20 @@ I've got something pretty close to a dream setup already, but here we go.
 I want an operating system with the level of device support as Windows, the simplicity of macOS, and the flexibility of Linux. And I want that operating system to run on something like a very powerful iPad Pro.
 
 Also, software that never crashes or has problems during runtime execution would be pretty cool.
+
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html "Wireless over-the-ear headphones."
+[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[github]: https://github.com/ "A Git code repository service."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[slack]: https://slack.com/ "A collaboration service."
+[onenote]: https://www.onenote.com/ "Synced notes software (part of Office)."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
+[vim]: http://www.vim.org/ "A command-line text editor."
+[venmo]: https://venmo.com/ "A payment service."
+[bash]: http://www.gnu.org/software/bash/ "A terminal shell."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

@@ -56,3 +56,14 @@ For graphics I use OpenOffice's Drawing program. It's clunky and imperfect but i
 My dream setup would be to have a working Adobe graphics program again, and a word processing program that hit the sweet spot between the simplicity of TextEdit and the essential functionalities of Microsoft Word. 
 
 I'd also like for my next-door neighbors to trim their trees so that I could see a bit further from my window. It helps a screen worker to rest their eyeballs by looking out a window and focusing on a distant horizon several times a day.
+
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[my-passport-ultra]: https://www.wdc.com/en/products/products.aspx?id=1000 "A portable external hard drive."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[filemaker-pro]: http://www.filemaker.com/products/filemaker-pro/ "A database application."
+[freehand]: https://en.wikipedia.org/wiki/Macromedia_FreeHand "Vector illustration software."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
+[word]: https://products.office.com/en-us/word "A document editor."

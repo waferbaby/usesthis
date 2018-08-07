@@ -25,3 +25,28 @@ The list goes on as well.
 ### What would be your dream setup?
 
 I pretty much have it. It'd be great to have more high end outboard mic preamps and compressors, but I do just fine with the mix of hardware and software I currently have. I'm at the point where I haven't even used some stuff I've bought because I have more than I need but I'm sort of addicted to plug-ins. Life is tough!
+
+[rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[tlm-103]: http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm103_description "A studio microphone."
+[td-4kx2]: http://www.rolandus.com/products/details/1152 "A drum set."
+[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[sk-1]: https://en.wikipedia.org/wiki/Casio_SK-1 "A 32 key synthesizer."
+[fireface-800]: http://www.rme-audio.de/en_products_fireface_800.php "A FireWire audio interface."
+[hs80m]: https://usa.yamaha.com/products/music-production/speakers/hs_series/hs80m/ "Studio speakers."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[mp-2nv]: https://www.amazon.com/Great-River-MP-2NV-Channel-Preamp/dp/B003Y583H0 "A two channel mic preamp."
+[cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[vintage-47]: http://www.jzmic.com/en/products/18 "A microphone."
+[km-184]: http://www.neumann.com/?lang=en&id=current_microphones&cid=km180_description "A miniature microphone."
+[laboratory]: https://www.arturia.com/evolution/en/products/ALE/intro.html "A 49-key MIDI keyboard."
+[psone]: https://en.wikipedia.org/wiki/PlayStation_(console)#PSone "A smaller redesigned version of the original Playstation console."
+[garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[superior-drummer]: https://en.wikipedia.org/wiki/Superior_drummer_2.0 "A drum sampler."
+[symphonic-instrument]: http://www.motu.com/products/software/msi "A sound library/instrument."
+[addictive-drums]: https://www.amazon.com/Hal-Leonard-Audio-Addictive-Drums/dp/B008FSQQ2K "Drum kit software."
+[mtv-music-generator]: https://en.wikipedia.org/wiki/MTV_Music_Generator "A basic music creation tool."
+[chipsounds]: https://www.plogue.com/products/chipsounds/ "An 8-bit sound-chip emulator."
+[komplete]: https://www.native-instruments.com/en/products/komplete/ "An instruments and sound effect collection."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

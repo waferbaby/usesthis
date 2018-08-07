@@ -29,3 +29,25 @@ Most of my work is 2D, but every now and then I'll dabble in 3D using [Wings 3D]
 ### What would be your dream setup?
 
 A room, at the top of a tower, overlooking a monolithic city made of stone and blood. In the center of the room there is a pedestal upon which a 27" Retina iMac is placed. That's right, the good lords of Apple gave that baby a Retina screen. But this divine gift comes with a price. Someone must constantly maintain and nurture the computer by mindlessly browsing Reddit, otherwise it will self-destruct and cast doom upon the city-dwellers below. Thus, I humbly accept my fate.
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[elements-portable]: https://www.wdc.com/en/products/products.aspx?id=470 "A portable external hard drive."
+[pebble]: https://getpebble.com/ "A smartwatch."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[graphicsgale]: https://graphicsgale.com/us/ "A pixel art editor for Windows."
+[sculptris]: http://pixologic.com/sculptris/ "3D sculpting software."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
+[blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."
+[windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
+[wings-3d]: http://www.wings3d.com/ "A polygon renderer."

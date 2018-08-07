@@ -38,3 +38,16 @@ I wrote my first books to the music of The Tallis Scholars, Zoe Keating, Brian E
 My modest dream is that my current gear lasts me a few more years, because personal electronics have a terrible environmental footprint and entail terrible labor practices. I try to keep my stuff running for as long as possible, and to repair rather than replace. I’d also like better writing software than Word, better music-listening software than iTunes (wouldn’t we all?), and a well-lit office space with a few friendly plants, with the aforementioned coffee massage equipment nearby. I plan to adopt a setup in which different functions are disaggregated from my laptop so that I listen to music on a stereo and treat the computer as a word processor only, while writing. It would be nice if my phone were an “old-fashioned” cell phone rather than a smart phone, but I travel a fair amount and find the smart phone useful.
  
 But overall, the most important tools for my work are intangible and, in a sense, intimate: a reasonably good mood, minimal emotional distraction, energy, and a rested and exercised body. And, of course, coffee.
+
+[icurve]: https://www.amazon.com/Griffin-Technology-iCurve-Laptop-Stand/dp/B00007L6IA "A laptop stand."
+[iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[super-pro]: https://baileyworks.com/shop/professional/super-pro.html "A messenger bag."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[dr-05]: http://tascam.com/product/dr-05/ "A handheld audio recorder."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[merlin-bird-id-ios]: https://itunes.apple.com/us/app/merlin-bird-id-by-cornell/id773457673 "An app for identifying North American birds."
+[word]: https://products.office.com/en-us/word "A document editor."

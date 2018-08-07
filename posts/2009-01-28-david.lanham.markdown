@@ -22,3 +22,21 @@ Most of my software time is spent in [Adobe Illustrator][illustrator] with [Phot
 ### What would be your dream setup?
 
 I don't have too many unfulfilled needs right now, an extra 30" would of course be fantastic, but mainly I just want my software to be intuitive and responsive. It still seems like I'm waiting around a lot for drawings to render out or tasks and filters to do their job. I don't know exactly how much of that is software and how much is hardware, but I suspect the majority is software based. I'd like to think that an 8-core Mac Pro could handle just about anything you throw at it if the software is taking full advantage of the processors. Otherwise my ultimate setup would have hardware and software that can read my mind and throw down the drawings I have in my head without me lifting a finger. It's not too much to ask, right?
+
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
+[iconbuilder]: https://iconfactory.com/software/iconbuilder/ "An icon creation plugin for Photoshop."
+[iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."
+[things]: https://culturedcode.com/things/ "A task management application for the Mac."
+[time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
+[superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
+[on-the-job]: http://stuntsoftware.com/onthejob/ "Job time-tracking software for the Mac."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[candybar]: https://panic.com/blog/candybar-mountain-lion-and-beyond/ "Software for changing the default icons in Mac OS X."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
