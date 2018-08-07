@@ -1,0 +1,38 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+unless ARGV[0]&.end_with?('.markdown')
+  abort('You must supply a Markdown file.')
+end
+
+gear_pattern = /\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/
+
+contents = File.read(ARGV[0])
+
+slugs = contents.scan(gear_pattern).map do |link|
+  link[1] ? link[1] : link[0].downcase
+end
+
+links = []
+
+glob_path = File.join(
+  File.dirname(__dir__),
+  'gear',
+  '**',
+  '*.json'
+)
+
+Dir.glob(glob_path).each do |path|
+  slug = File.basename(path, '.json')
+  next unless slugs.include?(slug)
+
+  gear = JSON.parse(File.read(path))
+  links << "[#{slug}]: #{gear['url']} \"#{gear['description']}\"\n"
+end
+
+return if links.empty?
+
+contents.gsub!(/\[.+\]: http(.+)\n/, '').strip!
+
+File.write(ARGV[0], contents << "\n\n#{links.join}")
