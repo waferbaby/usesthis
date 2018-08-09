@@ -21,7 +21,7 @@ At the heart of everything I do is a [MacBook Pro][macbook-pro] (2.6GHz quad-cor
 
 The MacBook is also my writing tool of choice in my job as a journalist, although, apart from the need to run [Skype][] and a few other bits of software, I could happily get away with a Chromebook or any laptop that can run a modern browser.
 
-The rest of my studio is made up of a very old 'Firewire' audio interface (the original [MOTU 828][motu-828]), a pair of now discontinued HHB Circle 5 passive monitor speakers, a cheap Cambridge Audio amp, an outboard valve compressor (the original [TLA Ivory 5021][ivory-5021]) that I mainly use as a DI box for guitars, and a [Rode NT1-A microphone][rode-nt1-a]. Notably, I don't have an outboard mixer (I ditched my digital 16 channel mixer years ago) as I prefer to mix 'in the box' (ie in software).
+The rest of my studio is made up of a very old 'Firewire' audio interface (the original [MOTU 828][828]), a pair of now discontinued HHB Circle 5 passive monitor speakers, a cheap Cambridge Audio amp, an outboard valve compressor (the original [TLA Ivory 5021][ivory-5021]) that I mainly use as a DI box for guitars, and a [Rode NT1-A microphone][rode-nt1-a]. Notably, I don't have an outboard mixer (I ditched my digital 16 channel mixer years ago) as I prefer to mix 'in the box' (ie in software).
 
 Most recently I added an [Avantone MixCube Active mono speaker][mixcube-active]. It is a modern take on a so-called 'grotbox' -- a speaker designed to mimic lower‑quality, consumer‑style speakers so that you'll have a better idea how your mix will sound when heard in typical real‑world listening situations. Or, put another way, a speaker that sounds so crap it will make you work a lot harder to get your final mixes sounding good, even on speakers that have little or no bass response and tend to really overemphasise midrange frequencies.
 
@@ -40,6 +40,7 @@ As mentioned, my studio is built around Logic Pro X. I've also invested in a hug
 I don't have a lot of gear-lust left these days. But if you had a gun to my head, I'd always buy the most powerful MacBook possible and/or possibly an [iMac Pro][imac-pro]. I would also like to upgrade my ageing audio interface to Thunderbolt 3 with a higher sample rate (recording quality). And I'd probably replace my HHB Circle 5s with active speakers from Adam Audio. My dream setup would really be to have my studio relocated to a more spacious room and one that has been acoustically treated and has a separate live room and/or vocal recording booth.
 
 [rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
+[828]: https://www.soundonsound.com/reviews/motu-828 "A FireWire audio interface."
 [ivory-5021]: https://www.musiciansfriend.com/pro-audio/tl-audio-ivory-5021-tube-compressor "A tube compressor."
 [irig-keys-37-pro]: http://www.ikmultimedia.com/products/irigkeys37pro/ "A MIDI keyboard."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
@@ -48,7 +49,6 @@ I don't have a lot of gear-lust left these days. But if you had a gun to my head
 [microbrute]: https://www.arturia.com/products/hardware-synths/microbrute "A synth."
 [mixcube-active]: http://www.avantonepro.com/mixcubes-active-black.php "A pair of studio speakers."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[motu-828]: https://www.soundonsound.com/reviews/motu-828 "A FireWire audio interface."
 [volca-beats]: http://www.korg.com/us/products/dj/volca_beats/ "An analogue rhythm machine."
 [ventilator-ii]: https://www.amazon.com/Neo-Instruments-VENTILATOR-II-Ventilator-II/dp/B00LRARH4Y "A rotary cabinet simulator."
 [b4000-plus]: https://ferrofish.com/en/products/b4000-2/ "An organ expander module."
