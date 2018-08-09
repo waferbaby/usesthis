@@ -8,7 +8,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm Maize! I'm a Melbourne based composer, sound designer, and audio programmer. My focus is in 3D spatialised audio, and dynamic music, using cutting edge techniques.
+I'm [Maize](https://www.maizewallin.com/ "Maize's website.")! I'm a Melbourne based composer, sound designer, and audio programmer. My focus is in 3D spatialised audio, and dynamic music, using cutting edge techniques.
 
 Lately I've been really in love with being the middle person, when it comes to implementing a composer's audio. Developers often fall in love with someone's music, but that someone might not have ever worked on a game! So, I've been the one that helps the composer understand the dynamics of games, and together we design systems to help bring the FULL POWERS of music and games together. I do continue to do lots of composition and audio too! 
 
