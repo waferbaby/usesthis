@@ -2,7 +2,7 @@
 title: Hannah Nicklin
 summary: Writer, narrative designer, producer, cyclist
 categories:
-- cyclist
+- biker
 - designer
 - game
 - mac
