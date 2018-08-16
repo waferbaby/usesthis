@@ -25,7 +25,7 @@ Last and pretty much least, a Dell Colour Laser printer - I'm through with inkje
 
 ### And what software?
 
-All the usual game coding stuff - [XCode][], [Visual Studio][visual-studio], [Photoshop][], [Parallels][parallels-desktop], [Versions][], [Tweetdeck][], [MSN][windows-live-messenger], [Skype][], [Ultraedit][], [Filezilla][], [Chrome][], etc. Wherever possible I have [Dropbox][] installed - in just a few months it's become an invaluable tool for swapping files between machines and distant colleagues.
+All the usual game coding stuff - [XCode][], [Visual Studio][visual-studio], [Photoshop][], Parallels, [Versions][], [Tweetdeck][], [MSN][windows-live-messenger], [Skype][], [Ultraedit][], [Filezilla][], [Chrome][], etc. Wherever possible I have [Dropbox][] installed - in just a few months it's become an invaluable tool for swapping files between machines and distant colleagues.
 
 This high-tech modern stuff is all well and good, but back in the 1980's we used a system called PDS (programmers development system) which was a z80 assembler that ran on an 8080 DOS machine and fired the code down a custom wire to the spectrum (or c64). Assembly was near instant, so from pressing build to running the code was a matter of 2 or 3 seconds. Nothing comes close, even on today's hardware. It was brilliant as the sheer speed meant to you run through zillions of tweek/test iterations one after another in rapid succession. Very important when polishing games.
 
