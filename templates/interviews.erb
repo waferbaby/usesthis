@@ -4,7 +4,7 @@ title: Interviews
 ---
 
 <h2><%= page.title || template.title %><% if pagination.current_page > 1 %> (Page <%= pagination.current_page %>)<% end %></h2>
-<p>There<% if pagination.post_count > 1 %> are<% else %>'s<% end %> <%= pagination.post_count %> interview<%if pagination.post_count > 1 %>s<% end %> <% if page.category %>in this category.<% elsif page.archive_type %>this <%= page.archive_type %>.<% else %>on the site. Happy reading!<% end %></p>
+<p>There<% if pagination.post_count > 1 %> are<% else %>'s<% end %> <strong><%= pagination.post_count %></strong> interview<%if pagination.post_count > 1 %>s<% end %> <% if page.category %>in this category.<% elsif page.archive_type %>this <%= page.archive_type %>.<% else %>on the site. Happy reading!<% end %></p>
 
 <% pagination.posts.each do |interview| %>
 <article class="interviewee h-card">
