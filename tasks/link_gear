@@ -23,7 +23,7 @@ glob_path = File.join(
   '*.json'
 )
 
-Dir.glob(glob_path).each do |path|
+Dir.glob(glob_path).sort.each do |path|
   slug = File.basename(path, '.json')
   next unless slugs.include?(slug)
 
