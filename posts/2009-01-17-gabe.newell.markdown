@@ -23,12 +23,12 @@ I've downgraded to [Windows XP][windows-xp] and [Office 2003][office]. I've trie
 The main thing is to have a process more than a single particular setup. I've tried all sorts of home-built systems, including water cooled, phase change, etc... The conclusion I've reached is that upgrading every 6 months is more important than trying to get the fastest possible system at one point of time. The time and energy I used to spend optimizing my hardware I now spend making sure it's easy to swap out my current machine for a new machine with the least downtime.
 
 [oa-f1]: https://www.anandtech.com/show/1750 "An aluminium desk."
-[incredibuild]: https://www.incredibuild.com/ "A grid computing software package."
-[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[visual-studio]: http://www.visualstudio.com "A Windows development environment."
-[bloglines]: https://en.wikipedia.org/wiki/Bloglines "A web-based feed reader."
 [beyond-tv]: https://en.wikipedia.org/wiki/Beyond_TV "Software for recording and watching TV."
+[bloglines]: https://en.wikipedia.org/wiki/Bloglines "A web-based feed reader."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[incredibuild]: https://www.incredibuild.com/ "A grid computing software package."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

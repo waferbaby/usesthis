@@ -29,7 +29,7 @@ I'm pretty happy with what I have, my only complaint is that the only laptop tha
 
 [rog-g752vy-dh72]: https://www.amazon.com/G752VY-DH72-17-Inch-Gaming-Laptop-GeForce/dp/B01578ZM6Q/ "A 17 inch PC gaming laptop."
 [wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
-[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
-[tracery]: http://tracery.io/ "A tool and language for generating text."
-[overwatch]: https://playoverwatch.com/ "A team-based FPS game."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
+[overwatch]: https://playoverwatch.com/ "A team-based FPS game."
+[tracery]: http://tracery.io/ "A tool and language for generating text."

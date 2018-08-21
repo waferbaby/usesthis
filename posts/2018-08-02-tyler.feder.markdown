@@ -22,13 +22,13 @@ I am an absolute convert to [Procreate][procreate-ios] on [iOS][]. It's the most
 
 I'd love to take everything from my current setup and plunk it into a larger dedicated studio space. I work out of my itty bitty studio apartment, and lately I've been drooling over 2 bedroom apartments on [Craigslist][]. A separate room just for art sounds like heaven!
 
-[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[pixma-ix6820]: https://shop.usa.canon.com/shop/en/catalog/pixma-ix6820-wireless-inkjet-business-printer "An inkjet printer."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
-[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pixma-ix6820]: https://shop.usa.canon.com/shop/en/catalog/pixma-ix6820-wireless-inkjet-business-printer "An inkjet printer."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [craigslist]: https://www.craigslist.org/ "A classifieds service."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

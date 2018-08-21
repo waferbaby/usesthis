@@ -32,13 +32,13 @@ At the moment I am working on two shows that are going completely different dire
 
 The other setup I am working on is multiple MacBook Pros running VDMX and Ableton to run multiple video screens but with different images on each that interact and can be "jammed" live. I hope from there to add stuff like holograms and portals to other dimensions once they are invented. The odd robot wouldn't go amiss, and I'd love to waste some money on fogscreens. I'd like ED-209 to walk out halfway through a show and inform everyone they have "20 seconds to comply".
 
-[rane-sl-4]: https://serato.com/hardware/rane-sl4 "A USB audio interface."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [cdj-1000]: https://en.wikipedia.org/wiki/CDJ#CDJ-1000 "A CD turntable."
 [djm-800]: https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
-[syphon]: http://syphon.v002.info/ "Real-time video frame mixing."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[rane-sl-4]: https://serato.com/hardware/rane-sl4 "A USB audio interface."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[vjay-ios]: https://www.algoriddim.com/vjay-iphone "A music and video mashup app."
-[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
-[vdmx]: http://vidvox.net/ "Real-time video studio software for the Mac."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
+[syphon]: http://syphon.v002.info/ "Real-time video frame mixing."
+[vdmx]: http://vidvox.net/ "Real-time video studio software for the Mac."
+[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
+[vjay-ios]: https://www.algoriddim.com/vjay-iphone "A music and video mashup app."

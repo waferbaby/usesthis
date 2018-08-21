@@ -30,14 +30,14 @@ To be completely honest the longer I make films the longer I realise that my dre
 
 Having said that, the one possible exception is probably editing - I truly love losing myself in an edit and tend to prefer to do it solo. So...  my dream setup would be the latest disgustingly expensive Mac processor with three huge monitors, large subwoofers in a roomy, dark, leather-padded room with lush couches, a bar-fridge and a Thai masseuse on speed-dial waiting to assist me with the inevitable RSI that comes with editing 24 hours a day for months. Is that too much to ask?
 
+[eos-1d]: https://en.wikipedia.org/wiki/Canon_EOS-1D "A 4 megapixel DSLR."
+[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
+[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
+[epic]: http://www.red.com/products/epic/ "A high-end 4k digital video camera."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
 [scarlet]: http://www.red.com/products/scarlet "A high-end 4k digital video camera."
-[eos-1d]: https://en.wikipedia.org/wiki/Canon_EOS-1D "A 4 megapixel DSLR."
-[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
-[eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
-[epic]: http://www.red.com/products/epic/ "A high-end 4k digital video camera."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."

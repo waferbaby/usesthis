@@ -30,14 +30,14 @@ Lastly, I want to give a shout out to my very satisfying [Alvin Draf-Tec 0.5mm m
 
 My friend and fellow artist Liat Berdugo recently observed that screens "ask the body to be fixed in space"; my teaching mentor Camille Utterback has also noted that digital interfaces aren't very generous or forgiving to the human body. Basically, my dream setup exists in the far (or maybe not so far?) future, where I don't have to sit crouched in a vise-like position, poking and clicking at things all day. Is there a way to make digital art by running around outside and doing cartwheels? I really hope so.
 
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [draf-tec-retrac]: https://www.amazon.com/Alvin-Draf-Tec-Retrac-Mechanical-Pencil/dp/B00PWUAXAA "A mechanical pencil."
-[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[facebook]: https://www.facebook.com/ "A social networking site."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[facebook]: https://www.facebook.com/ "A social networking site."
+[indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
-[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [p5js]: https://p5js.org/ "A Javascript library based on Processing."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

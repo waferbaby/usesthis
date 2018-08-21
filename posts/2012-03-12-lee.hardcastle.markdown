@@ -42,13 +42,13 @@ Other equipment I would like to own would be things like motion rigs - they're l
 
 I also plan to invest in some better lighting. At the moment as I'm a beginner with this stuff and don't know too much about it (so I can't really share a "dream set") I'm looking at getting an Arri Tungsten Fresnel kit with C-Stands and sand bags just to propel further as a professional.
 
-[newplast]: http://www.newclay.co.uk/Newplast.htm "Animation clay."
 [eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [lumix-dmc-fz50]: https://www.amazon.com/Panasonic-DMC-FZ50-Digital-Optical-Stabilized/dp/B000GHVZQ0 "A 10.1 megapixel digital camera."
+[newplast]: http://www.newclay.co.uk/Newplast.htm "Animation clay."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [dragonframe]: http://www.dragonframe.com/ "Stop-motion animation software."
-[quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."
-[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."
 [windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

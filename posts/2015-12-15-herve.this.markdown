@@ -48,9 +48,9 @@ Indeed this software is really good, and I regret that it is so expansive, becau
 If Maple could include a chemistry software, it would be wonderful. But indeed, I am not sure that this would change a lot. What I need is intelligence, kindness and time.
 
 [avance-300]: http://www.biosurplus.com/store/models/15489-bruker-avance-300/ "A nuclear magnetic resonance spectrometer."
-[unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."
-[gimp]: https://www.gimp.org/ "An open-source image editor."
 [avogadro]: http://avogadro.cc/wiki/Main_Page "A molecule visualiser and editor."
-[maple]: https://www.maplesoft.com/products/maple/ "Mathemetical software."
-[linux]: https://www.linux.org/ "A free, open-source Unix-like operating system."
+[gimp]: https://www.gimp.org/ "An open-source image editor."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[linux]: https://www.linux.org/ "A free, open-source Unix-like operating system."
+[maple]: https://www.maplesoft.com/products/maple/ "Mathemetical software."
+[unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."

@@ -48,13 +48,13 @@ I also have a dream setting up a transmedia residency in which all my favourite 
 
 Of course I suffer from the Curse of the Indie Creator in which just because I can do a bit of everything being the polymath I am, doesn't mean I SHOULD be doing everything, and burnout is always a threat. Ideally, I'd like to clone myself and become an unstoppable army of creativity -- but that is probably a few years off yet. As always, I'm forced to be more and more the executive producer on things just in order to tell the kinds of stories I'd like to tell, but that presents the problem that I no longer have time for the actual storytelling fun of it.
 
-[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[facebook]: https://www.facebook.com/ "A social networking site."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
+[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[facebook]: https://www.facebook.com/ "A social networking site."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[wordpress]: https://wordpress.com/ "Weblog publishing software."
 [word]: https://products.office.com/en-us/word "A document editor."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

@@ -35,10 +35,10 @@ I'd love to build a beautifully designed, shared kitchen/event space from the gr
 I envision the aesthetic to be a combination of more modern design with high ceilings, lofted open floor plan, exposed brick, cement and refurbished wood, while the public event space portion of its interior would feature a more Classic Victorian style look.
 
 [748-drink-machine]: https://www.amazon.com/Vita-Mix-748-Machine-high-impact-container/dp/B005HN6SEC "A blender."
-[ikon-blackwood-6-inch]: https://www.amazon.com/Wusthof-8-Inch-Cooks-Blackwood-Handle/dp/B000Z1YQGS "A chef's knife."
 [gsf-46-3-inch]: https://www.amazon.com/Global-GSF-46-inch-Paring-Knife/dp/B001QV2F9G "A knife."
-[sous-chef-food-processor]: https://www.amazon.com/Breville-BFP800XL-Sous-Chef-Processor/dp/B005I6ZKCE "A food processor."
+[ikon-blackwood-6-inch]: https://www.amazon.com/Wusthof-8-Inch-Cooks-Blackwood-Handle/dp/B000Z1YQGS "A chef's knife."
 [kaizen-bread-9.5-inch]: https://www.amazon.com/Miyabi-Kaizen-2-Inch-Bread-Knife/dp/B005K8QGUU "A bread knife."
 [pro-harmony]: http://www.thermador.com/cooking/ranges/prg366gh-professional-series-36-inch-gas-standarddepth-range-porcelain-rangetop "A gas-powered rangetop."
-[sourcery]: https://sourcery.us/directory/categories "A wholesale food vendor directory."
+[sous-chef-food-processor]: https://www.amazon.com/Breville-BFP800XL-Sous-Chef-Processor/dp/B005I6ZKCE "A food processor."
 [bandpage]: https://www.bandpage.com/ "A hosted website service for musicians."
+[sourcery]: https://sourcery.us/directory/categories "A wholesale food vendor directory."

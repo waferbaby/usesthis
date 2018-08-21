@@ -33,14 +33,14 @@ The dream set up, AKA the NEXT set up will include these 5 things:
 4. A small group of chill-ass homies to help with animation and production!
 5. Oh, and a multi-head silk screen press and a conveyer dryer, DAAAAAMN!
 
-[td-30kv-s]: https://www.amazon.com/Roland-TD-30KV-S-V-Pro-Series-Electric/dp/B0079DIF58 "A drum kit."
-[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
-[mbox-2-mini]: https://www.amazon.com/Digidesign-Portable-USB-Powered-Tools-Workstation/dp/B000KW4TZK/ "A USB-powered audio/MIDI production system."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [cloudlifter-cl-1]: https://www.amazon.com/Cloud-Microphones-CL-1-Cloudlifter/dp/B004MQSV04 "A microphone booster."
 [lambda]: http://www.lexiconpro.com/en-US/products/lambda "A desktop studio mixer."
+[mbox-2-mini]: https://www.amazon.com/Digidesign-Portable-USB-Powered-Tools-Workstation/dp/B000KW4TZK/ "A USB-powered audio/MIDI production system."
+[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[td-30kv-s]: https://www.amazon.com/Roland-TD-30KV-S-V-Pro-Series-Electric/dp/B0079DIF58 "A drum kit."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

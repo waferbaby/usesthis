@@ -32,13 +32,13 @@ Depends on what I'm doing!
 
 If I could have all the power of the Cintiq Companion on something the size of the iPad Pro, it would be my dream. Having to only run [iOS][] apps on such a great setup like the iPad is such a shame!
 
-[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[storyboard-pro]: https://www.toonboom.com/products/storyboardpro "Storyboarding software."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[storyboard-pro]: https://www.toonboom.com/products/storyboardpro "Storyboarding software."

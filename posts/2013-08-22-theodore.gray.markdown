@@ -36,15 +36,15 @@ And last but not least, there's [Apple Mail][mail], which is where I spend a ver
 
 In terms of what would be possible with present-day technology if only Apple would pay attention to the Mac line, I'd like a 17" Retina display MacBook Pro with 32GB RAM (yes, I would use it all), two 1TB SSDs (yes, I would fill them all), and an 8-core processor of whatever type is the fastest these days.
 
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[the-elements-ios]: https://itunes.apple.com/app/id364147847 "An app for exploring all the known atoms in the universe."
-[safari]: https://www.apple.com/safari/ "A fast web browser."
-[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [cornerstone]: http://zennaware.com/cornerstone/ "A Subversion GUI for the Mac."
-[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[safari]: https://www.apple.com/safari/ "A fast web browser."
+[the-elements-ios]: https://itunes.apple.com/app/id364147847 "An app for exploring all the known atoms in the universe."
 [wolfram-alpha]: http://www.wolframalpha.com/ "An online knowledge engine."
 [word]: https://products.office.com/en-us/word "A document editor."
+[xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

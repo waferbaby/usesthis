@@ -33,14 +33,14 @@ For making demos at home I still use [Garageband][]. Because I've been using it 
 
 [John Lennon's bed-in-the-floor-adjacent-to-library setup from *Help*](http://p-fst1.pixstatic.com/5244a1e4dbfa3f12230010f2._w.450_h.346_s.fit_.jpg "A photo of John Lennon in Help."). Or really some way to record everything from bed. Put a piano next to the bed. That's nice.
 
-[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
-[twin-reverb]: https://en.wikipedia.org/wiki/Fender_Twin#Fender_Twin_Reverb "A guitar amp."
-[stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
-[hot-rod-deville-iii-410]: https://www.fender.com/guitar-amplifiers/contemporary/hot-rod-deville-iii-410/2230100000.html "A guitar amp."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[jazzmaster]: https://www.fender.com/guitars/jazzmaster/ "An electric guitar."
 [deluxe]: https://en.wikipedia.org/wiki/Fender_Deluxe_Amp "A guitar amp."
+[hot-rod-deville-iii-410]: https://www.fender.com/guitar-amplifiers/contemporary/hot-rod-deville-iii-410/2230100000.html "A guitar amp."
+[iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
+[jazzmaster]: https://www.fender.com/guitars/jazzmaster/ "An electric guitar."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pitch-bay]: http://earthquakerdevices.com/cart_product.cfm/prod_id/80874/bk/1/cat/13100 "A guitar effects pedal."
-[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
+[twin-reverb]: https://en.wikipedia.org/wiki/Fender_Twin#Fender_Twin_Reverb "A guitar amp."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

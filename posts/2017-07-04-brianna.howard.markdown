@@ -27,8 +27,8 @@ Fine art things... all the oils, watercolors, and Prismacolor pencils, and some 
 Oh, and [micron pens][pigma-micron] falling from the sky would be great too!
 
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
 [amaziograph-ios]: http://amaziograph.com/ "An app for creating symmetrical artwork."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

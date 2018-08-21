@@ -25,6 +25,6 @@ A roast curve is logged for each batch, along with other information relevant to
 
 My dream setup would be what I'm currently working on, but outdoors with fresh air.
 
-[ug22]: http://www.shpfoodmachinery.co.uk/machine_summary.php?mid=1070 "A coffee roaster."
 [colortrack]: http://www.coffeelabequipment.com/COLORTRACK.html "A laser reflectometer for coffee beans."
+[ug22]: http://www.shpfoodmachinery.co.uk/machine_summary.php?mid=1070 "A coffee roaster."
 [roast]: https://www.cropster.com/products/roast/ "Coffee roasting and analysis software."

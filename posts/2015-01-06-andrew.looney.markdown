@@ -35,11 +35,11 @@ On my iPad, my most commonly-used program is the [iOS Fluxx app][fluxx-ios], thr
 
 Setting aside non-existent technology like teleporters and food replicators, I'd have to say that situation I've got now is my dream setup. I'm sitting in my big corner office at the company I started, where I have all the tools and team members necessary to publish and promote whatever I think up next. I'm already living the dream!
 
-[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [pocketmod]: http://www.pocketmod.com/ "An note-taking system based around a piece of paper."
+[fluxx-ios]: https://itunes.apple.com/us/app/fluxx/id561319376 "An ever-changing card game."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
-[fluxx-ios]: https://itunes.apple.com/us/app/fluxx/id561319376 "An ever-changing card game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

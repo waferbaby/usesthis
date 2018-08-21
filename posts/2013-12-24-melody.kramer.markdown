@@ -26,8 +26,8 @@ I use basically three apps on my phone: Twitter, [Instagram][instagram-ios], and
 I'm a big fan of automation when possible, so my dream setup would involve apps or software platforms that would allow me to be on as many social media platforms as possible, while spending the least amount of time doing so. When I'm not at work, I try to limit my screen time. So my actual dream setup is a book (not digital), a good cup of tea, and my dog Sadie sitting near on my lap.
 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [nytimes-crosswords-ios]: https://itunes.apple.com/us/app/nytimes-crosswords/id307569751 "A crosswords app for iOS."
 [twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
-[adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

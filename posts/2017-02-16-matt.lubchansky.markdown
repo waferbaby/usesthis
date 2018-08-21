@@ -22,12 +22,12 @@ I try to get all my ideas down in [Google Docs][google-docs] so I've got it on a
 
 In my wildest dreams I probably have one of those huge [Thunderbolt displays][thunderbolt-display] with a [Mac Pro][mac-pro] and that stupidly massive 27" Cintiq that nobody actually needs. I've been working off a 13" Cintiq for years and having one of the giant ones with a huge articulated arm bolted to the wall sounds nice. For traveling, I'd honestly stick with the setup I have probably!
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [chromebook-2]: https://www.cnet.com/products/toshiba-chromebook-2-review/ "A 13.3 inch Chrome OS laptop."
 [cintiq-companion-2]: https://www.wacom.com/en-us/products/pen-displays/cintiq-companion-2 "A drawing tablet."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [manga-studio-ex]: http://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

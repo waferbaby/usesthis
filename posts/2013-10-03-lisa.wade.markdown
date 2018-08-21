@@ -32,17 +32,17 @@ I still keep my calendar in a book made of paper. I like the tactile experience 
 
 Preferably a well-paid assistant would come to my home at 10am 7 days a week and get me out of bed. I need help with that the most. By noon I'd be writing. In my fantasy, my computer is a lot faster, the autocorrect a lot better, and I always know what I want to say. At some point, there is a burrito. I never have to clean up my own messes. Email answers itself.
 
-[nook]: https://en.wikipedia.org/wiki/Barnes_%26_Noble_Nook_1st_Edition "An ereader tablet."
 [galaxy-s-iii]: https://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
-[tr800-dt5]: https://www.lifespanfitness.com/tr800-dt5-treadmill-desk.html "A treadmill desk."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
-[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
-[slideshare]: https://www.slideshare.net/ "A slide sharing service."
+[nook]: https://en.wikipedia.org/wiki/Barnes_%26_Noble_Nook_1st_Edition "An ereader tablet."
+[tr800-dt5]: https://www.lifespanfitness.com/tr800-dt5-treadmill-desk.html "A treadmill desk."
 [adblock]: https://getadblock.com/ "A browser extension for blocking ads."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [endnote]: http://endnote.com/ "Reference and bibliography software."
 [lightshot]: https://addons.mozilla.org/en-US/firefox/addon/lightshot/ "A browser extension for taking screenshots."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
-[wordpress]: https://wordpress.com/ "Weblog publishing software."
+[slideshare]: https://www.slideshare.net/ "A slide sharing service."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [word]: https://products.office.com/en-us/word "A document editor."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

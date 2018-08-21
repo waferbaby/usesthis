@@ -39,8 +39,8 @@ I'm not sure or really care about the technical name for all of this but I'd lov
 
 I'd really just like to figure out a setup where I can easily control the instruments I'm playing on my own. I dream of playing live with 10+ instruments on stage and a wall of half stacks.
 
+[hot-rod-deluxe]: https://en.wikipedia.org/wiki/Fender_Hot_Rod_Deluxe "A guitar amp."
+[organizer]: http://earthquakerdevices.com/shop/organizer/ "An organ effects pedal."
 [rc-300]: https://www.boss.info/us/products/rc-300/ "A musical loop station."
 [st-vincent]: https://www.music-man.com/instruments/guitars/st-vincent "An electric guitar."
-[organizer]: http://earthquakerdevices.com/shop/organizer/ "An organ effects pedal."
-[hot-rod-deluxe]: https://en.wikipedia.org/wiki/Fender_Hot_Rod_Deluxe "A guitar amp."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

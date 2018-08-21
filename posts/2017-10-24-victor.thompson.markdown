@@ -51,15 +51,15 @@ For physical builds, I'd like to have a few more large machines, probably along 
 
 Alongside the things, applications, and processes I use, a huge part of what makes life either pleasant (or not) is the variety of work that's in front of me on a daily basis. Currently, let's say I spend 80% of my work time on the laptop, 10% planning at the whiteboard or on the phone, 5% in the shop, and 5% meandering while talking to myself. I'd love to be able to drop the laptop time to 60% and raise the shop time to 25%.
 
-[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
-[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[slack]: https://slack.com/ "A collaboration service."
-[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
-[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [joggernauts]: https://spacemace.itch.io/joggernauts "A co-op auto-runner video game"
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[slack]: https://slack.com/ "A collaboration service."
+[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [west-of-loathing]: https://store.steampowered.com/app/597220/West_of_Loathing/ "A comedy stick-figure game."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

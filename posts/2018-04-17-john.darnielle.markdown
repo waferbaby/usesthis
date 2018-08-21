@@ -26,7 +26,7 @@ I record into my laptop, a [MacBook Air][macbook-air]. I just use the built-in m
 
 If I had ridiculous disposable income, I'd have a studio in the backyard equipped with a 2-inch reel, probably an old Studer, plenty of tape, an [RE20][] to sing into and some Mojave Sound mics to point at the guitar, and an engineer on call, because I do not know how to run that stuff myself. But I'm never going to have that, so GarageBand & good playback DAC it is!
 
-[re20]: https://www.electrovoice.com/product.php?id=91 "A broadcaster microphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [microstreamer]: https://www.amazon.com/HRT-348-MicroStreamer/dp/B00B4YE5BG/ "A USB headphone amp."
+[re20]: https://www.electrovoice.com/product.php?id=91 "A broadcaster microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."

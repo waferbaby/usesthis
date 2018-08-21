@@ -33,12 +33,12 @@ I'd like to know a lot more about hardware and graphics used to create clear and
 
 Specifically our industry could use an app which combines time code with  better voice recognition software so we could ask the computer to log interviews from raw video. Now voice recognition is amazing but crude compared to what it will become.
 
-[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [accurint]: http://accurint.com/ "A service for accessing public records."
-[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [courtsearch]: https://www.courtsearch.com/ "A service for searching court records."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [word]: https://products.office.com/en-us/word "A document editor."

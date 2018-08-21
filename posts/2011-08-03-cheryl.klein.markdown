@@ -27,15 +27,15 @@ My dream editorial setup would be a double-screened tablet set up like a laptop.
  
 My dream writing setup would be the same for brainstorming and hand-editing, and a lighter, faster version of what I have now for actual drafting and polishing: a 13" MacBook Air with slightly less persnickety word-processing software. And both of these setups would come with a couch, a Lady-Grey-with-milk dispenser for the winter, and a sparkling water fountain for the summer - all essential ingredients in any thoughtful working-with-words process for me.
 
-[sharpwriter]: https://www.amazon.com/Paper-Mate-Sharpwriter-Mechanical-3030131/dp/B00006IEE4 "A mechanical pencil."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [col-erase]: https://www.amazon.com/Prismacolor-Col-Erase-Erasable-Assorted-20517/dp/B000089DCH "Erasable coloured pencils."
 [droid-incredible-2]: https://en.wikipedia.org/wiki/Droid_Incredible_2 "An Android-based smartphone."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[sharpwriter]: https://www.amazon.com/Paper-Mate-Sharpwriter-Mechanical-3030131/dp/B00006IEE4 "A mechanical pencil."
+[blogger]: https://en.wikipedia.org/wiki/Blogger_(service) "A weblog publishing system."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[blogger]: https://en.wikipedia.org/wiki/Blogger_(service) "A weblog publishing system."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[wordpress]: https://wordpress.com/ "Weblog publishing software."
 [word]: https://products.office.com/en-us/word "A document editor."
+[wordpress]: https://wordpress.com/ "Weblog publishing software."

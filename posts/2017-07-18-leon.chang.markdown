@@ -23,14 +23,14 @@ I use [Adobe Photoshop CC][photoshop] pretty much every day, and have some exper
 
 I don't need anything crazy computer-wise, the ASUS plays [Overwatch][] and can handle Ableton/Photoshop so I'm pretty happy. It would be cool to have a nice sound system (surround sound, speaker, monitors, etc), maybe after I set up a real desk and office. I work on my kitchen table and on the piano. I want to buy a trumpet, a flute, an accordion, and a harp. And if I can't get that, I would get the [Emperor][] and put it in a mech suit.
 
-[trigger-finger]: http://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
-[snes]: https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "A 16-bit video game console."
 [ath-m50x]: http://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Over-the-ear headphones."
-[midi-fighter-3d]: https://store.djtechtools.com/products/midi-fighter-3d "A music controller."
-[emperor]: http://www.mwelab.com/en/emperor.html "A futuristic sci-fi-esque workstation."
 [earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
-[overwatch]: https://playoverwatch.com/ "A team-based FPS game."
+[emperor]: http://www.mwelab.com/en/emperor.html "A futuristic sci-fi-esque workstation."
+[midi-fighter-3d]: https://store.djtechtools.com/products/midi-fighter-3d "A music controller."
+[snes]: https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "A 16-bit video game console."
+[trigger-finger]: http://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
 [c700]: http://picopicose.com/software.html "An audio plugin that emulates a SPC700 processor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
-[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[overwatch]: https://playoverwatch.com/ "A team-based FPS game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."

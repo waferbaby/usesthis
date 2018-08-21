@@ -28,9 +28,9 @@ As far as computers go, I have used the newest, fastest apple [MacBook Pro][macb
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

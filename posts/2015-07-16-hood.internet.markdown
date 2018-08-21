@@ -28,14 +28,14 @@ The LED lighting sequences also originate in Ableton. When a song is triggered t
 
 Our lighting designer Morgan Leek recently made a supersized version of Hood's LED lights for the band Tegan & Sara, and it's pretty fantastic. It would be awesome if we had an unlimited budget for him to work with to create something along those lines, as well as incorporate video screens that work in tandem with the design, which would be operated by our video artist, Joe Carsello.
 
-[trigger-finger]: http://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
-[scarlett-2i4]: http://us.focusrite.com/usb-audio-interfaces/scarlett-2i4 "A USB audio interface."
-[mpd18]: http://www.akaipro.com/product/mpd18 "A DJ pad controller."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[dmx-usb-pro]: https://www.enttec.com/index.php?main_menu=Products&prod=70304&show=description "A dongle for connecting computers to DMX512 lightning systems."
 [djm-800]: https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
 [djm-900nxs]: https://www.pioneerdj.com/en/product/mixer/djm-900nxs/black/overview "A MIDI mixer."
-[syphon]: http://syphon.v002.info/ "Real-time video frame mixing."
+[dmx-usb-pro]: https://www.enttec.com/index.php?main_menu=Products&prod=70304&show=description "A dongle for connecting computers to DMX512 lightning systems."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[mpd18]: http://www.akaipro.com/product/mpd18 "A DJ pad controller."
+[scarlett-2i4]: http://us.focusrite.com/usb-audio-interfaces/scarlett-2i4 "A USB audio interface."
+[trigger-finger]: http://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
+[live]: https://www.ableton.com/en/live/ "Musical creation software."
 [madmapper]: http://www.madmapper.com/ "Mac software for video-mapping projections."
 [modul8]: http://www.modul8.ch/index.php "Real-time video mixing/compositing software for Mac OS X."
-[live]: https://www.ableton.com/en/live/ "Musical creation software."
+[syphon]: http://syphon.v002.info/ "Real-time video frame mixing."

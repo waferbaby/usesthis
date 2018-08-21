@@ -23,13 +23,13 @@ For Full Frontal with Samantha Bee, I edit videos on [Avid Media Composer][media
 
 My ideal set up: for filming, a small studio with a green screen, white cyc, and endless equipment to play with. For editing, as many monitors as humanly possible. I love monitors. If you're someone who makes monitors, well, you know what to do.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
 [eos-5d-mark-iii]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "A 22.3 megapixel DSLR."
-[scripto]: http://scripto.computer/ "A tool for collaboratively writing TV scripts."
-[media-composer]: http://www.avid.com/US/products/media-composer-software "Film and video editing software."
+[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
-[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[media-composer]: http://www.avid.com/US/products/media-composer-software "Film and video editing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[scripto]: http://scripto.computer/ "A tool for collaboratively writing TV scripts."

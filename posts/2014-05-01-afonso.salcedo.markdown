@@ -35,13 +35,13 @@ My dream setup would be to be able to invest in a higher end professional camera
 
 When you work in film and photography, the gear and equipment needs are pretty intense, and it can easily be a never ending list so it's important to be wise about the investments and choose accordingly.
 
-[nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
 [alpha-7r]: http://store.sony.com/a7r-alpha-7r-interchangeable-lens-camera-zid27-ILCE7R/B/cat-27-catid-All-Alpha-NEX-Cameras "A 36.4 megapixel full-frame digital camera."
 [f55-cinealta-4k]: https://pro.sony.com/bbsc/ssr/show-highend/resource.solutions.bbsccms-assets-show-highend-F55.shtml "A high-end digital video camera."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
 [pocket-cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/ "A Super 16 digital video camera."
-[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

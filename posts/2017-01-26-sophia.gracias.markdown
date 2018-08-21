@@ -37,10 +37,10 @@ This reads like a wishlist for Santa Claus:
 - One of those Gouache Sets with Japanese writing on it (everyone on Instagram uses them and I suspect that they could be magic)
 - A corner office in the Flatiron Building in NYC
 
-[instagram]: https://www.instagram.com/ "A photo sharing service."
-[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[slack]: https://slack.com/ "A collaboration service."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[instagram]: https://www.instagram.com/ "A photo sharing service."
+[office]: https://products.office.com/en-us/home "An office productivity suite."
+[slack]: https://slack.com/ "A collaboration service."
 [wetransfer]: https://www.wetransfer.com/ "A service for sending large files."

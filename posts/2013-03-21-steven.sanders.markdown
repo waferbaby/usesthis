@@ -34,14 +34,14 @@ Probably my current setup, just swapping out the old Mac Pro for the latest mode
 
 I should note that I'm not an Apple fanboy, though. I think Windows machines are perfectly capable computers. I see OS X as more of a "luxury" OS than a "superior" one.
 
-[rx-320d]: http://www.tentecwiki.org/doku.php?id=rx-320d "A shortwave radio receiver."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [connect.2]: https://www.sonos.com/sonos-shop/products/connect "An audio streaming system."
-[sketchup-pro]: https://www.sketchup.com/products/sketchup-pro "3D modelling software."
-[sketchbook-pro]: https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
-[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[rx-320d]: http://www.tentecwiki.org/doku.php?id=rx-320d "A shortwave radio receiver."
 [boot-camp]: https://en.wikipedia.org/wiki/Boot_Camp_(software) "Software to allow Macs to run Windows natively."
+[dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[sketchbook-pro]: https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
+[sketchup-pro]: https://www.sketchup.com/products/sketchup-pro "3D modelling software."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

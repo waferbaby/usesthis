@@ -28,14 +28,14 @@ Well, I'd love to have a proper home office. Right now, I do most of my typing w
 
 I'd need a ready supply of blank notebooks and fine-tipped pens so I could scribble down ideas, as well --I'm not too picky, but I like plain old Mead Five-Stars and Sharpie Pens. I'd also probably keep my little Asus around for sentimental value. It's served me well.
 
-[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
-[zenwriter]: http://www.beenokle.com/zenwriter.html "Distraction-free writing software for Windows."
-[songza]: http://songza.com/ "A playlist-centric music service."
-[smashwords]: https://www.smashwords.com/ "A self-publishing service."
-[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [createspace]: https://www.createspace.com/ "A self-publishing service."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
 [kindle-direct-publishing]: https://kdp.amazon.com/ "A service for self-publishing works onto the Kindle platform."
+[openoffice]: http://www.openoffice.org/ "An open-source office suite."
+[smashwords]: https://www.smashwords.com/ "A self-publishing service."
+[songza]: http://songza.com/ "A playlist-centric music service."
+[zenwriter]: http://www.beenokle.com/zenwriter.html "Distraction-free writing software for Windows."

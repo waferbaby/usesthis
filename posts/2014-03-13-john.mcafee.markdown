@@ -38,6 +38,6 @@ My second favorite app is the Radio Paradiso app. They have an uncanny knack of 
 
 My dream setup would be the Samsung Note 3, with an equivalent compliment of software that comes with the high-end Windows graphic systems. Such does not yet exist but I will wait.
 
-[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [galaxy-note-3]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3 "A phone/tablet."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [smart-voice-recorder-android]: https://play.google.com/store/apps/details?id=com.andrwq.recorder "A voice recorder app."

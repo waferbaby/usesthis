@@ -32,14 +32,14 @@ As you can see, I rely heavily on software that's free. Bitch is a nimble nonpro
 
 I think I've got it. I guess if I could have all this, plus an endless supply of coffee and a free bike mechanic, I'd be set for life.
 
+[eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
 [h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
-[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[tapeacall-pro-ios]: https://itunes.apple.com/us/app/tapeacall-pro-record-calls/id577499909 "An app for recording phone calls."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
-[swell-radio-ios]: https://en.wikipedia.org/wiki/Swell_Radio "A podcast/radio streaming app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[voice-record-pro-ios]: https://itunes.apple.com/us/app/voice-record-pro/id546983235 "A voice recording app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixlr]: https://pixlr.com/ "A web-based image editor."
+[swell-radio-ios]: https://en.wikipedia.org/wiki/Swell_Radio "A podcast/radio streaming app."
+[tapeacall-pro-ios]: https://itunes.apple.com/us/app/tapeacall-pro-record-calls/id577499909 "An app for recording phone calls."
+[tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[voice-record-pro-ios]: https://itunes.apple.com/us/app/voice-record-pro/id546983235 "A voice recording app."

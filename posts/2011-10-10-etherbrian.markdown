@@ -35,7 +35,7 @@ Lastly, a better battery would really float my boat. Surely there's some other e
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[rezilla]: https://sourceforge.net/projects/rezilla/ "A resource fork editor for the Mac."
-[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [gowalla]: https://en.wikipedia.org/wiki/Gowalla "A location/story tracking service."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[rezilla]: https://sourceforge.net/projects/rezilla/ "A resource fork editor for the Mac."

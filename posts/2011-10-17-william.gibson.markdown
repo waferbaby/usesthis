@@ -29,7 +29,7 @@ I don't have a dream setup. I'm always reluctant to get a new computer. The curr
 [iic]: https://en.wikipedia.org/wiki/Apple_IIc "A desktop computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[twitterrific-ios]: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8 "A Twitter client."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [pages-ios]: https://itunes.apple.com/us/app/pages/id361309726 "A word processor for iOS."
+[twitterrific-ios]: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8 "A Twitter client."
 [word]: https://products.office.com/en-us/word "A document editor."

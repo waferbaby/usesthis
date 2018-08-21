@@ -31,7 +31,7 @@ Thank you for reading this. Now go and do something wonderful.
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
-[paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
+[screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."

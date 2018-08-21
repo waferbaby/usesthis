@@ -25,10 +25,10 @@ I recently lost my studio, so I'm working from my couch and kitchen table everyd
 
 I really have dreams about having unlimited space and materials to experiment with, without having to think about where it's going to dry or be stored...
 
-[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
 [pixel-2]: https://en.wikipedia.org/wiki/Pixel_2 "A 5 inch Android smartphone."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
-[google-maps]: https://www.google.com/maps/ "Web-based map tools."
+[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
+[google-maps]: https://www.google.com/maps/ "Web-based map tools."
+[inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

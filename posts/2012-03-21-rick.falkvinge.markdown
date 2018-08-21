@@ -45,13 +45,13 @@ More screens! If I get to dream freely, I'd like a four-by-three setup of screen
 
 Also, I wouldn't mind more file storage and a bit more raw iron on the balcony to run virtual servers instead of physical, which would save a lot on maintenance whenever I need to reinstall or repurpose a server, but that's really secondary.
 
-[syncmaster-p2450h]: https://www.cnet.com/products/samsung-syncmaster-p2450h/ "A 24 inch TFT screen."
 [eee-pad-transformer-tf101]: https://www.pcmag.com/article2/0,2817,2383976,00.asp "An Android-based tablet/laptop."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[nexuiz]: http://www.nexuiz.com/ "A FPS arena game."
-[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
-[starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
-[mono]: http://www.mono-project.com/Main_Page/ "A cross-platform .NET framework."
+[syncmaster-p2450h]: https://www.cnet.com/products/samsung-syncmaster-p2450h/ "A 24 inch TFT screen."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [eve-online]: https://www.eveonline.com/ "A space-based MMO game."
+[mono]: http://www.mono-project.com/Main_Page/ "A cross-platform .NET framework."
+[nexuiz]: http://www.nexuiz.com/ "A FPS arena game."
+[starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
+[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."

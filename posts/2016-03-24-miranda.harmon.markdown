@@ -26,7 +26,7 @@ The software I use the most is [Photoshop][]. I usually scan in inked drawings o
 
 I would love to work in a studio with lots of other people. As much as I like my space, the thing I miss most about school is being around other artists constantly. Otherwise it would be nice to somewhere easily accessible to nature, and somehow also a big city! I like to daydream about going off into the mountains and painting for months but I know I would miss civilization.
 
-[twine]: http://twinery.org/ "A tool for creating non-linear stories."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [manga-studio]: http://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[twine]: http://twinery.org/ "A tool for creating non-linear stories."

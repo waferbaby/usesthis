@@ -29,14 +29,14 @@ The software I use isn't necessarily the best there is. They're mainly old progr
 I'm fortunate enough to be able to turn my dreams into reality, so I have my own studio in my own house and whatever technology I feel would be useful. I'm something of a minimalist with it, though, so my office is very streamlined and tidy to keep my mind clear. My garage is where all the old laptops go to die! I try to keep them all just in case there's the occasional file that I wish I still had access to. I only have problems when I leave my bubble. I just wish countries like China had a truly free internet, as it's tiresome to navigate around everything being blocked or censored. It's one of the reasons I don't live there anymore.
 
 [galaxy-s-ii]: http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
-[surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [model-x]: https://en.wikipedia.org/wiki/Tesla_Model_X "An electric car."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
 [3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [music-maker]: https://en.wikipedia.org/wiki/Magix_Music_Maker "A digital music editor."
-[painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
 [paint.net]: https://www.getpaint.net/index.html "An image editor for Windows."
-[wrestling-revolution-3d-android]: https://play.google.com/store/apps/details?id=air.WR3DFree "A wrestling game."
+[painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [wavepad]: http://www.nch.com.au/wavepad/index.html "Audio editing software for the Mac."
+[wrestling-revolution-3d-android]: https://play.google.com/store/apps/details?id=air.WR3DFree "A wrestling game."

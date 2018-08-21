@@ -31,6 +31,6 @@ A double-sided washbasin, with a car-wash rig for a screen blaster. Also a big s
 This is pretty much if we won the lotto though. Until then, we'll keep it simple and keep dreaming.
 
 [g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
-[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."
 [paypal]: https://www.paypal.com/home "A payment service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

@@ -26,7 +26,7 @@ For standup, I like these 6x8" hardcover notebooks from Pearl River Mart. I've g
 Good speakers so I can listen to shitty pop music and someone to shame me out of taking so many trips to the kitchen.
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [word]: https://products.office.com/en-us/word "A document editor."

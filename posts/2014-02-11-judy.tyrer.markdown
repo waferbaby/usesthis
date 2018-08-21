@@ -33,12 +33,12 @@ Even though we are fully funded, our budgets remain low and reasonable. This all
 And as long as I'm dreaming, the rest of the video game industry ignores how much money we are making and continues to believe that women don't play games leaving the entire market to us. And we all live comfortably ever after.
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
-[sendlove]: http://www.sendlove.us/trial/index.php "An employee recognition and peer review service."
-[subversion]: http://subversion.tigris.org/ "A version control system."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [db4o]: https://en.wikipedia.org/wiki/Db4o "An embeddable database."
-[visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [ever-jane]: http://www.everjane.com/ "An MMO set in the world of Jane Austen."
+[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[sendlove]: http://www.sendlove.us/trial/index.php "An employee recognition and peer review service."
+[subversion]: http://subversion.tigris.org/ "A version control system."
+[trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
+[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[visual-studio]: http://www.visualstudio.com "A Windows development environment."

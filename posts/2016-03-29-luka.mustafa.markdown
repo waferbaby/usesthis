@@ -42,13 +42,13 @@ Open source documentation for the projects is all located on [GitHub][], as the 
 
 In my terms, the dream setup is a highly motivated group of people, each being able to use whichever tools they choose to develop solutions in a rapid prototyping flow. Generally this defaults to using open source tools where understanding and modification of them may be needed, and converging on whichever tool/software/process offers the most effective workflow to get the job done.
 
-[troublemaker]: http://goodenoughcnc.eu/troublemaker-3d-printer/ "An open source, DIY 3D printer."
 [arduino]: http://arduino.cc/ "Open-source prototyping hardware."
 [bus-pirate]: http://dangerousprototypes.com/docs/Bus_Pirate "An open source multi-tool."
 [koruza]: http://koruza.net/index.html "An open source infrared-based networking device."
-[rocket.chat]: https://rocket.chat/ "An open source web-based group chat system."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[troublemaker]: http://goodenoughcnc.eu/troublemaker-3d-printer/ "An open source, DIY 3D printer."
 [github]: https://github.com/ "A Git code repository service."
+[openscad]: http://www.openscad.org/ "Open-source 3D CAD software."
+[rocket.chat]: https://rocket.chat/ "An open source web-based group chat system."
 [slack]: https://slack.com/ "A collaboration service."
 [solidworks]: https://www.3ds.com/products-services/solidworks/ "Modelling/CAD software."
-[openscad]: http://www.openscad.org/ "Open-source 3D CAD software."
+[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

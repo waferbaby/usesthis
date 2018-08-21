@@ -34,13 +34,13 @@ A big enough space to include my 2X vintage (1856 & 57') iron hand presses, 500k
 
 Otherwise, I'd like to get an etching press, a rolling mill and a  brand new kiln. Setting up is expensive! Over time I buy new tools one by one, improving or replacing what I've been using previously.
 
+[eos-50d]: https://en.wikipedia.org/wiki/Canon_EOS_50D "A 15.1 megapixel DSLR camera."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[eos-50d]: https://en.wikipedia.org/wiki/Canon_EOS_50D "A 15.1 megapixel DSLR camera."
+[big-cartel]: https://www.bigcartel.com/ "A shopping cart service for artists."
+[campaign-monitor]: https://www.campaignmonitor.com/ "An email newsletter service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
-[campaign-monitor]: https://www.campaignmonitor.com/ "An email newsletter service."
-[big-cartel]: https://www.bigcartel.com/ "A shopping cart service for artists."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [wufoo]: https://www.wufoo.com/ "An online form service."

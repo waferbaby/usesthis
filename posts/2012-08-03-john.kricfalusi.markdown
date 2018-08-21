@@ -55,9 +55,9 @@ Bringing down the costs of the non-creative, labor intensive aspects of animatio
 I think crowd-funding might have a significant impact on not just animation but entertainment, publishing and any other creative endeavors. The idea that you can bypass giant soulless media corporations and reach your audience directly is another revolution in the making. I have just put a cartoon project on Kickstarter and the audience input so far is great.
 
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[toon-boom-studio]: https://www.toonboom.com/products/toon-boom-studio "A 2D animation software package."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[toon-boom-studio]: https://www.toonboom.com/products/toon-boom-studio "A 2D animation software package."
 [word]: https://products.office.com/en-us/word "A document editor."

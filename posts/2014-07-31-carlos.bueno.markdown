@@ -35,13 +35,13 @@ I also designed a modern [Morse Code keyboard](http://carlos.bueno.org/dotdotdas
 The only parts of a computer that have not gotten a million times faster and smaller are the display and keyboard. They are the monkey I/O ports. We are the bottleneck. Whoever figures out how to speed up that interface will kick off the next revolution.
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[xe303c12]: http://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A 12-inch Chrome OS laptop."
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
-[r]: http://www.r-project.org/ "Software for statistical computing and graphics."
-[google-compute-engine]: https://cloud.google.com/compute/ "A virtual machine hosting service."
-[sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."
-[memsql-ops]: https://www.memsql.com/ops/ "Software for monitoring a MemSQL cluster."
+[xe303c12]: http://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A 12-inch Chrome OS laptop."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[google-compute-engine]: https://cloud.google.com/compute/ "A virtual machine hosting service."
 [latex]: https://www.latex-project.org/ "Typesetting software."
+[memsql-ops]: https://www.memsql.com/ops/ "Software for monitoring a MemSQL cluster."
 [pandoc]: http://pandoc.org/ "A Markdown document converter."
+[r]: http://www.r-project.org/ "Software for statistical computing and graphics."
+[sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."
 [word]: https://products.office.com/en-us/word "A document editor."

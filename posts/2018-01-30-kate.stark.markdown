@@ -35,13 +35,13 @@ My backend alert system is run through [Layer One][layer-one]. It was developed 
 
 My dream set up is basically exactly what I have right now. In September 2016, streaming became my full-time job and since then I've found it very important to spend money on good equipment dedicated to improving the quality of my stream, because I want viewers to have the best possible quality and experience when watching.
 
-[ryzen-7-1700]: https://www.amd.com/en/products/cpu/amd-ryzen-7-1700 "A CPU."
-[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
-[switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [arctis-5]: https://steelseries.com/gaming-headsets/arctis-5 "An over-the-ears gaming headset."
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
 [hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
-[twitch]: https://www.twitch.tv/ "A video broadcasting service."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
-[obs-studio]: https://obsproject.com/ "Video recording and streaming software."
+[ryzen-7-1700]: https://www.amd.com/en/products/cpu/amd-ryzen-7-1700 "A CPU."
+[switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [layer-one]: https://layerone.io/ "A service for aggregating tools and services for streamers."
+[obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [pretzel-rocks]: https://www.pretzel.rocks/ "A music player and service designed for streamers."
+[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[twitch]: https://www.twitch.tv/ "A video broadcasting service."

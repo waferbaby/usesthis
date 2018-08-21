@@ -27,5 +27,5 @@ Two pounds, good keyboard, good pen for scribbling and drawing, dockable, runnin
 
 Obviously, such a marvel does not exist today.
 
-[surface-pro-3]: https://en.wikipedia.org/wiki/Microsoft_Surface_Pro_3 "A 12 inch Windows 8.1 Pro tablet."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
+[surface-pro-3]: https://en.wikipedia.org/wiki/Microsoft_Surface_Pro_3 "A 12 inch Windows 8.1 Pro tablet."

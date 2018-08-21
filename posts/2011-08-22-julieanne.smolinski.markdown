@@ -28,11 +28,11 @@ I do ninety percent of my word processing in the bodies of actual [Gmail][] emai
 
 I'm breaking down and buying a [Macbook][], but dream wise, I would like a grown-up desk set up with big sexy speakers and an elaborate multiple monitor scheme. I know this will never happen because I'm like a careworn gunslinger who wants to settle down with a nice homesteading family, and instead keeps bouncing between the kitchen table, Starbucks, and his microsuede couch.
 
-[snowball]: http://bluemic.com/snowball/ "A USB microphone."
-[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
+[snowball]: http://bluemic.com/snowball/ "A USB microphone."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
 [paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."

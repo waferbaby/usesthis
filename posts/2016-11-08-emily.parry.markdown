@@ -31,6 +31,6 @@ A whole craft room, with amazing lighting and a super comfy chair. Is that too m
 I would love something that turns a photo into a properly detailed stitch pattern - all the ones I've found you kinda have to squint and look sideways at the pattern and then it _somewhat_ resembles your photo.
 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[buildkite]: https://buildkite.com/ "A continuous integration developer service."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [stitch-fiddle]: https://www.stitchfiddle.com/en "A web-based cross-stitch pattern generator."
-[buildkite]: https://buildkite.com/ "A continuous integration developer service."

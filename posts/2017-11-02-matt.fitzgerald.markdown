@@ -34,15 +34,15 @@ I record podcasts with [Audio Hijack][audio-hijack]. I love this program. It alw
 
 To be honest, I've got my dream setup. Maybe less email and a more reliable home computer. As a kid I wanted a stand-up architect desk that I could adjust at an angle, but why? I'm terrible at math.
 
-[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
 [aeropress]: https://aerobie.com/products/aeropress.htm "A pressure-based coffee/espresso maker."
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [leviathan]: https://www.razerzone.com/gaming-audio/razer-leviathan "A soundbar."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [word]: https://products.office.com/en-us/word "A document editor."

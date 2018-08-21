@@ -32,14 +32,14 @@ Were money no object, I'd probably also build a collection of vintage mics, get 
 
 There's another twenty grand worth of plugins I'd love to own, but my existing multitracker is already part of the dream setup as far as I can tell.
 
-[ua-101]: http://www.roland.com/products/en/UA-101/ "A half-rack high-speed USB audio interface."
 [at4050-cm5]: http://www.audio-technica.com/cms/wired_mics/0380b2cd58766334/index.html "A condenser microphone."
+[ua-101]: http://www.roland.com/products/en/UA-101/ "A half-rack high-speed USB audio interface."
 [v-studio-100]: http://www.rolandus.com/products/details/1099 "A portable music production studio."
-[reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
-[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[renaissance-vox]: https://www.waves.com/plugins/renaissance-vox "A vocal audio plugin."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [logic-studio]: https://en.wikipedia.org/wiki/Logic_Studio "A collection of software for creating and editing audio."
 [pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
+[reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
+[renaissance-vox]: https://www.waves.com/plugins/renaissance-vox "A vocal audio plugin."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -47,16 +47,16 @@ My dream setup also includes a browser which can show data and documents in page
 
 Final wish: an electric car with a tow hitch.
 
-[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
+[eos-6d]: https://en.wikipedia.org/wiki/Canon_EOS_6D "A 20.2 megapixel DSLR."
 [fastpack-250]: https://store.lowepro.com/backpacks/fastpack-250 "A laptop/camera backpack."
 [frontier-580]: http://www.argoadventure.com/Argo_Frontier_580_6x6.html "An amphibious vehicle."
-[once-again]: http://store.swatch.com/gb743-once-again.html "A wristwatch."
-[eos-6d]: https://en.wikipedia.org/wiki/Canon_EOS_6D "A 20.2 megapixel DSLR."
 [leaf]: https://en.wikipedia.org/wiki/Nissan_Leaf "An electric car."
-[opera]: http://www.opera.com/ "A cross-platform web browser."
-[vm]: https://launchpad.net/vm "An email client for Emacs."
+[once-again]: http://store.swatch.com/gb743-once-again.html "A wristwatch."
+[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [linux-mint]: https://www.linuxmint.com/ "A Linux distribution."
+[opera]: http://www.opera.com/ "A cross-platform web browser."
 [prince]: http://www.princexml.com/ "Software for converting HTML to PDF documents."
 [project-gutenberg]: http://www.gutenberg.org/ "A service providing tens of thousands of free ebooks."
+[vm]: https://launchpad.net/vm "An email client for Emacs."
 [wikipedia]: https://en.wikipedia.org/wiki/Main_Page "A free online encyclopedia."

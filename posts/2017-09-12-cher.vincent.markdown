@@ -25,16 +25,16 @@ I have also used [Sony Vegas][vegas-pro] for video/audio work, and would love to
 
 My current setup is nearly ideal. I work primarily at a co-working space that has two recording studios for flexibility with my needs. It's only once I leave the space, particularly at home, I wish I had a better setup, including a stronger MacBook, ideally a 15.4-inch [MacBook Pro][macbook-pro] 2.2GHz Quad-core Intel i7 with Retina Display or an [iMac][] 21.5-inch iMac 2.8GHz Quad-core Intel Core i5. I would also LOVE a microphone setup, ideally a [Shure SM58][sm58].
 
-[us-4x4]: http://tascam.com/product/us-4x4/ "A USB audio interface."
+[h5]: https://www.zoom.co.jp/products/handy-recorder/h5-handy-recorder "A digital audio recorder."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
-[sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
-[h5]: https://www.zoom.co.jp/products/handy-recorder/h5-handy-recorder "A digital audio recorder."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mv88]: http://www.shure.com/americas/products/microphones/motiv/mv88-ios-digital-stereo-condenser-microphone "A stereo condenser microphone for iOS devices."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
+[sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[us-4x4]: http://tascam.com/product/us-4x4/ "A USB audio interface."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [hindenburg]: https://hindenburg.com/ "A suite of tools for editing radio and podcasts."
-[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
 [pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[reaper]: https://www.reaper.fm/ "A software digital audio workstation."
+[vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."

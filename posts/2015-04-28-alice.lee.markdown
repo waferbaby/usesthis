@@ -31,16 +31,16 @@ Everything else: I use [Textmate][] to write code, [Day One][day-one-ios] on my 
 
 My dream set up is slightly unrealistic, but perhaps I'll realize it someday (this would be my _dream-dream_ set up, not like a _potentially-in-the-near-future-ish_ set up). Basically, I'd want an art store like Flax to provide an endless amount of art supplies. I'd have an entire wall serve as a chalkboard, another wall covered in blank canvases for painting, and a third covered in paper for sketching or pinning inspiration up on. The fourth would be a window. I'd also have my Cintiq and computers as is, and a gigantic plotter to print my art out on. There might be something in the corner like a hammock in the corner where I could take quick naps as well. That's important. :)
 
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
-[mailbox]: http://www.mailboxapp.com/ "A email client."
 [carousel.2]: https://carousel.dropbox.com/ "A photo sharing service from Dropbox."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [day-one-ios]: https://itunes.apple.com/us/app/day-one-journal/id421706526 "A journal app."
-[venmo]: https://venmo.com/ "A payment service."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[mailbox]: http://www.mailboxapp.com/ "A email client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[textmate]: http://macromates.com/ "A text editor for the Mac."
+[venmo]: https://venmo.com/ "A payment service."

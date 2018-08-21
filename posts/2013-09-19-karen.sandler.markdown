@@ -30,11 +30,11 @@ When I started at GNOME, I decided that I would try not to use the command line 
 As soon as I find a quiet weekend, my goal is to partition my drive so I can choose between [Fedora][], [Debian][] and [openSUSE][] at will! I probably should get a proper keyboard and mouse to protect my wrists. Otherwise I'm pretty happy - I'm glad to keep supporting the small independent hardware manufacturers like Zareason who will ship you the GNU/Linux distro of your choice all installed and ready to go. Plus, with 3.10 coming out next week GNOME just keeps getting better.
 
 [ultralap-430]: http://zareason.com/shop/UltraLap-430.html "A 14.1 inch laptop."
-[gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
-[fedora]: https://getfedora.org/ "A Linux distribution."
-[opensuse]: https://en.wikipedia.org/wiki/OpenSUSE "A Linux distribution."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[epiphany]: https://en.wikipedia.org/wiki/Epiphany_(web_browser) "A WebKit-base browser for GNOME."
 [empathy]: https://wiki.gnome.org/action/show/Apps/Empathy?action=show&redirect=Empathy "An instant messenger client for GNOME."
+[epiphany]: https://en.wikipedia.org/wiki/Epiphany_(web_browser) "A WebKit-base browser for GNOME."
 [evolution]: https://wiki.gnome.org/Apps/Evolution "An integrated mail, calendar and contact program for GNOME."
+[fedora]: https://getfedora.org/ "A Linux distribution."
+[gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[opensuse]: https://en.wikipedia.org/wiki/OpenSUSE "A Linux distribution."
