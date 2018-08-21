@@ -1,0 +1,5 @@
+{
+  "name": "GDAL",
+  "description": "A library for translating geospatial data formats.",
+  "url": "https://www.gdal.org/"
+}
