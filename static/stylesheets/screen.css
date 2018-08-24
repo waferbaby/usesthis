@@ -258,22 +258,17 @@ margin-bottom: 10px;
   width: 100%;
   }
 
-  body {
-  font-size: 100%;
-  }
-
   div#wrapper > header {
   padding: 25px 20px 0 20px;
   }
 
   div#wrapper > header nav {
-  font-size: 75%;
   grid-row: 4;
   }
 
   div#wrapper > header p {
   border: 0;
-  font-size: 90%;
+  font-size: 80%;
   grid-column: 1;
   grid-row: 3;
   padding: 0;
