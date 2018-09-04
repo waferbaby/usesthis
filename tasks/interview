@@ -17,6 +17,10 @@ slug = name.downcase.tr(' ', '.')
 date_pattern = /\d{4}-\d{2}-\d{2}/
 
 interviews = Dir.glob(File.join(source_path, 'posts', '*.markdown')).sort
+
+slugs = interviews.map { |path| File.basename(path, '.markdown').split('-')[-1] }
+abort("An interview with #{name} already exists.") if slugs.include?(slug)
+
 latest_date = File.basename(interviews.reverse.first).match(date_pattern)[0]
 next_date = Date.parse(latest_date).next_day
 
