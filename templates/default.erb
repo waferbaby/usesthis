@@ -15,25 +15,15 @@
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <meta name="description" content="A collection of nerdy interviews asking people from all walks of life what they use to get the job done">
+    <meta name="description" content="<%= site.data.description %>">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup,<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
-  <% if page.date %>
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@usesthis" />
-    <meta name="twitter:creator" content="@waferbaby" />
-    <meta name="twitter:title" content="Uses This / <%= page.title %>" />
-    <meta name="twitter:description" content="<%= page.summary %>" />
-    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg" />
-    <meta name="twitter:label1" content="Published" />
-    <meta name="twitter:data1" content="<%= page.date.strftime('%B %-d, %Y') %>" />
-  <% end %>
+    <meta name="keywords" content="interview, setup<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
   </head>
   <body>
     <div id="wrapper">
       <header>
         <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
-        <p>A collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
+        <p><%= site.data.description %></p>
         <nav>
           <ul>
             <li><a href="/" title="The most recent interviews.">Home</a></li>
