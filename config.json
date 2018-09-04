@@ -31,5 +31,9 @@
   "category_names": {
     "bsd": "BSD",
     "mac": "Macintosh"
+  },
+
+  "data": {
+    "description": "A collection of nerdy interviews asking people from all walks of life what they use to get the job done"
   }
 }
