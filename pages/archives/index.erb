@@ -9,7 +9,7 @@ title: Archives
 <% @site.archives[:year].keys.reverse.each do |year| %>
   <h3 id="<%= year %>"><a href="/archives/<%= year %>" title="All interviews from <%= year %>."><%= year %></a></h3>
   <ul class="months">
-    <% @site.archives[:year][year][:month].keys.each do |month| %>
+    <% @site.archives[:year][year][:month].keys.reverse.each do |month| %>
       <li>
         <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archives[:year][year][:month][month][:posts][0].date.strftime('%B, %Y') %>"><%= @site.archives[:year][year][:month][month][:posts][0].date.strftime('%B') %></a><br>
         <span class="summary"><%= @site.archives[:year][year][:month][month][:posts].count %> interview<% if @site.archives[:year][year][:month][month][:posts].count != 1 %>s<% end %>.</span>
