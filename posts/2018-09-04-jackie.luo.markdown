@@ -1,6 +1,6 @@
 ---
 title: Jackie Luo
-summary: Software developer, photographer
+summary: Software developer (Square), photographer
 categories:
 - developer
 - mac
