@@ -31,7 +31,7 @@ I would like Windows to abolish Secure-Boot, so I can run [Win8][windows-8] dual
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
-[full-video-audio-mixer]: http://www.moredan.com/full.video.audio.mixer.htm "A Windows tool for mixing audio and video."
+[full-video-audio-mixer]: http://www.dandans.com/Full-Video-Audio-Mixer.htm "A Windows tool for mixing audio and video."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [templeos]: http://www.templeos.org/ "An operating system."
 [vmware-workstation]: https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
