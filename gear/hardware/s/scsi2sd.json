@@ -1,0 +1,5 @@
+{
+  "name": "SCSI2SD",
+  "description": "An emulator device for SCSI hard drives.",
+  "url": "http://www.codesrc.com/mediawiki/index.php/SCSI2SD"
+}
