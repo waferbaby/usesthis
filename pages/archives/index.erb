@@ -4,15 +4,15 @@ title: Archives
 ---
 
 <h2>Archives</h2>
-<p>There are <%= @site.archives[:year].keys.count %> years of interviews to dig through. Enjoy!</p>
+<p>There are <%= @site.archive.years.count %> years of interviews to dig through. Enjoy!</p>
 
-<% @site.archives[:year].keys.reverse.each do |year| %>
+<% @site.archive.years.reverse.each do |year| %>
   <h3 id="<%= year %>"><a href="/archives/<%= year %>" title="All interviews from <%= year %>."><%= year %></a></h3>
   <ul class="months">
-    <% @site.archives[:year][year][:month].keys.reverse.each do |month| %>
+    <% @site.archive.months(year).reverse.each do |month| %>
       <li>
-        <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archives[:year][year][:month][month][:posts][0].date.strftime('%B, %Y') %>"><%= @site.archives[:year][year][:month][month][:posts][0].date.strftime('%B') %></a><br>
-        <span class="summary"><%= @site.archives[:year][year][:month][month][:posts].count %> interview<% if @site.archives[:year][year][:month][month][:posts].count != 1 %>s<% end %>.</span>
+        <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%B') %></a><br>
+        <span class="summary"><%= @site.archive.month_posts(year, month).count %> interview<% if @site.archive.month_posts(year, month).count != 1 %>s<% end %>.</span>
       </li>
     <% end %>
   </ul>
