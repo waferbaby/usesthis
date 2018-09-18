@@ -2,8 +2,8 @@
 title: Holly Gramazio
 summary: Game designer (Matheson Marcault)
 categories:
-- game
 - designer
+- game
 - mac
 ---
 
