@@ -9,7 +9,7 @@ require 'fileutils'
 
 editor = ENV['EDITOR'] || 'vi'
 
-abort('You must supply a name for the interviewee.') if ARGV.length < 2
+abort('You must supply a name for the interviewee.') if ARGV.empty?
 
 name = ARGV.join(' ')
 slug = name.downcase.tr(' ', '.')
