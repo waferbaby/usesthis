@@ -1,6 +1,6 @@
 ---
 title: Karlee Esmailli
-summary: Head of Accounts (Blackbox, Cards Againt Humanity), writer
+summary: Head of Accounts (Blackbox, Cards Against Humanity), writer
 categories:
 - game
 - mac
