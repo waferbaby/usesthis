@@ -33,7 +33,7 @@ There's [Ableton Live][live] for music composition and sound design, or when I n
 
 The more boring ones: odrive to manage my synced [Dropbox][] and [Google Drive][google-drive] files (AKA most things on my computers). [Sublime Text][sublime-text] for code and quick notes. [Discord][] - The Chat for Gamers - for team communication, [Asana][] for planning and productivity, [Tower][] for version control.
 
-On my iPhone, I use [Tweetbot][tweetbot-ios] and [Headspace][headspace-ios] to adjust my level of calm. And since most of my work is visual I listen to lots of podcasts with [Overcast][overcast-ios] on the side.
+On my iPhone, I use [Tweetbot][tweetbot-ios] and [Headspace][headspace-meditation-ios] to adjust my level of calm. And since most of my work is visual I listen to lots of podcasts with [Overcast][overcast-ios] on the side.
 
 ### What would be your dream setup?
 
@@ -52,7 +52,7 @@ Most days I dream of this: a standing desk, a neutral room with a smooth concret
 [dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist]: https://en.wikipedia.org/wiki/Dr._Langeskov%2C_The_Tiger%2C_and_The_Terribly_Cursed_Emerald%3A_A_Whirlwind_Heist "An exploration video game."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[headspace-ios]: http://www.flatblackfilms.com/iphone/Headspace/Headspace.html "A 3D mind-mapping/outline tool for iOS."
+[headspace-meditation-ios]: https://www.headspace.com/ "A guided meditation app for iOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [minit]: https://www.gamespot.com/videos/minit-teaser-trailer/2300-6436799/ "An adventure game."
