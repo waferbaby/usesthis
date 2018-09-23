@@ -47,7 +47,6 @@ padding-top: 20px;
 }
 
 div#wrapper > header nav {
-border-top: solid 1px #ffcce6;
 font-size: 90%;
 grid-column: 1/3;
 grid-row: 2;
