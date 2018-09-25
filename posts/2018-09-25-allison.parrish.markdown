@@ -21,7 +21,7 @@ The only other hardware that I use is an original-issue [Korg nanoKONTROL MIDI c
 
 #### And what software?
 
-Most of my RAM and CPU gets funneled into [Firefox][]. I do 90% of my programming work (sketches, experiments, tutorials) in [Jupyter Notebook][jupyter], but whenever I'm doing actual "software engineering" I use [Vim][]. I take notes and organize ideas in [Notational Velocity][notational-velocity], track links and citations with [Zotero][] and use a combo of [SelfControl][] and some app I found on the App Store called "[Tomato One][]" to keep me on task. It sort of works. I don't know.
+Most of my RAM and CPU gets funneled into [Firefox][]. I do 90% of my programming work (sketches, experiments, tutorials) in [Jupyter Notebook][jupyter], but whenever I'm doing actual "software engineering" I use [Vim][]. I take notes and organize ideas in [Notational Velocity][notational-velocity], track links and citations with [Zotero][] and use a combo of [SelfControl][] and some app I found on the App Store called "[Tomato One][tomato-one]" to keep me on task. It sort of works. I don't know.
 
 I spend a lot of time in [Keynote][] and I don't really like it. I don't hate it, it just doesn't feel expressive or fun. A few months ago at Practice (a game design conference hosted at NYU), Joseph White made and delivered his presentation about [PICO-8][] in PICO-8 and it was amazing - not because it was gimmicky, but because it was suited to the presentation itself and because Joseph clearly had the level of mastery over the software that made using it the obvious and necessary choice. I spend a lot of time wondering, like, what's the Allison equivalent of that.
 
@@ -41,5 +41,6 @@ Well, like I said, I hope to own and use this MacBook Air for the rest of my lif
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
 [pico-8]: https://www.lexaloffle.com/pico-8.php "A software gaming console."
 [selfcontrol]: https://selfcontrolapp.com/ "Mac software to keep you away from distracting websites."
+[tomato-one]: https://itunes.apple.com/us/app/tomato-one-free-focus-timer/id907364780 "A focus timer for macOS."
 [vim]: http://www.vim.org/ "A command-line text editor."
 [zotero]: https://www.zotero.org/ "A research tool."
