@@ -1,10 +1,9 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'json'
 
-unless ARGV[0]&.end_with?('.markdown')
-  abort('You must supply a Markdown file.')
-end
+abort('You must supply an interview!') unless ARGV[0]&.end_with?('.markdown')
 
 gear_pattern = /\[([^\[\(\)]+)\]\[([a-z0-9\.\-]+)?\]/
 
