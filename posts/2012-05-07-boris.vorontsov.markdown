@@ -4,7 +4,6 @@ summary: Game developer, modder
 categories:
 - developer
 - game
-- modder
 - windows
 ---
 
