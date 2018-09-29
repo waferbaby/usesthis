@@ -24,7 +24,7 @@
     <p>Filed under:</p>
     <ul>
     <% interview.categories.each do |slug| %>
-      <li><a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews." class="p-category"><%= slug %></a></li>
+      <li><a href="/categories/<%= slug %>/" title="All the <%= @site.categories[slug.to_sym].name %> interviews." class="p-category"><%= slug %></a></li>
     <% end %>
     </ul>
   </nav>
