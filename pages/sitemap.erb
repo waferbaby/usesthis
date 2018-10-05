@@ -1,24 +1,27 @@
 ---
+filename: sitemap
 extension: xml
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://usesthis.com/interviews/</loc>
+    <loc>https://usesthis.com/about/</loc>
   </url>
   <url>
-    <loc>http://usesthis.com/about/</loc>
+    <loc>https://usesthis.com/categories/</loc>
   </url>
+  <% @site.categories.keys.sort.each do |slug| %>
   <url>
-    <loc>http://usesthis.com/community/</loc>
+    <loc>https://usesthis.com/categories/<%= slug %></loc>
   </url>
+  <% end %>
   <url>
-    <loc>http://usesthis.com/api/</loc>
+    <loc>https://usesthis.com/interviews/</loc>
   </url>
-  <% site.posts.each do |post| %>
+  <% @site.posts.each do |post| %>
   <url>
-    <loc>http://usesthis.com/interviews/<%= post.slug %>/</loc>
+    <loc>https://usesthis.com/interviews/<%= post.slug %>/</loc>
     <lastmod><%= post.date.strftime('%Y') %>-<%= post.date.strftime('%m') %>-<%= post.date.strftime('%d') %></lastmod>
   </url>
   <% end %>
