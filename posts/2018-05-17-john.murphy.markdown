@@ -16,7 +16,7 @@ I'm [John Murphy](https://twitter.com/johmmmmmm "John's Twitter account.") and I
 
 When I'm at home or traveling I [Boot Camp][boot-camp] my late [2013 15" MacBook Pro][macbook-pro], because our Horsepower editor only runs in [Windows][windows-10].
 
-Most days I go to the Young Horses office to work. I use this little white [babycube PC][sst-ps07w] that I built in May 2015. I should probably upgrade it soon. I have [two monitors][ultrasharp-u2412m] mounted on [monitor arms][jarvis-dual-monitor-arm] on my [sit-stand desk][jarvis-bamboo-standing-desk]. I'm currently using this [keyboard][surface-ergonomic-keyboard] and this [pink mouse][lancehead-tournament-edition].
+Most days I go to the Young Horses office to work. I use this little white [babycube PC][sst-ps07w] that I built in May 2015. I should probably upgrade it soon. I have [two monitors][ultrasharp-u2412m] mounted on [monitor arms][jarvis-dual-monitor-arm] on my [sit-stand desk][jarvis-bamboo]. I'm currently using this [keyboard][surface-ergonomic-keyboard] and this [pink mouse][lancehead-tournament-edition].
 
 While I work I listen to music on these [Sennheiser HD 598][hd-598] headphones that look like they are from the 70s. Almost all headphones hurt my ears after half an hour or so, but these are incredibly comfortable.
 
@@ -53,7 +53,7 @@ In the meantime, I've been thinking about putting a treadmill under this here st
 [gesture]: https://www.amazon.com/dp/B0141G9IHY/ "A desk chair."
 [hd-598]: https://en-us.sennheiser.com/audio-headphones-high-end-surround-sound-hd-598 "Over-the-ear headphones."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
-[jarvis-bamboo-standing-desk]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
 [jarvis-dual-monitor-arm]: https://www.fully.com/accessories/monitor-arms/jarvis-dual-monitor-arm.html "A monitor arm."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [lancehead-tournament-edition]: https://www.razer.com/gaming-mice/razer-lancehead-tournament-edition "A gaming mouse."
