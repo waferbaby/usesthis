@@ -26,6 +26,7 @@ next_date = Date.parse(latest_date).next_day
 
 loop do
   break if next_date.strftime('%a').match?(/Tue|Thu/)
+
   next_date = next_date.next_day
 end
 
