@@ -83,7 +83,7 @@ App/platform vendors don't want sovereigns, of course. Their entire business mod
 [debian]: https://www.debian.org/ "A Linux distribution."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."

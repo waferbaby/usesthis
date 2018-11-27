@@ -42,7 +42,7 @@ I spend much of my day looking for good content for HolyKaw. The most important 
 [evernote-ios]: https://itunes.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."

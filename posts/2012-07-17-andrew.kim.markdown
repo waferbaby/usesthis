@@ -46,7 +46,7 @@ I dream of using a 13" [MacBook Air][macbook-air] as my main machine. I would lo
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [evernote-ios]: https://itunes.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

@@ -48,7 +48,7 @@ original aluminum enclosure. Plastic gets slimy. And a pony.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fluid]: http://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

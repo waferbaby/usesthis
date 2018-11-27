@@ -79,7 +79,7 @@ But that would just be gravy. I'm quite happy with what I have.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [elevation]: http://exnihilo.mezzoblue.com/elevation/ "A GPS route visualiser."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

@@ -67,7 +67,7 @@ I want better software: more usable, more accessible, more open, more secure, mo
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [growl]: http://growl.info/ "A notification system for Mac OS X."
 [hardwaregrowler]: http://growl.info/documentation/hardwaregrowler.php "A Growl-based utility for notifying you when devices are connected/disconnected."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [inquisitor]: http://www.inquisitorx.com "Learning search engine helper."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."

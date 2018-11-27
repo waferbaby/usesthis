@@ -50,7 +50,7 @@ My dream setup would start with a new Canon camera body, one that's small, that 
 [vagabond-mini]: https://www.paulcbuff.com/vm120.php "A portable lithium battery."
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

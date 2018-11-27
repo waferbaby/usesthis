@@ -64,7 +64,7 @@ That's it --- that's all I wish for.
 [filemerge]: https://en.wikipedia.org/wiki/Apple_Developer_Tools#FileMerge "A Mac developer tool for comparing and merging difference between files."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [growl]: http://growl.info/ "A notification system for Mac OS X."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [instruments]: https://en.wikipedia.org/wiki/Instruments_(application) "A Mac developer tool for analysing an application's performance."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."

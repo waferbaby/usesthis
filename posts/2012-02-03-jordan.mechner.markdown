@@ -75,7 +75,7 @@ And a one-touch off button, so I can toss those amazing gadgets in a drawer and 
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [movie-magic-screenwriter]: http://www.screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."

@@ -63,7 +63,7 @@ I'll likely be upgrading my field system to the latest and greatest 15" [MacBook
 [ia-writer-ios]: https://itunes.apple.com/us/app/ia-writer/id392502056 "A focus-oriented writing application for iOS."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [ibooks-ios]: https://itunes.apple.com/us/app/ibooks/id364709193 "A book reader for iOS."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

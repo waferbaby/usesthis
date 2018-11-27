@@ -45,7 +45,7 @@ Though, [having one of these](http://www.cantstopthemovies.com/wp-content/upload
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [imgur]: https://imgur.com/ "An image sharing service."
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
 [notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."

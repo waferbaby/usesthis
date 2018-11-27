@@ -63,7 +63,7 @@ Software-wise, it would be great if the internet browsing experience was better.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [git]: https://git-scm.com/ "A version control system."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [jungle-disk]: https://www.jungledisk.com/ "Software for syncing files with the Cloud™."
 [nginx]: http://nginx.org/ "A very fast web/mail server."
 [pandora-one]: http://www.pandora.com/upgrade "A pro version of the music streaming service."

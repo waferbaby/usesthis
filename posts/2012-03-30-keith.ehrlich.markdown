@@ -45,7 +45,7 @@ To divide my time working part of the year in Brooklyn in a home [something like
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [media-composer]: http://www.avid.com/US/products/media-composer-software "Film and video editing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

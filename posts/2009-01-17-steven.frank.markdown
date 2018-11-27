@@ -46,7 +46,7 @@ I think this is actually probably pretty close to it. They just need to keep mak
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."

@@ -70,7 +70,7 @@ I'm still waiting for a simpler solution for syncing accounts and data between m
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [everyblock]: https://www.everyblock.com/ "A service for getting hyperlocal news."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."

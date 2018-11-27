@@ -35,7 +35,7 @@ I basically have it. A room in my home. A lot of natural light. It's covered in 
 [fallout-new-vegas]: https://en.wikipedia.org/wiki/Fallout:_New_Vegas "A post-apocalyptic video game."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [hulu]: https://www.hulu.com/ "A TV streaming service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."

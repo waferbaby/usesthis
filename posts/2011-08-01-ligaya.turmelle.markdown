@@ -49,7 +49,7 @@ As I said I am a simple kinda girl.
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [mysql]: https://www.mysql.com/ "A relational database server."
 [shared-shell]: http://www.oracle.com/us/support/systems/premier/shared-shell-sun-systems-163755.html "A Java-based tool to remotely control and view Sun systems."

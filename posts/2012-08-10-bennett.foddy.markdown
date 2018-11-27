@@ -71,7 +71,7 @@ But the real thing I dream about is something I can't buy: a word processor that
 [flash-builder]: https://www.adobe.com/products/flash-builder.html "A tool for generating Flash apps via the Flex framework."
 [flixel]: http://flixel.org/ "A games framework written for Actionscript/Flash."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [istat-pro]: https://www.macupdate.com/app/mac/20364/istat-pro "A Mac application for monitoring your CPU, memory, disks and so on."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

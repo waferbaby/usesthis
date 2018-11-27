@@ -53,7 +53,7 @@ Upgrade to an Intel 256 GB SSD, 30" LCD, another height-adjustable desk at the o
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [daylite]: https://www.marketcircle.com/daylite/ "Business productivity software."
 [gabble]: https://www.macupdate.com/app/mac/31552/gabble/ "A Mac client for the Yammer messaging platform."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
 [jumpcut]: http://jumpcut.sourceforge.net/ "A clipboard buffer for Mac OS X."
 [livescribe-desktop]: http://www.livescribe.com/en-us/support/echo/setup/ "Software for reading input (notes, audio) from the Pulse smart pen."

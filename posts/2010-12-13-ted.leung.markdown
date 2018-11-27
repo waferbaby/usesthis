@@ -82,7 +82,7 @@ Hardware wise, I'd like something that runs everything so quickly that I never h
 [goodreader-ios]: http://goodreader.com/ "A PDF reader for the iPad."
 [hazel]: https://www.noodlesoft.com/ "A file organiser/housekeeper for the Mac."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
 [keyboard-maestro]: http://www.keyboardmaestro.com/main/ "A macro application for the Mac."

@@ -68,7 +68,7 @@ On the computer side of things I'd love to bump this thing up to 8 GB of RAM and
 [gimme-bar]: https://gimmebar.com/ "A web service for storing collections of things from the web."
 [ia-writer-ios]: https://itunes.apple.com/us/app/ia-writer/id392502056 "A focus-oriented writing application for iOS."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."

@@ -68,7 +68,7 @@ I wish that I could lift up the screen on my laptop so that it would be closer t
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [git]: https://git-scm.com/ "A version control system."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [lighttpd]: http://www.lighttpd.net/ "An open-source web server."

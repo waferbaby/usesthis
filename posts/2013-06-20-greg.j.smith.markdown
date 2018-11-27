@@ -47,7 +47,7 @@ However, so as to not be a spoil sport, here is some related speculation: the on
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [tilemill]: https://www.mapbox.com/tilemill/ "An interactive map design tool."
 [word]: https://products.office.com/en-us/word "A document editor."

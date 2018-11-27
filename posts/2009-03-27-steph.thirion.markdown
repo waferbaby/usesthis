@@ -55,7 +55,7 @@ But as long as I can work with OSX I'm good. I could say that thinking about hav
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fireworks]: https://creative.adobe.com/products/fireworks "A graphics and work tool for the Mac."
 [git]: https://git-scm.com/ "A version control system."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

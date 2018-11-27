@@ -55,7 +55,7 @@ My dream setup would be some sort of crazy laptop that was small enough to keep 
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [github]: https://github.com/ "A Git code repository service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."

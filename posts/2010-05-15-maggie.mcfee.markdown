@@ -69,7 +69,7 @@ The only thing I really covet right now is a fibre-channel SAN for my house. But
 [expandrive]: https://www.expandrive.com/ "Software that makes remote servers appear as local disks."
 [final-cut-studio]: https://en.wikipedia.org/wiki/Final_Cut_Studio "A post-production suite of software for Mac OS X."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
 [logic-studio]: https://en.wikipedia.org/wiki/Logic_Studio "A collection of software for creating and editing audio."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

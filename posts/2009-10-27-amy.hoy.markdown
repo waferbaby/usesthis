@@ -95,7 +95,7 @@ But there's something to be said for owning beautiful, useful objects that light
 [freckle]: https://letsfreckle.com/ "A web service for time tracking."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

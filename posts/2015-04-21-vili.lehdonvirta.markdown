@@ -69,7 +69,7 @@ I have an ambiguous relationship with cloud computing. I don't benefit much from
 [expensify]: https://www.expensify.com/ "An expense report service."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [idle]: https://docs.python.org/2/library/idle.html "A Python IDE written in Python."
 [jedict]: http://www.jedict.com/ "A Japanese dictionary application for Mac OS X."
 [limesurvey]: https://www.limesurvey.org/ "Open source survey software."

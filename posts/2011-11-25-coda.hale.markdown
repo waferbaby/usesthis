@@ -57,7 +57,7 @@ My dream setup is any arrangement which removes an entity without sacrificing fu
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [grabbox]: https://alternativeto.net/software/grabbox/ "Mac screenshot software based on DropBox."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [java]: https://www.java.com/en/ "A cross-platform compiled programming language."

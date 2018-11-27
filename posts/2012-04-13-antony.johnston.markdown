@@ -101,7 +101,7 @@ Failing that -- which I most certainly am -- I'd settle for being able to ditch 
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [goodreader-ios]: http://goodreader.com/ "A PDF reader for the iPad."
 [ia-writer-ios]: https://itunes.apple.com/us/app/ia-writer/id392502056 "A focus-oriented writing application for iOS."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [imo-ios]: https://itunes.apple.com/us/app/imo/id336435697 "A multi-protocol IM app."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

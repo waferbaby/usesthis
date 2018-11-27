@@ -56,7 +56,7 @@ All of this stuff is useless if we don't share our stories with each other and e
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
 [crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

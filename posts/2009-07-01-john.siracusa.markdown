@@ -101,7 +101,7 @@ On the software side, I have [so many complaints](http://arstechnica.com/staff/f
 [fire]: https://en.wikipedia.org/wiki/Fire_(instant_messaging_client) "A multi-protocol chat client for the Mac."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."

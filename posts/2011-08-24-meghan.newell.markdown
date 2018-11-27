@@ -64,7 +64,7 @@ It's been thrilling to me to be able to have a portable computer powerful enough
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [fontexplorer-x]: http://www.fontexplorerx.com/ "Font management software."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

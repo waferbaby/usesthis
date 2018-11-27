@@ -77,7 +77,7 @@ But even if TextMate 2 drops from the sky fully-formed and marveled at by all, E
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [git]: https://git-scm.com/ "A version control system."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latex]: https://www.latex-project.org/ "Typesetting software."

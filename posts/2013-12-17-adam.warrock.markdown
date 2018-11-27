@@ -37,7 +37,7 @@ Oh and I'd love to have a bigger TV. Because, uh, I guess that's work, right? Ye
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ozone]: https://www.izotope.com/en/products/master-and-deliver/ozone.html "A mastering system plugin."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

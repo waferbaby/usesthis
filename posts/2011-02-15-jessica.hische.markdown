@@ -43,7 +43,7 @@ I'm actually quite happy with my hardware setup at the moment. Really the only t
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fontlab-studio]: https://old.fontlab.com/font-editor/fontlab-studio/ "Font creation software."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

@@ -38,7 +38,7 @@ I confess I have a partner who thinks about these things on my behalf a lot, so 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [ibooks-ios]: https://itunes.apple.com/us/app/ibooks/id364709193 "A book reader for iOS."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [office]: https://products.office.com/en-us/home "An office productivity suite."

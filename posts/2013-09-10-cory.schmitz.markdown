@@ -54,7 +54,7 @@ I just want a bigger/nicer desk & then I'll be all set <3
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

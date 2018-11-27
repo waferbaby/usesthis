@@ -83,7 +83,7 @@ Other than that, I think I'm really happy with these things.
 [voyager-q]: https://www.newertech.com/products/voyagerq.php "A hard drive docking system."
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

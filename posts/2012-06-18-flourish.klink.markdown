@@ -71,7 +71,7 @@ Finally, if we're talking about gaming... I sure wouldn't mind a Gauntlet 2 cabi
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gcstar]: http://www.gcstar.org/ "A tool for managing media collections."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latex]: https://www.latex-project.org/ "Typesetting software."
