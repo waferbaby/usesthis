@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (6.2.1)
+    dimples (6.2.3)
       hashie (~> 3.5, >= 3.5.7)
       optimist (~> 3.0)
       tilt (~> 2.0)
@@ -12,7 +12,7 @@ GEM
     multipart-post (2.0.0)
     optimist (3.0.0)
     redcarpet (3.4.0)
-    tilt (2.0.8)
+    tilt (2.0.9)
 
 PLATFORMS
   ruby
@@ -27,4 +27,4 @@ RUBY VERSION
    ruby 2.4.3p205
 
 BUNDLED WITH
-   1.16.4
+   1.16.6
