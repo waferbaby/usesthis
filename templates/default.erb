@@ -22,9 +22,9 @@
     <meta property="og:title" content="Uses This: <%= page.title %>" />
     <meta property="og:description" content="<%= page.summary %>" />
     <meta property="og:type" content="article" />
-    <meta property="og:article:published_time" content="<%= page.date.iso8601 %>" />
+    <meta property="article:published_time" content="<%= page.date.iso8601 %>" />
   <% page.categories.each do |category| %>
-    <meta property="og:article:tag" content="<%= category %>" />
+    <meta property="article:tag" content="<%= category %>" />
   <% end %>
     <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg" />
     <meta property="og:image:type" content="image/jpeg" />
