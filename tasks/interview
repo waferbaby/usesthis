@@ -12,7 +12,7 @@ editor = ENV['EDITOR'] || 'vi'
 abort('You must supply a name for the interviewee.') if ARGV.empty?
 
 name = ARGV.join(' ')
-slug = name.downcase.tr(' ', '.')
+slug = name.downcase.gsub(/[ ']/, ' ' => '.')
 
 date_pattern = /\d{4}-\d{2}-\d{2}/
 
