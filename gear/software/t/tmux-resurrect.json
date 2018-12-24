@@ -1,0 +1,5 @@
+{
+  "name": "tmux-resurrect",
+  "description": "A tmux plugin for persisting sessions across restarts.",
+  "url": "https://github.com/tmux-plugins/tmux-resurrect"
+}

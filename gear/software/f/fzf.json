@@ -1,0 +1,5 @@
+{
+  "name": "fzf",
+  "description": "A fuzzy finder for the command line.",
+  "url": "https://github.com/junegunn/fzf"
+}
