@@ -6,7 +6,7 @@
       <figcaption>Photo by <% if interview.credits.url %><a href="<%= interview.credits.url %>" title="More details about <%= interview.credits.name %>."><%= interview.credits.name %></a><% else %><%= interview.credits.name %><% end %><% if interview.credits.licence %> (<a href="http://creativecommons.org/licenses/<%= interview.credits.licence %>/4.0/" title="The <%= interview.credits.licence.upcase %> Creative Commons licence."><%= interview.credits.licence.upcase %></a>)<% end %>.</figcaption>
     <% end %>
   <% else %>
-    <a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>.">
+    <a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="u-url">
       <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="300" height="201" class="portrait" alt="A picture of <%= interview.title %>">
     </a>
   <% end %>
@@ -17,7 +17,7 @@
     <h3><a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="p-name"><%= interview.title %></a></h3>
   <% end %>
   <p class="summary p-job-title"><%= interview.summary %></p>
-  <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>">
+  <time datetime="<%= interview.date.strftime('%Y-%m-%d') %>" class="dt-published">
     Posted <a href="/archives/<%= interview.date.year %>/<%= interview.date.strftime('%m') %>/" title="All interviews from <%= interview.date.strftime('%B, %Y') %>."><%= interview.date.strftime('%B %d') %></a>, <a href="/archives/<%= interview.date.year %>/" title="All interviews from <%= interview.date.year %>."><%= interview.date.strftime('%Y') %></a>
   </time>
   <nav class="categories">
