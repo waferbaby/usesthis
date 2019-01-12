@@ -2,18 +2,18 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Uses This<% if page.category %> / <%= page.category.name %><% end %>",
   "home_page_url": "https://usesthis.com/",
-  "feed_url": "http://usesthis.com/<% if page.category %>/interviews/<%= page.category.slug %>/<% end %>feed.json",
+  "feed_url": "https://usesthis.com/<% if page.category %>/interviews/<%= page.category.slug %>/<% end %>feed.json",
   "author": {
     "name": "Daniel Bogan"
   },
   "items": [
   <% page.feed_posts.each do |interview| %>
     {
-      "id": "http://usesthis.com/interviews/<%= interview.slug %>/",
+      "id": "https://usesthis.com/interviews/<%= interview.slug %>/",
       "title": "<%= interview.title %>",
       "summary": "<%= interview.summary %>",
-      "url": "http://usesthis.com/interviews/<%= interview.slug %>/",
-      "image": "http://usesthis.com/images/interviews/<%= interview.slug %>/portrait.jpg",
+      "url": "https://usesthis.com/interviews/<%= interview.slug %>/",
+      "image": "https://usesthis.com/images/interviews/<%= interview.slug %>/portrait.jpg",
       "date_published": "<%= interview.date.strftime('%FT%T') %>Z",
       "content_html": <%= interview.rendered_contents.to_json %>
     }<%= "," unless interview == page.feed_posts.last %>

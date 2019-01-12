@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 <title>Uses This<% if page.category %> / <%= page.category.name %><% end %></title>
-<link href="http://usesthis.com/<% if page.category %>/interviews/<%= page.category.slug %>/<% end %>feed.atom" rel="self"/>
-<link href="http://usesthis.com/"/>
+<link href="https://usesthis.com/<% if page.category %>/interviews/<%= page.category.slug %>/<% end %>feed.atom" rel="self"/>
+<link href="https://usesthis.com/"/>
 <updated><%= Time.new.strftime('%FT%T') %>Z</updated>
 <id>http://usesthis.com/</id>
 <author>
