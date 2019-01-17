@@ -1,0 +1,5 @@
+{
+  "name": "wlroots",
+  "description": "A compositor library for Wayland.",
+  "url": "https://github.com/swaywm/wlroots"
+}
