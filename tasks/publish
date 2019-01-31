@@ -3,4 +3,3 @@
 bundle update
 git pull
 bundle exec dimples build
-ln -s /usr/local/www/usesthis.com/stats/ /usr/local/www/usesthis.com/public/
