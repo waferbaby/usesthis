@@ -1,5 +1,5 @@
 {
   "name": "MzScheme",
   "description": "A core virtual machine for the PLT Scheme language.",
-  "url": "http://plt-scheme.org/software/mzscheme/"
+  "url": "https://plt-scheme.org/software/mzscheme/"
 }
