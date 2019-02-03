@@ -1,0 +1,14 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+glob_path = File.join(
+  File.dirname(__dir__),
+  'posts',
+  '**',
+  '*.markdown'
+)
+
+Dir.glob(glob_path).sort.each do |path|
+  puts "Relinking #{path}"
+  `./tasks/link_gear #{path}`
+end
