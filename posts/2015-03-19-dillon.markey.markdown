@@ -55,6 +55,6 @@ Anyways, that's my ideal setup. Basically a hive for play and creativity with ev
 [power-glove]: https://en.wikipedia.org/wiki/Power_Glove "A glove-based controller for the NES."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[dragonframe]: http://www.dragonframe.com/ "Stop-motion animation software."
+[dragonframe]: https://www.dragonframe.com/ "Stop-motion animation software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."

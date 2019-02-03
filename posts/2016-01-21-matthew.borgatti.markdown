@@ -33,7 +33,7 @@ As for software, I am always wary of how much time I have to spend learning the 
 
 As long as we're fantasizing, I'd also like a box truck to turn into a [mobile apartment](http://www.apartmenttherapy.com/look-small-space-livingin-a-ga-61030 "An article about a mobile apartment built into a truck."). I love the idea of making my own RV from scratch as a kind of traveling terrarium and live-in tool box.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [d5000]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D5000.html "A 12.3 megapixel DSLR."
 [dragon-skin-10]: https://www.smooth-on.com/Silicone-Rubber-an/c2_1115_1129/index.html "A silicon rubber."
 [echo.2]: https://www.goruck.com/gr-echo-black-/p/GEAR-000064 "A backpack."
@@ -46,7 +46,7 @@ As long as we're fantasizing, I'd also like a box truck to turn into a [mobile a
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [micromax]: https://www.omax.com/omax-machine/micromax "A water jet cutter."
-[objet-eden260vs]: http://www.stratasys.com/3d-printers/design-series/objet-eden260vs "An industrial 3D printer."
+[objet-eden260vs]: https://www.stratasys.com/3d-printers/design-series/objet-eden260vs "An industrial 3D printer."
 [teensy]: https://www.pjrc.com/teensy/ "A USB microcontroller board."
 [ultimaker-2]: https://www.makershed.com/products/ultimaker-2-3d-printer "A 3D printer."
 [vf-1]: https://www.haascnc.com/we_spec1.asp?id=VF-1&sizeID=8_20INCH_VMC#gsc.tab=0 "A CNC machine."
@@ -55,7 +55,7 @@ As long as we're fantasizing, I'd also like a box truck to turn into a [mobile a
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [cura]: https://ultimaker.com/en/products/cura-software "Mac software for preparing models for 3D printing."
 [gif-brewery]: http://gifbrewery.com/ "Mac software for converting videos into GIFs."
-[grasshopper]: http://www.grasshopper3d.com/ "A graphical algorithm editor for Rhino."
+[grasshopper]: https://www.grasshopper3d.com/ "A graphical algorithm editor for Rhino."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."
 [solidworks]: https://www.3ds.com/products-services/solidworks/ "Modelling/CAD software."

@@ -93,7 +93,7 @@ And, as for my bicycle, I'd love a relatively small and lightweight battery + 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."

@@ -38,7 +38,7 @@ I've been thinking about buying a [MacBook Air][macbook-air] and a pony, for wri
 
 [dm601-s3]: https://www.soundandvision.com/content/bw-dm600-series-3-home-theater-speakers "Home theater speakers."
 [dra-f101]: http://www.devicemanuals.com/productsupport/Denon_DRA-F101_manual.html "A stereo receiver."
-[galaxy-gio]: http://www.samsung.com/galaxyace/gio_overview.html "A 3.2 inch Android smartphone."
+[galaxy-gio]: https://www.samsung.com/galaxyace/gio_overview.html "A 3.2 inch Android smartphone."
 [hd-429]: https://en-us.sennheiser.com/over-ear-headphones-ambient-noise-isolation-hd-429 "Over the ear headphones."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [chatzilla]: https://addons.mozilla.org/en-US/firefox/addon/chatzilla/ "A Firefox IRC client extension."

@@ -42,7 +42,7 @@ My dream set up would be a new [MacBook Pro][macbook-pro] and a new custom built
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [flixel]: http://flixel.org/ "A games framework written for Actionscript/Flash."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[rails]: http://rubyonrails.org/ "A Ruby-based web framework."
+[rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tacoma]: http://tacoma.game "A space-themed video game."

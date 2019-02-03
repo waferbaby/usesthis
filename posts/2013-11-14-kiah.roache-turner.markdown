@@ -37,7 +37,7 @@ Having said that, the one possible exception is probably editing - I truly love 
 [epic]: http://www.red.com/products/epic/ "A high-end 4k digital video camera."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
-[scarlet]: http://www.red.com/products/scarlet "A high-end 4k digital video camera."
+[scarlet]: https://www.red.com/products/scarlet "A high-end 4k digital video camera."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."

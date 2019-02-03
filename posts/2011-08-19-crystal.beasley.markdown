@@ -39,7 +39,7 @@ My mystery, unicorn-and-glitter-in-the-moonbeams setup would be one that is opti
 [cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."
 [cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."
-[espresso]: http://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
+[espresso]: https://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

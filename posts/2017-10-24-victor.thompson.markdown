@@ -55,7 +55,7 @@ Alongside the things, applications, and processes I use, a huge part of what mak
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [joggernauts]: https://spacemace.itch.io/joggernauts "A co-op auto-runner video game"
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
+[monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
 [slack]: https://slack.com/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

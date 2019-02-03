@@ -33,7 +33,7 @@ Could I have the system from _Minority Report_? I'd love to be able to just talk
 
 [lumix-ts4]: https://www.amazon.com/Panasonic-Waterproof-Digital-Camera-Optical/dp/B00728ZC1A "A 12.1 megapixel waterproof digital camera."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
-[one-s]: http://www.htc.com/us/smartphones/htc-one-s/ "An 8 megapixel Android smartphone."
+[one-s]: https://www.htc.com/us/smartphones/htc-one-s/ "An 8 megapixel Android smartphone."
 [xperia-z]: http://www.sonymobile.com/global-en/products/phones/xperia-z/ "An Android-based smartphone."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [blogger]: https://en.wikipedia.org/wiki/Blogger_(service) "A weblog publishing system."

@@ -39,7 +39,7 @@ My dream setup would include a 17-inch [MacBook Pro][macbook-pro] loaded with at
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
 [visio]: https://products.office.com/en-us/visio/flowchart-software "Visualising/diagraming software."
-[webinspect]: http://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/ "Vulnerability scanner software for web apps."
+[webinspect]: https://www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast/ "Vulnerability scanner software for web apps."
 [webscarab]: https://www.owasp.org/index.php/Category:OWASP_WebScarab_Project "A Java-based HTTP/HTTPS analyser."
 [word]: https://products.office.com/en-us/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

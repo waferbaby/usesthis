@@ -32,5 +32,5 @@ I have no dream setup because my technical skills are non-existent. Basically I 
 [microphone-pro-ios]: https://itunes.apple.com/us/app/microphone-pro/id389797225 "A multi-function microphone app."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [universal-music-interface]: https://sourceforge.net/projects/umi/ "A MIDI sequencer."

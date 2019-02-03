@@ -51,7 +51,7 @@ A pair of big SSDs in the Mac Pro would be nice. If the MacBook Air had 8GB of m
 [2x1-dvikvm-dl]: https://www.amazon.com/Gefen-EXT-DVIKVM-241DL-2x1-DL-Switcher/dp/B000UPXPFC "A dual-link DVI KVM."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [customizer-104-105]: http://hackerthings.com/product/customizer-104-105-keyboard-100099 "A keyboard in the style of the old Model M keyboards."
-[impressa-f9]: http://www.capresso.com/prod_super_f9.html "An automatic coffee machine."
+[impressa-f9]: https://www.capresso.com/prod_super_f9.html "An automatic coffee machine."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mamba]: http://store.razerzone.com/store/razerusa/en_US/pd/productID.169418100 "A wired/wireless gaming mouse."

@@ -73,7 +73,7 @@ If we're willing to throw that out, I'd love to be able to work on Chrome for Wi
  
 And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](http://chris.wanstrath.usesthis.com/ "Our interview with Chris Wanstrath."), too, please.
 
-[2-port-ps-2-kvm]: http://www.belkin.com/us/p/P-F1DK102P/ "A KVM for sharing monitors, PS/2 mice and keyboards between two computers."
+[2-port-ps-2-kvm]: https://www.belkin.com/us/p/P-F1DK102P/ "A KVM for sharing monitors, PS/2 mice and keyboards between two computers."
 [cr-48]: http://en.wikipedia.org/wiki/Chromebook#Cr-48_prototype "Google's first Chrome OS netbook."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [thinkpad-t61]: https://www.cnet.com/products/lenovo-t61/ "A 14 inch PC laptop."

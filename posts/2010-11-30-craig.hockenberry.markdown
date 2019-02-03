@@ -65,7 +65,7 @@ I already have my dream setup!
 
 After having an SSD in the MacBook air, I'm going to start upgrading to flash drives in all of my machines. The iMac is getting a little old (it's the first Intel Mac) but it does fine with what I ask of it.
 
-[aego-m]: https://www.macworld.com/product/413477/aego-m.html "Computer speakers."
+[aego-m]: https://www.macworld.com/article/1149795/acoustic_energy_aego_m.html "Computer speakers."
 [extended-keyboard-ii]: http://lowendmac.com/2006/apples-extended-keyboard-ii-sequel-to-a-legend/ "An ADB-based keyboard."
 [icon-udac]: https://billstclair.com/udac/ "A USB digital audio converter."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
@@ -87,9 +87,9 @@ After having an SSD in the MacBook air, I'm going to start upgrading to flash dr
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
-[overflow]: http://stuntsoftware.com/overflow/ "A dock application launcher."
+[overflow]: https://stuntsoftware.com/overflow/ "A dock application launcher."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[pcalc]: http://pcalc.com/ "A scientific calculator for the Mac."
+[pcalc]: https://pcalc.com/ "A scientific calculator for the Mac."
 [remote-desktop]: https://www.apple.com/remotedesktop/ "Software for managing a collection of Macs."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

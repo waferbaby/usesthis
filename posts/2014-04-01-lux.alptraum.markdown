@@ -34,7 +34,7 @@ And if I am on a computer, I am almost definitely on [Adium][]. As with email, c
 
 I have this fantasy in which I am a minimalist, but real life always proves otherwise. My dream set up would be a MacBook Air hooked up to a 27" monitor on a small, wall mounted standing desk, with absolutely no papers cluttering anything, and no mess anywhere to be seen. I dream of a paperless office -- one day I'll achieve it, right?
 
-[bjursta]: http://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
+[bjursta]: https://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."

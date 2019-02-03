@@ -30,7 +30,7 @@ I would love a large electronics lab with a standing desk and sitting desk, and 
 
 In a datacenter not far from my home, I dream of building a nice big [Ceph][] cluster for storing everything and backups and such. My connection to my home for my dream setup would be fiber, and have native IPv6. And most importantly, I want industrial knitting machines. That's what I'm trying for first.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [black]: http://beagleboard.org/black "Open-source prototyping hardware."
 [chumby]: http://www.chumby.com/ "A little device that runs Flash applications."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."

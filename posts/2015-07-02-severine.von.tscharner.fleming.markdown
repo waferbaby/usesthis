@@ -59,7 +59,7 @@ I'd like all of us to have time to farm and land to farm on.
 [loomio]: https://www.loomio.org/ "A collaborative decision-making service."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
-[nationbuilder]: http://nationbuilder.com/ "A hosted community service."
+[nationbuilder]: https://nationbuilder.com/ "A hosted community service."
 [ourgoods]: https://ourgoods.org/ "A creative barter network service."
 [riseup]: https://help.riseup.net/ "A collection of online communcation services."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."

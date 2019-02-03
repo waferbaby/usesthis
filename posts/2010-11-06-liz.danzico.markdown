@@ -49,7 +49,7 @@ For managing new music, I aggregate all the music blogs I read with [Peel][], th
 
 I dream about having an iPhone and now an iPad with a built-in pico projector. The iPad has mitigated part of what I'm looking for, whereby we can be more social with our screens, passing them around, sharing a browser, a moment. But that's good for only as many people can crowd around its periphery. When can we throw that image on the wall? Talk about what's on the screen writ large? Argue about it there? That's the stuff of dreams. Until then, I'll keep on typing in TextEdit.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [c-lux-2]: https://www.amazon.com/Leica-Digital-Camera-Optical-Stabilized/dp/B000OCEKDM "A 7.2 megapixel digital camera."
 [d40]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25420/D40.html "A 6.1 megapixel digital SLR camera."
 [d7000y]: http://www.radiointel.com/nr-d7000y.htm "A trans-oceanic radio."

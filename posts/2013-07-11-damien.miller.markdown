@@ -55,7 +55,7 @@ On the software side of development, I'm pretty happy. I spend most of my time a
 
 For photo editing, I'm mostly limited by my imagination and skills. That being said, I'm surprised that there are no affordable high-DPI desktop monitors yet and certainly none that have a colour gamut suitable for photo work. When the technology that is now common in mobile device screens makes it to the desktop then we'll be within striking distance of something fantastic: a display system able to exceed human vision in tone, colour, resolution and update rate. I'm looking forward to a 30" monitor that matches the quality of a fine art print (though probably not so much to actually paying for it).
 
-[af-nikkon-85mm-f2.8d-if]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1933/AF-NIKKOR-85mm-f%252F1.4D-IF.html "A portrait lens."
+[af-nikkon-85mm-f2.8d-if]: http://www.nikonusa.com/en/nikon-products/product/camera-lenses/af-nikkor-85mm-f%252f1.4d-if.html "A portrait lens."
 [af-nikkor-28mm-f2.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1922/AF-NIKKOR-28mm-f%252F2.8D.html "A lens for SLR cameras."
 [af-s-nikkor-24-70mm-f2.8g-ed]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2164/AF-S-NIKKOR-24-70mm-f%252F2.8G-ED.html "A wide-angel zoom lens."
 [d800]: https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
@@ -74,7 +74,7 @@ For photo editing, I'm mostly limited by my imagination and skills. That being s
 [goobuntu]: https://en.wikipedia.org/wiki/Goobuntu "Google's own version of Ubuntu."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [jbcrypt]: http://www.mindrot.org/projects/jBCrypt/ "A Java implementation of BCrypt."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
@@ -86,5 +86,5 @@ For photo editing, I'm mostly limited by my imagination and skills. That being s
 [py-bcrypt]: https://code.google.com/archive/p/py-bcrypt "A Python implementation of BCrypt."
 [softflowd]: https://code.google.com/archive/p/softflowd "A network traffic analyser."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

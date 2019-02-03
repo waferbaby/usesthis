@@ -49,7 +49,7 @@ I'm also looking forward to an iPhone with a larger screen. I'm pretty sure it w
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [justnotes]: http://www.selfcoded.com/justnotes/ "Note-taking software for the Mac."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[media-composer]: http://www.avid.com/US/products/media-composer-software "Film and video editing software."
+[media-composer]: https://www.avid.com/US/products/media-composer-software "Film and video editing software."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

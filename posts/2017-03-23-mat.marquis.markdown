@@ -59,7 +59,7 @@ At work, y'know, I'm doing just fine. "Have laptop, will travel." I am - at leas
 [12-rounds-ios]: https://itunes.apple.com/us/app/12-rounds-boxing-timer-mma/id865732243 "A boxing timer app."
 [canvas]: https://usecanvas.com "A service for writing and sharing realtime Markdown documents."
 [editorially]: http://web.archive.org/web/20130806043131/https://editorially.com/ "A web-based collaborative text editor."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

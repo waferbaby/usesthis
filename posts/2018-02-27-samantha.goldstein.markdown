@@ -39,7 +39,7 @@ I also have my eye on a number of artisan keycaps, like [this][rainbow-ice], [th
 After seeing Claire Dane's [Met Gala dress](https://www.vanityfair.com/style/2016/05/met-gala-2016-red-carpet "A Vanity Fair article about Claire Dane's glow-in-the-dark dress.") I'd love to get my hands on some fiber optic fabric and make something with it as well in order to make some more wearable electronics!
 
 [968a-plus]: https://www.amazon.com/exec/obidos/ASIN/B006FA481G/ "A hot air rework station."
-[arduino-uno]: http://arduino.cc/en/Main/arduinoBoardUno "A microcontroller board."
+[arduino-uno]: https://store.arduino.cc/arduino-uno-rev3 "A microcontroller board."
 [bes870xl]: https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU/ "An espresso machine."
 [cortina]: http://www.bianchiusa.com/bikes/city-sport/turismo/cortina/ "A bicycle."
 [ec155]: https://www.amazon.com/DeLonghi-EC155-Espresso-Cappuccino-Maker/dp/B000F49XXG/ref=sr_1_13?s=kitchen&ie=UTF8&qid=1514874164&sr=1-13&keywords=espresso+maker "An espresso machine."
@@ -58,5 +58,5 @@ After seeing Claire Dane's [Met Gala dress](https://www.vanityfair.com/style/201
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [snappy.2]: http://snappy-app.com/ "A snapshot tool."
 [spectacle]: https://www.spectacleapp.com/ "A Mac tool for moving and resizing windows."
-[tmux]: http://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
+[vim]: https://www.vim.org/ "A command-line text editor."

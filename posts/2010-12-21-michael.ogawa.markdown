@@ -37,7 +37,7 @@ I want a slate computer that has stylus input and handwriting recognition. It sh
 
 I hope that browsers get better at rendering the HTML5 canvas element and that easy-to-use, yet robust, programming environments are created for it.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [drum-rocker-xbox]: https://www.ionaudio.com/products/details/drum-rocker-xbox-model "An electronic drum set for the Xbox."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [silver-river-duo]: https://www.tomsguide.com/us/cool-back-to-school-tools,review-989-3.html "A 3.5 inch hard drive enclosure."
@@ -55,5 +55,5 @@ I hope that browsers get better at rendering the HTML5 canvas element and that e
 [moinmoin]: https://moinmo.in/ "Wiki software."
 [prezi]: https://prezi.com/ "Web-based presentations."
 [processing]: https://processing.org/ "A programming language/environment."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

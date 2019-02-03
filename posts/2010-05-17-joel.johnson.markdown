@@ -37,7 +37,7 @@ I'm really excited to see if I like using the iPad as my dedicated mobile machin
 
 I'm also very nearly ready to buy a [Rebel T2i][eos-rebel-t2i] to replace my DSLR and my camcorder. To be able to combine both of those into one device is really exciting for me. I recently bought a [Pelican 1510][1510-carry-on-case] hard case for my camera gear and I'm finding I end up filling it mostly with accessories like tripods and microphones and lights. That doesn't upset me at all.
 
-[1510-carry-on-case]: http://www.pelican.com/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
+[1510-carry-on-case]: https://www.pelican.com:443/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
 [eos-rebel-t2i]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."
 [eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."

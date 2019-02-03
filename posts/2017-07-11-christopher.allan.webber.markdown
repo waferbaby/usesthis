@@ -61,7 +61,7 @@ Here's a free startup idea (and I'm dead serious about this): a company that aut
 
 Speaking of that, the stuff I work on is myself pretty hard to fund. You can support me [on Patreon](https://www.patreon.com/cwebber "Christopher's Patreon page.") or [by donating to MediaGoblin through the FSF](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=36 "The FSF donation page for MediaGoblin.") or by hiring me as a contractor for some free software project... I'm [easy to contact](https://dustycloud.org/contact/ "Christoper's contact page.")!
 
-[advantage2]: https://www.kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
+[advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
 [savant-elite2]: https://www.kinesis-ergo.com/shop/savant-elite2-triple-pedal/ "A computer foot medal."
 [thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
@@ -82,7 +82,7 @@ Speaking of that, the stuff I work on is myself pretty hard to fund. You can sup
 [libreboot]: https://libreboot.org/ "Open-source BIOS/UEFI replacement software."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
 [mastodon]: https://mastodon.social/about "A decentralised social network."
-[mediagoblin]: http://www.mediagoblin.org/ "Open source digital media web sharing."
+[mediagoblin]: https://www.mediagoblin.org/ "Open source digital media web sharing."
 [mu4e]: http://www.djcbsoftware.nl/code/mu/mu4e.html "A email client that sits on top of emacs."
 [nextcloud]: https://en.wikipedia.org/wiki/Nextcloud "A self-hosted file syncing service."
 [nix]: https://nixos.org/nix/ "A package manager."

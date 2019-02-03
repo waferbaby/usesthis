@@ -57,7 +57,7 @@ Also I'd love to start working in 3D so it would be great if Photoshop could imp
 Everything needs to work from the comfort of my bed. That's the main thing.
 
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
-[galaxy-s-ii]: http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nv24hd]: https://www.dpreview.com/articles/2356747397/samsung-nv24hd "A 10 megapixel camera with HD video capabilities."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
@@ -72,6 +72,6 @@ Everything needs to work from the comfort of my bed. That's the main thing.
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [shapeways]: https://www.shapeways.com/ "A service for printing 3D objects."
-[shrook]: http://www.utsire.com/shrook/ "An RSS feed reader for the Mac."
+[shrook]: https://www.utsire.com/shrook/ "An RSS feed reader for the Mac."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."

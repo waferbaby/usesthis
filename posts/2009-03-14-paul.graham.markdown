@@ -33,7 +33,7 @@ I'd like it if the HD display was bigger and much lighter and didn't have such a
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[mzscheme]: http://plt-scheme.org/software/mzscheme/ "A core virtual machine for the PLT Scheme language."
+[mzscheme]: https://plt-scheme.org/software/mzscheme/ "A core virtual machine for the PLT Scheme language."
 [picwing]: https://twitter.com/picwing "An online photo sharing service."
 [small-business]: https://www.aabacosmallbusiness.com/ecommerce "Online retail/merchant services and hosting."
 [snipshot]: http://www.ansa.com/snipshot/ "An online image editor."

@@ -78,7 +78,7 @@ What I'd really love is an oven in the workplace!! That's super impossible to fi
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pledgemanager]: https://www.pledgemanager.com/ "A service for managing a crowdfunded project."
 [slack]: https://slack.com/ "A collaboration service."
-[slicy]: http://macrabbit.com/slicy/ "A Mac tool for slicing Photoshop files."
+[slicy]: https://macrabbit.com/slicy/ "A Mac tool for slicing Photoshop files."
 [sprout-social]: https://sproutsocial.com/ "A service for managing a company's social media."
 [square]: https://squareup.com/ "A software and hardware solution for processing credit cards."
 [thimbleweed-park]: https://thimbleweedpark.com/ "A point-and-click adventure game."

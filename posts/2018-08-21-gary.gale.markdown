@@ -62,7 +62,7 @@ But if I really _had_ to dream it would look something like a third generation M
 
 Maybe I'm really talking about a [Hackintosh](https://hackintosh.com/ "A site linking instructions for building your own Hackintosh.") but apparently there's [laws and copyright](https://fossbytes.com/what-is-hackintosh-computer-laptop-legal-os-x-macos/ "A Fossbytes article on the legal risks of running a Hackintosh.") that get in the way of that. Maybe we should fix the intellectual property and copyright laws instead? Or maybe that's too much dreaming for one day.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
@@ -118,6 +118,6 @@ Maybe I'm really talking about a [Hackintosh](https://hackintosh.com/ "A site li
 [tru64-unix]: https://en.wikipedia.org/wiki/Tru64_UNIX "A UNIX operating system."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

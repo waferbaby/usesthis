@@ -98,7 +98,7 @@ The last idea in my dream setup is much more practical: we need to get rid of te
 
 Maybe we need to get rid of plain text, this holy relic of Unix, in order to make our command lines faster. But if that means that my editor won't stutter when I scroll through a 200 line file with syntax highlighting, then so be it, because that's certainly not part of my dream setup.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [ds716-plus-ii]: https://global.download.synology.com/download/Document/DataSheet/DiskStation/16-year/DS716+II/Synology_DS716+II_Data_Sheet_enu.pdf "A NAS device."
 [es-87]: http://www.keyeduplabs.com/es-87.html "A mechanical keyboard."
 [gesture]: https://www.amazon.com/dp/B0141G9IHY/ "A desk chair."
@@ -130,7 +130,7 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [jq]: https://stedolan.github.io/jq/ "A command line tool for manipulating JSON data."
 [karabiner]: https://pqrs.org/osx/karabiner/ "Mac software for remapping the keys of your laptop."
 [linux]: https://www.linux.org/ "A free, open-source Unix-like operating system."
@@ -149,9 +149,9 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [sizeup]: http://www.irradiatedsoftware.com/sizeup/ "Mac software for arranging windows."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tmux-resurrect]: https://github.com/tmux-plugins/tmux-resurrect "A tmux plugin for persisting sessions across restarts."
-[tmux]: http://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
+[tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [todoist]: https://todoist.com/ "A to-do service."
 [typora]: https://typora.io/ "A web-based Markdown editor."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [z]: https://github.com/rupa/z "A command-line tool for quickly moving between directories."
 [zsh]: http://www.zsh.org/ "An interactive shell and scripting language."

@@ -120,8 +120,8 @@ If someone could invent the infinite storage disk drive with low-latency, I'll t
 
 I'd also like to get a 100MBit or better line from my house to the Internet. My current Internet connection is so slow, and I produce too much video to have a slow uplink.
 
-[179]: http://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
-[70-200mm-ex-dg]: https://www.sigmaphoto.com/apo-70-200mm-f28-ex-dg-os-hsm "A telephoto zoom lens."
+[179]: https://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
+[70-200mm-ex-dg]: https://www.sigmaphoto.com/apo-70-200mm-f2-8-ex-dg-os-hsm "A telephoto zoom lens."
 [710-twin-finity]: https://www.uaudio.com/hardware/mic-preamps/710-twin-finity.html "A microphone preamp."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [ds1054z]: https://www.amazon.com/Rigol-DS1054Z-Digital-Oscilloscope-Channels/dp/B012938E76 "A digital oscilloscope."
@@ -166,7 +166,7 @@ I'd also like to get a 100MBit or better line from my house to the Internet. My 
 [metasploit]: https://www.metasploit.com "Penetration testing software."
 [openocd]: http://openocd.org/ "Open-source software for on-chip debugging."
 [ozone]: https://www.izotope.com/en/products/master-and-deliver/ozone.html "A mastering system plugin."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [synapse]: https://www.razerzone.com/synapse "Mouse/keyboard configuration software."
 [wireshark]: https://www.wireshark.org/ "A network protocol analyser."
 [wow]: http://us.battle.net/wow/en/ "A fantasy MMORPG."

@@ -57,7 +57,7 @@ And I'm even thinking about making a *bigger travel sketchbook*? Like... *9x12??
 
 Dream big, Little Bellwood.
 
-[aquash-water-brush]: http://www.pentel.com/store/aquash-water-brush-large-fine-point-tip "A water brush."
+[aquash-water-brush]: https://www.pentel.com/store/aquash-water-brush-large-fine-point-tip "A water brush."
 [carbon-desk-fountain-pen]: https://www.amazon.com/Platinum-Carbon-Fountain-Super-DP-800S/dp/B006CQT87W "A pen."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [hi-tec-c]: https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
@@ -69,6 +69,6 @@ Dream big, Little Bellwood.
 [cosmo]: https://www.redgiant.com/products/magic-bullet-cosmo/ "A skin tone and blemish plugin for After Effects."
 [google-inbox]: http://www.google.com/inbox/ "A Gmail client app."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[manga-studio-ex]: http://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[manga-studio-ex]: https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [workflowy]: https://workflowy.com/ "A task/to-do service."

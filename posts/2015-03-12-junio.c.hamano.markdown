@@ -45,7 +45,7 @@ I am good with what I use right now. I used to be picky about CPU performance, t
 [nexus-9]: http://www.google.com/nexus/9/ "An 8.9 inch Android tablet."
 [sprite]: https://www.microkickboard.com/young-adult-teen-scooters/sprite "A foot-powered scooter."
 [thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
-[xe303c12-a01us]: http://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A Chromebook laptop."
+[xe303c12-a01us]: https://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A Chromebook laptop."
 [asciidoc]: http://www.methods.co.nz/asciidoc/ "A text file format and software that's easily translated to other formats."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."

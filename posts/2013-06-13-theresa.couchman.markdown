@@ -38,4 +38,4 @@ I'd need a ready supply of blank notebooks and fine-tipped pens so I could scrib
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [smashwords]: https://www.smashwords.com/ "A self-publishing service."
 [songza]: http://songza.com/ "A playlist-centric music service."
-[zenwriter]: http://www.beenokle.com/zenwriter.html "Distraction-free writing software for Windows."
+[zenwriter]: https://www.beenokle.com/zenwriter.html "Distraction-free writing software for Windows."

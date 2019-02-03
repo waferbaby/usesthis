@@ -52,7 +52,7 @@ I'm pretty happy with what I have. But I do know that any setup I choose would n
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[texshop]: http://pages.uoregon.edu/koch/texshop/ "A TeX preview tool for the Mac."
+[texshop]: https://pages.uoregon.edu/koch/texshop/ "A TeX preview tool for the Mac."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
 [word]: https://products.office.com/en-us/word "A document editor."
 [yorufukurou]: https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."

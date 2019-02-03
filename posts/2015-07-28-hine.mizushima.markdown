@@ -49,7 +49,7 @@ And I wish I had more arms, like an octopus, so I could work faster!
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
-[super-low-tech-apple-watch]: http://www.hinemizushima.com/72050/6059931/felt-sculptures/(super-low-tech)-apple-watch "A felt watch."
+[super-low-tech-apple-watch]: https://www.hinemizushima.com/72050/6059931/felt-sculptures/(super-low-tech)-apple-watch "A felt watch."
 [final-cut-express]: https://en.wikipedia.org/wiki/Final_Cut_Express "A consumer-level video editing suite for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."

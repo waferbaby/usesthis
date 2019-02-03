@@ -62,7 +62,7 @@ With the memory bump on the Mac mini, I'm fairly close to an ideal situation com
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [cornerstone]: http://zennaware.com/cornerstone/ "A Subversion GUI for the Mac."
 [cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."
-[espresso]: http://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
+[espresso]: https://macrabbit.com/espresso/ "A single-window HTML/web tool for the Mac."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jquery]: http://jquery.com/ "A Javascript framework."

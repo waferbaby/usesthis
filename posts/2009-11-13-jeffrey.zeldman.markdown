@@ -66,7 +66,7 @@ I want for nothing -- except someone to cook for besides my daughter. ;)
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [snapz-pro-x]: https://www.ambrosiasw.com/utilities/snapzprox/ "A screenshot and screencast tool for Mac OS X."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [tweetie-ios]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."

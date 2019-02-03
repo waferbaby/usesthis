@@ -33,7 +33,7 @@ More analog music things. Right now I lean very heavily on software synths and e
 
 [c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
 [scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
-[tertial]: http://www.ikea.com/us/en/catalog/products/20370383/ "A desk lamp."
+[tertial]: https://www.ikea.com/us/en/catalog/products/20370383/ "A desk lamp."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."

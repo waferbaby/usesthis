@@ -47,7 +47,7 @@ To be honest, I'm pretty happy with my setup. As I said before, I'm thinking of 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
+[monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
 [olav-and-the-lute]: http://www.olavandthelute.com "A point and click adventure game."
 [partyrs]: http://www.partyrsgame.com "A mobile game where you have to make party guests happy."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

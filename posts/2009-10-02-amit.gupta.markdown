@@ -31,10 +31,10 @@ Most often, I use: [Mail.app][mail] [Mail.app][mail] [Mail.app][mail]. I also us
 
 Upgrade to an Intel 256 GB SSD, 30" LCD, another height-adjustable desk at the office, and hire a full-time, in office, personal assistant. That's all I've got on my wishlist. :)
 
-[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [af-nikkor-50mm-f1.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2137/AF-NIKKOR-50mm-f%252F1.8D.html "A lens for SLR cameras."
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
-[ath-anc7b]: http://www.audio-technica.com/cms/headphones/1c7efaa15727a938/index.html "Noise-cancelling headphones."
+[ath-anc7b]: https://www.audio-technica.com/cms/headphones/1c7efaa15727a938/index.html "Noise-cancelling headphones."
 [compass-597]: https://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6 "A USB device for EVDO access."
 [d70]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR/25214/D70.html "A 6.1 megapixel digital SLR camera."
 [flip-ultra-hd]: http://en.wikipedia.org/wiki/Flip_Video#Models "A compact HD video recorder."

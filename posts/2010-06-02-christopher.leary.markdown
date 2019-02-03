@@ -40,9 +40,9 @@ However, I would like to get a [UAD-2 Quad DSP card][uad-2-quad], so I can ditch
 
 Most of my current gear lust is related to mastering, as I'd like to have a few more outboard options rather than rely purely on making software adjustments via the mouse. More for ergonomics than anything else, as the busier the business is getting, the more I'm sat tweaking with a mouse. Music production and engineering is much more fun when you have engaging tactility with your instruments, and tweaking EQs and compressor are no different-I'd like to be able to use both hands! Get a bit more physicality involved in the process. So a couple of EQ units, a couple of compressors, high-quality analogue conversion, and a nice console to slot all this into would be nice. Saying all this, perhaps I should look into alternative input devices for my PC instead, while we wait for the cybernetic implants to turn up.
 
-[at4040]: http://www.audio-technica.com/cms/wired_mics/9b6aac05c5aca887/ "A condenser microphone."
+[at4040]: https://www.audio-technica.com/cms/wired_mics/9b6aac05c5aca887/ "A condenser microphone."
 [audiofire8]: https://www.amazon.com/Echo-AudioFire8-Firewire-Audio-Interface/dp/B000FTUQ6O "FireWire-based hardware device for recording audio."
-[evolver]: http://www.davesmithinstruments.com/products/med/ "A compact monophonic synthesizer."
+[evolver]: https://www.davesmithinstruments.com/products/med/ "A compact monophonic synthesizer."
 [express-xt]: http://www.motu.com/products/midi/xpressxt_usb/ "A MIDI interface."
 [magma-pci]: http://www.magma.com/catalog/classic-pci-expansion "An expansion system for adding new PCI/PCI-X cards."
 [micro-q-phoenix]: https://www.musicradar.com/reviews/tech/micro-q-phoenix-78927 "A synthesizer."

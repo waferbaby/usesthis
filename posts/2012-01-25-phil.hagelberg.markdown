@@ -63,5 +63,5 @@ In terms of hardware, I think I've got it barring things like head-mounted displ
 [scpaste]: https://github.com/technomancy/scpaste "An Emacs interface for pasting text over SSH."
 [swank-clojure]: https://github.com/technomancy/swank-clojure/ "A server for connecting SLIME to Clojure projects."
 [xbindkeys]: http://www.nongnu.org/xbindkeys/xbindkeys.html "A keyboard/mouse launcher tool for X11."
-[xmonad]: http://xmonad.org/ "A tiling window manager for X11."
-[znc]: http://wiki.znc.in/ZNC "An IRC bouncer."
+[xmonad]: https://xmonad.org/ "A tiling window manager for X11."
+[znc]: https://wiki.znc.in/ZNC "An IRC bouncer."

@@ -52,7 +52,7 @@ My dream setup would be a new MacBook Air, and a 4K external display. I'd also l
 
 I also dream of a good solution to let me transfer my handwritten notes seamlessly to a searchable digital format. I've tried a number of things (LiveScribe pens, photographing notes with Evernote, and lately the reMarkable tablet), but nothing so far does quite what I want.
 
-[advantage2]: https://www.kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
+[advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [kindle-oasis]: https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
 [lp3065]: https://www.amazon.com/HP-30-LP3065-LCD-Monitor/dp/B000KB6E3G "A 30 inch LCD monitor."
@@ -71,5 +71,5 @@ I also dream of a good solution to let me transfer my handwritten notes seamless
 [kap]: https://getkap.co/ "A screen capture tool."
 [rocket]: https://matthewpalmer.net/rocket/ "An emoji finder tool for the Mac."
 [ulysses]: http://www.ulyssesapp.com/ "A writing/text editor for the Mac."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

@@ -36,6 +36,6 @@ My dream setup would be truck or a maybe a blimp, boat or a mobile shipping cont
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [meteor]: https://www.meteor.com/ "A JavaScript framework/platform."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."
-[rails]: http://rubyonrails.org/ "A Ruby-based web framework."
+[rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."

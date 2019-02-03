@@ -89,7 +89,7 @@ I don't know what [CDZA's setup](https://www.youtube.com/watch?v=4Gks6-m99Ec "A 
 I also really love the freedom that comes with working out of my home but it would be really lovely if I didn't have to store all my recording gear & these 15+ ukuleles in my allotted closet. A short commute between my home and a studio space would be really nice for maintaining some kinda work-life separation, even if that means parking an Airstream in my yard & filling it with ukuleles.
 
 [3d-microphone-ta-1]: https://us.ricoh-imaging.com/index.php/accessories/theta-22/ta-1 "A 3D microphone for the Theta V."
-[at2035]: http://www.audio-technica.com/cms/wired_mics/cebb57a269d232ee/ "A cardioid microphone."
+[at2035]: https://www.audio-technica.com/cms/wired_mics/cebb57a269d232ee/ "A cardioid microphone."
 [clara]: https://www.blackbirdguitar.com/products/clara-concert-ukulele "A concert ukulele."
 [edwina-stereo]: http://www.eartrumpetlabs.com/products/microphones/edwina-stereo "A condenser microphone."
 [firefly]: https://www.magicfluke.com/Firefly-s/1514.htm "A banjo ukulele."
@@ -116,5 +116,5 @@ I also really love the freedom that comes with working out of my home but it wou
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [notability-ios]: https://itunes.apple.com/us/app/notability/id360593530 "A note-taking app."
-[piezo]: http://rogueamoeba.com/piezo/ "A recording app for the Mac."
+[piezo]: https://rogueamoeba.com/piezo/ "A recording app for the Mac."
 [twitch]: https://www.twitch.tv/ "A video broadcasting service."

@@ -46,7 +46,7 @@ I dream of having a Sonos in every room type system in my apartment (not in budg
 
 Ok that was a lot of text! If you've read it all, thank you, and also, I'm sorry, but mostly thank you. 💖💖💖
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [blackwidow-chroma]: https://www.amazon.com/Razer-BlackWidow-Chroma-Mechanical-Keyboard/dp/B00MTWV0II "A mechanical gaming keyboard."
 [hue]: https://www2.meethue.com/en-us/ "A wireless controllable LED light system."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
@@ -76,13 +76,13 @@ Ok that was a lot of text! If you've read it all, thank you, and also, I'm sorry
 [goodnotes-ios]: http://www.goodnotesapp.com "A handwritten note-taking app."
 [google-books]: https://books.google.com/ "A service for searching through indexed books."
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [next-meeting]: https://itunes.apple.com/us/app/next-meeting/id1017470484?mt=12 "A Mac menu bar tool for showing your next meeting."
 [patreon]: https://www.patreon.com/ "A service for offering patronage to people online."
-[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [plex]: https://plex.tv/ "Media center software."
 [quip]: https://quip.com/ "A mobile productivity suite."
 [signal-ios]: https://github.com/WhisperSystems/Signal-iOS "A private chat app."

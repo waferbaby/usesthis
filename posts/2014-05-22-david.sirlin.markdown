@@ -43,12 +43,12 @@ You know what else I need? A way to print out some damn cards. On real cardstock
 
 My dream setup also involves a version of Photoshop that can handle a 10,000 layer file without taking 30 mins to *save* and also new software designed specifically for me to layout complex card images such that I don't use any 10,000 layer Photoshop files to begin with.
 
-[34um95]: http://www.lg.com/id/monitor/lg-34UM95 "A 34 inch ultra-wide monitor."
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[34um95]: https://www.lg.com/id/monitor/lg-34UM95 "A 34 inch ultra-wide monitor."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [bluetooth-easy-switch-keyboard]: https://www.logitech.com/en-us/product/illuminated-keyboard-for-mac-ipad-iphone "A keyboard that works with both Macs and iOS devices, simultaneously."
 [color-laserjet-cp2025dn]: https://www.amazon.com/HP-CB495A-ABA-HP-CP2025DN-Color-LaserJet-Printer/dp/B001F0RI1I "A laser printer."
 [flash-duel]: http://www.sirlingames.com/pages/fd "A fighting card game."
-[g-drive]: http://www.g-technology.com/products/g-drive-professional-external-hard-drive "External hard disk storage."
+[g-drive]: https://www.g-technology.com/products/g-drive-professional-external-hard-drive "External hard disk storage."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-4]: https://en.wikipedia.org/wiki/IPad_(4th_generation) "A 9.7 inch iOS tablet."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."

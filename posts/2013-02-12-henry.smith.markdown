@@ -54,7 +54,7 @@ I've always wanted a graphics tablet but I've never been able to justify getting
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [spaceteam-ios]: https://itunes.apple.com/us/app/spaceteam/id570510529 "A party game where you shout instructions at your friends to save your ship."
 [testflight]: https://developer.apple.com/testflight/ "A service for managing testers of mobile apps in development."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [texturepacker]: https://www.codeandweb.com/texturepacker "A developer tool for building game sprite sheets."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tower]: https://www.git-tower.com/ "A Mac GUI for Git."

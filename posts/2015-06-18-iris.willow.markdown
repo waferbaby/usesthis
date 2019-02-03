@@ -39,7 +39,7 @@ If I'm dreaming big, I would also love to get a hydraulic press so I could easil
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[satellite-j-100]: http://www.seattlefindings.com/Satellite-J-100-Small-Kiln--Jewelry-Casting-Furnace-_p_2382.html "A jewlery kiln."
+[satellite-j-100]: https://www.seattlefindings.com/Satellite-J-100-Small-Kiln--Jewelry-Casting-Furnace-_p_2382.html "A jewlery kiln."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [gmail]: https://mail.google.com/mail/ "Web-based email."

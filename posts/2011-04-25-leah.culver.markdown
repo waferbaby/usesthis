@@ -69,7 +69,7 @@ In the more near future, I'd like to be able to develop iPhone apps directly on 
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [taxi-magic-ios]: https://itunes.apple.com/us/app/taxi-magic/id299226386 "A taxi booking app for iOS."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[typepad]: http://www.typepad.com/ "A weblog system."
+[typepad]: https://www.typepad.com/ "A weblog system."
 [uber-ios]: https://itunes.apple.com/us/app/uber/id368677368 "A premiere taxi booking app for iOS."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [yelp-ios]: https://itunes.apple.com/app/yelp/id284910350?mt=8 "An iPhone app for accessing Yelp reviews."

@@ -48,7 +48,7 @@ I'd like fewer machines. :-) But I should probably upgrade this crappy desktop. 
 [libvirt]: https://libvirt.org/ "A library for interacting with various OS' virtualisation capabilities."
 [livejournal]: https://www.livejournal.com/ "A journal and community site."
 [memcached]: http://memcached.org/ "A memory object caching system."
-[openid]: http://openid.net/ "A system for logging into one site using existing credentials elsewhere."
+[openid]: https://openid.net/ "A system for logging into one site using existing credentials elsewhere."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [tcpdump]: http://www.tcpdump.org/ "A command-line tool for analysing packets."

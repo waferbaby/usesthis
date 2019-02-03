@@ -43,7 +43,7 @@ Everything listed above but located in Hawaii - and maybe a pair of Bose headpho
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [audible-ios]: https://itunes.apple.com/us/app/audible/id379693831 "An app for the audio book service."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."

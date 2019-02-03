@@ -44,6 +44,6 @@ My dream set-up would be a completely transparent, weightless technology that tu
 [mediawiki]: https://www.mediawiki.org/wiki/MediaWiki "A PHP-based Wiki package."
 [miktex]: https://miktex.org/ "Typesetting software for Windows."
 [pocket-informant-android]: http://pocketinformant.com/products/informant-android/ "A calendar and GTD app."
-[sumatra-pdf]: http://www.sumatrapdfreader.org/free-pdf-reader.html "A PDF reader for Windows."
+[sumatra-pdf]: https://www.sumatrapdfreader.org/free-pdf-reader.html "A PDF reader for Windows."
 [winedt]: http://www.winedt.com/ "A LaTeX text editor for Windows."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

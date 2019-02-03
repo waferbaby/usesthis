@@ -34,7 +34,7 @@ My dream setup would be a collaborative physical computing environment, somethin
 This is a little more far-fetched, but I'd also love a Mac laptop that can run 3D games at 60fps.
 
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
-[jarvis-bamboo]: https://www.ergodepot.com/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
 [mobis-i]: https://store.focalupright.com/mobis-seat-p/ffs-1000.htm "An ergonomic chair."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
 [appear.in]: https://appear.in/ "A service for web-based video conferencing."

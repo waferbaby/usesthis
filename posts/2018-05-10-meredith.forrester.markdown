@@ -43,7 +43,7 @@ I'd have said goodbye to my Mac curse! Praise Jobs. My version of Acrobat wouldn
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
 [magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
-[mstand360]: http://www.raindesigninc.com/mstand360.html "A laptop stand."
+[mstand360]: https://www.raindesigninc.com/mstand360.html "A laptop stand."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [play-3]: https://www.sonos.com/en-us/shop/play3.html "Wireless speakers."
 [quietcomfort-25]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html "Noise-cancelling headphones."

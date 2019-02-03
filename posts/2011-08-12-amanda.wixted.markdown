@@ -55,6 +55,6 @@ I want a robot assistant that would do things for me like go to the bank, pick u
 [strategery-ios]: http://strategerygame.com/ "A world domination game for iOS."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [words-with-friends-ios]: https://itunes.apple.com/us/app/words-with-friends/id322852954 "A word game for the iPhone."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

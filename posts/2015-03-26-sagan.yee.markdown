@@ -69,7 +69,7 @@ The Ultimate Setup would be a dedicated studio space of some sort, with walls th
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [renpy]: https://www.renpy.org/ "An interactive story engine."
-[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[steam]: https://store.steampowered.com/ "A digital game distribution service."
 [stencyl]: http://www.stencyl.com/ "A GUI-based game creation system."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."

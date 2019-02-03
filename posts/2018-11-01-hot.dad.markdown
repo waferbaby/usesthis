@@ -31,8 +31,8 @@ Doing what I do the way I do it, I wear a LOT of hats (some I like, others not s
 
 A dream setup for me would involve _the option_ of delegating tasks like mixing/mastering to outside professionals when it felt right/necessary. Higher budgets would make that possible. As far as upgrades, I don't have any specific ones, but I have plenty of nebulous ones. I'd love some analog synths to play with, new and vintage, cheap and fancy, along with the capability to easily record a drum kit (I own a DW drum kit, but I never use it on my recordings because it's not convenient to record at the moment). Another set of studio monitors for A/B'ing mixes, and more microphones generally. More software plugins, naturally. And all of these expansions would need to be within reasonable limits since I don't want to end up with analysis paralysis regarding which random device I want to use when trying to get started on a fleeting idea. I think it's most important to _just do it_, even if it's not totally perfect (you can't edit/improve something that doesn't exist!), and without this philosophy, let's just say I never would have have finished much of anything. Sure, I have plenty of details I get neurotic about in every track, but that doesn't change the fact that it's totally fine that a lot of the time I just grab a preset and start quickly building those melodies while they're fresh in my mind. Maybe tweak them later, maybe not. Who knows!
 
-[apollo]: http://www.uaudio.com/interfaces/apollo.html "A Firewire/Thunderbolt audio interface."
-[ath-m50]: http://www.audio-technica.com/cms/headphones/0edf909675b1be4d/index.html "Studio headphones."
+[apollo]: https://www.uaudio.com:443/interfaces/apollo.html "A Firewire/Thunderbolt audio interface."
+[ath-m50]: https://www.audio-technica.com/cms/headphones/0edf909675b1be4d/index.html "Studio headphones."
 [core-i7-3770k]: https://ark.intel.com/products/65523/Intel-Core-i7-3770K-Processor-8M-Cache-up-to-3_90-GHz "A computer processor."
 [eos-rebel-t5i]: https://en.wikipedia.org/wiki/Canon_EOS_700D "An 18 megapixel DSLR."
 [jazz-chorus-jc-77]: https://reverb.com/p/roland-jazz-chorus-jc-77 "A guitar amp."

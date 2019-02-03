@@ -72,7 +72,7 @@ But as long as I can work with OSX I'm good. I could say that thinking about hav
 [soundtrack-pro]: https://en.wikipedia.org/wiki/Soundtrack_Pro "A Mac audio editor tailored for movies."
 [spaces]: https://en.wikipedia.org/wiki/Spaces_(software) "Virtual desktop software included with Mac OS X."
 [taskpaper]: http://www.hogbaysoftware.com/products/taskpaper "A simple task/to do list application for the Mac."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tm-git-bundle]: https://www.jamesconroyfinn.com/git-tmbundle/ "A bundle for TextMate to add Git support."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

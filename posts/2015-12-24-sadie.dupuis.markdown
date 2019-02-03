@@ -43,4 +43,4 @@ For making demos at home I still use [Garageband][]. Because I've been using it 
 [twin-reverb]: https://en.wikipedia.org/wiki/Fender_Twin#Fender_Twin_Reverb "A guitar amp."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

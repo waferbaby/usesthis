@@ -42,7 +42,7 @@ I covet the new 27" iMacs, in spite of their stupid glossy screens. And I'm goin
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [endicia]: https://www.endicia.com/segments/all-products/endicia-for-mac "Label, tracking and postage software."
-[filemaker-pro]: http://www.filemaker.com/products/filemaker-pro/ "A database application."
+[filemaker-pro]: https://www.filemaker.com/products/filemaker-pro/ "A database application."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [writeroom]: http://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."

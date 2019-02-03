@@ -46,7 +46,7 @@ A [remote](https://s-media-cache-ak0.pinimg.com/736x/84/bd/17/84bd1713e99bae43c5
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [sonaverse-o2]: https://www.gogroove.com/GOgroove-SonaWAVE-O2-USB-Powered-Computer-Speakers-with-Dual-Side-Firing-Passive-Woofers-pid9365 "USB-powered speakers."
-[standard-monitor-riser]: http://www.fellowes.com/us/en/Products/Pages/product-details.aspx?prod=US-91712 "A monitor stand."
+[standard-monitor-riser]: https://www.fellowes.com/us/en/Products/Pages/product-details.aspx?prod=US-91712 "A monitor stand."
 [verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."
 [centos]: https://www.centos.org/ "A Linux distribution."
 [crash]: https://people.redhat.com/anderson/crash_whitepaper/ "A tool for examining kernel crash logs."

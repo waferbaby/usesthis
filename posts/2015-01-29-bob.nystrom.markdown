@@ -73,7 +73,7 @@ I'm sublimely happy to just be on a couch with my Retina Mac and some headphones
 [henry-hatsworth-in-the-puzzling-adventure]: https://www.amazon.com/Henry-Hatsworth-Puzzling-Adventure-Nintendo-DS/dp/B001FS8BDE "A puzzle/platforming game for the DS."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [madden-nfl]: https://www.easports.com/madden-nfl "A computer game about football."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."

@@ -94,6 +94,6 @@ I'm also blowing enough money on [AWS][] clusters these days that it might be co
 [skyliner]: https://www.skyliner.io/ "An AWS deployment service."
 [sqlite]: http://www.sqlite.org/ "A self-contained database engine."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
-[vim]: http://www.vim.org/ "A command-line text editor."
-[xfce]: http://www.xfce.org/ "A lightweight UNIX-like desktop environment."
+[vim]: https://www.vim.org/ "A command-line text editor."
+[xfce]: https://www.xfce.org/ "A lightweight UNIX-like desktop environment."
 [xterm]: https://en.wikipedia.org/wiki/Xterm "Terminal software for the X Window System."

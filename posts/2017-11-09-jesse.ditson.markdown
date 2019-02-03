@@ -92,7 +92,7 @@ I've always fantasized about having an analog synth rig, and still may explore b
 
 [27mu88-w]: https://www.amazon.com/LG-Electronics-27MU88-W-27-Inch-LED-lit/dp/B01LG5RY74 "A 27 inch LED monitor."
 [apxt2]: https://usa.yamaha.com/products/musical_instruments/guitars_basses/ac_guitars/apx-t/index.html "A 3/4 electric acoustic guitar."
-[at2035]: http://www.audio-technica.com/cms/wired_mics/cebb57a269d232ee/ "A cardioid microphone."
+[at2035]: https://www.audio-technica.com/cms/wired_mics/cebb57a269d232ee/ "A cardioid microphone."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [eie-pro]: http://akaipro.com/products/recording/eie-pro "A USB audio interface."
 [hd-598]: https://en-us.sennheiser.com/audio-headphones-high-end-surround-sound-hd-598 "Over-the-ear headphones."
@@ -126,7 +126,7 @@ I've always fantasized about having an analog synth rig, and still may explore b
 [grafio-ios]: http://tentouchapps.com/grafio/ "A diagramming app."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [lottie]: https://airbnb.design/lottie/ "A library for rendering After Effects animations."
 [medium]: https://medium.com/ "A writing/blogging service."

@@ -51,7 +51,7 @@ My dream setup would be a old red train caboose set up on a short section of rai
 [cardwarden-ios]: https://itunes.apple.com/app/id596230297 "An app for importing and playing card games."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[game-icons]: http://game-icons.net/ "A collection of free game-themed icons."
+[game-icons]: https://game-icons.net/ "A collection of free game-themed icons."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [pandora]: http://www.pandora.com/ "A personalised Internet radio station."
 [the-noun-project]: https://thenounproject.com/ "A collection of icons representing nouns."

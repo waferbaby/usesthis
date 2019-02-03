@@ -40,7 +40,7 @@ For development:
 
 My dream setup is simple!! I have an adjustable standing / sitting desk. My office has AC and heat. The office has really high ceilings, there's a sky painted on the ceiling. The floor is fake grass. Outdoor ambience plays, and there's windchimes. The lighting makes it look like you're outside, and matches the time of day. There is a running stream for gentle thoughts, and a grotto for serious ideas!!
 
-[ath-m50]: http://www.audio-technica.com/cms/headphones/0edf909675b1be4d/index.html "Studio headphones."
+[ath-m50]: https://www.audio-technica.com/cms/headphones/0edf909675b1be4d/index.html "Studio headphones."
 [blackwidow-chroma]: https://www.amazon.com/Razer-BlackWidow-Chroma-Mechanical-Keyboard/dp/B00MTWV0II "A mechanical gaming keyboard."
 [earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."

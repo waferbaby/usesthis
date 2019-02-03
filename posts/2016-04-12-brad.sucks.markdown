@@ -32,7 +32,7 @@ I'm pretty content with what my setup can do right now. Mainly I'd like to stand
  
 Besides that? Access to every sample pack, every audio plugin, every type of instrument and microphone and unlimited UAD processing power. I want it all!
 
-[apollo-twin]: http://www.uaudio.com/interfaces/apollo-twin.html "A Thunderbolt audio interface."
+[apollo-twin]: https://www.uaudio.com:443/interfaces/apollo-twin.html "A Thunderbolt audio interface."
 [b20]: http://www.normanguitars.com/b20.html "An acoustic guitar."
 [blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
 [cms-65]: https://www.focal.com/usa/en/cms/166-cms-65.html "Monitor speakers."
@@ -48,7 +48,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [precision-bass]: http://www.fender.com/products/search.php?section=basses&bodyShape=Precision+Bass® "A bass guitar."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
 [quiet-pro-mac]: http://matias.ca/quietpro/mac/ "A quiet computer keyboard."
-[sgj]: http://www.gibson.com/Products/Electric-Guitars/SG/Gibson-USA/SGJ.aspx "An electric guitar."
+[sgj]: https://www.gibson.com/Products/Electric-Guitars/SG/Gibson-USA/SGJ.aspx "An electric guitar."
 [ts-251]: https://www.qnap.com/i/en/product/model.php?II=142 "A NAS device."
 [ultralite-mk3]: http://www.motu.com/products/motuaudio/ultralite-mk3 "An audio interface."
 [1073-preamp-and-eq]: https://www.uaudio.com/uad-plugins/equalizers/neve-1073-collection.html "A pre-amp audio plugin."
@@ -58,7 +58,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [komplete]: https://www.native-instruments.com/en/products/komplete/ "An instruments and sound effect collection."
 [la-2a]: http://www.uaudio.com/store/compressors-limiters/la-2a.html "An audio plugin that emulates the LA-2A levelling amp."
 [little-snitch]: https://www.obdev.at/products/littlesnitch/index.html "Mac firewall software for apps."
@@ -67,7 +67,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [monark]: https://www.native-instruments.com/en/products/komplete/synths/monark/ "A mono synth plugin."
 [mucommander]: http://www.mucommander.com/ "A dual-pane cross-platform file manager."
 [mysql]: https://www.mysql.com/ "A relational database server."
-[piezo]: http://rogueamoeba.com/piezo/ "A recording app for the Mac."
+[piezo]: https://rogueamoeba.com/piezo/ "A recording app for the Mac."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [spark]: https://www.macupdate.com/app/mac/14352/spark "A Mac OS X shortcut mananager."

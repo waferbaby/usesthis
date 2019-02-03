@@ -47,7 +47,7 @@ I would like to build my own green screen stage. A large green stage with a setu
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [particleillusion]: https://en.wikipedia.org/wiki/ParticleIllusion "Particle-based visual effects rendering software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[poser-pro]: http://my.smithmicro.com/poser-pro-11.html "3D character rendering software."
+[poser-pro]: https://my.smithmicro.com/poser-pro-11.html "3D character rendering software."
 [soundtrack-pro]: https://en.wikipedia.org/wiki/Soundtrack_Pro "A Mac audio editor tailored for movies."
 [trapcode-form]: https://www.redgiant.com/products/trapcode-form/ "A plugin for After Effects."
 [trapcode-horizon]: https://www.redgiant.com/products/trapcode-horizon/ "A sky generating plugin for After Effects."

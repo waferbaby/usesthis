@@ -48,7 +48,7 @@ Can you imagine carrying such a thing as your only machine? Alternatively when y
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[realm-of-the-mad-god]: http://www.realmofthemadgod.com/ "A co-op MMO shooter game."
+[realm-of-the-mad-god]: https://www.realmofthemadgod.com/ "A co-op MMO shooter game."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [steambirds-survival]: http://spryfox.com/our-games/steambirds-survival/ "A turn-based aerial combat game."
 [triple-town]: http://spryfox.com/our-games/tripletown/ "A three-matching city-building puzzle game."

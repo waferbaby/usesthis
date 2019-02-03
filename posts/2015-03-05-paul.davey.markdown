@@ -32,7 +32,7 @@ On [iOS][], I use [Drafts][drafts-ios] to capture ideas. It's earned prime real 
 
 The Kangaroo Pro was me dipping my toe into the standing desk pool. Now that I'm *standing* in it, I'd like a larger, more stable sit-stand desk. Other than that and my tiny Cintiq, I'm pretty happy with my set up. I suppose I should get a proper drawing table, and I will eventually, but I just don't draw on paper that much anymore.
 
-[bekant]: http://www.ikea.com/us/en/catalog/products/S19022530/ "A desk."
+[bekant]: https://www.ikea.com/us/en/catalog/products/S19022530/ "A desk."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [kangaroo-pro]: https://www.ergodesktop.com/content/kangaroo-pro "An adjustable height desk."
@@ -42,11 +42,11 @@ The Kangaroo Pro was me dipping my toe into the standing desk pool. Now that I'm
 [ultrasharp-u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
 [breaktime]: https://itunes.apple.com/us/app/breaktime/id427475982 "A Mac tool that reminds you to take regular breaks.."
 [drafts-ios]: https://agiletortoise.com/drafts/ "A note taking app."
-[earthnight]: http://www.cleaversoft.com/ "An endless runner video game."
+[earthnight]: https://www.cleaversoft.com/ "An endless runner video game."
 [editorial-ios]: http://omz-software.com/editorial/ "A Markdown-powered text app."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[manga-studio]: http://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
+[manga-studio]: https://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

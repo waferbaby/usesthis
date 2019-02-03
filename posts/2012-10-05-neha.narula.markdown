@@ -52,7 +52,7 @@ I wish that apps worked better together on my iPad. I like the Android way that 
 
 I also want a non-crippled home media system that is clean, simple, and beautiful. The idea that hardware providers have to make deals with services that I order and pay for is ridiculous (it's even worse when they try to charge me for the pleasure; [Xbox Live][xbox-live] I'm looking at you). If I have a [Netflix][] account, it should just work on everything.
 
-[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [aspire-revo]: https://en.wikipedia.org/wiki/Acer_Aspire_Revo "A 'nettop' PC."
 [cm5]: http://www.bowers-wilkins.com/Speakers/Home_Audio/CM_Series/CM5.html "Speakers."
 [dac25.2]: https://www.stereophile.com/digitalprocessors/music_hall_dac252_da_processor "A DAC."
@@ -77,7 +77,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [git]: https://git-scm.com/ "A version control system."
 [hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
 [ipython]: http://ipython.org/ "An interactive shell for Python."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [mail-ios]: https://www.apple.com/ios/ios-10/ "A mail client included with iOS."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."

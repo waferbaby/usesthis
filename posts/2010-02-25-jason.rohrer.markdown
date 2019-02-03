@@ -47,7 +47,7 @@ On Windows, I've also made some of my games (my small, 1-week "sketches") using 
 Dream setup? This is it!
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[inspiron-4100]: http://www.zdnet.com/dell-inspiron-4100-3010000050/ "An old PC laptop."
+[inspiron-4100]: https://www.zdnet.com/dell-inspiron-4100-3010000050/ "An old PC laptop."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [powertower-pro-250]: http://www.everymac.com/systems/powercc/powertower_pro/powertower_pro250.html "A PowerPC-based Mac clone."

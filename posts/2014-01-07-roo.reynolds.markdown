@@ -50,7 +50,7 @@ That said, I really wouldn't say no to a comfortable sunny room with a sea view,
 [playing-cards]: https://www.amazon.co.uk/Playing-cards-blank-both-sides/dp/B001E1E6UE "A set of blank playing cards."
 [rapidograph]: https://www.amazon.com/Rotring-Rapidograph-Technical-Drawing-S0203070/dp/B000KTD1WK/ "A pen."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[tikky-graphic]: http://www.rotring.com/en/24-tikky-graphic/24-Graphic-Tikky-fineliner-pen "A pen."
+[tikky-graphic]: https://www.rotring.com/en/24-tikky-graphic/24-Graphic-Tikky-fineliner-pen "A pen."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [gmail]: https://mail.google.com/mail/ "Web-based email."

@@ -76,7 +76,7 @@ A fast bike, no traffic, no headwind, a bonfire from salvaged alley wood, one or
 [reeder-ios]: http://reederapp.com/ios/ "A Google Reader client for iOS."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
-[soulver-ios]: http://www.acqualia.com/soulver/iphone/ "An app that's a cross between a spreadsheet and a calculator."
+[soulver-ios]: https://www.acqualia.com/soulver/iphone/ "An app that's a cross between a spreadsheet and a calculator."
 [spamsieve]: https://c-command.com/spamsieve/ "Bayesian spam filtering for Mac mail clients."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [verbs-ios]: http://verbs.im/ "A multi-protocol IM app."

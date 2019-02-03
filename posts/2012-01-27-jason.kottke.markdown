@@ -49,5 +49,5 @@ Bigger monitor. I've been eyeing the 27-inch Cinema Display but can't quite just
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."

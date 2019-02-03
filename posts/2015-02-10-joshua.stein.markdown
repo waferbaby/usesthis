@@ -73,7 +73,7 @@ I'm pretty close to it with the newer MacBook Air's battery life, light weight, 
 [self-destructing-cookies]: https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/ "A Firefox extension for nuking cookies when you close a site's tab."
 [tamper-data]: https://addons.mozilla.org/en-US/firefox/addon/tamper-data/ "A Firefox extension for viewing and changing HTTP/HTTPS requests."
 [the-nerd-tree]: https://github.com/scrooloose/nerdtree "A vim plugin for browsing files and directories."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [xombrero]: https://github.com/conformal/xombrero "A minimalist web browser."

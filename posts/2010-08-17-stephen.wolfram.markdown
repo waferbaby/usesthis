@@ -58,4 +58,4 @@ Mathematica + Wolfram\|Alpha everywhere! Laptops that switch on and get connecte
 [mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
 [webmathematica]: http://www.wolfram.com/products/webmathematica/ "Dynamic Mathematica web content."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[wolfram-alpha]: http://www.wolframalpha.com/ "An online knowledge engine."
+[wolfram-alpha]: https://www.wolframalpha.com/ "An online knowledge engine."

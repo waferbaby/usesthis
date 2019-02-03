@@ -55,7 +55,7 @@ My dream setup would be to have both a quiet studio overlooking a foggy beach, a
 [atom]: https://atom.io/ "A text editor based on web technology."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flinto]: https://www.flinto.com/mac "App prototyping software for the Mac."
-[fontexplorer-x]: http://www.fontexplorerx.com/ "Font management software."
+[fontexplorer-x]: https://www.fontexplorerx.com/ "Font management software."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [harvest]: https://www.getharvest.com/ "A time-tracking and invoice web service."
 [hockeyapp]: https://hockeyapp.net/ "A mobile app testing and analytics service."

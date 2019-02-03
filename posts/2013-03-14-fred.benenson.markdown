@@ -57,4 +57,4 @@ Other than that, I'm pretty happy with my current setup.
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

@@ -50,7 +50,7 @@ Other things and technology: a circle saw, a jigsaw, a router, a [wide-format Pi
 I used to operate my business out of a 3' x 5' crawl space above my closet. Then I moved my company to a walk-in storage locker. But I JUST moved into my first-ever office at the co-working space, [Coworkrs](http://cowork.rs/ "A coworking space in New York."). Although I can't really work on large projects here (it's a 6' x 7' room), I can run my entire helmet operation, and I'm surrounded by tech companies and startups with great energy. And luckily, it's a 10-minute bike ride from where I live - so this is totally a dream situation!
 
 [22400]: https://www.amazon.com/Vaper-22400-Heat-Gun/dp/B003ELVNCQ "A heat gun."
-[3doodler]: http://the3doodler.com/ "A 3D printer pen."
+[3doodler]: https://the3doodler.com/ "A 3D printer pen."
 [deep-creep]: http://seafoamsales.com/deep-creep/ "A penetrating lubricant."
 [diwire]: https://www.pensalabs.com/ "A desktop wire bending machine."
 [google-glass]: http://www.google.com/glass/start/ "Wearable computing eyeware."
@@ -63,7 +63,7 @@ I used to operate my business out of a 3' x 5' crawl space above my closet. Then
 [pico]: http://www.supertalent.com/products/stt_usb_detail.php?type=Pico "A physically tiny USB drive."
 [pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
-[spike]: http://www.ikegps.com/spike/ "A laser measuring/mapping accessory for smartphones."
+[spike]: https://www.ikegps.com/spike/ "A laser measuring/mapping accessory for smartphones."
 [stylus-pro-7890]: https://www.epson.com/cgi-bin/Store/jsp/Pro/SeriesStylusPro78909890/Overview.do "A wide format printer."
 [urban-200]: https://www.amazon.com/Light-Motion-Urban-Lumens-Bike/dp/B008KKNOX2 "Bike lights."
 [zap-a-gap-c-plus]: http://www.supergluecorp.com/zap/zap-glues/zap-gap "A gap-filling glue."
@@ -93,7 +93,7 @@ I used to operate my business out of a 3' x 5' crawl space above my closet. Then
 [shopify]: https://www.shopify.com/ "A service for selling goods online."
 [spinlister]: https://www.spinlister.com/ "A bike-sharing service."
 [square]: https://squareup.com/ "A software and hardware solution for processing credit cards."
-[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[steam]: https://store.steampowered.com/ "A digital game distribution service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tumblr-ios]: https://itunes.apple.com/us/app/tumblr/id305343404 "A Tumblr client app."
 [twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."

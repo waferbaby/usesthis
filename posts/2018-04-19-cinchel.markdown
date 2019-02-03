@@ -64,7 +64,7 @@ Infinite time and space. Like, I want to live forever and be able to go/be anywh
 [pocket-piano]: http://www.critterandguitari.com/products/pocket-piano/ "A little synth."
 [portastudio-414]: https://en.wikipedia.org/wiki/Portastudio "A 4-track recorder."
 [re-201]: https://en.wikipedia.org/wiki/Roland_RE-201 "An audio delay effects unit."
-[replica]: http://www.t-rex-effects.com/replica "A guitar pedal."
+[replica]: https://www.t-rex-effects.com/replica "A guitar pedal."
 [rhodes]: https://en.wikipedia.org/wiki/Rhodes_piano "An electric piano"
 [scarlett-6i6]: https://us.focusrite.com/usb-audio-interfaces/scarlett-6i6 "A USB audio interface."
 [the-depths]: https://www.earthquakerdevices.com/the-depths "A guitar pedal."

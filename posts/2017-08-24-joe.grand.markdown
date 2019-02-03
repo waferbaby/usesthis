@@ -46,8 +46,8 @@ For [video demonstrations](https://www.youtube.com/user/kingpinempire "Joe's vid
 
 I've always wanted to have some sort of underground secret laboratory. I'm completely happy with the resources I have above ground, but a subterranean lair would be awesome.
 
-[287]: http://en-us.fluke.com/products/digital-multimeters/fluke-287-digital-multimeter.html "A digital multimeter."
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[287]: https://en-us.fluke.com/products/digital-multimeters/fluke-287-digital-multimeter.html "A digital multimeter."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [basic-stamp]: https://www.parallax.com/microcontrollers/basic-stamp "A hackable microcontroller."
 [beagleboard]: http://beagleboard.org/ "An open development hardware board."
 [bus-blaster]: http://dangerousprototypes.com/docs/Bus_Blaster "A circuit board debugging tool."
@@ -68,7 +68,7 @@ I've always wanted to have some sort of underground secret laboratory. I'm compl
 [superpro-501s]: http://www.xeltek.com/refurbished-programmers/superpro-501s-universal-ic-chip-device-programmer-clone-en/ "A chip device programmer."
 [thing-o-matic]: https://www.makerbot.com/blog/2010/09/25/announcing-makerbots-new-3d-printer-the-thing-o-matic/ "A 3D printer."
 [wha900]: http://www.weller-toolsus.com/weller-wha900-station-hot-air-w-pump-650w-120v.html "A hot air station."
-[altium-designer]: http://www.altium.com/altium-designer/overview "PCB/schematic capture design software."
+[altium-designer]: https://www.altium.com/altium-designer/overview "PCB/schematic capture design software."
 [beyond-compare]: http://www.scootersoftware.com/features.php "File and folder comparison and syncing software for Windows."
 [codewarrior]: https://en.wikipedia.org/wiki/CodeWarrior "A development IDE primarily for embedded systems."
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."

@@ -35,7 +35,7 @@ Ideal setup - I think I've pretty much got my writing workflow sorted, though I'
 
 Otherwise, just give me more hours in the day to do more research and write please!
 
-[atr2100-usb]: http://www.audio-technica.com/cms/wired_mics/b8dd84773f83092c/ "A USB-based microphone."
+[atr2100-usb]: https://www.audio-technica.com/cms/wired_mics/b8dd84773f83092c/ "A USB-based microphone."
 [beta-87a]: http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone "A condenser microphone."
 [ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."

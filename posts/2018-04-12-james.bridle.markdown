@@ -47,7 +47,7 @@ Unlimited, free/cheap, high-bandwidth connection. Everything else follows from t
 [github]: https://github.com/ "A Git code repository service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[jupyter]: http://jupyter.org/ "Web-based live document software."
+[jupyter]: https://jupyter.org/ "Web-based live document software."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

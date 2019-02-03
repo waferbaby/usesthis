@@ -39,7 +39,7 @@ My wife and I are patching up an office in the attic, and as soon as it's done, 
 
 [precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [mark-of-the-ninja]: https://www.kleientertainment.com/games/mark-ninja "A sneaking platformer ninja game."

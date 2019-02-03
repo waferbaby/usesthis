@@ -94,7 +94,7 @@ I'm lucky to almost have it, actually. Perhaps a large screen at home too, in a 
 
 I often end up working in all kinds of spaces - in fact cafes and trains are probably the most productive spaces, so it's odd to focus on designing particular spaces, but I'd love to get home and office and studio working together better than the do. The cloud is beginning to be a reality, from a workflow point of view, and that enables a fluidity which is very appealing.
 
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [cyber-shot-dsc-rx100]: https://www.amazon.com/Sony-DSC-RX100-Sensor-Digital-Camera/dp/B00889ST2G "A 20.2 megapixel digital camera."
 [e-p1]: http://www.olympusamerica.com/cpg_section/cpg_archived_product_details.asp?id=1461&fl=2 "A 12.3 megapixel Micro Four Thirds camera."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
@@ -137,8 +137,8 @@ I often end up working in all kinds of spaces - in fact cafes and trains are pro
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[typepad]: http://www.typepad.com/ "A weblog system."
-[utorrent]: http://www.utorrent.com/ "A BitTorrent client."
+[typepad]: https://www.typepad.com/ "A weblog system."
+[utorrent]: https://www.utorrent.com/ "A BitTorrent client."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [word]: https://products.office.com/en-us/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

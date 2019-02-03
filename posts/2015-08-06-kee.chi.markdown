@@ -34,7 +34,7 @@ My dream setup is really less hardware and more software. And by software I mean
 
 That, and a lint-resistant mouse wheel. How does one even clean that?
 
-[geforce-gtx-550-ti]: http://www.nvidia.com/object/product-geforce-gtx-560ti-gtx-550ti-us.html "A video card."
+[geforce-gtx-550-ti]: https://www.nvidia.com/object/product-geforce-gtx-560ti-gtx-550ti-us.html "A video card."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

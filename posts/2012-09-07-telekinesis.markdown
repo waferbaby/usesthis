@@ -66,8 +66,8 @@ As I've mentioned, I absolutely love recording on tape. Unfortunately, it's just
 
 I have also had this crazy dream idea of creating a tiny little studio in a vintage Airstream trailer. Not sure how that'd work out, but I think it'd be so cool to have a mobile or stagnant studio. Like, you could take it camping, and write and record whilst out camping. That sounds pretty dreamy.
 
-[424-mkii]: http://homerecording.com/tas424.html "A portable recorder/mixer."
-[apollo]: http://www.uaudio.com/interfaces/apollo.html "A Firewire/Thunderbolt audio interface."
+[424-mkii]: https://homerecording.com/tas424.html "A portable recorder/mixer."
+[apollo]: https://www.uaudio.com:443/interfaces/apollo.html "A Firewire/Thunderbolt audio interface."
 [beta-52a]: http://www.shure.com/americas/products/microphones/beta/beta-52a-kick-drum-microphone "A kick drum microphone."
 [bm5a-mkii]: https://www.amazon.com/Dynaudio-BM5A-mkII-Channel-Monitor/dp/B0050SNCPM "Studio speakers."
 [casino]: http://www.epiphone.com/products/electrics/archtop/casino.aspx "An electric guitar."
@@ -95,5 +95,5 @@ I have also had this crazy dream idea of creating a tiny little studio in a vint
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [m3000-ios]: https://itunes.apple.com/us/app/mellotronics-m3000-for-ipad/id375100093 "An app that recreates the M3000 tape replay instrument."
 [pro-eq]: http://www.uaudio.com/store/equalizers/pultec-pro.html "An audio plugin that emulates the MEQ-5 and EQP-1A equalizers."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [time-cube]: http://www.uaudio.com/store/delay-modulation/cooper-time-cube.html "An audio plugin that emulates the Time Cube audio delay."

@@ -82,5 +82,5 @@ A world where everyone enjoys programming.
 [mlterm]: http://mlterm.sourceforge.net/ "A multi-lingual terminal for X11."
 [ocaml]: http://caml.inria.fr/ocaml/index.en.html "An object-oriented version of the Caml programming language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
-[scala]: http://www.scala-lang.org/ "A compiled programming language."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[scala]: https://www.scala-lang.org/ "A compiled programming language."
+[vim]: https://www.vim.org/ "A command-line text editor."

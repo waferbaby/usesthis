@@ -47,5 +47,5 @@ I'd like to know more about more practical effects and construction. A big space
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [quartz-composer]: https://en.wikipedia.org/wiki/Quartz_Composer "A visual programming environment."
-[vdmx]: http://vidvox.net/ "Real-time video studio software for the Mac."
+[vdmx]: https://vidvox.net/ "Real-time video studio software for the Mac."
 [watchout]: https://www.dataton.com/watchout "A media server."

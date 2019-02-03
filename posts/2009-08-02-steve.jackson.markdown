@@ -57,7 +57,7 @@ I also want:
 [age-of-empires]: https://en.wikipedia.org/wiki/Age_of_Empires "An RTS game spanning 10,000 years of history."
 [appleworks]: https://en.wikipedia.org/wiki/AppleWorks "An old office suite for the Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
-[filemaker-pro]: http://www.filemaker.com/products/filemaker-pro/ "A database application."
+[filemaker-pro]: https://www.filemaker.com/products/filemaker-pro/ "A database application."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."

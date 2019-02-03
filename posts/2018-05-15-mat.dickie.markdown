@@ -28,7 +28,7 @@ The software I use isn't necessarily the best there is. They're mainly old progr
 
 I'm fortunate enough to be able to turn my dreams into reality, so I have my own studio in my own house and whatever technology I feel would be useful. I'm something of a minimalist with it, though, so my office is very streamlined and tidy to keep my mind clear. My garage is where all the old laptops go to die! I try to keep them all just in case there's the occasional file that I wish I still had access to. I only have problems when I leave my bubble. I just wish countries like China had a truly free internet, as it's tiresome to navigate around everything being blocked or censored. It's one of the reasons I don't live there anymore.
 
-[galaxy-s-ii]: http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [model-x]: https://en.wikipedia.org/wiki/Tesla_Model_X "An electric car."
 [surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
@@ -38,5 +38,5 @@ I'm fortunate enough to be able to turn my dreams into reality, so I have my own
 [paint.net]: https://www.getpaint.net/index.html "An image editor for Windows."
 [painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[wavepad]: http://www.nch.com.au/wavepad/index.html "Audio editing software for the Mac."
+[wavepad]: https://www.nch.com.au/wavepad/index.html "Audio editing software for the Mac."
 [wrestling-revolution-3d-android]: https://play.google.com/store/apps/details?id=air.WR3DFree "A wrestling game."

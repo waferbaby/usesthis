@@ -38,7 +38,7 @@ For my stereo, my dream set-up would be a nice NAD integrated amp, a good D/A co
 [icon-udac-2]: https://www.amazon.com/ICON-UDAC2-BLACK-Headphone-Amplifier-Discontinued-Manufacturer/dp/B003Y5FRNS "A USB digital audio converter."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[porta-pro]: http://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone "On-ear headphones."
+[porta-pro]: https://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone "On-ear headphones."
 [sl-1200]: https://en.wikipedia.org/wiki/Technics_SL-1200 "A turntable."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."

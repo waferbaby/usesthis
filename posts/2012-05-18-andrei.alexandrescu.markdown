@@ -81,7 +81,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 [goo.gl-url-shortener]: https://chrome.google.com/webstore/detail/googl-url-shortener/iblijlcdoidgdpfknkckljiocdbnlagk "A Chrome extension to shorten URLs with the goo.gl service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hive]: http://hive.apache.org/ "A tool for working with Hadoop systems."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [meld]: http://meldmerge.org/ "A visual diff/merge tool."

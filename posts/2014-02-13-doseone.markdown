@@ -58,7 +58,7 @@ All inside a solid glass studio within a ten ton shark tank, which has a Four Ba
 [sk-1]: https://en.wikipedia.org/wiki/Casio_SK-1 "A 32 key synthesizer."
 [sp-202-dr-sample]: http://www.vintagesynth.com/roland/sp202.php "An audio sampler."
 [sp-303-dr-sample]: http://www.bossus.com/gear/productdetails.php?ProductId=174 "An audio sampler."
-[tetra]: http://www.davesmithinstruments.com/products/tetra/ "A synthesiser module."
+[tetra]: https://www.davesmithinstruments.com/products/tetra/ "A synthesiser module."
 [tlm-103]: http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm103_description "A studio microphone."
 [glitchds]: http://www.glitchds.com/ "A synthesiser for the Nintendo DS."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

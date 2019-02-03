@@ -50,7 +50,7 @@ Honestly? I don't have much in the way of wants. I suppose all the basic upgrade
 
 Basically, my dream setup is that we, writers/critics/artists, don't have to struggle under the weight of capitalism all the time and have some freedom to do what we want to do, explore more avenues of creation & maintenance, and engage with our communities safely and enthusiastically.
 
-[g502]: http://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502]: https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [g933]: https://www.logitechg.com/en-us/products/gaming-audio/g933-7-1-surround-sound-gaming-headset.html#981-000585 "A gaming headset."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/ "A graphics card."
 [pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
@@ -68,7 +68,7 @@ Basically, my dream setup is that we, writers/critics/artists, don't have to str
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
-[pyxel-edit]: http://pyxeledit.com/ "Pixel art software."
+[pyxel-edit]: https://pyxeledit.com/ "Pixel art software."
 [slack]: https://slack.com/ "A collaboration service."
 [space-wolf-tango]: https://videodante.itch.io/space-wolf-tango "A space-themed game of introspection."
 [trello]: https://trello.com/ "A project management service."

@@ -57,7 +57,7 @@ Syncing the desktop & laptop is still a pain, even with [Dropbox][] and shared [
 [sr60i]: https://www.amazon.com/Grado-Prestige-Headphones-Discontinued-Manufacturer/dp/B0006DPMU4 "Headphones."
 [zeppelin-air]: http://www.bowers-wilkins.com/Wireless-Music-Systems/Wireless-Music-Systems/Zeppelin-Air/explore.html "A wireless AirPlay speaker and dock."
 [accessorizer]: http://www.kevincallahan.org/software/accessorizer.html "A generator helper application for XCode."
-[airfoil]: http://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
+[airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
 [carousel]: https://www.macworld.com/article/1159826/photography/carousel-instagram-os-x.html "An Instagram client for Mac OS X."
 [coderunner]: https://coderunnerapp.com "A code editor and testing app for Mac OS X."
 [django]: https://www.djangoproject.com/ "A Python-based web framework."

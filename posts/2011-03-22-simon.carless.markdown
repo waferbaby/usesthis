@@ -94,7 +94,7 @@ Similarly, people you're playing against on one of the three or four different s
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [helsings-fire-ios]: https://itunes.apple.com/us/app/helsings-fire/id380290526 "A clever puzzle game."
-[irfanview]: http://www.irfanview.com/ "An image viewer/editor for Windows."
+[irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [kometen-ios]: https://itunes.apple.com/us/app/kometen/id371244586 "A game about riding a comet."
 [mog]: https://en.wikipedia.org/wiki/MOG_(online_music) "A music streaming service."

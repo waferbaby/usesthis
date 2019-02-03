@@ -40,7 +40,7 @@ My ideal knitting needles are a non-existent hybrid of KnitPicks, Addi Turbo, an
 
 Oh, and of course 100% recycled acrylic yarn in every weight and color.
 
-[2400]: http://www.aboutknittingmachines.com/TOYOTAKnittingMachines.php "A knitting machine."
+[2400]: http://www.aboutknittingmachines.com/bWVMn/TOYOTAKnittingMachines.php "A knitting machine."
 [carbonized-patina-9-inch-double-point]: https://www.amazon.com/Stanwood-Needlecraft-Carbonized-Knitting-Needles/dp/B000OPEEGW "A set of bamboo knitting needles."
 [ck35]: http://goodeys.tripod.com/goodeysknittingroom/id39.html "A commercial knitting machine."
 [click]: http://www.skacelknitting.com/s.nl/sc.2/category.19664/.f "A set of interchangeable circle knitting needles."
@@ -55,7 +55,7 @@ Oh, and of course 100% recycled acrylic yarn in every weight and color.
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [pm10]: https://www.youtube.com/watch?v=gBCz7ZRGfcQ "A punch card machine."
 [powershot-sx200is]: https://www.amazon.com/Canon-PowerShot-SX200IS-Stabilized-Black/dp/B001SER45Q/ "A 12 megapixel point and shoot digital camera."
-[takumi]: http://www.clover-usa.com/c/takumi-bamboo-knitting-needles_takumi-needles "A group of knitting needles."
+[takumi]: https://www.clover-usa.com/c/takumi-bamboo-knitting-needles_takumi-needles "A group of knitting needles."
 [ultimate-sweater-machine]: http://www.bond-america.com/products/usm.html "A knitting machine."
 [yarn-ball-winder-mo17]: https://www.amazon.com/Lacis-Yarn-Ball-Winder-MO17/dp/B000WV5ZJS "A yarn ball winder."
 [amazon-prime]: https://en.wikipedia.org/wiki/Amazon.com#Amazon_Prime "A membership service for Amazon."
@@ -68,7 +68,7 @@ Oh, and of course 100% recycled acrylic yarn in every weight and color.
 [hbo-go]: https://en.wikipedia.org/wiki/HBO#HBO_Go "A streaming service for the HBO network."
 [hootsuite]: https://hootsuite.com/ "A social media management service."
 [hulu]: https://www.hulu.com/ "A TV streaming service."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [iconosquare]: https://pro.iconosquare.com/ "An analytics service for Instagram."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."

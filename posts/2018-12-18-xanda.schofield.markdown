@@ -69,7 +69,7 @@ Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lect
 [sharelatex]: https://www.sharelatex.com/ "A web-based collaborative LaTeX editor."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [zotero]: https://www.zotero.org/ "A research tool."

@@ -46,8 +46,8 @@ Finally: [Python][] is just the bomb. I've been doing a lot of GUIs for [fun and
 
 Probably something like dual Apple [Cinema Displays][cinema-display], or even 42-inch plasma monitors. My own personal laser cutter. My presbyopia is getting worse while SMD chips are getting smaller and smaller, one of these days I'm going to get a pair of [these surgical telescopes][standard-field-telescopes]. Oh, even though my posture is decades away from being salvageable, a nice chair. Programmers like nice chairs.
 
-[179]: http://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[179]: https://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [beagleboard]: http://beagleboard.org/ "An open development hardware board."
 [chumby]: http://www.chumby.com/ "A little device that runs Flash applications."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."

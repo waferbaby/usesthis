@@ -47,7 +47,7 @@ I'd love to have more smart appliances with hackable or open operating systems. 
 
 The "Open Source Kitchen" is a dream of mine since forever. For this to happen we have to develop apps and tools (hard- and software) that aren't guarded by jealous, closed, technologies and providers. We'll get there but it's slow.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [edge]: https://www.amazon.com/Chef-Pak-Fully-Loaded-9-Piece/dp/B003WAFJEM "A backpack for chefs."
 [eee-pad-transformer-tf101]: https://www.pcmag.com/article2/0,2817,2383976,00.asp "An Android-based tablet/laptop."
@@ -57,7 +57,7 @@ The "Open Source Kitchen" is a dream of mine since forever. For this to happen w
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [sugru]: https://sugru.com/ "A self-setting rubber."
 [arch-linux]: https://www.archlinux.org/ "A Linux distro."
-[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [edge-inspect]: https://creative.adobe.com/products/inspect "A cross-browser testing service"
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [git]: https://git-scm.com/ "A version control system."
@@ -67,5 +67,5 @@ The "Open Source Kitchen" is a dream of mine since forever. For this to happen w
 [jekyll]: https://jekyllrb.com/ "A static site generator."
 [redis]: https://redis.io/ "A key-value data store and more."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

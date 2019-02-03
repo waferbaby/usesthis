@@ -115,7 +115,7 @@ I'd be sitting in some sort of zero gravity chair for minimal stress on the body
 [fuzzyautocomplete]: https://github.com/FuzzyAutocomplete/FuzzyAutocompletePlugin "An autocomplete plugin for Xcode."
 [git]: https://git-scm.com/ "A version control system."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."
 [mydr-go]: https://mydrgo.com.au/ "A telemedical service."
 [notion]: https://www.notion.so/ "A collaborative wiki service."

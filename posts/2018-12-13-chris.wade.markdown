@@ -37,7 +37,7 @@ Everything Else:
 
 I'm really happy with my standing desk desktop and laptop setup, but it would be nice to be within walking distance of a dog park or nature park. A lot of the really hard design and programming work happens away from computers, so having to drive somewhere for a relaxing walk is annoying. Also, I do my best work in a co-working environment with at least a few groups of people working on different projects. That sort of space can be distracting, but having people around with different perspectives to bounce ideas off and test prototypes with is well worth it.
 
-[bekant]: http://www.ikea.com/us/en/catalog/products/S19022530/ "A desk."
+[bekant]: https://www.ikea.com/us/en/catalog/products/S19022530/ "A desk."
 [blade]: https://www.razer.com/gaming-laptops/razer-blade "A thin gaming PC laptop."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/ "A graphics card."
 [intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."

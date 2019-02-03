@@ -68,4 +68,4 @@ I'm waiting patiently for cheap, flexible displays that feel just like paper, in
 [rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."

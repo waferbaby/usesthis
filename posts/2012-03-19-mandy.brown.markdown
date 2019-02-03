@@ -72,7 +72,7 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textexpander]: https://smilesoftware.com/textexpander "A Mac app for adding custom abbreviations for often-used text."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [typekit]: https://typekit.com/ "A service for web fonts."

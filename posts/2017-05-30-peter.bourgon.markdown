@@ -46,7 +46,7 @@ With that said, I'd love to have a laptop that was a little lighter and thinner 
 [go]: https://golang.org/ "A compiled programming language."
 [homebrew-cask]: https://github.com/caskroom/homebrew-cask "A command-line tool for installing Mac applications."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [ok-log]: https://github.com/oklog/oklog/ "A distributed log management tool."
 [sizeup]: http://www.irradiatedsoftware.com/sizeup/ "Mac software for arranging windows."

@@ -35,7 +35,7 @@ Universal healthcare and education, open borders, an alternative internet, bette
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [meta-4c]: https://www.coherent.com/lasers/laser/meta-4c "A laser cutter."
-[objet30-pro]: http://www.stratasys.com/3d-printers/objet30-pro "A 3D printer."
+[objet30-pro]: https://www.stratasys.com/3d-printers/objet30-pro "A 3D printer."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [clue-ios]: https://itunes.apple.com/us/app/clue-health-period-tracker/id657189652 "A period and health tracking app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

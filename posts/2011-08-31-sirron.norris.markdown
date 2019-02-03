@@ -28,7 +28,7 @@ I would love a 21X Cintiq and maybe a Power Mac tower and a 50 inch flat screen.
 
 Other then that, I'm pretty lucky to have what I have.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."

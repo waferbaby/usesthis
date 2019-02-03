@@ -99,9 +99,9 @@ I'm still waiting for my heads-up virtual display. It's my hope that the recent 
 
 More realistically, I've been looking longingly at the various efforts to run a reasonable Linux desktop on the [Surface Pro 3][surface-pro-3]. Windows 8.1 is fairly tolerable, but still not quite what I want. The hardware is pretty much exactly what I want. It's as powerful as a MacBook Pro in a package lighter than the new [MacBook][macbook.2]. And it gets rid of the legacy keyboard, so I can bring my own ;)
 
-[54-bit-driver-kit]: https://www.ifixit.com/Store/Parts/64-Bit-Driver-Kit/IF145-299-1 "A set of precision screwdrivers."
+[54-bit-driver-kit]: https://www.ifixit.com/Store/Tools/Mako-Driver-Kit--64-Precision-Bits/IF145-299-4 "A set of precision screwdrivers."
 [amazonbasics-universal-travel-case]: https://www.amazon.com/AmazonBasics-Universal-Travel-Electronics-Accessories/dp/B002VPE1QG "A travel case."
-[arduino-micro]: https://www.arduino.cc/en/Main/arduinoBoardMicro "A small microcontroller board."
+[arduino-micro]: https://store.arduino.cc/arduino-micro "A small microcontroller board."
 [brass-sponge-solder-tip-cleaner]: https://www.adafruit.com/products/1172 "A soldering iron cleaner."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
@@ -111,7 +111,7 @@ More realistically, I've been looking longingly at the various efforts to run a 
 [geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[jetdrive-lite]: http://us.transcend-info.com/apple/jetdrivelite/ "A flash storage SD card for the MacBook Air and MacBook Pro."
+[jetdrive-lite]: https://us.transcend-info.com/apple/jetdrivelite/ "A flash storage SD card for the MacBook Air and MacBook Pro."
 [kindle-voyage]: https://www.amazon.com/High-Resolution-Display-Adaptive-PagePress-Sensors/dp/B00IOY8XWQ "A high-resolution ebook reader."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
@@ -163,7 +163,7 @@ More realistically, I've been looking longingly at the various efforts to run a 
 [todo.sh]: http://ginatrapani.github.io/todo.txt-cli/ "A command-line interface for your todo.txt file."
 [trello]: https://trello.com/ "A project management service."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
 [z]: https://github.com/rupa/z "A command-line tool for quickly moving between directories."

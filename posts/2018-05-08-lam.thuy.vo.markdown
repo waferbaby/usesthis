@@ -55,7 +55,7 @@ Adjustable standing desk in a room with many windows with a climbing wall close 
 [highcharts]: https://www.highcharts.com/ "A service for building interactive web-based charts."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[jupyter]: http://jupyter.org/ "Web-based live document software."
+[jupyter]: https://jupyter.org/ "Web-based live document software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [python]: https://www.python.org/ "An interpreted scripting language."

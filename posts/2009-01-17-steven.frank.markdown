@@ -37,7 +37,7 @@ That's pretty much the bulk of it, apart from gimmes like [iTunes][] and [iChat]
 
 I think this is actually probably pretty close to it. They just need to keep making faster, lighter MacBook Airs and keep increasing net bandwidth.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

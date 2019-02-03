@@ -34,7 +34,7 @@ Honestly? I would just like to have a machine that could handle opening both Pho
 Did I mention 6 monitors?
 
 [area-51]: https://www.pcmag.com/article2/0,2817,2361731,00.asp "A souped-up gaming PC computer."
-[m18x-r2]: http://www.dell.com/en-us/shop/productdetails/alienware-m18x-r2 "A gaming laptop."
+[m18x-r2]: https://www.dell.com/en-us/shop/productdetails/alienware-m18x-r2 "A gaming laptop."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."

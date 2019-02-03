@@ -76,7 +76,7 @@ To be honest, I have nearly everything I want in a setup already, but if I could
 [github]: https://github.com/ "A Git code repository service."
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lastpass]: https://lastpass.com/ "A password manager."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

@@ -30,7 +30,7 @@ When I get super rich, I'm going to demand [Optimal Sleeping and Working Arrange
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [sr80i]: https://www.amazon.com/Grado-SR80i-Headphone-Discontinued-Manufacturer/dp/B0055P9K38 "Headphones."
 [usb-snes-classic-controller]: https://www.amazon.com/Nintendo-Retrolink-Super-Classic-Controller-NES/dp/B002824SNS "What it says on the label."
-[vita]: http://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
+[vita]: https://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
 [xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."
 [boot-camp]: https://en.wikipedia.org/wiki/Boot_Camp_(software) "Software to allow Macs to run Windows natively."
 [dosbox]: http://www.dosbox.com/ "An x86/DOS emulator."

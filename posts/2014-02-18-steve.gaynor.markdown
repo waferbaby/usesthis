@@ -33,6 +33,6 @@ Honestly I'm pretty happy with what I've got! As we go forward I wouldn't mind u
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[steam]: https://store.steampowered.com/ "A digital game distribution service."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

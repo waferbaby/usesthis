@@ -63,6 +63,6 @@ If anything can be learned from this, there is power in actually articulating yo
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [tornado]: http://www.tornadoweb.org/en/stable/ "A fast web server."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [zope]: http://zope.org/ "A Python-based web application framework."

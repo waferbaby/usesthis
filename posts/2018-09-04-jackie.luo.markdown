@@ -44,7 +44,7 @@ But if we're really dreaming - a big, spacious home with huge windows and lots o
 
 I have a lot of dreams, and it feels like there's never enough time or money to make them happen to the fullest, but hopefully sometimes I can get pretty close.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [ef-17-40mm-f4l-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_17_40mm_f_4l_usm "An ultra-wide zoom lens."
 [ef-50mm-f1.4-usm]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/lenses/ef_50mm_f_1_4_usm "A lens for SLR cameras."
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
@@ -65,7 +65,7 @@ I have a lot of dreams, and it feels like there's never enough time or money to 
 [halide-ios]: https://itunes.apple.com/us/app/halide-camera/id885697368 "A camera app."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [notion]: https://www.notion.so/ "A collaborative wiki service."

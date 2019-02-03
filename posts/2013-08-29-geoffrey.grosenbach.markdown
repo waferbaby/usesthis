@@ -57,13 +57,13 @@ Until 2009, I did 90% of my work on a beefy desktop tower and wouldn't consider 
 
 But I still wish Apple would make a laptop for video professionals. 2TB storage. 16 CPU cores. Huge battery to fuel it for 8 or 10 hours at full steam. High resolution matte screen. I don't care how big it is or if it weighs 10 or 15 pounds.
 
-[1510-carry-on-case]: http://www.pelican.com/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
-[asr-5-c]: http://www.yeticycles.com/#/bikes/asr5c "A bike."
+[1510-carry-on-case]: https://www.pelican.com:443/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
+[asr-5-c]: https://www.mtbr.com/product/bikes/xc-suspensio/yeti-cycles/as-r-5-carbon.html "A bike."
 [d7000]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/25468/D7000.html "A 16.2 megapixel DSLR."
 [ew-100-g3]: https://en-us.sennheiser.com/wireless-clip-on-lavalier-microphone-set-presentation-ew-100-eng-g3 "A wireless microphone system."
 [fit-console]: http://www.anthro.com/products/fit-console "A curved sitting/standing desk."
 [freedom.2]: https://www.humanscale.com/products/product_detail.cfm?group=FreedomTaskChairWithHeadrest "A chair."
-[g-raid-thunderbolt]: http://www.g-technology.com/products/g-raid-thunderbolt-mac-and-pc "A dual-drive RAID Thunderbolt storage system."
+[g-raid-thunderbolt]: https://www.g-technology.com/products/g-raid-thunderbolt-mac-and-pc "A dual-drive RAID Thunderbolt storage system."
 [h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."

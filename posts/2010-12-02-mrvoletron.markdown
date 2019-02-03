@@ -30,7 +30,7 @@ My dream interface would have to be something similar, because I'm rather lazy a
 
 Since I probably won't live to see something like this, my reality-based dream setup is, in fact, exactly what I have. I suppose as long as there's a stream of new game audio to play with and new sample packs to help build tracks, that's just enough. :)
 
-[axiom-pro-49]: http://www.m-audio.com/products/en_us/AxiomPro49.html "A 49-Key USB MIDI controller."
+[axiom-pro-49]: https://m-audio.com/products/en_us/AxiomPro49.html "A 49-Key USB MIDI controller."
 [carcharias]: https://www.amazon.com/Razer-Carcharias-Over-Gaming-Headset/dp/B001PTH0VW "A gaming headset."
 [companion-3]: https://www.amazon.com/Bose-Companion-Multimedia-Speaker-System/dp/B00011CNWG "Three-piece stereo speakers for computers."
 [g15]: https://www.amazon.com/Logitech-G15-Gaming-Keyboard-Black/dp/B000UHE8YM "A gaming keyboard."

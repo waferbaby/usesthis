@@ -80,7 +80,7 @@ I'd also really like more options for the robots we use in my classes. The Minds
 [ef-100mm-f2.8-macro-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8_macro_usm "A macro lens."
 [eos-rebel-t3]: https://en.wikipedia.org/wiki/Canon_EOS_1100D "A 12.2 megapixel DSLR."
 [eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
-[epoc]: http://www.emotiv.com/epoc.php "A personal EEG computing device"
+[epoc]: https://www.emotiv.com/epoc.php "A personal EEG computing device"
 [eyetap]: http://eyetap.org/ "A wearable computing device."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

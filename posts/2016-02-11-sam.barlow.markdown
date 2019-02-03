@@ -35,7 +35,7 @@ My needs are simple. What I've got, but with more memory and more hard-drive spa
 [h1]: https://www.zoom.co.jp/products/h1 "A digital recorder."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [pc-vga-to-tv-composite-video-rgb-converter]: http://www.amazon.co.uk/Proxima-Direct®-Composite-Converter-satisfied/dp/B004TCXING "A VGA to composite video converter device."
-[vidbox-mac]: http://honestech.com/main/VIDBOXforMac.asp "A USB video conversion device."
+[vidbox-mac]: https://honestech.com/main/VIDBOXforMac.asp "A USB video conversion device."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
 [aisle]: https://en.wikipedia.org/wiki/Aisle_(video_game) "A text adventure game with a single move."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."

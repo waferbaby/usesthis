@@ -55,7 +55,7 @@ I want virtualization to reach a point where I can run any operating system virt
 I'd say I want less local storage and more things to move into the "cloud," but personally I'm almost there already. If my laptop were to burst into flame right now, I'd be pretty sad cause that was an expensive laptop... but my data would almost all be safe. Everything I need is in some cloud service. I'd go pick up a new Mac at the Apple Store and be up and running in less than an hour. No problem (although financially that sucks).
 
 [27q]: https://www.amazon.com/CROSSOVER-27Q-LED-P-2560X1440-Monitor/dp/B008B6I5UW "A 27 inch LCD screen."
-[expansion-portable]: http://www.seagate.com/external-hard-drives/portable-hard-drives/standard/expansion-portable/ "An external hard drive."
+[expansion-portable]: https://www.seagate.com/external-hard-drives/portable-hard-drives/standard/expansion-portable/ "An external hard drive."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
@@ -69,7 +69,7 @@ I'd say I want less local storage and more things to move into the "cloud," but 
 [git]: https://git-scm.com/ "A version control system."
 [go]: https://golang.org/ "A compiled programming language."
 [golang-crosscompile]: https://github.com/davecheney/golang-crosscompile "A tool for cross-compiling Go language binaries."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
@@ -77,7 +77,7 @@ I'd say I want less local storage and more things to move into the "cloud," but 
 [subversion]: http://subversion.tigris.org/ "A version control system."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
 [vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
-[xmonad]: http://xmonad.org/ "A tiling window manager for X11."
+[xmonad]: https://xmonad.org/ "A tiling window manager for X11."

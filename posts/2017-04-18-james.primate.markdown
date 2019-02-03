@@ -46,7 +46,7 @@ As mentioned before I'm pretty indifferent to gear so I don't have much in the w
 [h4n-pro]: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h4n-pro-handy-recorder "A digital audio recorder."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [launchkey-49]: https://us.novationmusic.com/keys/launchkey "A music keyboard."
-[little-sound-dj]: http://www.littlesounddj.com/lsd/ "A music sequencer and sampler in a Game Boy cartridge."
+[little-sound-dj]: https://www.littlesounddj.com/lsd/ "A music sequencer and sampler in a Game Boy cartridge."
 [microkorg-xl]: https://en.wikipedia.org/wiki/MicroKORG#microKORG_XL "A MIDI keyboard."
 [microwave]: http://www.vintagesynth.com/waldorf/microwave.php "A synthesiser."
 [predator-17]: https://www.acer.com/ac/en/US/content/predator-17-series "A 17 inch PC gaming laptop."

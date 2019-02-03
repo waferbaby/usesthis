@@ -44,7 +44,7 @@ My dream set-up would definitely be some combo of the [AlloSphere](http://blog.t
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
-[osirix]: http://www.osirix-viewer.com/ "A DICOM medical image viewer."
+[osirix]: https://www.osirix-viewer.com/ "A DICOM medical image viewer."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [papers]: http://papersapp.com "iTunes-like software for organising articles."
 [paraview]: https://www.paraview.org/ "An open-source data analysis and visualisation tool."

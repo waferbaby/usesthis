@@ -36,7 +36,7 @@ As long as I have my laptop, headphones, an internet connection and comfy seat, 
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [one-touch-gold-kettle]: https://www.amazon.com/Weber-1351001-One-Touch-Kettle-22-5-Inch/dp/B0098HR0WM "A grill."
-[poang]: http://www.ikea.com/gb/en/catalog/categories/departments/living_room/10687/ "An armchair."
+[poang]: https://www.ikea.com/gb/en/catalog/categories/departments/living_room/10687/ "An armchair."
 [se215]: http://www.shure.com/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "In-ear sound isolating headphones."
 [ultra-power-stand]: https://www.amazon.com/KitchenAid-2-Quart-Ultra-Power-Empire/dp/B000UVRC64 "A kitchen mixer."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."

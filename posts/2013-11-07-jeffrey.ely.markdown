@@ -37,5 +37,5 @@ I could imagine some kind of device on my index finger where I can write words i
 [postfix]: http://www.postfix.org/ "Mail server software."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

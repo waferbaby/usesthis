@@ -91,6 +91,6 @@ But that would just be gravy. I'm quite happy with what I have.
 [runkeeper-ios]: https://runkeeper.com/index "Software for tracking workouts."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [weathereye-ios]: https://itunes.apple.com/app/the-weather-network/id473299958 "A weather app for the iPhone."

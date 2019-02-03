@@ -56,7 +56,7 @@ And all of this available in a cat cafe where they don't judge me if I order dec
 [opus]: https://en.wikipedia.org/wiki/Opus_(audio_format) "An audio encoding format."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [speex]: https://en.wikipedia.org/wiki/Speex "An audio compression format."
-[steam]: http://store.steampowered.com/ "A digital game distribution service."
+[steam]: https://store.steampowered.com/ "A digital game distribution service."
 [subversion]: http://subversion.tigris.org/ "A version control system."
 [tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
 [visual-studio]: http://www.visualstudio.com "A Windows development environment."

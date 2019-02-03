@@ -37,7 +37,7 @@ My dream setup is an idyllic, remote cabin in a forest with a gentle creek that 
 
 [3320]: https://www.innova.com/en-US/Product/Detail/3320 "A digital multimeter."
 [5203]: https://www.adafruit.com/product/147 "A wire cutter/stripper."
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."

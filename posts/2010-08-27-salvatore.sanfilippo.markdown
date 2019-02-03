@@ -68,6 +68,6 @@ I would love the ability to transfer all the context of a computer I'm using int
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[utorrent]: http://www.utorrent.com/ "A BitTorrent client."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[utorrent]: https://www.utorrent.com/ "A BitTorrent client."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [zsh]: http://www.zsh.org/ "An interactive shell and scripting language."

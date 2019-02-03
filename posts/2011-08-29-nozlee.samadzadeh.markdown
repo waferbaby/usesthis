@@ -52,7 +52,7 @@ But this gets back to those two types of tech people. What do I need new hardwar
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [moka-express]: http://www.bialettishop.com/MokaExpressMain.htm "A stovetop coffee pot."
-[muddus]: http://www.ikea.com/hk/en/catalog/products/80160792/ "A table with a folding drop-leaf."
+[muddus]: https://www.ikea.com/hk/en/catalog/products/80160792/ "A table with a folding drop-leaf."
 [notebook-cooler]: http://www.antec.com/Believe_it/product.php?id=NzI "A USB-powered laptop cooler."
 [pavilion-dv2419us]: http://h10025.www1.hp.com/ewfrf/wc/product?cc=us&lc=en&product=3446949 "A 14.1 inch PC laptop."
 [power-mac-g5]: https://en.wikipedia.org/wiki/Power_Mac_G5 "A desktop Mac with an IBM PowerPC G5 CPU."

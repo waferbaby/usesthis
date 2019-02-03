@@ -26,7 +26,7 @@ We recently used this very cool software for our last piece Resonance, Pepakura,
 
 A 3D printer like the one [Junior Veloso](http://3dhomemade.blogspot.com/ "Junior's website about his 3D printer.") has built, a CNC machine that can cut metal, a laser cutter, a stereoscopic screen+graphic card, a huge SSD raid that's indestructible, visual programming software that is node-based and doesn't need any code writing. And then, oh! a microwave that cools down in seconds instead of heating up.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [propeller]: https://www.parallax.com/catalog/microcontrollers/propeller "A chip for rapid embedded development."
 [3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."

@@ -54,4 +54,4 @@ Computer-wise I'm pretty happy with my current setup. If I could get my hand on 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [vectorscribe]: https://astutegraphics.com/software/vectorscribe/ "A vector plugin for Illustrator."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

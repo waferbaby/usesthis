@@ -43,7 +43,7 @@ I'd probably want a legion more EC2 instances. I'd definitely get an SSD iMac if
 
 I guess most of what I'd like out of a dream setup is similar to what I have now, except with more cowbell.
 
-[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
@@ -79,7 +79,7 @@ I guess most of what I'd like out of a dream setup is similar to what I have now
 [starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
 [the-economist-ios]: https://itunes.apple.com/us/app/the-economist-for-iphone/id444518531?mt=8 "A magazine app."
 [tripview-ios]: https://itunes.apple.com/au/app/tripview-sydney/id294730339 "An app for showing Sydney bus/train/ferry times."

@@ -45,7 +45,7 @@ I'm waiting and dreaming of a 15" MacBook Air/Pro, i.e. a 15" MacBook Air style 
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [folding-at-home]: http://folding.stanford.edu/ "A distributed computing project for understanding protein folding."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

@@ -77,7 +77,7 @@ What's more frustrating to me is having to balance the interesting work with the
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [onshape]: https://www.onshape.com/ "Web-based CAD software."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
-[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [shapeways]: https://www.shapeways.com/ "A service for printing 3D objects."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."

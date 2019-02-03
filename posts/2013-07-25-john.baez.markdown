@@ -44,7 +44,7 @@ I also spend a lot of time writing ideas and doing calculations in notebooks - p
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [instiki]: https://github.com/parasew/instiki "Wiki software."
-[irfanview]: http://www.irfanview.com/ "An image viewer/editor for Windows."
+[irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [quasimusic]: http://gregegan.customer.netspace.net.au/APPLETS/34/34.html "A Java app for mathematically generating music."
 [wolframtones]: http://tones.wolfram.com/ "An audio generating tool."

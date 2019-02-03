@@ -46,7 +46,7 @@ My dream setup would include a big sturdy desk, a nice comfy chair, an enormous 
 [lady-lilac]: http://janome.com/en/machines/sewing/lady-lilac/ "A sewing machine."
 [licecap]: https://www.cockos.com/licecap/ "Screen capture software."
 [lifetime-folding-chair]: https://www.costco.com/Lifetime-Folding-Chair%2C-4-pack.product.11482116.html "A folding chair."
-[linnmon]: http://www.ikea.com/us/en/catalog/products/S29932181/ "A table."
+[linnmon]: https://www.ikea.com/us/en/catalog/products/S29932181/ "A table."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [makey-makey]: https://www.makeymakey.com/ "An invention kit."

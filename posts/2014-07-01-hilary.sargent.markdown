@@ -47,7 +47,7 @@ A car navigation system that alternated between the voice of Ira Glass and Morga
 
 [bc278clt]: https://www.uniden.com/scanners/fully-programmable-with-100-channels12-bands-5-banks/invt/bc278cltg "A 10-band police scanner."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
-[ideapaint]: http://www.ideapaint.com/products/ideapaint "A paint that's useable as a whiteboard."
+[ideapaint]: https://www.ideapaint.com/products/ideapaint "A paint that's useable as a whiteboard."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [jetpack-mifi-5510l]: https://www.pcmag.com/article2/0,2817,2415262,00.asp "A mobile hotspot device."

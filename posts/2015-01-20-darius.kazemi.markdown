@@ -54,6 +54,6 @@ I'd also like a very, very quiet room with good natural light. I prefer silence 
 [grunt-init]: https://gruntjs.com/project-scaffolding "A command-line tool for creating new projects."
 [grunt]: https://gruntjs.com/ "A task runner."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."

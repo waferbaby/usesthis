@@ -54,11 +54,11 @@ I love iPhoto's interface, workflow, integration, and file management, but I als
 
 Finally, I'm dissatisfied with the quality and direction that Dell's monitors have taken. I'd love if Apple used the LCD panel from the 27" [iMac][] to make a new [Cinema Display][cinema-display]. And while I'd take glass over nothing, and I recognize there's very little chance that this option would exist, I'd really love for it to be available in matte.
 
-[atom-monitor]: https://www.paradigm.com/products-current/type=bookshelf/model=atom-monitor/page=overview "Speakers."
+[atom-monitor]: https://www.paradigm.com/products-current/atom-monitor "Speakers."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [embody]: http://www.hermanmiller.com/products/seating/performance-work-chairs/embody-chairs.html "An ergonomic work chair."
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
-[galant]: http://www.ikea.com/us/en/catalog/products/S29806818/ "An office desk."
+[galant]: https://www.ikea.com/us/en/catalog/products/S29806818/ "An office desk."
 [hd-280-pro]: https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB "Closed stereo headphones."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
@@ -78,9 +78,9 @@ Finally, I'm dissatisfied with the quality and direction that Dell's monitors ha
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[soulver]: http://www.acqualia.com/soulver/ "A Mac application that's a cross between a spreadsheet and a calculator."
+[soulver]: https://www.acqualia.com/soulver/ "A Mac application that's a cross between a spreadsheet and a calculator."
 [taskpaper]: http://www.hogbaysoftware.com/products/taskpaper "A simple task/to do list application for the Mac."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."

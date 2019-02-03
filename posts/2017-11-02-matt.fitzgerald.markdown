@@ -34,7 +34,7 @@ I record podcasts with [Audio Hijack][audio-hijack]. I love this program. It alw
 
 To be honest, I've got my dream setup. Maybe less email and a more reliable home computer. As a kid I wanted a stand-up architect desk that I could adjust at an angle, but why? I'm terrible at math.
 
-[aeropress]: https://aerobie.com/products/aeropress.htm "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
 [airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."

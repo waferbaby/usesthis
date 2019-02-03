@@ -36,7 +36,7 @@ The [Grammarly][] plug-in has been an amazing help with all my online communicat
 
 Something like a loft space? A laser cutter, small CNC machine, 3D printers, sewing machine. I'll sleep on a cot, I don't care! I'd love to have an [Airbnb][] for makers and hardware developers coming to visit Shenzhen, a place with all the tools and equipment they need, on-site translation and ordering assistance to help them get anything they came here for. I'd use this to support classes teaching local women coding and fabrication skills.
 
-[360]: http://www.lg.com/us/mobile-accessories/lg-LGR105AVRZTS-360-cam "A 13 megapixel 360° camera."
+[360]: https://www.lg.com/us/mobile-accessories/lg-LGR105AVRZTS-360-cam "A 13 megapixel 360° camera."
 [creator-pro]: https://www.amazon.com/FlashForge-Structure-Optimized-Platform-Extruder/dp/B00I8NM6JO "A 3D printer."
 [d5100]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/25478/D5100.html "A 16.2 megapixel DSLR."
 [dual-flexion]: https://flexionextruder.com/shop/dual/ "A filament extruder for dual extruder 3D printers."

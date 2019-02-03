@@ -50,7 +50,7 @@ I'd replace my MacBook Pro with a [MacBook Air][macbook-air]. Long live the MacB
 [expo]: https://expo.io/ "A toolchain for React Native."
 [github]: https://github.com/ "A Git code repository service."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [medium]: https://medium.com/ "A writing/blogging service."
 [nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -48,7 +48,7 @@ I would welcome anything that allowed me to approach all my computing with a mor
 
 Apart from minor quibbles about the first-world problem of having too many devices, I don't have many complaints. I'm happy with my setup the way it is now!
 
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
@@ -57,11 +57,11 @@ Apart from minor quibbles about the first-world problem of having too many devic
 [sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [app.net]: https://app.net "A social network."
-[audio-hijack-pro]: http://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
+[audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [fastscripts]: https://red-sweater.com/fastscripts/ "System-wide access to Applescripts, for the Mac."
-[fogbugz]: http://www.fogcreek.com/fogbugz/ "Bug/issue tracking software."
+[fogbugz]: https://www.fogcreek.com/fogbugz/ "Bug/issue tracking software."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [kiwi]: http://kiwi-app.net/ "An App.net client for the Mac."

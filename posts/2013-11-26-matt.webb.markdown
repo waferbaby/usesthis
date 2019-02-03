@@ -82,6 +82,6 @@ So is that okay? My dream setup is an alternate global technical paradigm? There
 [runkeeper-ios]: https://runkeeper.com/index "Software for tracking workouts."
 [simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [taskpaper]: http://www.hogbaysoftware.com/products/taskpaper "A simple task/to do list application for the Mac."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [xero]: https://www.xero.com/us/ "Online accounting software."

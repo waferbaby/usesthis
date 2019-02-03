@@ -40,7 +40,7 @@ On my iPad I use [Instapaper][instapaper-ios] and [Flipboard][flipboard-ios] for
 
 A hammock, a wood burning stove, a garden, a well stocked library and liquor cabinet. Maybe some goats. From a coffee perspective, I'm almost living my dream setup with everything from our roasting and lab equipment to a massive toy chest of brewing devices.
 
-[aeropress]: https://aerobie.com/products/aeropress.htm "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mini-paraframe-serrated]: https://www.amazon.com/Gerber-22-48484-Paraframe-Knife-Serrated/dp/B000G0OMK8 "A pocket knife."

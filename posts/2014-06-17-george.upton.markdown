@@ -33,7 +33,7 @@ Dream set up? Oooh, I'd have to say it would be a studio space with a properly i
 
 As for my dream set-up for live performance, I feel like I'm actually getting quite close to it. The last piece that I'm still dreaming of right now is a replacement for my APC20 that has the 8 line faders and allows me to trigger clips but has a smaller footprint and doesn't require bus power. If anyone is thinking of making one or knows of anything like this that already exists, let me know!
 
-[apc20]: http://www.akaipro.com/product/apc20 "A controller for Ableton Live."
+[apc20]: https://www.akaipro.com/product/apc20/ "A controller for Ableton Live."
 [c214]: https://www.akg.com/pro/p/c214 "A condenser microphone."
 [crossfade-lp2]: http://v-moda.com/crossfade-lp2-matte-black-metal/ "Over-the-ear headphones."
 [goodtime]: https://www.deeringbanjos.com/collections/goodtime-banjos "A banjo."

@@ -37,7 +37,7 @@ Setting aside non-existent technology like teleporters and food replicators, I'd
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
-[pocketmod]: http://www.pocketmod.com/ "An note-taking system based around a piece of paper."
+[pocketmod]: https://www.pocketmod.com/ "An note-taking system based around a piece of paper."
 [fluxx-ios]: https://itunes.apple.com/us/app/fluxx/id561319376 "An ever-changing card game."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

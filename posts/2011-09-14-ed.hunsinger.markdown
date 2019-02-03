@@ -67,5 +67,5 @@ I've been pretty happy with my current setup now that the cost of hard drive spa
 [plex]: https://plex.tv/ "Media center software."
 [remote-ios]: https://itunes.apple.com/app/remote/id284417350 "A remote control app."
 [syncopation]: http://www.sonzea.com/syncopation/ "Mac software for syncing iTunes libraries."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

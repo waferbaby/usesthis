@@ -46,5 +46,5 @@ In the meantime, however, I would settle for an upgrade to 8GM of RAM in my curr
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [rstudio]: https://www.rstudio.com/ "An IDE for the R language."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

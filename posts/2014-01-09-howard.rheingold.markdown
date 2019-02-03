@@ -39,7 +39,7 @@ I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upg
 [powerbook-duo]: https://en.wikipedia.org/wiki/PowerBook_Duo "An old line of Mac laptops."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [camtasia]: https://www.techsmith.com/camtasia.html "Screencasting software."
-[devonthink]: http://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
+[devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
 [diigo]: https://www.diigo.com/ "A bookmarking service."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."

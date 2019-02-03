@@ -59,4 +59,4 @@ On a portability front, if my Nexus 7 had 4g connectivity, I'd drop my cell phon
 [offlineimap]: http://www.offlineimap.org/ "A tool for syncing mail from an IMAP server."
 [opensuse]: https://en.wikipedia.org/wiki/OpenSUSE "A Linux distribution."
 [quilt]: http://savannah.nongnu.org/projects/quilt "A patch tracking system."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

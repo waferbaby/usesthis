@@ -62,7 +62,7 @@ As far as actual development of new software - the tools are getting much better
 [lua]: http://www.lua.org/ "An interpreted scripting language."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [macports]: https://www.macports.org/ "A collection of *nix software ported to Mac OS X."
-[mapserver]: http://www.mapserver.org/ "An open-source map platform."
+[mapserver]: https://www.mapserver.org/ "An open-source map platform."
 [merb]: https://en.wikipedia.org/wiki/Merb "A lightweight but powerful Ruby framework."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
 [opencv]: http://opencv.org "A programming library for working with real-time computer vision."

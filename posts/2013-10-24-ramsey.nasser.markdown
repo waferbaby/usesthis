@@ -79,6 +79,6 @@ Oh, and a black '60s-era [BMW R75/5][r75-5] in mint condition, please.
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

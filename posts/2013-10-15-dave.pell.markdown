@@ -39,7 +39,7 @@ For the most part, my current setup is only two inches short of my dream setup. 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
-[fluid]: http://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
+[fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [nextdraft-ios]: https://itunes.apple.com/us/app/nextdraft-days-most-fascinating/id549358690 "An app for the NextDraft news site."
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."

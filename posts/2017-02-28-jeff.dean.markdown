@@ -33,7 +33,7 @@ I pretty much have it. Mostly I enjoy doing research and writing software to sol
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [nexus-5x]: https://www.google.com/nexus/5x/ "A 5.2 inch Android smartphone."
 [nexus-9]: http://www.google.com/nexus/9/ "An 8.9 inch Android tablet."
-[z620-workstation]: http://www8.hp.com/us/en/campaigns/workstations/z620.html "A PC tower computer."
+[z620-workstation]: https://www8.hp.com/us/en/campaigns/workstations/z620.html "A PC tower computer."
 [adwords]: https://adwords.google.com/home/ "Google's advertising platform."
 [bazel]: https://bazel.build/ "A build tool."
 [bigtable]: https://research.google.com/archive/bigtable.html "A distributed storage system."

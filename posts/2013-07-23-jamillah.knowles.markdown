@@ -64,4 +64,4 @@ For now, my tiny office is lined with bookshelves that absorb sound fairly well,
 [kindle-android]: https://play.google.com/store/apps/details?id=com.amazon.kindle "A Kindle client for Android."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[transcribe]: http://transcribe.wreally.com/ "A web service for transcribing audio."
+[transcribe]: https://transcribe.wreally.com/ "A web service for transcribing audio."

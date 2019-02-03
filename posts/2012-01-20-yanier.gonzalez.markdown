@@ -30,8 +30,8 @@ My ideal work hardware is a swiss-army computer-tablet-tv-phone. It would look l
 My ideal game console is limitless in power and invisible in my home: a cloud farm where I login and upload my money away.
 
 [copperhead]: https://www.amazon.com/RAZER-Copperhead-Razor-Precision-Gaming/dp/B000C28VM0 "A gaming mouse."
-[g70]: http://event.asus.com/2008/nb/g70/index.htm "A 17 inch gaming-oriented PC laptop."
-[galaxy-s-ii]: http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[g70]: https://event.asus.com/2008/nb/g70/index.htm "A 17 inch gaming-oriented PC laptop."
+[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [ipod-nano]: https://www.apple.com/ipod-nano/ "A small music player."
 [ln40a550]: https://www.amazon.com/Samsung-LN40A550-40-Inch-1080p-Model/dp/B001418W2C "A 40 inch LCD television."
@@ -51,5 +51,5 @@ My ideal game console is limitless in power and invisible in my home: a cloud fa
 [pixlr]: https://pixlr.com/ "A web-based image editor."
 [screenshot-plus]: https://www.apple.com/downloads/dashboard/business/screenshotplus.html "A Dashboard widget for capturing screenshots."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

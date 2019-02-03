@@ -39,7 +39,7 @@ I'd also like either a large whiteboard or an easel with huge pad of paper. Ther
 
 My dream set up would also include a team of top notch UXers around me, to bounce ideas off of and work through problems (on a comically large pad of paper, of course.)
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

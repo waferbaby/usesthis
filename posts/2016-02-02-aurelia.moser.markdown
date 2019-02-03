@@ -41,7 +41,7 @@ For privacy, I sometimes opt for more secure tool usage, so I have a PGP setup a
 Oh man, probably an 11-inch weightless MacBook Air with all the power of a Pro and a Retina display; I'd love something that would fit in my purse, because I feel like I've been a backpack girl for ages and I'd love to graduate high school with an adult bag. JK. My dreams are crazy, and the technology available next year will probably be crazier. Who knows what I'll want to upgrade to? Probably tech that imitates (my) life: fast, light, mobile, and magical.
 
 [a7910]: https://www.amazon.com/Anker-Portable-Wireless-Bluetooth-Compatibility/dp/B00OEPCHL2 "A tiny Bluetooth/NFC wireless speaker."
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [chromebook-pixel]: https://www.google.com/intl/en-US/chrome/devices/google-chromebook-pixel/ "A PC laptop with a Retina display."
 [ipod]: https://www.apple.com/ipod/ "A music player."
 [karma]: https://yourkarma.com/ "A portable WiFi hotspot."
@@ -72,7 +72,7 @@ Oh man, probably an 11-inch weightless MacBook Air with all the power of a Pro a
 [spaces]: https://en.wikipedia.org/wiki/Spaces_(software) "Virtual desktop software included with Mac OS X."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tab-snap]: https://chrome.google.com/webstore/detail/tab-snap/ajjloplcjllkammemhenacfjcccockde?hl=en "A Chrome extension for capturing open tabs."
-[tabula]: http://tabula.technology/ "Software for extracting data tables in PDF files."
+[tabula]: https://tabula.technology/ "Software for extracting data tables in PDF files."
 [taskwarrior]: https://taskwarrior.org/ "A command-line to do manager."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."

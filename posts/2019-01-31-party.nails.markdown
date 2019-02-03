@@ -35,5 +35,5 @@ My dream setup would be exactly what I have, PLUS some older hardware reverbs, a
 [apple-music]: https://apple.com/apple-music/ "A music streaming service."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

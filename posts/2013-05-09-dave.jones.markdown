@@ -78,10 +78,10 @@ A software tool that allows me to easily respond to YouTube comments in a logica
 An acoustically quiet and damped lab to work (and shout!) in. Preferably a huge separate garage out the back of my house.
 
 [10x-high-definition-ii]: http://opteka.com/10x.aspx "A macro lens for SLRs."
-[atr-3350]: http://www.audio-technica.com/cms/wired_mics/9c6eca17168eef6f/index.html "An omnidirectional microphone."
+[atr-3350]: https://www.audio-technica.com/cms/wired_mics/9c6eca17168eef6f/index.html "An omnidirectional microphone."
 [c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
 [cam-3]: https://www.amazon.com/AZDEN-CAM-3-On-Camcorder-Audio-Mixer/dp/B00006JPD1 "A mini audio mixer."
-[pro-88w]: http://www.audio-technica.com/cms/wls_systems/f706c310ed826ec4/index.html "A wireless microphone system."
+[pro-88w]: https://www.audio-technica.com/cms/wls_systems/f706c310ed826ec4/index.html "A wireless microphone system."
 [videomic]: http://www.rodemic.com/microphones/videomic "A condenser shotgun microphone."
 [vixia-hf-g10]: https://www.amazon.com/Canon-G10-Camcorder-Internal-Memory/dp/B004HW7DZM "An HD camcorder."
 [vixia-hf-m400]: https://www.amazon.com/Canon-M40-Camcorder-Internal-Memory/dp/B004HW7E3I "An HD camcorder."

@@ -40,5 +40,5 @@ With the ridiculous back and wrist issues I've been having, I've been fantasizin
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [slack]: https://slack.com/ "A collaboration service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

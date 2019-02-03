@@ -52,7 +52,7 @@ I guess I want everything I have now, but with 8k OLED high DPI screens. I also 
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [nexus-9]: http://www.google.com/nexus/9/ "An 8.9 inch Android tablet."
-[nvme-ssd-960-pro]: http://www.samsung.com/semiconductor/minisite/ssd/product/consumer/ssd960.html "A solid state hard drive."
+[nvme-ssd-960-pro]: https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/ssd960.html "A solid state hard drive."
 [pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
 [surface-pro-4]: https://en.wikipedia.org/wiki/Surface_Pro_4 "A Windows tablet."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."

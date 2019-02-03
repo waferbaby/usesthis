@@ -61,7 +61,7 @@ I'd also like for my next-door neighbors to trim their trees so that I could see
 [my-passport-ultra]: https://www.wdc.com/en/products/products.aspx?id=1000 "A portable external hard drive."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[filemaker-pro]: http://www.filemaker.com/products/filemaker-pro/ "A database application."
+[filemaker-pro]: https://www.filemaker.com/products/filemaker-pro/ "A database application."
 [freehand]: https://en.wikipedia.org/wiki/Macromedia_FreeHand "Vector illustration software."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."

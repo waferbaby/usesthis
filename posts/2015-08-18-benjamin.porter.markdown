@@ -49,6 +49,6 @@ I don't really get excited about hardware specs these days, but I do look forwar
 [trello]: https://trello.com/ "A project management service."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-community]: https://www.visualstudio.com/en-us/products/visual-studio-community-vs "A software development IDE."
 [windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."

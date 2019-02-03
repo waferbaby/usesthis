@@ -41,4 +41,4 @@ If I were to configure a new setup, I'd probably go with a 13 inch 2.13GHz 256GB
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

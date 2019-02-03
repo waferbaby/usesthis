@@ -44,7 +44,7 @@ But mostly I hope it gets sorted out before my back gets too creaky from hunchin
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [carbon-emacs]: https://www.emacswiki.org/emacs/CarbonEmacsPackage "A Mac-friendly version of GNU Emacs."
-[eclipse]: http://www.eclipse.org/ "A flexible, open-source IDE."
+[eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [fontforge]: http://fontforge.github.io/ "An open-source font editor."
 [hex-fiend]: http://www.ridiculousfish.com/hexfiend/ "An open-source hex editor for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

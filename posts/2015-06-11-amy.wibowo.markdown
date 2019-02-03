@@ -50,7 +50,7 @@ Lots of floor space to spread out paper and draw with markers, lots of plants an
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [lost-constellation]: https://finji.itch.io/lost-constellation "A ghost story video game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."

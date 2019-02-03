@@ -38,7 +38,7 @@ For my Arcanebolt-related work, I use a custom [Makefile][make], [avr-gcc][] and
 
 The setup I have right now does the trick. I used to have back problems from hunching over a laptop screen for long periods of time - getting a nice external monitor really helped, so I'm still coasting on that! Come to think of it, I'd love a portable display that was bright enought to easily see outdoors. It would be wonderful on a rooftop deck, or a porch.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [ideapad-v570]: http://shop.lenovo.com/us/laptops/ideapad/v-series/v570 "A 15.6 inch PC laptop."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
@@ -64,7 +64,7 @@ The setup I have right now does the trick. I used to have back problems from hun
 [kentucky-route-zero]: http://kentuckyroutezero.com/ "An adventure game."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
-[mono]: http://www.mono-project.com/Main_Page/ "A cross-platform .NET framework."
+[mono]: https://www.mono-project.com/Main_Page/ "A cross-platform .NET framework."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."

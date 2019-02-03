@@ -105,7 +105,7 @@ One final aspect I'd love in a dream setup is an always-on internet connection. 
 [statusnet]: http://www.gnu.org/software/social/merge.html "A free, open-source micro-blogging software platform."
 [trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [virt-manager]: https://en.wikipedia.org/wiki/Virtual_Machine_Manager "Software for managing virtual machines."
 [wordpress-mu]: https://mu.wordpress.org/ "A multi-weblog self-hosted publishing tool."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

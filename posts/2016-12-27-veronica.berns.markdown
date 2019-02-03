@@ -34,7 +34,7 @@ I have tried drawing on digital tablets instead of the paper-then-scanner method
 
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [doxie-go]: http://www.getdoxie.com/product/doxie-go/ "A portable wireless scanner."
-[hl-2280dw]: http://www.brother-usa.com/Printer/ModelDetail/1/HL2280DW/Overview "A laser printer and scanner."
+[hl-2280dw]: https://www.brother-usa.com/Printer/ModelDetail/1/HL2280DW/Overview "A laser printer and scanner."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

@@ -52,7 +52,7 @@ If I really think big, I'd love one of those Misson Impossible in-eye cameras pa
 
 In near-term reality, I've been considering a Lenovo X-series, and switching back to Linux for my primary workstation. For now, I tinker with an EeePC with [Ubuntu][] on it, which is my backup system on long trips.
 
-[accolade-vx5600]: http://www.lg.com/us/support-mobile/lg-LGVX5600 "A phone."
+[accolade-vx5600]: https://www.lg.com/us/support-mobile/lg-LGVX5600 "A phone."
 [audio-470-usb]: https://www.amazon.com/Plantronics-Foldable-USB-Optimized-470/dp/B000VVXO7E "A USB-based headset."
 [big-sky-slt]: http://www.bikepedia.com/QuickBike/BikeSpecs.aspx?Year=2005&Brand=LeMond&Model=Big+Sky+SLT&Type=bike "A bike."
 [d40]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25420/D40.html "A 6.1 megapixel digital SLR camera."
@@ -91,7 +91,7 @@ In near-term reality, I've been considering a Lenovo X-series, and switching bac
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [virtualenv]: https://pypi.python.org/pypi/virtualenv "A tool for building self-contained Python environments."
 [vm]: https://launchpad.net/vm "An email client for Emacs."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

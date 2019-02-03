@@ -48,4 +48,4 @@ I wish learning management systems weren't so terrible, but otherwise I'm pretty
 [processing]: https://processing.org/ "A programming language/environment."
 [reveal.js]: https://lab.hakim.se/reveal-js/ "An HTML-based presentation tool."
 [skim]: http://skim-app.sourceforge.net/ "PDF reader/note-taker software for the Mac."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."

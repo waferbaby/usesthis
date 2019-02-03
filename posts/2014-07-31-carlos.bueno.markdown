@@ -36,7 +36,7 @@ The only parts of a computer that have not gotten a million times faster and sma
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
-[xe303c12]: http://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A 12-inch Chrome OS laptop."
+[xe303c12]: https://www.samsung.com/us/computer/chrome-os-devices/XE303C12-A01US "A 12-inch Chrome OS laptop."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [google-compute-engine]: https://cloud.google.com/compute/ "A virtual machine hosting service."
 [latex]: https://www.latex-project.org/ "Typesetting software."

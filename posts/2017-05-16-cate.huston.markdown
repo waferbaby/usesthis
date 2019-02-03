@@ -64,7 +64,7 @@ I wish Apple and Android devices worked together better. Sometimes I use my Andr
 
 This is also the case within platforms when it comes to developer tooling. Why can't I run things on my phones from Xcode or Android Studio via Bluetooth?
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [apple-watch]: https://www.apple.com/watch/ "A smartwatch."
 [earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
 [fuelband]: https://en.wikipedia.org/wiki/Nike%2B_FuelBand "A fitness wristband."

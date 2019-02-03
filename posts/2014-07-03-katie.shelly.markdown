@@ -37,7 +37,7 @@ I just can't let go of [FCP 7][final-cut-pro].. [FCP X][final-cut-pro] has chang
 
 I would love a more kick-ass video camera, the XF105 is OK but sometimes the footage looks grainy or dullish in less than perfect light conditions. I'm also eyeing the new Mac Pro and wondering just how much faster it will be for video rendering and exporting and tasks like that. Other than that... I'd say I'm already livin' the dream!
 
-[a2-plus]: https://audioengineusa.com/Store/Powered-Speaker-Systems/A2-plus-B-Powered-Desktop-Speakers "Desktop speakers."
+[a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
 [balans]: https://www.varierfurniture.com/Products/Prevent/Variable-balans-R "A kneeling chair."
 [diva-lite-201]: https://www.bhphotovideo.com/c/product/258611-REG/Kino_Flo_KIT_D2_120_Diva_Lite_200_1_Fluorescent.html "A lighting fixture for video recording."
@@ -54,7 +54,7 @@ I would love a more kick-ass video camera, the XF105 is OK but sometimes the foo
 [ultrasharp-2707wfp]: https://www.amazon.com/Dell-UltraSharp-2707WFP-Widescreen-Adjustable/dp/B000YGEKFQ "A 27 inch LCD screen."
 [xf105]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/hd_video_cameras/xf105 "An HD camcorder."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[airfoil]: http://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
+[airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facebook]: https://www.facebook.com/ "A social networking site."

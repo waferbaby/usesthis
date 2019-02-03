@@ -41,7 +41,7 @@ For 2018 I'm planning on using a Hobonichi Techo planner to consolidate my vario
 I also eagerly await the day Apple actually gets the Watch to the place where it's a real Dick Tracy Wrist Phone. At that point, I think my ideal computer hardware setup will be Apple Watch, iPad Pro, PC Tower. I don't actually like being "bothered" by apps or using them when I have idle time very often -- I'm a "default to no notifications" person, I don't need a lot of apps on my phone, etc. But I do want to be reliably available, so the idea of having a sort of hybrid pager-phone on my wrist that lets me make calls when I need to (and go running without a damn phablet strapped to my upper arm), is incredibly appealing to me. Then the super-iPad for all the things I currently use my laptop for (and traveling a few pounds lighter), and the PC honestly just for videogames. (I'm struggling to think of work applications for a mouse and keyboard... I suppose I do still have times when it's easier and faster, when working in giant spreadsheets for hours. So occasionally that.)
 
 [1000-super-max-weight-bench]: https://www.amazon.com/gp/product/B01CR4XFIK/ "A weightlifting bench."
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [core-i7-6700k]: https://ark.intel.com/products/88195/Intel-Core-i7-6700K-Processor-8M-Cache-up-to-4_20-GHz "A computer processor."
 [e-835-s]: https://en-us.sennheiser.com/vocal-microphone-stage-live-performance-e-835-s "A cardioid microphone."
 [e50u-d2]: https://www.vizio.com/e50ud2.html "A 50 inch TV."

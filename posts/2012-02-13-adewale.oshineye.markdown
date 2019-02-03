@@ -118,7 +118,7 @@ It would run in the background on all my machines and would unobtrusively point 
 [rememberance-agent]: http://xenia.media.mit.edu/~rhodes/Papers/remembrance.html "An associative memory plugin for Emacs."
 [smartgo-kifu-ios]: https://www.smartgo.com/kifu.html "A game of Go."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

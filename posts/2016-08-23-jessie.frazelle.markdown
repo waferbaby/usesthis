@@ -53,4 +53,4 @@ A mainframe. Something so powerful I could just laugh mwahhahahahaha and stroke 
 [neovim]: https://neovim.io/ "A refactored vim."
 [runc]: https://runc.io/ "A command line tool for running containers."
 [secure-shell]: https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo "A terminal Chrome extension."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

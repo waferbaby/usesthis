@@ -55,7 +55,7 @@ I'm mostly happy with my setup right now. The main thing I would change is that 
 
 I hope that in the future more things will be wireless. I feel like I have lots of wires on my desk, and that is annoying.
 
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [atreus]: http://atreus.technomancy.us "A DIY mechanical keyboard."
 [deathadder-left-handed]: https://www.razerzone.com/gaming-mice/razer-deathadder-left-hand-edition "A left-handed gaming mouse."
 [ergodox-ez]: https://www.indiegogo.com/projects/ergodox-ez-an-incredible-mechanical-keyboard "A mechanical keyboard."
@@ -76,7 +76,7 @@ I hope that in the future more things will be wireless. I feel like I have lots 
 [limechat]: http://limechat.net/mac/ "An IRC client for the Mac."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [manageiq]: https://github.com/ManageIQ/manageiq "Enterprise cloud server software."
-[rails]: http://rubyonrails.org/ "A Ruby-based web framework."
+[rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
@@ -84,4 +84,4 @@ I hope that in the future more things will be wireless. I feel like I have lots 
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

@@ -71,14 +71,14 @@ Where my 20-year plan will most likely fail is not at the operating system or dr
 
 But hey, you asked for my dream setup. That's it: one computer for 20 years.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [customizer-104-105]: http://hackerthings.com/product/customizer-104-105-keyboard-100099 "A keyboard in the style of the old Model M keyboards."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
-[igroove]: http://www.klipsch.com/igroove-ipod-speaker-system/details "An audio dock for iPods."
+[igroove]: https://www.klipsch.com/igroove-ipod-speaker-system/details "An audio dock for iPods."
 [model-m]: https://en.wikipedia.org/wiki/Model_M_keyboard "A keyboard."
 [mx-1000]: https://www.amazon.com/Logitech-MX1000-Laser-Cordless-Mouse/dp/B0002UM0JW "A cordless mouse."
-[poang]: http://www.ikea.com/gb/en/catalog/categories/departments/living_room/10687/ "An armchair."
+[poang]: https://www.ikea.com/gb/en/catalog/categories/departments/living_room/10687/ "An armchair."
 [squeezebox]: https://en.wikipedia.org/wiki/Squeezebox_(network_music_player) "A digital home audio server."
 [thinkcentre-m57p]: https://www.cnet.com/products/lenovo-thinkcentre-m57p-6073-core-2-duo-e6550-2-33-ghz-monitor-none-series/specs/ "An old tower PC."
 [ultrasharp-2407wfp]: https://www.amazon.com/Dell-UltraSharp-2407WFP-panel-monitor/dp/B00655TKFA "A 24 inch LCD monitor."
@@ -88,7 +88,7 @@ But hey, you asked for my dream setup. That's it: one computer for 20 years.
 [configurable-usb-loader]: https://gbatemp.net/threads/configurable-usb-loader.147638/ "A custom bootloader for the Wii."
 [connectbot-android]: https://connectbot.org/ "A secure shell for Android devices."
 [cyanogenmod]: http://www.cyanogenmod.org/ "A custom ROM for Android phones."
-[docbook]: http://docbook.org/ "A schema suited to writing books."
+[docbook]: https://docbook.org/ "A schema suited to writing books."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

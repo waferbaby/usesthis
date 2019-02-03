@@ -40,7 +40,7 @@ I'm pretty close to it, I think, or at least I'm enough of a luddite not to care
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
-[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [slack]: https://slack.com/ "A collaboration service."

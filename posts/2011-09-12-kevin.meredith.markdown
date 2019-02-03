@@ -96,5 +96,5 @@ As this is a dream setup I would like to own [The Vault](http://www.thevaultimag
 [skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[typinator]: http://www.ergonis.com/products/typinator/ "Mac software for text snippet shortcuts and auto-typing correction."
+[typinator]: https://www.ergonis.com/products/typinator/ "Mac software for text snippet shortcuts and auto-typing correction."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

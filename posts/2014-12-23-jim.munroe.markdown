@@ -41,7 +41,7 @@ I'm not good on these "dreams" you speak of. For a sci-fi writer, I have a hard 
 [geforce-gt-220]: https://www.geforce.com/hardware/desktop-gpus/geforce-gt-220 "A desktop computer video game card."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [avidemux]: http://avidemux.sourceforge.net "Open-source video editing software."
-[bittorrent]: http://www.bittorrent.com/ "Distributed file sharing."
+[bittorrent]: https://www.bittorrent.com/ "Distributed file sharing."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."

@@ -40,7 +40,7 @@ I'd like a secretarial pool available around the clock so I could just shout out
 [metasynth]: http://www.uisoftware.com/MetaSynth/index.php "Unique audio creation software for the Mac."
 [peak]: https://www.pcworld.com/article/157969/article.html "A music creation and editing tool."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pixelmator]: http://www.pixelmator.com/mac/ "An image editor for the Mac."
+[pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."

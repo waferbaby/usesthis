@@ -53,4 +53,4 @@ My dream setup, which hopefully I'll have in my basement someday soon, is an [AP
 [la-2a.2]: https://en.wikipedia.org/wiki/LA-2A_Leveling_Amplifier "An audio compressor."
 [pog]: https://www.ehx.com/products/pog "A polyphonic octave generator."
 [sub-buzz]: https://www.uniontone.com/shop/union-tube-transistor-sub-buzz-bass-pedal "A fuzz pedal."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."

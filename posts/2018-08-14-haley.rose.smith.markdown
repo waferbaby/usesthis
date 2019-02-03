@@ -59,7 +59,7 @@ We just bought a house so I'm really gunning for a 5.1 surround sound setup for 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [clue-android]: https://play.google.com/store/apps/details?id=com.clue.android "A period and health tracking app."
-[crunchyroll]: http://www.crunchyroll.com/ "An anime streaming service."
+[crunchyroll]: https://www.crunchyroll.com/ "An anime streaming service."
 [daylio-android]: https://play.google.com/store/apps/details?id=net.daylio "A mood tracking app."
 [dropbox-paper]: https://www.dropbox.com/paper "A document collaboration service."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."

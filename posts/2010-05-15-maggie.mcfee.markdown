@@ -46,7 +46,7 @@ The only thing I really covet right now is a fibre-channel SAN for my house. But
 *  \* - Google it. ;)
 *  \*\* - See, Rich? I not only eat your Mac 'n Cheese, I eat your dog food, too!
 
-[axiom-49]: http://www.m-audio.com/products/en_us/Axiom49.html "A 49-key USB-based MIDI controller."
+[axiom-49]: https://m-audio.com/products/en_us/Axiom49.html "A 49-key USB-based MIDI controller."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [intensity-pro]: https://www.blackmagicdesign.com/products/intensity/ "A USB-based video capture device."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
@@ -73,7 +73,7 @@ The only thing I really covet right now is a fibre-channel SAN for my house. But
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."
 [logic-studio]: https://en.wikipedia.org/wiki/Logic_Studio "A collection of software for creating and editing audio."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[media-composer]: http://www.avid.com/US/products/media-composer-software "Film and video editing software."
+[media-composer]: https://www.avid.com/US/products/media-composer-software "Film and video editing software."
 [remote-desktop]: https://www.apple.com/remotedesktop/ "Software for managing a collection of Macs."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."

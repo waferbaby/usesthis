@@ -103,7 +103,7 @@ A big house with a vast garden. A miraculous notebook that enhances my ideas. Th
 [mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."
 [nm705i]: https://www.nttdocomo.co.jp/support/utilization/product/nm705i/index.html "A basic mobile phone."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
-[sj-xw44s]: http://kakaku.com/item/K0000058750/ "A fridge."
+[sj-xw44s]: https://kakaku.com/item/K0000058750/ "A fridge."
 [syncmaster-730mp]: http://www.pcpro.co.uk/reviews/peripherals/63393/samsung-syncmaster-730mp "A 17 inch monitor/TV."
 [wave-radio-cd]: http://en.wikipedia.org/wiki/Bose_wave_systems#Wave_Radio.2FCD "A radio and CD player."
 [xel-1]: https://www.sony.jp/oel/products/XEL-1/ "An 11 inch OLED television."

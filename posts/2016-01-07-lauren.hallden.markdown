@@ -42,7 +42,7 @@ I'm still looking for an efficient and intuitive way to catalogue design inspira
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [optimizely]: https://www.optimizely.com/ "An A/B testing service."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
-[principle]: http://principleformac.com/ "A design and animation tool."
+[principle]: https://principleformac.com/ "A design and animation tool."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [slack]: https://slack.com/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

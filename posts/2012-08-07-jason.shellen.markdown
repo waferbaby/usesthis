@@ -50,7 +50,7 @@ My near term dream set-up would be an iPhone that used NFC to communicate with s
 
 Additionally, an [iPad Mini][ipad-mini] or Google Nexus with Verizon for commuting and other in-between times would complete the set-up. While we're at it I might as well ask for a pony. How about a set of glasses that do the job of the display so I could theoretically take my computing set-up with me anywhere? Not reality augmentation glasses, just a replacement for a display. I'm looking at you, Apple.
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [fitbit]: http://www.fitbit.com/ "A personal fitness tracking device."

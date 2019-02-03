@@ -51,7 +51,7 @@ I'm also big fan of the [Magic Trackpad][magic-trackpad]. Tap to click and three
 
 I'd love it if the OS had a spring-loaded mode where your finger movements counted for a quarter of the actual mouse movement. Kind of like how the iOS video player gives you [variable-speed scrubbing](http://lifehacker.com/5811660/how-to-control-the-audio-and-video-scrubbing-speed-on-your-iphone "A Lifehacker article on audio/video scrubbing on the iPhone."). If I could hold down the Function and Option keys to slow-mo my mouse, I think that'd be pretty neat.
 
-[aria]: http://www.fitbit.com/aria "A set of scales with tracking."
+[aria]: http://www.fitbit.com/au/aria "A set of scales with tracking."
 [fitbit]: http://www.fitbit.com/ "A personal fitness tracking device."
 [fridgepad]: http://www.woodforddesign.com/products/fridgepad "A fridge mount for an iPad."
 [geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."

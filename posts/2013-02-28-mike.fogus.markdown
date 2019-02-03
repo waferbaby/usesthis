@@ -69,5 +69,5 @@ Ideally, the system, its hardware and its software would be open for modificatio
 [papers]: http://papersapp.com "iTunes-like software for organising articles."
 [potion]: https://github.com/perl11/potion "An object-oriented programming language."
 [wayback-machine]: http://archive.org/web/web.php "A service for pulling up archived copies of websites."
-[wolfram-alpha]: http://www.wolframalpha.com/ "An online knowledge engine."
+[wolfram-alpha]: https://www.wolframalpha.com/ "An online knowledge engine."
 [wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."

@@ -33,7 +33,7 @@ I would love to move most of my work to a 15" [MacBook Pro][macbook-pro] with Re
 I'm pretty attached to my Aeron chair, but I've read so much about standing desks, that I would love to give it a try.
 
 [a40]: https://www.astrogaming.com/headsets/A40-MIXAMP-TR.html "Gamer headphones."
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [drobo-5d]: http://www.drobo.com/storage-products/5d/ "A Thunderbolt/USB 3 network attached storage device."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
@@ -63,7 +63,7 @@ I'm pretty attached to my Aeron chair, but I've read so much about standing desk
 [hadoop]: http://hadoop.apache.org/ "Open-source distributed data computing software."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [htcondor]: http://research.cs.wisc.edu/htcondor/description.html "Open-source distributed workload computing software."
-[ical]: https://en.wikipedia.org/wiki/ICal "Calendaring software included with Mac OS X."
+[ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [icloud]: https://www.apple.com/icloud/ "A cloud service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."

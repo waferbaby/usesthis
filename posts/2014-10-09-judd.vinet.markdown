@@ -63,7 +63,7 @@ I hope wireless charging advances to ubiquity in the next few years. Cords suck.
 
 Oh, and more battery life in everything, please.
 
-[anywhere-mouse-mx]: https://www.logitech.com/en-us/product/anywhere-mouse-mx "A compact wireless mouse."
+[anywhere-mouse-mx]: https://support.logitech.com/en_us/product/anywhere-mouse-mx "A compact wireless mouse."
 [e11]: https://www.amazon.com/FiiO-E11-Portable-Headphone-Amplifier/dp/B0053KWDES "A portable headphone amplifier."
 [e1649fwu]: http://us.aoc.com/monitor_displays/e1649fwu "A portable USB-powered display."
 [hf5]: http://www.etymotic.com/ephp/hf5.html "High-fidelity in-ear headphones."
@@ -100,7 +100,7 @@ Oh, and more battery life in everything, please.
 [sqlite]: http://www.sqlite.org/ "A self-contained database engine."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [tinc]: http://tinc-vpn.org/ "VPN software."
-[tmux]: http://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
+[tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [truecrypt]: http://truecrypt.sourceforge.net/ "Encryption software."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [zeromq]: http://zeromq.org/ "A messaging library for developers."

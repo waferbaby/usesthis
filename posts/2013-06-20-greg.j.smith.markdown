@@ -43,7 +43,7 @@ However, so as to not be a spoil sport, here is some related speculation: the on
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [clear]: https://realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[devonthink]: http://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
+[devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."

@@ -51,9 +51,9 @@ On the iPad, I almost only use the [Reeder][reeder-ios] and [Instapaper][instapa
 
 I think MacBook Air is pretty much all I want in my primary computer. But I would love to have even longer battery life. I wish there was a Kinesis Advantage keyboard that is travel-friendly (or maybe a better wrist-friendly keyboard for MacBook Air).
 
-[1208]: http://mobile.softpedia.com/phones/Nokia/Nokia-1208.shtml "A basic mobile phone."
-[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[1208]: https://mobile.softpedia.com/phones/Nokia/Nokia-1208.shtml "A basic mobile phone."
+[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [ipod-shuffle]: https://www.apple.com/ipod-shuffle/ "A very small music player."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
@@ -66,7 +66,7 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[dragonfly]: http://www.opera.com/dragonfly/ "A development and debugging tool in Opera."
+[dragonfly]: https://www.opera.com/dragonfly/ "A development and debugging tool in Opera."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [github]: https://github.com/ "A Git code repository service."
@@ -85,7 +85,7 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "A framework of extensions and themes for the zsh shell."
 [opera-mini-android]: https://en.wikipedia.org/wiki/Opera_Mini "An Android web browser that uses compression to speed up browsing."
 [opera-mobile-android]: https://play.google.com/store/apps/details?id=com.opera.browser "A web browser for Android."
-[opera]: http://www.opera.com/ "A cross-platform web browser."
+[opera]: https://www.opera.com/ "A cross-platform web browser."
 [piratepad]: http://piratepad.net/front-page/ "A collaborative text editor."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [reeder-ios]: http://reederapp.com/ios/ "A Google Reader client for iOS."

@@ -38,4 +38,4 @@ It'd be cool to have a 27-inch Retina display [iMac][], to use as a monitor. But
 [spotify-ios]: https://itunes.apple.com/us/app/spotify/id324684580 "An iOS client for the music service."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

@@ -51,7 +51,7 @@ For a home office I'd definitely like to invest in Herman Miller's [Aeron][] cha
 
 One day I want to have a real photo studio of my own. I also wouldn't mind a teleporter.
 
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [bamboo-cooling-stand]: http://www.macally.com/EN/?page_id=2333 "A cooling stand for laptops."
 [eames-lounge-chair]: http://www.hermanmiller.com/products/seating/lounge-seating/eames-lounge-chair-and-ottoman.html "A chair."
 [ef-17-40mm-f4l-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_17_40mm_f_4l_usm "An ultra-wide zoom lens."
@@ -86,7 +86,7 @@ One day I want to have a real photo studio of my own. I also wouldn't mind a tel
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
 [instacast-ios]: https://itunes.apple.com/us/app/instacast/id420368235 "A podcast app."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [layervault]: https://www.layervault.com/ "A collaboration and presentation service for designers."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
@@ -103,8 +103,8 @@ One day I want to have a real photo studio of my own. I also wouldn't mind a tel
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [sunrise]: https://itunes.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."
 [talky]: https://talky.io/ "A video chat service."
-[tmux]: http://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
+[tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[vsco-film]: http://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."
+[vsco-film]: https://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."
 [webrtc]: https://en.wikipedia.org/wiki/WebRTC "An API for browser-to-browser voice and video."

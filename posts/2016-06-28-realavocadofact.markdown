@@ -35,7 +35,7 @@ You may have noticed avocado didn't mention states or militaries or the cloud (t
 
 tyvm again for interviewing an avocado this was fun. If there's one thing to remember, it's that avocados used to be dispersed in the poop of giant mammals but now there's Twitter and globalized capitalism.
 
-[callisto]: http://www.projectcallisto.org/ "A system for reporting sexual assault at university."
+[callisto]: https://www.projectcallisto.org/ "A system for reporting sexual assault at university."
 [internet-archive]: https://archive.org/ "A non-profit Internet library."
 [mubi]: https://mubi.com/ "A subscription service for curated cult/classic movies."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."

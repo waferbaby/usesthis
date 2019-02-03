@@ -44,7 +44,6 @@ Whatever is nice. The good stuff. A big room, I guess? Running water and grass? 
 [z-88]: https://www.amazon.com/Element-Water-Proof-Mechanical-Keyboard-Anti-Ghost/dp/B01MRI44N0/ "A waterproof mechanical keyboard."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [discord]: https://discordapp.com/ "A voice and text chat service."
-[game-maker]: https://www.yoyogames.com/studio "A game creation GUI for Windows."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."

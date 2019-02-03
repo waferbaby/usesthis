@@ -42,7 +42,7 @@ Honestly, I would like a treadputer. I get all my good ideas when I go for a wal
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[devonthink]: http://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
+[devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [google-earth]: http://www.google.com/earth/ "Software for modelling a 3D view of our planet."

@@ -31,7 +31,7 @@ My dream setup would be a Thunderbolt display connected to a powerful 15 inch Ma
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
 [table-top-tripod-kit-209-492-long]: https://www.amazon.com/Manfrotto-Table-Tripod-209-LONG/dp/B002VD8380 "A tripod kit."
-[u28d590d]: http://www.samsung.com/us/computer/monitors/LU28D590DS/ZA "A 28 inch monitor."
+[u28d590d]: https://www.samsung.com/us/computer/monitors/LU28D590DS/ZA "A 28 inch monitor."
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

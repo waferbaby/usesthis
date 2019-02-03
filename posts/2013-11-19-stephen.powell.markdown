@@ -68,5 +68,5 @@ Unfortunately this would set us back around $15k, so I'll just keep dreaming for
 [pgadmin]: https://www.pgadmin.org/ "A GUI for managing PostgresSQL databases."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pivotal-tracker]: https://www.pivotaltracker.com/ "A project management service."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [zendesk]: https://www.zendesk.com/ "A customer service service."

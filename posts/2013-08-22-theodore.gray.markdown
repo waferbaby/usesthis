@@ -45,6 +45,6 @@ In terms of what would be possible with present-day technology if only Apple wou
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [the-elements-ios]: https://itunes.apple.com/app/id364147847 "An app for exploring all the known atoms in the universe."
-[wolfram-alpha]: http://www.wolframalpha.com/ "An online knowledge engine."
+[wolfram-alpha]: https://www.wolframalpha.com/ "An online knowledge engine."
 [word]: https://products.office.com/en-us/word "A document editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

@@ -41,7 +41,7 @@ I'd like a Serger for sewing jersey. Although I sew a lot of clothes for myself,
 
 I'd like a better sewing machine. My E & R is a bit of a weakling, it can't sew denim or with thick threads, and it drops stitches a lot.
 
-[bullet-journal]: http://bulletjournal.com/ "An organisational notebook."
+[bullet-journal]: https://bulletjournal.com/ "An organisational notebook."
 [classic-kpn400]: https://www.reevoo.com/p/e-and-r-classic-kpn400-sewing-machine "A sewing machine."
 [iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."

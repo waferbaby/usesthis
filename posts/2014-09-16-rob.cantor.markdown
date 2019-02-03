@@ -35,7 +35,7 @@ And, heck, while we're dreaming... I'll take a bunch more great mics, a vibey up
 [1073-console-module]: https://en.wikipedia.org/wiki/Neve_Electronics#Neve_1073_Console_Module "A preamp."
 [1176-peak-limiter]: https://en.wikipedia.org/wiki/1176_Peak_Limiter "A preamp."
 [cla-76]: https://www.waves.com/plugins/cla-76-compressor-limiter "An audio plugin."
-[decapitator]: http://www.soundtoys.com/product/decapitator/ "An analog audio plugin."
+[decapitator]: https://www.soundtoys.com/product/decapitator/ "An analog audio plugin."
 [diva]: http://www.u-he.com/cms/diva "A synth audio plugin."
 [drumlab]: https://www.native-instruments.com/en/products/komplete/drums/drumlab/ "A drum audio plugin."
 [fairchild-670]: http://www.uaudio.com/store/compressors-limiters/fairchild-670.html "An audio plugin."

@@ -33,9 +33,9 @@ At home I use [MonoDevelop][] for programming and [Chrome][] for watching [Netfl
 
 The [Mac Pros][mac-pro] are so pretty now. I would also be happy with a new PC built into a [DIYPC HTPC MiniCube][htpc-minicube] in Gold Aluminum. And I like to have a lot of those Sharpie pens around.
 
-[a30]: https://www.astrogaming.com/a30/headsets "Street/gaming headphones."
+[a30]: https://www.astrogaming.com/headsets/pc/A30.html "Street/gaming headphones."
 [cablebox-mini]: http://www.bluelounge.com/us/cablebox-mini/ "A small box for hiding cables."
-[fine-point]: http://www.sharpie.com/enus/pages/fine-point-pen.aspx "A pen."
+[fine-point]: https://www.sharpie.com/enus/pages/fine-point-pen.aspx "A pen."
 [htpc-minicube]: https://www.newegg.com/Product/Product.aspx?Item=N82E16811353030 "An aluminium PC case."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
@@ -54,7 +54,7 @@ The [Mac Pros][mac-pro] are so pretty now. I would also be happy with a new PC b
 [child-of-light]: http://childoflight.ubi.com/col/en-US/home/index.aspx "A platforming RPG."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[monodevelop]: http://www.monodevelop.com/ "A cross-platform IDE."
+[monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."

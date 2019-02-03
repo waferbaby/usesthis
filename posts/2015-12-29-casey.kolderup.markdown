@@ -43,7 +43,7 @@ I've been fascinated with the idea of "wearable computing" since some of my favo
 
 More realistically, I'd settle for a 27-30" monitor, a motorized sitting/standing desk, and an office chair that isn't the cheapest chair that was being sold in an office supply store in 2008. Compared to all that other stuff that sounds a lot more reasonable, doesn't it?
 
-[apple-tv]: https://www.apple.com/appletv/ "A device for viewing media on a TV."
+[apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [ba635]: https://www.amazon.com/Boston-Acoustics-BA635-Multimedia-Computer/dp/B00005AR7M "A three piece computer speaker system."
 [freestyle2-mac]: https://www.kinesis-ergo.com/shop/freestyle2-for-mac/ "An ergonomic keyboard."
 [freestyle2-vip3]: https://www.kinesis-ergo.com/shop/freestyle2-vip3-accessory/ "Sloping accessories for the ergonomic keyboard."
@@ -65,4 +65,4 @@ More realistically, I'd settle for a 27-30" monitor, a motorized sitting/standin
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

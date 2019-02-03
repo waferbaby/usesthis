@@ -70,7 +70,7 @@ I might eventually need a shed. Probably also a workbench with materials for exp
 [git]: https://git-scm.com/ "A version control system."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [icloud]: https://www.apple.com/icloud/ "A cloud service."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mapzen]: https://mapzen.com/ "An open mapping platform."

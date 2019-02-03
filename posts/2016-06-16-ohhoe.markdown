@@ -63,7 +63,7 @@ Some 4K borderless monitors would be nice too.
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "A framework of extensions and themes for the zsh shell."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

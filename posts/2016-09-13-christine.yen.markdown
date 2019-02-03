@@ -39,7 +39,7 @@ Otherwise, I regularly use all the other standard pieces of software in today's 
 
 I'm pretty happy with my setup for all practical intents and purposes these days, but I fell in love with Vernor Vinge's vision of [augmented reality in the near future](https://en.wikipedia.org/wiki/Rainbows_End#Augmented_reality "The augmented reality section of the Wikipedia entry for Rainbows End") from his 2007 novel Rainbows End, and now can't wait for AR overlays and smart contact lenses. I'm also holding out for a light-filled room with a window seat and wireless peripherals with signals that don't get [interfered with by USB 3.0](http://thewirecutter.com/reviews/best-usb-hubs/#note "A note on a Wirecutter article about USB 3 interference.").
 
-[34um95]: http://www.lg.com/id/monitor/lg-34UM95 "A 34 inch ultra-wide monitor."
+[34um95]: https://www.lg.com/id/monitor/lg-34UM95 "A 34 inch ultra-wide monitor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
@@ -63,7 +63,7 @@ I'm pretty happy with my setup for all practical intents and purposes these days
 [honeycomb]: https://honeycomb.io/ "A rich data analytics tool."
 [hugo]: https://gohugo.io/ "A static site generator."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
-[iterm2]: http://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."

@@ -80,7 +80,7 @@ Something that lets me work just four hours a day and lets me spend the rest of 
 [ipod-photo]: https://en.wikipedia.org/wiki/IPod_Photo "An iPod that allowed photo viewing."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mstand]: http://www.raindesigninc.com/mstand.html "A laptop stand."
+[mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [remote]: https://en.wikipedia.org/wiki/Apple_Remote "The remote control."
 [seethru-macbook-air]: http://www.speckproducts.com/macbook-cases/macbook-air/seethru-for-macbook-air.html "A hard shell case for the MacBook Air."
 [ultrasharp-1905fp]: https://www.amazon.com/Dell-UltraSharp-1905FP-Rotating-Landscape/dp/B00091R6KC "A 19 inch LCD monitor."

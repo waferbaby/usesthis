@@ -32,7 +32,7 @@ My dream hardware setup would be a [30" Thunderbolt Monitor][thunderbolt-display
 
 My dream life setup, however, would be to relocate myself and my trusty MacBook to a tropical beach, and work on my projects out there. Because, hey, I can make websites anywhere!
 
-[advantage]: http://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."

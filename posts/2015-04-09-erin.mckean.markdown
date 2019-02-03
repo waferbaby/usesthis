@@ -54,7 +54,7 @@ For sewing I just want more space... and a better way to organize the ridiculous
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mstand]: http://www.raindesigninc.com/mstand.html "A laptop stand."
+[mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [pico]: http://www.supertalent.com/products/stt_usb_detail.php?type=Pico "A physically tiny USB drive."
 [pre]: https://en.wikipedia.org/wiki/Palm_Pre "A webOS-based smartphone."
 [sarasa]: https://www.amazon.com/Zebra-Sarasa-Retractable-Medium-Point/dp/B00006JNIF "A retractable ink pen."

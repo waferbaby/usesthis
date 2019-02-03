@@ -88,7 +88,7 @@ That's it --- that's all I wish for.
 [twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [versions]: https://versionsapp.com/ "A Subversion client for the Mac."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

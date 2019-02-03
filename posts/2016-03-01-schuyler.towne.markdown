@@ -48,7 +48,7 @@ The only significant addition I'd love to make to my workshop is a [Glowforge][]
 [exos-9]: https://aiwa.co/ "A Bluetooth speaker."
 [glowforge]: https://glowforge.com/ "A 3D laser printer."
 [hitorque-mini-mill]: https://littlemachineshop.com/products/product_view.php?ProductID=3900 "A mill."
-[se303r-p]: http://www.amscope.com/stereo-microscopes/sharp-forward-stereo-microscope-10x-30x.html "A stereo microscope."
+[se303r-p]: https://www.amscope.com/stereo-microscopes/sharp-forward-stereo-microscope-10x-30x.html "A stereo microscope."
 [shapeoko-2]: https://www.inventables.com/projects/shapeoko-2-the-works-110v "A CNC machine."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [draft]: https://draftin.com/ "A version-controlled distraction-free writing service."

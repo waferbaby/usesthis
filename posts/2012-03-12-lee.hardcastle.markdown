@@ -47,7 +47,7 @@ I also plan to invest in some better lighting. At the moment as I'm a beginner w
 [newplast]: http://www.newclay.co.uk/Newplast.htm "Animation clay."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[dragonframe]: http://www.dragonframe.com/ "Stop-motion animation software."
+[dragonframe]: https://www.dragonframe.com/ "Stop-motion animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."

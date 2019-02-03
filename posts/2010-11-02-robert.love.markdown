@@ -73,4 +73,4 @@ But that isn't a dream, it is next year. Taking a broader look, I'd argue hardwa
 [rhel]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux "A certified version of the Linux distribution."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."

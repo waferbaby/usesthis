@@ -43,7 +43,7 @@ Silent room. Like, Silent silent. It'd be about 65°F with a tree and a babbling
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [gtmetrix]: https://gtmetrix.com/ "Online-based web performance analysis."
 [hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
-[kiln]: http://www.fogcreek.com/kiln/ "A hosted Mercurial version control system."
+[kiln]: https://www.fogcreek.com/kiln/ "A hosted Mercurial version control system."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
 [mercurial]: https://www.mercurial-scm.org/ "A version control system."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."

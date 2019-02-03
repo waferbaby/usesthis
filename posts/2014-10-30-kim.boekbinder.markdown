@@ -107,7 +107,7 @@ And world peace - gold sparkle.
 [paid-memberships-pro]: https://www.paidmembershipspro.com/demo/ "A Wordpress plugin for receiving payments on your site."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[pro-tools]: http://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [samplr-ios]: https://itunes.apple.com/us/app/samplr-touch-the-music/id560756420 "A touch-based music creation app."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [soundprism-pro-ios]: http://www.soundprism.com/index_pro.php "A MIDI controller for iOS."

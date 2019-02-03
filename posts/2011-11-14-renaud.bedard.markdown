@@ -59,7 +59,7 @@ I don't trust wireless mice so I'm fine with the mouse I own.
 
 I'd like to get really good audiophile headphones, like the [Grado SR80i][sr80i] or [AKG K702][k702]. It's not exactly essential to my work but since I usually wear headphones all day, it helps to have a good-sounding and comfortable pair.
 
-[aeron]: http://www.hermanmiller.com/products/seating/performance-work-chairs/aeron-chairs.html "A work chair."
+[aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [customizer-104-105]: http://hackerthings.com/product/customizer-104-105-keyboard-100099 "A keyboard in the style of the old Model M keyboards."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
@@ -80,14 +80,14 @@ I'd like to get really good audiophile headphones, like the [Grado SR80i][sr80i]
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
-[irfanview]: http://www.irfanview.com/ "An image viewer/editor for Windows."
+[irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [programmers-notepad]: http://www.pnotepad.org/ "A coder's text editor for Windows."
 [resharper]: http://www.jetbrains.com/resharper/ "A productivity tool for Visual Studio."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sourcerepo]: http://sourcerepo.com/ "Source code hosting service."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[utorrent]: http://www.utorrent.com/ "A BitTorrent client."
+[utorrent]: https://www.utorrent.com/ "A BitTorrent client."
 [virtualdub]: http://www.virtualdub.org/ "A video capture and processing tool for Windows."
 [visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."

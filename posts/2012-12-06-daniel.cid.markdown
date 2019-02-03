@@ -55,6 +55,6 @@ I don't have much of a dream setup as long as everything works. But I would cert
 [qmail]: http://www.qmail.org/top.html "An SMTP server."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [xterm]: https://en.wikipedia.org/wiki/Xterm "Terminal software for the X Window System."
 [xubuntu]: https://xubuntu.org/ "A lightweight version of the Ubuntu distribution."

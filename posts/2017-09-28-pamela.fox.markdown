@@ -56,7 +56,7 @@ Oh, and in this dream, my laptop would have a functioning USB drive.
 [bm308]: https://www.amazon.com/gp/product/B000Q7V0W4/ "A Bluetooth mouse."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mstand]: http://www.raindesigninc.com/mstand.html "A laptop stand."
+[mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [atom]: https://atom.io/ "A text editor based on web technology."
 [aws-elastic-beanstalk]: https://aws.amazon.com/elasticbeanstalk/ "A web software deployment service."
 [aws]: https://aws.amazon.com/ "Amazon's web service platforms."

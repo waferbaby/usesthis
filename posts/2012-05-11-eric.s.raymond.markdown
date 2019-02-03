@@ -47,4 +47,4 @@ I'd also like to have an Android 4.0 phone, and expect to get one within a few m
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [unity.2]: http://unity.ubuntu.com/projects/unity/ "A desktop and notebook environment."
-[xfce]: http://www.xfce.org/ "A lightweight UNIX-like desktop environment."
+[xfce]: https://www.xfce.org/ "A lightweight UNIX-like desktop environment."

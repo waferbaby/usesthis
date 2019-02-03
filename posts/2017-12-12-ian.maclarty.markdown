@@ -66,6 +66,6 @@ I'm pretty happy with what I've got. I'd like to get more into music production 
 [sfxr]: http://www.drpetter.se/project_sfxr.html "A sound generator for video games."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [valgrind]: http://valgrind.org/ "An instrumentation and analysis tool for developers."
-[vim]: http://www.vim.org/ "A command-line text editor."
+[vim]: https://www.vim.org/ "A command-line text editor."
 [visual-c-plusplus]: https://msdn.microsoft.com/en-us/library/aa187916.aspx "An IDE for Windows software development."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -52,7 +52,7 @@ Really, I want less of everything. I'd like all my stuff in the cloud somewhere,
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [tweetie-ios]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client."
 [weave]: https://en.wikipedia.org/wiki/Mozilla_Weave "A Firefox add-on for syncing bookmarks across computers."

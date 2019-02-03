@@ -42,5 +42,5 @@ My dream set up is slightly unrealistic, but perhaps I'll realize it someday (th
 [mailbox]: http://www.mailboxapp.com/ "A email client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
-[textmate]: http://macromates.com/ "A text editor for the Mac."
+[textmate]: https://macromates.com/ "A text editor for the Mac."
 [venmo]: https://venmo.com/ "A payment service."

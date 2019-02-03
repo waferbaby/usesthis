@@ -29,7 +29,7 @@ We use [Celtx][] to write the scripts and then to breakdown and create schedules
 
 In all honesty, I'm not very techy, but thankfully my team is. I could live only with my bed and my iPhone in my hand, and with my MacBook on the bed so I can watch Girls, Bored to Death and House of Cards... oh, and Bron!
 
-[alexa-mini]: http://www.arri.com/alexamini/ "A digital video camera."
+[alexa-mini]: https://www.arri.com/alexamini/ "A digital video camera."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

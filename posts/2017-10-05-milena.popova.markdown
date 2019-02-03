@@ -39,7 +39,7 @@ I'm also a big fan of something my friends and I term "care robots" - various ap
 One of the things I'd like to get into at some point is video, for which I'd probably need a better camera, a better lighting set-up, and more RAM. Also, video editing on Linux is dicey, so that's something to (reluctantly) think about. In an ideal world I'd probably also have a better mic, a screen, and maybe even a sound-proof recording space.
 
 [galaxy-s8]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S8 "A 5.8 inch Android smartphone."
-[handshoe]: http://handshoemouse.com/ "An ergonomic mouse."
+[handshoe]: https://handshoemouse.com/ "An ergonomic mouse."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."

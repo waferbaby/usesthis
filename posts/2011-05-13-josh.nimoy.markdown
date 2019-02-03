@@ -52,7 +52,7 @@ Keyboards are okay, but I'd rather have [electrodes](http://www.desicolours.com/
 [php]: http://php.net/ "An interpreted scripting language."
 [processing]: https://processing.org/ "A programming language/environment."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[scons]: http://www.scons.org/ "A software build tool."
+[scons]: https://www.scons.org/ "A software build tool."
 [subversion]: http://subversion.tigris.org/ "A version control system."
 [visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

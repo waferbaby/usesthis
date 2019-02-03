@@ -86,7 +86,7 @@ I want zero viruses, trojans, malware.
 
 I'm trying to build some of these things - right now I'm still stuck on the first point - making software that's not broken.
 
-[arduino]: http://arduino.cc/ "Open-source prototyping hardware."
+[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
 [ds411slim]: https://www.synology.com/en-us/products/overview/DS411slim "A NAS device for 2.5 inch drives."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [integra-7]: http://www.rolandus.com/products/details/1245 "A synth module with over 6000 sounds."
@@ -96,7 +96,7 @@ I'm trying to build some of these things - right now I'm still stuck on the firs
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[rd-700nx]: http://www.roland.com/products/en/RD-700NX/ "A MIDI keyboard."
+[rd-700nx]: https://www.roland.com/products/en/RD-700NX/ "A MIDI keyboard."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
 [aspell]: http://aspell.net/ "A spell checking system."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
