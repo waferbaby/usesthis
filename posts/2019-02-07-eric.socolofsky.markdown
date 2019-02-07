@@ -1,5 +1,5 @@
 ---
-title: Eric Solofsky
+title: Eric Socolofsky
 summary: Data visualisation developer (Uber)
 categories:
 - data
