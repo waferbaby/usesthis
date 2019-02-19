@@ -5,6 +5,7 @@ categories:
 - developer
 - linux
 - mac
+- mathematician
 - web
 ---
 
