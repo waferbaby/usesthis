@@ -36,23 +36,22 @@ padding: 0;
 
 div#wrapper {
 margin: auto;
-max-width: 650px;
+max-width: 600px;
 }
 
 header#masthead {
 display: grid;
 margin-bottom: 25px;
-padding-top: 20px;
 }
 
 header#masthead nav {
 border-bottom: solid 1px #ffcce6;
 border-top: solid 1px #ffcce6;
-font-size: 120%;
+font-size: 110%;
 grid-column: 1/3;
 grid-row: 2;
-margin: 10px 0 5px 0;
-padding: 20px;
+margin: 5px 0;
+padding: 10px 25px;
 text-transform: uppercase;
 }
 
@@ -64,8 +63,8 @@ header#masthead p {
 align-self: center;
 border-left: solid 1px #ffcce6;
 color: #666;
-font-size: 90%;
-margin-left: 50px;
+font-size: 85%;
+margin-left: 30px;
 padding: 0 15px;
 }
 
@@ -106,7 +105,7 @@ margin: 10px 0;
 
 h1 {
 color: #fe2e9a;
-font-size: 250%;
+font-size: 300%;
 line-height: 1em;
 margin: 0;
 padding: 0;
@@ -117,7 +116,7 @@ h1 a {
 background: url(/images/general/logo.svg) no-repeat;
 background-size: contain;
 display: block;
-padding: 50px 0 50px 200px;
+padding: 50px 0 50px 220px;
 text-decoration: none;
 }
 
@@ -257,7 +256,7 @@ padding: 0;
 margin-bottom: 10px;
 }
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 625px) {
 
   article.interviewee img {
   float: none;
@@ -266,17 +265,20 @@ margin-bottom: 10px;
   }
 
   h1 {
-  font-size: 250%;
+  font-size: 220%;
+  place-self: center;
   }
 
   h1 a {
-  background-size: 100px 100px;
-  display: inline-block;
-  padding: 0 0 0 120px;
+  padding: 160px 0 0 0;
+  }
+
+  h1 a span {
+  display: inline;
   }
 
   header#masthead {
-  padding: 25px 20px 0 20px;
+  padding: 0 20px 0 20px;
   }
 
   header#masthead nav {
