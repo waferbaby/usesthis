@@ -29,40 +29,42 @@ background-size: 100% 250px;
 color: #000;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 font-size: 1.2em;
-line-height: 1.3em;
+line-height: 1.6em;
 margin: 0;
 padding: 0;
 }
 
 div#wrapper {
 margin: auto;
-max-width: 600px;
+max-width: 650px;
 }
 
-div#wrapper > header {
-border-bottom: solid 1px #ffcce6;
+header#masthead {
 display: grid;
 margin-bottom: 25px;
 padding-top: 20px;
 }
 
-div#wrapper > header nav {
-font-size: 90%;
+header#masthead nav {
+border-bottom: solid 1px #ffcce6;
+border-top: solid 1px #ffcce6;
+font-size: 120%;
 grid-column: 1/3;
 grid-row: 2;
 margin: 10px 0 5px 0;
-padding: 10px 0;
+padding: 20px;
 text-transform: uppercase;
 }
 
-div#wrapper > header nav a {
+header#masthead nav a {
 color: #000;
 }
 
-div#wrapper > header p {
+header#masthead p {
+align-self: center;
 border-left: solid 1px #ffcce6;
 color: #666;
-font-size: 70%;
+font-size: 90%;
 margin-left: 50px;
 padding: 0 15px;
 }
@@ -73,9 +75,7 @@ font-size: 80%;
 margin: 5px 0 20px 0;
 }
 
-main p {
-line-height: 1.7em;
-}
+
 
 dt {
 display: block;
@@ -105,17 +105,19 @@ margin: 10px 0;
 }
 
 h1 {
-align-self: center;
 color: #fe2e9a;
 font-size: 250%;
-grid-column-start: 1;
-grid-row: 1;
+line-height: 1em;
 margin: 0;
 padding: 0;
 text-transform: lowercase;
 }
 
 h1 a {
+background: url(/images/general/logo.svg) no-repeat;
+background-size: contain;
+display: block;
+padding: 50px 0 50px 200px;
 text-decoration: none;
 }
 
@@ -125,6 +127,7 @@ text-decoration: underline;
 }
 
 h1 a span {
+display: block;
 color: #fe2e9a;
 }
 
@@ -151,6 +154,11 @@ padding: 0;
 img.detail, img.portrait {
 border: solid 1px #aaa;
 padding: 5px;
+}
+
+main {
+margin: auto;
+max-width: 550px;
 }
 
 main > h2 + p {
@@ -249,7 +257,7 @@ padding: 0;
 margin-bottom: 10px;
 }
 
-@media all and (max-width: 750px) {
+@media all and (max-width: 700px) {
 
   article.interviewee img {
   float: none;
@@ -257,17 +265,29 @@ margin-bottom: 10px;
   width: 100%;
   }
 
-  div#wrapper > header {
+  h1 {
+  font-size: 250%;
+  }
+
+  h1 a {
+  background-size: 100px 100px;
+  display: inline-block;
+  padding: 0 0 0 120px;
+  }
+
+  header#masthead {
   padding: 25px 20px 0 20px;
   }
 
-  div#wrapper > header nav {
+  header#masthead nav {
+  font-size: 80%;
   grid-row: 4;
+  padding: 10px 0;
   }
 
-  div#wrapper > header p {
+  header#masthead p {
   border: 0;
-  font-size: 80%;
+  font-size: 70%;
   grid-column: 1;
   grid-row: 3;
   padding: 0;
