@@ -148,7 +148,7 @@ margin: 20px 0 5px 0;
 padding: 0;
 }
 
-img {
+img.detail, img.portrait {
 border: solid 1px #aaa;
 padding: 5px;
 }
@@ -274,7 +274,7 @@ margin-bottom: 10px;
   margin: 25px 0 0 0;
   }
 
-  img {
+  img.detail, img.portrait {
   height: auto;
   padding: 0;
   width: 100%;
