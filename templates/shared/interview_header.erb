@@ -1,15 +1,12 @@
 <header>
   <figure>
-  <% if selected %>
-    <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= interview.title %>">
-    <% if interview.credits %>
+    <% unless selected %><a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="u-url"><% end %>
+      <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= interview.title %>">
+    <% unless selected %></a><% end %>
+
+    <% if selected && interview.credits %>
       <figcaption>Image by <% if interview.credits.url %><a href="<%= interview.credits.url %>" title="More details about <%= interview.credits.name %>."><%= interview.credits.name %></a><% else %><%= interview.credits.name %><% end %><% if interview.credits.licence %> (<a href="http://creativecommons.org/licenses/<%= interview.credits.licence %>/4.0/" title="The <%= interview.credits.licence.upcase %> Creative Commons licence."><%= interview.credits.licence.upcase %></a>)<% end %>.</figcaption>
     <% end %>
-  <% else %>
-    <a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="u-url">
-      <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="300" height="201" class="portrait" alt="A picture of <%= interview.title %>">
-    </a>
-  <% end %>
   </figure>
   <% if selected %>
     <h2 class="p-name"><%= interview.title %></h2>
