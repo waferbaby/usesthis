@@ -7,15 +7,6 @@ a:hover {
 color: #fe2e9a !important;
 }
 
-article.interviewee {
-clear: left;
-}
-
-article.interviewee img {
-float: left;
-margin: 0 40px 40px 0;
-}
-
 article header {
 padding-bottom: 20px;
 margin-bottom: 20px;
@@ -29,7 +20,7 @@ background-size: 100% 250px;
 color: #000;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 font-size: 1.2em;
-line-height: 1.6em;
+line-height: 1.3em;
 margin: 0;
 padding: 0;
 }
@@ -37,6 +28,10 @@ padding: 0;
 div#wrapper {
 margin: auto;
 max-width: 600px;
+}
+
+div.e-content p {
+line-height: 1.7em;
 }
 
 header#masthead {
@@ -81,7 +76,6 @@ margin: 0 0 10px 0;
 
 footer {
 border-top: solid 1px #eee;
-clear: left;
 font-size: 75%;
 margin-top: 20px;
 text-align: center;
@@ -151,7 +145,7 @@ max-width: 550px;
 main > h2 + p {
 font-size: 80%;
 margin: 10px 0 20px 0;
-padding-bottom: 10px;
+padding-bottom: 15px;
 border-bottom: solid 1px #eee;
 }
 
@@ -255,19 +249,13 @@ margin-bottom: 10px;
 
 @media all and (max-width: 625px) {
 
-  article.interviewee img {
-  float: none;
-  margin: 0;
-  width: 100%;
-  }
-
   h1 {
-  font-size: 180%;
+  font-size: 300%;
   place-self: center;
   }
 
   h1 a {
-  padding: 140px 0 0 0;
+  padding: 220px 0 0 0;
   }
 
   h1 a span {
