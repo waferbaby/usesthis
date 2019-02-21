@@ -59,22 +59,11 @@ header#masthead nav a {
 color: #000;
 }
 
-header#masthead p {
-align-self: center;
-border-left: solid 1px #ffcce6;
-color: #666;
-font-size: 85%;
-margin-left: 30px;
-padding: 0 15px;
-}
-
 dd {
 display: block;
 font-size: 80%;
 margin: 5px 0 20px 0;
 }
-
-
 
 dt {
 display: block;
@@ -105,7 +94,7 @@ margin: 10px 0;
 
 h1 {
 color: #fe2e9a;
-font-size: 300%;
+font-size: 250%;
 line-height: 1em;
 margin: 0;
 padding: 0;
@@ -151,8 +140,7 @@ padding: 0;
 }
 
 img.detail, img.portrait {
-border: solid 1px #aaa;
-padding: 5px;
+border: solid 1px #555;
 }
 
 main {
@@ -200,6 +188,15 @@ padding: 0;
 nav.categories p {
 margin: 0;
 padding: 0;
+}
+
+p#description {
+align-self: center;
+border-left: solid 1px #ffcce6;
+color: #666;
+font-size: 75%;
+margin-left: 30px;
+padding: 0 20px;
 }
 
 p#licence {
@@ -265,12 +262,12 @@ margin-bottom: 10px;
   }
 
   h1 {
-  font-size: 220%;
+  font-size: 180%;
   place-self: center;
   }
 
   h1 a {
-  padding: 160px 0 0 0;
+  padding: 140px 0 0 0;
   }
 
   h1 a span {
@@ -286,16 +283,7 @@ margin-bottom: 10px;
   grid-row: 4;
   padding: 10px 0;
   }
-
-  header#masthead p {
-  border: 0;
-  font-size: 70%;
-  grid-column: 1;
-  grid-row: 3;
-  padding: 0;
-  margin: 25px 0 0 0;
-  }
-
+  
   img.detail, img.portrait {
   height: auto;
   padding: 0;
@@ -306,6 +294,15 @@ margin-bottom: 10px;
   padding: 0 20px;
   }
 
+  p#description {
+  border: 0;
+  font-size: 70%;
+  grid-column: 1;
+  grid-row: 3;
+  padding: 0;
+  margin: 25px 0 0 0;
+  }
+  
   ul.categories {
   grid-template-columns: 50% 50%;
   }
