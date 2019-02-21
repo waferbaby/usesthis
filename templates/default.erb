@@ -20,23 +20,23 @@
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
   <% if page.date %>
-    <meta property="og:title" content="Uses This: <%= page.title %>" />
-    <meta property="og:description" content="<%= page.summary %>" />
-    <meta property="og:type" content="article" />
-    <meta property="article:published_time" content="<%= page.date.iso8601 %>" />
+    <meta property="og:title" content="Uses This: <%= page.title %>">
+    <meta property="og:description" content="<%= page.summary %>">
+    <meta property="og:type" content="article">
+    <meta property="article:published_time" content="<%= page.date.iso8601 %>">
   <% page.categories.each do |category| %>
-    <meta property="article:tag" content="<%= category %>" />
+    <meta property="article:tag" content="<%= category %>">
   <% end %>
-    <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg" />
-    <meta property="og:image:type" content="image/jpeg" />
-    <meta property="og:image:width" content="500" />
-    <meta property="og:image:height" content="335" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Uses This: <%= page.title %>" />
-    <meta name="twitter:description" content="<%= page.summary %>" />
-    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg" />
-    <meta name="twitter:label1" content="Published" />
-    <meta name="twitter:data1" content="<%= page.date.strftime('%B %-d, %Y') %>" />
+    <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:image:width" content="500">
+    <meta property="og:image:height" content="335">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Uses This: <%= page.title %>">
+    <meta name="twitter:description" content="<%= page.summary %>">
+    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= page.slug %>/portrait.jpg">
+    <meta name="twitter:label1" content="Published">
+    <meta name="twitter:data1" content="<%= page.date.strftime('%B %-d, %Y') %>">
   <% end %>
   </head>
   <body>
