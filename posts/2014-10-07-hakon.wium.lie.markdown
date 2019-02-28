@@ -47,6 +47,8 @@ My dream setup also includes a browser which can show data and documents in page
 
 Final wish: an electric car with a tow hitch.
 
+*Lie now keeps a [changelog of his latest setup](https://www.wiumlie.no/uses-this/changelog "Lie's setup changelog.").*
+
 [eos-6d]: https://en.wikipedia.org/wiki/Canon_EOS_6D "A 20.2 megapixel DSLR."
 [fastpack-250]: https://store.lowepro.com/backpacks/fastpack-250 "A laptop/camera backpack."
 [frontier-580]: https://www.argoadventure.com/Argo_Frontier_580_6x6.html "An amphibious vehicle."
