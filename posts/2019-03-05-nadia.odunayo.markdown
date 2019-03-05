@@ -1,6 +1,6 @@
 ---
 title: Nadia Odunayo
-summary: Software engineer, CTO (CodeNewbie)
+summary: Software engineer, founder (The StoryGraph)
 categories:
 - developer
 - mac
@@ -9,11 +9,11 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm [Nadia Odunayo](http://www.nadiaodunayo.com/ "Nadia's website."). I'm a software engineer, conference speaker, and entrepreneur. I used to be a director at Ignition Works, a company that helped enterprise teams run their cloud platforms. Most recently, I've been CTO at [CodeNewbie](https://www.codenewbie.org/ "A community helping people learn to code."), creating content and building tools to support people learning to code. In my spare time, I do [a lot of dancing](https://www.instagram.com/nodunayo/ "Nadia's Instagram account.") and [reading](https://www.goodreads.com/user/show/10407617-nadia "Nadia's Goodreads account.").
+I'm [Nadia Odunayo](http://www.nadiaodunayo.com/ "Nadia's website."). I'm a software engineer, conference speaker, and entrepreneur. I used to be a director at Ignition Works, a company that helped enterprise teams run their cloud platforms. I'm currently starting up a new company called '[The StoryGraph](https://www.thestorygraph.com/ "Nadia's website for avid readers.")', building a website for avid readers. In my spare time, I do [a lot of dancing](https://www.instagram.com/nodunayo/ "Nadia's Instagram account.") and [reading](https://www.goodreads.com/user/show/10407617-nadia "Nadia's Goodreads account.").
 
 #### What hardware do you use?
 
-Two main items: I've got a 2017 13" [MacBook Pro][macbook-pro] and an [iPhone 8][iphone-8]. The other piece of hardware I couldn't live without are my black [Jaybird X3][x3] headphones. They're not perfect, and it looks like they're discontinued now — so I'll probably be looking for new ones soon.
+Two main items: I've got a 2017 13" [MacBook Pro][macbook-pro] and an [iPhone 8][iphone-8]. The other piece of hardware I couldn't live without are my black [Jaybird X3][x3] headphones. They're not perfect, and it looks like they're discontinued now - so I'll probably be looking for new ones soon.
 
 I use a wireless [Apple Magic Keyboard][magic-keyboard], a [Logitech webcam][c270-hd] (it's not very good, quality is low, and picture is harsh) and a [Logitech mouse][ls1]. Then there's my [beyerdynamic DT 770 PRO headphones][dt-770-pro] that I've been using for 6/7 years now, and my [Audio-Technica AT2020USB+][at2020usb-plus] microphone that I've had since 2015. The mic is super useful when I'm collaborating remotely with someone or for podcast recordings and interviews.
 
