@@ -9,7 +9,7 @@ categories:
 
 #### Who are you, and what do you do?
 
-I'm [Nadia Odunayo](http://www.nadiaodunayo.com/ "Nadia's website."). I'm a software engineer, conference speaker, and entrepreneur. I used to be a director at Ignition Works, a company that helped enterprise teams run their cloud platforms. I'm currently starting up a new company called '[The StoryGraph](https://www.thestorygraph.com/ "Nadia's website for avid readers.")', building a website for avid readers. In my spare time, I do [a lot of dancing](https://www.instagram.com/nodunayo/ "Nadia's Instagram account.") and [reading](https://www.goodreads.com/user/show/10407617-nadia "Nadia's Goodreads account.").
+I'm [Nadia Odunayo](http://www.nadiaodunayo.com/ "Nadia's website."). I'm a software engineer, conference speaker, and entrepreneur. I used to be a director at Ignition Works, a company that helps enterprise teams run their cloud platforms. I'm currently starting up a new company called '[The StoryGraph](https://www.thestorygraph.com/ "Nadia's website for avid readers.")', building a website for avid readers. In my spare time, I do [a lot of dancing](https://www.instagram.com/nodunayo/ "Nadia's Instagram account.") and [reading](https://www.goodreads.com/user/show/10407617-nadia "Nadia's Goodreads account.").
 
 #### What hardware do you use?
 
