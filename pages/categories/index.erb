@@ -11,10 +11,7 @@ title: Categories
     <h3 id="<%= letter %>"><%= letter.upcase %></h3>
     <ul class="categories">
       <% slugs.each do |slug| %>
-        <li>
-          <a href="/categories/<%= slug %>/" title="All the <%= site.categories[slug].name %> interviews."><%= site.categories[slug].name %></a><br>
-          <span class="summary"><%= site.categories[slug].posts.count %> interview<% if site.categories[slug].posts.count != 1 %>s<% end %>.</span>
-        </li>
+        <li><a href="/categories/<%= slug %>/" title="All the <%= site.categories[slug].name %> interviews."><%= site.categories[slug].name %></a> (<%= site.categories[slug].posts.count %>)</li>
       <% end %>
     </ul>
   <% end %>
