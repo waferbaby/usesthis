@@ -6,7 +6,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey! My name is Dante, I'm a writer and sometimes game designer. Depending on what I'm working on, I'm generally either writing for games or writing critically about games. 
 
@@ -14,7 +14,7 @@ My most recent big project was being the editor for the first quarterly release 
 
 All my projects & writing history can be found at [my website](http://dante.cool/ "Dante's website."), and you might know my name from writing at Paste Magazine, Waypoint, Polygon, or just [Twitter](https://twitter.com/videodante "Dante's Twitter account."). Or you might not know who I am at all. In which case, hi. I'm Dante and I do things about videogames.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have two computers, my desktop and my laptop. Generally those are where I get work (& games) done.
 
@@ -32,7 +32,7 @@ Other than that, I have a [Pixel][] [Android][] smartphone. The first model, bec
 
 Oh and I also have a [Nintendo Switch][switch.2]. Against all my expectations I really like it.
 
-#### And what software?
+### And what software?
 
 For work organization, I am a devotee of the Google suite, as much as I'd like not to be. [Calendar][google-calendar], [Keep][google-keep], and [Drive][google-drive] are the backbone of my workflow. I use [Slack][] for specifically workplace-related organization & communication. Occasionally I'll use [Trello][] if it's a task bigger than something Keep is built to handle, or if it requires task-delegation of some sort.
 
@@ -44,7 +44,7 @@ For game dev, I love [GameMaker Studio][gamemaker]. [Unity][] is nice, but most 
 
 For any graphical work, I use either [GIMP][] or [Pyxel Edit][pyxel-edit], both free tools that are extremely good. For audio, [Audacity][], which is also free & good.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly? I don't have much in the way of wants. I suppose all the basic upgrades (better video card, more RAM, whatever) but nothing specific beyond that. The best dream setup would be to work in a place (physically or career-wise) where I feel like I am satisfied with where I am and ready to do more. 
 

@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am Jennifer Reitz, and I've had a colorful career. In the 80's I was a game designer and illustrator. I started at Activision, selling a game of my own (which never was made) and worked on many properties such as Transformers, Aliens, Shanghai, Bee-Gee Rally and many more. I also did work for Electronic Arts, Epyx, Broderbund, Sculptured Software and Interplay among others. I did graphics and consulted on design. Toward the end of the 80's, I formed my own company, Accursed Toys, and released Boppin' (a puzzle-action game), Lab-O-Life, Peek-A-Boo Simulator and even did a free Doctor Who fangame on the side.
 
@@ -18,17 +18,17 @@ In the early 2000's I enjoyed doing many online comics, which were collected int
 
 During the past decade I have been effectively retired, enjoying video games, exploring virtual reality, and writing bizarre novels. I don't know what I might try next - whatever catches my fancy, basically.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I started in the games industry drawing art for games using [Micro Illustrator][micro-illustrator] on the [Commodore 64][commodore-64]. I drew with a joystick! When the Amiga and the Mac rolled around, I found the wonder of using a mouse and that was wonderful until graphic tablets showed me a better way. I worked on whatever machine or system was needed at the time, in the 80's. I did my first webcomics and my first published games on an [Amiga 1000][a1000] (an original, with the team signatures under the hood!). Currently, I am on a custom-built [Windows 10][windows-10] rig (I helped construct it!). For virtual reality, I mostly use the [Oculus Rift][oculus-rift], though occasionally I turn to my [Vive][]. For drawing, I use a [Wacom Intuos][intuos] and pen. I use a single 54" flatscreen monitor for most work.
 
-#### And what software?
+### And what software?
 
 For general arting around I default to [Sketchbook Pro][sketchbook-pro], combined with [Paint Shop Pro][paint-shop-pro]. I use [Cool Edit Pro][cool-edit-pro] for sound file work. For writing, I use [LibreOffice][libreoffice] Writer. For web work, I use [Expression Web][expression-web].
 
 Back in the 80's, my favorite art program of all time was [Deluxe Paint][deluxe-paint]. To this day, I miss that wonderful tool.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I basically have that now, but if I could have one thing it would be a brand new, updated Deluxe Paint brought back from history for the modern age. 
 

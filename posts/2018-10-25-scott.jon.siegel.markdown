@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Scott Jon Siegel](http://numberless.net/ "Scott's website.")! I'm a game designer currently residing in Oakland, California.
 
@@ -17,7 +17,7 @@ As a designer of casual games, I like to tell people that I make games for every
 
 These days I'm consulting and contracting, working with some truly great clients on a variety of exciting projects. I also sing [karaoke mashups](http://numberless.net/blog/project/krashups/ "Scott's page about his karaoke mashups."), which is exactly what it sounds like.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main computer is a 13" 2014 [MacBook Pro][macbook-pro], which I strongly feel is "peak Apple": Fantastic back-lit keyboard (that doesn't get jammed); Trip-proof MagSafe power connector; glowing Apple logo on the lid. With an SSD and maxed-out RAM, it's still lightning fast even after four years, and I'm in no rush to upgrade.
 
@@ -27,7 +27,7 @@ At home I have a 21.5" 2017 [iMac][] with a second monitor, which acts as home b
 
 I do a lot of commuting to and from San Francisco by BART and bicycle, and spend most of my time working either out of coffeeshops or clients' offices. I haul my gear around in a [Timbuk2 Command Backpack][command], which has a gloriously excessive number of pockets and compartments. One constant in my backpack is a portable 14" whiteboard, because I can't imagine working without a whiteboard and get kind of salty when a client doesn't have one.
 
-#### And what software?
+### And what software?
 
 Some game designers are numbers-focused, with a lot of the design work focused on tuning variables within spreadsheets. Because I'm an experience-focused designer, my most important tools are those that let me explore interaction concepts, and help visualize and share design direction with others.
 
@@ -43,7 +43,7 @@ I save most of my files in [Dropbox][] to keep them synced between my desktop an
 
 My brain lives in the cloud. I use [Wunderlist][] to keep track of all my tasks. [1Password][] remembers my umpteen-million logins so I don't have to. And I've been using [Simplenote][] to take notes on literally everything for the past ten years (which reminds me I really should backup my Simplenote archive. brb)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Portability's the most important thing for my current work dynamics. Give me a fast laptop, a comfy bag, and an easy way to doodle ideas, and I can be productive from pretty much anywhere.
 

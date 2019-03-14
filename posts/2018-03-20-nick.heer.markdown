@@ -8,13 +8,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey there, I'm Nick Heer. I'm enthusiastic about taking photographs, but I'm not a photographer. I've been writing [Pixel Envy](https://pxlnv.com/ "Nick's website.") for about seven years, but I'm not a writer either. I write "web designer/developer" in the *Occupation* field of official documents. I'm a professional converter of coffee into bytes.
 
 I live right smack in the middle of Calgary.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a maxed-out mid-2012 13-inch [MacBook Air][macbook-air] that still works very well, and it is connected to my [Thunderbolt Display][thunderbolt-display] about 95% of the time. I use one of Apple's aluminum Bluetooth keyboards and a second-generation Magic Trackpad.
 
@@ -28,7 +28,7 @@ I use a [Canonet QL-19 "New"][canonet-ql19] and a [Leica Q][q.2] to make photogr
 
 I use an [AeroPress][] to brew Monogram or Phil & Sebastian coffee.
 
-#### And what software?
+### And what software?
 
 Websites are built using [Coda][], [Transmit][], and [TextMate][]. Because I started designing websites in the early 2000s, I still use [Photoshop][] (CS 5.1!) to create mockups and build graphics.
 
@@ -40,7 +40,7 @@ I waste time in [Slack][] and [Tweetbot][].
 
 On my iPhone, I keep up with the news using [Reeder][reeder-ios], check how cold Calgary is using [Weather Line][weather-line-ios], and find out when the bus arrives using [Transit][transit-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd like to have something faster and more capable for handling the very large RAW files off my camera, and being able to have Slack open in the background. The non-Touch Bar [MacBook Pro][macbook-pro] is very appealing -- especially when paired with a [5K display][ultrafine-5k] -- but I have worries about the keyboard's long-term reliability and I do wish it had an SD card slot. The 5K [iMac][] also looks tremendous, but I still want portability for that 5% of the time when I really need it. I guess I'll see what WWDC brings this year.
 

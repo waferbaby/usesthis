@@ -7,11 +7,11 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Nadia Odunayo](http://www.nadiaodunayo.com/ "Nadia's website."). I'm a software engineer, conference speaker, and entrepreneur. I used to be a director at Ignition Works, a company that helps enterprise teams run their cloud platforms. I'm currently starting up a new company called '[The StoryGraph](https://www.thestorygraph.com/ "Nadia's website for avid readers.")', building a website for avid readers. In my spare time, I do [a lot of dancing](https://www.instagram.com/nodunayo/ "Nadia's Instagram account.") and [reading](https://www.goodreads.com/user/show/10407617-nadia "Nadia's Goodreads account.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Two main items: I've got a 2017 13" [MacBook Pro][macbook-pro] and an [iPhone 8][iphone-8]. The other piece of hardware I couldn't live without are my black [Jaybird X3][x3] headphones. They're not perfect, and it looks like they're discontinued now - so I'll probably be looking for new ones soon.
 
@@ -21,7 +21,7 @@ I've also got a [FreeNAS][] system set up. Currently it just runs [Time Machine]
 
 Oh, and how could I forget my beloved [Kindle Paperwhite][kindle-paperwhite] (5th Generation)? I've had it since 2013 and it's still working great.
 
-#### And what software?
+### And what software?
 
 The app I live by, and refer to multiple times a day on both my MacBook and iPhone is [Things][]. I read David Allen's 'Getting Things Done' when I was recommended the app and heard that it was built to allow people to follow the GTD methodology. I was sold and have been using Things successfully for about 5 years now. People always marvel about how I ‘never forget anything' — the thing is, I don't have to try and remember: following GTD and using Things sorts it all out for me.
 
@@ -29,7 +29,7 @@ Software I use on my MacBook: [Google Chrome][chrome], [1Password][], [Apple Mai
 
 And on my iPhone, the most used apps are: [Headspace][headspace-meditation-ios] for meditation (currently on a 585 day streak!), [Zero][zero-ios] to track my fasting (I do a lot of daily intermittent fasting), [Overcast][overcast-ios] for my podcasts (I listen to loads but at the moment I'm enjoying catching up with ‘How I Built This'), [Stronglifts][stronglifts-ios] for my gym weightlifting programme, [Citymapper][citymapper-ios] for finding the quickest way to get anywhere in London, [Monzo][monzo-ios] for transactions out and about, [WhatsApp][whatsapp-ios], and [Instagram][instagram-ios] for posting my dance videos and watching those of others!
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 With regards to the hardware and software, I'm pretty happy with everything. 
 

@@ -7,7 +7,7 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Jenn Sandercock](http://jennsand.com/ "Jenn's website.") and I'm a game designer. I've been working in games for 8 years now, mostly in digital games, but I have a passion for all kinds of experimental games, including real-world/physical games. I grew up in Melbourne, Australia, but I'm currently based in Seattle. I love the weather here (rain is awesome) and the snow-capped mountains. I also love how tech obsessed most people are.
 
@@ -19,7 +19,7 @@ I also got to work with [Sensible Object](http://sensibleobject.com/ "A connecte
 
 As the new year begins, I'm ramping back up on my personal passion project: a series of edible tabletop games. That is, games where you actually eat the pieces and eating changes the gameplay somehow. I've already come up with over half a dozen [edible games](http://jennsand.com/edibleGames/overview.php "Jenn's edible games.") and my current plan is to develop more of them and then put them into a cookbook that tells people how to bake them and then how to play them!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I mostly work from my [2015 MacBook Pro][macbook-pro]. I don't like Macs, I only use it because I used to make mobile games and you can't make [iOS][] games without having a Mac. Note that's not entirely true, but they make it so hard that's it's just easier to get a Mac.
 
@@ -33,7 +33,7 @@ When I'm doing cooking, I just use my home kitchen which isn't fantastic. There'
 
 The best thing about my kitchen set up is my partner... He'll often come into the kitchen after I've been cooking and do all the cleaning and washing for me!
 
-#### And what software?
+### And what software?
 
 [Trello][] is both my super power and my weakness. If something doesn't go on Trello, then it basically won't happen. I can get a bit obsessed with it... Sometimes I've done a task that wasn't on Trello and then created a Trello task just so I can mark it as "done". I've thought long and hard about how I set up my main Trello board and I have a system that goes from left to right. I have lists for the next 4 weeks of to dos, backlog, "do today", "doing", "done today", "done this week", "done this month". I use [Card Counter][card-counter-for-trello] so I can feel a sense of accomplishment, rather than having tasks just disappear. I've been keeping track of cards completed for my personal life for 2 years now and I can see when I have a big month in tasks.
 
@@ -51,7 +51,7 @@ For Thimbleweed Park, we use [Square][] to run payment transactions at our booth
 
 As I start to work on my book editing and layout, I'm sure I'm going to add a whole new slew of software to my list.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Firstly the location: A coworking space with some likeminded people who I could have lunch with every so often, within one ride on public transport (no transfers!). Currently, it's two buses for me or a bike ride up a hill or I end up driving (and I hate commuter driving).
 

@@ -7,7 +7,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](https://twitter.com/timmaughan "Tim's Twitter account.") a writer. I use both fiction and non-fiction to explore technology and how it impacts on people and their lives. I've got a particular fixation with the future of work at the moment, but I'm also constantly fascinated by cities, public spaces, surveillance capitalism, and how emerging technology impacts class and inequality. I've got a novel, _Infinite Detail_, being published next year by FSG. It's about what happens if we decide to destroy the internet.
 
@@ -15,7 +15,7 @@ I also do a lot of collaborations with artists, filmmakers, and speculative desi
 
 Away from writing my main obsession is electronic music, and especially techno. It's true to say I actually spend the majority of my time listening to, thinking about, or trying to make techno, even when it looks like I'm doing something else.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A few years ago I made a trip up the consumer electronics supply chain to look at the labour and environmental impact of manufacturing and our lust for new technologies. We spent a week on a container ship, visited electronics and Christmas factories in China, and ended up at a toxic lake in Inner Mongolia that is the result of rare earth mining. It's basically a 5 mile wide pool of semi-radioactive sludge that's the byproduct of polishing smartphone screens and making the magnets in your earphones.
 
@@ -25,7 +25,7 @@ Similarly I'm still using my [iPhone 6s][iphone-6s], which I'm hoping I can get 
 
 Apart from them, the main other thing in my bag is a cheap-ass 50 buck Sony voice recorder, which I use as a backup for doing interviews/capturing audio in case my phone battery is dead. It's super reliable and easy to use. It's got like 3 buttons and a USB jack. Sometimes I wish most the stuff I use was that simple.
 
-#### And what software?
+### And what software?
 
 Mainly [Pages][] on the Mac for writing, and [Keynote][] for presentations. [Calendar][] keeps me organized. Editors and people I collaborate with love to use [Google Docs][google-docs], and luckily it's got a lot better over the last few years. But I'm never happy having my work on servers I don't own or control, to be honest. There's something very disturbing knowing that my words are being consumed by the world's largest semi-automated advertising network. I personally use [Dropbox][] for sharing and backing up, but I'm not under any illusion that my data is any safer from algorithmic surveillance on there as opposed to Google or Apple.
 
@@ -33,7 +33,7 @@ For music my main platform is [Ableton Live][live], alongside [Native Instrument
 
 The other piece of software I've become reliant on is [Freedom][]. It's a cross platform app that allows me to block my own access to [Twitter][] apart from a few hours a day. It keeps me both productive and sane.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 What I'd love - and maybe this exists somewhere - is a semi-dumb phone. Basically a touch screen phone that gives me calls, texts, emails, a camera, and maps - and nothing else. And everything has to be local, it doesn't connect to any cloud services. I can't install apps on it. And that when I tap in a simple PIN it wipes all my private data and images instantly. 
 

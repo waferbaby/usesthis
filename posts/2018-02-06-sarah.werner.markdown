@@ -7,13 +7,13 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Sarah Werner](http://sarahwerner.net/ "Sarah's website.") (although sometimes folks know me better as [@wynkenhimself](https://twitter.com/wynkenhimself "Sarah's Twitter account.")). I've recently started calling myself an independent librarian, basically a made-up job that sounds better than "independent scholar." I trained to be an English professor: I got a PhD and wrote a dissertation about Shakespeare and performance and feminism ([it's also a book!](https://www.amazon.com/Shakespeare-Feminist-Performance-Ideology-Accents/dp/0415227305/ "Sarah's book about Shakespeare, performance and feminism.")). And then life happened. I didn't get a tenure-track job, I got married, I had a couple of kids. Through some [making of my own luck](http://sarahwerner.net/blog/2013/01/make-your-own-luck/ "Sarah's post on making your own luck.") (I hate talking about being lucky; it's hard work to be ready to seize opportunities) I ended up working at the [Folger Shakespeare Library](https://www.folger.edu/ "A library with the world's largest Shakespeare collection.") as director of their undergraduate program, and so I turned into a book historian and digital media scholar. I fell in love with rare books libraries and how we today interact with old books, and so I quit that job to write and to work as a consultant for special collections libraries.
 
 I've just finished writing a book about how books were made in the first centuries of the printing press and how we work with them today; _Studying Early Printed Books, 1450-1800: A Practical Guide_ will be out from Wiley Blackwell in spring 2018. While the book is in production I'm developing a website that will host images of early printed books and teaching resources.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I rely heavily on my crappy old laptop, a [Dell Latitude 6430u][latitude-6430u] that I bought I don't even know when -- I think 2013 when I had to take a research trip to England and it was pretty new? The trackpad clicker only works in its sweetspot and I've worn through the coating on the "n" key, but other than that, it's trucking along just fine and it's where I do all my work.
 
@@ -23,7 +23,7 @@ Other odds and ends: I do a lot of pleasure reading on my [Kindle Paperwhite][ki
 
 Finally, the biggest category of hardware that I depend on are all my books. I read novels on my Kindle, but work books are always paper codices. I find them easier to take notes on, to refer back to, and even just being able to stand in front of my shelves and stare at them can be helpful.
 
-#### And what software?
+### And what software?
 
 I wrote my book entirely in [Scrivener][] and it made the whole thing possible. Since the book is largely constructed out of chunks of information (these are the steps for laying out type, this is how books are bound, here is how you understand catalog records), using Scrivener let me start out with an outline that I could then slowly build up into blocks of coherent text. I could rearrange blocks as I needed, mark sections as incomplete, and easily move between different places in the project. If I hadn't had it, I don't think I could have really grasped both the large picture of what I was writing and the smaller details.
 
@@ -37,7 +37,7 @@ The website itself is built on [WordPress][] with a whole lot of modifications f
 
 I keep all of this and everything backed up on [SpiderOak][spideroak-one], because I am a packrat and a hoarder and if I lose my work it will never get published and I will never get paid.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Oh, man. I would love a computer with a bigger screen because my eyes are getting old. I work at home at a built-in standing desk now, but ideally I'd like one that had adjustable height and even an adjustable seat because sometimes you just want to sit down. I always need more bookshelves, and books. If I could get full access to all the online databases I need without paying an arm and a leg, I would be thrilled. (It's hard to do research when you don't have an academic affiliation.)
 

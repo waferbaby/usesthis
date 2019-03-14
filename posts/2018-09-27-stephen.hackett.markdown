@@ -7,7 +7,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am the co-founder of [the Relay FM podcast network.](https://www.relay.fm/ "A podcast network.") We are home to nearly 30 nerdy podcasts ranging from covering companies like Apple, Google and Microsoft to talking about design and development. We have a show about the space industry and another about fountain pens.
 
@@ -21,7 +21,7 @@ My side side project is building a pretty extensive collection of Macintosh comp
 
 I live in my hometown of Memphis, TN with my wife, our three children, a dog and a Roomba.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 The heart of my setup is an entry-level [iMac Pro][imac-pro]. I converted from the latop-and-a-big-screen lifestyle when I built my studio in 2016, but always wanted more power than the 5K iMac could provide.
 
@@ -37,7 +37,7 @@ On the video side, I am shooting in 4K on a [Sony α7r II][a7r-ii] I bought seco
 
 In my front left pocket, there is always a Field Notes notebook, with a [Uni-ball Jetstream Ballpoint Pen][jetstream-sport-0.7] clipped to it.
 
-#### And what software?
+### And what software?
 
 I'm all-in on [macOS.][macos]
 
@@ -47,7 +47,7 @@ On the video side, I edit in [Final Cut Pro X][final-cut-pro-x] because one time
 
 As far as writing, I am currently creating [Markdown][] in [iA Writer][ia-writer], with copious amounts of research saved in Apple's [Notes][] app.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As great as my iMac Pro is, I'd love to live in a world where I could have this much power in a Mac notebook that docked into a big display when I get to the studio. Basically, [the PowerBook Duo.](https://www.macstories.net/mac/three-tiny-laptops/ "A MacStories article about three small laptops.")
 

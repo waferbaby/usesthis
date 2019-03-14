@@ -7,7 +7,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Bertrand Fan](http://thatsaspicymeatball.com/ "Bert's website."), an engineer on the Platform team at [Slack][]. I [build things](https://api.slack.com/ "The Slack API.") so that you can [build things](https://api.slack.com/apps?new_app=1 "The process for starting a new Slack app."), but sometimes I [also](https://bobamcbobaface.com/ "Bert's boba tea group order tool for Slack.") [build](https://dopewarsbot.com/ "Bert's Dope Wars bot for Slack.") [things](https://vandelayindustries.online/ "Bert's Seinfeld GIF bot for Slack.") to verify that the things that I'm building actually help you build things.
 
@@ -15,7 +15,7 @@ I'm less interesting than my wife, [Iris Willow](http://iriswillow.com/ "Iris' w
 
 Previously, I [helped Barack Obama become president](https://en.wikipedia.org/wiki/Barack_Obama_presidential_campaign%2C_2008#MyBo "The Wikipedia entry for Obama's 2008 campaign."), built [VR](https://techcrunch.com/2015/12/09/flickr-comes-to-gear-vr-with-360-degree-photo-viewing-experience/ "A TechCrunch article about Flickr's VR support.") at [Flickr][] and [architected its transition to a Node.js stack](https://www.youtube.com/watch?v=vBo0aFtg1_M "The YouTube video of Bert's talk about switching Flickr to Node."), and [failed at building a startup](https://www.wired.com/2012/10/recollect-gives-social-media-ephemera-a-permanent-home/ "A Wired article about Bert's social media archival startup.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [256 GB Jet Black iPhone 7][iphone-7] and my [AirPods][airpods] with me at all times. If you have the kind of ear canals that can tolerate in-ear monitors, you should use those instead, they sound way better. I put my phone in an [ElevationDock][elevationdock-3] with a [NanoPad][nanopad.2] that uses thousands of tiny suction cups to secure it to my bedside table. 
 
@@ -49,7 +49,7 @@ I rarely travel without my [Fujifilm X100S][x100s], [iPad Mini 2][ipad-mini-2], 
 
 If there is a theme here, it's that the hardware you love will become discontinued and sometimes won't be replaced by anything better. So if you can afford to, buy two (or three) of them and set them aside for when the first one breaks.
 
-#### And what software?
+### And what software?
 
 [OS X][macos] is my primary operating system. I had held out for ages on upgrading but the [Meltdown and Spectre attacks](https://meltdownattack.com/ "Details about the Meltdown and Spectre vulnerabilities.") forced me to upgrade to High Sierra.
 
@@ -83,7 +83,7 @@ Whenever I'm writing [Markdown][], like right now when I'm writing the answers t
 
 I use [OmniGraffle][] to create flowcharts, [Keynote][] for presentations, and [Photoshop][] for image manipulation. [Highlight][] is useful for pasting syntax highlighted code into a Keynote slide.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 In most places I've worked, I've slowly acquired monitors until there's no room left on my desk to add any more until I do an ergo evaluation and they convince me to get rid of them all. For this reason, I'll be happy to switch to a VR headset as my primary display when they are high resolution enough to not make me want to throw up after using them for sustained periods of time.
 

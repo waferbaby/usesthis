@@ -7,7 +7,7 @@ categories:
 - producer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I’m Kamina Vincent! Hi! 
 
@@ -22,7 +22,7 @@ I’m also the volunteer coordinator for Games Connect Asia Pacific, a game deve
 
 I’ve recently been diagnosed with ADHD which has helped me understand how my brain works and getting systems in place to help me get things done! 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [MacBook Air][macbook-air] at work with a second monitor. I’ve got the laptop resting on an [iPad Pro][ipad-pro] box to get it to the right height. This all sits on a standing desk that I’m using to prop up my monitor but I’ve not used it standing yet. 
 
@@ -36,7 +36,7 @@ When I travel for work, I’ll use either the Mountains iPad Pro, work laptop, o
 
 Of course, my phone ([Samsung S7][galaxy-s7]) is always with me!
 
-#### And what software?
+### And what software?
 
 Does [Google][] count? I do spend a decent chunk of my time using it to find solutions to problems, answers to my questions, and learning. 
 
@@ -50,7 +50,7 @@ Being able to create spaces/desktops is super helpful for me. On my external mon
 
 For my personal projects, I’m currently migrating to [Asana][]. It’s a very similar idea to my work set up: different spaces/desktops depending on task, Spotify, calendar, and a notebook. I use the [Chrome][] extension [Forest][], which is based on the Pomodoro technique and blocks access to any sites that I haven’t whitelisted. It helps me think of what I need going into a task, rather than just diving straight in! 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I’m pretty flexible about where I can work. I need some noise to keep me focused and a space that’s dedicated to work or study so I don’t get distracted. I enjoy working from cafes, especially if I’m part of a study group.
 

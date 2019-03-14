@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I'm [Jess](http://jessallison.com/ "Jess' website."). Sometimes known as Jalli. I've been a Digital Producer forever (okay, ten years) but I've recently taken a side-step into [Service Design](https://medium.com/@shahrsays/so-what-actually-is-service-design-e0ed602b77a9 "A Medium article explaining service design.") and become a Delivery Manager at [Paper Giant](http://papergiant.net/ "A design consultancy in Melbourne."). It's ace.
 
@@ -22,13 +22,13 @@ In my spare time I listen to podcasts, take photos, and generally try to have a 
 
 I have an [ESFJ personality](https://www.16personalities.com/esfj-personality "An article describing the ESFJ personality.") (I think), and [Enneagram Type Two](https://www.enneagraminstitute.com/type-2/ "An article explaning the Ennegram Type Two.") (for sure). My spirit animal is the squirrel.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm currently rocking a [13" MacBook Air][macbook-air] and an [iPhone 6][iphone-6]. Part of me wants to try [Android][] when this iPhone dies, but I'm married to Apple and the divorce would be messy.
 
 My [Fuji X-T10][x-t10] was purposefully too advanced for my level of photography when I bought it, and has helped me lift my game.
 
-#### And what software?
+### And what software?
 
 My essentials are:
 
@@ -62,7 +62,7 @@ My iOS favourites are:
 
 It sounds like chaos but these apps and systems all play a part in helping me Get Things Done... and fend against those pesky worst case scenarios.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Digitally, it would be unlimited internet speed and cloud storage.
 

@@ -7,11 +7,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Erin Kissane](http://incisive.nu/ "Erin's website."). I'm a writer and editor who lives inside the tech ecosystem, kind of like the clownfish that live in anemones. I edit [Source](https://source.opennews.org/ "A community site for OpenNews."), an online magazine/community site for [OpenNews](https://opennews.org/ "A group supporting open code and processes within newsrooms."), which is a nonprofit that supports open code and open process in newsrooms. I also edit books, and [I've written one](https://abookapart.com/products/the-elements-of-content-strategy "Erin's A Book Apart book about content strategy."), so far. I recently moved from NYC to the woods.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use Apple laptops that are light enough for me to carry around easily, the same [Logitech trackball][trackman-marble] I've had for 15 years, and a big bright high-res monitor because of eyestrain. I use the smallest viable iPhone at any given point, and lots of interchangeable pairs of low-end Sony earbuds. At night I plug in one in one ear and set the Audible app to read comforting dull books to me, which prevents my brain from freaking itself out so I can fall asleep.
 
@@ -23,7 +23,7 @@ We live near a major faultline and in a place where the power goes off a lot, so
 
 I use a fountain pen with a slightly bent nib, and no one but me can get it to write, which is my favorite kind of security. I carry tiny Swiss Army knives, which also have the best splinter-removing tweezers built in, but I have never used the toothpick. The big knives live in the kitchen, and I have opinions about them, but the metal object I'm really into right now is a 36" ripping bar.
 
-#### And what software?
+### And what software?
 
 Back when you originally asked me to do this, I was really psyched about some software and mostly now I don't care. I'm writing this in [Byword][], and I write a lot on paper. Long things go in [Scrivener][], heavy research in [Zotero][]. [Google Docs][google-docs] for collaborative editing, [Pandoc][] for format-juggling. It's all pretty clunky. I track Source editorial in [GitHub][] and we also use it to make our household work. I use public library databases a lot, especially for medical and historical research. Some of them offer excellent access from home with a library card.
 
@@ -37,7 +37,7 @@ I travel in merino and Arc'teryx super-light quick-dry technical clothing and ju
 
 Our medicine cabinet has fever reducers and asthma medications that are basically magic. This is all amazing. I have a few dozen herbal potions to deal with all the things that don't work well in my body, and that's a constant process of tweaking, but I'm many times healthier than I was 15 or 20 years ago, so something is working.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Sticking to technology, I want a sauna, an internet that isn't destroying democracy and society, and a cure for pain.
 

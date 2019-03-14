@@ -6,11 +6,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Sasha Burchuk and last year I founded an interdisciplinary design studio called [New Age Design Studio](http://www.newagedesign.studio/ "Sasha's design studio."). The focus of the studio is a furniture product line and interior design.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 That's kind of a funny question because a lot of the hardware that I use actually comes from the hardware store! But if we are talking about computers (and not hinges and door pulls) then I actually use an old [MacBook Air][macbook-air] and a newer Lenovo IdeaPad. I prefer the intuitive navigation of Apple products, but the laptops just don't have enough processing power to run programs like [Rhino][] and [AutoCAD][].
 
@@ -24,7 +24,7 @@ In the Concrete workshop the setup is more simple. We use bespoke metal form tab
 
 On the digital fabrication side there is an Epilog Helix CNC laser.
 
-#### And what software?
+### And what software?
 
 I try to avoid using software as much as I can because it really slows me down and hinders my creativity, but it is essential for precision and technical drawings. 
 
@@ -32,7 +32,7 @@ I use [InDesign][], [Photoshop][] and [Illustrator][] for branding-related colla
 
 For moodboards I use [Dropmark][] because I can't stand the performance issues that [Pinterest][] has.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 In my dream setup I actually have time and money to build out my studio and all three of these facilities are under one roof, instead of being located in different parts of town! I'd say that I am very well set up to do what I do all things considered and I feel very fortunate.
 

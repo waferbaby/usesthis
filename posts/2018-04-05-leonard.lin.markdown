@@ -9,13 +9,13 @@ categories:
 - technologist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Leonard Lin](http://randomfoo.net/ "Leonard's website."), an independent technologist. Most recently I've been spending most of my time working on VR and cryptocurrency related projects. Previously I spent more than a few years building custom photo/media hardware and software for my company [Lensley Automatic](http://lensley.com/ "A photobooth company."), and before that I co-founded [Upcoming.org][upcoming], ran the Hack Program at Yahoo!, built tech for the [Obama](https://barackobama.com/ "Obama's website.") '08 campaign, and helped start [Code for America](https://www.codeforamerica.org/ "A service helping modernise the US government.").
 
 I've also been wandering around the world for about 4 years now (40+ countries), mostly traveling with a medium-sized (31L) backpack with a "one-in-one-out" gear policy (much easier to stick to when you carry it all on your back). I spend more time than anyone probably should thinking about gear, gadgets, and general yak-shaving.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm constantly swapping stuff out, so take this as a condensed, point in time (early 2018) snapshot. In the past I've sometimes [listed my gear on Kit](https://kit.com/lhl "Leonard's Kit account.") and defunct sites like [Bagcheck](https://www.crunchbase.com/organization/bagcheck "The Crunchbase entry for Bagcheck."), or on my (rarely updated) [travel blog](https://locationsetbygps.com/ "Leonard's travel weblog."). I'll start with my travel gear and then see how far I get.
 
@@ -41,7 +41,7 @@ I've been upgrading my weatherproof gear for some time, and one of the most impo
 
 Outside of travel, I've gone through and use way too much computer gear and electronics gear to mention (dozens of different ARM SBC boards and microcontrollers, PCs of all shapes and sizes) and tens if not hundreds of thousands of dollars of unique camera/imaging equipment and other esoteric hardware. While I've been largely nomadic, I've recently settled into a new place, largely to be able to migrate my electronics workbench (a large VR space is a nice bonus as well, especially as my [Vive][] is now fully untethered, first with a backpack PC, and now with a [TPCast][tpcast-wireless-adapter-vive]). In general I have more gadgets to go through than hours in the day. Lately I've been playing with Bluetooth protocol reverse engineering, NFC cloning, mobile fingerprint sensors with embedded systems, and trying to figure out if it's possible to make a more capable cinematography drone than DJI can in the same size envelope (maybe not without significantly more focus/time investment than I've given it so far).
 
-#### And what software?
+### And what software?
 
 While I've been using Linux for over 20 years now, on the desktop side, although I'd occasionally dip my toes back in, it had always been easier and more productive for me to use Macs since [OS X][macos] was introduced. The tides started turning for me a few years back as first I started having more and more problems with a fleet of production Macss that I used for Lensley (we eventually switched almost all of these to tiny PCs running [Ubuntu LTS][ubuntu]). Each Mac OS upgrade also started making my life noticeably worse, but the devolution of the Macbook hardware was the final straw and I finally decided it'd be worth the effort to get serious about switching off and optimizing/customizing my computing environment. After an abortive attempt to use Ubuntu, I ended building again from the ground up with [Arch Linux][arch-linux] (yak-shaving for over a month fixing broken things in the evenings while touring through New Zealand in a minivan camper). I now have a fairly customized [`openbox`][openbox] windowing setup (plenty of custom shortcuts, including a shortcut to easily edit and reload my `rc.xml` and menus whenever and I decide to add anything new, and [`compton`][compton], [`hsetroot`][hsetroot], [`tint2`][tint2], [`albert`][albert], [`clipit`][clipit] among other helper utilities). I spend a lot of my time in [`urxvt`][rxvt-unicode], [`fish`][fish], [`byobu`][byobu] and [`vim`][vim]. I strongly prefer dark color schemes these days and I've largely standardized around [Base16][] Ocean. I love how [Source Code Pro][source-code-pro] looks and I use the [Powerline][] patched version as my main font. My dotfiles are private and I've switched from using dots to dotdrop for dotfile management across multiple machines. I haven't completely switched to my Model 01 keyboard, but I have made some [firmware tweaks](https://github.com/lhl/Model01-Firmware "Leonard's Model 01 firmware tweaks on GitHub.") to make my life easier with terminal management and the like when using it. For my other keyboards I make use of `setxkbmap` and `xcape` primary to turn capslock into a dual super/esc key.
 
@@ -59,7 +59,7 @@ I read and write a lot, and primarily use [Pocket][] Premium as my dumping groun
 
 For travel, I've used [TripIt][] Pro for a long time and it continues to (sloooowly) get incrementally more useful (that being said, TSA Pre, Global Entry, and an APEC card give a lot more bang for your buck on the travel convenience front). [Airbnb][] and Booking.com are my go-to's for lodgings, and [Google Flight's][google-flights] continent-destination view is a great tool for jengaing together last minute flight plans. I'm trying to do a better job with centralizing and figuring out my travel points situation, but while I feel like I would appreciate the benefits, it's never risen anywhere near the top of my TODO list. Also, while it's fallen out of favor, I use [Foursquare][] a lot, and I find it useful both from a QS perspective (I use the API to collect my checkins for historical purposes and live city updates on my map) and in terms of global recommendations, where it still tends to do surprisingly well (presumably thanks to fellow diehards).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 In my ideal world, I'd like to drastically condense the amount of gear that I carry - a single lightweight compute brick with low latency, high bandwidth, and seamless communications with both remote computing resources and local lightweight tactile input, gestural sensing, audio interfaces, mixed reality glasses, and maybe a sunlight-readable tablet. Until we get to that future, I'll unpack my near-term desires a bit more.
 

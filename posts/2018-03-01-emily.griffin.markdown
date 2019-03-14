@@ -7,7 +7,7 @@ categories:
 - stylist
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Emily Griffin](http://daybrighten.com/ "Emily's website.")! I grew up in a suburb of Houston, Texas and relocated to Brooklyn about 2.5 years ago. I've been styling for [Stitch Fix][stitch-fix] while balancing and growing my illustration career.
 
@@ -17,7 +17,7 @@ You may have seen my work featured on BuzzFeed, Brooklyn Magazine, [Tumblr][], A
 
 Aside from art, I am a huge fan of true crime podcasts, watching basketball (go Houston), and karaoke. I enjoy makeup (I recently wrote [a piece about highlighters](https://www.womenshealthmag.com/beauty/highlighter-techniques "Emily's highlighters article for Women's Health.") for Women's Health online), shopping for vintage clothing, and the color pink. I love New York, but am constantly missing Sonic happy hour and good brisket.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I work from home in my room. I have a tiny little IKEA desk, but you'll usually find me working from the floor (I have recently invested in a velvety floor cushion) or sitting on my bed. I know it's bad! I'm a real troublemaker.
 
@@ -31,7 +31,7 @@ I'll photograph traditional art with my phone, but these days I am usually worki
 
 While I work, I will listen to podcasts on my [iPhone X][iphone-x]!
 
-#### And what software?
+### And what software?
 
 The biggest surprise here is that I don't have [Adobe Creative Suite][creative-suite], I am still learning it! So when I purchased the iPad Pro, it was to encourage my journey into digital art since i'd only worked on paper before. It definitely helped bridge that gap - I use [Procreate][procreate-ios] and love it! I've purchased some amazing brush sets from Ben Lew that I use a lot.
 
@@ -41,7 +41,7 @@ I keep long-form notes, budgeting, and daily/hourly schedule lineups in [Simplen
 
 I also use [Philips Hue bulbs][hue] for my main lighting - I turn off all my other lamps and keep the light on a dim "relax" setting before bed :) 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Ideally, a way bigger room - I feel like most people in Brooklyn would say that. I'd love to have my own apartment with another bedroom to use as an office and studio space, with great natural lighting and room for a larger desk as well as storage for my paints, markers, and paper. With a larger room, I'd also have space for a printer with high-quality color to produce my own prints and easy shipping labels. Finally, I'd love to have a more lightweight MacBook Pro, since this 2010 one is pretty heavy to carry around to coffee shops!
 

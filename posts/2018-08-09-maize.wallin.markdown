@@ -6,7 +6,7 @@ categories:
 - windows 
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Maize](https://www.maizewallin.com/ "Maize's website.")! I'm a Melbourne based composer, sound designer, and audio programmer. My focus is in 3D spatialised audio, and dynamic music, using cutting edge techniques.
 
@@ -16,7 +16,7 @@ I've recently been appointed to the Widget board of directors, representing the 
 
 I've also been making an educational gardening game, about seasons and produce in Victoria. It's been combining my passions for tech, teaching, facilitating, and food.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Oooooof. Compared to devs, musicians don't have it easy. We use a LOT.
 
@@ -38,11 +38,11 @@ I use a little [Focusrite 2i2][scarlett-2i2] as my audio interface. I also have 
 
 I also have a few MIDI controllers. I've always been really focused on being very portable, so my favourite setup is to have my [Roli Seaboard Block][seaboard-block], and my [Launchpad Mini][launchpad-mini], with my laptop. But I'm pretty good at not using any instruments and just composing from laptop.
 
-#### And what software?
+### And what software?
 
 [Ableton][live], [Izotope RX][rx], [Reaper][], [Unity][], [Wwise][] (in that order.) Oh and [Excel][], and [Google Docs][google-docs]. Spreadsheets run my life.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is a totally AR office, so that I can sit under a tree and type onto the grass. It's getting there. Cortana is getting really great at text dictation.
 

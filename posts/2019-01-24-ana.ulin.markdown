@@ -7,11 +7,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Ana Ulin](https://anaulin.org/ "Ana's website."), and I'm a software engineer and engineering manager. I love working with others to build software, and for fun I read, hang out with friends, knit and solve puzzles.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main personal machine is a 2014 13" [MacBook Air][macbook-air]. I love the form factor, and the battery performance ratio. It is not the most computationally powerful of machines, but these days if I wanted to do anything intensive I would run it somewhere on the cloud anyway.
 
@@ -29,7 +29,7 @@ Recently I got a [reMarkable][] tablet as a gift, and I've enjoyed playing with 
 
 Speaking of Kindle, I am a huge fan and do most of my non-web reading on a [Kindle Oasis][kindle-oasis]. I have owned most of the Kindle models so far, and they just keep getting better.
 
-#### And what software?
+### And what software?
 
 For coding, I use [VSCode][visual-studio-code], and sometimes [Atom][] or [Vim][] for quick text-oriented editing. I'll try any editor that lets me set vim keybindings, which are really the one thing I can't live without for code editing.
 
@@ -46,7 +46,7 @@ For other miscellaneous tasks, I use:
   - [Alfred][] for automating little tasks, like easily adding tasks to a text file of to-dos, or hiding all windows and locking my laptop in one go
   - [Chrome][] for web browsing
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be a new MacBook Air, and a 4K external display. I'd also love to upgrade my phone and iPad Mini to the latests versions of those same devices.
 

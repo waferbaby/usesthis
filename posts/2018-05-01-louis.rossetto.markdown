@@ -12,11 +12,11 @@ credits:
   licence: by
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I'm](https://about.me/louisrossetto "Louis' About.me page.") full circle back to describing myself like I did when I graduated from university --- namely, a writer. In between, I've been an entrepreneur, the co-founder, E-I-C, publisher, and CEO of Wired, a web pioneer (Hotwired), a chocolate maker (TCHO), a father, a contrarian, and a troublemaker (what it says on LinkedIn).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Lots. My main computer is a sturdy [Mac Pro][mac-pro] (mid-2010, 2 x 3.46 GHz 6-Core Intel Xeon) hotrodded with 64GB of memory, an OWC PCIe RAID 480 SSD that holds only the system and apps, an [NVIDIA GeForce GTX 1060][geforce-gtx-1060] 6GB graphics card, USB3 card, a PCIe RAID filled with 4TB of mSATA SSDs for all my photos, a bunch of other hard drives inside the Mac Pro for data and clones, a [27 inch Apple LED Cinema Display][cinema-display] and a [23 inch Apple Cinema HD Display][cinema-hd-display]. I have ScanSnap scanner, as well as a [Epson Perfection V600][perfection-v600] photo scanner, as well as a Nikon slide scanner. I have a [Dymo 4XL][labelwriter-4xl] mailing label printer (love it), and a [Brother Pro DX][pt-9200dx] for PTouch labels.
 
@@ -42,11 +42,11 @@ For home automation, I have a dozen [Alexa Echoes][echo], a dozen [Hue][] bulbs,
 
 No 3D printing, I leave that to my son.
 
-#### And what software?
+### And what software?
 
 In no order: [Microsoft Office][office], [Adobe Creative Suite][creative-suite] (of which I use [Lightroom][], [InDesign][], [Illustrator][], [Photoshop][], [Acrobat][]), DxO PhotoLab, [TeamViewer][], [VMWare Fusion][vmware-fusion] so I can run Windows (the Vantage whole house lighting software can only be programmed from Windows), [Dropbox][] for storage, [1Password][], [Carbon Copy Cloner][carbon-copy-cloner], [FontExplorer X Pro][fontexplorer-x], CrashPlan for backups, [Notes][], [EverNote][], Apple's [Mail][], [Safari Technology Preview][safari-technology-preview], [Firefox][], [Fantastical][] for calendaring, Apple's [Contacts][], [Scrivener][] for complex writing, [Spotify][], [VueScan][] for scanning, [SpamSieve][] for junk mail screening, [Remote Desktop][remote-desktop], [Screens][], [DiskWarrior][] to fix messed up hard drives, Hue software, [iConnectHue][iconnecthue-ios], [Yonomi][yonomi-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I suppose I'm waiting for the new Mac Pro, but Apple's been passive aggressive about their computer business that I have no faith that they understand the needs of professionals any more, nor the power of the halo of high end systems on their entire business. I don't really have a dream set up at this point. I have an ecology of equipment I use, which is in a process of constant maintenance, upgrade, or replacement. I'll probably upgrade my Synology NAS to the new [RS818+][rs818-plus], because the current model I'm running is feeling slow. I'm probably going to upgrade the screens to 4K so I can work on my photos better.
 

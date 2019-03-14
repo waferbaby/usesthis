@@ -6,7 +6,7 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 "My name is Inigo Montoya, you killed my father, prepare to die!"
 
@@ -28,7 +28,7 @@ Currently still doing my thing. Very cool records with younger artists, such as 
 
 Also, in the last two years, I've hosting a podcast with my bestie, Stewart Lerman, a super talented music producer. It's called [Gear Club](https://itunes.apple.com/us/podcast/gear-club-podcast/id1187432394 "John and Stewart's podcast on iTunes."). It's the "Car Talk" of audio podcasts.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I was born analogue so I still have an affinity to analogue gear. Big fan of Daking anything. I love the mic pres for guitars, but they sound great on anything. API mic pres and 560 eq's are fun to use. I have been working on a bunch of API consoles lately. Love them. Of course 80 series Neve is also fantastic, but I don't own any of that stuff.
 
@@ -38,11 +38,11 @@ Who's got two thumbs and loves guitar pedals? This guy. Electro Harmonix, mostly
 
 For efx, I still use tape delays and plates for reverb. I love all the Eventide pedals. I can get a cool effect with any of the all the time. I also still use my 1980's vintage Eventide flanger. Nothing like it. Also, if the studio has Leslie, I'll run shit through it.
 
-#### And what software?
+### And what software?
 
 [Pro Tools][pro-tools] is everywhere and super useful. Clip gain is very useful in mixing. For converters, I just use what the studio has. That's the freelance mixer in me. I love the Eventide plugins. They do it right. And I know first hand. I tend to use plugins that are representative of the analogue gear I have. I think it's a comfort factor. Whether in the box or on a console, I do all my sidechain compression and approach mixing the same way. It works for me great.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup, which hopefully I'll have in my basement someday soon, is an [API 1608][1608] console. Small but effective. All the UAD plugins. All the Eventide plugins. Some Buerle A to D converters. It's kind of impossible practicality wise, but I'd love an Ampex ATR 1/2" tape machine for mixdown. But I'm not a tech so it doesn't really make sense. Would love one rack of hardware listed above and a foot massager.
 

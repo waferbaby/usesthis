@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Parker Higgins, and I'm the Director of Special Projects at the [Freedom of the Press Foundation](https://freedom.press/ "A non-profit defending an open press."). Before that, I was the Director of Copyright Activism at the [Electronic Frontier Foundation](https://www.eff.org/ "A non-profit fighting for digital civil liberties."). I also an a 2017 alum of [the Recurse Center](https://www.recurse.com/ "A programming retreat in New York City."), which is a wonderful programming community that helped me learn a lot of what I do and continues to be a source of inspiration.
 
@@ -23,7 +23,7 @@ Another example is a site I run called [FOIA The Dead](https://foiathedead.org/ 
 
 Beyond that, there's the emoji trainscape bot [@choochoobot](https://twitter.com/choochoobot "Parker's Twitter bot that shows emoji-based train landscapes."), some [archiving work](https://www.nytimes.com/2018/02/01/business/media/gawker-archives-press-freedom.html "A New York Times article about Parker's work preserving the contents of Gawker.") that I do on the job, and weird little things like [spelling out words with three-letter airport codes](https://www.atlasobscura.com/articles/how-many-words-can-you-make-with-airport-codes "An Atlas Obscura article about Parker's airport code word project.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do almost everything on a [ThinkPad T460s][thinkpad-t460s] that I specced out as far as I could afford to about two years ago. It's a really sturdy and reliable machine, and I intend to stick with it as long as I possibly can. Most of my work is not very computation-heavy, but I have felt the constraints of the machine when [dabbling with machine-learning stuff](https://twitter.com/xor/status/923685654973812736 "Parker's tweet about training a neural network on New York City dog names."), for example.
 
@@ -33,7 +33,7 @@ When I'm shooting pictures I use an Olympus [OM-D E-M10][om-d-e-m1-mark-ii], mos
 
 All of my bots and my personal site and other projects live on a [DigitalOcean][] box out there in the cloud somewhere, with a little bit of [S3][] thrown in for good measure.
 
-#### And what software?
+### And what software?
 
 My desktop runs [Xubuntu][], which is of course a version of the popular [Ubuntu][] OS with the lightweight [Xfce][] desktop environment. For a long time I've been vaguely interested in "upgrading" to a more hardcore desktop situation, probably with a tiling window manager. Then again, at this point I mostly have open a browser with lots of tabs and a [tmux][] session with lots of tabs, so it just doesn't make that big a difference.
 
@@ -43,7 +43,7 @@ My blog runs on [WordPress][], which is truly inspirational as a piece of softwa
 
 When I'm [writing code](https://github.com/thisisparker/ "Parker's GitHub account."), it's almost exclusively [Python][], with a little bit of [JavaScript][] thrown in. When I was writing [gotham-grabber][], I got really excited about the browser automation stuff that you can do with [Puppeteer][], so I had to do a little bit of [Node][node.js].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly I feel like I'm close! I'd maybe get a nicer keyboard and I could always get a new camera lens, but I personally feel like I'm past the point where hardware or software is holding me back. What I need is a library full of reference books so I can learn everything that's already available to me.
 

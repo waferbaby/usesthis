@@ -9,7 +9,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! I'm [Gary](https://www.garygale.com/ "Gary's website."). That's the easy part out of the way. What I do is somewhat more complex.
 
@@ -20,7 +20,7 @@ I started out in the last millenium, as an operator (anyone remember [6250 densi
 
 These days I still try and stay hands on, because I never want to stop learning and building things, but I'm more involved in the leadership and strategy sides of technology; after 2 years as a CTO, I've spent the last year as a roving [consultant](https://malstow.com/ "Gary's consulting company.") and am just about to start a new role as a CTO again.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I haven't had a work desktop computer since 2006 as, for the past 12 odd years, my job has meant I've ended up working not only in an office but also, thanks to a combination of [trains, planes and automobiles](https://en.wikipedia.org/wiki/Planes,_Trains_and_Automobiles "The Wikipedia entry for the movie Plains, Trains and Automobiles."), in coffee shops, meeting rooms, conference venues and quite a few airport lounges. That means I rely on a laptop which is only infrequently plugged into an external monitor. And since 2006 that laptop has been a [MacBook Pro][macbook-pro], starting at the first generation _no it's not a PowerBook G4 it just looks like one_ model up to 2016's fourth generation _what is the touch bar for really_ model.
 
@@ -38,7 +38,7 @@ At home things are a little more ... _eclectic_.
 
 Sitting behind my ISP supplied cable modem is a [Linksys 1900ACS][wrt1900acs] that's been reflashed with [DD-WRT][]. There's a [Raspberry Pi][raspberry-pi] running [Pi-Hole][] which not only blocks ads and tracking across my LAN but also uses [Cloudflare's][cloudflare] encrypted DNS. There's another Pi sitting behind the main TV which acts as the media centre for our NAS thanks to [OSMC][] plus an Amazon [Fire TV Stick][fire-tv-stick] and an old [Apple TV][apple-tv] that I can't remember when we last used it. I should probably unplug that at some point. I'm also running yet another Pi, connected to an external GPS receiver, that's an [NTP stratum 1](https://en.wikipedia.org/wiki/Network_Time_Protocol "The Wikipedia entry for the Network Time Protocol.") server for my LAN, just because I like building things like that. There's also a couple of [TiVo boxes][tivo], many disk drives and wifi points and other technical ephemera. There's even a [Windows 10][windows-10] laptop that gets used for school homework; when it's not rebooting itself to install whatever today's urgent bug fix or software update is.
 
-#### And what software?
+### And what software?
 
 On my _iDevices_ I read books via [Kindle][kindle-ios], and my news via [Flipboard][flipboard-ios], I also take notes via [Penultimate][penultimate-ios] and a stylus. I may even be guilty of playing the odd game occasionally, such as yet another tour around the wonders of [Monument Valley][monument-valley-ios]. But I still keep an A4 pad in my bag for random scrawling, just in case.
 
@@ -54,7 +54,7 @@ Finally there's the usual tools of email, using my Mac's default [Mail][] client
 
 There's a lot more than this, including local [Node][node.js], [Python][], [Ruby][], [Go][] and [PHP][] installs but I don't want to bore you to death.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 After 12 years of living and working in places where a desk appears around 50% of the time I've learned to be pragmatic and if I can live without something for 3 months without going over the edge, then I probably don't really need it or it's not worth obsessing over.
 

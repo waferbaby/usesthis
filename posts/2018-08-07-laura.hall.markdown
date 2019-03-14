@@ -9,7 +9,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Laura E. Hall](https://twitter.com/lauraehall "Laura's Twitter account.") -- I'm an artist, writer, puzzle-maker, and environmental narrative designer living in Portland, Oregon. Along with my producer, Nora Ryan, I run [Timberview Productions](https://www.timberviewproductions.com/ "Laura's game and interactive company."), a company building immersive games and interactive experiences. These run the gamut from intimate, narrative-guided puzzle adventures to massive online events streamed for players around the world. Our new location, Meridian Adventure Co., is opening in Portland later this year.
 
@@ -19,7 +19,7 @@ I’m also a writer and speaker. I focus primarily on the intersections between 
 
 As an artist, I love creating [ephemera-based stories, environmental narratives, scavenger hunts, and mysteries](http://lauraehall.com/ "Laura's website.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I use a [MacBook Air][macbook-air] and an [iPhone 6][iphone-6], plus a Windows PC setup at home for playing games and VR (mostly [HTC Vive][vive]). I have a [Nikon D5100][d5100] and a little [Canon EOS 60D][eos-60d] for snapshots, although I mostly use my iPhone for photos now. I recently got a [Fujifilm instax mini 9][instax-mini-9] and love playing with it. I have a [Kindle Paperwhite][kindle-paperwhite] and am getting back into the habit of reading a book a week.
 
@@ -35,13 +35,13 @@ For the escape room game buildouts, we use typical workshop and woodworking tool
 
 It's like crafting a theater set, in that it has to look and feel right, but not be too real. As an example, a real office is probably pretty boring, with fluorescent lights and cubicles and random piles of paper. So we have to craft something that feels like an office, but one you’d see in a movie, or come across in an adventure. It also has to be pretty indestructible, because so many people are going to be interacting with it.
 
-#### And what software?
+### And what software?
 
 Our company uses [Asana][], [G Suite][g-suite], and [Slack][] for just about everything. We use weekly kanban boards and set up capture boxes so that nothing ever falls through the cracks, supplemented with weekly meetings to set goals and work through projects or backlog tasks.
 
 We use [OmniGraffle][] for outlining story and user flows, plus [Adobe Photoshop][photoshop] and [Illustrator][] for graphic design and layouts, and SketchUp for 3D modeling.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love to have a massive workshop with loads of fancy and expensive specialty tools (plus a budget to pay those specialists), attached to a bustling shared community workspace that's open to all, within which I have a private office with a door I can close for concentration.
 

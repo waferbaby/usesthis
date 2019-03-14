@@ -6,7 +6,7 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Adam Roberts](https://twitter.com/Adam__Roberts "Adam's Twitter account."), and I produce [Versioning](https://versioning.substack.com/membership#about "Adam's tech newsletter."), a daily subscription newsletter for tech folk. This curates the best resources for devs and designers every day, as well as specific posts/emails on relevant and emerging subjects, plus fun stuff like media guides. It's a mix of subscriber-only content (people join for a monthly/annual fee), and free content available for everyone.
 
@@ -14,7 +14,7 @@ Basically: I open a lot of tabs to find the best stuff, so you don't have to. I 
 
 I'm a New Zealander living in Melbourne, Australia. I like _Star Wars_, NBA, fancy craft beer (and brewing).
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have the requisite 13" Retina [MacBook Pro][macbook-pro] *checks system report* from 2015. It's fast enough, pretty enough, and capacious enough for my needs, even when I've got 50+ [Chrome][] tabs full of advertising open. I have a 4K monitor, Bluetooth keyboard and mouse. I don't need or want more. I'm a simple man! I used to have my Mac in front of me to use as a keyboard/trackpad, but for some reason that's incredibly harsh on my neck - don't do this!
 
@@ -22,7 +22,7 @@ Also important: I have a set of Bose Quiet Comfort noise-cancelling headphones f
 
 I have an [iPhone 6][iphone-6] which is a little slow but is still going strong! I don't have a case because I'm incredibly boring and am unlikely to drop it. I might get a new phone but I just don't know whether I'm ready for a detailed 3D scan of my face to be somewhere, even if it isn't sent to a server as Apple promises.
 
-#### And what software?
+### And what software?
 
 I spend the majority of my time inside a browser - currently Chrome because I keep putting off changing to [Firefox][]. Since most of my time is spent finding a link, absorbing that link, then - if I like it - moving that link to a doc to write about it, I've found it much simpler to keep all those steps in the one app, rather than using a native text editor to write. I write in [Markdown][] because simplicity, and use [StackEdit][] as my .md editor for the newsletter, because it has a great preview function I can use to paste formatted text somewhere else. For non-newsletter writing, I'll write in .md in [Atom][], purely because of the gentle vibe I've cultivated there.
 
@@ -64,7 +64,7 @@ I use [Oak][oak-ios] Kevin Rose's meditation app, for meditation and breathing e
 
 I also use the standard stuff people always use: [Fantastical][fantastical] for calendar-ing, [LastPass][] for password-ing. Oh, I use [AnyList][] for composing and sharing grocery lists which is kinda life-changing.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I know everyone is terrified of AI taking over, and I kind of am too, but I'd love to have a little AI friend (or a real friend, but the logistics are harder) looking over my shoulder all the time to be like, "na, don't bother reading that, the headline's misleading" or "yeah that's a pretty good pun, but do you remember that Biggie song? You know how the lyrics are kinda similar to the situation with Uber? You see where I'm going with this...? Right!?" I'd like that.
 

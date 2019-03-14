@@ -9,11 +9,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a software engineer, these days more of a gentleman programmer. I work on a variety of projects and am interested in [maps](https://github.com/NelsonMinar/vector-river-map "Nelson's vector river map project on GitHub."), [open data][openaddresses], and [data visualization][d3.js]. I tend to follow technologies that allow you to quickly build amazing things; mapping reached that inflection point a few years ago. These days I'm getting up to speed on machine learning; it's amazing how easy it is to bash together a workmanlike learning system. I'm probably best known for my work on web services like the Google AdWords API. The most recent public thing I released is [Wanderings][], a lightweight location tracker for creating a personal record of where you've been.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I sit in front of Windows machines. Generic Intel desktop with a fancy gamer GPU and a single big 3440x1440 monitor that supports [G-Sync](https://en.wikipedia.org/wiki/Nvidia_G-Sync "The Wikipedia entry for G-Sync.") for nice variable framerate display. For a laptop I have a 2017 [Razer Blade][blade], also a gamer system. I like gaming and the GPU doubles as a machine learning platform. Also gamer hardware seems like higher quality fit-and-finish. 
 
@@ -21,7 +21,7 @@ I used to use Macs but gave up on them a couple of years ago when [macOS][] kept
 
 A lot of my real work takes place on Linux boxes running [Ubuntu][]. I have a couple of headless servers at home and a leased bare metal server in a data center in Kansas City. I've got an iPhone in my pocket and an iPad that mostly just runs the [Kindle app][kindle-ios]. Home entertainment runs off of Sonos and a [Roku][] running [Plex][]. I use Ubiquiti networking gear including a really elaborate fixed wireless setup to deal with rural geography.
 
-#### And what software?
+### And what software?
 
 A web browser is what's front-and-center 90% of the time I'm working. I mostly use [Firefox][], switched from [Chrome][] when [Quantum](https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/ "A Mozilla post about the newer version of Firefox.") came out. [1Password][] is essential for managing logins. I rely on [uBlock Origin][ublock-origin] and [Privacy Badger][privacy-badger] to remove unwanted crap from web pages. Once I quit working on ads at Google I became zealous about blockers. The intrusions and malware shoveled into our web browsers now is [unconscionable](http://www.somebits.com/weblog/tech/bad/ad-blocking-is-self-preservation.html "Nelson's post about ad blocking.").
 
@@ -39,7 +39,7 @@ Most of my map work is custom code backed by [PostGIS][]. [GeoJSON.io][] is grea
 
 For publishing I still run an old school [blog](http://www.somebits.com/weblog/ "Nelson's weblog.") using the ancient Perl engine [Blosxom][]. But I write much more sloppily and prolifically on [my secret work blog](https://nelsonslog.wordpress.com/ "Nelson's work weblog.") which is hosted at wordpress.com. I also run a blog of interesting links which is a [Pinboard account](https://pinboard.in/u:nelson "Nelson's Pinboard account.") published in various forms, notably a [Twitter feed](https://twitter.com/somebitslinks "Nelson's Twitter account for interesting links.").
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 The most important problem to solve in consumer Internet right now is secure logins. Passwords are a terrible form of authentication. A password agent like 1Password or [LastPass][] helps but they are clumsy kludges. "Guess which HTML form element is a password and fake a keyboard paste to fill a random string from a third party program"; is that really the best login system we can imagine? Of course not. Also it terrifies me how tiny those two companies are that literally hold the keys to everyone's kingdoms; I assume they've both been compromised. It's a great shame [OpenID](https://en.wikipedia.org/wiki/OpenID "The Wikipedia entry for OpenID.") and [Mozilla Persona](https://en.wikipedia.org/wiki/Mozilla_Persona "The Wikipedia entry for Mozilla Persona.") failed, they had excellent technical solutions for authentication. I was about ready to say "fuck it" and let Facebook manage all my logins but given how untrustworthy they've turned out to be that's clearly not reasonable. I've thought about starting a product company for authentication but it's not really a technical problem, it's a business strategy problem. And it's a business with an enormous liability risk attached to it.
 

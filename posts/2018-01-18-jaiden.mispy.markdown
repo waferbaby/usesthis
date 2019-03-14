@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Jaiden Mispy](https://mispy.me/ "Jaiden's website.")! I'm the lead developer for [Our World in Data](https://ourworldindata.org/ "An online publication tracking how living conditions are changing."), a project at the University of Oxford which explores the quantitative side of human history. We cover many different subjects, especially big global changes like [child mortality rates](https://ourworldindata.org/child-mortality/ "An OWID post on global child mortality rates."), [population growth](https://ourworldindata.org/world-population-growth/ "An OWID post on global population growth.") or [life expectancy](https://ourworldindata.org/life-expectancy/ "An OWID post on global life expectancy."). 
 
@@ -20,7 +20,7 @@ The data we see is often [surprisingly positive](https://ourworldindata.org/a-hi
 
 In the past I've worked on a few other projects, most notably the [preprint](https://en.wikipedia.org/wiki/Preprint "The Wikipedia entry for Preprint.") peer review site [SciRate](https://scirate.com/ "A scientific collaboration network."), and my [Ruby][] twitterbot framework [twitter_ebooks][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My work computer is a [2016 MacBook Pro][macbook-pro], the first piece of Apple tech I've ever owned! I like that I can install most webdev stuff natively using [Homebrew][] and don't need to fuss with VMs as much anymore. Not sure if it is worth the huuuge price tag though: it's my most expensive physical possession by far.
 
@@ -28,7 +28,7 @@ I usually work from home with the MacBook connected to an Asus external monitor,
 
 I also have an older [Windows 10][windows-10] PC I use for gaming and testing things in Internet Explorer or Edge. It bluescreens a lot so I should really replace it one of these days...
 
-#### And what software?
+### And what software?
 
 I write a lot of [TypeScript][] using [Visual Studio Code][visual-studio-code], both tools I discovered earlier this year and really love. I can't imagine how I ever lived without type-based editor autocompletion. It works best in TypeScript, but even if you're writing plain [JavaScript][], VSCode makes a valiant effort at it by automatically downloading type declarations for libraries when they're available.
 
@@ -42,7 +42,7 @@ Since the OWID team is distributed around the world, we use [Slack][] for genera
 
 My life is deeply entwined with [Twitter](https://twitter.com/m1sp "Jaiden's Twitter account."), for better or worse. The bird website is how I found my current job, my wonderful boyfriend, and many of the people I'm closest to. My main client is [TweetDeck][] and I use lots of different accounts, lists, mutes and search filters to extract happiness from the chaos.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Owning one of every device with every major browser for testing would be nice...
 

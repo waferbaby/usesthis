@@ -8,7 +8,7 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Martin](http://grapefrukt.com/ "Martin's website."), I make little videogames all by myself in Malmö, Sweden. I've always been fascinated with making technology do my bidding, be it programming or making art. I also quite enjoy entertaining others, so a career in games made a lot of sense for someone like me.
 
@@ -16,7 +16,7 @@ I've made games and game like things ever since I got my ten year old hands on a
 
 Fast forward ten years or so (a couple at various web development agencies) and here we are. I make games independently and full time. It's great.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Most of my work happens on my office desktop, a boring old [Windows 10][windows-10] PC, built and upgraded from various parts ever since I first got it in 2014. But since I do make things for [iOS][] I also have keep a surprisingly snappy 2013 [MacBook Air][macbook-air] around.
 
@@ -30,7 +30,7 @@ For backups and general I use two Synology NAS boxes, one at home and one at the
 
 I'm on a [Pixel 3 XL][pixel-3-xl] for a phone and an oldish iPad for a tablet. I like this combo because I can stay on top of both major mobile operating systems while avoiding simply having two phones.
 
-#### And what software?
+### And what software?
 
 My latest game is my first [Unity][] game, so there's a lot of that. I use JetBrains [Rider][] to write [C#][c-sharp] for my games. For a general text editor, there's still nothing that beats good old [Sublime Text][sublime-text].
 
@@ -38,7 +38,7 @@ I make frequent use of [git][] and [bash][] through [ConEmu][], which gives you 
 
 Other than that, the main constant is the Adobe gang - lots of [Illustrator][], some [Photoshop][] and occasionally [Premiere][] and [After Effects][after-effects]. If I'm prototyping animation that usually happens in [Flash][]/[Animate][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm more and more becoming a convert to virtualization. I'm dreaming of a day when I can keep my hardware entirely separate from my OS and just have it run on some generic machine tucked away somewhere. Would make backups, versioning and general life so much easier.
 

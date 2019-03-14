@@ -7,11 +7,11 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hi! My name is [Walter](https://twitter.com/GoodBoyGraphics "Walter's Twitter acount."), and I am a video editor at Funimation by day, and an illustrator for the internet at night. I work in the Promotional Video Department at Funimation, where we make the trailers and commercials for the anime we license from Japan, such as Dragon Ball Z and One Piece. In my free time I illustrate, from mobile apps to editorial and clothing brands.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A few years back my [MacBook Pro][macbook-pro] died, along with my external HD, losing everything, so I decided it was a good time to reset and minimize. I bought a new 2015 MacBook Pro, and a [Magic Mouse][magic-mouse], all of which I am still playing on. I decided to take illustrating seriously, find my style, and start posting work non-stop!
 
@@ -21,13 +21,13 @@ After experimenting with all kinds of styles, with all kinds of pens, on all kin
 
 I do carry one notebook and one pen to draft ideas with. Right now, I am currently using a Montana Acrylic Paint Marker, which mimics how I illustrate on the computer - thick and bold!
 
-#### And what software?
+### And what software?
 
 For software, I nearly use the entire [Adobe Creative Suite][creative-suite]! [Premiere][] for editing, [Photoshop][] and [Illustrator][] for illustration, and [After Effects][after-effects] for motion graphics. Oh, and [Adobe Media Encoder][media-encoder] to encode videos for online.
 
 [Google Drive][google-drive] to upload my work, so I can then download it to my phone and post. [Google Keep][google-keep] to make mental notes and pin references.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would be having my studio at The Philip Johnson Glass House. Surrounded by lots of natural light, greenery and quietness.
 

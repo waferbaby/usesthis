@@ -7,7 +7,7 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Molly Lewis](http://www.mollylewis.wtf/ "Molly's website."). No one has ever put a hat on my head and said "this is your job" so I just keep trying on hats: I'm a songwriter / ukulelist (if that's a word) / YouTuber / illustrator / podcaster / [Twitch][] streamer / hyphenate.  I'm not sure if none of the hats fit, or if I just really like collecting hats.
 
@@ -15,7 +15,7 @@ Each hat comes with its own tech kit, a fact which has made this interview very 
 
 Currently I'm running a [Patreon](https://patreon.com/molly "Molly's Patreon account.") on my own behalf, where I'm previewing original songs before they hit my [YouTube](https://www.youtube.com/c/MollyLewisMusic/ "Molly's YouTube account."). I'm also the producer & host of [Peanuts Gallery](http://peanuts.gallery/ "Molly's podcast."), a podcast where me & my pal Josh A. Cagan revisit the Charlie Brown / Peanuts animated primetime specials chronologically.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Ho boy I sure do have a lot of different gizmos. My partner & I tend to surround ourselves with tech in the same way a bird gathers shiny plastic garbage for their nest / mating display / etc. So, I own & have used more tech than is listed here, but this is the stuff I'm currently using / on a first name basis with.
 
@@ -72,7 +72,7 @@ Here is a list of all my ukuleles (that I know of), alphabetically.
 - [RISA TE tenor electric ukulele][te-tenor] (newest)
 - Junky blue plastic soprano ukulele (party favor from JoCo Cruise 2017, everybody on the ship got one)
 
-#### And what software?
+### And what software?
 
 I edit my video in [Final Cut Pro][final-cut-pro] & my podcasts in [Logic Pro X][logic-pro]. (I no longer edit my own songs, because that is a process unending.) To capture audio clips for my podcast I use [Piezo][] by Rogue Amoeba. I use [Notability][notability-ios] on an iPad w/ a [Pencil][] to make all my video thumbnails of late.
 
@@ -80,7 +80,7 @@ For songwriting I have always used [Evernote][], because Evernote lets you recor
 
 I'm also, at any moment, using about 8 different personal org / task management apps at a time. It would be both tangential and boring to talk about that here, but tweet me at [@molly23](https://twitter.com/@molly23 "Molly's Twitter account.") if you wanna ask about those.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup would include someone on retainer to buy the tech, plug it all in & troubleshoot it for me.
 

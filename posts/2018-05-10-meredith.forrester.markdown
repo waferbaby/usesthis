@@ -6,13 +6,13 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Meredith Forrester, and I live in Melbourne, Australia. I used to draw and design things, but now I'm a copy editor. I edit and proofread magazines and other odd publishing jobs in my freelance time, and my full-time gig is being the managing editor at [The Good Copy](http://thegoodcopy.com.au/ "A writing school and publisher in Melbourne."), a writing school, publisher and online shop for word people. Most of the time I'm organising and developing our [grammar and writing courses](https://thegoodcopy.com.au/pages/school "Classes provided by The Good Copy."), but I also get to [create writing style guides](https://thegoodcopy.com.au/pages/creative-services "Creative services provided by The Good Copy."), edit and proofread words for [our agency](https://singledouble.co/ "A writing agency."), and help plan our future word-related products and courses and events.
 
 In the back half of 2017 I wrote a little book called [*Make Grammar Great Again*](http://meredithforrester.com.au/ "Meredith's website."), which is me copyediting Donald Trump's grammatically iffy tweets to help explain the basics of grammar and punctuation (and usage and style) in a way that anyone, even the president of the United States, can understand. So my tongue's in my cheek for the most part, and I want readers to get a good giggle out of the corrections and examples, but I mostly hope that the book inspires extended clause, comma and conjunction adventures. Grammar is cool and fun, and we all instinctively know it. That's one of the newest things I'm trying to do, actually: think, talk and write about grammar as a system we're all empowered to work and play with. (If you're wondering, the answer is no -- I won't write 'a system with which we're all empowered to work and play'. Prepositions are happy to end sentences! And conjunctions enjoy sitting at the start.)
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Cursed Macs. I misplaced a 2013 [MacBook Air][macbook-air] one long story two years ago and have been hit with software and hardware glitches ever since. The cursed Mac I use at home is a [2015 13" MacBook Pro][macbook-pro]. No external mouse or anything. Its curse means that sometimes the display decides to reduce itself to two-thirds of its usual size, and notifications tend to pop up at random midway points rather than from the right-hand side. When I'm working from home, I'm either in bed or feet-up on the couch. I like it; my back doesn't.
 
@@ -20,7 +20,7 @@ The cursed Mac I use at work is a 2016 13" MacBook Pro, and it sits on an [mStan
 
 I've seen every episode of *Gilmore Girls* thirteen times because I used to need background chatter when I was sketching or moving vectors around, to let my mind coast, but now, when I'm doing a serious chunk of editing or writing, it's silence. For that I've got [Bose QuietComfort 25][quietcomfort-25] noise-cancelling headphones. When it's just emailing or researching or playing games or cooking or cleaning at home, though, we've got a couple of [Sonos Play:3][play-3] speakers. My phone is a silver [iPhone 8 Plus][iphone-8-plus] -- a recent upgrade that's rendered my useless Kogan Universal power bank even more useless. And what kind of Australian editor would I be without my hard-copy, last-revised-in-2002 [*Style Manual: For authors, editors and printers*](https://www.australia.gov.au/about-government/publications/style-manual "The Australian Government's style manual.")? (Please, Malcolm: [grant us the seventh edition](https://www.change.org/p/commonwealth-parliament-standing-committee-on-publications-communicate-correctly-concisely-and-consistently-fund-the-style-manual-7th-edition "A Change petition for a 7th edition of the Australian Government style manual.").)
 
-#### And what software?
+### And what software?
 
 I use [Inbox by Gmail][google-inbox-ios] on my phone and in a separate [Chrome][] tab for my personal email account. For my two work accounts, I'm in Gmail across two other tabs. I can't shake [Calendar][] on my Macs, but I love [Google Calendar][google-calendar-ios] on my phone. I'm a sucker for pretty illustrations.
 
@@ -30,7 +30,7 @@ I've literally just downloaded [iA Writer][ia-writer], after months (years) of r
 
 [Spotify][] is my music thing and [Overcast][overcast-ios] is my podcasts thing. I want to use apps like [Duolingo][duolingo-ios] more regularly, to help me get started in French and level up in German (specifically, its grammar). I also can't stop building worlds in the [Battle of Polytopia][the-battle-of-polytopia-ios] or rematching my boyfriend in [Words With Friends 2][words-with-friends-2-ios].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Big windows. Huge. Loads of natural light, and native grasses and bush and waterways in view for kilometres upon kilometres. A Mac on a stand, like my current work set-up, but on a luxuriously spacious desk and with so many reference books on nearby shelves. A comfortable chair that supports my back, and a border terrier ready for a pat.
 

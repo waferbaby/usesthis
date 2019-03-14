@@ -10,7 +10,7 @@ credits:
   name: Rose Olivia Curry
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I am a human named [Kailee McGee](http://www.kaileemcgee.com/ "Kailee's website.") who lives in Los Angeles, California. I am an artist, writer, and filmmaker. I make content for screens of all sizes and sometimes real life too. I like blurring the line between fiction and reality and life and art.
 
@@ -20,15 +20,15 @@ I just finished a short film called _The Person I Am When No One Is Looking_ - a
 
 I was raised in Laguna Beach, California, and I am a New York University Tisch School of the Arts alumna and proud member of the Alliance of Women Directors. I'll also add that I am an ENFJ, Virgo, and animal lover.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I do most of my writing and producing work on my [MacBook Pro][macbook-pro] (Retina, 13-inch, Late 2012). I do all of my video and editing work on my [iMac][] (Retina 5k, 27-inch, 2017). I use my [iPhone 5s][iphone-5s] as my phone-phone simply for talking, texting, [Lyfting][lyft-ios], and music in the car. My [iPad Mini][ipad-mini] 2018 is my main device for using and consuming [iOS][] apps. And, I use my old [iPhone 6s Plus][iphone-6s-plus] to post to [Instagram][] (as the iPad app squishes the 9x16 images). My main digital camera is a [Sony α6000][a6000].
 
-#### And what software?
+### And what software?
 
 [Google Docs][google-docs]. [Google Slides][google-slides]. [Google Sheets][google-sheets]. [Final Draft][final-draft]. [Adobe Premiere][premiere]. [Chrome][]. [Afterlight][afterlight-ios]. [LINE Camera][line-camera-ios]. [Notes][]. [Photo Booth][photo-booth]. [Voice Memos][voice-memos-ios]. Elgato's [Video Capture][video-capture] system to digitize VHS and Mini DV footage.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Right now I work from home, which is great and not great in ways. I would love my own personal sunny studio to venture to daily to create as well as store my supplies and past projects. I would also love to take up a messy hobby, like painting.
 

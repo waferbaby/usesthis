@@ -9,15 +9,15 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hey! I'm [Chris Wade](https://twitter.com/chriswade__ "Chris' Twitter account.") and I'm a game designer, programmer, and artist. I made [Sausage Sports Club][sausage-sports-club], which is a physics game about floppy animals playing sports. I've also worked on games like [Vacation Simulator][vacation-simulator], [Battle Chef Brigade][battle-chef-brigade], [Manifold Garden][manifold-garden], and [Mortal Kombat X][mortal-kombat-x]. I like making/playing games with wide solution spaces, emergent systems, and stylized colorful art!
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm split between a laptop and desktop depending on my mood and how much serious focus my current work requires. The laptop is a [Razer Blade 15][blade], mostly because it's a [MacBook][macbook.2] but cheaper and with better specs. I got extra hard drive space because I'm unorganized and can't be bothered to clean up. My desktop is a boring custom build with an Intel i7, 32GB RAM, and [NVIDIA GTX 1060][geforce-gtx-1060]. I'm most proud of the desk, which is an [IKEA standing desk][bekant] that I mounted the PC onto. I also use a [Wacom][intuos-pro] for art stuff.
 
-#### And what software?
+### And what software?
 
 Game Stuff:
 
@@ -33,7 +33,7 @@ Everything Else:
 - [Slack][] - Good tools are simple and intuitive. Finding old conversations, separating different organization chats while keeping each accessible, pinning messages, opt-in and out channels, private channels, and embedded video chat are all features of Slack that just work.
 - [Trello][] - Again, good tools are simple and intuitive. You can organize things visually and by category. You can send a link to a specific card. You can make checklists and write comments with bold text and bullet point lists. You can tag relevant people on cards and hit a button to see cards relevant to you. I wish game making tools were this elegant.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm really happy with my standing desk desktop and laptop setup, but it would be nice to be within walking distance of a dog park or nature park. A lot of the really hard design and programming work happens away from computers, so having to drive somewhere for a relaxing walk is annoying. Also, I do my best work in a co-working environment with at least a few groups of people working on different projects. That sort of space can be distracting, but having people around with different perspectives to bounce ideas off and test prototypes with is well worth it.
 

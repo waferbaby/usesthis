@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I'm [Finn](https://twitter.com/relsqui "Finn's Twitter account."). My pronouns are [they/them](http://pronoun.is/they "Examples of they/them pronouns."). I'm an automation engineer on the desktop team at [Slack][], which means that rather than working on the app, I make it easier for other people to work on the app. Lately that's mostly been graphical test automation, which I'm either about to talk about at [Node Summit](http://www.nodesummit.com/ "A Node conference.") or recently did, depending on when this interview gets published. When I'm at home, I like playing and making video games. I've submitted entries to the last two [Ludum Dare](http://ldjam.com/ "A worldwide game jam.") jams, and I've published a couple of games that you can play in your browser on [itch.io](https://relsqui.itch.io "Finn's itch.io account.").
 
 Some non-computery things about me: I have seventeen piercings and one tattoo. I'm a high school dropout, and I earned my degree in linguistics at thirty-one. I sing alto or tenor, depending on the piece. I used to be a Magic: the Gathering tournament judge (L2, US:NW). I collect stuffed animals but only in the sense that I occasionally buy one and adamantly refuse to ever get rid of any. I play a mean cribbage game.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work, I use a 15" [MacBook Pro][macbook-pro], which is the first Mac I've had since they looked like toasters. When I'm physically at my desk I plug it into an [LG 27MU88][27mu88-w] monitor, which I'm a fan of, because one cable gets me laptop power and all my peripherals in addition to the extra screen. I use a [Kinesis Freestyle 2][freestyle2-mac] split keyboard on the recommendation of a colleague who assessed the ergonomics of my desk setup. She also had me using a trackball for a couple of months, after which point I felt like I'd given it a fair shake and still hated it, so I'm back on the stock magic mouse, which is fine so far. For someone who's basically lived on a computer since adolescence, I've been pretty lucky about RSI, and I'm trying to keep it that way.
 
@@ -25,7 +25,7 @@ I've almost never owned dedicated gaming hardware, including consoles, but I did
 
 Quick shoutout here to USB-C - I use literally the same charging cable for everything I just named. (It's the Macbook's brick with a nine-foot Amazon Basics cable.) We nerds like to joke about standards proliferation, but man, when one actually sticks for a minute it's really convenient.
 
-#### And what software?
+### And what software?
 
 I'm surprisingly ambivalent about work-oriented software, so long as it gets the job done. I don't even have strong opinions about operating systems. When I started this job, I asked my team, "Hey, what do you all use to edit code?" and they said [VS Code][visual-studio-code], so I use VS Code. (I do use the [vim][] keybindings, though.) I use [VMWare Fusion][vmware-fusion] for similar reasons. [Chrome][] has been my default browser for a long time, originally because it was the one with separate user profiles, and these days because it already has all my stuff in it.
 
@@ -39,7 +39,7 @@ Some highlights from my phone, apart from the obligatory Twitbook: [Tusky][tusky
 
 On the Switch I'm deep in a Stardew Valley game right now, and slowly working my way through Celeste and Night in the Woods. I recently finished Golf Story and Yono and the Celestial Elephants, neither of which I'd heard of before buying the console, and I loved both. Some day I'll probably get around to playing the award-winning AAA Switch titles too (unless we get a new Animal Crossing game first, then all bets are off).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm embarrassingly unqualified to answer this. Until very recently I'd never had the kind of money where I could buy new hardware of any kind, and I'm not into browsing things I can't have, so I'm basically totally ignorant of the possibilities. If you gave me a blank check and said "Buy yourself new computer things," my first step would be turning around to my friends and asking "Hey who builds good gaming machines?" and then paying someone else to do the thinky part. I would be pickier about choosing a desk and a chair! I guess I could get a bunch of monitors? That's a thing nerds do, right? Probably a Wacom for drawing unless someone else has started making really good tablets since I last checked. And, like, an actual TV I could connect the Switch to. Maybe a nice keyboard. Er, I mean, piano keyboard, but, you know, the other thing too.
 

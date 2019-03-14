@@ -8,11 +8,11 @@ categories:
 - video
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm an animator and video journalist at [Vox.com](https://vox.com/ "A news website.") and I focus on stories about music. You might know me as the video maker behind Vox's video series [_Earworm_](https://www.youtube.com/playlist?list=PLJ8cMiYb3G5fyqfIwGjH2fYC5fFLfdwW4 "The Earworm video series on YouTube.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I guess it goes without saying I have an [iMac][], and lots of random hard drives. I'm brand agnostic when it comes to backing up data. 
 
@@ -36,7 +36,7 @@ I don't have that many pretty things - my desk is a mess - but I do own a notebo
 
 For procrastination purposes, because let's be real that's where we all come up with our best ideas, I tinker around with a [Teenage Engineering OP-1][op-1] (I've composed a few pieces for Earworm with it) A lot of great music books like Album Cover Album, and a chunky black permanent marker and big blank page notebook for lots of fun doodles. 
 
-#### And what software?
+### And what software?
 
 [Skype][] and [Voice Memos][voice-memos-ios] for conducting interviews. [Google Docs][google-docs] for writing scripts. Sometimes I'll use an app called [Milanote][] for creating mood boards or pulling in archive and visual materials for scripts. It's a much better visual tool in the pre-production stage than Google Docs. 
 
@@ -46,7 +46,7 @@ For procrastination purposes, because let's be real that's where we all come up 
 
 [After Effects][after-effects]/[Photoshop][]/[Premiere][]. I wouldn't have a job if After Effects didn't exist. Most of Earworm is animated within the program and Premiere is a necessary evil to edit each episode together after it's all assembled in AE. I use Photoshop mostly for creating textures for my animations.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream set up would be to have my own open air loft style office with giant windows and a big space to shoot demos, interviews, and stop motion animations. If I'm really dreaming big it'd have an [expensive espresso machine][gs3] and a library filled with every book about music ever published. Ideally it'd be $7 in rent a month.
 

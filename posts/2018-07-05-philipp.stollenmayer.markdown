@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Philipp Stollenmayer](http://www.kamibox.de/ "Philipp's website."), and I'm a mobile game designer. My most popular ones are [Okay?][okay-ios], [Zip Zap][zip-zap], and [Pancake - The Game][pancake-the-game-ios].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a 13" [MacBook Pro][macbook-pro] (Mid 2014), and a [Magic Mouse][magic-mouse]. That's it basically, no external screens, no stands, no graphic tablet. Every 100 years, I use my [Time Machine][time-machine] for a backup.
 
@@ -19,7 +19,7 @@ I test my games on an [iPhone X][iphone-x], an [iPhone 6][iphone-6], an [iPhone 
 
 I try to make my games work on pretty old phones - that also makes debugging memory leaks easier.
 
-#### And what software?
+### And what software?
 
 All of my games have been made with [Corona SDK][corona]. I love it because it's super easy and super fast, and it cuts out all the unimportant and complicated stuff. [Box2D][] physics are built-in, so I don't have to use any plugins. When it comes to programming I don't want anything but the original code, to have as little potential for traps as possible.
 
@@ -31,7 +31,7 @@ For image editing, I use [Illustrator CS6][illustrator] and [Photoshop CS6][phot
 
 I make the trailers with [After Effects CS5.5][after-effects] and [Premiere CS5.5][premiere]. I hope I can find a nice substitute for After Effects when it stops working because it's too old.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm a huge fan of space, so I have the smallest MacBook Pro, and only the minimum requirements. My hard drive is constantly full, but before I get a new MacBook Pro I have to become friends with USB-C. I like the satisfying magnetic pull of MagSafe too much, and don't want to own 100 adapters.
 

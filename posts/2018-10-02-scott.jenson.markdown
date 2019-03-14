@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 [I](http://jenson.org/ "Scott's website.") research and develop next generation UX for [Android][]. Most recently I did the "Shush" gesture on the latest Android P release which is all about promoting digital wellness. I'm also still very active in the Internet of Things, specifically around the UX of making smart devices work better.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Just about everything, actually. My daily driver is a high end Chromebook, as the majority of my work these days is on the web, [Gmail][], [Google Calendar][google-calendar], [Hangouts][google-hangouts] of course, but also [Figma][] for drawing and [Dynalist][] for, well, EVERYTHING. I've used Macs for over 30 years (sheesh, that makes me feel old). At work I have a [Mac Pro][mac-pro] connected to a 4K 50" display (which actually raises some challenging UX issues) and at home an aging [Mac Mini][mac-mini] (come on, 12 September announcement!) as my home machine. However, I also have two [Windows 10][windows-10] laptops (a personal and corporate one) that I use occasionally. 
 
@@ -24,7 +24,7 @@ I never use tablets.
 
 I realize this puts me all over the map but I find it very helpful to be 'multi lingual' when it comes to various UIs. 
 
-#### And what software?
+### And what software?
 
 I alluded to that above - mostly web stuff. What I love about web apps is that I can use them (if they're written well) on any device. That data portability is critical to me.
 
@@ -32,7 +32,7 @@ My superstar and most favorite app in the world is [Keynote][] (which I apprecia
 
 I don't want to get into the ridiculous mobile vs desktop discussion as it's not one or the other, but for most (at least in the West for now) it's both. I'm a professional speaker and when I use Keynote it'll always be on a laptop, for the simple reason that it has a big display and a useful file system. I get rather worked up over the loss of functional file systems on mobile - it's a huge UX loss. I've written [about this on my blog.](https://jenson.org/oldnew/ "Scott's article about desktop and mobile UX.")
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 As I've played with so much hardware, what I dream about mostly is software and data more than the hardware itself. Ultimately I want most of my work to be available to all of my devices. We're getting there slowly, so I can use my phone on the go and the 50" 4K monitor at work. This applies not only to me, but my colleagues. Figma, for example, has revolutionized how we share designs. More of that please.
 

@@ -7,7 +7,7 @@ categories:
 - windows 
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Julian Seifert](https://www.deviantart.com/exitmothership "Julian's DeviantArt account.") and I'm a German freelance illustrator and 2D artist. I'm better known as ExitMothership, though, which is somewhat of a "brand" name for me.
 
@@ -15,7 +15,7 @@ My domains are visual novel backgrounds and environment-heavy illustrations, and
 
 I take a lot of inspiration from Final Fantasy and [PS1][playstation]-era JRPGs which have a certain kind of magic to them that isn't in media anymore. Being able to paint exactly how I imagine it is a personal goal for me that I strive to achieve someday.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I work on a custom-built PC that I needed to be able to handle big graphic data and PSDs. It's a dual screen setup with a [HP Pavillion 27cw][pavilion-27cw] as the main screen and a [HP 24es][24es] for references, background music and totally not [Netflix][].
 
@@ -23,7 +23,7 @@ My artworks are painted on a [Wacom Bamboo Create CTH670 tablet][bamboo-create] 
 
 Apart from that I use a simple 10€ wireless mouse and the [G430 headset][g430] from Logitech, and a pretty no-name brand keyboard. They do what they have to do without the fancy stuff.
 
-#### And what software?
+### And what software?
 
 For business I use [Skype][] and [Discord][].
 
@@ -31,7 +31,7 @@ Artwise there's a lot of variety, mainly I use [Photoshop CC][photoshop] for pai
 
 For me it is important to know the possibilties for optimizing your work and get to the best desireable result. I had a strong stance against using 3D in my images, for example, until a befriended artist told me that, and I'm quoting him here, "The technical process shouldn't hinder the creative." That was somewhat of an eye opener for me and now I embrace every little software program that can help me with my art.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Living on a pacific island and having access to a holoroom would be awesome.
 

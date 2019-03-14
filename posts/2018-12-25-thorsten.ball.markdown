@@ -8,11 +8,11 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Thorsten Ball](https://thorstenball.com/ "Thorsten's website."). I'm a writer and software developer. I wrote [Writing An Interpreter In Go](https://interpreterbook.com/ "Thorsten's site for his interpreter book.") and its sequel [Writing A Compiler In Go](https://compilerbook.com/ "Thorsten's site for his compiler book.") and I work at [ioki Mobility](https://ioki.com/en/ "A mobility consulting company.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 My main machine is a 2016 13-inch [MacBook Pro][macbook-pro]. It has the Touch Bar, 16GB of memory, a 512GB SSD and four Thunderbolt 3 ports. It's fast, it's quiet and it has enough resources to let me write code and prose. I like it a lot.
 
@@ -42,7 +42,7 @@ In other words: this NAS is quite literally the fulfillment of a childhood dream
 
 Then I also have two Raspberry Pis. A [Raspberry Pi 1][raspberry-pi], which is taking a long nap in my desk drawer until I decide what I could use it for, and a [Raspberry Pi 2][raspberry-pi-2], which is hooked up to our TV and runs [OpenELEC][]. Next to it is an old [Apple TV][apple-tv], which we use to access streaming services without having to connect the TV itself to the internet. 
 
-#### And what software?
+### And what software?
 
 After 10 years of using [Linux][] as my main operating system, I was enlightened when I switched to [macOS][] around five years ago. Wifi works without compiling kernel modules; using an external screen means "plugging it in"; putting the computer to sleep and waking it up is not something I have to worry about; moving windows between an external display and the built-in Retina display works so well that I only thought about it when I found out that's apparently a problem with other OSes. Best of all, though: in five years I didn't had to edit the config file for an audio system once. 
 
@@ -74,7 +74,7 @@ Outside of the terminal, these are the tools that I always install on a fresh ma
 
 Inside the terminal, my most cherished tools are, in no particular order: the Unix coreutils, [ripgrep][], [curl][], [git][], [jq][], [awk][], [sed][], [z][], [Homebrew][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 My dream setup is not one, fully-formed idea, but rather a mixture of multiple wishes and inspirations. 
 

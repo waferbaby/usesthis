@@ -7,11 +7,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! My name's Edith Prakoso and I'm a graphic designer. Some may know me as [Subfauna](https://www.instagram.com/subfauna "Edith's Instagram account."). I've just started working in an architecture studio called [ARM Architecture](http://www.armarchitecture.com.au/ "An Australian architecture and design firm.") as their in-house designer a few months ago. I mainly work on project proposals, tender submissions, external communications, social media and occasionally some environmental graphics. I'm also passionate about colours, pattern and surface design on the side. 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At work I have to use a PC as it's an all-Windows office. At home I mainly work on a 15" [MacBook Pro][macbook-pro], but if it's a more time-intense project I would hook it up to a larger screen along with a [Wacom Intuos Pro][intuos-pro] tablet that I use just as a mouse. For sketches, drawings and other experimental visuals I use an [iPad Pro][ipad-pro]. I also have an AxiDraw, which I use to "draw" vector artworks for one of my ventures called [Autogiraffe](https://www.instagram.com/autogiraffe "Edith's generative art Instagram account."). 
 
@@ -19,7 +19,7 @@ Most days I use my iPhone for taking photos and videos but also have a [Fuji X10
 
 I have a [SONOS Play:1][play-1] for room vibes but also have my trusty [AIAIAI TMA-1 headphones][tma-1], that I've used and travelled around with for almost 7 years now.
 
-#### And what software?
+### And what software?
 
 I use the whole range of Adobe CC ([InDesign][], [Illustrator][], [Photoshop][], [After Effects][after-effects], [LightRoom][]), for most of my work. [Vectoraster][] for colour and pattern explorations. [Patternodes][] to generate patterns and animate them. [InkScape][] to operate my AxiDraw. Also sometimes I look at one-off vector generating apps such as [TexTuring][] and [StippleGen][]. I use [Procreate][procreate-ios], [Sketches][tayasui-sketches-pro-ios], [Adobe Draw][illustrator-draw-ios], [Adobe Sketch][photoshop-sketch-ios] and [iOrnament][iornament-ios] on my iPad Pro. I also have [Procreate Pocket][procreate-pocket-ios] on my iPhone just in case I'd like to "record" colours or just feel like sketching something. 
 
@@ -27,7 +27,7 @@ I use the whole range of Adobe CC ([InDesign][], [Illustrator][], [Photoshop][],
 
 There are times when I would play around with 3D programs such as [SketchUp][] or [Rhino3D][rhino], but I never use them often enough and so everytime I open them I've forgotten how to do everything and it would feel like starting from scratch again.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm pretty happy with my setup, but would ideally like a bigger space where I can have a small photography studio and a space to do hand-drawn illustrations or paintings and to just make random stuff. And a CNC router would be great too.
 

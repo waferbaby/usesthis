@@ -7,11 +7,11 @@ categories:
 - mac
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Holly Gramazio](http://www.hollygramazio.net/ "Holly's website."). I'm a game designer - sometimes on my own, but usually as half of [Matheson Marcault](http://mathesonmarcault.com/ "A game design company."). I also direct [Now Play This](http://nowplaythis.net/ "An experimental game design festival."), which is an annual festival of experimental game design which runs at Somerset House as part of London Games Week.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I have a [MacBook Air][macbook-air] from 2015; the trackpad is slightly broken so I also have a wired mouse that was lying around the house. My phone is an [iPhone SE][iphone-se]. I like 'em both, although the replacement screen on the phone can be a bit glitchy; I seem to drop phones a lot so it's not really worth getting anything but the cheapest replacement.
 
@@ -19,7 +19,7 @@ My work involves reading a lot, so I have a [Kindle Oasis][kindle-oasis] for tha
 
 That said, I like paper! I ike sticking paper notes in notebooks, so I print a lot of stuff out on our [HP ENVY 4504][envy-4504], and photocopy things on library photocopiers. I'm also doing a little bit of work with projectors at the moment, and using one I borrowed from a friend. It's one of those mysterious generic objects that don't seem to have a brand name or a visible manufacturer, but it has RD-804 written on the underside somewhere... 
 
-#### And what software?
+### And what software?
 
 I mostly write in [TextWrangler][] and then copy things into [Word][] or [Pages][]. Digital games: mostly [Twine][] (still 1 rather than 2) for writing-based work; for other things, [Haxegon][] (a little [Haxe][] game-making library) with [Sublime Text 2][sublime-text]. [Slack][] for work chat.
 
@@ -29,7 +29,7 @@ Also, importantly: [Freedom][] to turn off the bits of the internet that distrac
 
 My todo lists are all paper, and I need a new overengineered system every few months. At the moment I've got a tiny notebook that fits about 10 to-do items per page, and then when I've finished everything on a page I fold it in half so I can see which pages have things left - that helps to force me to finish the one or two things I've been putting off that are stopping me from declaring a page done. Before that I had a weekly grid where I allocated tasks to different days in advance and moved them around with arrows a lot, and before that I had a hex grid of clustered tasks. Basically anything overcomplicated that I can use to trick myself into procrastinating less for a month or two.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 A nice big studio at the top of the house with good light and plenty of desk space and a little coffee machine in the corner. A projector I can connect to without cables. Someone on retainer to come in every month and swap out my newly-broken phone screen for a top-quality replacement.
 

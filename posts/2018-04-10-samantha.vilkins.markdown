@@ -7,11 +7,11 @@ categories:
 - student
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I wear a lot of hats. That's an idiom, not my job. I'm a PhD candidate in science communication and also the Communications and Engagement Officer at the [Australian National Centre for the Public Awareness of Science](http://cpas.anu.edu.au/about-us/people/sam-vilkins "Samantha's profile on ANU.") at The Australian National University, where I also tutor, write, et cetera. I also do freelance [photography/design/writing](http://vilkins.online/ "Samantha's website.") where I can. I just finished up working at [Trove at the National Library of Australia](https://trove.nla.gov.au/ "An Australian information resource from the National Library.") and I've [got the mug to prove it](https://twitter.com/samvilkins/status/968329704594968576 "Samantha's Trove mug tweet.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I exclusively use [Pilot G2 0.38 pens][g2.2]. They are a great solution between "using shit pens" and "caring way too much about pens". I use the pens in notebooks from Octaevo. I'd prefer to type notes into my phone but I end up in meetings with people much older than me a lot and the youngest person in the room constantly tapping at their phone isn't a great look. I also think better on paper.
 
@@ -37,7 +37,7 @@ I've got Aglaonema commutatum, Spathiphyllum petite and Parlour palm plants from
 
 I've got a plush office chair I stole (okay, they were giving it away) from my university, wheeled a quarter-way across campus in the rain, and had to re-construct my desk around as my room is too small to fit it otherwise. It was worth it.
 
-#### And what software?
+### And what software?
 
 I am constantly gaining and shedding bits of software, either for specific research kicks or life admin --- the latest were [gensim][], [sndpeek][] and [1Password][].
 
@@ -57,7 +57,7 @@ Any and all programming I do is extremely amateur hour and usually in [Notepad++
 
 I have a rotating [new-font/new-colour-palette][palettab] new tab page, and I'd recommend it.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Always more light and less carpet.
 

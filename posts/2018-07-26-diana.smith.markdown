@@ -8,11 +8,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I’m [Diana Smith](https://twitter.com/cyanharlow "Diana's Twitter account."). There’s a chance you might know me from my [CSS art](http://diana-adrianne.com/purecss-francine/ "Diana's CSS artwork."), but what I am in my daily life is a [UI Engineer](https://www.linkedin.com/in/dasli/ "Diana's LinkedIn account."), or front-end specialist, or web developer. The industry hasn’t really reached a consensus on the proper nomenclature, so in the meantime I can be described as a wrangler of JavaScript, HTML, and CSS. Or, someone who works on computers but who won’t be able to help with network problems.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 At home I use a [Lenovo Flex 4][flex-4-15]. When I’m not at home I use a work-issued [Dell Latitude E6440][latitude-e6440] laptop, and two 27” monitors (one Dell, one Samsung).
 
@@ -20,7 +20,7 @@ At work I have a very massive pair of [Sennheiser HD 380 Pros][hd-380-pro]. At h
 
 My [Motorola Moto G Plus][moto-g-plus] phone is a bit of a crossover item, as I use the [Symantec VIP Access][vip-access-android] for two-factor authentication when using the work VPN. I’m not required to actually use my phone for traditional phone purposes like talking, so outside of authentication it’s mostly used for gmail and news browsing.
 
-#### And what software?
+### And what software?
 
 Now that the lines are so blurred between sites and apps, it’s sometimes hard to tell what qualifies, but in general:
 
@@ -30,7 +30,7 @@ Work Only: [Firefox][], [SourceTree][], [Outlook][], [Skype][], [Slack][], [JIRA
 
 Home Only: [Netflix][], [Reddit][].
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Here is my terrible secret - fancy hardware or software is totally wasted on me.
 

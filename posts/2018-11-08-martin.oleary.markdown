@@ -9,13 +9,13 @@ credits:
   name: Chris Owens
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm Martin O'Leary! I live in Newcastle Upon Tyne, in the north-east of England, where I make [art on the internet](https://mewo2.com/ "Martin's website."), and I design exhibitions for [Life Science Centre](https://www.life.org.uk/ "An educational facility in the UK."). I used to be an academic, studying glaciers in Greenland and Antarctica, but I don't do that so much any more.
 
 I have a [Twitter](https://twitter.com/mewo2 "Martin's Twitter account."), a [Patreon](https://www.patreon.com/mewo2 "Martin's Patreon account."), and a [web shop](https://shop.mewo2.com/ "Martin's online store.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I live and breathe through my 2017 13" [MacBook Pro][macbook-pro] (the cheaper model without the Touch Bar). I've been using Macs since around 2005, and I don't think I could switch away. At work I have to use a Windows machine, and using it feels like trying to type while wearing oven gloves. I also have a 2011 [MacBook Air][macbook-air], which I use as a secondary machine for art installations, long-running tasks, etc, and a box of [Raspberry Pis][raspberry-pi] and miscellaneous [Arduinos][arduino].
 
@@ -29,7 +29,7 @@ I carry everything around in a blue [Osprey Quantum backpack][quantum], which I'
 
 Some other objects in my life that I'd recommend without hesitation: the [Nintendo Switch][switch.2], the [Le Creuset cast iron casserole][signature-cast-iron-round-casserole], my old Berghaus hiking boots.
 
-#### And what software?
+### And what software?
 
 I live in the terminal, using [tmux][] and [oh-my-zsh][] to make things slightly more friendly. I have [Vim][] reflexes burned into my fingers, but I actually do most of my text editing in [VS Code][visual-studio-code] these days.
 
@@ -41,7 +41,7 @@ I go through phases of using note-taking and productivity apps, and phases of co
 
 On my phone, I pay far too much attention to [Twitter][] and [Slack][]. Recently I've been using [Mastodon][] a lot, but I haven't settled on a client I like, so I've been bouncing between [Amaroq][amaroq-ios], [Tootdon][tootdon-ios], [Toot!][toot-ios] and the web interface. The main drain on my battery life is probably [Marvel Puzzle Quest][marvel-puzzle-quest-ios], which is my block-matching zone-out game of choice.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Infinite storage, both digital and physical. Someone who comes by once a week, and discreetly files away all my discarded projects, so they disappear from my sight, but I can find them again later. A nice big window with a view of a tree and the ocean. A cold breeze and a warm fire.
 

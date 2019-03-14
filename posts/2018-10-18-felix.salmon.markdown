@@ -7,11 +7,11 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Felix Salmon](http://www.felixsalmon.com/ "Felix's website."). I'm the chief financial correspondent at Axios (subscribe to my weekly newsletter [here](http://link.axios.com/join/edge-signup "Felix's Axios newsletter.")), and I also host the Slate Money [podcast](http://www.slate.com/articles/podcasts/slate_money.html "Felix's finance podcast."). Occasionally I send out a [personal newsletter](https://felix.substack.com/ "Felix's personal newsletter."). 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I used to be a huge fan of Apple hardware; I even wrote a column once saying that the titanium [PowerBook G4][powerbook-g4] changed my life. I admit in that piece that I once believed in the tenet that "buying Apple hardware is an even better investment than buying Apple stock." I don't believe that any more, even though I still use Apple hardware exclusively, as I have done since I bought my beloved [LC II][lc-ii] in 1992. 
 
@@ -29,7 +29,7 @@ I'm always promising myself that I should read more books, and I have the perfec
 
 And this really is a productivity tool, although it was never intended to be one: My sea serpent bracelet from Jill Platner. I put it on and take it off dozens of times a day, and slide it back and forth between my hands. It has the perfect weight and feel - I do it without even thinking about it. Let the teens have their fidget spinners; I have something way more beautiful.
 
-#### And what software?
+### And what software?
 
 My biggest change in recent years has been from writing in apps to writing in browsers. I used to write all my blog posts in [Ecto][], which would upload them straight to my blog; longer stuff I'd write in [WriteRoom][]. Now, almost everything happens in [Google Docs][google-docs], except for when I write straight into the Axios or Substack CMS. (Both of which are lovely, WYSIWYG, very simple and easy to use.) My terror of web browsers eating my work has disappeared. 
 
@@ -37,7 +37,7 @@ For desktop I use a lot of native Apple apps, including [Mail][], [Notes][], Cal
 
 In iOS I use the native [Twitter app][twitter-ios], [Outlook][outlook-ios] for mail (but [Gmail][gmail-ios] to search my mail archives), and, of course, [Slack][slack-ios]. I use [Overcast][overcast-ios] for podcasts. For reading it's [Instapaper][instapaper-ios], the [Kindle app][kindle-ios], and the native [iBooks app][ibooks-ios]. I use [Nuzzel][nuzzel-ios] a lot, along with the [NYT][nytimes-ios] and [WSJ][wsj-ios] apps. To record interviews I used to use Voice Recorder but now I'm using Alice. There are very few pieces of software I really love, but [1Password][1password-ios] comes close. I have lots of messaging apps ([Telegram][telegram-messenger-ios], [Signal][signal-ios], [WhatsApp][whatsapp-ios], [Messenger][facebook-messenger-ios], you name it) but don't really live in any of them other than Slack and Twitter. If I've missed your message, I'm sorry.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Would I love a couple of [iMac Pros][imac-pro], one for home and one for the office? Sure! With a nice big second screen, and possibly even a third vertically-oriented screen for reading PDFs. (I had that for a while when I was at Reuters, it came in more useful than you might think.) A Bloomberg terminal. A CMS which allows multiple simultaneous editors like GDocs does. And some kind of magical subscription to everything I might ever want to read. 
 

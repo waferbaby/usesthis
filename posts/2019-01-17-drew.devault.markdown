@@ -10,7 +10,7 @@ credits:
   name: Ken Samanote
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Drew DeVault](https://drewdevault.com/ "Drew's website."). I maintain lots of free and open source software, including projects like [sway][], [wlroots][], [sr.ht][], [scdoc][], [aerc][], [chopsui][], [TrueCraft][], [KnightOS][].. and more. I also contribute to many projects, including [mrsh][], [Alpine Linux][alpine-linux], [git][].. and more.
 
@@ -18,7 +18,7 @@ I also blog pretty often at drewdevault.com on topics like free software, privac
 
 Outside of software I like astronomy and linguistics.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 A wide variety of hardware. The computer I'm typing this into is an 8 core [i7-3770K][core-i7-3770k] @ 3.5GHz, with 16G of RAM and 4 TB of storage. It has four displays connected, including one 4K and one vertical display. It's a bit excessive - I usually only have 2 or 3, but for testing sway I make sure that I have a wider variety of output configurations. I also often have a [DEC VT220][vt220] terminal plugged into this, but at the moment it's offline.
 
@@ -26,13 +26,13 @@ That's my main workstation. I also travel with one of two [ThinkPad X200][thinkp
 
 sr.ht runs on more exciting hardware. I own 6 dedicated servers, 5 colocated a mile away here in Philadelphia and 1 colocated in San Francisco. In total there's something like 96 cores, half a terabyte of RAM, and upwards of 60T of storage. The hardware was expensive upfront but will scale very well and allows me to onboard big projects on day one. I also have some experimental RISC-V hardware on the way, which I intend to make available to users for running builds on.
 
-#### And what software?
+### And what software?
 
 My workstation runs [Arch Linux][arch-linux], but don't take that as an endorsement. My laptops generally run Alpine Linux or [9front][] (you can take that as an endorsement), or [MINIX][] or [OpenBSD][]. My desktop environment, naturally, is sway, built fresh from the master branch daily. Often I'm running sway with some weird patch to test things, then forget I'm doing so until my session segfaults. My text editor is [vim][]. My IRC client is [WeeChat][] and my email client is [mutt][]. My shell is [fish][], but I'm only using that until mrsh is ready. My web browser is [qutebrowser][].
 
 I write code in [C][], [Go][], [Python 3][python], and POSIX shell scripts primarily, but I also often use [Java][], [Scala][], [JavaScript][], [C++][c-plusplus], [C#][c-sharp], [Rust][], [Ruby][], and more; more often than I would like to.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'm using it.
 

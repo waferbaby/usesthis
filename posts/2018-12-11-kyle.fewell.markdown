@@ -6,11 +6,11 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Hello! I am [Kyle Fewell](https://www.kyle-fewell.com/ "Kyle's website.") and I am a freelance illustrator in Brooklyn, New York. I mostly work in editorial and advertising, and sometimes will do gallery shows and other things. My professional and personal work mostly deals with [cute food](https://www.kyle-fewell.com/food-bbs/ "Kyle's cute food artwork."), technology and [fantasy stuff](https://www.kyle-fewell.com/adventuring/ "Kyle's adventuring artwork."), and I also make [prints](https://www.inprnt.com/gallery/kfewell/ "Kyle's artwork prints on INPRNT."), comics, and [little pins](https://kylefewell.bigcartel.com/ "Kyle's online store."). 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For my desktop PC I use an Intel Hades Canyon NUC ([NUC8I7HVK][]). It's a barebones PC, so you have to supply your own RAM, SSD and OS. On mine I put 16gb RAM and a 250gb SSD with [Windows 10][windows-10]. It's made to be a small form factor "VR-ready gaming" PC, so has a [pretty decent AMD graphics card][radeon-rx-vega-m-gh] and a [really good processor][core-i7-8809g], but I primarily use all its power for drawing. Only game I really play on it is [Final Fantasy XI][final-fantasy-xi], a 16 year old MMO that needs very little graphical power to run great. Only downside of the computer is it has a "cool gamer" skull LED that lights up on the top of it, but luckily they provide software that allows you to turn it off so you can't see it at all. 
 
@@ -28,7 +28,7 @@ Phone is a [Galaxy Note 8][galaxy-note-8], which I really love and draw on somet
 
 My desk is the [Stash Desk][stash-desk] from Blu Dot. Very simple, has all desk space for my computers and other stuff.
 
-#### And what software?
+### And what software?
 
 On my PCs I use Photoshop CC 2018 for illustration, drawing and making GIFs. For invoicing and other stuff I use [InDesign][] or [Acrobat][]. Depending on the job I'll sometimes use [Illustrator][].
 
@@ -38,7 +38,7 @@ On my iPad I mostly just use [Procreate][procreate-ios], and that performs reall
 
 Brushes are kind of software related? I feel like I work very simply and only use maybe 3-5 brushes routinely in Photoshop. The one I use for pretty much everything is by Andy Brinkman, the "BRNK Sketch Pencil 3 Dark" brush that I kind of mess with depending on how I want marks or lines to look. So far it's the best brush I have found that does pretty much everything I could want. The others are Kyle T Webster brushes that now come with the PS CC 2018 subscriptions -  I only really use them for texture or blending things. (Rough! Dry! Fun! Is my main go to for textures)
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Ideally I would like to be in a semi-spacious room that's not in my living room like it is now, with lots light and windows and a view of something (Trees? A lake? Mountains? Doesn't really matter). Lots of desk space and shelves for my books, records and comics. Same idea about the space if it was a house, but in an attic.
 

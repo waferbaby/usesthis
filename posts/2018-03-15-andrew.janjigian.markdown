@@ -8,13 +8,13 @@ categories:
 - photographer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm a Senior Editor at [Cook's Illustrated Magazine](http://www.cooksillustrated.com/ "A recipe magazine."), and America's Test Kitchen's resident breadhead (I develop about 2/3 of the bread and pizza recipes we do in the magazine). I'm also a bread baking instructor at [King Arthur Flour](https://www.kingarthurflour.com/baking-school/norwich-details/ "The King Arthur baking school in Vermont.") in Norwich, VT, where I teach people how to make professional quality breads and pizza in a home kitchen setting. I also like to think of myself as a [fairly decent photographer](http://www.andrewjanjigian.com/ "Andrew's photography site."); when I'm not baking bread, I probably have one of my film cameras in hand. 
 
 I have two Twitter accounts, one for [my food & bread-related Tweets](http://twitter.com/wordloaf "Andrew's bread-related Twitter account.") (though these days I find myself mostly retweeting the Trumpocalypse), and another for [photography-related stuff](http://twitter.com/andrewjanjigian "Andrew's photography Twitter account.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 In my bread baking classes, I emphasize the idea that while technique is important, the secret to success is in having the proper tools for the task at hand. And there is a handful of tools I'm always recommending people use. I love my [Danish dough whisk][danish-dough-whisk], which is a cross between a balloon whisk and a wooden spoon that works better than either when mixing sticky doughs by hand. And since bread baking is a precise science, and many of my recipes call for minute amounts of certain ingredients, I recommend people use this surprisingly accurate [$10 digital gram scale][aws-600-blk].
 
@@ -30,7 +30,7 @@ I shoot a lot of peel-apart instant film (which I can use in both the RZ and the
 
 I used to be the sort of person who upgrades his iPhone every two years, but since I don't shoot digital all that much anymore, my [6S Plus][iphone-6s-plus] is perfectly adequate for now, and I'd rather spend that money on buying film. When I do use it for photography, I often use a [Moment wide angle lens][new-wide-lens].
 
-#### And what software?
+### And what software?
 
 For keeping track of bread formulas, I use [BreadStorm][] on Mac, and the companion [iPhone app][breadstorm-reader-ios]. It's designed for bakeries to use, so it's kind of expensive for the average home baker, but I couldn't live without it, especially since I might produce 50 versions of a recipe for the magazine before it's ready for publication.
 
@@ -40,7 +40,7 @@ For keeping track of what is happening in the world and what everyone else is up
 
 Like most photographers, have a love/hate relationship with [Instagram][] (chronological feed, please), but [it is where I share most of my work](http://instagram.com/andrewjanjigian "Andrew's Instagram account."). On the Mac, I'm a big fan of [Flume][], which lets you do nearly everything you can do on the Instagram app, but with a normal-sized keyboard and screen.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 To be honest, I'm pretty happy with the setup I have now. I just hope the tools I do prefer to use don't become hard to find, difficult to repair, etc. And I'd like it for Fuji to [bring back peel apart film](https://www.change.org/p/save-instant-film "A petition to bring back Fujifilm FP-100c.").
 

@@ -7,13 +7,13 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Tracy Chou](https://en.wikipedia.org/wiki/Tracy_Chou "Tracy's Wikipedia entry.") and I'm a software engineer and diversity advocate, currently hacking on some new ideas while also advising and investing in startups. 
 
 I was previously an engineer at [Pinterest][] and [Quora][] and consulted for the U.S. Digital Service. I also co-founded the non-profit [Project Include](http://projectinclude.org/ "A diversity in tech non-profit.") and the initiative #MovingForward, and started the tech diversity data collection project "[Where are the Numbers?](https://github.com/triketora/women-in-software-eng "Tracy's women in engineering stats project on GitHub.")"
 
-#### What hardware do you use?
+### What hardware do you use?
 
 I'm currently on a late 2016 [MacBook Pro][macbook-pro], 13", with a Touch Bar. I deeply regret the MBP - 1: dongle life, 2: the lack of a physical escape key makes coding in [emacs][] very difficult, 3: the keys on the butterfly keyboard are constantly too loose or totally stuck, 4: so much beach ball. 
 
@@ -21,7 +21,7 @@ When I am not in digital nomad mode bopping from sublet to sublet, I like to plu
 
 As for my phone, I have an [iPhone 8][iphone-8]. 
 
-#### And what software?
+### And what software?
 
 My typical coding setup is emacs in [iTerm2][], with [Z Shell][zsh] for the shell. Depending on what I'm building, I like [Chrome][] for web development and debugging, and the [Expo][] toolchain for hacking on [React Native][react-native]. 
 
@@ -31,7 +31,7 @@ For random notes or snippets, I use [nvALT][] on my computer synced to [Simpleno
 
 Other applications I use frequently: [1Password][], [Slack][], [PureVPN][], [Photoshop][], [LICEcap][] (for creating screencaps to be shared with teammates or added to [GitHub][] PRs, particularly for UI changes).
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd replace my MacBook Pro with a [MacBook Air][macbook-air]. Long live the MacBook Air!
 

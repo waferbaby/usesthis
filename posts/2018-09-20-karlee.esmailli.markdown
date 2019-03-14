@@ -7,17 +7,17 @@ categories:
 - writer
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 I'm [Karlee Esmailli](http://www.karlee.me/ "Karlee's website."). I'm the Head of Accounts at Blackbox and Cards Against Humanity. I'm also a writer and [video game degenerate](http://www.fuckisisgame.com/ “Karlee’s dating simulator.”). 
 
-#### What hardware do you use?
+### What hardware do you use?
 
 For work, I use a Mac and an iPhone, but I don't know what kind of Mac or iPhone!! Don't ask me!! I'm all about my bullet journals. 
 
 For fun, I adore the [Womanizer Pro40 Sensual Pleasure Enhancer][pro40] in Magenta and the [Nintendo Switch][switch.2]. 
 
-#### And what software?
+### And what software?
 
 ##### WORK STUFF
 
@@ -46,7 +46,7 @@ For fun, I adore the [Womanizer Pro40 Sensual Pleasure Enhancer][pro40] in Magen
 - [Bitmoji][bitmoji-ios]: For casual conversations.
 - [KIMOJI][kimoji-ios]: For serious conversations.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I'd love to be left alone with my cat and boyfriend on top of a mountain. We'd have perfect fiber internet and each day a young child from the village would bring us fresh tomatoes and baguette and cheeses from the mountain cows. I'd write with a nice clacky keyboard.
 

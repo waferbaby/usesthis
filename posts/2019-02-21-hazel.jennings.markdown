@@ -7,13 +7,13 @@ categories:
 - podcaster
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Hazel Jennings. "Who are you" is such a funny question, isn't it? I live in San Francisco with my husband and my dog. I'm originally from Pennsylvania and even though I've lived in California for nearly a decade, I still identify as a Pennsylvania girl. I love dancing, and I take 3 ballet classes a week. I work at a big tech company.
 
 But, when it comes to things about me that require interesting equipment: I just launched my very first podcast. The Hardest Part is a podcast where I talk to people about the hardest part of something they've experienced, good or bad, and then edit those conversations down to be short enough that you could listen to the whole thing over a single cup of coffee. I have 6 episodes so far. We talk about things that are really serious, like the hardest part of having cancer when you're a teenager. As well as things that more people might have experience with: like the hardest part of training for a half marathon. Plus, some conversations that are just downright fascinating: like the hardest part of photographing male nudes. It's available on [hardestpartpodcast.com](https://www.hardestpartpodcast.com/ "Hazel's podcast."), [iTunes][] & [Spotify][].
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Since this was my first podcast venture, and I have a habit of starting creative pursuits and not finishing them, I wanted a setup that was viable but still low-cost. I also wanted a setup that I could travel with, because my apartment isn't a great place to record audio and I hoped people I knew had quieter apartments than I did. 
 
@@ -26,11 +26,11 @@ Since this was my first podcast venture, and I have a habit of starting creative
 - **Music**: I wrote and recorded my own music that plays under my intros and outs on the podcast. I played it on a [Makala Soprano ukulele][makala-soprano] that I've had since I lived in Pennsylvania.
 - **Laptop**: I do all of my editing and management on a 2014, 11 inch [MacBook Air][macbook-air] hooked up to a 27 inch [Apple Thunderbolt display][thunderbolt-display]. I bought the MacBook Air off of a friend when I decided I wanted to start the podcast. At the time, my only laptop was from work and I didn't want to work on a personal creative venture on my work laptop. But, again, I didn't want to sink a bunch of costs into something I might not stick with. So, I paid him $250 for his used laptop and it's worked great! 
 
-#### And what software?
+### And what software?
 
 I edited my first season using [Final Cut Pro][final-cut-pro]. Final Cut Pro is obviously for editing film, and not necessarily audio. But, my husband is a film producer. I didn't have any experience with audio editing, so I wanted to use software that my spouse was super-fluent in so I could always ask someone my very specific questions. I'd like to try [Adobe Audition][audition], though. I use [Dropbox][] for file management and [Squarespace][] to host my website (like everyone else.) 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 I really like that my audio recording setup is mobile and I can interview people in their own homes or places where they're comfortable. But, it's tough to dial in perfect sound quality. I live in San Francisco, so people have upstairs neighbors with crying babies, creaky floors and traffic going by their windows. I also find that it's tough to feel like I have the exact-right levels when I'm just listening through my headphones and hoping for the best. 
 

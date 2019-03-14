@@ -10,17 +10,17 @@ categories:
 - windows
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name's [Xanda Schofield](https://www.cs.cornell.edu/~xanda/ "Xanda's page at Cornell."). I'm a PhD candidate and lecturer at Cornell University in computer science. My main research focuses on how to learn things from large collections of unlabeled text: books, emails, Reddit posts, or whatever you might be interested in.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 This is all over the place for me. Right now, my main go-to laptop is a 2016 [Surface Book][surface-book] with a 256 GB SSD, 8 GB RAM, and a dual-core Intel i5 processor. However, I've never had particularly strong opinions about what computer I was using, as I rarely run anything exciting on it directly aside from the occasional video game I'm playing. Before this, I was using a refurbished [Macbook][] happily for several years. I expect my next computer will also be a Surface Book; it's light, and like having the ability to use it in tablet mode so I can write notes live for my classes without feeling like I'm trading off performance.
 
 At work, I have a Dell machine that's pretty good for a several-year-old generic-issue computer from my department: it has 16 GB RAM and a quad-core processor. The only issue is that it doesn't have a lot of disk space: I like having a ton of disk available for when I want to run experiments on, say, 1 million news articles. For this, I tend to SSH into our shared compute cluster for my group, which has a 20 TB file server and an HTCondor cluster with lots of 128 GB RAM/48 core nodes on it. That's usually much more effective.
 
-#### And what software?
+### And what software?
 
 I use lots of special-purpose programs for my research, but these are the big players in my life.
 
@@ -42,7 +42,7 @@ I use lots of special-purpose programs for my research, but these are the big pl
 
 [**f.lux**][f.lux]. I work late a lot. I don't know if adjusting the blue light from the screen really does anything to help my brain, but even if it's the placebo effect, I think I've had more luck sleeping since I started using it.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lecture/fun, Linux desktop for serious work sessions. On my desk, I have one normal monitor set up in "portrait" alignment that I use to read documents and write code, and one reeeeally wide monitor so I can put windows next to each other. I have a cheap ergonomic keyboard (a [Microsoft Sculpt][sculpt-ergonomic-keyboard] - seriously, I didn't mean to be this much of a Microsoft fan, but here we are) on a keyboard tray. No standing desk for me. I guess the only things I could ask for are more memory and more SSDs. I can always use more space.
 

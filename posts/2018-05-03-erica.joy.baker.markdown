@@ -8,7 +8,7 @@ categories:
 - web
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is [Erica Joy Baker](http://www.ericabaker.com/ "Erica's website.") and I abuse parentheses like it's my job. My actual job that pays me is Senior Engineering Manager at [Patreon][]. I manage Patreon's Infrastructure team (which is also known as Devops or SRE at other companies) and will be managing our soon to exist Data Engineering team. It's my job to make sure the people who keep Patreon's architecture up and running have everything they need to succeed, and then sing their praises loudly (or quietly if that's what they prefer) when they do.
 
@@ -18,7 +18,7 @@ I also do other stuff, like being a Diversity and Inclusion Advocate and an avid
 
 People often ask me why I haven't founded my own startup, and I tell them "because nobody would fund a genealogy startup" and they kind of nod in agreement and stop asking that question, because that answer is so true it hurts. I often wonder if people who are constantly looking toward the future are capable of seeing the value in the past. Anyway, I'm rambling, on to the next question.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Almost all Apple everything. I use an old (like 2011) [iMac][] occasionally (though not lately because it decided it was pissed at me for sending it across the country and back for no reason), a [15" MacBook Pro][macbook-pro] for work (with the Touchbar, which I love unlike many other folks), another MacBook Pro for home (because working on personal projects on the work laptop is a Bad Idea), an iPad and an [Apple Pencil][pencil] for when I need to take notes. I have this screen protector on my iPad which makes it feel like I'm writing on paper.
 
@@ -26,7 +26,7 @@ I fly a lot and use my Purple Bluetooth Beats headphones on the plane. People sa
 
 I have an [Apple TV][apple-tv] in my bedroom and a [Roku][] attached to a projector in my living room. I wear a [Verily Study Watch][study-watch] every day as part of [Project Baseline](https://verily.com/projects/precision-medicine/baseline-study/ "A deep study into people's health."). 
 
-#### And what software?
+### And what software?
 
 I mean, in a world where we spend so much time in the browser, what even is "software" anymore? 🤷🏾‍♀️ I'll give it my best shot: on the iMac, I'm running [Plex Server][plex]. I mostly use it for that and [Lightroom][]. On the iPad, [Gmail][gmail-ios], [Slack][slack-ios] and [GoodNotes][goodnotes-ios] (the best iPad note taking app) for Serious Business. My iPad is also my "the video selections on the plane suck, I'm downloading a whole season of something on [Netflix][]/[Amazon Video][amazon-instant-video] to promptly fall asleep to instead" device.
 
@@ -36,7 +36,7 @@ Chrome at home is a different story. I live on Ancestry, [GEDmatch][], [23andMe]
 
 I have far too many apps that I don't use on my phone, but most of my time is spent in [Calendar][calendar-ios], Slack, [iMessage][], [Signal][signal-ios], Tumblr, [Tile][tile-ios] (I have Tiles in everything I tend to lose), and [Two Dots][two-dots-ios]. I should note that I am not logged into work Slack on my phone because work/life balance is important and burnout is real. Also the only thing allowed to alert me on my phone is iMessage, in case my brother sends me new pictures of my nephew, which always makes my day a little better. I used to use Couch to 5K on my phone a lot, but I haven't run since it started raining in December. Don't worry, I'm judging myself plenty about that.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Shuri's whole situation in Black Panther is my dream setup.
 

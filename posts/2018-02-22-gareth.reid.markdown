@@ -5,11 +5,11 @@ categories:
 - distiller
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 Gareth Reid, whisky distiller at [Kingsbarns Distillery](http://www.kingsbarnsdistillery.com/ "A whisky distillery in SCotland.") in Fife, Scotland.
 
-#### What hardware do you use?
+### What hardware do you use?
 
 Making whisky is a fairly analogue process, so my interpretation of hardware would be steam for heating, water for cooling and pumps, valves, hoses and pipes for moving various liquids around. And of course the most important piece of hardware - the oak casks that the whisky matures in.
 
@@ -27,10 +27,10 @@ The whisky has to mature for at least three years and one day in order to legall
 
 All of our spent barley goes to a farmer for cattle feed and our liquid by-products are used for fertiliser.
 
-#### And what software?
+### And what software?
 
 We have a degree of semi-automation in the brewhouse, which makes our lives a bit easier! We can control some of the valves and pumps using a mimic on an HMI, which saves a lot of running around. The brewhouse can also run through preset programs, meaning we can put a brew through with minimal input, allowing us to get on with other things. The best thing is that we can empty spent grain from the mash tun by pressing a few buttons on the mimic, which is an untold luxury for anyone who has ever dug out a tun by hand! 
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 Air conditioning. In reality it would be too wasteful but distilleries and breweries are always too hot in the summer, too cold in the winter!

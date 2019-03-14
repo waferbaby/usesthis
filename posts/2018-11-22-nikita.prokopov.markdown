@@ -7,11 +7,11 @@ categories:
 - software
 ---
 
-#### Who are you, and what do you do?
+### Who are you, and what do you do?
 
 My name is Nikita Prokopov, I'm a software developer from Russia. As with any software developer, my hobbies include computers, software, hardware, but also design, cinema and even illustration. I also occasionally blog [about software](http://tonsky.me/ "Nikita's software weblog.") and [about UX](https://grumpy.website/ "Nikita's UX weblog."). And watch a lot of movies too. I mean, [a lot](https://letterboxd.com/tonsky/ "Nikita's Letterboxd account.").
 
-#### What hardware do you use?
+### What hardware do you use?
 
 13" [MacBook Pro][macbook-pro] (early 2015) — perfect form factor, not so good performance.
 
@@ -29,7 +29,7 @@ My go-to headphones are wireless [Bose QuietComfort 35's][quietcomfort-35], whic
 
 For entertainment I'm super happy with the [Nintendo Switch][switch.2], which has a multitude of great games, and a [Xgimi H1][h1.2] LED projector. Much bigger image than any TV would give you, perfect for immersive experiences.
 
-#### And what software?
+### And what software?
 
 *Big ones*: [VS Code][visual-studio-code] for coding. [GitKraken][] for version control. [iA Writer][ia-writer] for notes and drafts (yes, I'm writing this in iA Writer). [Chrome][] for browsing, although I'd love to move away from it some day - unfortunately everything else is either slow or unreliable. [Dropbox][] for files. [Figma][] for design. It works way better for me than Sketch, and has much more advanced functions and interactions, UX-wise. On the iPad I use [ProCreate][procreate-ios] for illustration almost exclusively.
 
@@ -39,7 +39,7 @@ I use my own tools too: [Fira Code](http://github.com/tonsky/FiraCode "Nikita's 
 
 *Nice to haves*: [Shush][] for conference calls. [HandBrake][] for occasional video re-encoding. [InsomniaX][] for those rare occasions when I need my Mac not to sleep for some reason. [Day-O][] because yes, I believe when you click on your date/time clock in the macOS status bar you shold see a small calendar for the current month. Oh! And [Wallcat][] for a new desktop wallpaper every day.
 
-#### What would be your dream setup?
+### What would be your dream setup?
 
 6-core i9 in a 13" MacBook Pro shell with 120Hz refresh rate & wide color gamut. I'm happy if it only had integrated video though. But it must have MagSafe, not USB, for power.
 
