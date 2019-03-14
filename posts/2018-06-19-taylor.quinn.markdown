@@ -2,6 +2,7 @@
 title: Taylor Quinn
 summary: Twitch broadcaster, illustrator
 categories:
+- game
 - illustrator
 - streamer
 - windows
