@@ -282,7 +282,8 @@ margin-bottom: 10px;
   margin: 25px 0 0 0;
   }
   
-  ul.categories {
+  ul.categories,
+  ul.months {
   grid-template-columns: 50% 50%;
   }
 }
