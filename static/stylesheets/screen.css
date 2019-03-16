@@ -67,6 +67,8 @@ margin: 0 0 10px 0;
 
 figcaption {
 color: #aaa;
+font-size: 70%;
+margin-bottom: 20px;
 }
 
 figure {
@@ -167,14 +169,19 @@ color: #ccc;
 
 nav.categories {
 color: #aaa;
-font-size: 80%;
+font-size: 75%;
 margin: 0;
 padding: 0;
 }
 
 nav.categories p {
+display: inline-block;
 margin: 0;
-padding: 0;
+padding: 0 5px 0 0;
+}
+
+nav.categories ul {
+display: inline;
 }
 
 p#description {
@@ -222,8 +229,7 @@ ul li {
 padding: 5px;
 }
 
-ul.categories,
-ul.months {
+ul.categories, ul.months {
 color: #aaa;
 display: grid;
 grid-template-columns: 33% 33% 33%;
@@ -231,14 +237,12 @@ list-style: none outside;
 margin: 20px 0;
 }
 
-ul.categories li,
-ul.months li {
+ul.categories li, ul.months li {
 padding: 0;
 margin-bottom: 10px;
 }
 
 @media all and (max-width: 625px) {
-
   h1 {
   place-self: center;
   }
@@ -282,8 +286,17 @@ margin-bottom: 10px;
   margin: 25px 0 0 0;
   }
   
-  ul.categories,
-  ul.months {
+  ul.categories, ul.months {
   grid-template-columns: 50% 50%;
+  }
+}
+
+@media all and (max-width: 320px) {
+  nav.categories p {
+  display: block;
+  }
+
+  ul.categories, ul.months {
+  grid-template-columns: 100%;
   }
 }
