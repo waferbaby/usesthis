@@ -10,8 +10,8 @@
     <link href="/categories/<%= page.category.slug %>/feed.json" rel="alternate" title="<%= page.category.name %> JSON feed" type="application/json">
     <% end %>
   <% if pagination %>
-    <% if pagination.previous_page_url %><link rel="prev" href="<%= pagination.previous_page_url %>"><% end %>
-    <% if pagination.next_page_url %><link rel="next" href="<%= pagination.next_page_url %>"><% end %>
+    <% if pagination.urls.previous_page %><link rel="prev" href="<%= pagination.urls.previous_page %>"><% end %>
+    <% if pagination.urls.next_page %><link rel="next" href="<%= pagination.urls.next_page %>"><% end %>
   <% end %>
     <link href="https://social.waferbaby.com/@usesthis" rel="me">
     <meta charset="utf-8">
