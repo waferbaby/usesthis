@@ -3,6 +3,7 @@ title: Langan Kingsley
 summary: Writer, performer 
 categories:
 - actor
+- comedian
 - mac
 - writer
 ---
