@@ -8,7 +8,7 @@ title: Interviews
 
 <% pagination.posts.each do |interview| %>
 <article class="interviewee h-card">
-  <%= render('shared.interview_header', interview: interview, selected: false) %>
+  <%= render('shared.interviewee', interview: interview, selected: false) %>
 </article>
 <% end %>
 
