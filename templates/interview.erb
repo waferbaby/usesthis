@@ -3,7 +3,9 @@ layout: default
 ---
 
 <article class="h-entry">
-  <%= render('shared.interview_header', interview: page, selected: true) %>
+  <header>
+    <%= render('shared.interview_header', interview: page, selected: true) %>
+  </header>
   <div class="e-content">
     <%= yield %>
   </div>
