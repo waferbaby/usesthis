@@ -7,9 +7,8 @@ a:hover {
 color: #fe2e9a !important;
 }
 
-article header {
-padding-bottom: 20px;
-margin-bottom: 20px;
+article.interviewee, div.e-content {
+margin-top: 30px;
 }
 
 body {
@@ -78,12 +77,13 @@ footer {
 border-top: solid 1px #eee;
 font-size: 70%;
 margin-top: 20px;
+padding: 10px 0;
 text-align: center;
 }
 
 form {
-padding: 0;
 margin: 10px 0;
+padding: 0;
 }
 
 h1 {
@@ -176,7 +176,7 @@ padding: 0;
 }
 
 nav#paginator {
-margin-top: 20px;
+padding-top: 40px;
 text-align: center;
 }
 
