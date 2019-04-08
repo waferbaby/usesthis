@@ -266,7 +266,7 @@ margin-bottom: 10px;
   }
 
   h1 a {
-  padding: 220px 0 0 0;
+  padding: 200px 0 0 0;
   }
 
   h1 a span {
@@ -274,7 +274,7 @@ margin-bottom: 10px;
   }
 
   header#masthead {
-  padding: 0 20px 0 20px;
+  padding: 0 10px;
   }
 
   header#masthead nav {
@@ -297,7 +297,7 @@ margin-bottom: 10px;
   grid-column: 1;
   grid-row: 3;
   padding: 0;
-  margin: 25px 0 0 0;
+  margin: 20px 0;
   }
   
   ul.categories, ul.months {
