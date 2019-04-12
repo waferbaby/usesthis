@@ -177,12 +177,31 @@ padding: 0;
 }
 
 nav#paginator {
+display: grid;
+font-size: 90%;
 padding-top: 40px;
 text-align: center;
 }
 
+nav#paginator p {
+grid-column: 2;
+grid-row: 1;
+padding: 0;
+margin: 0;
+}
+
 nav#paginator span {
 color: #ccc;
+}
+
+nav#paginator span#next {
+justify-self: start;
+grid-column: 3;
+}
+
+nav#paginator span#previous {
+grid-column: 1;
+justify-self: end;
 }
 
 nav.categories {
