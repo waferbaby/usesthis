@@ -265,7 +265,7 @@ padding: 0;
 ul.categories, ul.months {
 color: #aaa;
 display: grid;
-grid-template-columns: 33% 33% 33%;
+grid-template-columns: repeat(3, 1fr);
 list-style: none outside;
 margin: 20px 0;
 }
@@ -320,7 +320,7 @@ margin-bottom: 10px;
   }
   
   ul.categories, ul.months {
-  grid-template-columns: 50% 50%;
+  grid-template-columns: repeat(2, 1fr);
   }
 }
 
@@ -330,6 +330,6 @@ margin-bottom: 10px;
   }
 
   ul.categories, ul.months {
-  grid-template-columns: 100%;
+  grid-template-columns: 1fr;
   }
 }
