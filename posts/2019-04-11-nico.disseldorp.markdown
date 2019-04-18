@@ -40,7 +40,7 @@ Unity kind of pushes people towards making certain kinds of games. It makes cert
 
 Push Me Pull You was originally made to run in web browsers (and then a standalone web wrapper, before finally being made in Unity) and I think that the unusual choice of technology was part of the reason why that game came out so weird.
 
-I use [git][] for version control, and [Gitlab][] to host my repositories.
+I use [git][] for version control, and [GitLab][] to host my repositories.
 
 Outside of working directly with the game, I spend a fair bit of time mucking around in [Google Docs][google-docs] and [Google Sheets][google-sheets].
 
