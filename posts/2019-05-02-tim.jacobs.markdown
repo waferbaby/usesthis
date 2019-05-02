@@ -5,6 +5,8 @@ categories:
 - engineer
 - hacker
 - inventor
+- linux
+- windows
 ---
 
 ### Who are you, and what do you do?
