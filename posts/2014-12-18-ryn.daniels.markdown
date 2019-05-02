@@ -1,5 +1,5 @@
 ---
-title: Katherine Daniels
+title: Ryn Daniels
 summary: Web operations engineer (Etsy)
 categories:
 - engineer
@@ -9,7 +9,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [Katherine Daniels](http://twitter.com/beerops/ "Katherine's Twitter account.") and I'm a web operations engineer at [Etsy][]. I also do a fair amount of [speaking at conferences](http://beero.ps/speaking/ "Katherine's talks."), often about devops and other things related to tech culture. When I'm not arguing with computers, I brew beer, make hot sauce, climb rocks, and play violin.
+I'm [Ryn Daniels](http://twitter.com/rynchantress/ "Ryn's Twitter account.") and I'm a web operations engineer at [Etsy][]. I also do a fair amount of [speaking at conferences](http://ryn.works/speaking/ "Ryn's talks."), often about devops and other things related to tech culture. When I'm not arguing with computers, I brew beer, make hot sauce, climb rocks, and play violin.
 
 ### What hardware do you use?
 
@@ -25,11 +25,11 @@ On a daily basis I find myself using [Gmail][], [Google Docs/Drive][google-docs]
 
 When I'm wrangling servers I use [Chef][] and liberal helpings of [knife-spork][knifespork]. [grep][], [awk][], [sed][], and [htop][] are there for troubleshooting. Code of course gets pushed to [GitHub][]. I chat with coworkers on IRC, either by way of [irssi][] running in a [screen][] session or Etsy's homegrown IRC client called F-Train. When I need to talk to remote coworkers, I use [Vidyo][].
 
-[Talon for Android][talon-android] takes care of my Twitter habit. [Feedly][] is where I keep my RSS feeds, and [Pocket][] saves articles I want for offline reading, without which I wouldn't survive the subway. Same with [the Kindle app][kindle-android], though only for fiction - for non-fiction I still prefer dead tree format! [Chrome][] handles all my web browsing, [LastPass][] deals with my passwords, and [Duo][] takes care of 2-factor auth. When I'm giving talks I use [Keynote][], upload my slides to [Speaker Deck](https://speakerdeck.com/kdaniels/ "Katherine's slides."), and get a lot of slide pictures from [cat.technology](http://cat.technology/ "A weblog with photos of cats and technology."). I've also been using [HabitRPG][] as a fun to-do list manager and habit builder.
+[Talon for Android][talon-android] takes care of my Twitter habit. [Feedly][] is where I keep my RSS feeds, and [Pocket][] saves articles I want for offline reading, without which I wouldn't survive the subway. Same with [the Kindle app][kindle-android], though only for fiction - for non-fiction I still prefer dead tree format! [Chrome][] handles all my web browsing, [LastPass][] deals with my passwords, and [Duo][] takes care of 2-factor auth. When I'm giving talks I use [Keynote][], upload my slides to [Speaker Deck](https://speakerdeck.com/rdaniels/ "Ryn's slides."), and get a lot of slide pictures from [cat.technology](http://cat.technology/ "A weblog with photos of cats and technology."). I've also been using [HabitRPG][] as a fun to-do list manager and habit builder.
 
 ### What would be your dream setup?
 
-I'd love to have a 13" MacBook Air with a Retina display. Of course a phone with better battery life (and that can fit in my pants pockets somehow!). A really amazing chair, at a desk that's [covered in cat pictures](https://twitter.com/beerops/status/504321851154509825 "A picture of Katherine's desk and laptop covered in cat photos."). And if someone could go ahead and invent teleportation, that would be great.
+I'd love to have a 13" MacBook Air with a Retina display. Of course a phone with better battery life (and that can fit in my pants pockets somehow!). A really amazing chair, at a desk that's [covered in cat pictures](https://twitter.com/rynchantress/status/504321851154509825 "A picture of Ryn's desk and laptop covered in cat photos."). And if someone could go ahead and invent teleportation, that would be great.
 
 [adjustable-folding-ventilated-laptop-table]: https://www.amazon.com/SOJITEK-Black-Adjustable-Ventilated-Notebook-Portable/dp/B00GS1N6EW "A folding table for laptops and tablets."
 [dt-770-pro]: https://north-america.beyerdynamic.com/shop/hah/headphones-and-headsets/studio-and-stage/studio-headphones/dt-770-pro.html "Closed headphones."
