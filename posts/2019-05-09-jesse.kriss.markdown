@@ -1,6 +1,6 @@
 ---
 title: Jesse Kriss
-summary: Web developer (Netflix) 
+summary: Software designer and developer (Netflix)
 categories:
 - developer
 - mac
