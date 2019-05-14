@@ -4,7 +4,6 @@ summary: Art Director (Atlanta Records)
 categories:
 - artist
 - mac
-- music
 ---
 
 ### Who are you, and what do you do?
