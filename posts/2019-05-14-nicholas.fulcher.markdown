@@ -1,6 +1,6 @@
 ---
 title: Nicholas Fulcher
-summary: Art Director (Atlanta Records) 
+summary: Art Director (Atlantic Records) 
 categories:
 - artist
 - mac
