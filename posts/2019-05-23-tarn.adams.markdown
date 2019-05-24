@@ -27,7 +27,7 @@ My main operating system is [Windows 10][windows-10], and I use [Mac OS X][macos
 
 I do all of my text editing in [WordPad][] and [Notepad][], depending on how ugly the line breaks look when I open up the file. I use [Paint][] to crop screenshots and whatever else I need to do.
 
-I"mostly do interviews and things over [Skype][], though they have other sites they use sometimes now. I use [Audacity][] and [Open Broadcaster][obs-studio] when I need to work with audio or video, though that hardly ever comes up for work these days.
+I mostly do interviews and things over [Skype][], though they have other sites they use sometimes now. I use [Audacity][] and [Open Broadcaster][obs-studio] when I need to work with audio or video, though that hardly ever comes up for work these days.
 
 For the website, I use the pad programs to do all the HTML. The website has a [Simple Machines Forum][simple-machines-forum] as well as a [Mantis][] bug tracker to track all of the issues with the game. I move things to and from the website with [FileZilla][]. I currently host Bay 12 Games with [Linode][] and Lunar Pages. I use [PuTTY][] to log in to and mess with my servers.
 
