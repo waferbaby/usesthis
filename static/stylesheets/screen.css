@@ -348,10 +348,10 @@ margin-bottom: 10px;
   body {
   background-color: #222;
   background-image: linear-gradient(#292929, #222);
-  color: #ccc;
+  color: #eee;
   }
 
-  dt, h3, h3 a {
+  div.e-content h3, dt, h3 a {
   color: #fff;
   }
 
