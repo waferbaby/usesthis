@@ -4,7 +4,7 @@ summary: Chief scientist (Hipmunk)
 categories:
 - mac
 - scientist
-- software
+
 ---
 
 ### Who are you, and what do you do?

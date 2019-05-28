@@ -4,7 +4,7 @@ summary: Software engineer (Apcera, Square, Domainr)
 categories:
 - developer
 - mac
-- software
+
 ---
 
 ### Who are you, and what do you do?

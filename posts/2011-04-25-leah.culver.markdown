@@ -4,7 +4,7 @@ summary: Developer (Convore, Pownce)
 categories:
 - developer
 - mac
-- software
+
 - web
 ---
 

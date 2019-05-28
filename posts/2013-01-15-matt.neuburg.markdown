@@ -4,7 +4,7 @@ summary: Developer, writer, contributing editor (TidBITS)
 categories:
 - developer
 - editor
-- software
+
 - writer
 ---
 

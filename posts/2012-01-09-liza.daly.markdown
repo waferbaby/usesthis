@@ -3,7 +3,7 @@ title: Liza Daly
 summary: Software engineer, President of Threepress
 categories:
 - mac
-- software
+
 - web
 ---
 

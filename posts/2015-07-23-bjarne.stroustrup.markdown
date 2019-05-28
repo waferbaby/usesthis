@@ -5,7 +5,7 @@ categories:
 - developer
 - linux
 - professor
-- software
+
 - windows
 ---
 

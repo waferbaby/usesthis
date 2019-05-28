@@ -3,7 +3,7 @@ title: Amy Wibowo
 summary: Software engineer, Sailor Scout
 categories:
 - mac
-- software
+
 - web
 ---
 

@@ -4,7 +4,7 @@ summary: Technologist, photographer
 categories:
 - mac
 - photographer
-- software
+
 ---
 
 ### Who are you, and what do you do?

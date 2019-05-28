@@ -6,7 +6,7 @@ categories:
 - developer
 - linux
 - mac
-- software
+
 - windows
 ---
 

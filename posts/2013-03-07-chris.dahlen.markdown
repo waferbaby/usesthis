@@ -4,7 +4,7 @@ summary: Video game writer, coder
 categories:
 - developer
 - game
-- software
+
 - windows
 - writer
 ---

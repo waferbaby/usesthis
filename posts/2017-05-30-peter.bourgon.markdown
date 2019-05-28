@@ -4,7 +4,7 @@ summary: Distributed systems developer (Fastly)
 categories:
 - developer
 - mac
-- software
+
 - web
 ---
 

@@ -4,7 +4,7 @@ summary: Developer (Instapaper, Tumblr)
 categories:
 - developer
 - mac
-- software
+
 - web
 ---
 

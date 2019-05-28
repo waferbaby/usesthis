@@ -4,7 +4,7 @@ summary: Maker, musician, developer (Attic Labs)
 categories:
 - developer
 - musician
-- software
+
 - web
 ---
 

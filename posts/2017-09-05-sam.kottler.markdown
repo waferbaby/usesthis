@@ -5,7 +5,7 @@ categories:
 - engineer
 - mac
 - service
-- software
+
 - windows
 ---
 

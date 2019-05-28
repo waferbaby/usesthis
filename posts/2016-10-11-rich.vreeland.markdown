@@ -2,7 +2,7 @@
 title: Rich Vreeland
 summary: Musician (Disasterpeace), developer
 categories:
-- software
+
 - mac
 - musician
 credits:

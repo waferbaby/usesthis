@@ -4,7 +4,7 @@ summary: Developer, security officer (FreeBSD)
 categories:
 - bsd
 - developer
-- software
+
 ---
 
 ### Who are you, and what do you do?

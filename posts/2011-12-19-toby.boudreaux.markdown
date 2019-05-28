@@ -6,7 +6,7 @@ categories:
 - developer
 - interface
 - mac
-- software
+
 - windows
 ---
 

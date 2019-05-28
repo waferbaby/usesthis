@@ -5,7 +5,7 @@ categories:
 - developer
 - film
 - mac
-- software
+
 - windows
 ---
 

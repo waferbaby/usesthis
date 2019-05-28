@@ -4,7 +4,7 @@ summary: Software engineer
 categories:
 - developer
 - linux
-- software
+
 - web
 - windows
 ---

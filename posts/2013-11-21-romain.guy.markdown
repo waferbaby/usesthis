@@ -5,7 +5,7 @@ categories:
 - developer
 - mac
 - photographer
-- software
+
 ---
 
 ### Who are you, and what do you do?

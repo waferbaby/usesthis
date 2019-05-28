@@ -4,7 +4,7 @@ summary: Designer, gentleman
 categories:
 - designer
 - mac
-- software
+
 - web
 ---
 

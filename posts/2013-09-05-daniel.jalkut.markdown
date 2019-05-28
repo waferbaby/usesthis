@@ -5,7 +5,7 @@ categories:
 - developer
 - mac
 - podcaster
-- software
+
 ---
 
 ### Who are you, and what do you do?

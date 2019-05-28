@@ -4,7 +4,7 @@ summary: Product and UI Designer (Basecamp)
 categories:
 - designer
 - mac
-- software
+
 ---
 
 ### Who are you, and what do you do?

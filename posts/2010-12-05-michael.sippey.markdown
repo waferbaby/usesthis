@@ -3,7 +3,7 @@ title: Michael Sippey
 summary: VP Corp Development (Six Apart/SAY)
 categories:
 - mac
-- software
+
 ---
 
 ### Who are you, and what do you do?

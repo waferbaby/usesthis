@@ -6,7 +6,7 @@ categories:
 - game
 - linux
 - mac
-- software
+
 - web
 ---
 

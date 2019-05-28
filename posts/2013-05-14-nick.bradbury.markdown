@@ -4,7 +4,7 @@ summary: Software developer (FeedDemon, Glassboard)
 categories:
 - developer
 - mac
-- software
+
 ---
 
 ### Who are you, and what do you do?

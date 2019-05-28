@@ -4,7 +4,7 @@ summary: Infrastructure architect (Yammer)
 categories:
 - developer
 - mac
-- software
+
 credits:
   name: Dave Fayram
   url: http://www.flickr.com/photos/davefayram/4329110146/

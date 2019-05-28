@@ -6,7 +6,7 @@ categories:
 - linux
 - mac
 - musician
-- software
+
 - writer
 ---
 

@@ -2,8 +2,8 @@
 title: Jessica Lord
 summary: Software engineer (Atom, Electron)
 categories:
+- developer
 - mac
-- software
 - web
 ---
 

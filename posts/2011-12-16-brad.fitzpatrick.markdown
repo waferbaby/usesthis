@@ -5,7 +5,7 @@ categories:
 - developer
 - linux
 - mac
-- software
+
 - web
 ---
 

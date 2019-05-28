@@ -4,7 +4,7 @@ summary: MobyGames co-founder, demoscene developer
 categories:
 - developer
 - game
-- software
+
 - video
 - windows
 ---

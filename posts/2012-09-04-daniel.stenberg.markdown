@@ -4,7 +4,7 @@ summary: Open source developer (cURL)
 categories:
 - developer
 - linux
-- software
+
 ---
 
 ### Who are you, and what do you do?

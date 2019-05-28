@@ -5,7 +5,7 @@ categories:
 - developer
 - game
 - mac
-- software
+
 ---
 
 ### Who are you, and what do you do?

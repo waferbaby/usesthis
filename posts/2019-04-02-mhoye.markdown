@@ -4,7 +4,7 @@ summary: Fixer (Mozilla)
 categories:
 - developer
 - linux
-- software
+
 - web
 - windows
 ---

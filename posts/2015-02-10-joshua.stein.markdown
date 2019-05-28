@@ -5,7 +5,7 @@ categories:
 - bsd
 - developer
 - mac
-- software
+
 - web
 ---
 

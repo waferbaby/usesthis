@@ -5,7 +5,7 @@ categories:
 - developer
 - hacker
 - linux
-- software
+
 ---
 
 ### Who are you, and what do you do?

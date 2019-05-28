@@ -4,7 +4,7 @@ summary: Software activist, executive director (GNOME)
 categories:
 - lawyer
 - linux
-- software
+
 ---
 
 ### Who are you, and what do you do?

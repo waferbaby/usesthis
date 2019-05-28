@@ -4,7 +4,7 @@ summary: Computer science researcher, teacher, developer (Debian)
 categories:
 - developer
 - linux
-- software
+
 - teacher
 ---
 

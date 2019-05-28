@@ -4,7 +4,7 @@ summary: Systems Engineer
 categories:
 - developer
 - mac
-- software
+
 - systems
 ---
 

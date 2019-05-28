@@ -4,7 +4,7 @@ summary: Writer, software developer
 categories:
 - developer
 - mac
-- software
+
 - writer
 ---
 

@@ -4,7 +4,7 @@ summary: Photographer (TED), developer, writer
 categories:
 - mac
 - photographer
-- software
+
 - web
 - writer
 ---

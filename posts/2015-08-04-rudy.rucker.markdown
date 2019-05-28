@@ -5,7 +5,7 @@ categories:
 - artist
 - developer
 - podcaster
-- software
+
 - windows
 - writer
 ---

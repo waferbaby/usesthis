@@ -6,7 +6,7 @@ categories:
 - linux
 - mac
 - professor
-- software
+
 ---
 
 ### Who are you, and what do you do?

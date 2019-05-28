@@ -4,7 +4,7 @@ summary: Security technologist
 categories:
 - developer
 - security
-- software
+
 - technologist
 - windows
 credits:

@@ -4,7 +4,7 @@ summary: Software developer (MemSQL), writer
 categories:
 - developer
 - mac
-- software
+
 - writer
 ---
 

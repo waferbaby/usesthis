@@ -5,7 +5,7 @@ categories:
 - developer
 - editor
 - linux
-- software
+
 ---
 
 ### Who are you, and what do you do?

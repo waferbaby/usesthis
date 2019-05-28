@@ -8,7 +8,7 @@ categories:
 - film
 - mac
 - musician
-- software
+
 ---
 
 ### Who are you, and what do you do?
