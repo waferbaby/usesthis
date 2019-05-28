@@ -3,7 +3,7 @@ title: Morgan Holzer
 summary: Information architect (NYPL)
 categories:
 - architect
-- web
+
 - windows
 credits:
   name: Daniel Krieger

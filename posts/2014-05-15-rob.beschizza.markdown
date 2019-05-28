@@ -6,7 +6,7 @@ categories:
 - editor
 - game
 - mac
-- web
+
 - writer
 credits:
   name: Heather Beschizza

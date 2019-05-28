@@ -4,7 +4,7 @@ summary: Web standards monkey
 categories:
 - developer
 - mac
-- web
+
 - writer
 credits:
   name: Pete Karl II

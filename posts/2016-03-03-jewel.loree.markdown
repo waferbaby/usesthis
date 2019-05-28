@@ -3,7 +3,7 @@ title: Jewel Loree
 summary: Data analyst (Tableau), bass player (Golden Idols)
 categories:
 - musician
-- web
+
 - windows
 ---
 

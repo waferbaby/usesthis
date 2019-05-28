@@ -4,7 +4,7 @@ summary: CEO (BERG)
 categories:
 - developer
 - mac
-- web
+
 credits:
   name: Timo Arnall
 ---

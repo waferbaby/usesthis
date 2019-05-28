@@ -5,7 +5,7 @@ categories:
 - designer
 - mac
 - product
-- web
+
 ---
 
 ### Who are you, and what do you do?

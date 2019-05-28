@@ -5,7 +5,7 @@ categories:
 - developer
 - linux
 - mac
-- web
+
 credits:
   name: Joi Ito
   url: http://www.flickr.com/photos/joi/3611958575/

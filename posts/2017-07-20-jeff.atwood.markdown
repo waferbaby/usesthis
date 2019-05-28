@@ -4,7 +4,7 @@ summary: Developer, co-founder of Stack Overflow
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

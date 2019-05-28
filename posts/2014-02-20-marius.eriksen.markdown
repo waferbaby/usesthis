@@ -4,7 +4,7 @@ summary: Software developer (Twitter)
 categories:
 - developer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

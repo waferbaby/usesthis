@@ -4,7 +4,7 @@ summary: Designer director (NYTimes.com)
 categories:
 - designer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

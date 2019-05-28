@@ -4,7 +4,7 @@ summary: Startup founder, developer
 categories:
 - developer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

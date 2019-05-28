@@ -4,7 +4,7 @@ summary: Conceptual artist
 categories:
 - artist
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

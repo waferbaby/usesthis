@@ -6,7 +6,7 @@ categories:
 - developer
 - journalist
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

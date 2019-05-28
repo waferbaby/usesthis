@@ -4,7 +4,7 @@ summary: Standards editor, HTML specification
 categories:
 - editor
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

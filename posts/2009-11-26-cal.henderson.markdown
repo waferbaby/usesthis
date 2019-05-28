@@ -4,7 +4,7 @@ summary: Web developer, professional asshat
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

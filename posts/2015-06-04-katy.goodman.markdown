@@ -5,7 +5,7 @@ categories:
 - developer
 - mac
 - musician
-- web
+
 credits:
   name: Eleonora Collini
   url: http://www.eleonoracollini.com/

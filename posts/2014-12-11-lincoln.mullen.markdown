@@ -7,7 +7,7 @@ categories:
 - linux
 - mac
 - teacher
-- web
+
 ---
 
 ### Who are you, and what do you do?

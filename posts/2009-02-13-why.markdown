@@ -4,7 +4,7 @@ summary: Internet rodent
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

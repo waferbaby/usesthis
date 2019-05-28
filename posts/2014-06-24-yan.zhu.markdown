@@ -4,7 +4,7 @@ summary: Staff Technologist (Electronic Frontier Foundation)
 categories:
 - developer
 - linux
-- web
+
 ---
 
 ### Who are you, and what do you do?

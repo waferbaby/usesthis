@@ -4,7 +4,7 @@ summary: Programmer (jQuery)
 categories:
 - developer
 - mac
-- web
+
 - windows
 credits:
   name: Ben Alman

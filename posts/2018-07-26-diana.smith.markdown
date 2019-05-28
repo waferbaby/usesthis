@@ -4,7 +4,7 @@ summary: CSS artist, UI engineer
 categories:
 - artist
 - developer
-- web
+
 - windows
 ---
 

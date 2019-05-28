@@ -4,7 +4,7 @@ summary: Front-end engineer (IBM Watson)
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

@@ -4,7 +4,7 @@ summary: Art director (Sunday Style, The Washington Post)
 categories:
 - designer
 - mac
-- web
+
 - windows
 ---
 

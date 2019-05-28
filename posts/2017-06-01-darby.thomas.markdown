@@ -3,7 +3,7 @@ title: Darby Thomas
 summary: Product designer (Patreon)
 categories:
 - designer
-- web
+
 ---
 
 ### Who are you, and what do you do?

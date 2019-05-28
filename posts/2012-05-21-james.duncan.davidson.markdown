@@ -5,7 +5,7 @@ categories:
 - mac
 - photographer
 
-- web
+
 - writer
 ---
 

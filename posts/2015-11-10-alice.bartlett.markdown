@@ -4,7 +4,7 @@ summary: Web developer (Financial Times), founder (Tampon Club)
 categories:
 - developer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

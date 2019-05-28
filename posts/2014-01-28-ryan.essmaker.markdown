@@ -5,7 +5,7 @@ categories:
 - designer
 - developer
 - mac
-- web
+
 credits:
   name: Tina Essmaker
   url: http://tina.is/

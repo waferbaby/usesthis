@@ -3,7 +3,7 @@ title: Roo Reynolds
 summary: Product manager (GOV.UK)
 categories:
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

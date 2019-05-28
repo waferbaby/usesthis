@@ -4,7 +4,7 @@ summary: UX designer (Amazon), co-founder (MyTransHealth)
 categories:
 - designer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

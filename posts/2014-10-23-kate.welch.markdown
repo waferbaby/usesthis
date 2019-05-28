@@ -7,7 +7,7 @@ categories:
 - interface
 - mac
 - podcaster
-- web
+
 ---
 
 ### Who are you, and what do you do?

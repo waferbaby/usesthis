@@ -5,7 +5,7 @@ categories:
 - developer
 - game
 - mac
-- web
+
 - windows
 ---
 

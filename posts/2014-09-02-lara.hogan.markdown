@@ -4,7 +4,7 @@ summary: Front-end developer, performance engineering manager (Etsy)
 categories:
 - developer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

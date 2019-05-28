@@ -4,7 +4,7 @@ summary: Developer, founder (fuzzy.io, Wikitravel, Identi.ca)
 categories:
 - developer
 - linux
-- web
+
 ---
 
 ### Who are you, and what do you do?

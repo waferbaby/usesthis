@@ -4,7 +4,7 @@ summary: Web designer (Rdio)
 categories:
 - designer
 - mac
-- web
+
 credits:
   name: CreativeMornings
   url: http://www.flickr.com/photos/sanfrancisco_creativemornings/5479227521/

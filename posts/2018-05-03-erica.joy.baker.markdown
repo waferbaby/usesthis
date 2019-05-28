@@ -5,7 +5,7 @@ categories:
 - developer
 - mac
 - service
-- web
+
 ---
 
 ### Who are you, and what do you do?

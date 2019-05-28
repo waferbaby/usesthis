@@ -4,7 +4,7 @@ summary: Developer, infrastructure nerd (DISQUS)
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

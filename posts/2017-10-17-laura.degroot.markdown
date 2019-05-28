@@ -6,7 +6,7 @@ categories:
 - developer
 - mac
 - poet
-- web
+
 ---
 
 ### Who are you, and what do you do?

@@ -3,7 +3,7 @@ title: Nora Reed
 summary: Twitter bot artist
 categories:
 - developer
-- web
+
 - windows
 ---
 

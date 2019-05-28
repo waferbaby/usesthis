@@ -5,7 +5,7 @@ categories:
 - designer
 - developer
 - game
-- web
+
 - windows
 ---
 

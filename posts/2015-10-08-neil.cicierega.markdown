@@ -6,7 +6,7 @@ categories:
 - artist
 - musician
 - video
-- web
+
 - windows
 ---
 

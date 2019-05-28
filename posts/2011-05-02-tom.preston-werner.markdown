@@ -4,7 +4,7 @@ summary: Co-founder of Github
 categories:
 - developer
 - mac
-- web
+
 ---
 
 ### Who are you, and what do you do?

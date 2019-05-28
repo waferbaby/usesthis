@@ -3,7 +3,7 @@ title: Melody Kramer
 summary: Digital and social strategy (NPR)
 categories:
 - mac
-- web
+
 - writer
 ---
 

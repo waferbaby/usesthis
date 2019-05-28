@@ -4,7 +4,7 @@ summary: Lead developer, Our World In Data
 categories:
 - developer
 - mac
-- web
+
 - windows
 ---
 

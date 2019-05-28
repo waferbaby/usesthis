@@ -6,7 +6,7 @@ categories:
 - linux
 - mac
 
-- web
+
 credits:
   name: James Wheare
   url: http://www.flickr.com/photos/jwheare/5768164371/

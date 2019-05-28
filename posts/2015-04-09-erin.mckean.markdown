@@ -5,7 +5,7 @@ categories:
 - developer
 - fashion
 - mac
-- web
+
 - writer
 credits:
   name: George Hall
