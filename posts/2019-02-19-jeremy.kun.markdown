@@ -6,7 +6,6 @@ categories:
 - linux
 - mac
 - mathematician
-
 ---
 
 ### Who are you, and what do you do?

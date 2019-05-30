@@ -4,7 +4,6 @@ summary: Software designer and developer (Netflix)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

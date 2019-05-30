@@ -4,7 +4,6 @@ summary: Developer, co-founder of MediaGoblin
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

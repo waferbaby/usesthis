@@ -4,7 +4,6 @@ summary: Mac developer, co-founder of Panic
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

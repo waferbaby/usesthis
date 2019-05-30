@@ -6,7 +6,6 @@ categories:
 - linux
 - researcher
 - security
-
 ---
 
 ### Who are you, and what do you do?

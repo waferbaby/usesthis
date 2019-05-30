@@ -6,7 +6,6 @@ categories:
 - developer
 - mac
 - teacher
-
 ---
 
 ### Who are you, and what do you do?

@@ -6,7 +6,6 @@ categories:
 - mac
 - researcher
 
-
 ---
 
 ### Who are you, and what do you do?

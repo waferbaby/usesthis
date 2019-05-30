@@ -4,7 +4,6 @@ summary: MakerLab hacker, CTO of Meedan
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

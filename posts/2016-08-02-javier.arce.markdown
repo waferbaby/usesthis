@@ -5,7 +5,6 @@ categories:
 - designer
 - developer
 - illustrator
-
 ---
 
 ### Who are you, and what do you do?

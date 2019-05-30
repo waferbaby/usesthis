@@ -4,7 +4,6 @@ summary: Lead developer (The Khan Academy)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

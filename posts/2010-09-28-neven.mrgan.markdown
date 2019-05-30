@@ -4,7 +4,6 @@ summary: Designer (Panic Inc.)
 categories:
 - designer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

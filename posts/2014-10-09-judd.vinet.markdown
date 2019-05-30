@@ -4,7 +4,6 @@ summary: Software engineer (Arch Linux), CTO (Bet Smart Media)
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

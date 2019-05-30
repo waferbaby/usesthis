@@ -6,7 +6,6 @@ categories:
 - developer
 - illustrator
 - mac
-
 ---
 
 ### Who are you, and what do you do?

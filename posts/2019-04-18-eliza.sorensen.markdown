@@ -6,7 +6,6 @@ categories:
 - linux
 - security
 - sex
-
 ---
 
 ### Who are you, and what do you do?

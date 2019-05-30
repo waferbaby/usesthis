@@ -4,7 +4,6 @@ summary: Director of Strategy and Livestock (webmeadow)
 categories:
 - mac
 - strategy
-
 ---
 
 ### Who are you, and what do you do?

@@ -6,7 +6,6 @@ categories:
 - developer
 - mac
 - musician
-
 ---
 
 ### Who are you, and what do you do?

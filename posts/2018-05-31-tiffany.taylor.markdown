@@ -6,7 +6,6 @@ categories:
 - designer
 - mac
 - product
-
 ---
 
 ### Who are you, and what do you do?

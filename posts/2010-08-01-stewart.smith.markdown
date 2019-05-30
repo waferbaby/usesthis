@@ -4,7 +4,6 @@ summary: Programmer, graphic designer
 categories:
 - designer
 - developer
-
 ---
 
 ### Who are you, and what do you do?

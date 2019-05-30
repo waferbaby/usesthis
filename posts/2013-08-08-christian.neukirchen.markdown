@@ -5,7 +5,6 @@ categories:
 - bsd
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

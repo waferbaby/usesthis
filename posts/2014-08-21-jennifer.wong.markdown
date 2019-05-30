@@ -4,7 +4,6 @@ summary: Web developer (HotPads)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

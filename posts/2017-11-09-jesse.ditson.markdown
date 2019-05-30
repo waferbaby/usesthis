@@ -5,7 +5,6 @@ categories:
 - developer
 - musician
 
-
 ---
 
 ### Who are you, and what do you do?

@@ -4,7 +4,6 @@ summary: Software engineer, President of Threepress
 categories:
 - mac
 
-
 ---
 
 ### Who are you, and what do you do?

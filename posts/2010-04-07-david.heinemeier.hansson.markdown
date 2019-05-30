@@ -4,7 +4,6 @@ summary: Software developer (37signals)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

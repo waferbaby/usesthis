@@ -6,7 +6,6 @@ categories:
 - designer
 - mac
 - video
-
 ---
 
 ### Who are you, and what do you do?

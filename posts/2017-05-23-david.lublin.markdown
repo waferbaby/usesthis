@@ -5,7 +5,6 @@ categories:
 - artist
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

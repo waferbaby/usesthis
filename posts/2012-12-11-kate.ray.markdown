@@ -3,7 +3,6 @@ title: Kate Ray
 summary: Web developer, technical co-founder (scroll kit)
 categories:
 - developer
-
 ---
 
 ### Who are you, and what do you do?

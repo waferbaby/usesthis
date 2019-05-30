@@ -4,7 +4,6 @@ summary: CTO and co-founder (The Omni Group)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

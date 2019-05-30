@@ -4,7 +4,6 @@ summary: Software engineer (Google, Docker)
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

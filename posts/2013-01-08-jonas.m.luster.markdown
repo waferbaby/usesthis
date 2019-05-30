@@ -6,7 +6,6 @@ categories:
 - developer
 - food
 - linux
-
 ---
 
 ### Who are you, and what do you do?

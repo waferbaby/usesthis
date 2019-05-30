@@ -4,7 +4,6 @@ summary: CTO (Opera Software), creator of CSS
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

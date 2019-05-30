@@ -4,7 +4,6 @@ summary: Creator of Firebug, iPhone developer (Facebook)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

@@ -4,7 +4,6 @@ summary: Automation engineer (Slack)
 categories:
 - developer
 - game
-
 ---
 
 ### Who are you, and what do you do?

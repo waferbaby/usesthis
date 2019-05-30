@@ -4,7 +4,6 @@ summary: Head of YCombinator, creator of the Arc language
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

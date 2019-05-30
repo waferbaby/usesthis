@@ -6,7 +6,6 @@ categories:
 - linux
 - mac
 - photographer
-
 ---
 
 ### Who are you, and what do you do?

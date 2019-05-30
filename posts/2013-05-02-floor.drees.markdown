@@ -4,7 +4,6 @@ summary: Junior developer, education aficionado
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

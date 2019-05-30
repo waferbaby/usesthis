@@ -5,7 +5,6 @@ categories:
 - hacker
 - linux
 - social
-
 ---
 
 ### Who are you, and what do you do?

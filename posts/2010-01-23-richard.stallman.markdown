@@ -5,7 +5,6 @@ licence: by-nd
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?

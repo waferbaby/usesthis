@@ -7,7 +7,6 @@ categories:
 - mac
 - professor
 - researcher
-
 ---
 
 ### Who are you, and what do you do?

@@ -4,7 +4,6 @@ summary: Lead designer (Cards Against Humanity)
 categories:
 - designer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

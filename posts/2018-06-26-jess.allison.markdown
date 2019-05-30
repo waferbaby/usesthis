@@ -5,7 +5,6 @@ categories:
 - mac
 - manager
 - producer
-
 ---
 
 ### Who are you, and what do you do?
