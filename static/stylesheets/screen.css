@@ -1,16 +1,21 @@
 :root {
-color-scheme: light dark;
---main-link-colour: #7733ff;
+--details-colour: #888;
 --divider-colour: #ffcce6;
+--header-link-colour: #7733ff;
+--header-link-hover-colour: #fe2e9a;
+--link-colour: #7733ff;
+--link-hover-colour: #fe2e9a;
+--summary-colour: #222;
+color-scheme: light dark;
 }
 
 a {
-color: var(--main-link-colour);
+color: var(--link-colour);
 text-decoration: underline;
 }
 
 a:hover {
-color: #fe2e9a !important;
+color: var(--link-hover-colour) !important;
 }
 
 article.interviewee, div.e-content {
@@ -94,7 +99,7 @@ padding: 0;
 }
 
 h1 {
-color: #fe2e9a;
+color: var(--header-link-hover-colour);
 font-size: 250%;
 line-height: 1em;
 margin: 0;
@@ -105,13 +110,14 @@ text-transform: lowercase;
 h1 a {
 background: url(/images/general/logo.svg) no-repeat;
 background-size: contain;
+color: var(--header-link-colour);
 display: block;
 padding: 50px 0 50px 220px;
 text-decoration: none;
 }
 
 h1 a:hover {
-color: #7733ff !important;
+color: var(--header-link-colour) !important;
 text-decoration: underline;
 }
 
@@ -210,23 +216,6 @@ grid-column: 1;
 justify-self: end;
 }
 
-nav.categories {
-color: #aaa;
-font-size: 75%;
-margin: 0;
-padding: 0;
-}
-
-nav.categories p {
-display: inline-block;
-margin: 0;
-padding: 0 5px 0 0;
-}
-
-nav.categories ul {
-display: inline;
-}
-
 p#description {
 align-self: center;
 border-left: solid 1px var(--divider-colour);
@@ -240,7 +229,20 @@ p#licence {
 font-size: 70%;
 }
 
+p.details {
+border-bottom: solid 1px var(--divider-colour);
+color: var(--details-colour);
+font-size: 70%;
+margin: 0;
+padding: 0 0 10px 0;
+}
+
+p.details a {
+color: var(--details-colour);
+}
+
 p.summary {
+color: var(--summary-colour);
 margin: 5px 0;
 }
 
@@ -252,14 +254,7 @@ padding: 20px;
 }
 
 span.summary {
-color: #888;
-}
-
-time {
-color: #888;
-font-size: 80%;
-display: block;
-margin: 10px 0;
+color: var(--summary-colour);
 }
 
 ul {
@@ -331,10 +326,6 @@ margin-bottom: 10px;
 }
 
 @media all and (max-width: 320px) {
-  nav.categories p {
-  display: block;
-  }
-
   ul.categories, ul.months {
   grid-template-columns: 1fr;
   }
@@ -342,13 +333,19 @@ margin-bottom: 10px;
 
 @media (prefers-color-scheme: dark) {
   :root {
-  --divider-colour: #333;
+  --divider-colour: #444;
+  --link-colour: #999;
+  --summary-colour: #aaa;
+  }
+
+  a {
+  text-shadow: 1px 1px 1px #222;
   }
 
   body {
-  background-color: #222;
-  background-image: linear-gradient(#292929, #222);
-  color: #eee;
+  background-color: #333;
+  background-image: linear-gradient(#292929, #333);
+  color: #ccc;
   }
 
   div.e-content h3, dt, h3 a {
