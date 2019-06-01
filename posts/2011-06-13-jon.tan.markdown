@@ -4,7 +4,6 @@ summary: Designer (Fontdeck, Mapalong, Brooklyn Beta)
 categories:
 - designer
 - mac
-
 credits:
   name: Samantha Cliffe
   url: http://samanthacliffe.com/

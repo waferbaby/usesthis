@@ -4,7 +4,6 @@ summary: Co-founder (Fight for the Future)
 categories:
 - developer
 - mac
-
 credits:
   name: Anne Helmond
   url: http://www.flickr.com/photos/silvertje/5522016335/

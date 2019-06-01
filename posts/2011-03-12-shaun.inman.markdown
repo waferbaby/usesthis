@@ -6,7 +6,6 @@ categories:
 - developer
 - game
 - mac
-
 credits:
   name: Jason Santa Maria
   url: http://www.flickr.com/photos/jasonsantamaria/

@@ -5,8 +5,6 @@ categories:
 - developer
 - linux
 - mac
-
-
 credits:
   name: James Wheare
   url: http://www.flickr.com/photos/jwheare/5768164371/

@@ -5,7 +5,6 @@ categories:
 - developer
 - linux
 - mac
-
 credits:
   name: Christian Petersen
   url: http://www.flickr.com/photos/copetersen/3278884075/

@@ -4,7 +4,6 @@ summary: Hacker-errant (Heroku)
 categories:
 - developer
 - linux
-
 credits:
   name: Lem Malabuyo
   url: http://www.flickr.com/photos/malabooyah/5469920515/

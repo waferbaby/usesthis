@@ -5,7 +5,6 @@ categories:
 - developer
 - linux
 - mac
-
 credits:
   name: Jason Samsa
   url: http://www.flickr.com/photos/jsamsa/3402960203/

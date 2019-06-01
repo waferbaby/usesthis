@@ -5,7 +5,6 @@ categories:
 - developer
 - linux
 - mac
-
 credits:
   name: Thomas Hawk
   url: http://www.flickr.com/photos/thomashawk/3409168230/

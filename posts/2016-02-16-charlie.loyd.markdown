@@ -6,7 +6,6 @@ categories:
 - designer
 - geo
 - mac
-
 credits:
   name: Jacques Tardie
 ---

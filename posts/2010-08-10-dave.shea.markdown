@@ -5,7 +5,6 @@ categories:
 - artist
 - designer
 - mac
-
 credits:
   name: Tom Coates
   url: http://www.flickr.com/photos/plasticbag/

@@ -5,7 +5,6 @@ categories:
 - artist
 - developer
 - linux
-
 credits:
   name: Ian Linkletter
   url: https://www.flickr.com/photos/linkletter/15294541806/in/photostream/

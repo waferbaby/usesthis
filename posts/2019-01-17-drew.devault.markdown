@@ -4,8 +4,6 @@ summary: Software developer
 categories:
 - developer
 - linux
-
-
 credits:
   name: Ken Samanote
 ---
