@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (6.3.0)
+    dimples (6.3.1)
       hashie (~> 3.5, >= 3.5.7)
       optimist (~> 3.0)
       tilt (~> 2.0)
@@ -9,7 +9,7 @@ GEM
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
     hashie (3.6.0)
-    multipart-post (2.0.0)
+    multipart-post (2.1.1)
     optimist (3.0.0)
     redcarpet (3.4.0)
     tilt (2.0.9)
@@ -24,7 +24,7 @@ DEPENDENCIES
   redcarpet (~> 3.4.0)
 
 RUBY VERSION
-   ruby 2.4.3p205
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   1.16.6
+   1.17.2
