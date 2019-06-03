@@ -19,7 +19,7 @@ You can find my artwork on [ardakoyuncu.com](https://ardakoyuncu.com/ "Arda's we
 
 I'm working with two separate workstations at the moment. One of them is an Intel [i7-6800K][core-i7-6800k], 64GB RAM, [GeForce GTX 1080][geforce-gtx-1080] with 2x27" LG 4K displays. The other is an Intel [i7-8700K][core-i7-8700k], 64GB RAM, [GeForce RTX 2080][geforce-rtx-2080] TI with 2x27" HP displays.
 
-My go-to mouse is Logitech [MX Master][mx-master]. When I'm sculpting and painting I use the [Intuos 4 Pro][intuos-pro] and Razer [Nostromo][nostromo] as my inpute devices. I also work on the 15" Razer [Blade][], (the non RTX version, unfortunately - that one came out 3 weeks after I purchased mine) when I'm away from home.
+My go-to mouse is Logitech [MX Master][mx-master]. When I'm sculpting and painting I use the [Intuos 4 Pro][intuos-pro] and Razer [Nostromo][nostromo] as my input devices. I also work on the 15" Razer [Blade][], (the non RTX version, unfortunately - that one came out 3 weeks after I purchased mine) when I'm away from home.
 
 For my photography, timelapses and photogrammetry I use a Canon [6D][eos-6d]. I own a variety of lenses and hardware that go with the camera - the [EF 50mm f/1.2L USM][ef-50mm-f1.2l-usm], [EF 24mm f/1.4L II USM][ef-24mm-f1.4l-ii-usm], and [EF 85mm f/1.8 USM][ef-85mm-f1.8-usm] are my go-to lenses. I have a couple of fisheye lenses and polarizers, and my tripod is an Oben [CT-2461][] that works with the Manfrotto mini ball head.
 
