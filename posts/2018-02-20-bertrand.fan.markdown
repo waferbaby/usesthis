@@ -30,7 +30,7 @@ At work, I use a [Magic Mouse 2][magic-mouse-2] and at home I have a discontinue
 
 I own a [Raspberry Pi][raspberry-pi], [Tessel][], [C.H.I.P.][c.h.i.p], and a Teensy that I'm constantly wiping clean and experimenting with [new](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8 "Bert's Medium article about automating the snowball game in Breath of the Wild.") [hardware](https://www.flickr.com/photos/bertrandom/20103972574/ "Bert's Flickr video of his Amazon Dash hack.") [projects](http://thatsaspicymeatball.com/post/3567097734/rfid-record-player "Bert's post about his RFID record player.").
 
-I recently sold my [HTC Vive][vive] because my house is too small for room-scale VR but am keeping my [Oculus Rift][oculus-rift] until the next generation of headsets comes out. I'll probably buy an [Oculus Go][oculus-go] when it comes out.
+I recently sold my [HTC Vive][vive] because my house is too small for room-scale VR but am keeping my [Oculus Rift][rift] until the next generation of headsets comes out. I'll probably buy an [Oculus Go][go.3] when it comes out.
 
 I have an [HP 7550A][7550a] pen plotter which originally cost $3900 in 1984, but I picked up one in really good condition for around $100 in 2015 on [eBay][]. It has a ridiculous set of adapters coming out of it (parallel to serial to USB A to USB C) but it produces some impressive [plots](https://www.flickr.com/photos/bertrandom/16585002600/ "Bert's Flickr photo of his plotter output."). I've modified it to also use Pilot Hi-Tec-C refills.
 
@@ -113,6 +113,7 @@ As far as software is concerned, I jumped ship from Windows to OS X around 10.6 
 [elevationdock-3]: https://www.elevationlab.com/products/elevation-dock-3 "A dock for the iPhone."
 [gamecube]: https://en.wikipedia.org/wiki/Nintendo_GameCube "A gaming console."
 [gdemu]: https://gdemu.wordpress.com/ "A replacement for the Dreamcast's optical drive that uses SD cards."
+[go.3]: https://www.oculus.com/go/ "An all-in-one VR headset."
 [hi-def-nes]: https://www.game-tech.us/product/hi-def-nes/ "An upgrade kit that adds 1080p HDMI to the NES."
 [hi-tec-c]: https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
 [impact-5065]: https://www.amazon.com/sonic-impact-portable-class-t-amplifier/dp/b0014krvqq "A digital amplifier."
@@ -130,12 +131,11 @@ As far as software is concerned, I jumped ship from Windows to OS X around 10.6 
 [mid-century-modern-laptop-desk]: https://jeremiahcollection.com/collections/mid-century-desk-with-cord-management/products/jeremiah-collection-mid-century-modern-laptop-desk?variant=736849191 "A desk."
 [nano-s]: https://www.ledgerwallet.com/products/ledger-nano-s "A hardware cryptocurrency wallet."
 [nanopad.2]: https://www.elevationlab.com/products/nanopad "An adhesive surface for the ElevationDock."
-[oculus-go]: https://www.oculus.com/go/ "An all-in-one VR headset."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [otg400]: https://www.amazon.com/Monster-MP-OTG400-BK-Outlets/dp/B000F9YN2M/ "A small, portable power strip."
 [p-pkg1w-wh]: https://www.amazon.com/gp/product/B00JJY0S4G/ "A wireless light dimmer."
 [power-adapter-extension-cable]: https://www.apple.com/shop/product/MK122LL/A/power-adapter-extension-cable?fnode=8b "An extension cable for Apple's laptop chargers."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [sd2snes]: https://sd2snes.de/blog/about "A device that allows SD cards to be used with a SNES."
 [snes]: https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "A 16-bit video game console."
 [super-nes-classic-edition]: https://en.wikipedia.org/wiki/Super_NES_Classic_Edition "A miniature version of the SNES."

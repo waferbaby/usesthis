@@ -35,7 +35,7 @@ My first foray into game development was with [Adventure Game Studio][adventure-
 
 My desktop is getting older, but I haven't really felt limited by it yet. The most obvious upgrade would be to a solid state drive to get it booting nice and quick.
  
-There's lots of peripherals that I'd love but can't quite justify having - I'm jealous of Barney's compact [Cintiq][], another friend has an [Ableton Push][push] that's heaps of fun, and I'm hanging out for an [Oculus Rift][oculus-rift] when they hit retail.
+There's lots of peripherals that I'd love but can't quite justify having - I'm jealous of Barney's compact [Cintiq][], another friend has an [Ableton Push][push] that's heaps of fun, and I'm hanging out for an [Oculus Rift][rift] when they hit retail.
  
 Oh, and the rubber on my mouse wheel has disintegrated, so I should probably replace that too!
 
@@ -43,8 +43,8 @@ Oh, and the rubber on my mouse wheel has disintegrated, so I should probably rep
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [td-9]: http://www.rolandus.com/products/details/927 "A drumkit."
 [usb-dual-pre]: http://artproaudio.com/art_products/signal_processing/usb_audio_devices/product/usb_dual_pre_ps/ "A portable amp."
 [w650eh]: https://www.notebookcheck.net/Review-Nexoc-M512-Clevo-W650EH-Notebook.93332.0.html "A 15.6 inch PC laptop."

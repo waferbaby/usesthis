@@ -25,7 +25,7 @@ On iOS I have a ton of apps just like everyone else but [LiveView][liveview-ios]
  
 ### What would be your dream setup?
 
-Basically that one scene from Grandma's Boy. Has someone said that already? Honestly, I like only having a laptop, I'd upgrade to a Retina MBP. I'd also like an [Oculus Rift][oculus-rift]. In addition I would work in a Swiss Family Robinson style treehouse with my favorite people everyday. We have wireless power. It's always Summer or Fall. There are numerous slides, zip-lines and tin-can telephones. And we can pause time and never age during the pause and we also have teleporters. Gotta dream big.
+Basically that one scene from Grandma's Boy. Has someone said that already? Honestly, I like only having a laptop, I'd upgrade to a Retina MBP. I'd also like an [Oculus Rift][rift]. In addition I would work in a Swiss Family Robinson style treehouse with my favorite people everyday. We have wireless power. It's always Summer or Fall. There are numerous slides, zip-lines and tin-can telephones. And we can pause time and never age during the pause and we also have teleporters. Gotta dream big.
 
 [cristal]: https://en.wikipedia.org/wiki/Bic_Cristal "A ballpoint pen."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
@@ -34,8 +34,8 @@ Basically that one scene from Grandma's Boy. Has someone said that already? Hone
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [m305]: https://www.amazon.com/Logitech-M305-Wireless-Mouse-Black/dp/B003HC2FHE "A mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [porta-pro]: https://www.koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone "On-ear headphones."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [xacti-vpc-fh1a]: https://www.amazon.com/Sanyo-VPC-FH1A-Video-Digital-Photos/dp/B002Q4VC9G "A high definition video recorder and 8 megapixel camera."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [artrage-studio]: https://www.artrage.com/artrage-studio/ "A drawing and painting tool."

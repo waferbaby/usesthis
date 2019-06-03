@@ -39,7 +39,7 @@ I'll probably stick with Mac for my new computer since that's what my Adobe Coll
 
 I'd also want a second monitor for when I'm coding and to make having multiple windows open a little more organized. While I'm at it, I'd toss in a new [Wacom Intuos Pro][intuos-pro] and [Autodesk Maya][maya] (as I'm starting to explore 3D animation more). Maybe [Toon Boom Harmony][toon-boom-harmony], as I hear it's great for people who are used to hand-drawn animation in Flash but want something a little more professional.
 
-On the gaming side, it would be nice to have the [PS4][], [Xbox One][xbox-one] and [Wii U][wii-u] so I can actually play the console games my friends are constantly raving about. I think having an [Oculus Rift][oculus-rift], Unity Pro and maybe an iPad of some sort would be interesting for experimenting on other platforms, but I think I may be getting ahead of myself. There's just too many toys to play with!
+On the gaming side, it would be nice to have the [PS4][], [Xbox One][xbox-one] and [Wii U][wii-u] so I can actually play the console games my friends are constantly raving about. I think having an [Oculus Rift][rift], Unity Pro and maybe an iPad of some sort would be interesting for experimenting on other platforms, but I think I may be getting ahead of myself. There's just too many toys to play with!
 
 The Ultimate Setup would be a dedicated studio space of some sort, with walls that don't make every cool poster I try to put up fall on the floor at the slightest temperature change.
 
@@ -48,8 +48,8 @@ The Ultimate Setup would be a dedicated studio space of some sort, with walls th
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [my-passport-ultra]: https://www.wdc.com/en/products/products.aspx?id=1000 "A portable external hard drive."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [toon-boom-harmony]: https://www.toonboom.com/products/harmony "Animation software."
 [transformer-book-t100ta]: https://www.asus.com/Notebooks_Ultrabooks/ASUS_Transformer_Book_T100TA/ "An ultrabook with a detachable screen/tablet."
 [wii-u]: https://www.nintendo.com/wiiu "A unique gaming console."

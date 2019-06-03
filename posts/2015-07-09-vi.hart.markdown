@@ -37,7 +37,7 @@ Right now I'm wearing a pair of [Senal SMH-1000 headphones][smh-1000]. I've got 
 
 VR:
 
-For VR, in the past few months we've mostly been working with the [Oculus Rift][oculus-rift] DK2 or the [Samsung Galaxy Note 4][galaxy-note-4] plus [Wearality Sky][sky] prototype, though also regularly use the DK1 and [Google Cardboards][google-cardboard] and things like it with Androids and iPhones and iPads and tablets and all that, and other things, and this will all change in a few months. We regularly try a lot of weird things for input, but so far nothing beats a good ol' reliable Xbox 360 wired controller.
+For VR, in the past few months we've mostly been working with the [Oculus Rift][rift] DK2 or the [Samsung Galaxy Note 4][galaxy-note-4] plus [Wearality Sky][sky] prototype, though also regularly use the DK1 and [Google Cardboards][google-cardboard] and things like it with Androids and iPhones and iPads and tablets and all that, and other things, and this will all change in a few months. We regularly try a lot of weird things for input, but so far nothing beats a good ol' reliable Xbox 360 wired controller.
 
 Computers and Monitors:
 
@@ -138,8 +138,8 @@ I want a good violin and a hot tub. Right now I'm using a standing desk, but I t
 [l-f210]: https://www.radiomuseum.org/r/jvc_l_f210.html "A turntable."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [p300]: http://www.aaxatech.com/products/p300_pico_projector.htm "A small portable projector."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
 [saffire-6-usb]: http://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
 [sky]: http://wearality.com/ "A wearable VR display."

@@ -51,10 +51,10 @@ My favorite Twitter app is [Tweetbot on iOS][tweetbot-ios] and on the Mac I enjo
 
 ### What would be your dream setup?
 
-I am really looking forward to enjoying immersive virtual experiences, [Snowcrash-style](https://en.wikipedia.org/wiki/Snow_Crash "The Wikipedia entry for Snow Crash."). I would love to build [a VR cave like the one ILMxLAB has](https://www.youtube.com/watch?v=IeaLgPMGzkQ "A YouTube video of ILM's virtual reality lab."), in my living room. And get myself an [Oculus Rift][oculus-rift] as well. I'd be creating virtual worlds by day and fighting off velociraptors and hanging out on the Millennium Falcon by night.
+I am really looking forward to enjoying immersive virtual experiences, [Snowcrash-style](https://en.wikipedia.org/wiki/Snow_Crash "The Wikipedia entry for Snow Crash."). I would love to build [a VR cave like the one ILMxLAB has](https://www.youtube.com/watch?v=IeaLgPMGzkQ "A YouTube video of ILM's virtual reality lab."), in my living room. And get myself an [Oculus Rift][rift] as well. I'd be creating virtual worlds by day and fighting off velociraptors and hanging out on the Millennium Falcon by night.
 
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
-[element.3]: http://www.tangentwave.co.uk/products_element.asp "A modular, customisable work station."
+[element.3]: https://www.tangentwave.co.uk/products_element.asp "A modular, customisable work station."
 [eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [geforce-gtx-titan-black]: https://www.nvidia.com/gtx-700-graphics-cards/gtx-titan-black/ "A video card."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
@@ -63,9 +63,9 @@ I am really looking forward to enjoying immersive virtual experiences, [Snowcras
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [one.4]: https://www.dxo.com/us/dxo-one "A 20.2 megapixel camera that attaches to an iPhone."
 [resolve-control]: https://www.blackmagicdesign.com/products/davinciresolve/control "A control panel for Davinci Resolve."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [xpander-desktop-elite]: http://www.cubix.com/xpander-desktop "A computer expansion device with PCIe slots and power."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [alien-sky-ios]: https://itunes.apple.com/us/app/alien-sky-space-camera/id519529254 "A photo effects app."

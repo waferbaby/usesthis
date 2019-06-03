@@ -20,7 +20,7 @@ During the past decade I have been effectively retired, enjoying video games, ex
 
 ### What hardware do you use?
 
-I started in the games industry drawing art for games using [Micro Illustrator][micro-illustrator] on the [Commodore 64][commodore-64]. I drew with a joystick! When the Amiga and the Mac rolled around, I found the wonder of using a mouse and that was wonderful until graphic tablets showed me a better way. I worked on whatever machine or system was needed at the time, in the 80's. I did my first webcomics and my first published games on an [Amiga 1000][a1000] (an original, with the team signatures under the hood!). Currently, I am on a custom-built [Windows 10][windows-10] rig (I helped construct it!). For virtual reality, I mostly use the [Oculus Rift][oculus-rift], though occasionally I turn to my [Vive][]. For drawing, I use a [Wacom Intuos][intuos] and pen. I use a single 54" flatscreen monitor for most work.
+I started in the games industry drawing art for games using [Micro Illustrator][micro-illustrator] on the [Commodore 64][commodore-64]. I drew with a joystick! When the Amiga and the Mac rolled around, I found the wonder of using a mouse and that was wonderful until graphic tablets showed me a better way. I worked on whatever machine or system was needed at the time, in the 80's. I did my first webcomics and my first published games on an [Amiga 1000][a1000] (an original, with the team signatures under the hood!). Currently, I am on a custom-built [Windows 10][windows-10] rig (I helped construct it!). For virtual reality, I mostly use the [Oculus Rift][rift], though occasionally I turn to my [Vive][]. For drawing, I use a [Wacom Intuos][intuos] and pen. I use a single 54" flatscreen monitor for most work.
 
 ### And what software?
 
@@ -37,7 +37,7 @@ But, if you want my ultimate dream, it would be haptic gloves, a haptic suit and
 [a1000]: https://en.wikipedia.org/wiki/Amiga_1000 "A graphics-focused personal computer."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[oculus-rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
+[rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."
 [cool-edit-pro]: https://en.wikipedia.org/wiki/Adobe_Audition "Digital audio creation software."
 [deluxe-paint]: https://en.wikipedia.org/wiki/Deluxe_Paint "A bitmap graphics editor."
