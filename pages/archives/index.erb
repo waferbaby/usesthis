@@ -7,7 +7,7 @@ title: Archives
 <p>There are <%= @site.archive.years.count %> years of interviews to dig through. Enjoy!</p>
 
 <% @site.archive.years.reverse.each do |year| %>
-  <h3 id="<%= year %>"><a href="/archives/<%= year %>" title="All interviews from <%= year %>."><%= year %></a></h3>
+  <h3 id="<%= year %>"><%= year %></h3>
   <ul class="months">
     <% @site.archive.months(year).each do |month| %>
       <li><a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%B') %></a></li>
