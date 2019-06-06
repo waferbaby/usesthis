@@ -5,6 +5,7 @@
 --header-link-hover-colour: #fe2e9a;
 --link-colour: #7733ff;
 --link-hover-colour: #fe2e9a;
+--nav-link-colour: #000;
 --summary-colour: #222;
 color-scheme: light dark;
 }
@@ -16,10 +17,6 @@ text-decoration: underline;
 
 a:hover {
 color: var(--link-hover-colour) !important;
-}
-
-article > a {
-color: var(--header-link-colour);
 }
 
 article.interviewee + article.interviewee, div.e-content {
@@ -62,10 +59,6 @@ grid-row: 2;
 margin: 5px 0;
 padding: 10px 25px;
 text-transform: uppercase;
-}
-
-header#masthead nav a {
-color: #000;
 }
 
 dd {
@@ -142,8 +135,6 @@ margin: 0;
 padding: 0;
 }
 
-
-
 h4 {
 font-weight: 600;
 margin: 20px 0 5px 0;
@@ -167,6 +158,10 @@ main > h2 + p {
 margin: 10px 0 20px 0;
 padding-bottom: 15px;
 border-bottom: solid 1px var(--divider-colour);
+}
+
+nav a {
+color: var(--nav-link-colour);
 }
 
 nav li {
@@ -337,6 +332,7 @@ margin-bottom: 10px;
   :root {
   --divider-colour: #444;
   --link-colour: #b996ff;
+  --nav-link-colour: #aaa;
   --summary-colour: #aaa;
   }
 
@@ -352,9 +348,5 @@ margin-bottom: 10px;
 
   dt {
   color: #fff;
-  }
-
-  header#masthead nav a {
-  color: var(--summary-colour);
   }
 }
