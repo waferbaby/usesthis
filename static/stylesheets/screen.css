@@ -1,13 +1,16 @@
 :root {
+color-scheme: light dark;
 --details-colour: #888;
 --divider-colour: #ffcce6;
---header-link-colour: #7733ff;
---header-link-hover-colour: #fe2e9a;
---link-colour: #7733ff;
---link-hover-colour: #fe2e9a;
---nav-link-colour: #000;
+--image-border-colour: #555;
+--link-colour: var(--usesthis-purple);
+--link-hover-colour: var(--usesthis-pink);
+--link-header-colour: var(--usesthis-purple);
+--link-header-hover-colour: var(--usesthis-pink);
+--link-nav-colour: #000;
 --summary-colour: #222;
-color-scheme: light dark;
+--usesthis-purple: #7733ff;
+--usesthis-pink: #fe2e9a;
 }
 
 a {
@@ -16,7 +19,7 @@ text-decoration: underline;
 }
 
 a:hover {
-color: var(--link-hover-colour) !important;
+color: var(--link-hover-colour);
 }
 
 article.interviewee + article.interviewee, div.e-content {
@@ -96,7 +99,7 @@ padding: 0;
 }
 
 h1 {
-color: var(--header-link-hover-colour);
+color: var(--link-header-hover-colour);
 font-size: 250%;
 line-height: 1em;
 margin: 0;
@@ -107,14 +110,14 @@ text-transform: lowercase;
 h1 a {
 background: url(/images/general/logo.svg) no-repeat;
 background-size: contain;
-color: var(--header-link-colour);
+color: var(--link-header-colour);
 display: block;
 padding: 50px 0 50px 220px;
 text-decoration: none;
 }
 
 h1 a:hover {
-color: var(--header-link-colour) !important;
+color: var(--link-header-colour) !important;
 text-decoration: underline;
 }
 
@@ -142,7 +145,7 @@ padding: 0;
 }
 
 img.detail, img.portrait {
-border: solid 1px #555;
+border: solid 1px var(--image-border-colour);
 }
 
 li {
@@ -161,7 +164,7 @@ border-bottom: solid 1px var(--divider-colour);
 }
 
 nav a {
-color: var(--nav-link-colour);
+color: var(--link-nav-colour);
 }
 
 nav li {
@@ -232,10 +235,6 @@ color: var(--details-colour);
 font-size: 70%;
 margin: 0;
 padding: 0 0 15px 0;
-}
-
-p.details a {
-color: var(--details-colour);
 }
 
 p.summary {
@@ -331,8 +330,9 @@ margin-bottom: 10px;
 @media (prefers-color-scheme: dark) {
   :root {
   --divider-colour: #444;
+  --image-border-colour: #ccc;
   --link-colour: #b996ff;
-  --nav-link-colour: #aaa;
+  --link-nav-colour: #aaa;
   --summary-colour: #aaa;
   }
 
@@ -346,7 +346,7 @@ margin-bottom: 10px;
   color: #ccc;
   }
 
-  dt {
+  dt, :not(a) > h3 {
   color: #fff;
   }
 }
