@@ -5,8 +5,6 @@ color-scheme: light dark;
 --image-border-colour: #555;
 --link-colour: var(--usesthis-purple);
 --link-hover-colour: var(--usesthis-pink);
---link-header-colour: var(--usesthis-purple);
---link-header-hover-colour: var(--usesthis-pink);
 --link-nav-colour: #000;
 --summary-colour: #222;
 --usesthis-purple: #7733ff;
@@ -19,7 +17,7 @@ text-decoration: underline;
 }
 
 a:hover {
-color: var(--link-hover-colour);
+color: var(--link-hover-colour) !important;
 }
 
 article.interviewee + article.interviewee, div.e-content {
@@ -99,7 +97,7 @@ padding: 0;
 }
 
 h1 {
-color: var(--link-header-hover-colour);
+color: var(--usesthis-pink);
 font-size: 250%;
 line-height: 1em;
 margin: 0;
@@ -110,14 +108,14 @@ text-transform: lowercase;
 h1 a {
 background: url(/images/general/logo.svg) no-repeat;
 background-size: contain;
-color: var(--link-header-colour);
+color: var(--usesthis-purple);
 display: block;
 padding: 50px 0 50px 220px;
 text-decoration: none;
 }
 
 h1 a:hover {
-color: var(--link-header-colour) !important;
+color: var(--usesthis-purple) !important;
 text-decoration: underline;
 }
 
@@ -235,6 +233,10 @@ color: var(--details-colour);
 font-size: 70%;
 margin: 0;
 padding: 0 0 15px 0;
+}
+
+p.details a {
+color: var(--details-colour);
 }
 
 p.summary {
