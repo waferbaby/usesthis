@@ -24,6 +24,10 @@ article.interviewee + article.interviewee, div.e-content {
 margin-top: 30px;
 }
 
+article.interviewee:last-of-type p.details {
+border: 0;
+}
+
 body {
 background-color: #fff;
 background-image: linear-gradient(#ffe6f3, #fff);
@@ -190,7 +194,9 @@ nav#paginator {
 display: grid;
 font-size: 90%;
 margin-top: 15px;
+padding-top: 15px;
 text-align: center;
+border-top: solid 1px var(--divider-colour);
 }
 
 nav#paginator p {
