@@ -42,8 +42,9 @@ end
 %i[hardware software].each do |type|
   all_gear[type] = {}
 
-  source_path = File.join(source_path, 'gear', type.to_s, '**', '*.json')
-  Dir[source_path].sort.each do |path|
+  gear_source_path = File.join(source_path, 'gear', type.to_s, '**', '*.json')
+
+  Dir[gear_source_path].sort.each do |path|
     slug = File.basename(path, '.json')
     data = File.read(path)
 
@@ -54,9 +55,9 @@ end
   end
 end
 
-source_path = File.join(source_path, 'posts', '*.markdown')
+interview_source_path = File.join(source_path, 'posts', '*.markdown')
 
-Dir[source_path].sort.reverse_each do |path|
+Dir[interview_source_path].sort.reverse_each do |path|
   base_name = File.basename(path, '.markdown')
   _, date, slug = base_name.match(/(\d{4}-\d{2}-\d{2})-(.+)/).to_a
 
