@@ -1,0 +1,146 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+source_path = File.dirname(__dir__)
+$LOAD_PATH.unshift(source_path)
+
+require 'date'
+require 'dimples'
+require 'fileutils'
+require 'json'
+
+LINK_PATTERN = /\[(.+)\]: http.+\n/.freeze
+API_VERSION = 2
+API_URL = "https://usesthis.com/api/v#{API_VERSION}"
+
+def paged_file_url(url, index)
+  parts = [url]
+  parts << if index == 1
+             'index.json'
+           else
+             ['pages', "#{index}.json"]
+           end
+
+  File.join(parts)
+end
+
+all_interviews = {}
+all_gear = {}
+
+config_path = File.join(source_path, 'config.json')
+config = JSON.parse(File.read(config_path), symbolize_names: true)
+
+api_paths = { root: File.join(config[:destination], 'api', "v#{API_VERSION}") }
+
+%w[interviews hardware software].each do |section|
+  path = File.join(api_paths[:root], section)
+  api_paths[section.to_sym] = path
+
+  FileUtils.mkdir_p(path)
+end
+
+%i[hardware software].each do |type|
+  all_gear[type] = {}
+
+  source_path = File.join(source_path, 'gear', type.to_s, '**', '*.json')
+  Dir[source_path].sort.each do |path|
+    slug = File.basename(path, '.json')
+    data = File.read(path)
+
+    all_gear[type][slug.to_sym] = JSON.parse(data, symbolize_names: true).merge(
+      slug: slug,
+      interviews: []
+    )
+  end
+end
+
+source_path = File.join(source_path, 'posts', '*.markdown')
+
+Dir[source_path].sort.reverse_each do |path|
+  base_name = File.basename(path, '.markdown')
+  _, date, slug = base_name.match(/(\d{4}-\d{2}-\d{2})-(.+)/).to_a
+
+  data = File.read(path)
+  contents, interview = Dimples::FrontMatter.parse(data)
+
+  interview.merge!(
+    slug: slug,
+    url: "https://usesthis.com/interviews/#{slug}",
+    contents: contents,
+    date: Date.parse(date).iso8601
+  )
+
+  interview[:gear] = contents.scan(LINK_PATTERN).flatten.map do |gear_slug|
+    gear_slug_sym = gear_slug.to_sym
+    item = all_gear[:hardware][gear_slug_sym] ||
+           all_gear[:software][gear_slug_sym]
+
+    item[:interviews] << interview.slice(:slug, :title, :summary)
+    item.slice(:slug, :name)
+  end
+
+  all_interviews[slug.to_sym] = interview
+
+  output_path = File.join(api_paths[:interviews], "#{slug}.json")
+
+  File.open(output_path, 'w') do |interview_file|
+    interview_file.write(JSON.generate(interview: interview))
+  end
+end
+
+FileUtils.mkdir(File.join(api_paths[:interviews], 'pages'))
+
+pager = Dimples::Pager.new(
+  "#{API_URL}/interviews/",
+  all_interviews.to_a,
+  page_prefix: '?page='
+)
+
+pager.each do |index|
+  paged_interviews = pager.posts_at(index).map do |_, interview|
+    interview.slice(:slug, :title, :summary)
+  end
+
+  output = {
+    interviews: paged_interviews,
+    links: pager.to_context[:urls]
+  }
+
+  output_path = paged_file_url(api_paths[:interviews], index)
+
+  File.open(output_path, 'w') do |interviews_file|
+    interviews_file.write(JSON.generate(output))
+  end
+end
+
+%i[hardware software].each do |type|
+  FileUtils.mkdir(File.join(api_paths[type], 'pages'))
+
+  pager = Dimples::Pager.new(
+    "#{API_URL}/#{type}/",
+    all_gear[type].to_a,
+    page_prefix: '?page='
+  )
+  pager.each do |index|
+    paged_gear = pager.posts_at(index).map do |_, item|
+      item.slice(:slug, :name, :description)
+    end
+
+    output = {
+      gear: paged_gear,
+      links: pager.to_context[:urls]
+    }
+
+    File.open(paged_file_url(api_paths[type], index), 'w') do |gear_file|
+      gear_file.write(JSON.generate(output))
+    end
+  end
+
+  all_gear[type].each do |slug, item|
+    output_path = File.join(api_paths[type].to_s, "#{slug}.json")
+
+    File.open(output_path, 'w') do |gear_file|
+      gear_file.write(JSON.generate(item: item))
+    end
+  end
+end
