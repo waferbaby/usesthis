@@ -12,6 +12,7 @@ require 'json'
 LINK_PATTERN = /\[(.+)\]: http.+\n/.freeze
 API_VERSION = 2
 API_URL = "https://usesthis.com/api/v#{API_VERSION}"
+ITEMS_PER_PAGE = 50
 
 def paged_file_url(url, index)
   parts = [url]
@@ -94,7 +95,8 @@ FileUtils.mkdir(File.join(api_paths[:interviews], 'pages'))
 pager = Dimples::Pager.new(
   "#{API_URL}/interviews/",
   all_interviews.to_a,
-  page_prefix: '?page='
+  page_prefix: '?page=',
+  per_page: ITEMS_PER_PAGE
 )
 
 pager.each do |index|
@@ -120,7 +122,8 @@ end
   pager = Dimples::Pager.new(
     "#{API_URL}/#{type}/",
     all_gear[type].to_a,
-    page_prefix: '?page='
+    page_prefix: '?page=',
+    per_page: ITEMS_PER_PAGE
   )
   pager.each do |index|
     paged_gear = pager.posts_at(index).map do |_, item|
