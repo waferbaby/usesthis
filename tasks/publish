@@ -3,3 +3,4 @@
 bundle update
 git pull
 bundle exec dimples build
+tasks/build_api
