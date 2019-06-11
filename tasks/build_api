@@ -33,6 +33,8 @@ config = JSON.parse(File.read(config_path), symbolize_names: true)
 
 api_paths = { root: File.join(config[:destination], 'api', "v#{API_VERSION}") }
 
+puts 'Building API...'
+
 %w[interviews hardware software].each do |section|
   path = File.join(api_paths[:root], section)
   api_paths[section.to_sym] = path
@@ -51,6 +53,7 @@ end
 
     all_gear[type][slug.to_sym] = JSON.parse(data, symbolize_names: true).merge(
       slug: slug,
+      api_url: "#{API_URL}/#{type}/#{slug}",
       interviews: []
     )
   end
@@ -68,6 +71,7 @@ Dir[interview_source_path].sort.reverse_each do |path|
   interview.merge!(
     slug: slug,
     url: "https://usesthis.com/interviews/#{slug}",
+    api_url: "#{API_URL}/interviews/#{slug}",
     contents: contents,
     date: Date.parse(date).iso8601
   )
@@ -77,8 +81,8 @@ Dir[interview_source_path].sort.reverse_each do |path|
     item = all_gear[:hardware][gear_slug_sym] ||
            all_gear[:software][gear_slug_sym]
 
-    item[:interviews] << interview.slice(:slug, :title, :summary)
-    item.slice(:slug, :name)
+    item[:interviews] << interview.slice(:slug, :title, :summary, :api_url)
+    item.slice(:slug, :name, :api_url)
   end
 
   all_interviews[slug.to_sym] = interview
@@ -101,7 +105,7 @@ pager = Dimples::Pager.new(
 
 pager.each do |index|
   paged_interviews = pager.posts_at(index).map do |_, interview|
-    interview.slice(:slug, :title, :summary)
+    interview.slice(:slug, :title, :summary, :api_url)
   end
 
   output = {
@@ -127,7 +131,7 @@ end
   )
   pager.each do |index|
     paged_gear = pager.posts_at(index).map do |_, item|
-      item.slice(:slug, :name, :description)
+      item.slice(:slug, :name, :api_url, :description)
     end
 
     output = {
@@ -148,3 +152,5 @@ end
     end
   end
 end
+
+puts 'Done!'
