@@ -1,0 +1,6 @@
+{
+  "error": {
+    "status": 404,
+    "message": "Item not found"
+  }
+}
