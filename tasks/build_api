@@ -81,8 +81,15 @@ Dir[interview_source_path].sort.reverse_each do |path|
     item = all_gear[:hardware][gear_slug_sym] ||
            all_gear[:software][gear_slug_sym]
 
-    item[:interviews] << interview.slice(:slug, :title, :summary, :api_url)
-    item.slice(:slug, :name, :api_url)
+    item[:interviews] << interview.slice(
+      :slug,
+      :title,
+      :summary,
+      :url,
+      :api_url
+    )
+
+    item.slice(:slug, :name, :url, :api_url)
   end
 
   all_interviews[slug.to_sym] = interview
@@ -105,7 +112,7 @@ pager = Dimples::Pager.new(
 
 pager.each do |index|
   paged_interviews = pager.posts_at(index).map do |_, interview|
-    interview.slice(:slug, :title, :summary, :api_url)
+    interview.slice(:slug, :title, :summary, :url, :api_url)
   end
 
   output = {
@@ -131,7 +138,7 @@ end
   )
   pager.each do |index|
     paged_gear = pager.posts_at(index).map do |_, item|
-      item.slice(:slug, :name, :api_url, :description)
+      item.slice(:slug, :name, :url, :api_url, :description)
     end
 
     output = {
