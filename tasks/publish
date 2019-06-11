@@ -2,5 +2,6 @@
 
 bundle update
 git pull
+
 bundle exec dimples build
-./tasks/build_api
+bundle exec tasks/build_api
