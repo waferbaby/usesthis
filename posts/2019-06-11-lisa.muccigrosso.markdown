@@ -16,7 +16,7 @@ As is often the case working in a MLS-saturated market, finding long-term work w
 
 ### What hardware do you use?
 
-I use a Lenovo [Yoga 730][thinkpad-yoga-370] laptop and a Google [Pixel 2][pixel-2] phone. I use my phone far more than my laptop.
+I use a Lenovo [Yoga 730][thinkpad-yoga-730] laptop and a Google [Pixel 2][pixel-2] phone. I use my phone far more than my laptop.
 
 My tools, though - where do I begin? My apron pocket has a [bone folder](https://en.wikipedia.org/wiki/Bone_folder "The Wikipedia entry for Bone Folder."), a small measuring tape, a mechanical pencil, and a Sharpie at all times. Every student gets a workbench. My bench holds various and sundry small hand tools, from needles, scissors, sandpaper, a variety of folding tools, and glue/paste brushes to steel key stock (useful as measuring jigs) to handmade leather paring knives (from our coursework with guest instructor [Jeff Peachey](https://jeffpeachey.com/ "Jeff Peachy's website.")) to a cobbler's hammer for [rounding and backing](https://centerforbookarts.org/monday-methods-rounding-and-backing/ "An aticle on how to round and back book spines.") book spines. I have glue pots, microspatulas, Olfa knives, and a cast-iron copy press - in fact, there's a press on each bench and more scattered throughout the bindery.
 
@@ -34,6 +34,6 @@ I think I'm living it right now. I'm lucky to have access to the equipment that 
 [model-86]: http://www.ernestschaeferinc.com/catalog_i6506200.html?catId=276672 "A hot stamper."
 [model-s-2]: http://www.ernestschaeferinc.com/catalog_i6506201.html?catId=269247 "A hot stamper."
 [pixel-2]: https://en.wikipedia.org/wiki/Pixel_2 "A 5 inch Android smartphone."
-[thinkpad-yoga-370]: https://www3.lenovo.com/us/en/laptops/thinkpad/thinkpad-yoga/Yoga-370/p/22TP2TXY370 "A 13.3 inch laptop/tablet device."
+[thinkpad-yoga-730]: https://www.lenovo.com/us/en/laptops/yoga/700-series/Yoga-730-15/p/88YG7000965 "A 15.6 inch 2-in-1 PC laptop."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
