@@ -33,6 +33,10 @@
     "mac": "Macintosh"
   },
 
+  "pagination": {
+    "page_prefix": "?page="
+  },
+
   "data": {
     "description": "A collection of nerdy interviews asking people from all walks of life what they use to get the job done."
   }
