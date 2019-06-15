@@ -1,0 +1,31 @@
+---
+layout: default
+title: API 
+---
+
+<h2>API</h2>
+<p>Uses This has a very simple (static!) JSON-based API. I'd love to know if you end up doing something fun with it!</p>
+
+<h3>Interviews</h3>
+
+<dl>
+  <dt id="interviews">GET <a href="/api/v2/interviews/" title="Get a list of interviews.">/api/v2/interviews/</a></dt>
+  <dd>Returns a paginated list of interviews.</dd>
+  <dt id="interview">GET <a href="/api/v2/interviews/<%= site.latest_post.slug %>/">/api/v2/interviews/<em>slug</em>/</a></dt>
+  <dd>Returns a single interview.</dd>
+</dl>
+
+<h3>Gear</h3>
+
+<dl>
+  <dt id="gear">
+    GET <a href="/api/v2/hardware">/api/v2/hardware</a><br>
+    GET <a href="/api/v2/software">/api/v2/software</a>
+  </dt>
+  <dd>Returns a paginated list of the given gear type.</dd>
+  <dt id="item">
+    GET <a href="/api/v2/hardware/macbook-pro">/api/v2/hardware/<em>slug</em></a><br>
+    GET <a href="/api/v2/software/photoshop">/api/v2/software/<em>slug</em></a>
+  </dt>
+  <dd>Returns a single piece of gear.</dd>
+</dl>
