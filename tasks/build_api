@@ -9,10 +9,11 @@ require 'dimples'
 require 'fileutils'
 require 'json'
 
-LINK_PATTERN = /\[(.+)\]: http.+\n/.freeze
+LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
 API_VERSION = 2
 API_URL = "https://usesthis.com/api/v#{API_VERSION}"
 ITEMS_PER_PAGE = 50
+FILTERED_KEYS = %i[slug name title summary url api_url].freeze
 
 def paged_file_url(url, index)
   filename = if index == 1
@@ -26,6 +27,7 @@ end
 
 all_interviews = {}
 all_gear = {}
+all_stats = {}
 
 config_path = File.join(source_path, 'config.json')
 config = JSON.parse(File.read(config_path), symbolize_names: true)
@@ -34,7 +36,7 @@ api_paths = { root: File.join(config[:destination], 'api', "v#{API_VERSION}") }
 
 puts 'Building API...'
 
-%w[interviews hardware software].each do |section|
+%w[interviews hardware software stats].each do |section|
   path = File.join(api_paths[:root], section)
   api_paths[section.to_sym] = path
 
@@ -43,6 +45,7 @@ end
 
 %i[hardware software].each do |type|
   all_gear[type] = {}
+  all_stats[type] = { all_time: {} }
 
   gear_source_path = File.join(source_path, 'gear', type.to_s, '**', '*.json')
 
@@ -62,33 +65,34 @@ interview_source_path = File.join(source_path, 'posts', '*.markdown')
 
 Dir[interview_source_path].sort.reverse_each do |path|
   base_name = File.basename(path, '.markdown')
-  _, date, slug = base_name.match(/(\d{4}-\d{2}-\d{2})-(.+)/).to_a
+  _, date_string, slug = base_name.match(/(\d{4}-\d{2}-\d{2})-(.+)/).to_a
 
   data = File.read(path)
   contents, interview = Dimples::FrontMatter.parse(data)
+
+  date = Date.parse(date_string)
+  year = date.year
 
   interview.merge!(
     slug: slug,
     url: "https://usesthis.com/interviews/#{slug}",
     api_url: "#{API_URL}/interviews/#{slug}",
     contents: contents,
-    date: Date.parse(date).iso8601
+    date: date.iso8601
   )
 
   interview[:gear] = contents.scan(LINK_PATTERN).flatten.map do |gear_slug|
     gear_slug_sym = gear_slug.to_sym
-    item = all_gear[:hardware][gear_slug_sym] ||
-           all_gear[:software][gear_slug_sym]
 
-    item[:interviews] << interview.slice(
-      :slug,
-      :title,
-      :summary,
-      :url,
-      :api_url
-    )
+    type = all_gear[:hardware][gear_slug_sym] ? :hardware : :software
+    item = all_gear[type][gear_slug_sym]
 
-    item.slice(:slug, :name, :url, :api_url)
+    item[:interviews] << interview.slice(*FILTERED_KEYS)
+
+    all_stats[type][year] ||= Hash.new(0)
+    all_stats[type][year][gear_slug] += 1
+
+    item.slice(*FILTERED_KEYS)
   end
 
   all_interviews[slug.to_sym] = interview
@@ -113,7 +117,7 @@ pager = Dimples::Pager.new(
 
 pager.each do |index|
   paged_interviews = pager.posts_at(index).map do |_, interview|
-    interview.slice(:slug, :title, :summary, :url, :api_url)
+    interview.slice(*FILTERED_KEYS)
   end
 
   output = {
@@ -137,9 +141,11 @@ end
     page_prefix: '?page=',
     per_page: ITEMS_PER_PAGE
   )
+
   pager.each do |index|
     paged_gear = pager.posts_at(index).map do |_, item|
-      item.slice(:slug, :name, :url, :api_url, :description)
+      all_stats[type][:all_time][item[:slug]] = item[:interviews].count
+      item.slice(*FILTERED_KEYS)
     end
 
     output = {
@@ -159,6 +165,27 @@ end
 
     File.open(output_path, 'w') do |gear_file|
       gear_file.write(JSON.generate(item: item))
+    end
+  end
+end
+
+%i[hardware software].each do |type|
+  all_stats[type].each do |key, values|
+    output_path = File.join(
+      api_paths[:stats],
+      type.to_s,
+      key != :all_time ? key.to_s : '',
+      'index.json'
+    )
+
+    FileUtils.mkdir_p(File.dirname(output_path))
+
+    stats = values.sort_by(&:last).reverse[0..49].map do |slug, count|
+      all_gear[type][slug.to_sym].slice(*FILTERED_KEYS).merge(count: count)
+    end
+
+    File.open(output_path, 'w') do |stats_file|
+      stats_file.write(JSON.generate(stats: stats))
     end
   end
 end
