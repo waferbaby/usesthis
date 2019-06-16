@@ -13,7 +13,7 @@ LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
 API_VERSION = 2
 API_URL = "https://usesthis.com/api/v#{API_VERSION}"
 ITEMS_PER_PAGE = 50
-FILTERED_KEYS = %i[slug name title summary url api_url].freeze
+SLICE_KEYS = %i[slug name title description summary url api_url].freeze
 
 def paged_file_url(url, index)
   filename = if index == 1
@@ -87,12 +87,12 @@ Dir[interview_source_path].sort.reverse_each do |path|
     type = all_gear[:hardware][gear_slug_sym] ? :hardware : :software
     item = all_gear[type][gear_slug_sym]
 
-    item[:interviews] << interview.slice(*FILTERED_KEYS)
+    item[:interviews] << interview.slice(*SLICE_KEYS)
 
     all_stats[type][year] ||= Hash.new(0)
     all_stats[type][year][gear_slug] += 1
 
-    item.slice(*FILTERED_KEYS)
+    item.slice(*SLICE_KEYS)
   end
 
   all_interviews[slug.to_sym] = interview
@@ -117,7 +117,7 @@ pager = Dimples::Pager.new(
 
 pager.each do |index|
   paged_interviews = pager.posts_at(index).map do |_, interview|
-    interview.slice(*FILTERED_KEYS)
+    interview.slice(*SLICE_KEYS)
   end
 
   output = {
@@ -145,7 +145,7 @@ end
   pager.each do |index|
     paged_gear = pager.posts_at(index).map do |_, item|
       all_stats[type][:all_time][item[:slug]] = item[:interviews].count
-      item.slice(*FILTERED_KEYS)
+      item.slice(*SLICE_KEYS)
     end
 
     output = {
@@ -195,7 +195,7 @@ end
     FileUtils.mkdir_p(File.dirname(output_path))
 
     stats = values.sort_by(&:last).reverse[0..49].map do |slug, count|
-      all_gear[type][slug.to_sym].slice(*FILTERED_KEYS).merge(count: count)
+      all_gear[type][slug.to_sym].slice(*SLICE_KEYS).merge(count: count)
     end
 
     File.open(output_path, 'w') do |stats_file|
