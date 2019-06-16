@@ -169,6 +169,20 @@ end
   end
 end
 
+basic_stats = {
+  interviews: all_interviews.count,
+  hardware: all_gear[:hardware].count,
+  software: all_gear[:software].count
+}
+
+output_path = File.join(api_paths[:stats], 'index.json')
+
+FileUtils.mkdir_p(File.dirname(output_path))
+
+File.open(output_path, 'w') do |stat_file|
+  stat_file.write(JSON.generate(stats: basic_stats))
+end
+
 %i[hardware software].each do |type|
   all_stats[type].each do |key, values|
     output_path = File.join(
