@@ -26,7 +26,7 @@ Like most everyone, I would love more analog gear. Especially helpful would be a
 
 And, heck, while we're dreaming... I'll take a bunch more great mics, a vibey upright piano, some analog synths, a vintage drumset, more fun outboard gear, a live room, a jacuzzi, and a tuxedo-clad butler named Helmsley, who I could send out for Taco Bell.
 
-[duet-2]: http://www.apogeedigital.com/products/duet-2 "An audio interface for the Mac."
+[duet-2]: https://www.apogeedigital.com/products/duet-2 "An audio interface for the Mac."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [j-185]: http://www2.gibson.com/Products/Acoustic-Instruments/Jumbo/Gibson-Acoustic/J-185.aspx "An acoustic guitar."
 [les-paul-standard]: http://www2.gibson.com/Products/Electric-Guitars/Les-Paul/Gibson-USA/Les-Paul-Standard.aspx "An electric guitar."

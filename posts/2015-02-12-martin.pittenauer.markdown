@@ -40,7 +40,7 @@ Well, of course there are things that would be nice to play around with, especia
 If we are talking about real dreams, I guess my "Wanderlust" and growing frustration with Germany's political and technological landscape would seduce me to say: A desk with a [Mac Pro][mac-pro] in [Portland](http://thebelmontgoats.org/ "A group of cute goats in Portland, Oregon.").
 
 [af-nikkor-50mm-f1.4d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1902/AF-NIKKOR-50mm-f%252F1.4D.html "A camera lens."
-[dr-680]: http://tascam.com/product/dr-680/ "A multi-channel portable audio recorder."
+[dr-680]: https://tascam.com/product/dr-680/ "A multi-channel portable audio recorder."
 [dt-297]: https://beyerdynamic.factoryoutletstore.com/details/59864/beyerdynamic-ams-dt-297-pv-mkII.html "A microphone headset."
 [dt-770-pro]: https://north-america.beyerdynamic.com/shop/hah/headphones-and-headsets/studio-and-stage/studio-headphones/dt-770-pro.html "Closed headphones."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."

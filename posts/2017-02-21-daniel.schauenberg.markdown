@@ -72,7 +72,7 @@ I basically have my dream set up in a lot of ways. It would be awesome if I didn
 [nagios]: https://www.nagios.org/ "Software for monitoring hardware/software infrastructure."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [owncloud]: https://owncloud.org/ "Self-hosted syncing and sharing software."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [pocket-ios]: https://getpocket.com/ios/ "An app for the read-it-later service."
 [pocketcleaner]: https://github.com/mrtazz/pocketcleaner "A tool for managing your Pocket queue."
 [procmail]: https://en.wikipedia.org/wiki/Procmail "A mail delivery agent."

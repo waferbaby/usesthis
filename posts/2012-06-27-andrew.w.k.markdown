@@ -40,7 +40,7 @@ My dream setup would be, I guess, really what I have right now. I would like a b
 [20-20]: https://www.cnet.com/products/event-20-20-speakers/ "Field monitor speakers."
 [concert-grand-model-d]: https://www.steinway.com/pianos/steinway/grand/model-d/ "A fancy piano."
 [envoice]: http://www.steamingaudio.myzen.co.uk/gear_pages/envoice.shtml "A pre-amp."
-[ep-9]: http://www.sonicstate.com/synth/roland_ep-9/ "A digital piano."
+[ep-9]: https://www.sonicstate.com/synth/roland_ep-9/ "A digital piano."
 [jv-880]: http://www.vintagesynth.com/roland/jv880.php "A rack-mounted sound module."
 [mdr-xd100]: https://www.amazon.com/Sony-MDR-XD100-Headphones-Discontinued-Manufacturer/dp/B0007N55NM "Studio headphones."
 [mp-60]: http://www.rolandus.com/products/details/476 "A digital piano."

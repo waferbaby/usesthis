@@ -83,7 +83,7 @@ I am pretty satisfied with my current setup, yet I'm continuously improving it. 
 [irssi-connectbot-android]: https://github.com/ddrown/irssiconnectbot "A modified IRC-ssh client for Android."
 [libarchive]: http://libarchive.org/ "A multi-format compression library and companion tools."
 [ltrace]: https://linux.die.net/man/1/ltrace "A library call debugger."
-[majestouch-ninja-tenkeyless]: http://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
+[majestouch-ninja-tenkeyless]: https://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
 [model-m]: https://en.wikipedia.org/wiki/Model_M_keyboard "A keyboard."
 [oeffi-android]: https://oeffi.schildbach.de/ "A European transit app for Android."
 [playstation-eye]: https://en.wikipedia.org/wiki/PlayStation_Eye "A digital video camera designed for the PS3."

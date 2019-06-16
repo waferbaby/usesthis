@@ -46,7 +46,7 @@ the toolkit I use for that purpose.
 
 All the above running 30-times faster in a much bigger set of rooms :-)
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [reprap]: https://reprap.org/wiki/Main_Page "A self-replicating manufacturing machine."
 [eagle]: https://cadsoft.io "Software for designing printed circuit boards."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."

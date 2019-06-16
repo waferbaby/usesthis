@@ -71,7 +71,7 @@ If I could find a way to make office documents go away, it would simplify my wor
 
 Short of that, I'd like to be able to do all my work from a device no more intrusive than a tablet. Though I love my MacBook Air, I think it will feel and look bulky in 30 years.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-4]: https://en.wikipedia.org/wiki/IPad_(4th_generation) "A 9.7 inch iOS tablet."

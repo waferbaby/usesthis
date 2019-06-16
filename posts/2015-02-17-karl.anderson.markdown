@@ -39,7 +39,7 @@ I want to answer this question with some Stanisław Lem scenario. Interacting wi
 
 It's the same nightmare I have once in a while when I'm asleep, where I'm moving in slow motion, or I'm building towers and then the plot changes and I need to be digging ditches. Forget the hardware, I'll fall out of love with it tomorrow. The only feelings I have for the hardware come from how it gets out of my way. I just want to work towards achieving my objectives. In my dreams, I'm twenty-three again, stronger and less wise. I used to be able to hack for seventeen hours straight, and in my dreams I can do that again.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [teensy]: https://www.pjrc.com/teensy/ "A USB microcontroller board."

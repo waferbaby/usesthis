@@ -55,7 +55,7 @@ The hardware that I most desire is an evolution of my mobile phone. I want a 192
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
 [klocwork-insight]: https://www.klocwork.com/products-services/klocwork "Static analysis software for developers."
 [lynx]: https://lynx.invisible-island.net/ "A text-based web browser."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [save]: http://www.coverity.com/products/coverity-save/ "Static analysis software for developers."
 [solaris]: http://www.oracle.com/us/products/servers-storage/solaris/resources/index.html "An operating system."
 [subversion]: http://subversion.tigris.org/ "A version control system."

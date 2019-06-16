@@ -94,7 +94,7 @@ It feels like the "I wish for world peace" of internet nerdery at this point, bu
 [jumpcut]: http://jumpcut.sourceforge.net/ "A clipboard buffer for Mac OS X."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
-[marked]: http://marked2app.com/ "A Markdown preview tool for Mac text editors."
+[marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."
 [middleclick]: https://rouge41.com/labs/ "A software hack to make a triple taps register as a middle click on Macbooks."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [mymoodtracker-ios]: https://itunes.apple.com/us/app/mymoodtracker/id362285162 "A mood and emotional tracking app."

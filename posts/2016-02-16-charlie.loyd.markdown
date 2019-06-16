@@ -80,7 +80,7 @@ Too many of my daily tools are overfitted. What could I be using that's not desi
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [netcat]: http://nc110.sourceforge.net/ "A tool for network debugging/exploring."
 [numpy]: http://www.numpy.org/ "A Python package for scientific computing."
-[openstreetmap]: http://www.openstreetmap.org/ "A crowdsourced map."
+[openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
 [parallel]: http://www.gnu.org/software/parallel/ "A command-line tool for executing multiple processes across one or more computers."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [postgresql]: https://www.postgresql.org/ "A relational database server."

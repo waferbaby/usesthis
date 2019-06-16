@@ -44,7 +44,7 @@ I'd also like a pair of Urbanears Plattans in every color so that they would alw
 [bg250-112]: http://www.tcelectronic.com/bg250-112/ "A guitar amp."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mv88]: http://www.shure.com/americas/products/microphones/motiv/mv88-ios-digital-stereo-condenser-microphone "A stereo condenser microphone for iOS devices."
-[plattan]: http://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
+[plattan]: https://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
 [polytune-2]: http://www.tcelectronic.com/polytune-2/ "A guitar tuner."
 [retro-pen]: http://www.kikkerland.com/products/retro-pens-5-per-set/ "A pen styled like it's from the 1960's."
 [sl-112]: http://www.aguilaramp.com/products_cabinets_SL112.htm "A lightweight bass amp."

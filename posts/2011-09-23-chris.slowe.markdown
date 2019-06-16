@@ -58,7 +58,7 @@ Honestly, though, I feel like the worst part of these days isn't the hardware bu
 [mako]: https://www.makotemplates.org/ "A templating system for Python."
 [mongodb]: https://www.mongodb.com/ "A document-based database."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[sass]: http://sass-lang.com/ "A syntax wrapper for CSS."
+[sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [tornado]: http://www.tornadoweb.org/en/stable/ "A fast web server."

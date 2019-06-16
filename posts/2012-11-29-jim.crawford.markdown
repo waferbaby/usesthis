@@ -53,7 +53,7 @@ In the long term, well, let's just say if *I'm* not software within the next 30 
 [bladeenc]: http://freecode.com/projects/bladeenc "An MP3 encoder."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[fl-studio]: https://www.image-line.com/flstudio/ "An audio editor for Windows."
 [flashdevelop]: http://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."
 [frog-fractions]: http://twinbeard.com/frog-fractions/ "A game about frogs and fractions."
 [frotz]: https://en.wikipedia.org/wiki/Z-machine#Frotz "A Z-Code interpreter."

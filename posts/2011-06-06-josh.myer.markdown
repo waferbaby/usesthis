@@ -57,7 +57,7 @@ In the meantime, I want physical I/O on my computer. Arduino partly solves the p
 
 For physical output, there are things like 3-D printers, laser cutters, and CNC mills (for sculpting metal). These all exist today, but they're fussy and the equipment costs as much as a house in San Francisco. In my dreams, I have all of them, and they work without any fuss.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mx-lcd-arm]: https://www.ergotron.com/tabid/65/PRDID/56/default.aspx "An arm for mounting an LCD display on a wall."

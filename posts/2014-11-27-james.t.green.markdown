@@ -40,7 +40,7 @@ I'm really happy with my setup, for the most part! The only thing I would change
 
 Also, if you can move my entire work set up into a remote cabin in the woods of Wisconsin, that would swell.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cypress-sleeve-ipad]: http://shop.herschelsupply.com/collections/padded-sleeve/products/cypress-sleeve-ipad-navy-red "A sleeve for an iPad."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."

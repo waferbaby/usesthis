@@ -70,7 +70,7 @@ But I still wish Apple would make a laptop for video professionals. 2TB storage.
 [lx-dual-stacking-arm]: https://www.ergotron.com/ProductsDetails/tabid/65/PRDID/355/language/en-US/Default.aspx "An arm for two LCD monitors."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mh-c801d]: http://www.mahaenergy.com/mh-c801d/ "An 8-cell AA/AAA battery recharger."
+[mh-c801d]: https://www.mahaenergy.com/mh-c801d/ "An 8-cell AA/AAA battery recharger."
 [mke-600]: https://en-us.sennheiser.com/camera-mic-dslr-shotgun-video-mke-600 "A microphone."
 [nex-fs100uk]: https://pro.sony.com/bbsc/ssr/product-NEXFS100UK/ "A camcorder with interchangeable lenses."
 [rugged-portable]: http://iosafe.com/products-rugged-portable-overview "A well-protected portable hard drive."

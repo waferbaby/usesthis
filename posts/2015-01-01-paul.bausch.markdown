@@ -63,7 +63,7 @@ I feel like I'm living the dream already. If we could get wireless electricity g
 [metafilter]: https://www.metafilter.com/ "A community website."
 [ncid]: http://ncid.sourceforge.net/ "Caller ID software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sass]: http://sass-lang.com/ "A syntax wrapper for CSS."
+[sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [slack]: https://slack.com/ "A collaboration service."
 [solarized]: https://ethanschoonover.com/solarized "A colour theme for text editors."
 [sql-server-management-studio]: https://en.wikipedia.org/wiki/SQL_Server_Management_Studio "Software for managing Microsoft SQL Server."

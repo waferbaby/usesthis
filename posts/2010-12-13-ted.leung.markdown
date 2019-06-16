@@ -101,7 +101,7 @@ Hardware wise, I'd like something that runs everything so quickly that I never h
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[scansnap-s1500m]: http://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[scansnap-s1500m]: https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
 [skim]: http://skim-app.sourceforge.net/ "PDF reader/note-taker software for the Mac."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
 [teleport]: https://www.macupdate.com/app/mac/14042/teleport "Control multiple Macs with a single keyboard and mouse."

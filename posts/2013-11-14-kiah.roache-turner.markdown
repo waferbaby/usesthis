@@ -34,7 +34,7 @@ Having said that, the one possible exception is probably editing - I truly love 
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
 [eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
-[epic]: http://www.red.com/products/epic/ "A high-end 4k digital video camera."
+[epic]: https://www.red.com/products/epic/ "A high-end 4k digital video camera."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
 [scarlet]: https://www.red.com/products/scarlet "A high-end 4k digital video camera."

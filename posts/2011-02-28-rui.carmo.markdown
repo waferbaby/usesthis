@@ -91,7 +91,7 @@ Any dream setup ought to include copious amounts of time to enjoy it, regardless
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [nslu2]: https://en.wikipedia.org/wiki/NSLU2 "A Network-attached storage device."
-[optiplex-380]: http://www.dell.com/us/business/p/optiplex-380/pd "A desktop PC."
+[optiplex-380]: https://www.dell.com/us/business/p/optiplex-380/pd "A desktop PC."
 [2do-ios]: https://www.2doapp.com/ "A to-do application for iOS."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."

@@ -90,7 +90,7 @@ App/platform vendors don't want sovereigns, of course. Their entire business mod
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."

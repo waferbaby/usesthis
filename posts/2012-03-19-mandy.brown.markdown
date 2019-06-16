@@ -64,7 +64,7 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."

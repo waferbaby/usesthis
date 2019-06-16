@@ -64,7 +64,7 @@ In near-term reality, I've been considering a Lenovo X-series, and switching bac
 [mdr-nc11]: https://www.amazon.com/Sony-Canceling-Headphones-Discontinued-Manufacturer/dp/B0009SAN3W "Noise-cancelling headphones."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
 [powershot-sd1200-is]: https://www.amazon.com/Canon-SD1200IS-Stabilized-Dark-Gray/dp/B001SER492 "A 10 megapixel digital camera."
-[scansnap-s1300]: http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s1300.html "A portable scanner."
+[scansnap-s1300]: https://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s1300.html "A portable scanner."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."
 [bitlbee]: https://www.bitlbee.org/main.php/news.r.html "An IM to IRC proxy server."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

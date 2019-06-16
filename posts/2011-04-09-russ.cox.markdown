@@ -59,7 +59,7 @@ Moving everything into "The Cloud" may be a path to that dream, but we are defin
 [quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
 [quietcomfort-2]: https://www.amazon.com/Bose-QuietComfort-Acoustic-Canceling-Headphones/dp/B000AP05BO "Noise-cancelling headphones."
 [readynas-duo]: http://www.readynas.com/?p=1514 "A network backup/storage solution."
-[scansnap-s510]: http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s510.html "A sheet-fed scanner."
+[scansnap-s510]: https://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s510.html "A sheet-fed scanner."
 [thinkpad-x201s]: http://www.thinkwiki.org/wiki/Category:X201s "A 12.1 inch PC laptop."
 [thinkpad-x40]: http://www.thinkwiki.org/wiki/Category:X40 "A 12.1 inch PC laptop."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."

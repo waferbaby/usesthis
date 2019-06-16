@@ -48,7 +48,7 @@ My dream setup is simple!! I have an adjustable standing / sitting desk. My offi
 [sculpt-ergonomic-mouse]: https://www.microsoft.com/accessories/en-us/products/mice/sculpt-ergonomic-mouse/l6v-00001 "An ergonomic mouse."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [donut-country]: http://www.donutcounty.com/ "A video game where you play an ever-growing hole in the ground."
-[fl-studio]: http://www.image-line.com/flstudio/ "An audio editor for Windows."
+[fl-studio]: https://www.image-line.com/flstudio/ "An audio editor for Windows."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

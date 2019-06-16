@@ -79,6 +79,6 @@ And a one-touch off button, so I can toss those amazing gadgets in a drawer and 
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [movie-magic-screenwriter]: http://www.screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."
-[scansnap-s1500m]: http://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[scansnap-s1500m]: https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."

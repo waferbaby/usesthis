@@ -86,7 +86,7 @@ But in reality, my ideal setup would produce a certain feeling, a feeling that a
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [recco-ios]: http://myrecco.com/ "A recommendations network for iOS."
-[sass]: http://sass-lang.com/ "A syntax wrapper for CSS."
+[sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [scanner-pro-ios]: https://itunes.apple.com/app/scanner-pro-by-readdle/id333710667 "An app that uses the phone's camera as a scanner."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."

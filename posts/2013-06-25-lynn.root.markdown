@@ -65,7 +65,7 @@ I can't wait for Google Fiber to be local. And I'm number 1306 for [Google Glass
 [bitbucket]: https://bitbucket.org/ "A source code hosting service."
 [caffeine]: http://lightheadsw.com/caffeine/ "A Mac menubar application to keep your computer awake."
 [cloak]: https://www.getcloak.com/ "A VPN service for Macs."
-[dash]: https://kapeli.com/dash "A snippet and documentation brower for Mac developers."
+[dash]: https://kapeli.com/dash "A snippet and documentation browser for Mac developers."
 [debian]: https://www.debian.org/ "A Linux distribution."
 [doc2dash]: https://pypi.python.org/pypi/doc2dash "A tool for generating Dash documentation sets."
 [falcon-pro-android]: http://getfalcon.pro/ "A Twitter client for Android.."

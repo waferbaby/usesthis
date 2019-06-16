@@ -33,7 +33,7 @@ Anything else? I'd like to get a large condenser mic with a desk stand for calls
 [pine.2]: https://en.wikipedia.org/wiki/Neptune_Pine "An Android-based smartwatch."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
-[xps-13]: http://www.dell.com/us/p/xps-13-9333/pd "A 13 inch PC laptop."
+[xps-13]: https://www.dell.com/us/p/xps-13-9333/pd "A 13 inch PC laptop."
 [atom]: https://atom.io/ "A text editor based on web technology."
 [breather]: https://breather.com/ "A service for finding a space to temporarily rent."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."

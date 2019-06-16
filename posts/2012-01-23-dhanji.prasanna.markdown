@@ -72,7 +72,7 @@ I guess most of what I'd like out of a dream setup is similar to what I have now
 [mongodb]: https://www.mongodb.com/ "A document-based database."
 [penultimate-ios]: https://itunes.apple.com/us/app/penultimate/id354098826 "A digital sketchbook app."
 [postgresql]: https://www.postgresql.org/ "A relational database server."
-[racket]: http://www.racket-lang.org/ "A programming language."
+[racket]: https://www.racket-lang.org/ "A programming language."
 [scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."

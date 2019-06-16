@@ -38,7 +38,7 @@ Preferably a well-paid assistant would come to my home at 10am 7 days a week and
 [tr800-dt5]: https://www.lifespanfitness.com/tr800-dt5-treadmill-desk.html "A treadmill desk."
 [adblock]: https://getadblock.com/ "A browser extension for blocking ads."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[endnote]: http://endnote.com/ "Reference and bibliography software."
+[endnote]: https://endnote.com/ "Reference and bibliography software."
 [lightshot]: https://addons.mozilla.org/en-US/firefox/addon/lightshot/ "A browser extension for taking screenshots."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [slideshare]: https://www.slideshare.net/ "A slide sharing service."

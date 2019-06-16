@@ -43,7 +43,7 @@ A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run AN
 
 [50mm-f1.8-series-e]: http://www.kenrockwell.com/nikon/50f18E.htm "A camera lens."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
-[af-s-dx-vr-zoom-nikkor-18-200mm-f3.5-5.6g-if-ed]: http://www.nikonusa.com/en/nikon-products/product/camera-lenses/af-s-dx-vr-zoom-nikkor-18-200mm-f%252f3.5-5.6g-if-ed.html "A zoom lens."
+[af-s-dx-vr-zoom-nikkor-18-200mm-f3.5-5.6g-if-ed]: https://www.nikonusa.com/en/nikon-products/product/camera-lenses/af-s-dx-vr-zoom-nikkor-18-200mm-f%252f3.5-5.6g-if-ed.html "A zoom lens."
 [armor-a80]: https://www.amazon.com/Silicon-Power-2-5-Inch-Military-SP010TBPHDA80S3B/dp/B005EWTL7C "A rugged external disk drive."
 [backup-plus]: https://www.amazon.com/Seagate-Backup-Desktop-External-STCA3000101/dp/B00829THQE "An external disk drive."
 [companion-5]: https://www.amazon.com/Bose-Companion-Multimedia-Speaker-System/dp/B000IE8Z4Q "Three-piece 5.1 stereo speakers for computers."

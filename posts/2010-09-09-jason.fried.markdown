@@ -54,7 +54,7 @@ I have it. One powerful, portable, fast, machine with a high-rez screen and a cl
 [propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."
 [pulsar]: https://www.rogueamoeba.com/pulsar/ "Radio software for XM and SIRIUS."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[scansnap-s1500m]: http://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[scansnap-s1500m]: https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
 [ta-da-list]: https://basecamp.com/retired/tadalist "A web-based to do list."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."

@@ -41,7 +41,7 @@ I've always wanted a graphics tablet but I've never been able to justify getting
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
 [cocos2d]: http://cocos2d.spritebuilder.com/ "A framework for building 2D games and similar for the iPhone."
-[dash]: https://kapeli.com/dash "A snippet and documentation brower for Mac developers."
+[dash]: https://kapeli.com/dash "A snippet and documentation browser for Mac developers."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [filter-forge]: https://www.filterforge.com/ "A Photoshop plugin for adding custom filters."

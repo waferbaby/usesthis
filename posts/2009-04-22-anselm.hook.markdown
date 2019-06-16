@@ -67,7 +67,7 @@ As far as actual development of new software - the tools are getting much better
 [opencv]: http://opencv.org "A programming library for working with real-time computer vision."
 [openssh]: http://www.openssh.com/ "A popular collection of SSH tools."
 [pf]: http://www.openbsd.org/faq/pf/filter.html "A TCP packet filter included with OpenBSD."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [processing]: https://processing.org/ "A programming language/environment."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."

@@ -38,7 +38,7 @@ I would love a new Mac tower and laptop --- supposing that my current models are
 [polychromos]: http://www.fabercastell.com/products/coloured-pencil/ColorPencilPolychromostinof36/110036 "Coloured pencils."
 [rugged]: https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM "Well-protected hard drives."
 [sharp]: https://www.pentel.com/store/sharp-mechanical-drafting-pencil-config "A mechanical pencil."
-[ultrasharp-u2311h]: http://www.dell.com/us/business/p/dell-u2311h/pd "A 23 inch IPS screen."
+[ultrasharp-u2311h]: https://www.dell.com/us/business/p/dell-u2311h/pd "A 23 inch IPS screen."
 [acrobat-pro]: https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html "PDF software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."

@@ -44,7 +44,7 @@ Ideally, the system, its hardware and its software would be open for modificatio
 
 [f-301]: https://www.amazon.com/Zebra-F-301-Retractable-Ballpoint-Black/dp/B001JT1ADW "A pen."
 [g2-pro]: https://www.amazon.com/Pilot-Retractable-Roller-Barrel-31147/dp/B0013CIJSO/ "A pen."
-[inspiron-mini-9]: http://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
+[inspiron-mini-9]: https://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
 [intellimouse]: https://www.amazon.com/Microsoft-D58-00026-Intellimouse-Optical-Mouse/dp/B00005TQ08 "A five-button mouse."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

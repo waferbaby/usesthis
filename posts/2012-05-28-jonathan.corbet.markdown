@@ -62,7 +62,7 @@ For a compelling explanation of how important this is, go have a look at Karen S
 If you were to find yourself in a position where you needed a computer implanted into your chest, wired to your heart, and with wireless connectivity to the world, wouldn't you want a chance to look at the code? My dream setup, I guess, is one where that kind of access isn't something I have to explain to people and fight for.
 
 [compaq-2510p]: https://www.cnet.com/products/hp-compaq-2510p/ "A 12.1 inch PC laptop."
-[dinovo-edge]: http://support.logitech.com/product/dinovo-edge "A rechargeable Bluetooth keyboard."
+[dinovo-edge]: https://support.logitech.com/product/dinovo-edge "A rechargeable Bluetooth keyboard."
 [h340]: https://www.amazon.com/iriver-H340-Digital-Player-Display/dp/B00065W74Q "A digital music player."
 [n600]: https://www.amazon.com/NETGEAR-Wireless-Router-Gigabit-WNDR3700/dp/B002HWRJY4 "A dual-band wireless router."
 [n9]: https://en.wikipedia.org/wiki/Nokia_N9 "A MeeGo-based smartphone."

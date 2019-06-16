@@ -66,7 +66,7 @@ Finally, I'm dissatisfied with the quality and direction that Dell's monitors ha
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
-[scansnap-s510m]: http://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s510m.html "A sheet-fed scanner for the Mac."
+[scansnap-s510m]: https://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s510m.html "A sheet-fed scanner for the Mac."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [ackmate]: https://github.com/protocool/AckMate "A TextMate plugin for running Ack."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."

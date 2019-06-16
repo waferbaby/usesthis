@@ -33,7 +33,7 @@ That's a really good question, which I ask myself a lot. I'm happy with my audio
 [fast-track-ultra]: https://www.amazon.com/M-Audio-Fast-Track-Ultra-High-Speed/dp/B000Z8U0IY "A USB 2 audio/MIDI interface."
 [hd-pro-webcam-c910]: https://support.logitech.com/en_us/product/6816 "A webcam."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mic]: http://www.apogeedigital.com/products/mic "A microphone for iPhones and iPads."
+[mic]: https://www.apogeedigital.com/products/mic "A microphone for iPhones and iPads."
 [pcm-d1]: https://www.sony.net/Fun/design/activity/product/pcm-d1_01.html "An audio recorder."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [webstar-usb-powered-led-ringlight]: http://www.stellarlightingsystems.com/stellar-lighting-systems-webstar-usb-powered-led-ringlight-for-webcams/ "A USB-powered ringlight for webcams."

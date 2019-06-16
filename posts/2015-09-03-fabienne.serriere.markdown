@@ -30,7 +30,7 @@ I would love a large electronics lab with a standing desk and sitting desk, and 
 
 In a datacenter not far from my home, I dream of building a nice big [Ceph][] cluster for storing everything and backups and such. My connection to my home for my dream setup would be fiber, and have native IPv6. And most importantly, I want industrial knitting machines. That's what I'm trying for first.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [black]: http://beagleboard.org/black "Open-source prototyping hardware."
 [chumby]: http://www.chumby.com/ "A little device that runs Flash applications."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
@@ -55,7 +55,7 @@ In a datacenter not far from my home, I dream of building a nice big [Ceph][] cl
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-maps-android]: https://play.google.com/store/apps/details?id=com.google.android.apps.maps "An app for the map service."
 [neko-atsume-android]: https://play.google.com/store/apps/details?id=jp.co.hit_point.nekoatsume "A cat collecting game."
-[openstreetmap]: http://www.openstreetmap.org/ "A crowdsourced map."
+[openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
 [osmosdr]: http://sdr.osmocom.org/trac/ "An open source software radio project."
 [otr]: https://otr.cypherpunks.ca "A messaging encryption library and plugin."
 [plume-android]: https://play.google.com/store/apps/details?id=com.levelup.touiteur "A Twitter client for Android."

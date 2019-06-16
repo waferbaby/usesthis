@@ -46,7 +46,7 @@ I'd love to have more smart appliances with hackable or open operating systems. 
 
 The "Open Source Kitchen" is a dream of mine since forever. For this to happen we have to develop apps and tools (hard- and software) that aren't guarded by jealous, closed, technologies and providers. We'll get there but it's slow.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [edge]: https://www.amazon.com/Chef-Pak-Fully-Loaded-9-Piece/dp/B003WAFJEM "A backpack for chefs."
 [eee-pad-transformer-tf101]: https://www.pcmag.com/article2/0,2817,2383976,00.asp "An Android-based tablet/laptop."

@@ -73,7 +73,7 @@ I am always looking for lighter, thinner and more powerful devices. I would love
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
-[marked]: http://marked2app.com/ "A Markdown preview tool for Mac text editors."
+[marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-android]: https://play.google.com/store/apps/details?id=com.ideashower.readitlater.pro "An app for the read-it-later service."

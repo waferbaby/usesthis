@@ -53,7 +53,7 @@ That said, I really wouldn't say no to a comfortable sunny room with a sea view,
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."

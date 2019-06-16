@@ -47,7 +47,7 @@ The most important part of my setup is my [dog](http://www.flickr.com/photos/liz
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [galaxy-tab]: https://www.samsung.com/global/microsite/galaxytab/ "An Android-based tablet."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[inspiron-mini-9]: http://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
+[inspiron-mini-9]: https://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [kindle-fire]: https://www.amazon.com/Kindle-Fire-Amazon-Tablet/dp/B0051VVOB2 "An Android-based tablet."

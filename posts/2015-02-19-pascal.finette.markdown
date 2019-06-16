@@ -70,7 +70,7 @@ The one thing I want is a Retina MacBook in 12" - I can't stand the screen (and 
 [lyn]: http://www.lynapp.com/ "A Mac image viewing application."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [noizio]: http://noiz.io "A tranquil audio Mac application."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
 [slack]: https://slack.com/ "A collaboration service."

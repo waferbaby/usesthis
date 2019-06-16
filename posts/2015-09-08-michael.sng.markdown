@@ -47,7 +47,7 @@ Another thing I'm waiting for is a [Windows Phone][windows-phone] to knock my so
 
 Also keeping my eye on any desktop SLA or DLP 3D printers in the year ahead, and whether Skylake will finally give me reason to ditch Sandy Bridge.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [eosint-p-800]: https://www.eos.info/systems_solutions/plastic/systems_equipment/eosint_p_800 "A laser sintering machine."
 [fortus-250mc]: https://www.stratasys.com/3d-printers/design-series/fortus-250mc "A 3D printer."
 [h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."

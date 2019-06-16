@@ -44,7 +44,7 @@ The exact same setup but with a version of myself that knows how to use Vim bett
 [lazycoin]: https://github.com/antiboredom/lazycoin/ "An alternative currency."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
 [moviepy]: http://zulko.github.io/moviepy/ "A Python module for working with video."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [p5js]: https://p5js.org/ "A Javascript library based on Processing."
 [patent-generator]: https://github.com/antiboredom/patent-generator/ "Software for transforming philosophical text into patent applications."
 [pattern.en]: http://www.clips.ua.ac.be/pages/pattern-en "A Python module for working with natural language."

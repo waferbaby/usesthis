@@ -51,7 +51,7 @@ More than anything, I want a world with ubiquitous high bandwidth wifi. I hate t
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [ps2]: https://en.wikipedia.org/wiki/PS_2 "A gaming console."
 [sidekick]: http://www.sidekick.com/ "A line of smartphones."
-[tivo]: http://www.tivo.com/ "A digital TV recording system."
+[tivo]: https://www.tivo.com/ "A digital TV recording system."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [aroundme-ios]: http://www.aroundmeapp.com/ "An iPhone app to give you information on your current surroundings."

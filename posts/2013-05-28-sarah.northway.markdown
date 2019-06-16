@@ -31,7 +31,7 @@ An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 wit
 
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[m11x]: http://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
+[m11x]: https://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
 [playbook]: https://en.wikipedia.org/wiki/BlackBerry_PlayBook "A BlackBerry tablet."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."

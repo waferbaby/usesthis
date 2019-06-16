@@ -69,7 +69,7 @@ I want Fujifilm to make a full frame version of the x100 with a 35mm lens, excel
 Otherwise: No wires. More bandwidth. More memory. More disk space. More pixels. Infinite battery life.
 
 [800]: https://www.amazon.com/rOtring-Retractable-Mechanical-Pencil-1854232/dp/B00AZWNS84 "A mechanical pencil."
-[alpha-flap]: http://www.tumi.com.au/?productId=4210119 "A bag."
+[alpha-flap]: https://www.tumi.com.au/?productId=4210119 "A bag."
 [boa-squeeze]: https://www.booqbags.com/us/backpacks/boa-squeeze/BSQ-GFT "A laptop bag."
 [bookbook]: https://www.twelvesouth.com/product/bookbook-for-macbook-pro "A laptop case that looks like a book."
 [boxee-box]: http://en.wikipedia.org/wiki/Boxee#Boxee_Box_by_D-Link "A connected device for watching your media."
@@ -77,7 +77,7 @@ Otherwise: No wires. More bandwidth. More memory. More disk space. More pixels. 
 [coated-canvas-shoulder-bag]: https://www.deadstock.ca/incase-shoulder-bag-coated-canvas-black.html "A bag."
 [cosmonaut]: https://www.studioneat.com/products/cosmonaut "A wide-grip stylus."
 [drobo-fs]: https://en.wikipedia.org/wiki/Drobo_FS#Drobo_FS "A network attached storage device."
-[duet-2]: http://www.apogeedigital.com/products/duet-2 "An audio interface for the Mac."
+[duet-2]: https://www.apogeedigital.com/products/duet-2 "An audio interface for the Mac."
 [ef-135mm-f2l-usm]: https://www.usa.canon.com/cusa/professional/products/lenses/ef_lens_lineup/lens_tele_pro/ef_135mm_f_2l_usm "A telephoto lens."
 [ef-35mm-f1.4l-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_35mm_f_1_4l_usm "A wide angle lens for DSLRs."
 [ef-50mm-f1.2l-usm]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_2l_usm "A standard and medium telephoto camera lens."

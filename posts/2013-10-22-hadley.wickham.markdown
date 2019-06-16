@@ -50,7 +50,7 @@ As long as I have my laptop, headphones, an internet connection and comfy seat, 
 [google-flights]: https://www.google.com/flights/ "A service for looking up flights."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [jekyll]: https://jekyllrb.com/ "A static site generator."
-[kayak]: https://www.kayak.com/ "A service for finding cheaper flights and accomodation."
+[kayak]: https://www.kayak.com/ "A service for finding cheaper flights and accommodation."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [littlesecrets]: http://www.mani.de/en/littlesecrets/index.html "Mac software for storing encrypted notes."

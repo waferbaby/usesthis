@@ -34,7 +34,7 @@ On the iPhone, I use [iMessage][], [Fantastical][fantastical-ios], [Prismatic][p
 
 I would love to have a multi-monitor setup running on high-end GPUs and GBs of RAM. For portability, I would love to have a [MacBook Air][macbook-air] with more memory and a Retina screen. To be honest, I would be more than eager to get my hands on anything that provides better computational power with an equally impressive user experience.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [astromaster-76eq]: https://www.celestron.com/browse-shop/astronomy/telescopes/astromaster-76eq-telescope "A telescope."
 [eyepiece-and-filter-kit-1.25in]: https://www.celestron.com/browse-shop/astronomy/visual-accessories/eyepieces/125in-eyepiece-and-filter-kit "A collection of eyepieces and filters for a telescope."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."

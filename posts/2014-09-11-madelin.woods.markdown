@@ -71,7 +71,7 @@ It would also be great if I could code and use all my apps without devices and s
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
-[sass]: http://sass-lang.com/ "A syntax wrapper for CSS."
+[sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [square-market]: https://squareup.com/online-store "A service for providing online shopping."
 [square]: https://squareup.com/ "A software and hardware solution for processing credit cards."
 [stash]: https://en.wikipedia.org/wiki/Stash_(software) "A web-based Git repository manager."

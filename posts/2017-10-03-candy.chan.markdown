@@ -29,7 +29,7 @@ In an ideal world, I would have a giant empty studio (which is not my home) with
 
 [34uc89g-b]: https://www.lg.com/us/monitors/lg-34UC89G-B-ultrawide-monitor "A 34 inch curved screen."
 [clearpoint]: https://www.amazon.com/Paper-Mate-Clearpoint-Mechanical-Starter/dp/B001PV2KYM/ "A mechanical pencil."
-[designjet-t795]: http://www8.hp.com/us/en/large-format-printers/designjet-printers/t795.html "A large format printer."
+[designjet-t795]: https://www8.hp.com/us/en/large-format-printers/designjet-printers/t795.html "A large format printer."
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [mx-310]: https://www.amazon.com/Logitech-MX-310-Optical-Mouse/dp/B0000A1GOF "A mouse."

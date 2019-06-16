@@ -40,7 +40,7 @@ I don't necessarily need more space - just better utilization of it; something t
 
 That being said, a better break room -- or a break room in general -- wouldn't hurt!
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cube]: https://www.3dsystems.com/3d-printers/personal/cube "A 3D printer."
 [replicator]: https://store.makerbot.com/replicator "A 3D printer."
 [wesd51]: https://www.amazon.com/Weller-WESD51-Digital-Soldering-Station/dp/B000ARU9PO "A digital soldering station."

@@ -35,7 +35,7 @@ I use my iPhone for everything. It unlocks my house, turns on my lights, plays m
 
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[m11x]: http://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
+[m11x]: https://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
 [counter-strike-global-offensive]: https://store.steampowered.com/app/730/ "A team-based action game."
 [editplus]: https://www.editplus.com/ "A text editor for Windows."
 [evernote]: https://evernote.com/ "Online software for capturing notes."

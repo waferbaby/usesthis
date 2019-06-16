@@ -52,7 +52,7 @@ I'm pretty happy with my setup for all practical intents and purposes these days
 [clear]: https://realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
 [ctrlp]: http://kien.github.io/ctrlp.vim/ "A vim plugin for fuzzy filename matching."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
-[dash]: https://kapeli.com/dash "A snippet and documentation brower for Mac developers."
+[dash]: https://kapeli.com/dash "A snippet and documentation browser for Mac developers."
 [delimitmate]: https://github.com/Raimondi/delimitMate "A vim plugin for auto-completing quotes, brackets etc."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."

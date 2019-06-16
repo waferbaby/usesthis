@@ -43,7 +43,7 @@ I don't have one in the traditional sense. There's some specific music software 
 [xps-15]: https://www.dell.com/en-us/shop/productdetails/xps-15-9530 "A 15.6 inch PC laptop."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [chromaphone]: https://www.applied-acoustics.com/chromaphone-2/ "An acoustic object synthesiser audio plugin."
-[drumaxx]: http://www.image-line.com/plugins/Synths/drumaxx/ "A drum pad audio plugin."
+[drumaxx]: https://www.image-line.com/plugins/Synths/drumaxx/ "A drum pad audio plugin."
 [juceoplvsti]: https://bsutherland.github.io/JuceOPLVSTi/#getitnow "An OPL emulator audio plugin."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [microtonic]: https://soniccharge.com/microtonic "A drum and percussion audio plugin."

@@ -39,8 +39,8 @@ In the world of photography, there's a common condition called [G.A.S. ("Gear Ac
 
 That said, I'd absolutely love to own a personal machine learning rig with at least 4 K80 GPUs, running [Ubuntu][] Linux, and a nice large monitor for designing web interfaces (and staring at smoothly rendered high-def fractal patterns). Or maybe one of these new [NVIDIA deep learning appliances][dgx-1], which unfortunately cost about as much as a modest house in most places.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
-[dgx-1]: http://www.nvidia.com/object/deep-learning-system.html "A deep learning appliance."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
+[dgx-1]: https://www.nvidia.com/object/deep-learning-system.html "A deep learning appliance."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [microflash-4te]: https://www.datamax-oneil.com/do/com/en-us/home/printers-software/portable-printers/ultra-rugged-receipt-printers/microflash-4te "A receipt printer."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."

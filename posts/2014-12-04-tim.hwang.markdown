@@ -33,7 +33,7 @@ By and large, most setups are productivity theater. Ever-escalating complexity a
 
 Though, [having one of these](http://www.cantstopthemovies.com/wp-content/uploads/2012/03/The-War-Room.jpg "A picture of the war room in Dr Strangelove.") to work in wouldn't be half bad, either.
 
-[energel-nv]: http://www.pentel.com/store/energel-nv-gel-pen "A liquid gel pen."
+[energel-nv]: https://www.pentel.com/store/energel-nv-gel-pen "A liquid gel pen."
 [eph-100]: https://usa.yamaha.com/products/audio-visual/headphones/eph-100_silver_w/ "In-ear headphones."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [kindle-touch]: https://www.amazon.com/Kindle-Touch-e-Reader-Touch-Screen-Wi-Fi-Special-Offers/dp/B005890G8Y "A digital book reader."

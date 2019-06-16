@@ -41,7 +41,7 @@ Real moment of truth - the crown jewel would be a speaker for the bathroom.
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [rackspace]: https://www.rackspace.com/ "A VPS hosting service."
 [slack]: https://slack.com/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

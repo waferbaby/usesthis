@@ -68,7 +68,7 @@ It's hard to pin down what my 'dream setup' would be - it's always changing, and
 [h949]: https://www.flickr.com/photos/wiresounds/1094327625/ "An audio pitch shifter."
 [md-421]: http://mixonline.com/mixline/sennheiser_md421_turns50_2610/ "A microphone."
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
-[mpc2000xl]: http://www.akaipro.com/product/mpc2000xl "A MIDI sequencer and digital sampler."
+[mpc2000xl]: https://www.akaipro.com/product/mpc2000xl "A MIDI sequencer and digital sampler."
 [ms-20]: https://en.wikipedia.org/wiki/Korg_MS-20 "A synthesiser."
 [ms-50]: http://www.vintagesynth.com/korg/ms50.php "A synthesiser."
 [music-easel]: https://buchla.com/shop/modular-systems/music-easel/ "A synthesiser."

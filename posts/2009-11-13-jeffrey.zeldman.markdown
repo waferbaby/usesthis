@@ -48,7 +48,7 @@ Other apps I find essential include:
 
 I want for nothing -- except someone to cook for besides my daughter. ;)
 
-[eames-desk]: http://www.dwr.com/product/classics/eames-desk-unit-edu.do "A modular table designed in 1952."
+[eames-desk]: https://www.dwr.com/product/classics/eames-desk-unit-edu.do "A modular table designed in 1952."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [basecamp]: https://basecamp.com/ "Web-based project management."

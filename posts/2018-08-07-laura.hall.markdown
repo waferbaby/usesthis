@@ -45,7 +45,7 @@ We use [OmniGraffle][] for outlining story and user flows, plus [Adobe Photoshop
 
 I'd love to have a massive workshop with loads of fancy and expensive specialty tools (plus a budget to pay those specialists), attached to a bustling shared community workspace that's open to all, within which I have a private office with a door I can close for concentration.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [d5100]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/25478/D5100.html "A 16.2 megapixel DSLR."
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [inkjoy-300rt]: http://inkjoy.papermate.com/en-US/BALLPOINT-300RT "A retractable ballpoint pen."

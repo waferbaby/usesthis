@@ -53,7 +53,7 @@ But what I'd really really like is a magical filing system where I could drop a 
 [irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."

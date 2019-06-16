@@ -54,7 +54,7 @@ The need will continue - just look at how painful it is to use [Rails][] on a Ma
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
 [odesk]: https://en.wikipedia.org/wiki/Upwork "A service for hiring contractors."
-[openstreetmap]: http://www.openstreetmap.org/ "A crowdsourced map."
+[openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
 [phonegap]: https://phonegap.com/ "A framework for building native mobile apps with web technology."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

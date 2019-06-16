@@ -125,7 +125,7 @@ A 'creation' computer with the same specs as my 13" MacBook Pro plus a huge SSD 
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

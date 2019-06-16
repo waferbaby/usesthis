@@ -28,7 +28,7 @@ For all of my mathematical writing I use [LaTeX][], and specifically the [miktex
 
 My dream set-up would be a completely transparent, weightless technology that turned my mathematical thoughts and ideas into elegant, flawlessly written, mathematically correct arguments that would inform and enlighten humanity for millennia, while also serving up cups of espresso on demand. I suppose [The Magic Pudding](http://en.wikipedia.org/wiki/The_Magic_Pudding "The Wikipedia entry for The Magic Pudding."), if there were advanced mathematics amongst his other attractive wits, would be something of an approximation.
 
-[dcp-7060d]: http://www.brother-usa.com/MultiFunction/ModelDetail/4/DCP7060D/overview "A multi-function printer."
+[dcp-7060d]: https://www.brother-usa.com/MultiFunction/ModelDetail/4/DCP7060D/overview "A multi-function printer."
 [full-touch]: http://www.hagoromo-bungu.co.jp/chalk/fulltouch.html "Chalk."
 [galaxy-note-3]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3 "A phone/tablet."
 [gdi-btar122]: https://www.amazon.com/Grace-Digital-GDI-BTAR122-Integrated-Amplifier/dp/B00E1CZRHY "A stereo amp with Bluetooth support."

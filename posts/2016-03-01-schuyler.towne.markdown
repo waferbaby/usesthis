@@ -44,7 +44,7 @@ I've been having a hard time with this one. Looking back on my current setup the
 
 The only significant addition I'd love to make to my workshop is a [Glowforge][], oh, and a 3D printer of literally any variety, or even just access to one at that imagined co-working space. You know what, since I'm dreaming, let's throw in a [Boomcase](http://store.theboomcase.com/available-boomcases "A collection of speakers built into suitcases and similar.") or the new [Aiwa EXOS-9][exos-9] just for fun. I've always wanted to be able to carry around my own sound solution for talks and parties.
 
-[dr-05]: http://tascam.com/product/dr-05/ "A handheld audio recorder."
+[dr-05]: https://tascam.com/product/dr-05/ "A handheld audio recorder."
 [exos-9]: https://aiwa.co/ "A Bluetooth speaker."
 [glowforge]: https://glowforge.com/ "A 3D laser printer."
 [hitorque-mini-mill]: https://littlemachineshop.com/products/product_view.php?ProductID=3900 "A mill."

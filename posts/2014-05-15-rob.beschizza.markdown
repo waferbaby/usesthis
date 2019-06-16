@@ -65,7 +65,7 @@ I look forward to the cochlea-radio, retina-projected future we've all been wait
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
 [schism-tracker]: http://schismtracker.org/wiki/Schism%20Tracker "Audio creation software."
 [stack-exchange]: https://stackexchange.com/ "A question and answer service."

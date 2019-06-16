@@ -33,7 +33,7 @@ Right now I use my mantle as a standing desk. So, maybe a real standing desk wit
 
 [echo]: http://www.livescribe.com/en-us/smartpen/echo/ "A smartpen."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[plattan]: http://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
+[plattan]: https://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [expensify]: https://www.expensify.com/ "An expense report service."

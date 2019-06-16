@@ -85,7 +85,7 @@ I've iterated a lot on my tools and am very pleased with the choices themselves.
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [mailbox]: http://www.mailboxapp.com/ "A email client."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pin-it]: https://about.pinterest.com/en/browser-button "A browser extension for easily adding items to Pinterest."
 [screenhero]: https://screenhero.com/ "A collaborative screen sharing service."

@@ -49,7 +49,7 @@ In terms of travel gear, I'm looking forward to picking up Seeed Studio's [DSO Q
 [rockrider-5.0-men]: https://www.btwin.com/en/mtb-mountain-bikes/leisure-mtb/3842-rockrider-50-men.html "A mountain bike."
 [tough-tg-810]: https://www.amazon.com/Olympus-TG-810-Waterproof-Digital-Optical/dp/B004YNE0V4 "A 14 megapixel waterproof camera."
 [wave]: https://www.leatherman.com/10.html "A multi-tool."
-[xps-m1330]: http://www.dell.com/us/dfh/p/xps-m1330/pd "A 13 inch thin PC laptop."
+[xps-m1330]: https://www.dell.com/us/dfh/p/xps-m1330/pd "A 13 inch thin PC laptop."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

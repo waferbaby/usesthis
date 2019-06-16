@@ -33,7 +33,7 @@ I'm pretty attached to my Aeron chair, but I've read so much about standing desk
 
 [a40]: https://www.astrogaming.com/headsets/A40-MIXAMP-TR.html "Gamer headphones."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
-[drobo-5d]: http://www.drobo.com/storage-products/5d/ "A Thunderbolt/USB 3 network attached storage device."
+[drobo-5d]: https://www.drobo.com/storage-products/5d/ "A Thunderbolt/USB 3 network attached storage device."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."

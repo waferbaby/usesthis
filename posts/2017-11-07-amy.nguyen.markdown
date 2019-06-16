@@ -57,7 +57,7 @@ Some other miscellany:  I wish I had an ergonomic mouse that wasn't so tall. I k
 [atom]: https://atom.io/ "A text editor based on web technology."
 [aviary-ios]: https://itunes.apple.com/us/app/photo-editor-by-aviary/id527445936 "A photo editor app."
 [bose-connect-ios]: https://itunes.apple.com/us/app/bose-connect/id1046510029 "An app for customising Bose Bluetooth devices."
-[chrome-ios]: https://itunes.apple.com/us/app/chrome/id535886823 "A web broser app."
+[chrome-ios]: https://itunes.apple.com/us/app/chrome/id535886823 "A web browser app."
 [duo-mobile-ios]: https://itunes.apple.com/us/app/duo-mobile/id422663827 "An app for the authentication service."
 [git]: https://git-scm.com/ "A version control system."
 [gmail-ios]: https://itunes.apple.com/us/app/gmail-email-from-google/id422689480 "A client for the email service."

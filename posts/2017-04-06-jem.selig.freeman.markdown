@@ -36,7 +36,7 @@ All that said, the heart of Like Butter is the team - I'm really lucky to have f
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [quietcomfort-25]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html "Noise-cancelling headphones."
 [sk-8115]: https://www.newegg.com/Product/Product.aspx?Item=9SIA4KZ3V12351 "A USB keyboard."
-[zeta-p2]: http://www.lamello.com/en/home/join-wood/p-system/zeta-p2.html "A biscuit wood joiner."
+[zeta-p2]: https://www.lamello.com/en/home/join-wood/p-system/zeta-p2.html "A biscuit wood joiner."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [ebay]: https://www.ebay.com/ "An auction service."
 [enroute]: http://enroutesoftware.com/ "CNC software."

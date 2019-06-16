@@ -62,7 +62,7 @@ I do not have a big dream. I guess a screen with a higher resolution will make m
 [mathjax]: https://www.mathjax.org/ "A Javascript framework for displaying LaTeX/MathML."
 [mysql]: https://www.mysql.com/ "A relational database server."
 [pandoc]: http://pandoc.org/ "A Markdown document converter."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [qt]: https://www.qt.io/developers/ "A cross-platform UI framework."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [r2swf]: http://cran.r-project.org/web/packages/R2SWF/ "A tool for converting R graphics into Flash."

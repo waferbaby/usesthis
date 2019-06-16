@@ -63,7 +63,7 @@ One final aspect I'd love in a dream setup is an always-on internet connection. 
 [flasher-v7]: https://www.cnet.com/products/audiovox-flasher-v7-cdm-8910-virgin-mobile/ "A basic mobile phone with a VGA camera."
 [hd70]: https://www.optomausa.com/Product_detail.asp?product_id=294 "720p HD projector."
 [power-mac-g4]: https://en.wikipedia.org/wiki/Power_Mac_G4 "An old PowerPC-powered Mac tower."
-[precision-470]: http://www.dell.com/support/home/us/en/19/product-support/product/precision-470/manuals?c=us "A PC workstation."
+[precision-470]: https://www.dell.com/support/home/us/en/19/product-support/product/precision-470/manuals?c=us "A PC workstation."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [psp]: https://en.wikipedia.org/wiki/PlayStation_Portable "Sony's portable gaming console."
 [sansa-clip]: https://www.amazon.com/SanDisk-Sansa-Clip-MP3-Player/dp/B000W09ZTK "A small portable music player."

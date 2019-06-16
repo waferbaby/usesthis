@@ -44,7 +44,7 @@ All inside a solid glass studio within a ten ton shark tank, which has a Four Ba
 [1176ln]: https://www.uaudio.com/hardware/compressors/1176ln.html "An amplifier."
 [cs-15]: http://www.vintagesynth.com/yamaha/cs15.php "A synthesiser."
 [cz-101]: http://www.vintagesynth.com/casio/cz101.php "A small musical keyboard."
-[duet]: http://www.apogeedigital.com/products/duet "An audio interface for the Mac."
+[duet]: https://www.apogeedigital.com/products/duet "An audio interface for the Mac."
 [launchpad]: http://us.novationmusic.com/midi-controllers-digital-dj/launchpad "A controller for Ableton Live."
 [machinedrum-sps-1]: http://www.vintagesynth.com/misc/machinedrum.php "A drum machine."
 [mc-505]: https://en.wikipedia.org/wiki/Roland_MC-505 "A MIDI controller, music sequencer and drum machine."

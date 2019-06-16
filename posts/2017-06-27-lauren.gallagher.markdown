@@ -22,7 +22,7 @@ I usually start a design project by writing a list about the brief in my sketchb
 
 To be the honest the Cards Against Humanity office is pretty close to ideal. The office functions as a coworking space for local writers, podcasters, game designers, web developers, photographers, puzzle makers... the list gets longer and weirder. I love getting to know them, their willingness to share their knowledge and talent is invaluable. It's my favorite part about working at Cards Against Humanity. The only thing I'd want is a more spacious print studio for everyone to share.
 
-[designjet-t520]: http://www8.hp.com/us/en/large-format-printers/designjet-printers/t520.html "A large-format printer."
+[designjet-t520]: https://www8.hp.com/us/en/large-format-printers/designjet-printers/t520.html "A large-format printer."
 [ez391u]: http://us.riso.com/products/digital-duplicators/one-color/ez391/ "A digital duplicator."
 [gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

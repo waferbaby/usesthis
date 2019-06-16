@@ -37,7 +37,7 @@ Living on a pacific island and having access to a holoroom would be awesome.
 
 More realistically, I think a Cintique could boost my abilities. And I would like to have a studio where I can be surrounded by everything that's ever inspired me, and just get lost in the process of always creating.
 
-[24es]: http://www8.hp.com/emea_africa/en/products/oas/product-detail.html?oid=10402859 "A 23.8 inch LCD monitor."
+[24es]: https://www8.hp.com/emea_africa/en/products/oas/product-detail.html?oid=10402859 "A 23.8 inch LCD monitor."
 [bamboo-create]: https://www.newegg.com/global/au-en/Common/MessagePage.aspx?MsgCode=3&ID=13 "A drawing tablet."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [g430]: https://www.logitechg.com/en-us/products/gaming-audio/g430-7-1-surround-sound-gaming-headset.html "A gaming headset."

@@ -42,7 +42,7 @@ Just kidding - my setup is pretty much everything I want for now. But if I can d
 
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [emperor-200]: http://www.mwelab.com/index.php/en/products/emperor-200 "A futuristic sci-fi-esque workstation."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

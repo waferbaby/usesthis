@@ -49,7 +49,7 @@ Because I travel so much, the key to my dream setup is dream portability. I've c
 [activeinbox]: https://www.activeinboxhq.com/ "A Gmail tool to help control email."
 [box]: https://www.box.com/ "A syncing and storage service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[endnote]: http://endnote.com/ "Reference and bibliography software."
+[endnote]: https://endnote.com/ "Reference and bibliography software."
 [finale]: https://www.finalemusic.com/products/finale/ "Music notation software."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [habitrpg]: https://habitica.com/static/front "A productivity game."

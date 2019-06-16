@@ -36,7 +36,7 @@ Ideally, being able to run solely on my Mac would be nice, but it's not ideal wi
 [lp2475w]: http://h10010.www1.hp.com/wwpc/us/en/sm/WF10a/382087-382087-64283-72270-3884471-3648442.html "A 24 inch LCD monitor."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[optiplex-755]: http://www.dell.com/us/dfb/p/optiplex-755/pd "A tower PC."
+[optiplex-755]: https://www.dell.com/us/dfb/p/optiplex-755/pd "A tower PC."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

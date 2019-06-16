@@ -48,7 +48,7 @@ Keyboards are okay, but I'd rather have [electrodes](http://www.desicolours.com/
 [make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
 [myron]: http://webcamxtra.sourceforge.net/ "A cross-platform video capture and computer vision plugin."
 [openframeworks]: http://openframeworks.cc "A C++ library for creative projects."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [processing]: https://processing.org/ "A programming language/environment."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [scons]: https://www.scons.org/ "A software build tool."

@@ -50,7 +50,7 @@ I don't have much of a dream setup as long as everything works. But I would cert
 [nginx]: http://nginx.org/ "A very fast web/mail server."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
 [ossec]: http://ossec.github.io "An open-source intrusion detection system."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [qmail]: http://www.qmail.org/top.html "An SMTP server."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."

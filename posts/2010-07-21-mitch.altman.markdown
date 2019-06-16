@@ -72,7 +72,7 @@ As much as I use computers, I really hate them. I mean, they make everything I d
 [brief]: https://en.wikipedia.org/wiki/Brief_(text_editor) "An old DOS programmer's text editor."
 [cool-edit-pro]: https://en.wikipedia.org/wiki/Adobe_Audition "Digital audio creation software."
 [eudora]: https://en.wikipedia.org/wiki/Eudora_(e-mail_client) "A popular old email client."
-[fruityloops]: http://www.image-line.com/flstudio/ "Digital audio creation software."
+[fruityloops]: https://www.image-line.com/flstudio/ "Digital audio creation software."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [nero-burning-rom]: http://www.nero.com/enu/products/nero-burning-rom/?vlang=us "CD, DVD and Blu-ray burning software for Windows."

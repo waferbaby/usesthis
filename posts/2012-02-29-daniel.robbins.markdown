@@ -46,7 +46,7 @@ Since my initial answer, I was able to move my work location to a loft in downto
 If anything can be learned from this, there is power in actually articulating your dream setup, since once you know what it would look like, you may actually find that making it happen is easier than you think. So I do owe a big thank you to Daniel Bogan for asking me the question :)
 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[poweredge-r710]: http://www.dell.com/us/business/p/poweredge-r710/pd "A rack-mounted PC server."
+[poweredge-r710]: https://www.dell.com/us/business/p/poweredge-r710/pd "A rack-mounted PC server."
 [swopper]: https://www.amazon.com/Via-Inc-A-801-Swopper/dp/B00079EH3U "An ergonomic chair."
 [workfit-s]: https://www.ergotron.com/tabid/640/language/en-US/default.aspx "A monitor/keyboard station that lets you switch between sitting and standing."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

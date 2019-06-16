@@ -69,7 +69,7 @@ A fast bike, no traffic, no headwind, a bonfire from salvaged alley wood, one or
 [listary-ios]: http://listaryapp.com/ "A list app that supports Simplenote."
 [littlesnapper]: https://realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [omnioutliner]: https://www.omnigroup.com/omnioutliner/ "To-do/task management software for Mac OS X."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."

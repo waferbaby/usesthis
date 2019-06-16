@@ -60,6 +60,6 @@ To be honest, I'm pretty happy with the setup I have now. I just hope the tools 
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flume]: https://flumeapp.com/ "A Instagram client for the Mac."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."

@@ -39,12 +39,12 @@ For research, my dream setup would be a really fast MacBook Pro with a slightly 
 
 For the band, I have wanted a [Dave Smith Instruments Prophet 12][prophet-12] since my friend Rob bought his. It would be cool to expand my effects rig, too. I'd probably get a high-quality chorus and delay box. Software-wise, I wish I would get off my butt and finish implementing the Chango AudioUnit plugin, so I can use the Chango in a DAW. Other than that, I just need a white wall and a room dark enough to play the Chango without ambient light interference.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cathedral]: https://www.ehx.com/products/cathedral "A reverb effects box."
 [gaia-sh-01]: https://www.roland.com/products/en/SH-01/ "A synth."
 [galaxy-s5]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S5 "An Android smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mpk-mini]: http://www.akaipro.com/product/mpkmini. "A small music keyboard."
+[mpk-mini]: https://www.akaipro.com/product/mpkmini. "A small music keyboard."
 [msp-ts430rgz48c]: http://www.ti.com/tool/msp-ts430rgz48c "A socket target board."
 [msp430fr5969]: http://www.ti.com/product/msp430fr5969/ "A low-powered microcontroller."
 [p2110-powerharvester-receiver]: https://www.powercastco.com/products/powerharvester-receivers/ "An embedded wireless power source."

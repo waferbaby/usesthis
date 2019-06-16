@@ -33,9 +33,11 @@ More robots! An [Iron Man 2-like setup](http://motionographer.com/features/prolo
 
 [pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
 
+[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
+
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [d80]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25412/D80.html "A 10.2 megapixel digital SLR."
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
 [lebistro-pet-feeder]: https://www.amazon.com/Petmate-LeBistro-Portion-Control-Automatic-Feeder/dp/B000BVWVUA "A device for automatically feeding your pet."

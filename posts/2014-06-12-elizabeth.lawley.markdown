@@ -73,7 +73,7 @@ I'm pretty much "living my dream" already... my job gives me access to nearly ev
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [bejeweled-blitz-ios]: https://itunes.apple.com/us/app/bejeweled-blitz/id469960709 "A jewel-matching puzzle game."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[endnote]: http://endnote.com/ "Reference and bibliography software."
+[endnote]: https://endnote.com/ "Reference and bibliography software."
 [evernote-ios]: https://itunes.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [evernote-mac]: https://evernote.com/ "A Mac client for the note/image service."
 [evernote-windows]: https://evernote.com/ "A Windows client for the note/image service."

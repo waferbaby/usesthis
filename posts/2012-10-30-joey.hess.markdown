@@ -44,7 +44,7 @@ Other notable software includes the [Music Player Daemon][mpd], which runs on my
 
 I dream of a ARM-based netbook with exceptionally good battery life, an E-ink display, and fully open and non-proprietary hardware. I've put off upgrading for years since this seems such an obvious thing for the market to produce, but the market is fascinated with locked-down tablets instead.
 
-[inspiron-mini-9]: http://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
+[inspiron-mini-9]: https://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
 [sheevaplug]: https://en.wikipedia.org/wiki/SheevaPlug "A plug computer with a tiny footprint."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chromium]: http://www.chromium.org/ "Open-source builds of the Chrome web browser."

@@ -55,7 +55,7 @@ I pretty much have my dream setup. I really do. I'm constantly astounded that I 
 
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[dr-100]: http://tascam.com/product/dr-100/ "A handheld audio recorder."
+[dr-100]: https://tascam.com/product/dr-100/ "A handheld audio recorder."
 [eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [ew-100-g3]: https://en-us.sennheiser.com/wireless-clip-on-lavalier-microphone-set-presentation-ew-100-eng-g3 "A wireless microphone system."
 [fast-track-pro]: https://www.amazon.com/M-Audio-Track-Mobile-Interface-Preamps/dp/B000BD31ZW "A USB MIDI interface."

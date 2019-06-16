@@ -43,7 +43,7 @@ As for audio-visual setups, the quality of the [Double Fine livestream](http://w
 [lumix-g-x-vario-12-35mm-f2.8-asph]: https://shop.panasonic.com/shop/model/H-HS12035/ "A lens."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mic]: http://www.apogeedigital.com/products/mic "A microphone for iPhones and iPads."
+[mic]: https://www.apogeedigital.com/products/mic "A microphone for iPhones and iPads."
 [mpf-6]: https://www.amazon.com/gp/product/B0002CZW0Y/ "A clamp-on microphone pop filter."
 [pocket-cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/ "A Super 16 digital video camera."
 [broadcaster]: https://www.xsplit.com//#broadcaster "Multimedia broadcasting software for Windows."

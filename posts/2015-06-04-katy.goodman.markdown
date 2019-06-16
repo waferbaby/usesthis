@@ -35,7 +35,7 @@ I would have a sweet desk that has like, 3 monitors, 2 of which are always strea
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [mamp]: https://www.mamp.info/en/ "A one-click Mac solution for Apache, MySQL, PHP."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."

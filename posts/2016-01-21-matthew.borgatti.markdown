@@ -33,7 +33,7 @@ As for software, I am always wary of how much time I have to spend learning the 
 
 As long as we're fantasizing, I'd also like a box truck to turn into a [mobile apartment](http://www.apartmenttherapy.com/look-small-space-livingin-a-ga-61030 "An article about a mobile apartment built into a truck."). I love the idea of making my own RV from scratch as a kind of traveling terrarium and live-in tool box.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [d5000]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/dslr-cameras/D5000.html "A 12.3 megapixel DSLR."
 [dragon-skin-10]: https://www.smooth-on.com/Silicone-Rubber-an/c2_1115_1129/index.html "A silicon rubber."
 [echo.2]: https://www.goruck.com/gr-echo-black-/p/GEAR-000064 "A backpack."

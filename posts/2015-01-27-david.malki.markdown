@@ -53,7 +53,7 @@ My limitations now revolve mainly around space. Real estate is expensive in Los 
 
 I keep my eyes open for places to move my operation... but it's only in touring other spaces that I realize how good I have it just to have natural light and a breeze coming in the window. I can do good work in a light-filled space with a breeze.
 
-[dr-05]: http://tascam.com/product/dr-05/ "A handheld audio recorder."
+[dr-05]: https://tascam.com/product/dr-05/ "A handheld audio recorder."
 [eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

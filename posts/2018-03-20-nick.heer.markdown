@@ -57,7 +57,7 @@ Truth be told, though, I'm still very happy with what I have. I replaced my last
 [ministation-thunderbolt]: https://www.buffalotech.com/products/ministation-thunderbolt "An external Thunderbolt hard drive."
 [q.2]: https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
-[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 24 inch monitor."
+[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

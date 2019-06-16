@@ -46,7 +46,7 @@ On the silly side, I use the [Dogecoin-Qt][dogecoin] app for keeping my doges.
 
 I can imagine that going back to having an iMac-style monitor is in my future at some point, for my posture's sake. And I'll likely upgrade my phone for the camera's sake in the next year or so, since cameras on phones are so good now! But right now I'm really happy with my setup - I'm super privileged and lucky to have been able to slowly build up all the tools that let me do what I need to do.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [blink1]: https://blink1.thingm.com/ "A programmable USB LED indicator light."
 [hybrid-technica-0.3mm]: https://www.amazon.com/Pentel-Hybrid-Technica-Ultra-KN103-A/dp/B003VV5M4O "A pen."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."

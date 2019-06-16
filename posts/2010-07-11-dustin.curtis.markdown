@@ -68,7 +68,7 @@ Software-wise, it would be great if the internet browsing experience was better.
 [nginx]: http://nginx.org/ "A very fast web/mail server."
 [pandora-one]: http://www.pandora.com/upgrade "A pro version of the music streaming service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [s3]: https://aws.amazon.com/s3/ "Cloud-based Internet storage magic."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

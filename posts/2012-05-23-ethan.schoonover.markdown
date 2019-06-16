@@ -126,7 +126,7 @@ My future dream setup is a paper like display. E-ink or pixel-qi-like. Works as 
 [luks]: https://en.wikipedia.org/wiki/Linux_Unified_Key_Setup "A disk encryption system for Linux."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
-[marked]: http://marked2app.com/ "A Markdown preview tool for Mac text editors."
+[marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."
 [moom]: https://manytricks.com/moom/ "A Mac tool for taking control of window sizing/moving."
 [mutt]: http://www.mutt.org/ "A command-line email client."
 [newsbeuter]: https://newsbeuter.org/ "A command-line feed reader."

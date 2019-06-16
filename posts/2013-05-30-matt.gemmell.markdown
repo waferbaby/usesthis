@@ -66,7 +66,7 @@ Oh, and I'd love to own a [Wacom Cintiq][cintiq] (at least 21", I suppose), but 
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
-[kiwi]: http://kiwi-app.net/ "An App.net client for the Mac."
+[kiwi]: https://kiwi-app.net/ "An App.net client for the Mac."
 [linkinus]: https://en.wikipedia.org/wiki/Linkinus "An IRC client for Mac OS X."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [marvel-comics-ios]: https://itunes.apple.com/us/app/marvel-comics/id350027738 "A comic reading app."

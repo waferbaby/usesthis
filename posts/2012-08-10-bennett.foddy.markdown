@@ -66,7 +66,7 @@ But the real thing I dream about is something I can't buy: a word processor that
 [cocos2d]: http://cocos2d.spritebuilder.com/ "A framework for building 2D games and similar for the iPhone."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [elements-ios]: https://itunes.apple.com/us/app/elements-for-dropbox-markdown/id382752422 "A text editor app with support for DropBox and Markdown."
-[endnote]: http://endnote.com/ "Reference and bibliography software."
+[endnote]: https://endnote.com/ "Reference and bibliography software."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flash-builder]: https://www.adobe.com/products/flash-builder.html "A tool for generating Flash apps via the Flex framework."
 [flixel]: http://flixel.org/ "A games framework written for Actionscript/Flash."

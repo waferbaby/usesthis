@@ -26,7 +26,7 @@ I use [JavaScript][] almost exclusively now, after years of [Java][]. There are 
 
 I think I have my dream setup! Lots of oddball toys at home, plus my lightweight laptop for easy travel when backpacking between conferences. I would dearly love a big workshop with a laser-cutter and a CNC machine, though.
 
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
 [leap-motion-controller]: https://www.leapmotion.com/product "A spatial motion-sensing device."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

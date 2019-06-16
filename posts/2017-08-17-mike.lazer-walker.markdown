@@ -71,7 +71,7 @@ What's more frustrating to me is having to balance the interesting work with the
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
-[nvalt]: http://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
+[nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "A framework of extensions and themes for the zsh shell."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [onshape]: https://www.onshape.com/ "Web-based CAD software."

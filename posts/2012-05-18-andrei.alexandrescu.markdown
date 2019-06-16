@@ -58,7 +58,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 
 [aircard-598]: https://www.amazon.com/Sierra-Wireless-USB-598-Modem/dp/B00363WPVU "A USB modem."
 [hd-280-pro]: https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB "Closed stereo headphones."
-[inspiron-e1705]: http://www.dell.com/content/topics/topic.aspx/global/products/inspn/topics/en/inspn_e1705_sp_overview "A 17 inch PC laptop."
+[inspiron-e1705]: https://www.dell.com/content/topics/topic.aspx/global/products/inspn/topics/en/inspn_e1705_sp_overview "A 17 inch PC laptop."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
@@ -68,7 +68,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 [pap2t]: https://www.cisco.com/c/en/us/products/unified-communications/pap2t-internet-phone-adapter-2-voip-ports/index.html "A VoIP phone adapter."
 [presario-sr1726nx]: http://h10025.www1.hp.com/ewfrf/wc/document?docname=c00576009&lc=en&cc=us&product=1818328&dlc=en "A PC tower."
 [ultrasharp-u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
-[xps-17]: http://www.dell.com/us/p/xps-17/pd "A 17 inch PC laptop."
+[xps-17]: https://www.dell.com/us/p/xps-17/pd "A 17 inch PC laptop."
 [centos]: https://www.centos.org/ "A Linux distribution."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."

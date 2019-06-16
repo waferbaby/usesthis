@@ -83,7 +83,7 @@ One thing that sucks about my setup is that it's not really portable - my laptop
 [paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."
 [pandora]: http://www.pandora.com/ "A personalised Internet radio station."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
-[php]: http://php.net/ "An interpreted scripting language."
+[php]: https://php.net/ "An interpreted scripting language."
 [phpmyadmin]: https://www.phpmyadmin.net/ "A web-based GUI for MySQL databases."
 [putty]: https://www.chiark.greenend.org.uk/~sgtatham/putty/ "A free Telnet/SSH client for Windows."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."

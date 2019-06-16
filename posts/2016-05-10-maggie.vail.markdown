@@ -37,7 +37,7 @@ I almost have my dream set up music equipment wise. I'd like to not share a hi-h
 [370]: https://www.amazon.com/Acoustic-370-Bass-Amplifier-Cabinet/dp/B00DH05L54 "A guitar amp."
 [blues-custom-30]: http://www.epiphone.com/News-Features/News/2006/The-Blues-Custom-30--Great-Tone-Killer-Looks-And-S.aspx "A guitar amp."
 [coliseum-300]: http://johnkvintageguitars.homestead.com/SunnColiseum.html "A bass amp."
-[dp-008]: http://tascam.com/product/dp-008/ "A portable 8-track recorder."
+[dp-008]: https://tascam.com/product/dp-008/ "A portable 8-track recorder."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [microkorg]: https://www.korg.com/us/products/synthesizers/microkorg/ "A synthesizer."
 [mustang]: https://en.wikipedia.org/wiki/Fender_Mustang "An electric guitar."

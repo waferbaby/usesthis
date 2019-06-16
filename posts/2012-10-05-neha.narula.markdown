@@ -64,7 +64,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [blobstore]: https://cloud.google.com/appengine/docs/java/blobstore/ "An API for uploading and controlling large objects to Google App Engine."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
-[chrome-ios]: https://itunes.apple.com/us/app/chrome/id535886823 "A web broser app."
+[chrome-ios]: https://itunes.apple.com/us/app/chrome/id535886823 "A web browser app."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [digg]: http://digg.com/ "A user-curated news site."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."

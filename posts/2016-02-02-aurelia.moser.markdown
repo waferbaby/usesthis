@@ -40,7 +40,7 @@ For privacy, I sometimes opt for more secure tool usage, so I have a PGP setup a
 Oh man, probably an 11-inch weightless MacBook Air with all the power of a Pro and a Retina display; I'd love something that would fit in my purse, because I feel like I've been a backpack girl for ages and I'd love to graduate high school with an adult bag. JK. My dreams are crazy, and the technology available next year will probably be crazier. Who knows what I'll want to upgrade to? Probably tech that imitates (my) life: fast, light, mobile, and magical.
 
 [a7910]: https://www.amazon.com/Anker-Portable-Wireless-Bluetooth-Compatibility/dp/B00OEPCHL2 "A tiny Bluetooth/NFC wireless speaker."
-[arduino]: http://www.arduino.cc/ "Open-source prototyping hardware."
+[arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [chromebook-pixel]: https://www.google.com/intl/en-US/chrome/devices/google-chromebook-pixel/ "A PC laptop with a Retina display."
 [ipod]: https://www.apple.com/ipod/ "A music player."
 [karma]: https://yourkarma.com/ "A portable WiFi hotspot."

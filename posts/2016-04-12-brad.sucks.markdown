@@ -42,7 +42,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [m510]: https://www.logitech.com/en-us/product/wireless-mouse-m510 "A wireless mouse."
 [m9-stompbox-modeler]: https://line6.com/m9/ "An audio effects box."
 [mininova]: https://global.novationmusic.com/synths/mininova "A micro synthesiser."
-[mpk-mini]: http://www.akaipro.com/product/mpkmini. "A small music keyboard."
+[mpk-mini]: https://www.akaipro.com/product/mpkmini. "A small music keyboard."
 [nt1000]: http://www.rode.com/microphones/nt1000 "A studio condenser microphone."
 [p2r-h2]: https://www.amazon.com/Shure-P2R-Hybrid-Bodypack-Receiver/dp/B0002E4Y6K/ "A wireless audio receiver system."
 [precision-bass]: http://www.fender.com/products/search.php?section=basses&bodyShape=Precision+Bass® "A bass guitar."

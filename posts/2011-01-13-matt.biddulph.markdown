@@ -43,7 +43,7 @@ I think pico-projectors are going to get really good soon - I've seen impressive
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [mifi]: https://en.wikipedia.org/wiki/MiFi "A portable mobile hotspot."
 [mm-1]: http://www.bowers-wilkins.com/Speakers/Computer-Speakers/MM-1/overview.html "Mini hifi speakers for a computer or iPod."
-[performance-p256]: http://www.corsair.com/en-us/cmfssd-256gbg2d "A solid state hard disk."
+[performance-p256]: https://www.corsair.com/en-us/cmfssd-256gbg2d "A solid state hard disk."
 [showwx]: https://www.amazon.com/MicroVision-SHOWWX-Classic-Laser-Projector/dp/B003G5ML9Y "A laser pico projector."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
