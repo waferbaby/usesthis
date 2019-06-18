@@ -4,6 +4,7 @@ summary: Strategist, writer, editor
 categories:
 - editor
 - mac
+- strategy
 - writer
 ---
 
