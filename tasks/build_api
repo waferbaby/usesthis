@@ -69,6 +69,7 @@ Dir[interview_source_path].sort.reverse_each do |path|
 
   data = File.read(path)
   contents, interview = Dimples::FrontMatter.parse(data)
+  interview[:name] = interview.delete(:title)
 
   date = Date.parse(date_string)
   year = date.year
