@@ -31,7 +31,7 @@ At home [Aperture][] is used for photo management and most image manipulation. W
 
 Across both platforms I use [Dropbox][] to keep everything in sync, [f.lux][] to adjust the brightness and temperature of all my displays, and [1Password][] for password management.
 
-As far as mobile platforms go, on the iPad I use [Calendars 5][calendars-ios] to schedule appointments and reminders, [MindNode][mindnode-ios] for taking notes or brainstorming for a project, [Paper][paper-ios] for explaining ideas or quick sketches, and [PDF Expert][pdf-export-ios] for reading papers or journal articles. For almost any non-work related writing I use [Byword][byword-ios] since it works flawlessly across the Mac, iPad, and iPhone. During the day I usually have [Status Board][status-board-ios] open to show me the time in various time zones, tweets, emails, and a few other personal metrics.
+As far as mobile platforms go, on the iPad I use [Calendars 5][calendars-ios] to schedule appointments and reminders, [MindNode][mindnode-ios] for taking notes or brainstorming for a project, [Paper][paper-ios] for explaining ideas or quick sketches, and [PDF Expert][pdf-expert-ios] for reading papers or journal articles. For almost any non-work related writing I use [Byword][byword-ios] since it works flawlessly across the Mac, iPad, and iPhone. During the day I usually have [Status Board][status-board-ios] open to show me the time in various time zones, tweets, emails, and a few other personal metrics.
 
 On the iPhone I use [Pocket Casts][pocket-casts-ios] for listening to podcasts because of its reliability and overall design, [Weather Line][weather-line-ios] for checking the weather, [Drafts][drafts-ios] for short notes that might need to be used elsewhere, and [Fantastical][fantastical-ios]. I've been very impressed with [VSCO Cam][vsco-cam-ios] over the past few months. When offshore it's usually much easier and safer to pull out an iPhone than to carry around a DSLR (which are sometimes against rig regulations). Two great travel apps that I've used over the past year are [FlightTrack 5][flighttrack-ios] and [Banca][banca-ios].
 
@@ -87,7 +87,7 @@ A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run AN
 [omnifocus-ios]: https://itunes.apple.com/us/app/omnifocus-2-for-iphone/id690305341 "Task management for the iPhone."
 [orcaflex]: https://www.orcina.com/SoftwareProducts/OrcaFlex/index.php "Offshore marine systems analysis software."
 [paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
-[pdf-export-ios]: https://readdle.com/products/pdfexpert5/ "A PDF viewer/editor app."
+[pdf-expert-ios]: https://readdle.com/products/pdfexpert5/ "A PDF viewer/editor app."
 [pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [pocket-casts-ios]: https://itunes.apple.com/app/pocket-casts/id414834813 "A podcast app."
 [rdio-ios]: https://itunes.apple.com/us/app/rdio/id335060889 "An Rdio client for iOS."
