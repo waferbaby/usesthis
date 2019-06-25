@@ -3,7 +3,8 @@ title: Pamela Fox
 summary: CTO (Woebot), improv aficionado
 categories:
 - developer
-- mac---
+- mac
+---
 
 ### Who are you, and what do you do?
 
