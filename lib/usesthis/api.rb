@@ -10,7 +10,7 @@ module UsesThis
     VERSION = 2
     URL = "https://usesthis.com/api/v#{VERSION}"
     LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
-    DATE_SLUG_PATTERN = /(\d{4}-\d{2}-\d{2})-(.+)/.freeze
+    INTERVIEW_FILENAME_PATTERN = /(\d{4})-(\d{2})-(\d{2})-(.+)/.freeze
     SLICE_KEYS = %i[slug name title description date summary url api_url].freeze
     PAGER_OPTIONS = { page_prefix: '?page=', per_page: 50 }.freeze
 
@@ -26,7 +26,7 @@ module UsesThis
         destination: File.join(destination_path, 'api', "v#{VERSION}")
       }
 
-      @gear = {}
+      @gear = { hardware: {}, software: {} }
       @interviews = {}
       @categories = {}
       @stats = {}
@@ -47,7 +47,6 @@ module UsesThis
 
     def scan_gear
       %i[hardware software].each do |type|
-        @gear[type] = {}
         @stats[type] = { all: {} }
 
         source_path = File.join(
@@ -192,8 +191,7 @@ module UsesThis
     end
 
     def prepare_interview(path)
-      year, month, day, slug = File.basename(path, '.markdown').split('-')
-
+      year, month, day, slug = interview_date_and_slug(path)
       contents, output = Dimples::FrontMatter.parse(File.read(path))
 
       output.tap do |interview|
@@ -213,7 +211,7 @@ module UsesThis
 
         contents.scan(LINK_PATTERN).flatten.map do |gear_slug|
           add_gear_interview(gear_slug, interview)
-          interview[:gear] << find_gear(gear_slug).slice(*SLICE_KEYS)
+          interview[:gear] << find_gear(gear_slug)&.slice(*SLICE_KEYS)
         end
       end
     end
@@ -252,6 +250,8 @@ module UsesThis
 
     def add_gear_interview(gear_slug, interview)
       item = find_gear(gear_slug)
+      return if item.nil?
+
       item[:interviews] << interview.slice(*SLICE_KEYS)
 
       increment_gear_count(gear_slug, interview[:date][0..3])
@@ -262,6 +262,10 @@ module UsesThis
 
       @stats[type][year] ||= Hash.new(0)
       @stats[type][year][slug.to_sym] += 1
+    end
+
+    def interview_date_and_slug(path)
+      File.basename(path, '.markdown').scan(INTERVIEW_FILENAME_PATTERN).flatten
     end
 
     def gear_type(slug)
