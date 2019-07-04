@@ -16,7 +16,7 @@ I'm [Everest Pipkin](http://everest-pipkin.com "Everest's website."), I make gen
 
 A [MacBook Pro][macbook-pro], fairly close to the start of its life. A Brother laser printer and a Star receipt printer. I keep notes in the Mac OS [Stickies app][stickies] (some hundreds of thousands of words at this point) and I keep a physical notebook of no particular brand which fills up roughly every 8 months and gets placed on a shelf with the others.
 
-(I'm also currently borrowing an [AxiDraw pen plotter][axidraw], which has changed my life!)
+(I'm also currently borrowing an [AxiDraw pen plotter][axidraw-v3], which has changed my life!)
 
 I generally travel as much as I can, so much of my work becomes centered on the screen or is pocket-sized. I'm still getting used to having a studio where I can gather equipment. It is a luxury~
 
@@ -30,7 +30,7 @@ Um, well, I'd really like more toys to be honest. I'd love to have a good color 
 
 (I'd really like all of these things in house in a desert.)
 
-[axidraw]: https://www.axidraw.com/ "A drawing machine."
+[axidraw-v3]: https://shop.evilmadscientist.com/productsmenu/846 "A pen plotter."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."
