@@ -1,0 +1,5 @@
+{
+  "name": "SBCL",
+  "description": "A Common Lisp compiler.",
+  "url": "http://www.sbcl.org/"
+}
