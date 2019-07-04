@@ -1,18 +1,6 @@
----
-engines:
-  duplication:
-    enabled: true
-    config:
-      languages:
-      - ruby
-  fixme:
-    enabled: true
-  rubocop:
-    enabled: true
-  stylelint:
-    enabled: true
-ratings:
-  paths:
-  - "**.rb"
-exclude_paths:
-- test/
+version: "2"
+plugins:
+ rubocop:
+  enabled: true
+exclude_patterns:
+- "**/spec/"
