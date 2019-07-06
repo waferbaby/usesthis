@@ -12,7 +12,6 @@ module UsesThis
     LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
     INTERVIEW_FILENAME_PATTERN = /(\d{4})-(\d{2})-(\d{2})-(.+)/.freeze
     SLICE_KEYS = %i[slug name title description date summary url api_url].freeze
-    PAGER_OPTIONS = { page_prefix: '?page=', per_page: 50 }.freeze
 
     attr_accessor :paths, :gear, :interviews, :categories, :stats
 
@@ -80,7 +79,7 @@ module UsesThis
         pager = Dimples::Pager.new(
           "#{URL}/#{type}/",
           @gear[type].to_a,
-          PAGER_OPTIONS
+          pager_options
         )
 
         pager.each do |index|
@@ -174,7 +173,7 @@ module UsesThis
     end
 
     def generate_paginated_interview_endpoints(path, url, interviews)
-      pager = Dimples::Pager.new(url, interviews, PAGER_OPTIONS)
+      pager = Dimples::Pager.new(url, interviews, pager_options)
 
       pager.each do |index|
         paged_interviews = pager.posts_at(index).map do |interview|
@@ -275,6 +274,13 @@ module UsesThis
     def find_gear(slug)
       slug_sym = slug.to_sym
       @gear[:hardware][slug_sym] || @gear[:software][slug_sym]
+    end
+
+    def pager_options
+      @pager_options ||= {
+        page_prefix: '?page=',
+        per_page: @options[:per_page] || 50
+      }
     end
   end
 end
