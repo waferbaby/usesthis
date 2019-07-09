@@ -15,7 +15,7 @@ categories:
 
 At home I use a 15-inch [MacBook Pro][macbook-pro]. For travel, lectures etc. I have an 11-inch [MacBook Air][macbook-air]. I have an [iMac][] for picture editing.
 
-My NAS is a 4TB [Synology DS411slim][ds411slim].
+My NAS is a 4TB [Synology DS411slim][diskstation-ds411slim].
 
 Then I have two [Raspberry Pi's][raspberry-pi], quite a lot of [Arduinos][arduino].
 
@@ -86,7 +86,7 @@ I want zero viruses, trojans, malware.
 I'm trying to build some of these things - right now I'm still stuck on the first point - making software that's not broken.
 
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[ds411slim]: https://www.synology.com/en-us/products/overview/DS411slim "A NAS device for 2.5 inch drives."
+[diskstation-ds411slim]: https://storagereview.com/synology_diskstation_ds411slim_review "A NAS device for 2.5 inch drives."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [integra-7]: http://www.rolandus.com/products/details/1245 "A synth module with over 6000 sounds."
 [latitude-e6430]: https://www.dell.com/us/business/p/latitude-e6430/pd "A durable 14 inch PC laptop."

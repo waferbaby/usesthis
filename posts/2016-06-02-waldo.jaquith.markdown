@@ -18,7 +18,7 @@ I'm [Waldo Jaquith](https://waldo.jaquith.org/ "Waldo's website."), and I make d
 
 Most of my work is done on a late 2013 [13" Retina MacBook Pro][macbook-pro] (late 2013 model) hooked up to a basic 24" Dell LCD. I also maintain a home office where I use a [27" Retina iMac][imac] (which I just bought recently, upgrading from a 2009 iMac), with 32 GB of RAM and a 256 GB SSD. On both I use an [Apple keyboard][keyboard] and mouse, plus an [Apple trackpad][magic-trackpad] on the iMac. I also manage to get a surprising amount of work done on my [iPhone 6][iphone-6].
 
-My home file server is a [Synology DiskStation DS414][ds414], with 8 TB of storage. (Well, 4 TB. The other 4 TB is to back up the first 4 TB.) I use a [1 TB Western Digital Passport drive][my-passport-ultra] to maintain an offsite backup of my most important data.
+My home file server is a [Synology DiskStation DS414][diskstation-ds414], with 8 TB of storage. (Well, 4 TB. The other 4 TB is to back up the first 4 TB.) I use a [1 TB Western Digital Passport drive][my-passport-ultra] to maintain an offsite backup of my most important data.
 
 I love my [ScanSnap S1300i][scansnap-s1300i] document scanner, which I use to digitize any paper that comes into the house, so that I can toss the paper but keep the information. I'm also using it to gradually scan in the thousands of physical photos that I've taken over the years.
 
@@ -50,7 +50,7 @@ On my servers, I lean heavily on [PHP][], [Python][], [Apache][], [MySQL][], [SQ
 
 I have sporadic need for substantial computing power, and it sure would be nice to be able to lease computing power on the fly for automatic offloading of RAM or processor-intensive tasks from my personal computer, as a native function of the OS. A new office chair would be great - mine is falling apart. I'd like to have twice as much desk space at home, so I'd have project space. Gigabit at home and work would be awfully nice, too.
 
-[ds414]: https://www.amazon.com/Synology-DiskStation-Diskless-Attached-DS414/dp/B00FWUQY5I "A 4-bay NAS device."
+[diskstation-ds414]: https://www.storagereview.com/synology_diskstation_ds414_review "A 4-bay NAS device."
 [gabriel]: http://www.jandd.com/detail.asp?PRODUCT_ID=FGMB "A messenger bag."
 [handigen]: http://www.powergenbatt.com/pgen_product/powergen-5200mah-battery-pack/ "A USB battery pack."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
