@@ -28,6 +28,12 @@ article.interviewee:last-of-type p.details {
 border: 0;
 }
 
+aside#sponsorship {
+border-top: solid 1px var(--divider-colour);
+font-size: 80%;
+padding-top: 15px;
+}
+
 body {
 background-color: #fff;
 background-image: linear-gradient(#ffe6f3, #fff);
