@@ -4,7 +4,6 @@ summary: Software developer (Ferocia)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

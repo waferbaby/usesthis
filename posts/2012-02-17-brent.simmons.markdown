@@ -4,7 +4,6 @@ summary: Mac, web developer (Glassboard, ex-NetNewsWire)
 categories:
 - developer
 - mac
-
 ---
 
 ### Who are you, and what do you do?

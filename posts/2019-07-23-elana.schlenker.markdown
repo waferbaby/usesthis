@@ -36,7 +36,7 @@ I also do a lot of video conferencing, and a client turned me onto [Zoom][zoom.2
 
 ### What would be your dream setup?
 
-I would love a new Mac that's not a piece of shit. I also want some AirPods, but I'm scared I'll lose them. Everyone says they're easy to keep track of, but maybe they don't know me.
+I would love a new Mac that's not a piece of shit. I also want some [AirPods][], but I'm scared I'll lose them. Everyone says they're easy to keep track of, but maybe they don't know me.
 
 I'm dying for my own Risograph. I did a residency at the Facebook Analog Research Lab where I got very closely acquainted with one and it was really incredible to be able to design and produce something so quickly.
 
@@ -44,6 +44,7 @@ But I'd love a new one (rather than refurb) so it's a pretty big investment.
 
 Otherwise I have mostly domestic tech fantasies, my number one being solar roof.
 
+[airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
 [grinta]: https://www.nuovasimonelli.it/en/prodotti/macinacaffe/grinta.html "A coffee grinder."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."

@@ -4,7 +4,6 @@ summary: Maker, musician, developer (Attic Labs)
 categories:
 - developer
 - musician
-
 ---
 
 ### Who are you, and what do you do?

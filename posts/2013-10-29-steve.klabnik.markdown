@@ -4,7 +4,6 @@ summary: Software developer
 categories:
 - developer
 - linux
-
 ---
 
 ### Who are you, and what do you do?
