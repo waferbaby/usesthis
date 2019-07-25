@@ -4,7 +4,6 @@ summary: Hat-wearer (SlideShowPro)
 categories:
 - developer
 - mac
-
 - windows
 ---
 

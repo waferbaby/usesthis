@@ -4,7 +4,6 @@ summary: Ecological statistician
 categories:
 - developer
 - mac
-
 - statistician
 ---
 

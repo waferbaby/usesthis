@@ -4,7 +4,6 @@ summary: Designer, writer, small dog appreciator
 categories:
 - designer
 - mac
-
 - writer
 credits:
   name: Heather Champ

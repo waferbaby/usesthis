@@ -4,7 +4,6 @@ summary: Developer, GitHub Editor Tools
 categories:
 - developer
 - mac
-
 - windows
 ---
 

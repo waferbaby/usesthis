@@ -6,7 +6,6 @@ categories:
 - mac
 - mathematician
 - scientist
-
 - windows
 ---
 

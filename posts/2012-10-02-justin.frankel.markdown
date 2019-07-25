@@ -4,7 +4,6 @@ summary: Software developer (Winamp, REAPER)
 categories:
 - developer
 - mac
-
 - windows
 ---
 

@@ -4,7 +4,6 @@ summary: Writer, web developer
 categories:
 - developer
 - mac
-
 - writer
 ---
 

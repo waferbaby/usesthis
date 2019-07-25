@@ -4,7 +4,6 @@ summary: Computer scientist (programming languages)
 categories:
 - developer
 - linux
-
 - windows
 ---
 

@@ -4,7 +4,6 @@ summary: Co-founder (Wolfram Research), element collector
 categories:
 - developer
 - mac
-
 - writer
 ---
 

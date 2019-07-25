@@ -4,7 +4,6 @@ summary: Software developer (Plan 9, RE2, Go)
 categories:
 - developer
 - mac
-
 - windows
 ---
 

@@ -4,7 +4,6 @@ summary: Software developer, writer, publisher
 categories:
 - mac
 - poet
-
 - writer
 ---
 

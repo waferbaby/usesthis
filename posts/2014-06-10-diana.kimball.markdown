@@ -4,7 +4,6 @@ summary: Writer, programmer (SoundCloud)
 categories:
 - developer
 - mac
-
 - writer
 ---
 

@@ -4,8 +4,6 @@ summary: Rabble-rouser, software developer (Lynx, Netscape)
 categories:
 - developer
 - linux
-
-
 - windows
 ---
 

@@ -6,7 +6,6 @@ categories:
 - hacker
 - linux
 - mac
-
 - windows
 credits:
   name: Julian Cash

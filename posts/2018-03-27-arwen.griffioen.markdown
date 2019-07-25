@@ -4,7 +4,6 @@ summary: Machine learning researcher (Zendesk)
 categories:
 - developer
 - mac
-
 - researcher
 ---
 

@@ -4,7 +4,6 @@ summary: Software developer (SoundCloud)
 categories:
 - developer
 - mac
-
 - windows
 credits:
   name: Natalie Keshlear

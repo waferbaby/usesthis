@@ -4,7 +4,6 @@ summary: Writer, entrepreneur (Wired, TCHO)
 categories:
 - food
 - mac
-
 - writer
 credits:
   name: Christopher Michel

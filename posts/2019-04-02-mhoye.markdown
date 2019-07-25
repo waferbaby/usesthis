@@ -4,8 +4,6 @@ summary: Fixer (Mozilla)
 categories:
 - developer
 - linux
-
-
 - windows
 ---
 

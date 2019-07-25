@@ -4,7 +4,6 @@ summary: Writer, blogger (Smarterware)
 categories:
 - developer
 - mac
-
 - windows
 - writer
 ---

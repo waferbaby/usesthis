@@ -5,7 +5,6 @@ categories:
 - developer
 - mac
 - product
-
 - writer
 ---
 

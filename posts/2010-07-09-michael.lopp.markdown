@@ -4,7 +4,6 @@ summary: Engineering manager, reposer
 categories:
 - mac
 - manager
-
 - writer
 ---
 
