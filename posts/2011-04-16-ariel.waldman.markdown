@@ -27,14 +27,6 @@ Other than that, I use some basics: [Adobe CS4][creative-suite], [Firefox 4.0][f
 
 More robots! An [Iron Man 2-like setup](http://motionographer.com/features/prologue-iron-man-2/ "A video of the UI in Iron Man 2.")! A great 3D printer (but the [AI Feed Scanner](http://www.engadget.com/2009/08/28/movie-gadget-friday-weird-science/ "Ariel's Engadget post including details on the AI Feed Scanner.") from Weird Science would also do). A Nabaztag that alerts me every time there's a near-Earth asteroid. A physical globe that lights up to show where different satellites and/or the ISS currently are. Also, earbuds without wires - I think it's ridiculous that we still have to walk around being physically tethered to our devices to listen to music.
 
-[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
-
-[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
-
-[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
-
-[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
-
 [airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
@@ -45,7 +37,7 @@ More robots! An [Iron Man 2-like setup](http://motionographer.com/features/prolo
 [mifi]: https://en.wikipedia.org/wiki/MiFi "A portable mobile hotspot."
 [nabaztag]: https://en.wikipedia.org/wiki/Nabaztag "A rabbit-shaped WiFi-enabled 'smart device'."
 [one-touch-tea-maker]: https://www.brevilleusa.com/beverages/kettles-tea-makers/the-tea-maker-onetouch.html "An automated tea brewing machine."
-[pro-tt2]: A direct-drive turntable. "http://en.wikipedia.org/wiki/Numark_Pro_TT-2"
+[pro-tt2]: http://en.wikipedia.org/wiki/Numark_Pro_TT-2 "A direct-drive turntable/."
 [torch-9800]: https://en.wikipedia.org/wiki/BlackBerry_Torch_9800 "A smartphone."
 [audio-recorder]: http://www.440audio.com/en/software/v493-Ben-Shanfelder-Audio-Recorder/ "Mac software for recording audio."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
