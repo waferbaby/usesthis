@@ -1,0 +1,57 @@
+---
+title: Devine Lu Linvega
+summary: Artist, developer
+categories:
+- developer
+- linux
+- mac
+---
+
+### Who are you, and what do you do?
+
+My name is Devine, and I create [esoteric software](https://wiki.xxiivv.com/software "Devine's software."). I live aboard a [sailboat](https://100r.co/pages/pino.html "Devine and Rekka's house/boat page.") with [Rekka](https://usesthis.com/interviews/rekka.bell/ "Rekka's Uses This interview.") - we are presently moored in a quiet inlet, deep within the Japanese coast where sleep the remains of ancient towns, overgrown with lichen. 
+
+I am tempted to say that I write [music](https://wiki.xxiivv.com/Audio "Devine's music."), but saying that [I write programs to write music][orca] would be more accurate. The same could be said about design, but not each one of my brushtrokes is automated - I do pick up a pen to [draw once in a while](https://wiki.xxiivv.com/Artwork "Devine's artwork."). Rekka and I are making [games](https://100r.co/pages/games.html "Devine and Rekka's games."), [tools](https://100r.co/pages/tools.html "Devine and Rekka's software tools.") and [books](https://100r.co/pages/books.html "Devine and Rekka's books.") together. We also [document our life aboard the board](http://youtube.com/hundredrabbits "Devine and Rekka's YouTube channel.") each month, and we are very very fortunate to be able to spend our entire days experimenting with these medias and toys.
+
+### What hardware do you use?
+
+I use an old [MacBook Pro][macbook-pro] with an even older Wacom Tablet. With this one I do front-end work, be it layouts, websites, movies or games. It has [Mastodon](https://merveilles.town/@neauoire/ "Devine's Mastodon account."), IRC, [Quake][] and all sorts of other distractionware. 
+
+I also use a singleboard computer ([Raspberry Pi 3B+][raspberry-pi-3b-plus]) hooked to a small 7" screen, and a [mechanical keyboard](https://wiki.xxiivv.com/Keyboard "Devine's mechanical keyboard page.""). Its purpose is to do experimental software development, read and write long-form emails and blogs, with nothing besides music to pull me away from the task at hand. It draws very little power, and discourages multi-tasking. I run mostly [NixOS][], and sometimes [Plan 9][plan-9].
+
+### And what software?
+
+This is the GUI software I use on the MacBook - for a list of terminal utilities and other CLI software, have a look at my [wiki](https://wiki.xxiivv.com/Workstation "Devine's workstation page.").
+
+- Browser: [Vivaldi][] / [Next][]
+- Vector Graphics: [Dotgrid][]
+- Audio Interface: Orca / [SuperCollider][]
+- Writing Suite: [Left][]
+- Video Player: [IINA][]
+- RSS Reader: [Vienna][]
+- Calculator: [Numi][]
+
+### What would be your dream setup?
+
+I dream of owning a stronger SBC (single-board computer), something like a [Latte Panda](https://www.youtube.com/watch?v=njyRy-gkTHk "A YouTube video of the LattePanda Alpha in action.""), but using [RISC-V](https://en.wikipedia.org/wiki/RISC-V "The Wikipedia entry for RISC-V.") specs like the [HiFive1][]. I also dream of a modular OS that truly embodies the ideas of [Linux][], like Plan 9, but based on a dialect of [LISP][] instead of [Go][], and with deep source control capabilities like NixOS. That magical computer would not try to call home or use DRM, and it would be inspectable, modifiable and environmentally conscious.
+
+Also, if I could have one last wish, it would have a 1/4" headphone jack, and a [orthogonal keyboard](https://olkb.com/planck).
+
+[hifive1]: https://www.sifive.com/boards/hifive1 "A single board computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[raspberry-pi-3b-plus]: https://www.raspberrypi.org/magpi/raspberry-pi-3bplus-specs-benchmarks/ "A tiny computer."
+[dotgrid]: https://hundredrabbits.itch.io/dotgrid "A vector drawing tool."
+[go]: https://golang.org/ "A compiled programming language."
+[iina]: https://iina.io/ "Media player software for macOS."
+[left]: https://100r.co/pages/left.html "A minimalist text editor."
+[linux]: https://www.linux.org/ "A free, open-source Unix-like operating system."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[next]: https://github.com/atlas-engineer/next "A keyboard-focused web browser."
+[nixos]: https://nixos.org/ "A Linux distribution."
+[numi]: https://numi.io/ "A calendar for macOS."
+[orca]: https://wiki.xxiivv.com/#orca "A live programmable audio app."
+[plan-9]: https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs "A distributed operating system."
+[quake]: https://en.wikipedia.org/wiki/Quake_(video_game) "A first person shooter game."
+[supercollider]: https://supercollider.github.io/ "An audio synthesis program."
+[vienna]: https://www.vienna-rss.com/ "An RSS reader for macOS."
+[vivaldi]: https://vivaldi.com/ "A web browser."
