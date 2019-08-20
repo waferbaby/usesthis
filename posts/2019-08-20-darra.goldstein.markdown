@@ -30,7 +30,7 @@ As for actual kitchen equipment, a scale is crucial for recipe testing. I have a
 
 ### And what software?
 
-I rely on [Word][] for my writing and [Adobe Acrobat][acrobat] or work with PDFs. Since I give lots of public presentations, I use [PowerPoint][] a lot, and [Photoshop][] comes in handy for working with images. I use [Firefox][] as my default browser.
+I rely on [Word][] for my writing and [Adobe Acrobat][acrobat] for work with PDFs. Since I give lots of public presentations, I use [PowerPoint][] a lot, and [Photoshop][] comes in handy for working with images. I use [Firefox][] as my default browser.
 
 For long plane trips, my Bose [QuietComfort 20i][quietcomfort-20i] acoustic noise canceling headphones make a huge difference.
 
