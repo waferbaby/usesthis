@@ -1,5 +1,5 @@
 ---
-title: Mike Lazer-Walker
+title: Em Lazer-Walker
 summary: Interactive artist, developer
 categories:
 - developer
@@ -10,7 +10,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [Mike Lazer-Walker](http://lazerwalker.com/ "Mike's website.") (yes, that's my real name!). I make installation art and experimental games that ask people to interact with everyday objects in unexpected and playful new ways. A lot of my work involves vintage technology, such as [fully-functional USB telegraph keys](http://lzrwlkr.me/morsekey "Mike's USB telegraph key on Etsy.") and [a game played on a 90-year-old telephone switchboard](http://lazerwalker.com/hellooperator "Mike's telephone switchboard game."). Other projects revolve more around recontextualizing familiar objects and spaces, such as a [generative poetry walk in San Francisco's Fort Mason][computational-flaneur-ios] and a game where you [sext with a robot](http://lazerwalker.com/sextmachine "Mike's algorithmic sexting bot game.").
+I'm [Em Lazer-Walker](http://lazerwalker.com/ "Em's website.") (she/her or they/them). I make installation art and experimental games that ask people to interact with everyday objects in unexpected and playful new ways. A lot of my work involves vintage technology, such as [fully-functional USB telegraph keys](http://lzrwlkr.me/morsekey "Em's USB telegraph key on Etsy.") and [a game played on a 90-year-old telephone switchboard](http://lazerwalker.com/hellooperator "Em's telephone switchboard game."). Other projects revolve more around recontextualizing familiar objects and spaces, such as a [generative poetry walk in San Francisco's Fort Mason][computational-flaneur-ios] and a game where you [sext with a robot](http://lazerwalker.com/sextmachine "Em's algorithmic sexting bot game.").
 
 Aside from my art practice, I build software tools. I care a lot about making sure that we're building technology and providing tools that actively enable and empower people to improve themselves. This tends to manifest itself in open-source software tools to help other programmers be more productive (my day job is building [iOS][] and web apps), "quantified self"-style tools mostly built for my own purposes, and educational projects to help others teach themselves new skills. I've spent a lot of time in spaces designed to foster self-driven creative learning, such as the [MIT Media Lab](https://media.mit.edu/ "The Media Lab at MIT.") (where I was a researcher with the now-defunct Playful Systems group) and the [Recurse Center](https://recurse.com/ "A developer retreat program in New York City.").
 
@@ -30,13 +30,13 @@ For writing code: if I'm not writing native iOS apps in [Xcode][], you can usual
 
 I use [Sketch][] and [Pixelmator][] for most visual-related work. 3D CAD mostly happens in [Onshape][], which runs delightfully on an iPad. I do most other things related to software development in a terminal, where I use [zsh][] with [oh-my-zsh][] as my shell.
 
-My task management is handled by a combination of [OmniFocus][] and [Trello][], plus [Habitica][] for helping to train me to be a better human being. Quick notes for anything I'm working on inevitably get stored in [nvAlt][], using [Simplenote][] to sync with the cloud and use from my phone. Other stuff that doesn't live there or on my public [GitHub](https://github.com/lazerwalker "Mike's GitHub account.") gets stored in [Sync][], a lovely [Dropbox][] clone that stores my data using zero-knowledge encryption on Canadian soil.
+My task management is handled by a combination of [OmniFocus][] and [Trello][], plus [Habitica][] for helping to train me to be a better human being. Quick notes for anything I'm working on inevitably get stored in [nvAlt][], using [Simplenote][] to sync with the cloud and use from my phone. Other stuff that doesn't live there or on my public [GitHub](https://github.com/lazerwalker "Em's GitHub account.") gets stored in [Sync][], a lovely [Dropbox][] clone that stores my data using zero-knowledge encryption on Canadian soil.
 
 I try to do as much as possible from my phone and tablet rather than my laptop. Looking at the front page of my phone: [Foursquare][foursquare-ios] is my gold standard for finding places to eat in new cities while traveling. [Fantastical][fantastical-ios] is my calendar of choice. I use [1password][1password-ios] for password management, and [Instapaper][instapaper-ios] and [Overcast][overcast-ios] to keep track of things to read and listen to. Not to toot my own horn, but one of my most frequently-used apps is [Bike NYC][bike-nyc-ios], a minimalist app I built for NYC's bike share program. 
 
 Along with Bike NYC, a lot of the other apps I use frequently are ones I've built myself. Another good example is [Cortado][cortado-ios], a location-aware caffeine tracker I use to help me see the effect caffeine has on my well-being. I wish it were less time-intensive and easier for people who aren't professional software developers to build their own software; there's something really empowering about being able to build a custom tool to scratch your own precise itch.
 
-I spend more time than I should playing videogames (it's "professional research", I swear). Although I love my [Nintendo Switch][switch.2], most of my gaming time is spent on my phone or tablet. I maintain a [list](http://lazerwalker.com/ios-games-list/ "Mike's list of his favourite iOS games.") of my favorite mobile games.
+I spend more time than I should playing videogames (it's "professional research", I swear). Although I love my [Nintendo Switch][switch.2], most of my gaming time is spent on my phone or tablet. I maintain a [list](http://lazerwalker.com/ios-games-list/ "Em's list of her favourite iOS games.") of my favorite mobile games.
 
 ### What would be your dream setup?
 
