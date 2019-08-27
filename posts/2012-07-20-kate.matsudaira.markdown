@@ -37,9 +37,6 @@ Let's see - I use a lot of applications!
  
 Everything listed above but located in Hawaii - and maybe a pair of Bose headphones?
 
-[fitbit]: http://www.fitbit.com/ "A personal fitness tracking device."
-[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [audible-ios]: https://itunes.apple.com/us/app/audible/id379693831 "An app for the audio book service."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
@@ -47,14 +44,17 @@ Everything listed above but located in Hawaii - and maybe a pair of Bose headpho
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
+[fitbit]: http://www.fitbit.com/ "A personal fitness tracking device."
 [foursquare-ios]: https://itunes.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
 [gilt-ios]: https://itunes.apple.com/us/app/gilt-on-the-go/id331804452 "An app for the bargain designer clothes service."
 [glympse-ios]: https://itunes.apple.com/us/app/glympse-free-location-share/id330316698 "A personal location sharing app."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hautelook-ios]: https://itunes.apple.com/us/app/hautelook/id390783984 "An app for the bargain designer clothes service."
 [hootsuite]: https://hootsuite.com/ "A social media management service."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mindmeister-ios]: https://itunes.apple.com/us/app/mindmeister-mind-mapping/id291226775 "An app for the mind mapping service."
 [myhabit-ios]: https://itunes.apple.com/us/app/myhabit/id435253220 "An app for the bargain designer clothes service."
 [office]: https://products.office.com/en-us/home "An office productivity suite."

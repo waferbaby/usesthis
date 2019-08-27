@@ -33,13 +33,13 @@ I use [Procreate][procreate-ios] on my iPad Pro for drawing and creating images.
 I confess I have a partner who thinks about these things on my behalf a lot, so I suspect I am pretty close. I suppose my dream set up would involve a bit more physical space. I could spread out with painting, and have a larger desk for writing (i.e. I could throw books around on) and which was also adjustable. And I'd like more storage/shelves etc. But when it comes to computers and devices I'm extremely well set up.
 
 [apple-watch]: https://www.apple.com/watch/ "A smartwatch."
-[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [ibooks-ios]: https://itunes.apple.com/us/app/ibooks/id364709193 "A book reader for iOS."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [paprika-ios]: https://itunes.apple.com/us/app/paprika-recipe-manager-3/id1303222868 "A recipe manager app."

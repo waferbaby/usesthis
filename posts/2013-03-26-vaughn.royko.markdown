@@ -30,15 +30,15 @@ My dream setup would involve a very long desk where I would have a large array m
 
 Also, I need one of those stand-up, commercial-grade coffee makers beside me - Starbucks branded preferred. Actually, scratch all that, just the coffee maker will be good.
 
-[compaq-6535b]: http://www.lapspecs.com/detail/HP-Compaq+6535b "A 14.1 inch PC laptop."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[compaq-6535b]: http://www.lapspecs.com/detail/HP-Compaq+6535b "A 14.1 inch PC laptop."
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [git]: https://git-scm.com/ "A version control system."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [jing]: https://www.techsmith.com/jing.html "An image sharing and annotation tool"
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

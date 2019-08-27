@@ -31,13 +31,13 @@ This doesn't really fit into either the "software" or the "hardware" category, b
 
 Well, like I said, I hope to own and use this MacBook Air for the rest of my life. Planned obsolescence and more-and-more aggressive uses of [JavaScript][] in the browser are conspiring against this outcome, but that's the dream. I was reading "[Where Vim Came From](https://twobithistory.org/2018/08/05/where-vim-came-from.html "An article about the history of Vim.")" the other day, which points out that Vim and its predecessors have a history going back half a century (!). I've been using some form vi or Vim for almost twenty years myself, and I still feel like every day I'm increasing my mastery of it, learning something I hadn't known before. I'm not saying I want to shy away from anything "new," but I've lost so much time to fads, especially in the years when I worked as a start-up software engineer. So lately when I'm making decisions about what tools I want to adopt, or what tools I want to teach to my students, one of the most important criteria is: will this still work in five, ten, twenty years? Is this the kind of thing that will richly reward the time you invest in mastering it?
 
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[nanokontrol]: https://www.amazon.com/Korg-nanoKONTROL-USB-Controller-Black/dp/B001J8LJWK "A USB MIDI controller."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jupyter]: https://jupyter.org/ "Web-based live document software."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[nanokontrol]: https://www.amazon.com/Korg-nanoKONTROL-USB-Controller-Black/dp/B001J8LJWK "A USB MIDI controller."
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
 [pico-8]: https://www.lexaloffle.com/pico-8.php "A software gaming console."
 [selfcontrol]: https://selfcontrolapp.com/ "Mac software to keep you away from distracting websites."

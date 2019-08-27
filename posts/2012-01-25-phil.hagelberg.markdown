@@ -39,7 +39,6 @@ In the bigger picture, I'm currently using [Debian][] Squeeze after having been 
 
 In terms of hardware, I think I've got it barring things like head-mounted displays, direct-neural interfaces, and infinite battery life. My main complaint is aspect ratio; I really miss the extra vertical space of the old 4:3 models, and I find the trend towards 16:9 depressing. I would like a fully-functional web browser inside Emacs, but the biggest pain point in the software I use now is definitely Skype. It's alleviated by the UI I mentioned above, but I would love to have an interoperable free software VoIP application with a UI in a dynamic, repl-accessible language. And while we're at it I'd like an office in a turret with a panoramic view.
 
-[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [clojure]: https://en.wikipedia.org/wiki/Clojure "A dynamic programming language using the Java Virtual Machine."
 [conkeror]: http://conkeror.org/ "A keyboard-driven web browser."
 [debian]: https://www.debian.org/ "A Linux distribution."
@@ -61,6 +60,7 @@ In terms of hardware, I think I've got it barring things like head-mounted displ
 [relax.el]: https://github.com/technomancy/relax.el "An Emacs interface for CouchDB."
 [scpaste]: https://github.com/technomancy/scpaste "An Emacs interface for pasting text over SSH."
 [swank-clojure]: https://github.com/technomancy/swank-clojure/ "A server for connecting SLIME to Clojure projects."
+[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [xbindkeys]: http://www.nongnu.org/xbindkeys/xbindkeys.html "A keyboard/mouse launcher tool for X11."
 [xmonad]: https://xmonad.org/ "A tiling window manager for X11."
 [znc]: https://wiki.znc.in/ZNC "An IRC bouncer."

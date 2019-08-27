@@ -67,9 +67,6 @@ A computer that actually worked, and worked correctly most of the time. I've bee
 
 Given that can probably never exist, a more realistic dream is a machine that has 100% free hardware and software that works well. The Lemote just doesn't have enough power to actually be useful.
 
-[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
 [arch-linux]: https://www.archlinux.org/ "A Linux distro."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [crunchbang]: https://www.bunsenlabs.org/ "A Linux distro."
@@ -82,13 +79,16 @@ Given that can probably never exist, a more realistic dream is a machine that ha
 [github]: https://github.com/ "A Git code repository service."
 [gnupg]: https://www.gnupg.org/ "Encryption and signing software."
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
+[iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [openbox]: http://openbox.org/wiki/Main_Page "A window manager for *nix."
 [pidgin]: http://www.pidgin.im/ "An open-source multi-protocol chat client."
 [rabbit]: http://rabbit-shocker.org/en/ "Ruby-based presentation software."
 [rerave-ios]: https://itunes.apple.com/us/app/rerave/id417137196 "A reaction game."
 [reveal.js]: https://lab.hakim.se/reveal-js/ "An HTML-based presentation tool."
+[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."

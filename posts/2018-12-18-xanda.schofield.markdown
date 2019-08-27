@@ -45,9 +45,6 @@ I use lots of special-purpose programs for my research, but these are the big pl
 
 Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lecture/fun, Linux desktop for serious work sessions. On my desk, I have one normal monitor set up in "portrait" alignment that I use to read documents and write code, and one reeeeally wide monitor so I can put windows next to each other. I have a cheap ergonomic keyboard (a [Microsoft Sculpt][sculpt-ergonomic-keyboard] - seriously, I didn't mean to be this much of a Microsoft fan, but here we are) on a keyboard tray. No standing desk for me. I guess the only things I could ask for are more memory and more SSDs. I can always use more space.
 
-[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
-[surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
 [adblock-plus]: https://adblockplus.org/ "Browser extensions for blocking ad content."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
@@ -61,13 +58,16 @@ Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lect
 [java]: https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [latex]: https://www.latex-project.org/ "Typesetting software."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [marinara]: https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef "A Pomodoro timer for Chrome."
 [onenote]: https://www.onenote.com/ "Synced notes software (part of Office)."
 [overleaf]: https://www.overleaf.com/ "A web-based LaTeX editor."
 [python]: https://www.python.org/ "An interpreted scripting language."
+[sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
 [sharelatex]: https://www.sharelatex.com/ "A web-based collaborative LaTeX editor."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
+[surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

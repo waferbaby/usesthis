@@ -44,12 +44,6 @@ On my iPhone, I use [TweetBot][tweetbot-ios], and mute posts from Foursquare and
 
 I'm pretty happy with what I have, though I'm looking forward to eventually trading in the MacBook Pro for a 13" Air. I love that each new machine I get is smaller and lighter than the last. I used to think I needed a huge monitor, but now that so much of my work is writing and editing, that's no longer the case. I'd rather have devices that are smaller, more focused, and more comfortably portable.
 
-[ipad]: https://www.apple.com/ipad/ "A tablet device."
-[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
-[messenger-no-1]: https://www.moopshop.com/products/messenger-no-1-in-waxed-canvas "A bag."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [backpack]: https://en.wikipedia.org/wiki/37_signals#Backpack "An intra-company web service for sharing calendars, documents and files."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -62,8 +56,14 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
+[messenger-no-1]: https://www.moopshop.com/products/messenger-no-1-in-waxed-canvas "A bag."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -50,17 +50,17 @@ For procrastination purposes, because let's be real that's where we all come up 
 
 My dream set up would be to have my own open air loft style office with giant windows and a big space to shoot demos, interviews, and stop motion animations. If I'm really dreaming big it'd have an [expensive espresso machine][gs3] and a library filled with every book about music ever published. Ideally it'd be $7 in rent a month.
 
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-c100]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/cinema-eos/eos-c100 "A digital video camera."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gs3]: https://home.lamarzoccousa.com/gs3/ "An espresso machine."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [lumix-dmc-gh4]: https://www.amazon.com/Panasonic-DMC-GH4KBODY-16-05MP-Mirrorless-Cinematic/dp/B00I9GYG8O "A 16.05 megapixel digital camera."
 [mdr-1000x]: https://www.sony.com/electronics/headband-headphones/mdr-1000x "Wireless noise-cancelling headphones."
-[op-1]: https://www.teenageengineering.com/products/op-1 "A unique synthesizer."
-[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [milanote]: https://www.milanote.com/ "A web service for planning creative projects."
+[op-1]: https://www.teenageengineering.com/products/op-1 "A unique synthesizer."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

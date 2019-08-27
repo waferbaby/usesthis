@@ -31,10 +31,8 @@ Now's the part where I scream and cry and gnash my teeth about the demise of [Go
 
 Right now I use my mantle as a standing desk. So, maybe a real standing desk with an external monitor? And the old, social Google Reader. I really, really want that back.
 
-[echo]: http://www.livescribe.com/en-us/smartpen/echo/ "A smartpen."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[plattan]: https://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[echo]: http://www.livescribe.com/en-us/smartpen/echo/ "A smartpen."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [expensify]: https://www.expensify.com/ "An expense report service."
 [feedly]: https://feedly.com/ "A feed reader."
@@ -47,7 +45,9 @@ Right now I use my mantle as a standing desk. So, maybe a real standing desk wit
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [longform-ios]: https://longform.org/app/ "A clever magazine app."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
+[plattan]: https://www.urbanears.com/headphones/plattan/plattan-black/ "Colourful over-the-ear headphones."
 [pocket-ios]: https://getpocket.com/ios/ "An app for the read-it-later service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [snapchat-ios]: https://itunes.apple.com/us/app/snapchat/id447188370 "An image chatting app."

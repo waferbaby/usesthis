@@ -37,11 +37,6 @@ On the iPhone, I'm using [PCalc][pcalc-ios] again too, as well as [Twitkitteh][t
 
 Aside from the stuck pixel and the bits of plastic falling off my MacBook, I think I'm pretty close. The Mac Pro is really stupidly fast, and Xcode will use up all eight of the cores. I confidently predict humans will never ever need a faster computer.
 
-[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
-[ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
-[l245wp]: https://www.amazon.co.uk/LG-L245WP-Widescreen-Monitor-S-Video/dp/B000LXVL5Y "An LCD screen."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [dragthing]: https://dragthing.com/ "A popular dock application for the Mac."
@@ -49,7 +44,12 @@ Aside from the stuck pixel and the bits of plastic falling off my MacBook, I thi
 [fieldrunners-ios]: https://itunes.apple.com/us/app/fieldrunners/id292421271 "A very popular tower defense-style game for the iPhone."
 [filemaker-pro]: https://www.filemaker.com/products/filemaker-pro/ "A database application."
 [interarchy]: https://nolobe.com/interarchy/ "A FTP/SFTP client for the Mac."
+[iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
+[ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
+[l245wp]: https://www.amazon.co.uk/LG-L245WP-Widescreen-Monitor-S-Video/dp/B000LXVL5Y "An LCD screen."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [pcalc-ios]: https://pcalc.com/iphone/ "A scientific calculator for the iPhone."
 [pcalc]: https://pcalc.com/ "A scientific calculator for the Mac."

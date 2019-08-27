@@ -60,11 +60,8 @@ Here's a free startup idea (and I'm dead serious about this): a company that aut
 
 Speaking of that, the stuff I work on is myself pretty hard to fund. You can support me [on Patreon](https://www.patreon.com/cwebber "Christopher's Patreon page.") or [by donating to MediaGoblin through the FSF](https://my.fsf.org/civicrm/contribute/transact?reset=1&id=36 "The FSF donation page for MediaGoblin.") or by hiring me as a contractor for some free software project... I'm [easy to contact](https://dustycloud.org/contact/ "Christoper's contact page.")!
 
-[advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
-[savant-elite2]: https://www.kinesis-ergo.com/shop/savant-elite2-triple-pedal/ "A computer foot medal."
-[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
-[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [8sync]: https://www.gnu.org/software/8sync/ "An asynchronous library for the Guile language."
+[advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [diaspora]: https://joindiaspora.com/ "A distributed social network."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
@@ -90,10 +87,13 @@ Speaking of that, the stuff I work on is myself pretty hard to fund. You can sup
 [prosody]: http://prosody.im/ "XMPP server software."
 [pump.io]: http://pump.io/ "A social network server."
 [python]: https://www.python.org/ "An interpreted scripting language."
+[savant-elite2]: https://www.kinesis-ergo.com/shop/savant-elite2-triple-pedal/ "A computer foot medal."
 [scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
 [statusnet]: http://www.gnu.org/software/social/merge.html "A free, open-source micro-blogging software platform."
 [stumpwm]: https://stumpwm.github.io/ "A window manager for X."
+[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
+[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [virtualenv]: https://pypi.python.org/pypi/virtualenv "A tool for building self-contained Python environments."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

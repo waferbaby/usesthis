@@ -42,11 +42,6 @@ A foldable, paper-light, high-res second screen that I could travel with, and ma
 
 I'd also love it if Apple would stop removing useful ports from the Macbooks - having to lug around a bunch of peripherals and adaptors pretty much negates the benefit of having an extremely lightweight machine.
 
-[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
-[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [airmail]: http://airmailapp.com/ "A mail client for the Mac."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
@@ -56,10 +51,15 @@ I'd also love it if Apple would stop removing useful ports from the Macbooks - h
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

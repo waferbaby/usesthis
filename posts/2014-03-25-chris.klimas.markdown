@@ -36,9 +36,6 @@ The practical answer would be either a magical version of OS X that could run Wi
 
 More ambitiously, I'd love to replace my paper notebooks with a magical e-ink device. I don't need character recognition or anything like that; I just want something I can write and sketch on and have the result saved digitally. You can do this more or less on a tablet, but it fails the beach test for me on two counts: backlit screens don't do well outdoors, obviously, and I also want something that I don't feel like I have to baby in the great wide world. Paper, on the other hand, is an invisible technology.
 
-[ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
-[ipad]: https://www.apple.com/ipad/ "A tablet device."
-[iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
 [camp-keepalive]: http://twofoldsecret.com/campkeepalive/ "A turn-based camp horror video game."
@@ -47,6 +44,9 @@ More ambitiously, I'd love to replace my paper notebooks with a magical e-ink de
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
+[ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mercurial]: https://www.mercurial-scm.org/ "A version control system."

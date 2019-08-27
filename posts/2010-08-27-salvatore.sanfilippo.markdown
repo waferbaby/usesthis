@@ -49,9 +49,6 @@ I wish browsers had a better way to handle bookmarks, much more similar to delic
 
 I would love the ability to transfer all the context of a computer I'm using into another computer in a matter of seconds. Time Machine makes this feasible on hardware upgrades, but we are nowhere near to an experience where switching device will lead to the same environment, applications, user data. Computers should be just like "white" devices where you load your environment. Web apps are fixing this in some way but at the cost of more latency.
 
-[iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[precision-t3500]: https://www.dell.com/us/business/p/precision-t3500/pd "A tower desktop PC."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."
@@ -62,7 +59,10 @@ I would love the ability to transfer all the context of a computer I'm using int
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [hping]: https://en.wikipedia.org/wiki/Hping "A command-line packet analyser."
+[iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[precision-t3500]: https://www.dell.com/us/business/p/precision-t3500/pd "A tower desktop PC."
 [redis]: https://redis.io/ "A key-value data store and more."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."

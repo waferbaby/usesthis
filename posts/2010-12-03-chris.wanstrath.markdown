@@ -48,10 +48,6 @@ Oh, and I play a lot of [Carcassonne][carcassonne-ios].
 
 Thought-controlled software and a wireless internet connection in my brain, integrated right into my field of vision. I think I would give up my mouse for that.
 
-[ipad]: https://www.apple.com/ipad/ "A tablet device."
-[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mx-518]: https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [aquamacs]: http://aquamacs.org/ "A Mac OS X native version of Emacs."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."
@@ -63,10 +59,14 @@ Thought-controlled software and a wireless internet connection in my brain, inte
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [kindle-mac]: https://itunes.apple.com/gb/app/kindle/id405399194 "An app for reading and syncing Kindle books."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [magit]: https://github.com/magit/magit "A git mode for Emacs."
+[mx-518]: https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
 [pastebot-ios]: https://www.macworld.com/product/358634/pastebot-command-copy-paste.html "A clipboard manager for the iPhone."
 [photo-booth]: https://en.wikipedia.org/wiki/Photo_Booth "Software to take photos using the built-in camera of recent Macs."
 [propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."

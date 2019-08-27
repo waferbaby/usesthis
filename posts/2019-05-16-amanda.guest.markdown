@@ -38,12 +38,8 @@ The dream would be to have studios that were actually soundproofed (we're in an 
 
 Also, in all my working life I've never had an actual office of my own, so the big dream is having a door I can shut.
 
-[ddj-wego4]: https://www.pioneerdj.com/en/product/controller/ddj-wego4/white/overview/ "A DJ controller."
-[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
-[iq]: https://www.telosalliance.com/Axia/iQ "A radio console system."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[qor.32]: https://www.telosalliance.com/Axia/QOR32 "A console engine for the iQ mixing console."
 [creek]: https://creek.fm/ "An online radio platform."
+[ddj-wego4]: https://www.pioneerdj.com/en/product/controller/ddj-wego4/white/overview/ "A DJ controller."
 [djay-pro]: https://www.algoriddim.com/djay-pro-mac "DJ software for the Mac."
 [empirestreaming]: https://empirestreaming.com/ "An audio CDN."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
@@ -52,4 +48,8 @@ Also, in all my working life I've never had an actual office of my own, so the b
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [google-groups]: https://groups.google.com "A group forum service."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
+[iq]: https://www.telosalliance.com/Axia/iQ "A radio console system."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[qor.32]: https://www.telosalliance.com/Axia/QOR32 "A console engine for the iQ mixing console."
 [slack]: https://slack.com/ "A collaboration service."

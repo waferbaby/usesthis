@@ -31,6 +31,6 @@ For my traditional media work, someday I'd like a studio with a high ceiling and
 [intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
-[precision-tower-5810]: https://www.dell.com/ag/business/p/precision-t5810-workstation/pd "A desktop PC."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[precision-tower-5810]: https://www.dell.com/ag/business/p/precision-t5810-workstation/pd "A desktop PC."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."

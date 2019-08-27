@@ -32,10 +32,10 @@ And these instruments ought to be accessible to children as well. Look at the pi
 
 I have some other far-fetched ideas about guilds and collectives but it's all a jittery blur. Maybe the [coffee was a bad idea](http://theoatmeal.com/comics/coffee "The Oatmeal comic about coffee.").
 
-[ipad]: https://www.apple.com/ipad/ "A tablet device."
 [applesoft-basic]: https://en.wikipedia.org/wiki/Applesoft_BASIC "A version of BASIC included with Apple II computers."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
+[ipad]: https://www.apple.com/ipad/ "A tablet device."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
 [mavis-beacon]: https://www.broderbund.com/c-33-mavis-beacon.aspx "Popular typing tutoring software."

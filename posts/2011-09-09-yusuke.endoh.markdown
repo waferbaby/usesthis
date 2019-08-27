@@ -63,9 +63,6 @@ Maybe unlike many other programmers, I absolutely hate configuration. "It is pos
 
 A world where everyone enjoys programming.
 
-[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
-[thinkpad-x24]: http://www.thinkwiki.org/wiki/Category:X24 "A 12.1 inch PC laptop."
-[thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -82,4 +79,7 @@ A world where everyone enjoys programming.
 [ocaml]: http://caml.inria.fr/ocaml/index.en.html "An object-oriented version of the Caml programming language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [scala]: https://www.scala-lang.org/ "A compiled programming language."
+[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
+[thinkpad-x24]: http://www.thinkwiki.org/wiki/Category:X24 "A 12.1 inch PC laptop."
+[thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
 [vim]: https://www.vim.org/ "A command-line text editor."

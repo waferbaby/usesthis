@@ -32,14 +32,14 @@ For social media, I'm pretty active on [Twitter](https://twitter.com/janesolomon
 
 Rose gold MacBook Pro.
 
-[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
-[verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."
 [glitch.3]: https://glitch.com/ "A web-based IDE."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."
+[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
+[verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."

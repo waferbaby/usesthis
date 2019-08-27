@@ -29,11 +29,6 @@ I use [Google Suite][g-suite], [Google Keep][google-keep], [Microsoft Word][word
 
 I pretty much have my dream set up but if I were to get really outrageous with my dreams, I would spend less time staring at screens and simply have an ocular implant and be able to think my thoughts into the cloud and write and do research and waste time that way. At the very least, I want to be able to project things from my laptop onto the wall so I can see what emojis I am working with. They are so fucking tiny on the phone. I feel we're fewer than 33 years away from this technological nirvana. Fingers crossed.
 
-[echo.3]: https://en.wikipedia.org/wiki/Amazon_Echo "A smart speaker."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [alaska-airlines-ios]: https://itunes.apple.com/us/app/alaska-airlines/id356143077 "An app for the airline service."
 [american-airlines-ios]: https://itunes.apple.com/us/app/american-airlines/id382698565 "An app for the airline service."
 [candy-crush-saga-ios]: https://itunes.apple.com/us/app/candy-crush-saga/id553834731 "A match-3 game."
@@ -41,11 +36,16 @@ I pretty much have my dream set up but if I were to get really outrageous with m
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox-ios]: https://www.dropbox.com/iphoneapp "An iOS version of the syncing software."
+[echo.3]: https://en.wikipedia.org/wiki/Amazon_Echo "A smart speaker."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [fly-delta-ios]: https://itunes.apple.com/us/app/fly-delta/id388491656 "An app for the airline service."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [kayak-ios]: https://itunes.apple.com/us/app/kayak/id305204535 "A client for the flight and hotel booking service."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [pokemon-go-ios]: https://itunes.apple.com/us/app/Pokémon-go/id1094591345 "An AR game about catching monsters in small balls."
 [scrabble-ios]: https://itunes.apple.com/us/app/scrabble/id501724085 "A word tile game."
 [snapchat-ios]: https://itunes.apple.com/us/app/snapchat/id447188370 "An image chatting app."

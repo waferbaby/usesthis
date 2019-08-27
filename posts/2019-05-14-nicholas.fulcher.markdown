@@ -23,14 +23,14 @@ Adobe [Photoshop][], Adobe [Illustrator][], Adobe [InDesign][], Adobe [After Eff
 My dream setup would be everything I have now, but in a big big well lit studio!
 
 [ae-1]: https://en.wikipedia.org/wiki/Canon_AE-1 "A 35mm film camera."
-[expression-10000xl]: https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [capture-ios]: https://itunes.apple.com/us/app/adobe-capture/id1040200189 "A vector image app."
+[expression-10000xl]: https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
 [illustrator-draw-ios]: https://itunes.apple.com/au/app/adobe-illustrator-draw-scalable/id911156590 "A vector drawing app."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [peptalk-ios]: https://itunes.apple.com/us/app/peptalk-motivation/id976885594 "A motivation app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

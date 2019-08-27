@@ -52,11 +52,6 @@ I need [Pages][pages-ios] and Adverts for work; [TimeScroller][timescroller-ios]
 
 My dream setup would be Dropbox for everything, but with all the shit on my various hard drives organised perfectly. A new laptop with an audio jack and a new laptop with USB ports. (HI APPLE R U LISTENING???) I am resistant to change but always adapt to it eventually. So honestly my "dream setup" doesn't exist but I could probably make it happen with what I have now if I just reclaimed maybe 8-14 full days and sat in a cool room with a steady supply of Coke Zero to properly categorise every single digital file I've ever stored somewhere in the depths of this machine.
 
-[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
-[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
-[ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[powershot-g7-x]: https://en.wikipedia.org/wiki/Canon_PowerShot_G7_X "A 20 megapixel digital camera."
 [1-second-everyday-ios]: https://itunes.apple.com/us/app/1-second-everyday/id587823548 "An app for capturing a second of video every day."
 [airtable]: https://airtable.com/ "A service for organising data."
 [blossom-blast-saga-ios]: https://itunes.apple.com/us/app/blossom-blast-saga/id973482525 "A flower-based matching game."
@@ -81,9 +76,13 @@ My dream setup would be Dropbox for everything, but with all the shit on my vari
 [imgplay-ios]: https://itunes.apple.com/us/app/imgplay-gif-maker/id989843523?mt=8 "An app for creating GIFs from videos."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
+[iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
+[ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [karaoke-k-box-ios]: https://itunes.apple.com/US/app/id954162699 "A karaoke app."
 [later-ios]: https://itunes.apple.com/us/app/later/id784907999 "An app for scheduling Instagram posts."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [pages-ios]: https://itunes.apple.com/us/app/pages/id361309726 "A word processor for iOS."
@@ -91,6 +90,7 @@ My dream setup would be Dropbox for everything, but with all the shit on my vari
 [pocket-ios]: https://getpocket.com/ios/ "An app for the read-it-later service."
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."
 [podcasts-ios]: https://itunes.apple.com/us/app/podcasts/id525463029 "An app for listening to podcasts."
+[powershot-g7-x]: https://en.wikipedia.org/wiki/Canon_PowerShot_G7_X "A 20 megapixel digital camera."
 [raya-ios]: https://itunes.apple.com/us/app/raya/id957215308 "An app for the dating and networking service."
 [skedsocial]: https://skedsocial.com/ "A service for scheduling Instagram posts."
 [slack]: https://slack.com/ "A collaboration service."

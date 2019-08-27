@@ -31,12 +31,6 @@ I use Diigo and Evernote as the big end of the funnel to save links, snippets, a
 
 I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upgrade my QuadCore. I'd like to afford to have 3G on my iPad. More bandwidth is always good! Other than that, this IS my dream setup. Maybe a Wacom tablet for art stuff.
 
-[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
-[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[powerbook-duo]: https://en.wikipedia.org/wiki/PowerBook_Duo "An old line of Mac laptops."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [camtasia]: https://www.techsmith.com/camtasia.html "Screencasting software."
 [devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
@@ -45,8 +39,14 @@ I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upg
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [graphicconverter]: https://www.lemkesoft.de/en/products/graphicconverter/ "A Swiss Army Knife graphics tool for the Mac."
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [personalbrain]: https://www.softwarecasa.com/personalbrain.html "Mind mapping software."
+[powerbook-duo]: https://en.wikipedia.org/wiki/PowerBook_Duo "An old line of Mac laptops."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."

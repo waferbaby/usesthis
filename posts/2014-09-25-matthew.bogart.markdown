@@ -42,12 +42,10 @@ That's one of the best parts about comics as a medium. Anybody can make them usi
 
 Part of the job I ask my gadgets to do is to be like Tom Sawyer. I want them to trick me into thinking that whitewashing the fence is fun. I want them to trick me into *doing the work*. That's fine. Whatever works.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[ipad-mini-2]: https://en.wikipedia.org/wiki/IPad_Mini_(2nd_generation) "A 7.9 inch tablet device with a Retina screen."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [comic-zeal-ios]: http://www.bitolithic.com/comic-zeal "A comic book reader app."
 [comixology-submit]: https://submit.comixology.com/ "An online tool for publishing comics on the ComiXology service."
 [comixology]: https://www.comixology.com. "A digital comic service."
@@ -56,6 +54,8 @@ Part of the job I ask my gadgets to do is to be like Tom Sawyer. I want them to 
 [gumroad]: https://gumroad.com/ "A site for selling goods and services."
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[ipad-mini-2]: https://en.wikipedia.org/wiki/IPad_Mini_(2nd_generation) "A 7.9 inch tablet device with a Retina screen."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [manga-studio-ex]: https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [manga-studio]: https://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."

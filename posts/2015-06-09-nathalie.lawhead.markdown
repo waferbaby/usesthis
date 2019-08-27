@@ -61,7 +61,6 @@ Now that I'm thinking about it, it would be great if someone just came along and
 
 Although, what I have now is pretty good too. :)
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [actionscript]: https://en.wikipedia.org/wiki/ActionScript "An object-oriented programming language."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [air.2]: https://www.adobe.com/products/air.html "A development runtime."
@@ -69,6 +68,7 @@ Although, what I have now is pretty good too. :)
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [fl-studio]: https://www.image-line.com/flstudio/ "An audio editor for Windows."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [mysql]: https://www.mysql.com/ "A relational database server."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

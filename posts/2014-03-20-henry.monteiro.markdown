@@ -30,14 +30,14 @@ All my music is digitized and stored in [iTunes][] for easy access. I currently 
 
 I'm doing pretty good with what I have right now. Maybe some better equipment to record music, and eventually a bigger music hard drive if I need it.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[maschine]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine/ "A tactile sequencer and sampler."
-[squier]: https://www.fender.com/squier/ "An electric guitar."
-[stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
-[yeti]: http://bluemic.com/yeti/ "A USB microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [mainstage]: https://www.apple.com/mainstage/ "Mac software for live music playing."
+[maschine]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine/ "A tactile sequencer and sampler."
 [rateyourmusic.com]: https://rateyourmusic.com/ "A service for rating your music."
+[squier]: https://www.fender.com/squier/ "An electric guitar."
+[stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
 [textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
+[yeti]: http://bluemic.com/yeti/ "A USB microphone."

@@ -25,8 +25,6 @@ For browsing, I'm mostly on [Firefox][] or [Chrome][], for documents and spreads
 
 My dream setup would be truck or a maybe a blimp, boat or a mobile shipping container that moves with me from place to place for projects. Basically a combination of office, makerspace, game design studio, repository of weird equipment for games, library, cooking, café and meeting area. There should be detachable or foldable architectural elements that you can use to transform the space around wherever this thing lands.
 
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[zi8]: https://en.wikipedia.org/wiki/Kodak_Zi8 "A video/photo camera."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [aws]: https://aws.amazon.com/ "Amazon's web service platforms."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -34,8 +32,10 @@ My dream setup would be truck or a maybe a blimp, boat or a mobile shipping cont
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [meteor]: https://www.meteor.com/ "A JavaScript framework/platform."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
+[zi8]: https://en.wikipedia.org/wiki/Kodak_Zi8 "A video/photo camera."

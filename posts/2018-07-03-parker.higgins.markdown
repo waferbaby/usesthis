@@ -46,19 +46,19 @@ When I'm [writing code](https://github.com/thisisparker/ "Parker's GitHub accoun
 
 Honestly I feel like I'm close! I'd maybe get a nicer keyboard and I could always get a new camera lens, but I personally feel like I'm past the point where hardware or software is holding me back. What I need is a library full of reference books so I can learn everything that's already available to me.
 
-[iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
-[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[om-d-e-m1-mark-ii]: https://www.getolympus.com/us/en/e-m1-mark-ii.html "A 20 megapixel mirrorless camera."
-[thinkpad-t460s]: https://www3.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T460s/p/22TP2TT460S "A 14 inch PC laptop."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [gedit]: https://wiki.gnome.org/Apps/Gedit "A text editor for GNOME."
 [gotham-grabber]: https://github.com/freedomofpress/gotham-grabber "A set of archiving scripts for generating PDF files of particular websites."
+[iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
+[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."
+[om-d-e-m1-mark-ii]: https://www.getolympus.com/us/en/e-m1-mark-ii.html "A 20 megapixel mirrorless camera."
 [puppeteer]: https://github.com/GoogleChrome/puppeteer "A Node library for automating Chrome."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [s3]: https://aws.amazon.com/s3/ "Cloud-based Internet storage magic."
+[thinkpad-t460s]: https://www3.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T460s/p/22TP2TT460S "A 14 inch PC laptop."
 [tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."

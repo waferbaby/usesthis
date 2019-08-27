@@ -35,10 +35,6 @@ Everything I write, whether text or code, is versioned in wonderful, wonderful [
 
 I'm pretty happy with my setup. Of course one always needs more RAM, a faster hard drive, a sharper monitor, and so on, but that goes on forever. However, if I could change one thing, I long for much faster broadband. The state of home Internet connectivity in this country (USA) is shameful.
 
-[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
-[mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
-[napolitana]: http://www.pavonishop.com/lapavnap.html "A coffee machine."
-[zr24w]: https://www.amazon.com/HP-ZR24w-24-inch-S-IPS-Monitor/dp/B003D1ADUU "A 24 inch LCD screen."
 [asciidoc-textmate]: https://github.com/zuckschwerdt/asciidoc.tmbundle "A TextMate bundle for working with AsciiDoc."
 [asciidoc]: http://www.methods.co.nz/asciidoc/ "A text file format and software that's easily translated to other formats."
 [docbook]: https://docbook.org/ "A schema suited to writing books."
@@ -46,6 +42,9 @@ I'm pretty happy with my setup. Of course one always needs more RAM, a faster ha
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [graphicconverter]: https://www.lemkesoft.de/en/products/graphicconverter/ "A Swiss Army Knife graphics tool for the Mac."
+[ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
+[mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
+[napolitana]: http://www.pavonishop.com/lapavnap.html "A coffee machine."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [rubyfrontier]: http://www.apeth.com/RubyFrontierDocs/default.html "A static site generator."
@@ -54,3 +53,4 @@ I'm pretty happy with my setup. Of course one always needs more RAM, a faster ha
 [snapz-pro-x]: https://www.ambrosiasw.com/utilities/snapzprox/ "A screenshot and screencast tool for Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
+[zr24w]: https://www.amazon.com/HP-ZR24w-24-inch-S-IPS-Monitor/dp/B003D1ADUU "A 24 inch LCD screen."

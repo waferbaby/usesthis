@@ -31,9 +31,9 @@ I use [Instagram](https://www.instagram.com/resting_book_face/ "Lisa's Instagram
 I think I'm living it right now. I'm lucky to have access to the equipment that NBSS has. If I were to set up my own shop from scratch, I'd need many thousands of dollars to get my hands on the stuff I get to use every day. Besides, I still have a lot to learn - my dream setup may change by the time graduation day rolls around.
 
 [felsted-skiver]: https://www.felstedskiver.com/ "A leather paring machine."
+[g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [model-86]: http://www.ernestschaeferinc.com/catalog_i6506200.html?catId=276672 "A hot stamper."
 [model-s-2]: http://www.ernestschaeferinc.com/catalog_i6506201.html?catId=269247 "A hot stamper."
 [pixel-2]: https://en.wikipedia.org/wiki/Pixel_2 "A 5 inch Android smartphone."
-[thinkpad-yoga-730]: https://www.lenovo.com/us/en/laptops/yoga/700-series/Yoga-730-15/p/88YG7000965 "A 15.6 inch 2-in-1 PC laptop."
-[g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
+[thinkpad-yoga-730]: https://www.lenovo.com/us/en/laptops/yoga/700-series/Yoga-730-15/p/88YG7000965 "A 15.6 inch 2-in-1 PC laptop."

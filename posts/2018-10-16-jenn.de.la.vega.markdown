@@ -38,16 +38,16 @@ I lost my Adobe license when I left my desk job but [Canva][] is a good, free al
 
 The dream is a kitchen studio with cameras in the fridge; really good track lighting, photography surfaces (I am really obsessed with Surface Archive). Outside I want a smoker, grill, automated spit rotisserie, and enough land to bury a pig. I need a legit camera and a [MacBook Pro][macbook-pro] to do more video!
 
-[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[precision-cooker]: https://anovaculinary.com/anova-precision-cooker/ "A sous vide circulator."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
 [canva]: https://www.canva.com/ "Web-based design software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
+[iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[precision-cooker]: https://anovaculinary.com/anova-precision-cooker/ "A sous vide circulator."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [timepage-ios]: https://itunes.apple.com/app/apple-store/id989178902 "A calendar app."
 [todoist-ios]: https://itunes.apple.com/us/app/todoist-organize-your-life/id572688855 "An app for the todo service."

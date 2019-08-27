@@ -29,11 +29,11 @@ Reading, Writing and Listening: [Pocket][], [Overcast][overcast-ios], [Spotify][
 The stillness of NYC at dawn, in a favorite coffee shop with a full mug in front of me, and a blog post half-written. This occurs once or twice a year. Bliss!
 
 [airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
+[bear]: http://www.bear-writer.com "A note taking application for macOS."
+[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[bear]: http://www.bear-writer.com "A note taking application for macOS."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [nota-bene]: https://www.notabene.com/ "Academic research and writing software."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."

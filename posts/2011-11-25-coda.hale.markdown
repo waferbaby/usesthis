@@ -39,9 +39,6 @@ Rounding it all out is [LaunchBar][], which I couldn't live without, [Divvy][], 
 
 My dream setup is any arrangement which removes an entity without sacrificing functionality. I'm a one-pair-of-shoes sort of person, so whenever a distinct tool gets merged into the background (iOS cloud syncing, for example, or Time Machine) it makes me happy. That frees up cognitive room for more interesting things.
 
-[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [ack]: https://beyondgrep.com/ "A command-line tool for searching text."
 [appzapper]: https://appzapper.com/ "Software for uninstalling applications on the Mac."
@@ -59,11 +56,13 @@ My dream setup is any arrangement which removes an entity without sacrificing fu
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
+[iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [java]: https://www.java.com/en/ "A cross-platform compiled programming language."
 [jd-gui]: http://jd.benow.ca/#jd-gui "A developer tool for viewing the source code of Java .class files."
 [jsawk]: https://github.com/micha/jsawk "A version of awk for working with JSON."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [limechat]: http://limechat.net/mac/ "An IRC client for the Mac."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [macports]: https://www.macports.org/ "A collection of *nix software ported to Mac OS X."
 [maven]: http://maven.apache.org/ "Software project management software."
@@ -83,6 +82,7 @@ My dream setup is any arrangement which removes an entity without sacrificing fu
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tig]: http://jonas.nitro.dk/tig/ "A text-mode interface for git."
+[time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [transmission]: https://transmissionbt.com/ "A BitTorrent client."
 [visualvm]: http://visualvm.java.net/ "A Java development troubleshooting tool."
 [wireshark]: https://www.wireshark.org/ "A network protocol analyser."

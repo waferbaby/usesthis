@@ -39,12 +39,10 @@ Given that I've been using a flaky ultrabook for a few years now, my dream setup
 
 Finally, I would like a very nice cat tower for Haku, so he can stop climbing all over my desk while I work and instead gaze upon me like the angel from above that he is.
 
-[chromecast]: https://en.wikipedia.org/wiki/Chromecast "A digital media player for televisions."
-[moto-x]: https://www.motorola.com/us/FLEXR1-1/Moto-X/FLEXR1.html "An Android-based smartphone."
-[zenbook-ux31]: https://www.amazon.com/ASUS-Zenbook-13-Inch-Laptop-VERSION/dp/B009AEYDZA/ "A 13.3 inch PC ultrabook."
 [arch-linux]: https://www.archlinux.org/ "A Linux distro."
 [awesome]: https://awesomewm.org/ "A window manager for X."
 [bitlbee]: https://www.bitlbee.org/main.php/news.r.html "An IM to IRC proxy server."
+[chromecast]: https://en.wikipedia.org/wiki/Chromecast "A digital media player for televisions."
 [chromium]: http://www.chromium.org/ "Open-source builds of the Chrome web browser."
 [google-play-music]: https://play.google.com/music/listen "An online music player."
 [htop]: http://hisham.hm/htop/ "A command-line process viewer."
@@ -52,6 +50,7 @@ Finally, I would like a very nice cat tower for Haku, so he can stop climbing al
 [ipython]: http://ipython.org/ "An interactive shell for Python."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [mopidy]: https://docs.mopidy.com/en/latest/ "A Python-based music server."
+[moto-x]: https://www.motorola.com/us/FLEXR1-1/Moto-X/FLEXR1.html "An Android-based smartphone."
 [ncmpcpp]: https://github.com/arybczak/ncmpcpp "An MPD client."
 [nethack]: https://en.wikipedia.org/wiki/NetHack "An ASCII rogue-like game."
 [pattern]: http://www.clips.ua.ac.be/pages/pattern "A web data mining module for Python."
@@ -62,4 +61,5 @@ Finally, I would like a very nice cat tower for Haku, so he can stop climbing al
 [twitterbot]: https://github.com/thricedotted/twitterbot "A Python library for creating Twitter bots."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
+[zenbook-ux31]: https://www.amazon.com/ASUS-Zenbook-13-Inch-Laptop-VERSION/dp/B009AEYDZA/ "A 13.3 inch PC ultrabook."
 [zsh]: http://www.zsh.org/ "An interactive shell and scripting language."

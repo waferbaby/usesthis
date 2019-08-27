@@ -54,8 +54,6 @@ For software, the one thing I have not been able to find is a good to-do manager
 
 And I would buy a fitness tracker in a minute if there was one that didn't use the cloud for storage.
 
-[iphone-6-plus]: https://en.wikipedia.org/wiki/IPhone_6 "A large smartphone."
-[vaio-pro-13]: https://www.engadget.com/products/sony/vaio/pro/13/ "A 13 inch ultrabook PC."
 [adblock-plus]: https://adblockplus.org/ "Browser extensions for blocking ad content."
 [betterprivacy]: https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/ "A Firefox addon that can remove unwanted cookies."
 [beyond-compare]: http://www.scootersoftware.com/features.php "File and folder comparison and syncing software for Windows."
@@ -68,6 +66,7 @@ And I would buy a fitness tracker in a minute if there was one that didn't use t
 [gateguru-ios]: https://itunes.apple.com/us/app/gateguru-airport-info-flight/id326862399 "A flight status app."
 [gnupg]: https://www.gnupg.org/ "Encryption and signing software."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."
+[iphone-6-plus]: https://en.wikipedia.org/wiki/IPhone_6 "A large smartphone."
 [kayak-ios]: https://itunes.apple.com/us/app/kayak/id305204535 "A client for the flight and hotel booking service."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [lyft-ios]: https://itunes.apple.com/us/app/lyft-taxi-bus-app-alternative/id529379082 "An app for requesting a car ride."
@@ -83,6 +82,7 @@ And I would buy a fitness tracker in a minute if there was one that didn't use t
 [swype-ios]: https://itunes.apple.com/us/app/swype/id916365675 "A custom keyboard app."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [uber-ios]: https://itunes.apple.com/us/app/uber/id368677368 "A premiere taxi booking app for iOS."
+[vaio-pro-13]: https://www.engadget.com/products/sony/vaio/pro/13/ "A 13 inch ultrabook PC."
 [windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
 [word]: https://products.office.com/en-us/word "A document editor."
 [yelp-ios]: https://itunes.apple.com/app/yelp/id284910350?mt=8 "An iPhone app for accessing Yelp reviews."

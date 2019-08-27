@@ -27,9 +27,9 @@ Maps and charts are usually made in a combination of [Illustrator][] and [InDesi
 Have you had that dream where you remember your apartment has had another room all along?
 
 [deluxe-micro]: https://www.amazon.com/uni-ball-Deluxe-Roller-60029PP-2-Pack/dp/B01E0JCKAO/ "A pen."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[vision-elite]: https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[vision-elite]: https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."

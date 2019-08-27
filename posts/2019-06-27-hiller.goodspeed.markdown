@@ -38,9 +38,9 @@ Right now I have my studio in the dining room of my apartment, which is maybe 12
 I'm generally more comfortable in small spaces, though a larger room would be nice, where we could have workstations dedicated to different types of activities. I would have a desk where I sit and work and a desk where all of the computer stuff would be. I'm not great at using space efficiently though, and tend to create piles of stuff everywhere I go. So maybe less space is a good thing for now, until I can get that tendency under control.
 
 [canoscan-lide-200]: https://www.usa.canon.com/internet/portal/us/home/support/details/scanners/support-scanners-canoscan-series/canoscan-lide-200 "A flatbed scanner."
-[premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
-[x-acto]: https://en.wikipedia.org/wiki/X-Acto "A knife."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[x-acto]: https://en.wikipedia.org/wiki/X-Acto "A knife."

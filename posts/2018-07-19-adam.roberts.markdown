@@ -70,9 +70,6 @@ I know everyone is terrified of AI taking over, and I kind of am too, but I'd lo
 
 Or, more realistically: a slightly better version of what I currently have.
 
-[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[tma-2]: https://aiaiai.dk/headphones/tma-2 "Modular headphones."
 [anylist]: https://www.anylist.com/ "A shopping list service."
 [atom]: https://atom.io/ "A text editor based on web technology."
 [aware]: https://itunes.apple.com/us/app/aware/id1082170746 "A Mac app for timing your computer use."
@@ -86,7 +83,9 @@ Or, more realistically: a slightly better version of what I currently have.
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [lastpass]: https://lastpass.com/ "A password manager."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [oak-ios]: https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691 "A meditation app."
@@ -101,6 +100,7 @@ Or, more realistically: a slightly better version of what I currently have.
 [substack]: https://www.substack.com/ "A paid newsletter service."
 [tab-counter]: https://chrome.google.com/webstore/detail/tab-counter/feeoiklfggbaibpdhkkngbpkppdmcjal?hl=en "A Chrome extension that shows how many tabs you have open."
 [the-great-suspender]: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en "A Chrome extension that freezes inactive tabs."
+[tma-2]: https://aiaiai.dk/headphones/tma-2 "Modular headphones."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [vesper-ios]: https://itunes.apple.com/au/app/vesper/id655895325 "A note-taking app."

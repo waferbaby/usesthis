@@ -33,14 +33,14 @@ The basic form of my current setup is pretty good. All of my hardware will event
 
 I wish learning management systems weren't so terrible, but otherwise I'm pretty happy with the software I use. I would like to add [Processing][]/[p5.js][p5js] and Reza Ali's new app [F3][] to my repertoire, but I haven't yet dedicated the time to learning either very well.
 
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [beamer]: https://bitbucket.org/rivanvx/beamer/wiki/Home "A LaTeX class for creating presentations."
 [f3]: http://www.syedrezaali.com/#/f3-mac-app/ "A 3D design app."
 [gifsicle]: https://www.lcdf.org/gifsicle/ "A command-line tool for working with GIFs."
 [goodnotes-ios]: http://www.goodnotesapp.com "A handwritten note-taking app."
+[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
 [latex]: https://www.latex-project.org/ "Typesetting software."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
 [mathjax]: https://www.mathjax.org/ "A Javascript framework for displaying LaTeX/MathML."
 [p5js]: https://p5js.org/ "A Javascript library based on Processing."

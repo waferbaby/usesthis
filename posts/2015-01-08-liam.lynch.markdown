@@ -35,14 +35,14 @@ Another useful set of plugins for After Effects is the [Trapcode collection][tra
 
 I would like to build my own green screen stage. A large green stage with a setup for motion capture and a programmable robotic motion control camera rig. A space where really any kind of visuals and effects could be created. With that, I'd also have a nice editing suite that was soundproofed and had the proper architecture for good sound design and mixing. I do have my own home studio, but it would be nice to have a green stage and my editing and sound mixing all in one space.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [cosmo]: https://www.redgiant.com/products/magic-bullet-cosmo/ "A skin tone and blemish plugin for After Effects."
 [element.2]: https://www.videocopilot.net/products/element2/ "A 3D rendering engine for After Effects."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [magic-bullet-looks]: https://www.redgiant.com/products/magic-bullet-looks/ "A colour and light plugin for After Effects."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [particleillusion]: https://en.wikipedia.org/wiki/ParticleIllusion "Particle-based visual effects rendering software."

@@ -44,17 +44,17 @@ It's never fast enough until it's instant. So I'll take more speed any day. I'd 
 
 I'd also wish that these latest Apple devices wouldn't require me to ask permission to develop for them. That feels like a huge step back when you're used to the openness of the web. It's so liberating to be able to develop whatever the hell you want and put it out there without being subject to any scrutiny but that of the purchasing public. That's one of the big reasons I haven't bothered looking into iPhone/iPad development myself.
 
+[backpack]: https://en.wikipedia.org/wiki/37_signals#Backpack "An intra-company web service for sharing calendars, documents and files."
+[basecamp]: https://basecamp.com/ "Web-based project management."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[highrise]: https://highrisehq.com/ "A web service for managing business contacts."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
-[backpack]: https://en.wikipedia.org/wiki/37_signals#Backpack "An intra-company web service for sharing calendars, documents and files."
-[basecamp]: https://basecamp.com/ "Web-based project management."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[highrise]: https://highrisehq.com/ "A web service for managing business contacts."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."

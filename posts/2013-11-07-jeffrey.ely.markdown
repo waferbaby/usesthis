@@ -31,9 +31,9 @@ I could imagine some kind of device on my index finger where I can write words i
 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
+[latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[latex]: https://www.latex-project.org/ "Typesetting software."
 [postfix]: http://www.postfix.org/ "Mail server software."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

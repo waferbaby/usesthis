@@ -36,9 +36,6 @@ Whatever works is good enough, I'm not too fussy about tools.
 
 However, so as to not be a spoil sport, here is some related speculation: the only tool that I would kill for would be a web application for snagging documents and online links and snippets and organizing them for future reference purposes. I've used [DEVONthink Personal][devonthink] for the last several years and the interface/user experience there leaves a bit to be desired. Given that I'm not feeling current web bookmarking services, I'm at a loss how to organize material for larger writing/research projects -- maybe I need to build a [Memex](http://en.wikipedia.org/wiki/Memex "The Wikipedia entry for the Memex.") workstation.
 
-[h2]: https://www.zoom.co.jp/english/products/h2/ "A stereo hand recorder."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [agenda-ios]: https://savvyapps.com/agenda/ "A calendar app."
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [clear]: https://realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
@@ -46,8 +43,11 @@ However, so as to not be a spoil sport, here is some related speculation: the on
 [devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
+[h2]: https://www.zoom.co.jp/english/products/h2/ "A stereo hand recorder."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [tilemill]: https://www.mapbox.com/tilemill/ "An interactive map design tool."
 [word]: https://products.office.com/en-us/word "A document editor."

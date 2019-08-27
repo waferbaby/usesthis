@@ -28,8 +28,8 @@ I use [Maya][], [V-Ray][], [ZBrush][], [Photoshop][], [Premiere][], [After Effec
 
 Oh golly, a better projector with higher lumens would really help me out a lot. Also a nice camera for shooting performance footage to meld in with my animation as well as better documentation. Dream world I'd also have a variety of colour lighting tools (1ks lighting with gels and LED strips) for the shoots, a fancy Wacom tablet, and better access to transportation with my big installations, hah.
 
-[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."

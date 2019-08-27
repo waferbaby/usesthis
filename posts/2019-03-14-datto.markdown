@@ -23,16 +23,16 @@ Well, I guess Destiny 2 the game counts as software, but for the most part, I us
 
 The dream setup would probably start with a bigger desk so I have more room. Otherwise, I'm just looking for the best of the best stuff. A [2080 Ti][geforce-rtx-2080-ti], 2 TB of NVME storage, lots of USB 3.0/3.1/Type-C ports on a motherboard. [i9-9900k][core-i9-9900k] or even one of the more extreme ones like the [9980XE][core-i9-9980xe] for video editing, even though it seems like overkill. I'd love to get one of those wall-mounted PCs custom built too, or even one built into the desk. I know future-proofing is impossible, but I'd like to get as close to that as I can.
 
+[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
 [core-i7-6700k]: https://ark.intel.com/products/88195/Intel-Core-i7-6700K-Processor-8M-Cache-up-to-4_20-GHz "A computer processor."
 [core-i9-9900k]: https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900k.html "A CPU."
 [core-i9-9980xe]: https://www.intel.com/content/www/us/en/products/processors/core/x-series/i9-9980xe.html "A CPU."
-[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
-[geforce-rtx-2080-ti]: https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2080-ti/ "A graphics card."
-[z170-pro]: https://www.asus.com/us/Motherboards/Z170-PRO/ "A motherboard."
-[audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
 [destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[geforce-rtx-2080-ti]: https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2080-ti/ "A graphics card."
 [media-encoder]: https://creative.adobe.com/products/media-encoder "Software for encoding video for broadcast and the web."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[z170-pro]: https://www.asus.com/us/Motherboards/Z170-PRO/ "A motherboard."

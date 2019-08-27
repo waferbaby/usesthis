@@ -38,9 +38,6 @@ Either way, I don't need any fancy 3D graphics, but I do want a reasonably large
 
 On the server side, aside from the lack of FreeBSD on EC2, I'm really quite satisfied. Generally speaking I prefer multiple small boxes rather than a single large box. I could use one or two powerful (4+ core, 4GB+ RAM) boxes to speed up some FreeBSD work, but it wouldn't make a huge difference.
 
-[g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
-[latitude-z]: http://www.notebookreview.com/notebookreview/dell-latitude-z-review/ "A super thin PC laptop."
-[xps-m1530]: https://en.wikipedia.org/wiki/Dell_XPS#XPS_M1530 "A PC laptop with a 15.4 inch screen."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [connectbot-android]: https://connectbot.org/ "A secure shell for Android devices."
 [djbdns]: http://cr.yp.to/djbdns.html "DNS server software."
@@ -49,10 +46,12 @@ On the server side, aside from the lack of FreeBSD on EC2, I'm really quite sati
 [ezmlm]: http://www.ezmlm.org/ "Mailing list management software."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
+[g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
 [httpd]: http://httpd.apache.org/ "Web server software."
 [kde]: https://www.kde.org/ "A graphical environment for *nix operating systems."
 [konqueror]: https://konqueror.org/ "An open-source web browser."
 [kwrite]: https://kate-editor.org/ "A simple text editor for KDE."
+[latitude-z]: http://www.notebookreview.com/notebookreview/dell-latitude-z-review/ "A super thin PC laptop."
 [nano]: https://www.nano-editor.org/ "A command-line text editor."
 [qmail]: http://www.qmail.org/top.html "An SMTP server."
 [stunnel]: https://www.stunnel.org/index.html "A tool to make any TCP connection over SSL."
@@ -60,3 +59,4 @@ On the server side, aside from the lack of FreeBSD on EC2, I'm really quite sati
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [twidroid-android]: https://www.bluestacks.com/blog/app-reviews/archive/twidroid.html "A Twitter client for Android devices."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[xps-m1530]: https://en.wikipedia.org/wiki/Dell_XPS#XPS_M1530 "A PC laptop with a 15.4 inch screen."

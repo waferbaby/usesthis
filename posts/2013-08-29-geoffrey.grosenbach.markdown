@@ -58,8 +58,10 @@ Until 2009, I did 90% of my work on a beefy desktop tower and wouldn't consider 
 But I still wish Apple would make a laptop for video professionals. 2TB storage. 16 CPU cores. Huge battery to fuel it for 8 or 10 hours at full steam. High resolution matte screen. I don't care how big it is or if it weighs 10 or 15 pounds.
 
 [1510-carry-on-case]: https://www.pelican.com:443/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
+[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [asr-5-c]: https://www.mtbr.com/product/bikes/xc-suspensio/yeti-cycles/as-r-5-carbon.html "A bike."
 [d7000]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/25468/D7000.html "A 16.2 megapixel DSLR."
+[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [ew-100-g3]: https://en-us.sennheiser.com/wireless-clip-on-lavalier-microphone-set-presentation-ew-100-eng-g3 "A wireless microphone system."
 [fit-console]: http://www.anthro.com/products/fit-console "A curved sitting/standing desk."
 [freedom.2]: https://www.humanscale.com/products/product_detail.cfm?group=FreedomTaskChairWithHeadrest "A chair."
@@ -73,9 +75,7 @@ But I still wish Apple would make a laptop for video professionals. 2TB storage.
 [mh-c801d]: https://www.mahaenergy.com/mh-c801d/ "An 8-cell AA/AAA battery recharger."
 [mke-600]: https://en-us.sennheiser.com/camera-mic-dslr-shotgun-video-mke-600 "A microphone."
 [nex-fs100uk]: https://pro.sony.com/bbsc/ssr/product-NEXFS100UK/ "A camcorder with interchangeable lenses."
-[rugged-portable]: http://iosafe.com/products-rugged-portable-overview "A well-protected portable hard drive."
-[after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [pluraleyes]: https://www.redgiant.com/products/pluraleyes/ "Software to synchronise video and audio tracks."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[rugged-portable]: http://iosafe.com/products-rugged-portable-overview "A well-protected portable hard drive."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."

@@ -40,9 +40,6 @@ The only thing I'm really hungry for is a huge, wall-mounted second monitor at h
 
 Other than that, I have pretty much everything I need. Well, okay, my apartment doesn't allow dogs, so I would say my dream setup involves a dog too!
 
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[my-passport-mac]: https://www.amazon.com/Passport-Portable-External-Storage-WDBLUZ0010BSL-NESN/dp/B00CO1I2FS "A portable hard drive."
 [2nd-amendment]: https://jfriedhoff.itch.io/the-2nd-amendment "A 3D text adventure game."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
@@ -50,8 +47,11 @@ Other than that, I have pretty much everything I need. Well, okay, my apartment 
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [hermit-crab-in-space]: https://www.playstation.com/en-us/games/hermit-crab-in-space-psm/ "A crustacean space adventure game for Playstation Mobile."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [itch.io]: https://itch.io/ "An indie game marketplace."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
+[my-passport-mac]: https://www.amazon.com/Passport-Portable-External-Storage-WDBLUZ0010BSL-NESN/dp/B00CO1I2FS "A portable hard drive."
 [openframeworks]: http://openframeworks.cc "A C++ library for creative projects."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [processing]: https://processing.org/ "A programming language/environment."

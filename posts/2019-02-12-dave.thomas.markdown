@@ -29,15 +29,15 @@ I run my [online course](http://codestool.coding-gnome.com/ "Dave's programming 
 
 I like coding in my armchair, with the lake in the background. But it would be extra nice to have a decent high-res second monitor which magically popped up out of the floor or down from the ceiling. And a bottomless cup of tea. Obviously.
 
-[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
 [elixir]: https://elixir-lang.org/ "A functional programming language."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [github]: https://github.com/ "A Git code repository service."
 [google-fi]: https://en.wikipedia.org/wiki/Google_Fi "A cellular/wifi networking service."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
 [reason.2]: https://reasonml.github.io/ "A flavour of OCaml targeted at JavaScript developers."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

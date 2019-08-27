@@ -33,9 +33,9 @@ And though I like me some wired mouse, imagine if you will a MacBook whose monit
 
 Lastly, a better battery would really float my boat. Surely there's some other element that will very soon be discovered to be far superior to lithium, and then superduperthermomium (which, hey!, you never know, it might be called that) will allow batteries that run 6 months between charges. Woo hoo!
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [gowalla]: https://en.wikipedia.org/wiki/Gowalla "A location/story tracking service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rezilla]: https://sourceforge.net/projects/rezilla/ "A resource fork editor for the Mac."

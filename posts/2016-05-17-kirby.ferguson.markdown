@@ -25,10 +25,6 @@ I do almost all my writing in [Scrivener][]. I compile my research with [DEVONth
 
 I'm pretty much there. Of course, more cores would be better, but I've got a pretty robust system. I'd love a single RAID drive rather than the small herd of drives I currently use. I'd love to a have [Google Fiber][google-fiber]-ish net connection. But really, if I were to make a major investment in my business it'd be for a new camera or a superb microphone for narration.
 
-[google-fiber]: https://fiber.google.com/about/ "A fast Internet connection."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[wireless-solar-keyboard-k750-mac]: https://www.logitech.com/en-us/product/wireless-solar-keyboard-k750-mac "A wireless solar-powered keyboard."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [asana]: https://asana.com/ "A project management service."
 [chronosync]: https://www.econtechnologies.com/chronosync/overview.html "A synchronising and backup tool for the Mac."
@@ -36,8 +32,12 @@ I'm pretty much there. Of course, more cores would be better, but I've got a pre
 [devonthink]: https://www.devontechnologies.com/products/devonthink/ "Software for storing all your documents, scans etc."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
+[google-fiber]: https://fiber.google.com/about/ "A fast Internet connection."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [slack]: https://slack.com/ "A collaboration service."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
+[wireless-solar-keyboard-k750-mac]: https://www.logitech.com/en-us/product/wireless-solar-keyboard-k750-mac "A wireless solar-powered keyboard."

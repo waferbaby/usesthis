@@ -39,15 +39,15 @@ If it existed (and it probably won't, ever), a 30" external retina screen driven
 
 Other than that, I'm pretty happy with my current setup.
 
+[ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [ef-50mm-f1.2l-usm]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_2l_usm "A standard and medium telephoto camera lens."
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [ggplot2]: http://ggplot2.org/ "A plotting system for the R language."
+[imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
 [lubridate]: https://github.com/hadley/lubridate "An R package for working with dates and time."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "A framework of extensions and themes for the zsh shell."
 [plyr]: http://plyr.had.co.nz/ "A split-apply-combine tool."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."

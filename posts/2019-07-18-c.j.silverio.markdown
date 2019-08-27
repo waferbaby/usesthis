@@ -52,11 +52,6 @@ I use [Fira Code](https://github.com/tonsky/FiraCode "A font for software develo
 
 I would like a 13" MacBook Pro with a working keyboard. When I'm dreaming, I'll add to that 16GB of memory at least, a huganic SSD, and a battery that lasts 12 hours. (Maybe it's rocking an ARM processor?) But really, give me a working keyboard, a real ESC key, and the finger print reader on a current-generation MacBook, and I'd be happy.
 
-[ii-plus]: https://en.wikipedia.org/wiki/Apple_II_Plus "A personal computer."
-[iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
-[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [airmail]: http://airmailapp.com/ "A mail client for the Mac."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
@@ -68,7 +63,12 @@ I would like a 13" MacBook Pro with a working keyboard. When I'm dreaming, I'll 
 [dropzone]: https://aptonic.com/ "A Mac utility revolving around dropping files to perform actions."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [fish]: http://fishshell.com/ "A command-line shell."
+[ii-plus]: https://en.wikipedia.org/wiki/Apple_II_Plus "A personal computer."
+[iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
 [mast-ios]: https://apps.apple.com/us/app/mast/id1437429129 "A Mastodon client."
 [moom]: https://manytricks.com/moom/ "A Mac tool for taking control of window sizing/moving."
 [numi]: https://numi.io/ "A calendar for macOS."

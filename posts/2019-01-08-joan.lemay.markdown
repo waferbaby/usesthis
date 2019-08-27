@@ -27,7 +27,7 @@ I don't create any work in [Photoshop][], but I do use Photoshop to adjust the l
 
 My dream setup would be a separate studio space that existed outside of my home, but still on the property. Like a studio shed situation. It'd have lots of light, lots of flat files, lots of wall space, and plenty of table space. And a big-ass sink for keeping brushes and palettes clean.
 
-[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[surecolor-p800]: https://epson.com/For-Work/Printers/Large-Format/Epson-SureColor-P800-Printer/p/SCP800SE "A printer."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[surecolor-p800]: https://epson.com/For-Work/Printers/Large-Format/Epson-SureColor-P800-Printer/p/SCP800SE "A printer."

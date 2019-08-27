@@ -40,17 +40,17 @@ I'd also like to upgrade my laptop at some point. The MacBook Air works, but it 
 
 This isn't related to hardware or software, but time & confidence would be a great part of a dream setup. This 6-episode podcast has been in the works for nearly a year. It's really hard to get the confidence to try something new. When you're busy, it's hard to make time to do something that you're not very good at. Shout out to creatives everywhere who are taking chances. This shit is hard.
 
+[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
+[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
 [h4n-pro]: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-h4n-pro-handy-recorder "A digital audio recorder."
+[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [lavalier]: http://www.rodemic.com/microphones/lavalier/ "A lapel microphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [makala-soprano]: https://kalabrand.com/collections/makala-classic/products/mk-s "A ukulele."
 [quietcomfort-25]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html "Noise-cancelling headphones."
-[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
-[vortex-2]: https://www.moshi.com/en/product/vortex-2/light-steel "In-ear headphones."
-[audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
+[thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
+[vortex-2]: https://www.moshi.com/en/product/vortex-2/light-steel "In-ear headphones."

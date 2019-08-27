@@ -26,8 +26,8 @@ I use [Microsoft Word][word] to write. I use [Image Capture][image-capture] to s
 I would like to work out of a barn in rural Nebraska. An upstairs loft would be a painting studio with record player and computer desk for a large scanner. Maybe I would get a [Cintiq][] and learn something new. On the bottom floor would be a library and storage for framed and unframed paintings. The walls would be graced with religious items, taxidermy and antiques.
 
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[image-capture]: https://en.wikipedia.org/wiki/Image_Capture "Software included with Mac OS X for capturing images from cameras and scanners."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[image-capture]: https://en.wikipedia.org/wiki/Image_Capture "Software included with Mac OS X for capturing images from cameras and scanners."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [word]: https://products.office.com/en-us/word "A document editor."

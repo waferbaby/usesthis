@@ -32,10 +32,10 @@ As you can see, I rely heavily on software that's free. Bitch is a nimble nonpro
 
 I think I've got it. I guess if I could have all this, plus an endless supply of coffee and a free bike mechanic, I'd be set for life.
 
+[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
 [h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixlr]: https://pixlr.com/ "A web-based image editor."
 [swell-radio-ios]: https://en.wikipedia.org/wiki/Swell_Radio "A podcast/radio streaming app."

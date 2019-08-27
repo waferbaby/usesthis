@@ -36,9 +36,9 @@ I'll also be throwing a new audio interface into the mix there for recording my 
 
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [komplete-kontrol-s49]: https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/ "An audio keyboard."
+[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
-[logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [push-me-pull-you]: http://pmpygame.com/ "A multiplayer sports hug game."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

@@ -29,11 +29,6 @@ I rely pretty heavily on remote storage software like [Dropbox][], [SVN][subvers
 
 An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 without the serially unstable Flash Builder. And [XCode][] or Apple's Application Loader for Windows or Linux.
 
-[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
-[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[m11x]: https://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
-[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
-[playbook]: https://en.wikipedia.org/wiki/BlackBerry_PlayBook "A BlackBerry tablet."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
@@ -43,8 +38,13 @@ An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 wit
 [flashdevelop]: http://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
+[ipad-2]: https://www.apple.com/ipad/ "A tablet device."
+[iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
+[m11x]: https://www.dell.com/us/p/alienware-m11x-r3/pd "A PC gaming laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
+[playbook]: https://en.wikipedia.org/wiki/BlackBerry_PlayBook "A BlackBerry tablet."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [subversion]: http://subversion.tigris.org/ "A version control system."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
