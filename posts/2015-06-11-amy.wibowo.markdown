@@ -52,7 +52,7 @@ Lots of floor space to spread out paper and draw with markers, lots of plants an
 [pigma-graphic]: http://sakuraofamerica.com/pen-archival-ink "A pen."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[the-legend-of-zelda-a-link-between-worlds]: https://www.amazon.com/The-Legend-Zelda-Between-Worlds-Nintendo/dp/B00GANWVJE "An adventure game for the 3DS."
+[the-legend-of-zelda-a-link-between-worlds]: https://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_Between_Worlds "An adventure game for the 3DS."
 [the-yawgh]: http://www.theyawhg.com/ "A choose-your-own-adventure video game."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [todo-ios]: https://itunes.apple.com/us/app/todo-to-do-task-list/id708423616 "A task list app."

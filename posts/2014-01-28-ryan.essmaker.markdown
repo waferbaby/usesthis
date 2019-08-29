@@ -120,7 +120,7 @@ When the budget is there, I will definitely be investing in more photography and
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [r-05]: http://www.rolandus.com/products/details/1077 "A voice recorder."
 [rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
-[rugged-thunderbolt]: https://www.amazon.com/LaCie-Rugged-Thunderbolt-External-9000294/dp/B009GXI3QU "A well-protected Thunderbolt hard drive."
+[rugged-thunderbolt]: https://www.lacie.com/as/en/products/rugged/ "A well-protected Thunderbolt hard drive."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
