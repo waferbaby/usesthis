@@ -1,0 +1,5 @@
+{
+  "name": "StyleGAN",
+  "description": "TensorFlow face generation software.",
+  "url": "https://github.com/NVlabs/stylegan"
+}
