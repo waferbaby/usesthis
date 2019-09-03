@@ -1,0 +1,5 @@
+{
+  "name": "chestscan",
+  "description": "Software for extracting ribcage images from chest x-rays.",
+  "url": "https://code.freedombone.net/bashrc/chestscan"
+}
