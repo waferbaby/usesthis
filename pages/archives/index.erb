@@ -10,7 +10,10 @@ title: Archives
   <h3 id="<%= year %>"><%= year %></h3>
   <ul class="months">
     <% @site.archive.months(year).each do |month| %>
-      <li><a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%B') %></a></li>
+      <li>
+        <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%B') %></a><br>
+        <span class="summary"><%= @site.archive.month_posts(year, month).count %> interview<%= 's' unless @site.archive.month_posts(year, month).count == 1 %></span>
+      </li>
     <% end %>
   </ul>
 <% end %>
