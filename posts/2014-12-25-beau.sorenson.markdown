@@ -20,7 +20,7 @@ Also, I often do most of my job at other studios, so my setup is always changing
 
 A couple of [API lunchboxes][500-6b-lunchbox] filled with a selection of classic API modules: [512c preamps][512c], [550b equalizers][550b], [525][] and [527][] compressors. I've loved the way API gear sounds and responds since my first days as an intern in a studio, and I still rely on it everyday. The lunchboxes are portable, so I can bring one with me for location recording or to studio sessions. They're great. 
 
-I love old Eventide and Lexicon gear: I have a pair of [Lexicon PCM-41s][pcm-41], a [PCM-42][], a [2400][2400.2], a [Super Prime Time][super-prime-time], and pair of [Varispeeches][varispeech] that get a regular workout. The [Eventide H3000][h3000] is perhaps my favorite (I wrote an entire album using on the H3000 earlier this year), but I also use a fully refurbished [Eventide H949][h949] (an early pitch shifter famously used on David Bowie's "Low") and their [Omnipressor][], a strange and very intense compressor / expander.
+I love old Eventide and Lexicon gear: I have a pair of [Lexicon PCM-41s][pcm-41], a [PCM-42][], a [2400][], a [Super Prime Time][super-prime-time], and pair of [Varispeeches][varispeech] that get a regular workout. The [Eventide H3000][h3000] is perhaps my favorite (I wrote an entire album using on the H3000 earlier this year), but I also use a fully refurbished [Eventide H949][h949] (an early pitch shifter famously used on David Bowie's "Low") and their [Omnipressor][], a strange and very intense compressor / expander.
 
 For reverberation, I have a pair of vintage [AKG spring reverbs ][bx20] that I love - these are Austrian-made spring reverbs intended to compete with the best plate reverbs of their era. They sound amazing! I also rely on an [Ursa Major SST-206 "Space Station"][sst-206]; a small recreation of an early digital reverb made by Christopher Moore, and a [Roland RE-201 Space Echo][re-201] for tape delay. 
 
@@ -54,7 +54,7 @@ It's hard to pin down what my 'dream setup' would be - it's always changing, and
 
 [169]: http://vintageaudiogearbox.com/goods/channelstrips/studer/169.html "An audio console."
 [200e]: https://en.wikipedia.org/wiki/Buchla_Electronic_Musical_Instruments#Buchla_200e_series_.282004.29 "A synthesiser."
-[2400.2]: https://ccrma.stanford.edu/~dattorro/Lexicon.htm "An audio compressor."
+[2400]: https://ccrma.stanford.edu/~dattorro/Lexicon.htm "An audio compressor."
 [2882]: https://mhsecure.com/metric_halo/products/hardware/2882.html "A FireWire audio recording interface."
 [4311]: http://vintagespeaker.net/vintage-pair-jbl-4311-wx-a-control-monitor-speakers-sound-great-2 "Monitor speakers."
 [500-6b-lunchbox]: http://www.apiaudio.com/product.php?id=109 "A six slot audio rack."
@@ -62,10 +62,10 @@ It's hard to pin down what my 'dream setup' would be - it's always changing, and
 [525]: http://www.apiaudio.com/product.php?id=104 "An audio compressor."
 [527]: http://www.apiaudio.com/product.php?id=105 "An audio compressor."
 [550b]: http://www.apiaudio.com/product.php?id=107 "A four band equaliser."
-[bx20]: https://www.akg.com/pro/p/bx20 "A reverberation unit."
+[bx20]: https://www.akg.com/home? "A reverberation unit."
 [c42]: http://www.josephson.com/c42.html "A cardioid microphone."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[h3000]: https://www.eventide.com/AudioDivision/Support/Harmonizers%20and%20Rack%20Products/H3000.aspx "A programmable audio processor."
+[h3000]: https://www.eventideaudio.com/h3000-factory "A programmable audio processor."
 [h949]: https://www.flickr.com/photos/wiresounds/1094327625/ "An audio pitch shifter."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [md-421]: http://mixonline.com/mixline/sennheiser_md421_turns50_2610/ "A microphone."
