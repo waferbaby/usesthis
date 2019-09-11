@@ -28,7 +28,7 @@ My main workstation is the Linux box. But since Chrome has native UI on each of 
  
 I have a single 30" flat-screen monitor and a generic keyboard/mouse that I share between all three systems.
  
-I went through a number of 3-port KVMs and they all sucked. I finally gave up and have a [Belkin 2-port][2-port-ps-2-kvm] that I used to switch between Linux and Mac. I use Microsoft Remote Desktop to reach the Windows machine using the Linux rdesktop client.
+I went through a number of 3-port KVMs and they all sucked. I finally gave up and have a Belkin 2-port that I used to switch between Linux and Mac. I use Microsoft Remote Desktop to reach the Windows machine using the Linux rdesktop client.
  
 I like to work from home a fair amount. For that, I have a [Levono T61][thinkpad-t61] running Lucid that I use as a dumb terminal to my Linux and Windows workstations. I have found that remoting into Mac is too slow and crappy to be worthwhile. If I need to do mac work, I go into the office.
  
@@ -72,8 +72,7 @@ If we're willing to throw that out, I'd love to be able to work on Chrome for Wi
  
 And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](http://chris.wanstrath.usesthis.com/ "Our interview with Chris Wanstrath."), too, please.
 
-[2-port-ps-2-kvm]: https://www.belkin.com/us/p/P-F1DK102P/ "A KVM for sharing monitors, PS/2 mice and keyboards between two computers."
-[cr-48]: http://en.wikipedia.org/wiki/Chromebook#Cr-48_prototype "Google's first Chrome OS netbook."
+[cr-48]: https://en.wikipedia.org/wiki/Chromebook "Google's first Chrome OS netbook."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [git]: https://git-scm.com/ "A version control system."
 [greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
