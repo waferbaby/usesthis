@@ -265,6 +265,7 @@ padding: 20px;
 
 span.summary {
 color: var(--summary-colour);
+font-size: 80%;
 }
 
 ul {
