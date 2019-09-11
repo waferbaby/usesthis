@@ -18,7 +18,7 @@ I'm best known for our [Squid Tree](http://knitsforlife.com/2013/09/11/new-squid
 
 I believe in using the right needle craft for the job, so we have pretty much every fiber art tool known to man. Knitting uses straight, double pointed, and circular needles, for which we use a mix of [Clover][takumi], cheap bamboo [sets][carbonized-patina-9-inch-double-point], Addi [Clicks][click], and Knit Picks. I prefer sharp knitting needles with a short taper for speed with continental style knitting. Fortunately crochet is limited to simple hooks. I prefer Boye but Jill likes Susan Bates and is allergic to metal, so we have a wide mix from jumbo to micro. I store a wide assortment of yarn on a 9x13' [peg board wall](http://knitsforlife.com/2013/03/26/the-worlds-best-yarn-storage-idea/ "Lorna's post about their peg board wall."), which we wind on a [Lacis Ball Winder][yarn-ball-winder-mo17] with the yarn label tucked inside.
 
-I have 4 manual knitting machines: the [Embellish-Knit][] i-cord mill, the [Addi Express][express] king size mill, a vintage extended flat bed [Ultimate Sweater Machine][ultimate-sweater-machine] plus a new one for extra parts, and a vintage flat bed [Elna 2400][2400]. The USM is my workhorse for large-gauge plain and striped knitting, while the Elna takes punch cards for finer gauge colorwork designs. I use a [punching machine][pm10] and a 50 foot roll of punch card paper liberally for designs on the Elna. We're preparing to purchase a hackable [Brother 270][kh-270] bulky electronic machine with a fully programmable needle bed. Other essentials: digital ring [counter][hand-finger-tally-counter], knitting graph paper, cheap college-ruled and graph spiral notebooks, lazy susans, bent tip tapestry needles, bobby pins, thumb tacks, t-pins, retractable tape measure, and any small, sharp scissors.
+I have 4 manual knitting machines: the [Embellish-Knit][] i-cord mill, the [Addi Express][express] king size mill, a vintage extended flat bed [Ultimate Sweater Machine][ultimate-sweater-machine] plus a new one for extra parts, and a vintage flat bed Elna 2400. The USM is my workhorse for large-gauge plain and striped knitting, while the Elna takes punch cards for finer gauge colorwork designs. I use a [punching machine][pm10] and a 50 foot roll of punch card paper liberally for designs on the Elna. We're preparing to purchase a hackable [Brother 270][kh-270] bulky electronic machine with a fully programmable needle bed. Other essentials: digital ring [counter][hand-finger-tally-counter], knitting graph paper, cheap college-ruled and graph spiral notebooks, lazy susans, bent tip tapestry needles, bobby pins, thumb tacks, t-pins, retractable tape measure, and any small, sharp scissors.
 
 Photography is either on an [iPhone 4S][iphone-4s], a [Canon PowerShot SX200IS][powershot-sx200is] point and shoot, or Jill's [Canon Rebel SL1][eos-100d]. My 27" [iMac][] (+ WE external drive, wireless trackpad & keyboard) is my workhorse at home, while I shuttle a prehistoric 2006 13" [MacBook][] to and from the art studio. I print office stuff on my Canon multifunction, taking the zine and patterns to Staples Print Center.
 
@@ -40,14 +40,13 @@ My ideal knitting needles are a non-existent hybrid of KnitPicks, Addi Turbo, an
 
 Oh, and of course 100% recycled acrylic yarn in every weight and color.
 
-[2400]: http://www.aboutknittingmachines.com/bWVMn/TOYOTAKnittingMachines.php "A knitting machine."
 [amazon-prime]: https://en.wikipedia.org/wiki/Amazon.com#Amazon_Prime "A membership service for Amazon."
 [carbonized-patina-9-inch-double-point]: https://www.amazon.com/Stanwood-Needlecraft-Carbonized-Knitting-Needles/dp/B000OPEEGW "A set of bamboo knitting needles."
 [ck35]: http://goodeys.tripod.com/goodeysknittingroom/id39.html "A commercial knitting machine."
 [click]: http://www.skacelknitting.com/s.nl/sc.2/category.19664/.f "A set of interchangeable circle knitting needles."
 [diptic-ios]: https://itunes.apple.com/us/app/diptic/id526546615 "A photo collage app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[embellish-knit]: http://www.bond-america.com/products/embellish-knit.html "A yarn spool-knitter."
+[embellish-knit]: http://bond-america.blogspot.com/2018/01/bond-america-ultimate-sweater-machine.html "A yarn spool-knitter."
 [eos-100d]: https://en.wikipedia.org/wiki/Canon_EOS_100D "An 18 megapixel DSLR."
 [express]: http://www.skacelknitting.com/s.nl/sc.2/category.27844/.f "A knitting machine."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
