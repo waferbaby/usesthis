@@ -61,7 +61,7 @@ A pair of big SSDs in the Mac Pro would be nice. If the MacBook Air had 8GB of m
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mailsmith]: https://www.mailsmith.org/ "A POP email client for the Mac."
-[mamba]: http://store.razerzone.com/store/razerusa/en_US/pd/productID.169418100 "A wired/wireless gaming mouse."
+[mamba]: https://www.razer.com/gaming-mice/razer-mamba-wireless "A wired/wireless gaming mouse."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."

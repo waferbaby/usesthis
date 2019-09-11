@@ -61,7 +61,7 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [messenger-no-1]: https://www.moopshop.com/products/messenger-no-1-in-waxed-canvas "A bag."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."

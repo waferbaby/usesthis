@@ -66,7 +66,7 @@ I'd also like to live on an ramshackle estate with all my friends and collaborat
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [qlab]: https://figure53.com/qlab/ "Software for running a live show."
 [slack]: https://slack.com/ "A collaboration service."

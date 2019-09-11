@@ -45,7 +45,7 @@ I want to interact with my computer in a fundamentally different way. The deskto
 I want better software: more usable, more accessible, more open, more secure, more integrated, more seamless. I want a better software development experience. I want better programming languages with better development toolkits. Fundamentally, I want better abstractions for the same computation I can do today with all that lovely hardware.
 
 [a5]: https://www.amazon.com/Audioengine-A5-Powered-Multimedia-Black/dp/B000OABTPQ "Tiny but powerful speakers."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [bloom-ios]: http://generativemusic.com/ "An ambient musician machine/artwork iPhone application."
 [caffeine]: http://lightheadsw.com/caffeine/ "A Mac menubar application to keep your computer awake."

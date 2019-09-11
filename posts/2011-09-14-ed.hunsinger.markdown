@@ -36,7 +36,7 @@ On the web server side of things, I'm a huge fan of [Wordpress][]. Most of my si
 I've been pretty happy with my current setup now that the cost of hard drive space gets less expensive faster than I can fill it. I'm still waiting for a nice Apple laptop with a terabyte of space though. My number one wish would be a way to decrease the amount of cables and power strips scattered throughout the house.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [charge-tti]: https://www.leatherman.com/7.html "A multi-tool."
 [crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
 [etrex-vista-hcx]: https://www.amazon.com/eTrex-Vista-HCx-Portable-Navigator/dp/B000PDR1LS "A handheld GPS device."

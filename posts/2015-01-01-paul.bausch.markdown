@@ -54,7 +54,7 @@ I feel like I'm living the dream already. If we could get wireless electricity g
 [ios-simulator]: https://developer.apple.com/library/content/documentation/IDEs/Conceptual/iOS_Simulator_Guide/ "Software for emulating an iOS device."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [metafilter]: https://www.metafilter.com/ "A community website."
 [mirra]: http://www.hermanmiller.com/products/seating/performance-work-chairs/mirra-chairs.html "An ergonomic work chair."
 [mobi]: http://www.eyefi.com/products/mobi "An SD card with WiFi."

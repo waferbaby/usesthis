@@ -64,7 +64,7 @@ Spiritually I would love to reduce the amount of connection through computers in
 [kuru-toga-pipe-slide]: https://www.jetpens.com/Uni-Kuru-Toga-Mechanical-Pencil-Pipe-Slide-0.5-mm-Black/pd/15067 "A mechanical pencil."
 [m720-triathlon]: https://www.logitech.com/en-us/product/m720-triathlon?crid=7 "A wireless multi-device mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mundo-classic]: https://yubabikes.com/cargobikestore/mundo-classic "A cargo bike."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."

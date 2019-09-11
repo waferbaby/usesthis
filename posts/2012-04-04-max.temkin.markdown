@@ -86,7 +86,7 @@ Some days I think my dream setup would be a fully-upgraded [Mac Pro][mac-pro] th
 [kingdom-rush-ios]: https://itunes.apple.com/us/app/kingdom-rush/id489265199 "A fantasy action game."
 [listary-ios]: http://listaryapp.com/ "A list app that supports Simplenote."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mamp]: https://www.mamp.info/en/ "A one-click Mac solution for Apache, MySQL, PHP."
 [mockups]: https://balsamiq.com/products/mockups/ "Drawing-like mockup software."
 [neon]: https://www.expomarkers.com/markers/neon "Neon markers."

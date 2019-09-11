@@ -50,7 +50,7 @@ A boy can dream, right?
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mlb-at-bat-ios]: http://m.mlb.com/apps/atbat "An iPhone baseball app for viewing scores and streaming matches."
 [nike-plus]: https://secure-nikeplus.nike.com/plus/ "A software/hardware combo for tracking your running."
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."

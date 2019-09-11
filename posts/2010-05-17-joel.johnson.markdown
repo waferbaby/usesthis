@@ -37,7 +37,7 @@ I'm really excited to see if I like using the iPad as my dedicated mobile machin
 
 I'm also very nearly ready to buy a [Rebel T2i][eos-rebel-t2i] to replace my DSLR and my camcorder. To be able to combine both of those into one device is really exciting for me. I recently bought a [Pelican 1510][1510-carry-on-case] hard case for my camera gear and I'm finding I end up filling it mostly with accessories like tripods and microphones and lights. That doesn't upset me at all.
 
-[1510-carry-on-case]: https://www.pelican.com:443/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
+[1510-carry-on-case]: https://www.pelican.com/us/en/product/cases/carry-on-case/protector/1510 "A solid camera case that meets airline standards for carry-on luggage."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

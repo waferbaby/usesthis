@@ -40,7 +40,7 @@ I would love a more kick-ass video camera, the XF105 is OK but sometimes the foo
 [a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [balans]: https://www.varierfurniture.com/Products/Prevent/Variable-balans-R "A kneeling chair."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [diva-lite-201]: https://www.bhphotovideo.com/c/product/258611-REG/Kino_Flo_KIT_D2_120_Diva_Lite_200_1_Fluorescent.html "A lighting fixture for video recording."

@@ -54,7 +54,7 @@ I'd also wish that these latest Apple devices wouldn't require me to ask permiss
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."

@@ -33,7 +33,7 @@ I'm pretty happy with my computer hardware as it stands. In terms of software, I
 For my stereo, my dream set-up would be a nice NAD integrated amp, a good D/A converter to use with AirTunes, and a [Technics 1200 turntable][sl-1200] with a nice cartridge (the 1200 is not an audiophile turntable, but ease of use, rugged design, and consistent speed would offset that for me). For several years I had a pair of Klipsch bookshelf speakers but I had to give them away when I started living in smaller apartments. I loved the way they sounded, so as long as I'm dreaming, might as well dream of a large listening room with a pair of Klipschorns in the corners. And then I'd hire David Mancuso to consult on customizing them.
 
 [2m-red]: https://www.ortofon.com/ortofon-2m-red-p-317-n-1579 "A hifi cartridge."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [gmail]: https://mail.google.com/mail/ "Web-based email."

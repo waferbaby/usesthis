@@ -47,7 +47,7 @@ Truth be told, though, I'm still very happy with what I have. I replaced my last
 
 [161]: https://www.bose.com/en_us/products/speakers/stereo_speakers/161-speaker-system.html "Speakers."
 [849]: https://store.carandache.com/us/en/849-849 "A pen."
-[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [canonet-ql19]: https://global.canon/en/c-museum/product/film81.html "A film camera."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."

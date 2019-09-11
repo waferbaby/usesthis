@@ -28,7 +28,7 @@ So I don't have a dream setup, really. I just want to keep interrogating, adjust
 
 With that said, I'd love to have a laptop that was a little lighter and thinner than my Air, with a better, higher-resolution screen. Am I just describing the new [MacBook][macbook.2]? Maybe. Shame about the single USB-C port, though.
 
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

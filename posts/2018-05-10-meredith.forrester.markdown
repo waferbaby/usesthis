@@ -54,7 +54,7 @@ I'd have said goodbye to my Mac curse! Praise Jobs. My version of Acrobat wouldn
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [mstand360]: https://www.raindesigninc.com/mstand360.html "A laptop stand."
 [office-365]: https://en.wikipedia.org/wiki/Office_365 "A hosted office suite."

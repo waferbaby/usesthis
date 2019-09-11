@@ -75,7 +75,7 @@ Oh, and heck, a [NeXTcube][] would be pretty neat too.
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."
 [nextcube]: https://en.wikipedia.org/wiki/NeXTcube "An old workstation computer."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."

@@ -73,7 +73,7 @@ Finally, I'm dissatisfied with the quality and direction that Dell's monitors ha
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [scansnap-s510m]: https://www.fujitsu.com/us/services/computing/peripherals/scanners/scansnap/s510m.html "A sheet-fed scanner for the Mac."
 [soulver]: https://www.acqualia.com/soulver/ "A Mac application that's a cross between a spreadsheet and a calculator."

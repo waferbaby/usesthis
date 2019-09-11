@@ -95,7 +95,7 @@ Other than that, I think I might like a better keyboard. I've never thought anyt
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mail-ios]: https://www.apple.com/ios/ios-10/ "A mail client included with iOS."
 [marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."
 [omnifocus-ios]: https://itunes.apple.com/us/app/omnifocus-2-for-iphone/id690305341 "Task management for the iPhone."

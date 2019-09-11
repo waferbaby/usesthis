@@ -57,7 +57,7 @@ I have a really specific - and lazy - software wish. I'd like a quick way to swi
 
 It feels like the "I wish for world peace" of internet nerdery at this point, but I'll pledge lifelong allegiance to whatever entity or organization sets us all up with truly ubiquitous wi-fi.
 
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [alpha-200]: https://en.wikipedia.org/wiki/Sony_Alpha_200 "A 10.2 megapixel DSLR."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
 [birdhouse-ios]: http://birdhouseapp.com/ "A Twitter notepad app for iOS."
@@ -88,7 +88,7 @@ It feels like the "I wish for world peace" of internet nerdery at this point, bu
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."
 [middleclick]: https://rouge41.com/labs/ "A software hack to make a triple taps register as a middle click on Macbooks."

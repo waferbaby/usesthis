@@ -38,7 +38,7 @@ I would also like a big window overlooking the Hudson River. We are very close t
 
 And something like an iPhone but with keys, and maybe running on [Python][].
 
-[104ab]: http://www.kef.com/html/us/explore/about_kef/museum/1970s/104aBKIT_CantataKIT/index.html "Old speakers."
+[104ab]: https://us.kef.com/explore-kef/kef-museum/1970s/104ab-kit-1979-81-cantata-kit-1978-79 "Old speakers."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

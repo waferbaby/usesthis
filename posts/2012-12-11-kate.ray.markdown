@@ -45,7 +45,7 @@ Okay, if this is like fantasy sci-fi dream, I'd say a noiseproof single-person p
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [laser-stars]: https://www.amazon.com/Laser-Stars-Indoor-Light-Show/dp/B000VBNIP2 "A star projector."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [mixpanel]: https://mixpanel.com/ "A web and mobile analytics service."
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."

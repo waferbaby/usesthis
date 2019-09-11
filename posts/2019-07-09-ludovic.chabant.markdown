@@ -109,7 +109,7 @@ Hardware-wise I think I'm pretty happy with what I have. Of course I have a lot 
 On the software front, I'm also mostly OK, with the exception of iOS which always seems to get in the way of doing things, especially on the iPad. For example, I would love for it to be easier to draw and ink something on paper, scan it, and add colour using the iPad Pro, but that requires jumping through several hoops right now (I did own a [Cintiq][] for that kind of stuff at one point, but I didn't like it and sold it). Or even just edit files in-place directly from my NAS, without having to copy it back and forth between app sandboxes and network shares! I hope that the newly announced [iPadOS][] will move things forward a bit there.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[2000]: https://www.lamyusa.com/us_en/fountain-pen-lamy-2000.html "A fountain pen."
+[2000]: https://www.lamy.com/en/lamy-2000/ "A fountain pen."
 [600]: https://www.rotring.com/us/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html "A mechanical pencil."
 [aeb10e]: https://www.ibanez.com/usa/products/detail/aeb10e_2y_08.html "An acoustic bass guitar."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."

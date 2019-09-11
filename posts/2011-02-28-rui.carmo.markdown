@@ -82,8 +82,8 @@ Any dream setup ought to include copious amounts of time to enjoy it, regardless
 
 [2do-ios]: https://www.2doapp.com/ "A to-do application for iOS."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox-ios]: https://www.dropbox.com/iphoneapp "An iOS version of the syncing software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

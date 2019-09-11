@@ -54,7 +54,7 @@ I wrote my own weblog software. I keep quotes in [Tumblr][], photos in [Flickr][
 
 I wish that I could lift up the screen on my laptop so that it would be closer to eye-level. I wish I had one of those desks that worked sitting down or standing up. I wish I had a faster Internet connection. I wish all my hard drives were consolidated onto one big drive. I wish I had SoundSticks. I wish my G1 was much, much faster. I wish that Terminal would have built-in support for screen so that different screens would appear as tabs and it would auto-reconnect. I wish that there was decent todo management software that deeply integrated with my email. I wish that everyone had perfectionist levels of attention to detail.
 
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [appledesign-powered-speakers]: https://en.wikipedia.org/wiki/PowerCD "A set of powered speakers released with the PowerCD."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [delicious]: https://del.icio.us/ "A web service for storing and sharing bookmarks."

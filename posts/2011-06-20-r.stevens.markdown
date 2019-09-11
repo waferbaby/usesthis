@@ -45,7 +45,7 @@ May I please have a faster MacBook Air with a fuel cell, always on 3G or 4G and 
 [instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [moccamaster-kb-741]: https://www.amazon.com/Technivorm-Moccamaster-KBG-741-Coffee-Polished/dp/B0055P70MQ "A coffee brewer."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

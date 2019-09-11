@@ -80,7 +80,7 @@ Dream 3: When designing screen based interfaces and designs, I find myself frust
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [liveview-ios]: https://itunes.apple.com/us/app/liveview/id301069270 "An iPhone remote screen viewer app for design and prototyping."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [magicprefs]: http://magicprefs.com/ "A Mac OS X prefpane that adds extra options to the Magic Mouse."
 [max]: https://cycling74.com/products/max/ "A visual programming environment."
 [mbox]: https://www.avid.com/US/Products/Mbox "A USB-powered audio/MIDI production system."

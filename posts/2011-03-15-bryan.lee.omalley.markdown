@@ -43,6 +43,6 @@ The other cool thing would be if my giant scanner was wireless. I think it's abo
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

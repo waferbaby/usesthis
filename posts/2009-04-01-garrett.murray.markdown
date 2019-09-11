@@ -38,7 +38,7 @@ I'm very happy with my current setup. I wouldn't mind having a 30-inch LED Cinem
 [af-nikkor-28mm-f2.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1922/AF-NIKKOR-28mm-f%252F2.8D.html "A lens for SLR cameras."
 [af-nikkor-50mm-f1.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2137/AF-NIKKOR-50mm-f%252F1.8D.html "A lens for SLR cameras."
 [ag-hvx200a]: https://www.amazon.com/Panasonic-AG-HVX200A-Definition-Camcorder-Optical/dp/B0018C72E6 "An HD video camera."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [companion-3]: https://www.amazon.com/Bose-Companion-Multimedia-Speaker-System/dp/B00011CNWG "Three-piece stereo speakers for computers."
 [cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."

@@ -39,7 +39,7 @@ I'm pretty happy with what I have. But I do know that any setup I choose would n
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mendeley]: https://www.mendeley.com/ "A reference and academic service."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [networkx]: http://networkx.github.io/ "A Python package for working with complex networks."

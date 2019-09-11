@@ -67,7 +67,7 @@ I dream about cameras much more; at the moment, I'd love to get an [RX-100][cybe
 [m4]: https://www.crucial.com/usa/en/m4ProductFlyer "A solid state disk drive."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [minecraft]: https://minecraft.net/ "A digging and building game."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."

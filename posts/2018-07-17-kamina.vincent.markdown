@@ -68,7 +68,7 @@ I’d love to have another monitor and more fairy lights everywhere but I’m pr
 [google]: https://www.google.com/ "A search engine."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [trello]: https://trello.com/ "A project management service."

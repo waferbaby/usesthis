@@ -66,7 +66,7 @@ Split ortholinear mechanical keyboard ([Let's Split][lets-split] or [Iris][] see
 [lets-split]: https://mehkee.com/products/lets-split-pcb "A PCB board for a split keyboard."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [nexus-5x]: https://www.google.com/nexus/5x/ "A 5.2 inch Android smartphone."
 [noizio]: http://noiz.io "A tranquil audio Mac application."
 [p2415q]: https://www.dell.com/en-us/work/shop/dell-24-ultra-hd-4k-monitor-p2415q/apd/210-AGNK/monitors-monitor-accessories "A 24 inch 4K monitor."

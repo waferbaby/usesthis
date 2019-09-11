@@ -49,7 +49,7 @@ My dream setup would be an industrial [Juki][ddl-8700] machine. It's fixed to a 
 
 I'm thinking of buying a [50mm f1.8 lens][fe-50mm-f1.8] for my camera to shoot more portraits and fashion for Figura. I would also like to collect a full set of power tools, like drills, saws, grinders, etc. But maybe I better organize the neighbors to have a communal tool box.
 
-[1034d]: https://www.brother-usa.com/homesewing/ModelDetail.aspx?ProductID=1034D "A sewing machine."
+[1034d]: https://www.brother-usa.com/products/1034d "A sewing machine."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [4000is]: https://reliablecorporation.com/products/4000is-pro-iron-station "An industrial clothes iron."
 [b17-imperial]: https://www.brooksengland.com/en_us/b17-imperial-3.html "A bike saddle."

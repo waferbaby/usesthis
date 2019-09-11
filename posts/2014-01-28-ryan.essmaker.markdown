@@ -64,7 +64,7 @@ When the budget is there, I will definitely be investing in more photography and
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [arne]: https://www.sandqvist.com/en/laptop-bag-arne-cordura-black-sqa227.html "A laptop bag."

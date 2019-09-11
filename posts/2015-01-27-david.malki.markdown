@@ -74,7 +74,7 @@ I keep my eyes open for places to move my operation... but it's only in touring 
 [kpcc-radio-ios]: https://itunes.apple.com/us/app/id293825085 "An app for Southern California Public Radio."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[machine-of-death]: http://machineofdeath.net/about/games/gca "A board game about creative assassination."
+[machine-of-death]: http://machineofdeath.net/ "A board game about creative assassination."
 [memo-notepad]: https://chrome.google.com/webstore/detail/memo-notepad/nmoihkoninaoanjobiiknmgenhpaecec "A Chrome extension for keeping notes."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
 [nasty-clamp]: http://www.nastyclamps.com/ "A somewhat obscene-looking clamp."

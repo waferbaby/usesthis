@@ -29,7 +29,7 @@ Third, some custom software: Cosmigo Pro Motion is a really cool package for doi
 
 Finally, if we're doing a dream sequence anyways, a second monitor + wacom so that the wife and I can both work on art at the same time would be nice!
 
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [canabalt-ios]: http://www.canabalt.com/ "A side-scrolling parkour game for the iPhone."
 [cfxr]: http://thirdcog.eu/apps/cfxr "8-bit sound creation tool, ported to the Mac."

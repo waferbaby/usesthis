@@ -38,7 +38,7 @@ My work over the last year hasn't been healthy by any means, but it has allowed 
 [gifme]: http://gifme.io/ "A GIF-storing service/app."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."

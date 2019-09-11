@@ -34,7 +34,7 @@ Upgrade to an Intel 256 GB SSD, 30" LCD, another height-adjustable desk at the o
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [af-nikkor-50mm-f1.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2137/AF-NIKKOR-50mm-f%252F1.8D.html "A lens for SLR cameras."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [ath-anc7b]: https://www.audio-technica.com/cms/headphones/1c7efaa15727a938/index.html "Noise-cancelling headphones."
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [compass-597]: https://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6 "A USB device for EVDO access."

@@ -35,7 +35,7 @@ I'm fairly content with what I have now, so I haven't put much thought into this
 
 In terms of travel gear, I'm looking forward to picking up Seeed Studio's [DSO Quad][dso-quad] handheld Oscilloscope. Also, after a recent near death experience while diving in Mozambique with a bad rental regulator, buying my own Aqua Lung [Mikron travel regulator][mikron] is high on my list!
 
-[179]: https://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
+[179]: https://www.fluke.com/en-us/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
 [atmos-50]: http://www.ospreypacks.com/en/product/mens/atmos_50 "A traveller's backpack."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

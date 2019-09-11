@@ -127,7 +127,7 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [monodraw]: https://monodraw.helftone.com/ "An ASCII art tool for macOS."
 [neovim]: https://neovim.io/ "A refactored vim."
 [ology]: https://www.steelcase.com/eu-en/products/desks/ology/ "An adjustable standing desk."

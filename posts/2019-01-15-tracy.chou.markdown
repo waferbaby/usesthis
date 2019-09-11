@@ -48,7 +48,7 @@ I'd replace my MacBook Pro with a [MacBook Air][macbook-air]. Long live the MacB
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [medium]: https://medium.com/ "A writing/blogging service."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

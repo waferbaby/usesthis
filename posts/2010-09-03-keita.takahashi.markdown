@@ -106,7 +106,7 @@ A big house with a vast garden. A miraculous notebook that enhances my ideas. Th
 [ipod]: https://www.apple.com/ipod/ "A music player."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [marathon-m705]: https://www.logitech.com/en-us/product/marathon-mouse-m705 "A wireless mouse."
 [menucalendarclock]: http://www.objectpark.net/mcc.html "A menubar calendar and clock"
 [mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."

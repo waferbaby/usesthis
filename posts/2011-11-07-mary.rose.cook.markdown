@@ -55,7 +55,7 @@ My dream setup would be some sort of crazy laptop that was small enough to keep 
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [neoprene-sleeve-air]: http://goincase.com/shop/incase-neoprene-sleeve-for-macbook-air-13 "A sleeve for the MacBook Air."
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."

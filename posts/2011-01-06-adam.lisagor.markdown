@@ -77,7 +77,7 @@ I pretty much have my dream setup. I really do. I'm constantly astounded that I 
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [me-66]: https://en-us.sennheiser.com/directional-microphone-shotgun-film-broadcast-me-66 "A shotgun microphone capsule."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."

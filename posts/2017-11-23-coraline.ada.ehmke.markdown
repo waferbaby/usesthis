@@ -34,7 +34,7 @@ I wouldn't change a thing about my physical space. I work from home, which is gr
 [linnstrument]: http://www.rogerlinndesign.com/linnstrument.html "A unique MIDI controller."
 [logic]: https://www.saleae.com/logic/ "A hardware debugger."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [platform]: https://output.com/products/platform "A desk designed for musical equipment."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [swift.2]: https://swift.org/ "A compiled programming language."

@@ -51,7 +51,7 @@ At both work and home I listen to [Pandora][] and [Rdio][]. Both are tuned to so
 Free, public, fast WiFi everywhere. Better battery life on everything. My own [Jarvis](http://ironman.wikia.com/wiki/J.A.R.V.I.S. "The Ironman Wikia entry on J.A.R.V.I.S."). A way to write the book on my laptop while on a beach (visible screen, sand prevention). Donut delivery service with no minimums.
 
 [adblock]: https://getadblock.com/ "A browser extension for blocking ads."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [amazonbasics-4-inch-lightning-cable]: https://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B00NH138F8 "A 4-inch Lightning cable."
 [aqua-notes]: https://www.amazon.com/Aqua-Notes-Waterproof-Notepad-Mountable/dp/B003W09LTQ "Waterproof notepads."
 [asciidoc]: http://www.methods.co.nz/asciidoc/ "A text file format and software that's easily translated to other formats."

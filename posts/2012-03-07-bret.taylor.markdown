@@ -57,7 +57,7 @@ My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I lik
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail-ios]: https://www.apple.com/ios/ios-10/ "A mail client included with iOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [pandora-ios]: https://itunes.apple.com/app/pandora-radio/id284035177 "An iPhone app for streaming your personal Pandora radio station."

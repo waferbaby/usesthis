@@ -44,7 +44,7 @@ However, I do dream of field equipment being designed with a little more care. T
 
 The majority of the mic preamps in our modern portable recorders are built to have low self noise and, sadly, low personality as well. I'd love to see the same passion for design and function be put towards the microphone preamps in some of these high end recorders. Now that we've fit them in small boxes, let's makes them more awesome. I'm okay with a slightly bigger box if large transformers need to fit in there.
 
-[2000]: https://www.lamyusa.com/us_en/fountain-pen-lamy-2000.html "A fountain pen."
+[2000]: https://www.lamy.com/en/lamy-2000/ "A fountain pen."
 [4060]: https://www.dpamicrophones.com/en/products.aspx?c=Item&item=24035 "An omnidirectional microphone."
 [744t]: https://www.sounddevices.com/products/744t/ "A four-channel recorder."
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."

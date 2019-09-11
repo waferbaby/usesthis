@@ -46,7 +46,7 @@ That, and a lint-resistant mouse wheel. How does one even clean that?
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
 [lua]: http://www.lua.org/ "An interpreted scripting language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
 [middle-manager-of-justice]: https://en.wikipedia.org/wiki/Middle_Manager_of_Justice "A simulation video game."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."

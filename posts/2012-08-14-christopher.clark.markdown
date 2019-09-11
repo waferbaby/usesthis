@@ -62,7 +62,7 @@ I'd love it if the OS had a spring-loaded mode where your finger movements count
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [my-book-for-mac]: https://www.wdc.com/en/products/products.aspx?id=250 "An external hard drive."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -36,7 +36,7 @@ On my iPhone, my most used apps are [Instapaper][instapaper-ios], [QuadCamera][q
 
 I dreamed of my current setup for years until I finally got it last year, so now that I am living the dream, most of the things I want have yet to be created. My biggest wish is for Apple to release a big-screen [iPod Touch][ipod-touch], so I can replace my MacBook Air with a more comfortable reading device.
 
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [expandrive]: https://www.expandrive.com/ "Software that makes remote servers appear as local disks."

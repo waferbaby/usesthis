@@ -70,7 +70,7 @@ I've always wanted to have some sort of underground secret laboratory. I'm compl
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[mantis-elite]: http://www.visioneng.us/products/stereo-microscopes/mantis-elite-3d-eyepieceless-inspection-microscope "A stereo microscope."
+[mantis-elite]: http://www.visioneng.us/products/stereo-microscopes/mantis-elite-3d-eyepieceless-inspection-microscope/ "A stereo microscope."
 [mplab-ide]: http://www.microchip.com/stellent/idcplg?IdcService=SS_GET_PAGE&nodeId=1406&dDocName=en019469 "A development environment for microprocessors."
 [mx-500p]: http://www.okinternational.com/hand-soldering-systems/id-MX-500P/MX-500P_Power_Supply "A soldering system."
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."

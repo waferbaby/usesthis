@@ -58,7 +58,7 @@ All of this stuff is useless if we don't share our stories with each other and e
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [omnioutliner]: https://www.omnigroup.com/omnioutliner/ "To-do/task management software for Mac OS X."

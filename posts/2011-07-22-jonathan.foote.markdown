@@ -46,7 +46,7 @@ Finally: [Python][] is just the bomb. I've been doing a lot of GUIs for [fun and
 
 Probably something like dual Apple [Cinema Displays][cinema-display], or even 42-inch plasma monitors. My own personal laser cutter. My presbyopia is getting worse while SMD chips are getting smaller and smaller, one of these days I'm going to get a pair of [these surgical telescopes][standard-field-telescopes]. Oh, even though my posture is decades away from being salvageable, a nice chair. Programmers like nice chairs.
 
-[179]: https://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
+[179]: https://www.fluke.com/en-us/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."

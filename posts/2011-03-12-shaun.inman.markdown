@@ -38,7 +38,7 @@ The usual suspects: [LaunchBar][], [Photoshop CS3][photoshop], [TextMate][], [Xc
 I'm quite happy with what I have now relative to what's currently available. Dreams though? How about *everything* wireless -- including power. Testing on variety of tethered devices is an eyesore and a tangle. I'd love a huge matte [display/dock](http://www.macrumors.com/2008/01/03/apple-creating-imac-like-docking-station/ "An old rumour about an iMac-like docking station for Apple laptops.") that concealed all of its MacBook Pro connections internally. Oh, and a nice chair. Anything would be better than the hardback dining room table chair I've been using for the past year.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [audio-overload]: https://www.bannister.org/software/ao.htm "A Mac application for emulating sound hardware from old computers/consoles."
 [c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
@@ -55,7 +55,7 @@ I'm quite happy with what I have now relative to what's currently available. Dre
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [lessn]: https://shauninman.com/archive/2009/08/17/less_n "A self-hosted URL shortener."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mimeo-ios]: https://shauninman.com/archive/2010/02/23/mimeo_and_the_kleptopus_king "An upcoming platform game for iOS."
 [mint]: https://haveamint.com/ "Self-hosted web analytics software."
 [noisees-ios]: https://shauninman.com/noisees/ "A chiptune player for iOS."

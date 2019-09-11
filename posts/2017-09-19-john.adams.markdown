@@ -121,7 +121,7 @@ If someone could invent the infinite storage disk drive with low-latency, I'll t
 I'd also like to get a 100MBit or better line from my house to the Internet. My current Internet connection is so slow, and I produce too much video to have a slow uplink.
 
 [1073-console-module]: https://en.wikipedia.org/wiki/Neve_Electronics#Neve_1073_Console_Module "A preamp."
-[179]: https://en-us.fluke.com/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
+[179]: https://www.fluke.com/en-us/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
 [70-200mm-ex-dg]: https://www.sigmaphoto.com/apo-70-200mm-f2-8-ex-dg-os-hsm "A telephoto zoom lens."
 [710-twin-finity]: https://www.uaudio.com/hardware/mic-preamps/710-twin-finity.html "A microphone preamp."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."

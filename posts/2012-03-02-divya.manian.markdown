@@ -74,7 +74,7 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mopad]: https://etherpad-mozilla.org/ "A collaborative text editor."
 [nexus-s]: http://www.google.com/nexus/ "An Android-based smartphone."
 [office]: https://products.office.com/en-us/home "An office productivity suite."

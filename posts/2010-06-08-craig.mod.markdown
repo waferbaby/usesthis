@@ -119,7 +119,7 @@ A 'creation' computer with the same specs as my 13" MacBook Pro plus a huge SSD 
 [lumix-dmc-gf1]: https://www.amazon.com/Panasonic-DMC-GF1-Four-Thirds-Interchangeable-Aspherical/dp/B002MUAEX4 "A 12.1 megapixel digital camera."
 [m9]: https://en.wikipedia.org/wiki/Leica_M9 "An 18.5 megapixel digital camera with a full-frame sensor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [noctilux-m]: https://www.amazon.com/Leica-Noctilux-M-Manual-Focus-11822/dp/B00009XW3A "A 50mm high speed aspherical camera lens."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

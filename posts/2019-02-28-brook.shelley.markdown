@@ -48,7 +48,7 @@ Honestly, I'm pretty happy hardware-wise with what I use right now. It's likely 
 [jekyll]: https://jekyllrb.com/ "A static site generator."
 [kindle-oasis]: https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [plex]: https://plex.tv/ "Media center software."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."

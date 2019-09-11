@@ -73,7 +73,7 @@ Overall, I'd like things to be simpler and more spacious.
 [ae2]: https://www.amazon.com/Bose®-AE2-audio-headphones-Black/dp/B00478O0JI "Around-the-ear headphones."
 [af-nikkor-50mm-f1.4d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1902/AF-NIKKOR-50mm-f%252F1.4D.html "A camera lens."
 [af-zoom-nikkor-18-35mm-f3.5-4.5d-if-ed]: https://www.nikonusa.com/en/nikon-products/product/camera-lenses/af-zoom-nikkor-18-35mm-f%252f3.5-4.5d-if-ed.html "A wide angle zoom lens."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."
 [d80]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25412/D80.html "A 10.2 megapixel digital SLR."
 [day-one-ios]: https://itunes.apple.com/us/app/day-one-journal/id421706526 "A journal app."

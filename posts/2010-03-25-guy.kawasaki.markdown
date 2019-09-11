@@ -42,7 +42,7 @@ I spend much of my day looking for good content for HolyKaw. The most important 
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."

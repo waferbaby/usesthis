@@ -62,7 +62,7 @@ I basically have my dream set up in a lot of ways. It would be awesome if I didn
 [ledger]: https://ledger-cli.org/ "A command-line accounting system."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
 [mutt]: http://www.mutt.org/ "A command-line email client."
 [nagios]: https://www.nagios.org/ "Software for monitoring hardware/software infrastructure."

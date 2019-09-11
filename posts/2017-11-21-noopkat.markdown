@@ -41,7 +41,7 @@ My favorite software languages to code in are [JavaScript][] and [Python][].
 Ideally I'd like to work from a room with very large windows and trees outside. I love watching birds and other animals while I'm thinking. I would love a minimalist, white desk (a real one). An additional, separate work desk for soldering and making messy things would be so amazing. I currently program and solder on the same desk, so it's not very roomy or practical. I really like the idea of having multiple screens, like in a clichéd hollywood hacker movie. Right now I don't have the space for many screens. I would fill the rest of the space with plants and the art of my friends. Most of all, I relish a quiet environment. I have adapted to noisy New York City, but love and miss true silence all the same!
 
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
-[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [azure]: https://azure.microsoft.com/en-us/ "A cloud computing platform."
 [bistro]: https://www.bodum.com/us/en/10903-01us "A coffee grinder."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

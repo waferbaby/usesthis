@@ -78,7 +78,7 @@ I'm actually quite enamored with my current setup. I love my desk, my current am
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."
 [mindmanager-mac]: https://www.mindjet.com/mindmanager/ "A mind mapping tool for the Mac."

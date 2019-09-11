@@ -50,7 +50,7 @@ There seem to be more and more apps that take what you've already discovered and
 [150-series]: https://www.mrporter.com/en-au/mens/accessories/watches/fashion_watches?soldOutId=351984 "A fancy watch."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [automator]: https://en.wikipedia.org/wiki/Automator_(software) "Software included with Mac OS X for creating script-based workflows."

@@ -68,7 +68,7 @@ I'm pretty attached to my Aeron chair, but I've read so much about standing desk
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [matlab]: https://en.wikipedia.org/wiki/MATLAB "A language and environment for data computation."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."

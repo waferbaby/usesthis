@@ -69,7 +69,7 @@ There - I'm right back to being as big a selfish, materialistic jerk as anyone w
 [2.4-ghz-cordless-presenter]: https://www.amazon.com/Logitech-2-4-Cordless-Presenter-Black/dp/B0007KVK8E "A cordless presenter."
 [acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
 [address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [busycal]: http://www.busymac.com/busycal/ "Advanced calendar software for Mac OS X."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."

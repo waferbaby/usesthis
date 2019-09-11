@@ -73,7 +73,7 @@ I've iterated a lot on my tools and am very pleased with the choices themselves.
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [lumix-dmc-gf7kk]: https://shop.panasonic.com/cameras-and-camcorders/cameras/lumix-interchangeable-lens-ilc-cameras/DMC-GF7KK.html "A compact mirrorless camera."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mailbox]: http://www.mailboxapp.com/ "A email client."
 [maple-monitor-stand]: https://grovemade.com/product/maple-monitor-stand/ "A wooden monitor stand."
 [mars-draft-0.7mm]: https://www.amazon.com/Staedtler-Drafting-Technical-Mechanical-92507BK/dp/B0018176XY "A drafting pencil."

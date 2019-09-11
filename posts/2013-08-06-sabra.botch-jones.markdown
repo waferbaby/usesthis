@@ -48,7 +48,7 @@ I am not a very "techie" person other than talking about instrumentation, but I 
 [lcquan]: https://www.thermofisher.com/order/catalog/product/LCQUAN25 "Quantitative software."
 [linkedin]: https://www.linkedin.com "A business-focused social network."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [multiquant]: https://sciex.com/products/software/multiquant-software "Drug analysis and quantitation software."
 [navitrak]: https://immunalysis.com/systems/software/ "Software for tracking toxicology samples."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."

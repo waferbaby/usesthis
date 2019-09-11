@@ -66,7 +66,7 @@ Oh, and I'd love to own a [Wacom Cintiq][cintiq] (at least 21", I suppose), but 
 [linkinus]: https://en.wikipedia.org/wiki/Linkinus "An IRC client for Mac OS X."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [marvel-comics-ios]: https://itunes.apple.com/us/app/marvel-comics/id350027738 "A comic reading app."
 [messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."

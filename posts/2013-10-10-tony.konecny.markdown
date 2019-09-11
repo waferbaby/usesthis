@@ -41,7 +41,7 @@ On my iPad I use [Instapaper][instapaper-ios] and [Flipboard][flipboard-ios] for
 A hammock, a wood burning stove, a garden, a well stocked library and liquor cabinet. Maybe some goats. From a coffee perspective, I'm almost living my dream setup with everything from our roasting and lab equipment to a massive toy chest of brewing devices.
 
 [adobe-ideas-ios]: https://itunes.apple.com/us/app/adobe-ideas-1-0-for-ipad/id364617858 "A digital sketchbook app for iOS."
-[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

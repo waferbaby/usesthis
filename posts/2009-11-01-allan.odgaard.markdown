@@ -51,7 +51,7 @@ A more open system. Faster/bigger/better is second to having an open system, bec
 For example I mentioned above I have 3 AirTunes units, so in theory I could write a simple script to download the morning (radio) news and have it play in my bedroom at 7 AM, e.g. by converting the downloaded file to AIFF and writing it to /dev/bedroom_airport (so maybe 5 lines of bash) - unfortunately the public news channel uses proprietary stuff to stream the news and Apple only allow for iTunes to stream to the AirTunes unit (ok, so maybe I can subscribe to the news via iTunes and do an AppleScript to script iTunes, but I shouldn't have to rely on someone else having allowed the scenario).
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [cmake]: https://cmake.org/ "An open-source cross-platform build tool."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."

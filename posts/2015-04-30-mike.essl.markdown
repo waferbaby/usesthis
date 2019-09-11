@@ -73,7 +73,7 @@ To be honest this is my dream set up. I would love a newer iMac with a larger re
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [little-snitch]: https://www.obdev.at/products/littlesnitch/index.html "Mac firewall software for apps."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mamp-pro]: https://www.mamp.info/en/mamp-pro/ "A commercial one-click Mac solution for Apache, MySQL and PHP."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [marked]: https://marked2app.com/ "A Markdown preview tool for Mac text editors."

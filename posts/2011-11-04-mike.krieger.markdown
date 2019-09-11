@@ -63,7 +63,7 @@ Syncing the desktop & laptop is still a pain, even with [Dropbox][] and shared [
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [rdio-ios]: https://itunes.apple.com/us/app/rdio/id335060889 "An Rdio client for iOS."

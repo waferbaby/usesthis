@@ -76,7 +76,7 @@ I'm pretty happy with my setup but there are a few things I'd like to add such a
 [m510]: https://www.logitech.com/en-us/product/wireless-mouse-m510 "A wireless mouse."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [miro-video-converter]: http://ftp.osuosl.org/pub/pculture.org/mirovideoconverter/ "Open-source video conversion software."
 [mke-600]: https://en-us.sennheiser.com/camera-mic-dslr-shotgun-video-mke-600 "A microphone."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."

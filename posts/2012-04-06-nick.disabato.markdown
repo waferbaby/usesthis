@@ -38,8 +38,8 @@ It's cliché to say at this point, but cloud services have been tremendously use
 A fast bike, no traffic, no headwind, a bonfire from salvaged alley wood, one or two nice beers, and good conversations with smart, kind people. I can't help the headwind or the traffic, but I'm always working on everything else.
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[airport-express]: https://www.apple.com/airport-express/ "A small wireless access point."
-[airport-extreme]: https://www.apple.com/airport-extreme/ "A wireless access point."
+[airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
+[airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [birdbrain-ios]: http://birdbrainapp.com/ "An app that tracks changes in your Twitter account."
 [buster-ios]: https://itunes.apple.com/us/app/buster-the-chicago-bus-train/id312109511 "A Chicago bus and train tracker for iOS."

@@ -50,7 +50,7 @@ My dream setup is actually an unlimited supply of [Pimm's cup](http://en.wikiped
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [mutt]: http://www.mutt.org/ "A command-line email client."

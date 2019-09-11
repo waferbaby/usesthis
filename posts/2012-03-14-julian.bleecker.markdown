@@ -46,7 +46,7 @@ The dream setup is a studio that's a short bike's ride from home. In front would
 
 In back would be a 40 foot x 40 foot pitch of back garden with a fire pit, outdoor kitchen and a wall where we could show movies all year round in the California evenings. Attached and visible through a wall of sound muffling glass would be the shop. A big shop with CNC machines, clean room, electronics assembly and fabrication, hand tools, finishing tools, cutters both material and laser and a 3D printer that wouldn't be fetishized but used to compliment proper designing and making.
 
-[1510-carry-on-case]: https://www.pelican.com:443/us/en/product/watertight-protector-hard-cases/medium-case/carry-on-case/1510/ "A solid camera case that meets airline standards for carry-on luggage."
+[1510-carry-on-case]: https://www.pelican.com/us/en/product/cases/carry-on-case/protector/1510 "A solid camera case that meets airline standards for carry-on luggage."
 [2738]: http://www.aoyue.com/en/ArticleShow.asp?ArticleID=329 "A soldering station."
 [33xr]: https://www.tequipment.net/WavetekMeterman33XR.html "A digital multimeter."
 [382213]: http://www.extech.com/instruments/product.asp?catid=39&prodid=212 "A DC power supply."

@@ -48,7 +48,7 @@ I take notes the old-fashioned high school way: with post its, colored pens, and
 I can't wait for Google Fiber to be local. And I'm number 1306 for [Google Glass][google-glass] -- just giddy thinking of the data I'll be able to track.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[aeropress]: https://aeropressinc.com/ "A pressure-based coffee/espresso maker."
+[aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."

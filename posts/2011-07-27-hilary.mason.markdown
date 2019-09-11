@@ -50,7 +50,7 @@ If I have to choose something that exists today, I'd probably use just my 11" Ma
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
-[magic-mouse]: https://www.apple.com/magicmouse/ "A multi-touch mouse."
+[magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
 [python]: https://www.python.org/ "An interpreted scripting language."

@@ -161,7 +161,7 @@ That's my dream setup.
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [macports]: https://www.macports.org/ "A collection of *nix software ported to Mac OS X."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [magsafe]: https://en.wikipedia.org/wiki/MagSafe "A magnetic power connector."
 [mirc]: https://www.mirc.com/ "An IRC client for Windows."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."

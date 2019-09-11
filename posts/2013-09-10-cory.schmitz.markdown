@@ -49,7 +49,7 @@ I just want a bigger/nicer desk & then I'll be all set <3
 [karma]: https://yourkarma.com/ "A portable WiFi hotspot."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-trackpad]: https://www.apple.com/magictrackpad/ "A trackpad for desktop machines."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mailbox]: http://www.mailboxapp.com/ "A email client."
 [mdr-v6]: https://www.amazon.com/Sony-MDRV6-Studio-Monitor-Headphones/dp/B00001WRSJ "Studio headphones."
