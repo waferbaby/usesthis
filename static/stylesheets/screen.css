@@ -319,8 +319,9 @@ margin-bottom: 10px;
   
   img.detail, img.portrait {
   height: auto;
+  max-width: 100%;
   padding: 0;
-  width: 100%;
+  width: auto;
   }
 
   p#description {
