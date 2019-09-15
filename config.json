@@ -34,7 +34,8 @@
   },
 
   "pagination": {
-    "page_prefix": "?page="
+    "page_prefix": "?page=",
+    "per_page": 5
   },
 
   "data": {
