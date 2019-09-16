@@ -4,7 +4,7 @@ title: Categories
 ---
 
 <h2>Categories</h2>
-<p>There are currently <strong><%= site.categories.count %></strong> categories on the site.</p>
+<p>There are currently <%= site.categories.count %> categories on the site.</p>
 
 <% ('a'..'z').each do |letter| %>
   <% unless (slugs = site.categories.keys.select { |key| key[0] == letter }.sort).empty? %>
