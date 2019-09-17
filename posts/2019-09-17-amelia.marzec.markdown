@@ -12,7 +12,7 @@ I'm [Amelia Marzec](http://www.ameliamarzec.com/ "Amelia's website."), and I'm a
 
 ### What hardware do you use?
 
-So much hardware, but usually materials that other people don't want, or the simplest possible solution to a problem. Old [Android][] phones. Damaged or poor quality audio equipment, I really enjoy how they have their own individual character. I use [Arduinos][arduino] a lot, and sometimes other modules; micro radio modules, [FMST-100][] is nice. Cheap sensors. I have a handful of Radio Shack / discount store mics. An unpredictable laser printer from an office. Obviously multimeters, soldering stuff. I use a sewing machine, and I have a couple cameras, mostly for documentation. I build a decent amount of stuff so sometimes need access to a woodshop. I use paint samples from the hardware store; plastic bags and plastic sheeting; aluminum pans, street wood. A notebook. Oh, and a Mac laptop.
+So much hardware, but usually materials that other people don't want, or the simplest possible solution to a problem. Old [Android][] phones. Damaged or poor quality audio equipment, I really enjoy how they have their own individual character. I use [Arduinos][arduino] a lot, and sometimes other modules; micro radio modules, [FMST-100][] is nice. Cheap sensors. I have a handful of Radio Shack/discount store mics. An unpredictable laser printer from an office. Obviously multimeters, soldering stuff. I use a sewing machine, and I have a couple cameras, mostly for documentation. I build a decent amount of stuff so sometimes need access to a woodshop. I use paint samples from the hardware store; plastic bags and plastic sheeting; aluminum pans, street wood. A notebook. Oh, and a Mac laptop.
 
 ### And what software?
 
