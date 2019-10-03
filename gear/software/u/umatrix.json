@@ -1,0 +1,5 @@
+{
+  "name": "uMatrix",
+  "description": "A browser extension for filtering request types.",
+  "url": "https://github.com/gorhill/uMatrix"
+}
