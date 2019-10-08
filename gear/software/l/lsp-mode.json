@@ -1,0 +1,5 @@
+{
+  "name": "lsp-mode",
+  "description": "A Language Server Protocol mode for Emacs.",
+  "url": "https://github.com/emacs-lsp/lsp-mode"
+}

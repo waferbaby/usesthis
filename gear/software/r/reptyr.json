@@ -1,0 +1,5 @@
+{
+  "name": "reptyr",
+  "description": "A tool for attaching a running program to a different terminal.",
+  "url": "https://github.com/nelhage/reptyr"
+}
