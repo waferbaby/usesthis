@@ -1,0 +1,5 @@
+{
+  "name": "rustc",
+  "description": "The Rust compiler.",
+  "url": "https://www.rust-lang.org/tools/install"
+}

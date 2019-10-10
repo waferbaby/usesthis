@@ -1,0 +1,5 @@
+{
+  "name": "ocamlc",
+  "description": "The OCaml compiler.",
+  "url": "http://caml.inria.fr/pub/docs/manual-ocaml/comp.html"
+}

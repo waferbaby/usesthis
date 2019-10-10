@@ -1,0 +1,5 @@
+{
+  "name": "swiftc",
+  "description": "The Swift compiler.",
+  "url": "https://swift.org/compiler-stdlib/"
+}
