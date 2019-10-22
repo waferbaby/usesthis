@@ -11,7 +11,7 @@ categories:
 
 I'm Pier, and I usually find it hard to put myself in a box, but I generally fit under the creative technologists' label. I studied Cinema and Media Engineering and Interaction Design, and since studying I've been constantly at the intersection between design and technology. In my every day life I create in code and atoms, I build things with behaviors, I dress spaces with interactivity, I solder, I make pictures, I teach and sometimes I sail as well. 
 
-You can find some of my work at [www.pierdr.com](http://pierdr.com/ "Pierluigi's website.")
+You can find some of my work at [www.pierdr.com](http://pierdr.com/ "Pierluigi's website.").
 
 ### What hardware do you use?
 
