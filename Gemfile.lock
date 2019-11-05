@@ -12,7 +12,7 @@ GEM
     multipart-post (2.1.1)
     optimist (3.0.0)
     redcarpet (3.4.0)
-    tilt (2.0.9)
+    tilt (2.0.10)
 
 PLATFORMS
   ruby
