@@ -47,18 +47,14 @@ margin: 0;
 padding: 0;
 }
 
-div#wrapper {
-margin: auto;
-max-width: 600px;
-}
-
 div.e-content p {
 line-height: 1.7em;
 }
 
 header#masthead {
 display: grid;
-margin-bottom: 25px;
+margin: auto;
+max-width: 650px;
 }
 
 header#masthead nav {
@@ -154,6 +150,9 @@ padding: 0;
 
 img.detail, img.portrait {
 border: solid 1px var(--image-border-colour);
+height: auto;
+padding: 0;
+width: 100%;
 }
 
 li {
@@ -162,7 +161,7 @@ padding: 5px;
 
 main {
 margin: auto;
-max-width: 550px;
+max-width: 600px;
 }
 
 main > h2 + p {
@@ -317,13 +316,6 @@ margin-bottom: 10px;
   text-align: center;
   }
   
-  img.detail, img.portrait {
-  height: auto;
-  max-width: 100%;
-  padding: 0;
-  width: auto;
-  }
-
   p#description {
   border: 0;
   grid-column: 1;
