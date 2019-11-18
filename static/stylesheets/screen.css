@@ -41,7 +41,7 @@ background-repeat: no-repeat;
 background-size: 100% 250px;
 color: #000;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-font-size: 1.25em;
+font-size: 1.3em;
 line-height: 1.4em;
 margin: 0;
 padding: 0;
@@ -54,16 +54,16 @@ line-height: 1.7em;
 header#masthead {
 display: grid;
 margin: auto;
-max-width: 650px;
+max-width: 580px;
 }
 
 header#masthead nav {
 border-bottom: solid 1px var(--divider-colour);
 border-top: solid 1px var(--divider-colour);
-font-size: 75%;
+font-size: 85%;
 grid-column: 1/3;
 grid-row: 2;
-margin: 5px 0;
+margin: 5px 0 25px 0;
 padding: 10px 25px;
 text-transform: uppercase;
 }
@@ -104,7 +104,7 @@ padding: 0;
 
 h1 {
 color: var(--usesthis-pink);
-font-size: 250%;
+font-size: 280%;
 line-height: 1em;
 margin: 0;
 padding: 0;
@@ -150,9 +150,7 @@ padding: 0;
 
 img.detail, img.portrait {
 border: solid 1px var(--image-border-colour);
-height: auto;
 padding: 0;
-width: 100%;
 }
 
 li {
@@ -161,7 +159,7 @@ padding: 5px;
 
 main {
 margin: auto;
-max-width: 600px;
+max-width: 500px;
 }
 
 main > h2 + p {
@@ -228,7 +226,7 @@ justify-self: end;
 p#description {
 align-self: center;
 border-left: solid 1px var(--divider-colour);
-color: #666;
+color: #888;
 font-size: 70%;
 margin-left: 30px;
 padding: 0 20px;
@@ -315,7 +313,12 @@ margin-bottom: 10px;
   header#masthead nav ul {
   text-align: center;
   }
-  
+
+  img.detail, img.portrait {
+  height: auto;
+  width: 100%;
+  }
+
   p#description {
   border: 0;
   grid-column: 1;
