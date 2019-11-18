@@ -40,40 +40,38 @@
   <% end %>
   </head>
   <body>
-    <div id="wrapper">
-      <header id="masthead">
-        <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
-        <p id="description"><%= site.data.description %></p>
-        <nav>
-          <ul>
-            <li><a href="/" title="The most recent interviews.">Home</a></li>
-            <li><a href="/archives/" title="All of the interviews, organised by date.">Archives</a></li>
-            <li><a href="/categories/" title="All of the interview categories.">Categories</a></li>
-            <li><a href="/about/" title="General site information and FAQ.">About</a></li>
-          </ul>
-        </nav>
-      </header>
-      <main>
-        <%= yield %>
-      </main>
-      <footer>
-        <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
-        <form id="search" method="get" action="https://duckduckgo.com/">
-          <label><strong>Search:</strong>
-          <input type="search" name="q" placeholder="MacBook Pro">
-          </label>
-          <input type="hidden" name="sites" value="usesthis.com">
-          <input type="submit" value="Go">
-        </form>
-        <nav>
-          <ul>
-            <li><a href="/feed.atom" title="The Atom feed.">Atom Feed</a></li>
-            <li><a href="/feed.json" title="The JSON feed.">JSON Feed</a></li>
-            <li><a href="/api/" title="The API documentation.">API</a></li>
-            <li><a href="https://www.patreon.com/waferbaby" title="Sponsor Uses This on Patreon.">Sponsor</a></li>
-          </ul>
-        </nav>
-      </footer>
-    </div>
+    <header id="masthead">
+      <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
+      <p id="description"><%= site.data.description %></p>
+      <nav>
+        <ul>
+          <li><a href="/" title="The most recent interviews.">Home</a></li>
+          <li><a href="/archives/" title="All of the interviews, organised by date.">Archives</a></li>
+          <li><a href="/categories/" title="All of the interview categories.">Categories</a></li>
+          <li><a href="/about/" title="General site information and FAQ.">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <%= yield %>
+    </main>
+    <footer>
+      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
+      <form id="search" method="get" action="https://duckduckgo.com/">
+        <label><strong>Search:</strong>
+        <input type="search" name="q" placeholder="MacBook Pro">
+        </label>
+        <input type="hidden" name="sites" value="usesthis.com">
+        <input type="submit" value="Go">
+      </form>
+      <nav>
+        <ul>
+          <li><a href="/feed.atom" title="The Atom feed.">Atom Feed</a></li>
+          <li><a href="/feed.json" title="The JSON feed.">JSON Feed</a></li>
+          <li><a href="/api/" title="The API documentation.">API</a></li>
+          <li><a href="https://www.patreon.com/waferbaby" title="Sponsor Uses This on Patreon.">Sponsor</a></li>
+        </ul>
+      </nav>
+    </footer>
   </body>
 </html>
