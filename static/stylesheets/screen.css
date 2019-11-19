@@ -54,7 +54,7 @@ line-height: 1.7em;
 header#masthead {
 display: grid;
 margin: auto;
-max-width: 580px;
+max-width: 650px;
 }
 
 header#masthead nav {
@@ -150,7 +150,9 @@ padding: 0;
 
 img.detail, img.portrait {
 border: solid 1px var(--image-border-colour);
+height: auto;
 padding: 0;
+width: 100%;
 }
 
 li {
@@ -159,7 +161,7 @@ padding: 5px;
 
 main {
 margin: auto;
-max-width: 500px;
+max-width: 600px;
 }
 
 main > h2 + p {
@@ -312,11 +314,6 @@ margin-bottom: 10px;
 
   header#masthead nav ul {
   text-align: center;
-  }
-
-  img.detail, img.portrait {
-  height: auto;
-  width: 100%;
   }
 
   p#description {
