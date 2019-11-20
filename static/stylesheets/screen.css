@@ -150,7 +150,7 @@ padding: 0;
 
 img.detail, img.portrait {
 border: solid 1px var(--image-border-colour);
-height: auto;
+height: 100%;
 padding: 0;
 width: 100%;
 }
