@@ -54,7 +54,7 @@ line-height: 1.7em;
 header#masthead {
 display: grid;
 margin: auto;
-max-width: 650px;
+max-width: 600px;
 }
 
 header#masthead nav {
@@ -150,24 +150,26 @@ padding: 0;
 
 img.detail, img.portrait {
 border: solid 1px var(--image-border-colour);
-height: 100%;
 padding: 0;
-width: 100%;
 }
 
 li {
-padding: 5px;
+padding: 0;
 }
 
 main {
 margin: auto;
-max-width: 600px;
+max-width: 550px;
 }
 
 main > h2 + p {
 margin: 10px 0 20px 0;
 padding-bottom: 15px;
 border-bottom: solid 1px var(--divider-colour);
+}
+
+main ul {
+font-size: 85%;
 }
 
 nav a {
@@ -314,6 +316,13 @@ margin-bottom: 10px;
 
   header#masthead nav ul {
   text-align: center;
+  }
+
+  img.detail, img.portrait  {
+  height: 100%;
+  min-height: 167px;
+  min-width: 250px;
+  width: 100%;
   }
 
   p#description {
