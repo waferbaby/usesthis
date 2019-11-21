@@ -293,6 +293,17 @@ margin-bottom: 10px;
   padding: 20px;
   }
 
+  figure {
+  height: 0;
+  margin-bottom: 15px;
+  padding-top: calc(67 / 100 * 100%);
+  position: relative;
+  }
+
+  figcaption {
+  float: left;
+  }
+
   h1 {
   place-self: center;
   }
@@ -303,6 +314,10 @@ margin-bottom: 10px;
 
   h1 a span {
   display: inline;
+  }
+
+  h2 {
+  clear: left;
   }
 
   header#masthead {
@@ -320,8 +335,9 @@ margin-bottom: 10px;
 
   img.detail, img.portrait  {
   height: 100%;
-  min-height: 167px;
-  min-width: 250px;
+  left: 0;
+  position: absolute;
+  top: 0;
   width: 100%;
   }
 
