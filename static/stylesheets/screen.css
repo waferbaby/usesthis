@@ -41,7 +41,7 @@ background-repeat: no-repeat;
 background-size: 100% 250px;
 color: #000;
 font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-font-size: 1.3em;
+font-size: 1.1em;
 line-height: 1.4em;
 margin: 0;
 padding: 0;
@@ -91,7 +91,7 @@ margin: 0 0 10px 0;
 
 footer {
 border-top: solid 1px var(--divider-colour);
-font-size: 70%;
+font-size: 75%;
 margin-top: 20px;
 padding: 10px;
 text-align: center;
@@ -243,7 +243,7 @@ font-size: 70%;
 p.details {
 border-bottom: solid 1px var(--divider-colour);
 color: var(--details-colour);
-font-size: 70%;
+font-size: 80%;
 margin: 0;
 padding: 0 0 15px 0;
 }
@@ -266,7 +266,7 @@ padding: 20px;
 
 span.summary {
 color: var(--summary-colour);
-font-size: 80%;
+font-size: 90%;
 }
 
 ul {
