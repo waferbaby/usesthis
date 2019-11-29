@@ -36,7 +36,7 @@ I use [Vim][] regularly when I work on my websites and some game backend stuff i
 
 I use [Git][] for code with [Git LFS][git-large-file-storage] because game assets can be sizeable.
 
-I use [Resilio Sync][resilio-sync], for synchronizing non-code, file sTorage across my computers. It functions like [Dropbox][] but it's decentralized and uses the BitTorrent protocol.
+I use [Resilio Sync][resilio-sync], for synchronizing non-code, file storage across my computers. It functions like [Dropbox][] but it's decentralized and uses the BitTorrent protocol.
 
 [Gimp][] for modest alterations the game assets that my artist provides.
 
