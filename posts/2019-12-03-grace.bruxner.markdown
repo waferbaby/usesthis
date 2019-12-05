@@ -5,6 +5,8 @@ categories:
 - designer
 - game
 - windows
+credits:
+  name: Izzy Gramp
 ---
 
 ### Who are you, and what do you do?
