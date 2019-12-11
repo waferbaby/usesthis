@@ -1,7 +1,0 @@
-#!/usr/bin/env sh
-
-bundle update
-git pull
-
-bundle exec dimples build
-bundle exec tasks/build_api
