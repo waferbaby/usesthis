@@ -1,6 +1,6 @@
 ---
 title: Nick Suttner
-summary: Writer, designer, game consultant 
+summary: Game writer, designer, consultant
 categories:
 - designer
 - game
