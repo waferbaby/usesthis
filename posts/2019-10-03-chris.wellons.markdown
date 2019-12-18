@@ -40,7 +40,7 @@ I use [mpv][] for most media consumption. Its minimalistic keyboard interface is
 
 I've invested a lot of time getting everything just the way I like it, so my dream setup isn't much different from what I already use! It would be what I have now, minus the bugs.
 
-Honestly, my dream setup is less about me and more about the people around me. The biggest issues with my existing setup involve working around *other* people's setups, particularly when they're using subpar software and they don't even realize it. Other people's limitations can limit me when I need to be compatible. Passive "choices" can negatively influence the future direction of technology, particularly when [dark patterns](https://www.darkpatterns.org/ "A website explaning dark patterns.") are involved.
+Honestly, my dream setup is less about me and more about the people around me. The biggest issues with my existing setup involve working around *other* people's setups, particularly when they're using subpar software and they don't even realize it. Other people's limitations can limit me when I need to be compatible. Passive "choices" can negatively influence the future direction of technology, particularly when [dark patterns](https://www.darkpatterns.org/ "A website explaining dark patterns.") are involved.
 
 And my role as an open source enthusiast, developer, and writer is to improve this situation, either through education or simply creating better tools!
 
