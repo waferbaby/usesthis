@@ -31,7 +31,7 @@ I'm [Lauren Cason](https://www.laurencason.com/ "Lauren's website."). In my [per
 - [Spark AR][spark-ar-studio] for filter work, and I'm exploring [Lens Studio][lens-studio].
 
 ### What would be your dream setup?
-I'm a big fan of Apple hardware - I wish I could have a [MacBook][macbook.2] as my main XR development laptop, and my iPad Pro as all I needed for drawing. The iPad is almost there, there's just a couple things I need Photoshop for still. I still can't use a lot of headsets very effectively with a Mac though, so, someday hopfully! If it were just those two I would be so mobile! That would be my dream, actual mobility with this sort of work, and not being quite so tied to my desk.
+I'm a big fan of Apple hardware - I wish I could have a [MacBook][macbook.2] as my main XR development laptop, and my iPad Pro as all I needed for drawing. The iPad is almost there, there's just a couple things I need Photoshop for still. I still can't use a lot of headsets very effectively with a Mac though, so, someday hopefully! If it were just those two I would be so mobile! That would be my dream, actual mobility with this sort of work, and not being quite so tied to my desk.
 
 [cintiq-pro]: https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-overview "A display you can draw on."
 [hololens]: http://www.microsoft.com/microsoft-hololens/en-us "A holographic VR system."
