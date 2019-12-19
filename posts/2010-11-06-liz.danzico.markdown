@@ -79,4 +79,4 @@ I dream about having an iPhone and now an iPad with a built-in pico projector. T
 [textexpander]: https://smilesoftware.com/textexpander "A Mac app for adding custom abbreviations for often-used text."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [wordpress-mu]: https://mu.wordpress.org/ "A multi-weblog self-hosted publishing tool."
-[writeboard]: https://basecamp.com/retired/writeboard "Web-based sharable text document."
+[writeboard]: https://basecamp.com/retired/writeboard "Web-based shareable text document."
