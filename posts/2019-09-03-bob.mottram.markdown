@@ -24,7 +24,7 @@ My mobile phone is an increasingly archaic Samsung [Galaxy S4][galaxy-s4] with a
 
 I also have some single board computers for testing. [BeagleBone Blacks][beaglebone-black], [ODROID][] and [Cubieboard][]. They're also not exactly the latest thing, but good enough for testing server deployments. I use an old Samsung [N140][netbook-n140] netbook for serial access to single board computers so that I can debug the boot sequence or update router firmware when necessary. The netbook has also been retrofitted with an SSD and replacement Atheros wifi.
 
-My server is currently an old quad core Levovo laptop with 8GB RAM and a 240GB SSD which was donated in 2012. Its screen is broken, but that doesn't affect its performance as a server. I also removed the wifi card since it wasn't needed in this use case and otherwise merely creates attack surface.
+My server is currently an old quad core Lenovo laptop with 8GB RAM and a 240GB SSD which was donated in 2012. Its screen is broken, but that doesn't affect its performance as a server. I also removed the wifi card since it wasn't needed in this use case and otherwise merely creates attack surface.
 
 ### And what software?
 
@@ -42,7 +42,7 @@ In an ideal world I would be as technologically autonomous as possible and be ru
 
 In terms of hardware ideally I would be using open hardware designs with no proprietary drivers, and computers would be more repairable than they currently are. So my dream setup would be something which doesn't presently exist but might in future. A phone based on an open hardware design running either a full GNU/Linux or [Android][] with a mainline kernel would be ideal. I know there are people working towards that, but it might still be a while before anything similar is available in my price range.
 
-My ideal laptop would have metal casing, a mechanical keyboard similar to some early machines from the 1990s (I don't care if that makes it physically thicker) and be similar to the EOMA68 concept in that the computing electronics would be swapable. Something like a pi-top, but better build quality.
+My ideal laptop would have metal casing, a mechanical keyboard similar to some early machines from the 1990s (I don't care if that makes it physically thicker) and be similar to the EOMA68 concept in that the computing electronics would be swappable. Something like a pi-top, but better build quality.
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [arch-linux]: https://www.archlinux.org/ "A Linux distro."
