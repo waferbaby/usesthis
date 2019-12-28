@@ -4,7 +4,7 @@ summary: Technologist
 categories:
 - artist
 - mac
-- sysadmin
+- systems
 ---
 
 ### Who are you, and what do you do?
