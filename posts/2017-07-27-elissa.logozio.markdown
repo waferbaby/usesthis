@@ -37,7 +37,7 @@ If I have access to my laptops, the [Adobe Creative Suite][creative-suite] is 
 
 If I'm "Mobile":
 
-My [iPhone 6s][iphone-6s] is usually active if I'm running around: the [Mail][mail-ios], [Notes][notes-ios], Calculator, [Google Drive][google-drive-ios], [Waze][waze-ios], [Play Music][google-play-music-ios], and [Spotify][spotify-ios] apps are probably utilized the most. I also get a lot of my inspiration from exploring outdoors -- so the use of design apps are a necessity: the [VSCO][vsco-cam-ios], [Word Swag][word-swag-ios], [Photos][photos-ios], and [Over][over-ios] apps are my go-to elements if I want to take or edit photos on the fly.
+My [iPhone 6s][iphone-6s] is usually active if I'm running around: the [Mail][mail-ios], [Notes][notes-ios], Calculator, [Google Drive][google-drive-ios], [Waze][waze-ios], [Play Music][google-play-music-ios], and [Spotify][spotify-ios] apps are probably utilized the most. I also get a lot of my inspiration from exploring outdoors -- so the use of design apps are a necessity: the [VSCO][vsco-ios], [Word Swag][word-swag-ios], [Photos][photos-ios], and [Over][over-ios] apps are my go-to elements if I want to take or edit photos on the fly.
 
 ### What would be your dream setup?
 
@@ -63,6 +63,6 @@ My dream setup is all about comfort, endurance, and ease of use. With that being
 [photos-ios]: https://en.wikipedia.org/wiki/Photos_(Apple) "The built-in photo app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [spotify-ios]: https://itunes.apple.com/us/app/spotify/id324684580 "An iOS client for the music service."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [waze-ios]: https://itunes.apple.com/us/app/waze-social-gps-traffic/id323229106 "A social GPS and traffic app."
 [word-swag-ios]: https://itunes.apple.com/us/app/word-swag-cool-typography/id645746786 "An app for adding text to photos."

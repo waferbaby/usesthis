@@ -24,7 +24,7 @@ Hi, I'm Brent Knepper! I'm a freelance photographer in Chicago, and I run a phot
 
 **Computer Software:** [Photo Mechanic][photo-mechanic] to sort and add metadata, [Lightroom][] with VSCO presets. I don't really use [Photoshop][] as I never want to do a lot of retouching on my photos.
 
-**iPad Software:** [VSCO Cam][vsco-cam-ios] for the iPhone blown up 2x so it looks super terrible. Like just really really bad. I'm always surprised how good the pictures look once I'm back on a native-res application, though.
+**iPad Software:** [VSCO Cam][vsco-ios] for the iPhone blown up 2x so it looks super terrible. Like just really really bad. I'm always surprised how good the pictures look once I'm back on a native-res application, though.
 
 ### What would be your dream setup?
 
@@ -59,5 +59,5 @@ If I could really make the jump into doing a lot more work personally and profes
 [quadra-hybrid-rx]: https://www.elinchrom.com/product/Quadra-Hybrid-RX.html "A set of camera lights."
 [stylus-pro-9900]: https://www.amazon.com/Epson-STYLUS-9900-44IN-PLOT/dp/B001MYAHQ0 "A large format printer."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [x-pro1]: http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x_pro1/ "A 16 megapixel fancy camera."

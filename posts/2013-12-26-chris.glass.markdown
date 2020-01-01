@@ -30,7 +30,7 @@ I live largely in Adobe's [Creative Cloud][creative-cloud] suite, which is a pre
 
 I power up [Espresso][] begrudgingly (wishing it was still *just* [CSSEdit][]) when I want to ruin style sheets.
 
-I use [Lightroom][] with [VSCO Film][vsco-film] presets for photo editing. I've been using the film packs from VSCO since my trip to Russia. If you check out the photos in [my album](http://chrisglass.com/album/ "Chris' photos.") for the past year or so, rollover each image to see how it looked before processing. I really like the subtleties that can be achieved with their presets. (The new [VSCO Phone app][vsco-cam-ios] is right up there and the simplicity).
+I use [Lightroom][] with [VSCO Film][vsco-film] presets for photo editing. I've been using the film packs from VSCO since my trip to Russia. If you check out the photos in [my album](http://chrisglass.com/album/ "Chris' photos.") for the past year or so, rollover each image to see how it looked before processing. I really like the subtleties that can be achieved with their presets. (The new [VSCO Phone app][vsco-ios] is right up there and the simplicity).
 
 Other apps commonly in my dock? [Mail][], [Keynote][], [Skype][] and [Chrome][]. I use [Wunderlist][] on my laptop and phone to organize and synchronize ideas, goals and a slew of lists, including grocery. [Dropbox][] is always running.
 
@@ -72,6 +72,6 @@ My super dream setup would include an open floor plan kitchen, couch, fireplace 
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
 [vsco-film]: https://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."

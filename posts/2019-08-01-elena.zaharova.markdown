@@ -41,7 +41,7 @@ I have dozens of lists in [Notes][] and have quite a system there. My main lists
 
 I use [1Password][] for passwords, credit cards and important notes on both desktop and mobile. This app is really a life changing experience. 
 
-I use [Lightroom][] for photo editing. Even iPhone shots. The first thing to love about Lightroom is their amazing perspective autocorrection. For [Instagram][] posting, I prefer [VSCO][vsco-cam-ios]. The interface isn't the best (and they tend to change it too often), but the result is really nice. I shoot a lot, but since it's just a hobby, I came up with a few rules to keep it uncomplicated and effortless. I shoot JPEG not RAW, delete the originals and sort the pics regularly. All pictures go in a desktop folder called "unedited", and once the season ends I go through the files in Lightroom. In my photo library I have a folder for every season or a special event starting with year, like 2019 Summer or 2019 Spain Trip. Besides Backblaze and Time Machine, I backup full size pics with [Google Photos][google-photos].  
+I use [Lightroom][] for photo editing. Even iPhone shots. The first thing to love about Lightroom is their amazing perspective autocorrection. For [Instagram][] posting, I prefer [VSCO][vsco-ios]. The interface isn't the best (and they tend to change it too often), but the result is really nice. I shoot a lot, but since it's just a hobby, I came up with a few rules to keep it uncomplicated and effortless. I shoot JPEG not RAW, delete the originals and sort the pics regularly. All pictures go in a desktop folder called "unedited", and once the season ends I go through the files in Lightroom. In my photo library I have a folder for every season or a special event starting with year, like 2019 Summer or 2019 Spain Trip. Besides Backblaze and Time Machine, I backup full size pics with [Google Photos][google-photos].  
 
 ### What would be your dream setup?
 
@@ -75,5 +75,5 @@ I'm thinking of buying a [50mm f1.8 lens][fe-50mm-f1.8] for my camera to shoot m
 [readymag]: https://readymag.com/ "A web-based design tool."
 [strida-lt]: https://www.strida.com/ "A foldable bike."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

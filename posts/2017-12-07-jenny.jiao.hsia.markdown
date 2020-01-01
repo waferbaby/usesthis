@@ -31,7 +31,7 @@ I take photos using an [iPhone 6S][iphone-6s] and my workspace consists of [a sm
 
 ### And what software?
 
-I use [Unity][] to make games and [Bitbucket][] for source control. For art, I make 2D assets in [Photoshop][] and 3D models in [Maya][]. I edit sound effects in [Audition][] and I record gameplay footage with [QuickTime Player][quicktime-pro] and [Soundflower][]. Sometimes I use [LICEcap][] to capture gifs -- the framerate can end up looking sort of choppy and slow, so I will occasionally resort to Photoshop to create better quality gifs. I use [Google Drive][google-drive] on a regular basis, and recently I've been experimenting with the [Arduino IDE][arduino-ide]. My favorite app to edit photos with on my phone is [VSCO][vsco-cam-ios] and I like [doodling on these pictures](https://www.instagram.com/p/BOsQUuqhFkD/ "One of Jenny's Instagram photos.") with Facebook's [Messenger app][facebook-messenger-ios]. 
+I use [Unity][] to make games and [Bitbucket][] for source control. For art, I make 2D assets in [Photoshop][] and 3D models in [Maya][]. I edit sound effects in [Audition][] and I record gameplay footage with [QuickTime Player][quicktime-pro] and [Soundflower][]. Sometimes I use [LICEcap][] to capture gifs -- the framerate can end up looking sort of choppy and slow, so I will occasionally resort to Photoshop to create better quality gifs. I use [Google Drive][google-drive] on a regular basis, and recently I've been experimenting with the [Arduino IDE][arduino-ide]. My favorite app to edit photos with on my phone is [VSCO][vsco-ios] and I like [doodling on these pictures](https://www.instagram.com/p/BOsQUuqhFkD/ "One of Jenny's Instagram photos.") with Facebook's [Messenger app][facebook-messenger-ios]. 
 
 ### What would be your dream setup?
 
@@ -64,5 +64,5 @@ My dream setup would include a big sturdy desk, a nice comfy chair, an enormous 
 [soundflower]: https://rogueamoeba.com/freebies/soundflower/ "Mac software for passing audio between applications."
 [stellar-smooch-ios]: https://itunes.apple.com/us/app/stellar-smooch/id931063942 "A game about two space probes kissing."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [wobble-yoga]: https://q_dork.itch.io/wobble-yoga "A game about matching yoga poses."

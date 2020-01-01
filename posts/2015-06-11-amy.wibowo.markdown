@@ -23,7 +23,7 @@ I love to play games on my turquoise [3DS][], and I keep it in a case designed t
 
 ### And what software?
 
-[Adobe InDesign][indesign] for laying out zines, [Photoshop][] for touching up marker drawings, [Illustrator][] for designing stickers, [iMovie][] for movie editing, [VSCO Cam][vsco-cam-ios] for photo editing while I'm traveling, [Sublime Text][sublime-text] for writing code, [iTerm][iterm2], [Simplenote][] for writing notes to myself, [Todo][todo-ios] for todo lists.
+[Adobe InDesign][indesign] for laying out zines, [Photoshop][] for touching up marker drawings, [Illustrator][] for designing stickers, [iMovie][] for movie editing, [VSCO Cam][vsco-ios] for photo editing while I'm traveling, [Sublime Text][sublime-text] for writing code, [iTerm][iterm2], [Simplenote][] for writing notes to myself, [Todo][todo-ios] for todo lists.
 
 My favorite games lately are [Animal Crossing][animal-crossing-new-leaf] for the 3DS, [Link Between Worlds][the-legend-of-zelda-a-link-between-worlds] for the 3DS, [Lost Constellation][lost-constellation], and [The Yawgh][the-yawgh].
 
@@ -56,4 +56,4 @@ Lots of floor space to spread out paper and draw with markers, lots of plants an
 [the-yawgh]: http://www.theyawhg.com/ "A choose-your-own-adventure video game."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [todo-ios]: https://itunes.apple.com/us/app/todo-to-do-task-list/id708423616 "A task list app."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."

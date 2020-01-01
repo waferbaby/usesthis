@@ -28,7 +28,7 @@ Entertainment is essential with our repetitive tasks. I watch stuff in the studi
 
 Mostly web-based. I prefer not to invest until I outgrow open-source and free resources. I keep track of my projects and sell patterns on the giant online database, [Ravelry][]. [Google Drive][google-drive] and [Wordpress][] meet my publishing needs for the moment.
 
-For photography I rely on Jill's [Lightroom][] and [Photoshop][] skills, but when she's busy or unnecessary I tweak in [Gimp][], [iPhoto][], [PicMonkey][], [Diptic][diptic-ios], [VSCO Cam][vsco-cam-ios], and [PicPlayPost][picplaypost-ios]. For notes and admin I like straightforward, low-tech tools that don't require babysitting; mainly [Gmail][], [Notes][], [TextEdit][], [Calendar][ical], [Dropbox][]. For social marketing I ditched [HootSuite][] and [TweetDeck][] and post directly on [Facebook](https://www.facebook.com/knitsforlife "Lorna's Facebook account."), [Instagram](http://instagram.com/knitsforlife "Lorna's Instagram account."), and [Twitter](https://twitter.com/KnitsforLife/ "Lorna's Twitter account.") in order to take full advantage of their capabilities, but still optimize my Instagram usage with [Iconosquare][] (formerly Statigram).
+For photography I rely on Jill's [Lightroom][] and [Photoshop][] skills, but when she's busy or unnecessary I tweak in [Gimp][], [iPhoto][], [PicMonkey][], [Diptic][diptic-ios], [VSCO Cam][vsco-ios], and [PicPlayPost][picplaypost-ios]. For notes and admin I like straightforward, low-tech tools that don't require babysitting; mainly [Gmail][], [Notes][], [TextEdit][], [Calendar][ical], [Dropbox][]. For social marketing I ditched [HootSuite][] and [TweetDeck][] and post directly on [Facebook](https://www.facebook.com/knitsforlife "Lorna's Facebook account."), [Instagram](http://instagram.com/knitsforlife "Lorna's Instagram account."), and [Twitter](https://twitter.com/KnitsforLife/ "Lorna's Twitter account.") in order to take full advantage of their capabilities, but still optimize my Instagram usage with [Iconosquare][] (formerly Statigram).
 
 I scout yarnbombing sites with [Google Street View][google-street-view] and follow global #yarnbomb activity on Instagram. I consume media in the background all day and subscribe to [Rhapsody][], [Netflix][], [Hulu][], [HBO Go][hbo-go], and [Amazon Prime][amazon-prime], with nerdy podcasts and NPR in heavy rotation.
 
@@ -80,6 +80,6 @@ Oh, and of course 100% recycled acrylic yarn in every weight and color.
 [textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [ultimate-sweater-machine]: http://www.bond-america.com/products/usm.html "A knitting machine."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [yarn-ball-winder-mo17]: https://www.amazon.com/Lacis-Yarn-Ball-Winder-MO17/dp/B000WV5ZJS "A yarn ball winder."

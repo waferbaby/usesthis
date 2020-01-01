@@ -34,7 +34,7 @@ I love [Siri][] on my phone and use it nearly everyday to compose messages, emai
 
 When I run, I use the [Nike+][nike-plus-running-ios] app and [Spotify][spotify-ios]. I also use [dailymile.com][dailymile] to track miles and share with friends.
 
-I use [Lightroom 5][lightroom] to edit my photos from the Leica. I use [Instagram][instagram-ios] and [VSCO][vsco-cam-ios] for processing and uploading photos on my phone.
+I use [Lightroom 5][lightroom] to edit my photos from the Leica. I use [Instagram][instagram-ios] and [VSCO][vsco-ios] for processing and uploading photos on my phone.
 
 I use [Fidelity.com][fidelity] to trade stocks, and am a fan of the content on [wealthfront.com][wealthfront].
 
@@ -76,7 +76,7 @@ I get to try new photography gear all the time at Lumoid, so it's hard to decide
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [transform]: https://www.soulelectronics.com/shop/soul-electronics-transform-superior-active-performance-on-ear-headphones.html "On-the-ear headphones."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [wealthfront]: https://www.wealthfront.com/ "An automated investment service."
 [x100s]: http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100s/ "A 16 megapixel digital camera."
 [xbox-live]: https://www.xbox.com/en-US/live "An online service for the Xbox 360."

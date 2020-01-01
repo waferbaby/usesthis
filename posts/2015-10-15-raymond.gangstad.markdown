@@ -47,7 +47,7 @@ This year I have not read one single book, but I have listened to a ton on [Audi
 
 I listen to a lot of podcasts and my favorite app for that is [Pocket Casts][pocket-casts-ios]. They have a great podcast player on their website that syncs with your iOS app. I use that a lot at work.  Since Marvel is the place for all the new canon Star Wars comics these days, I use the [Marvel app for iOS][marvel-comics-ios] to buy those digitally. Getting physical comic books shipped from the US to Norway is too expensive and not at all environmentally friendly. 
 
-My favorite Twitter app is [Tweetbot on iOS][tweetbot-ios] and on the Mac I enjoy the web interface. My Twitter handle is [@rgangstad](https://twitter.com/rgangstad "Raymond's Twitter account.").  I'm an [avid Instagrammer](https://instagram.com/rgangstad/ "Raymond's Instagram account.") and editing photos on my iPhone is almost like meditating for me. I mostly use [Snapseed][snapseed-ios] or [Darkroom][darkroom-ios] for the initial color correction. [VSCO Cam][vsco-cam-ios] is where I add film looks. [Mextures][mextures-ios] is for when I want to grunge things up. [LensFlare][lensflare-ios], [LensFX][lensfx-ios] or [Alien Sky][alien-sky-ios] is where I get my VFX. [Pro HDR][pro-hdr-ios] for those tastefully done HDR photos. And I love [incorporating Star Wars imagery](https://instagram.com/p/2S-hIzxT50/ "Raymond's Darth Maul photo on Instagram.") in my photos and for that I comp with [Photoshop Mix][photoshop-mix] or [Juxtaposer][].
+My favorite Twitter app is [Tweetbot on iOS][tweetbot-ios] and on the Mac I enjoy the web interface. My Twitter handle is [@rgangstad](https://twitter.com/rgangstad "Raymond's Twitter account.").  I'm an [avid Instagrammer](https://instagram.com/rgangstad/ "Raymond's Instagram account.") and editing photos on my iPhone is almost like meditating for me. I mostly use [Snapseed][snapseed-ios] or [Darkroom][darkroom-ios] for the initial color correction. [VSCO Cam][vsco-ios] is where I add film looks. [Mextures][mextures-ios] is for when I want to grunge things up. [LensFlare][lensflare-ios], [LensFX][lensfx-ios] or [Alien Sky][alien-sky-ios] is where I get my VFX. [Pro HDR][pro-hdr-ios] for those tastefully done HDR photos. And I love [incorporating Star Wars imagery](https://instagram.com/p/2S-hIzxT50/ "Raymond's Darth Maul photo on Instagram.") in my photos and for that I comp with [Photoshop Mix][photoshop-mix] or [Juxtaposer][].
 
 ### What would be your dream setup?
 
@@ -97,5 +97,5 @@ I am really looking forward to enjoying immersive virtual experiences, [Snowcras
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [viscosity]: http://www.sparklabs.com/viscosity/ "A VPN client for Mac and Windows."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [xpander-desktop-elite]: http://www.cubix.com/xpander-desktop "A computer expansion device with PCIe slots and power."

@@ -33,7 +33,7 @@ Across both platforms I use [Dropbox][] to keep everything in sync, [f.lux][] to
 
 As far as mobile platforms go, on the iPad I use [Calendars 5][calendars-ios] to schedule appointments and reminders, [MindNode][mindnode-ios] for taking notes or brainstorming for a project, [Paper][paper-ios] for explaining ideas or quick sketches, and [PDF Expert][pdf-expert-ios] for reading papers or journal articles. For almost any non-work related writing I use [Byword][byword-ios] since it works flawlessly across the Mac, iPad, and iPhone. During the day I usually have [Status Board][status-board-ios] open to show me the time in various time zones, tweets, emails, and a few other personal metrics.
 
-On the iPhone I use [Pocket Casts][pocket-casts-ios] for listening to podcasts because of its reliability and overall design, [Weather Line][weather-line-ios] for checking the weather, [Drafts][drafts-ios] for short notes that might need to be used elsewhere, and [Fantastical][fantastical-ios]. I've been very impressed with [VSCO Cam][vsco-cam-ios] over the past few months. When offshore it's usually much easier and safer to pull out an iPhone than to carry around a DSLR (which are sometimes against rig regulations). Two great travel apps that I've used over the past year are [FlightTrack 5][flighttrack-ios] and [Banca][banca-ios].
+On the iPhone I use [Pocket Casts][pocket-casts-ios] for listening to podcasts because of its reliability and overall design, [Weather Line][weather-line-ios] for checking the weather, [Drafts][drafts-ios] for short notes that might need to be used elsewhere, and [Fantastical][fantastical-ios]. I've been very impressed with [VSCO Cam][vsco-ios] over the past few months. When offshore it's usually much easier and safer to pull out an iPhone than to carry around a DSLR (which are sometimes against rig regulations). Two great travel apps that I've used over the past year are [FlightTrack 5][flighttrack-ios] and [Banca][banca-ios].
 
 Finally, there's a long list of apps that are synced across both the iPhone and iPad. [Clear][] for lists, [Tweetbot][tweetbot-ios], [Instapaper][instapaper-ios], [Omnifocus][omnifocus-ios], [1Password][1password-ios], [Reeder][reeder-ios], [Rdio][rdio-ios], and [Hangouts][google-hangouts-ios] for chatting.
 
@@ -98,7 +98,7 @@ A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run AN
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
 [ultrasharp-u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [weather-line-ios]: http://weatherlineapp.com/ "A weather app."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [winsplit-revolution]: https://alternativeto.net/software/winsplit-revolution/ "Windows software for window management."

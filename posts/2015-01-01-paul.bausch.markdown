@@ -28,7 +28,7 @@ We recently switched to writing CSS with [Sass][] so I typically have [Grunt][] 
 
 On the server side I spend a lot of time in [SQL Server Management Studio][sql-server-management-studio]. I'm also frequently flipping knobs at [Amazon Web Services][aws].
 
-I typically process photos with [Photoshop][], but lately I've been using [VSCO cam][vsco-cam-ios] on my iPhone. It's blasphemy.
+I typically process photos with [Photoshop][], but lately I've been using [VSCO cam][vsco-ios] on my iPhone. It's blasphemy.
 
 ### What would be your dream setup?
 
@@ -69,4 +69,4 @@ I feel like I'm living the dream already. If we could get wireless electricity g
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [velo-2]: http://www.stmbags.com/catalog/laptop-shoulder-bags/velo2-small-laptop-shoulder-bag/ "A laptop bag."
 [vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
-[vsco-cam-ios]: https://itunes.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
