@@ -334,7 +334,12 @@ ul.categories li, ul.months li {
     text-align: center;
   }
 
-  img.detail, img.portrait  {
+  img.detail {
+    height: auto;
+    width: 100%;
+  }
+
+  img.portrait  {
     height: 100%;
     left: 0;
     position: absolute;
