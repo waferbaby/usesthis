@@ -5,6 +5,8 @@ categories:
 - designer
 - game
 - windows
+credits:
+  name: Judy Thomas
 ---
 
 ### Who are you, and what do you do?
