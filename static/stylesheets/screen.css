@@ -257,13 +257,6 @@ p.summary {
   margin: 5px 0;
 }
 
-pre {
-  background-color: #f5f5f5;
-  max-height: 300px;
-  overflow: scroll;
-  padding: 20px;
-}
-
 span.summary {
   color: var(--summary-colour);
   font-size: 90%;
