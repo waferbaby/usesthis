@@ -1,0 +1,5 @@
+{
+  "name": "musl",
+  "description": "A standard C library.",
+  "url": "https://www.musl-libc.org/"
+}

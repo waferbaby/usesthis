@@ -1,0 +1,5 @@
+{
+  "name": "CHICKEN",
+  "description": "A Scheme compiler.",
+  "url": "https://call-cc.org/"
+}

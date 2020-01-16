@@ -1,0 +1,5 @@
+{
+  "name": "glibc",
+  "description": "A standard library for C.",
+  "url": "https://en.wikipedia.org/wiki/GNU_C_Library"
+}
