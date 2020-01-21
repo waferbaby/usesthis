@@ -19,7 +19,7 @@ For traditional inks I use a variety of pens, some of my favorites being Zebra a
 
 ### And what software?
 
-I use [Procreate][procreate-ios] on the iPad, with the occasional assist from [Photoshop][] or [Illustrator][] on my laptop (just an old [iMac Pro][imac-pro] from 2012). Surprisingly, my favorite brush that I use for almost everything is just the standard Tech Pencil that comes with Procreate, but I've started to expand and explore with some brush packs that I've been having a lot of fun with. Procreate and most of the other iPad-compatible apps still don't work with CMYK (I've heard Procreate 5 will have it!) which can be a problem because I am usually working for print. Because of this I often have to pull my files into PS and make some adjustments - depending on the colors of the piece they can be small or major.
+I use [Procreate][procreate-ios] on the iPad, with the occasional assist from [Photoshop][] or [Illustrator][] on my laptop (just an old [MacBook Pro][macbook-pro] from 2012). Surprisingly, my favorite brush that I use for almost everything is just the standard Tech Pencil that comes with Procreate, but I've started to expand and explore with some brush packs that I've been having a lot of fun with. Procreate and most of the other iPad-compatible apps still don't work with CMYK (I've heard Procreate 5 will have it!) which can be a problem because I am usually working for print. Because of this I often have to pull my files into PS and make some adjustments - depending on the colors of the piece they can be small or major.
 
 When I self publish books I also make good use of [InDesign][] (I have the whole CC suite, but only use about 4 programs regularly). InDesign has been really essential in the process of teaching myself to lay out a book for print, and while I still sometimes use Illustrator or [Acrobat][] to make smaller PDFs, having the ability to easily edit and move around pages makes it the best way I've found to put together a comic book. 
 
@@ -31,9 +31,9 @@ I also haven't had a desktop computer since I was in high school, so having one 
 
 [acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
