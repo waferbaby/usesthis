@@ -4,6 +4,7 @@
   "paths": {
     "paginated_posts": "interviews",
     "posts": "interviews",
+    "drafts": "interviews/drafts",
     "categories": "categories"
   },
 
