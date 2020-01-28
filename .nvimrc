@@ -1,4 +1,4 @@
 augroup usesthis
   autocmd!
-  autocmd BufWriteCmd ~/Development/usesthis/posts/*.markdown w | silent! exec '!~/Development/usesthis/tasks/link_gear %:p' | silent! %s/[‘’]/'/g | silent! %s/[“”]/"/g | e
+  autocmd BufWriteCmd ~/dev/usesthis/posts/*.markdown w | silent! exec '!~/dev/usesthis/tasks/link_gear %:p' | silent! %s/[‘’]/'/g | silent! %s/[“”]/"/g | e
 augroup end
