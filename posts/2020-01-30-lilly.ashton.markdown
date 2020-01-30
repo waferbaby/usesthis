@@ -1,7 +1,6 @@
 ---
 title: Lilly Ashton
 summary: Artist
-draft: true
 categories:
 - artist
 - windows
