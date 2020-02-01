@@ -39,6 +39,8 @@ In the bigger picture, I'm currently using [Debian][] Squeeze after having been 
 
 In terms of hardware, I think I've got it barring things like head-mounted displays, direct-neural interfaces, and infinite battery life. My main complaint is aspect ratio; I really miss the extra vertical space of the old 4:3 models, and I find the trend towards 16:9 depressing. I would like a fully-functional web browser inside Emacs, but the biggest pain point in the software I use now is definitely Skype. It's alleviated by the UI I mentioned above, but I would love to have an interoperable free software VoIP application with a UI in a dynamic, repl-accessible language. And while we're at it I'd like an office in a turret with a panoramic view.
 
+*Hagelberg now keeps a [changelog of his latest setup](https://technomancy.us/gear "Hagelberg's setup changelog.").*
+
 [clojure]: https://en.wikipedia.org/wiki/Clojure "A dynamic programming language using the Java Virtual Machine."
 [conkeror]: http://conkeror.org/ "A keyboard-driven web browser."
 [debian]: https://www.debian.org/ "A Linux distribution."
