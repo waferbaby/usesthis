@@ -1,7 +1,6 @@
 ---
 title: Maria Pan
 summary: Graphic designer, 3D artist 
-draft: true
 categories:
 - artist
 - designer
