@@ -1,4 +1,4 @@
-<% unless selected %><a href="/interviews/<%= interview.slug %>/" title="An interview with <%= interview.title %>." class="u-url"><% end %>
+<% unless selected %><a href="<%= interview.url %>" title="An interview with <%= interview.title %>." class="u-url"><% end %>
   <figure>
     <img src="/images/interviews/<%= interview.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= interview.title %>">
     <% if selected && interview.credits %>
