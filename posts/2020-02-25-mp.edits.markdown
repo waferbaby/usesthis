@@ -1,7 +1,6 @@
 ---
 title: MP Edits
 summary: YouTuber 
-draft: true
 categories:
 - game
 - video
