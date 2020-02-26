@@ -25,14 +25,11 @@ end
 
 name.gsub!(/(iOS|Android)$/, '(\1)')
 
-current_url = `osascript -e 'tell application "Safari"\
-               to get URL of current tab of front window'`
-
 entry = <<ENTRY
 {
   "name": "#{name}",
   "description": "",
-  "url": "#{current_url.strip}"
+  "url": ""
 }
 ENTRY
 
