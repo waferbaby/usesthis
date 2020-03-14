@@ -43,7 +43,7 @@ When I'm not on the move (which happens way too often for my taste) I am in my s
 
 I followed [a guide on TonymacX86](https://www.tonymacx86.com/threads/success-gigabyte-designare-z390-thunderbolt-3-i7-9700k-amd-rx-580.267551 "A guide for building your own Hackintosh.") which allowed me to have a fully working machine including 2 Thunderbolt 3 ports.
 
-This sort of happened because Apple didn't make a computer for me: I run a BlackMagic [capture card][decklink-mini-recorder-4k] for 4K video and a graphic card which I like to update every now and then. Not long ago Apple finally release the new [Mac Pro][mac-pro], which will be one of the things I'll spend money on very soon.
+This sort of happened because Apple didn't make a computer for me: I run a BlackMagic [capture card][decklink-mini-recorder-4k] for 4K video and a graphic card which I like to update every now and then. Not long ago Apple finally released the new [Mac Pro][mac-pro], which will be one of the things I'll spend money on very soon.
 
 I'm very happy with the Hackintosh, but I want the real deal <3
 
@@ -125,7 +125,7 @@ Possibly a JBC soldering/rework station, but that costs more than a Mac Pro so I
 
 Also this year I plan on setting up my wood-working shop so I see a lot of power-tools such as a table saw, miter saw, router table, sanders, and so on and so forth.
 
-Of course I can't stop working on electronics and using computers, so since saw-dust and fine electroncis don't get along very well (especially those Butterfly keyboards, they say) I'm planning on moving my delicate operations into another room of the building I rent a studio from so I can keep all my working activities within reach.
+Of course I can't stop working on electronics and using computers, so since saw-dust and fine electronics don't get along very well (especially those Butterfly keyboards, they say) I'm planning on moving my delicate operations into another room of the building I rent a studio from so I can keep all my working activities within reach.
 
 I'm lucky enough to rent a space in this amazing building in Amsterdam called "Da Vinci Creatieve Ruimtes" (Da Vinci Creative Spaces), which is full of artisans, designers, crafters and musicians.
 
