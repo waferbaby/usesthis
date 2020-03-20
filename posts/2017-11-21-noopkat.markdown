@@ -24,7 +24,7 @@ I work from home, from my study. I have a cheap [IKEA "desk"][linnmon] that I bo
 
 I use two different computers. My work computer is a [Microsoft Surface Book][surface-book], and my personal computer is a [13" 2016 Apple MacBook Pro][macbook-pro].
 
-For streaming, I use a [Blue Yeti][yeti] microphone, two [Logitech C920 Pro][hd-pro-webcam-c920] webcams, and [OBS Studio][obs-studio] streaming software.
+For streaming, I use a [Blue Yeti][yeti] microphone, two [Logitech C920 Pro][c920] webcams, and [OBS Studio][obs-studio] streaming software.
 
 My 3D printer is a [Printrbot Plus Metal][printrbot-plus] with dual extrusion and a heated bed. I run it wirelessly using [OctoPrint][] running on a [Raspberry Pi][raspberry-pi]. My soldering iron is a [Hakko FX-888D][fx-888d].
 
@@ -44,12 +44,12 @@ Ideally I'd like to work from a room with very large windows and trees outside. 
 [aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [azure]: https://azure.microsoft.com/en-us/ "A cloud computing platform."
 [bistro]: https://www.bodum.com/us/en/10903-01us "A coffee grinder."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [conemu]: https://conemu.github.io/ "A terminal client for Windows."
 [edge.2]: https://www.microsoft.com/en-us/windows/microsoft-edge "A web browser."
 [fc660m]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1496 "A mechanical keyboard."
 [fx-888d]: https://www.hakko.com/english/products/hakko_fx888d.html "A soldering iron."
-[hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [k272hl]: https://www.amazon.com/Acer-K272HL-LED-Monitor-resolution/dp/B00W46R3HQ "A 27 inch LED monitor."

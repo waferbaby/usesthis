@@ -17,7 +17,7 @@ I really like to find out how a game works at a deep level, and see how I can us
 
 My computer is a custom laptop build from Malibal. It's got an i7 desktop CPU and high end mobile video card, and weighs something like 10 pounds. The power brick is similarly heavy. I do all my work, including video rendering and livestreaming on this laptop, with the idea that if I travel I can pack my work computer and bring it with me, and my entire setup will be exactly the same.
 
-I use a [Blue Yeti mic][yeti] and a [Logitech C920 webcam][hd-pro-webcam-c920] for recording. I play Super Mario World on [SNES][] and Super Mario Maker on [Wii U][wii-u], so I use an [XCAPTURE-1 HD capture card][xcapture-1], as well as an [XRGB-mini Framemeister hardware upscaler][xrgb-mini-framemeister] to convert SNES to 720p. I have two ASUS monitors that I plug into my laptop, as well as an external keyboard and wireless mouse, which makes it basically feel like a desktop.
+I use a [Blue Yeti mic][yeti] and a [Logitech C920 webcam][c920] for recording. I play Super Mario World on [SNES][] and Super Mario Maker on [Wii U][wii-u], so I use an [XCAPTURE-1 HD capture card][xcapture-1], as well as an [XRGB-mini Framemeister hardware upscaler][xrgb-mini-framemeister] to convert SNES to 720p. I have two ASUS monitors that I plug into my laptop, as well as an external keyboard and wireless mouse, which makes it basically feel like a desktop.
 
 ### And what software?
 
@@ -31,10 +31,10 @@ I'm generally pretty happy with my current setup. I always wondered what it woul
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bizhawk]: http://tasvideos.org/BizHawk.html "An emulator for a number of game platforms."
 [broadcaster]: https://www.xsplit.com//#broadcaster "Multimedia broadcasting software for Windows."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [dxtory]: https://exkode.com/dxtory-features-en.html "DirectX and OpenGL video capture software."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
-[hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [mcedit]: http://www.mcedit.net/ "A Minecraft saved game editor."
 [minecraft]: https://minecraft.net/ "A digging and building game."
 [mumble]: https://wiki.mumble.info/wiki/Main_Page "Voice chat software."

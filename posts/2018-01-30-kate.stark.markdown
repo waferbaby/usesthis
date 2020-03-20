@@ -17,7 +17,7 @@ I use a LOT of hardware for my job. I'm currently using a two PC setup - one for
 
 For streaming console games I'm using a Magewell Capture Card, which has been incredible for streaming games off the [Nintendo Switch][switch.2].
 
-As far as lighting goes, I've got an 18 inch ring light mounted behind my [Logitech C920 webcam][hd-pro-webcam-c920] that provides great even lighting on my face, and then 2 separate LED panels mounted to provide fill light on my green screen.
+As far as lighting goes, I've got an 18 inch ring light mounted behind my [Logitech C920 webcam][c920] that provides great even lighting on my face, and then 2 separate LED panels mounted to provide fill light on my green screen.
 
 I find headphones to be really important as well. It's not something that people generally think about, but for a long time the headphones I was using were causing headaches. Since I switched to the [Steelseries Arctis 5's][arctis-5] that hasn't been an issue, because of the elastic strap they have which alleviates the pressure on the top of your head.
 
@@ -36,8 +36,8 @@ My backend alert system is run through [Layer One][layer-one]. It was developed 
 My dream set up is basically exactly what I have right now. In September 2016, streaming became my full-time job and since then I've found it very important to spend money on good equipment dedicated to improving the quality of my stream, because I want viewers to have the best possible quality and experience when watching.
 
 [arctis-5]: https://steelseries.com/gaming-headsets/arctis-5 "An over-the-ears gaming headset."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
-[hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [layer-one]: https://layerone.io/ "A service for aggregating tools and services for streamers."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [pretzel-rocks]: https://www.pretzel.rocks/ "A music player and service designed for streamers."

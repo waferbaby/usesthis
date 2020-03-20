@@ -24,7 +24,7 @@ In terms of keyboard and mouse, I have a Kinesis [Advantage ergonomic keyboard][
 
 Now for some accessories: I give a lot of talks, so I always have two Kensington [Wireless Presenters][wireless-presenter] with spare batteries in my backpack. I also have two Monoprice Mini DisplayPort 1.2a to HDMI, DVI, and VGA dongles to connect my MacBook Air to projectors of various formats. Note a recurring theme here -- I usually have redundant backups of all my hardware :)
 
-For [Skype][] calls and podcast recordings, I use the Logitech [C920 webcam][hd-pro-webcam-c920] and either a Blue [Yeti][] or Audio-Technica [ATR2100][atr2100-usb] mic. Both are excellent mics for around $100. I also recommend getting a cheap foam windscreen cover for each mic to make your voice sound better.
+For [Skype][] calls and podcast recordings, I use the Logitech [C920 webcam][c920] and either a Blue [Yeti][] or Audio-Technica [ATR2100][atr2100-usb] mic. Both are excellent mics for around $100. I also recommend getting a cheap foam windscreen cover for each mic to make your voice sound better.
 
 ### And what software?
 
@@ -38,13 +38,13 @@ More hardware redundancy and less software to manage :) I'm actually getting the
 
 [advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
 [atr2100-usb]: https://www.audio-technica.com/cms/wired_mics/b8dd84773f83092c/ "A USB-based microphone."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [camtasia]: https://www.techsmith.com/camtasia.html "Screencasting software."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."

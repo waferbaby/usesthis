@@ -26,7 +26,7 @@ In my pocket, you'll find a space gray [iPhone 5S 64gb][iphone-5s] - I recently 
 
 I connect to the internet via Apple's [Airport Extreme][airport-extreme] and at home I have that hooked up to my [Sonos Playbar][playbar] and an [AppleTV][apple-tv]. Sonos' software UI aside, I *love* the Playbar. Pair that with OSX Mavericks and AirPlay and it makes for one happy Ryan.
 
-For TGD interviews that we conduct online, we use an [Apogee MiC][mic], a [Logitech C920][hd-pro-webcam-c920], and either our Apple earbuds or one of our two [B&W P5][p5.2] headphones. I originally had the black P5s but gave those to Tina when the white ones came out. That turned out to be a really bad decision as they look like total shit after only wearing them for a few months.
+For TGD interviews that we conduct online, we use an [Apogee MiC][mic], a [Logitech C920][c920], and either our Apple earbuds or one of our two [B&W P5][p5.2] headphones. I originally had the black P5s but gave those to Tina when the white ones came out. That turned out to be a really bad decision as they look like total shit after only wearing them for a few months.
 
 For in-person interviews, we use the [Roland R-05][r-05] recorder, which I can't recommend enough. The thing does an amazing job in high-noise situations, and it's built like a tank.
 
@@ -70,6 +70,7 @@ When the budget is there, I will definitely be investing in more photography and
 [arne]: https://www.sandqvist.com/en/laptop-bag-arne-cordura-black-sqa227.html "A laptop bag."
 [audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [campfire]: https://campfirenow.com/ "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
@@ -90,7 +91,6 @@ When the budget is there, I will definitely be investing in more photography and
 [g2.3]: https://en.wikipedia.org/wiki/Contax_G "A film camera."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[hd-pro-webcam-c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
 [ia-writer-ios]: https://itunes.apple.com/us/app/ia-writer/id392502056 "A focus-oriented writing application for iOS."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
