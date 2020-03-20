@@ -1,0 +1,5 @@
+{
+  "name": "Binder",
+  "description": "A service for sharing Jupyter notebooks online.",
+  "url": "https://mybinder.org/"
+}
