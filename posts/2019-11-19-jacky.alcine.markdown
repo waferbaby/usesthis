@@ -32,7 +32,7 @@ When it comes to system setup, I'd love to have everything in my home decked out
 10 dualbooted
 - Monitor: Two LG [27UL500-W][27ul500-w] monitors mounted up
 - Keyboard: [CODE][] keyboard
-- Desk: [Uplift 120 Degree][uplift-v2-120-degree] standing desk
+- Desk: [Uplift 120 Degree][v2] standing desk
 
 [27ul500-w]: https://www.lg.com/us/monitors/lg-27UL500-W-4k-uhd-led-monitor "A 27 inch 4K monitor."
 [code]: https://codekeyboards.com/ "A mechanical keyboard."
@@ -44,7 +44,7 @@ When it comes to system setup, I'd love to have everything in my home decked out
 [kubuntu]: http://www.kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
 [neovim]: https://neovim.io/ "A refactored vim."
 [thelio]: https://system76.com/desktops "A desktop PC."
-[uplift-v2-120-degree]: https://www.upliftdesk.com/uplift-v2-120-degree-standing-desk/ "A standing desk."
+[v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

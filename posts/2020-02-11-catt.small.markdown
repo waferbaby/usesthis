@@ -15,7 +15,7 @@ I also make awkward, emotional video games and organize events that connect marg
 
 ### What hardware do you use?
 
-I'm the kind of person who finds something good and sticks to it. On a work-from-home day you'll find me deep in my comfy couch, vigorously typing on my personal 15-inch [MacBook Pro][macbook-pro] from 2014 (it still works perfectly!). When I need a larger screen, I move to my [Uplift V2 4-Leg adjustable standing desk][uplift-v2-4-leg], plug the MacBook into my vintage 20XX [iMac][] - it works as a monitor, too - and grab my Anker [Ergonomic Vertical Mouse][ergonomic-wireless-vertical-mouse]. My typing is done via a gifted pink and white mechanical keyboard with cherry MX brown keys, and when I need some serious focus time I put on my Audio-Technica [ATH-WS990BT wireless over-ear headphones][ath-ws990bt] (purchased last-minute before a 14-hour flight to a speaking gig in South Africa).
+I'm the kind of person who finds something good and sticks to it. On a work-from-home day you'll find me deep in my comfy couch, vigorously typing on my personal 15-inch [MacBook Pro][macbook-pro] from 2014 (it still works perfectly!). When I need a larger screen, I move to my [Uplift V2 4-Leg adjustable standing desk][v2], plug the MacBook into my vintage 20XX [iMac][] - it works as a monitor, too - and grab my Anker [Ergonomic Vertical Mouse][ergonomic-wireless-vertical-mouse]. My typing is done via a gifted pink and white mechanical keyboard with cherry MX brown keys, and when I need some serious focus time I put on my Audio-Technica [ATH-WS990BT wireless over-ear headphones][ath-ws990bt] (purchased last-minute before a 14-hour flight to a speaking gig in South Africa).
 
 In the office, I also have an adjustable-height desk. I like to alternate between sitting and standing throughout the day; most days I stand for approximately 2.5 cumulative hours and sit the rest of the time. My work computer is a more recent MacBook Pro, and I have a 34" curved ultrawide monitor for large-screen functions. Shout-outs to capitalism-fed technological improvements for making such a cool setup possible!
 
@@ -50,4 +50,4 @@ Honestly, my current setups are pretty great! A higher cost doesn't always trans
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [sweetxheart]: https://cattsmall.itch.io/sweetxheart/ "A game where you play as a modern black woman."
 [trello]: https://trello.com/ "A project management service."
-[uplift-v2-4-leg]: https://www.upliftdesk.com/uplift-v2-4-leg-standing-desk/ "A standing desk."
+[v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."
