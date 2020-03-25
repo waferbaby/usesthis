@@ -1,6 +1,6 @@
 ---
 title: Tae Ha Kim
-summary: Streamer
+summary: Streamer, mechanical keyboard enthusiast
 categories:
 - hardware
 - streamer 
