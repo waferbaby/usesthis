@@ -11,7 +11,7 @@ categories:
 
 This is a tough question! Most of my life circles around writing all kinds of things, mostly non-fiction and fiction prose and computer programs. To me programming is art rather than craft. So is science, because there seems to be an obvious correlation between correctness and beauty.
 
-I have self-published some [books](http://t3x.org/ "Nils' books.") about a variety of of subjects, ranging from computer science to statistics, Buddhism and meditation. Then there have been two short excursions to the realm of science fiction. I have also designed and built a lot of [science fiction models](http://t3x.org/sf/ "Nils' sci-fi models.").
+I have self-published some [books](http://t3x.org/ "Nils' books.") about a variety of subjects, ranging from computer science to statistics, Buddhism and meditation. Then there have been two short excursions to the realm of science fiction. I have also designed and built a lot of [science fiction models](http://t3x.org/sf/ "Nils' sci-fi models.").
 
 It is hard to be interested in so many things, because most people want you to be the X-guy, whatever X is, and this is not how I work. Today I might be interested in lambda calculus and tomorrow in entomology or poetry or whatever comes my way. I like to really dive into stuff and become completely absorbed in it. Sometimes I go from zero to "I'll write a book about it" within a few months.
 
