@@ -8,7 +8,7 @@ module UsesThis
   # A class modelling the usesthis.com API.
   class API
     VERSION = 2
-    URL = "https://usesthis.com/api/v#{VERSION}"
+    URL = "https://usesthis.com/api"
     LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
     INTERVIEW_FILENAME_PATTERN = /(\d{4})-(\d{2})-(\d{2})-(.+)/.freeze
     SLICE_KEYS = %i[slug name title description date summary url api_url].freeze
@@ -22,7 +22,7 @@ module UsesThis
     def initialize(source_path, destination_path, options = {})
       @paths = {
         source: source_path,
-        destination: File.join(destination_path, 'api', "v#{VERSION}")
+        destination: File.join(destination_path, 'api')
       }
 
       @gear = { hardware: {}, software: {} }

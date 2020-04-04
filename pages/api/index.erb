@@ -9,9 +9,9 @@ title: API
 <h3>Interviews</h3>
 
 <dl>
-  <dt id="interviews">GET <a href="/api/v2/interviews/" title="Get a list of interviews from the API.">/api/v2/interviews/</a></dt>
+  <dt id="interviews">GET <a href="/api/interviews/" title="Get a list of interviews from the API.">/api/interviews/</a></dt>
   <dd>Returns a paginated list of interviews.</dd>
-  <dt id="interview">GET <a href="/api/v2/interviews/<%= site.latest_post.slug %>/" title="Get a single interview from the API.">/api/v2/interviews/<em>slug</em>/</a></dt>
+  <dt id="interview">GET <a href="/api/interviews/<%= site.latest_post.slug %>/" title="Get a single interview from the API.">/api/interviews/<em>slug</em>/</a></dt>
   <dd>Returns a single interview.</dd>
 </dl>
 
@@ -19,13 +19,13 @@ title: API
 
 <dl>
   <dt id="gear">
-    GET <a href="/api/v2/hardware" title="Get a list of hardware from the API.">/api/v2/hardware</a><br>
-    GET <a href="/api/v2/software" title="Get a list of software from the API.">/api/v2/software</a>
+    GET <a href="/api/hardware" title="Get a list of hardware from the API.">/api/hardware</a><br>
+    GET <a href="/api/software" title="Get a list of software from the API.">/api/software</a>
   </dt>
   <dd>Returns a paginated list of the given gear type.</dd>
   <dt id="item">
-    GET <a href="/api/v2/hardware/macbook-pro" title="Get a single piece of hardware from the API.">/api/v2/hardware/<em>slug</em></a><br>
-    GET <a href="/api/v2/software/photoshop" title="Get a single piece of software from the API.">/api/v2/software/<em>slug</em></a>
+    GET <a href="/api/hardware/macbook-pro" title="Get a single piece of hardware from the API.">/api/hardware/<em>slug</em></a><br>
+    GET <a href="/api/software/photoshop" title="Get a single piece of software from the API.">/api/software/<em>slug</em></a>
   </dt>
   <dd>Returns a single piece of gear.</dd>
 </dl>
@@ -33,9 +33,9 @@ title: API
 <h3>Categories</h3>
 
 <dl>
-  <dt id="categories">GET <a href="/api/v2/categories/" title="Get a list of categories from the API.">/api/v2/categories/</a></dt>
+  <dt id="categories">GET <a href="/api/categories/" title="Get a list of categories from the API.">/api/categories/</a></dt>
   <dd>Returns the full list of categories.</dd>
-  <dt id="category">GET <a href="/api/v2/categories/mac/" title="Get interviews for a single category from the API.">/api/v2/categories/<em>slug</em>/</a></dt>
+  <dt id="category">GET <a href="/api/categories/mac/" title="Get interviews for a single category from the API.">/api/categories/<em>slug</em>/</a></dt>
   <dd>Returns a paginated list of interviews for the given category.</dd>
 </dl>
 
@@ -43,12 +43,12 @@ title: API
 
 <dl>
   <dt id="stats">
-    GET <a href="/api/v2/stats" title="Get some basic stats information from the API.">/api/v2/stats</a><br>
+    GET <a href="/api/stats" title="Get some basic stats information from the API.">/api/stats</a><br>
   </dt>
   <dd>Returns some very basic statistics about the site.</dd>
   <dt id="item">
-    GET <a href="/api/v2/stats/hardware" title="Get hardware statistics from the API.">/api/v2/stats/hardware/</a><br>
-    GET <a href="/api/v2/stats/software" title="Get software statistics from the API.">/api/v2/stats/software/</a>
+    GET <a href="/api/stats/hardware" title="Get hardware statistics from the API.">/api/stats/hardware/</a><br>
+    GET <a href="/api/stats/software" title="Get software statistics from the API.">/api/stats/software/</a>
   </dt>
   <dd>Returns the top 50 items by mentions. Accepts a <code>year</code> parameter.</dd>
 </dl>
