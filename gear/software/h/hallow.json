@@ -1,0 +1,5 @@
+{
+  "name": "Hallow",
+  "description": "An OpenSSH certificate authority for AWS.",
+  "url": "https://github.com/hallowauth/hallow/"
+}
