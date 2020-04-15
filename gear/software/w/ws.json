@@ -1,0 +1,5 @@
+{
+  "name": "ws",
+  "description": "A WebSocket library for Node.",
+  "url": "https://github.com/websockets/ws"
+}

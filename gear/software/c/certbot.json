@@ -1,0 +1,5 @@
+{
+  "name": "Certbot",
+  "description": "A tool for automatically downloading and managing SSL certificates.",
+  "url": "https://certbot.eff.org/"
+}
