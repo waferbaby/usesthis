@@ -2,8 +2,8 @@
 title: Madeline Ashby
 summary: Sci-fi author, futurist
 categories:
-- author
 - futurist
+- writer
 ---
 
 ### Who are you, and what do you do?
