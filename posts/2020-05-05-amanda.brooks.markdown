@@ -9,7 +9,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm a tattoo artist at [Hot Copper Studio](https://www.hotcopperstudio.com/ "A tattoo studio in Melbourne.") in Melbourne, Australia. I've been tattooing since 2016, and have loved tattoos ever since I was about 14 and I first saw beautiful Japanese body suits on bmezine.com.
+I'm a tattoo artist at [Hot Copper Studio](https://www.hotcopperstudio.com/ "A tattoo studio in Melbourne.") in Melbourne, Australia. I've been tattooing since 2016, and have loved tattoos ever since I was about 14 and I first saw beautiful Japanese body suits on [bme.com](https://www.bme.com/ "A tattoo magazine.").
 
 I got into the tattooing game later in life than most people, starting my apprenticeship at roughly age 30. However, late is always better than never! Before I started tattooing, I worked as a graphic designer which helped lay the foundations for my work ethic and for my understanding of the design process.
 
@@ -21,7 +21,7 @@ I also draw geeky non-tattoo related stuff under the name quantivore. Like tatto
 
 For tattooing, I currently use Mark Sender, On A Mission and FK Irons machines with a Critical power supply unit. Inks-wise, I'm slowly moving over to Solid Ink - I love that all their inks are marked cruelty free and vegan right on the bottle which is comforting for both myself and many of my clients. I use a ton of different needles, but my current favourite is the Tatsoul Envy Traditional liner.
 
-When I work in traditional media, I prefer to use Holbein watercolour paints (in 30+ assorted colours); Rotring Tikky Graphic pens in sizes 0.2, 0.4 and 0.8; and whatever mechanical pencils are lying about. I won't name the paintbrushes I'm currently using as they are absolutely on death's door and the brand names have rubbed off.
+When I work in traditional media, I prefer to use Holbein watercolour paints (in 30+ assorted colours); Rotring [Tikky Graphic pens][tikky-graphic] in sizes 0.2, 0.4 and 0.8; and whatever mechanical pencils are lying about. I won't name the paintbrushes I'm currently using as they are absolutely on death's door and the brand names have rubbed off.
 
 I've also got an absolute shed load of art books, comic books, manga, video games and other assorted reference materials. Plus roughly 15,000 reference images saved to my computer! 
 
@@ -37,6 +37,7 @@ I do 90% of my drawing and designing in [Procreate][procreate-ios] for the iPad.
 
 I'm darn lucky to be working in my dream studio and to have a beautiful work space in my own bedroom. If I could improve it at all, I'd love to have a more ergonomic setup to help with my back. I'd also love to be able to update my smartphone every year, just so I can keep up with advances in phone camera technology.
 
+[tikky-graphic]: https://www.rotring.com/en/24-tikky-graphic/24-Graphic-Tikky-fineliner-pen "A pen."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
