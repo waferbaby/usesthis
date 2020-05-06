@@ -3,7 +3,7 @@ title: Brianna Howard
 summary: Artist, tattooist
 categories:
 - artist
-- tattooist
+- tattoo
 ---
 
 ### Who are you, and what do you do?
