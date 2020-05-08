@@ -1,0 +1,5 @@
+{
+  "name": "Quicklisp",
+  "description": "A library manager for Common Lisp.",
+  "url": "https://www.quicklisp.org/beta/"
+}

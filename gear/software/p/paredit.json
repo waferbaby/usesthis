@@ -1,0 +1,5 @@
+{
+  "name": "ParEdit",
+  "description": "An emacs mode for working with Lisp and Scheme source code.",
+  "url": "https://www.emacswiki.org/emacs/ParEdit"
+}

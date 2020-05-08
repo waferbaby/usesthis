@@ -1,0 +1,5 @@
+{
+  "name": "SLIME",
+  "description": "An emacs mode for working with Common Lisp.",
+  "url": "https://common-lisp.net/project/slime/"
+}
