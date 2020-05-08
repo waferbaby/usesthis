@@ -23,7 +23,7 @@ I also frequently use a [singleboard computer][raspberry-pi-3b-plus] hooked to a
 
 ### And what software?
 
-The list of software I use is in constant flux, but at the moment of writing this, here's some notableT software that I use daily. I also maintain an active list [here](https://wiki.xxiivv.com/computer "Devine's current gear list.").
+The list of software I use is in constant flux, but at the moment of writing this, here's some notable software that I use daily. I also maintain an active list [here](https://wiki.xxiivv.com/computer "Devine's current gear list.").
 
 - [Fish Shell][fish].
 - [Micro][] text editor.
