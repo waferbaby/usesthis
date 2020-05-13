@@ -37,7 +37,7 @@ Most of this software is the setup I’ve used for around 5 years now, and it ju
 
 Honestly I think I’m pretty close to it! I keep thinking I’d love to have a minimalist phone like the Punkt [MP02][] as an alternative to the distractions of my iPhone, but I don’t think I’d actually use it in practice - I more want to be the kind of person who says they do…
 
-It would be amazing to have a System 72 Linux desktop for tech projects, and I’ve often thought about setting money aside for an [iMac][], but I don’t need either of those things, and they won’t help me to get more done than I already do now. If I had an absolute dream list? Maybe one of Apple’s Pro displays, an actual Apple-made mechanical keyboard, and better iPad functionality for external monitor support. But none of that is going to happen any time soon.
+It would be amazing to have a System76 Linux desktop for tech projects, and I’ve often thought about setting money aside for an [iMac][], but I don’t need either of those things, and they won’t help me to get more done than I already do now. If I had an absolute dream list? Maybe one of Apple’s Pro displays, an actual Apple-made mechanical keyboard, and better iPad functionality for external monitor support. But none of that is going to happen any time soon.
 
 I’d also like a better supply of Pop Tarts but that’s not entirely practical here in Australia...
 
