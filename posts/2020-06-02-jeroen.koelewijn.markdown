@@ -24,7 +24,7 @@ Where the real magic happens is my Wacom [Cintiq 13HD][cintiq] drawing screen. I
 
 ### And what software?
 
-[TvPaint 11][tvpaint-animatiobn] is my bread and butter. It's what I use for all my animations at the moment. The finishing touches and editing I do with Adobe [After Effects][after-effects] and [Premiere Pro][premiere-pro[]. Another little piece of software I use often is [MPEG Streamclip][mpeg-streamclip], which lets me convert videos to different formats on the fly.
+[TvPaint 11][tvpaint-animation] is my bread and butter. It's what I use for all my animations at the moment. The finishing touches and editing I do with Adobe [After Effects][after-effects] and [Premiere Pro][premiere-pro]]. Another little piece of software I use often is [MPEG Streamclip][mpeg-streamclip], which lets me convert videos to different formats on the fly.
 
 ### What would be your dream setup?
 
@@ -36,5 +36,7 @@ Aside from that I'm pretty happy with what I've got going on.
 [ryzen-5]: https://www.amd.com/en/ryzen-5 "A CPU."
 [radeon-rx-5600-xt]: https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[tvpaint-animation]: http://tvpaint.com/ "A 2D animation suite."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
