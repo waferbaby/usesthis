@@ -24,7 +24,7 @@ Where the real magic happens is my Wacom [Cintiq 13HD][cintiq] drawing screen. I
 
 ### And what software?
 
-[TvPaint 11][tvpaint-animation] is my bread and butter. It's what I use for all my animations at the moment. The finishing touches and editing I do with Adobe [After Effects][after-effects] and [Premiere Pro][premiere-pro]]. Another little piece of software I use often is [MPEG Streamclip][mpeg-streamclip], which lets me convert videos to different formats on the fly.
+[TvPaint 11][tvpaint-animation] is my bread and butter. It's what I use for all my animations at the moment. The finishing touches and editing I do with Adobe [After Effects][after-effects] and [Premiere Pro][premiere-pro]. Another little piece of software I use often is [MPEG Streamclip][mpeg-streamclip], which lets me convert videos to different formats on the fly.
 
 ### What would be your dream setup?
 
