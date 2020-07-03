@@ -54,7 +54,7 @@ I tried a half dozen models of headphones from the usual, well-known audio manuf
 For music I have a couple of electric and acoustic instruments:
 
 * A Takamine [G-Series][eg341sc] acoustic guitar and an Ibanez [AEB10E][] electro-acoustic bass that I'm pretty happy with.
-* A cheap no-name stratocaster replica, and an old Cort C4 bass that I really ought to upgrade to a more "pro" bass like a [Fender Jazz Bass][fender-jazz-bass] or something. But I still get good mileage from it, and I recently switched to flatwound strings which turned it into a whole new instrument.
+* A cheap no-name stratocaster replica, and an old Cort C4 bass that I really ought to upgrade to a more "pro" bass like a [Fender Jazz Bass][jazz-bass] or something. But I still get good mileage from it, and I recently switched to flatwound strings which turned it into a whole new instrument.
 * An old [TD-8][] Roland V-Drums electric drum kit, with a couple of part upgrades.
 
 For my electric bass, I have a [custom made](https://ludovic.chabant.com/devblog/2019/04/09/094747/ "Ludovic's post about his pedal board.") pedal board with a [SansAmp driver][bass-driver-di], [Big Muff][big-muff], BOSS [Bass Overdrive][odb-3] and BOSS [Chromatic Tuner][tu-3].
@@ -135,7 +135,6 @@ On the software front, I'm also mostly OK, with the exception of iOS which alway
 [eos-70d]: https://en.wikipedia.org/wiki/Canon_EOS_70D "A 20.2 megapixel DSLR."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."
-[fender-jazz-bass]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "An electric bass guitar."
 [fiery-feeds-ios]: http://cocoacake.net/apps/fiery/ "An RSS reader app."
 [filebrowser-ios]: https://apps.apple.com/au/app/filebrowser-document-manager/id364738545 "An app for working with files on iOS."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
@@ -153,6 +152,7 @@ On the software front, I'm also mostly OK, with the exception of iOS which alway
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
 [irccloud]: https://www.irccloud.com/ "A web-based IRC service."
 [isk-310-150]: https://antec.com/product/case/isk310-150.php "A small desktop computer case."
+[jazz-bass]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "An electric bass."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [linux-mint]: https://www.linuxmint.com/ "A Linux distribution."
