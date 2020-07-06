@@ -240,6 +240,13 @@ p#licence {
   font-size: 70%;
 }
 
+p#sponsorship {
+  border-top: solid 1px var(--divider-colour);
+  color: var(--details-colour);
+  font-size: 80%;
+  padding-top: 15px;
+}
+
 p.details {
   border-bottom: solid 1px var(--divider-colour);
   color: var(--details-colour);
