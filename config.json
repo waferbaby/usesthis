@@ -40,6 +40,7 @@
   },
 
   "data": {
-    "description": "A collection of nerdy interviews asking people from all walks of life what they use to get the job done."
+    "description": "A collection of nerdy interviews asking people from all walks of life what they use to get the job done.",
+    "sponsorship": "Uses This is supported by ZSA, makers of the ErgoDox EZ and Planck EZ keyboards. They also publish an <a href=\"https://ergodox-ez.com/pages/uses-this\" title=\"ZSA's awesome newsletter.\">awesome newsletter</a>."
   }
 }
