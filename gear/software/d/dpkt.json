@@ -1,0 +1,5 @@
+{
+  "name": "dpkt",
+  "description": "A Python package for working with network packets.",
+  "url": "https://dpkt.readthedocs.io/en/latest/"
+}

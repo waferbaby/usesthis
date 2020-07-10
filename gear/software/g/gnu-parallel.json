@@ -1,0 +1,5 @@
+{
+  "name": "GNU Parallel",
+  "description": "A tool for running jobs in parallel on multiple computers.",
+  "url": "https://www.gnu.org/software/parallel/"
+}
