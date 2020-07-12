@@ -37,7 +37,7 @@ Now that everybody works from home, I figure it's good to cover the home office.
 * I also have a laptop riser to put the laptop closer to eye-level.
 * And, a cheap FIFINE [USB desk mic][k669b], an easy step-up from a built-in mic.
 
-I said up-top that I'm a networking person, so of course I manage some of my own hardware. I have a Ubiquiti [Edgerouter X][edgerouter-x], a Ubuquiti [AC Lite wireless access point][unifi-ac-lite-ap], and a cheap 5-port TP-Link gigabit switch.
+I said up-top that I'm a networking person, so of course I manage some of my own hardware. I have a Ubiquiti [Edgerouter X][edgerouter-x], a Ubiquiti [AC Lite wireless access point][unifi-ac-lite-ap], and a cheap 5-port TP-Link gigabit switch.
 
 Also I'll occasionally take photos, and the camera on my phone is pretty good for a lot of point-and-shoot. For something more, I have a Canon [EOS 80D][eos-80d] and a handful of lenses. As far as possible, I like what came from the lens to be the finished photo. Capture, upload, done.
 
