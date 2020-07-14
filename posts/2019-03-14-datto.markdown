@@ -21,7 +21,7 @@ Well, I guess Destiny 2 the game counts as software, but for the most part, I us
 
 ### What would be your dream setup?
 
-The dream setup would probably start with a bigger desk so I have more room. Otherwise, I'm just looking for the best of the best stuff. A [2080 Ti][geforce-rtx-2080-ti], 2 TB of NVME storage, lots of USB 3.0/3.1/Type-C ports on a motherboard. [i9-9900k][core-i9-9900k] or even one of the more extreme ones like the [9980XE][core-i9-9980xe] for video editing, even though it seems like overkill. I'd love to get one of those wall-mounted PCs custom built too, or even one built into the desk. I know future-proofing is impossible, but I'd like to get as close to that as I can.
+The dream setup would probably start with a bigger desk so I have more room. Otherwise, I'm just looking for the best of the best stuff. A [2080 Ti][geforce-rtx-2080-ti], 2 TB of NVMe storage, lots of USB 3.0/3.1/Type-C ports on a motherboard. [i9-9900k][core-i9-9900k] or even one of the more extreme ones like the [9980XE][core-i9-9980xe] for video editing, even though it seems like overkill. I'd love to get one of those wall-mounted PCs custom built too, or even one built into the desk. I know future-proofing is impossible, but I'd like to get as close to that as I can.
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
