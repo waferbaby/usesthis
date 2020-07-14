@@ -34,7 +34,7 @@ Tape looping is one of my principle tools of creation, and aside from the two bi
 
 My monitors are Adam [A7X][].
 
-All that crap aside, the vast majority of my day is spent on the computer. My main system is a bespoke PC that I have been continually upgrading for some years. As it is an i7, it is getting to be time to swap out the motherboard; I may switch to a Ryzen Threadripper, as these are known to be very fast at compiling, which is my main bottleneck. It has 64GB of DRAM and 2TB of NVmE drive. 
+All that crap aside, the vast majority of my day is spent on the computer. My main system is a bespoke PC that I have been continually upgrading for some years. As it is an i7, it is getting to be time to swap out the motherboard; I may switch to a Ryzen Threadripper, as these are known to be very fast at compiling, which is my main bottleneck. It has 64GB of DRAM and 2TB of NVMe drive.
 
  I also have a current generation [Mac Mini][mac-mini], which I use to build our Apple products (both macOS and [iOS][]). I do not use this for music at all. I do our Linux builds on a dedicated Dell laptop running [Ubuntu][] 18. And finally, I have seven iPads of various flavors. I use the big [iPad Pro][ipad-pro] for ambient music experiments (mostly for my Instagram feed), in addition to it being my main development unit. Although I just (literally today) got the new 11" iPad Pro, and I think this may be a better form factor for my music use-case. 
 
