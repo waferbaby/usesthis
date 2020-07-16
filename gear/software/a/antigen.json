@@ -1,0 +1,5 @@
+{
+  "name": "Antigen",
+  "description": "A plugin manager for zsh.",
+  "url": "https://github.com/zsh-users/antigen"
+}
