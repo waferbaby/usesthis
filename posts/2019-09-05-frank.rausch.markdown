@@ -49,11 +49,10 @@ On my iPhone, I look up stuff in my own Wikipedia reader app, [V for Wiki][v-for
 
 I'm quite happy with my setup. It has become so much more powerful and reliable than the first computers I saw in the early 90s. Technology got better, but most software is still hard to use for many people. Seeing all those bad user interfaces all the time is a great motivation to keep teaching app design, usability, and typography. 
 
-If I had one wish, I would love a powerful MacBook Air with [low-profile mechanical keys][cherry-mx-low-profile-rgb].
+If I had one wish, I would love a powerful MacBook Air with low-profile mechanical keys.
 
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [camingocode]: https://janfromm.de/typefaces/camingomono/camingocode/ "A font designed for source code."
-[cherry-mx-low-profile-rgb]: https://www.cherrymx.de/en/mx-low-profile/mx-low-profile-red.html "A mechanical keyboard key."
 [fantastical-ios]: https://flexibits.com/fantastical-iphone "An alternative calendar app."
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
