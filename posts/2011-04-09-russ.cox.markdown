@@ -17,7 +17,7 @@ I also write about programs. The writing I'm most known for is my series about [
 
 I lost interest in having the new shiny a long time ago. I like to find things that work for me and stick with them. I also rarely bother to pay for something new when I can get the previous model for less.
 
-At home that means a refurbished [Mac Mini][mac-mini] from 2006, a used [Dell 2001FP 20" LCD][ultrasharp-2001fp] from 2004, and a [Samsung ML-1750 laser printer][ml-1750] from 2004. More recent additions include an [Apple Time Capsule][time-capsule] for backing up the Mac and running the home network, a [Netgear ReadyNAS Duo][readynas-duo] (with mirrored disks) for networked storage, and a [Fujitsu ScanSnap S510][scansnap-s510]. I swear by the [small Apple keyboard][keyboard] (in stores they have one that size with a USB cable too) and the [Evoluent mouse][verticalmouse]. They all continue to serve me very well. The only thing I might replace if I were starting over would be the ReadyNAS box. The low-end model I have runs Linux on what appears to be a [SPARC simulated by an FPGA](http://www.readynas.com/forum/viewtopic.php?f=7&t=48124 "A thread about ReadyNAS and SPARC."); saying it's slow is an understatement, but it's only a disk. The printer and the scanner both seemed extravagant at the time, but they have been absolute workhorses and well worth the money.
+At home that means a refurbished [Mac Mini][mac-mini] from 2006, a used [Dell 2001FP 20" LCD][2001fp] from 2004, and a [Samsung ML-1750 laser printer][ml-1750] from 2004. More recent additions include an [Apple Time Capsule][time-capsule] for backing up the Mac and running the home network, a [Netgear ReadyNAS Duo][readynas-duo] (with mirrored disks) for networked storage, and a [Fujitsu ScanSnap S510][scansnap-s510]. I swear by the [small Apple keyboard][keyboard] (in stores they have one that size with a USB cable too) and the [Evoluent mouse][verticalmouse]. They all continue to serve me very well. The only thing I might replace if I were starting over would be the ReadyNAS box. The low-end model I have runs Linux on what appears to be a [SPARC simulated by an FPGA](http://www.readynas.com/forum/viewtopic.php?f=7&t=48124 "A thread about ReadyNAS and SPARC."); saying it's slow is an understatement, but it's only a disk. The printer and the scanner both seemed extravagant at the time, but they have been absolute workhorses and well worth the money.
 
 When I'm not at home, and even often when I am, I work on my laptop. I used an [IBM Thinkpad X40][thinkpad-x40] running Linux from 2004 until very recently. It was small, light, sturdy, and had three mouse buttons. What more could you want? I recently replaced my X40 with a refurbished [Lenovo Thinkpad X201s][thinkpad-x201s], which is also small, light, sturdy, and has three mouse buttons. On top of that, it has a gorgeous high-resolution screen, an SSD, 4 cores, and 4 GB of RAM. I know it won't seem like much in a few years, but right now it sure feels like I'm living in the future.
 
@@ -47,6 +47,7 @@ Today it's taken for granted that everyone has local files on disk and you need 
 
 Moving everything into "The Cloud" may be a path to that dream, but we are definitely not there yet.
 
+[2001fp]: https://www.amazon.com/Dell-UltraSharp-2001FP-20-1-inch-Monitor/dp/B000BMBUAQ "A 20.1 inch LCD screen."
 [acme]: https://en.wikipedia.org/wiki/Acme_(text_editor) "A text editor and graphical shell for Plan 9."
 [af-s-dx-nikkor-18-200mm-f3.5-5.6g-ed-vr-ii]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2192/AF-S-DX-NIKKOR-18-200mm-f%252F3.5-5.6G-ED-VR-II.html "A lens for DSLR cameras."
 [blogger]: https://en.wikipedia.org/wiki/Blogger_(service) "A weblog publishing system."
@@ -80,6 +81,5 @@ Moving everything into "The Cloud" may be a path to that dream, but we are defin
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [tripit-android]: https://play.google.com/store/apps/details?id=com.tripit "A TripIt client for Android."
 [tripit]: https://www.tripit.com/ "A travel planning web service."
-[ultrasharp-2001fp]: https://www.amazon.com/Dell-UltraSharp-2001FP-20-1-inch-Monitor/dp/B000BMBUAQ "A 20.1 inch LCD screen."
 [unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."
 [verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."

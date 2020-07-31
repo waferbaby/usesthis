@@ -12,7 +12,7 @@ My name is [George Nachman](https://twitter.com/gnachman "George's Twitter accou
 
 ### What hardware do you use?
 
-My setup at work is pretty cool: I sit in a [zero-gravity recliner][perfect-chair], which is the most comfortable chair I've ever sat in. My monitor is a [Dell 4K display][ultrasharp-up2414q]. It's on a pole-mounted monitor arm so I can position it exactly where I need it when lying almost horizontally. I use an Apple bluetooth keyboard and Magic Trackpad, which is the greatest thing since oxygen. I use a Mac Pro, and have a 15" MacBook Pro for when I'm on the go.
+My setup at work is pretty cool: I sit in a [zero-gravity recliner][perfect-chair], which is the most comfortable chair I've ever sat in. My monitor is a [Dell 4K display][up2414q]. It's on a pole-mounted monitor arm so I can position it exactly where I need it when lying almost horizontally. I use an Apple Bluetooth keyboard and [Magic Trackpad][magic-trackpad], which is the greatest thing since oxygen. I use a Mac Pro, and have a 15" MacBook Pro for when I'm on the go.
 
 At home, I use a 13" [MacBook Pro][macbook-pro]. I used to use a 15" but I got tired of elbowing strangers on airplanes.
 
@@ -36,11 +36,12 @@ I'm pretty sure I have it already. I do wish there were more options for ergonom
 [google-search-ios]: https://itunes.apple.com/us/app/id284815942 "Google's Search app for iOS."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [perfect-chair]: https://www.humantouch.com/perfect-chairs.html "A zero-gravity recliner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [tcsh]: https://www.tcsh.org/Welcome "A command-line shell."
-[ultrasharp-up2414q]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=860-BBCD "A 24 inch 4K monitor."
+[up2414q]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=860-BBCD "A 24 inch 4K monitor."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

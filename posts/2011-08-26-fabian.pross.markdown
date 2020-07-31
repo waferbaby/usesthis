@@ -14,7 +14,7 @@ My name is Pit (my real name is Fabian Pross), [I'm](http://www.monophyl.com/ "T
 
 ### What hardware do you use?
 
-I have a core i7 workstation under my desk, rocking 12 gigs of RAM. Not sure what kind of graphics card I have there - I grew up as a Mac user, so I don't know much about the internals of computers. We share a QNAP NAS called Biberbau at the studio which is running on a RAID5 setup. Peripheral wise I'm using an M sized [Wacom Intous 4][intuos] in combination with a cheap keyboard and mouse. I'm looking at a 20" [Apple Cinema Display][cinema-display], a 24" [Dell U 2410][ultrasharp-2410] and a [Canon EOS 500d][eos-500d] lying on my desk which I hardly use, sadly. Our office pet is a [Goliath KackelDackel][kackel-dackel], which has been suffering from obstipation lately because it's taken for a walk so rarely. When I'm not sitting in my white [IKEA Verner][verner], I carry a yellow [Burton Shooter Case][shooter-case] man purse with an [iPad][] (for emails, tv shows, games and comic books on the go) and an [iPhone][] classic besides some random paper stuff. The iPhone is my backup phone which I ditched for a [Palm Pixie Plus][pixie-plus]. I love my Pixie although it's always so thirsty for power. I also use a 13" [MacBook Pro][macbook-pro] on my couch socializing and reloading the [Polynoid Vimeo](http://vimeo.com/polynoid "The Polynoid page on Vimeo.") page.
+I have a core i7 workstation under my desk, rocking 12 gigs of RAM. Not sure what kind of graphics card I have there - I grew up as a Mac user, so I don't know much about the internals of computers. We share a QNAP NAS called Biberbau at the studio which is running on a RAID5 setup. Peripheral wise I'm using an M sized [Wacom Intous 4][intuos] in combination with a cheap keyboard and mouse. I'm looking at a 20" [Apple Cinema Display][cinema-display], a 24" [Dell U 2410][2410] and a [Canon EOS 500d][eos-500d] lying on my desk which I hardly use, sadly. Our office pet is a [Goliath KackelDackel][kackel-dackel], which has been suffering from obstipation lately because it's taken for a walk so rarely. When I'm not sitting in my white [IKEA Verner][verner], I carry a yellow [Burton Shooter Case][shooter-case] man purse with an [iPad][] (for emails, tv shows, games and comic books on the go) and an [iPhone][] classic besides some random paper stuff. The iPhone is my backup phone which I ditched for a [Palm Pixie Plus][pixie-plus]. I love my Pixie although it's always so thirsty for power. I also use a 13" [MacBook Pro][macbook-pro] on my couch socializing and reloading the [Polynoid Vimeo](http://vimeo.com/polynoid "The Polynoid page on Vimeo.") page.
 
 ### And what software?
 
@@ -24,6 +24,7 @@ Our main production software is [Autodesk Softimage][softimage], which I use wit
 
 When you're dealing with 3D production, there is (and never will be) a setup that can handle your stuff as fast as you'd like it to. It's a vicious cycle: the more horsepower you have, the more you crank up settings and polycounts. No matter what hardware there will be in the future, I will always hope for something faster...
 
+[2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
@@ -43,6 +44,5 @@ When you're dealing with 3D production, there is (and never will be) a setup tha
 [shooter-case]: https://www.burton.com/mens-bags-luggage-packs-shooter-case/256170,default,pd.html "A camera bag."
 [softimage]: https://www.autodesk.com/products/softimage/overview "3D character animation software."
 [ubuntu-server]: https://www.ubuntu.com/server "A server version of Ubuntu."
-[ultrasharp-2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [verner]: http://furniture.about.com/od/furniturebytheroom/gr/IKEA_verner.htm "An office chair."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

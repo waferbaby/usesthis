@@ -15,7 +15,7 @@ I used to be a software engineer at IBM before pursuing content creation full ti
 
 ### What hardware do you use?
 
-I am primarily a PC user as a Twitch streamer and use Adobe for all my editing. Here are [my PC specs](https://pcpartpicker.com/list/Jj67hg "Tae Ha's computer build.") (list is missing my primary monitor which is a Dell [UltraSharp 32" UP3216Q][ultrasharp-up3216q].)
+I am primarily a PC user as a Twitch streamer and use Adobe for all my editing. Here are [my PC specs](https://pcpartpicker.com/list/Jj67hg "Tae Ha's computer build.") (list is missing my primary monitor which is a Dell [UltraSharp 32" UP3216Q][up3216q].)
 
 As for keyboards, I rotate through the plethora of keyboards I use about every 2 weeks. My current mice of choice are the Logitech [MX Master 3][mx-master] for productivity and the Logitech [G Pro Wireless][g-pro-wireless] for gaming. I haven't dived fully into the audiophile world yet but when it comes to listening, I use the Ultimate Ears [UE LIVE CIEMs][ue-live].
 
@@ -46,5 +46,5 @@ Also can never have enough lighting and lenses. I would love to dive deeper into
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [ue-live]: https://pro.ultimateears.com/ue-live-world-s-best-top-iem.html "High-end in-ear headphones."
-[ultrasharp-up3216q]: https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-ultra-hd-4k-monitor-with-premiercolor-up3216q/apd/210-afln/monitors-monitor-accessories "A 32 inch monitor."
+[up3216q]: https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-ultra-hd-4k-monitor-with-premiercolor-up3216q/apd/210-afln/monitors-monitor-accessories "A 32 inch monitor."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."

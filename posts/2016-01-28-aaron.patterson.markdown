@@ -12,7 +12,7 @@ My name is [Aaron Patterson](http://tenderlovemaking.com/ "Aaron's website."), b
 
 ### What hardware do you use?
 
-I use a [15" MacBook Pro][macbook-pro], but it's usually mounted in my [Henge Dock][henge-dock]. My "everyday use" monitor is a [27" Dell][ultrasharp-u2713hm].
+I use a [15" MacBook Pro][macbook-pro], but it's usually mounted in my [Henge Dock][henge-dock]. My "everyday use" monitor is a [27" Dell][u2713hm].
 
 I use an [ErgoDox keyboard][ergodox] (that I built myself) with Cherry MX Brown switches, and the [Norman keyboard layout](https://normanlayout.info/ "A keyboard layout."). I built the keyboard myself, but you can order a version called the [ErgoDox EZ][ergodox-ez] that is pre-built. I ordered an ErgoDox EZ because it has tenting built-in, and I really think it's the best keyboard to use.
 
@@ -81,6 +81,6 @@ I hope that in the future more things will be wireless. I feel like I have lots 
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
+[u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
 [u37]: https://www.amazon.com/CAD-U37-Condenser-Recording-Microphone/dp/B001AIQGUO "A USB condenser microphone."
-[ultrasharp-u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
 [vim]: https://www.vim.org/ "A command-line text editor."

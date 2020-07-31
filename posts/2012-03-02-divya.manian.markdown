@@ -12,7 +12,7 @@ categories:
 
 ### What hardware do you use?
 
-I have a [13" MacBook Air][macbook-air] with a 128GB hard drive. I mostly use it with a [Dell 30" monitor][ultrasharp-3007wfp] using a Mini-displayport to Dual-Link DVI adapter.
+I have a [13" MacBook Air][macbook-air] with a 128GB hard drive. I mostly use it with a [Dell 30" monitor][3007wfp] using a Mini-displayport to Dual-Link DVI adapter.
 
 I used to have terrible pain in my fingers and wrists before I started using a [Kinesis Advantage][advantage] keyboard with the [Magic Trackpad][magic-trackpad]. I used to own an [Aeron chair][aeron] but since moving from Singapore I have settled for an Office Depot look-alike which seems as comfortable.
 
@@ -51,6 +51,7 @@ On the iPad, I almost only use the [Reeder][reeder-ios] and [Instapaper][instapa
 I think MacBook Air is pretty much all I want in my primary computer. But I would love to have even longer battery life. I wish there was a Kinesis Advantage keyboard that is travel-friendly (or maybe a better wrist-friendly keyboard for MacBook Air).
 
 [1208]: https://mobile.softpedia.com/phones/Nokia/Nokia-1208.shtml "A basic mobile phone."
+[3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
@@ -91,7 +92,6 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [spotify-android]: https://play.google.com/store/apps/details?id=com.spotify.music "An Android client for the music service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [ss-b1000]: https://www.amazon.com/Sony-SS-B1000-4-Inch-Bookshelf-Speakers/dp/B000OG88KY "Speakers."
-[ultrasharp-3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [zsh]: http://www.zsh.org/ "An interactive shell and scripting language."

@@ -20,7 +20,7 @@ I usually work from home in Melbourne; most of my time is spent e-mailing, proto
 
 ### What hardware do you use?
 
-When sitting at my desk, I use a [Mac Mini][mac-mini] with 8G of RAM and a [Crucial SSD][m4] added to the stock hard disk. No microphone, no camera, but I do have a pair of [Logitech V20 speakers][v20]. I use an [Apple Wired Compact Keyboard][keyboard] so that I don't have to reach too far to the right to use the mouse, an [Apple Magic Mouse][magic-mouse]. My monitor is a [24" Dell][ultrasharp-u2412m].
+When sitting at my desk, I use a [Mac Mini][mac-mini] with 8G of RAM and a [Crucial SSD][m4] added to the stock hard disk. No microphone, no camera, but I do have a pair of [Logitech V20 speakers][v20]. I use an [Apple Wired Compact Keyboard][keyboard] so that I don't have to reach too far to the right to use the mouse, an [Apple Magic Mouse][magic-mouse]. My monitor is a [24" Dell][u2412m].
 
 For anywhere else, I have an [11" MacBook Air][macbook-air] (I like to travel light).
  
@@ -82,8 +82,8 @@ I dream about cameras much more; at the moment, I'd love to get an [RX-100][cybe
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
+[u2412m]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=bsd&cs=04&sku=320-2676 "A 24 inch LCD monitor."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultrasharp-u2412m]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=bsd&cs=04&sku=320-2676 "A 24 inch LCD monitor."
 [unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."
 [v20]: https://www.logitech.com/en-us/support/199?crid=409 "External laptop speakers.."
 [wd-red]: https://www.wdc.com/en/products/products.aspx?id=810 "A hard disk designed for NAS/RAID usage."

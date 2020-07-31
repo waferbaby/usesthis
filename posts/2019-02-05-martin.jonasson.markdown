@@ -22,7 +22,7 @@ Most of my work happens on my office desktop, a boring old [Windows 10][windows-
 
 I used to have a very loud all black [Das Keyboard][das-keyboard-4] but ever since I started sharing an office with other humans, I've had to switch to much quieter [CODE][] mechanical keyboard.
 
-I use two side by side 27" monitors, the primary one is a 4K Dell [P2815Q][] and the secondary is a Dell [U2713H][ultrasharp-u2713h]. Both are attached to third party monitor arms because I'm tall and I need my monitors much higher up than the stock feet can do.
+I use two side by side 27" monitors, the primary one is a 4K Dell [P2815Q][] and the secondary is a Dell [U2713H][]. Both are attached to third party monitor arms because I'm tall and I need my monitors much higher up than the stock feet can do.
 
 I more or less live inside my noise canceling headphones (Bose [QuietComfort 35][quietcomfort-35]) - I'd wear them to bed if they weren't so bulky.
 
@@ -64,7 +64,7 @@ Other than that, I don't really need much more than what I have today - my limit
 [rider]: https://www.jetbrains.com/rider/ "A .NET IDE."
 [smartgit]: https://www.syntevo.com/smartgit/ "A graphical Git client."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[ultrasharp-u2713h]: https://www.newegg.com/global/au-en/Product/Product.aspx?Item=N82E16824260125 "A 27 inch LED monitor."
+[u2713h]: https://www.newegg.com/global/au-en/Product/Product.aspx?Item=N82E16824260125 "A 27 inch LED monitor."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [z420-workstation]: https://support.hp.com/us-en/product/hp-z420-workstation/5225033/product-info "A tower PC."

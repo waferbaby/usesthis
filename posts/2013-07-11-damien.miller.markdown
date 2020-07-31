@@ -20,7 +20,7 @@ Photography is a recent <strike>obsession</strike> hobby; representing a swing b
 
 **Work desktop**: A recent x86 desktop system with a HP 30" monitor running [Google's variant][goobuntu] of [Ubuntu][].
 
-**Personal desktop**: A recent beige-box Intel Core-i7 desktop system with some Intel SSD drives, a large amount of RAM and a [Dell 30" wide-gamut monitor][ultrasharp-u3011].
+**Personal desktop**: A recent beige-box Intel Core-i7 desktop system with some Intel SSD drives, a large amount of RAM and a [Dell 30" wide-gamut monitor][u3011].
 
 Both my desktops have [IBM M-series keyboards][model-m] and Logitech mice attached.
 
@@ -83,7 +83,7 @@ For photo editing, I'm mostly limited by my imagination and skills. That being s
 [softflowd]: https://code.google.com/archive/p/softflowd "A network traffic analyser."
 [thinkpad-x40]: http://www.thinkwiki.org/wiki/Category:X40 "A 12.1 inch PC laptop."
 [thinkpad-x61s]: http://www.thinkwiki.org/wiki/Category:X61s "A 12.1 inch PC laptop."
+[u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultrasharp-u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

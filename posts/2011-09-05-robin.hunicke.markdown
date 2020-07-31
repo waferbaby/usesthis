@@ -13,7 +13,7 @@ I am [Robin Hunicke](http://en.wikipedia.org/wiki/Robin_Hunicke "Robin's Wikiped
 
 ### What hardware do you use?
 
-At the office: A 64-bit 2.83 GHz Intel Q9550 quad-core PC with a GeForce 8800 GTX graphics card, 4 gigs of RAM. I have dual 24" Dell [2408 WFP][ultrasharp-2408wfp] ultra-flat widescreen LCD monitors. The left monitor is rotated to portrait-view for reading long docs, code, and Gmail. The right monitor is wide format for spreadsheets, music and browsing.
+At the office: A 64-bit 2.83 GHz Intel Q9550 quad-core PC with a GeForce 8800 GTX graphics card, 4 gigs of RAM. I have dual 24" Dell [2408 WFP][2408wfp] ultra-flat widescreen LCD monitors. The left monitor is rotated to portrait-view for reading long docs, code, and Gmail. The right monitor is wide format for spreadsheets, music and browsing.
 
 I keep both screens at 1920x1200, and my wallpaper is usually an unreleased screenshot of the game I'm currently working on ([Journey][]). Right now, however -- it's awesome fan art. All files and icons rest on the left side of my desktop, except my trash, which I always shortcut to the lower right corner of the left monitor. No idea how this all started, but now it feels semi-religious.
 
@@ -43,6 +43,7 @@ Working on a console (especially on a networked game) really tarts up your desk.
 
 One screen, many ingredients for inspiration: that's my idea of a dream setup.
 
+[2408wfp]: https://www.amazon.com/Dell-UltraSharp-2408WFP-24-inch-monitor/dp/B002JNM4FK "A 24 inch LCD screen."
 [af-nikkor-50mm-f1.4d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1902/AF-NIKKOR-50mm-f%252F1.4D.html "A camera lens."
 [af-s-nikkor-16-35mm-f4g-ed-vr]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2182/AF-S-NIKKOR-16-35mm-f%252F4G-ED-VR.html "A DSLR lens."
 [ca-2022r]: https://www.amazon.com/Cyber-Acoustics-CA-2022-Computer-Speakers/dp/B00006B9W3 "2.0 computer speakers."
@@ -73,7 +74,6 @@ One screen, many ingredients for inspiration: that's my idea of a dream setup.
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [tenori-on-ios]: https://uk.yamaha.com/en/products/musical-instruments/entertainment/tenori-on/tnr-i/?mode=model "An app version of the unique musical instrument."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[ultrasharp-2408wfp]: https://www.amazon.com/Dell-UltraSharp-2408WFP-24-inch-monitor/dp/B002JNM4FK "A 24 inch LCD screen."
 [vaio-f-series]: https://www.cnet.com/products/sony-vaio-f/ "A 16 inch PC laptop."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
 [word]: https://products.office.com/en-us/word "A document editor."

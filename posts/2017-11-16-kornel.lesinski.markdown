@@ -21,7 +21,7 @@ I use a [2014 MacBook Pro][macbook-pro] with Retina Display. It's a very nice ma
 
 I use it with the [Belkin Thunderbolt dock][thunderbolt-2-express-dock-hd], so I've been living in the "everything in one port" future for a while. I literally use every single port in my machine and the dock, even FireWire for a backup disk and HDMI for a projector (AX-100). Even though I like USB-C, I'm too invested in Thunderbolt to abandon or *dongelize* all my peripherials.
 
-I was an early adopter of high-res monitors. I've got an now-old [30" Dell WFP3008][ultrasharp-3008wfp]. It's big, heavy and emits significant amount of heat, but I got it when it was one of the few larger-than-HD monitors available. Display Port was such a new and exotic thing back then, that I've had to import a mini-DP to DP cable from China.
+I was an early adopter of high-res monitors. I've got an now-old [30" Dell WFP3008][3008wfp]. It's big, heavy and emits significant amount of heat, but I got it when it was one of the few larger-than-HD monitors available. Display Port was such a new and exotic thing back then, that I've had to import a mini-DP to DP cable from China.
 
 My other monitor is a [4K Samsung U28D590][u28d590]. It's the early model with a TN matrix with bleak color, lousy viewing angle, and a non-VESA stand with absolutely no adjustment. I also have to reboot it every few days (yes, my monitor crashes). But the 4K resolution still makes up for all of it.
 
@@ -61,6 +61,7 @@ OLED (where black is truly black) + HDR (where photographed lights appear as act
 
 I like Apple's combination of hardware and software the best. I just wish they weren't so forgetful about the existence of their Mac product lines. [macOS][] is still the most elegant and usable OS for me, but with every release (containing more and more restrictions, and [bash][] deliberately not updated since 2007) I'm finding it harder and harder to be a supporter of macOS and open-source at the same time. The [Mac App Store][mac-app-store] forbids all Free/Libre Software, so if they ever flip the switch to disable non-App-Store software, I'm out.
 
+[3008wfp]: https://www.amazon.com/Dell-UltraSharp-3008WFP-widescreen-DisplayPort/dp/B002T3KCZ4 "A 30 inch LCD screen."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
@@ -95,5 +96,4 @@ I like Apple's combination of hardware and software the best. I just wish they w
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [thunderbolt-2-express-dock-hd]: https://www.belkin.com/us/p/P-F4U085/ "A Thunderbolt hub."
 [u28d590]: https://www.samsung.com/us/support/owners/product/uhd-monitor-with-metallic-easel-stand-d590d-series "A 28 inch 4K monitor."
-[ultrasharp-3008wfp]: https://www.amazon.com/Dell-UltraSharp-3008WFP-widescreen-DisplayPort/dp/B002T3KCZ4 "A 30 inch LCD screen."
 [vivaldi]: https://vivaldi.com/ "A web browser."

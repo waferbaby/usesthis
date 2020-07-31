@@ -15,9 +15,9 @@ Photography is mostly a hobby but I sometimes license my work. One of my photos 
 
 ### What hardware do you use?
 
-At work I rely on a powerful workstation, a 12-core [Mac Pro][mac-pro] with 24 GB of RAM, hooked up to a 30" [HP ZR30w][zr30w] and a 24" [Dell 2408WFP][ultrasharp-2408wfp].
+At work I rely on a powerful workstation, a 12-core [Mac Pro][mac-pro] with 24 GB of RAM, hooked up to a 30" [HP ZR30w][zr30w] and a 24" [Dell 2408WFP][2408wfp].
 
-I do most of my photo editing and processing at home on a 2008 8-core Mac Pro with 8 GB of RAM and a 30" [Dell 3007WFP][ultrasharp-3007wfp]. I use a large array of internal and external hard drives - both USB and Firewire - to create 4 daily backups of my work. It seems overkill but in an incredible string of bad luck I once lost 4 of my 5 copies during the span of 2 days.
+I do most of my photo editing and processing at home on a 2008 8-core Mac Pro with 8 GB of RAM and a 30" [Dell 3007WFP][3007wfp]. I use a large array of internal and external hard drives - both USB and Firewire - to create 4 daily backups of my work. It seems overkill but in an incredible string of bad luck I once lost 4 of my 5 copies during the span of 2 days.
 
 For pretty much everything else I use an 11" [MacBook Air][macbook-air]. I take it almost everywhere with me and it's powerful enough that I use it for photo editing and processing when I'm on the road or traveling abroad. It's the machine on which I do all of my writing and presentations editing.
 
@@ -45,6 +45,8 @@ I am always looking for lighter, thinner and more powerful devices. I would love
 
 [1password-android]: https://play.google.com/store/apps/details?id=com.agilebits.onepassword "A password storage app."
 [1password]: https://1password.com "Password management software for Mac OS X."
+[2408wfp]: https://www.amazon.com/Dell-UltraSharp-2408WFP-24-inch-monitor/dp/B002JNM4FK "A 24 inch LCD screen."
+[3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [alpha-7r]: http://store.sony.com/a7r-alpha-7r-interchangeable-lens-camera-zid27-ILCE7R/B/cat-27-catid-All-Alpha-NEX-Cameras "A 36.4 megapixel full-frame digital camera."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
@@ -77,8 +79,6 @@ I am always looking for lighter, thinner and more powerful devices. I would love
 [press-android]: https://play.google.com/store/apps/details?id=com.twentyfivesquares.press "A feed reading app."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[ultrasharp-2408wfp]: https://www.amazon.com/Dell-UltraSharp-2408WFP-24-inch-monitor/dp/B002JNM4FK "A 24 inch LCD screen."
-[ultrasharp-3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [wunderlist-android]: https://play.google.com/store/apps/details?id=com.wunderkinder.wunderlistandroid "An app for the to-do service."
 [wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [zr30w]: https://www.amazon.com/HP-ZR30w-30-inch-S-IPS-Monitor/dp/B003RBNMJA "A 30 inch LCD screen."

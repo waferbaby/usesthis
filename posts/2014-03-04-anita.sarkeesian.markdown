@@ -36,7 +36,7 @@ I use the simple [f.lux app][f.lux] to help ease eye strain when working after d
 
 ### What would be your dream setup?
 
-I'm pretty happy with my setup but there are a few things I'd like to add such as a motorized standing desk with a lot of surface area. I would prefer to have dual 27" monitors (either the [Dell Ultrasharp U2713HM][ultrasharp-u2713hm] or the [Apple Thunderbolt Display][thunderbolt-display]) and a dedicated [Mac Pro desktop][mac-pro] set-up for video production. I've also been eyeing the [Desk Rail][desk-rail] to organize all the items floating around my small desk space. I could also use a robust wireless networked RAID system to organize and share large files, like HD video footage, quickly and easily in the office.
+I'm pretty happy with my setup but there are a few things I'd like to add such as a motorized standing desk with a lot of surface area. I would prefer to have dual 27" monitors (either the [Dell Ultrasharp U2713HM][u2713hm] or the [Apple Thunderbolt Display][thunderbolt-display]) and a dedicated [Mac Pro desktop][mac-pro] set-up for video production. I've also been eyeing the [Desk Rail][desk-rail] to organize all the items floating around my small desk space. I could also use a robust wireless networked RAID system to organize and share large files, like HD video footage, quickly and easily in the office.
 
 [30mm-f1.4-ex-dc-hsm]: https://www.sigmaphoto.com/30mm-f14-ex-dc-hsm "A camera lens."
 [3ds-xl]: https://www.nintendo.com/3ds/features/ "A portable gaming console with a 3D screen."
@@ -100,7 +100,7 @@ I'm pretty happy with my setup but there are a few things I'd like to add such a
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [trello]: https://trello.com/ "A project management service."
-[ultrasharp-u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
+[u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
 [vita]: https://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [wii-u]: https://www.nintendo.com/wiiu "A unique gaming console."

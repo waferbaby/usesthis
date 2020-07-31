@@ -19,7 +19,7 @@ In my spare time, I also do illustration and animation projects. One of my proje
 
 My key piece of hardware is a [Wacom Intuos4 tablet][intuos]. I have two -- one at work, and one at home. I actually use the stylus for video editing (not sure how common this is) but I find it to be way more precise and comfortable than editing with a mouse. For illustration, photo retouching, and graphic design I also use the stylus. All the illustrations and lettering in *Picture Cook* were drawn with the Intuos4, all in [Photoshop][]. Alternating between the stylus and mouse also helps with preventing arm/wrist fatigue. I switch to the mouse when I'm emailing, moving files around in [Finder][], procrastinating, [Facebooking][facebook].. in other words, the mouse is for "normal" computer use, and the stylus is for actual work and heavy lifting.
 
-At the office, I have a 2009 [Mac Pro][mac-pro] 4,1 with 20GB of RAM. I have two monitors hooked up to it -- a [27" Dell][ultrasharp-2707wfp] and a [17" Samsung][syncmaster-720n]. I have [Sennheiser HD280 Pro][hd-280-pro] headphones, which are "just OK" for monitoring audio on video shoots (outside noise does leak in), but they are excellent for editing video/audio in a quiet office, and great for listening to music. I have a great little card reader ([ioGear GUH286][guh286]) which combines SD, CF, and other card-readers all in one. It also doubles as a USB hub.
+At the office, I have a 2009 [Mac Pro][mac-pro] 4,1 with 20GB of RAM. I have two monitors hooked up to it -- a [27" Dell][2707wfp] and a [17" Samsung][syncmaster-720n]. I have [Sennheiser HD280 Pro][hd-280-pro] headphones, which are "just OK" for monitoring audio on video shoots (outside noise does leak in), but they are excellent for editing video/audio in a quiet office, and great for listening to music. I have a great little card reader ([ioGear GUH286][guh286]) which combines SD, CF, and other card-readers all in one. It also doubles as a USB hub.
 
 I have a mirror that lets me see who is sneaking up behind me (I face the wall) and this is a really great bit of analog hardware.
 
@@ -37,6 +37,7 @@ I just can't let go of [FCP 7][final-cut-pro].. [FCP X][final-cut-pro] has chang
 
 I would love a more kick-ass video camera, the XF105 is OK but sometimes the footage looks grainy or dullish in less than perfect light conditions. I'm also eyeing the new Mac Pro and wondering just how much faster it will be for video rendering and exporting and tasks like that. Other than that... I'd say I'm already livin' the dream!
 
+[2707wfp]: https://www.amazon.com/Dell-UltraSharp-2707WFP-Widescreen-Adjustable/dp/B000YGEKFQ "A 27 inch LCD screen."
 [a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
@@ -69,6 +70,5 @@ I would love a more kick-ass video camera, the XF105 is OK but sometimes the foo
 [spotify-ios]: https://itunes.apple.com/us/app/spotify/id324684580 "An iOS client for the music service."
 [syncmaster-2333sw]: https://www.amazon.com/Samsung-2333SW-23-Inch-Widescreen-Monitor/dp/B001P5CAV6 "A 23 inch LCD monitor."
 [syncmaster-720n]: https://www.amazon.com/Samsung-SyncMaster-720N-17-inch-Monitor/dp/B000I4PS3W "A 17 inch LCD screen."
-[ultrasharp-2707wfp]: https://www.amazon.com/Dell-UltraSharp-2707WFP-Widescreen-Adjustable/dp/B000YGEKFQ "A 27 inch LCD screen."
 [xf105]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/hd_video_cameras/xf105 "An HD camcorder."
 [yelp-ios]: https://itunes.apple.com/app/yelp/id284910350?mt=8 "An iPhone app for accessing Yelp reviews."

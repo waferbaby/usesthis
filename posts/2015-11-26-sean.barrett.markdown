@@ -16,7 +16,7 @@ Many years ago, I was a professional game developer at the much-loved, long- lam
 
 ### What hardware do you use?
 
-At work I use a desktop with a 10-core [Xeon E5-2680][xeon-e5-2680] and two [Dell 3007 WFP monitors][ultrasharp-3007wfp]. At home I use a single desktop for both programming and music, so it's optimized for low noise, with a decent 4-core Intel CPU.
+At work I use a desktop with a 10-core [Xeon E5-2680][xeon-e5-2680] and two [Dell 3007 WFP monitors][3007wfp]. At home I use a single desktop for both programming and music, so it's optimized for low noise, with a decent 4-core Intel CPU.
 
 As a musician, I used to rely on the [Roland VG-99][vg-99] for all my guitar sounds, and I'll probably go back to it for the convenience at some point. But for the last few years, I've been sticking to an all-analog guitar signal path. To approximate the same flexibility I had with the VG-99, I use a ["true bypass" footswitcher][7-looper-strip] to choose rapidly from [half a dozen distortion pedals](https://twitter.com/nothings/status/611319040695349248 "Sean's Twitter photo of his pedals.") mounted on a [Pedaltrain 3 pedalboard][pedaltrain-3] with a [Voodoo Lab Mondo][mondo] so they don't need batteries. I own an [American Fender Stratocaster][stratocaster], but with the VG-99 I used an Ibanez Strat clone because it's lighter and feels more comfortable; now I use a [Steinberger Spirit GT-Pro Deluxe][gt-pro-deluxe] because it's even lighter. For bass guitar I play a [Fender Precision Bass Special][precision-bass-special].
 
@@ -46,6 +46,7 @@ For programming, the dream setup would be to have a computer with software that 
 
 As a game developer, it's also mostly about things that don't exist. I make the open source libraries I wish I had, so I'm doing pretty well there. But, for example, I wish I could buy or license instrument samples so I could construct dynamic music in-game, but nobody sells samples anymore, only virtual instruments, and the license on samples back when you could get them forbids that usage. (I'd love to fund someone to make orchestral samples and put them in the public domain.)
 
+[3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [7-looper-strip]: https://www.loop-master.com/looper-strip-p-138.html "A loop pedal switcher."
 [classic-shell]: http://www.classicshell.net/ "A tool for customising Windows."
 [cmirror]: https://mollyrocket.com/729 "Backup software for Windows."
@@ -73,7 +74,6 @@ As a game developer, it's also mostly about things that don't exist. I make the 
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
 [superior-drummer]: https://en.wikipedia.org/wiki/Superior_drummer_2.0 "A drum sampler."
 [symphonic-cube]: https://vsl.co.at/en/Instruments/Symphonic_Cube "A collection of symphonic samples."
-[ultrasharp-3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
 [vg-99]: http://www.rolandus.com/products/vg-99/ "A guitar modelling device."
 [vim]: https://www.vim.org/ "A command-line text editor."

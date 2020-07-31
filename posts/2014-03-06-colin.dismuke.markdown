@@ -13,7 +13,7 @@ My name is [Colin Dismuke](http://www.cpdis.com/ "Colin's website."), I live in 
 
 ### What hardware do you use?
 
-Since we're a Windows only engineering firm I use a [Latitude E6230][latitude-e6230] with a 12.5-inch screen, 2.9 GHz i7 CPU, 8 GB RAM, and 256 GB SSD running 64-bit [Windows 7][windows-7]. It's not the most powerful machine but it runs very smoothly and is more than enough when I'm on a plane or offshore. When I'm at my desk in Houston, the laptop is connected to a 27-inch Dell LED [monitor][ultrasharp-u2713hm] and [Bose Companion 5 speakers][companion-5]. In addition to the regular backups on our company servers, I have an [encrypted][truecrypt] 1TB Silicon Power Shock/Waterproof [external hard drive][armor-a80] that's incredibly durable and fast. To stay comfortable I sit in an [Aeron Chair][aeron] although I'm considering some type of arrangement that would allow me to stand for part of the day.
+Since we're a Windows only engineering firm I use a [Latitude E6230][latitude-e6230] with a 12.5-inch screen, 2.9 GHz i7 CPU, 8 GB RAM, and 256 GB SSD running 64-bit [Windows 7][windows-7]. It's not the most powerful machine but it runs very smoothly and is more than enough when I'm on a plane or offshore. When I'm at my desk in Houston, the laptop is connected to a 27-inch Dell LED [monitor][u2713hm] and [Bose Companion 5 speakers][companion-5]. In addition to the regular backups on our company servers, I have an [encrypted][truecrypt] 1TB Silicon Power Shock/Waterproof [external hard drive][armor-a80] that's incredibly durable and fast. To stay comfortable I sit in an [Aeron Chair][aeron] although I'm considering some type of arrangement that would allow me to stand for part of the day.
 
 Each time I travel I try to remove anything that wasn't used or useful on the previous trip. At this point I can fit everything I need for two weeks in Australia/offshore in a [GoRuck GR1][gr1] and a small North Face Base Camp Duffel. It may be more efficient to use a hard roller suitcase, however, when traveling by helicopter to an offshore platform it's usually mandatory that your bag be soft on all sides. The real key to magically effective packing though are the various [Eagle Creek packing cubes][pack-it-half-cube] that fit inside the aforementioned bags. Not only do they allow for much denser packing they also keep your clothes, toiletries, and cables much more organized.
 
@@ -97,7 +97,7 @@ A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run AN
 [truecrypt]: http://truecrypt.sourceforge.net/ "Encryption software."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
-[ultrasharp-u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
+[u2713hm]: http://accessories.ap.dell.com/sna/productdetail.aspx?c=au&cs=audhs1&l=en&redirect=1&s=dhs&sku=210-40773 "A 27 inch LCD monitor"
 [vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [weather-line-ios]: http://weatherlineapp.com/ "A weather app."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

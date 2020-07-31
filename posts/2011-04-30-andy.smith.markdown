@@ -26,7 +26,7 @@ The other computer that kvm switch is hooked up to is a rapidly aging [Shuttle X
 
 By my bed I keep one of the prototype Google Chrome [Cr-48][cr-48] Netbooks for light browsing and emailing on weekend mornings when I haven't quite convinced myself there is a reason to be up yet.
 
-At the office I have the same setup as at home for my laptop, except no kvm and a [30" Dell monitor][ultrasharp-3007wfp]. I also keep a [Wacom Bamboo Pen and Touch pad][bamboo] nearby for when I need to do some photo/graphic editing.
+At the office I have the same setup as at home for my laptop, except no kvm and a [30" Dell monitor][3007wfp]. I also keep a [Wacom Bamboo Pen and Touch pad][bamboo] nearby for when I need to do some photo/graphic editing.
 
 When away from my computer I usually have a recent Android phone, right now an [HTC Evo Shift 4G][evo-shift-4g], and my [Leica M8.2][m8.2] camera or one of my ancient Hasselblad 500C's. I always have my [Kindle wifi+3g][kindle] with me.
 
@@ -56,6 +56,7 @@ Oh, and I play a lot of [Starcraft 2][starcraft-2].
 
 I'd love to have some non-Apple hardware that was close to being as sleek and stylish as the current Macbooks, that had a great open source photo management app and a bunch of horsepower. I also want a beast of desktop box with too much storage and too much power and a huge graphics card that was dead silent and is hooked up to a 30" monitor and my current keyboard, mouse and mousepad. I also hope that one of the Android tablets coming out will be awesome enough that somebody will make an app for it that lets me annotate mockups and diagrams.
 
+[3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [adblock]: https://getadblock.com/ "A browser extension for blocking ads."
 [ario]: http://ario-player.sourceforge.net/ "A GTK2 client for MPD."
 [bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
@@ -99,7 +100,6 @@ I'd love to have some non-Apple hardware that was close to being as sleek and st
 [starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
 [switch2]: https://web.archive.org/web/20111104132319/http://www.belkin.com/uk/IWCatProductPage.process?Product_Id=275159 "A USB KVM."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultrasharp-3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visivotab]: http://molliecopans.com/visivotab/ "A Chrome extension for showing Flickr photos in new tabs."

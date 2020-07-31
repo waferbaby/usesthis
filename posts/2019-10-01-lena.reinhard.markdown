@@ -21,7 +21,7 @@ Let's start with work:
 
 - My desk is two wooden trestle legs with a former bed frame part as the tabletop. On the desk, I have: 
 - My [MacBook Pro 2018][macbook-pro], 13", is a very good laptop for all I need, and handles those days with lots of open applications and endless browser tabs very gracefully.
-- I'm considering getting a second Dell [UltraSharp Monitor U2415][ultrasharp-u2415], for extra-large spreadsheet editing.
+- I'm considering getting a second Dell [UltraSharp Monitor U2415][u2415], for extra-large spreadsheet editing.
 - I'm in a lot of virtual meetings, and the Logitech [C920 HD webcam][c920] helps me be there. 
 - The Apple [Magic Keyboard][magic-keyboard] is bad for my hand posture and I dislike the tactile experience, I need to make the time to find a new keyboard sometime. 
 - I got the Logitech [M570 trackball][wireless-trackball-m570] years ago when I had issues with my hands and wrists and like it a lot, especially the trackball is great (I love a speedy mouse).
@@ -108,6 +108,6 @@ I'm pretty content with this setup – my only annoyance is the amount of cables
 [todoist]: https://todoist.com/ "A to-do service."
 [tripit]: https://www.tripit.com/ "A travel planning web service."
 [typora]: https://typora.io/ "A web-based Markdown editor."
-[ultrasharp-u2415]: https://www.dell.com/en-us/work/shop/cty/dell-24-ultrasharp-monitor-u2415/spd/dell-u2415 "A 24.1 inch LCD monitor."
+[u2415]: https://www.dell.com/en-us/work/shop/cty/dell-24-ultrasharp-monitor-u2415/spd/dell-u2415 "A 24.1 inch LCD monitor."
 [wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
 [zoom]: http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

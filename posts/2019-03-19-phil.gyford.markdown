@@ -17,7 +17,7 @@ Sometimes I do [a bit of acting](https://www.philipgyford.com/ "Phil's acting pr
 
 I use a MacBook Pro. ["Retina, 13-inch, Early 2015"][macbook-pro], it tells me. I tend to max out a new laptop in terms of processor, memory and storage in the hope it will last as long as possible. My previous MacBook was a "Late 2008" so hopefully this one will see me well into the 2020s, although it's already had a new screen and "top case"...
 
-I usually work with the laptop plugged into [a 24" Dell display][ultrasharp-2410] that's nearly a decade old but is still fine. I don't use an external keyboard, mouse or trackpad because I've never had any RSI symptoms from using laptops directly (so far) and this makes for less desktop clutter.
+I usually work with the laptop plugged into [a 24" Dell display][2410] that's nearly a decade old but is still fine. I don't use an external keyboard, mouse or trackpad because I've never had any RSI symptoms from using laptops directly (so far) and this makes for less desktop clutter.
 
 When at my desk I usually have music playing through a pair of [Audioengine A2+][a2-plus] speakers which seem pretty good and aren't too big. I'm not an obsessive audiophile but they do lack bass, being smallish, so I added a [Gemini II subwoofer][gemini-ii], made in Southend-on-Sea, which squats, throbbing, in the limited space under the desk. Sometimes I'll listen on headphones and have a pair of [Audio-Technica ATH-M50s][ath-m50] which I've used enough that I had to [repair the headband](https://www.flickr.com/photos/philgyford/34049458230 "Phil's Flickr photo of his headphone repair work.") a while back.
 
@@ -43,6 +43,7 @@ I read a lot of RSS feeds and some email newsletters, all of which live in [Feed
 
 A slightly bigger, better display would be quite nice but I don't have enough room on my desk, so everything's fine for the moment.
 
+[2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [apple-watch-series-4]: https://en.wikipedia.org/wiki/Apple_Watch#Fourth_generation "A smart watch."
@@ -61,6 +62,5 @@ A slightly bigger, better display would be quite nice but I don't have enough ro
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[ultrasharp-2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [vim-mode-plus]: https://atom.io/packages/vim-mode-plus "A package for Atom providing vim-like interactions."
 [vim]: https://www.vim.org/ "A command-line text editor."

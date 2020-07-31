@@ -16,7 +16,7 @@ I'm [Mark Pilgrim](http://diveintomark.org/ "Mark's website."). I'm a developer 
 My desktop:
 
 * Lenovo [ThinkCentre M57p][thinkcentre-m57p] tower (8GB of RAM, Nvidia Quadro NVS440).
-* Three monitors: two 24-inch Dell [Ultrasharp 2407WFP][ultrasharp-2407wfp] monitors (rotated 90 degrees so they are "tallscreens" @ 1200 x 1920) on either side of a 27-inch [Samsung 275T+][syncmaster-275t-plus] @ 1920 x 1200.
+* Three monitors: two 24-inch Dell [Ultrasharp 2407WFP][2407wfp] monitors (rotated 90 degrees so they are "tallscreens" @ 1200 x 1920) on either side of a 27-inch [Samsung 275T+][syncmaster-275t-plus] @ 1920 x 1200.
 * [Customizer 104][customizer-104-105] Black keyboard, which is the spiritual successor to the [IBM Model M][model-m].
 * [Logitech MX-1000 Cordless mouse][mx-1000].
 * Three [Drobos][drobo] with a total of 9.5 terabytes of storage. I have had many problems with my Drobos, and I do not recommend them. Nor do I recommend keeping 9.5 terabytes of anything.
@@ -70,6 +70,7 @@ Where my 20-year plan will most likely fail is not at the operating system or dr
 
 But hey, you asked for my dream setup. That's it: one computer for 20 years.
 
+[2407wfp]: https://www.amazon.com/Dell-UltraSharp-2407WFP-panel-monitor/dp/B00655TKFA "A 24 inch LCD monitor."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [astrid-android]: https://en.wikipedia.org/wiki/Astrid_(application) "A task manager for Android phones."
 [chromium]: http://www.chromium.org/ "Open-source builds of the Chrome web browser."
@@ -99,6 +100,5 @@ But hey, you asked for my dream setup. That's it: one computer for 20 years.
 [thinkcentre-m57p]: https://www.cnet.com/products/lenovo-thinkcentre-m57p-6073-core-2-duo-e6550-2-33-ghz-monitor-none-series/specs/ "An old tower PC."
 [twidroid-android]: https://www.bluestacks.com/blog/app-reviews/archive/twidroid.html "A Twitter client for Android devices."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultrasharp-2407wfp]: https://www.amazon.com/Dell-UltraSharp-2407WFP-panel-monitor/dp/B00655TKFA "A 24 inch LCD monitor."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
 [zsh]: http://www.zsh.org/ "An interactive shell and scripting language."

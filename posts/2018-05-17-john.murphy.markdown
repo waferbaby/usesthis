@@ -16,7 +16,7 @@ I'm [John Murphy](https://twitter.com/johmmmmmm "John's Twitter account.") and I
 
 When I'm at home or traveling I [Boot Camp][boot-camp] my late [2013 15" MacBook Pro][macbook-pro], because our Horsepower editor only runs in [Windows][windows-10].
 
-Most days I go to the Young Horses office to work. I use this little white [babycube PC][sst-ps07w] that I built in May 2015. I should probably upgrade it soon. I have [two monitors][ultrasharp-u2412m] mounted on [monitor arms][jarvis-dual-monitor-arm] on my [sit-stand desk][jarvis-bamboo]. I'm currently using this [keyboard][surface-ergonomic-keyboard] and this [pink mouse][lancehead-tournament-edition].
+Most days I go to the Young Horses office to work. I use this little white [babycube PC][sst-ps07w] that I built in May 2015. I should probably upgrade it soon. I have [two monitors][u2412m] mounted on [monitor arms][jarvis-dual-monitor-arm] on my [sit-stand desk][jarvis-bamboo]. I'm currently using this [keyboard][surface-ergonomic-keyboard] and this [pink mouse][lancehead-tournament-edition].
 
 While I work I listen to music on these [Sennheiser HD 598][hd-598] headphones that look like they are from the 70s. Almost all headphones hurt my ears after half an hour or so, but these are incredibly comfortable.
 
@@ -86,5 +86,5 @@ In the meantime, I've been thinking about putting a treadmill under this here st
 [tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
 [trello]: https://trello.com/ "A project management service."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
-[ultrasharp-u2412m]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=bsd&cs=04&sku=320-2676 "A 24 inch LCD monitor."
+[u2412m]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&s=bsd&cs=04&sku=320-2676 "A 24 inch LCD monitor."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

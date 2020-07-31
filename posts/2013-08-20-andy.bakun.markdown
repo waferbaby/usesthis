@@ -16,7 +16,7 @@ I'm [Andy Bakun](https://twitter.com/thwartedefforts "Andy's Twitter account.") 
 
 ### What hardware do you use?
 
-When I'm sitting a desk, my home setup is a [white box computer](http://en.wikipedia.org/wiki/White_box_(computer_hardware) "The Wikipedia entry for white box computer hardware.") that I periodically piecemeal upgrade. At work I use a [13" MacBook Pro][macbook-pro], which I find more portable than the 15" (which I used to have) for the rare occasion when it does leave the office. My primary display in both places are 30" monitors. At home, it's a [Dell UltraSharp U3011][ultrasharp-u3011], which is a fantastic monitor. I also run a [Dell UltraSharp 2405FPW 24"][u2405fpw] in portrait orientation at home. The dual monitor setup is really nice because I can keep things like chat windows, IRC, email, and documentation up on the secondary while I focus on the primary.
+When I'm sitting a desk, my home setup is a [white box computer](http://en.wikipedia.org/wiki/White_box_(computer_hardware) "The Wikipedia entry for white box computer hardware.") that I periodically piecemeal upgrade. At work I use a [13" MacBook Pro][macbook-pro], which I find more portable than the 15" (which I used to have) for the rare occasion when it does leave the office. My primary display in both places are 30" monitors. At home, it's a [Dell UltraSharp U3011][u3011], which is a fantastic monitor. I also run a [Dell UltraSharp 2405FPW 24"][u2405fpw] in portrait orientation at home. The dual monitor setup is really nice because I can keep things like chat windows, IRC, email, and documentation up on the secondary while I focus on the primary.
 
 For input, use the [Logitech Performance MX wireless mouse][performance-mouse-mx] and I own three Compaq 104-key keyboards, one each for work and home, and a spare. I love this keyboard. It's kind of old-school, but it's much more durable than a lot of more modern keyboards. It's heavier than a lot of other more modern keyboards so it's difficult to push around and the key action is quick yet solid. And when it needs to be cleaned, it goes through the dishwasher like a champ.
 
@@ -75,8 +75,8 @@ On the software side, my ideal setup would be a Linux distribution that is fully
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [u2405fpw]: https://www.pcworld.com/article/120996/article.html "A 24 inch LCD monitor."
+[u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultrasharp-u3011]: https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O "A 30 inch LCD screen."
 [vic-20]: https://en.wikipedia.org/wiki/Commodore_VIC-20 "An 8-bit computer."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [xterm]: https://en.wikipedia.org/wiki/Xterm "Terminal software for the X Window System."

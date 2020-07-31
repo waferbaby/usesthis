@@ -18,7 +18,7 @@ I believe it's important to celebrate career achievements with [donuts](http://l
 
 At work I use a 13" [MacBook Air][macbook-air] with a secondary 24" Samsung monitor, Bluetooth mouse and USB keyboard. I try not to bring my laptop along to meetings so I can be more present in them; the laptop is then replaced with a small notebook and a [Sharpie Pen][fine-point]. I've got an awful memory, and writing notes constantly helps me to better remember things. When I'm at my desk and have time to focus, I'll use [Audio-Technica ATH-M50S headphones][ath-m50s]. On my commute each morning I'll just use little [earclip headphones][shs4700-28], though. I rest my [iPhone 5c][iphone-5c] on a [handmade wooden stand](https://www.etsy.com/listing/96977351/natural-wood-iphone-4-4s-5-stand "A wooden stand for iPhones on Etsy.") during the day. I also keep a small $5 plastic watch handy when I need to keep track of time in a meeting but don't want to check my phone (like when I'm interviewing a candidate).
 
-At home, I use an often-shut 11" MacBook Air with a [Dell UltraSharp 20" LCD Display][ultrasharp-e2009w] as my primary display. When I'm writing the book, I'll often [switch from sitting at my desk to sitting on my bed](http://instagram.com/p/mdUCsFxNGl/ "Lara's photo of her bed computing setup.") to write on the little 11" Air screen, as my posture is strangely better and I'll write for longer.
+At home, I use an often-shut 11" MacBook Air with a [Dell UltraSharp 20" LCD Display][e2009w] as my primary display. When I'm writing the book, I'll often [switch from sitting at my desk to sitting on my bed](http://instagram.com/p/mdUCsFxNGl/ "Lara's photo of her bed computing setup.") to write on the little 11" Air screen, as my posture is strangely better and I'll write for longer.
 
 I almost exclusively use short USB cables at home to minimize clutter, like this [4-inch lightning to USB cable][amazonbasics-4-inch-lightning-cable]. They're plugged into this [10 port hub][usb-2.0-10-port-hub], which I love because of the two flexible ports. My backup setup also includes an [AirPort Extreme][airport-extreme] for automated backups, a [2TB Western Digital external hard drive][elements-desktop] for more controlled/organized backups, and an [APC UPS][back-ups-xs].
 
@@ -68,6 +68,7 @@ Free, public, fast WiFi everywhere. Better battery life on everything. My own [J
 [cruzer-fit]: https://www.amazon.com/SanDisk-Cruzer-Low-Profile-Drive-SDCZ33-016G-B35/dp/B005FYNSZA "A tiny flash drive."
 [deployinator]: https://github.com/etsy/deployinator "Etsy's deploy system."
 [dropbox-ios]: https://www.dropbox.com/iphoneapp "An iOS version of the syncing software."
+[e2009w]: https://www.amazon.com/Dell-UltraSharp-E2009W-WideScreen-LCD/dp/B003TU9V0S "A 20 inch LCD monitor."
 [ecoextreme]: https://gracedigital.com/shop/ecoextreme/ "A waterproof housing for speakers or smartphones."
 [elements-desktop]: https://www.wdc.com/en/products/products.aspx?id=260 "An external hard drive."
 [etsy-ios]: https://itunes.apple.com/us/app/etsy/id477128284 "A client for the Etsy service."
@@ -109,7 +110,6 @@ Free, public, fast WiFi everywhere. Better battery life on everything. My own [J
 [the-modlet]: http://www.thinkecoinc.com/products/the-modlet/ "A programmable and energy-efficient power socket."
 [twitter-analytics]: https://analytics.twitter.com/about "Twitter's analytics system."
 [twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
-[ultrasharp-e2009w]: https://www.amazon.com/Dell-UltraSharp-E2009W-WideScreen-LCD/dp/B003TU9V0S "A 20 inch LCD monitor."
 [usb-2.0-10-port-hub]: https://www.amazon.com/gp/product/B00483WRZ6/ "A 10-port USB hub."
 [webpagetest]: https://www.webpagetest.org/ "A service for testing the speed of a website."
 [wireless-presenter]: https://www.amazon.com/Kensington-33373-Wireless-Presenter/dp/B000FPIUAW "A wireless presentation controller."

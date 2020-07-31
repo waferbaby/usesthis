@@ -47,7 +47,7 @@ We do our heavy rendering on a Windows machine we built named Tessa, that right 
 
 We've got a pile of [Mac Minis][mac-mini] we use for public demos and installations with VR headsets, plus several [AAXA P300][p300] (a tiny portable projector), so that we can fit several VR demo installations in a single backpack. I really like Mac Minis for installations, especially since once we've got the headsets running we can unplug all external keyboards and projectors and everything, and it'll run as a self-contained unit for days on end (or until Apple decides it must interrupt with a request to update).
 
-At work I've got a few [Dell Ultrasharp 32 Ultra HD monitors][ultrasharp-32-ultra-hd] and a couple different cobbled-together standing desks (one for using Tessa, one for putting laptops on), or else I use the MacBook while lounging on a couch. Right now I'm at an [IKEA Björkudden Bar Table][bjorkudden-bar] with a shoebox on top. At home I use an overturned pressure cooker.
+At work I've got a few [Dell Ultrasharp 32 Ultra HD monitors][up3216q] and a couple different cobbled-together standing desks (one for using Tessa, one for putting laptops on), or else I use the MacBook while lounging on a couch. Right now I'm at an [IKEA Björkudden Bar Table][bjorkudden-bar] with a shoebox on top. At home I use an overturned pressure cooker.
 
 I often work from my couch at home, using my hand-built PC ("Captain Terror") with an Epson projector and lightly modded HK speakers. I occasionally use my old Windows laptop ("Speed Racer") just because she's full of old licensed software I can't transfer. Every day begins and ends with working on the MacBook Pro in bed with a plastic LapGear lapdesk.
 
@@ -167,8 +167,8 @@ I want a good violin and a hot tub. Right now I'm using a standing desk, but I t
 [sweet-ride]: http://www.vater.com/#!/product/21 "Drumsticks."
 [the-book-seat]: http://thebookseat.com/ "A beanbag for books and tablets."
 [theta]: https://theta360.com/en/ "A camera that captures spherical images."
-[ultrasharp-32-ultra-hd]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=210-ACBL "A 32 inch 4K monitor."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[up3216q]: https://www.dell.com/en-us/work/shop/dell-ultrasharp-32-ultra-hd-4k-monitor-with-premiercolor-up3216q/apd/210-afln/monitors-monitor-accessories "A 32 inch monitor."
 [videostitch]: http://www.video-stitch.com "360° video editing and stitching software."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
