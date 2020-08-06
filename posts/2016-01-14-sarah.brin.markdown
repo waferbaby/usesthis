@@ -21,7 +21,7 @@ When I work from home, I am very, very dependent on my [Sonos PLAY:1][play-1] an
 
 ### And what software?
 
-Nothing too fancy. Everything I write, from grocery lists to magazine articles, starts as an email draft, either in [Outlook][] or [Gmail][]. I use both [Pages][] and [Word][] equally, same with [Excel][] and [Numbers][]. But for presentations, I only use [Keynote][]. I'm pretty dependent on [Tomato Timer][tomato-timer] for multitasking, and I keep my running to-do list on [Trello][]. I am extremely dependent on [Spotify][], [Chrome][] and [Sunrise][].
+Nothing too fancy. Everything I write, from grocery lists to magazine articles, starts as an email draft, either in [Outlook][] or [Gmail][]. I use both [Pages][] and [Word][] equally, same with [Excel][] and [Numbers][]. But for presentations, I only use [Keynote][]. I'm pretty dependent on [Tomato Timer][tomatotimer] for multitasking, and I keep my running to-do list on [Trello][]. I am extremely dependent on [Spotify][], [Chrome][] and [Sunrise][].
 
 ### What would be your dream setup?
 
@@ -46,7 +46,7 @@ I'd like a proper desktop [iMac][], too. And more [colored pencils][premier-soft
 [premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [sunrise]: https://itunes.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."
-[tomato-timer]: https://tomato-timer.com/ "A web service for tracking your time."
+[tomatotimer]: https://tomato-timer.com/ "A web-based Pomodoro timer."
 [trello]: https://trello.com/ "A project management service."
 [va2445m-led]: https://www.viewsonic.com/us/va2445m-led.html "A 24 inch monitor."
 [verticalmouse-wireless]: https://evoluent.com/products/vm4rw/ "A unique wireless mouse."

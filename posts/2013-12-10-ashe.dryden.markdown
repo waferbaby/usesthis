@@ -33,7 +33,7 @@ I run [OS X][macos] Mavericks and have found it agreeable so far.
 
 I use a lot of the usual suspects: [1Password][] to manage passwords across devices, [Alfred][] with the Powerpack to get to basically everything, [Caffeine][] to thwart sleep mode, [F.lux][] to prevent migraines, [Shush][] for mic management, [Dropbox][] for file backups, the pre-V2 release of [Skitch][] because it's far superior, and [Bartender][] to sweep all of that out of sight.
 
-For anything programming related, I use [zsh][] in [iTerm2][] and [vim][] (but I don't get religious about it) via [MacVim][] with a few plugins written by tpope. I would set my whole life to [Solarized's][solarized] Dark Theme if it were possible and I don't want to imagine a world without [Homebrew][]. Everything is under version control with [git][]. Most of the programming I do anymore is in [Ruby on Rails][rails], but my blog is still running [Drupal][]. I do my best not to get distracted by using [Tomato Timer][tomato-timer] for pomodoros.
+For anything programming related, I use [zsh][] in [iTerm2][] and [vim][] (but I don't get religious about it) via [MacVim][] with a few plugins written by tpope. I would set my whole life to [Solarized's][solarized] Dark Theme if it were possible and I don't want to imagine a world without [Homebrew][]. Everything is under version control with [git][]. Most of the programming I do anymore is in [Ruby on Rails][rails], but my blog is still running [Drupal][]. I do my best not to get distracted by using [Tomato Timer][tomatotimer] for pomodoros.
 
 I do all of my writing in [Markdown][] through [Mou][], but I've been meaning to try [Marked][].
 
@@ -109,7 +109,7 @@ But I'd give all that up for the simultaneous heat death of both email and the [
 [solarized]: https://ethanschoonover.com/solarized "A colour theme for text editors."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [ticket-to-ride-ios]: https://itunes.apple.com/us/app/ticket-to-ride/id432504470 "A board game."
-[tomato-timer]: https://tomato-timer.com/ "A web service for tracking your time."
+[tomatotimer]: https://tomato-timer.com/ "A web-based Pomodoro timer."
 [trackman-marble]: https://www.logitech.com/en-us/product/trackman-marble "A trackball."
 [tripit]: https://www.tripit.com/ "A travel planning web service."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
