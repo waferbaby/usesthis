@@ -32,11 +32,11 @@ Honestly, my dream setup would start with more space! If I had a larger working 
 
 Aside from that I'm pretty happy with what I've got going on.
 
-[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
-[ryzen-5]: https://www.amd.com/en/ryzen-5 "A CPU."
-[radeon-rx-5600-xt]: https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[tvpaint-animation]: http://tvpaint.com/ "A 2D animation suite."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
+[premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
+[radeon-rx-5600-xt]: https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
+[ryzen-5]: https://www.amd.com/en/ryzen-5 "A CPU."
+[tvpaint-animation]: http://tvpaint.com/ "A 2D animation suite."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

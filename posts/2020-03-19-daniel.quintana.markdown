@@ -75,7 +75,7 @@ The two USB ports on my MacBook Pro are not enough for podcasting, so I'd love t
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [rstudio]: https://www.rstudio.com/ "An IDE for the R language."
 [rx]: https://www.izotope.com/en/products/repair-and-edit/rx.html "Audio repair software."
-[simul]: https://www.simuldocs.com/ "A version control and collaboration service for Word documents."
+[simul]: https://www.simuldocs.com/ "A version control and collaboriation service for Word documents."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
 [stream-deck]: https://www.elgato.com/en/gaming/stream-deck "A programmable keyboard with 15 LCD keys."

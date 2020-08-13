@@ -42,7 +42,7 @@ I guess my biggest dream would be if the 24-70 was about half as big and had Vib
 [c-lux-3]: https://www.amazon.com/Leica-C-Lux-Digital-Camera-Black/dp/B001H8FAQI "A 10.1 megapixel camera."
 [camino]: http://caminobrowser.org/ "An alternative Mac browser based on Gecko."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [d300]: https://en.wikipedia.org/wiki/Nikon_D300 "A 12.3 megapixel DSLR."
 [d700]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/25444/D700.html "A 12.1 megapixel DSLR."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."

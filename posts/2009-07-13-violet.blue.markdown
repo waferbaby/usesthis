@@ -46,7 +46,7 @@ I'm still in love with my MacBook, but for travel and when I lecture I'd love to
 [blip.tv]: https://archive.org/details/bliptv "A media sharing and distribution web service."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [cruzer]: https://www.amazon.com/SanDisk-Cruzer-Frustration-Free-Packaging-SDCZ36-032G-AFFP/dp/B007JR532M "A portable USB flash drive."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [disqus]: https://disqus.com/ "A web service providing community comments on weblogs."
 [eye-fi]: http://www.eyefi.com/ "Memory cards for cameras with built-in WiFi."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

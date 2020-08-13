@@ -30,7 +30,7 @@ I dream of working on a handcrafted maple wood desk, with an amazing view, and a
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [companion-2]: https://www.bose.com/en_us/products/speakers/stereo_speakers/companion-2-series-iii-multimedia-speaker-system.html "Multimedia speakers."
 [crowdvoice]: https://crowdvoice.org/ "A service for tracking protest data around the world."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [g602]: https://gaming.logitech.com/en-us/product/g602-wireless-gaming-mouse "A wireless mouse."
 [galaxy-s4]: https://www.samsung.com/global/microsite/galaxys4/ "A 5 inch Android smartphone."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."

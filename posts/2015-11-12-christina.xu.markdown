@@ -56,7 +56,6 @@ Until then, I'd settle for a partner to work with and a hyper-effective but non-
 [android-file-transfer]: https://www.android.com/filetransfer/ "A tool for transferring files between an Android device and a Mac."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [baidu-maps]: https://en.wikipedia.org/wiki/Baidu_Maps "A mapping service."
-[boom]: https://www.amazon.com/UE-BOOM-Wireless-Bluetooth-Speaker/dp/B00CM0XHNS "A Bluetooth speaker."
 [dianping-android]: https://play.google.com/store/apps/details?id=com.dianping.v1 "An app for the check-in/review service."
 [didi-dache-android]: https://en.wikipedia.org/wiki/Didi_Dache "An app for the taxi-hailing service."
 [eos-rebel-t2i]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."

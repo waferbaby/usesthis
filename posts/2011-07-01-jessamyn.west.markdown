@@ -45,7 +45,7 @@ Realistically, I just want a few nicer birdfeeders that I can see from my desk. 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cushtop]: https://www.amazon.com/Belkin-F8N044-ORG-CushTop-Notebook-Stand/dp/B000J4MOU6 "A laptop lap stand."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [delicious]: https://del.icio.us/ "A web service for storing and sharing bookmarks."
 [dg-one]: http://www.simulogics.com/nostalgia/DG/dg_one.htm "A very early laptop."
 [easynews]: http://easynews.com/ "A web-based Usenet service."

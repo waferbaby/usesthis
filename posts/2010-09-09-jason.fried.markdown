@@ -59,4 +59,4 @@ I have it. One powerful, portable, fast, machine with a high-rez screen and a cl
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[writeboard]: https://basecamp.com/retired/writeboard "Web-based shareable text document."
+[writeboard]: https://basecamp.com/retired/writeboard "Web-based sharable text document."

@@ -28,7 +28,7 @@ For editing I use both [Adobe Premiere][premiere] and [After Effects CS6][after-
 Shooting with a [Canon EOS 5D][eos-5d] and a 50mm lens would be fantastic, and I would love to try the new BlackMagic camera which is supposed to give cinema-like quality but with the accessibility of a DSLR.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
 [filmic-pro-ios]: https://itunes.apple.com/us/app/filmic-pro/id436577167 "A video camera app."

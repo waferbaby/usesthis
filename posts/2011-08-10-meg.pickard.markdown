@@ -53,7 +53,7 @@ In case that wasn't enough, I'd rather like an iPhone with a battery life that t
 And I'd also like a pony. And some icecream.
 
 [30mm-f1.4-ex-dc-hsm]: https://www.sigmaphoto.com/30mm-f14-ex-dc-hsm "A camera lens."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [d70]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR/25214/D70.html "A 6.1 megapixel digital SLR camera."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [etretask]: http://www.etresoft.com/#products "A to-do list manager."

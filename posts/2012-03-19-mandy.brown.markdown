@@ -77,4 +77,4 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [typekit]: https://typekit.com/ "A service for web fonts."
 [word]: https://products.office.com/en-us/word "A document editor."
-[writeboard]: https://basecamp.com/retired/writeboard "Web-based shareable text document."
+[writeboard]: https://basecamp.com/retired/writeboard "Web-based sharable text document."

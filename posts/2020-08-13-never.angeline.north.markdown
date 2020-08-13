@@ -24,7 +24,7 @@ I have a [Dell Latitude E6230 laptop][latitude-e6230] with a broken screen that 
 
 I'd love to get a [Surface Book 2][surface-book-2] or some other kind of laptop/tablet combo so I was a little more mobile with my design work (and, lately, my writing work, since I can't use Scrivener on my phone).
 
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-meet]: https://meet.google.com/ "An enterprise video chat service."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."

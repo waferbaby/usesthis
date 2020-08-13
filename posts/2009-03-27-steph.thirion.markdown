@@ -46,7 +46,7 @@ But as long as I can work with OSX I'm good. I could say that thinking about hav
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [battery]: https://www.native-instruments.com/en/products/komplete/drums/battery-4/ "Drum and percussion software."
 [cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."
-[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client for the Mac."
+[cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [e2007wfp]: https://www.amazon.com/Dell-E207WFP-20-1-Widescreen-Monitor/dp/B000LZARRU "A 20 inch LCD screen with USB ports."
 [eliss-ios]: https://itunes.apple.com/us/app/eliss/id306950009 "A clever little game for the iPhone."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
