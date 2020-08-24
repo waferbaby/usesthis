@@ -32,7 +32,7 @@ I have [TapeACall Pro][tapeacall-pro-ios] for recording calls and [Call Recorder
               
 [Scrivener][] is great for longer projects, even though I don't touch most of the features. I used it to structure and write my book, but it's also a good way for me to organize research for longer articles. (I never did get used to [Zotero][].)
 
-Writers can have very different working styles. I know some who write for 10 hours and then emerge and don't write again for three days. I'm not like this. I write everything in 25-minute increments and work on projects every day. As a result, I like the pomodoro technique and use [TomatoTimer][tomatotimer]. Then, I input the number of pomodoros I do on a particular project to Beeminder, which charts my progress and warns me if I'm going off course.
+Writers can have very different working styles. I know some who write for 10 hours and then emerge and don't write again for three days. I'm not like this. I write everything in 25-minute increments and work on projects every day. As a result, I like the pomodoro technique and use [TomatoTimer][tomatotimer]. Then, I input the number of pomodoros I do on a particular project to [Beeminder][], which charts my progress and warns me if I'm going off course.
 
 I rely a lot on [Boomerang][] (and now, [Gmail][]'s built-in scheduling and snooze tools). I'll schedule anxiety-provoking emails so they send when I'm doing something else and not at the computer. I'll also schedule emails so people receive them at reasonable hours - I hate emailing people on the weekends, even if I myself am doing work then.
 
@@ -44,6 +44,7 @@ Of course, I also use all the usual social media sites. To avoid distraction, I 
 
 Even though I'm a freelancer, I actually love office environments, so I miss co-working spaces. I also would like to simply have a desktop computer, or even an external monitor and keyboard. And I dream that one day MacBooks will have better keyboards.
 
+[beeminder]: https://www.beeminder.com/ "A quantifed-self / commitment device app that graphs your progress towards a goal and charges you money if you son't stay on track."
 [boomerang]: http://www.boomeranggmail.com/ "A service for scheduling emails via Gmail."
 [call-recorder]: https://www.ecamm.com/mac/callrecorder/ "Software for recording Skype conversations."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
