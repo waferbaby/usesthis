@@ -53,7 +53,7 @@ My screen is *OK*, but the fact that it's actually a TV really shows sometimes; 
 
 For the hardware inside the case, I'd like it to be silent, have lots of cores, lots of RAM, good graphics, and most of all: lots of very fast storage. With current tech it'd probably be something like:
 
-* [Intel Optane PCIe SSD][optane-ssd-900p] for boo)t/OS etc
+* [Intel Optane PCIe SSD][optane-ssd-900p] for boot/OS etc
 * [Liqid Honey Badger][lqd4500] with 32TB of fast NVMe SSDs
 * 512GB or more of fast RAM
 * A [Threadripper 3990X][ryzen-threadripper-3990x]
@@ -76,7 +76,7 @@ Otherwise I'd like a better mouse, and maybe a change to slightly quieter key-sw
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [lqd4500]: https://www.liqid.com/products/composable-storage/element-lqd4500-pcie-aic-ssd "A PCIe SSD drive."
 [majestouch-2]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2250 "A mechanical keyboard."
-[oled55c9pua]: https://www.lg.com/us/tvs/lg-OLED55C9PUA-oled-4k-tv<Paste> "A 55 inch 4K TV."
+[oled55c9pua]: https://www.lg.com/us/tvs/lg-OLED55C9PUA-oled-4k-tv "A 55 inch 4K TV."
 [optane-ssd-900p]: https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/consumer-ssds/optane-ssd-9-series/optane-ssd-900p-series.html "A PCIe SSD drive."
 [proton]: https://github.com/ValveSoftware/Proton "A Steam tool to help Windows games run on Linux."
 [rokit-5]: http://www.krksys.com/krk-studio-monitor-speakers/rokit/rokit-5.html "Studio monitors."
