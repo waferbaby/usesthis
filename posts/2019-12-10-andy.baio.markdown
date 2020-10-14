@@ -56,7 +56,7 @@ I've worn glasses for my entire life, so my personal dream setup would be replac
 
 I struggle with recognizing people by faces alone, and reminding me their names and other critical context would change my entire life and social anxiety. It would allow for windowed displays of any size wherever I go, so I wouldn't feel tied to my desk. And I could block out the world to focus, or just watch a movie on a plane, without looking like a weirdo in a VR headset. (One person's utopia is another's dystopia, I guess.)
 
-Generally, I'd love to spend less time with my hands on a keyboard and mouse, getting my ideas out as quickly and easily as possible. I'm very interested in the work happening now around AI-assisted writing and coding, from generative [prose writing with GPT-2](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker "A New Yorker article about using machine learning to write prose.") to intelligent IDEs like [IntelliCode][visual-studio-intellicode], [Kite][], and [Deep TabNine][deep-tabnine] that try to predict code you're likely to type based on what it's seen in the past.
+Generally, I'd love to spend less time with my hands on a keyboard and mouse, getting my ideas out as quickly and easily as possible. I'm very interested in the work happening now around AI-assisted writing and coding, from generative [prose writing with GPT-2](https://www.newyorker.com/magazine/2019/10/14/can-a-machine-learn-to-write-for-the-new-yorker "A New Yorker article about using machine learning to write prose.") to intelligent IDEs like [IntelliCode][visual-studio-intellicode], [Kite][], and [Deep TabNine][tabnine] that try to predict code you're likely to type based on what it's seen in the past.
 
 But more than anything, my dream setup would be one where I can continue to work on things I'm interested in independently and sustainably. Not there quite yet, but we'll see what the 2020s have in store.
 
@@ -65,7 +65,6 @@ But more than anything, my dream setup would be one where I can continue to work
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
-[deep-tabnine]: https://tabnine.com/blog/deep/ "An AI code autocompleter."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [express.2]: http://expressjs.com "A JavaScript web framework."
@@ -94,6 +93,7 @@ But more than anything, my dream setup would be one where I can continue to work
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [slack]: https://slack.com/ "A collaboration service."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
+[tabnine]: https://tabnine.com/ "An AI code autocompleter."
 [tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
