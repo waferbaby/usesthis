@@ -4,7 +4,7 @@ summary: Maker
 categories:
 - artist
 - mac
-- music
+- musician
 credits:
   name: Rae Niwa
   url: https://www.instagram.com/rae.niwa/
