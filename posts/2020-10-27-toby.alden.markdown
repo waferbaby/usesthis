@@ -17,7 +17,7 @@ I use a 2013 [MacBook Pro][macbook-pro]. I have tendonitis in both wrists, so er
 
 ### And what software?
 
-For coding, I use [Vim][] and a Unix shell. I like to work in pure code as much as possible, so I try to use small, code-centric frameworks instead of larger development tools with integrated IDEs like [Unity][] or [Unreal][]. For games, I usually code in [Haxe][] using a framework called [HaxePunk][], although I've also been experimenting with [Lua][] and [LÖVE][love] recently. For websites, I typically use [Node.js][] or just plain [JavaScript][]. Other tools I use for games include [Ableton Live 10][live] (for music and sound effects), [Acorn][] (an image editor), and [OGMO Editor][ogmo-editor] (an open source map editor).
+For coding, I use [Vim][] and a Unix shell. I like to work in pure code as much as possible, so I try to use small, code-centric frameworks instead of larger development tools with integrated IDEs like [Unity][] or [Unreal][unreal-engine]. For games, I usually code in [Haxe][] using a framework called [HaxePunk][], although I've also been experimenting with [Lua][] and [LÖVE][love] recently. For websites, I typically use [Node.js][] or just plain [JavaScript][]. Other tools I use for games include [Ableton Live 10][live] (for music and sound effects), [Acorn][] (an image editor), and [OGMO Editor][ogmo-editor] (an open source map editor).
 
 ### What would be your dream setup?
 
@@ -37,4 +37,5 @@ I don't really have a dream setup - the process I have now feels pretty ideal. I
 [ogmo-editor]: https://ogmo-editor-3.github.io "A level editor for game developers."
 [se2416h]: https://www.dell.com/en-us/shop/dell-24-monitor-se2416h/apd/210-afvh/monitors-monitor-accessories "A 24 inch LCD monitor."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unreal-engine]: https://www.unrealengine.com/what-is-unreal-engine-4 "A 3D game engine."
 [vim]: https://www.vim.org/ "A command-line text editor."
