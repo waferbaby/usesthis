@@ -4,6 +4,7 @@ summary: Game designer
 categories:
 - designer
 - game
+- windows
 - writer
 ---
 
