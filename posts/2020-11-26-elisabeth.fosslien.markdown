@@ -18,7 +18,7 @@ I do all my work on my [MacBook Pro][macbook-pro] with my Jelly Comb ergonomic m
 
 ### And what software?
 
-I use [Adobe Illustrator][illustrator] for anything illustration related. I tried to switch to an [iPad Pro][ipad-pro] and the program [Procreate][procreate-ios] recently but I found that you don’t get the same precision that you do in Illustrator. I write everything in [Google Docs][google-docs]. My old coworker created this amazing thing called [Draftback][], which lets you play back your revision history in a Google Doc. It's super fun to see how much even a paragraph might change over time. I love seeing people's revision history. It's like getting a peek into how their brains work, and their writing processes.
+I use [Adobe Illustrator][illustrator] for anything illustration related. I tried to switch to an [iPad Pro][ipad-pro] and the program [Procreate][procreate-ios] recently but I found that you don't get the same precision that you do in Illustrator. I write everything in [Google Docs][google-docs]. My old coworker created this amazing thing called [Draftback][], which lets you play back your revision history in a Google Doc. It's super fun to see how much even a paragraph might change over time. I love seeing people's revision history. It's like getting a peek into how their brains work, and their writing processes.
 
 ### What would be your dream setup?
 
