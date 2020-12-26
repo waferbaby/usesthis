@@ -18,7 +18,7 @@ Currently I make a living as a freelance animator for various clients and I also
 
 I always start with a simple paper and pencil to get the creative juices flowing. The softer the lead the better. Starting on the computer feels restrictive when coming up with stuff, and most of the day is spent behind a screen anyway so it's nice to be unplugged from time to time.
 
-My PC runs [Windows 10][windows-10], and it uses an AMD [Ryzen 5][ryzen-5] processor with 16GB of RAM. The GPU is an AMD​ ​[Radeon RX 5600 XT][radeon-rx-5600-xt]. I don't know a whole lot about computer parts and what's best, but I know this gets my work done with ease and allows me to play videogames during offtime! Which is also important!
+My PC runs [Windows 10][windows-10], and it uses an AMD Ryzen 5 processor with 16GB of RAM. The GPU is an AMD [Radeon RX 5600 XT][radeon-rx-5600-xt]. I don't know a whole lot about computer parts and what's best, but I know this gets my work done with ease and allows me to play videogames during offtime! Which is also important!
 
 Where the real magic happens is my Wacom [Cintiq 13HD][cintiq] drawing screen. It's an older model at this point but it has served me well and it still is. I use the standard Wacom pen with spring loaded tips.
 
@@ -37,6 +37,5 @@ Aside from that I'm pretty happy with what I've got going on.
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [radeon-rx-5600-xt]: https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
-[ryzen-5]: https://www.amd.com/en/ryzen-5 "A CPU."
 [tvpaint-animation]: http://tvpaint.com/ "A 2D animation suite."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
