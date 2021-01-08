@@ -21,18 +21,9 @@ slugs = files.map { |path| File.basename(path, '.markdown').split('-')[-1] }
 
 abort("An interview with #{name} already exists.") if slugs.include?(slug)
 
-latest_date = File.basename(files.reverse.first).match(date_pattern)[0]
-next_date = Date.parse(latest_date).next_day
+date = Date.today.strftime('%Y-%m-%d')
 
-loop do
-  break if next_date.strftime('%a').match?(/Tue|Thu/)
-
-  next_date = next_date.next_day
-end
-
-formatted_next_date = next_date.strftime('%Y-%m-%d')
-
-filename = "#{formatted_next_date}-#{slug}.markdown"
+filename = "#{date}-#{slug}.markdown"
 file_path = File.join(source_path, 'posts', filename)
 
 abort("Interview already exists for #{slug}.") if File.exist?(file_path)
@@ -43,10 +34,9 @@ FileUtils.mkdir(portrait_path) unless File.exist?(portrait_path)
 output = <<OUTPUT
 ---
 title: #{name}
-summary: (summary)
+summary:
 categories:
-- (category)
-- (category)
+- 
 ---
 
 ### Who are you, and what do you do?
