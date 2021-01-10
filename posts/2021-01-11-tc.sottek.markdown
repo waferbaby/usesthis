@@ -1,6 +1,6 @@
 ---
 title: T.C. Sottek
-summary: Exectuve editor (The Verge), founder (The Adventure Guild)
+summary: Executive editor (The Verge), founder (The Adventure Guild)
 categories:
 - editor
 - game
