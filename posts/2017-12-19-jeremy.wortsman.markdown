@@ -36,7 +36,7 @@ Our podcast is recorded with [Zencastr][], which is amazing for connecting our N
 
 [Wunderlist][] is our to-do manager for everything internal. It's so fast and just works. We manage our internal wiki and documentation in [Evernote][]. We're also joining the cult of [Airtable][] and [Dropbox Paper][dropbox-paper] to phase out some Google products. Sonos handles all our music, with [Spotify][] for the shared playlists (Like [Slate's Summer Strut!](http://www.slate.com/articles/podcasts/culturegabfest/2017/07/summer_strut_2017_and_justin_bieber_vs_ed_sheeran_for_song_of_the_summer.html "A Slate article about their summer playlist.")) and discovery, with [Apple Music][apple-music] for an actual library. [Overcast][overcast-ios] on iOS for podcasts, where I listen to everything at 2x.
 
-[Droplr][] is indispensable for screenshots and markup. I also couldn't live without [Keyboard Maestro][keyboard-maestro] for recording macros, and [TextExpander][] as well. [The Great Suspender][the-great-suspender] is the one [Chrome][] plugin that has also been the best thing I have ever run to improve laptop performance and speed, and I cannot recommend it highly enough, along with the [Gboard iOS keyboard][gboard-ios] for swipe input. 
+[Droplr][] is indispensable for screenshots and markup. I also couldn't live without [Keyboard Maestro][keyboard-maestro] for recording macros, and [TextExpander][] as well. The Great Suspender is the one [Chrome][] plugin that has also been the best thing I have ever run to improve laptop performance and speed, and I cannot recommend it highly enough, along with the [Gboard iOS keyboard][gboard-ios] for swipe input.
 
 I live and die by my RSS feeds via [Newsblur][].
 
@@ -85,7 +85,6 @@ Honestly, I think it's pretty close to actually being achieved! Typing is a bit 
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [stylus-pro-9900]: https://www.amazon.com/Epson-STYLUS-9900-44IN-PLOT/dp/B001MYAHQ0 "A large format printer."
 [textexpander]: https://smilesoftware.com/textexpander "A Mac app for adding custom abbreviations for often-used text."
-[the-great-suspender]: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en "A Chrome extension that freezes inactive tabs."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [workfit-d]: https://www.ergotron.com/en-us/products/product-details/24-271 "A sitting/standing desk."

@@ -28,7 +28,7 @@ I spend the majority of my time inside a browser - currently Chrome because I ke
 
 I have many great extensions in Chrome!
 
-[The Great Suspender][the-great-suspender], which 'suspends' any tab that hasn't been touched for a while. This stops sites with a lot of scripts and other guff from killing your computer, and can act as a prompt to decide whether you actually care about a given site.
+The Great Suspender, which 'suspends' any tab that hasn't been touched for a while. This stops sites with a lot of scripts and other guff from killing your computer, and can act as a prompt to decide whether you actually care about a given site.
 
 [Tab Counter][tab-counter] has a little number indicating how many tabs you have open. It too serves as a subtle prompt to take a break from CMD+click for a while.
 
@@ -42,7 +42,7 @@ Anything plan-ey, or collaborative, I'll write in [Google Docs][google-docs], th
 
 [macOS][]-wise:
 
-I use the [Display Menu][display-menu] menubar app to make my screen high-res and therefore tiny and hard to read. I know a dev who worked with such a set-up, peered at his screen from 6 inches away. He was a really excellent dev and so I’m hoping the set-up will help.
+I use the [Display Menu][display-menu] menubar app to make my screen high-res and therefore tiny and hard to read. I know a dev who worked with such a set-up, peered at his screen from 6 inches away. He was a really excellent dev and so I'm hoping the set-up will help.
 
 I use [BetterTouchTool][] to toggle windows to different sizes with a keyboard shortcut. This unbelievably handy tool lets you do things like full-screen a window or divide the screen in half between two windows in a couple of key presses. I love it with all my heart.
 
@@ -99,7 +99,6 @@ Or, more realistically: a slightly better version of what I currently have.
 [stackedit]: https://stackedit.io/ "A browser-based Markdown editor."
 [substack]: https://www.substack.com/ "A paid newsletter service."
 [tab-counter]: https://chrome.google.com/webstore/detail/tab-counter/feeoiklfggbaibpdhkkngbpkppdmcjal?hl=en "A Chrome extension that shows how many tabs you have open."
-[the-great-suspender]: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en "A Chrome extension that freezes inactive tabs."
 [tma-2]: https://aiaiai.dk/headphones/tma-2 "Modular headphones."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

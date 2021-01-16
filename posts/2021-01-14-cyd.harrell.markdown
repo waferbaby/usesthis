@@ -18,7 +18,7 @@ Probably the most important piece of hardware I have is my [Widex Evoke 440 hear
 
 ### And what software?
 
-I live in [Chrome][], [G Suite][g-suite], [Office 365][office-365], and a myriad of video conference apps depending on what I'm doing. I like to set up each project in its own Chrome tab-set, with email, [Slack][], calendar, and key docs or folders associated with that project. So I have a "personal" tabset with my personal email, group chats family Slack, the local coronavirus dataset, [Twitter][], and whatever tabs I open from news or recreational reading, then a "main gig" one with [Outlook][], [Teams][], MSFT Cal, and a whole bunch of documents. You get a few stray [Figma][], [Miro][] and [Mural][] tabs in there too. Then I have another side project with its own calendar, Slack, and set of [Gdocs][google-docs] and Office 365 tabs (that one's a mixed, group project). And a big set for my writing, speaking, and personal research. [The Great Suspender][the-great-suspender] is a fantastic Chrome extension that lets me get away with having 2-300 tabs open most days.
+I live in [Chrome][], [G Suite][g-suite], [Office 365][office-365], and a myriad of video conference apps depending on what I'm doing. I like to set up each project in its own Chrome tab-set, with email, [Slack][], calendar, and key docs or folders associated with that project. So I have a "personal" tabset with my personal email, group chats family Slack, the local coronavirus dataset, [Twitter][], and whatever tabs I open from news or recreational reading, then a "main gig" one with [Outlook][], [Teams][], MSFT Cal, and a whole bunch of documents. You get a few stray [Figma][], [Miro][] and [Mural][] tabs in there too. Then I have another side project with its own calendar, Slack, and set of [Gdocs][google-docs] and Office 365 tabs (that one's a mixed, group project). And a big set for my writing, speaking, and personal research. The Great Suspender is a fantastic Chrome extension that lets me get away with having 2-300 tabs open most days.
 
 A whole lot of what I do is meet with people, so I use [Zoom][zoom.2], Teams, and [Meet][google-meet] pretty constantly, but for user research I prefer [Whereby][] - easiest for participants to set up and really easy in-browser recording and playback of sessions.
 
@@ -50,7 +50,6 @@ I'd love to have a real standing desk with more space, and the thing I'd most li
 [slack]: https://slack.com/ "A collaboration service."
 [snowball]: http://bluemic.com/snowball/ "A USB microphone."
 [teams]: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software "A team collaboration service."
-[the-great-suspender]: https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg?hl=en "A Chrome extension that freezes inactive tabs."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [whereby]: https://whereby.com/ "A group video service."
 [zoom.2]: https://zoom.us "Video conferencing software."
