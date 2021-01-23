@@ -22,7 +22,7 @@ I live in [Chrome][], [G Suite][g-suite], [Office 365][office-365], and a myriad
 
 A whole lot of what I do is meet with people, so I use [Zoom][zoom.2], Teams, and [Meet][google-meet] pretty constantly, but for user research I prefer [Whereby][] - easiest for participants to set up and really easy in-browser recording and playback of sessions.
 
-When I was working on my self-published book, I also used [Adobe Acrobat Pro][acrobat-pro] (the book designers sent me paperpback page files exported from [InDesign][]), [Amazon Kindle Create][kindle-create], and [Calibre][] for .epub creation.
+When I was working on my self-published book, I also used [Adobe Acrobat Pro][acrobat-pro] (the book designers sent me paperback page files exported from [InDesign][]), [Amazon Kindle Create][kindle-create], and [Calibre][] for .epub creation.
 
 ### What would be your dream setup?
 
