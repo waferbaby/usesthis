@@ -1,0 +1,5 @@
+{
+  "name": "Fennel",
+  "description": "A Lisp variant that compiles to Lua.",
+  "url": "https://fennel-lang.org/"
+}
