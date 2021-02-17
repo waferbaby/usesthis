@@ -4,7 +4,7 @@ title: Archives
 ---
 
 <h2>Archives</h2>
-<p>There are <%= @site.archive.years.count %> years of interviews to dig through. Enjoy!</p>
+<p>There's around <%= ((@site.posts.first.date - @site.posts.last.date) / 365).floor %> years of interviews to dig through. Enjoy!</p>
 
 <% @site.archive.years.reverse.each do |year| %>
   <h3 id="<%= year %>"><%= year %></h3>
