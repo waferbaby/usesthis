@@ -1,5 +1,5 @@
 {
-  "destination": "/usr/local/www/usesthis.com/public/",
+  "destination": "/usr/local/www/usesthis.com/build/",
 
   "paths": {
     "paginated_posts": "interviews",
