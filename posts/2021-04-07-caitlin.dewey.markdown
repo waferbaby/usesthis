@@ -16,7 +16,7 @@ My hardware set-up is … probably not worth writing home about, tbh? My 10-year
 
 ### And what software?
 
-I do almost all of my actual work -- writing, taking interview notes, whatever -- in [Chrome][] using [G Suite][g-suite], especially [Google Docs][google-docs  ] and [Sheets][google-sheets]. I do have to use [Outlook][] and [Teams][] for my day job. But even then, I send important emails through my personal [Gmail][] account so I can use MailTracker to see if/when they've been opened. 
+I do almost all of my actual work -- writing, taking interview notes, whatever -- in [Chrome][] using [G Suite][g-suite], especially [Google Docs][google-docs] and [Sheets][google-sheets]. I do have to use [Outlook][] and [Teams][] for my day job. But even then, I send important emails through my personal [Gmail][] account so I can use MailTracker to see if/when they've been opened. 
 
 I have *also* spent literal years developing a complex and deeply boring bookmarking workflow with the secret hope that someone would ask me about it... so thank you. The challenge for me, basically, is that I have to consume a ton of material for research and story idea generation, across a lot of different subjects and with several different end products in mind. To manage that, I've created a series of Google Sheets for each interest area (work research, freelance pitches, newsletter links, etc.) and attached them to [Pocket][] through [IFTTT][]. Every time I tag an article in Pocket "tbn," an entry goes on my Buffalo News spreadsheet. Then I can further sort and label them there, as needed.
 
@@ -29,6 +29,7 @@ Honestly, when the construction debris clears, I think the attic is going to be 
 [calendly]: https://calendly.com/ "A calendar service for easily scheduling meetings."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [feedly]: https://feedly.com/ "A feed reader."
+[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
