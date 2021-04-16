@@ -45,7 +45,7 @@ As long as we're fantasizing, I'd also like a box truck to turn into a [mobile a
 [foldio2]: http://orangemonkie.com/foldio2/ "A portable light tent."
 [form-2]: https://formlabs.com/products/3d-printers/form-2/ "A 3D printer."
 [g013-mini-lock]: http://aukey.vn/product/mini-lock-g013.htm "A portable phone battery charger."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [gif-brewery]: http://gifbrewery.com/ "Mac software for converting videos into GIFs."
 [grasshopper]: https://www.grasshopper3d.com/ "A graphical algorithm editor for Rhino."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

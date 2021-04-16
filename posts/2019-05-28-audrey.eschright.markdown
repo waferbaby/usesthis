@@ -64,7 +64,7 @@ The thing I wish for most is to have real choices in the major components. The m
 [magicforce-68]: https://www.taekeyboards.com/single-post/REVIEW-QISAN-MAGICFORCE-68-MECHANICAL-KEYBOARD "A 60% mechanical keyboard."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [matomo]: https://matomo.org/ "Hosted web analytics software."
-[mildliner]: https://www.jetpens.com/Zebra-Mildliner-Double-Sided-Highlighters/ct/894 "A softer highlighter pen."
+[mildliner]: https://www.zebrapen.com/product-category/brand/mildliner/ "A softer highlighter pen."
 [nanokey2]: https://www.korg.com/us/products/computergear/nanokey2/ "A USB MIDI keyboard."
 [nanoloop-ios]: https://itunes.apple.com/app/nanoloop/id322700286?mt=8 "A synthesiser and sampler app."
 [npm]: https://www.npmjs.com/ "A package manager for JavaScript."

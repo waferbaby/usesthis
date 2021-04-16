@@ -76,7 +76,7 @@ For sewing I just want more space... and a better way to organize the ridiculous
 [pre]: https://en.wikipedia.org/wiki/Palm_Pre "A webOS-based smartphone."
 [reverb-ios]: https://itunes.apple.com/app/id602336025 "A personalised news app."
 [safari-queue-ios]: https://itunes.apple.com/us/app/safari-to-go/id881697395 "A client app for the book service."
-[sarasa]: https://www.amazon.com/Zebra-Sarasa-Retractable-Medium-Point/dp/B00006JNIF "A retractable ink pen."
+[sarasa]: https://www.zebrapen.com/product-category/brand/sarasa/ "A retractable ink pen."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [slack]: https://slack.com/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

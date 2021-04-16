@@ -36,7 +36,7 @@ My dream setup could easily get out of hand but would basically be a Mac Pro and
 [field-case-iphone-6]: https://www.magpul.com/products/magpul™-field-case-–-iphone®-6 "A case for the iPhone 6."
 [field-notes]: https://fieldnotesbrand.com/ "A brand of notebooks."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."

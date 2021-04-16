@@ -51,7 +51,7 @@ I want a kind of choice and automation to make up for the fact that I didn't thi
 [55sh]: http://www.shure.com/americas/products/microphones/classic/55sh-series-ii-iconic-unidyne-vocal-microphone "A vocals micrphone."
 [big-cartel]: https://www.bigcartel.com/ "A shopping cart service for artists."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [h1]: https://www.zoom.co.jp/products/h1 "A digital recorder."

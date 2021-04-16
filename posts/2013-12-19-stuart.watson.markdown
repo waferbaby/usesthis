@@ -37,7 +37,7 @@ Specifically our industry could use an app which combines time code with  better
 [courtsearch]: https://www.courtsearch.com/ "A service for searching court records."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

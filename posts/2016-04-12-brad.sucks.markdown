@@ -68,7 +68,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [sgj]: https://www.gibson.com/Products/Electric-Guitars/SG/Gibson-USA/SGJ.aspx "An electric guitar."
-[spark]: https://www.macupdate.com/app/mac/14352/spark "A Mac OS X shortcut mananager."
+[spark]: https://www.macupdate.com/app/mac/14352/spark "A Mac OS X shortcut manager."
 [spectacle]: https://www.spectacleapp.com/ "A Mac tool for moving and resizing windows."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [sylenth1]: https://www.lennardigital.com/sylenth1/ "A virtual analog synth plugin."

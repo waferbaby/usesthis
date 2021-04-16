@@ -111,7 +111,7 @@ I also really love the freedom that comes with working out of my home but it wou
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [piezo]: https://rogueamoeba.com/piezo/ "A recording app for the Mac."
 [scarlett-18i8]: https://us.focusrite.com/usb-audio-interfaces/scarlett-18i8 "A USB audio interface."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [stylophone-s-1-retro-pocket-synth]: https://equipboard.com/items/dubreq-stylophone-s-1-retro-pocket-synth "A pocket synth."
 [te-tenor]: https://www.ukulele.de/shop4/en/risa-te-tenor-surf-green "An electric ukulele."
 [theta-v]: https://us.ricoh-imaging.com/index.php/cameras/theta-v "A 4K 360 degree camera."

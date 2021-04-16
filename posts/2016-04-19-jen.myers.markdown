@@ -31,7 +31,7 @@ I think pretty much already have it. I like to keep things simple, modular and p
 [airmail]: http://airmailapp.com/ "A mail client for the Mac."
 [bullet-journal]: https://bulletjournal.com/ "An organisational notebook."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [github]: https://github.com/ "A Git code repository service."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [jekyll]: https://jekyllrb.com/ "A static site generator."

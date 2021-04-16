@@ -65,7 +65,7 @@ I'm looking forward to the 1990s dream of ubiquitous computing becoming a realit
 [mapbox-gl-js]: https://www.mapbox.com/mapbox-gl-js/api/ "A JavaScript library for rendering maps with WebGL."
 [metafilter]: https://www.metafilter.com/ "A community website."
 [mg]: https://en.wikipedia.org/wiki/Mg_(editor) "A command line text editor."
-[observable]: https://beta.observablehq.com/ "A service for creating interactive workbooks in JavaScript."
+[observable]: https://www.observablehq.com/ "A data visualisation service."
 [openaddresses]: https://openaddresses.io/ "An open dataset of addresses."
 [pandas]: https://pandas.pydata.org/ "A Python data analysis library."
 [plex]: https://plex.tv/ "Media center software."

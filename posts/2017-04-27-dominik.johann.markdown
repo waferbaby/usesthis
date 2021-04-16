@@ -57,7 +57,7 @@ Most days I dream of this: a standing desk, a neutral room with a smooth concret
 [nt1-a]: http://www.rode.com/microphones/nt1-_a "A microphone."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [substance-designer]: https://www.allegorithmic.com/products/substance-designer "A 3D material authoring tool."

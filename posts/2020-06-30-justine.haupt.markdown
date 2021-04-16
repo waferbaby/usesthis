@@ -54,7 +54,7 @@ An idea that intrigues me is that instead of an actual laptop, an ultrathin lapt
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [crossover]: https://www.codeweavers.com/products/ "Software for running Windows software on non-Windows operating systems."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [go]: https://golang.org/ "A compiled programming language."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [inventor]: https://www.autodesk.com/products/inventor/overview "3D CAD software for mechanical designers."

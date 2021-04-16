@@ -59,7 +59,7 @@ I also miss having a desk in my apartment, so I'm going to try to get one of tho
 [day-one]: https://itunes.apple.com/us/app/day-one/id422304217 "Personal journal software."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [fuzzyclock]: http://osx.iusethis.com/app/fuzzyclock "A Mac menubar clock that shows the time in relative terms."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [goodreads]: https://www.goodreads.com/ "A service for tracking the book you've read."

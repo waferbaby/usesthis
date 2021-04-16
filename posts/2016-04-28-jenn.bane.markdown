@@ -44,7 +44,7 @@ For the days I'm feeling introverted and sick of the Internet, though, I wouldn'
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mixwizard-wz4-16-2]: https://www.allen-heath.com/ahproducts/wz4-16-2/ "A 16 input mixing board."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."

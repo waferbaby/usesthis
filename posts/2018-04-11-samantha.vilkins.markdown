@@ -70,7 +70,7 @@ Always more light and less carpet.
 [ef-s-24mm-f2.8-stm]: https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/wide-angle/ef-s-24mm-f-2-8-stm "A wide-angle camera lens."
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[g2.2]: https://www.amazon.com/Pilot-Retractable-Premium-Roller-Point/dp/B001GAOTSW/ "A pen."
+[g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [gensim]: https://radimrehurek.com/gensim/ "A Python library for working with semantics."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-drive]: https://drive.google.com/ "A cloud storage service."

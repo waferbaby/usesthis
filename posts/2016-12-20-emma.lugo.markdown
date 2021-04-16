@@ -38,7 +38,7 @@ More analog music things. Right now I lean very heavily on software synths and e
 [fl-studio]: https://www.image-line.com/flstudio/ "An audio editor for Windows."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tertial]: https://www.ikea.com/us/en/catalog/products/20370383/ "A desk lamp."

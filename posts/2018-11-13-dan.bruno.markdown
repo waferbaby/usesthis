@@ -63,7 +63,7 @@ I'm happy with what I've got, really. If money were no object, I'd probably just
 [plex]: https://plex.tv/ "Media center software."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [sibelius]: https://www.avid.com/US/products/sibelius "Music notation software."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."

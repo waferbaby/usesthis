@@ -52,7 +52,7 @@ I'm not sure exactly what that world will look like, but I hope to devote some e
 [pixel-4]: https://en.wikipedia.org/wiki/Pixel_4 "A 5.7 inch Android phone."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [surface-laptop]: https://en.wikipedia.org/wiki/Surface_Laptop "A 13.5 inch PC laptop."
 [tokyo-tote]: https://bellroy.com/products/tokyo-tote/ripstop_recycled/forest "A tote bag."

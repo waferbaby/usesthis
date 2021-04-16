@@ -62,7 +62,7 @@ I'd also like to move to Mars. For similar isolation reasons really! I absolutel
 [quietcomfort-25]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-25-acoustic-noise-cancelling-headphones-apple-devices.html "Noise-cancelling headphones."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
 [rx]: https://www.izotope.com/en/products/repair-and-edit/rx.html "Audio repair software."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [seaboard-block]: https://roli.com/products/blocks/seaboard-block "A portable MIDI keyboard."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."

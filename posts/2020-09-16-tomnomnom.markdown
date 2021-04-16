@@ -82,7 +82,7 @@ Otherwise I'd like a better mouse, and maybe a change to slightly quieter key-sw
 [rokit-5]: http://www.krksys.com/krk-studio-monitor-speakers/rokit/rokit-5.html "Studio monitors."
 [ryzen-7-2700x]: https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
 [ryzen-threadripper-3990x]: https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-3990x "A computer processor."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [terminator]: https://code.google.com/archive/p/jessies/wikis/Terminator.wiki "A terminal client."

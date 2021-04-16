@@ -68,7 +68,7 @@ The takeaway though, I think, is that even if you're just working with garbage a
 [oceans-heart]: https://maxmraz.github.io/oceansheart/ "An action RPG."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
-[solarus]: https://solarus-games.org/ "An RPG game engine."
+[solarus]: https://solarus-games.org/ "An RPG engine."
 [sonatina-symphonic-orchestra]: https://github.com/peastman/sso "A library of sampled orchestral instruments."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tdr-nova]: https://www.tokyodawn.net/tdr-nova/ "A dynamic equaliser plugin."

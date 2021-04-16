@@ -62,7 +62,7 @@ Probably something like dual Apple [Cinema Displays][cinema-display], or even 42
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
-[marble-mouse]: https://www.amazon.com/Logitech-910-000806-Trackman-Marble-Mouse/dp/B001F42MKG "A trackball mouse."
+[marble-mouse]: https://support.logi.com/hc/en-us/articles/360025260314--Product-Gallery-Marble-Mouse "A trackball mouse."
 [objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
 [octave]: http://www.gnu.org/software/octave/ "A language for numerical computations."
 [pyosc]: https://github.com/ptone/pyosc "A Python implementation of Open Sound Control."

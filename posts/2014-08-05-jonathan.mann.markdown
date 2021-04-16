@@ -109,7 +109,7 @@ Also, instead of asking Apple for one iPad in exchange for using my song, I'd ha
 [pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
 [resonator]: https://www.amazon.com/Hohner-Resonator-Banjo-Starter-Kit/dp/B001KPZ2GQ "A 5-string banjo."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

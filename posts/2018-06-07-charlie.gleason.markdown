@@ -46,6 +46,6 @@ I'm not sure this is the right place for it, but following on from #2, I'm selli
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [sandpit]: https://sandpitjs.com/ "A JavaScript canvas experimentation tool."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

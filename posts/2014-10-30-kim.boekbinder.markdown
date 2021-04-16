@@ -107,7 +107,7 @@ And world peace - gold sparkle.
 [rc-50]: http://www.bossus.com/gear/productdetails.php?ProductId=772 "An audio looping pedal."
 [rsh-02]: https://www.reusseffects.com/products/rsh02 "A guitar effects pedal."
 [samplr-ios]: https://itunes.apple.com/us/app/samplr-touch-the-music/id560756420 "A touch-based music creation app."
-[scarlett-2i2]: https://www.amazon.com/Focusrite-2i2-USB-Recording-Interface/dp/B005OZE9SA "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [soundprism-pro-ios]: http://www.soundprism.com/index_pro.php "A MIDI controller for iOS."
 [sunrizer-synth-ios]: https://itunes.apple.com/us/app/sunrizer-synth/id443663267 "A virtual synthesizer for the iPad."
