@@ -21,7 +21,7 @@ At the heart of everything I do is a [MacBook Pro][macbook-pro] (2.6GHz quad-cor
 
 The MacBook is also my writing tool of choice in my job as a journalist, although, apart from the need to run [Skype][] and a few other bits of software, I could happily get away with a Chromebook or any laptop that can run a modern browser.
 
-The rest of my studio is made up of a very old 'Firewire' audio interface (the original [MOTU 828][828]), a pair of now discontinued HHB Circle 5 passive monitor speakers, a cheap Cambridge Audio amp, an outboard valve compressor (the original [TLA Ivory 5021][ivory-5021]) that I mainly use as a DI box for guitars, and a [Rode NT1-A microphone][rode-nt1-a]. Notably, I don't have an outboard mixer (I ditched my digital 16 channel mixer years ago) as I prefer to mix 'in the box' (ie in software).
+The rest of my studio is made up of a very old 'Firewire' audio interface (the original [MOTU 828][828]), a pair of now discontinued HHB Circle 5 passive monitor speakers, a cheap Cambridge Audio amp, an outboard valve compressor (the original [TLA Ivory 5021][ivory-5021]) that I mainly use as a DI box for guitars, and a [RØDE NT1-A microphone][nt1-a]. Notably, I don't have an outboard mixer (I ditched my digital 16 channel mixer years ago) as I prefer to mix 'in the box' (ie in software).
 
 Most recently I added an [Avantone MixCube Active mono speaker][mixcube-active]. It is a modern take on a so-called 'grotbox' -- a speaker designed to mimic lower‑quality, consumer‑style speakers so that you'll have a better idea how your mix will sound when heard in typical real‑world listening situations. Or, put another way, a speaker that sounds so crap it will make you work a lot harder to get your final mixes sounding good, even on speakers that have little or no bass response and tend to really overemphasise midrange frequencies.
 
@@ -56,7 +56,7 @@ I don't have a lot of gear-lust left these days. But if you had a gun to my head
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [microbrute]: https://www.arturia.com/products/hardware-synths/microbrute "A synth."
 [mixcube-active]: http://www.avantonepro.com/mixcubes-active-black.php "A pair of studio speakers."
-[rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
+[nt1-a]: http://www.rode.com/microphones/nt1-_a "A microphone."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

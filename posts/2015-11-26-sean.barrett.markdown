@@ -22,7 +22,7 @@ As a musician, I used to rely on the [Roland VG-99][vg-99] for all my guitar sou
 
 I mix using a pair of Bose stereo speakers, [Sennheiser HD-280 Pro headphones][hd-280-pro], and [Sony MDR-7506][mdr-7506] headphones.
 
-I sometimes livestream programming. For that, I use a [Logitech C310 webcam][hd-webcam-c310], a CowboyStudio lighting kit, and a [RODE NT1-A microphone][rode-nt1-a], repurposed from my musical equipment.
+I sometimes livestream programming. For that, I use a [Logitech C310 webcam][hd-webcam-c310], a CowboyStudio lighting kit, and a [RØDE NT1-A microphone][nt1-a], repurposed from my musical equipment.
 
 ### And what software?
 
@@ -63,13 +63,13 @@ As a game developer, it's also mostly about things that don't exist. I make the 
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [metapad]: https://liquidninja.com/metapad/ "A text editor for Windows."
 [mondo]: http://www.voodoolab.com/pedalpower_mondo.htm "A power supply for multiple guitar pedals."
+[nt1-a]: http://www.rode.com/microphones/nt1-_a "A microphone."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [pedaltrain-3]: http://www.pedaltrain.com/pedaltrain-3/ "A rack for guitar pedals."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
 [precision-bass-special]: https://en.wikipedia.org/wiki/Fender_Precision_Bass "A bass guitar."
 [pro-tools-le]: https://en.wikipedia.org/wiki/Pro_Tools#Pro_Tools_LE_systems "Music creation software."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
 [stb]: https://github.com/nothings/stb "A collection of handy C/C++ libraries."
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
 [superior-drummer]: https://en.wikipedia.org/wiki/Superior_drummer_2.0 "A drum sampler."

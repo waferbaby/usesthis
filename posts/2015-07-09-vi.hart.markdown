@@ -31,7 +31,7 @@ We use a variety of Manfrotto tripods and clamps, Joby grippy things in a few si
 
 Sound:
 
-At work or on location, I use a [Zoom H6 mic/recorder][h6], often with our [Sennheiser G3 wireless lapel mics][ew-100-g3]. At home I use a [Rode NT1-A][rode-nt1-a] with a [Focusrite Saffire 6][saffire-6-usb]. I keep trying different binaural and ambisonic mics, none of which I like enough to name. We have a Whisperroom that is good for recording, and also regularly gets used for people's [Skype][] meetings, phone calls, and the occasional nap.
+At work or on location, I use a [Zoom H6 mic/recorder][h6], often with our [Sennheiser G3 wireless lapel mics][ew-100-g3]. At home I use a [RØDE NT1-A][nt1-a] with a [Focusrite Saffire 6][saffire-6-usb]. I keep trying different binaural and ambisonic mics, none of which I like enough to name. We have a Whisperroom that is good for recording, and also regularly gets used for people's [Skype][] meetings, phone calls, and the occasional nap.
 
 Right now I'm wearing a pair of [Senal SMH-1000 headphones][smh-1000]. I've got a bunch of different headphones at the office and at home, including these and a couple pairs of those neon green Razer headphones, hanging on 3M Command hooks, so that I don't need to suffer the indignity of listening to sound on laptop speakers, no matter where I wander.
 
@@ -151,11 +151,11 @@ I want a good violin and a hot tub. Right now I'm using a standing desk, but I t
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[nt1-a]: http://www.rode.com/microphones/nt1-_a "A microphone."
 [p300]: http://www.aaxatech.com/products/p300_pico_projector.htm "A small portable projector."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
-[rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
 [saffire-6-usb]: http://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
 [sandstorm]: https://sandstorm.io/ "Software for running your own cloud server."
 [sharelatex]: https://www.sharelatex.com/ "A web-based collaborative LaTeX editor."

@@ -12,7 +12,7 @@ I'm [Jim Guthrie](http://www.jimguthrie.org/ "Jim's website.") and I'm a musicia
 
 ### What hardware do you use?
 
-I'm using a [Mac Pro][mac-pro] (2.66 GHz Quad-Core Intel Xeon with 12GB of RAM) and a [MacBook Pro][macbook-pro] (2.4 GHz with 4GB RAM), with two [Apple Cinema Displays][cinema-display]. I have a pair of [Yamaha HS80M][hs80m] monitors that go into an [RME Fireface 800][fireface-800]. I only have one mic pre at the moment (a [Great River MP-2NV][mp-2nv]) but it's great for mostly everything I throw at it. For mics I have a [Neumann TLM 103][tlm-103] and a [KM 184][km-184]. I also have an [SM7B][], a crazy [JZ V47][vintage-47] mic, a [Rode NT1][rode-nt1-a], and a bunch of others that I can't think of right now. For synths and MIDI controllers I use an [Arturia 'Laboratory'][laboratory] and a [Roland V-drum kit][td-4kx2] with mesh heads. I also use my [iPad 3][ipad-3], a [PSone][] with [MTV Music Generator][mtv-music-generator], and a [Casio SK1][sk-1].
+I'm using a [Mac Pro][mac-pro] (2.66 GHz Quad-Core Intel Xeon with 12GB of RAM) and a [MacBook Pro][macbook-pro] (2.4 GHz with 4GB RAM), with two [Apple Cinema Displays][cinema-display]. I have a pair of [Yamaha HS80M][hs80m] monitors that go into an [RME Fireface 800][fireface-800]. I only have one mic pre at the moment (a [Great River MP-2NV][mp-2nv]) but it's great for mostly everything I throw at it. For mics I have a [Neumann TLM 103][tlm-103] and a [KM 184][km-184]. I also have an [SM7B][], a crazy [JZ V47][vintage-47] mic, a [RØDE NT1][nt1-a], and a bunch of others that I can't think of right now. For synths and MIDI controllers I use an [Arturia 'Laboratory'][laboratory] and a [Roland V-drum kit][td-4kx2] with mesh heads. I also use my [iPad 3][ipad-3], a [PSone][] with [MTV Music Generator][mtv-music-generator], and a [Casio SK1][sk-1].
 
 I also have a buffet of acoustic and electric guitars, basses, banjos and ukuleles. Lots of other stuff, but those are highlights.
 
@@ -41,8 +41,8 @@ I pretty much have it. It'd be great to have more high end outboard mic preamps 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mp-2nv]: https://www.amazon.com/Great-River-MP-2NV-Channel-Preamp/dp/B003Y583H0 "A two channel mic preamp."
 [mtv-music-generator]: https://en.wikipedia.org/wiki/MTV_Music_Generator "A basic music creation tool."
+[nt1-a]: http://www.rode.com/microphones/nt1-_a "A microphone."
 [psone]: https://en.wikipedia.org/wiki/PlayStation_(console)#PSone "A smaller redesigned version of the original Playstation console."
-[rode-nt1-a]: http://www.rodent1a.com/ "A microphone."
 [sk-1]: https://en.wikipedia.org/wiki/Casio_SK-1 "A 32 key synthesizer."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [superior-drummer]: https://en.wikipedia.org/wiki/Superior_drummer_2.0 "A drum sampler."
