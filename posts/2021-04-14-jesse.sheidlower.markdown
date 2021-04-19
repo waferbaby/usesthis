@@ -18,7 +18,7 @@ My desktop is homebuilt, using an InWin 901 Mini-ITX case, and including an ASRo
 
 The desktop audio is running off several different Schiit devices, running a pair of [Genelec G One desktop speakers][g-one], with a [Genelec F One subwoofer][f-one] under my desk. (I also have some more dedicated and higher-end audio stuff which is beyond the scope of this.) Before the pandemic, I didn't bother with dedicated audio input, but now I've repurposed a [RØDE NT1-A condenser mic][nt1-a], plugged into a [Scarlett 2i2 audio interface][scarlett-2i2].
 
-But far and away my favorite accessory is a custom keyboard from Datamancer, one of the last ones Richard Nagy built before he died. It's a stunning Art Deco design, with a fantastic feel, and a bunch of nice touches, like a Tux (the Linux penguin) "Windows" key, and a space bar with "space" in Morse code. I spend my entire working life on this keyboard, and it makes me incredibly happy, and everyone who comes to my place comments on it.
+But far and away my favorite accessory is a [custom keyboard from Datamancer][streamline], one of the last ones Richard Nagy built before he died. It's a stunning Art Deco design, with a fantastic feel, and a bunch of nice touches, like a Tux (the Linux penguin) "Windows" key, and a space bar with "space" in Morse code. I spend my entire working life on this keyboard, and it makes me incredibly happy, and everyone who comes to my place comments on it.
 
 I have a few other machines. I have a FreeNAS box that I built from a SilverStone DS380B case, [ASRock C236 WSI motherboard][c236-wsi], an [Intel i3-6100 CPU][core-i3-6100], and a bunch of [WD Red drives][wd-red]. There's a generic mini-PC running [FreeBSD][] as a dedicated router for a [Tor][] bridge node, and a bunch of Raspberry Pi's scattered around, mainly to run music-related stuff. On the network side, I have a [Netgate SG-5100 pfSense firewall router][sg-5100-pfsense], and then several different switches and wireless devices from Ubiquiti.
 
@@ -48,6 +48,7 @@ I actually think I'm pretty much there. I always do want to play around with thi
 [scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [sg-5100-pfsense]: https://docs.netgate.com/pfsense/en/latest/solutions/sg-5100/index.html "A firewall router."
 [snapcast]: https://mjaggard.github.io/snapcast/ "A client/server music player."
+[streamline]: https://web.archive.org/web/20130323174644/http://www.datamancer.net/keyboards/streamline/streamline.htm "An Art Deco-style keyboard."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
 [u2718q]: https://www.dell.com/si/business/p/dell-u2718q-monitor/pd "A 27 inch 4K monitor."
 [vivaldi]: https://vivaldi.com/ "A web browser."
