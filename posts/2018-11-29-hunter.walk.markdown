@@ -14,7 +14,7 @@ Hi, I'm [Hunter Walk](https://hunterwalk.com/ "Hunter's website.") and I'm cofou
 
 ### What hardware do you use?
 
-Always in my backpack is a 13" [MacBook Pro][macbook-pro], one larger notebook (usually a Baron Fig, Code & Quill or Moo), one smaller notebook (Field Notes or Word), and a bunch of Muji [.38 gel ink pens][gel-ink-0.38mm].
+Always in my backpack is a 13" [MacBook Pro][macbook-pro], one larger notebook (usually a Baron Fig, Code & Quill or Moo), one smaller notebook (Field Notes or Word), and a bunch of Muji .38 [gel ink pens][gel-ink-ballpoint].
  
 Into my pockets I stuff an [iPhone X][iphone-x] and [AirPods][].
 
@@ -31,7 +31,7 @@ The stillness of NYC at dawn, in a favorite coffee shop with a full mug in front
 [airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
 [bear]: http://www.bear-writer.com "A note taking application for macOS."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
+[gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nota-bene]: https://www.notabene.com/ "Academic research and writing software."

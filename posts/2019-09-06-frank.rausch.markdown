@@ -14,7 +14,7 @@ I'm [Frank Rausch](https://frankrausch.com/ "Frank's website.") and I am a user 
 
 ### What hardware do you use?
 
-A huge part of my design work requires deep thinking. The products I create are digital, but the most creative and meaningful ideas happen in my head and evolve on paper. I always carry a pocket-sized blank Moleskine and a [black Muji Gel Ink Ballpoint Pen, 0.38mm][gel-ink-0.38mm].
+A huge part of my design work requires deep thinking. The products I create are digital, but the most creative and meaningful ideas happen in my head and evolve on paper. I always carry a pocket-sized blank Moleskine and a [black Muji Gel Ink Ballpoint Pen, 0.38mm][gel-ink-ballpoint].
 
 My main work device is a 13″ [MacBook Pro][macbook-pro], Late 2016 (3.1 GHz i5, 16 GB RAM, 1TB SSD). I was crazy enough to pre-order it when it first came out, and I think I got lucky: While the [keyboard does suck](https://daringfireball.net/linked/2017/10/17/johnston-macbook-keyboard "Gruber's article about Casey Johnston's piece on the newer MacBook Pro keyboards."), at least it still works. If only the keys had more travel - plus the old inverted-T arrow key layout and a proper escape key! The Touch Bar is useless to me because I never look at the keyboard while I type. I do appreciate the switch to USB-C and I don't mind having to use dongles for a while. I vividly remember people whining [when Apple killed the CD-ROM drive](https://en.wikipedia.org/wiki/MacBook_Air#First_generation "The Wikipedia entry for the first generation MacBook Air.") or when Apple replaced the 30-pin dock connector with the much better Lightning plug. Or even when Apple's first [iMac][] didn't have a floppy disk drive! Sometimes advances in technology come with a period of inconvenience. I'm alright with that.
 
@@ -55,7 +55,7 @@ If I had one wish, I would love a powerful MacBook Air with low-profile mechanic
 [camingocode]: https://janfromm.de/typefaces/camingomono/camingocode/ "A font designed for source code."
 [fantastical-ios]: https://flexibits.com/fantastical-iphone "An alternative calendar app."
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
-[gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
+[gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
 [gitup]: https://gitup.co/ "A Git client."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."

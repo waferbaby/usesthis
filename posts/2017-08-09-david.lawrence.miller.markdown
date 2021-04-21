@@ -23,7 +23,7 @@ When I travel I take the keyboard and the [Roost stand][roost]; both can fit in 
 
 I don't really care about mobile phones aside from their camera, [eBird][ebird-ios] (for birding) and [Tweetbot][tweetbot-ios] (for Twitter). I have an [iPhone SE][iphone-se] because it's pretty much the smallest functional phone I could find that has a good camera.
 
-For mathematics, I tend to use a [Lamy Studio extra fine point fountain pen][safari-fountain-pen] (Lamy ink seems to be good), a couple of colours of [Muji gell ballpoints][gel-ink-0.38mm] and a large hardback Moleskine plain notebook (people who do maths on lined paper freak me out).
+For mathematics, I tend to use a [Lamy Studio extra fine point fountain pen][safari-fountain-pen] (Lamy ink seems to be good), a couple of colours of [Muji gell ballpoints][gel-ink-ballpoint] and a large hardback Moleskine plain notebook (people who do maths on lined paper freak me out).
 
 For bird watching I carry [Monarch 3][monarch-3-8x42-atb] 8x42s and use a [cheap adapter for the iPhone][hookupz], which lets me take nice-ish photos. I think [paper guides](http://www.houghtonmifflinbooks.com/peterson/ "Field guides for bird watching.") are still ahead of phone-based ones for now (aside from Cornell Lab of Ornithology's [Merlin app][merlin-bird-id-ios] for North America).
 
@@ -56,7 +56,7 @@ I'm relatively happy with what I have at the moment software-wise. Turning the q
 [em500]: http://solutions.3m.co.uk/wps/portal/3M/en_GB/ComputerAccessories/ComputerAccessories/Products/OfficeComputerEquipment/ErgonomicComputerMouse/ "A vertical mouse."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [freestyle2-mac]: https://www.kinesis-ergo.com/shop/freestyle2-for-mac/ "An ergonomic keyboard."
-[gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
+[gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
 [git]: https://git-scm.com/ "A version control system."
 [hookupz]: https://carson.com/products/hookupz-iphone-55sse-44s-ib-542/ "An adapter for connecting an iPhone to a pair of binoculars."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."

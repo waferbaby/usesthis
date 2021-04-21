@@ -24,7 +24,7 @@ I buy every other generation of iPhone. Currently that means I'm carrying around
 
 I mostly shoot with a [Nikon D700][d700] and a [24-70mm f/2.8 lens][af-s-nikkor-24-70mm-f2.8g-ed]. It weighs a ton so I use a beautiful little [Fuji X100][finepix-x100] as well. I carry my portfolio around on a first generation [iPad][] wrapped in a [Belkin leather pouch][envelope-for-ipad].
 
-I carry two notebooks everywhere. One is a small Moleskine which is reserved for important insights and ideas. The other is usually a brightly coloured generic notebook. It's important that they're brightly coloured because I tend to lose them if they're an unobtrustive colour. This notebook holds everything from shopping lists to mindmaps to random sketches for future presentations. I write in both notebooks using [Muji's 0.38mm gel ink pens][gel-ink-0.38mm].
+I carry two notebooks everywhere. One is a small Moleskine which is reserved for important insights and ideas. The other is usually a brightly coloured generic notebook. It's important that they're brightly coloured because I tend to lose them if they're an unobtrustive colour. This notebook holds everything from shopping lists to mindmaps to random sketches for future presentations. I write in both notebooks using [Muji's 0.38mm gel ink pens][gel-ink-ballpoint].
 
 I own a 3G [Kindle][]. It's a replacement for my first 3G Kindle which I left on a plane in Berlin. This one is wrapped in a bright green Amazon case for the same reason that my commonplace notebook is brightly coloured. The Kindle somehow manages to combine a great reading experience (thanks to an excellent screen) with the worst keyboard and user interface of anything I've bought in the last 25 years. Although just like with my Fuji camera the good parts make up for the terrible parts.
 
@@ -91,7 +91,7 @@ It would run in the background on all my machines and would unobtrusively point 
 [envelope-for-ipad]: https://www.amazon.com/Belkin-Leather-Envelope-Sleeve-F8N377CW/dp/B003GAMD1K "An iPad case."
 [finepix-x100]: http://www.finepix-x100.com/ "A 12.3 megapixel digital camera."
 [foursquare]: https://foursquare.com/ "A location service."
-[gel-ink-0.38mm]: http://www.muji.us/store/gel-ink-ballpoint-pen-0-38mm-black4548718727674.html "A ball-point pen."
+[gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
