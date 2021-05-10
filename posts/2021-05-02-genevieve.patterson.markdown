@@ -1,6 +1,6 @@
 ---
 title: Geneviève Patterson
-summary: Head of Applicated Research (VSCO)
+summary: Head of Applied Research (VSCO)
 categories:
 - developer
 - mac
