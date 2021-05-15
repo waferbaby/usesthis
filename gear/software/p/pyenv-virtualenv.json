@@ -1,0 +1,5 @@
+{
+  "name": "pyenv-virtualenv",
+  "description": "A plugin for pyenv to manage virtualenvs.",
+  "url": "https://github.com/pyenv/pyenv-virtualenv"
+}
