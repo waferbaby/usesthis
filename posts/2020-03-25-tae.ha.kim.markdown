@@ -17,7 +17,7 @@ I used to be a software engineer at IBM before pursuing content creation full ti
 
 I am primarily a PC user as a Twitch streamer and use Adobe for all my editing. Here are [my PC specs](https://pcpartpicker.com/list/Jj67hg "Tae Ha's computer build.") (list is missing my primary monitor which is a Dell [UltraSharp 32" UP3216Q][up3216q].)
 
-As for keyboards, I rotate through the plethora of keyboards I use about every 2 weeks. My current mice of choice are the Logitech [MX Master 3][mx-master] for productivity and the Logitech [G Pro Wireless][g-pro-wireless] for gaming. I haven't dived fully into the audiophile world yet but when it comes to listening, I use the Ultimate Ears [UE LIVE CIEMs][ue-live].
+As for keyboards, I rotate through the plethora of keyboards I use about every 2 weeks. My current mice of choice are the Logitech [MX Master 3][mx-master] for productivity and the Logitech [G Pro Wireless][g-pro-mouse] for gaming. I haven't dived fully into the audiophile world yet but when it comes to listening, I use the Ultimate Ears [UE LIVE CIEMs][ue-live].
 
 I'm pretty serious when it comes to video production so I've collected my fair share of equipment over the years. I currently stream using the Sony [A7R III][a7r-iii] and [A6500][], but recently picked up a Canon [C200][eos-c200] to start creating professional YouTube videos. I've been a self-taught photographer before entering the video space and have a selection of lights ranging from the Aputure 120D and other Aputure lights to recently picking up some Astera light tubes. As a content creator who also live streams for many hours every day, ergonomics were important to me and a standing desk was a must, for which I went with the Uplift [V2][] as my choice. As for my chair, I fortunately had a friend who was able to get me a brand new Herman Miller [Aeron][] for half the retail price.
 
@@ -40,7 +40,7 @@ Also can never have enough lighting and lenses. I would love to dive deeper into
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [eos-c200]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/cinema-eos/eos-c200 "A digital cinema camera."
 [eos-c500-mark-ii]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/cinema-eos/cinema-eos-c500-mark-ii "A digital cinema camera."
-[g-pro-wireless]: https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html "A wireless gaming mouse."
+[g-pro-mouse]: https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html "A wireless gaming mouse."
 [mx-master]: https://support.logitech.com/en_us/product/mx-master "A wireless mouse."
 [qmk]: https://qmk.fm/ "Open source firmware for keyboards."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
