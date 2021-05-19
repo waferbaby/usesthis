@@ -23,7 +23,7 @@ It's nice to be able to turn this setup into a broadcast center when I need to h
 
 - Case: [NZXT H700i Mid Tower][h700i]
 - CPU: [Intel Core i9-10900][core-i9-10900] w/ [Cooler Master ML360R RGB cooling][masterliquid-ml360r-rgb]
-- GPU: An old [EVGA GeForce 980 Ti][geforce-gtx-980-ti].. while I wait for the [RTX 3090][geforce-rtx-3090]
+- GPU: An old [EVGA GeForce 980 Ti][geforce-gtx-980-ti]... while I wait for the [RTX 3090][geforce-rtx-3090]
 - Motherboard: [MSI MEG Z490 ACE][meg-z490-ace]
 - Keyboard/Mouse: [Keychron K2][k2.2] (Brown switches) / [Razer DeathAdder V2 Pro][deathadder-v2-pro]
 - Memory: Corsair Vengeance RGB Pro 64GB DDR4 3200

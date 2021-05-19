@@ -26,7 +26,7 @@ My daily driver is a custom-built Core i7-920 assembled in 2008, currently retro
 
 Desktop runs [Windows 7][windows-7], because I roll a lot of my own video utilities using [AviSynth][]. I edit video using [Premiere Pro][premiere-pro], and OpenCL-assisted-[x264][] handles video encoding.
 
-For programming my demoscene productions, I usually design and prototype in [DOSBox][], then copy to the real metal for testing and refinement. In that space, I've been using the same set of tools for over 25 years: [Turbo Pascal][turbo-pascal], [Turbo Assembler][turbo-assembler], [Turbo Debugger][turbo-debugger].. and whatever [WordStar][]-compatible editor that happens to be lying around on the hard drive.
+For programming my demoscene productions, I usually design and prototype in [DOSBox][], then copy to the real metal for testing and refinement. In that space, I've been using the same set of tools for over 25 years: [Turbo Pascal][turbo-pascal], [Turbo Assembler][turbo-assembler], [Turbo Debugger][turbo-debugger]... and whatever [WordStar][]-compatible editor that happens to be lying around on the hard drive.
 
 ### What would be your dream setup?
 

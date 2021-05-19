@@ -32,7 +32,7 @@ I do a lot of ideating and outlining in the [Notes app][notes-ios] on my phone.
 
 I've heard that the 2021 MacBook Pro won't have the touchbar - which is fantastic, as the touchbar is the bane of my existence. So, that's definitely on my wishlist.
  
-I'd love a desk that's more.. desk-y. I have my eye on the [IKEA LINNMON/ALEX][linnmon-alex] (you may be noticing a trend here: I _love_ IKEA furniture). I'll be sticking with the TEODORES chair and footstool, though.
+I'd love a desk that's more... desk-y. I have my eye on the [IKEA LINNMON/ALEX][linnmon-alex] (you may be noticing a trend here: I _love_ IKEA furniture). I'll be sticking with the TEODORES chair and footstool, though.
  
 I also have a long wishlist of fountain pens. Someday I'd like a pen with a 14k gold nib, as I've heard it improves the writing experience.
 

@@ -27,7 +27,7 @@ PC gaming on the couch is full of hardship, though worth it for the [Steam][] sa
 
 ### And what software?
 
-[Xcode][]. For all my Swift dev, which for me is as much as possible. Swift is a great language. Xcode is.. good..ish. There is more coming for Swift dev in the near future, and I look forward to it. Xcode is too big and bloated, and often feels like it too.
+[Xcode][]. For all my Swift dev, which for me is as much as possible. Swift is a great language. Xcode is... good... ish. There is more coming for Swift dev in the near future, and I look forward to it. Xcode is too big and bloated, and often feels like it too.
 
 [VSCode][visual-studio-code] for [JS][javascript]/[React][], which I'm doing a bunch of currently.
 

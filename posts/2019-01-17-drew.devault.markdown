@@ -10,7 +10,7 @@ credits:
 
 ### Who are you, and what do you do?
 
-I'm [Drew DeVault](https://drewdevault.com/ "Drew's website."). I maintain lots of free and open source software, including projects like [sway][], [wlroots][], [sr.ht][], [scdoc][], [aerc][], [chopsui][], [TrueCraft][], [KnightOS][].. and more. I also contribute to many projects, including [mrsh][], [Alpine Linux][alpine-linux], [git][].. and more.
+I'm [Drew DeVault](https://drewdevault.com/ "Drew's website."). I maintain lots of free and open source software, including projects like [sway][], [wlroots][], [sr.ht][], [scdoc][], [aerc][], [chopsui][], [TrueCraft][], [KnightOS][]... and more. I also contribute to many projects, including [mrsh][], [Alpine Linux][alpine-linux], [git][]... and more.
 
 I also blog pretty often at drewdevault.com on topics like free software, privacy, and the social effects of technology.
 

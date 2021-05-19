@@ -27,7 +27,7 @@ I was never a big Apple fan, but the way they made such [dramatic jumps in mobil
 
 The Surface Pro is probably my preferred device at any given time if I have to pick just one. They've really perfected the tablet keyboard in the last version and I love the form factor. I just ordered the new Surface Pro, too, though you definitely need to go with the i5 or i7 to have a meaningful performance difference between this and the latest [iOS][] hardware.
 
-I apologize for the lack of [Android][] here, because although the OS has improved dramatically in the last 2 years, I've really struggled to find hardware I like that runs Android. Everything is Qualcomm, and Qualcomm is .. not so good lately. That said, I love the Google ecosystem and I set my Mom up with the [Nexus 9][nexus-9] and [Pixel phone][pixel]. I sure hope one day Google will make their own mobile hardware like Apple does.
+I apologize for the lack of [Android][] here, because although the OS has improved dramatically in the last 2 years, I've really struggled to find hardware I like that runs Android. Everything is Qualcomm, and Qualcomm is... not so good lately. That said, I love the Google ecosystem and I set my Mom up with the [Nexus 9][nexus-9] and [Pixel phone][pixel]. I sure hope one day Google will make their own mobile hardware like Apple does.
 
 ### And what software?
 

@@ -14,9 +14,9 @@ My name is [Richard Garriott de Cayeux](https://richardgarriott.com/ "Richard's 
 
 ### What hardware do you use?
 
-I am a slave to my online calendar. If an activity - from phone calls, to travel, to dining with family - is in my calendar, I will be there.. if not, don't expect me. To that end, my mobile device and PC are keys to my lifestyle. I always carry the latest iPhone model, and my PC is a supped up ORIGIN-brand machine in my offices and travel laptop. Beyond these, I am a devout believer in augmenting your reality with other techno bits - I wear a [Motiv][] ring which monitors my activity levels, heart rate and sleep as well. Being well informed at least provides the ability to make better choices.
+I am a slave to my online calendar. If an activity - from phone calls, to travel, to dining with family - is in my calendar, I will be there... if not, don't expect me. To that end, my mobile device and PC are keys to my lifestyle. I always carry the latest iPhone model, and my PC is a supped up ORIGIN-brand machine in my offices and travel laptop. Beyond these, I am a devout believer in augmenting your reality with other techno bits - I wear a [Motiv][] ring which monitors my activity levels, heart rate and sleep as well. Being well informed at least provides the ability to make better choices.
 
-Oh, I would be remiss not to point out that I spend half my work life.. as a robot. For nearly a decade, I have lived most work days as a robot, via a telepresence robot being driven from NYC but roaming our offices in Austin, Texas. I have owned most of the models that have been developed. But the current best which we use is called [Beam][beam-pro].
+Oh, I would be remiss not to point out that I spend half my work life... as a robot. For nearly a decade, I have lived most work days as a robot, via a telepresence robot being driven from NYC but roaming our offices in Austin, Texas. I have owned most of the models that have been developed. But the current best which we use is called [Beam][beam-pro].
 
 ### And what software?
 

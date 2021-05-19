@@ -52,7 +52,7 @@ Having been sitting on it for close to a week at the time of this writing, I agr
 
 Most interesting for me is that it's the first time I've sat in a chair that's meant for tall people, and having a chair that _fits me_ is really nice.
 
-My gaming/photo editing PC is a fairly standard affair, with an [Intel i7-9700KF][core-i7-9700kf], a [Sapphire NITRO+ AMD Radeon RX 590][radeon-rx-590], 32GB of DDR4-3200 memory, and some fast disks. The case is a.. something. It's white? It has LEDs in it? For the PC keyboard I use a [Logitech G PRO mechanical keyboard][g-pro-keyboard]. Again, it _also_ RGB LEDs, which is how I am able to type so better.
+My gaming/photo editing PC is a fairly standard affair, with an [Intel i7-9700KF][core-i7-9700kf], a [Sapphire NITRO+ AMD Radeon RX 590][radeon-rx-590], 32GB of DDR4-3200 memory, and some fast disks. The case is a... something. It's white? It has LEDs in it? For the PC keyboard I use a [Logitech G PRO mechanical keyboard][g-pro-keyboard]. Again, it _also_ RGB LEDs, which is how I am able to type so better.
 
 For gaming, I will often use a [Razer Raiju Ultimate][raiju-ultimate] and a [Razer Wolverine Ultimate][wolverine-ultimate]. They're both generally great pads and I highly recommend them, with a bias towards the Raiju Ultimate as it has better placement on the back paddles, even though the configuration software is much worse, and the face buttons are much squishier than the extremely satisfying clickyness of the Wolverine.
 
@@ -64,13 +64,13 @@ Arrayed upon the shelf one may find:
 
 - A boxed copy of [Sundered][], a Metroidvania-y game by Thunder Lotus,
 - The Ikora Rey and Commander Zavala models from McFarlane Toys,
-- The collectors' box.. book.. thing.. from Destiny 2 at launch,
+- The collectors' box... book... thing... from Destiny 2 at launch,
 - Numerous Destiny vinyl figures, such as the Vex Goblin and a Ghost,
 - [Corvo's Mask](https://twitter.com/aurynn/status/1063969122474573825 "Aurynn's tweet about their Corvo mask.") from the Dishonored 2 collectors' edition, complete with custom glowing cyberpunk shades,
 - A T-51b statuette from Fallout,
 - A posable Samus Aran model, in the Gravity Suit,
 - A talking Sadness, from the Pixar movie _Inside Out,_
-- Four collectible pin.. badge.. things, related to in-game seals from Destiny 2, and
+- Four collectible pin... badge... things, related to in-game seals from Destiny 2, and
 - A photo print speakers' gift that I received from [DevOps Days Newcastle](https://devopsdaysnewy.org/ "A devops conference in Newcastle, Australia.").
 
 Yes, it's important that you know of these things I have.

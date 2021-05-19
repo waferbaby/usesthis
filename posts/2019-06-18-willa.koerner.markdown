@@ -14,13 +14,13 @@ I'm [Willa Köerner](https://twitter.com/willak "Willa's Twitter account."), an 
 
 ### What hardware do you use?
 
-I have pretty standard hardware needs.. just a computer and its accoutrements, really! I use a 2011 [MacBook Pro][macbook-pro] because the new MacBooks' keyboards are inferior and I fear an upgrade, despite my laptop's lagging spirit. I also use a large external Mac monitor, a mouse, and a very great mousepad that looks like the world's smallest rug.
+I have pretty standard hardware needs... just a computer and its accoutrements, really! I use a 2011 [MacBook Pro][macbook-pro] because the new MacBooks' keyboards are inferior and I fear an upgrade, despite my laptop's lagging spirit. I also use a large external Mac monitor, a mouse, and a very great mousepad that looks like the world's smallest rug.
 
 ### And what software?
 
 I work and edit things in [Google Docs][google-docs], usually, or [Pages][] - commenting and change-tracking functionality is essential for the work that I do. I also use a lot of video-chatting software since I work remotely, like [Zoom][], [Hangouts][google-hangouts], and [Skype][]. I appreciate that my place of employment ([Kickstarter][], which publishes The Creative Independent) has great in-conference-room cameras and mics so I can teleport into most meetings and everyone else can see an enormous version of my head on the screen, and it's just like I'm really there in person (except, in person, my head is smaller).
 
-Other software/tools I rely on are the [WordPress][] plugin Semplice, which is great for custom-designing websites for someone who isn't a super-great coder, and [Are.na][], which is a beautifully minimalistic and networked tool for collecting ideas and references. I also use [Photoshop][], [InDesign][], [Illustrator][], and other Adobe products a lot.. and [Slack][], of course, ugh. Oh, also! Gotta shout out Tumult [Hype][] for HTML5 animations, as it's the most intuitive way to make moving graphics for any site for, again, someone who's not so much a Matrix-esque master of code.
+Other software/tools I rely on are the [WordPress][] plugin Semplice, which is great for custom-designing websites for someone who isn't a super-great coder, and [Are.na][], which is a beautifully minimalistic and networked tool for collecting ideas and references. I also use [Photoshop][], [InDesign][], [Illustrator][], and other Adobe products a lot... and [Slack][], of course, ugh. Oh, also! Gotta shout out Tumult [Hype][] for HTML5 animations, as it's the most intuitive way to make moving graphics for any site for, again, someone who's not so much a Matrix-esque master of code.
 
 ### What would be your dream setup?
 

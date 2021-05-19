@@ -24,7 +24,7 @@ I'm all about Linux on the desktop, my operating system is [Ubuntu][], my shell 
 
 ### What would be your dream setup?
 
-I'm pretty happy with my current setup but I wouldn't mind going back to a keyboard that has cherry blue switches.. but I don't want to drive my partner up the wall.
+I'm pretty happy with my current setup but I wouldn't mind going back to a keyboard that has cherry blue switches... but I don't want to drive my partner up the wall.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [ath-ar5bt]: http://sea.audio-technica.com/products/headphones/lifestyle/all-earphones/ath-ar5bt "On-ear wireless headphones."

@@ -34,7 +34,7 @@ Other _hardware_ I use is:
 When I'm working I always have 4 things open:
 
 - [MacVim][]. With no plugins. Though I should get some plugins.
-- [Chrome][]. I keep trying to use [Firefox][]. But then I crawl back to Chrome.. It just seems faster for my web experimenting. But that might be in my head. I'm gonna make another effort to go back to Firefox. Really.
+- [Chrome][]. I keep trying to use [Firefox][]. But then I crawl back to Chrome... It just seems faster for my web experimenting. But that might be in my head. I'm gonna make another effort to go back to Firefox. Really.
 - [Terminal][]. Just the regular macOS Terminal. For [git][] mostly. And other junking around with servers and whatnot.
 - [Finder][]. With my project's folder open. Because I like clicking the icons.
 
