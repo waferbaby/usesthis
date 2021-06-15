@@ -55,7 +55,7 @@
       <%= yield %>
     </main>
     <footer>
-      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence. Last updated <%= Time.now.strftime('%B %-d, %Y') %>.</p>
+      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence. Last updated <a href="https://buildkite.com/waferbaby/publish-uses-this" title="The Buildkite pipleline that builds the site."><%= Time.now.strftime('%B %-d, %Y') %></a>.</p>
       <form id="search" method="get" action="https://duckduckgo.com/">
         <label><strong>Search:</strong>
         <input type="search" name="q" placeholder="MacBook Pro">
