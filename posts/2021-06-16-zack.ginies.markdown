@@ -4,6 +4,8 @@ summary: Designer, streamer
 categories:
 - designer
 - game
+- mac
+- windows
 ---
 
 ### Who are you, and what do you do?
