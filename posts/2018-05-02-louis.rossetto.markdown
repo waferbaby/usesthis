@@ -25,7 +25,7 @@ I also use a [MacBook Air][macbook-air] when I'm traveling.
 
 I have a mid 2011 [iMac][] 3.4Ghz Core i7 with 32GB of memory in my writing office with a solid state drive holding the system and apps.
 
-I shoot RAW photos with a [Sony α6000][a6000] and a [Sony RX100 V][rx100-v]. Love them, they're small, light, fast, sharp, and shoot beautiful color. I also have a Nikon DSLR, but haven't touched it in three years.
+I shoot RAW photos with a [Sony α6000][a6000] and a [Sony RX100 V][cyber-shot-rx100-v]. Love them, they're small, light, fast, sharp, and shoot beautiful color. I also have a Nikon DSLR, but haven't touched it in three years.
 
 And then there are all the [Mac Minis][mac-mini] running music, backup, and mail servers. And racks of D-Link 24 port switches. And iMacs repurposed to show slideshows.
 
@@ -60,6 +60,7 @@ I suppose I'm waiting for the new Mac Pro, but Apple's been passive aggressive a
 [contacts]: https://en.wikipedia.org/wiki/List_of_macOS_components#Contacts "The contact manager included with macOS."
 [crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
+[cyber-shot-rx100-v]: https://www.sony.com/electronics/cyber-shot-compact-cameras/dsc-rx100m5 "A 21 megapixel compact camera."
 [diskwarrior]: https://alsoft.com/DiskWarrior/ "Hard drive repair software for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [echo]: http://www.livescribe.com/en-us/smartpen/echo/ "A smartpen."
@@ -92,7 +93,6 @@ I suppose I'm waiting for the new Mac Pro, but Apple's been passive aggressive a
 [remote-desktop]: https://www.apple.com/remotedesktop/ "Software for managing a collection of Macs."
 [rs812]: https://www.synology.com/en-us/support/download/RS812#utilities "A 4 bay NAS."
 [rs818-plus]: https://www.synology.com/en-us/products/RS818+ "A rack-mounted 8-drive NAS."
-[rx100-v]: https://www.sony.com/electronics/cyber-shot-compact-cameras/dsc-rx100m5 "A 21 megapixel compact camera."
 [rx410]: https://www.synology.com/en-global/support/download/RX410#docs "An expansion bay for a rack-mounted Synology NAS."
 [safari-technology-preview]: https://developer.apple.com/safari/technology-preview/ "A bleeding edge version of the Safari web browser."
 [screens]: http://edovia.com/screens/#mac "A VNC client for the Mac."
