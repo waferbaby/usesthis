@@ -41,10 +41,11 @@
   </head>
   <body>
     <header id="masthead">
-      <h1><a href="/" title="The most recent interviews.">Uses <span>This</span></a></h1>
+      <h1>Uses <span>This</span></h1>
       <p id="description"><%= site.data.description %></p>
       <nav>
         <ul>
+          <li><a href="/" title="The latest interviews.">Home</a></li>
           <li><a href="/archives/" title="All of the interviews, organised by date.">Archives</a></li>
           <li><a href="/categories/" title="All of the interview categories.">Categories</a></li>
           <li><a href="/about/" title="General site information and FAQ.">About</a></li>
@@ -55,7 +56,8 @@
       <%= yield %>
     </main>
     <footer>
-      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence. Last updated <a href="https://buildkite.com/waferbaby/publish-uses-this" title="The Buildkite pipleline that builds the site."><%= Time.now.strftime('%B %-d, %Y') %></a>.</p>
+      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence. Subscribe to the site via the <a href="/feed.atom" title="The Atom feed.">feed</a>, or build something cool with the <a href="/api/" title="The API documentation.">API</a>. Last updated <a href="https://buildkite.com/waferbaby/publish-uses-this" title="The Buildkite pipleline that builds the site."><%= Time.now.strftime('%B %-d, %Y') %></a>.</p>
+
       <form id="search" method="get" action="https://duckduckgo.com/">
         <label><strong>Search:</strong>
         <input type="search" name="q" placeholder="MacBook Pro">
@@ -63,13 +65,6 @@
         <input type="hidden" name="sites" value="usesthis.com">
         <input type="submit" value="Go">
       </form>
-      <nav>
-        <ul>
-          <li><a href="/feed.atom" title="The Atom feed.">Atom Feed</a></li>
-          <li><a href="/feed.json" title="The JSON feed.">JSON Feed</a></li>
-          <li><a href="/api/" title="The API documentation.">API</a></li>
-        </ul>
-      </nav>
     </footer>
   </body>
 </html>
