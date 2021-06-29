@@ -1,12 +1,16 @@
 :root {
   color-scheme: light dark;
+  --background-colour: #fff;
   --details-colour: #888;
   --divider-colour: #ffcce6;
+  --gradient-start: #ffe6f3;
+  --gradient-end: #fff;
   --image-border-colour: #555;
   --link-colour: var(--usesthis-purple);
   --link-hover-colour: var(--usesthis-pink);
   --link-nav-colour: #000;
   --summary-colour: #222;
+  --text-colour: #000;
   --usesthis-purple: #7733ff;
   --usesthis-pink: #fe2e9a;
 }
@@ -35,18 +39,19 @@ aside#sponsorship {
 }
 
 body {
-  background-color: #fff;
-  background-image: linear-gradient(#ffe6f3, #fff);
+  background-color: var(--background-colour);
+  background-image: linear-gradient(var(--gradient-start), var(--gradient-end));
   background-repeat: no-repeat;
   background-size: 100% 250px;
-  color: #000;
+  color: var(--text-colour);
   display: grid;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  font-size: 1.1em;
-  grid-template-columns: 200px auto;
+  font-size: 1.2em;
+  grid-template-columns: 250px auto;
   grid-column-gap: 50px;
   line-height: 1.4em;
-  margin: 0;
+  margin: auto;
+  max-width: 1000px;
   padding: 30px;
 }
 
@@ -58,7 +63,7 @@ header#masthead {
   background: url(/images/general/logo.svg) no-repeat;
   background-size: 180px;
   border-right: solid 1px var(--divider-colour);
-  padding: 180px 15px 0 0;
+  padding: 180px 30px 0 0;
 }
 
 header#masthead nav {
@@ -73,11 +78,12 @@ header#masthead nav {
 dd {
   display: block;
   font-size: 80%;
-  margin: 5px 0 15px 0;
+  margin: 5px 0 25px 0;
 }
 
 dt {
   display: block;
+  font-size: 110%;
   margin: 0 0 10px 0;
 }
 
@@ -119,7 +125,7 @@ h1 span {
 }
 
 h2 {
-  color: #fe2e9a;
+  color: var(--usesthis-pink);
   margin: 0;
   padding: 5px 0;
 }
@@ -200,7 +206,7 @@ nav#paginator span#previous {
 }
 
 p#description {
-  color: #888;
+  color: var(--details-colour);
   font-size: 80%;
 }
 
@@ -244,7 +250,6 @@ ul {
 }
 
 ul.categories, ul.months {
-  color: #aaa;
   display: grid;
   font-size: 100%;
   grid-template-columns: repeat(3, 1fr);
@@ -290,7 +295,7 @@ ul.categories li, ul.months li {
   }
 
   header#masthead nav ul {
-    font-size: 110%;
+    font-size: 100%;
     text-align: center;
   }
 
@@ -336,21 +341,19 @@ ul.categories li, ul.months li {
 
 @media (prefers-color-scheme: dark) {
   :root {
+    --background-colour: #353239;
     --divider-colour: #444;
+    --gradient-start: #252525;
+    --gradient-end: #353239;
     --image-border-colour: #ccc;
     --link-colour: #b996ff;
     --link-nav-colour: #aaa;
     --summary-colour: #aaa;
+    --text-colour: #ccc;
   }
 
   a {
     text-shadow: 1px 1px 1px #222;
-  }
-
-  body {
-    background-color: #353239;
-    background-image: linear-gradient(#252525, #353239);
-    color: #ccc;
   }
 
   dt, :not(a) > h3 {
