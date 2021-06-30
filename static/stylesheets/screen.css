@@ -47,8 +47,9 @@ body {
   display: grid;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 1.2em;
-  grid-template-columns: 250px auto;
-  grid-column-gap: 50px;
+  grid-template-columns: 180px auto;
+  grid-template-rows: 60px 110px auto;
+  grid-column-gap: 25px;
   line-height: 1.4em;
   margin: auto;
   max-width: 1000px;
@@ -57,22 +58,6 @@ body {
 
 div.e-content p {
   line-height: 1.7em;
-}
-
-header#masthead {
-  background: url(/images/general/logo.svg) no-repeat;
-  background-size: 180px;
-  border-right: solid 1px var(--divider-colour);
-  padding: 180px 30px 0 0;
-}
-
-header#masthead nav {
-  border-bottom: solid 1px var(--divider-colour);
-  border-top: solid 1px var(--divider-colour);
-  font-size: 85%;
-  margin: 5px 0 25px 0;
-  padding: 10px 0;
-  text-transform: uppercase;
 }
 
 dd {
@@ -99,11 +84,9 @@ figure {
 
 footer {
   border-top: solid 1px var(--divider-colour);
-  font-size: 75%;
-  grid-column: 1/3;
+  font-size: 70%;
+  grid-row: 3;
   margin-top: 20px;
-  padding: 10px;
-  text-align: center;
 }
 
 form {
@@ -112,12 +95,21 @@ form {
 }
 
 h1 {
-  color: var(--usesthis-purple);
-  font-size: 200%;
+  font-size: 150%;
   line-height: 1em;
   margin: 0;
   padding: 0;
   text-transform: lowercase;
+}
+
+h1 a {
+  color: var(--usesthis-purple);
+  padding: 0;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  text-decoration: underline;
 }
 
 h1 span {
@@ -142,6 +134,11 @@ h4 {
   padding: 0;
 }
 
+header#masthead {
+  grid-column: 1;
+  grid-row: 1;
+}
+
 img.detail, img.portrait {
   border: solid 1px var(--image-border-colour);
   padding: 0;
@@ -152,7 +149,10 @@ li {
 }
 
 main {
+  border-left: solid 1px var(--divider-colour);
+  grid-row: 1/4;
   max-width: 800px;
+  padding: 0 50px; 
 }
 
 main > h2 + p {
@@ -173,6 +173,16 @@ nav ul {
   list-style: none outside;
   margin: 0;
   padding: 0;
+}
+
+nav#control {
+  border-top: solid 1px var(--divider-colour);
+  font-size: 85%;
+  grid-column: 1;
+  grid-row: 2;
+  margin: 5px 0 25px 0;
+  padding: 10px 0;
+  text-transform: uppercase;
 }
 
 nav#paginator {
@@ -207,7 +217,9 @@ nav#paginator span#previous {
 
 p#description {
   color: var(--details-colour);
-  font-size: 80%;
+  font-size: 70%;
+  margin: 0;
+  padding: 0;
 }
 
 p#licence {
@@ -279,24 +291,13 @@ ul.categories li, ul.months li {
     margin-top: 10px;
   }
 
-  h1, p#description {
-    padding-left: 140px;
-  }
-
   h2 {
     clear: left;
   }
 
-  header#masthead {
-    background-position: 0 0;
-    background-size: 140px;
+  header#masthead, main {
     border: 0;
     padding: 0;
-  }
-
-  header#masthead nav ul {
-    font-size: 100%;
-    text-align: center;
   }
 
   img.detail {
@@ -325,6 +326,15 @@ ul.categories li, ul.months li {
 
   nav li:first-child:before {
     content: "";
+  }
+
+  nav#control {
+    border-bottom: solid 1px var(--divider-colour);
+  }
+
+  nav#control ul {
+    font-size: 100%;
+    text-align: center;
   }
 
   ul.categories, ul.months {
