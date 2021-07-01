@@ -13,12 +13,11 @@
     <% if pagination.urls.previous_page %><link rel="prev" href="<%= pagination.urls.previous_page %>"><% end %>
     <% if pagination.urls.next_page %><link rel="next" href="<%= pagination.urls.next_page %>"><% end %>
   <% end %>
-    <link href="https://social.waferbaby.com/@d" rel="me">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta name="description" content="<%= site.data.description %>">
     <meta name="author" content="Daniel Bogan">
-    <meta name="keywords" content="interview, setup<% if page.date %>, <%= page.categories.join(', ') %><% end %>">
+    <meta name="keywords" content="interview, setup<% if page.categories %>, <%= page.categories.join(', ') %><% end %>">
   <% if page.date %>
     <meta property="og:title" content="Uses This: <%= page.title %>">
     <meta property="og:description" content="<%= page.summary %>">
@@ -42,7 +41,7 @@
   <body>
     <header id="masthead">
       <h1><a href="/" title="The latest interviews.">Uses <span>This</span></a></h1>
-      <p id="description">Since 2009.</p>
+      <p id="description"><%= @site.posts.count %> interviews since 2009</p>
     </header>
     <nav id="control">
       <ul>
