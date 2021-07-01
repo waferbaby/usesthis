@@ -144,6 +144,10 @@ img.detail, img.portrait {
   padding: 0;
 }
 
+input[type=search] {
+  background-color: var(--divider-colour);
+}
+
 li {
   padding: 0;
 }
