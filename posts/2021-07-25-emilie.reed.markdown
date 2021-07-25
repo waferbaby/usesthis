@@ -2,6 +2,7 @@
 title: Emilie Reed
 summary: Writer, games historian
 categories:
+- windows
 - writer 
 ---
 
