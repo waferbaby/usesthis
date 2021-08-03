@@ -38,7 +38,7 @@ For tracking work items, we use [Kitemaker][].
 
 ### What would be your dream setup?
 
-I have an [UpDown Desk][updown-desk] and use an exercise ball as a chair. I also use an [exercise bike with an adjustable desk][exerwork-1000]. My desk is currently covered with merch items that need to be shipped out. So first step would be to get my desk space back. Then I would like to get a nice monitor and an anti-fatigue standing mat.
+I have an [UpDown Desk][pro-series-bamboo] and use an exercise ball as a chair. I also use an [exercise bike with an adjustable desk][exerwork-1000]. My desk is currently covered with merch items that need to be shipped out. So first step would be to get my desk space back. Then I would like to get a nice monitor and an anti-fatigue standing mat.
 
 Last year, I got a [Blue Yeti mic][yeti] when I needed to record a few videos. There are a few small video recording related items I'd like to explore.
 
@@ -62,9 +62,9 @@ But mostly, I would like to have my desk facing a window and sunny green outdoor
 [planck]: https://olkb.com/collections/planck "A mechanical keyboard."
 [postico]: https://eggerapps.at/postico/ "A PostreSQL client for the Mac."
 [postman]: https://www.getpostman.com/ "A browser extension for testing APIs."
+[pro-series-bamboo]: https://updowndesk.com.au/collections/standing-desks-pro-series/products/updown-desk-pro-series-electric-standing-desk-with-bamboo-desktop "A standing desk."
 [querious]: https://www.araelium.com/querious "A MySQL client for the Mac."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [remarkable-2]: https://remarkable.com/ "An e-ink tablet."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
-[updown-desk]: https://updowndesk.com.au, "UpDown standing desks."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."
