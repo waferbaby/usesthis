@@ -32,7 +32,7 @@ Several times I tried to switch to [Procreate][procreate-ios], but it did not wo
 
 For my working process videos, I use both timelapse on my [iPhone 11 Pro][iphone-11-pro] and a [Sony ZV-1][zv-1].
 
-For photoshoots, I use my [Fujifilm X-T20 camera][x-t20] with two lenses - Fujinon 56mm 1.4 and [60mm 2.4 macro][fujinon-xf-60mm-f2.4].
+For photoshoots, I use my [Fujifilm X-T20 camera][x-t20] with two lenses - [FUJINON 56mm 1.2][fujinon-xf-56mm-f1.2] and [60mm 2.4 macro][fujinon-xf-60mm-f2.4].
 
 I send my works worldwide, using doublewalled cardboard boxes and protective foam cushions from Instapak, a real-life saver and a game-changer for sending fragile items.
 
@@ -48,6 +48,7 @@ If I occasionally discover some buried pirate's treasure in my backyard, I will 
 
 Most importantly, I would like to find a new spacious studio with separate rooms: for storage, firing and a glazing zone, a dust-free clean space for photo shoots, doing the tax reports, and sipping some wine with customers and friends. On top of it all, a small cozy showroom would be a great addition and a real jackpot.
 
+[fujinon-xf-56mm-f1.2]: https://fujifilm-x.com/global/products/lenses/xf56mmf12-r/ "A camera lens."
 [fujinon-xf-60mm-f2.4]: https://www.kenrockwell.com/fuji/x-mount-lenses/60mm-f24.htm "A macro lens."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
