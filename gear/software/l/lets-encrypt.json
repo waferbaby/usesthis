@@ -1,0 +1,5 @@
+{
+  "name": "Let's Encrypt",
+  "description": "An SSL certificate service provider.",
+  "url": "https://letsencrypt.org/"
+}
