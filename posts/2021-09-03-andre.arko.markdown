@@ -105,7 +105,7 @@ Less of a requirement but significant quality of life improvements include:
 
 ### What would be your dream setup?
 
-think my hardware is getting pretty close. If this interview was 18 months ago, I would have said adding a gaming PC. Today, I've pretty much spent the last 18 months shopping and buying and setting that up, and I'm really happy with how it turned out.
+I think my hardware is getting pretty close. If this interview was 18 months ago, I would have said adding a gaming PC. Today, I've pretty much spent the last 18 months shopping and buying and setting that up, and I'm really happy with how it turned out.
 
 In my dreams, I can afford a [Pro Display XDR][pro-display-xdr], and it's paired with some future [Mac Pro][mac-pro] that has Apple Silicon. I'd also have the upcoming Keyboardio Model 100 with Cherry Blue keyswitches and translucent keycaps, as well as an Apple Magic Mouse that somehow auto-switches when I connect a machine to my dock.
 
