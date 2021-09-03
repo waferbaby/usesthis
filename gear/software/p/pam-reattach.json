@@ -1,0 +1,5 @@
+{
+  "name": "pam_reattach",
+  "description": "A macOS tool make sudo and TouchID work together.",
+  "url": "https://github.com/fabianishere/pam_reattach"
+}

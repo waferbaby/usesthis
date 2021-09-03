@@ -1,0 +1,5 @@
+{
+  "name": "bpb",
+  "description": "A tool for signing Git commits with GPG.",
+  "url": "https://github.com/withoutboats/bpb"
+}

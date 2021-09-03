@@ -1,0 +1,5 @@
+{
+  "name": "chruby",
+  "description": "A tool for running multiple versions of Ruby.",
+  "url": "https://github.com/postmodern/chruby"
+}

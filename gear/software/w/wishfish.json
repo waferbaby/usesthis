@@ -1,0 +1,5 @@
+{
+  "name": "Wishfish",
+  "description": "A macOS tool to maintain SSH connections over different network connections.",
+  "url": "https://github.com/claui/wishfish"
+}
