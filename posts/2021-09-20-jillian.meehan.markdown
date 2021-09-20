@@ -8,7 +8,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-My name is [Jillian Meehan](https://jillian.cloud/ "Jillian's website."), and I'm a project manager at an indie iOS studio called [Lickability](https://lickability.com/ "A ). I also run a biweekly [newsletter](https://letterstosummer.com/ "Jillian and Summer's newsletter.") where my best friend and I share recommendations for things we're watching, listening to, playing, and enjoying. Every once in a while I work on other creative projects, like [a zine I made about snacks](https://snaxreport.com/ "Jillian's snack zine."). And lately I've been really into streaming on [Twitch](https://www.twitch.tv/jillianstreams "Jillian's Twitch account.").
+My name is [Jillian Meehan](https://jillian.cloud/ "Jillian's website."), and I'm a project manager at an indie iOS studio called [Lickability](https://lickability.com/ "An iOS dev studio."). I also run a biweekly [newsletter](https://letterstosummer.com/ "Jillian and Summer's newsletter.") where my best friend and I share recommendations for things we're watching, listening to, playing, and enjoying. Every once in a while I work on other creative projects, like [a zine I made about snacks](https://snaxreport.com/ "Jillian's snack zine."). And lately I've been really into streaming on [Twitch](https://www.twitch.tv/jillianstreams "Jillian's Twitch account.").
 
 ### What hardware do you use?
 
