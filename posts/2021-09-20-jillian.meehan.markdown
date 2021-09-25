@@ -36,7 +36,7 @@ I feel like I'm just about there, but if there was a way to magically prevent my
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [flow-ios]: https://apps.apple.com/app/id1423210932 "A Pomodoro timer app."
-[g733]: https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 "Wireless gaming headphones."
+[g733]: https://www.logitechg.com/en-us/products/gaming-audio/g733-rgb-wireless-headset.981-000942.html "Wireless gaming headphones."
 [genshin-impact]: https://en.wikipedia.org/wiki/Genshin_Impact "An action RPG."
 [github-desktop]: https://desktop.github.com/ "A client for the versioning control service."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
