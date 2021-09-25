@@ -1,0 +1,5 @@
+{
+  "name": "DESeq2",
+  "description": "An R package for working with differential gene expression analysis.",
+  "url": "https://bioconductor.org/packages/release/bioc/html/DESeq2.html"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "FastQC",
+  "description": "Software to run quality control checks on sequence data.",
+  "url": "https://www.bioinformatics.babraham.ac.uk/projects/fastqc/"
+}

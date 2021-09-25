@@ -1,0 +1,5 @@
+{
+  "name": "WGCNA",
+  "description": "An R package for weighted correlation network analysis.",
+  "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559"
+}

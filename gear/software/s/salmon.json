@@ -1,0 +1,5 @@
+{
+  "name": "Salmon",
+  "description": "Software to create quantification estimates from RNA-seq data.",
+  "url": "https://github.com/COMBINE-lab/salmon"
+}

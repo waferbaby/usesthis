@@ -1,0 +1,5 @@
+{
+  "name": "limma",
+  "description": "An R package for working with microarray data.",
+  "url": "https://bioconductor.org/packages/release/bioc/html/limma.html"
+}
