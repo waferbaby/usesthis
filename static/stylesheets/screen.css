@@ -56,9 +56,7 @@ body {
   padding: 30px;
 }
 
-div.e-content p {
-  line-height: 1.7em;
-}
+
 
 dd {
   display: block;
@@ -165,8 +163,8 @@ main > h2 + p {
   border-bottom: solid 1px var(--divider-colour);
 }
 
-main ul {
-  font-size: 90%;
+main p, main ul {
+  line-height: 1.7em;
 }
 
 nav a {
@@ -219,6 +217,13 @@ nav#paginator span#previous {
   justify-self: end;
 }
 
+ol {
+  font-size: 90%;
+  list-style-position: inside;
+  margin: 10px;
+  padding: 0;
+}
+
 p#description {
   color: var(--details-colour);
   font-size: 70%;
@@ -260,9 +265,14 @@ span.summary {
 }
 
 ul {
+  font-size: 90%;
   list-style: square inside;
   margin: 10px;
   padding: 0;
+}
+
+ul + h3 {
+  margin-top: 20px;
 }
 
 ul.categories, ul.months {
