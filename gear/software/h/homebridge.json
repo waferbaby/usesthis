@@ -1,0 +1,5 @@
+{
+  "name": "Homebridge",
+  "description": "Software for connecting devices to HomeKit that don't support it.",
+  "url": "https://homebridge.io/"
+}
