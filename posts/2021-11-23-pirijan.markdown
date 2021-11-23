@@ -1,0 +1,25 @@
+---
+title: Pirijan
+summary: Software Maker
+categories:
+- artist
+- designer
+- engineer
+- mac
+---
+
+### Who are you, and what do you do?
+
+<img src="/images/interviews/pirijan/1.jpg" width="500" height="875" alt="Pirijan's first lot of answers." class="detail">
+
+### What hardware do you use?
+
+<img src="/images/interviews/pirijan/2.jpg" width="500" height="720" alt="Pirijan's second lot of answers." class="detail">
+
+### And what software?
+
+<img src="/images/interviews/pirijan/3.jpg" width="500" height="495" alt="Pirijan's third lot of answers." class="detail">
+
+### What would be your dream setup?
+
+<img src="/images/interviews/pirijan/4.jpg" width="500" height="685" alt="Pirijan's fourth lot of answers." class="detail">
