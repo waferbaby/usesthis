@@ -5,7 +5,7 @@ categories:
 - illustrator
 - researcher
 - writer
-credit:
+credits:
   name: Kara Brodgesell
 ---
 
