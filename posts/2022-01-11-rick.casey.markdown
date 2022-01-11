@@ -12,13 +12,13 @@ categories:
 
 Hey there, I'm [Rick Casey](https://twitter.com/RickCasey "Rick's Twitter account.") and I'm a software developer. I've been developing professional for 25 years now. Writing that now makes it feel so long.. I do it because I enjoy the opportunity software gives us to share and transform information. It's a very creative experience that I've found fulfilling. I wouldn't change it.
 
-I've written less and less code recently. I'm transitioned myself from Software Architect to Development Manager at FIS Global recently. I find myself satisfied with the effort it takes to navigate a project to a finish line. It's a very dynamic process that is clouded by the judgement of many people and often times we can only react to change. We try to prepare, but sometimes you can't. It's been a good test of my skills and it has forced me to become creative in a way that I'm not used to doing. I do miss the days where I could meet my goals by turning on the music and write code... There are so many meetings now.
+I've written less and less code recently. I'm transitioned myself from Software Architect to Development Manager at FIS Global recently. I find myself satisfied with the effort it takes to navigate a project to a finish line. It's a very dynamic process that is clouded by the judgement of many people and often times we can only react to change. We try to prepare, but sometimes you can't. It's been a good test of my skills and it has forced me to become creative in a way that I'm not used to doing. I do miss the days where I could meet my goals by turning on the music and writing code... There are so many meetings now.
 
 One way I've found that lets me keep myself grounded to my experience is working in Open Source. Six years ago, I helped launch [Destiny Item Manager][dim] to much success. We have supported over 12 million players who use our tool to curate their loot, and find that special piece that helps them play the game. DIM has been a phenomenal experience where I have met so many enthusiastic players and developers who all have an interest in making DIM better. I've learned from them and hope that I've given back as well.
 
 ### What hardware do you use?
 
-I work on two laptops these days. For the day job, I'm using a 2018 [MacBook Pro][macbook-pro] to develop [iOS][] and [Android][] application. It has been a very dependable device. For my personal efforts, I own a [Surface Laptop 3][surface-laptop-3]. I use several applications simultaneously to develop my web apps, and I have found the 10th generation Intel processor to give me all the umph I need to get the job done.
+I work on two laptops these days. For the day job, I'm using a 2018 [MacBook Pro][macbook-pro] to develop [iOS][] and [Android][] applications. It has been a very dependable device. For my personal efforts, I own a [Surface Laptop 3][surface-laptop-3]. I use several applications simultaneously to develop my web apps, and I have found the 10th generation Intel processor to give me all the umph I need to get the job done.
 
 I love the one wire experience used to power my laptop, drive my two 4K monitors, and connect all my peripherals. I had to get creative to take advantage of the incredible connectivity offered by Thunderbolt and USB-C. I use a [Surface Dock][surface-dock] to connect a single wire to my Surface Laptop. I also use a CalDigit Thunderbolt dock with my MBP. I connect both of the docks to a USB hub and DisplayPort splitter. This gives me push button ability to move my video camera, [Blue microphone][snowball-ice], and monitors easily between devices. I also use a [Logitech M720 Triathlon][m720-triathlon] and [Keychron K6 keyboard][k6] that lets me bind to multiple Bluetooth devices.
 
@@ -30,7 +30,7 @@ I use [AirPods Pro][airpods-pro] for my audio which helps keep the meeting audio
 
 ### And what software?
 
-I'm already using [Windows 11][windows-11] and it's a worth successor. The takeaway I have is the operating system feels more cohesive, thought out. There is more fit and finish.
+I'm already using [Windows 11][windows-11] and it's a worthy successor. The takeaway I have is the operating system feels more cohesive, thought out. There is more fit and finish.
 
 For my day jobs, I live in [Teams][], [Outlook][], [Excel][], and [Word][]. We use Atlassian products like [JIRA][], [Bitbucket][], and [Confluence][]. It's all about knowledge sharing and collaboration.
 
@@ -46,7 +46,7 @@ I'd love to have desktop sound to give my room some presence when listening to m
 
 Enhancing my virtual self, I've wanted to improve my video. I've looking into using camera bodies with lenses to give my video presence crisp focus with in lense bokeh. I've settled on the [Sony A6400][a6400] paired with a Sigma 16mm lens. There are some hacks to get the camera to work using a false battery that is powered by a USB charger. Pairing the camera with [Elgato Key Lights][key-light], and fill lights to complete the presentation of myself would be key. Incredible hardware still needs great light to do their best. 
 
-I already have a pretty incredible setup that lets me get the job done. Improving my virtual self would have the biggest band for buck when it comes to investing more into myself.
+I already have a pretty incredible setup that lets me get the job done. Improving my virtual self would have the biggest bang for buck when it comes to investing more into myself.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
