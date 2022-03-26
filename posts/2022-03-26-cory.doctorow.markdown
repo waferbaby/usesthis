@@ -2,6 +2,7 @@
 title: Cory Doctorow
 summary: Activist, writer, journalist
 categories:
+- activist
 - journalist
 - linux
 - writer
