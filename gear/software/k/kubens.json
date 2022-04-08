@@ -1,0 +1,5 @@
+{
+  "name": "kubens",
+  "description": "A tool for switching between Kubernetes namespaces.",
+  "url": "https://github.com/ahmetb/kubectx"
+}
