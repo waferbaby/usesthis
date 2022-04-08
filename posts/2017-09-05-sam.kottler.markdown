@@ -2,7 +2,6 @@
 title: Sam Kottler
 summary: Site reliability engineer (GitHub)
 categories:
-- engineer
 - mac
 - service
 - windows

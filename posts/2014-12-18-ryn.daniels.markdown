@@ -2,7 +2,6 @@
 title: Ryn Daniels
 summary: Web operations engineer (Etsy)
 categories:
-- engineer
 - mac
 - service
 ---

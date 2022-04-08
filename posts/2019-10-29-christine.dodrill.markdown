@@ -2,7 +2,6 @@
 title: Christine Dodrill
 summary: Senior SRE
 categories:
-- engineer
 - mac
 - service
 ---

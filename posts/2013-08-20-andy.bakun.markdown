@@ -2,7 +2,6 @@
 title: Andy Bakun
 summary: UNIX systems administrator
 categories:
-- engineer
 - linux
 - mac
 - service

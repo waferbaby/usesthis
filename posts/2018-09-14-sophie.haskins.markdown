@@ -2,7 +2,6 @@
 title: Sophie Haskins
 summary: Site reliability engineer (GitHub)
 categories:
-- engineer
 - linux
 - service
 - windows

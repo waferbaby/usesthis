@@ -2,7 +2,6 @@
 title: John Allspaw
 summary: SVP of TechOps, Etsy
 categories:
-- engineer
 - mac
 - service
 credits:
