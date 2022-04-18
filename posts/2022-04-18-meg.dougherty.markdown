@@ -1,9 +1,9 @@
 ---
 title: Meg Dougherty
-summary: Concert lightning/production designer
+summary: Concert lighting/production designer
 categories:
 - designer
-- lightning
+- lighting
 - windows
 ---
 
