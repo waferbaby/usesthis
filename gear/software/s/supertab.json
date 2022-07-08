@@ -1,0 +1,5 @@
+{
+  "name": "Supertab",
+  "description": "A vim plugin for using tab for autocomplete.",
+  "url": "https://github.com/ervandew/supertab"
+}
