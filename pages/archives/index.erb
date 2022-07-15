@@ -8,11 +8,11 @@ title: Archives
 
 <% @site.archive.years.reverse.each do |year| %>
   <h3 id="<%= year %>"><%= year %></h3>
+  <p class="summary"><%= @site.archive.year_posts(year).count %> interview<%= 's' unless @site.archive.year_posts(year).count == 1 %></p>
   <ul class="months">
     <% @site.archive.months(year).each do |month| %>
       <li>
-        <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%B') %></a><br>
-        <span class="summary"><%= @site.archive.month_posts(year, month).count %> interview<%= 's' unless @site.archive.month_posts(year, month).count == 1 %></span>
+        <a href="/archives/<%= year %>/<%= month %>/" title="All interviews from <%= @site.archive.month_posts(year, month)[0].date.strftime('%B, %Y') %>"><%= @site.archive.month_posts(year, month)[0].date.strftime('%m') %></a>
       </li>
     <% end %>
   </ul>
