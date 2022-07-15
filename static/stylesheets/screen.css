@@ -275,7 +275,7 @@ ul + h3 {
   margin-top: 20px;
 }
 
-ul.categories, ul.months {
+ul.categories {
   display: grid;
   font-size: 100%;
   grid-template-columns: repeat(3, 1fr);
@@ -283,9 +283,30 @@ ul.categories, ul.months {
   margin: 15px 0;
 }
 
-ul.categories li, ul.months li {
+ul.categories li {
   padding: 0;
   margin-bottom: 10px;
+}
+
+ul.months {
+  list-style: none outside;
+  margin: 15px 0 25px 0;
+  padding: 0;
+}
+
+ul.months li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+ul.months li:before {
+  color: var(--divider-colour);
+  content: "/ ";
+}
+
+ul.months li:first-child:before {
+  content: none;
 }
 
 @media all and (max-width: 625px) {
@@ -339,7 +360,7 @@ ul.categories li, ul.months li {
   }
 
   nav li:first-child:before {
-    content: "";
+    content: none;
   }
 
   nav#control {
@@ -351,14 +372,14 @@ ul.categories li, ul.months li {
     text-align: center;
   }
 
-  ul.categories, ul.months {
+  ul.categories {
     grid-template-columns: repeat(2, 1fr);
   }
 }
 
 @media all and (max-width: 320px) {
 
-  ul.categories, ul.months {
+  ul.categories {
     grid-template-columns: 1fr;
   }
 }
