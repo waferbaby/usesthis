@@ -1,0 +1,48 @@
+---
+title: Jennifer Gardy
+summary: Associate professor (UBC), researcher (BC Centre for Disease Control) 
+date: 2019-01-03
+categories:
+- mac
+- professor 
+- researcher
+---
+
+### Who are you, and what do you do?
+
+I'm [Jennifer Gardy](http://www.spph.ubc.ca/person/jennifer-gardy/ "Jennifer's page at the University of British Columbia.") - an Associate Professor at UBC's [School of Population and Public Health](http://www.spph.ubc.ca/ "The School of Population and Public Health at UBC."), where I hold the [Canada Research Chair in Public Health Genomics](http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileId=3378 "Jennifer's research chair profile."). I lead a small research group based at the [BC Centre for Disease Control](http://www.bccdc.ca/ "British Columbia's disease control centre."), where we use genome sequencing - reading the complete set of genetic instructions that encode a living organism - to understand how outbreaks of infectious disease start, how they spread from person to person, and - most importantly - how we can use this information to stop current outbreaks and prevent future ones. 
+
+[I like to explain the work that we do](https://www.youtube.com/watch?v=G-W_ut2jyI8 "A YouTube video of Jennifer about her work.") using the analogy of the "telephone game" - the one where someone whispers a sentence to someone else, who in turn whispers it to someone else, and so on and so on. When the sentence reaches the last person in the chain, they say what they heard, the first person reveals what the original sentence was, and everyone laughs because the sentence is different - it's mutated as its spread down the line of people. The same thing is happening in a pathogen's genome - its DNA - as its spreading from person to person. It's acquiring mutations. When we read the genomes of bacterial or viral isolates taken from an outbreak, we look for these mutations - if we see two or more isolates with a shared mutation, it's a good indication there's some epidemiological link between those cases - one infected the other, for example, or they were both infected by a common source. It's obviously a lot more complex than the telephone game - disease doesn't spread in nice straight lines, we might have to root through millions of letters of DNA code to find a handful of mutations that can help us track who infected who - but the concept is fundamentally the same.
+
+When I'm not tracking infectious disease, I do a lot of science communication too. I've been hosting [science documentaries](https://www.cbc.ca/natureofthings/episodes/myth-or-science-the-power-of-poo "An episode of The Nature of Things hosted by Jennifer.") for Canadian national TV for over a decade, and I do some [children's book](https://www.goodreads.com/book/show/18342409-it-s-catching "Jennifer's children's book about germs and microbes.") writing too. I also spend a lot of time teaching other scientists how to talk about their work - many researchers struggle to put their work into clear language, to tell it like the exciting story it really is, and to present in a visually compelling way. I try to do my part to help my colleagues overcome these obstacles.
+
+### What hardware do you use?
+
+My genomics work is all computational - I don't run a traditional microbiology laboratory where we actually handle bacteria and viruses. My work begins once those pathogen genomes have been sequenced, and I'm given a bunch of files containing the genomic data. Because I'm processing hundreds of samples at a time, typically, and because of the computational burden required to turn raw sequencing data into complete pathogen genomes and a list of mutations we can use for tracking, I do most of my work on a high-performance computing cluster that I set up around five years ago. It's named Sabin, after [Albert Sabin](https://en.wikipedia.org/wiki/Albert_Sabin "The Wikipedia entry for Albert Sabin."), who invented the oral polio vaccine (our previous cluster was Salk, after [Jonas Sal](https://en.wikipedia.org/wiki/Jonas_Salk "The Wikipedia entry for Jonas Sal."), who discovered the killed polio virus vaccine), and it's a 20-node, 320-processor cluster with a hefty amount of RAM per node, as bioinformatics software tends to be a RAM hog. I've lost count of how many TB of storage Sabin has, though like all servers the answer usually seems to be "not enough". I SSH into Sabin to do my work, usually from my [MacBook Pro][macbook-pro] laptop - I travel so much for work that I'm out of the office more than I'm in it, so my laptop is my steed. I'm generally happy with the computer, now that Apple's made the keyboard problems a known, covered issue, but I have one colleague who constantly complains about the keyboard volume. I try to type quietly around him. 
+
+Although I don't do a lot of the laboratory-based sequencing work, I am part of the [ARTIC Network](http://artic.network/ "A real-time genome surveillance network."), a project in which we're trying to get real-time, in situ genome sequencing happening in places where outbreaks are likely to happen. One of the cool bits of hardware that makes this possible is the [MinION][], a USB-powered, portable sequencer made by Oxford Nanopore. It reads DNA by unwinding a DNA strand and pulling it, letter by letter, through a small hole (a "nano" "pore"!) across which runs an electrical current. Each of the four chemical bases that make up DNA, represented by the letters, A, C, G, and T, disrupt the current to a different degree, and by reading these disruptions, we can infer what the sequence of that DNA strand was. Because the sequencer is so small - the size of a tiny chocolate bar, really - we can take it anywhere in the world to sequence. It's even been into space aboard the International Space Station!
+
+### And what software?
+
+For my genomics work, I assemble genomes and find mutations using a command-line tool called [Snippy][], written by one of my favourite bioinformaticians, [Torsten Seemann](https://www.doherty.edu.au/people/associate-professor-torsten-seemann "Torsten's page on the Doherty Institute."). He designs bioinformatics software that just works - it installs easily, is well-documented, and does the job quickly and accurately every time. I use a couple of other tools after that, like [FastTree][] and [RaxML][] for generating [phylogenetic trees](https://evolution.berkeley.edu/evolibrary/article/evo_05 "An article about phylogenetic trees from the Understanding Evolution project.") - diagrams that show us how our pathogen genome sequences are related to each other, and a lot of the statistical work I do is in [R][]. I find [Google Drive][google-drive] is really helpful for storing files that I need to access from anywhere anytime, so a lot of my stuff lives there (especially my CV, which is already being updated, and my talk/presentation decks).
+
+When I'm working in the science communication space, I use mostly Apple products for creating talks and handouts. I love the control over slide design that [Keynote][] offers, and having worked at a newspaper to put myself through grad school, I really appreciate how [Pages][] lets you own the layout of a document - you can prepare some gorgeously professional stuff without getting too far down a rabbit hole of publishing industry-specific tools. I use a lot of imagery in my slide decks, often sourced from [freeimages.com](http://freeimages.com/ "A free stock photo collection."), and I like to use [Pixlr][] to tweak the images a bit - applying filters and lighting effects to take an ordinary stock image and give it my own spin. It gives my slide decks a very characteristic look and feel.
+
+### What would be your dream setup?
+
+My dream setup is something that properly and seamlessly allows me to move between devices, whether it's my laptop, a desktop in my office, or a cell phone. I feel like that the combination of using Apple products and [iCloud][] together with having an easily accessible Google Drive has got me most of the way, but when the promise is so incredible, any glitch in the proverbial matrix becomes glaringly obvious and annoying - I keep having a few hiccups with my current setup that not even my PhD in computational biology can solve, and that's frustrating. I'm trying to incorporate tablet-based note-taking and surveying into my practice more so that's another bit of hardware to account for, and I'd also like to see how far I can push something like a [Google Home][google-home] to integrate into my work life.
+
+Although really, let's be honest - if I can reliably find great cat videos on it, it's a dream setup.
+
+[fasttree]: http://www.microbesonline.org/fasttree/ "Software for working with nucleotide and protein sequences."
+[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-home]: https://store.google.com/product/google_home "A voice assistant device."
+[icloud]: https://www.apple.com/icloud/ "A cloud service."
+[keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
+[minion]: https://nanoporetech.com/products/minion "A portable DNA and RNA sequencer."
+[pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
+[pixlr]: https://pixlr.com/ "A web-based image editor."
+[r]: http://www.r-project.org/ "Software for statistical computing and graphics."
+[raxml]: http://www.microbesonline.org/fasttree/ "Software for working with phylogenetic trees."
+[snippy]: https://github.com/tseemann/snippy "Genome analysis software."

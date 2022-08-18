@@ -1,0 +1,126 @@
+---
+title: Mike Hoye
+summary: Fixer (Mozilla) 
+date: 2019-04-02
+categories:
+- developer
+- linux
+- windows
+---
+
+### Who are you, and what do you do?
+
+I feel like "what labels demark you" and "how do you sell your labor" aren't spectacular answers to huge questions like "who are you" and "what do you do". I am large, you know? I contain multitudes. I'm definitely containing some multitudes in here. Multitude containment confirmed.
+
+My name is Mike Hoye; I go by "mhoye" out here on the intertubes, and I have the good fortune to work for [Mozilla](https://www.mozilla.org/ "A technology company."). I should mention that what follows aren't company opinions, but I suppose that'll be very, very obvious in a moment.
+
+I started at Mozilla years ago as their first engineering community manager. My early work focused on codebase and organizational accessibility, the ergonomics of Mozilla's commitment to open development. Since then I've been fortunate to work under some excellent managers who've given me the freedom to run towards fires and the support to carry some challenging, sometimes unpleasant tasks over the line. As a result my role has grown in a bunch of interesting directions, to the point where it's now hard to define; on top of the community work and organizational accessibility, I'm involved in training, [licensing](https://www.academia.edu/33486673/Do_Software_Developers_Understand_Open_Source_Licenses "An article about open source licenses co-written by Michael."), communications mentoring, incident response coordination and a number of other org-crosscutting efforts. I've even ended up in charge of the venerable [Planet Mozilla](https://planet.mozilla.org/ "Mozilla's community weblog.") in the process somehow.
+
+Presently my title is "Senior Staff Project Manager" because, as my [boss](https://www.youtube.com/watch?v=9i-Yj-MHSyY "A YouTube video of Laura Thomson talking about practical ethics.") puts it, it's the closest thing on the list to "fixer". I mostly help people talk to each other; I seem to have found my niche solving problems that are supposedly about the tech but really about the people around it. My boss describes these as "mhoye-shaped problems", to my ongoing delight. It makes me think of the outline Wile E. Coyote leaves in the cliff face.
+
+Between all that I [write](http://exple.tive.org/blarg/2018/11/09/the-evolution-of-open/ "Michael's post about openness.") [about](http://exple.tive.org/blarg/2018/08/15/time-dilation/ "Michael's post about CPU time.") [software](http://exple.tive.org/blarg/2016/05/27/developers-are-the-new-mainframes/ "Michael's post about developers."), [history](http://exple.tive.org/blarg/2013/10/22/citation-needed/ "Michael's post about zero indexing."), [team-building](http://exple.tive.org/blarg/2017/07/05/the-minimum-viable-context/ "Michael's post about team building."), the [industry in general](http://exple.tive.org/blarg/2017/05/01/wooden-shoes-as-a-service/ "Michael's post about the software industry.") or [random](http://exple.tive.org/blarg/2016/10/08/pageant-knight/ "Michael's post about Batman.") [nonsense](http://exple.tive.org/blarg/2018/02/28/the-last-days-of-20a0/ "Michael's microfiction post."), sometimes because I have something to say but often just to sharpen the tools.
+
+I should caution you: a few years ago a research paper was published that described a class of people whose technology choices were a reliable predictor those products would fail in the market. For a while now some colleagues have enjoyed keeping track of my tech choices so that they can [short the companies that make them](https://twitter.com/shortMhoyeLikes/ "A Twitter account of Michael's preferred companies."), so that paper quickly made the rounds attached to alarmed emails that basically said "there are more like him, we must warn the village". So on the one hand, if you're asking me for technology recommendations, you should know that I'm the angel of death. On the other hand, all my favorite Uses This interviews call to mind the [Matsuo Bashō](https://en.wikipedia.org/wiki/Matsuo_Bashō "The Wikipedia entry for Matsuo Bashō.") line that the footprints of the wise lead nowhere, a bar I'd like to clear as well. And it goes without saying that any sufficiently advanced aesthetic is indistinguishable from cosplay, that if your aesthetic is easily distinguished from cosplay it's insufficiently advanced. So calibrate your expectations accordingly and let's get into it.
+
+### What hardware do you use?
+
+I spend a lot of time thinking about [durable design](http://exple.tive.org/blarg/2017/09/13/durable-design/ "Michael's post about durable design."), personal agency, the idea of [resilient individuality](http://exple.tive.org/blarg/2015/09/20/bourne-aesthetic/ "Michael's post about resilient individuality.") and the right to repair. Utility and flexibility are at top of my list of concerns; I try to meet them without falling into the [creeping 'tactical' fetishism](https://popula.com/2019/02/24/about-face/ "A Popula comic about the power in men's clothing.") that seems to be the preferred way to sell power-fantasy junk to this generation's lost boys, and that means spending a lot of time thinking critically about who I want to be and why. Through that lens, the ability to fix your tools at all - the right to, the ability to, the access to - is tightly bound to ideas of [customization and personalization](http://toxoplasm.org/post/16884085359/collaterlysisters-protect-the-person-behind "A post by Eliza Gauger about a protester during Occupy Oakland."), of being able to tailor things to your needs instead of tailoring yourself to somebody else's. Your tools can't be an extension of yourself and your values unless you taken the time to understand both.
+
+But when that goes well, though; when it all comes together that frictionless forward motion is an amazing feeling. If you've ever had a bike fitted for you you'll know this feeling, the difference between "this is a nice enough ride" and "I can fly". Once you've made one thing work not just right but _right for you_ a lot of other things start to feel like you're trying to sprint in borrowed shoes. If you can't fix things - which is another way of saying, "if you can't change it or personalize it" - how does anything ever really _fit_?
+
+These days I roll with a current-gen iPhone, and the primary work machine is a [Surface Book][surface-book]. I've got cautiously positive, if mixed and somewhat hypocritical, feelings about both of them.
+
+The iPhone has been a long time coming. After my [beloved N9](https://medium.com/a-chair-in-a-room/portable-cathedrals-537bb5dad93f "A Medium article about the N9 phone.") slowly faded out I tried to make a reasonably healthy if guarded relationship with [Android][] work. In theory Android should be a good fit to my needs - quasi-open, customizable launchers, plenty of app and tooling options, and for a while I loved it for all of that. But the _absolutely relentless_ contempt for user choice, safety and access permissions [baked into the foundations of that hamster-wheel of a platform](https://twitter.com/mhoye/status/1032430833116897281 "Michael's tweet about Android's permissions.") really grinds the soul. After two generations of flagships failing [before they could even be officially abandoned](https://9to5mac.com/2013/12/03/updated-report-graphs-apples-dedication-to-supporting-older-iphones-vs-android/ "A 9to5Mac article comparing Android and iOS device support."), I gave it one last and much-less-expensive shot with an [Android One][android-one] device. And: um.
+
+I don't know that I'm anyone of consequence, much less somebody worth burning a mobile zero-day on, so this may all just be an unfortunate coincidence. But when that fully-up-to-date phone spontaneously rebooted into a developer mode I'd never seen before in the _middle of a phone call with a journalist_ - an experience that I _do not recommend at all_ - I found myself asking the same questions about Android that I'd asked about Facebook before I walked away from it a decade ago. What would have to happen for me to give up on this?
+
+Would it have to be worse than this? Do I want to be the person "worse than this" happens to?
+
+Spoiler alert: I do not.
+
+[iOS][] has, um, swiped a lot of the N9's best ideas while I was away; I was surprised at how familiar it feels. The camera is amazing and pairing it with a [fold-up Bluetooth keyboard][universal-foldable-keyboard] makes for an OK ad-hoc workplace. With a bit of luck Apple will stick to their guns on privacy and software updates and it will be a few years before I need to revisit this mess.
+
+Despite setting aside my misgivings about essentially atomic hardware and the App Store model on the phone, I can't bring myself to make the same concessions on the desktop. I'm apparently willing to tolerate it in a communications-appliance, but Apple's total commitment to the idea that if it can't be made a pleasant experience you won't be allowed to do it at all is just not something that lines up with how I want to work or who I want to be. They've executed well on that vision, no question, but [macOS][] feels like it's been thoroughly nerfed as a consequence and these days that platform feels like a bad match for anyone mucking around in the guts of old systems or pushing the edges of new.
+
+My work laptop, the Surface Book I'm typing this on right now, is a strange blend of that old and new. I've got mixed feelings here too, but Windows is the OS most of the world uses, I definitely believe in eating your own dogfood, and the fact that it's a fun job doesn't mean I'm being paid to have fun.
+
+But to my ongoing surprise, this machine is kind of great. It took [a few tries and bit of getting used to](http://exple.tive.org/blarg/2016/11/14/switching-sides/ "Michael's post about switching from the Mac to a Windows machine.") but somehow, now that I've spun up the [Windows Subsystem for Linux][windows-subsystem-for-linux] and tweaked a few settings, this laptop - that I say again, was manufactured by Microsoft and runs [Windows 10][windows-10] and here we all are in the upside-down - is somehow the best unixy laptop I've ever used.
+
+I was going to say "Linux laptop", but the prospect of obligating someone to say "actually you mean GNU/ntoskrnl.exe" through gritted teeth is too much even for me.
+
+I switched full-time to a standing desk years ago after a Jawbone wristband and an upsetting graph made me suspect, correctly, that maybe the real reason for the back pain and knee problems might be the fact that I was spending an average of 21 hours a day immobile. That desk has a 32" 4k monitor on it, a 23" 1080p monitor rotated to portrait to its left and the Surface Book open to the right. Microsoft's [Surface Dock][surface-dock] is as close perfect as any docking station I've ever seen, words no Thinkpad veteran would say lightly, and more screen real estate is always better.
+
+It's not perfect - I wish the trackpad and keyboard teams could sort out their differences, I'm looking forward to the file manager people getting their acts together, and it would be pretty great if _an operating system called Windows could remember where I put my windows, ffs_, ahem, but apart from minor quibbles like that the setup works well.
+
+Rounding that out is a [Logitech M705][marathon-m705] that's served me well and a tenkeyless, mechanical [Corsair K65][vengeance-k65] that I can hammer on all day.
+
+The choice of keysprings and the shape of the mouse are where the edges of the "what hardware do you use?" question get a bit blurry. Computation state-widgets are important, I guess, but in a job on the seam between deeply technical and deeply personal, the most important thing I do day-to-day is listen. So there's a set of things I need if I want to do that effectively; the two most important ones are my music collection and my bike commute.
+
+I keep the music collection I depend on to manage my mood on a [Fiio X3][x3-2nd-gen], partly because of FLAC support and partly because it runs on its own battery but mostly because iTunes is kind of a disaster. Xiaomi's piston headphones sound as good as stuff that costs ten times that price and are surprisingly durable, both nice features in any product that gets put through a washing machine a few times a year accidentally.
+
+Finally, I ride in any day the wheels will hold the road. It's absolutely critical for my headspace to switch gears from home to work and back. I don't strictly have to come into work every day - Mozilla supports remote work - but regular doses of intense exercise are so crucial to my clarity, focus, mental stability and sleep schedule that doing with them isn't really an option.
+
+### And what software?
+
+I have a theory that there's a general rule-of-threes when it comes to escalating conversations across comms channels. That is, if you need more than three exchanges in your synchronous text channel of choice to sort out some question, it's time to write some email. If you need more than three emails to answer a question, you should book a video call. If it takes more than three calls to settle a question, somebody needs to get on a plane.
+
+At the low-cost end of that hierarchy is IRC and the various [Slack][]-alikes, whatever your synchronous-text weapon of choice happens to be; I get to them through [wsltty][] and a [Linode VM][linode] for any long-lived terminal work and [Firefox Nightly][firefox-nightly] for the rest.
+
+"Firefox Nightly for the rest" turns out to cover a lot of ground when so many tools are on the web, but since I move between machines a lot, the Firefox sync service and [Tab Center Redux][tab-center-redux] make my life materially better. If you move around between machines and have more than a dozen tabs open at any given time (particularly if you're a tab-hoarder like me) I cannot recommend this enough.
+
+[eM Client][em-client] is the set of tongs I currently use to keep [Gmail][] at arms' length, though I miss [Thunderbird][] at times; I hope to switch back at some point. I use [vim][] a ton.
+
+Beyond that the edges of this question are, again, really blurry. The fact of it is that I basically never have the luxury of green-field toolchain selection; I go where I'm sent and I work with the locals and live off the land when I get there. Which is fine, even fun: I've never been a gifted or even good programmer, but I can see structure and patterns well enough, and I can pantomime competence like a boss. The combination of that and a world of incredibly powerful tools that are never further than an apt repo away means the real answer to this question is "whatever it takes".
+
+### What would be your dream setup?
+
+I've been looking at a [Kinesis Ergo Edge keyboard][freestyle-edge] and the [MX Vertical ergonomic mouse][mx-vertical] recently, though I'd like to be able to try them in-person. I'm trying to dial back my keyboard fetishism until the various new low-profile mechanical switches have been shaken out and found their way into some mainstream products, but the temptation there is severe.
+
+At home the hardware I keep coming back to is a well-loved, thoroughly baroque [Thinkpad T60][thinkpad-t60] its creators would barely recognize. The CD drive has been replaced with a serial/parallel shim salvaged from an IBM boneyard; the 2048x1536 screen, LED backlight, SSD and wireless card in it didn't exist when that model was still being manufactured, and the battery's been replaced more than a few times now. This machine was born at at time when laptops could still be repaired without heat guns and spudgers and if I have any say in the matter it will outlive me; it looks like I've missed my window to grab one of those mysterious I7 replacement motherboards I've heard about to bring its only-tolerable CPU up to speed, but I'm still keeping my ear to the ground. Next to it is a custom keyboard in mid-build that I'll talk about some other day and a [raspi][raspberry-pi] running a few pieces of experimental mischief.
+
+This isn't quite my dream setup, though; a collection of ill-considered ideas I've half-finished or automated, maybe; besides, why would anyone write something up for Uses This that boiled dow to "My setup is an old MacBook, my dream setup is a new MacBook." Dream bigger, people. If our dreams aren't impractical what good are they?
+
+I wish that I could buy hardware as well made as Apple's from anyone else, for any amount of money. To be clear, I don't mean "brushed aluminum" or "sub-micron tolerances" or "retina screens are made of love", though those are all nice enough; I mean "committed." To a set of values, of principles, an aesthetic. _To something_. Apple's hardware is extraordinarily well-executed design-in-depth in service of a set of principles I fundamentally disagree with and a vision I don't share. But I don't know of anyone else making hardware who is that committed to level of execution, to understanding their own values and expressing them through the design and function of their products. I don't care about "thin" or "light" at all, but far as I can tell I can't buy hardware built with a comparable commitment to resilience, maintainability or experimentation from anyone, anywhere. MacBooks are beautiful, sure, but the idea that you need to _replace the whole machine_ if the battery wears out or if a few grains of sand find their way under a keycap is repugnant, some combination of embarrassing and abhorrent.
+
+Cellphones, of course, are the worst for this. I wish you could plug cellphones into computers and have the option that their components act like a set of peripherals, if there was a way that all these perfectly functional cameras, displays, radios or sensors could be kept out of a landfill when the battery's run its life out. It'd be nice if you could update or maintain them at all, really. My perfect setup lives in a world where unlocked bootloaders and open dev stacks are mandated for devices more than a few years old, where privacy and security aren't the exclusive domains of the privileged.
+
+At the lower levels of the software, it's an ongoing sadness that unixy userlands are still committed to streams of arbitrary almost-always-ASCII text, and that we don't have a common, foundational understanding of passing around structured objects. As great as pipes are, my entire command-line experience is badly hobbled by tooling that won't even admit, much less care, that there might be a difference between "interpreted by another program" and "read by a human", and I think it's not only brittle as hell, but a huge barrier to giving humans more agency over their technical environment. The Powershell model has so much to offer the free software world, from the earliest smalltalk-daydream stages of constructionist learning and rapid prototyping all the way up to distributed automation, accessibility and user empowerment. Once I'd had to massage a few JSON blobs into shape and discovered [jq][] it's hard not to dwell on how much better this free-as-in-mattress part of my life could be. Strings are bullshit.
+
+Elsewhere on the tooling front, I sometimes wish that I could take a year off and build out a new email client. I have a sense that there's a long list of ways that the "desktop" and "file folder" metaphors have really constrained our imagination, and email is near the top.
+
+I haven't found an email client that isn't lifting its design cues and UX constraints directly from the bytes-on-disk representation of email, the filing system underneath it, and as often as not the idea of actual filing cabinets. Even efforts to graft on things like calendars or tasks seem to be half-heartedly genuflecting to an imagined account-manager's desk circa 1982. Managing your inbox isn't a goal in and of itself, you know? This is a tool, a means to an end, and I've never seen a mail client that understood that email is not there for its own sake. Is there one out there that will let you associate an email thread with an existing task or project, for example, or mark an email you're sending as something you're expecting an answer to so you can keep track? Are there mail clients out there that let you sort your address book by last correspondence-date, or have filter rules that let you create tasks and reminders?
+
+Briefly, my perfect mail client would be designed around relationships and projects, not aging metaphors and artefacts of the underpinning tech. I keep coming back to [Bret Victor's description of the hammer](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/ "Bret Victor's post on interaction design.") as a lever where one end fits the human, the other end fits the job. I've never seen an email client that did either of those well.
+
+But even that's only most of the way to my dream setup. What I really want is to be able to not only share all of that but to describe how I've tailored it to my needs in some complex coordinate space. I want some sort of possible-configuration map, a cartography of collective customization. I'd like to be able to start exploring changes to my setup - my workspace, my editor, browser, terminal or keymap, and then put a pin on that map, to plant a flag saying, I am here. I'm learning about the machine, I'm learning about myself and that journey has brought me here. For some value of "here".
+
+And I'd like most of all to see that map and every pin in it from high overhead. Who else found their way here? Who got close or took a different direction? What did they see, where did they go next, and can I try it on? With enough pins on that map, what starts to look like a new city, well outside Default Settings Metropolis, or a country? Where are the highways, the small towns, the furthest edges. Who or what can draw enough people together to create a community? Who is out there on the distant fringes of the configurations space, to the parts of the map decorated with runtime errors, dodgy peripherals and [stylized dragons](https://upload.wikimedia.org/wikipedia/commons/e/eb/Mapa_de_Borgia_XV.jpg "A WikiMedia image of the world."), and what are they looking for? I'd like to know what a best-fit solidarity might look like, what a community of config-state might come together to build, and my perfect setup would, in some small way, contribute to helping those people find each other.
+
+Even supposing anything like that can exist, I doubt I'll live to see it. But maybe if we can keep fixing things, hacking them up to fit, keeping them out of landfills and sharing how we did it, maybe we can move that needle a bit. Maybe we can get a few good steps in that direction.
+
+[android-one]: https://en.wikipedia.org/wiki/Android_One "A clean version of the Android operating system."
+[android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
+[em-client]: https://www.emclient.com/ "An email client."
+[firefox-nightly]: https://nightly.mozilla.org/ "Nightly builds of the Firefox browser."
+[freestyle-edge]: https://gaming.kinesis-ergo.com/edge/ "A split gaming keyboard."
+[gmail]: https://mail.google.com/mail/ "Web-based email."
+[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[jq]: https://stedolan.github.io/jq/ "A command line tool for manipulating JSON data."
+[linode]: https://www.linode.com "A VPS hosting service."
+[macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[marathon-m705]: https://www.logitech.com/en-us/product/marathon-mouse-m705 "A wireless mouse."
+[mx-vertical]: https://www.logitech.com/en-us/product/mx-vertical-ergonomic-mouse "A vertical mouse."
+[raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
+[slack]: https://slack.com/ "A collaboration service."
+[surface-book]: https://www.microsoft.com/en-us/surface/devices/surface-book/overview "A 13.5 inch laptop/tablet device."
+[surface-dock]: https://www.microsoft.com/en-us/p/surface-dock/8qrh2npz0s0p?activetab=pivot%3aoverviewtab "A docking station for Surface computers."
+[tab-center-redux]: https://addons.mozilla.org/en-US/firefox/addon/tab-center-redux/ "A Firefox addon to show tabs in a vertical sidebar."
+[thinkpad-t60]: http://www.thinkwiki.org/wiki/Category:T60 "A PC laptop."
+[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[universal-foldable-keyboard]: https://www.microsoft.com/accessories/en-us/products/keyboards/universal-foldable-keyboard/gu5-00001 "A foldable Bluetooth keyboard."
+[vengeance-k65]: https://www.corsair.com/ca/en/Categories/Products/Gaming-Keyboards/VENGEANCE%C2%AE-K65-Compact-Mechanical-Gaming-Keyboard/p/CH-9000040-NA "A mechanical gaming keyboard."
+[vim]: https://www.vim.org/ "A command-line text editor."
+[windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
+[windows-subsystem-for-linux]: https://msdn.microsoft.com/en-us/commandline/wsl/about "A Linux environment for Windows."
+[wsltty]: https://github.com/mintty/wsltty "A terminal for Bash for Ubuntu on Windows."
+[x3-2nd-gen]: http://www.fiio.net/en/supports/33 "A portable audio player."
