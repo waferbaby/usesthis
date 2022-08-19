@@ -4,7 +4,6 @@ summary: Product engineer (Backtrace.io)
 date: 2020-06-12
 categories:
 - developer 
-- (category)
 ---
 
 ### Who are you, and what do you do?
