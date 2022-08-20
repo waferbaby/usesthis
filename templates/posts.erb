@@ -13,7 +13,19 @@ title: Interviews
 
 <% @pagination[:posts].each do |post| %>
   <article class="interviewee h-card">
-    <%= post.title %>
+    <a href="/interviews/<%= post.slug %>" title="An interview with <%= post.title %>." class="u-url">
+      <figure>
+        <img src="/images/interviews/<%= post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= post.title %>">
+      </figure>
+      <h3><%= post.title %></h3>
+    </a>
+    <p class="summary p-job-title"><%= post.summary %></p>
+    <p class="details">
+    <time datetime="<%= post.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= post.date.strftime('%B, %Y') %></time> in 
+    <% post.categories.each do |slug| %>
+      <a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews." class="p-category"><%= slug %></a><%= ', ' unless post.categories.last == slug %>
+  <% end %>
+    </p>
   </article>
 <% end %>
 

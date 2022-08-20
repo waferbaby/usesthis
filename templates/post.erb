@@ -4,11 +4,20 @@ layout: default
 
 <article class="h-entry">
   <header>
-    (interview details come back here)
+    <figure>
+      <img src="/images/interviews/<%= @post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= @post.title %>">
+    </figure>
+    <h2 class="p-name"><%= @post.title %></h2>
+    <p class="summary p-job-title"><%= @post.summary %></p>
+    <p class="details">
+    <time datetime="<%= @post.date.strftime('%Y-%m-%d') %>" class="dt-published"><%= @post.date.strftime('%B, %Y') %></time> in
+    <% @post.categories.each do |slug| %>
+      <a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews." class="p-category"><%= slug %></a><%= ', ' unless @post.categories.last == slug %>
+  <% end %>
   </header>
   <div class="e-content">
     <%= yield %>
     <p id="sponsorship">Uses This is supported by ZSA, makers of the <a href="https://www.zsa.io/moonlander/" title="The Moonlander mechanical keyboard.">Moonlander</a>, ErgoDox EZ and Planck EZ keyboards. They also publish an <a href="https://ergodox-ez.com/pages/uses-this" title="ZSA's awesome newsletter.">awesome newsletter</a>.</p>
     <% if @post.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= @post.licence %>/4.0/" title="The <%= @post.licence.upcase %> Creative Commons licence."><%= @post.licence.upcase %> Creative Commons licence</a>.</p><% end %>
   </div>
-  </article>
+</article>
