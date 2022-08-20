@@ -6,15 +6,4 @@ $LOAD_PATH.unshift(source_path)
 
 require 'lib/usesthis/api'
 
-config_path = File.join(source_path, 'config.json')
-config = JSON.parse(File.read(config_path), symbolize_names: true)
-
-puts 'Building API...'
-
-UsesThis::API.generate(
-  Dir.pwd,
-  config[:destination],
-  config.slice(:category_names)
-)
-
-puts 'Done!'
+UsesThis::API.generate(Dir.pwd, ARGV[0]) if ARGV[0]
