@@ -5,21 +5,19 @@ require 'json'
 require 'time'
 
 module UsesThis
-  # A class modelling the usesthis.com API.
   class API
     VERSION = 2
     URL = "https://usesthis.com/api"
     LINK_PATTERN = /^\[(.+)\]: http.+/.freeze
-    INTERVIEW_FILENAME_PATTERN = /(\d{4})-(\d{2})-(\d{2})-(.+)/.freeze
     SLICE_KEYS = %i[slug name title description date summary url api_url].freeze
 
     attr_accessor :paths, :gear, :interviews, :categories, :stats
 
-    def self.generate(source_path, destination_path, options = {})
-      new(source_path, destination_path, options).generate
+    def self.generate(source_path, destination_path)
+      new(source_path, destination_path).generate
     end
 
-    def initialize(source_path, destination_path, options = {})
+    def initialize(source_path, destination_path)
       @paths = {
         source: source_path,
         destination: File.join(destination_path, 'api')
@@ -29,7 +27,6 @@ module UsesThis
       @interviews = {}
       @categories = {}
       @stats = {}
-      @options = options
     end
 
     def generate
@@ -190,21 +187,19 @@ module UsesThis
     end
 
     def prepare_interview(path)
-      year, month, day, slug = interview_date_and_slug(path)
-      contents, output = Dimples::FrontMatter.parse(File.read(path))
+      metadata, contents = Dimples::FrontMatter.parse(File.read(path))
+      slug = File.basename(path, ".markdown")
 
-      output.tap do |interview|
-        interview.merge!(
-          slug: slug,
-          name: interview.delete(:title),
-          url: "https://usesthis.com/interviews/#{slug}",
-          api_url: "#{URL}/interviews/#{slug}",
-          contents: contents,
-          date: Time.new(year, month, day).iso8601,
-          gear: []
-        )
+      {}.tap do |interview|
+        interview[:slug] = slug
+        interview[:name] = metadata[:title]
+        interview[:url] = "https://usesthis.com/interviews/#{slug}",
+        interview[:api_url] = "#{URL}/interviews/#{slug}",
+        interview[:contents] = contents,
+        interview[:date] = metadata[:date].iso8601,
+        interview[:gear] = []
 
-        interview[:categories].each do |category_slug|
+        metadata[:categories].each do |category_slug|
           add_category_interview(category_slug, interview)
         end
 
@@ -232,9 +227,7 @@ module UsesThis
     end
 
     def add_category_interview(category_slug, interview)
-      name = @options[:category_names] &&
-             @options[:category_names][category_slug] ||
-             category_slug.capitalize
+      name = category_slug.capitalize
 
       @categories[category_slug] ||= {
         slug: category_slug,
@@ -263,10 +256,6 @@ module UsesThis
       @stats[type][year][slug.to_sym] += 1
     end
 
-    def interview_date_and_slug(path)
-      File.basename(path, '.markdown').scan(INTERVIEW_FILENAME_PATTERN).flatten
-    end
-
     def gear_type(slug)
       @gear[:hardware][slug.to_sym] ? :hardware : :software
     end
@@ -279,7 +268,7 @@ module UsesThis
     def pager_options
       @pager_options ||= {
         page_prefix: '?page=',
-        per_page: @options[:per_page] || 50
+        per_page: 50
       }
     end
   end
