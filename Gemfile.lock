@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (7.0)
+    dimples (7.0.2)
       erubi (~> 1.10)
       redcarpet (~> 3.5)
       tilt (~> 2.0)
