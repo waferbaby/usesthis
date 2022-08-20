@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+<title>Uses This<% if @category %> / <%= @category %><% end %></title>
+<link href="https://usesthis.com/<% if @category %>/interviews/<%= @category %>/<% end %>feed.atom" rel="self"/>
+<link href="https://usesthis.com/"/>
+<updated><%= Time.new.strftime('%FT%T') %>Z</updated>
+<id>http://usesthis.com/</id>
+<author>
+  <name>Daniel Bogan</name>
+</author>
+
+<% @posts.each do |post| %>
+<entry>
+  <id>https://usesthis.com/interviews/<%= post.slug %>/</id>
+  <title><%= post.title %></title>
+  <summary><%== post.summary %></summary>
+  <link href="https://usesthis.com/interviews/<%= post.slug %>/"/>
+  <updated><%= post.date.strftime('%FT%T') %>Z</updated>
+  <content type="html">
+    <%== "<p><img src=\"http://usesthis.com/images/interviews/#{post.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{post.title}\"></p>" %>
+    <%== post.rendered_contents %>
+    <%== "<hr><p>This feed is supported by ZSA, makers of the <a href=\"https://www.zsa.io/moonlander/\" title=\"The Moonlander mechanical keyboard.\">Moonlander</a>, ErgoDox EZ and Planck EZ keyboards. They also publish an <a href=\"https://ergodox-ez.com/pages/uses-this\" title=\"ZSA's awesome newsletter.\">awesome newsletter</a>.</p>" %>
+  </content>
+</entry>
+<% end %>
+
+</feed>

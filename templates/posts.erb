@@ -1,0 +1,26 @@
+---
+layout: default
+title: Interviews
+---
+
+<% if @pagination[:current_page] == 1 && !@category %>
+  <h2>Welcome!</h2>
+  <p>Uses This is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
+<% else %>
+  <h2><% if @category %><%= @category.capitalize %><% else %>Interviews<% end %><% if @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></h2>
+  <p>There are <%= @pagination[:post_count] %> interviews<% if @category %> in this category<% end %>. Happy reading!</p>
+<% end %>
+
+<% @pagination[:posts].each do |post| %>
+  <article class="interviewee h-card">
+    <%= post.title %>
+  </article>
+<% end %>
+
+<% if @pagination[:page_count] > 1 %>
+  <nav id="paginator">
+    <p>Page <strong><%= @pagination[:current_page] %></strong> of <strong><%= @pagination[:page_count] %></strong></p>
+    <span id="previous"><% if @pagination[:previous_page] %><a href="<%= @pagination[:urls][:previous_page] %>" title="Page <%= @pagination[:previous_page] %> of the interviews."><% end %>Previous<% if @pagination[:previous_page] %></a><% end %></span>
+    <span id="next"><% if @pagination[:next_page] %><a href="<%= @pagination[:urls][:next_page] %>" title="Page <%= @pagination[:next_page] %> of the interviews."><% end %>Next<% if @pagination[:next_page] %></a><% end %></span>
+  </nav>
+<% end %>
