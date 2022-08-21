@@ -192,10 +192,10 @@ module UsesThis
       {}.tap do |interview|
         interview[:slug] = slug
         interview[:name] = metadata[:title]
-        interview[:url] = "https://usesthis.com/interviews/#{slug}",
-        interview[:api_url] = "#{URL}/interviews/#{slug}",
+        interview[:url] = "https://usesthis.com/interviews/#{slug}"
+        interview[:api_url] = "#{URL}/interviews/#{slug}"
         interview[:contents] = contents,
-        interview[:date] = metadata[:date].iso8601,
+        interview[:date] = metadata[:date].iso8601
         interview[:gear] = []
 
         metadata[:categories].each do |category_slug|
