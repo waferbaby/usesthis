@@ -14,27 +14,23 @@ abort('You must supply a name for the interviewee.') if ARGV.empty?
 name = ARGV.join(' ')
 slug = name.downcase.gsub(/[ ']/, ' ' => '.')
 
-date_pattern = /\d{4}-\d{2}-\d{2}/
-
 files = Dir.glob(File.join(source_path, 'posts', '*.markdown')).sort
-slugs = files.map { |path| File.basename(path, '.markdown').split('-')[-1] }
+slugs = files.map { |path| File.basename(path, '.markdown') }
 
-abort("An interview with #{name} already exists.") if slugs.include?(slug)
+abort("An interview with #{slug} already exists.") if slugs.include?(slug)
 
 date = Date.today.strftime('%Y-%m-%d')
 
-filename = "#{date}-#{slug}.markdown"
-file_path = File.join(source_path, 'posts', filename)
-
-abort("Interview already exists for #{slug}.") if File.exist?(file_path)
-
+file_path = File.join(source_path, 'posts', "#{slug}.markdown")
 portrait_path = File.join(source_path, 'static', 'images', 'interviews', slug)
+
 FileUtils.mkdir(portrait_path) unless File.exist?(portrait_path)
 
 output = <<OUTPUT
 ---
 title: #{name}
 summary:
+date: #{date}
 categories:
 - 
 ---
