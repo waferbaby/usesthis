@@ -13,7 +13,7 @@ public_path = "/usr/local/www/usesthis.com/public/"
 FileUtils.remove_dir(build_path, true)
 Dir.chdir(source_path)
 
- `git pull`
+`git pull`
 
 Dimples::Site.generate(build_path)
 UsesThis::API.generate(build_path)
