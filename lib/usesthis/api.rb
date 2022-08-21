@@ -24,7 +24,7 @@ module UsesThis
       }
 
       @gear = { hardware: {}, software: {} }
-      @interviews = {}
+      @interviews = []
       @categories = {}
       @stats = {}
     end
@@ -63,10 +63,9 @@ module UsesThis
     def scan_interviews
       source_path = File.join(@paths[:source], 'posts', '*.markdown')
 
-      Dir[source_path].sort.reverse_each do |path|
-        interview = prepare_interview(path)
-        @interviews[interview[:slug].to_sym] = interview
-      end
+      Dir[source_path].each { |path| @interviews << prepare_interview(path) }
+
+      @interviews.sort_by! { |interview| interview[:date] }.reverse!
     end
 
     def generate_gear_endpoints
@@ -102,11 +101,11 @@ module UsesThis
       generate_paginated_interview_endpoints(
         interviews_path,
         "#{URL}/interviews/",
-        @interviews.values
+        @interviews
       )
 
-      @interviews.each do |slug, interview|
-        path = File.join(interviews_path, slug.to_s, 'index.json')
+      @interviews.each do |interview|
+        path = File.join(interviews_path, interview[:slug], 'index.json')
         generate_json_file(path, interview: interview)
       end
     end
