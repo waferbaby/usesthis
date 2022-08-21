@@ -1,0 +1,22 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+source_path = File.dirname(__dir__)
+$LOAD_PATH.unshift(source_path)
+
+require 'dimples'
+require 'lib/usesthis/api'
+
+build_path = "/usr/local/www/usesthis.com/build/"
+public_path = "/usr/local/www/usesthis.com/public/"
+
+FileUtils.remove_dir(build_path, true)
+Dir.chdir(source_path)
+
+ `git pull`
+
+Dimples::Site.generate(build_path)
+UsesThis::API.generate(build_path)
+
+`rsync -av --delete #{build_path} #{public_path}`
+`chown -R www-data:www-data #{public_path}`
