@@ -13,13 +13,13 @@ module UsesThis
 
     attr_accessor :paths, :gear, :interviews, :categories, :stats
 
-    def self.generate(source_path, destination_path)
-      new(source_path, destination_path).generate
+    def self.generate(destination_path)
+      new(destination_path).generate
     end
 
-    def initialize(source_path, destination_path)
+    def initialize(destination_path)
       @paths = {
-        source: source_path,
+        source: Dir.pwd,
         destination: File.join(destination_path, 'api')
       }
 
