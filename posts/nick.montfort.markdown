@@ -28,7 +28,7 @@ I have used a variety of notebook computers in recent years. It's a bit wasteful
 
 ### And what software?
 
-On the older smartphone I use daily, I run [GrapheneOS][], a free/open-source operating system that is focused on privacy and runs most [Android][] apps. My phone does have any Google apps, or Google Play services, even the Google Play Store.
+On the older smartphone I use daily, I run [GrapheneOS][], a free/open-source operating system that is focused on privacy and runs most [Android][] apps. My phone does not have any Google apps, or Google Play services, even the Google Play Store.
 
 I run [Ubuntu][] on one of the notebook computers I use often, but even more often use [Pop_OS!][pop-os], a distribution from system76 that is based on Ubuntu and that I run on two other machines.
 
