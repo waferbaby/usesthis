@@ -4,6 +4,7 @@
     <title>Uses This<% if @page %> / <%= @page.title %><% elsif @post %> / <%= @post.title %><% end %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
+    <link href="https://waferbaby.com/@d" rel="me">
   <% if @pagination %>
     <% if @pagination[:urls][:previous_page] %><link rel="prev" href="<%= @pagination[:urls][:previous_page] %>"><% end %>
     <% if @pagination[:urls][:next_page] %><link rel="next" href="<%= @pagination[:urls][:next_page] %>"><% end %>
