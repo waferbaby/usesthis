@@ -6,7 +6,12 @@ GEM
       redcarpet (~> 3.5)
       tilt (~> 2.0)
     erubi (1.11.0)
+    faraday (2.7.2)
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
     redcarpet (3.5.1)
+    ruby2_keywords (0.0.5)
     tilt (2.0.11)
 
 PLATFORMS
@@ -14,6 +19,7 @@ PLATFORMS
 
 DEPENDENCIES
   dimples (~> 7.0)
+  faraday
 
 RUBY VERSION
    ruby 2.7.6p219
