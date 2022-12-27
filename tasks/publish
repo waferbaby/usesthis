@@ -19,4 +19,3 @@ Dimples::Site.generate(build_path)
 UsesThis::API.generate(build_path)
 
 `rsync -av --delete #{build_path} #{public_path}`
-`chown -R www-data:www-data #{public_path}`
