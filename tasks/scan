@@ -10,14 +10,13 @@ require 'faraday'
 require 'json'
 
 Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
-  next unless ((Time.now - File.mtime(path)) / 60 / 60 / 24).round > 1
-
   data = JSON.parse(File.read(path))
+  needs_lookup = false
 
   print "- #{data['name']}: "
 
   begin
-    response = Faraday.get(data['url'])
+    response = Faraday.head(data['url'])
     source_url = URI.parse(data['url'])
 
     case response.status
@@ -31,25 +30,38 @@ Dir.glob(File.join(source_path, 'gear', '**', '*.json')).sort.each do |path|
       end
 
       puts 'Updated (redirected).'
-    when 404
-      data['error'] = 'Dead link'
-      puts 'Dead link!'
     else
-      puts "Ignoring (#{response.status})"
+      print "Performing an archive lookup (got a #{response.status})... "
+      needs_lookup = true
     end
   rescue Faraday::ClientError,
          Faraday::ConnectionFailed,
          Faraday::SSLError,
+         Faraday::TimeoutError,
          Zlib::DataError
-    puts 'Connection failed - ignoring.'
-  rescue Faraday::TimeoutError
-    puts 'Connection timed out - ignoring.'
+    print 'Connection failed - performing an archive lookup... '
+    needs_lookup = true
   rescue URI::InvalidURIError
-    data['error'] = 'Invalid URL'
     puts 'Invalid URL!'
   end
 
-  if data['url'] != source_url.to_s || data['error']
+  if needs_lookup
+    archive_request = Faraday.get("https://archive.org/wayback/available?url=#{data['url']}")
+
+    unless archive_request.nil?
+      archive_data = JSON.parse(archive_request.body)
+      archive_url = archive_data.dig("archived_snapshots", "closest", "url")
+
+      if archive_url.nil?
+        puts "No archive URL found!"
+      else
+        data['url'] = archive_url
+        puts "Updated (found archive URL)"
+      end
+    end
+  end
+
+  if data['url'] != source_url.to_s
     File.write(path, JSON.pretty_generate(data))
   end
 end
