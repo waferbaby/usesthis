@@ -61,7 +61,7 @@ A shared space with lots of synthesizers, instruments, wall space to post up ide
 [sign-pen]: https://www.pentel.com/products/sign-pen "A pen."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [voice-memos-ios]: https://en.wikipedia.org/wiki/IPhone_OS_3#Voice_Memos "An app for recording voice memos."

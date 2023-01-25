@@ -46,7 +46,7 @@ I'm pretty happy with what I've got. I'd like to get more into music production 
 [clang]: http://clang.llvm.org/ "A C/C++ frontend for the LLVM compiler."
 [figure-ios]: https://www.propellerheads.se/figure "A touch-based music creation app."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
-[gif-brewery]: http://gifbrewery.com/ "Mac software for converting videos into GIFs."
+[gif-brewery]: http://web.archive.org/web/20181211183829/http://gifbrewery.com "Mac software for converting videos into GIFs."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."

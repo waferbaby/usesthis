@@ -52,7 +52,7 @@ I'd also like a very, very quiet room with good natural light. I prefer silence 
 [grunt]: https://gruntjs.com/ "A task runner."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[nexus-5]: http://www.google.com/nexus/5/ "An Android smartphone."
+[nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."

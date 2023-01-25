@@ -59,7 +59,7 @@ I'm actually quite enamored with my current setup. I love my desk, my current am
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
-[appcontrols]: https://bluecrowbar.com/appcontrols/ "A Mac tool for designing buttons and other application controls."
+[appcontrols]: http://web.archive.org/web/20221205135010/https://bluecrowbar.com/appcontrols/ "A Mac tool for designing buttons and other application controls."
 [apptivate]: http://www.apptivateapp.com/ "A hotkey tool for the Mac."
 [bookarc-ipad]: https://www.twelvesouth.com/product/bookarc-for-ipad-ipad-mini "An iPad docking station."
 [byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
@@ -72,7 +72,7 @@ I'm actually quite enamored with my current setup. I love my desk, my current am
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gradient]: http://www.gradientapp.com/home/index/ "A Mac tool for creating CSS3 gradients."
+[gradient]: http://web.archive.org/web/20190506095724/http://www.gradientapp.com/home/index/ "A Mac tool for creating CSS3 gradients."
 [growl]: http://growl.info/ "A notification system for Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

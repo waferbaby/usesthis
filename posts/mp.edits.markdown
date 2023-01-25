@@ -28,7 +28,7 @@ Software is pretty simple here, the Adobe Suite! I use [After Effects][after-eff
 
 I'm using it! I love the setup that I'm currently using. If I had to change anything I would probably just upgrade my computer hardware to fancier and faster hardware, but that's just impractical, haha. My hardware is fast enough for me. Realistically, I could use a Core i9 instead of a Core i7 because the i9 would render previews in AE faster, but again, I'm more than satisfied with what I have currently.
 
-[850-evo]: https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/850evo/ "An SSD drive."
+[850-evo]: http://web.archive.org/web/20211124011027/https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/850evo/ "An SSD drive."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [basilisk]: https://www.razer.com/gaming-mice/razer-basilisk "A gaming mouse."
 [core-i7-7700k]: https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."

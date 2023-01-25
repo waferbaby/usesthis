@@ -33,11 +33,11 @@ Ultimately, my dream setup would be to get to work from interesting places all a
 
 Also, I would like a new gallbladder and a functional thyroid gland so I could go back to eating gluten and fat and coffee and red wine like a normal person.
 
-[cyber]: https://www.ospreypacks.com/us/en/product/cyber-CYBER.html "A daypack."
+[cyber]: http://web.archive.org/web/20211021174256/http://www.ospreypacks.com/us/en/product/cyber-CYBER.html "A daypack."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [nook-ios]: https://itunes.apple.com/us/app/nook-read-books-magazines-newspapers-comics/id373582546 "A book reading app."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [picmonkey]: https://www.picmonkey.com/ "A web-based image editor."

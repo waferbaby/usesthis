@@ -34,7 +34,7 @@ Honestly, my current setups are pretty great! A higher cost doesn't always trans
 [ath-ws990bt]: https://www.audio-technica.com/cms/headphones/222c4aba71976084/index.html "Wireless over-the-ear headphones."
 [breakup-squad]: https://brooklyn-gamery.itch.io/breakup-squad/ "A game about running into your ex at a party."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[ergonomic-wireless-vertical-mouse]: https://www.anker.com/products/variant/Ergonomic-Wireless-Vertical-Mouse/A7809012 "An ergonomic wireless vertical mouse."
+[ergonomic-wireless-vertical-mouse]: http://web.archive.org/web/20210306115801/https://www.anker.com/products/variant/Ergonomic-Wireless-Vertical-Mouse/A7809012 "An ergonomic wireless vertical mouse."
 [etsy]: https://www.etsy.com/ "A doily deployment system."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."

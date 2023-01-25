@@ -40,7 +40,7 @@ On my iPhone, I use [Tweetbot][tweetbot-ios] and [Headspace][headspace-meditatio
 
 Most days I dream of this: a standing desk, a neutral room with a smooth concrete floor, flooded with natural light, in an office with friends and collaborators doing the same sort of things I do. But I've been travelling a lot and I just wish your typical digital art setup could be more mobile, disconnected from any specific work space. No tower PC rig, laptops only, and I'd love to draw on the go, outside in the grass, maybe on an iPad? There should be lots of cool flora and bird ambience, and a cabin for cooking, music and contemplation.
 
-[accounting]: https://accountingvr.com/ "An accounting VR game."
+[accounting]: http://web.archive.org/web/20181103100041/http://accountingvr.com:80/? "An accounting VR game."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [asana]: https://asana.com/ "A project management service."
 [aseprite]: https://www.aseprite.org/ "A pixel editor and animation tool."

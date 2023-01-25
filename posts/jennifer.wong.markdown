@@ -39,16 +39,16 @@ The last year or so, I've become incredibly lazy about finding new music for mys
 
 My dream setup would be a zillion [Thunderbolt displays][thunderbolt-display]! Is there some sort of OSX and Ubuntu hybrid? Because if not, then that would also be on my list of dreams. I'm definitely going to have to upgrade my phone soon, but I'm so new to mobile devices, I have no idea what I want. Other than that, I really love everything I'm using at the moment - is that cheesy to say? And then if we could just make everything cost 10 times less... that would be perfect. :)
 
-[20-cubed]: https://chrome.google.com/webstore/detail/20-cubed/geghmabifcdlkmpnkapfefbbfaonhcef "A Chrome extension that reminds you to take regular breaks."
+[20-cubed]: http://web.archive.org/web/20150623204015/https://chrome.google.com/webstore/detail/20-cubed/geghmabifcdlkmpnkapfefbbfaonhcef "A Chrome extension that reminds you to take regular breaks."
 [chrome-devtools]: https://developer.chrome.com/devtools "Web developer tools built into Chrome."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
-[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
-[galaxy-s-iii]: https://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
+[galaxy-s-ii]: http://web.archive.org/web/20160308072214/http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[galaxy-s-iii]: http://web.archive.org/web/20160303220825/http://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [git]: https://git-scm.com/ "A version control system."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[hotpads]: https://hotpads.com/ "A rental listing service."
+[hotpads]: http://web.archive.org/web/20221203001043/https://hotpads.com/ "A rental listing service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."

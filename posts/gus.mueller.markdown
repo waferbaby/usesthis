@@ -58,5 +58,5 @@ I really want the fastest machine possible, with lots of options for disk space.
 [toneport-ux1]: https://line6.com/legacy/toneportux1 "A USB interface for guitars."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
-[voodoopad]: https://plausible.coop/voodoopad/ "Personal wiki software for the Mac."
+[voodoopad]: http://web.archive.org/web/20190128001214/https://plausible.coop/voodoopad "Personal wiki software for the Mac."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

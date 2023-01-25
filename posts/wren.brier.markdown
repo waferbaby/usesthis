@@ -27,7 +27,7 @@ Having my own office (I currently share one with my partner, we work back to bac
 [aseprite]: https://www.aseprite.org/ "A pixel editor and animation tool."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [discord]: https://discordapp.com/ "A voice and text chat service."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."

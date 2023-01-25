@@ -29,7 +29,7 @@ For video editing, I use [Adobe Premiere Pro][premiere-pro] and to create my thu
 
 Maybe the [AltWork Station][altwork-station] where I'd be able to recline and sit up as my back and blood vessels need but maintaining support no matter my position. I'm pretty happy with my current power chair, though a flying chair would be cool! Haha! Realistically, maybe a hands-free (of the ones available I'd get a blue one) or more modern looking chair. And I'd LOVE a cool looking accessible vehicle like the [Kia Sorento][kia-sorento] by Freedom Motors!
 
-[adapdesk]: https://www.kickstarter.com/projects/adapdeskteam/adapdesk-the-worlds-best-portable-device-desk "A portable work desk."
+[adapdesk]: http://web.archive.org/web/20221016193416/https://www.kickstarter.com/projects/adapdeskteam/adapdesk-the-worlds-best-portable-device-desk "A portable work desk."
 [altwork-station]: https://altwork.com/ "An adjustable work station."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [coolpix-p7700]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Compact-Digital-Cameras/COOLPIX-P7700.html "A 12.2 megapixel camera."
@@ -38,7 +38,7 @@ Maybe the [AltWork Station][altwork-station] where I'd be able to recline and si
 [galaxy-note-3]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3 "A phone/tablet."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[grammarly]: https://www.grammarly.com/ "A writing and grammar service."
+[grammarly]: http://web.archive.org/web/20221227052606/https://www.grammarly.com/ "A writing and grammar service."
 [kia-sorento]: https://www.freedommotors.com/wheelchair-accessible-conversions/kia-sorento-wheelchair-accessible-vehicle/ "A wheelchair-accessible car."
 [n99-cv]: https://www.amazon.com/Vogmask-Vegan-Leather-LARGE-150-200/dp/B00QR2ST58/ "A face mask for protection against pollen and pollution."
 [photolayers-android]: https://play.google.com/store/apps/details?id=com.handycloset.android.photolayers "An app for combining photos."

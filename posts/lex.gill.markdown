@@ -51,7 +51,7 @@ Finally, most people don't realize that a lot of important legal sources are tot
 [jitsi]: https://jitsi.org "Open source video conferencing software."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lawtex]: http://rohitnafday.net/software/lawtex/ "A set of LaTeX tools for law school."
-[m204]: https://www.monkeylectric.com/wheel_light_comparison/ "A set of rainbow-coloured lights for bike wheels."
+[m204]: http://web.archive.org/web/20221207183813/https://www.monkeylectric.com/wheel_light_comparison/ "A set of rainbow-coloured lights for bike wheels."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [semaphor]: https://spideroak.com/personal/semaphor "Encrypted group chat and file sharing software."

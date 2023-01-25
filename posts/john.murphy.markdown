@@ -63,7 +63,7 @@ In the meantime, I've been thinking about putting a treadmill under this here st
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hd-598]: https://en-us.sennheiser.com/audio-headphones-high-end-surround-sound-hd-598 "Over-the-ear headphones."
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
 [jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."

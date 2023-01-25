@@ -32,4 +32,4 @@ I'd have to say my current setup is pretty good. The things that I use for my wo
 [hulu]: https://www.hulu.com/ "A TV streaming service."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."

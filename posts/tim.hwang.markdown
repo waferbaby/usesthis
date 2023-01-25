@@ -40,7 +40,7 @@ Though, [having one of these](http://www.cantstopthemovies.com/wp-content/upload
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
-[hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
+[hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [imgur]: https://imgur.com/ "An image sharing service."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

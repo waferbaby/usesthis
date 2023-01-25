@@ -42,7 +42,7 @@ My dream setup is definitely a high-end PC, water-cooled, and 1-press swapping a
 [ctrl-high-profile]: https://drop.com/buy/drop-ctrl-high-profile-mechanical-keyboard "A mechanical keyboard."
 [docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
 [dz60rgb]: https://kbdfans.com/products/dz60rgb-hot-swap-custom-keyboard-pcb "A mechanical keyboard PCB."
-[ef-40mm-f2.8-stm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_40mm_f_2_8_stm "A lens for DSLRs."
+[ef-40mm-f2.8-stm]: http://web.archive.org/web/20151015043731/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_40mm_f_2_8_stm "A lens for DSLRs."
 [ef-m-22mm-f2-stm]: https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/wide-angle/ef-m-22mm-f-2-stm "A camera lens."
 [ember]: https://emberjs.com/ "An MVC Javascript framework."
 [eos-m200]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/mirrorless/eos-m200-ef-m-15-45mm-is-stm-kit/ "A 24.1 megapixel mirrorless camera."

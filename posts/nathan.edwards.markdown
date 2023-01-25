@@ -54,4 +54,4 @@ Pretty much the same thing except with a KVM switch built in to the monitor. May
 [twitter-android]: https://play.google.com/store/apps/details?id=com.twitter.android "A Twitter client for Android."
 [u2715h]: https://www.dell.com/en-us/work/shop/cty/monitor-dell-ultrasharp-27-u2715h/spd/dell-u2715h "A 27 inch monitor."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."
-[zoom]: http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

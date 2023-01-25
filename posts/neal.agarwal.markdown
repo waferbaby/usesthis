@@ -52,6 +52,6 @@ I think I'm getting pretty close to that dream! My only pain point is that I thi
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."
 [react]: https://facebook.github.io/react/ "A JavaScript UI framework."
-[rp-hje120]: https://shop.panasonic.com/support-only/RP-HJE120.html#q=RP-HJE&start=1 "In-ear headphones."
+[rp-hje120]: http://web.archive.org/web/20211016084703/https://shop.panasonic.com/support-only/RP-HJE120.html "In-ear headphones."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

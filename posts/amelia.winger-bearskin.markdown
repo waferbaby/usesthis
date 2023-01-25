@@ -73,7 +73,7 @@ I also wish the Dell gaming tower I used to develop on wasn't broken; it didn't 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [buzzsprout]: https://www.buzzsprout.com/ "A podcast hosting service."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [contentful]: https://www.contentful.com/ "A content management service."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [g613]: https://www.logitechg.com/en-us/products/gaming-keyboards/g613-wireless-mechanical-gaming-keyboard.920-008386.html "A mechanical keyboard."

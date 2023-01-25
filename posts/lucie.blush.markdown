@@ -34,7 +34,7 @@ Shooting with a [Canon EOS 5D][eos-5d] and a 50mm lens would be fantastic, and I
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
 [filmic-pro-ios]: https://itunes.apple.com/us/app/filmic-pro/id436577167 "A video camera app."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."

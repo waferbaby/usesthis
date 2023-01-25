@@ -54,7 +54,7 @@ On the server side, aside from the lack of FreeBSD on EC2, I'm really quite sati
 [kwrite]: https://kate-editor.org/ "A simple text editor for KDE."
 [latitude-z]: http://www.notebookreview.com/notebookreview/dell-latitude-z-review/ "A super thin PC laptop."
 [nano]: https://www.nano-editor.org/ "A command-line text editor."
-[qmail]: http://www.qmail.org/top.html "An SMTP server."
+[qmail]: http://web.archive.org/web/20220803223549/http://qmail.org/top.html "An SMTP server."
 [stunnel]: https://www.stunnel.org/index.html "A tool to make any TCP connection over SSL."
 [tarsnap]: http://www.tarsnap.com/ "An online backup system, aimed at *nix-based computers."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."

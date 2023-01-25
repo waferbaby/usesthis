@@ -43,7 +43,7 @@ For me, the main limiting factor in my work is always memory: either RAM or hard
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[ggplot2]: http://ggplot2.org/ "A plotting system for the R language."
+[ggplot2]: http://web.archive.org/web/20180506153516/http://ggplot2.org:80/ "A plotting system for the R language."
 [git]: https://git-scm.com/ "A version control system."
 [glmnet]: http://cran.r-project.org/web/packages/glmnet/ "Linear modelling procedures for R."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

@@ -45,7 +45,7 @@ It's been thrilling to me to be able to have a portable computer powerful enough
 [bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
 [canoscan-9000f]: http://usa.canon.com/cusa/consumer/products/scanners/film_negative_scanners/canoscan_9000f "A film and negatives scanner."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."

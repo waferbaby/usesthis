@@ -50,7 +50,7 @@ My dream setup would be a old red train caboose set up on a short section of rai
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [lumocolor]: https://www.staedtler.com/en/products/markers-refill-ink/permanent-markers/lumocolor-permanent-marker-set-31-set4-permanent-marker-set/ "A permanent marker pen."
-[megamat]: http://www.chessex.com/mats/Battlemats_MegamatsReversible.htm "A reversable vinyl mat."
+[megamat]: http://web.archive.org/web/20200518162846/http://www.chessex.com:80/mats/Battlemats_MegamatsReversible.htm "A reversable vinyl mat."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
 [pandora]: http://www.pandora.com/ "A personalised Internet radio station."
 [powershot-s110]: https://www.amazon.com/Canon-PowerShot-Digital-Camera-3-Inch/dp/B009B0MYSQ "A 12.1 megapixel digital camera."

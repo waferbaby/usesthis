@@ -80,5 +80,5 @@ I pretty much had my dream setup working in Japan at [AIST](https://www.aist.go.
 [python]: https://www.python.org/ "An interpreted scripting language."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[unmixer]: https://unmixer.ongaaccel.jp/ "A tool for extracting loops from songs."
+[unmixer]: http://web.archive.org/web/20220121225621/https://unmixer.ongaaccel.jp/ "A tool for extracting loops from songs."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

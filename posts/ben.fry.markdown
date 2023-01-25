@@ -44,7 +44,7 @@ But mostly I hope it gets sorted out before my back gets too creaky from hunchin
 [compass-597]: https://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6 "A USB device for EVDO access."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [fontforge]: http://fontforge.github.io/ "An open-source font editor."
-[hex-fiend]: http://www.ridiculousfish.com/hexfiend/ "An open-source hex editor for the Mac."
+[hex-fiend]: http://web.archive.org/web/20221220030540/http://ridiculousfish.com/hexfiend/ "An open-source hex editor for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

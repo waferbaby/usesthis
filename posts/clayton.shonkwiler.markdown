@@ -38,7 +38,7 @@ I wish learning management systems weren't so terrible, but otherwise I'm pretty
 [f3]: http://www.syedrezaali.com/#/f3-mac-app/ "A 3D design app."
 [gifsicle]: https://www.lcdf.org/gifsicle/ "A command-line tool for working with GIFs."
 [goodnotes-ios]: http://www.goodnotesapp.com "A handwritten note-taking app."
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

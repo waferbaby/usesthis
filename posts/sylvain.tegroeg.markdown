@@ -29,7 +29,7 @@ I might like to set myself up a bit away from the dense city life, have my own s
 
 [hidden-folks]: http://hiddenfolks.com "A video game where you have to search for people in a landscape."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."
 [slack]: https://slack.com/ "A collaboration service."

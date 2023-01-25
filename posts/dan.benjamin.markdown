@@ -67,7 +67,7 @@ Wouldn't it be great if you could cram a studio-quality microphone and pre-amp i
 Other than that, I think I'm really happy with these things.
 
 [2big-quadra]: https://www.amazon.com/LaCie-Quadra-2-Disk-Drive-301432U/dp/B0028NNILU "A 2-bay RAID system."
-[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[address-book]: http://web.archive.org/web/20191014200329/https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."

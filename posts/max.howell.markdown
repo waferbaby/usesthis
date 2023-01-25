@@ -77,7 +77,7 @@ It'll be a new world. Got 80 tabs open now? You'll be able to stick them in your
 [tableplus]: https://tableplus.io/ "GUI software for working with databases."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
+[ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

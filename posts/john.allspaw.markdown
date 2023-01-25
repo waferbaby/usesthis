@@ -54,7 +54,7 @@ A dream setup for me is a 27" monitor (anything bigger is a pain for me), a well
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [strace]: https://en.wikipedia.org/wiki/Strace "A command-line tool for monitoring system calls."
-[subversion]: http://subversion.tigris.org/ "A version control system."
+[subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [tcpdump]: http://www.tcpdump.org/ "A command-line tool for analysing packets."
 [truss]: https://en.wikipedia.org/wiki/Truss_(Unix) "A command-line tool for tracing system calls."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."

@@ -50,7 +50,7 @@ I split my podcast listening between two apps: [AntennaPod][antennapod-android] 
 
 I'm pretty happy with my hardware/software situation, but I'd love to have my own office one day. I never had one when I worked as an editor - I think it's been years since midranking magazine journalists in London have merited their own walls and a door - and where we live now doesn't have enough rooms to give one over entirely to my dreams of floor to ceiling bookshelves and a huge desk by a window. But one day, I'll upgrade from my current tiny desk in a walk-in wardrobe, I hope.
 
-[860-evo]: https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/860evo/ "An SSD hard drive."
+[860-evo]: http://web.archive.org/web/20211120045740/https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/860evo/ "An SSD hard drive."
 [antennapod-android]: https://play.google.com/store/apps/details?id=de.danoeh.antennapod "A podcast manager and player."
 [audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
@@ -62,7 +62,7 @@ I'm pretty happy with my hardware/software situation, but I'd love to have my ow
 [ghost]: https://ghost.org/ "A web publishing service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[h6]: https://www.amazon.com/Zoom-H6-Six-Track-Portable-Recorder/dp/B00DFU9BRK "A portable six-track recorder."
+[h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
 [hd-669]: https://www.thomannmusic.com/superlux_hd_669.htm "Over-ear headphones."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [listen-notes]: https://www.listennotes.com/ "A podcast search engine."
@@ -78,6 +78,6 @@ I'm pretty happy with my hardware/software situation, but I'd love to have my ow
 [slack]: https://slack.com/ "A collaboration service."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [truefree]: https://www.soundpeatsaudio.com/en/wireless-earbuds-truefree-true-wireless-bluetooth-earbuds-5-0-in-ear-wireless-earphones-bluetooth-headphones-total-15-hours-built-in-mic-stereo-calls.html "In-ear wireless headphones."
-[vitamin-l-sad-light]: https://www.lumie.com/collections/sad-lights/products/vitamin-l "A light for helping with seasonal depression."
+[vitamin-l-sad-light]: http://web.archive.org/web/20210724130559/https://www.lumie.com/collections/sad-lights/products/vitamin-l "A light for helping with seasonal depression."
 [wetransfer]: https://www.wetransfer.com/ "A service for sending large files."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

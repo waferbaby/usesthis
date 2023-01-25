@@ -42,5 +42,5 @@ My apartment, but in a silent place, with a constantly replenishing supply of Di
 [s2318nx]: http://www.dell.com/en-us/shop/accessories/apd/210-alil?ref=p13n_std_pdp_mv&c=us&cs=19&l=en&s=dhs "A 23 inch LCD display."
 [slack]: https://slack.com/ "A collaboration service."
 [solitaire-ios]: https://itunes.apple.com/us/app/solitaire/id479280326?mt=8 "A card game."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

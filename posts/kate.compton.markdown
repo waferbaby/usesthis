@@ -28,9 +28,9 @@ I use [JavaScript][] almost exclusively now, after years of [Java][]. There are 
 I think I have my dream setup! Lots of oddball toys at home, plus my lightweight laptop for easy travel when backpacking between conferences. I would dearly love a big workshop with a laser-cutter and a CNC machine, though.
 
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
+[kinect]: http://web.archive.org/web/20141020163539/http://www.xbox.com:80/en-US/Kinect "An adapter for the Xbox that uses your body as a controller."
 [leap-motion-controller]: https://www.leapmotion.com/product "A spatial motion-sensing device."
 [lightpaper]: http://lightpaper.42squares.in "A Markdown editor for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

@@ -34,7 +34,7 @@ Honestly, I don't really think much about improving my setup. It is functional, 
 [gloomhaven]: http://www.cephalofair.com/gloomhaven "A tactical combat board game."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."

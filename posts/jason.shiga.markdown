@@ -28,5 +28,5 @@ A drawing desk 3 feet deep that stretched 10 miles long and a pedal-powered chai
 [craigslist]: https://www.craigslist.org/ "A classifieds service."
 [flatten-pro]: https://peltmade.com/psplugins-flatting.html "A Photoshop plugin for colour flattening artwork used in comics."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[rp3700]: http://www.acmcopiers.com/product/risograph-rp3700/ "A large printer."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
+[rp3700]: http://web.archive.org/web/20200629234339/http://www.acmcopiers.com:80/product/risograph-rp3700/ "A large printer."

@@ -56,7 +56,7 @@ Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lect
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
 [google-scholar-button]: https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn "A Chrome extension for looking up scholarly articles."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."

@@ -86,7 +86,7 @@ Some of those changes stick, most don't, but since every tool switch involves a 
 [powerbook-100]: https://en.wikipedia.org/wiki/PowerBook_100 "An old 9 inch laptop."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [red-hat-enterprise-desktop]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux "A Linux distribution."
 [roku]: https://www.roku.com/ "A device for streaming entertainment to your TV."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."

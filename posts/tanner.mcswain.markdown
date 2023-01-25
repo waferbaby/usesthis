@@ -67,7 +67,7 @@ Aesthetically, I'm very much a maximalist. Having tons of crazy crap around spar
 [play-5]: https://www.sonos.com/en-us/shop/play5.html "A wireless speaker."
 [roller]: https://uniballco.com/uni_products/roller/ "A rollerball pen."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[square-register]: https://squareup.com/shop/hardware/us/en/products/register-pos "A Point of Sale device."
+[square-register]: http://web.archive.org/web/20220904234758/https://squareup.com/shop/hardware/us/en/products/register-pos "A Point of Sale device."
 [square]: https://squareup.com/ "A software and hardware solution for processing credit cards."
 [tula]: https://tulasoftware.com/ "Software for organising class-based studios."
 [ynab]: https://www.youneedabudget.com/ "A service for helping people save money."

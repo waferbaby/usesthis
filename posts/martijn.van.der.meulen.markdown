@@ -52,7 +52,7 @@ On a shorter (and more realistic) term I hope to have an HD projector set up in 
 In general I'm very content with the setup that I currently have actually.
 
 [bumptop]: https://en.wikipedia.org/wiki/BumpTop "A 3D desktop environment."
-[chrome-to-phone]: https://chrome.google.com/webstore/detail/google-chrome-to-phone-ex/oadboiipflhobonjjffjbfekfjcgkhco "A Chrome extension for sending links to your Android device."
+[chrome-to-phone]: http://web.archive.org/web/20160429162101/https://chrome.google.com/webstore/detail/google-chrome-to-phone-ex/oadboiipflhobonjjffjbfekfjcgkhco "A Chrome extension for sending links to your Android device."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
@@ -62,7 +62,7 @@ In general I'm very content with the setup that I currently have actually.
 [hansoft]: https://www.hansoft.com/ "A global collaboration/software development tool."
 [human-japanese-android]: https://play.google.com/store/apps/details?id=com.braksoftware.HumanJapanese "An Android app for learning the Japanese language."
 [inspiron-mini-9]: https://www.dell.com/us/dfh/p/inspiron-mini9/pd "A 9 inch netbook."
-[nexus-s]: http://www.google.com/nexus/ "An Android-based smartphone."
+[nexus-s]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
 [playstation-home]: https://en.wikipedia.org/wiki/PlayStation_Home "A social gaming network for the PS3."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [psp]: https://en.wikipedia.org/wiki/PlayStation_Portable "Sony's portable gaming console."

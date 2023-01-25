@@ -71,7 +71,7 @@ But, short of crazy future-tech, I'm hitting the point where I have everything I
 [curl]: https://curl.haxx.se/ "A command-line tool for transferring data from URLs."
 [d90]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/D90.html "A 12.3 megapixel digital SLR camera."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[e2220hd]: https://www.amazon.co.uk/BenQ-E2220HD-21-5-inch-1080p-Monitor/dp/B002OHZUB6 "A 21.5 inch LCD monitor."
+[e2220hd]: http://web.archive.org/web/20190506092521/https://www.amazon.co.uk/BenQ-E2220HD-21-5-inch-1080p-Monitor/dp/B002OHZUB6 "A 21.5 inch LCD monitor."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."

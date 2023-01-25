@@ -54,7 +54,7 @@ That said, I'm a hypocrite. I'm not doing much about it (except that architectur
 So is that okay? My dream setup is an alternate global technical paradigm? There's no point thinking small I guess.
 
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
-[berg-cloud-devkit]: http://bergcloud.com/devkit/ "A hardware devkit for connecting to the BERG Cloud."
+[berg-cloud-devkit]: http://web.archive.org/web/20151221045658/http://bergcloud.com/devkit "A hardware devkit for connecting to the BERG Cloud."
 [citymapper-ios]: https://itunes.apple.com/gb/app/citymapper-london-public-transport/id469463298 "A city transport app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
@@ -71,7 +71,7 @@ So is that okay? My dream setup is an alternate global technical paradigm? There
 [keynote-ios]: https://itunes.apple.com/us/app/keynote/id361285480 "An iOS version of the presentation software."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
-[little-printer]: http://littleprinter.com/ "A small Internet-connected printer."
+[little-printer]: http://web.archive.org/web/20151127133812/http://littleprinter.com:80/ "A small Internet-connected printer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

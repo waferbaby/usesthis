@@ -66,7 +66,7 @@ I can see just a hint of this future with high-end software like Tableau or open
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [ivar]: https://www.ikea.com/us/en/catalog/categories/departments/living_room/11703/ "A customisable storage system."
 [k-240-studio]: https://www.akg.com/K240+Studio-827.html?pid=1195 "Studio headphones."
-[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

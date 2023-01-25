@@ -32,7 +32,7 @@ My work over the last year hasn't been healthy by any means, but it has allowed 
 
 [browserstack]: https://www.browserstack.com/ "A service for testing a site live across a multitude of browsers."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[cumuluspro]: https://imprintmats.com/cumuluspro-anti-fatigue-mat-perfect-for-standing-desks/ "Anti-fatigue standing mats."
+[cumuluspro]: http://web.archive.org/web/20210411092554/https://imprintmats.com/cumuluspro-anti-fatigue-mat-perfect-for-standing-desks/ "Anti-fatigue standing mats."
 [dwellclick]: https://pilotmoon.com/dwellclick/ "Mac software that clicks the mouse for you."
 [energizing-wrist-support]: https://www.amazon.com/Futuro-Energizing-Wrist-Support-Small/dp/B0026RHGA2/ "A wrist brace."
 [fish]: http://fishshell.com/ "A command-line shell."

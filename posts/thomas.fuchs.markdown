@@ -50,11 +50,11 @@ Amy has a MacBook Air and I love it. Once they make it work with some more RAM a
 For computer programmers, especially if you're self-employed, there's no excuse whatsoever not to get the latest and greatest. You don't really have other expenses anyway, it's tax-deductible and, most importantly, it will make you happy and more productive if you know that you're using the best available tools.
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[campfire]: https://campfirenow.com/ "Web-based chat."
+[campfire]: https://basecamp.com/retired/campfire "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [clicky]: https://clicky.com/ "A web analytics web service."
-[freckle]: https://letsfreckle.com/ "A web service for time tracking."
+[freckle]: http://web.archive.org/web/20190318141651/https://letsfreckle.com/ "A web service for time tracking."
 [g500]: https://www.amazon.com/Logitech-G500-Programmable-Gaming-Mouse/dp/B002J9GDXI "A gaming mouse."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
@@ -65,7 +65,7 @@ For computer programmers, especially if you're self-employed, there's no excuse 
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [pingdom]: https://www.pingdom.com/ "An uptime and performance web service."
-[propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."
+[propane]: http://web.archive.org/web/20170610020904/http://propaneapp.com:80/ "A native Mac client for the Campfire chat service."
 [prototype]: http://prototypejs.org/ "A Javascript library."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
@@ -76,4 +76,4 @@ For computer programmers, especially if you're self-employed, there's no excuse 
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [textual]: https://www.codeux.com/textual/ "An IRC client for Mac OS X."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."

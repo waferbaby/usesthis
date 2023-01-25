@@ -57,7 +57,7 @@ I'm not sure that I have a "dream setup." I like what I have now, and I like bei
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[grammarly]: https://www.grammarly.com/ "A writing and grammar service."
+[grammarly]: http://web.archive.org/web/20221227052606/https://www.grammarly.com/ "A writing and grammar service."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-xs-max]: https://en.wikipedia.org/wiki/IPhone_XS "A 6.46 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

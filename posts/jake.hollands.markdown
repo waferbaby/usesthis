@@ -39,7 +39,7 @@ A simple MacBook Pro & Magic Mouse inside a large working space which discourage
 
 [agile-tasks-android]: https://play.google.com/store/apps/details?id=com.sauce.agile&hl=en "A task management app."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [git]: https://git-scm.com/ "A version control system."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
@@ -50,7 +50,7 @@ A simple MacBook Pro & Magic Mouse inside a large working space which discourage
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [not-a-hero]: http://www.notahe.ro "A video game about an assassin/political campaign manager."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [soundbooth]: https://en.wikipedia.org/wiki/Adobe_Soundbooth "Audio editing software."
 [spaceplan]: http://jhollands.co.uk/spaceplan/ "A web-based clicky game set in space."
 [tower]: https://www.git-tower.com/ "A Mac GUI for Git."

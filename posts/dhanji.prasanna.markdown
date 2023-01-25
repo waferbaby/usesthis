@@ -62,7 +62,7 @@ I guess most of what I'd like out of a dream setup is similar to what I have now
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jquery]: https://jquery.com/ "A Javascript framework."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."

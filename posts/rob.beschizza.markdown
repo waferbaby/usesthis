@@ -64,7 +64,7 @@ I look forward to the cochlea-radio, retina-projected future we've all been wait
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [php]: https://php.net/ "An interpreted scripting language."
 [reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
-[schism-tracker]: http://schismtracker.org/wiki/Schism%20Tracker "Audio creation software."
+[schism-tracker]: http://web.archive.org/web/20160323134133/http://schismtracker.org/wiki/Schism%20Tracker "Audio creation software."
 [stack-exchange]: https://stackexchange.com/ "A question and answer service."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
 [tinyhack]: https://boingboing.net/rob/tinyhack/ "A web-based rogue-like game."

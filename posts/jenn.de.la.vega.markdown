@@ -41,7 +41,7 @@ The dream is a kitchen studio with cameras in the fridge; really good track ligh
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
-[canva]: https://www.canva.com/ "Web-based design software."
+[canva]: http://web.archive.org/web/20221226232811/https://www.canva.com/ "Web-based design software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."

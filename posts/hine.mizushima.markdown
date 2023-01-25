@@ -54,4 +54,4 @@ And I wish I had more arms, like an octopus, so I could work faster!
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[super-low-tech-apple-watch]: https://www.hinemizushima.com/72050/6059931/felt-sculptures/(super-low-tech)-apple-watch "A felt watch."
+[super-low-tech-apple-watch]: http://web.archive.org/web/20160401180905/http://www.hinemizushima.com:80/72050/6059931/felt-sculptures/(super-low-tech)-apple-watch "A felt watch."

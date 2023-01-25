@@ -34,7 +34,7 @@ Well, first off, a more powerful computer with a current video card would be nic
 
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [core-i7-7700k]: https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."
-[eos-5d-mark-iv]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-5d-mark-iv "A 30.4 megapixel DSLR."
+[eos-5d-mark-iv]: http://web.archive.org/web/20170828020903/https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-5d-mark-iv "A 30.4 megapixel DSLR."
 [fdr-ax33]: https://www.sony.com/electronics/handycam-camcorders/fdr-ax33 "A 4K video camera."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

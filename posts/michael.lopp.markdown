@@ -50,7 +50,7 @@ I do a little dance when Steve Jobs successfully removes another wire from under
 
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cssedit]: https://www.macworld.com/article/1131901/cssedit26.html "A stylesheet editor for the Mac."
-[dividends-messenger]: https://www.overstock.com/Luggage-Bags/Johnston-Murphy-Dividends-Black-Nylon-Notebook-iPad-Mini-Messenger-Bag/7317634/product.html "A leather briefcase."
+[dividends-messenger]: http://web.archive.org/web/20190506091647/https://www.overstock.com/Luggage-Bags/Johnston-Murphy-Dividends-Black-Nylon-Notebook-iPad-Mini-Messenger-Bag/7317634/product.html "A leather briefcase."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
@@ -63,7 +63,7 @@ I do a little dance when Steve Jobs successfully removes another wire from under
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [performance-mouse-mx]: https://www.logitech.com/en-us/product/performance-mouse-mx "A wireless laser mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."

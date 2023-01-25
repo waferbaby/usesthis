@@ -51,7 +51,7 @@ To be honest, I'm pretty happy with the setup I have now. I just hope the tools 
 [aws-600-blk]: https://www.amazon.com/American-Weigh-Scales-AWS-600-BLK-Nutrition/dp/B000O37TDO/ "Kitchen scales."
 [baking-steel]: https://shop.bakingsteel.com/collections/steels/products/baking-steel "A steel sheet for baking pizza."
 [breadstorm-reader-ios]: https://itunes.apple.com/us/app/breadstorm-reader/id880900479 "A companion app for BreadStorm."
-[breadstorm]: http://www.breadstorm.com/ "Bread formulation software for the Mac."
+[breadstorm]: http://web.archive.org/web/20211129213749/http://www.breadstorm.com "Bread formulation software for the Mac."
 [classic-grain-mill]: https://pleasanthillgrain.com/komo-classic-grain-mill-flour-grinder-wood-stone "A flour grinder."
 [danish-dough-whisk]: https://breadtopia.com/store/danish-dough-whisk/ "A dough whisk."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

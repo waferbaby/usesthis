@@ -66,7 +66,7 @@ I hope that in the future more things will be wireless. I feel like I have lots 
 [ergodox-wrist-rest]: https://www.massdrop.com/buy/Noko-Leatherworks-ErgoDox-Wrist-Rest?mode=guest_open "A keyboard wrist rest."
 [ergodox]: https://www.ergodox.io/ "A buildable split ergonomic keyboard."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[henge-dock]: https://hengedocks.com/ "A hardware docking system for Mac laptops."
+[henge-dock]: http://web.archive.org/web/20211127001135/https://hengedocks.com/ "A hardware docking system for Mac laptops."
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

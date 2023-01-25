@@ -29,9 +29,9 @@ The software I use isn't necessarily the best there is. They're mainly old progr
 
 I'm fortunate enough to be able to turn my dreams into reality, so I have my own studio in my own house and whatever technology I feel would be useful. I'm something of a minimalist with it, though, so my office is very streamlined and tidy to keep my mind clear. My garage is where all the old laptops go to die! I try to keep them all just in case there's the occasional file that I wish I still had access to. I only have problems when I leave my bubble. I just wish countries like China had a truly free internet, as it's tiresome to navigate around everything being blocked or censored. It's one of the reasons I don't live there anymore.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
-[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[galaxy-s-ii]: http://web.archive.org/web/20160308072214/http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [model-x]: https://en.wikipedia.org/wiki/Tesla_Model_X "An electric car."
 [music-maker]: https://en.wikipedia.org/wiki/Magix_Music_Maker "A digital music editor."

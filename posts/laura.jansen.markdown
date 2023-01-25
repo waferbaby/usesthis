@@ -33,6 +33,6 @@ What's important is that you don't get impatient when something doesn't work, or
 
 My dream setup is to have my own big workshop, where I have all kind of machines I need to build amazing cosplays. A place where I can make dirt and noise and nobody would care about it. At the moment I make all my costumes in my tiny student flat, and as you can imagine, here there's not really much space for working. It would be so great if I could work in a big workshop with a team of other creative cosplayers, and work together on big challenges.
 
-[expert-variable-heat-hot-air-gun-kit]: https://www.drapertools.com/b2c/b2citmdsp.pgm?pp_skmno=14428 "A hot air gun."
-[kobracast-art]: https://www.mycostumes.de/KobraCast-Art_1 "A thermoplastic modelling material."
+[expert-variable-heat-hot-air-gun-kit]: http://web.archive.org/web/20140419050550/http://www.drapertools.com:80/b2c/b2citmdsp.pgm?pp_skmno=14428 "A hot air gun."
+[kobracast-art]: http://web.archive.org/web/20140915034104/http://www.mycostumes.de:80/KobraCast-Art_1 "A thermoplastic modelling material."
 [worblas-finest-art]: https://www.worbla.com/ "A thermoplastic modelling material."

@@ -80,5 +80,5 @@ I might eventually need a shed. Probably also a workbench with materials for exp
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[tina-time-lapse-android]: https://play.google.com/store/apps/details?id=com.tina.time_lapse "A timelapse photo app."
+[tina-time-lapse-android]: http://web.archive.org/web/20161119080431/https://play.google.com/store/apps/details?id=com.tina.time_lapse "A timelapse photo app."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

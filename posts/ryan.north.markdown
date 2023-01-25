@@ -51,7 +51,7 @@ The others are pretty routine: [Thunderbird][] for email, [Opera][]/[Chrome][]/[
 My dream setup is a super-powerful laptop with two monitors (one slides out from the other, both are full size) that has always-on worldwide cellular internet access that won't bankrupt me if I download a large file while in the States. Anyone who's in Canada can tell you that last element may take a while to ever come true. Actually if we're talking dreams, the laptop is so tiny it fits in my pocket and unfolds itself, Transformer-style, to full size. Also, it's a phone. And it can call THE FUTURE.
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [droid-3]: https://en.wikipedia.org/wiki/Droid_3 "An Android-based smartphone."
@@ -61,12 +61,12 @@ My dream setup is a super-powerful laptop with two monitors (one slides out from
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [lx-desk-mount-lcd-arm]: https://www.ergotron.com/Products/tabid/65/PRDID/351/language/en-CA/Default.aspx "An arm for LCD monitors."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[opera]: https://www.opera.com/ "A cross-platform web browser."
+[opera]: http://web.archive.org/web/20221227050003/https://www.opera.com/ "A cross-platform web browser."
 [performance-mouse-mx]: https://www.logitech.com/en-us/product/performance-mouse-mx "A wireless laser mouse."
 [pidgin]: http://www.pidgin.im/ "An open-source multi-protocol chat client."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [textpad]: https://www.textpad.com/ "A text editor for Windows."
-[thinkpad-t520]: http://shop.lenovo.com/us/laptops/thinkpad/t-series/t520 "A 15.2 inch PC laptop."
+[thinkpad-t520]: http://web.archive.org/web/20160330140302/http://shop.lenovo.com/us/laptops/thinkpad/t-series/t520 "A 15.2 inch PC laptop."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [ultramon]: http://www.realtimesoft.com/ultramon/ "A multi-monitor utility for Windows."
 [wifi-body-scale]: https://www.amazon.com/Withings-WiFi-Body-Scale-Black/dp/B002JE2PSA "A set of scales that can track your weight via your computer or smartphone."

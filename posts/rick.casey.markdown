@@ -59,7 +59,7 @@ I already have a pretty incredible setup that lets me get the job done. Improvin
 [dim]: https://destinyitemmanager.com/ "A tool for managing gear within Destiny 2."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [galaxy-note-8]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "A 6.3 inch Android phone."
-[grammarly]: https://www.grammarly.com/ "A writing and grammar service."
+[grammarly]: http://web.archive.org/web/20221227052606/https://www.grammarly.com/ "A writing and grammar service."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [iphone-12-pro-max]: https://en.wikipedia.org/wiki/IPhone_12_Pro "A 6.7 inch iOS phone."
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."

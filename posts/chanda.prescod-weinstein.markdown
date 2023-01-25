@@ -31,7 +31,7 @@ I wish my MacBook Pro would fold up somehow. Also, I think it should have a touc
 [cosmosis]: https://bitbucket.org/joezuntz/cosmosis/wiki/Home "Cosmological parameter estimation software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [goodreader-ios]: http://goodreader.com/ "A PDF reader for the iPad."
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [maglus-stylus]: http://maglusstylus.com/product.php/2/Maglus_Stylus_with_Removable_Tip_System "A stylus for mobile devices."

@@ -34,7 +34,7 @@ I'd like to know a lot more about hardware and graphics used to create clear and
 
 Specifically our industry could use an app which combines time code with  better voice recognition software so we could ask the computer to log interviews from raw video. Now voice recognition is amazing but crude compared to what it will become.
 
-[accurint]: http://accurint.com/ "A service for accessing public records."
+[accurint]: http://web.archive.org/web/20221221021128/https://accurint.com/ "A service for accessing public records."
 [courtsearch]: https://www.courtsearch.com/ "A service for searching court records."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."

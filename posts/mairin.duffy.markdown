@@ -56,14 +56,14 @@ One major problem with my current setup is the backup and synchronization of dat
 
 One final aspect I'd love in a dream setup is an always-on internet connection. Maybe a broadband card. It would be awesome if I could then automatically mount all of my files and access my systems.
 
-[agave]: http://home.gna.org/colorscheme/ "A colour scheme generation program for GNOME."
+[agave]: http://web.archive.org/web/20170502022928/http://home.gna.org:80/colorscheme/ "A colour scheme generation program for GNOME."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[canoscan-lide-30]: https://www.usa.canon.com/cusa/support/consumer/scanners/canoscan_series/canoscan_lide_30 "A USB flatbed scanner."
+[canoscan-lide-30]: http://web.archive.org/web/20151029085910/http://usa.canon.com:80/cusa/support/consumer/scanners/canoscan_series/canoscan_lide_30? "A USB flatbed scanner."
 [cellwriter]: http://risujin.org/cellwriter/ "Handwriting recognition software."
 [coccinella]: https://en.wikipedia.org/wiki/Coccinella_(software) "Free, open-source software for whiteboard collaboration."
 [cyber-shot-dsc-w120]: https://www.amazon.com/Sony-Cybershot-DSCW120-Digital-Optical/dp/B0011E4N5C "A 7 megapixel digital camera."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
-[ds]: https://www.nintendo.com/ds/ "A portable gaming console."
+[ds]: http://web.archive.org/web/20140510075212/http://www.nintendo.com/ds "A portable gaming console."
 [easyshare-dx6490]: https://www.amazon.com/Kodak-Easyshare-DX6490-Digital-10xOptical/dp/B000203PBY "A 4 megapixel digital camera."
 [ekiga]: https://www.ekiga.org/ "A VoIP and video conferencing app for GNOME."
 [evolution]: https://wiki.gnome.org/Apps/Evolution "An integrated mail, calendar and contact program for GNOME."

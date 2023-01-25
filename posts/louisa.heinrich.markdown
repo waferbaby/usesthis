@@ -63,5 +63,5 @@ I'd also love it if Apple would stop removing useful ports from the Macbooks - h
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
-[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."

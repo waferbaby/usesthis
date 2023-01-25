@@ -42,6 +42,6 @@ My office is pretty messy, but it's a place where I can focus and be productive.
 [mx-master-2]: https://support.logi.com/hc/en-us/articles/360023462393-MX-MASTER-2S-WIRELESS-MOUSE-Technical-Specifications "A wireless mouse."
 [netlify]: https://www.netlify.com/ "A service for hosting websites and web apps."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
-[quill]: https://quill.chat/ "A group messaging service."
-[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
+[quill]: http://web.archive.org/web/20221005034759/https://quill.chat// "A group messaging service."
+[ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [wob]: https://drop.com/buy/gmk-white-on-black-custom-keycap-set "Custom keycaps for mechanical keyboards."

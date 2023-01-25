@@ -51,7 +51,7 @@ I dream of an impossible chimera: a MacBook Air 17" with a Retina display.
 The big jump I have pending in terms of tools is to start using [Github][]. It's suitable to share code with clients and colleagues, but what I really want to do is to publish and open my framework. It's not something I can do now, though, because it's not completely stable yet and lacks comments, documentation and examples. But I'll do it!
 
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[delicious]: https://del.icio.us/ "A web service for storing and sharing bookmarks."
+[delicious]: http://web.archive.org/web/20221226101338/https://del.icio.us/ "A web service for storing and sharing bookmarks."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [fetch]: https://fetchsoftworks.com/ "An FTP/SFTP client for Mac OS X."

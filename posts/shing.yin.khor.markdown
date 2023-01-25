@@ -39,7 +39,7 @@ Most of the tools on the hardware list, none of the ones on the software list, a
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
-[imovie-ios]: https://apps.apple.com/us/app/imovie/id377298193 "A movie making app."
+[imovie-ios]: http://web.archive.org/web/20221226115941/https://apps.apple.com/us/app/imovie/id377298193 "A movie making app."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-11]: https://en.wikipedia.org/wiki/IPhone_11 "A 6.06 inch iOS smartphone."

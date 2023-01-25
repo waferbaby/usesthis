@@ -47,5 +47,5 @@ An even smaller, lighter, cooler, brighter laptop. Being able to profile AS3 wit
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [playbook]: https://en.wikipedia.org/wiki/BlackBerry_PlayBook "A BlackBerry tablet."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[subversion]: http://subversion.tigris.org/ "A version control system."
+[subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

@@ -102,7 +102,7 @@ I suppose I'm waiting for the new Mac Pro, but Apple's been passive aggressive a
 [spamsieve]: https://c-command.com/spamsieve/ "Bayesian spam filtering for Mac mail clients."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [teamviewer]: https://www.teamviewer.com/en/ "Remote access software."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [vuescan]: https://www.hamrick.com/ "Scanning software with support for a variety of scanners."
 [wd-red]: https://www.wdc.com/en/products/products.aspx?id=810 "A hard disk designed for NAS/RAID usage."
 [yonomi-ios]: https://itunes.apple.com/app/apple-store/id991840741 "An app for controlling smart devices."

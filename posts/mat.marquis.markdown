@@ -52,7 +52,7 @@ I'm relegated to an unheated two-car garage for all my woodworking and endless m
 At work, y'know, I'm doing just fine. "Have laptop, will travel." I am - at least, at work - pretty low-maintenance.
 
 [12-rounds-ios]: https://itunes.apple.com/us/app/12-rounds-boxing-timer-mma/id865732243 "A boxing timer app."
-[canvas]: https://usecanvas.com "A service for writing and sharing realtime Markdown documents."
+[canvas]: http://web.archive.org/web/20170712070154/https://usecanvas.com/ "A service for writing and sharing realtime Markdown documents."
 [classic-5.5-inch-santoku-knife]: https://www.amazon.com/Shun-Classic-Santoku-Knife-2-Inch/dp/B000QEGFR2 "A knife."
 [classic-8-inch-chefs-knife]: https://www.amazon.com/Shun-DM0706-Classic-8-Inch-Chefs/dp/B0000Y7KNQ "A knife."
 [d-8]: http://www.disstonianinstitute.com/d8page.html "A handsaw."

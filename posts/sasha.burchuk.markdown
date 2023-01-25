@@ -37,7 +37,7 @@ For moodboards I use [Dropmark][] because I can't stand the performance issues t
 
 In my dream setup I actually have time and money to build out my studio and all three of these facilities are under one roof, instead of being located in different parts of town! I'd say that I am very well set up to do what I do all things considered and I feel very fortunate.
 
-[autocad]: https://www.autodesk.com/products/autocad/overview "CAD software."
+[autocad]: http://web.archive.org/web/20221226023918/https://www.autodesk.com/products/autocad/overview "CAD software."
 [coreldraw]: https://en.wikipedia.org/wiki/CorelDRAW "A vector graphics editor."
 [dropmark]: https://www.dropmark.com/ "A file collaboration service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

@@ -46,7 +46,7 @@ And I still prefer [Safari][] to [Chrome][], because the Chrome UI is a goddamn 
 An incredibly big work table lined with bins full of LEGO, sorted by color and shape. What? You did say dream.
 
 [basecamp]: https://basecamp.com/ "Web-based project management."
-[campfire]: https://campfirenow.com/ "Web-based chat."
+[campfire]: https://basecamp.com/retired/campfire "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [editorially]: http://web.archive.org/web/20130806043131/https://editorially.com/ "A web-based collaborative text editor."
 [flint]: http://giantcomet.com/flint/mac/ "A Campfire client for the Mac."

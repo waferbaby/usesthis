@@ -34,7 +34,7 @@ I've been frustrated with software lately so I started [making my own drawing to
 
 It'd probably involve a VR headset, a water tank and a brain scanner. As I float in warm peace I think of colors and shapes and they appear before me, as I manipulate them into beautiful animated sculptures.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [giphy-capture]: https://giphy.com/apps/giphycapture "GIF creation software for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

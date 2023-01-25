@@ -33,7 +33,7 @@ I am pretty happy with my current setup. As someone who does detailed touch-ups 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [perfection-v700]: https://www.amazon.com/Epson-B11B178011-Perfection-Photo-Scanner/dp/B000EZY19W "A photo scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [stylus-pro-3800]: http://www.epson.com/cgi-bin/Store/support/supDetail.jsp?oid=79928 "A printer."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [twist-erase]: https://www.dickblick.com/products/pentel-twist-erase-pencil/ "A mechanical pencil."

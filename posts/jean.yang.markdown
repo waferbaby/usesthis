@@ -36,11 +36,11 @@ With current technologies I could go a long way towards computerlessness with a 
 
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[leechblock]: https://addons.mozilla.org/en-US/firefox/addon/leechblock/ "A Firefox extension for blocking chosen websites."
+[leechblock]: http://web.archive.org/web/20181128073643/https://addons.mozilla.org/en-US/firefox/addon/leechblock/ "A Firefox extension for blocking chosen websites."
 [notebook-a5]: https://postalco.net/products/20124_a5/ "A notebook."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
 [rescuetime]: https://www.rescuetime.com/ "A Web-based time tracking and productivity suite."
-[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
+[thinkpad-x220]: http://web.archive.org/web/20170206231919/http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [thinkpad-x230]: https://www.amazon.com/Thinkpad-Lenovo-Ultraportable-Notebook-x230/dp/B008A115NC "A 12.5 inch PC laptop."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."

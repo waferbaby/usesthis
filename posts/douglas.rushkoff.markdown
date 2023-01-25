@@ -39,7 +39,7 @@ I would also like a big window overlooking the Hudson River. We are very close t
 
 And something like an iPhone but with keys, and maybe running on [Python][].
 
-[104ab]: https://us.kef.com/explore-kef/kef-museum/1970s/104ab-kit-1979-81-cantata-kit-1978-79 "Old speakers."
+[104ab]: http://web.archive.org/web/20220707105649/https://us.kef.com/explore-kef/kef-museum/1970s/104ab-kit-1979-81-cantata-kit-1978-79 "Old speakers."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -62,7 +62,7 @@ And something like an iPhone but with keys, and maybe running on [Python][].
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [snowball]: http://bluemic.com/snowball/ "A USB microphone."
 [source-connect]: https://source-elements.com/products/source-connect "Software for real-time recording from anywhere in the world."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [u-47]: http://www.coutant.org/u47/index.html "An old condenser microphone."

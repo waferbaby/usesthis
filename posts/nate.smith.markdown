@@ -36,7 +36,7 @@ As far as my dream camera set up I am pretty happy with what I have. I mean I wo
 
 I guess my biggest dream would be if the 24-70 was about half as big and had Vibration Reduction on it. If you make that lens I'll give you 2,000 for it tomorrow. Until then I will stick with what I got...
 
-[70-200mm-ex-dg]: https://www.sigmaphoto.com/apo-70-200mm-f2-8-ex-dg-os-hsm "A telephoto zoom lens."
+[70-200mm-ex-dg]: http://web.archive.org/web/20220925080052/https://www.sigmaphoto.com/apo-70-200mm-f2-8-ex-dg-os-hsm "A telephoto zoom lens."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [af-s-nikkor-24-120mm-f3.5-5.6g-if-ed]: https://www.nikonusa.com/en/nikon-products/product/camera-lenses/af-s-vr-zoom-nikkor-24-120mm-f%252f3.5-5.6g-if-ed.html "A zoom lens."
 [af-s-nikkor-24-70mm-f2.8g-ed]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2164/AF-S-NIKKOR-24-70mm-f%252F2.8G-ED.html "A wide-angel zoom lens."

@@ -39,6 +39,6 @@ The truth is though, in an ideal (not pandemic) world, you'd probably find me at
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[temi]: https://www.temi.com/ "A speech to text transcription service."
+[temi]: http://web.archive.org/web/20221221004114/https://www.temi.com/ "A speech to text transcription service."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."

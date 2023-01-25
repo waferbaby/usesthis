@@ -37,4 +37,4 @@ My dream setup would be exactly what I have, PLUS some older hardware reverbs, a
 [pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [st-vincent]: https://www.music-man.com/instruments/guitars/st-vincent "An electric guitar."
-[voicelive-touch-2]: http://www.tc-helicon.com/en/products/voicelive-touch-2/ "An live voice effects audio device."
+[voicelive-touch-2]: http://web.archive.org/web/20180114093926/http://www.tc-helicon.com:80/en/products/voicelive-touch-2 "An live voice effects audio device."

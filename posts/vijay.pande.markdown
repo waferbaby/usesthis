@@ -37,10 +37,10 @@ Finally, I use the standard Mac tools for the rest, including its [address book]
 
 I'm waiting and dreaming of a 15" MacBook Air/Pro, i.e. a 15" MacBook Air style machine, but lots of RAM (at least 8GB) and a big drive (at least 512GB), connected to two 27" screens and a very fast RAID via Thunderbolt. That would allow me to have an amazing powerful machine that doesn't give me shoulder pain on the way back and forth from home to work.
 
-[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[address-book]: http://web.archive.org/web/20191014200329/https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[folding-at-home]: http://folding.stanford.edu/ "A distributed computing project for understanding protein folding."
+[folding-at-home]: http://web.archive.org/web/20210519085328/http://folding.stanford.edu/ "A distributed computing project for understanding protein folding."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."

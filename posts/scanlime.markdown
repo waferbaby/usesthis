@@ -64,7 +64,7 @@ I'd love a laptop that's faster and has more pixels. Perhaps a [MacBook Pro][mac
 
 Really I'd love to work from a cafe/warehouse/beach/desert, on battery power, with a server elsewhere running my giant render or compile.
 
-[1621a]: https://www.bkprecision.com/products/power-supplies/1621A-0-to-18v-0-to-5a-digital-display-dc-power-supply.html "A DC power supply."
+[1621a]: http://web.archive.org/web/20220923142045/https://www.bkprecision.com/products/power-supplies/1621A-0-to-18v-0-to-5a-digital-display-dc-power-supply.html "A DC power supply."
 [179]: https://www.fluke.com/en-us/products/digital-multimeters/fluke-179-digital-multimeter.html "A digital multimeter."
 [850b]: https://www.amazon.com/850B-SMT-REWORK-STATION-SOLDER/dp/B000E14FJW "A soldering station."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."

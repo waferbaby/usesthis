@@ -26,7 +26,7 @@ To be honest, I'm not sure I have a dream setup at the moment... the setup I hav
 [jsx-head]: https://www.ultimate-guitar.com/reviews/guitar_amplifiers/peavey/jsx_joe_satriani_signature_head/index.html "A guitar amp."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [md-421-ii]: https://en-us.sennheiser.com/recording-microphone-broadcasting-applications-md-421-ii "A microphone."
-[rg-premium-927]: https://en.wikipedia.org/wiki/RG_Premium "An electric guitar."
+[rg-premium-927]: http://web.archive.org/web/20161203043150/https://en.wikipedia.org/wiki/RG_Premium "An electric guitar."
 [rg-prestige-1527m]: https://en.wikipedia.org/wiki/Ibanez_RG_Prestige "An electric guitar."
 [rg-prestige-2727fz]: https://en.wikipedia.org/wiki/Ibanez_RG_Prestige "An electric guitar."
 [rokit-8]: https://www.amazon.com/KRK-RP8G3-NA-Generation-Powered-Monitor/dp/B00FXBIG1G/ "A pair of powered speakers."

@@ -35,7 +35,7 @@ My dream setup? I would like to have the Minority Report computer with the wonde
 [facebook]: https://www.facebook.com/ "A social networking site."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [g62-225dx]: http://h10025.www1.hp.com/ewfrf/wc/product?cc=us&lc=en&dlc=en&product=4221405 "A 15.6 inch PC laptop."
-[galaxy-s-ii]: https://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
+[galaxy-s-ii]: http://web.archive.org/web/20160308072214/http://www.samsung.com/global/microsite/galaxys2/html/ "A smartphone."
 [icd-sx750]: https://www.amazon.com/Sony-ICD-SX750-Memory-Digital-Recorder/dp/B00387E5D0 "A digital voice recorder."
 [natural-ergonomic-keyboard-4000]: http://www.microsoft.com/hardware/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [replay-telecorder]: https://applian.com/replay-telecorder/ "Windows software to record Skype calls."

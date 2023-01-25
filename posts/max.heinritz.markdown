@@ -62,7 +62,7 @@ Ideally this place would be isolated in the middle of the forest with lots of wi
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [expo]: https://expo.io/ "A toolchain for React Native."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
-[fusion-360]: https://www.autodesk.com/products/fusion-360/overview "Cloud-based CAD/CAM software."
+[fusion-360]: http://web.archive.org/web/20221224070522/https://www.autodesk.com/products/fusion-360/overview "Cloud-based CAD/CAM software."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [git]: https://git-scm.com/ "A version control system."
 [github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."

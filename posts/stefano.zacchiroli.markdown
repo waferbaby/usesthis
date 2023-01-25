@@ -71,7 +71,7 @@ As a citizen of a [fairly accent-full country](http://en.wikipedia.org/wiki/Fran
 [ikiwiki]: http://ikiwiki.info/ "A wiki tool based around a revision control system."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [ledger]: https://ledger-cli.org/ "A command-line accounting system."
-[model-s-ultimate]: https://shop.daskeyboard.com/products/das-keyboard-ultimate-model-s "A USB keyboard with mechanical clicks."
+[model-s-ultimate]: http://web.archive.org/web/20170508162607/https://shop.daskeyboard.com/products/das-keyboard-ultimate-model-s "A USB keyboard with mechanical clicks."
 [mosh]: https://mosh.org/ "A remote terminal shell system."
 [mutt]: http://www.mutt.org/ "A command-line email client."
 [notmuch-mutt]: https://notmuchmail.org/notmuch-mutt/ "A tool for using Notmuch with Mutt."

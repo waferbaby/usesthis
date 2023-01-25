@@ -53,5 +53,5 @@ If there was a gun to my head and cash on the table, I could easily throw a hund
 [pico-8]: https://www.lexaloffle.com/pico-8.php "A software gaming console."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."

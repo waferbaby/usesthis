@@ -43,5 +43,5 @@ When I get super rich, I'm going to demand [Optimal Sleeping and Working Arrange
 [usb-snes-classic-controller]: https://www.amazon.com/Nintendo-Retrolink-Super-Classic-Controller-NES/dp/B002824SNS "What it says on the label."
 [vita]: https://www.playstation.com/en-us/explore/psvita/ "A portable gaming console."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
-[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."

@@ -76,7 +76,7 @@ My dream setup also involves a version of Photoshop that can handle a 10,000 lay
 [street-fighter-iv-fightstick-tournament-edition]: https://www.amazon.com/Fighter-FightStick-Tournament-Edition-Playstation-3/dp/B001M22WN8 "A fighting game controller for the XBox 360."
 [super-puzzle-fighter-ii-turbo-hd-remix]: https://www.giantbomb.com/super-puzzle-fighter-ii-turbo-hd-remix/3030-5845/ "A remixed puzzle game."
 [super-street-fighter-ii-turbo-hd-remix]: https://en.wikipedia.org/wiki/Super_Street_Fighter_II_Turbo_HD_Remix "A remixed fighting game."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [yomi]: http://www.sirlingames.com/pages/yomi "A fighting card game."

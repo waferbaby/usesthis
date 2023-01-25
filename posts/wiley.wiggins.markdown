@@ -31,7 +31,7 @@ A new headless [Mac Pro][mac-pro], maxed out with RAM and a big rack-mounted dis
 
 I wouldn't waste money on a crazy camera package for shooting video - no RED's or anything, just a decent digital SLR that shoots good HD video. I'd get one of those ridiculous [Wacom Cintiq][cintiq] display tablets, which would probably be used with the Macbook as a host. Then I'd recycle my old iMac into a cocktail arcade cabinet with a case kit from Dream Arcades and spend the next month painting happy little people on it, celebrating all my imaginary money, until this embarrassment of riches attracts attention and someone crowbars my door down, takes all my computer stuff and leaves me with a bullet in the back of the head.
 
-[axiom-25]: https://m-audio.com/products/en_us/Axiom25.html "A USB MIDI controller."
+[axiom-25]: http://web.archive.org/web/20140729045928/http://www.m-audio.com:80/products/en_us/Axiom25.html "A USB MIDI controller."
 [blogsy-ios]: https://www.macstories.net/reviews/blogsy-a-better-blogging-app-for-ipad/ "A blog-posting app for iOS."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
@@ -41,7 +41,7 @@ I wouldn't waste money on a crazy camera package for shooting video - no RED's o
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
-[iteleport-ios]: https://www.iteleportmobile.com/ "An iOS remote-control app for other computers."
+[iteleport-ios]: http://web.archive.org/web/20190612064413/https://www.iteleportmobile.com/ "An iOS remote-control app for other computers."
 [logic-studio]: https://en.wikipedia.org/wiki/Logic_Studio "A collection of software for creating and editing audio."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
@@ -54,4 +54,4 @@ I wouldn't waste money on a crazy camera package for shooting video - no RED's o
 [toon-boom-studio]: https://www.toonboom.com/products/toon-boom-studio "A 2D animation software package."
 [vdmx]: https://vidvox.net/ "Real-time video studio software for the Mac."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
-[zwoptex]: https://zwopple.com/zwoptex/ "A 2D sprite-packing tool."
+[zwoptex]: http://web.archive.org/web/20200919130507/https://zwopple.com/zwoptex/ "A 2D sprite-packing tool."

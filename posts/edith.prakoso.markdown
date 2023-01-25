@@ -33,13 +33,13 @@ There are times when I would play around with 3D programs such as [SketchUp][] o
 I'm pretty happy with my setup, but would ideally like a bigger space where I can have a small photography studio and a space to do hand-drawn illustrations or paintings and to just make random stuff. And a CNC router would be great too.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[dp2s]: http://sigma-dp.com/DP2s/main.html "A 14.06 megapixel digital camera."
+[dp2s]: http://web.archive.org/web/20200118073726/http://www.sigma-dp.com:80/DP2s/main.html "A 14.06 megapixel digital camera."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [illustrator-draw-ios]: https://itunes.apple.com/au/app/adobe-illustrator-draw-scalable/id911156590 "A vector drawing app."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [iornament-ios]: http://www.science-to-touch.com/en/iOrnament.html "An app for drawing geometric art."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

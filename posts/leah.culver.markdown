@@ -63,7 +63,7 @@ In the more near future, I'd like to be able to develop iPhone apps directly on 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [path-ios]: https://itunes.apple.com/us/app/path/id403639508 "An iOS app for sharing photos with a small group of friends."
 [plancast-ios]: https://itunes.apple.com/us/app/plancast/id360854454 "An iOS app for sharing your events with friends."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [taxi-magic-ios]: https://itunes.apple.com/us/app/taxi-magic/id299226386 "A taxi booking app for iOS."

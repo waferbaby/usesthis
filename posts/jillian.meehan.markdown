@@ -43,7 +43,7 @@ I feel like I'm just about there, but if there was a way to magically prevent my
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [jour-ios]: https://apps.apple.com/us/app/jour-daily-self-care-journal/id1439590239 "A daily journaling app."
-[kiyo-pro]: https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 "A USB webcam."
+[kiyo-pro]: http://web.archive.org/web/20221212234624/https://www.razer.com/streaming-cameras/razer-kiyo-pro/RZ19-03640100-R3U1 "A USB webcam."
 [linear]: https://linear.app/ "An issue tracking service."
 [live-gamer-mini]: https://www.avermedia.com/us/product-detail/GC311 "A video capture device."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

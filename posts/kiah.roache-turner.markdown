@@ -33,9 +33,9 @@ Having said that, the one possible exception is probably editing - I truly love 
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [eos-1d]: https://en.wikipedia.org/wiki/Canon_EOS-1D "A 4 megapixel DSLR."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [eos-5d]: https://en.wikipedia.org/wiki/Canon_EOS_5D "A 12 megapixel DSLR."
-[eos-c300]: https://www.usa.canon.com/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
+[eos-c300]: http://web.archive.org/web/20151012154859/http://www.usa.canon.com:80/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
 [epic]: https://www.red.com/products/epic/ "A high-end 4k digital video camera."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."

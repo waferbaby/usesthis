@@ -77,7 +77,7 @@ My dream set up on a bike is probably a top of the range S-Works or Canyon frame
 [sourcetree]: https://www.sourcetreeapp.com/ "A Mac GUI client for Git, Subversion and Mercurial."
 [steam-link]: https://en.wikipedia.org/wiki/Steam_Link "A device for streaming Steam games to a TV."
 [surface-pro]: http://www.microsoft.com/surface/en-us/support/browse/surface-windows-8-pro "A tablet/laptop hybrid."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [trainingpeaks]: http://www.trainingpeaks.com "A training and workout tracking service."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

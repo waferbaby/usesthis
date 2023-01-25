@@ -58,7 +58,7 @@ I probably will not have written the history book though.
 [scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
 [sed]: http://www.gnu.org/software/sed/ "Text filtering software."
 [spacemacs]: https://duckduckgo.com/?q=spacemacs&t=osx&ia=software "A distribution of emacs."
-[tcsh]: https://www.tcsh.org/Welcome "A command-line shell."
+[tcsh]: http://web.archive.org/web/20170618044928/http://www.tcsh.org:80/Welcome "A command-line shell."
 [thinkpad-t480]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T480/p/22TP2TT4800 "A 14 inch PC laptop."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [void]: https://voidlinux.org/ "A Linux distribution."

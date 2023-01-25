@@ -25,7 +25,7 @@ Many years ago I bought a license for [Sublime Text 3][sublime-text] and have be
 
 I think I am very privileged to say that I already have my dream setup. Some of the hardware is from before Mastodon, some is quite old, but most of the fancy things came together quite recently around Christmas, and I couldn't be happier about it.
 
-[c24f390fhu]: https://www.samsung.com/uk/business/business-monitors/curved-lc24f390fhuxen/lc24f390fhuxen/ "A 24 inch curved monitor."
+[c24f390fhu]: http://web.archive.org/web/20220814092119/https://www.samsung.com/uk/business/business-monitors/curved-lc24f390fhuxen/lc24f390fhuxen/ "A 24 inch curved monitor."
 [core-i7-4790]: https://ark.intel.com/products/80806/ "A computer processor."
 [e205]: https://www.thomannmusic.com/superlux_e205.htm "A condenser microphone."
 [geforce-gtx-760]: https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-760 "A graphics card."

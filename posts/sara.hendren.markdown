@@ -43,7 +43,7 @@ I've been eyeing this [Punkt dumb phone][mp01] for years, but what I want is thi
 
 [audm]: https://www.audm.com/ "An audio story service."
 [bullet-journal]: https://bulletjournal.com/ "An organisational notebook."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
 [liliput]: https://www.jetpens.com/Kaweco-Liliput-Fountain-Pen-Eco-Brass-Extra-Fine-Nib/pd/13696 "A fountain pen."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
@@ -51,7 +51,7 @@ I've been eyeing this [Punkt dumb phone][mp01] for years, but what I want is thi
 [mp01]: https://www.punkt.ch/en/products/mp01-mobile-phone/ "A mobile phone just for calls and texting."
 [newsblur]: http://www.newsblur.com/ "An online feed reader."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
-[reading]: https://www.reading.am/ "A service to keep track of what you're reading online."
+[reading]: http://web.archive.org/web/20220701003848/https://www.reading.am/ "A service to keep track of what you're reading online."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [spokenlayer]: https://www.spokenlayer.com/ "An audio distribution and analytics platform."

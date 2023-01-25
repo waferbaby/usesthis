@@ -51,5 +51,5 @@ In my terms, the dream setup is a highly motivated group of people, each being a
 [rocket.chat]: https://rocket.chat/ "An open source web-based group chat system."
 [slack]: https://slack.com/ "A collaboration service."
 [solidworks]: https://www.3ds.com/products-services/solidworks/ "Modelling/CAD software."
-[troublemaker]: http://goodenoughcnc.eu/troublemaker-3d-printer/ "An open source, DIY 3D printer."
+[troublemaker]: http://web.archive.org/web/20160503130542/http://goodenoughcnc.eu:80/troublemaker-3d-printer/ "An open source, DIY 3D printer."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

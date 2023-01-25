@@ -43,7 +43,7 @@ And not working at all: in our backyard L.L. Bean hammock, just out of the range
 
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[focus-keeper-ios]: https://apps.apple.com/au/app/focus-keeper-time-management/id867374917 "A time tracking app."
+[focus-keeper-ios]: http://web.archive.org/web/20220818045454/https://apps.apple.com/au/app/focus-keeper-time-management/id867374917 "A time tracking app."
 [freedom-ios]: https://apps.apple.com/au/app/freedom-block-distractions/id1269788228 "An app to block distracting websites."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."

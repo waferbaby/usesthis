@@ -54,7 +54,7 @@ I am not a very "techie" person other than talking about instrumentation, but I 
 [navitrak]: https://immunalysis.com/systems/software/ "Software for tracking toxicology samples."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
 [quantum-access-max-triple-stage-quadrupole-mass-spectrometer]: http://www.thermoscientific.com/content/tfs/en/product/tsq-quantum-access-max-triple-quadrupole-mass-spectrometer.html "A triple stage mass spectrometer."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [totalchrom]: https://www.perkinelmer.com/Catalog/Product/ID/TCCS0000 "Chromatography data management software."
 [ts-212]: http://www.qnap.com/useng/index.php?sn=862&c=355&sc=688&t=696&n=3881 "A two-bay NAS server."
 [turbomatrix-hs-clarus-gc]: https://www.perkinelmer.com/Catalog/Product/ID/BAANALYSIS "A blood-alcohol analysis machine."

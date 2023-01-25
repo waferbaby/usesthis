@@ -30,7 +30,7 @@ I have no dream setup because my technical skills are non-existent. Basically I 
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [microphone-pro-ios]: https://itunes.apple.com/us/app/microphone-pro/id389797225 "A multi-function microphone app."
 [office]: https://products.office.com/en-us/home "An office productivity suite."
-[paramount]: https://shop.fender.com/en-US/paramount-series "An acoustic guitar."
+[paramount]: http://web.archive.org/web/20190506094918/https://shop.fender.com/en-US/paramount-series "An acoustic guitar."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."

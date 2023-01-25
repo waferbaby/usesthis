@@ -65,5 +65,5 @@ While I'm dreaming, the situation with smartphones is much worse. How about a fu
 [pop-os]: https://pop.system76.com/ "A Linux-based operating system."
 [raspberry-pi-zero]: https://www.raspberrypi.org/blog/raspberry-pi-zero/ "A tiny hackable computer."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultimate64]: https://www.ultimate64.com/ "A modern take on the Commodore 64."
+[ultimate64]: http://web.archive.org/web/20221207174113/https://ultimate64.com/ "A modern take on the Commodore 64."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

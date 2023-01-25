@@ -48,6 +48,6 @@ I would also like a huge desktop monitor, because who wouldn't love a huge deskt
 [rescuetime]: https://www.rescuetime.com/ "A Web-based time tracking and productivity suite."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."

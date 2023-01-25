@@ -57,5 +57,5 @@ Anyways, that's my ideal setup. Basically a hive for play and creativity with ev
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [power-glove]: https://en.wikipedia.org/wiki/Power_Glove "A glove-based controller for the NES."

@@ -31,7 +31,7 @@ I use [Wunderlist][] for basic to-dos, [Trello][] to organize my projects, and I
 
 All of the above, plus an app that lets me add notes and comments to the photos in my camera roll, plus a full-time human research assistant, who also reminds me to bring my headphones when I travel, so I don't end up dropping hundreds of dollars at an airport vending machine ever, ever again.
 
-[ampprong-plus]: https://mycharge.com/products/ampprong-1 "A portable phone battery charger."
+[ampprong-plus]: http://web.archive.org/web/20190506065324/https://mycharge.com/products/ampprong-1 "A portable phone battery charger."
 [echo.3]: https://en.wikipedia.org/wiki/Amazon_Echo "A smart speaker."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
@@ -50,5 +50,5 @@ All of the above, plus an app that lets me add notes and comments to the photos 
 [tapeacall-pro-ios]: https://itunes.apple.com/us/app/tapeacall-pro-record-calls/id577499909 "An app for recording phone calls."
 [trello]: https://trello.com/ "A project management service."
 [word]: https://products.office.com/en-us/word "A document editor."
-[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [zoom.2]: https://zoom.us "Video conferencing software."

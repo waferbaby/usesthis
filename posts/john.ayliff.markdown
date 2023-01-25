@@ -37,7 +37,7 @@ Honestly the setup I have is already more powerful than I need to make Twine gam
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[inspiron-3552]: https://www.cnet.com/products/dell-inspiron-3552-15-6-pentium-n3700-4-gb-ram-500-gb-hdd-english/ "A 15 inch PC laptop."
+[inspiron-3552]: http://web.archive.org/web/20190506063340/https://www.cnet.com/products/dell-inspiron-3552-15-6-pentium-n3700-4-gb-ram-500-gb-hdd-english/ "A 15 inch PC laptop."
 [lastpass]: https://lastpass.com/ "A password manager."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."

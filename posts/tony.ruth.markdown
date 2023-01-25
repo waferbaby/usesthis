@@ -52,7 +52,7 @@ Basically I want what I have now but much simpler, in one thin screen, totally p
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [power-mac-g5]: https://en.wikipedia.org/wiki/Power_Mac_G5 "A desktop Mac with an IBM PowerPC G5 CPU."
-[powermate]: https://store.griffintechnology.com/powermate "A USB multimedia controller."
+[powermate]: http://web.archive.org/web/20150804025129/https://store.griffintechnology.com/powermate "A USB multimedia controller."
 [powershot-g10]: https://www.usa.canon.com/cusa/support/consumer/digital_cameras/powershot_pro_series/powershot_g10 "A 14.7 megapixel camera."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."

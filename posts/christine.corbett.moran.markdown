@@ -34,7 +34,7 @@ I'm a huge fan of [AntiRSI][], which reminds me to take breaks and stretch and r
 My laptop is really more of a desktop. It doesn't leave my room. So I'd love to get one of the fancy Mac desktops, with tons of RAM and SSD space, and a few Apple monitors, and setup a full music studio. I'd also love to upgrade my big iPad at some point to one of the newer, lighter models. My ultimate dream would be some sort of headsup display of the future!
 
 [airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
-[antirsi]: https://apps.apple.com/us/app/antirsi/id442007571 "A Mac application that forces you to take breaks to rest your wrists."
+[antirsi]: http://web.archive.org/web/20220917065110/https://apps.apple.com/us/app/antirsi/id442007571 "A Mac application that forces you to take breaks to rest your wrists."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [python]: https://www.python.org/ "An interpreted scripting language."

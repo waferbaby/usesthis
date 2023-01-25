@@ -84,5 +84,5 @@ On second thought, what I described is actually just our real office, which I ha
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."
-[vz-r]: https://www.ipevo.com/products/vz-r "A document and book scanner."
+[vz-r]: http://web.archive.org/web/20220629124236/https://www.ipevo.com/products/vz-r "A document and book scanner."
 [wgcna]: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559 "An R package for weighted correlation network analysis."

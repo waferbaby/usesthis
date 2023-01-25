@@ -64,7 +64,7 @@ It is missing a [Leica M9][m9] and proper PrimeSense camera at the moment, thoug
 [iclone-for-eve-online-ios]: https://itunes.apple.com/us/app/iclone-for-eve-online/id290325094 "A utility app for the MMO."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
-[kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
+[kinect]: http://web.archive.org/web/20141020163539/http://www.xbox.com:80/en-US/Kinect "An adapter for the Xbox that uses your body as a controller."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [llvm]: http://llvm.org/ "A C/C++/Objective-C compiler."
 [m9]: https://en.wikipedia.org/wiki/Leica_M9 "An 18.5 megapixel digital camera with a full-frame sensor."

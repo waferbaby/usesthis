@@ -52,7 +52,7 @@ Someday, I dream of having a 15 barrel system with fancy manifolds, a packaging 
 On the computer side of things I'd love to bump this thing up to 8 GB of RAM and a 500 GB SSD, while cutting the weight down like three pounds.
 
 [30mm-f1.4-ex-dc-hsm]: https://www.sigmaphoto.com/30mm-f14-ex-dc-hsm "A camera lens."
-[beeralchemy]: https://www.beeralchemyapp.com/beeralchemy.shtml "Beer brewing calculation software."
+[beeralchemy]: http://web.archive.org/web/20190506065236/https://www.beeralchemyapp.com/beeralchemy.shtml "Beer brewing calculation software."
 [beertools-pro]: https://www.beertools.com/ "Beer brewing calculation software."
 [calcbot-ios]: https://tapbots.com/calcbot/ "A calculator app for the iPhone."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -61,7 +61,7 @@ On the computer side of things I'd love to bump this thing up to 8 GB of RAM and
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
-[gimme-bar]: https://gimmebar.com/ "A web service for storing collections of things from the web."
+[gimme-bar]: http://web.archive.org/web/20180518235129/https://gimmebar.com/ "A web service for storing collections of things from the web."
 [ia-writer-ios]: https://itunes.apple.com/us/app/ia-writer/id392502056 "A focus-oriented writing application for iOS."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."

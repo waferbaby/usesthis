@@ -67,7 +67,7 @@ But I still wish Apple would make a laptop for video professionals. 2TB storage.
 [fit-console]: http://www.anthro.com/products/fit-console "A curved sitting/standing desk."
 [freedom.2]: https://www.humanscale.com/products/product_detail.cfm?group=FreedomTaskChairWithHeadrest "A chair."
 [g-raid-thunderbolt]: https://www.g-technology.com/products/g-raid-thunderbolt-mac-and-pc "A dual-drive RAID Thunderbolt storage system."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [lx-dual-stacking-arm]: https://www.ergotron.com/ProductsDetails/tabid/65/PRDID/355/language/en-US/Default.aspx "An arm for two LCD monitors."

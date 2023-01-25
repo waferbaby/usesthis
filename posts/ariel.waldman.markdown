@@ -51,6 +51,6 @@ More robots! An [Iron Man 2-like setup](http://motionographer.com/features/prolo
 [pro-tt2]: http://en.wikipedia.org/wiki/Numark_Pro_TT-2 "A direct-drive turntable/."
 [simplegtd]: https://simplegtd.sinaapp.com/i/welcome/ "A GTD-style to do list service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [torch-9800]: https://en.wikipedia.org/wiki/BlackBerry_Torch_9800 "A smartphone."
 [twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."

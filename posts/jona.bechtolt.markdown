@@ -50,7 +50,7 @@ Thank you for asking!
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[mda-vst]: http://mda.smartelectronix.com/ "A collection of open source VST/AU plugins."
+[mda-vst]: http://web.archive.org/web/20220522074227/http://mda.smartelectronix.com/ "A collection of open source VST/AU plugins."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [peak]: https://www.pcworld.com/article/157969/article.html "A music creation and editing tool."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -37,4 +37,4 @@ The biggest piece of hardware I use is my restaurant, and this one is so much bi
 [opentable]: https://www.opentable.com/start/home "A restaurant reservation service."
 [quickbooks]: https://quickbooks.intuit.com/ "Business accounting software for Windows."
 [shopify]: https://www.shopify.com/ "A service for selling goods online."
-[webhook]: http://www.webhook.com/ "An open source hosted CMS."
+[webhook]: http://web.archive.org/web/20190611141732/http://www.webhook.com:80/ "An open source hosted CMS."

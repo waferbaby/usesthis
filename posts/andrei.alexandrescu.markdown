@@ -67,7 +67,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[goo.gl-url-shortener]: https://chrome.google.com/webstore/detail/googl-url-shortener/iblijlcdoidgdpfknkckljiocdbnlagk "A Chrome extension to shorten URLs with the goo.gl service."
+[goo.gl-url-shortener]: http://web.archive.org/web/20161012100443/https://chrome.google.com/webstore/detail/googl-url-shortener/iblijlcdoidgdpfknkckljiocdbnlagk "A Chrome extension to shorten URLs with the goo.gl service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hd-280-pro]: https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB "Closed stereo headphones."
 [hive]: http://hive.apache.org/ "A tool for working with Hadoop systems."

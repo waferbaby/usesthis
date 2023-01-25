@@ -28,7 +28,7 @@ Honestly I'm pretty happy with what I've got! As we go forward I wouldn't mind u
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [gone-home]: https://gonehome.game/ "A story exploration video game."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

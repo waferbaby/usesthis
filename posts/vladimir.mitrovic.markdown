@@ -54,7 +54,7 @@ That said, in the coming months I would like to find a comfortable studio space 
 [fork]: https://git-fork.com/ "A Git client."
 [geforce-gt-750m]: https://www.geforce.com/hardware/notebook-gpus/geforce-gt-750m "A GPU for laptops."
 [git]: https://git-scm.com/ "A version control system."
-[happy-hacking-keyboard-professional-type-s]: https://hhkeyboard.us/happyhacking/ "A mechanical keyboard."
+[happy-hacking-keyboard-professional-type-s]: http://web.archive.org/web/20210805082753/https://hhkeyboard.us/happyhacking/ "A mechanical keyboard."
 [he-4xx]: https://drop.com/buy/massdrop-x-hifiman-he4xx-planar-magnetic-headphones#overview "On-ear headphones."
 [imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."

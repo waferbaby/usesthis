@@ -48,7 +48,7 @@ The only thing I really covet right now is a fibre-channel SAN for my house. But
 *  \*\* - See, Rich? I not only eat your Mac 'n Cheese, I eat your dog food, too!
 
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
-[axiom-49]: https://m-audio.com/products/en_us/Axiom49.html "A 49-key USB-based MIDI controller."
+[axiom-49]: http://web.archive.org/web/20140729045933/http://www.m-audio.com:80/products/en_us/Axiom49.html "A 49-key USB-based MIDI controller."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [expandrive]: https://www.expandrive.com/ "Software that makes remote servers appear as local disks."
@@ -84,6 +84,6 @@ The only thing I really covet right now is a fibre-channel SAN for my house. But
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [visualhub]: http://www.techspansion.com/ "Popular (but discontinued) video conversion software."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [voyager-q]: https://www.newertech.com/products/voyagerq.php "A hard drive docking system."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."

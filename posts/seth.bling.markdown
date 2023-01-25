@@ -49,6 +49,6 @@ I'm generally pretty happy with my current setup. I always wondered what it woul
 [twitch]: https://www.twitch.tv/ "A video broadcasting service."
 [vegas-movie-studio]: https://en.wikipedia.org/wiki/Sony_Vegas_Movie_Studio "Video editing software."
 [wii-u]: https://www.nintendo.com/wiiu "A unique gaming console."
-[xcapture-1]: https://solarisjapan.com/products/xcapture-1-usb-3-0-hd-capture-unit "A USB-based video capture device."
-[xrgb-mini-framemeister]: https://solarisjapan.com/products/xrgb-mini-framemeister-compact-up-scaler-unit "A device for upscaling video sources."
+[xcapture-1]: http://web.archive.org/web/20211206021315/https://solarisjapan.com/products/xcapture-1-usb-3-0-hd-capture-unit "A USB-based video capture device."
+[xrgb-mini-framemeister]: http://web.archive.org/web/20211127090349/https://solarisjapan.com/products/xrgb-mini-framemeister-compact-up-scaler-unit "A device for upscaling video sources."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."

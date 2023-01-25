@@ -88,7 +88,7 @@ Other than that, I think I might like a better keyboard. I've never thought anyt
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."

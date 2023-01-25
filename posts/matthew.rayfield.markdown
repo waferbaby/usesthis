@@ -78,7 +78,7 @@ I'd do it, but it seems like a lot of work and I've got too many emoji and popup
 [geforce-rtx-2080-ti]: https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2080-ti/ "A graphics card."
 [git]: https://git-scm.com/ "A version control system."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keepassxc]: https://keepassxc.org/ "An open source password manager."

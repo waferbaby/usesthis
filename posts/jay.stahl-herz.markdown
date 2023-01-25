@@ -39,7 +39,7 @@ I think it would be entirely possible to roll all the disparate bits of software
 I'd also like to use [OS X][macos] and [LibreOffice][] at work but you can always dream.
 
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[copathplus]: https://store.cerner.com/items/311 "Pathology lab software."
+[copathplus]: http://web.archive.org/web/20101211160220/https://store.cerner.com/items/311 "Pathology lab software."
 [digital-evidence-manager]: http://www.veripic.com/?go=demanager "A platform for managing evidence for law enforcement."
 [endnote]: https://endnote.com/ "Reference and bibliography software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."

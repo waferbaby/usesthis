@@ -28,7 +28,7 @@ An ergonomic & spacious desk with a slightly more powerful laptop with long-last
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [krita]: https://krita.org/ "An open-source image editor."
 [lua]: http://www.lua.org/ "An interpreted scripting language."
-[multimedia-fusion]: https://www.clickteam.com/multimedia-fusion-2 "Game and multimedia creation software."
+[multimedia-fusion]: http://web.archive.org/web/20221124164510/https://www.clickteam.com/multimedia-fusion-2 "Game and multimedia creation software."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [openmpt]: https://openmpt.org/ "Audio creation software."
 [sonatina-symphonic-orchestra]: https://github.com/peastman/sso "A library of sampled orchestral instruments."

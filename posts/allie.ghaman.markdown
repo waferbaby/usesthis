@@ -37,7 +37,7 @@ Ideally, being able to run solely on my Mac would be nice, but it's not ideal wi
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
-[lp2475w]: http://h10010.www1.hp.com/wwpc/us/en/sm/WF10a/382087-382087-64283-72270-3884471-3648442.html "A 24 inch LCD monitor."
+[lp2475w]: http://web.archive.org/web/20140419021437/http://h10010.www1.hp.com:80/wwpc/us/en/sm/WF10a/382087-382087-64283-72270-3884471-3648442.html "A 24 inch LCD monitor."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [methode]: https://www.eidosmedia.com/platform/ "A content management system used by newspapers."

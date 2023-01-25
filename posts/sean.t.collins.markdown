@@ -40,7 +40,7 @@ Unlimited shelf space! Man, that is an easy, easy question to answer. I want to 
 [ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [movable-type]: https://movabletype.org/ "Weblog publishing software."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [word]: https://products.office.com/en-us/word "A document editor."

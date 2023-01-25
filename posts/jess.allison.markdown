@@ -96,7 +96,7 @@ Stopping to think about my dream setup just made me realise how achievable it is
 [slack]: https://slack.com/ "A collaboration service."
 [sleep-cycle-ios]: https://itunes.apple.com/us/app/sleep-cycle-alarm-clock/id320606217 "A sleep tracking and analysis app."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [trello]: https://trello.com/ "A project management service."
 [window-resizer]: https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh "A Chrome extension for resizing the window to a list of presets."
 [x-t10]: http://www.fujifilmusa.com/products/digital_cameras/x/fujifilm_x_t10/ "A 16 megapixel mirrorless camera."

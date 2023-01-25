@@ -23,7 +23,7 @@ I have an [iPhone 4s][iphone-4s] and I'm dreading replacing it, as I like its si
 
 For sewing, I have a [Juki HZL-E80][hzl-e80] machine -- not expensive, a real workhorse. I've had it about eight years. On those rare occasions when it's in the shop, I use a 1950s New Home model 560 cabinet machine that I inherited from my husband's grandmother. It's just slightly more complicated to operate, so I don't use it as much. If the worst happened and BOTH machines were unavailable, I have a backup-backup machine, a very pretty 1930s Singer Redeye, that was [given to me out of the blue by a stranger](http://dressaday.com/2006/12/11/santa-drives-a-black-mini-cooper/ "Erin's post about receiving her Singer sewing machine."). I use a Reliable Velocity steam iron, which is nice and heavy, and an extra-big ironing board. I'm not picky about scissors and other tools, although I like the ones on [this list](http://dressaday.com/2012/10/29/five-sewing-tools-i-use-all-the-time/ "Erin's list of sewing tools.") a lot, especially the invisible zipper foot. I do have a large fold-out cutting table, which is essential. My sewing space is only big enough to use 2/3 of it at a time, but it's so much better than cutting on a dining table or (worse) the floor.
 
-For plain old writing I like the pocket-sized Moleskine notebooks -- my latest one is [the softcover teal](https://www.flickr.com/photos/esperbot/16070016483/ "Erin's photo of her Moleskine."), which I really like. I like the little Field Notebooks too, but tend to hoard them instead of use them. If I don't want to carry the full notebook I clip a few index cards together with a tiny binder clip and just carry those -- I buy the cards at Ichiban Kan or Daiso. I like [Zebra Sarasa pens][sarasa] (.7) or, if I need something to make me write slowly, disposable Varsity fountain pens.
+For plain old writing I like the pocket-sized Moleskine notebooks -- my latest one is [the softcover teal](https://www.flickr.com/photos/esperbot/16070016483/ "Erin's photo of her Moleskine."), which I really like. I like the little Field Notebooks too, but tend to hoard them instead of use them. If I don't want to carry the full notebook I clip a few index cards together with a tiny binder clip and just carry those -- I buy the cards at Ichiban Kan or Daiso. I like [Zebra Sarasa pens][sarasa-clip-gel-retractable] (.7) or, if I need something to make me write slowly, disposable Varsity fountain pens.
 
 I always carry a mini-Sharpie and usually carry a tiny roll of duct tape.
 
@@ -64,12 +64,12 @@ For sewing I just want more space... and a better way to organize the ridiculous
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mongolab]: https://mlab.com/ "A hosted MongoDB service."
-[mozy]: https://mozy.com/ "An online backup solution."
+[mongolab]: http://web.archive.org/web/20220517214435/https://mlab.com "A hosted MongoDB service."
+[mozy]: http://web.archive.org/web/20221220155359/http://www.mozy.com/ "An online backup solution."
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [nano]: https://www.nano-editor.org/ "A command-line text editor."
 [node.js]: https://nodejs.org/en/ "A Javascript application platform."
-[orchestrate]: https://orchestrate.io/ "A hosted database service."
+[orchestrate]: http://web.archive.org/web/20170318202702/https://orchestrate.io/ "A hosted database service."
 [os-2]: https://en.wikipedia.org/wiki/OS/2 "An older OS for PCs."
 [papertrail]: https://papertrailapp.com/ "A hosted logging service."
 [pico]: http://www.supertalent.com/products/stt_usb_detail.php?type=Pico "A physically tiny USB drive."
@@ -77,7 +77,7 @@ For sewing I just want more space... and a better way to organize the ridiculous
 [pre]: https://en.wikipedia.org/wiki/Palm_Pre "A webOS-based smartphone."
 [reverb-ios]: https://itunes.apple.com/app/id602336025 "A personalised news app."
 [safari-queue-ios]: https://itunes.apple.com/us/app/safari-to-go/id881697395 "A client app for the book service."
-[sarasa]: https://www.zebrapen.com/product-category/brand/sarasa/ "A retractable ink pen."
+[sarasa-clip-gel-retractable]: https://www.zebrapen.com/collections/sarasa/products/sarasa-clip-gel-retractable "A retractable ink pen."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [slack]: https://slack.com/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

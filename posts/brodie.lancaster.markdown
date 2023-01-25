@@ -84,7 +84,7 @@ My dream setup would be Dropbox for everything, but with all the shit on my vari
 [karaoke-k-box-ios]: https://itunes.apple.com/US/app/id954162699 "A karaoke app."
 [later-ios]: https://itunes.apple.com/us/app/later/id784907999 "An app for scheduling Instagram posts."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [pages-ios]: https://itunes.apple.com/us/app/pages/id361309726 "A word processor for iOS."
 [papparich-aus-ios]: https://itunes.apple.com/au/app/papparich-aus-malaysian-food/id1150219568 "A loyalty app for a Malaysian restaurant in Australia."

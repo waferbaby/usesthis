@@ -74,7 +74,7 @@ Lastly, I just moved to New York City, and now I understand why everyone drinks 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sql-developer]: https://www.oracle.com/technetwork/developer-tools/sql-developer/overview/index.html "A GUI for managing Oracle databases."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."

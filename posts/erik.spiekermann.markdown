@@ -52,6 +52,6 @@ A clean desk, a sharp pencil, a giant screen that folds away, a fast MacBook and
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
 [ro-80]: https://en.wikipedia.org/wiki/NSU_Ro_80 "A car."
 [robofont]: https://doc.robofont.com/ "A font editor for the Mac."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [word]: https://products.office.com/en-us/word "A document editor."

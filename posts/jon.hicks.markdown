@@ -56,6 +56,6 @@ In the same vein, the big thing I'm wishing for is cloud storage to mature. At t
 [reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
 [skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

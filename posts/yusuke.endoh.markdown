@@ -80,7 +80,7 @@ A world where everyone enjoys programming.
 [ocaml]: http://caml.inria.fr/ocaml/index.en.html "An object-oriented version of the Caml programming language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [scala]: https://www.scala-lang.org/ "A compiled programming language."
-[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
+[thinkpad-x200]: http://web.archive.org/web/20161130223116/http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [thinkpad-x24]: http://www.thinkwiki.org/wiki/Category:X24 "A 12.1 inch PC laptop."
 [thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
 [vim]: https://www.vim.org/ "A command-line text editor."

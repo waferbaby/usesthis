@@ -52,7 +52,7 @@ Then again, maybe just a cabin in the woods and no electronics might be just wha
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
 [vonage]: https://www.vonage.com/ "A VoIP service."
 [xbox-360]: http://www.xbox.com:80/en-US/Xbox360 "A gaming console."

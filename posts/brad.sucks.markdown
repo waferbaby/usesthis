@@ -33,12 +33,12 @@ I'm pretty content with what my setup can do right now. Mainly I'd like to stand
  
 Besides that? Access to every sample pack, every audio plugin, every type of instrument and microphone and unlimited UAD processing power. I want it all!
 
-[1073-preamp-and-eq]: https://www.uaudio.com/uad-plugins/equalizers/neve-1073-collection.html "A pre-amp audio plugin."
+[1073-preamp-and-eq]: http://web.archive.org/web/20220125233627/https://www.uaudio.com/uad-plugins/equalizers/neve-1073-collection.html "A pre-amp audio plugin."
 [140]: http://www.uaudio.com/store/reverbs/emt-140.html "An audio plugin that emulates the 140 reverberator."
 [alternote]: http://alternoteapp.com/ "An Evernote app for the Mac."
 [apollo-twin]: https://www.uaudio.com:443/interfaces/apollo-twin.html "A Thunderbolt audio interface."
 [b20]: http://www.normanguitars.com/b20.html "An acoustic guitar."
-[blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
+[blues-junior-iii]: http://web.archive.org/web/20210618204947/https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
 [cms-65]: https://www.focal.com/usa/en/cms/166-cms-65.html "Monitor speakers."
 [crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -79,7 +79,7 @@ Besides that? Access to every sample pack, every audio plugin, every type of ins
 [ultralite-mk3]: http://www.motu.com/products/motuaudio/ultralite-mk3 "An audio interface."
 [vintageverb]: https://valhalladsp.com/shop/reverb/valhalla-vintage-verb/ "A reverb plugin."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [xact]: http://xact.scottcbrown.org/ "Audio encoding/decoding software for the Mac."
-[zooom]: http://coderage-software.com/zooom/ "A window resizer/mover tool for the Mac."
+[zooom]: http://web.archive.org/web/20161115201957/http://coderage-software.com:80/zooom/ "A window resizer/mover tool for the Mac."

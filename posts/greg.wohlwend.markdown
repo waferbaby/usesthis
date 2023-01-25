@@ -32,7 +32,7 @@ Basically that one scene from Grandma's Boy. Has someone said that already? Hone
 [artrage-studio]: https://www.artrage.com/artrage-studio/ "A drawing and painting tool."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cloudapp]: https://www.getcloudapp.com/ "A cloud-based file sharing menubar app for Mac OS X."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."

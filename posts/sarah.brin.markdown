@@ -42,7 +42,7 @@ I'd like a proper desktop [iMac][], too. And more [colored pencils][premier-soft
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[pixma-mg5620]: https://www.usa.canon.com/internet/portal/us/home/products/details/printers/inkjet-multifunction/mg-series-inkjet/mg5620/ "An all-in-one printer."
+[pixma-mg5620]: http://web.archive.org/web/20210802205156/https://www.usa.canon.com/internet/portal/us/home/products/details/printers/inkjet-multifunction/mg-series-inkjet/mg5620 "An all-in-one printer."
 [play-1]: http://www.sonos.com/shop/play1 "A wireless speaker."
 [premier-soft-core]: http://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

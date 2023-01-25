@@ -50,7 +50,7 @@ My dream setup is simple!! I have an adjustable standing / sitting desk. My offi
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sculpt-ergonomic-mouse]: https://www.microsoft.com/accessories/en-us/products/mice/sculpt-ergonomic-mouse/l6v-00001 "An ergonomic mouse."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."

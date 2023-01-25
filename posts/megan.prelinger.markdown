@@ -66,5 +66,5 @@ I'd also like for my next-door neighbors to trim their trees so that I could see
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [my-passport-ultra]: https://www.wdc.com/en/products/products.aspx?id=1000 "A portable external hard drive."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [word]: https://products.office.com/en-us/word "A document editor."

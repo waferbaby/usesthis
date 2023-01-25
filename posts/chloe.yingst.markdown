@@ -33,7 +33,7 @@ And I keep up with my creative gal pals through [Slack][].
 
 I'd love to have studio space at a co-working office so I can be around other creative people. Working from home can be lonely at times! In my dream studio space I'd want to be surrounded by way too many [plants](https://www.instagram.com/p/5A79NSgxPH/ "Chloé's Instagram photo of bugs and plants.") and have [River](https://www.instagram.com/p/467bXSAxCV/ "Chloé's Instagram photo of her sheepdog."), my Shetland Sheepdog, snoozing under my desk. I'm also a big fan of standing desks, so I'd need one of those as well as a sitting desk, preferably with a really fancy [Herman Miller chair][mirra]. While we're at it, an endless supply of Goldfish crackers would be nice!
 
-[600]: https://www.rotring.com/us/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html "A mechanical pencil."
+[600]: http://web.archive.org/web/20220129093600/https://www.rotring.com/us/mechanical-pencils/290-rotring-600-mechanical-pencil-3501178523096.html "A mechanical pencil."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [apple-watch]: https://www.apple.com/watch/ "A smartwatch."
 [audible]: https://www.audible.com/ "An audio books service."
@@ -47,5 +47,5 @@ I'd love to have studio space at a co-working office so I can be around other cr
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [zero]: https://www.amazon.com/Value-Tombow-Mono-Erasers-refills/dp/B00JNVWEUQ/ "An eraser."

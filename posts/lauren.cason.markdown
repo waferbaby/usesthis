@@ -41,7 +41,7 @@ I'm a big fan of Apple hardware - I wish I could have a [MacBook][macbook.2] as 
 [luna.2]: https://luna.funomena.com/ "A puzzle game."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [monument-valley-2]: https://en.wikipedia.org/wiki/Monument_Valley_2 "A puzzle game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

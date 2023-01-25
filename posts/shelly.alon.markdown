@@ -39,7 +39,7 @@ To be honest, I'm pretty happy with my setup. As I said before, I'm thinking of 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [app-store]: https://en.wikipedia.org/wiki/App_Store_(iOS) "A digital storefront for buying iOS apps."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [glitchskier]: http://www.glitchskier.com/ "A retro-themed mobile action game."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

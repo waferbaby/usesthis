@@ -31,7 +31,7 @@ For home I'd love a beautiful, Australian made standing desk that fits in my liv
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [iphone-13]: https://en.wikipedia.org/wiki/IPhone_13 "A 6.1 inch smartphone."
 [iphone-xr]: https://en.wikipedia.org/wiki/IPhone_XR "A 6 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

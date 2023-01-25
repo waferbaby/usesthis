@@ -50,7 +50,7 @@ Also, I wouldn't mind more file storage and a bit more raw iron on the balcony t
 [eee-pad-transformer-tf101]: https://www.pcmag.com/article2/0,2817,2383976,00.asp "An Android-based tablet/laptop."
 [eve-online]: https://www.eveonline.com/ "A space-based MMO game."
 [mono]: https://www.mono-project.com/Main_Page/ "A cross-platform .NET framework."
-[nexuiz]: http://www.nexuiz.com/ "A FPS arena game."
+[nexuiz]: http://web.archive.org/web/20190904033445/http://www.nexuiz.com/ "A FPS arena game."
 [starcraft-2]: http://us.battle.net/sc2/en/ "A sci-fi RTS game."
 [syncmaster-p2450h]: https://www.cnet.com/products/samsung-syncmaster-p2450h/ "A 24 inch TFT screen."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."

@@ -52,7 +52,7 @@ As far as writing, I am currently creating [Markdown][] in [iA Writer][ia-writer
 
 As great as my iMac Pro is, I'd love to live in a world where I could have this much power in a Mac notebook that docked into a big display when I get to the studio. Basically, [the PowerBook Duo.](https://www.macstories.net/mac/three-tiny-laptops/ "A MacStories article about three small laptops.")
 
-[23850]: https://www.bhphotovideo.com/c/product/534686-REG/K_M_23850_300_55_23850_Broadcast_Microphone_Desk.html "A microphone arm."
+[23850]: http://web.archive.org/web/20220120020303/https://www.bhphotovideo.com/c/product/534686-REG/K_M_23850_300_55_23850_Broadcast_Microphone_Desk.html "A microphone arm."
 [a7r-ii]: https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7rm2 "A 42.4 megapixel camera."
 [audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [beta-87a]: http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone "A condenser microphone."
@@ -71,5 +71,5 @@ As great as my iMac Pro is, I'd love to live in a world where I could have this 
 [ms111]: http://www.rolls.com/product.php?pid=MS111 "A muting switch for microphones."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[usbpre-2]: https://www.sounddevices.com/products/portable-audio-tools/usbpre2 "A portable USB audio interface."
+[usbpre-2]: http://web.archive.org/web/20190331193725/http://www.sounddevices.com:80/products/portable-audio-tools/usbpre2 "A portable USB audio interface."
 [wyrd]: https://www.schiit.com/products/wyrd "A USB audio decrapifier."

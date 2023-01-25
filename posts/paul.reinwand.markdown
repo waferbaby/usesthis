@@ -31,7 +31,7 @@ Just a bigger office space, honestly. Something with room for a drafting table, 
 [firecuda]: https://www.seagate.com/au/en/internal-hard-drives/hdd/firecuda/ "A combined solid state/moving platters hard drive."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
 [magicavoxel]: https://www.voxelmade.com/magicavoxel/ "A voxel image editor."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
 [stumpy-pencil]: http://stumpypencil.blogspot.com/2009/11/return-of-stumpy-pencil.html "A pencil brush set for Photoshop."

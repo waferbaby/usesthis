@@ -48,7 +48,7 @@ I wish it were easier to plot a bunch of place-based links on a map. For example
 
 There seem to be more and more apps that take what you've already discovered and expose you to it again. Things that tell you what you were doing a year ago and all that. When something isn't useful it can easily become clutter, but these kinds of things reintroduce us to an earlier interest or passion. It would be nice to have more of this. You bookmark a recipe, and months later it arrives in your inbox as a suggestion for dinner. Sounds delightful -- as long as I still get to cook.
 
-[150-series]: https://www.mrporter.com/en-au/mens/accessories/watches/fashion_watches?soldOutId=351984 "A fancy watch."
+[150-series]: http://web.archive.org/web/20190506070652/https://www.mrporter.com/en-au/mens/accessories/watches/fashion_watches?soldOutId=351984 "A fancy watch."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [airfoil]: https://www.rogueamoeba.com/airfoil/ "Send audio wherever you want it."
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
@@ -74,7 +74,7 @@ There seem to be more and more apps that take what you've already discovered and
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [instacast-ios]: https://itunes.apple.com/us/app/instacast/id420368235 "A podcast app."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
@@ -90,11 +90,11 @@ There seem to be more and more apps that take what you've already discovered and
 [qlmarkdown]: https://github.com/toland/qlmarkdown "A Quick Look plugin for Markdown files."
 [quickcal]: http://quickcalapp.com/ "A Mac calendar and task app that's based on natural language."
 [quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[scansnap-s1500m]: https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[scansnap-s1500m]: http://web.archive.org/web/20220407044618/https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
 [sparrow-ios]: https://itunes.apple.com/us/app/sparrow/id492573565 "An email app."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [ufo-on-tape-ios]: https://itunes.apple.com/us/app/ufo-on-tape/id390109631 "A UFO game."

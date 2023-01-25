@@ -19,7 +19,7 @@ I do all my digital work on a [MacBook Pro][macbook-pro] (13-inch, 2019, four Th
  
 I do a lot of developmental and brainstorming work by hand, and for that I favor hardback dotted A5 notebooks - recent favorites are the Rhodia Webnotebook and Leuchtturm1917 - and fountain pens. I could go on about fountain pens forever, so I'll narrow it down to my top two: a [Lamy Safari][safari-fountain-pen] with an EF nib, and a [TWSBI ECO][eco] with a F nib. These were the first two fountain pens I purchased when I got into the hobby, and they're the most reliable and non-fussy ones I own. As far as inks, I've been having a lot of fun with Goulet sample packs lately, because they enable me to try out a lot of colors without committing to a whole bottle. My most recent favorites are Diamine Oxblood, Organics Studio Nitrogen, and Robert Oster Tranquility.
  
-I tend to use cheaper spiral-bound notebooks when taking notes for class, and that low-quality paper rarely plays well with liquid inks. In these cases, I use [Zebra Sarasa gel pens][sarasa] in 0.3mm; the majority of my notes are written in blue-black, with black and viridian green as accent colors. I'm also fond of [Zebra Mildliner highlighters][mildliner].
+I tend to use cheaper spiral-bound notebooks when taking notes for class, and that low-quality paper rarely plays well with liquid inks. In these cases, I use [Zebra Sarasa gel pens][sarasa-clip-gel-retractable] in 0.3mm; the majority of my notes are written in blue-black, with black and viridian green as accent colors. I'm also fond of [Zebra Mildliner highlighters][mildliner].
 
 ### And what software?
 
@@ -48,7 +48,7 @@ I also have a long wishlist of fountain pens. Someday I'd like a pen with a 14k 
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [rhino-ii]: https://www.bedbathandbeyond.com/store/product/kikklerland-reg-rhino-ii-folding-stool/3246358 "A foldable footstool."
 [safari-fountain-pen]: https://www.lamy.com/eng/b2c/safari/017 "A fountain pen."
-[sarasa]: https://www.zebrapen.com/product-category/brand/sarasa/ "A retractable ink pen."
+[sarasa-clip-gel-retractable]: https://www.zebrapen.com/collections/sarasa/products/sarasa-clip-gel-retractable "A retractable ink pen."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [teodores]: https://www.ikea.com/au/en/p/teodores-chair-white-70350938/ "A chair."
 [word]: https://products.office.com/en-us/word "A document editor."

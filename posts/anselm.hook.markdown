@@ -57,7 +57,7 @@ As far as actual development of new software - the tools are getting much better
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [lua]: http://www.lua.org/ "An interpreted scripting language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

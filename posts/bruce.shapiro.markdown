@@ -28,7 +28,7 @@ CAD/CAM: I've been using AutoCAD for so many years that it's become integral to 
 
 Pretty much what I have now -- shop spaces in multiple places, with enthusiastic and skilled makers at my side, using amazing motion control technology to create art that can find its way into both [museums](http://www.taomc.com/installations-and-showings-1 "A list of Bruce's museum displays.") and [people's homes](http://www.taomc.com/blog/ "Bruce's weblog.").
 
-[autocad]: https://www.autodesk.com/products/autocad/overview "CAD software."
+[autocad]: http://web.archive.org/web/20221226023918/https://www.autodesk.com/products/autocad/overview "CAD software."
 [basic]: https://en.wikipedia.org/wiki/BASIC "A programming language."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."

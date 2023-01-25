@@ -38,7 +38,7 @@ My main dream is faster internet connection (everywhere, but mainly at home). A 
 [lua]: http://www.lua.org/ "An interpreted scripting language."
 [luatex]: http://www.luatex.org/ "A TeX-based typesetting system with Lua support."
 [mutt]: http://www.mutt.org/ "A command-line email client."
-[opera]: https://www.opera.com/ "A cross-platform web browser."
+[opera]: http://web.archive.org/web/20221227050003/https://www.opera.com/ "A cross-platform web browser."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [syncmaster-s23b550v]: https://www.amazon.com/Samsung-S23B550V-23-Inch-LED-Lit-Monitor/dp/B007TO3EK8 "A 23 inch LCD screen."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."

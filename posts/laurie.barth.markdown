@@ -37,7 +37,7 @@ To be honest, I feel like I'm pretty close to my dream setup! I'm debating anoth
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [key-light]: https://www.elgato.com/en/key-light "A light."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

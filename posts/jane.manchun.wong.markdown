@@ -77,7 +77,7 @@ A replacement to my aging 2017 MacBook Pro is long overdue. One with a keyboard 
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [kanken-no-2]: https://www.fjallraven.com/us/en-us/bags-gear/kanken/kanken-bags/kanken-no-2-black "A backpack."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

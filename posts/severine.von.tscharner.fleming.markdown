@@ -44,7 +44,7 @@ While we're at it, I'd like to know that I'm not being tracked, stalked and hack
 
 I'd like all of us to have time to farm and land to farm on.
 
-[campstove]: http://www.biolitestove.com/products/biolite-campstove "A wood-burning stove that generates electricity."
+[campstove]: http://web.archive.org/web/20160215174925/http://www.biolitestove.com:80/products/biolite-campstove "A wood-burning stove that generates electricity."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [drupal]: https://www.drupal.org/ "An open-source content management system."
 [etsy]: https://www.etsy.com/ "A doily deployment system."

@@ -48,11 +48,11 @@ I'm almost there now. We are looking at a single-ply fabric cutter (probably a G
 
 [206rb-5]: http://www.consew.com/View/Consew-Model-206RB-5 "An industrial sewing machine."
 [4-color]: https://www.bicworld.com/en/products/details/18/4-color "A four colour pen."
-[accuplot-320]: https://www.gerbertechnology.ru/eng/accuplot_100.php "A digital plotter."
+[accuplot-320]: http://web.archive.org/web/20120605063807/http://www.gerbertechnology.ru:80/eng/accuplot_100.php "A digital plotter."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pattern.2]: https://www.padsystem.com/PadSystemWeb/pad_pattern "Pattern designing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[roll-up-iii]: https://www.gtcocalcomp.com/large-format-digitizers/roll-up-3 "A portable digitiser."
+[roll-up-iii]: http://web.archive.org/web/20170812125351/http://www.gtcocalcomp.com:80/large-format-digitizers/roll-up-3 "A portable digitiser."
 [sth-8bld-3]: http://www.westchestersewing.com/seiko/sth-8bld-3/index.htm "An industrial sewing machine."
 [touchcad]: http://www.touchcad.com/index_tc.html "3D modelling and unfolding software."

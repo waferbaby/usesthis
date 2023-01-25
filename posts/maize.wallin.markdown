@@ -54,7 +54,7 @@ I'd also like to move to Mars. For similar isolation reasons really! I absolutel
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [geforce-gtx-1070]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1070/ "A graphics card."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [hdm-odyssey]: https://www.samsung.com/us/computing/hmd/windows-mixed-reality/xe800zaa-hc1us-xe800zaa-hc1us/ "A mixed reality headset."
 [hs10w]: https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html "A subwoofer."
 [hs50]: https://usa.yamaha.com/products/proaudio/speakers/hs_series/index.html "Studio speaker."

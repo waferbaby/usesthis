@@ -40,7 +40,7 @@ It depends how dreamy I'm allowed to get! I have three desks - one at home, one 
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
 [icd-px470]: https://www.sony.com/electronics/voice-recorders/icd-px470 "A voice recorder."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nexus-5x]: https://www.google.com/nexus/5x/ "A 5.2 inch Android smartphone."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

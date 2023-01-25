@@ -48,7 +48,7 @@ I'd like fewer machines. :-) But I should probably upgrade this crappy desktop. 
 [perl]: https://www.perl.org/ "An interpreted scripting language."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [tcpdump]: http://www.tcpdump.org/ "A command-line tool for analysing packets."
-[thinkpad-x200]: http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
+[thinkpad-x200]: http://web.archive.org/web/20161130223116/http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [wireshark]: https://www.wireshark.org/ "A network protocol analyser."

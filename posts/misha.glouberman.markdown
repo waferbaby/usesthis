@@ -41,7 +41,7 @@ I wish email software was better. I like Thunderbird better than Outlook, but bo
 
 I wish all the software I used was open source.
 
-[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [coldfusion]: https://www.adobe.com/products/coldfusion-family.html "A web application development system."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."

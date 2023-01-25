@@ -59,7 +59,7 @@ I dream of a ARM-based netbook with exceptionally good battery life, an E-ink di
 [obnam]: https://liw.fi/obnam/ "A backup tool."
 [offlineimap]: http://www.offlineimap.org/ "A tool for syncing mail from an IMAP server."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
-[rss2email]: http://www.allthingsrss.com/rss2email/ "A tool for delivering news from RSS feeds to an email address."
+[rss2email]: http://web.archive.org/web/20221113013814/http://www.allthingsrss.com/rss2email/ "A tool for delivering news from RSS feeds to an email address."
 [sheevaplug]: https://en.wikipedia.org/wiki/SheevaPlug "A plug computer with a tiny footprint."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [xfce]: https://www.xfce.org/ "A lightweight UNIX-like desktop environment."

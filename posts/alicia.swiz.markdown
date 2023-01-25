@@ -46,4 +46,4 @@ And a new iPhone with case.
 [scarlett-18i20]: https://us.focusrite.com/usb-audio-interfaces/scarlett-18i20 "A USB audio interface."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[x32]: http://www.music-group.com/Categories/Behringer/Mixers/Digital-Mixers/X32/p/P0ASF "A digital mixer."
+[x32]: http://web.archive.org/web/20171128093849/http://www.music-group.com:80/Categories/Behringer/Mixers/Digital-Mixers/X32/p/P0ASF "A digital mixer."

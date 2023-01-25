@@ -70,7 +70,7 @@ Whenever anything I own breaks or wears out, I've been trying to replace it with
 
 Also, I'd like an orange [Moccamaster][moccamaster-kb-741] and enough space on the kitchen bench for it.
 
-[0602-0000]: https://www.moebius-ruppert.com/spitzer/sp_details/06020000_en.html "A pencil sharpener."
+[0602-0000]: http://web.archive.org/web/20220629230756/https://www.moebius-ruppert.com/spitzer/sp_details/06020000_en.html "A pencil sharpener."
 [adjustable-handle-hard-carry]: https://www.muji.com/hk-en/campaign/201712_mtg/ "A hard suitcase."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
@@ -91,7 +91,7 @@ Also, I'd like an orange [Moccamaster][moccamaster-kb-741] and enough space on t
 [mono-100]: https://www.tombow.com/en/products/mono100/ "A pencil."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [pd-pioneer-26800mah]: https://www.ravpower.com/products/rp-pb058-usb-c-power-bank "A USB-C portable charger."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [pre-paid-4gx-hotspot]: https://www.telstra.com.au/internet/mobile-broadband/prepaid/telstra-pre-paid-4gx-hotspot "A portable 4G hotspot device."
 [quietcomfort-20]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_20/index.jsp "Noise-cancelling in-ear headphones."
 [roll-2]: https://www.ultimateears.com/en-au/wireless-speakers/roll-2.html "Bluetooth speakers."

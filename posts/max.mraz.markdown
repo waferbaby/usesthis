@@ -66,7 +66,7 @@ The takeaway though, I think, is that even if you're just working with garbage a
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [mx-5]: https://en.wikipedia.org/wiki/Mazda_MX-5 "A car."
 [mxl-v67g]: http://www.mxlmics.com/microphones/studio/V67g/ "A condenser microphone."
-[oceans-heart]: https://maxmraz.github.io/oceansheart/ "An action RPG."
+[oceans-heart]: http://web.archive.org/web/20200813174134/https://maxmraz.github.io/oceansheart/ "An action RPG."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
 [solarus]: https://solarus-games.org/ "An RPG engine."

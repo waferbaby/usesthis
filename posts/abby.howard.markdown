@@ -31,5 +31,5 @@ And a robot to clean up my eraser shavings for me. Those things tend to pile up.
 [a3-2400s]: https://www.amazon.com/Mustek-A3-2400S-11-7-Inch-16-5-Inch/dp/B009LHWGLY "A large format colour scanner."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [surface-pro-2]: https://en.wikipedia.org/wiki/Surface_Pro_2 "A Windows 8 tablet."

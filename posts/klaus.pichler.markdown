@@ -36,10 +36,10 @@ It sounds strange, but I think that I'm working with the best setup I can imagin
 
 [645d]: https://www.amazon.com/Pentax-645D-Medium-Format-Digital/dp/B004A4U886 "A 40 megapixel medium format DSLR."
 [7]: https://en.wikipedia.org/wiki/Mamiya_7 "A medium format camera."
-[bxri-500]: https://www.elinchrom.com/product/BXRi-500.html "An external camera flash unit."
+[bxri-500]: http://web.archive.org/web/20150928151500/http://www.elinchrom.com:80/product/BXRi-500.html "An external camera flash unit."
 [d800]: https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [f4]: https://en.wikipedia.org/wiki/Nikon_F4 "A 35mm analog SLR."
-[horizon-202]: http://www.kievusa.com/panoramic.html "A panoramic film camera."
+[horizon-202]: http://web.archive.org/web/20100822192110/http://kievusa.com:80/panoramic.html "A panoramic film camera."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

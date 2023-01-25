@@ -59,7 +59,7 @@ An iPhone-sized version that's identical, only the screen is smaller. They're al
 
 And a one-touch off button, so I can toss those amazing gadgets in a drawer and forget they exist, at least for a couple of hours.
 
-[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[address-book]: http://web.archive.org/web/20191014200329/https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [echofon-ios]: https://itunes.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
@@ -79,7 +79,7 @@ And a one-touch off button, so I can toss those amazing gadgets in a drawer and 
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [movie-magic-screenwriter]: http://www.screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[scansnap-s1500m]: https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
+[scansnap-s1500m]: http://web.archive.org/web/20220407044618/https://www.fujitsu.com/us/products/computing/peripheral/scanners/product/eol/s1500m/ "A sheet-fed scanner for the Mac."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."

@@ -59,7 +59,7 @@ A car navigation system that alternated between the voice of Ira Glass and Morga
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [jetpack-mifi-5510l]: https://www.pcmag.com/article2/0,2817,2415262,00.asp "A mobile hotspot device."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
-[little-printer]: http://littleprinter.com/ "A small Internet-connected printer."
+[little-printer]: http://web.archive.org/web/20151127133812/http://littleprinter.com:80/ "A small Internet-connected printer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mailbox]: http://www.mailboxapp.com/ "A email client."

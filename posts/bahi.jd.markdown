@@ -69,7 +69,7 @@ What I want to say is that you can reach your dreams under any circumstances. Wh
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [easytoon]: http://www.superfundungeonrun.com/easytoon/ "A simple animation tool for Windows."
 [eos-500d]: https://en.wikipedia.org/wiki/Canon_EOS_500D "A 15.1 megapixel DSLR."
-[eos-7d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
+[eos-7d]: http://web.archive.org/web/20151105102657/http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."

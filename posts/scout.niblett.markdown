@@ -48,7 +48,7 @@ One thing that excites me about the potential to record things either at home or
 
 [big-muff]: https://en.wikipedia.org/wiki/Big_Muff "A guitar distortion pedal."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mustang]: https://en.wikipedia.org/wiki/Fender_Mustang "An electric guitar."
 [pro-reverb]: https://en.wikipedia.org/wiki/Fender_Pro_Reverb "A guitar amplifier."

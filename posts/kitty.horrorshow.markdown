@@ -26,7 +26,7 @@ I do nearly all of my game-making in either [Unity][] 4/Unity 5 (for 3D games) o
 
 I've always wanted a killer PC with a huge, spacious desk for all of my music toys and a 3-by-2 grid of wall-mounted wide-screen monitors. A [3DConnexion SpacePilot Pro 3D mouse][spacepilot-pro] would be lovely. There are too many amazing Unity extensions to list, so a winning lotto ticket or a rich, mysterious benefactor would help with that. The idea of developing VR games is a long-term fantasy, so I end up wanting just about every new VR thing I ever hear about -- the [Oculus Rift][rift], the [Leap Motion][leap-motion-controller], the [Sixense STEM System][stem-system], a [Virtuix Omni][omni]. For music a top-of-the-line [MacBook Pro][macbook-pro] would be wonderful, and I'm dying to get my hands on a [Korg electribe][electribe] and a [Kaoss Pad KP3+][kaoss-pad-kp3-plus]. Not to mention everything Native Instruments has ever made or will ever make. All of this in an old, crumbling Victorian-style house that's completely paid-off, with sound-proofed walls and a German Shepherd named Countess and a claw-footed bathtub filled with warm black slime of dubious origin. I may have gotten ahead of myself.
 
-[apc40-mkii]: https://www.akaipro.com/product/apc40-mkii/ "An Ableton Live controller."
+[apc40-mkii]: http://web.archive.org/web/20170708005355/http://www.akaipro.com:80/product/apc40-mkii "An Ableton Live controller."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."

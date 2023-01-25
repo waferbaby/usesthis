@@ -43,7 +43,7 @@ I'd love a 27" Retina iMac, and an external Apple display of the same type, but 
 
 Oh, and I'd love to own a [Wacom Cintiq][cintiq] (at least 21", I suppose), but I know I'd rarely use it.
 
-[app.net]: https://app.net "A social network."
+[app.net]: http://web.archive.org/web/20221226220229/https://app.net/ "A social network."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [documents-ios]: https://readdle.com/products/documents/ "A document/media viewing app."
@@ -51,7 +51,7 @@ Oh, and I'd love to own a [Wacom Cintiq][cintiq] (at least 21", I suppose), but 
 [elements-ios]: https://itunes.apple.com/us/app/elements-for-dropbox-markdown/id382752422 "A text editor app with support for DropBox and Markdown."
 [feedly-ios]: https://itunes.apple.com/us/app/feedly/id396069556 "An app for the feed reading service."
 [feedly]: https://feedly.com/ "A feed reader."
-[felix-ios]: https://directory.app.net/app/46/felix/ "An App.net client app."
+[felix-ios]: http://web.archive.org/web/20170123034836/https://directory.app.net/app/46/felix/ "An App.net client app."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."

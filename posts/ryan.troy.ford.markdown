@@ -29,7 +29,7 @@ With things that can't be done by hand, [After Effects][after-effects] is my shi
 A decently large, open studio with a lot of light, several dogs, fast internet, good record collection, and a garden outside. Preferably just outside of a city, perhaps in the Blue Ridge Mountains or Pacific Northwest somewhere. Big enough to be used as a community space for teaching workshops, hosting events, and fostering activism, but small enough so I don't feel the need to fill it with bullshit.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

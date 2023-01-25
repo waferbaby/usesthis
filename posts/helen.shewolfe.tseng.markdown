@@ -41,7 +41,7 @@ Somewhere tucked away in the folds of spacetime, there is a parallel dimension w
 [nytimes-crosswords-ios]: https://itunes.apple.com/us/app/nytimes-crosswords/id307569751 "A crosswords app for iOS."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [prisma-visions]: https://prismavisionstarot.com/ "A tarot deck."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [smile-jamaica]: https://www.thehouseofmarley.com/headphones/smile-jamaica-in-ear-headphones.html "In-ear headphones."

@@ -29,6 +29,6 @@ Like I said, I love watercolor but it's difficult to scan accurately without a p
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [workforce-wf-7610]: https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-WF-7610/s/SPT_C11CC98201 "An all-in-one printer."

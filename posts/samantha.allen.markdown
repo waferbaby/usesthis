@@ -38,7 +38,7 @@ To edit Double W, I use [Zencastr][] to record and [GarageBand][garageband-ios] 
 One of those slightly bigger and square-edged iPad Pros - maybe a 12.9" - but that would still be small enough to take on my travels. I'd love a Bluetooth mechanical keyboard, too - maybe an [Anne Pro 2][anne-pro-2] complete with Pride-themed rainbow lighting. And a pair of Skullcandy [Crusher][] headphones in deep red would be pretty sweet, too. So overall, I'm happy with my current setup but would just like a slightly upgraded version of every element in it.
 
 [anchor-ios]: https://apps.apple.com/us/app/anchor/id1056182234 "A client for the podcast service."
-[anne-pro-2]: https://annepro2.com/ "A mechanical keyboard."
+[anne-pro-2]: http://web.archive.org/web/20220814214418/http://annepro2.com/ "A mechanical keyboard."
 [bluetooth-easy-switch-keyboard-k811]: https://www.logitech.com/en-us/product/illuminated-keyboard-for-mac-ipad-iphone#specification-tabular "A Bluetooth keyboard."
 [crusher]: https://www.skullcandy.com/shop/headphones/bluetooth-headphones/crusher-wireless "Wireless over-the-ear headphones."
 [garageband-ios]: https://itunes.apple.com/us/app/garageband/id408709785 "A music creation app."

@@ -30,7 +30,7 @@ When I need to work on illustrations my software of choice is [Paintstorm][paint
 I love travelling, so I would love to have a machine that is portable, powerful but that also has a great cooling system. As of now my dream setup would be an Asus [Mothership][rog-mothership] with an external monitor. I would also love to try VR sculpting with tools like [Medium][medium.2] and an HTC [Vive][].
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [core-i7-6700hq]: https://ark.intel.com/content/www/us/en/ark/products/88967/intel-core-i7-6700hq-processor-6m-cache-up-to-3-50-ghz.html "A computer processor."
 [davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
 [flip-fluids]: https://blendermarket.com/products/flipfluids "A liquid simulation plugin for Blender."

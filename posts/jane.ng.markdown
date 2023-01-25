@@ -35,7 +35,7 @@ For company store management, we use [Shopify][] to handle the store backend and
 I'm not too far from my dream setup! It would be nice if our office was a little bigger so I could have a bit more desk space to put out the Wacom I never use, a tea pot perhaps. I would like a shelf next to my monitors to put up my art books and toys etc. Oh, maybe an office cat. I would really like to have an office cat that likes to sit in my lap.
 
 [amplify-color]: http://amplify.pt/unity/amplify-color/ "A color grading extension for Unity."
-[complete]: https://www.sectr.co/complete.html "A collection of tools for Unity."
+[complete]: http://web.archive.org/web/20221226064258/http://www.sectr.co/complete.html "A collection of tools for Unity."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firewatch]: http://www.firewatchgame.com/ "A fire lookout adventure game."
 [geforce-gtx-660]: https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-660 "A graphics card."
@@ -43,7 +43,7 @@ I'm not too far from my dream setup! It would be nice if our office was a little
 [google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [ndo]: http://quixel.se/tutorial/ndo-painter-advanced-detailing/ "A normal mapping tool for Photoshop."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

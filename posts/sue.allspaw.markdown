@@ -28,7 +28,7 @@ I compose and edit poetry mostly with [Microsoft Word][word], out of habit. I al
 
 My dream setup would include a 17-inch [MacBook Pro][macbook-pro] loaded with at least a Nessus Professional Feed, [WebInspect][], [AppDetective][appdetectivepro], and a bunch of other open source assessment tools, and [Microsoft Office][office] (old habits die hard). I'd also like a versatile app like [WriteRoom][writeroom-ios] on my iPhone.
 
-[appdetectivepro]: https://www.trustwave.com/Products/Database-Security/AppDetectivePRO/ "Vulnerability scanner software for databases."
+[appdetectivepro]: http://web.archive.org/web/20171120070316/https://www.trustwave.com/Products/Database-Security/AppDetectivePRO/ "Vulnerability scanner software for databases."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [g60-120us]: http://h10025.www1.hp.com/ewfrf/wc/document?docname=c01533413&cc=us&dlc=en&lc=en "A 15.6 inch PC laptop."
 [grendel-scan]: http://www.grendel-scan.com/ "An open-source security testing tool."

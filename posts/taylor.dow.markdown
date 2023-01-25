@@ -51,7 +51,7 @@ A stone tower, perfectly round and well exposed to the sun. My studio is on the 
 
 Additionally, a [Mac Pro][mac-pro] + Cintiq would be sick as hell, plus one of those chairs that fixes your back pain forever the moment you sit down.
 
-[affinity-designer-ios]: https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
+[affinity-designer-ios]: http://web.archive.org/web/20221108111933/https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [calligraphr]: https://www.calligraphr.com/en/ "A service to generate a font from handwriting."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."

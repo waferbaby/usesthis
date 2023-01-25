@@ -50,7 +50,7 @@ My dream setup is an idyllic, remote cabin in a forest with a gentle creek that 
 [github]: https://github.com/ "A Git code repository service."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[kinect]: https://www.xbox.com/en-US/kinect "An adapter for the Xbox that uses your body as a controller."
+[kinect]: http://web.archive.org/web/20141020163539/http://www.xbox.com:80/en-US/Kinect "An adapter for the Xbox that uses your body as a controller."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."

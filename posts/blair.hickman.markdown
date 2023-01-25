@@ -39,7 +39,7 @@ A world in which everything I have to read on a screen can be in print. I have r
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[query-explorer]: https://ga-dev-tools.appspot.com/query-explorer/ "A tool for exploring statistics in Google Analytics."
+[query-explorer]: http://web.archive.org/web/20210718171856/https://ga-dev-tools.appspot.com/query-explorer/ "A tool for exploring statistics in Google Analytics."
 [rstudio]: https://www.rstudio.com/ "An IDE for the R language."
 [slack]: https://slack.com/ "A collaboration service."
 [soundlink-mini]: https://www.cnet.com/products/bose-soundlink-mini-speaker/ "Portable Bluetooth speakers."

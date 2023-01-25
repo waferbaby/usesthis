@@ -31,5 +31,5 @@ I don't really care about the hardware or the software, to be honest - the work 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [word]: https://products.office.com/en-us/word "A document editor."

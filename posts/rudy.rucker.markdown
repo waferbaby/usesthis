@@ -62,7 +62,7 @@ To barely use a computer at all. Just paint, and read paper books, and write nov
 
 In closing, I'll put in a plug for my latest book, an 820 page tome called [Journals 1990-2014](http://www.rudyrucker.com/journals/ "Rudy's journal book.").
 
-[air]: https://lindberg.com/showroom/men/air "Titanium eyeglasses."
+[air]: http://web.archive.org/web/20190506063742/https://lindberg.com/showroom/men/air "Titanium eyeglasses."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
 [createspace]: https://www.createspace.com/ "A self-publishing service."
@@ -79,7 +79,7 @@ In closing, I'll put in a plug for my latest book, an 820 page tome called [Jour
 [laserjet-p2055dn]: https://www.amazon.com/HP-LaserJet-P2055dn-Printer-Monochrome/dp/B0019L0X38/ "A monochrome laser printer."
 [lightning-books]: http://eye-books.com/ "A co-publishing service."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
-[lmt-100]: https://www.bhphotovideo.com/c/product/885062-REG/kopul_lmt_100_lo_to_hi_impedance.html "A microphone converter cable."
+[lmt-100]: http://web.archive.org/web/20220519164031/https://www.bhphotovideo.com/c/product/885062-REG/kopul_lmt_100_lo_to_hi_impedance.html "A microphone converter cable."
 [m5.2]: https://en.wikipedia.org/wiki/Leica_M5 "A 35mm film camera."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."

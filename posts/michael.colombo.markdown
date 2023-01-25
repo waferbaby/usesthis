@@ -36,7 +36,7 @@ Oh, and a bangin' recording studio with tons of instruments, amps, mics, and an 
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
-[long-exposure-camera-android]: https://play.google.com/store/apps/details?id=com.longexposure2 "An app for taking long exposure photos."
+[long-exposure-camera-android]: http://web.archive.org/web/20210307161214/https://play.google.com/store/apps/details?id=com.longexposure2 "An app for taking long exposure photos."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pr5-e]: http://www.epiphone.com/Products/Acoustic-Electric/PR-5E.aspx "An acoustic guitar."
 [serato-dj]: https://serato.com/dj "DJing software."

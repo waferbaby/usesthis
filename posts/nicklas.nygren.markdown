@@ -36,7 +36,7 @@ I don't have one in the traditional sense. There's some specific music software 
 [drumaxx]: https://www.image-line.com/plugins/Synths/drumaxx/ "A drum pad audio plugin."
 [juceoplvsti]: https://bsutherland.github.io/JuceOPLVSTi/#getitnow "An OPL emulator audio plugin."
 [k712-pro]: https://www.akg.com/pro/p/k712pro "Over-the-ear headphones."
-[kx-400]: http://www.vintagecassette.com/Yamaha/KX-400 "A cassette deck."
+[kx-400]: http://web.archive.org/web/20220816172107/https://www.vintagecassette.com/yamaha/kx-400 "A cassette deck."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [microtonic]: https://soniccharge.com/microtonic "A drum and percussion audio plugin."

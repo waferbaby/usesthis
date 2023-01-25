@@ -39,4 +39,4 @@ I'd love to have my own showroom, or perhaps a shared showroom and studio combo,
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."

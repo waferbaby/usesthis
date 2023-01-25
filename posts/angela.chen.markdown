@@ -55,7 +55,7 @@ Even though I'm a freelancer, I actually love office environments, so I miss co-
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[h1]: https://www.zoom.co.jp/products/h1 "A digital recorder."
+[h1]: http://web.archive.org/web/20150516203209/http://www.zoom.co.jp:80/products/h1 "A digital recorder."
 [hll2300d]: https://www.brother-usa.com/products/hll2300d "A laser printer."
 [iphone-8-plus]: https://en.wikipedia.org/wiki/IPhone_8 "A 5.5 inch smartphone."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."

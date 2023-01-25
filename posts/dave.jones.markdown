@@ -78,7 +78,7 @@ A software tool that allows me to easily respond to YouTube comments in a logica
 
 An acoustically quiet and damped lab to work (and shout!) in. Preferably a huge separate garage out the back of my house.
 
-[10x-high-definition-ii]: https://opteka.com/10x.aspx "A macro lens for SLRs."
+[10x-high-definition-ii]: http://web.archive.org/web/20190730034302/http://opteka.com:80/10x.aspx "A macro lens for SLRs."
 [atr-3350]: https://www.audio-technica.com/cms/wired_mics/9c6eca17168eef6f/index.html "An omnidirectional microphone."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."

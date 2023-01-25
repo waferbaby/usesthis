@@ -41,5 +41,5 @@ I'm hoping my InDesign program will withstand the next [macOS][] update and I do
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[qs400ii]: http://www.godox.com/EN/Products_Studio_Flash_QSII_Series.html "A strobe light."
+[qs400ii]: http://web.archive.org/web/20211120035523/http://www.godox.com/EN/Products_Studio_Flash_QSII_Series.html "A strobe light."
 [x-acto]: https://en.wikipedia.org/wiki/X-Acto "A knife."

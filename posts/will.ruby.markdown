@@ -53,7 +53,7 @@ I'd love if Apple just made 2015 MacBook Pro's with new guts and an equivalent n
 
 I used to play with [Plask][] when it was under development, and a real JS graphics card forward development environment would be killer. You can do a lot of that stuff in browser but it requires a fair amount of boiler plate, and making apps in [Electron][] still feels kind of hacky to me. Someday I'll learn [Unity][] properly.
 
-[14mm-f2.8-if-ed-umc]: https://www.bhphotovideo.com/c/product/769532-REG/Rokinon_FE14M_C_14mm_Ultra_Wide_Angle_f_2_8.html "A camera lens."
+[14mm-f2.8-if-ed-umc]: http://web.archive.org/web/20211217221744/https://www.bhphotovideo.com/c/product/769532-REG/Rokinon_FE14M_C_14mm_Ultra_Wide_Angle_f_2_8.html "A camera lens."
 [35-s]: http://camera-wiki.org/wiki/Rollei_35#Rollei_35_S "A film camera."
 [arduboy]: https://arduboy.com/ "A hackable portable game console."
 [brio]: https://www.logitech.com/en-us/product/brio "A webcam."
@@ -61,7 +61,7 @@ I used to play with [Plask][] when it was under development, and a real JS graph
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
-[ef-100mm-f2.8l-is-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8l_macro_is_usm "A macro lens."
+[ef-100mm-f2.8l-is-usm]: http://web.archive.org/web/20151008110016/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8l_macro_is_usm "A macro lens."
 [electron]: http://electron.atom.io/ "A developer tool for building desktop apps with web technology."
 [eos-6d]: https://en.wikipedia.org/wiki/Canon_EOS_6D "A 20.2 megapixel DSLR."
 [express.2]: http://expressjs.com "A JavaScript web framework."

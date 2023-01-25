@@ -76,7 +76,7 @@ Having had that experience, and also having paid many electricity bills, I'd say
 
 [call-of-duty-world-at-war]: https://en.wikipedia.org/wiki/Call_of_Duty:_World_at_War "A WWII first person shooter."
 [clipx]: http://bluemars.org/clipx/ "A Windows clipboard history manager."
-[colloquy-ios]: https://www.colloquy.mobi/ "An IRC client app."
+[colloquy-ios]: http://web.archive.org/web/20191118233533/https://colloquy.mobi/ "An IRC client app."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [git]: https://git-scm.com/ "A version control system."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."

@@ -30,7 +30,7 @@ My dream space would bring me the feeling of cooking in the kitchen when I'm wor
 [are.na]: https://www.are.na/ "A service for collecting ideas."
 [atom]: https://atom.io/ "A text editor based on web technology."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [hexagonal-aluminum-ball-point-pen-0.7mm]: https://www.muji.us/store/hexagonal-aluminum-ball-point-pen-0-7mm4548718616022.html "A ball point pen."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

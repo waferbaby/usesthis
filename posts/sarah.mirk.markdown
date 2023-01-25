@@ -35,7 +35,7 @@ I think I've got it. I guess if I could have all this, plus an endless supply of
 
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixlr]: https://pixlr.com/ "A web-based image editor."

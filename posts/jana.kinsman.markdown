@@ -51,7 +51,7 @@ The setup I have for my illustration freelance work is already a dream. I work w
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [langstroth-hive]: https://en.wikipedia.org/wiki/Langstroth_hive "A type of beehive."
-[m00926-smoker]: https://www.dadant.com/catalog/product_info.php?products_id=43 "A smoker for subduing bees."
+[m00926-smoker]: http://web.archive.org/web/20150905075735/http://www.dadant.com/catalog/product_info.php?products_id=43 "A smoker for subduing bees."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [osmos-ios]: https://itunes.apple.com/us/app/osmos/id382991304 "A physics-based game."
 [perfection-v600]: https://www.amazon.com/Epson-B11B198011-Perfection-Photo-Scanner/dp/B002OEBMRU "A photo scanner."

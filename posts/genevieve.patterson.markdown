@@ -32,7 +32,7 @@ Probably the oddest thing about my setup is that I like to rotate my terminal pr
 
 I sort of hate desks. Especially the same desk everyday. I wish I had a "random" function that would give me a different place to work every morning from my list of favorites. I used to like working from a hammock chair at my old MSR office with a view of the Charles River, but after a couple days I wanted that to be randomized too! I want to have a different visual perspective all the time. I think that's important to get my creative brain working.
 
-[collab-pro]: https://colab.research.google.com/signup "A hosted Python service with GPU access."
+[collab-pro]: http://web.archive.org/web/20221219024525/https://colab.research.google.com/signup "A hosted Python service with GPU access."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."

@@ -57,6 +57,6 @@ A heads-up display. The "names and faces" part of my brain has never really work
 [n770]: https://en.wikipedia.org/wiki/Nokia_770_Internet_Tablet "An Internet tablet device."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [virtualdub]: http://www.virtualdub.org/ "A video capture and processing tool for Windows."
-[vixia-hv20]: https://www.usa.canon.com/cusa/support/consumer/camcorders/high_definition_camcorders/vixia_hv20 "A high definition video camcorder."
+[vixia-hv20]: http://web.archive.org/web/20150909093845/http://www.usa.canon.com:80/cusa/support/consumer/camcorders/high_definition_camcorders/vixia_hv20 "A high definition video camcorder."
 [winamp]: http://www.winamp.com/ "A media player."
 [xacti-vpc-fh1]: https://www.amazon.com/Sanyo-VPC-FH1-Memory-Camcorder-advance/dp/B001Q3M9PY "A high definition video recorder and 8 megapixel camera."

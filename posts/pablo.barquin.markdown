@@ -27,17 +27,17 @@ We recently used this very cool software for our last piece Resonance, Pepakura,
 
 A 3D printer like the one [Junior Veloso](http://3dhomemade.blogspot.com/ "Junior's website about his 3D printer.") has built, a CNC machine that can cut metal, a laser cutter, a stereoscopic screen+graphic card, a huge SSD raid that's indestructible, visual programming software that is node-based and doesn't need any code writing. And then, oh! a microwave that cools down in seconds instead of heating up.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [autopagerize]: http://autopagerize.net/ "A browser extension for paginating content."
-[eagle]: https://cadsoft.io "Software for designing printed circuit boards."
+[eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [processing]: https://processing.org/ "A programming language/environment."
 [propeller]: https://www.parallax.com/catalog/microcontrollers/propeller "A chip for rapid embedded development."
-[xmarks]: http://www.xmarks.com/ "A bookmark syncing service."
+[xmarks]: http://web.archive.org/web/20180429143902/https://www.xmarks.com/ "A bookmark syncing service."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

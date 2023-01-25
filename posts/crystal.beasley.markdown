@@ -43,5 +43,5 @@ My mystery, unicorn-and-glitter-in-the-moonbeams setup would be one that is opti
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[sketch-marker]: http://store.copicmarker.com/pages/overview-sketch-markers "A marker with replaceable nibs."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
+[sketch-marker]: http://web.archive.org/web/20140827001710/http://store.copicmarker.com/pages/overview-sketch-markers "A marker with replaceable nibs."

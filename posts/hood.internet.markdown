@@ -29,14 +29,14 @@ The LED lighting sequences also originate in Ableton. When a song is triggered t
 
 Our lighting designer Morgan Leek recently made a supersized version of Hood's LED lights for the band Tegan & Sara, and it's pretty fantastic. It would be awesome if we had an unlimited budget for him to work with to create something along those lines, as well as incorporate video screens that work in tandem with the design, which would be operated by our video artist, Joe Carsello.
 
-[djm-800]: https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
+[djm-800]: http://web.archive.org/web/20190626133114/https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
 [djm-900nxs]: https://www.pioneerdj.com/en/product/mixer/djm-900nxs/black/overview "A MIDI mixer."
 [dmx-usb-pro]: https://www.enttec.com/index.php?main_menu=Products&prod=70304&show=description "A dongle for connecting computers to DMX512 lightning systems."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [madmapper]: https://www.madmapper.com/ "Mac software for video-mapping projections."
 [modul8]: http://www.modul8.ch/index.php "Real-time video mixing/compositing software for Mac OS X."
-[mpd18]: https://www.akaipro.com/product/mpd18 "A DJ pad controller."
+[mpd18]: http://web.archive.org/web/20170623124249/http://www.akaipro.com:80/product/mpd18 "A DJ pad controller."
 [scarlett-2i4]: http://us.focusrite.com/usb-audio-interfaces/scarlett-2i4 "A USB audio interface."
 [syphon]: http://syphon.v002.info/ "Real-time video frame mixing."
-[trigger-finger]: https://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
+[trigger-finger]: http://web.archive.org/web/20220522192913/https://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."

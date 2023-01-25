@@ -35,7 +35,7 @@ Ideally I would also like a shelving unit to help organize art supplies, canvase
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

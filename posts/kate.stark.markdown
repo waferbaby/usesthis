@@ -42,7 +42,7 @@ My dream set up is basically exactly what I have right now. In September 2016, s
 [layer-one]: https://layerone.io/ "A service for aggregating tools and services for streamers."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [pretzel-rocks]: https://www.pretzel.rocks/ "A music player and service designed for streamers."
-[ryzen-7-1700]: https://www.amd.com/en/products/cpu/amd-ryzen-7-1700 "A CPU."
+[ryzen-7-1700]: http://web.archive.org/web/20201122220219/https://www.amd.com/en/products/cpu/amd-ryzen-7-1700 "A CPU."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [twitch]: https://www.twitch.tv/ "A video broadcasting service."

@@ -51,7 +51,7 @@ Honestly, though, I'm pretty happy with my relatively low-tech setup. The nice t
 [m50]: https://www.avon-protection.com/products/m50.htm "A gas mask."
 [medium]: https://medium.com/ "A writing/blogging service."
 [pixel-3a-xl]: https://en.wikipedia.org/wiki/Pixel_3a "A 6 inch Android smartphone."
-[powercore-20100]: https://www.anker.com/products/variant/PowerCore-20100/A1271012 "A portable battery/charger."
+[powercore-20100]: http://web.archive.org/web/20210306115847/https://www.anker.com/products/variant/PowerCore-20100/A1271012 "A portable battery/charger."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [thinkpad-yoga-730]: https://www.lenovo.com/us/en/laptops/yoga/700-series/Yoga-730-15/p/88YG7000965 "A 15.6 inch 2-in-1 PC laptop."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

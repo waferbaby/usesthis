@@ -64,13 +64,13 @@ The storage thing might seem crazy, but I'd really like to be able to do stuff l
 
 Otherwise I'd like a better mouse, and maybe a change to slightly quieter key-switches on my keyboard.
 
-[970-evo]: https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/970evo/ "An SSD drive."
+[970-evo]: http://web.archive.org/web/20211125144915/https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/970evo/ "An SSD drive."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [burp]: https://portswigger.net/burp/ "Software for vulnerability scanning and traffic interception."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [comfort-mouse-6000]: https://www.microsoft.com/accessories/en-us/d/comfort-mouse-6000 "A mouse."
 [command-and-conquer-remastered]: https://www.ea.com/games/command-and-conquer/command-and-conquer-remastered "A classic RTS game, remastered."
-[detectify]: https://detectify.com/ "A service for automatically detecting security issues for your own service."
+[detectify]: http://web.archive.org/web/20221226093538/https://detectify.com/ "A service for automatically detecting security issues for your own service."
 [geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080/ "A graphics card."
 [geforce-rtx-2080-ti]: https://www.nvidia.com/en-us/geforce/graphics-cards/rtx-2080-ti/ "A graphics card."
 [go]: https://golang.org/ "A compiled programming language."
@@ -81,8 +81,8 @@ Otherwise I'd like a better mouse, and maybe a change to slightly quieter key-sw
 [optane-ssd-900p]: https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/consumer-ssds/optane-ssd-9-series/optane-ssd-900p-series.html "A PCIe SSD drive."
 [proton]: https://github.com/ValveSoftware/Proton "A Steam tool to help Windows games run on Linux."
 [rokit-5]: http://www.krksys.com/krk-studio-monitor-speakers/rokit/rokit-5.html "Studio monitors."
-[ryzen-7-2700x]: https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
-[ryzen-threadripper-3990x]: https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-3990x "A computer processor."
+[ryzen-7-2700x]: http://web.archive.org/web/20220905134444/https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
+[ryzen-threadripper-3990x]: http://web.archive.org/web/20220202144740/https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-3990x "A computer processor."
 [scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

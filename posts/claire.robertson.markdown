@@ -52,7 +52,7 @@ While we're fantasising; I'd like to add to the list some kind of futuristic rob
 And lots of Green & Blacks chocolate.
 
 [3160qdc]: http://www.janome.com/en/machines/sewing/3160qdc/ "A sewing machine."
-[canoscan-lide-700f]: https://www.usa.canon.com/cusa/consumer/products/scanners/film_negative_scanners/canoscan_lide_700f "A film and negative scanner."
+[canoscan-lide-700f]: http://web.archive.org/web/20151022043804/http://www.usa.canon.com:80/cusa/consumer/products/scanners/film_negative_scanners/canoscan_lide_700f "A film and negative scanner."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."

@@ -45,6 +45,6 @@ But, if you want my ultimate dream, it would be haptic gloves, a haptic suit and
 [micro-illustrator]: http://plus4world.powweb.com/software/Micro_Illustrator "A drawing program for the C64"
 [paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
-[sketchbook-pro]: https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
+[sketchbook-pro]: http://web.archive.org/web/20170616043728/https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
 [vive]: http://www.htcvr.com/ "A SteamVR headset."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

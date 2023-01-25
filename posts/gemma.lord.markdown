@@ -45,4 +45,4 @@ I really like making large posters to communicate the ideas I'm thinking about, 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[vsco-film]: https://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."
+[vsco-film]: http://web.archive.org/web/20171230140856/http://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."

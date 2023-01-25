@@ -51,7 +51,7 @@ Oh, and I guess I like my scanner - it's an [Epson Perfection V500 Photo][perfec
 I most wish I could have a small laptop like the Air but with a monster graphics card inside, a touchscreen with pressure sensitive pen input and a built-in high-quality video projector so I could work seriously on 3D anywhere. I'd like a 3D printer in our studio that outputs to wax, plaster, marble and bronze.
 
 [123d-catch-ios]: https://itunes.apple.com/us/app/123d-catch/id513913018 "An app for capturing 3D images."
-[art-pen]: https://www.wacom.com/en-us/store/pens/art-pen "A pen for Wacom tablets."
+[art-pen]: http://web.archive.org/web/20160326124912/http://www.wacom.com/en-us/store/pens/art-pen "A pen for Wacom tablets."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [creative-stylus]: https://www.amazon.com/Wacom-Intuos-Creative-Stylus-CS500PK0/dp/B00FC7DOCW "A stylus for the iPad."
@@ -61,7 +61,7 @@ I most wish I could have a small laptop like the Air but with a monster graphics
 [fission]: https://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."
 [i-xy]: http://www.ixymic.com/ "A microphone for the iPhone."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

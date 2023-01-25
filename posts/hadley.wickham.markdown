@@ -59,7 +59,7 @@ As long as I have my laptop, headphones, an internet connection and comfy seat, 
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [rstudio]: https://www.rstudio.com/ "An IDE for the R language."
 [s3]: https://aws.amazon.com/s3/ "Cloud-based Internet storage magic."
-[se215]: https://www.shure.com/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "In-ear sound isolating headphones."
+[se215]: http://web.archive.org/web/20150718035609/http://www.shure.com:80/americas/products/earphones-headphones/se-earphones/se215-sound-isolating-earphones "In-ear sound isolating headphones."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [the-old-reader]: https://theoldreader.com/ "A social feed reader."

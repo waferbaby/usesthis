@@ -65,7 +65,7 @@ Most of my expeditions are long suffer-fests where gear and comfort are at a min
 [farley-9.8]: https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/farley/farley-9-8/p/1066000-2016 "A mountain bike."
 [fdr-x1000v]: https://www.sony.com/electronics/actioncam/fdr-x1000v-body-kit "A 4K video camera."
 [glittertind]: https://en-us.madshus.com/nordic-skis/glittertind-ski "A pair of skis."
-[inreach-explorer]: http://www.inreachdelorme.com/product-info/inreach-explorer.php "A GPS and SOS device."
+[inreach-explorer]: http://web.archive.org/web/20210321002926/http://www.inreachdelorme.com/product-info/inreach-explorer.php "A GPS and SOS device."
 [jumpr-stack-6]: http://www.goenerplex.com/products/portable-batteries/jumpr-stack-6 "A portable battery."
 [kickr-iv]: http://www.goenerplex.com/products/portable-solar-chargers/kickr-iv "A portable solar charger."
 [lightning-ascent]: https://www.cascadedesigns.com/msr/snowshoes/ascent-snowshoes/lightning-ascent-snowshoes/product "A pair of nowshoes."

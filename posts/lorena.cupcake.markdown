@@ -37,8 +37,8 @@ I download a lot of mixtapes off [Dat Piff](http://www.datpiff.com/ "A mixtape w
 
 I dunno, a beach with a piña colada maker and a convenient pile of rocks to lash to my body as I walk into the sea.
 
-[6000mah-ultra-slim-power-bank]: https://www.easyacc.com/en/623-easyacc-6000mah-ultra-slim-power-bank-with-built-in-cable.html "An external phone battery."
-[aviary]: https://www.aviary.com/ "A web-based image editor."
+[6000mah-ultra-slim-power-bank]: http://web.archive.org/web/20201026191341/https://www.easyacc.com/en/623-easyacc-6000mah-ultra-slim-power-bank-with-built-in-cable.html "An external phone battery."
+[aviary]: http://web.archive.org/web/20200505031914/http://aviary.com/ "A web-based image editor."
 [buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
 [dsco-ios]: https://itunes.apple.com/us/app/dsco-by-vsco/id1038318658 "A photo and GIF app."
 [facebook]: https://www.facebook.com/ "A social networking site."

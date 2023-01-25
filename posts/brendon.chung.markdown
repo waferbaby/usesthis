@@ -58,7 +58,7 @@ Finally, I'd find it useful to have a large-scale scanner. My current scanner ac
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
-[subversion]: http://subversion.tigris.org/ "A version control system."
+[subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
 [visual-c-sharp-express]: https://en.wikipedia.org/wiki/Microsoft_Visual_Studio_Express#Visual_C.23_Express "A programmer IDE for C#."

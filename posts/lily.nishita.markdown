@@ -49,7 +49,7 @@ I'm really looking forward to getting a faster home computer - this one has serv
 [nostromo]: https://www.razerzone.com/gaming-keyboards-keypads/razer-nostromo "A gaming controller/keyboard."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
-[pocket-brush-pen]: https://www.pentel.com/store/pentel-pocket-brush-pen "A pen."
+[pocket-brush-pen]: http://web.archive.org/web/20181003011139/http://www.pentel.com:80/store/pentel-pocket-brush-pen "A pen."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."

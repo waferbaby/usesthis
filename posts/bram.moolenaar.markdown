@@ -54,7 +54,7 @@ Well, what I'm already running! I sometimes wonder what I can buy to make it wor
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [portal]: https://store.steampowered.com/app/620/ "An awesome, groundbreaking game."
-[ryzen-7-2700x]: https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
+[ryzen-7-2700x]: http://web.archive.org/web/20220905134444/https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."

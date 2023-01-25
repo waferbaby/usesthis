@@ -40,6 +40,6 @@ I envision the aesthetic to be a combination of more modern design with high cei
 [gsf-46-3-inch]: https://www.amazon.com/Global-GSF-46-inch-Paring-Knife/dp/B001QV2F9G "A knife."
 [ikon-blackwood-6-inch]: https://www.amazon.com/Wusthof-8-Inch-Cooks-Blackwood-Handle/dp/B000Z1YQGS "A chef's knife."
 [kaizen-bread-9.5-inch]: https://www.amazon.com/Miyabi-Kaizen-2-Inch-Bread-Knife/dp/B005K8QGUU "A bread knife."
-[pro-harmony]: https://www.thermador.com/cooking/ranges/prg366gh-professional-series-36-inch-gas-standarddepth-range-porcelain-rangetop "A gas-powered rangetop."
-[sourcery]: https://sourcery.us/directory/categories "A wholesale food vendor directory."
+[pro-harmony]: http://web.archive.org/web/20140731235426/http://www.thermador.com/cooking/ranges/prg366gh-professional-series-36-inch-gas-standarddepth-range-porcelain-rangetop "A gas-powered rangetop."
+[sourcery]: http://web.archive.org/web/20170224175217/http://sourcery.us:80/directory/categories "A wholesale food vendor directory."
 [sous-chef-food-processor]: https://www.amazon.com/Breville-BFP800XL-Sous-Chef-Processor/dp/B005I6ZKCE "A food processor."

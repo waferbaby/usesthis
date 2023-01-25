@@ -33,14 +33,14 @@ On the songwriting side of things, I probably use Voice Memos more than [GarageB
 I would love to own a home with a finished basement, if only to have a place to store all of my guitar cases. They are the bulkiest, most annoying things to have in a small apartment. It would be amazing to have a dedicated music space to play and record in. Especially if I could just roll out of bed and be in it. I also wouldn't mind a [12-string Rickenbacker][360-12].
 
 [360-12]: http://www.rickenbacker.com/model.asp?model=360/12 "A 12 string electric guitar."
-[aqua-puss]: https://www.jimdunlop.com/product/whe701-7-10137-04616-0.do "An analog delay."
-[blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
+[aqua-puss]: http://web.archive.org/web/20190506100354/https://www.jimdunlop.com/product/whe701-7-10137-04616-0.do "An analog delay."
+[blues-junior-iii]: http://web.archive.org/web/20210618204947/https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
 [e-935]: https://en-us.sennheiser.com/vocal-microphone-dynamic-cardioid-e-935 "A microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [gibson-sg]: https://en.wikipedia.org/wiki/Gibson_SG "An electric guitar."
-[intersteller-overdriver]: http://www.killerrockandroll.com/deathbyaudio/interstellaroverdriver.html "An overdrive pedal."
+[intersteller-overdriver]: http://web.archive.org/web/20160408000426/http://www.killerrockandroll.com:80/deathbyaudio/interstellaroverdriver.html "An overdrive pedal."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [olympic]: http://epiphonewiki.com/index.php/Olympic "An electric guitar."
 [precise-v5-rt]: https://www.amazon.com/Pilot-Precise-Retractable-Rolling-Extra/dp/B001E6A9M8/ "A retractable ball point pen."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [shaker-vibrato]: http://www.tcelectronic.com/shaker-vibrato/ "A vibrato effect pedal."

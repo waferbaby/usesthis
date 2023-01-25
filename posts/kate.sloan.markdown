@@ -57,7 +57,7 @@ My current desk chair is a blue leather relic from my university days, originall
 [e7]: https://www.cowinaudio.com/products/cowin-e7-noise-cancelling-headphone "Noise cancelling on-ear headphones."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [image-downloader]: https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?hl=en-US "A Chrome extension for downloading images from websites."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-xs]: https://en.wikipedia.org/wiki/IPhone_XS "A 5.8 inch iOS phone."
 [kindle-oasis]: https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."

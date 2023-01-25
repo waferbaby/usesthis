@@ -37,7 +37,7 @@ My dream setup would involve everything other than my setup -- time, funding, su
 [gifcam]: http://blog.bahraniapps.com/gifcam/ "Windows GIF screen capture software."
 [github]: https://github.com/ "A Git code repository service."
 [gitlab]: https://about.gitlab.com/ "A git repository manager."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sourcetree]: https://www.sourcetreeapp.com/ "A Mac GUI client for Git, Subversion and Mercurial."

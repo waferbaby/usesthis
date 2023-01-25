@@ -46,7 +46,7 @@ I would somehow install a simulation of a night sky on my ceiling. I would want 
 
 I see myself standing in the middle of this room looking out the window... I like the way it feels.
 
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [maschine-mikro]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine-mikro/ "A small tactile sequencer and sampler."
 [maschine]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine/ "A tactile sequencer and sampler."

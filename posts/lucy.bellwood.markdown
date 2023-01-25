@@ -58,7 +58,7 @@ And I'm even thinking about making a *bigger travel sketchbook*? Like... *9x12??
 
 Dream big, Little Bellwood.
 
-[aquash-water-brush]: https://www.pentel.com/store/aquash-water-brush-large-fine-point-tip "A water brush."
+[aquash-water-brush]: http://web.archive.org/web/20180808160228/http://www.pentel.com:80/store/aquash-water-brush-large-fine-point-tip "A water brush."
 [carbon-desk-fountain-pen]: https://www.amazon.com/Platinum-Carbon-Fountain-Super-DP-800S/dp/B006CQT87W "A pen."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [cosmo]: https://www.redgiant.com/products/magic-bullet-cosmo/ "A skin tone and blemish plugin for After Effects."
@@ -67,7 +67,7 @@ Dream big, Little Bellwood.
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [l-500grp]: https://www.amazon.com/NT-Heavy-Duty-Aluminum-Auto-Lock-L-500GRP/dp/B009F6BT0A/ "A utility knife."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[manga-studio-ex]: https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[manga-studio-ex]: http://web.archive.org/web/20180424074240/https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [neck-led-light]: https://www.amazon.com/DLAND-Flexible-Reading-4-level-Control/dp/B01MAUA14H/ "A light that sits on your neck."
 [perfection-v550]: https://www.amazon.com/Epson-Perfection-V550-Negative-B11B210201/dp/B00E1O74SW "A colour scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

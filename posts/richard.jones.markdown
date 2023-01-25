@@ -58,7 +58,7 @@ I'd like a bigger desk, although I think It would still end up covered in stuff 
 [irccloud]: https://www.irccloud.com/ "A web-based IRC service."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [kde]: https://www.kde.org/ "A graphical environment for *nix operating systems."
-[keyremap4macbook]: https://pqrs.org/osx/karabiner/ "Mac software for remapping the keys of your laptop."
+[keyremap4macbook]: https://karabiner-elements.pqrs.org/ "Mac software for remapping the keys of your laptop."
 [last.fm]: https://www.last.fm/ "An online radio/tool for tracking your listening habits."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

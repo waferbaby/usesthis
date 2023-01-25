@@ -55,7 +55,7 @@ For fun game design stuff, I play with both [Twine][] and [ink][] (with the Inky
 I'm pretty pleased with what I've got already. A gentle wish would be for a more powerful PC that I didn't have to dust. I'd like the same laptop, but with better gaming capabilities and a near-infinite battery. An actual dream setup? What I've already got, but ski-in ski-out - while still being based in London. Oh, and someone to yell at me to sit up straight. My posture's crap.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[aspire-s7-392]: https://www.amazon.co.uk/Acer-Touchscreen-Processor-Integrated-Graphics/dp/B00FLPFZBS/ "A 13.3 inch touchscreen PC laptop."
+[aspire-s7-392]: http://web.archive.org/web/20190506091218/https://www.amazon.co.uk/Acer-Touchscreen-Processor-Integrated-Graphics/dp/B00FLPFZBS/ "A 13.3 inch touchscreen PC laptop."
 [classic-shell]: http://www.classicshell.net/ "A tool for customising Windows."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."

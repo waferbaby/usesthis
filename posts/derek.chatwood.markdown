@@ -37,17 +37,17 @@ Well, it's a silly dream, but I would love a dual monitor setup with one of the 
 
 That's it. My dreams are simple. Other than the Cintiq thing.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [canoscan-lide-110]: https://www.usa.canon.com/internet/portal/us/home/products/details/scanners/photo-scanner/canoscan-lide-110 "A USB flatbed photo scanner."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[graph-gear-1000]: https://www.amazon.com/Pentel-Automatic-Drafting-Accents-PG1013E/dp/B005GSL762 "A drafting pencil."
+[graph-gear-1000]: https://www.pentel.com/products/graph-gear-1000-mechanical-drafting-pencil "A drafting pencil."
 [gtkradiant]: http://icculus.org/gtkradiant/ "A level editor for id games (Doom, Quake)."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [p4v]: https://www.perforce.com/product/components/perforce-visual-client "A graphical client for the Perforce version control system."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [potenza]: https://www.maingear.com/custom/desktops/potenza/ "A gamer's desktop PC."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."

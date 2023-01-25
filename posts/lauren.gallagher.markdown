@@ -25,7 +25,7 @@ To be the honest the Cards Against Humanity office is pretty close to ideal. The
 
 [bear]: http://www.bear-writer.com "A note taking application for macOS."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [designjet-t520]: https://www8.hp.com/us/en/large-format-printers/designjet-printers/t520.html "A large-format printer."
 [ez391u]: http://us.riso.com/products/digital-duplicators/one-color/ez391/ "A digital duplicator."
 [flow]: https://www.getflow.com/ "A project management service."

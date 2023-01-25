@@ -75,7 +75,7 @@ I think I would like to own a Hohner [Pianet T][pianet-t].
 [openframeworks]: http://openframeworks.cc "A C++ library for creative projects."
 [pianet-t]: https://en.wikipedia.org/wiki/Pianet#Pianet_T "A electro-mechanical piano."
 [quantum.2]: https://waldorfmusic.com/en/quantum "A synthesiser."
-[rednet-a16r]: https://pro.focusrite.com/category/audiooverip/item/rednet-a16r "A Dante I/O audio interface."
+[rednet-a16r]: http://web.archive.org/web/20190420082819/https://pro.focusrite.com/category/audiooverip/item/rednet-a16r "A Dante I/O audio interface."
 [rednet-am2]: https://pro.focusrite.com/category/audiooverip/item/rednet-am2 "A Power Over Ethernet output device."
 [rednet-x2p]: https://pro.focusrite.com/category/audiooverip/item/rednet-x2p "A Dante audio interface."
 [rhodes-mk-i]: https://en.wikipedia.org/wiki/Rhodes_piano#Later_models "A music keyboard."

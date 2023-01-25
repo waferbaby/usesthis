@@ -57,7 +57,7 @@ Honestly, I'm pretty happy hardware-wise with what I use right now. It's likely 
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
 [slack]: https://slack.com/ "A collaboration service."
-[smart-keyboard]: https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
+[smart-keyboard]: http://web.archive.org/web/20200310060157/https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
 [spark.2]: https://sparkmailapp.com "A Mac email client."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."

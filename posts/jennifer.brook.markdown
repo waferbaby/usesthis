@@ -78,7 +78,7 @@ I'd also like a small Trans-Pacific subterranean pneumatic tube that would speed
 [pocket-laundry-wash]: https://www.amazon.com/Sea-Summit-Travel-Pocket-Leaves/dp/B002BOEUQS "Travel soap."
 [rdio-ios]: https://itunes.apple.com/us/app/rdio/id335060889 "An Rdio client for iOS."
 [s-biner-stainless-steel]: https://www.niteize.com/product/S-Biner-Stainless-Steel.asp "A dual-spring hook."
-[sel16f28]: http://store.sony.com/sel16f28-interchangeable-alpha-e-mount-16mm-f2.8-zid27-SEL16F28/cat-27-catid-All-Alpha-NEX-Lenses "A wide-angle NEX lens."
+[sel16f28]: http://web.archive.org/web/20141104100254/http://store.sony.com:80/sel16f28-interchangeable-alpha-e-mount-16mm-f2.8-zid27-SEL16F28/cat-27-catid-All-Alpha-NEX-Lenses "A wide-angle NEX lens."
 [series-6150-travelers-watercolor-brush]: https://www.utrechtart.com/Utrecht-Series-6150-Traveler-s-Watercolor-Brush-Set-of-3-with-steel-caps-MP-09316-001-i1007973.utrecht "Watercolour paintbrushes."
 [simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [slip-n-snip]: http://www.slipnsnip.com/ "Foldable TSA-approved scissors."

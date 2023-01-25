@@ -36,7 +36,7 @@ I basically have it. A room in my home. A lot of natural light. It's covered in 
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [precise-grip]: https://www.amazon.com/Pilot-Precise-Liquid-Rolling-28941/dp/B001HAARSC "A pen."
 [ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."

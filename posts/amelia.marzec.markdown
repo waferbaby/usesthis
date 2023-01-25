@@ -27,7 +27,7 @@ These days I'm thinking a lot about space and archiving, what to have online / o
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[fmst-100]: https://www.rainbowkits.com/kits/fmst-100p.html "An FM transmitter."
+[fmst-100]: http://web.archive.org/web/20200225024225/http://rainbowkits.com:80/kits/fmst-100p.html "An FM transmitter."
 [google-analytics]: http://www.google.com/analytics/ "Web analytics."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: https://drive.google.com/ "A cloud storage service."

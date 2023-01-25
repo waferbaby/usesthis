@@ -45,7 +45,7 @@ I have an old [LC-A][] camera and wish there were other lenses I could put on it
 [bass-terror-1000]: https://www.amazon.com/Orange-Amplifiers-Terror-Bass-1000/dp/B0046IH1XQ "A guitar amp."
 [blackwing-602]: https://en.wikipedia.org/wiki/Blackwing_602 "A pencil."
 [blackwing]: https://pencils.com/product-category/all-brands/blackwing/palomino-blackwing-12-pk "A pencil"
-[diana-f-plus]: https://microsites.lomography.com/diana/cameras/diana-f-clones "A film camera."
+[diana-f-plus]: http://web.archive.org/web/20150623184349/http://microsites.lomography.com:80/diana/cameras/diana-f-clones "A film camera."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gmail]: https://mail.google.com/mail/ "Web-based email."

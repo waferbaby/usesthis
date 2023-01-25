@@ -46,5 +46,5 @@ I'd also like to have an Android 4.0 phone, and expect to get one within a few m
 [thinkpad-x60]: http://www.thinkwiki.org/wiki/Category:X60s "A 12.1 inch PC laptop."
 [trackman-marble]: https://www.logitech.com/en-us/product/trackman-marble "A trackball."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[unity.2]: http://unity.ubuntu.com/projects/unity/ "A desktop and notebook environment."
+[unity.2]: http://web.archive.org/web/20170905064051/http://unity.ubuntu.com:80/projects/unity "A desktop and notebook environment."
 [xfce]: https://www.xfce.org/ "A lightweight UNIX-like desktop environment."

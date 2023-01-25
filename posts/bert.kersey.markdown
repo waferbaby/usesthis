@@ -68,5 +68,5 @@ So I'm happy with my setup, but a more rugged MacBook Pro case would be much app
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [soundtrack-pro]: https://en.wikipedia.org/wiki/Soundtrack_Pro "A Mac audio editor tailored for movies."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [toast]: http://www.roxio.com/enu/products/toast/ "Software for creating and burning optical media."

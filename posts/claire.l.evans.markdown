@@ -51,5 +51,5 @@ The proverbial "room of one's own." Every writer has a fantasy of a long, long w
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

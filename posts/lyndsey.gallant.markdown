@@ -58,7 +58,7 @@ I'd really love to have a mobile workstation so I can have more workdays in cafe
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [gs43vr-7re-phantom-pro]: https://www.msi.com/Laptop/GS43VR-7RE-Phantom-Pro/Specification "A 14 inch gaming laptop."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [k70-rgb-mk.2]: https://www.corsair.com/us/en/k70-rgb-gaming-keyboard "A gaming keyboard."
 [m65-pro-rgb]: https://www.corsair.com/us/en/m65pro "A gaming mouse."

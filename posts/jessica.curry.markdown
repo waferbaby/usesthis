@@ -45,7 +45,7 @@ My dream setup would be to have a person who sat in a corner of my studio and wh
 [kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/ "A large sound library."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
-[rd-500]: https://www.sweetwater.com/sweetcare/articles/roland-rd-500-technical-specifications/ "A MIDI keyboard."
+[rd-500]: http://web.archive.org/web/20190506092217/https://www.sweetwater.com/sweetcare/articles/roland-rd-500-technical-specifications/ "A MIDI keyboard."
 [rd-700nx]: https://www.roland.com/products/en/RD-700NX/ "A MIDI keyboard."
 [saffire-6-usb]: http://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
 [sibelius]: https://www.avid.com/US/products/sibelius "Music notation software."

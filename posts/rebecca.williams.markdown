@@ -44,7 +44,7 @@ Sean Boots of the Canadian Digital Service has created [isthisblockedinmydepartm
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-xr]: https://en.wikipedia.org/wiki/IPhone_XR "A 6 inch smartphone."
 [jekyll]: https://jekyllrb.com/ "A static site generator."
-[latitude-e7470]: https://www.dell.com/support/manuals/en-us/latitude-e7470-ultrabook/Late_E7470_OM/Specifications?guid=GUID-5A37743B-091B-4716-9574-F99F29E7BF1C&lang=en-us "A 14 inch PC laptop."
+[latitude-e7470]: http://web.archive.org/web/20211026234400/https://www.dell.com/support/manuals/en-us/latitude-e7470-ultrabook/late_e7470_om/specifications?guid=guid-5a37743b-091b-4716-9574-f99f29e7bf1c "A 14 inch PC laptop."
 [office-365]: https://en.wikipedia.org/wiki/Office_365 "A hosted office suite."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."

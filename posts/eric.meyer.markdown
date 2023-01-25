@@ -85,7 +85,7 @@ A 15" 64GB RAM/2TB SSD MacBook Air with the ability to simultaneously run two 27
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [web-developer]: https://chrispederick.com/work/web-developer/ "A browser extension for web developers."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

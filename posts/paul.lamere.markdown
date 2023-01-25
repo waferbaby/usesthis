@@ -44,7 +44,7 @@ My current setup is pretty close to my dream setup already. I like to have every
 [gnuplot]: http://www.gnuplot.info/ "A command-line graphing tool."
 [graphviz]: http://www.graphviz.org/ "A tool for creating graphs."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
-[hacker-league]: https://www.hackerleague.org/ "A service for organising hackathons."
+[hacker-league]: http://web.archive.org/web/20221204113431/https://www.hackerleague.org/ "A service for organising hackathons."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [jquery]: https://jquery.com/ "A Javascript framework."

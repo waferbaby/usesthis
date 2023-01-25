@@ -32,7 +32,7 @@ Most often, I use: [Mail.app][mail] [Mail.app][mail] [Mail.app][mail]. I also us
 
 Upgrade to an Intel 256 GB SSD, 30" LCD, another height-adjustable desk at the office, and hire a full-time, in office, personal assistant. That's all I've got on my wishlist. :)
 
-[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[address-book]: http://web.archive.org/web/20191014200329/https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [af-nikkor-50mm-f1.8d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/2137/AF-NIKKOR-50mm-f%252F1.8D.html "A lens for SLR cameras."
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
@@ -71,5 +71,5 @@ Upgrade to an Intel 256 GB SSD, 30" LCD, another height-adjustable desk at the o
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [yammer]: https://www.yammer.com/ "An enterprise messaging platform."

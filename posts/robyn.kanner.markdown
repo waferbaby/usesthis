@@ -36,7 +36,7 @@ Honestly, it's basically what I have now. I've been a designer for about 10 year
 I will say this: I didn't start to use a whiteboard up until about a year and a half ago and that might have been my biggest mistake. They've been critical for me to think through a design --- so, I highly suggest picking up one!
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
+[blues-junior-iii]: http://web.archive.org/web/20210618204947/https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
 [byword-ios]: https://itunes.apple.com/us/app/byword/id482063361 "A Markdown text editor app."
 [byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
 [cant]: https://www.smartfurniture.com/products/Cant-Desk-by-Blu-Dot.html "A desk."

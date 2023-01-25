@@ -56,4 +56,4 @@ And one more thing... having heat in the winter and AC in the summer would be th
 [gator-board]: http://www.artsupply.com/foamcore/gatorboard.htm "A rigid board."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powershot-sx280-hs]: https://www.usa.canon.com/cusa/consumer/products/cameras/digital_cameras/powershot_sx280_hs "A 12.1 megapixel digital camera."
+[powershot-sx280-hs]: http://web.archive.org/web/20151026022229/http://www.usa.canon.com:80/cusa/consumer/products/cameras/digital_cameras/powershot_sx280_hs "A 12.1 megapixel digital camera."

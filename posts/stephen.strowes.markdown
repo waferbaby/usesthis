@@ -67,7 +67,7 @@ Deep down I'd like a desk that's 2m wide and maybe only 50cm deep. And I'd like 
 And, I'll always want an Atari [Falcon][falcon030] but [eBay][] prices are always comfortably above $1,000, and that always feels like a ridiculous price to pay. I'll simply continue dreaming.
 
 [ath-m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Over-the-ear headphones."
-[azur-540a]: https://techsupport.cambridgeaudio.com/hc/en-us/articles/200569842-Azur-540A-V1-V2 "An amp."
+[azur-540a]: http://web.archive.org/web/20221126215930/https://techsupport.cambridgeaudio.com/hc/en-us/articles/200569842-Azur-540A-V1-V2 "An amp."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [beamer]: https://bitbucket.org/rivanvx/beamer/wiki/Home "A LaTeX class for creating presentations."
 [bigquery]: https://en.wikipedia.org/wiki/BigQuery "A data warehouse service."

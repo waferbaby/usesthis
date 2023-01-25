@@ -43,7 +43,7 @@ A Sonos [Sub][] and [Connect][connect.2] (so I can play my records through the s
 [dl4]: https://line6.com/dl4/ "An effects pedal."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."

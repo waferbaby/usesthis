@@ -42,7 +42,7 @@ And of course I'm looking forward to working on shoots where I can get in some r
 [celtx]: https://www.celtx.com/index.html "A pre-production/script writing software suite."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [lavalier]: http://www.rodemic.com/microphones/lavalier/ "A lapel microphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [movieslate-ios]: http://www.movie-slate.com/ "A digital film slate app."

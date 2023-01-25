@@ -44,7 +44,7 @@ That being said, a better break room -- or a break room in general -- wouldn't h
 [123d-design]: http://www.123dapp.com/design "3D creation software."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cube]: https://www.3dsystems.com/3d-printers/personal/cube "A 3D printer."
-[eagle]: https://cadsoft.io "Software for designing printed circuit boards."
+[eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

@@ -34,7 +34,7 @@ Our studio Hundredrabbits produces tools that are open-source, and we have our o
 [github]: https://github.com/ "A Git code repository service."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
-[left]: https://100r.co/pages/left.html "A minimalist text editor."
+[left]: http://web.archive.org/web/20190611040350/https://100r.co/pages/left.html "A minimalist text editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [markl]: https://kokorobot.ca/#markl "A fighting game."
 [oquonie]: https://oquonie.100r.co/ "An adventure game."

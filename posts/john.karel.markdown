@@ -31,7 +31,7 @@ My dream set-up would be a large room with large windows. A dual monitor set-up 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [mx-master]: https://support.logitech.com/en_us/product/mx-master "A wireless mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

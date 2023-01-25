@@ -34,4 +34,4 @@ I don't need anything crazy computer-wise, the ASUS plays [Overwatch][] and can 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [snes]: https://en.wikipedia.org/wiki/Super_Nintendo_Entertainment_System "A 16-bit video game console."
-[trigger-finger]: https://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."
+[trigger-finger]: http://web.archive.org/web/20220522192913/https://www.musiciansfriend.com/keyboards-midi/m-audio-trigger-finger-16-midi-drum-control-surface "A MIDI control pad."

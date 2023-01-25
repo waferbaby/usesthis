@@ -50,7 +50,7 @@ As a game developer, it's also mostly about things that don't exist. I make the 
 [3007wfp]: https://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [7-looper-strip]: https://www.loop-master.com/looper-strip-p-138.html "A loop pedal switcher."
 [classic-shell]: http://www.classicshell.net/ "A tool for customising Windows."
-[cmirror]: https://mollyrocket.com/729 "Backup software for Windows."
+[cmirror]: http://web.archive.org/web/20150919110338/http://mollyrocket.com:80/729 "Backup software for Windows."
 [coyote-fortedxi]: https://www.pgmusic.com/coyotefortedxi.htm "An audio sampler plugin for DirectX."
 [eudora]: https://en.wikipedia.org/wiki/Eudora_(e-mail_client) "A popular old email client."
 [fraps]: http://www.fraps.com/ "Screen capturing software for Windows."

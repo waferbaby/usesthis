@@ -44,7 +44,7 @@ Honestly, probably more minimal than what I have now. Just an iPad with the Appl
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."
 [quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html "Wireless over-the-ear headphones."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
-[smart-keyboard]: https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
+[smart-keyboard]: http://web.archive.org/web/20200310060157/https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."

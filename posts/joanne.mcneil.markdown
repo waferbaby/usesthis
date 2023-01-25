@@ -55,7 +55,7 @@ Honestly, I would like a treadputer. I get all my good ideas when I go for a wal
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [yorufukurou]: https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."

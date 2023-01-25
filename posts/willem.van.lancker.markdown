@@ -51,7 +51,7 @@ On top of that, given I'm working from my phone so much, I would love a device t
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[nexus-5]: http://www.google.com/nexus/5/ "An Android smartphone."
+[nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
 [oyster]: https://en.wikipedia.org/wiki/Oyster_(company) "An online ebook store."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rdio-ios]: https://itunes.apple.com/us/app/rdio/id335060889 "An Rdio client for iOS."

@@ -52,7 +52,7 @@ I'd happily upgrade to a tricked out 16" MacBook Pro. If I'm just throwing money
 [bear]: http://www.bear-writer.com "A note taking application for macOS."
 [busycal]: http://www.busymac.com/busycal/ "Advanced calendar software for Mac OS X."
 [cleanmymac]: https://macpaw.com/cleanmymac "Software for removing unwanted files from your Mac."
-[codepen]: https://codepen.io/ "A web playground for front-end developers."
+[codepen]: http://web.archive.org/web/20221226174511/https://codepen.io/ "A web playground for front-end developers."
 [commodore-128]: https://en.wikipedia.org/wiki/Commodore_128 "An 8-bit computer."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."

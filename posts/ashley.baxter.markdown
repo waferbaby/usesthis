@@ -39,13 +39,13 @@ I'd definitely upgrade my [iPhone 6][iphone-6] to the [iPhone X][iphone-x]. I'd 
 Even though I have an office which I love (and can take my dog to work!), I do also like to work from home. I'd love for my home office to have more light and space, and even an extra desk to have friends come over and collaborate. My home office looks into a car park, which isn't very inspiring. My dream set-up would have a view of a park or nature of some sort. I'd have an espresso machine in the corner, so there's always the aroma of fresh coffee.
 
 [convertkit]: https://convertkit.com/ "An email marketing service."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [horizon-zero-dawn]: https://en.wikipedia.org/wiki/Horizon_Zero_Dawn "An action game in a world overrun by robots."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
-[iterate]: https://iteratehq.com/ "A survey service."
+[iterate]: http://web.archive.org/web/20221204190833/https://iteratehq.com/ "A survey service."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pipedrive]: https://www.pipedrive.com/ "A customer relations service."

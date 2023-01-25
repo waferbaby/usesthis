@@ -35,6 +35,6 @@ I'd like it if the HD display was bigger and much lighter and didn't have such a
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mzscheme]: https://plt-scheme.org/software/mzscheme/ "A core virtual machine for the PLT Scheme language."
 [picwing]: https://twitter.com/picwing "An online photo sharing service."
-[small-business]: https://www.aabacosmallbusiness.com/ecommerce "Online retail/merchant services and hosting."
-[snipshot]: http://www.ansa.com/snipshot/ "An online image editor."
+[small-business]: http://web.archive.org/web/20170914030439/https://www.aabacosmallbusiness.com/ecommerce "Online retail/merchant services and hosting."
+[snipshot]: http://web.archive.org/web/20160510111706/http://www.ansa.com:80/snipshot/ "An online image editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

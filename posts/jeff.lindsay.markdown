@@ -44,7 +44,7 @@ I'm probably stretching the scope of this question, but if you're going to dream
 
 [app-engine]: https://cloud.google.com/appengine/?csw=1 "Hosting for web applications."
 [bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
-[banksimple]: https://www.simple.com/ "A new banking service."
+[banksimple]: http://web.archive.org/web/20210508042851/https://www.simple.com/ "A new banking service."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [curl]: https://curl.haxx.se/ "A command-line tool for transferring data from URLs."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -66,7 +66,7 @@ I'm probably stretching the scope of this question, but if you're going to dream
 [notify-io]: https://github.com/progrium/notify-io "A service for desktop notifications via web apps."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
-[rake]: http://rake.rubyforge.org/ "A Ruby-based build tool, similar to make."
+[rake]: http://web.archive.org/web/20170129024258/http://rake.rubyforge.org/ "A Ruby-based build tool, similar to make."
 [remember-the-milk]: https://www.rememberthemilk.com/ "An online task/to-do list service."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [sauce-labs]: https://saucelabs.com/ "Hosted cross-browser testing."

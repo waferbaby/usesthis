@@ -50,7 +50,7 @@ I don't have a lot of gear-lust left these days. But if you had a gun to my head
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
 [irig-keys-37-pro]: https://www.ikmultimedia.com/products/irigkeys37pro/ "A MIDI keyboard."
-[ivory-5021]: https://www.musiciansfriend.com/pro-audio/tl-audio-ivory-5021-tube-compressor "A tube compressor."
+[ivory-5021]: http://web.archive.org/web/20190506064606/https://www.musiciansfriend.com/pro-audio/tl-audio-ivory-5021-tube-compressor "A tube compressor."
 [komplete]: https://www.native-instruments.com/en/products/komplete/ "An instruments and sound effect collection."
 [linkedin]: https://www.linkedin.com "A business-focused social network."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

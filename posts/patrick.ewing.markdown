@@ -34,14 +34,14 @@ My dream setup would be a collaborative physical computing environment, somethin
 
 This is a little more far-fetched, but I'd also love a Mac laptop that can run 3D games at 60fps.
 
-[appear.in]: https://appear.in/ "A service for web-based video conferencing."
+[appear.in]: http://web.archive.org/web/20221226105909/http://appear.in/ "A service for web-based video conferencing."
 [firewatch]: http://www.firewatchgame.com/ "A fire lookout adventure game."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
 [git-large-file-storage]: https://git-lfs.github.com/ "A git extension for versioning large files."
 [git]: https://git-scm.com/ "A version control system."
 [ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
 [jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
-[mobis-i]: https://store.focalupright.com/mobis-seat-p/ffs-1000.htm "An ergonomic chair."
+[mobis-i]: http://web.archive.org/web/20190506090312/https://store.focalupright.com/mobis-seat-p/ffs-1000.htm "An ergonomic chair."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
 [slack]: https://slack.com/ "A collaboration service."
 [spine]: http://esotericsoftware.com/ "2D animation software."

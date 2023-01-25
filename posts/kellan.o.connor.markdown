@@ -33,7 +33,7 @@ I use [Gmail][] for personal email. I store and backup with [Dropbox][] and I us
 I'm a minimalist so my dream setup involves having fewer things. Apple products are helping my cause because I can now do so much from my iPhone. It'd be ideal to me to have two devices that do everything I need (e.g. my iPhone and one other computing device), with large monitors setup wherever I happen to be working. I'd also love for the phone/computing device to be more rugged. I want it to be ok to drop things and get them wet. I'm excited about companies like [HzO](http://www.hzoinside.com/ "A technology for protecting devices from liquids.") and [Liquipel](http://www.liquipel.com/ "Another technology for protecting devices from liquids."), as well as Pantech with their [Element][] tablet that address these desires.
 
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[element]: http://www.pantechusa.com/tablets/element/ "A waterproof Android-based tablet."
+[element]: http://web.archive.org/web/20200919000059/http://www.pantechusa.com/tablets/element/ "A waterproof Android-based tablet."
 [evernote-ios]: https://itunes.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
@@ -53,6 +53,6 @@ I'm a minimalist so my dream setup involves having fewer things. Apple products 
 [spotify-ios]: https://itunes.apple.com/us/app/spotify/id324684580 "An iOS client for the music service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [waze-ios]: https://itunes.apple.com/us/app/waze-social-gps-traffic/id323229106 "A social GPS and traffic app."
-[workbench]: https://www.ansys.com/Products/Platform/ "Engineering simulation software."
+[workbench]: http://web.archive.org/web/20220123080227/https://www.ansys.com/products/platform/ "Engineering simulation software."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [z400]: https://www.amazon.com/HP-Z400-Workstation-Processor-Operating/dp/B006LAN2CG "A PC tower computer."

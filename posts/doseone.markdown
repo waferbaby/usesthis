@@ -61,6 +61,6 @@ All inside a solid glass studio within a ten ton shark tank, which has a Four Ba
 [sk-1]: https://en.wikipedia.org/wiki/Casio_SK-1 "A 32 key synthesizer."
 [sp-202-dr-sample]: http://www.vintagesynth.com/roland/sp202.php "An audio sampler."
 [sp-303-dr-sample]: http://www.bossus.com/gear/productdetails.php?ProductId=174 "An audio sampler."
-[tetra]: https://www.davesmithinstruments.com/products/tetra/ "A synthesiser module."
+[tetra]: http://web.archive.org/web/20160721100901/http://www.davesmithinstruments.com:80/products/tetra/ "A synthesiser module."
 [tlm-103]: http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm103_description "A studio microphone."
 [touchable-ios]: http://www.touch-able.com/ "An iOS app for controlling Ableton Live."

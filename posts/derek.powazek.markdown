@@ -41,7 +41,7 @@ I covet the new 27" iMacs, in spite of their stupid glossy screens. And I'm goin
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
-[labelwriter-twin-turbo]: http://global.dymo.com/enCA/Products/LabelWriter_Twin_Turbo.html "A label printer."
+[labelwriter-twin-turbo]: http://web.archive.org/web/20160405143950/http://global.dymo.com:80/enCA/Products/LabelWriter_Twin_Turbo.html "A label printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [office]: https://products.office.com/en-us/home "An office productivity suite."

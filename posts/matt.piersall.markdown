@@ -40,7 +40,7 @@ Overall getting the setup to be slightly more "Hollywood" would be nice but not 
 [ergoergo]: http://www.ergoergo.com/ "A special chair."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[grm-tools-classic]: https://www.sweetwater.com/store/detail/GRMToolsRTAS/ "A collection of audio plugins."
+[grm-tools-classic]: http://web.archive.org/web/20160426105729/http://www.sweetwater.com:80/store/detail/GRMToolsRTAS "A collection of audio plugins."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

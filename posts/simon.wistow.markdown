@@ -71,7 +71,7 @@ On a non-travel, dream-hardware setup note -  one day I want to build a full siz
 [copilot-messenger]: https://henty.cc/shop/copilot-messenger/ "A travel bag."
 [dopplr]: https://en.wikipedia.org/wiki/Dopplr "A former social network for travellers."
 [fastly]: https://fastly.com/ "A CDN."
-[hipmunk]: https://www.hipmunk.com/ "A service for finding hotels and flights."
+[hipmunk]: http://web.archive.org/web/20200531143901/http://hipmunk.com:80/ "A service for finding hotels and flights."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [livejournal]: https://www.livejournal.com/ "A journal and community site."
 [loungebuddy]: https://www.loungebuddy.com/ "A service for accessing airport lounges."

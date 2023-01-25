@@ -44,7 +44,7 @@ I wish I could learn keyboard shortcuts effortlessly and bend timezones to my wi
 [iklear-travel-singles]: https://www.amazon.com/iKlear-Travel-Singles-iPhone-MacBook/dp/B001W2UYYC "Screen cleaning wipes."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
-[kuvva-mac]: https://www.kuvva.com/mac "A desktop wallpaper application."
+[kuvva-mac]: http://web.archive.org/web/20170222065900/https://www.kuvva.com/mac "A desktop wallpaper application."
 [leather-and-canvas-mini-messenger]: http://goincase.com/shop/incase-canvas-and-leather-mini-messenger "A laptop bag."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."

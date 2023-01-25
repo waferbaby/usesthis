@@ -84,7 +84,7 @@ But there's something to be said for owning beautiful, useful objects that light
 [extended-keyboard-ii]: http://lowendmac.com/2006/apples-extended-keyboard-ii-sequel-to-a-legend/ "An ADB-based keyboard."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fontexplorer-x]: https://www.fontexplorerx.com/ "Font management software."
-[freckle]: https://letsfreckle.com/ "A web service for time tracking."
+[freckle]: http://web.archive.org/web/20190318141651/https://letsfreckle.com/ "A web service for time tracking."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."

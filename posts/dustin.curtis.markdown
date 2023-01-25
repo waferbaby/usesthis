@@ -80,7 +80,7 @@ Software-wise, it would be great if the internet browsing experience was better.
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [webkit]: https://nightly.webkit.org/ "A nightly build of Webkit."
 [word]: https://products.office.com/en-us/word "A document editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

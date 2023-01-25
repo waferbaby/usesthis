@@ -33,7 +33,7 @@ Ideally, I could have every Nintendo console connected to a capture card so I co
 [desmume]: http://desmume.org/ "A Nintendo DS emulator."
 [dolphin.2]: https://dolphin-emu.org/ "A GameCube and Wii emulator."
 [fceux]: http://www.fceux.com/web/home.html "A NES emulator."
-[frhed]: https://en.wikipedia.org/wiki/Frhed "A hex editor."
+[frhed]: http://web.archive.org/web/20220104070403/https://en.wikipedia.org/wiki/Frhed "A hex editor."
 [game-boy]: https://en.wikipedia.org/wiki/Game_Boy "An 8-bit portable gaming device."
 [gamecube]: https://en.wikipedia.org/wiki/Nintendo_GameCube "A gaming console."
 [gimp]: https://www.gimp.org/ "An open-source image editor."

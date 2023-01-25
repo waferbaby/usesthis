@@ -58,7 +58,7 @@ I guess to summarize, I want brilliant ways to capture data while not getting st
 [crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [fx888d-23by]: https://www.amazon.com/Hakko-FX888D-23BY-Digital-Soldering-FX-888D/dp/B00ANZRT4M "A digital soldering iron."
-[galaxy-nexus]: http://www.google.com/nexus/ "An Android-based smartphone."
+[galaxy-nexus]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
 [git]: https://git-scm.com/ "A version control system."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."

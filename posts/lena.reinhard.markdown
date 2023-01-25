@@ -111,4 +111,4 @@ I'm pretty content with this setup – my only annoyance is the amount of cables
 [typora]: https://typora.io/ "A web-based Markdown editor."
 [u2415]: https://www.dell.com/en-us/work/shop/cty/dell-24-ultrasharp-monitor-u2415/spd/dell-u2415 "A 24.1 inch LCD monitor."
 [wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
-[zoom]: http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

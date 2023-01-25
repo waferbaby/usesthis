@@ -50,7 +50,7 @@ If I could, I would have one computer for everything. It would be a tablet that 
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
-[lumia-900]: https://www.nokia.com/us-en/phones/phone/lumia900/ "A Windows Phone smartphone."
+[lumia-900]: http://web.archive.org/web/20140925213822/https://www.nokia.com/us-en/phones/phone/lumia900/ "A Windows Phone smartphone."
 [minohd]: https://www.amazon.com/Flip-MinoHD-Video-Camera-Generation/dp/B0040702I4 "An HD video recorder."
 [nex-5n]: https://www.amazon.com/Sony-NEX-5N-Compact-Interchangeable-Touchscreen/dp/B005IHAIMA "A 16.1 megapixel camera."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."

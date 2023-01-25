@@ -27,7 +27,7 @@ I've moved on from [Sublime Text][sublime-text] to [Atom][] because Sublime kept
 Since I'm working from home now I'm likely going to swap this MacBook Pro for a desktop option (maybe [that trash can][mac-pro] or the new [iMac][]) and something much more mobile like a [MacBook Air][macbook-air]. That could be nice. However, if I'm left alone and the right ideas come along, I'm quite happy with my setup at the moment. It works and I can't complain too much. Maybe Apple understands they're just not good at wires and that's why they keep removing ports? Touché.
 
 [atom]: https://atom.io/ "A text editor based on web technology."
-[codepen]: https://codepen.io/ "A web playground for front-end developers."
+[codepen]: http://web.archive.org/web/20221226174511/https://codepen.io/ "A web playground for front-end developers."
 [coffeescript]: https://coffeescript.org/ "A language that compiles into Javascript."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [fission]: https://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."

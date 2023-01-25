@@ -37,7 +37,7 @@ That's pretty much the bulk of it, apart from gimmes like [iTunes][] and [iChat]
 
 I think this is actually probably pretty close to it. They just need to keep making faster, lighter MacBook Airs and keep increasing net bandwidth.
 
-[address-book]: https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
+[address-book]: http://web.archive.org/web/20191014200329/https://support.apple.com/en-us/HT201728 "A contacts application included with Mac OS X."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
@@ -54,9 +54,9 @@ I think this is actually probably pretty close to it. They just need to keep mak
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skitch]: https://evernote.com/skitch/ "An always-on image editor for the Mac."
-[subversion]: http://subversion.tigris.org/ "A version control system."
+[subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [wow]: http://us.battle.net/wow/en/ "A fantasy MMORPG."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [yojimbo]: http://www.barebones.com/products/Yojimbo/ "Data 'bucket' software for the Mac."

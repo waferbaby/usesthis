@@ -51,7 +51,7 @@ I hope that browsers get better at rendering the HTML5 canvas element and that e
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [miktex]: https://miktex.org/ "Typesetting software for Windows."
 [moinmoin]: https://moinmo.in/ "Wiki software."
-[prezi]: https://prezi.com/ "Web-based presentations."
+[prezi]: http://web.archive.org/web/20221224004243/https://prezi.com/ "Web-based presentations."
 [processing]: https://processing.org/ "A programming language/environment."
 [silver-river-duo]: https://www.tomsguide.com/us/cool-back-to-school-tools,review-989-3.html "A 3.5 inch hard drive enclosure."
 [vim]: https://www.vim.org/ "A command-line text editor."

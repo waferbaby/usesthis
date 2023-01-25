@@ -43,7 +43,7 @@ Bigger monitor. I've been eyeing the 27-inch Cinema Display but can't quite just
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [my-passport-mac]: https://www.amazon.com/Passport-Portable-External-Storage-WDBLUZ0010BSL-NESN/dp/B00CO1I2FS "A portable hard drive."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [se115m-plus]: https://www.amazon.com/Shure-SE115m-Sound-Isolating-Headset/dp/B0031RG33C "In-ear headphones with remote/mic."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."

@@ -56,14 +56,14 @@ For software, the one thing I have not been able to find is a good to-do manager
 And I would buy a fitness tracker in a minute if there was one that didn't use the cloud for storage.
 
 [adblock-plus]: https://adblockplus.org/ "Browser extensions for blocking ad content."
-[betterprivacy]: https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/ "A Firefox addon that can remove unwanted cookies."
+[betterprivacy]: http://web.archive.org/web/20171111051051/https://addons.mozilla.org/en-US/firefox/addon/betterprivacy/ "A Firefox addon that can remove unwanted cookies."
 [beyond-compare]: http://www.scootersoftware.com/features.php "File and folder comparison and syncing software for Windows."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eudora]: https://en.wikipedia.org/wiki/Eudora_(e-mail_client) "A popular old email client."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[flashblock]: https://addons.mozilla.org/en-US/firefox/addon/flashblock/ "A Firefox extension for swapping Flash content for a placeholder."
+[flashblock]: http://web.archive.org/web/20181124002752/https://addons.mozilla.org/en-US/firefox/addon/flashblock/ "A Firefox extension for swapping Flash content for a placeholder."
 [gateguru-ios]: https://itunes.apple.com/us/app/gateguru-airport-info-flight/id326862399 "A flight status app."
 [gnupg]: https://www.gnupg.org/ "Encryption and signing software."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."

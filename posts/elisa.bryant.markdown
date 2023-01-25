@@ -32,7 +32,7 @@ My dream setup would be what I used to use when I worked as a fine art printer, 
 If I was REALLY lucky I would add on an [Epson P6070][surecolor-p6070] 24" fine art printer to the mix so I could start and finish my work without outsourcing.
 
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
-[i1display-pro]: https://www.xrite.com/categories/calibration-profiling/i1display-pro "A colour calibration device."
+[i1display-pro]: http://web.archive.org/web/20221120200832/https://www.xrite.com/categories/calibration-profiling/i1display-pro "A colour calibration device."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [perfection-v700]: https://www.amazon.com/Epson-B11B178011-Perfection-Photo-Scanner/dp/B000EZY19W "A photo scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -37,7 +37,7 @@ I want a robot assistant that would do things for me like go to the bank, pick u
 
 [boxee]: http://www.boxee.tv/ "An application for watching and organising media."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[cocos2d]: http://cocos2d.spritebuilder.com/ "A framework for building 2D games and similar for the iPhone."
+[cocos2d]: http://web.archive.org/web/20200222195338/http://cocos2d.spritebuilder.com:80/ "A framework for building 2D games and similar for the iPhone."
 [farmville-ios]: https://itunes.apple.com/us/app/farmville-by-zynga/id375562663 "A farming game."
 [git]: https://git-scm.com/ "A version control system."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
@@ -52,7 +52,7 @@ I want a robot assistant that would do things for me like go to the bank, pick u
 [objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
 [orbital-ios]: http://www.orbital-game.com/ "An orb-destroying game for iOS."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[strategery-ios]: http://strategerygame.com/ "A world domination game for iOS."
+[strategery-ios]: http://web.archive.org/web/20211018143746/https://strategerygame.com/ "A world domination game for iOS."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."

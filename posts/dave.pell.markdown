@@ -44,7 +44,7 @@ For the most part, my current setup is only two inches short of my dream setup. 
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [nextdraft-ios]: https://itunes.apple.com/us/app/nextdraft-days-most-fascinating/id549358690 "An app for the NextDraft news site."
 [notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [woopra]: https://www.woopra.com/ "A web analytics service."

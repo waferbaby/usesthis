@@ -58,7 +58,7 @@ Debian all day, everyday. All open source. No monitors, just a VR helmet with pe
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [geforce-gtx-1070]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1070/ "A graphics card."
-[geforce-gtx-980]: https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-980 "A computer GPU."
+[geforce-gtx-980]: http://web.archive.org/web/20190520155820/https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-980 "A computer GPU."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [girls-like-robots]: http://popcannibal.com/girlslikerobots/ "A puzzle romance game about seating arrangements."
 [git-large-file-storage]: https://git-lfs.github.com/ "A git extension for versioning large files."

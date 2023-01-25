@@ -59,7 +59,7 @@ It's the iPhone 8S. (And like I said, it's a dream system!)
 [adblock-plus]: https://adblockplus.org/ "Browser extensions for blocking ad content."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
-[beef-taco]: https://addons.mozilla.org/en-US/firefox/addon/beef-taco-targeted-advertising/ "A Firefox extension for opting out of ad networks."
+[beef-taco]: http://web.archive.org/web/20170320073349/https://addons.mozilla.org/en-us/firefox/addon/beef-taco-targeted-advertising/ "A Firefox extension for opting out of ad networks."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [debian]: https://www.debian.org/ "A Linux distribution."

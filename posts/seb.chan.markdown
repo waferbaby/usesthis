@@ -48,7 +48,7 @@ Today I'd cope with a [MacBook Air][macbook-air] with a bit more juice and stora
 Probably the best thing, though, would be a teleportation device - intercontinental travel is pointlessly exhausting and keeps me away from my family far too much.
 
 [ath-anc7b]: https://www.audio-technica.com/cms/headphones/1c7efaa15727a938/index.html "Noise-cancelling headphones."
-[bitly]: https://bitly.com/ "A link shortening and tracking service."
+[bitly]: http://web.archive.org/web/20221225151420/https://bitly.com/ "A link shortening and tracking service."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [firewire-audiophile]: https://www.soundonsound.com/sos/may04/articles/maudiofirewireap.htm "An audio and MIDI interface."
@@ -57,7 +57,7 @@ Probably the best thing, though, would be a teleportation device - intercontinen
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

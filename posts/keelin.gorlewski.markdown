@@ -42,4 +42,4 @@ In my real life, I have just moved to a new place so I still have to work on my 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[premier]: https://www.prismacolor.com/colored-pencils/premier-colored-pencils/premier-soft-core-colored-pencils/PCPremierSoftCoreColoredPencils.html "Soft core coloured pencils."
+[premier]: http://web.archive.org/web/20210512232524/https://www.prismacolor.com/colored-pencils/premier-colored-pencils/premier-soft-core-colored-pencils/PCPremierSoftCoreColoredPencils.html "Soft core coloured pencils."

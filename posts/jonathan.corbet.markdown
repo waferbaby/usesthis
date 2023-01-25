@@ -66,7 +66,7 @@ If you were to find yourself in a position where you needed a computer implanted
 [centos]: https://www.centos.org/ "A Linux distribution."
 [claws-mail]: https://www.claws-mail.org/ "A GTK+ email client."
 [compaq-2510p]: https://www.cnet.com/products/hp-compaq-2510p/ "A 12.1 inch PC laptop."
-[cyanogenmod]: http://www.cyanogenmod.org/ "A custom ROM for Android phones."
+[cyanogenmod]: http://web.archive.org/web/20161225043707/https://www.cyanogenmod.org/ "A custom ROM for Android phones."
 [dinovo-edge]: https://support.logitech.com/product/dinovo-edge "A rechargeable Bluetooth keyboard."
 [dovecot]: https://dovecot.org/ "A secure IMAP server."
 [fedora]: https://getfedora.org/ "A Linux distribution."

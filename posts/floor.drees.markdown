@@ -32,7 +32,7 @@ But the real dream setup would be a neat space somewhere in Vienna, with 20 some
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[galaxy-camera]: https://www.samsung.com/in/promotions/galaxycamera/ "An Android-based 16 megapixel digital camera."
+[galaxy-camera]: http://web.archive.org/web/20160414161604/http://www.samsung.com/in/promotions/galaxycamera/ "An Android-based 16 megapixel digital camera."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."

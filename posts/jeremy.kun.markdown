@@ -42,7 +42,7 @@ And most importantly, having other people around who want to collaborate.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [dynamicland]: https://dynamicland.org/ "A collaborative, physical computer."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
-[full-touch]: http://www.hagoromo-bungu.co.jp/chalk/fulltouch.html "Chalk."
+[full-touch]: http://web.archive.org/web/20150502101524/http://www.hagoromo-bungu.co.jp:80/chalk/fulltouch.html "Chalk."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

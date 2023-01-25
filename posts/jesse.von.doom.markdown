@@ -38,7 +38,7 @@ Real moment of truth - the crown jewel would be a speaker for the bathroom.
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[nexus-5]: http://www.google.com/nexus/5/ "An Android smartphone."
+[nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [php]: https://php.net/ "An interpreted scripting language."
 [rackspace]: https://www.rackspace.com/ "A VPS hosting service."

@@ -41,7 +41,7 @@ I haven't found a good solution to the tool I really need: a hand-held phone cra
 [2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gotomeeting]: https://www.gotomeeting.com/ "Online meeting software."
-[h4n]: https://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
+[h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [hvr-a1u]: https://pro.sony.com/bbsc/ssr/cat-recmedia/cat-recmediahdv/product-HVRA1U/ "An HD video recorder."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."

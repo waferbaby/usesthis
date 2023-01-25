@@ -28,6 +28,6 @@ A lot of my colleagues have made the jump in tablets to a [Cintiq][], where you 
 
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."

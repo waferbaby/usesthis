@@ -35,8 +35,8 @@ My website is hosted on [Squarespace][], and I use [HootSuite][] to schedule pos
 
 Oh boy, my wish list is extensive. I would love a [DJI Mavic Pro drone][mavic-pro], allowing me to add cinematic shots to my videos. A [MacBook Pro][macbook-pro] to let me to edit on the go. A [Canon EF 50mm f/1.4 lens][ef-50mm-f1.4-usm]. A ring light to use as a key light. A lavalier microphone. A proper desk chair to support my back while I'm editing. Or perhaps just an experienced editor to do my editing, as it's not my forte!
 
-[10x-high-definition-ii]: https://opteka.com/10x.aspx "A macro lens for SLRs."
-[ef-50mm-f1.4-usm]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/lenses/ef_50mm_f_1_4_usm "A lens for SLR cameras."
+[10x-high-definition-ii]: http://web.archive.org/web/20190730034302/http://opteka.com:80/10x.aspx "A macro lens for SLRs."
+[ef-50mm-f1.4-usm]: http://web.archive.org/web/20150905095642/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/lenses/ef_50mm_f_1_4_usm "A lens for SLR cameras."
 [eos-rebel-t5i]: https://en.wikipedia.org/wiki/Canon_EOS_700D "An 18 megapixel DSLR."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [hootsuite]: https://hootsuite.com/ "A social media management service."

@@ -86,7 +86,7 @@ Well, at least until Minority Report-style computing becomes popular. I'm all fo
 [reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitter-mac]: https://itunes.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."

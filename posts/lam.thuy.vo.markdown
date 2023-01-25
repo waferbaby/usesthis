@@ -49,7 +49,7 @@ Adjustable standing desk in a room with many windows with a climbing wall close 
 [atom]: https://atom.io/ "A text editor based on web technology."
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gyazo]: https://gyazo.com/ "A screenshot capturing and sharing tool for the Mac."
 [highcharts]: https://www.highcharts.com/ "A service for building interactive web-based charts."

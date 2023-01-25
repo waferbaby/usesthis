@@ -47,7 +47,7 @@ I also eagerly await the day Apple actually gets the Watch to the place where it
 [boomerang]: http://www.boomeranggmail.com/ "A service for scheduling emails via Gmail."
 [core-i7-6700k]: https://ark.intel.com/products/88195/Intel-Core-i7-6700K-Processor-8M-Cache-up-to-4_20-GHz "A computer processor."
 [e-835-s]: https://en-us.sennheiser.com/vocal-microphone-stage-live-performance-e-835-s "A cardioid microphone."
-[e50u-d2]: https://www.vizio.com/e50ud2.html "A 50 inch TV."
+[e50u-d2]: http://web.archive.org/web/20160728074021/https://www.vizio.com/e50ud2.html "A 50 inch TV."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."

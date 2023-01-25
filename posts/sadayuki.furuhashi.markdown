@@ -73,7 +73,7 @@ Footnotes:
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [instruments]: https://en.wikipedia.org/wiki/Instruments_(application) "A Mac developer tool for analysing an application's performance."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [jenkins]: https://jenkins-ci.org/ "A continuous integration server."
 [kumofs]: http://kumofs.sourceforge.net "A distributed key/value storage system."
 [ls4]: http://ls4.sourceforge.net/ "A distributed storage system."

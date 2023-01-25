@@ -45,7 +45,7 @@ More realistically, I think a Cintique could boost my abilities. And I would lik
 [daz-studio]: https://www.daz3d.com/get_studio "A 3D rendering and animation tool."
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [g430]: https://www.logitechg.com/en-us/products/gaming-audio/g430-7-1-surround-sound-gaming-headset.html "A gaming headset."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [pavilion-27cw]: https://support.hp.com/us-en/product/hp-pavilion-27-inch-displays/7274719/model/7383985/manuals "A 27-inch LED monitor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [playstation]: https://en.wikipedia.org/wiki/PlayStation_(console) "A gaming console."

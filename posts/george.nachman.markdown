@@ -42,7 +42,7 @@ I'm pretty sure I have it already. I do wish there were more options for ergonom
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
-[tcsh]: https://www.tcsh.org/Welcome "A command-line shell."
+[tcsh]: http://web.archive.org/web/20170618044928/http://www.tcsh.org:80/Welcome "A command-line shell."
 [up2414q]: http://accessories.us.dell.com/sna/productdetail.aspx?c=us&l=en&cs=19&sku=860-BBCD "A 24 inch 4K monitor."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

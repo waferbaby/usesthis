@@ -39,7 +39,7 @@ More ambitiously, I'd love to replace my paper notebooks with a magical e-ink de
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
-[camp-keepalive]: http://twofoldsecret.com/campkeepalive/ "A turn-based camp horror video game."
+[camp-keepalive]: http://web.archive.org/web/20180113164101/http://twofoldsecret.com:80/campkeepalive "A turn-based camp horror video game."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [ctrlp]: http://kien.github.io/ctrlp.vim/ "A vim plugin for fuzzy filename matching."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."

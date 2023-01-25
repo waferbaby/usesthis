@@ -39,7 +39,7 @@ Every now and then, I think of getting a Wacom [Cintiq][] or an [iPad Pro][ipad-
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dust-free-eraser]: http://www.fabercastell.com/art-and-graphic/artist-products/accessories/EraserDustfree/187120 "An eraser."
-[ef-24mm-f2.8]: https://www.usa.canon.com/cusa/support/professional/lenses/ef_lenses/ef_24mm_f_2_8 "A wide angle lens."
+[ef-24mm-f2.8]: http://web.archive.org/web/20150906123956/http://www.usa.canon.com/cusa/support/professional/lenses/ef_lenses/ef_24mm_f_2_8 "A wide angle lens."
 [ef-50mm-f1.8-ii]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_8_ii "A standard and medium telephoto camera lens."
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [foam-eraser]: https://www.jetpens.com/Pilot-Foam-Eraser-Size-10/pd/2526 "An eraser."

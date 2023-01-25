@@ -33,7 +33,7 @@ A wooden desk in a bright room with nice windows looking out onto something natu
 [ergosoft]: https://www.staedtler.com/intl/en/products/products-for-colouring/coloured-pencils/ergosoft-157-coloured-pencil-157-sb24/ "Coloured pencils."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [ultralight-black-hole]: https://www.patagonia.com/product/ultralight-black-hole-tote-pack-27-liters/48809.html "A tote pack."

@@ -48,7 +48,7 @@ I'm actually quite happy with my hardware setup at the moment. Really the only t
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

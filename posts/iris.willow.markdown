@@ -36,7 +36,7 @@ My dream studio would be much larger so I could spread out and have different st
 
 If I'm dreaming big, I would also love to get a hydraulic press so I could easily make custom 3D copper shapes to enamel and a laser cutter that I could program to cut out specific shapes in copper sheet metal to eliminate me having to cut them out by hand, which is super time consuming.
 
-[ef-s-17-55mm-f2.8-is-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_s_17_55_f_2_8_is_usm "A zoom lens."
+[ef-s-17-55mm-f2.8-is-usm]: http://web.archive.org/web/20151029074721/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_s_17_55_f_2_8_is_usm "A zoom lens."
 [eos-60d]: http://usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
@@ -49,7 +49,7 @@ If I'm dreaming big, I would also love to get a hydraulic press so I could easil
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
-[satellite-j-100]: https://www.seattlefindings.com/Satellite-J-100-Small-Kiln--Jewelry-Casting-Furnace-_p_2382.html "A jewlery kiln."
+[satellite-j-100]: http://web.archive.org/web/20180101193929/http://www.seattlefindings.com:80/Satellite-J-100-Small-Kiln--Jewelry-Casting-Furnace-_p_2382.html "A jewlery kiln."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [wave.2]: https://www.waveapps.com/ "An accounting and invoicing service."

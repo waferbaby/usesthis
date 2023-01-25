@@ -78,7 +78,7 @@ But I am very much not on fire - I’m simply working on a modestly-sized laptop
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
 [latitude-e6440]: https://www.dell.com/en-us/work/shop/dell-laptops-and-notebooks/latitude-e6440/spd/latitude-e6440-laptop "A 14 inch PC laptop."
 [moto-g-plus]: https://www.motorola.com.au/products/moto-g-plus "A 5.2 inch Android smartphone."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [outlook]: https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook "An email, calendar and contact software suite."
 [react]: https://facebook.github.io/react/ "A JavaScript UI framework."
 [reddit]: https://www.reddit.com/ "A messageboard service."

@@ -36,4 +36,4 @@ I'd like to not feel encumbered by capitalism! A window and desk facing a lake w
 [reminders]: https://support.apple.com/kb/PH12086?viewlocale=en_US&locale=en_US "A to-do list included with Mac OS X."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
-[tidal]: https://tidal.com/ "A music streaming service."
+[tidal]: http://web.archive.org/web/20221225090000/https://tidal.com/ "A music streaming service."

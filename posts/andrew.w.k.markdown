@@ -38,10 +38,10 @@ For years I only used the standard plugins that came with plugins, and was able 
 
 My dream setup would be, I guess, really what I have right now. I would like a bigger space, that always seems nice. I used to have a bigger space when I used to live in this really crazy loft building, where the whole building was one floor so there was nothing *but* room. But it wasn't air-conditioned, and it was kind of run-down and crazy, but that was nice. I guess my only change in setup would be maybe more room. Or, y'know, whatever, the top of the line everything, why not? I don't know that much about gear beyond what I've used.
 
-[20-20]: https://www.cnet.com/products/event-20-20-speakers/ "Field monitor speakers."
+[20-20]: http://web.archive.org/web/20190506070926/https://www.cnet.com/products/event-20-20-speakers/ "Field monitor speakers."
 [auto-tune]: https://en.wikipedia.org/wiki/Auto-Tune "An audio processor that alters voice pitches."
 [cakewalk]: https://en.wikipedia.org/wiki/Cakewalk_(sequencer) "A music sequencer program."
-[concert-grand-model-d]: https://www.steinway.com/pianos/steinway/grand/model-d/ "A fancy piano."
+[concert-grand-model-d]: http://web.archive.org/web/20221209075625/https://www.steinway.com/pianos/steinway/grand/model-d "A fancy piano."
 [envoice]: http://www.steamingaudio.myzen.co.uk/gear_pages/envoice.shtml "A pre-amp."
 [ep-9]: https://www.sonicstate.com/synth/roland_ep-9/ "A digital piano."
 [jv-880]: http://www.vintagesynth.com/roland/jv880.php "A rack-mounted sound module."
@@ -51,5 +51,5 @@ My dream setup would be, I guess, really what I have right now. I would like a b
 [sc-880]: http://www.synthmania.com/SC-880.htm "A 64-voice sound module."
 [sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
 [soundtoys]: https://www.soundtoys.com/ "A collection of audio plugins."
-[super-sonic-twin-combo]: https://www.fender.com/series/super-sonic/super-sonic-twin-combo-blacksilver-120v/ "A guitar amp."
+[super-sonic-twin-combo]: http://web.archive.org/web/20140610132250/http://www.fender.com:80/series/super-sonic/super-sonic-twin-combo-blacksilver-120v/ "A guitar amp."
 [v-synth-gt]: http://www.rolandus.com/products/details/847 "A synthesizer."

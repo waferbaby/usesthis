@@ -55,7 +55,7 @@ My next set up will have three monitors. The middle monitor will be the artboard
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [precision-bass]: http://www.fender.com/products/search.php?section=basses&bodyShape=Precision+Bass® "A bass guitar."
-[sg-standard]: http://www2.gibson.com/Products/Electric-Guitars/SG/Gibson-USA/SG-Standard.aspx "An electric guitar."
+[sg-standard]: http://web.archive.org/web/20190108092808/http://www.gibson.com:80/products/electric-guitars/sg/gibson-usa/sg-standard.aspx "An electric guitar."
 [telecaster]: https://en.wikipedia.org/wiki/Fender_Telecaster "An electric guitar."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."

@@ -46,7 +46,7 @@ No matter which platform I'm on, I use a billion different chat/social media app
 Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I could do all of my work on no matter where I am and now I have that and the only thing I have to do when I get home is plug in a single cable and pick up right where I left off. It is lovely.
 
 [airpods-max]: https://www.apple.com/airpods-max/ "On-ear headphones."
-[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [celeron-g4900]: https://ark.intel.com/content/www/us/en/ark/products/129487/intel-celeron-g4900-processor-2m-cache-3-10-ghz.html "A CPU."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cloud-alpha]: https://hyperx.com/products/hyperx-cloud-alpha "Gaming headphones."
@@ -79,7 +79,7 @@ Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I c
 [prime-z390-a]: https://www.asus.com/us/Motherboards-Components/Motherboards/PRIME/PRIME-Z390-A/ "A motherboard."
 [pyenv]: https://github.com/pyenv/pyenv "Python version management software."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[rm850x]: https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020180-NA "A power supply unit."
+[rm850x]: http://web.archive.org/web/20221102014154/https://www.corsair.com/us/en/Categories/Products/Power-Supply-Units/Power-Supply-Units-Advanced/RMx-Series/p/CP-9020180-NA "A power supply unit."
 [rog-swift-pg27uq]: https://rog.asus.com/monitors/27-to-31-5-inches/rog-swift-pg27uq-model/ "A 27 inch monitor."
 [scala]: https://www.scala-lang.org/ "A compiled programming language."
 [shadowplay]: https://en.wikipedia.org/wiki/Nvidia_Share "Screen recording software."
@@ -97,7 +97,7 @@ Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I c
 [u2720qm]: https://downloads.dell.com/manuals/all-products/esuprt_electronics_accessories/esuprt_electronics_accessories_monitor/esuprt_monitor_ultrasharp_u_series/dell-u2720qm-monitor_user%27s-guide_en-us.pdf "A 27 inch monitor."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [ulysses]: http://www.ulyssesapp.com/ "A writing/text editor for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-11]: https://en.wikipedia.org/wiki/Windows_11 "An operating system."
 [windows-powershell]: https://en.wikipedia.org/wiki/Windows_PowerShell "A shell and scripting language for Windows."
 [yeti-x]: https://www.bluemic.com/en-us/products/yeti-x/ "A USB microphone."

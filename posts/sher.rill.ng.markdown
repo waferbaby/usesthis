@@ -38,7 +38,7 @@ I haven't felt the urge to upgrade my tech gear, so maybe I'm already working wi
 [buildkite]: https://buildkite.com/ "A continuous integration developer service."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [clip-studio-paint]: http://www.clipstudio.net/en "A drawing program aimed at manga artists."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

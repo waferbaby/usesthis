@@ -53,10 +53,10 @@ I'm also big fan of the [Magic Trackpad][magic-trackpad]. Tap to click and three
 I'd love it if the OS had a spring-loaded mode where your finger movements counted for a quarter of the actual mouse movement. Kind of like how the iOS video player gives you [variable-speed scrubbing](http://lifehacker.com/5811660/how-to-control-the-audio-and-video-scrubbing-speed-on-your-iphone "A Lifehacker article on audio/video scrubbing on the iPhone."). If I could hold down the Function and Option keys to slow-mo my mouse, I think that'd be pretty neat.
 
 [aria]: http://www.fitbit.com/au/aria "A set of scales with tracking."
-[campfire]: https://campfirenow.com/ "Web-based chat."
+[campfire]: https://basecamp.com/retired/campfire "Web-based chat."
 [fitbit]: http://www.fitbit.com/ "A personal fitness tracking device."
 [flint]: http://giantcomet.com/flint/mac/ "A Campfire client for the Mac."
-[fridgepad]: http://www.woodforddesign.com/products/fridgepad "A fridge mount for an iPad."
+[fridgepad]: http://web.archive.org/web/20150319185859/http://www.woodforddesign.com/products/fridgepad "A fridge mount for an iPad."
 [geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
@@ -68,7 +68,7 @@ I'd love it if the OS had a spring-loaded mode where your finger movements count
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pico]: http://www.supertalent.com/products/stt_usb_detail.php?type=Pico "A physically tiny USB drive."
-[propane]: http://propaneapp.com/ "A native Mac client for the Campfire chat service."
+[propane]: http://web.archive.org/web/20170610020904/http://propaneapp.com:80/ "A native Mac client for the Campfire chat service."
 [quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
 [square]: https://squareup.com/ "A software and hardware solution for processing credit cards."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
@@ -76,4 +76,4 @@ I'd love it if the OS had a spring-loaded mode where your finger movements count
 [time-capsule]: https://www.apple.com/airport-time-capsule/ "A WiFi access point and backup system."
 [utili-key]: https://www.thinkgeek.com/product/6d98/ "A 6-in-1 tool that folds into the shape of a key."
 [video-capture]: https://www.elgato.com/en/video/video-capture "A dongle for capturing analog video."
-[voodoopad]: https://plausible.coop/voodoopad/ "Personal wiki software for the Mac."
+[voodoopad]: http://web.archive.org/web/20190128001214/https://plausible.coop/voodoopad "Personal wiki software for the Mac."

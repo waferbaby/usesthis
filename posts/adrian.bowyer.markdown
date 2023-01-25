@@ -48,13 +48,13 @@ the toolkit I use for that purpose.
 All the above running 30-times faster in a much bigger set of rooms :-)
 
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[eagle]: https://cadsoft.io "Software for designing printed circuit boards."
+[eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gedit]: https://wiki.gnome.org/Apps/Gedit "A text editor for GNOME."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
-[kicad]: http://kicad-pcb.org/ "Open-source CAD software."
+[kicad]: http://web.archive.org/web/20220324205847/https://kicad-pcb.org/ "Open-source CAD software."
 [librecad]: https://librecad.org/cms/home.html "Open-source CAD software."
 [openpgp]: https://openpgp.org/ "Email encryption software."
 [openscad]: http://www.openscad.org/ "Open-source 3D CAD software."

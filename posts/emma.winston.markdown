@@ -48,7 +48,7 @@ I think I'm actually relatively close to owning my dream setup, which is pretty 
 
 I dream of owning a [plumbutter2][] and will never be able to justify actually buying one. So exquisitely beautiful. So ludicrously odd.
 
-[beatmaker-ios]: https://intua.net/products/beatmaker2/ "An audio workstation app."
+[beatmaker-ios]: http://web.archive.org/web/20170626054043/http://intua.net:80/products/beatmaker2/ "An audio workstation app."
 [bitbucket]: https://bitbucket.org/ "A source code hosting service."
 [gadget-ios]: https://www.korg.com/us/products/software/korg_gadget/ "A synth studio app."
 [github]: https://github.com/ "A Git code repository service."
@@ -66,7 +66,7 @@ I dream of owning a [plumbutter2][] and will never be able to justify actually b
 [python]: https://www.python.org/ "An interpreted scripting language."
 [samplr-ios]: https://itunes.apple.com/us/app/samplr-touch-the-music/id560756420 "A touch-based music creation app."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[septavox]: https://www.critterandguitari.com/products/septavox "A 41 key synth."
+[septavox]: http://web.archive.org/web/20150921143157/http://www.critterandguitari.com:80/products/septavox "A 41 key synth."
 [shbobo]: http://www.synthmall.com/shbobo/index.html "A computer music device."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

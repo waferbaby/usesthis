@@ -68,6 +68,6 @@ Long story short, I don't know. Check back in a year and I'll tell you what it t
 [tusky-android]: https://tuskyapp.github.io/ "A Mastodon client."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [weather-underground-android]: https://play.google.com/store/apps/details?id=com.wunderground.android.weather "A weather app."
 [wikipedia-android]: https://play.google.com/store/apps/details?id=org.wikipedia "A client for the online encyclopedia."

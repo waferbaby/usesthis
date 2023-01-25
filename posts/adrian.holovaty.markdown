@@ -60,7 +60,7 @@ Finally, I'm looking forward to the day when laptops come with affordable multi-
 [colloquy]: http://colloquy.info/ "An IRC client for the Mac."
 [django]: https://www.djangoproject.com/ "A Python-based web framework."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[everyblock]: https://www.everyblock.com/ "A service for getting hyperlocal news."
+[everyblock]: http://web.archive.org/web/20180715011340/https://www.everyblock.com/ "A service for getting hyperlocal news."
 [everyday-ios]: http://everyday-app.com/ "An iOS app for taking your photo every day."
 [facebook-ios]: https://itunes.apple.com/us/app/facebook/id284882215 "An iPhone app for accessing Facebook."
 [fission]: https://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."

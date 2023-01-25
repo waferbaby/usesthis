@@ -74,7 +74,7 @@ I basically have my dream set up in a lot of ways. It would be awesome if I didn
 [pocket-ios]: https://getpocket.com/ios/ "An app for the read-it-later service."
 [pocketcleaner]: https://github.com/mrtazz/pocketcleaner "A tool for managing your Pocket queue."
 [procmail]: https://en.wikipedia.org/wiki/Procmail "A mail delivery agent."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [s3]: https://aws.amazon.com/s3/ "Cloud-based Internet storage magic."

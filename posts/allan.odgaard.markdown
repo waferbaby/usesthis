@@ -79,4 +79,4 @@ For example I mentioned above I have 3 AirTunes units, so in theory I could writ
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [the-unarchiver]: http://wakaba.c3.cx/s/apps/unarchiver.html "A multi-format archive extractor for the Mac."
 [transmission]: https://transmissionbt.com/ "A BitTorrent client."
-[tvshows]: http://tvshowsapp.com/ "A Mac app to download television shows off the Internet."
+[tvshows]: http://web.archive.org/web/20210921074804/http://tvshowsapp.com/ "A Mac app to download television shows off the Internet."

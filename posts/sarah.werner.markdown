@@ -47,7 +47,7 @@ But what I'd really really like is a magical filing system where I could drop a 
 [ampps]: http://www.ampps.com/tour "A pre-packaged collection of web development tools and servers."
 [apple-watch-series-3]: https://en.wikipedia.org/wiki/Apple_Watch_Series_3 "A smartwatch with optional cellular data."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [iphone-6-plus]: https://en.wikipedia.org/wiki/IPhone_6 "A large smartphone."
 [irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."

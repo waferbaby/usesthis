@@ -45,7 +45,7 @@ Otherwise, just give me more hours in the day to do more research and write plea
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [flycut]: https://github.com/TermiT/Flycut "A Mac clipboard manager."
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
 [iq5]: https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-iq5-professional-stereo-microphone-ios "A microphone for iOS."

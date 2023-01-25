@@ -66,7 +66,7 @@ I think I already have it.
 [drupal]: https://www.drupal.org/ "An open-source content management system."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [faderport]: https://www.presonus.com/products/FaderPort/ "A audio control deck."
-[fcb1010]: https://www.sweetwater.com/store/detail/FCB1010--behringer-midi-foot-controller-fcb1010 "A MIDI foot controller."
+[fcb1010]: http://web.archive.org/web/20211111012024/https://www.sweetwater.com/store/detail/FCB1010--behringer-midi-foot-controller-fcb1010 "A MIDI foot controller."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [geforce-gt-710]: https://www.asus.com/Graphics-Cards/710-2-SL/ "A graphics card."
 [git]: https://git-scm.com/ "A version control system."

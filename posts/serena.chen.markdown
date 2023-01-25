@@ -62,7 +62,7 @@ Frankly, my dream setup would include a twin clone so we can do all the things t
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [kitty]: https://sw.kovidgoyal.net/kitty/ "A GPU-based terminal emulator."
 [lavalier]: http://www.rodemic.com/microphones/lavalier/ "A lapel microphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

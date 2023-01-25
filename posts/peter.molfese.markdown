@@ -85,7 +85,7 @@ I'm pretty attached to my Aeron chair, but I've read so much about standing desk
 [scipy]: https://www.scipy.org/ "A collection of scientific tools for Python."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [word]: https://products.office.com/en-us/word "A document editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

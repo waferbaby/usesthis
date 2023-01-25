@@ -36,7 +36,7 @@ Failing that, I can dream up some radical guerrilla alternative where I'm a comp
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [nisus-writer-pro]: https://nisus.com/pro/ "A word processor for the Mac."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [vimeo]: https://vimeo.com/ "A video sharing service."

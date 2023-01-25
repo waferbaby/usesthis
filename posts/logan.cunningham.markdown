@@ -41,7 +41,7 @@ Actually, come to think of it, my dream "setup" would be a large, dusty, barn-li
 [digi-002]: https://www.amazon.com/Digidesign-Digi-002-LE-Rackmount/dp/B0002H0GU0 "Multitrack studio hardware."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fragbox]: https://www.cnet.com/products/falcon-northwest-fragbox/ "A portable gaming PC."
-[h16-el]: https://www.bolex.ch/NEW/?p=2 "A 16mm film camera."
+[h16-el]: http://web.archive.org/web/20190506100828/https://www.bolex.ch/NEW/?p=2 "A 16mm film camera."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [ksm32]: https://www.amazon.com/Shure-KSM32-Single-Diaphragm-Microphone-Champagne/dp/B0002GZK02 "A studio microphone."

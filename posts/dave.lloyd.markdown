@@ -51,7 +51,7 @@ Oh, and the rubber on my mouse wheel has disintegrated, so I should probably rep
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
-[opera]: https://www.opera.com/ "A cross-platform web browser."
+[opera]: http://web.archive.org/web/20221227050003/https://www.opera.com/ "A cross-platform web browser."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

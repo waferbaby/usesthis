@@ -63,7 +63,7 @@ Split ortholinear mechanical keyboard ([Let's Split][lets-split] or [Iris][] see
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iris]: https://keeb.io/products/iris-keyboard-split-ergonomic-keyboard "A PCB kit for a split keyboard."
-[karabiner]: https://pqrs.org/osx/karabiner/ "Mac software for remapping the keys of your laptop."
+[karabiner]: https://karabiner-elements.pqrs.org/ "Mac software for remapping the keys of your laptop."
 [lets-split]: https://mehkee.com/products/lets-split-pcb "A PCB board for a split keyboard."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

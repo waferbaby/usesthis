@@ -56,5 +56,5 @@ A new batch of [Netflix][] movies every time I check back into their site!
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

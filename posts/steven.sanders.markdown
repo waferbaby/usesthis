@@ -43,6 +43,6 @@ I should note that I'm not an Apple fanboy, though. I think Windows machines are
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rx-320d]: http://www.tentecwiki.org/doku.php?id=rx-320d "A shortwave radio receiver."
-[sketchbook-pro]: https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
+[sketchbook-pro]: http://web.archive.org/web/20170616043728/https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
 [sketchup-pro]: https://www.sketchup.com/products/sketchup-pro "3D modelling software."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

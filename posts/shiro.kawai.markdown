@@ -58,7 +58,7 @@ Other than that, my dreams are mostly in what I'll make, rather than what I'll h
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/ "A graphics card."
 [go]: https://golang.org/ "A compiled programming language."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
-[linux]: https://www.linux.org/ "A free, open-source Unix-like operating system."
+[linux]: http://web.archive.org/web/20221224200715/https://linux.org/ "A free, open-source Unix-like operating system."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [synergy]: https://symless.com/ "Software to share a single keyboard and mouse between multiple computers."

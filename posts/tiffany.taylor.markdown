@@ -62,5 +62,5 @@ And finally, I love my Nikon but it's so heavy. It's a little troublesome to car
 [snapseed-android]: https://play.google.com/store/apps/details?id=com.niksoftware.snapseed "A photo editing app."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
-[un49ku6500fxza]: https://www.samsung.com/us/televisions-home-theater/tvs/4k-uhd-tvs/49-class-ku6500-6-series-curved-4k-uhd-tv-2016-model-un49ku6500fxza/ "A 49 inch curved TV."
+[un49ku6500fxza]: http://web.archive.org/web/20190506092924/https://www.samsung.com/us/televisions-home-theater/tvs/4k-uhd-tvs/49-class-ku6500-6-series-curved-4k-uhd-tv-2016-model-un49ku6500fxza/ "A 49 inch curved TV."
 [vsco-android]: https://play.google.com/store/apps/details?id=com.vsco.cam "A photo editing app."

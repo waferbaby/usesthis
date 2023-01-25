@@ -26,7 +26,7 @@ I've been a digital nomad, I guess you'd call it, for a while now. And I love th
 
 [a6400]: https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-6400 "A 24.2 megapixel mirrorless camera."
 [ath-m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Over-the-ear headphones."
-[beatmaker-ios]: https://intua.net/products/beatmaker2/ "An audio workstation app."
+[beatmaker-ios]: http://web.archive.org/web/20170626054043/http://intua.net:80/products/beatmaker2/ "An audio workstation app."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [feedly]: https://feedly.com/ "A feed reader."

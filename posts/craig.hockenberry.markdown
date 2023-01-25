@@ -96,7 +96,7 @@ After having an SSD in the MacBook air, I'm going to start upgrading to flash dr
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."
 [versions]: https://versionsapp.com/ "A Subversion client for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [word]: https://products.office.com/en-us/word "A document editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [xscope]: http://xscopeapp.com "A Mac tool for on-screen measuring and aligning."

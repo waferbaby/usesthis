@@ -84,7 +84,7 @@ The actual mechanics of my job don't require anything fancy. But I really want o
 What I'd really, really, really love is my own little home office, complete with a cat and an armchair in the corner. If we're talking about dream office setups, I can go down the rabbit hole. I've never been a gamer, but I spent way too much time on [r/battlestations](https://www.reddit.com/r/battlestations/ "The battlestations subreddit.") last year, which I wouldn't recommend to anyone who doesn't want to ruin their credit score.
 
 [acrobat-pro]: https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html "PDF software."
-[adobe-scan-ios]: https://apps.apple.com/au/app/adobe-scan-mobile-pdf-scanner/id1199564834 "A scanner app."
+[adobe-scan-ios]: http://web.archive.org/web/20220824010619/https://apps.apple.com/au/app/adobe-scan-mobile-pdf-scanner/id1199564834 "A scanner app."
 [b210-dni]: https://www.shop.xerox.com/xerox-b210-dni "A monochrome laser printer."
 [c920s]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920s "A webcam."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."

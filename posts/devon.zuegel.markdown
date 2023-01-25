@@ -86,7 +86,7 @@ I also wish that all the different places I take notes and clip articles were mo
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [intelligent-translator]: https://apps.apple.com/us/app/intelligent-translator/id1217010477?mt=12 "A macOS app that lets you perform translations."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
-[logseq]: https://logseq.com/ "A personal knowledge capture tool."
+[logseq]: http://web.archive.org/web/20221226141047/https://logseq.com/ "A personal knowledge capture tool."
 [lupa]: https://www.lupa.app/ "An app for learning Spanish."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mailspring]: https://getmailspring.com/ "An email client."

@@ -42,7 +42,7 @@ I would like a newer iMac because I could connect additional displays. Ideally I
 [jerker]: https://adam.pra.to/content/jerker/ "A work desk."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
-[laserwriter-12-640-ps]: https://www.cnet.com/products/apple-laserwriter-12-640-ps-printer-monochrome-laser-m5440lla/ "A PostScript laser printer."
+[laserwriter-12-640-ps]: http://web.archive.org/web/20210614220913/https://www.cnet.com/products/apple-laserwriter-12-640-ps-printer-monochrome-laser-m5440lla/ "A PostScript laser printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."

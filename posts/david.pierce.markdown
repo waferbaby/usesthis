@@ -69,7 +69,7 @@ Mostly I'd like to get rid of the infinite rat's nest of cables that I know will
 [flipboard-ios]: https://itunes.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [icd-ux560]: https://www.sony.com/electronics/voice-recorders/icd-ux560 "A voice recorder."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [iphone-11-pro]: https://en.wikipedia.org/wiki/IPhone_11_Pro "A 5.8 inch iOS phone."
 [k780-multi-device]: https://www.logitech.com/en-us/product/k780-multi-device-wireless-keyboard "A keyboard."

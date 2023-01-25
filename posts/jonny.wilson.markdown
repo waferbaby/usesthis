@@ -35,7 +35,7 @@ The other setup I am working on is multiple MacBook Pros running VDMX and Ableto
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [cdj-1000]: https://en.wikipedia.org/wiki/CDJ#CDJ-1000 "A CD turntable."
-[djm-800]: https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
+[djm-800]: http://web.archive.org/web/20190626133114/https://www.pioneerelectronics.com/PUSA/DJ/Mixers/DJM-800 "A MIDI mixer."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [rane-sl-4]: https://serato.com/hardware/rane-sl4 "A USB audio interface."

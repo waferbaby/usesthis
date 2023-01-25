@@ -48,7 +48,7 @@ Someday perhaps I will go around carrying only a book, a change of clothes, a pe
 [okcupid]: https://www.okcupid.com/ "An online dating service."
 [pandas]: https://pandas.pydata.org/ "A Python data analysis library."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[scikits]: http://scikits.appspot.com/ "Add-on packages for SciPy."
+[scikits]: http://web.archive.org/web/20221220054037/https://scikits.appspot.com/ "Add-on packages for SciPy."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [sed]: http://www.gnu.org/software/sed/ "Text filtering software."
 [solarized]: https://ethanschoonover.com/solarized "A colour theme for text editors."

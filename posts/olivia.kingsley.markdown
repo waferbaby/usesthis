@@ -71,6 +71,6 @@ I'd also like to live on an ramshackle estate with all my friends and collaborat
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [qlab]: https://figure53.com/qlab/ "Software for running a live show."
 [slack]: https://slack.com/ "A collaboration service."
-[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [x100t]: http://www.fujifilm.com/products/digital_cameras/x/fujifilm_x100t/ "A 16.3 megapixel digital camera."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."

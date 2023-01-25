@@ -40,7 +40,7 @@ For music: A [Rickenbacker 4003][4003], [Aguilar Tone Hammer 500 head][tone-hamm
 I'd also like a pair of Urbanears Plattans in every color so that they would always match my outfit.
 
 [4003]: http://www.rickenbacker.com/model.asp?model=4003 "An electric bass."
-[agro]: http://www.aguilaramp.com/products_agro.htm "A bass overdrive pedal."
+[agro]: http://web.archive.org/web/20171219100429/http://www.aguilaramp.com:80/products_agro.htm "A bass overdrive pedal."
 [atavist]: https://atavist.com/ "A web publishing system."
 [bg250-112]: http://www.tcelectronic.com/bg250-112/ "A guitar amp."
 [facebook]: https://www.facebook.com/ "A social networking site."
@@ -55,9 +55,9 @@ I'd also like a pair of Urbanears Plattans in every color so that they would alw
 [polytune-2]: http://www.tcelectronic.com/polytune-2/ "A guitar tuner."
 [public]: https://public.tableau.com/s/ "Visualisation software."
 [retro-pen]: http://www.kikkerland.com/products/retro-pens-5-per-set/ "A pen styled like it's from the 1960's."
-[sl-112]: http://www.aguilaramp.com/products_cabinets_SL112.htm "A lightweight bass amp."
-[tlc-compressor]: http://www.aguilaramp.com/products_tlc_compressor.htm "A compressor pedal."
-[tone-hammer-500]: http://www.aguilaramp.com/products_amplifiers_TH500.htm "A bass head."
-[tone-hammer]: http://www.aguilaramp.com/products_preamps_tonehammer.htm "A preamp."
+[sl-112]: http://web.archive.org/web/20171225083457/http://www.aguilaramp.com:80/products_cabinets_SL112.htm "A lightweight bass amp."
+[tlc-compressor]: http://web.archive.org/web/20171114232138/http://www.aguilaramp.com:80/products_tlc_compressor.htm "A compressor pedal."
+[tone-hammer-500]: http://web.archive.org/web/20171225084123/http://www.aguilaramp.com:80/products_amplifiers_TH500.htm "A bass head."
+[tone-hammer]: http://web.archive.org/web/20171126182611/http://www.aguilaramp.com:80/products_preamps_tonehammer.htm "A preamp."
 [tribute-jb-2]: http://www.glguitars.com/instruments/TributeSeries/basses/JB-2_new/index.asp "An electric bass guitar."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

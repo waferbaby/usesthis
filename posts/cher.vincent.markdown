@@ -27,7 +27,7 @@ I have also used [Sony Vegas][vegas-pro] for video/audio work, and would love to
 My current setup is nearly ideal. I work primarily at a co-working space that has two recording studios for flexibility with my needs. It's only once I leave the space, particularly at home, I wish I had a better setup, including a stronger MacBook, ideally a 15.4-inch [MacBook Pro][macbook-pro] 2.2GHz Quad-core Intel i7 with Retina Display or an [iMac][] 21.5-inch iMac 2.8GHz Quad-core Intel Core i5. I would also LOVE a microphone setup, ideally a [Shure SM58][sm58].
 
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[h5]: https://www.zoom.co.jp/products/handy-recorder/h5-handy-recorder "A digital audio recorder."
+[h5]: http://web.archive.org/web/20190506092452/https://www.zoom.co.jp/products/handy-recorder/h5-handy-recorder "A digital audio recorder."
 [hindenburg]: https://hindenburg.com/ "A suite of tools for editing radio and podcasts."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."

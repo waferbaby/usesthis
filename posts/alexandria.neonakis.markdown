@@ -45,7 +45,7 @@ Maybe I'm asking for too much. If I could get an iPad's feeling with the power a
 [k70-rpg-rapidfire]: https://www.amazon.com/Corsair-RAPIDFIRE-Mechanical-Keyboard-Backlit/dp/B01D8H09TS "A mechanical gaming keyboard."
 [lazy-nezumi-pro]: https://lazynezumi.com/ "A Photoshop plugin for drawing smooth lines."
 [modo]: https://www.thefoundry.co.uk/products/modo/ "3D modelling and sculpting software."
-[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [photoshop-sketch-ios]: https://itunes.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

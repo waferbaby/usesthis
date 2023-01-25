@@ -42,4 +42,4 @@ A workspace that can physically scale and adapt with minimal effort on my part. 
 [stache-labbit-plush-7-inch]: https://www.amazon.com/Kidrobot-Stache-Labbit-Plush-White/dp/B004M73IKG "A plush labbit toy."
 [things-ios]: https://culturedcode.com/things/iphone/ "A popular task management application for the iPhone."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
-[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."

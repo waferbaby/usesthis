@@ -61,7 +61,7 @@ A wearable, one-touch recorder that captures conversations and todo items. It sy
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mysql]: https://www.mysql.com/ "A relational database server."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

@@ -43,4 +43,4 @@ Setting aside non-existent technology like teleporters and food replicators, I'd
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocketmod]: https://www.pocketmod.com/ "An note-taking system based around a piece of paper."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

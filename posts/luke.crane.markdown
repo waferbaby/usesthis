@@ -41,7 +41,7 @@ But I guess if we're dreaming, I'd love to have a super high-end scanner, an HP 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [power-mac-g5]: https://en.wikipedia.org/wiki/Power_Mac_G5 "A desktop Mac with an IBM PowerPC G5 CPU."

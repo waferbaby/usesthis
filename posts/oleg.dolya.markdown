@@ -44,7 +44,7 @@ It would be really great to trade my corner in the living room for a real study 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [medieval-fantasy-city-generator]: https://watabou.itch.io/medieval-fantasy-city-generator "A medieval fantasy city generator."
-[mx-anywhere-2s]: https://www.logitech.com/en-us/products/mice/mx-anywhere-2s-flow.910-005132.html "A mouse"
+[mx-anywhere-2s]: http://web.archive.org/web/20201203201523/https://www.logitech.com/en-us/products/mice/mx-anywhere-2s-flow.910-005132.html "A mouse"
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixel-3a]: https://en.wikipedia.org/wiki/Pixel_3a "A 5.6 inch Android smartphone."
 [pixel-dungeon]: https://watabou.itch.io/pixel-dungeon "A roguelike video game."

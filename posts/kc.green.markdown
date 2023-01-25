@@ -41,7 +41,7 @@ My head in a jar, hooked up to a robot drawing arm. A separate tube to get me hi
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[manga-studio-ex]: https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[manga-studio-ex]: http://web.archive.org/web/20180424074240/https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."

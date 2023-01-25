@@ -39,7 +39,7 @@ If I have to choose something that exists today, I'd probably use just my 11" Ma
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
-[bitly]: https://bitly.com/ "A link shortening and tracking service."
+[bitly]: http://web.archive.org/web/20221225151420/https://bitly.com/ "A link shortening and tracking service."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."

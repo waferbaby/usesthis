@@ -35,7 +35,7 @@ Planning, on paper, plays a big role in my content and workflow so having a dedi
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [broadcast]: https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/ "Streaming software."
-[canva]: https://www.canva.com/ "Web-based design software."
+[canva]: http://web.archive.org/web/20221226232811/https://www.canva.com/ "Web-based design software."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
@@ -46,7 +46,7 @@ Planning, on paper, plays a big role in my content and workflow so having a dedi
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [ps5]: https://www.playstation.com/en-us/ps5/ "A game console."
 [quest]: https://www.oculus.com/quest/ "An all-in-one VR headset."
-[ryzen-9-3900x]: https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x "A CPU."
+[ryzen-9-3900x]: http://web.archive.org/web/20220823032003/https://www.amd.com/en/products/cpu/amd-ryzen-9-3900x "A CPU."
 [slack]: https://slack.com/ "A collaboration service."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."

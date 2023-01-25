@@ -51,7 +51,7 @@ And most of all, I'd like more and more academic work in history and the humanit
 [dplyr]: https://github.com/hadley/dplyr/ "An R library for working with data frames."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [feedly]: https://feedly.com/ "A feed reader."
-[ggplot2]: http://ggplot2.org/ "A plotting system for the R language."
+[ggplot2]: http://web.archive.org/web/20180506153516/http://ggplot2.org:80/ "A plotting system for the R language."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [gitit]: http://gitit.net/ "A wiki system backed by Git, darcs or Mecurial."

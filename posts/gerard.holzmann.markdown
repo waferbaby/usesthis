@@ -33,7 +33,7 @@ I'd love to have unlimited access to a Google-sized network of CPUs to run jobs 
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."

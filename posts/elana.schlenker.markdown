@@ -52,7 +52,7 @@ Otherwise I have mostly domestic tech fantasies, my number one being solar roof.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[grinta]: https://www.nuovasimonelli.it/en/prodotti/macinacaffe/grinta.html "A coffee grinder."
+[grinta]: http://web.archive.org/web/20180622062510/http://www.nuovasimonelli.it:80/en/prodotti/macinacaffe/grinta.html "A coffee grinder."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

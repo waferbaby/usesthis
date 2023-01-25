@@ -49,7 +49,7 @@ I bullied most of my friends into using [Telegram][], so that handles most of my
 
 Honestly, the main thing I'd like in an office right now is to be in it less often.
 
-[2.4g-wireless-vertical-ergonomic-mouse]: https://www.anker.com/products/variant/2.4G-Wireless-Vertical-Ergonomic-Mouse/98ANWVM-UBA "A vertical ergonomic mouse."
+[2.4g-wireless-vertical-ergonomic-mouse]: http://web.archive.org/web/20210125052422/https://www.anker.com/products/variant/2.4G-Wireless-Vertical-Ergonomic-Mouse/98ANWVM-UBA "A vertical ergonomic mouse."
 [affinity-photo]: https://affinity.serif.com/en-us/photo/ "Photo editing software."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
@@ -59,7 +59,7 @@ Honestly, the main thing I'd like in an office right now is to be in it less oft
 [filmora]: https://filmora.wondershare.com/ "Video editing software."
 [firefox-developer-edition]: https://www.mozilla.org/en-US/firefox/developer/ "A browser aimed at web developers."
 [github-desktop]: https://desktop.github.com/ "A client for the versioning control service."
-[gm212]: https://www.bejoyusa.com/products/gm212-rgb-mechanical-gaming-keyboard "A gaming keyboard."
+[gm212]: http://web.archive.org/web/20220816215529/https://www.bejoyusa.com/products/gm212-rgb-mechanical-gaming-keyboard "A gaming keyboard."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gulp]: https://gulpjs.com/ "A build system."
 [kodi]: https://kodi.tv/ "Media player software for your television."

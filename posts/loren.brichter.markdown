@@ -40,7 +40,7 @@ original aluminum enclosure. Plastic gets slimy. And a pony.
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
-[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."

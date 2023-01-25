@@ -49,7 +49,7 @@ I can imagine that going back to having an iMac-style monitor is in my future at
 
 [3hub]: http://s3browser.com/ "A Mac client for Amazon's S3."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[alarm-clock]: http://osx.iusethis.com/app/alarmclock2 "An alarm clock application for Mac OS X."
+[alarm-clock]: http://web.archive.org/web/20160525150353/http://osx.iusethis.com:80/app/alarmclock2 "An alarm clock application for Mac OS X."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [blink1]: https://blink1.thingm.com/ "A programmable USB LED indicator light."
@@ -73,7 +73,7 @@ I can imagine that going back to having an iMac-style monitor is in my future at
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mathematica]: http://www.wolfram.com/mathematica/ "Computation and simulation software."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."
-[mou]: http://25.io/mou/ "A Markdown text editor for the Mac."
+[mou]: http://web.archive.org/web/20220625222050/http://25.io/mou/ "A Markdown text editor for the Mac."
 [numpy]: https://www.numpy.org/ "A Python package for scientific computing."
 [pandas]: https://pandas.pydata.org/ "A Python data analysis library."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
@@ -89,4 +89,4 @@ I can imagine that going back to having an iMac-style monitor is in my future at
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
-[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: http://web.archive.org/web/20221211024023/https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."

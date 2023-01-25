@@ -49,7 +49,7 @@ I'd also love a chaise longue with a built-in tablet holder that would center my
 Otherwise, I can't really think of any improvements on my current knitting design setup, which I think is a pretty great situation.
 
 [addi-flexiflips]: http://www.skacelknitting.com/Products/addi-Flexiflips/ "Knitting needles."
-[affinity-designer-ios]: https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
+[affinity-designer-ios]: http://web.archive.org/web/20221108111933/https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [affinity-photo]: https://affinity.serif.com/en-us/photo/ "Photo editing software."
 [astropad-studio-ios]: https://astropad.com/product/studio/ "An app to use your iPad as a drawing tablet."

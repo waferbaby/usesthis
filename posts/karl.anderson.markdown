@@ -50,7 +50,7 @@ It's the same nightmare I have once in a while when I'm asleep, where I'm moving
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [openvpn]: https://openvpn.net/index.php/open-source.html "Open source VPN software."
 [teensy]: https://www.pjrc.com/teensy/ "A USB microcontroller board."
-[thinkpad-x220]: http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
+[thinkpad-x220]: http://web.archive.org/web/20170206231919/http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [wrt54g]: http://support.linksys.com/en-us/support/routers/WRT54G/ "A wireless router."
 [yubikey]: https://www.yubico.com/products/yubikey-hardware/yubikey/ "A USB-based tool for generating one-time passwords."

@@ -64,7 +64,7 @@ Oh, and a black '60s-era [BMW R75/5][r75-5] in mint condition, please.
 [cb360]: https://en.wikipedia.org/wiki/Honda_CB360 "A motorcycle."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[ef-50mm-f1.4-usm]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/lenses/ef_50mm_f_1_4_usm "A lens for SLR cameras."
+[ef-50mm-f1.4-usm]: http://web.archive.org/web/20150905095642/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/lenses/ef_50mm_f_1_4_usm "A lens for SLR cameras."
 [ef-50mm-f1.8-ii]: http://usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_8_ii "A standard and medium telephoto camera lens."
 [eos-500d]: https://en.wikipedia.org/wiki/Canon_EOS_500D "A 15.1 megapixel DSLR."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."

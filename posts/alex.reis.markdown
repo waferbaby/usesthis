@@ -32,7 +32,7 @@ My one wish would be that the program [Procreate][procreate-ios] was made availa
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [core-i7-10700kf]: https://www.intel.com/content/www/us/en/products/sku/199325/intel-core-i710700kf-processor-16m-cache-up-to-5-10-ghz/specifications.html "A CPU."
 [geforce-rtx-2080-super]: https://www.nvidia.com/en-gb/geforce/graphics-cards/rtx-2080-super/ "A graphics card."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [p2715q]: https://www.dell.com/support/home/en-si/product-support/product/dell-p2715q-monitor/overview "A 27 inch monitor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

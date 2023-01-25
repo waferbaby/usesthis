@@ -45,7 +45,7 @@ I need better music as well. I'm tired of Pandora -- hopeful for Spotify, but I 
 
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [connectbot-android]: https://connectbot.org/ "A secure shell for Android devices."
-[decaf-android]: https://play.google.com/store/apps/details?id=net.nineapps.monitor "An EC2 client for Android."
+[decaf-android]: http://web.archive.org/web/20160326065108/https://play.google.com/store/apps/details?id=net.nineapps.monitor "An EC2 client for Android."
 [dub-h7]: http://www.dlink.com/us/en/home-solutions/connect/usb/dub-h7-7-port-usb-2-0-hub "A 7 port USB 2 hub."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
@@ -54,7 +54,7 @@ I need better music as well. I'm tired of Pandora -- hopeful for Spotify, but I 
 [g2]: https://en.wikipedia.org/wiki/LG_G2 "An Android smartphone."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[hipchat]: https://www.hipchat.com/ "A hosted IM and file service."
+[hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
 [hz281hpb]: https://www.amazon.com/Hannspree-HZ281HPB-28-Inch-LED-lit-Monitor/dp/B003C2B1O2 "A 28 inch LCD screen."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

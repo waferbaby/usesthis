@@ -64,7 +64,7 @@ Looking way-out, I'd like a 32" iPad: one that basically looks like an iMac toda
 [opendoc]: https://en.wikipedia.org/wiki/OpenDoc "An embeddable software platform."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [slack]: https://slack.com/ "A collaboration service."
 [spaces]: https://en.wikipedia.org/wiki/Spaces_(software) "Virtual desktop software included with Mac OS X."
 [status-board-ios]: https://panic.com/statusboard/ "A customisable dashboard app."

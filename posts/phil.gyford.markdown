@@ -54,7 +54,7 @@ A slightly bigger, better display would be quite nice but I don't have enough ro
 [evoke-flow]: https://www.cnet.com/reviews/pure-evoke-flow-review/ "A digital radio."
 [feedbin]: https://feedbin.com/ "A feed reading service."
 [gemini-ii]: http://www.bkelec.com/hifi/sub_woofers/gemini.htm "A compact subwoofer."
-[ipad-air-2]: https://www.apple.com/ipad-air-2/ "A tablet device."
+[ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
 [ipod-shuffle]: https://www.apple.com/ipod-shuffle/ "A very small music player."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

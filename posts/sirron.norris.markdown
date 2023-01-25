@@ -30,7 +30,7 @@ I would love a 21X Cintiq and maybe a Power Mac tower and a 50 inch flat screen.
 Other then that, I'm pretty lucky to have what I have.
 
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

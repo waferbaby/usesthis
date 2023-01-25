@@ -50,12 +50,12 @@ How spiritual are we going here? In terms of location I like my little study tha
 
 Spiritually I would love to reduce the amount of connection through computers in my life. Of course I'll never get rid of it and there are parts of it that I absolutely love as something approaching 100,000 tweets will attest. But I am more and more feeling... overwhelmed. I can feel it eating away at my concentration and my time and actually changing the way my brain works and I don't like it. I think I would be much happier, or at least more relaxed, if I could separate work from connectivity as much as possible and somehow shape my life so I don't need to look at a screen all the time. I would like to spend less time on useless mindless shit on the internet and more time with the things and people that are important to me. This is something I find difficult but am going to keep persisting with.
 
-[3310]: https://www.nokia.com/phones/en_int/nokia-3310 "A basic mobile phone."
+[3310]: http://web.archive.org/web/20221206050426/https://www.nokia.com/phones/en_int/nokia-3310 "A basic mobile phone."
 [at-lp60-usb]: https://audio-technica.com.au/products/at-lp60-usb/ "A USB turntable."
 [bluetooth-easy-switch-keyboard-k811]: https://www.logitech.com/en-us/product/illuminated-keyboard-for-mac-ipad-iphone#specification-tabular "A Bluetooth keyboard."
 [calendar]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[elevator]: https://griffintechnology.com/us/products/stands-and-mounts/elevator "A laptop stand."
+[elevator]: http://web.archive.org/web/20170414133952/https://griffintechnology.com/us/products/stands-and-mounts/elevator "A laptop stand."
 [final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
@@ -67,7 +67,7 @@ Spiritually I would love to reduce the amount of connection through computers in
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[mundo-classic]: https://yubabikes.com/cargobikestore/mundo-classic "A cargo bike."
+[mundo-classic]: http://web.archive.org/web/20200217104040/http://yubabikes.com:80/cargobikestore/mundo-classic "A cargo bike."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [quietcomfort-20i]: http://worldwide.bose.com/productsupport/en_us/web/qc20i/page.html "Noise-cancelling in-ear headphones."

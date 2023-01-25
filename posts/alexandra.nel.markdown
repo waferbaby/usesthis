@@ -45,7 +45,7 @@ I love my Wacom Cintiq, but I have actually found it to be kind of glitchy. I ha
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [geforce-rtx-3070]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3070-3070ti/ "A graphics card."
 [geforce-rtx-3090]: https://en.wikipedia.org/wiki/GeForce_30_series#Details "A graphics card."
@@ -56,7 +56,7 @@ I love my Wacom Cintiq, but I have actually found it to be kind of glitchy. I ha
 [lottie]: https://airbnb.design/lottie/ "A library for rendering After Effects animations."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[ryzen-9-3900xt]: https://www.amd.com/en/products/cpu/amd-ryzen-9-3900xt "A CPU."
+[ryzen-9-3900xt]: http://web.archive.org/web/20220420123040/https://www.amd.com/en/products/cpu/amd-ryzen-9-3900xt "A CPU."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
 [slack]: https://slack.com/ "A collaboration service."
 [surface-pro]: http://www.microsoft.com/surface/en-us/support/browse/surface-windows-8-pro "A tablet/laptop hybrid."

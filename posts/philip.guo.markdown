@@ -60,7 +60,7 @@ More hardware redundancy and less software to manage :) I'm actually getting the
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
-[tp9000]: https://www.staples.com/Tempur-Pedic-TP9000-Polyester-Computer-and-Desk-Office-Chair-Black-TP9000-BLK/product_324021 "A desk chair."
+[tp9000]: http://web.archive.org/web/20220818232214/https://www.staples.com/Tempur-Pedic-TP9000-Polyester-Computer-and-Desk-Office-Chair-Black-TP9000-BLK/product_324021 "A desk chair."
 [verticalmouse]: https://www.evoluent.com/vm3w.html "A unique wireless mouse."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [wireless-presenter]: https://www.amazon.com/Kensington-33373-Wireless-Presenter/dp/B000FPIUAW "A wireless presentation controller."

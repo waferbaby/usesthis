@@ -111,7 +111,7 @@ A 'creation' computer with the same specs as my 13" MacBook Pro plus a huge SSD 
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."

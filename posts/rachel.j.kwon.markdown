@@ -67,7 +67,7 @@ I really like my current setup! I suppose I should get an ergonomic chair. I'd a
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
-[p-105]: https://www.bhphotovideo.com/c/product/895158-REG/Yamaha_P_105_88_Key_Digital_Piano.html "An 88 key digital piano."
+[p-105]: http://web.archive.org/web/20160307082654/http://www.bhphotovideo.com:80/c/product/895158-REG/Yamaha_P_105_88_Key_Digital_Piano.html "An 88 key digital piano."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
 [ro]: https://ro.co/ "An online digital healthcare service."
 [slack]: https://slack.com/ "A collaboration service."

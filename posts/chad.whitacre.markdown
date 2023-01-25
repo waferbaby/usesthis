@@ -74,5 +74,5 @@ My family and I would be Amish (we used to subscribe to the national edition of 
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[vmware-workstation]: https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
+[vmware-workstation]: http://web.archive.org/web/20170924212803/https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
 [windows-movie-maker]: https://en.wikipedia.org/wiki/Windows_Movie_Maker "Movie creation software for Windows."

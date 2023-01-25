@@ -43,7 +43,7 @@ Oh, and I am very fond of Flipboard.
 
 The new MacBook Air, 11" dual-booted with OS X and Windows 7 wants to be my precious, as I plan to do some game-related Objective-C coding soon (Update: Got one).
 
-[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [backfire]: https://code.google.com/archive/p/backfire "Saves CSS changes you make in Firebug back to the server."
 [c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -54,7 +54,7 @@ The new MacBook Air, 11" dual-booted with OS X and Windows 7 wants to be my prec
 [optiplex-760]: https://www.dell.com/us/dfb/p/optiplex-760/pd "A desktop PC."
 [pngoutwin]: http://www.ardfry.com/pngoutwin/ "Image compression software for Windows."
 [quplo]: http://www.handcraft.com/ "A service for interactive prototyping in the browser."
-[recss]: http://david.dojotoolkit.org/recss.html "A bookmarklet for refreshing CSS."
+[recss]: http://web.archive.org/web/20171022062157/http://david.dojotoolkit.org:80/recss.html "A bookmarklet for refreshing CSS."
 [total-commander]: http://www.ghisler.com/ "A file explorer replacement for Windows."
 [visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

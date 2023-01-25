@@ -25,7 +25,7 @@ I use [Adobe Illustrator][illustrator] for anything illustration related. I trie
 
 I like all my current tools. I'd love to live somewhere more rural, like in a big house in a more wooded area. I probably have the same aspirations as many creative introverts: a second-floor office with big windows where I feel safe and tucked away from the rest of the world. But still close to a Trader Joe's.
 
-[draftback]: http://draftback.com/ "A Chrome extension to replay a document's revision history in Google Docs."
+[draftback]: http://web.archive.org/web/20211024174132/https://draftback.com/ "A Chrome extension to replay a document's revision history in Google Docs."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

@@ -45,7 +45,7 @@ My [iPhone 6s][iphone-6s] is usually active if I'm running around: the [Mail][ma
 My dream setup is all about comfort, endurance, and ease of use. With that being said -- free, fast, and safe Wi-Fi would be in my top 5 wants. More convenient solar-powered batteries and more energy-conscious options to keep everything rolling. Free sketchpads (the ones with the dotted paper for some added organization). Play Dough (I'm a kinesthetic learner). And probably most importantly: a sunny, hygge-inspired place to work surrounded by all things nature.
 
 [acrobat-reader]: https://en.wikipedia.org/wiki/Adobe_Acrobat "PDF viewing software."
-[astro-e7]: https://www.anker.com/products/variant/Astro-E7-26800mAh-Portable-Charger/A1210012 "A portable phone charger."
+[astro-e7]: http://web.archive.org/web/20210210031307/https://www.anker.com/products/variant/astro-e7-26800mah-portable-charger/A1210012 "A portable phone charger."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [g-tec-c4]: https://www.amazon.com/Pilot-G-Tec-C-Rolling-3-Pack-35483/dp/B0058NNAG0 "A gel pen."
@@ -64,6 +64,6 @@ My dream setup is all about comfort, endurance, and ease of use. With that being
 [photos-ios]: https://en.wikipedia.org/wiki/Photos_(Apple) "The built-in photo app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [spotify-ios]: https://itunes.apple.com/us/app/spotify/id324684580 "An iOS client for the music service."
-[vsco-ios]: https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
+[vsco-ios]: http://web.archive.org/web/20221211024023/https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."
 [waze-ios]: https://itunes.apple.com/us/app/waze-social-gps-traffic/id323229106 "A social GPS and traffic app."
 [word-swag-ios]: https://itunes.apple.com/us/app/word-swag-cool-typography/id645746786 "An app for adding text to photos."

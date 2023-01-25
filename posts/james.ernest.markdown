@@ -40,10 +40,10 @@ Graphically, game production is pretty simple, and I could probably still be mak
 
 [alpha-nex-7]: http://store.sony.com/alpha-nex-7-camera-body-zid27-NEX7/B/cat-27-catid-All-Alpha-NEX-Cameras "A 24.3 megapixel mirrorless camera."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[e-mount-18-200mm-f3.5-6.3-zoom]: https://www.bhphotovideo.com/c/product/732292-REG/Sony_SEL18200_DT_18_200mm_f_3_5_6_3_Zoom.html "A zoom lens for Sony's E-Mount system."
+[e-mount-18-200mm-f3.5-6.3-zoom]: http://web.archive.org/web/20211128154731/https://www.bhphotovideo.com/c/product/732292-REG/Sony_SEL18200_DT_18_200mm_f_3_5_6_3_Zoom.html "A zoom lens for Sony's E-Mount system."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[h4]: https://www.zoom.co.jp/english/products/h4/ "A digital audio recorder."
+[h4]: https://en.wikipedia.org/wiki/Zoom_H4_Handy_Recorder "A digital audio recorder."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

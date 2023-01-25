@@ -70,5 +70,5 @@ Truth be told, though, I'm still very happy with what I have. I replaced my last
 [transit-ios]: https://itunes.apple.com/app/apple-store/id498151501 "A public transport app."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
-[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
+[ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [weather-line-ios]: http://weatherlineapp.com/ "A weather app."

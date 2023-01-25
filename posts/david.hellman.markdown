@@ -45,7 +45,7 @@ On iPad I adore [Procreate][procreate-ios]. I've tried all the painting apps and
 
 Wow, I feel like this question is going to haunt me later because my immediate response is not particularly visionary. The technology we have today is already so great. I want an iPad that can handle really high resolution art work, and a pressure-sensitive stylus that feels great. And I want an evolution of Procreate that offers the editing flexibility of Photoshop, while retaining its elegance and simplicity.
 
-[alupen]: https://just-mobile.com/ipad/alupen.html "An iPad/iPhone stylus."
+[alupen]: http://web.archive.org/web/20130522093139/http://www.just-mobile.com:80/ipad/alupen.html "An iPad/iPhone stylus."
 [bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
 [braid]: http://braid-game.com "A clever puzzle/platformer game."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."

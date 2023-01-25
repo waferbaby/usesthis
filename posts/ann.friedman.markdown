@@ -44,7 +44,7 @@ Right now I use my mantle as a standing desk. So, maybe a real standing desk wit
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[instapaper]: https://www.instapaper.com/ "A web tool for saving pages to read later."
+[instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [longform-ios]: https://longform.org/app/ "A clever magazine app."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."

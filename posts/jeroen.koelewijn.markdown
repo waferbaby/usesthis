@@ -37,6 +37,6 @@ Aside from that I'm pretty happy with what I've got going on.
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[radeon-rx-5600-xt]: https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
+[radeon-rx-5600-xt]: http://web.archive.org/web/20220620084709/https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
 [tvpaint-animation]: http://tvpaint.com/ "A 2D animation suite."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

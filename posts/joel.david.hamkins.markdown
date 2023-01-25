@@ -33,7 +33,7 @@ My dream set-up would be a completely transparent, weightless technology that tu
 [dasher]: https://www.chessclub.com/download-software/dasher "An online chess client for Windows."
 [dcp-7060d]: https://www.brother-usa.com/MultiFunction/ModelDetail/4/DCP7060D/overview "A multi-function printer."
 [digg]: http://digg.com/ "A user-curated news site."
-[full-touch]: http://www.hagoromo-bungu.co.jp/chalk/fulltouch.html "Chalk."
+[full-touch]: http://web.archive.org/web/20150502101524/http://www.hagoromo-bungu.co.jp:80/chalk/fulltouch.html "Chalk."
 [galaxy-note-3]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3 "A phone/tablet."
 [gdi-btar122]: https://www.amazon.com/Grace-Digital-GDI-BTAR122-Integrated-Amplifier/dp/B00E1CZRHY "A stereo amp with Bluetooth support."
 [hd-hero3-white]: https://gopro.com/cameras/hd-hero3-white-edition "A 1080p video camera and 5 megapixel photo camera."

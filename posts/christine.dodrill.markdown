@@ -38,7 +38,7 @@ I'm pretty sure I have it already.
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
-[smart-keyboard]: https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
+[smart-keyboard]: http://web.archive.org/web/20200310060157/https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [textastic-ios]: https://www.textasticapp.com/ "A code editor app."
 [tmux]: https://sourceforge.net/projects/tmux/ "A terminal multiplexer, similar to screen."

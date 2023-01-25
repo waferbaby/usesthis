@@ -45,13 +45,13 @@ I keep accidentally playing loud music from my laptop because I forget to pause 
 
 Some other miscellany:  I wish I had an ergonomic mouse that wasn't so tall. I knock it over all the times when moving around my desk. I tend to switch between writing in my notebook, grabbing my cup of water, typing, and talking with my hands, so I knock my mouse over a few times every day. I'm sure I'm annoying my coworkers a lot. (It's either that, or the headphones, but I'm sure they hate me by now.) I'm also still on the hunt for my perfect notebook. I realized over the past few weeks that I want a notebook that can fold back on itself because I want to have more desk real estate. I don't like spiral notebooks because the pages fall out more easily, but that seems to be the only option. I'm open to suggestions!
 
-[2.4g-wireless-vertical-ergonomic-mouse]: https://www.anker.com/products/variant/2.4G-Wireless-Vertical-Ergonomic-Mouse/98ANWVM-UBA "A vertical ergonomic mouse."
+[2.4g-wireless-vertical-ergonomic-mouse]: http://web.archive.org/web/20210125052422/https://www.anker.com/products/variant/2.4G-Wireless-Vertical-Ergonomic-Mouse/98ANWVM-UBA "A vertical ergonomic mouse."
 [atom]: https://atom.io/ "A text editor based on web technology."
 [aviary-ios]: https://itunes.apple.com/us/app/photo-editor-by-aviary/id527445936 "A photo editor app."
 [bose-connect-ios]: https://itunes.apple.com/us/app/bose-connect/id1046510029 "An app for customising Bose Bluetooth devices."
 [chrome-ios]: https://itunes.apple.com/us/app/chrome/id535886823 "A web browser app."
 [duo-mobile-ios]: https://itunes.apple.com/us/app/duo-mobile/id422663827 "An app for the authentication service."
-[easy-one-touch-car-and-desk-mount]: https://www.iottie.com/Product/Series/OneTouch/Car-Mount "A car and desk phone mount."
+[easy-one-touch-car-and-desk-mount]: http://web.archive.org/web/20161220081136/https://www.iottie.com/Product/Series/OneTouch/Car-Mount "A car and desk phone mount."
 [gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
 [git]: https://git-scm.com/ "A version control system."
 [gmail-ios]: https://itunes.apple.com/us/app/gmail-email-from-google/id422689480 "A client for the email service."

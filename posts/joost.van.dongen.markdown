@@ -51,7 +51,7 @@ I am pretty happy with what I have right now! The only thing I really miss right
 
 Another thing that could improve a lot is my set of instrument plugins for Cubase. This is more of a skill-thing than a setup-thing, though: I still have a lot to learn about audio production and finding the right plugins is part of that process.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [awesomenauts]: https://www.awesomenauts.com/ "A 2D cartoony side-scrolling game."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c01u]: http://www.samsontech.com/samson/products/microphones/usb-microphones/c01u/ "A studio condenser microphone."

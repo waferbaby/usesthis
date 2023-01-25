@@ -63,7 +63,7 @@ However. In the summer of 2016 my husband and I had to move out of the flat we'd
 [audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [call-recorder]: https://www.ecamm.com/mac/callrecorder/ "Software for recording Skype conversations."
 [google-drive]: https://drive.google.com/ "A cloud storage service."
-[h6]: https://www.amazon.com/Zoom-H6-Six-Track-Portable-Recorder/dp/B00DFU9BRK "A portable six-track recorder."
+[h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
 [hd-662-f]: https://www.amazon.com/Superlux-HD-662-Closed-Studio-Headphones/dp/B007IV7OBM "Over-the-ear headphones."
 [ipad-mini-3]: https://en.wikipedia.org/wiki/IPad_Mini_3 "A 7.9 inch tablet device with a Retina screen."
 [italk-recorder-premium-ios]: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=296271871 "An audio recording app."

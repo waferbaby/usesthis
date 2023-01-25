@@ -44,7 +44,7 @@ My dream setup would be completely wireless. I have a Gordian Knot of wires and 
 
 [aquaria]: https://en.wikipedia.org/wiki/Aquaria_(video_game) "A very pretty underwater adventure game."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[diabolika-ios]: http://www.diabolika-game.com/ "A turn-based puzzle game for iOS."
+[diabolika-ios]: http://web.archive.org/web/20200208193410/http://www.diabolika-game.com:80/ "A turn-based puzzle game for iOS."
 [eternal-daughter]: https://en.wikipedia.org/wiki/Eternal_Daughter "An action adventure game."
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
@@ -61,4 +61,4 @@ My dream setup would be completely wireless. I have a Gordian Knot of wires and 
 [visual-studio]: http://www.visualstudio.com "A Windows development environment."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
 [winrar]: https://www.rarlab.com/ "File compression software for Windows."
-[x58]: http://www.pcdistrict.com/cyberpower-x58-configurator-prod124556.html "A gaming PC."
+[x58]: http://web.archive.org/web/20160311221640/http://www.pcdistrict.com/cyberpower-x58-configurator-prod124556.html "A gaming PC."

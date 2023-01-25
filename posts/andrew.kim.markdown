@@ -40,7 +40,7 @@ I dream of using a 13" [MacBook Air][macbook-air] as my main machine. I would lo
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [finepix-x100]: http://www.finepix-x100.com/ "A 12.3 megapixel digital camera."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
-[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [iwork]: https://en.wikipedia.org/wiki/IWork "An office suite for the Mac."

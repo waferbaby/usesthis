@@ -31,6 +31,6 @@ I pretty much have it!
 
 [cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
-[manga-studio-ex]: https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
-[manga-studio]: https://my.smithmicro.com/manga-studio-5.html "Comic and manga creation software."
+[manga-studio-ex]: http://web.archive.org/web/20180424074240/https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
+[manga-studio]: http://web.archive.org/web/20171203004018/http://my.smithmicro.com:80/manga-studio-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

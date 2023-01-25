@@ -48,7 +48,7 @@ Truthfully, I used to just have a netbook that cost me like $150 and had no memo
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[rp-hje120]: https://shop.panasonic.com/support-only/RP-HJE120.html#q=RP-HJE&start=1 "In-ear headphones."
+[rp-hje120]: http://web.archive.org/web/20211016084703/https://shop.panasonic.com/support-only/RP-HJE120.html "In-ear headphones."
 [scripto]: http://scripto.computer/ "A tool for collaboratively writing TV scripts."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [slack]: https://slack.com/ "A collaboration service."

@@ -83,7 +83,7 @@ Rather than more stuff, though, I'd simply like more time - more time to learn P
 [machinedrum-sps-1]: http://www.vintagesynth.com/misc/machinedrum.php "A drum machine."
 [maths]: http://www.makenoisemusic.com/modules/maths "An analog audio computer."
 [matrixbrute]: https://www.arturia.com/products/matrixbrute/overview "A monophonic synth."
-[me05]: https://www.masterdynamic.com/products/me05-earphones "In-ear headphones."
+[me05]: http://web.archive.org/web/20201108115945/https://www.masterdynamic.com/products/me05-earphones "In-ear headphones."
 [mother-32]: https://www.moogmusic.com/products/semi-modular/mother-32 "A modular synth."
 [nord-modular]: https://en.wikipedia.org/wiki/Nord_Modular "A synth."
 [octatrack-mkii]: https://www.elektron.se/products/octatrack-mkii/ "An 8 track sampler."
