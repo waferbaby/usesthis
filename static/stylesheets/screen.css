@@ -367,7 +367,6 @@ ul.months li:first-child:before {
 
   nav#control ul {
     font-size: 100%;
-    text-align: center;
   }
 
   ul.categories {
@@ -376,7 +375,6 @@ ul.months li:first-child:before {
 }
 
 @media all and (max-width: 320px) {
-
   ul.categories {
     grid-template-columns: 1fr;
   }
