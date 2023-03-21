@@ -72,7 +72,7 @@ I think I have all of the hardware and software I'd want, so my dream setup to b
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [bartender]: https://www.macbartender.com/ "A Mac tool for organising menu bar apps."
 [clp-775]: https://usa.yamaha.com/products/musical_instruments/pianos/clavinova/clp-775/index.html "A digital piano."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [droplr]: https://droplr.com/ "Mac software to easily share an image online."
 [eos-r]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/eos-dslr-and-mirrorless-cameras/mirrorless/eos-r "A 30.3 megapixel mirrorless camera."

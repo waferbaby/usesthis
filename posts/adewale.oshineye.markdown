@@ -115,7 +115,7 @@ It would run in the background on all my machines and would unobtrusively point 
 [ntemacs]: http://ntemacs.sourceforge.net/ "A Windows port of Emacs."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
-[rememberance-agent]: http://web.archive.org/web/20160304120939/http://xenia.media.mit.edu/~rhodes/Papers/remembrance.html "An associative memory plugin for Emacs."
+[rememberance-agent]: https://web.archive.org/web/20160304120939/http://xenia.media.mit.edu/~rhodes/Papers/remembrance.html "An associative memory plugin for Emacs."
 [smartgo-kifu-ios]: https://www.smartgo.com/kifu.html "A game of Go."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."

@@ -63,4 +63,4 @@ The [Creative Suite][creative-suite] is nice, but it is a shame that it can't be
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[zip-zap]: http://www.kamibox.de/zipzap "A puzzle game where you move little mechanical creatures to the end of the level."
+[zip-zap]: https://www.kamibox.de/zipzap "A puzzle game where you move little mechanical creatures to the end of the level."

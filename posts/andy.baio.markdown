@@ -95,7 +95,7 @@ But more than anything, my dream setup would be one where I can continue to work
 [slack]: https://slack.com/ "A collaboration service."
 [superduper]: http://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
 [tabnine]: https://tabnine.com/ "An AI code autocompleter."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."

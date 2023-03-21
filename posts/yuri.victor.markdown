@@ -77,7 +77,7 @@ Also, you're a star and I love you. Follow me on twitter maybe: [@yurivictor](ht
 [homebrew-cask]: https://github.com/caskroom/homebrew-cask "A command-line tool for installing Mac applications."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [impromptu]: https://github.com/impromptu/impromptu "A Node-based command prompt."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mailbox]: http://www.mailboxapp.com/ "A email client."

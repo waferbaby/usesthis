@@ -37,7 +37,7 @@ For entertainment I'm super happy with the [Nintendo Switch][switch.2], which ha
 
 I use my own tools too: [Fira Code](http://github.com/tonsky/FiraCode "Nikita's coding font.") is my go-to coding font, [AnyBar][] is my go-to status indicator.
 
-*Nice to haves*: [Shush][] for conference calls. [HandBrake][] for occasional video re-encoding. [InsomniaX][] for those rare occasions when I need my Mac not to sleep for some reason. [Day-O][] because yes, I believe when you click on your date/time clock in the macOS status bar you shold see a small calendar for the current month. Oh! And [Wallcat][] for a new desktop wallpaper every day.
+*Nice to haves*: [Shush][] for conference calls. [HandBrake][] for occasional video re-encoding. [InsomniaX][] for those rare occasions when I need my Mac not to sleep for some reason. [Day-O][] because yes, I believe when you click on your date/time clock in the macOS status bar you should see a small calendar for the current month. Oh! And [Wallcat][] for a new desktop wallpaper every day.
 
 ### What would be your dream setup?
 

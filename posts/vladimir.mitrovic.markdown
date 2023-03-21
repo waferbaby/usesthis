@@ -80,4 +80,4 @@ That said, in the coming months I would like to find a comfortable studio space 
 [tr-90]: https://www.fostexinternational.com/docs/products/TR-Series.shtml "On-ear headphones."
 [unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

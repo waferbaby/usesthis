@@ -35,7 +35,7 @@ I'm pretty sure I have it already. I do wish there were more options for ergonom
 [feedbin]: https://feedbin.com/ "A feed reading service."
 [flappy-bird-ios]: https://en.wikipedia.org/wiki/Flappy_Bird "A game about a bird avoiding pipes."
 [google-search-ios]: https://itunes.apple.com/us/app/id284815942 "Google's Search app for iOS."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [perfect-chair]: https://www.humantouch.com/perfect-chairs.html "A zero-gravity recliner."

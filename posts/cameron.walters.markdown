@@ -42,7 +42,7 @@ I'd also enjoy a laptop as light as the 13" Air but with a Retina display. And c
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

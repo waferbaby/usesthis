@@ -56,5 +56,5 @@ I pretty much have it. Mostly I enjoy doing research and writing software to sol
 [self]: https://en.wikipedia.org/wiki/Self_(programming_language) "An object-oriented programming language."
 [snappy]: https://github.com/google/snappy "A compression library."
 [spanner]: https://research.google.com/archive/spanner.html "A distributed database."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [z620-workstation]: https://www8.hp.com/us/en/campaigns/workstations/z620.html "A PC tower computer."

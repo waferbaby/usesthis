@@ -85,7 +85,7 @@ But the real thing I dream about is something I can't buy: a word processor that
 [parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [qwop]: http://www.foddy.net/Athletics.html "A physics game where you control an Olympic runner."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."

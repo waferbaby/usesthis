@@ -63,7 +63,7 @@ A new [Mac Pro][mac-pro] powering dual Retina displays and the ability to run AN
 [d800]: https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [d90]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/D90.html "A 12.3 megapixel digital SLR camera."
 [dexpot]: https://dexpot.de/ "Virtual desktop software for Windows."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [drafts-ios]: https://agiletortoise.com/drafts/ "A note taking app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."

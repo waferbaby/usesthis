@@ -47,7 +47,7 @@ If I have to choose something that exists today, I'd probably use just my 11" Ma
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."

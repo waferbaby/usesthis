@@ -64,7 +64,7 @@ If I had one wish, I would love a powerful MacBook Air with low-profile mechanic
 [imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."
 [imageoptim]: https://imageoptim.com/ "A Mac GUI wrapper for image optimising tools."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kaleidoscope]: https://www.kaleidoscopeapp.com/ "A file and image diff app for the Mac."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

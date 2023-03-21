@@ -64,7 +64,7 @@ I'd say I want less local storage and more things to move into the "cloud," but 
 [go]: https://golang.org/ "A compiled programming language."
 [golang-crosscompile]: https://github.com/davecheney/golang-crosscompile "A tool for cross-compiling Go language binaries."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

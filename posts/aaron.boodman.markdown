@@ -53,7 +53,7 @@ Over time, those constraints have whittled my work environment down to the follo
  
 I like Linux because it's a fast, reliable, and stays out of my way. Also, because the rest of the tools I like work best on it.
  
-I use emacs -nw because it is faster than the GUI verison, particularly when used remotely. Also, I rarely use my mouse, so I don't miss the GUI.
+I use emacs -nw because it is faster than the GUI version, particularly when used remotely. Also, I rarely use my mouse, so I don't miss the GUI.
  
 I run my sessions under screen so that I can connect to them remotely and resume where I left off. If you are from a non-unix background like me, you might not be familiar with the [wonders of screen](http://lizzie.spod.cx/screenirssi.shtml "A tutorial for using irssi with screen."). I highly recommend investing some time in learning it.
  

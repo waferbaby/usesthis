@@ -48,7 +48,7 @@ I spend much of my day looking for good content for HolyKaw. The most important 
 [marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [stumbleupon]: https://www.stumbleupon.com/ "A web service for finding interesting sites for you."
 [textexpander]: https://smilesoftware.com/textexpander "A Mac app for adding custom abbreviations for often-used text."
 [tripit-ios]: https://www.tripit.com/uhp/mobile "An iPhone client for the trip sharing service."

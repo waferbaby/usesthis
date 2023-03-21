@@ -55,7 +55,7 @@ I basically have my dream set up in a lot of ways. It would be awesome if I didn
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
 [katana]: https://github.com/mrtazz/katana "A hosted URL shortener."

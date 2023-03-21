@@ -73,7 +73,7 @@ I'm on the verge of buying a tablet since I spend a lot of time on the couch squ
 [mars-lumograph-100]: https://www.staedtler.com/en/products/pencils-accessories/pencils/mars-lumograph-100-premium-quality-pencil/ "A pencil."
 [mdr-7502]: http://store.sony.com/professional-studio-headphones-zid27-MDR7502/cat-27-catid-All-Over-Head-Headphones "Studio-quality headphones."
 [mdr-zx110ap]: https://www.amazon.com/Sony-MDR-ZX110AP-Headphones-Smartphone-MDRZX110AP/dp/B00KGR1JMA "Over-the-ear headphones."
-[nedgraphics]: http://www.nedgraphics.com/ "Textile and fashion design software."
+[nedgraphics]: https://nedgraphics.com/ "Textile and fashion design software."
 [netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [perfection-4490-photo-scanner]: http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B176011 "A photo scanner."

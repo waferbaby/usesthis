@@ -146,4 +146,4 @@ I am pretty satisfied with my current setup, yet I'm continuously improving it. 
 [vim]: https://www.vim.org/ "A command-line text editor."
 [w3m]: http://w3m.sourceforge.net/ "A command-line web browser."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

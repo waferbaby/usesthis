@@ -61,7 +61,7 @@ I'm relatively happy with what I have at the moment software-wise. Turning the q
 [git]: https://git-scm.com/ "A version control system."
 [hookupz]: http://web.archive.org/web/20190506090309/https://carson.com/products/hookupz-iphone-55sse-44s-ib-542/ "An adapter for connecting an iPhone to a pair of binoculars."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
 [mdr-v6]: https://www.amazon.com/Sony-MDRV6-Studio-Monitor-Headphones/dp/B00001WRSJ "Studio headphones."

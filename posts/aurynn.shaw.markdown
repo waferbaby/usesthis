@@ -178,7 +178,7 @@ Beyond that? More pens, probably. There's always room for more pens.
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-xs]: https://en.wikipedia.org/wiki/IPhone_XS "A 5.8 inch iOS phone."
 [iqbuds-boost]: https://www.nuheara.com/products/iqbuds-boost/ "In-ear wireless headphones with advanced sound control."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kaleidoscope]: https://www.kaleidoscopeapp.com/ "A file and image diff app for the Mac."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [knight]: https://www.penchalet.com/fine_pens/fountain_pens/pilot_knight_fountain_pen.html "A fountain pen."

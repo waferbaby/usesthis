@@ -167,4 +167,4 @@ More realistically, I've been looking longingly at the various efforts to run a 
 [windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
 [wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
 [z]: https://github.com/rupa/z "A command-line tool for quickly moving between directories."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

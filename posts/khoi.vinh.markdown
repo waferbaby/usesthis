@@ -90,7 +90,7 @@ Something that lets me work just four hours a day and lets me spend the rest of 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
-[path-finder]: http://www.cocoatech.com/pathfinder/ "A replacement for Mac OS X's Finder file browser."
+[path-finder]: https://www.cocoatech.io "A replacement for macOS Finder file browser."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [remote]: https://en.wikipedia.org/wiki/Apple_Remote "The remote control."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

@@ -43,7 +43,7 @@ It's also likely I'd throw a few other random devices around, which I'd already 
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [linkinus]: https://en.wikipedia.org/wiki/Linkinus "An IRC client for Mac OS X."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mirc]: https://www.mirc.com/ "An IRC client for Windows."

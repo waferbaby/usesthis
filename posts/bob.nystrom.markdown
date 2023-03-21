@@ -70,7 +70,7 @@ I'm sublimely happy to just be on a couch with my Retina Mac and some headphones
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [madden-nfl]: https://www.easports.com/madden-nfl "A computer game about football."

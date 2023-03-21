@@ -56,7 +56,7 @@ My dream set up would be my old white MacBook on a wooden desk, looking out of m
 [london-evening-standard-ios]: https://itunes.apple.com/us/app/id542140360 "The news app."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [metro-ios]: https://itunes.apple.com/us/app/id465059515 "A news app."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [word]: https://products.office.com/en-us/word "A document editor."

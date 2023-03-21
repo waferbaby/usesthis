@@ -92,4 +92,4 @@ I think I already have it.
 [telegram]: https://telegram.org/ "A secure messaging service."
 [ultralite-avb]: https://motu.com/products/avb/ultralite-avb/ "An 18 port audio interface."
 [vcv-rack]: https://vcvrack.com/ "A virtual audio rack."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

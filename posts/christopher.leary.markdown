@@ -62,4 +62,4 @@ Most of my current gear lust is related to mastering, as I'd like to have a few 
 [uad-2-quad]: http://www.uaudio.com/uad-plug-ins/pcie/uad-2-quad.html "A quad-processor DSP card."
 [wavelab]: https://www.steinberg.net/en/products/wavelab/start.html "Audio editing and processing software."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[z3ta]: http://www.cakewalk.com/Products/z3ta/ "Analog-style synthesizer software."
+[z3ta]: https://www.cakewalk.com/Products/z3ta/ "Analog-style synthesizer software."

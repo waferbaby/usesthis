@@ -41,7 +41,7 @@ The thing that gets in the way isn't a lack of *stuff* but rather a lack of *tim
 That said, I really wouldn't say no to a comfortable sunny room with a sea view, an endless stack of notebooks and a [Rotring 800][800] black 0.5mm mechanical pencil.
 
 [800]: https://www.amazon.com/rOtring-Retractable-Mechanical-Pencil-1854232/dp/B00AZWNS84 "A mechanical pencil."
-[double-pen-quiver]: http://web.archive.org/web/20140826192621/http://www.quiverglobal.com:80/categories/Double%252dPen-Quivers/ "A quiver for pens that attachs to a notebook."
+[double-pen-quiver]: https://web.archive.org/web/20140826192621/http://www.quiverglobal.com:80/categories/Double%252dPen-Quivers/ "A quiver for pens that attaches to a notebook."
 [e-p1]: http://www.olympusamerica.com/cpg_section/cpg_archived_product_details.asp?id=1461&fl=2 "A 12.3 megapixel Micro Four Thirds camera."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."

@@ -66,7 +66,7 @@ My dream setup would be a semi-autonomous setup that can order its own upgrades 
 [ornatrix]: https://ephere.com/plugins/autodesk/max/ornatrix/ "Hair, fur and feather rendering for 3ds Max."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [quest]: https://www.oculus.com/quest/ "An all-in-one VR headset."
-[reality-capture]: http://web.archive.org/web/20221205152329/https://www.autodesk.com/campaigns/reality-capture "Software to create 3D models from photograps."
+[reality-capture]: https://web.archive.org/web/20221205152329/https://www.autodesk.com/campaigns/reality-capture "Software to create 3D models from photographs."
 [rift-s]: https://www.oculus.com/rift-s/ "A VR headset."
 [substance-designer]: https://www.allegorithmic.com/products/substance-designer "A 3D material authoring tool."
 [substance-painter]: https://www.substance3d.com/products/substance-painter "3D painting software."

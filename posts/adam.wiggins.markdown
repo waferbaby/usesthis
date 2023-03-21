@@ -61,7 +61,7 @@ But that's kind of a big, far-off dream. So more realistically, um... maybe a ph
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [inkscape]: https://inkscape.org/en/ "An open-source vector graphics program."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle-mac]: https://itunes.apple.com/gb/app/kindle/id405399194 "An app for reading and syncing Kindle books."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

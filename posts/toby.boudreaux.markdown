@@ -82,4 +82,4 @@ It is missing a [Leica M9][m9] and proper PrimeSense camera at the moment, thoug
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [wiscale-ios]: https://itunes.apple.com/us/app/wiscale/id319085928 "A personal metrics app for Withings products."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

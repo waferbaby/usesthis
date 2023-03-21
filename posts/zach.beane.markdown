@@ -69,7 +69,7 @@ Homestead hardware wishlist:
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [farmall-cub]: https://en.wikipedia.org/wiki/Farmall_Cub "A small tractor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [lt35]: https://woodmizer.com/us/LT35-Hydraulic-Portable-Sawmill "A portable sawmill."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macintosh-common-lisp]: https://en.wikipedia.org/wiki/Macintosh_Common_Lisp> "A Lisp implementation for the Mac."

@@ -41,7 +41,7 @@ Someday perhaps I will go around carrying only a book, a change of clothes, a pe
 [gmail]: https://mail.google.com/mail/ "Web-based email."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [ipython]: http://ipython.org/ "An interactive shell for Python."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [machinarium]: https://machinarium.net/ "A pretty point-and-click game."
 [numpy]: https://www.numpy.org/ "A Python package for scientific computing."

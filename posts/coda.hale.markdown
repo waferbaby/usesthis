@@ -47,7 +47,7 @@ My dream setup is any arrangement which removes an entity without sacrificing fu
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [csshx]: https://github.com/brockgr/csshx "Mac software for controlling multiple Terminal sessions."
 [curl]: https://curl.haxx.se/ "A command-line tool for transferring data from URLs."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [git-flow]: https://github.com/nvie/gitflow "Extensions to git to work with a custom branching model."

@@ -71,7 +71,7 @@ Ok that was a lot of text! If you've read it all, thank you, and also, I'm sorry
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [imessage]: https://en.wikipedia.org/wiki/iMessage "A messaging platform."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

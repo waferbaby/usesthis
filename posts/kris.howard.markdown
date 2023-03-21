@@ -67,7 +67,7 @@ Beyond that I'm pretty happy, especially considering we just had an internationa
 [google-home-mini]: https://en.wikipedia.org/wiki/Google_Home#Home_Mini "A smart speaker."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-11]: https://en.wikipedia.org/wiki/IPhone_11 "A 6.06 inch iOS smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [knit-counter-lite-ios]: https://apps.apple.com/au/app/knit-counter-lite/id310821956 "An app for tracking stitch counts."

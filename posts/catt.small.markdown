@@ -43,7 +43,7 @@ Honestly, my current setups are pretty great! A higher cost doesn't always trans
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

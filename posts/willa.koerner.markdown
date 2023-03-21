@@ -40,4 +40,4 @@ One day, I want to work out of a temperature-controlled greenhouse at a giant er
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
-[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: https://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

@@ -36,7 +36,7 @@ But here I am, so I guess a new lightweight MacBook Pro with an amazing battery.
 [gif-brewery]: http://web.archive.org/web/20181211183829/http://gifbrewery.com "Mac software for converting videos into GIFs."
 [google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [letterspace]: http://web.archive.org/web/20220807225504/http://programmerbird.com/letterspace/ "A note taking application."
 [ma750i]: https://www.rha-audio.com/us/products/ma750i "In-ear headphones."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

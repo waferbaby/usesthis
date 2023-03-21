@@ -64,7 +64,7 @@ Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I c
 [ilevel]: https://www.raindesigninc.com/ilevel.html "A height-adjustable stand for MacBook Pros."
 [imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kafka]: https://kafka.apache.org/ "A distributed messaging system."
 [lynx]: https://lynx.invisible-island.net/ "A text-based web browser."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

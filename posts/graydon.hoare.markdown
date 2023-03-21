@@ -68,7 +68,7 @@ Software-wise I really wish we'd done almost everything differently. The focus h
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/ "A collaboration service."
-[sourcetrail]: https://www.sourcetrail.com/ "A souce code explorer."
+[sourcetrail]: https://www.sourcetrail.com/ "A source code explorer."
 [swiftc]: https://swift.org/compiler-stdlib/ "The Swift compiler."
 [thinkpad-w530]: http://shop.lenovo.com/us/en/laptops/thinkpad/w-series/w530/ "A 15.6 inch PC laptop."
 [thinkpad-x61]: https://www.cnet.com/products/lenovo-thinkpad-x61-series/ "A 12.1 inch PC laptop."

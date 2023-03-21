@@ -38,7 +38,7 @@ The exact same setup but with a version of myself that knows how to use Vim bett
 [github]: https://github.com/ "A Git code repository service."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [janus]: https://github.com/carlhuda/janus "A collection of Vim plugins."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lazycoin]: https://github.com/antiboredom/lazycoin/ "An alternative currency."

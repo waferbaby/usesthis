@@ -65,7 +65,7 @@ I'm very close to it now, although I do have a couple wishes. I wish my MacBook 
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [issh-ios]: http://web.archive.org/web/20170414074420/http://download.cnet.com:80/iSSH-SSH-VNC-Console/3000-2064_4-75179912.html "A terminal emulator for iOS."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jquery]: https://jquery.com/ "A Javascript framework."

@@ -65,7 +65,7 @@ Space, first and foremost. If I had a real workshop then I'd want a [vacuum-form
 [cura]: https://ultimaker.com/en/products/cura-software "Mac software for preparing models for 3D printing."
 [essential-electronics-toolkit]: https://www.ifixit.com/Store/Tools/Essential-Electronics-Toolkit/IF145-348?o=2 "A toolkit for electronics repair."
 [form-2]: https://formlabs.com/products/3d-printers/form-2/ "A 3D printer."
-[formbox]: https://www.matterhackers.com/store/l/mayku-formbox-desktop-vacuum-former/sk/MLCH26RT "A deskop vacuum former."
+[formbox]: https://www.matterhackers.com/store/l/mayku-formbox-desktop-vacuum-former/sk/MLCH26RT "A desktop vacuum former."
 [gl503vd-db71]: https://www.newegg.com/Product/Product.aspx?Item=9SIAAUA7PE4884 "A 15.6 inch PC laptop."
 [glowforge]: https://glowforge.com/ "A 3D laser printer."
 [google-drive]: https://drive.google.com/ "A cloud storage service."

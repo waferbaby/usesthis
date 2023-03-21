@@ -45,7 +45,7 @@ My whole office is a kind of integrated "interface" for working, so like any kin
 [aframe]: https://aframe.com/ "A collaborative service for people who work with video."
 [call-recorder]: https://www.ecamm.com/mac/callrecorder/ "Software for recording Skype conversations."
 [cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [droid-incredible]: https://en.wikipedia.org/wiki/Droid_Incredible "An Android-based smartphone."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote-android]: https://play.google.com/store/apps/details?id=com.evernote "An app for the note taking service."

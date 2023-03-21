@@ -168,4 +168,4 @@ I want every program to have clear and well documented source code available in 
 [xen]: https://www.xenproject.org/ "Virtualisation software."
 [xmonad]: https://xmonad.org/ "A tiling window manager for X11."
 [zotero]: https://www.zotero.org/ "A research tool."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

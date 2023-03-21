@@ -70,4 +70,4 @@ My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I lik
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [yelp-ios]: https://itunes.apple.com/app/yelp/id284910350?mt=8 "An iPhone app for accessing Yelp reviews."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

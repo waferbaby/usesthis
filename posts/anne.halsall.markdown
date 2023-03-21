@@ -85,4 +85,4 @@ Oh, and heck, a [NeXTcube][] would be pretty neat too.
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [system-7]: https://en.wikipedia.org/wiki/System_7 "An old operating system for early Macs."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
-[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: https://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

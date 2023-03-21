@@ -69,5 +69,5 @@ In general I'm very content with the setup that I currently have actually.
 [rainmeter]: https://www.rainmeter.net/ "A desktop customiser for Windows."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [wake-up-light]: https://www.usa.philips.com/c-p/HF3470_60 "An ambient light 'alarm'."
-[websharing-android]: https://play.google.com/store/apps/details?id=nextapp.websharing.r1 "An Android app for transfering files to a computer over WiFi."
+[websharing-android]: https://play.google.com/store/apps/details?id=nextapp.websharing.r1 "An Android app for transferring files to a computer over WiFi."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

@@ -32,7 +32,7 @@ I'm not a native English speaker, so I can interpret "hardware" as computers, bu
 
 The system that I'm using is a [Bruker Avance 300 MHz spectroscope][avance-300] that Jean-Marie Lehn (Nobel Prize 1987) gave me, some years ago. This huge electronic system is run by a small computer, but the computer itself has no importance, and I even don't know which one it is.
 
-For my most important work, i.e. calculation, I'm using UNIX and [Linux][] running on various systems. My laptop is a laptop, and it has no importance. I mean, it has to have a real keybord, a screen bigger than 13", and it should be thin and light, because I have it always with me (indeed, I have two of the same, because I don't want to lose one second, if one breaks). The flash memory is very useful, and I could not admit booting in more than some seconds now.
+For my most important work, i.e. calculation, I'm using UNIX and [Linux][] running on various systems. My laptop is a laptop, and it has no importance. I mean, it has to have a real keyboard, a screen bigger than 13", and it should be thin and light, because I have it always with me (indeed, I have two of the same, because I don't want to lose one second, if one breaks). The flash memory is very useful, and I could not admit booting in more than some seconds now.
 
 On my desks there are other computers, and most are Dell, but indeed I don't care, as long as they can calculate. You know, this is an attitude that I have generally: for example, I have two cars, but I don't care, as long as I can drive safely. I don't care about their color, their brand, their power, etc. Sometimes, I need them, and they have to work. It's only a question of use. For my clothes, the same, and also for my laboratory, etc. On the other hand, intellectually, I am completely different, and here elegance and beauty are most important for me.
 
@@ -48,10 +48,10 @@ Indeed this software is really good, and I regret that it is so expansive, becau
 
 If Maple could include a chemistry software, it would be wonderful. But indeed, I am not sure that this would change a lot. What I need is intelligence, kindness and time.
 
-[avance-300]: http://web.archive.org/web/20190506111309/http://www.biosurplus.com/store/models/15489-bruker-avance-300/ "A nuclear magnetic resonance spectrometer."
+[avance-300]: https://web.archive.org/web/20190506111309/http://www.biosurplus.com/store/models/15489-bruker-avance-300/ "A nuclear magnetic resonance spectrometer."
 [avogadro]: http://avogadro.cc/wiki/Main_Page "A molecule visualiser and editor."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [linux]: http://web.archive.org/web/20221224200715/https://linux.org/ "A free, open-source Unix-like operating system."
-[maple]: https://www.maplesoft.com/products/maple/ "Mathemetical software."
+[maple]: https://www.maplesoft.com/products/maple/ "Mathematical software."
 [unison]: http://www.cis.upenn.edu/~bcpierce/unison/ "A file syncing tool."

@@ -56,7 +56,7 @@ In my old house in Melbourne, I used the master bedroom as an office. I bought a
 [git]: https://git-scm.com/ "A version control system."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [icq]: https://en.wikipedia.org/wiki/ICQ "An ancient instant messaging client."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [kindle-oasis]: https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
 [latex]: https://www.latex-project.org/ "Typesetting software."

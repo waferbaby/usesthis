@@ -81,7 +81,7 @@ But I'd forgo those things for a different kind of dream setup - a room that was
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mojibar]: https://github.com/muan/mojibar "A Mac app for searching for emoji."
-[photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
+[photos]: https://www.apple.com/macos/photos/ "A photo editor for macOS."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."
 [sheetsee.js]: http://jlord.us/sheetsee.js/ "A JavaScript framework for connecting a Google Spreadsheet to a website."

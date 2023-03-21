@@ -36,7 +36,7 @@ Office-wise, we are located in city center Galway. That means we can walk for ab
 [assembla]: https://www.assembla.com/ "A code and task management service."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [corona]: http://web.archive.org/web/20170608164619/https://coronalabs.com/corona-sdk/ "A cross-platform mobile app SDK."
-[dashlane]: https://www.dashlane.com/ "A password managment system."
+[dashlane]: https://www.dashlane.com/ "A password management system."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://products.office.com/en-us/excel "A spreadsheet application."
 [facebook]: https://www.facebook.com/ "A social networking site."

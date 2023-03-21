@@ -69,7 +69,7 @@ I think I'll cut it off there and avoid the temptation to talk about my ideal ke
 [fastmail]: https://www.fastmail.com/ "An email hosting service."
 [inconsolata-g]: https://leonardo-m.livejournal.com/77079.html "A font."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mutt]: http://www.mutt.org/ "A command-line email client."

@@ -69,7 +69,7 @@ I've iterated a lot on my tools and am very pleased with the choices themselves.
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jetstream-3-0.7mm]: https://www.jetpens.com/Uni-Jetstream-3-Color-Ballpoint-Multi-Pen-0.7-mm-Green-Body/pd/2443 "A 3-colour ballpoint pen."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [lumix-dmc-gf7kk]: http://web.archive.org/web/20150919185815/https://www.shop.panasonic.com/cameras-and-camcorders/cameras/lumix-interchangeable-lens-ilc-cameras/DMC-GF7KK.html "A compact mirrorless camera."

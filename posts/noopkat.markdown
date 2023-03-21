@@ -51,7 +51,7 @@ Ideally I'd like to work from a room with very large windows and trees outside. 
 [edge.2]: https://www.microsoft.com/en-us/windows/microsoft-edge "A web browser."
 [fc660m]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1496 "A mechanical keyboard."
 [fx-888d]: https://www.hakko.com/english/products/hakko_fx888d.html "A soldering iron."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [k272hl]: https://www.amazon.com/Acer-K272HL-LED-Monitor-resolution/dp/B00W46R3HQ "A 27 inch LED monitor."
 [linnmon]: https://www.ikea.com/us/en/catalog/products/S29932181/ "A table."

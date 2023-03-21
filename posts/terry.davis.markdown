@@ -33,7 +33,7 @@ I would like Windows to abolish Secure-Boot, so I can run [Win8][windows-8] dual
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [full-video-audio-mixer]: http://www.dandans.com/Full-Video-Audio-Mixer.htm "A Windows tool for mixing audio and video."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
-[templeos]: http://web.archive.org/web/20221225225202/https://templeos.org/ "An operating system."
+[templeos]: https://web.archive.org/web/20221225225202/https://templeos.org/ "An operating system."
 [vmware-workstation]: http://web.archive.org/web/20170924212803/https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."

@@ -105,7 +105,7 @@ There - I'm right back to being as big a selfish, materialistic jerk as anyone w
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [quickbooks]: https://quickbooks.intuit.com/ "Business accounting software for Windows."
 [safari-ios]: https://en.wikipedia.org/wiki/Safari_(web_browser)#iOS-specific_features "A web browser included with iOS."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

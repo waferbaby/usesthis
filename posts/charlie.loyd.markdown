@@ -99,4 +99,4 @@ Too many of my daily tools are overfitted. What could I be using that's not desi
 [vesseltracker-ios]: http://web.archive.org/web/20160609210707/http://www.vesseltracker.com/en/static/IPhone.html "An app for tracking the location of ships."
 [wa-ben]: http://www.yasutomo2020.com/wallet.htm "A Cuben Fiber wallet."
 [wolfram-alpha]: https://www.wolframalpha.com/ "An online knowledge engine."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

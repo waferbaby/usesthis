@@ -40,5 +40,5 @@ One day, I'd like to have a MacBook Pro for everyday use and a cheap Linux machi
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [surface-pro]: http://www.microsoft.com/surface/en-us/support/browse/surface-windows-8-pro "A tablet/laptop hybrid."
 [tensorflow-char-rnn]: https://github.com/crazydonkey200/tensorflow-char-rnn "A Recurrent Neural Network library built on top of TensorFlow."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [torch]: http://torch.ch/ "A Lua-based computing framework."

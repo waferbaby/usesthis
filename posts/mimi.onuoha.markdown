@@ -49,7 +49,7 @@ All I ever want is more time spent on interesting, energizing work and less time
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

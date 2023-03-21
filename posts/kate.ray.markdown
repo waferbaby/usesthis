@@ -41,7 +41,7 @@ Okay, if this is like fantasy sci-fi dream, I'd say a noiseproof single-person p
 [gitx]: http://gitx.frim.nl/ "A git GUI for Mac OS X."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [laser-stars]: https://www.amazon.com/Laser-Stars-Indoor-Light-Show/dp/B000VBNIP2 "A star projector."

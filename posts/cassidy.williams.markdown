@@ -31,7 +31,7 @@ I basically want a makerspace/arcade around me. I have the nice office chair and
 [deckset]: https://www.decksetapp.com/ "A Mac tool for turning Markdown files into slides."
 [discord]: https://discordapp.com/ "A voice and text chat service."
 [geforce-gtx-1660-ti]: https://www.nvidia.com/en-us/geforce/graphics-cards/gtx-1660-ti/ "A GPU."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [slack]: https://slack.com/ "A collaboration service."

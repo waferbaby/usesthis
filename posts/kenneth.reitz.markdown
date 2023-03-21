@@ -149,4 +149,4 @@ Otherwise: No wires. More bandwidth. More memory. More disk space. More pixels. 
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

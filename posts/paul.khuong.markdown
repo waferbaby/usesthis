@@ -59,7 +59,7 @@ Finally, I have yet to find a reference manager I can really operate. I'll usual
 [sbcl]: http://www.sbcl.org/ "A Common Lisp compiler."
 [silc]: http://silcnet.org/client.html "Conferencing and messaging software."
 [slime]: https://common-lisp.net/project/slime/ "An emacs mode for working with Common Lisp."
-[sourcetrail]: https://www.sourcetrail.com/ "A souce code explorer."
+[sourcetrail]: https://www.sourcetrail.com/ "A source code explorer."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [u3818dw]: https://www.dell.com/en-us/work/shop/dell-ultrasharp-38-curved-monitor-u3818dw/apd/210-amrc "A 38 inch monitor."
 [wayland]: https://wayland.freedesktop.org/ "A windowing library for Linux. "

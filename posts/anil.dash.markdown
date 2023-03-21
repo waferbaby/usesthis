@@ -58,7 +58,7 @@ I do wish I had easier access to a Windows partition around; I like staying curr
 [movable-type]: https://movabletype.org/ "Weblog publishing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."

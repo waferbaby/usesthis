@@ -67,7 +67,7 @@ I might eventually need a shed. Probably also a workbench with materials for exp
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [icloud]: https://www.apple.com/icloud/ "A cloud service."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

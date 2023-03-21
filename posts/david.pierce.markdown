@@ -60,7 +60,7 @@ Mostly I'd like to get rid of the infinite rat's nest of cables that I know will
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
 [dark-noise-ios]: https://darknoise.app/ "A white noise app."
-[dashlane]: https://www.dashlane.com/ "A password managment system."
+[dashlane]: https://www.dashlane.com/ "A password management system."
 [descript]: https://www.descript.com/ "A podcast editing and mixing service."
 [drafts]: https://getdrafts.com/ "A text editor for macOS."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."

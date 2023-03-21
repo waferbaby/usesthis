@@ -63,7 +63,7 @@ Otherwise I have mostly domestic tech fantasies, my number one being solar roof.
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [play-1]: http://www.sonos.com/shop/play1 "A wireless speaker."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [silvia]: https://www.ranciliogroup.com/1-Rancilio-Homeline--Silvia "An espresso machine."
 [slack]: https://slack.com/ "A collaboration service."
 [stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."

@@ -70,7 +70,7 @@ For example I mentioned above I have 3 AirTunes units, so in theory I could writ
 [niceplayer]: https://github.com/jbtule/niceplayer "An open-source media player for the Mac."
 [numberkey-ios]: https://gizmodo.com/5091764/numberkey-transforms-iphone-into-sweet-wireless-numberpad "Turns your iPhone into a virtual numeric keypad."
 [omniweb]: https://en.wikipedia.org/wiki/OmniWeb "An alternative Mac browser based on WebKit."
-[perian]: http://perian.org/ "An open-source QuickTime componenet for the Mac."
+[perian]: https://www.perian.org "An open-source QuickTime component for the Mac."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [remind]: https://www.linuxjournal.com/article/3529 "A simple cross-platform, open source calendar app."
 [rsync]: http://rsync.samba.org/ "An open-source file transfer/syncing tool."

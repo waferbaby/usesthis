@@ -44,7 +44,7 @@ Lots of floor space to spread out paper and draw with markers, lots of plants an
 [instax-mini-8]: http://www.fujifilm.com/products/instant_photo/cameras/instax_mini_8/ "An instant film camera."
 [ipad-mini-3]: https://en.wikipedia.org/wiki/IPad_Mini_3 "A 7.9 inch tablet device with a Retina screen."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [lost-constellation]: https://finji.itch.io/lost-constellation "A ghost story video game."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [memory-system-writer]: http://web.archive.org/web/20190506094120/https://www.amazon.co.uk/Zig-Memory-System-Writer-Marker/dp/B00QVQVUHY/ "Dual-ended markers."

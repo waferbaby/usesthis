@@ -97,7 +97,7 @@ Actually, I just realized what my dream is: current Apple hardware (including ph
 [growl]: http://growl.info/ "A notification system for Mac OS X."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [linkinus]: https://en.wikipedia.org/wiki/Linkinus "An IRC client for Mac OS X."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."

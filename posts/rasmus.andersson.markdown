@@ -67,7 +67,7 @@ In a short-term and a bit more concrete perspective, I like being close to natur
 [mx-400]: https://www.amazon.com/Logitech-400-Performance-Laser-Mouse/dp/B000F1O0X2 "A laser mouse."
 [noejectdelay]: https://pqrs.org/osx/karabiner/noejectdelay.html "Mac software to remove the delay when pressing the Eject key."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [totalfinder]: https://totalfinder.binaryage.com/ "Software that adds extra features (tabs, etc.) to Mac OS X's Finder."

@@ -101,7 +101,7 @@ On the software side, I have [so many complaints](http://arstechnica.com/staff/f
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macfuse]: https://code.google.com/archive/p/macfuse "A system for adding third-party file systems to Mac OS X."
-[messagepad-120]: http://www.everymac.com/systems/apple/messagepad/stats/newton_mp_120.html "A much-loved PDA device."
+[messagepad-120]: https://everymac.com/systems/apple/messagepad/stats/newton_mp_120.html "A much-loved PDA device."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [mx-300]: https://www.amazon.com/Logitech-930672-0403-300-Optical-Mouse/dp/B00006HMPJ "An optical mouse."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."

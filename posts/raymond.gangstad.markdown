@@ -84,7 +84,7 @@ I am really looking forward to enjoying immersive virtual experiences, [Snowcras
 [mextures-ios]: https://www.mextures.com/ "A photo editor app."
 [netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [one.4]: https://www.dxo.com/us/dxo-one "A 20.2 megapixel camera that attaches to an iPhone."
-[photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
+[photos]: https://www.apple.com/macos/photos/ "A photo editor for macOS."
 [photoshop-mix]: https://www.adobe.com/products/mix.html "A photo editing app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-casts-ios]: https://itunes.apple.com/app/pocket-casts/id414834813 "A podcast app."

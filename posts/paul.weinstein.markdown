@@ -71,7 +71,7 @@ Most of my dream setup would probably be centered around guitars, amps and effec
 [rhodes]: https://en.wikipedia.org/wiki/Rhodes_piano "An electric piano"
 [svt-3pro]: https://ampeg.com/products/pro/svt3pro/ "An amp."
 [svt-410hlf]: https://ampeg.com/products/classic/svt410hlf/ "A speaker cabinet."
-[telecaster-thinline]: https://shop.fender.com/en-AU/electric-guitars/telecaster/classic-series-72-telecaster-thinline/product-013740.html "An electic guitar."
+[telecaster-thinline]: https://shop.fender.com/en-AU/electric-guitars/telecaster/classic-series-72-telecaster-thinline/product-013740.html "An electric guitar."
 [twin-reverb]: https://en.wikipedia.org/wiki/Fender_Twin#Fender_Twin_Reverb "A guitar amp."
 [volca-fm]: https://www.korg.com/us/products/dj/volca_fm/ "A three-voice synth."
 [volca-sample]: https://www.korg.com/us/products/dj/volca_sample/ "A digital sample sequencer."

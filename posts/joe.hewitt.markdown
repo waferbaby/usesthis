@@ -66,7 +66,7 @@ I dreamed of my current setup for years until I finally got it last year, so now
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mlb-at-bat-ios]: http://web.archive.org/web/20180218144228/http://m.mlb.com:80/apps/atbat "An iPhone baseball app for viewing scores and streaming matches."
 [pandora-ios]: https://itunes.apple.com/app/pandora-radio/id284035177 "An iPhone app for streaming your personal Pandora radio station."
-[path-finder]: http://www.cocoatech.com/pathfinder/ "A replacement for Mac OS X's Finder file browser."
+[path-finder]: https://www.cocoatech.io "A replacement for macOS Finder file browser."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [quadcamera-ios]: http://web.archive.org/web/20151109084048/http://artandmobile.com:80/quadcamera/ "An iPhone app for taking four photos at once."

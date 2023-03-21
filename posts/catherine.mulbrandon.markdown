@@ -77,7 +77,7 @@ I can see just a hint of this future with high-end software like Tableau or open
 [paper-ios.2]: https://itunes.apple.com/us/app/paper-stories-from-facebook/id794163692 "An alternative view of your Facebook feed."
 [parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."
 [pixma-mx330]: https://www.amazon.com/Canon-PIXMA-Inkjet-All-In-One-Printer/dp/B001R4C5VK/ "An inkjet printer/copier/fax/scanner."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [public]: https://public.tableau.com/s/ "Visualisation software."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."

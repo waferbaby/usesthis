@@ -76,7 +76,7 @@ The weightless, waterproof, battery-free, crash-free version of all of the above
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [integrity]: https://peacockmedia.software/mac/integrity/ "Mac software for finding broken links on a site."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kaleidoscope]: https://www.kaleidoscopeapp.com/ "A file and image diff app for the Mac."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [ksc75]: http://www.koss.com/koss/kossweb.nsf/p?openform&pc^sc^KSC75 "Over the ear headphones."

@@ -66,7 +66,7 @@ I guess to summarize, I want brilliant ways to capture data while not getting st
 [google-drive]: https://drive.google.com/ "A cloud storage service."
 [google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [linkedin]: https://www.linkedin.com "A business-focused social network."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

@@ -54,7 +54,7 @@ I'd like ThinkPad hardware but running [macOS][], or a variant of Linux that rea
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [ia-writer]: https://ia.net/writer/updates/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [k2.2]: https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard "A wireless mechanical keyboard."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [lumix-g-25mm-f1.7-asph]: https://shop.panasonic.com/cameras-and-camcorders/lumix-camera-lenses/fixed-focal-length/H-H025K.html "A mirrorless camera lens."

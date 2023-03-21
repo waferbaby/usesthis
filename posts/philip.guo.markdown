@@ -50,7 +50,7 @@ More hardware redundancy and less software to manage :) I'm actually getting the
 [imac]: https://www.apple.com/imac/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-8-plus]: https://en.wikipedia.org/wiki/IPhone_8 "A 5.5 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [notability-ios]: https://itunes.apple.com/us/app/notability/id360593530 "A note-taking app."

@@ -62,4 +62,4 @@ I don't think I have any goals beyond what I've mentioned above! It would probab
 [tabnine]: https://tabnine.com/ "An AI code autocompleter."
 [truffleruby]: https://github.com/oracle/truffleruby "A high performance version of Ruby."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

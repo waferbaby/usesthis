@@ -61,6 +61,6 @@ Clearly I wasn't the only one with that particular dream.
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [rugged-mini]: https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM/ "A small rugged portable hard drive."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

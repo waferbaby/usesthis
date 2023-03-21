@@ -73,7 +73,7 @@ Ideally this place would be isolated in the middle of the forest with lots of wi
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
 [librivox]: https://duckduckgo.com/?q=librevox&t=osx&ia=about "A service providing free public domain audiobooks."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

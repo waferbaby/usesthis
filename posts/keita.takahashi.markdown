@@ -115,7 +115,7 @@ A big house with a vast garden. A miraculous notebook that enhances my ideas. Th
 [nm705i]: https://www.nttdocomo.co.jp/support/utilization/product/nm705i/index.html "A basic mobile phone."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [omniweb]: https://en.wikipedia.org/wiki/OmniWeb "An alternative Mac browser based on WebKit."
-[path-finder]: http://www.cocoatech.com/pathfinder/ "A replacement for Mac OS X's Finder file browser."
+[path-finder]: https://www.cocoatech.io "A replacement for macOS Finder file browser."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

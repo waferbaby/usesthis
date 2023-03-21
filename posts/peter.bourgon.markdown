@@ -41,7 +41,7 @@ With that said, I'd love to have a laptop that was a little lighter and thinner 
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."

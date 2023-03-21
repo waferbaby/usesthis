@@ -57,7 +57,7 @@ At work, y'know, I'm doing just fine. "Have laptop, will travel." I am - at leas
 [classic-8-inch-chefs-knife]: https://www.amazon.com/Shun-DM0706-Classic-8-Inch-Chefs/dp/B0000Y7KNQ "A knife."
 [d-8]: http://www.disstonianinstitute.com/d8page.html "A handsaw."
 [editorially]: http://web.archive.org/web/20130806043131/https://editorially.com/ "A web-based collaborative text editor."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."

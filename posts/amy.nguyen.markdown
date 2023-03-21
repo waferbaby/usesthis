@@ -60,7 +60,7 @@ Some other miscellany:  I wish I had an ergonomic mouse that wasn't so tall. I k
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [lastpass-ios]: https://itunes.apple.com/us/app/lastpass-password-manager/id324613447 "A password manager app."

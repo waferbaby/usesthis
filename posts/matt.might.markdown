@@ -173,7 +173,7 @@ That's my dream setup.
 [pbpaste]: https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/pbpaste.1.html "A Mac OS X command-line tool for pasting something from the Clipboard."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
 [php]: https://php.net/ "An interpreted scripting language."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [racket]: https://www.racket-lang.org/ "A programming language."
 [red-hat-enterprise-desktop]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux "A Linux distribution."

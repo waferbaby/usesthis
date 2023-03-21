@@ -73,7 +73,7 @@ For the band, I have wanted a [Dave Smith Instruments Prophet 12][prophet-12] si
 [pdftex]: http://www.tug.org/applications/pdftex/ "Software for creating PDFs from TeX files."
 [pin]: https://software.intel.com/en-us/articles/pintool "A binary instrumentation framework."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [prophet-12]: https://www.davesmithinstruments.com/product/prophet-12-keyboard/ "A 12-voice synth."
 [rax]: http://web.archive.org/web/20120819135409/http://www.audiofile-engineering.com:80/support/manuals/rx/3/html/index.html "A virtual audio rack."
 [sp-505]: http://www.bossus.com/gear/productdetails.php?ProductId=175 "An audio sample and loops device."

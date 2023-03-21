@@ -37,7 +37,7 @@ I have it. One powerful, portable, fast, machine with a high-rez screen and a cl
 [campfire]: https://basecamp.com/retired/campfire "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [git]: https://git-scm.com/ "A version control system."

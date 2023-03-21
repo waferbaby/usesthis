@@ -44,7 +44,7 @@ I really like my current setup! I suppose I should get an ergonomic chair. I'd a
 [brave]: https://brave.com/ "A web browser."
 [byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[dashlane]: https://www.dashlane.com/ "A password managment system."
+[dashlane]: https://www.dashlane.com/ "A password management system."
 [deployhq]: https://www.deployhq.com/ "A service for deploying websites."
 [drop-halo-clear]: https://keybumps.com/switches/drop-halo-clear.html "Switches for a mechincal keyboard."
 [dsa-9009]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=6823 "Keycaps for a mechanical keyboard."

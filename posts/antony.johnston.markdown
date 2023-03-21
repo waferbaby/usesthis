@@ -106,7 +106,7 @@ Failing that -- which I most certainly am -- I'd settle for being able to ditch 
 [marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [reeder-ios]: https://reederapp.com/ios/ "A Google Reader client for iOS."

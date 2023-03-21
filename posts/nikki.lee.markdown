@@ -172,4 +172,4 @@ I'd love to have better collaborative whiteboarding and drawing software. People
 [xbox-controller-for-windows]: http://web.archive.org/web/20170913033543/http://www.xbox.com:80/en-US/xbox-one/accessories/controllers/controller-cable-windows? "A video game controller."
 [xbox-elite-wireless-controller]: http://web.archive.org/web/20200215075941/https://www.xbox.com/en-US/xbox-one/accessories/controllers/elite-wireless-controller "A wireless gaming controller."
 [xps-8500]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-8500 "A tower PC."
-[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: https://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

@@ -58,7 +58,7 @@ There seem to be more and more apps that take what you've already discovered and
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
+[divvy]: https://mizage.com/divvy/ "Window management and arrangement for macOS."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [fontexplorer-x]: https://www.fontexplorerx.com/ "Font management software."

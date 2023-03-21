@@ -102,4 +102,4 @@ I also wish the Dell gaming tower I used to develop on wasn't broken; it didn't 
 [vi25]: https://www.alesis.com/products/view/vi25 "A MIDI keyboard."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [zoom.2]: https://zoom.us "Video conferencing software."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

@@ -57,7 +57,7 @@ I'd happily upgrade to a tricked out 16" MacBook Pro. If I'm just throwing money
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kap]: https://getkap.co/ "A screen capture tool."
 [local-by-flywheel]: https://localbyflywheel.com/ "A tool for developing WordPress sites locally."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

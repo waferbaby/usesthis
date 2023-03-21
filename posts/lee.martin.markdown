@@ -35,7 +35,7 @@ Since I'm working from home now I'm likely going to swap this MacBook Pro for a 
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

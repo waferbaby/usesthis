@@ -63,4 +63,4 @@ Finally, I would like a very nice cat tower for Haku, so he can stop climbing al
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
 [zenbook-ux31]: https://www.amazon.com/ASUS-Zenbook-13-Inch-Laptop-VERSION/dp/B009AEYDZA/ "A 13.3 inch PC ultrabook."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

@@ -38,7 +38,7 @@ I would love to own a home with a finished basement, if only to have a place to 
 [e-935]: https://en-us.sennheiser.com/vocal-microphone-dynamic-cardioid-e-935 "A microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [gibson-sg]: https://en.wikipedia.org/wiki/Gibson_SG "An electric guitar."
-[intersteller-overdriver]: http://web.archive.org/web/20160408000426/http://www.killerrockandroll.com:80/deathbyaudio/interstellaroverdriver.html "An overdrive pedal."
+[intersteller-overdriver]: https://web.archive.org/web/20160408000426/http://www.killerrockandroll.com:80/deathbyaudio/interstellaroverdriver.html "An overdrive pedal."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [olympic]: http://epiphonewiki.com/index.php/Olympic "An electric guitar."
 [precise-v5-rt]: https://www.amazon.com/Pilot-Precise-Retractable-Rolling-Extra/dp/B001E6A9M8/ "A retractable ball point pen."

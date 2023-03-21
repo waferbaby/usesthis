@@ -37,7 +37,7 @@ We just bought a house so I'm really gunning for a 5.1 surround sound setup for 
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [27mu88-w]: https://www.amazon.com/LG-Electronics-27MU88-W-27-Inch-LED-lit/dp/B01LG5RY74 "A 27 inch LED monitor."
-[activite-pop]: http://web.archive.org/web/20170219052853/https://www.withings.com/us/en/products/activite-pop "A watch-like activity tracker."
+[activite-pop]: https://web.archive.org/web/20170219052853/https://www.withings.com/us/en/products/activite-pop "A watch-like activity tracker."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [android-studio]: https://developer.android.com/studio/intro/index.html "An IDE for Android app development."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."

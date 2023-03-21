@@ -231,4 +231,4 @@ In my biggest dreams, all of that is happening in a world with open borders, gua
 [witchy-ios]: http://witchy.co/ "A lunar calendar app."
 [x-t30]: https://fujifilm-x.com/global/products/cameras/x-t30/ "A 26.1 megapixel mirrorless camera."
 [zoxide]: https://github.com/ajeetdsouza/zoxide "A command line tool for switching between directories."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

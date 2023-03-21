@@ -38,7 +38,7 @@ My current setup works pretty well for pretty much everything I need to use it f
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [notable]: https://notable.app/ "A note taking app."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
 [ubertooth-one]: https://greatscottgadgets.com/ubertoothone/ "An open source Bluetooth development dongle."

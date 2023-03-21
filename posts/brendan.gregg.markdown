@@ -102,7 +102,7 @@ I'd also like to have a small data projector aimed at the ceiling above my bed, 
 [opera]: http://web.archive.org/web/20221227050003/https://www.opera.com/ "A cross-platform web browser."
 [perf]: https://en.wikipedia.org/wiki/Perf_(Linux) "A command-line kernel performance analyser."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [ps2]: https://en.wikipedia.org/wiki/PS_2 "A gaming console."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."

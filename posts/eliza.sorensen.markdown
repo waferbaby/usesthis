@@ -29,7 +29,7 @@ I'm pretty happy with my current setup but I wouldn't mind going back to a keybo
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [ath-ar5bt]: http://sea.audio-technica.com/products/headphones/lifestyle/all-earphones/ath-ar5bt "On-ear wireless headphones."
-[clubhouse]: https://clubhouse.io/ "A project managment software service."
+[clubhouse]: https://clubhouse.io/ "A project management software service."
 [ducky-one]: https://www.duckychannel.com.tw/page-en/ducky-one/ "A mechanical keyboard."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [pixel-3-xl]: https://en.wikipedia.org/wiki/Pixel_3 "A 6.3 inch Android smartphone."
@@ -43,4 +43,4 @@ I'm pretty happy with my current setup but I wouldn't mind going back to a keybo
 [vim]: https://www.vim.org/ "A command-line text editor."
 [wireless-gaming-mouse-g700]: https://support.logitech.com/en_us/product/wireless-gaming-mouse-g700 "A wireless gaming mouse."
 [zeal]: https://zealdocs.org/ "An offline developer documentation viewer."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

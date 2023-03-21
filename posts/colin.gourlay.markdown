@@ -71,7 +71,7 @@ To be honest, I have nearly everything I want in a setup already, but if I could
 [ipad-mini-2]: https://en.wikipedia.org/wiki/IPad_Mini_(2nd_generation) "A 7.9 inch tablet device with a Retina screen."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
 [ipod-touch]: https://www.apple.com/ipod-touch/ "It's like an iPhone, without the phone bit."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lastpass]: https://lastpass.com/ "A password manager."
 [launchpad]: http://us.novationmusic.com/midi-controllers-digital-dj/launchpad "A controller for Ableton Live."

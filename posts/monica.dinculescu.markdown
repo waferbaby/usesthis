@@ -36,7 +36,7 @@ I don't like sitting at a desk and I hate standing even more. I'd love to fully 
 Oh, and coffee. There must always be coffee.
 
 [3ds]: https://www.nintendo.com/3ds/ "A portable gaming console with a 3D screen."
-[activite-pop]: http://web.archive.org/web/20170219052853/https://www.withings.com/us/en/products/activite-pop "A watch-like activity tracker."
+[activite-pop]: https://web.archive.org/web/20170219052853/https://www.withings.com/us/en/products/activite-pop "A watch-like activity tracker."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [atom]: https://atom.io/ "A text editor based on web technology."
@@ -57,7 +57,7 @@ Oh, and coffee. There must always be coffee.
 [moom]: https://manytricks.com/moom/ "A Mac tool for taking control of window sizing/moving."
 [nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
 [oh-my-zsh]: https://github.com/robbyrussell/oh-my-zsh "A framework of extensions and themes for the zsh shell."
-[photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
+[photos]: https://www.apple.com/macos/photos/ "A photo editor for macOS."
 [polymer]: http://web.archive.org/web/20170306114641/https://www.polymer-project.org/1.0/ "A library for making custom HTML elements."
 [slack]: https://slack.com/ "A collaboration service."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."

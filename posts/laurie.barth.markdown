@@ -35,7 +35,7 @@ To be honest, I feel like I'm pretty close to my dream setup! I'm debating anoth
 [ergochair-pro]: https://www.autonomous.ai/office-chairs/ergonomic-chair "An ergonomic desk chair."
 [homebrew]: http://brew.sh "Command-line package manager for Mac OS X."
 [intellij-idea]: http://www.jetbrains.com/idea/ "A developer's IDE."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jarvis-bamboo]: https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."

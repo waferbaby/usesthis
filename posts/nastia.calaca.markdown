@@ -55,7 +55,7 @@ Most importantly, I would like to find a new spacious studio with separate rooms
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [iphone-11-pro]: https://en.wikipedia.org/wiki/IPhone_11_Pro "A 5.8 inch iOS phone."
-[photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
+[photos]: https://www.apple.com/macos/photos/ "A photo editor for macOS."
 [procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [x-t20]: https://fujifilm-x.com/global/products/cameras/x-t20/ "A 24 megapixel digital camera."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

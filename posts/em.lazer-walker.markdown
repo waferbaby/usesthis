@@ -86,4 +86,4 @@ What's more frustrating to me is having to balance the interesting work with the
 [vpen]: https://www.amazon.com/Pilot-SVP-4M-Vpen-Disposable-Fountain/dp/B01G455A68 "A disposable fountain pen."
 [wes51]: https://www.amazon.com/Weller-WES51-Analog-Soldering-Station/dp/B000BRC2XU "A soldering station."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

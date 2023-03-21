@@ -45,7 +45,7 @@ My preference would be to start with a small studio, with a great big wall, a la
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [play-360]: http://web.archive.org/web/20140725104631/http://www.nokia.com/global/products/accessory/md-50w/ "A set of wireless speakers."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://www.spotify.com/us/ "A music streaming service."

@@ -34,7 +34,7 @@ I think pretty much already have it. I like to keep things simple, modular and p
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [github]: https://github.com/ "A Git code repository service."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jekyll]: https://jekyllrb.com/ "A static site generator."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

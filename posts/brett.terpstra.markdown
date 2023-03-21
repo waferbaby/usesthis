@@ -75,7 +75,7 @@ I'm actually quite enamored with my current setup. I love my desk, my current am
 [gradient]: http://web.archive.org/web/20190506095724/http://www.gradientapp.com/home/index/ "A Mac tool for creating CSS3 gradients."
 [growl]: http://growl.info/ "A notification system for Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [keyboard]: https://www.apple.com/keyboard/ "The keyboard."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

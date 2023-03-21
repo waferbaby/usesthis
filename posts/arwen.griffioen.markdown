@@ -40,7 +40,7 @@ I'd have both work and home near the beach. I'd like to be able to walk my son t
 [rstudio]: https://www.rstudio.com/ "An IDE for the R language."
 [scikit-learn]: https://scikit-learn.org/stable/ "A machine learning library for Python."
 [studio-xps-9100]: https://www.dell.com/en-us/shop/cty/dell-studio-xps-9100-desktop/spd/studio-xps-9100 "A desktop PC tower."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [zendesk]: https://www.zendesk.com/ "A customer service service."

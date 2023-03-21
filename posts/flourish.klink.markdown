@@ -78,7 +78,7 @@ Finally, if we're talking about gaming... I sure wouldn't mind a Gauntlet 2 cabi
 [performance-mouse-mx]: https://www.logitech.com/en-us/product/performance-mouse-mx "A wireless laser mouse."
 [photo-booth]: https://en.wikipedia.org/wiki/Photo_Booth "Software to take photos using the built-in camera of recent Macs."
 [pocket-mbta-ios]: https://itunes.apple.com/us/app/pocket-mbta/id387175295 "An app for transit times from the Massachusetts Bay Transit Authority."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [ps3]: http://us.playstation.com/PS3/ "A shiny gaming console from Sony."
 [scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

@@ -67,7 +67,7 @@ For photo editing, I'm mostly limited by my imagination and skills. That being s
 [goobuntu]: https://en.wikipedia.org/wiki/Goobuntu "Google's own version of Ubuntu."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jbcrypt]: http://www.mindrot.org/projects/jBCrypt/ "A Java implementation of BCrypt."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [le-575]: http://web.archive.org/web/20210629220334/http://www.commell.com.tw/Product/SBC/LE-575.HTM "A fanless embedded computer."

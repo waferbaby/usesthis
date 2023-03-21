@@ -55,7 +55,7 @@ My family and I would be Amish (we used to subscribe to the national edition of 
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [iwantmyname]: https://iwantmyname.com/ "A domain name registrar."
 [joes-goals]: http://www.joesgoals.com/ "A simple goal tracking service."
 [kango-930]: https://www.kango-pro.com/en/glossary.html?avproducts%5Blexique%5D=91&cHash=414f4fcfd7 "A stand-up seat."

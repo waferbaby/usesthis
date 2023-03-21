@@ -70,4 +70,4 @@ I would love the ability to transfer all the context of a computer I'm using int
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [utorrent]: https://www.utorrent.com/ "A BitTorrent client."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

@@ -113,7 +113,7 @@ I've always fantasized about having an analog synth rig, and still may explore b
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [lottie]: https://airbnb.design/lottie/ "A library for rendering After Effects animations."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

@@ -95,4 +95,4 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [ss-b1000]: https://www.amazon.com/Sony-SS-B1000-4-Inch-Bookshelf-Speakers/dp/B000OG88KY "Speakers."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

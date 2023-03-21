@@ -166,7 +166,7 @@ On the software front, I'm also mostly OK, with the exception of iOS which alway
 [odb-3]: https://www.boss.info/us/products/odb-3/ "A bass pedal."
 [officejet-pro-8100]: https://store.hp.com/us/en/pdp/hp-officejet-pro-8100-eprinter---n811a-n811d "A printer."
 [overcast-ios]: https://itunes.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
-[path-finder]: http://www.cocoatech.com/pathfinder/ "A replacement for Mac OS X's Finder file browser."
+[path-finder]: https://www.cocoatech.io "A replacement for macOS Finder file browser."
 [piecrust]: https://bolt80.com/piecrust/ "A static site generator."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [plex]: https://plex.tv/ "Media center software."

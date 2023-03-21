@@ -15,7 +15,7 @@ In addition to computer stuff, I have a [woodworking studio](http://østre.no/ "
 
 ### What hardware do you use?
 
-I'm typing this on a [Thinkpad X220][thinkpad-x220]. It's a great machine with room for a 1TB disk, analog and digital video ports, and a classic Thinkpad keyboard. Alas, Lenovo switched to [island style keybords](http://en.wikipedia.org/wiki/Chiclet_keyboard "The Wikipedia entry for Chiclet keyboards.") in 2012, so I will depend on online auctions for a steady supply of used X220 in the future.
+I'm typing this on a [Thinkpad X220][thinkpad-x220]. It's a great machine with room for a 1TB disk, analog and digital video ports, and a classic Thinkpad keyboard. Alas, Lenovo switched to [island style keyboards](http://en.wikipedia.org/wiki/Chiclet_keyboard "The Wikipedia entry for Chiclet keyboards.") in 2012, so I will depend on online auctions for a steady supply of used X220 in the future.
 
 I take about 20k photographs per year with my Canon SLR. If you're not a great photographer, taking many photos improves your chance of getting some good shots. [Canon 6D][eos-6d] lets me take more photos per second than my previous model.
 

@@ -98,7 +98,7 @@ But there's something to be said for owning beautiful, useful objects that light
 [littlesnapper]: https://realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mailplane]: https://mailplaneapp.com/ "A Mac desktop client for Gmail."
-[messagepad-2000]: http://www.everymac.com/systems/apple/messagepad/stats/newton_mp_2000.html "An old PDA from Apple, way ahead of its time."
+[messagepad-2000]: https://everymac.com/systems/apple/messagepad/stats/newton_mp_2000.html "An old PDA from Apple, way ahead of its time."
 [mx-1000]: https://www.amazon.com/Logitech-MX1000-Laser-Cordless-Mouse/dp/B0002UM0JW "A cordless mouse."
 [omnigraffle-pro]: https://www.omnigroup.com/omnigraffle "Professional diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

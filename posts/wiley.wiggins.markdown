@@ -54,4 +54,4 @@ I wouldn't waste money on a crazy camera package for shooting video - no RED's o
 [toon-boom-studio]: https://www.toonboom.com/products/toon-boom-studio "A 2D animation software package."
 [vdmx]: https://vidvox.net/ "Real-time video studio software for the Mac."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
-[zwoptex]: http://web.archive.org/web/20200919130507/https://zwopple.com/zwoptex/ "A 2D sprite-packing tool."
+[zwoptex]: https://web.archive.org/web/20200919130507/https://zwopple.com/zwoptex/ "A 2D sprite-packing tool."

@@ -37,7 +37,7 @@ More so than any specific hardware or software, I'd love to have a quiet office 
 [hum-ios]: https://itunes.apple.com/us/app/hum/id796154884 "A note-taking and audio recording app."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

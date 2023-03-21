@@ -51,7 +51,7 @@ I work from home. I used to have a Mac [Thunderbolt Display][thunderbolt-display
 [headspace-meditation-ios]: https://www.headspace.com/ "A guided meditation app for iOS."
 [instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [ls1]: https://support.logitech.com/en_us/product/ls1-laser-mouse "A laser mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

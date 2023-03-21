@@ -62,7 +62,7 @@ I'd like all of us to have time to farm and land to farm on.
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [nationbuilder]: https://nationbuilder.com/ "A hosted community service."
 [ourgoods]: https://ourgoods.org/ "A creative barter network service."
-[riseup]: https://help.riseup.net/ "A collection of online communcation services."
+[riseup]: https://help.riseup.net/ "A collection of online communication services."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."
 [thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
 [trello]: https://trello.com/ "A project management service."

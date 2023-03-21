@@ -75,7 +75,7 @@ I like Apple's combination of hardware and software the best. I just wish they w
 [google-cardboard]: http://www.google.com/get/cardboard/ "A VR viewer for smartphones."
 [imageoptim]: https://imageoptim.com/ "A Mac GUI wrapper for image optimising tools."
 [ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [mac-app-store]: https://en.wikipedia.org/wiki/Mac_App_Store "An online store for Macintosh software."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

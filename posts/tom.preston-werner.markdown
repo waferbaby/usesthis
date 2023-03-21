@@ -46,7 +46,7 @@ Here's what I see when I close my eyes: A massive egg-shaped room. The topology 
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mailplane]: https://mailplaneapp.com/ "A Mac desktop client for Gmail."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [propane]: http://web.archive.org/web/20170610020904/http://propaneapp.com:80/ "A native Mac client for the Campfire chat service."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

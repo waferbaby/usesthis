@@ -122,7 +122,7 @@ And finally, as long as we're dreaming, the [Breville Oracle Touch espresso mach
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
 [perfection-v600]: https://www.amazon.com/Epson-B11B198011-Perfection-Photo-Scanner/dp/B002OEBMRU "A photo scanner."
-[photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
+[photos]: https://www.apple.com/macos/photos/ "A photo editor for macOS."
 [rp-pc028]: https://www.ravpower.com/products/rp-pc028-60w-usb-charger "A 6-port USB power charger."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [stack-overflow]: https://stackoverflow.com/ "A developer community."

@@ -75,7 +75,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [integrated-225]: http://web.archive.org/web/20160823184750/http://www.anthemav.com:80/products-current/anthem/integrated-amp/integrated-225 "An amplifier."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [ipython]: http://ipython.org/ "An interactive shell for Python."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [kindle-ios]: https://itunes.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mail-ios]: https://www.apple.com/ios/ios-10/ "A mail client included with iOS."

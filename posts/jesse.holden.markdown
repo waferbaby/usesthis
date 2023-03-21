@@ -50,7 +50,7 @@ Well, that and my [Playdate][], of course :)
 [icloud-drive]: https://www.apple.com/icloud/icloud-drive/ "An online document storage service."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jave]: http://jave.de/ "An ASCII art editor."
 [m720-triathlon]: https://www.logitech.com/en-us/product/m720-triathlon?crid=7 "A wireless multi-device mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

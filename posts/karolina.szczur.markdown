@@ -80,7 +80,7 @@ One day I want to have a real photo studio of my own. I also wouldn't mind a tel
 [instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ipad-mini-2]: https://en.wikipedia.org/wiki/IPad_Mini_(2nd_generation) "A 7.9 inch tablet device with a Retina screen."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [layervault]: https://www.layervault.com/ "A collaboration and presentation service for designers."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

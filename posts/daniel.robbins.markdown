@@ -65,4 +65,4 @@ If anything can be learned from this, there is power in actually articulating yo
 [vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [workfit-s]: https://www.ergotron.com/tabid/640/language/en-US/default.aspx "A monitor/keyboard station that lets you switch between sitting and standing."
-[zope]: http://zope.org/ "A Python-based web application framework."
+[zope]: https://www.zope.dev/ "A Python-based web application framework."

@@ -68,4 +68,4 @@ On the storage front, there are several things I'd love to see:
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [voyager-s3]: https://www.amazon.com/NewerTech-Voyager-Revision-Docking-Solution/dp/B007TTQQIA "A hard drive docking system."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

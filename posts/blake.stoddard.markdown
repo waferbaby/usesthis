@@ -118,4 +118,4 @@ On the coffee front, I'd love to upgrade to a [La Marzocco Linea Mini][linea-min
 [thinkpad-x1-nano]: https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadx1/thinkpad-x1-nano/22tp2x1x1n1 "A 13 inch PC laptop."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [warp]: https://www.warp.dev/ "A terminal application."
-[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: https://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

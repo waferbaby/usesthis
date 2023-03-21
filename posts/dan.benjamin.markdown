@@ -85,7 +85,7 @@ Other than that, I think I'm really happy with these things.
 [my-passport-essential]: https://www.amazon.com/Passport-Portable-External-Drive-Storage/dp/B006Y5UV4A "A portable hard drive."
 [officejet-6210]: https://www.amazon.com/HP-OfficeJet-6210-All-in-One-Printer/dp/B0002YGLDY "An all-in-one scanner/printer/copier/fax."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [pro-tools-m-powered]: https://www.avid.com/en/products/Pro-Tools-M-Powered "A version of Pro Tools LE designed to work with M-Audio products."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."

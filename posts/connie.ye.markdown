@@ -32,7 +32,7 @@ I'm not sure yet! I'd like to get an eGPU for sure for graphics and machine lear
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [iphone-xs]: https://en.wikipedia.org/wiki/IPhone_XS "A 5.8 inch iOS phone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [jupyter]: https://jupyter.org/ "Web-based live document software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

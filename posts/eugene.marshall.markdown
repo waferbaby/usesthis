@@ -58,4 +58,4 @@ I am incredibly privileged, so I am actually pretty close to my dream setup for 
 [v60]: https://www.hario.jp/sp_v60series.html "A coffee dripper."
 [word]: https://products.office.com/en-us/word "A document editor."
 [yeti]: http://bluemic.com/yeti/ "A USB microphone."
-[zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."
+[zoom]: https://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

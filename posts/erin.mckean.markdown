@@ -91,4 +91,4 @@ For sewing I just want more space... and a better way to organize the ridiculous
 [wordnik]: https://www.wordnik.com/ "An online English dictionary."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [wpengine]: https://wpengine.com/ "A hosted WordPress service."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

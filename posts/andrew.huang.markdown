@@ -77,7 +77,7 @@ Of course, I lust after very light, thin laptops, such as the Sony VAIO VPCX11. 
 [2000-dmm]: https://www.tek.com/digital-multimeter "A digital multimeter."
 [altium-designer]: https://www.altium.com/altium-designer/overview "PCB/schematic capture design software."
 [atom-monitor]: https://www.paradigm.com/products-current/atom-monitor "Speakers."
-[back-ups-pro-650va]: https://www.apc.com/resource/include/techspec_index.cfm?base_sku=BP650S "A 650VA uninterruptable power supply unit."
+[back-ups-pro-650va]: https://www.apc.com/resource/include/techspec_index.cfm?base_sku=BP650S "A 650VA uninterruptible power supply unit."
 [beagle-usb-480]: https://www.totalphase.com/products/beagle-usb480/ "A USB protocol analyser."
 [bhm-jl]: http://www.caeonline.com/listing/product/58589/olympus-bhm-jl "A semiconductor microscope."
 [bold]: http://web.archive.org/web/20160321003942/http://worldwide.blackberry.com/blackberrybold/ "A smartphone."

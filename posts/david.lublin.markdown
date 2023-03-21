@@ -98,7 +98,7 @@ In the meantime I am thinking of getting a second desk or workbench to make it e
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
 [stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
 [syphon]: http://syphon.v002.info/ "Real-time video frame mixing."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tower]: https://www.git-tower.com/ "A Mac GUI for Git."

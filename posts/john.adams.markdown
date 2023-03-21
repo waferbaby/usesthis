@@ -164,7 +164,7 @@ I'd also like to get a 100MBit or better line from my house to the Internet. My 
 [tb-303]: https://en.wikipedia.org/wiki/Roland_TB-303 "A bass synth."
 [tempest]: https://www.amazon.com/Dave-Smith-Instruments-DSI-3000-Tempest/dp/B004JEB08O "An analog drum machine."
 [twin6-be]: http://web.archive.org/web/20220710103746/https://www.focal.com/en/us/monitoring-speakers/sm6/twin6-be "Three-way monitor speakers."
-[ue-7-pro]: http://pro.ultimateears.com/ue-7-pro "In-ear headphones."
+[ue-7-pro]: https://custom.ultimateears.com/products/ue-7-pro "In-ear headphones."
 [ursa]: https://en.wikipedia.org/wiki/Blackmagic_URSA "A digtial movie camera."
 [video-assist-4k]: https://www.blackmagicdesign.com/products/blackmagicvideoassist "A monitoring and recording device."
 [voyager]: https://en.wikipedia.org/wiki/Minimoog_Voyager "An analog synth."

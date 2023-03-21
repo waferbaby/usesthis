@@ -74,7 +74,7 @@ Mostly what I want is a single app that consolidates, prioritizes and archives a
 [paramount-29l]: https://www.thule.com/en-us/us/backpacks/laptop-backpacks/thule-paramount-29l-_-tl_85854231817 "A laptop backpack."
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
 [powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html "Wireless over-the-ear headphones."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [signal-ios]: https://github.com/WhisperSystems/Signal-iOS "A private chat app."

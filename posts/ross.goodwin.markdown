@@ -57,7 +57,7 @@ That said, I'd absolutely love to own a personal machine learning rig with at le
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
-[tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
+[tensorflow]: https://www.tensorflow.org/ "An open source machine learning library."
 [tesla-k80]: https://www.nvidia.com/object/tesla-k80.html "A GPU-based accelerator."
 [torch-rnn]: https://github.com/jcjohnson/torch-rnn "A Recurrent Neural Network library for Torch."
 [torch]: http://torch.ch/ "A Lua-based computing framework."

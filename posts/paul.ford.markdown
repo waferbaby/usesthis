@@ -150,4 +150,4 @@ That said, in 2019, with all the clouds and cheap laptops, and Raspberry Pis, I 
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [word]: https://products.office.com/en-us/word "A document editor."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."

@@ -105,7 +105,7 @@ Overall, I'd like things to be simpler and more spacious.
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [pocket]: https://getpocket.com/ "A service for storing links to look at later on."
-[preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
+[preview]: https://en.wikipedia.org/wiki/Preview_(macOS) "An image viewer included of macOS."
 [pslx350h]: https://www.amazon.com/Sony-PSLX350H-Turntable-Discontinued-Manufacturer/dp/B00001ZWTY "A turntable."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [reading]: http://web.archive.org/web/20220701003848/https://www.reading.am/ "A service to keep track of what you're reading online."

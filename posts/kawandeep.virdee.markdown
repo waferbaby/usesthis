@@ -51,7 +51,7 @@ A shared space with lots of synthesizers, instruments, wall space to post up ide
 [backpacker]: https://www.martinguitar.com/guitars/backpacker/ "An acoustic guitar."
 [dropbox-paper]: https://www.dropbox.com/paper "A document collaboration service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
+[iterm2]: https://iterm2.com/ "An alternative terminal application for macOS."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [medium]: https://medium.com/ "A writing/blogging service."
 [monomachine-sfx-60]: https://en.wikipedia.org/wiki/Elektron_Monomachine "A synth."

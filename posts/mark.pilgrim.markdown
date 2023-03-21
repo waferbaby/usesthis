@@ -102,4 +102,4 @@ But hey, you asked for my dream setup. That's it: one computer for 20 years.
 [twidroid-android]: https://www.bluestacks.com/blog/app-reviews/archive/twidroid.html "A Twitter client for Android devices."
 [ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
 [wii]: https://www.nintendo.com/wii "A unique gaming console."
-[zsh]: http://www.zsh.org/ "An interactive shell and scripting language."
+[zsh]: https://www.zsh.org/ "An interactive shell and scripting language."
