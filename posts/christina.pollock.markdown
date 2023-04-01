@@ -6,6 +6,7 @@ categories:
 - developer
 - musician
 - game
+- windows
 ---
 
 ### Who are you, and what do you do?
@@ -92,7 +93,7 @@ This, but in a cabin in the woods.
 [stream-deck-xl]: https://www.elgato.com/en/gaming/stream-deck-xl "A programmable keyboard with 32 LCD keys."
 [stream-deck]: https://www.elgato.com/en/gaming/stream-deck "A programmable keyboard with 15 LCD keys."
 [sv420fm]: https://reverb.com/item/4404837-ibanez-96-sv420fm-electric-guitar-butterscotch-transparent-flamed-maple-39397 "An electric guitar."
-[thinkpad-p15s]: https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p15s-gen-2-(15”-intel)/22wsp15p5s2 "A 15 inch PC laptop."
+[thinkpad-p15s]: https://www.lenovo.com/us/en/p/laptops/thinkpad/thinkpadp/thinkpad-p15s-gen-2-(15"-intel)/22wsp15p5s2 "A 15 inch PC laptop."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
 [unreal-engine]: https://www.unrealengine.com/what-is-unreal-engine-4 "A 3D game engine."
 [viper-ultimate]: https://www.razer.com/gaming-mice/razer-viper-ultimate "A wireless mouse."
