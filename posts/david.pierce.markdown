@@ -15,7 +15,7 @@ My name is David Pierce, and I'm the Editor-at-Large at [Protocol](https://www.p
 
 For a long time, a big part of my job was testing and reviewing new gadgets, so the answer to this question changed constantly. Recently, though, I've stopped switching between review units and have actually had to settle down with a few devices I like best. Which turned out to be, somewhat disappointingly, mostly Apple products. 
 
-At home, a [Mac mini][mac-mini] (the base model but with more RAM, which is the only upgrade most people need) hooked up to some 24-inch Dell monitor I found on Amazon. I have a Logitech [K780][k780-multi-device] keyboard and a [M705][marathon-m705] mouse, both of which I love. I even have Logitech [speakers][multimedia-speakers-z200], because apparently I love Logitech products? For work I have a 13-inch [MacBook Pro][macbook-pro], which doesn't last long enough and boy I hate that keyboard, but it's what they gave me at work. I travel everywhere with the most recent [iPad Air][ipad-air] hooked up to a Brydge keyboard. I have an [iPhone 11 Pro][iphone-11-pro], about which I have no feelings. It's a phone. Every phone is a phone. I also have the new Google [Pixel 4][pixel-4], in that awesome orange color, which is... also a phone.
+At home, a [Mac mini][mac-mini] (the base model but with more RAM, which is the only upgrade most people need) hooked up to some 24-inch Dell monitor I found on Amazon. I have a Logitech [K780][k780-multi-device] keyboard and a [M705][marathon-m705] mouse, both of which I love. I even have Logitech [speakers][z200], because apparently I love Logitech products? For work I have a 13-inch [MacBook Pro][macbook-pro], which doesn't last long enough and boy I hate that keyboard, but it's what they gave me at work. I travel everywhere with the most recent [iPad Air][ipad-air] hooked up to a Brydge keyboard. I have an [iPhone 11 Pro][iphone-11-pro], about which I have no feelings. It's a phone. Every phone is a phone. I also have the new Google [Pixel 4][pixel-4], in that awesome orange color, which is... also a phone.
 
 Other miscellaneous things: I have Bose [QC35][quietcomfort-35] headphones, plus a pair of Sony's [MDR-7506][] headphones that are the best price-to-quality pair of headphones I've ever used. I use an Audio Technica [ATR2100][atr2100-usb] mic for podcasting, which is equally great for the price. I have a Sony [ICD-UX560][] voice recorder (Sony, the names, come on), because the Wirecutter recommended it and the Wirecutter is never wrong. I use [PowerBeats Pro][powerbeats-pro] headphones, except for when they're dead, in which case I use my old and rapidly deteriorating [AirPods][]. (I'm suddenly realizing I have too many headphones.) There are also a half-dozen [UE Boom][ue-boom] speakers of various sizes and colors floating around my apartment, because they are the best and apparently because I love spending money on more ways to play music?
 
@@ -78,7 +78,6 @@ Mostly I'd like to get rid of the infinite rat's nest of cables that I know will
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [marathon-m705]: https://www.logitech.com/en-us/product/marathon-mouse-m705 "A wireless mouse."
 [mdr-7506]: https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
-[multimedia-speakers-z200]: https://www.logitech.com/en-us/product/multimedia-speakers-z200-business "A pair of speakers."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [oak-ios]: https://itunes.apple.com/us/app/oak-meditation-breathing/id1210209691 "A meditation app."
 [onetab]: https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall "A Chrome extension for taking open tabs and putting them in a list."
@@ -97,3 +96,4 @@ Mostly I'd like to get rid of the infinite rat's nest of cables that I know will
 [tripit]: https://www.tripit.com/ "A travel planning web service."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
 [ue-boom]: https://en.wikipedia.org/wiki/UE_Boom "A portable Bluetooth speaker."
+[z200]: https://www.logitech.com/en-au/products/speakers/z200-multimedia-stereo-speakers.980-000850.html "A pair of speakers."
