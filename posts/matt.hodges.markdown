@@ -68,6 +68,7 @@ I don't like my desk chair. It's some piece of junk from IKEA. I haven't put muc
 [bear]: http://www.bear-writer.com "A note taking application for macOS."
 [bolt-6000]: https://www.jackery.com/pages/portable-chargers "A portable charger."
 [firefox-focus-ios]: https://en.wikipedia.org/wiki/Firefox_Focus "A privacy-focused web browser."
+[firefox-ios]: https://www.mozilla.org/en-US/firefox/browsers/mobile/ios/ "A web browser app."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freestyle2-mac]: https://www.kinesis-ergo.com/shop/freestyle2-for-mac/ "An ergonomic keyboard."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
