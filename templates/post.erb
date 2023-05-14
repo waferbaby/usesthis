@@ -7,7 +7,7 @@ layout: default
     <figure>
       <img src="/images/interviews/<%= @post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= @post.title %>">
       <% if @post.credits %>
-       <figcaption>Image by <% if @post.credits[:url] %><a href="<%= @post.credits[:url] %>" title="More details about <%= @post.credits[:name] %>."><%= @post.credits[:name] %></a><% else %><%= @post.credits[:name] %><% end %><% if @post.credits[:licence] %> (<a href="http://creativecommons.org/licenses/<%= @post.credits[:licence] %>/4.0/" title="The <%= @post.credits[:licence].upcase %> Creative Commons licence."><%= @post.credits[:licence].upcase %></a>)<% end %>.</figcaption>
+        <figcaption>Image by <% if @post.credits[:url] %><a href="<%= @post.credits[:url] %>" title="More details about <%= @post.credits[:name] %>."><%= @post.credits[:name] %></a><% else %><%= @post.credits[:name] %><% end %><% if @post.credits[:details] %> (<%= @post.credits[:details] %>)<% end %><% if @post.credits[:licence] %> (<a href="http://creativecommons.org/licenses/<%= @post.credits[:licence] %>/4.0/" title="The <%= @post.credits[:licence].upcase %> Creative Commons licence."><%= @post.credits[:licence].upcase %></a>)<% end %>.</figcaption>
      <% end %>
    </figure>
     </figure>
