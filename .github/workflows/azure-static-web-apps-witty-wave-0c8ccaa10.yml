@@ -20,9 +20,8 @@ jobs:
           bundler-cache: true
       - name: Build the site
         run: |
-          pwd
           bundle exec dimples build
-          ls -lR
+          ln -s build/interviews/index.html build/index.html
       - name: Deploy to Azure
         id: builddeploy
         uses: azure/static-web-apps-deploy@v1
