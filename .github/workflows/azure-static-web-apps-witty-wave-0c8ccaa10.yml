@@ -21,7 +21,7 @@ jobs:
       - name: Build the site
         run: |
           bundle exec dimples build
-          ln -s build/interviews/index.html build/index.html
+          cp build/interviews/index.html build/index.html
       - name: Deploy to Azure
         id: builddeploy
         uses: azure/static-web-apps-deploy@v1
