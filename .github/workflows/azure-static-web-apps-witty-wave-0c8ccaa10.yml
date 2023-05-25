@@ -19,10 +19,7 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
       - name: Build the site
-        run: |
-          pwd
-          bundle exec dimples build ${{ github.workspace }}/site
-          ls -lR
+        run: bundle exec dimples
       - name: Deploy to Azure
         id: builddeploy
         uses: azure/static-web-apps-deploy@v1
@@ -30,7 +27,7 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_WAVE_0C8CCAA10 }}
           repo_token: ${{ secrets.GITHUB_TOKEN }}
           action: "upload"
-          app_location: ${{ github.workspace }}/site
+          app_location: ${{ github.workspace }}/build
           api_location: ""
           output_location: ""
           skip_app_build: true
