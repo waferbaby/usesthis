@@ -1,5 +1,5 @@
 {
   "name": "clang",
   "description": "A C/C++ frontend for the LLVM compiler.",
-  "url": "http://clang.llvm.org/"
+  "url": "https://clang.llvm.org/"
 }

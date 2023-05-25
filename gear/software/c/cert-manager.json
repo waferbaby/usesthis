@@ -1,5 +1,5 @@
 {
   "name": "cert-manager",
   "description": "A Kubernetes add-on for managing TLS certificates.",
-  "url": "https://github.com/jetstack/cert-manager/"
+  "url": "https://github.com/cert-manager/cert-manager"
 }

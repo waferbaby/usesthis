@@ -1,5 +1,5 @@
 {
   "name": "ExifTool",
   "description": "A tool for reading and writing metadata in images.",
-  "url": "https://www.sno.phy.queensu.ca/~phil/exiftool/"
+  "url": "http://exiftool.org/"
 }

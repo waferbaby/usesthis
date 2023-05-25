@@ -1,5 +1,5 @@
 {
   "name": "Flex",
   "description": "A wearable activity tracker.",
-  "url": "http://www.fitbit.com/flex"
+  "url": "https://www.fitbit.com:443/flex"
 }
