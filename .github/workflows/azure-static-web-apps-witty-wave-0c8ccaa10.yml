@@ -19,11 +19,7 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
       - name: Build the site
-        run: 
-          - pwd
-          - ls
-          - bundle exec dimples build /home/github/build
-          - ls site/
+        run: pwd && ls && bundle exec dimples build /home/github/build && ls site/
       - name: Deploy to Azure
         id: builddeploy
         uses: azure/static-web-apps-deploy@v1
