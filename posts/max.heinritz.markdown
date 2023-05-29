@@ -33,17 +33,15 @@ The stories are similar but not as crazy with the no-longer-manufactured Men's A
 
 ### And what software?
 
-I have a pretty standard development stack: the [latest Mac OS X][macos], [Sublime Text 3][sublime-text], [iTerm2][], [Git][], [GitHub][] (including [GitHub Pages][github-pages]), [Slack][], [G Suite][g-suite], [PSequel][]. I use [emacs][] sometimes when I'm operating on a single file at a time or need to use a macro, but Sublime is my go-to editor.
+I have a pretty standard development stack: the [latest Mac OS X][macos], [Neovim][neovim], [Kitty][kitty], [Git][], [GitHub][] (including [GitHub Pages][github-pages]), [Slack][], [G Suite][g-suite].
 
 Why not Linux? Mac OS X battery and wifi connectivity are better in my experience. Also, Mac OS X distinguishes between control key vs command key better than Linux, so I can use consistent key bindings throughout the OS. Notably, this includes copy/paste in the terminal and the answer to the next question.
-
-Why not [vim][]? Mostly because I learned emacs first. But also because emacs key bindings for cursor manipulation work in almost all text input forms on the Mac. That is, ctrl-k, ctrl-n, ctrl-e, ctrl-p, ctrl-d... they work in [Google Docs][google-docs], [Gmail][] email editor, iTerm2, [Chrome][] url input, etc. Vim key bindings work in Gmail for multi-selecting emails from a list, so I use them there, but for the most part it seems to me the broader digital world is more emacs-friendly. I map caps lock key to control so that my pinky doesn't get strained.
 
 At Flexport, we use [React][], [React Native][react-native], [Expo][], GraphQL, [Ruby][] on [Rails][], [PostgreSQL][], [Prettier][], [RuboCop][], and many features of [AWS][]. For Map Lamps, I've been using [OpenStreetMap][], [Mapnik][], [Illustrator][], [Docker][], [Shopify][], and Autodesk [Fusion 360][fusion-360] for CAM drawings.
 
 At the OS level, I use [f.lux][] for blue-light reduction and [Spectacle][] for window management.
 
-For entertainment, I use [Spotify][], Pinterest, [LibriVox][], Hacker News, and a variety of health and finance subreddits. I've also recently gotten into the [NYT Crossword puzzle app][nytimes-crosswords-ios] -- quite a challenge!
+For entertainment, I use [VLC][], Pinterest, [LibriVox][], Hacker News, and a variety of health and finance subreddits. I've also recently gotten into the [NYT Crossword puzzle app][nytimes-crosswords-ios] -- quite a challenge!
 
 ### What would be your dream setup?
 
@@ -57,9 +55,7 @@ Ideally this place would be isolated in the middle of the forest with lots of wi
 
 [aws]: https://aws.amazon.com/ "Amazon's web service platforms."
 [bekant]: https://www.ikea.com/us/en/catalog/products/S19022530/ "A desk."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
 [docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [expo]: https://expo.io/ "A toolchain for React Native."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [fusion-360]: http://web.archive.org/web/20221224070522/https://www.autodesk.com/products/fusion-360/overview "Cloud-based CAD/CAM software."
@@ -67,25 +63,23 @@ Ideally this place would be isolated in the middle of the forest with lots of wi
 [git]: https://git-scm.com/ "A version control system."
 [github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
-[google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-earth-engine]: https://earthengine.google.com/ "A geodata analysis service."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[kitty]: https://sw.kovidgoyal.net/kitty/ "The fast, feature-rich, GPU based terminal emulator."
 [librivox]: https://duckduckgo.com/?q=librevox&t=osx&ia=about "A service providing free public domain audiobooks."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mapnik]: https://mapnik.org/ "An open-source geospatial visualiser library."
+[neovim]: https://neovim.org/ "A hyperextensible Vim-based text editor."
 [nytimes-crosswords-ios]: https://itunes.apple.com/us/app/nytimes-crosswords/id307569751 "A crosswords app for iOS."
 [openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
 [pavilion-32]: https://store.hp.com/us/en/pdp/hp-pavilion-32-32-inch-display-p-v1m69aa-aba--1 "A 32 inch monitor."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [postgresql]: https://www.postgresql.org/ "A relational database server."
 [prettier]: https://prettier.io/ "Code formatting software."
-[psequel]: http://www.psequel.com/ "A macOS GUI for working with PostgreSQL."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
 [react-native]: https://facebook.github.io/react-native/ "A framework for building native mobile apps with React."
 [react]: https://facebook.github.io/react/ "A JavaScript UI framework."
@@ -94,8 +88,6 @@ Ideally this place would be isolated in the middle of the forest with lots of wi
 [shopify]: https://www.shopify.com/ "A service for selling goods online."
 [slack]: https://slack.com/ "A collaboration service."
 [spectacle]: https://www.spectacleapp.com/ "A Mac tool for moving and resizing windows."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
-[sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [v2-adjustable-comfort-keyboard]: https://shop.goldtouch.com/products/goldtouch-v2-adjustable-comfort-keyboard-pc-and-mac-compatible-usb "A computer keyboard."
 [verticalmouse-right]: https://evoluent.com/products/vm4r/ "A unique mouse for right-handed users."
-[vim]: https://www.vim.org/ "A command-line text editor."
+[vlc]: https://www.videolan.org/vlc/ "A free and open source cross-platform multimedia player."
