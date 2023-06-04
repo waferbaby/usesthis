@@ -1,5 +1,5 @@
 ---
-title: J.Rosenbaum
+title: J. Rosenbaum
 summary: AI artist, researcher
 date: 2023-06-03
 categories:
