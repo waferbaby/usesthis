@@ -35,16 +35,16 @@ My dream setup would probably include an office of my own, and a better lighting
 
 A fun fact about me is that 10% of my income goes to children's wellness organizations like [Child's Play](http://childsplaycharity.org/ "A video game-based charity."), as well as animal rescues like NYC Second Chance Rescue & MotleyZooCrew; I do charity streams to raise funds for organizations like these regularly!
 
-[a50]: https://www.astrogaming.com/headsets/A50-GEN3.html "A gaming headset."
+[a50]: https://www.astrogaming.com/products/headsets/a50-gen-3.html "A gaming headset."
 [apex-350]: https://steelseries.com/gaming-keyboards/apex-350 "A gaming keyboard."
 [arctis-7]: https://steelseries.com/gaming-headsets/arctis-7 "A wireless gaming headset."
-[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1060/ "A graphics card."
-[green-screen]: https://www.elgato.com/en/gaming/green-screen "A green screen for chroma keying."
+[bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
+[green-screen]: https://www.elgato.com/us/en/p/green-screen "A green screen for chroma keying."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[nightbot]: https://beta.nightbot.tv/ "A Twitch and YouTube chat bot."
+[nightbot]: https://nightbot.tv/ "A Twitch and YouTube chat bot."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [streamlabs]: https://streamlabs.com/ "A streaming service."
-[xeon-e3-1231-v3]: https://ark.intel.com/products/80910/Intel-Xeon-Processor-E3-1231-v3-8M-Cache-3_40-GHz "A CPU."
+[xeon-e3-1231-v3]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/80910/Intel-Xeon-Processor-E3-1231-v3-8M-Cache-3_40-GHz "A CPU."

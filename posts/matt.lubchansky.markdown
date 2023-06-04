@@ -23,10 +23,10 @@ I try to get all my ideas down in [Google Docs][google-docs] so I've got it on a
 
 In my wildest dreams I probably have one of those huge [Thunderbolt displays][thunderbolt-display] with a [Mac Pro][mac-pro] and that stupidly massive 27" Cintiq that nobody actually needs. I've been working off a 13" Cintiq for years and having one of the giant ones with a huge articulated arm bolted to the wall sounds nice. For traveling, I'd honestly stick with the setup I have probably!
 
-[chromebook-2]: https://www.cnet.com/products/toshiba-chromebook-2-review/ "A 13.3 inch Chrome OS laptop."
+[chromebook-2]: https://www.cnet.com/products/toshiba-chromebook-2/review/ "A 13.3 inch Chrome OS laptop."
 [cintiq-companion-2]: http://web.archive.org/web/20190513005631/https://www.wacom.com/en-us/products/pen-displays/cintiq-companion-2 "A drawing tablet."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [manga-studio-ex]: http://web.archive.org/web/20180424074240/https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

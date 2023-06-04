@@ -35,4 +35,4 @@ Don't know? [Word][], I guess. I love the sun. Sitting outside on a summer's day
 
 Putting those together! Sitting outside in the sun writing on the computer or journaling on the legal pad, drinking good tea, nibbling on good bread.
 
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -26,12 +26,12 @@ I've moved on from [Sublime Text][sublime-text] to [Atom][] because Sublime kept
 
 Since I'm working from home now I'm likely going to swap this MacBook Pro for a desktop option (maybe [that trash can][mac-pro] or the new [iMac][]) and something much more mobile like a [MacBook Air][macbook-air]. That could be nice. However, if I'm left alone and the right ideas come along, I'm quite happy with my setup at the moment. It works and I can't complain too much. Maybe Apple understands they're just not good at wires and that's why they keep removing ports? Touché.
 
-[atom]: https://atom.io/ "A text editor based on web technology."
+[atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
 [codepen]: http://web.archive.org/web/20221226174511/https://codepen.io/ "A web playground for front-end developers."
 [coffeescript]: https://coffeescript.org/ "A language that compiles into Javascript."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [fission]: https://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
@@ -42,7 +42,7 @@ Since I'm working from home now I'm likely going to swap this MacBook Pro for a 
 [mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."
-[sinatra]: http://www.sinatrarb.com "A lightweight Ruby web framework."
-[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[sinatra]: https://sinatrarb.com/ "A lightweight Ruby web framework."
+[sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

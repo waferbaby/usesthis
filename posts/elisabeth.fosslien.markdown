@@ -30,4 +30,4 @@ I like all my current tools. I'd love to live somewhere more rural, like in a bi
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

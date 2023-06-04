@@ -32,8 +32,8 @@ Lastly, I want to give a shout out to my very satisfying [Alvin Draf-Tec 0.5mm m
 My friend and fellow artist Liat Berdugo recently observed that screens "ask the body to be fixed in space"; my teaching mentor Camille Utterback has also noted that digital interfaces aren't very generous or forgiving to the human body. Basically, my dream setup exists in the far (or maybe not so far?) future, where I don't have to sit crouched in a vise-like position, poking and clicking at things all day. Is there a way to make digital art by running around outside and doing cartwheels? I really hope so.
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[draf-tec-retrac]: https://www.amazon.com/Alvin-Draf-Tec-Retrac-Mechanical-Pencil/dp/B00PWUAXAA "A mechanical pencil."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[draf-tec-retrac]: http://web.archive.org/web/20150323071548/http://www.amazon.com:80/Alvin-Draf-Tec-Retrac-Mechanical-Pencil/dp/B00PWUAXAA "A mechanical pencil."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

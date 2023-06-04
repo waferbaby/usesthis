@@ -33,11 +33,11 @@ I usually don't write with music, but occasionally I'll listen to a [Pandora][] 
 
 Some sort of tree house-office hybrid. Maybe something like [this](http://updatedhome.com/amazing-tree-house-homes/ "An article about fancy tree house homes."), but with high speed wifi.
 
-[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[pandora]: http://www.pandora.com/restricted "A personalised Internet radio station."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[wf-3620]: http://www.epson.com/cgi-bin/Store/jsp/Product.do?sku=C11CD19201 "An all-in-one wireless printer."
-[word]: https://products.office.com/en-us/word "A document editor."
+[wf-3620]: https://epson.com/cgi-bin/Store/jsp/Product.do?sku=C11CD19201 "An all-in-one wireless printer."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

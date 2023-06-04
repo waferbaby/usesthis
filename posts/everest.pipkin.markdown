@@ -34,6 +34,6 @@ Um, well, I'd really like more toys to be honest. I'd love to have a good color 
 [axidraw-v3]: https://shop.evilmadscientist.com/productsmenu/846 "A pen plotter."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[node.js]: https://nodejs.org/en/ "A Javascript application platform."
+[node.js]: https://nodejs.org/en "A Javascript application platform."
 [stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."

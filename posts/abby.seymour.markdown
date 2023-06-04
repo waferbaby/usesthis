@@ -39,7 +39,7 @@ Otherwise, I'd like to get an etching press, a rolling mill and a  brand new kil
 [campaign-monitor]: https://www.campaignmonitor.com/ "An email newsletter service."
 [eos-50d]: https://en.wikipedia.org/wiki/Canon_EOS_50D "A 15.1 megapixel DSLR camera."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

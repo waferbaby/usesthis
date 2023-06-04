@@ -26,9 +26,9 @@ My frameworks of choice are largely [TensorFlow][] and [Keras][] so I guess my m
 I would love one of those automated chairs that supports my system in an ergonomic position so that I can lie down or sit up. Apart from that I am eyeing off the new [Mac Studio][mac-studio] setups and NVIDIA eGPUs. I'd love to have a dual monitor setup switching between a huge Linux machine learning workhorse with a massive NVIDIA GPU and a separate Mac system. I'd also love the space to experiment with building custom LED displays and some cool AR and VR systems.
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[discord]: https://discordapp.com/ "A voice and text chat service."
+[discord]: https://discord.com/ "A voice and text chat service."
 [google-colab]: http://web.archive.org/web/20221206023109/https://colab.research.google.com/notebooks/welcome.ipynb "A hosted Jupyter notebook that runs online."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [keras]: https://en.wikipedia.org/wiki/Keras "A Python library for interacting with TensorFlow."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
@@ -38,7 +38,7 @@ I would love one of those automated chairs that supports my system in an ergonom
 [nectar-research-cloud]: https://ardc.edu.au/services/ardc-nectar-research-cloud/ "A large-scale research service."
 [nomad-sculpt]: https://nomadsculpt.com/ "3D sculpting software for mobile devices."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [runway-ml]: https://runwayml.com/ "A machine learning prototyping tool."
 [stable-diffusion]: https://en.wikipedia.org/wiki/Stable_Diffusion "Software to generate images via text prompts"
 [tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."

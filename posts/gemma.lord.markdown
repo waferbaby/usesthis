@@ -43,6 +43,6 @@ I really like making large posters to communicate the ideas I'm thinking about, 
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [vsco-film]: http://web.archive.org/web/20171230140856/http://vsco.co/store/film "Film-like presets for Lightroom and Photoshop."

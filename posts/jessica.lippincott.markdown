@@ -28,8 +28,8 @@ I use all the basic software such as [Publisher][], [Word][], [PowerPoint][], [E
 
 I'm living my dream setup! I would love to visit the Gobi Desert to see the fossils there - that is definitely on my bucket list!
 
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[publisher]: https://products.office.com/en-us/publisher "Desktop publishing software."
-[word]: https://products.office.com/en-us/word "A document editor."
+[powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
+[publisher]: https://www.microsoft.com/en-us/microsoft-365/publisher "Desktop publishing software."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

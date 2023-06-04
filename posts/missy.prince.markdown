@@ -23,8 +23,8 @@ I just use the software that came with my scanner. [Arcsoft PhotoStudio][photost
 
 My dream setup would be a spacious color darkroom in my own house with a good sound system. Right now I rent time and equipment in a lab here in Portland. It's a thirty minute bike ride from my house, and I have to set up from scratch every time because other people use the equipment. It would be nice to walk into my own printmaking kingdom with everything as I left it and ready to go.
 
-[645-pro-tl]: https://www.amazon.com/Mamiya-645-Pro-TL-camera-medium/dp/B0001JZW8K "A 35mm film camera."
+[645-pro-tl]: http://web.archive.org/web/20160113021937/http://www.amazon.com/Mamiya-645-Pro-TL-camera-medium/dp/B0001JZW8K "A 35mm film camera."
 [7ii]: http://olegnovikov.com/technical/mamiya7ii/mamiya7ii.shtml "A medium format film camera."
-[canoscan-8800f]: https://www.amazon.com/Canon-2168B002-2168B002-CanoScan-8800F-Color-Image-Scanner/dp/B000V2QCQI "A film and negative scanner."
-[photostudio]: http://www.arcsoft.com/photostudio/ "An image editor for Windows."
+[canoscan-8800f]: http://web.archive.org/web/20180904204934/https://www.amazon.com/Canon-2168B002-2168B002-CanoScan-8800F-Color-Image-Scanner/dp/B000V2QCQI "A film and negative scanner."
+[photostudio]: https://www.arcsoft.com/photostudio/ "An image editor for Windows."
 [xa]: https://en.wikipedia.org/wiki/Olympus_XA "A 35mm film camera."

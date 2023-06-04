@@ -33,14 +33,14 @@ Serious web dev is new to me in the past 4 months, coming out of almost 30 years
 I'm pretty much the world's most impatient person. If I can describe structurally and semantically how a problem should be solved, it irritates me that I still actually have to noodle around creating the code for it. So my ideal setup is probably still a few hundred years out, and involves brain-wave monitors, genetic algorithms and asymmetrical thermodynamic cycles.
 
 [af-nikkor-50mm-f1.4d]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/1902/AF-NIKKOR-50mm-f%252F1.4D.html "A camera lens."
-[af-vr-micro-nikkor-105mm-f-2.8g-if-ed]: https://www.nikonusa.com/en/Nikon-Products/Product/Camera-Lenses/AF-S-VR-Micro-Nikkor-105mm-f%252F2.8G-IF-ED.html "An macro lens."
+[af-vr-micro-nikkor-105mm-f-2.8g-if-ed]: https://www.nikonusa.com/en/nikon-products/product-archive/camera-lenses/af-s-vr-micro-nikkor-105mm-f%252f2.8g-if-ed.html "An macro lens."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [bootstrap]: https://getbootstrap.com/ "A front-end web framework."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [coffeescript]: https://coffeescript.org/ "A language that compiles into Javascript."
 [d300]: https://en.wikipedia.org/wiki/Nikon_D300 "A 12.3 megapixel DSLR."
-[haml]: http://haml.info/ "A markup syntax that generates HTML."
+[haml]: https://haml.info/ "A markup syntax that generates HTML."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [jquery]: https://jquery.com/ "A Javascript framework."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

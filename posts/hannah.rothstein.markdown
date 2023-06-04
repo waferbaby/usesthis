@@ -38,7 +38,7 @@ Someday, I'd love to have a big, light-soaked, airy studio with cement floors, t
 I'd also be making 100% of my living with self-initiated art, a mix of conceptual work and painting. Ah, to dream - and damned if I stop trying to make that dream a reality!
 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."

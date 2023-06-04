@@ -55,7 +55,7 @@ I have the privilege and freedom of working from home with a remote team (and ha
 I'd really love to have a mobile workstation so I can have more workdays in cafes, parks, or travelling instead of always creating art in isolation. I haven't really found an option that I love yet, but I've heard great stuff about the [iPad Pro][ipad-pro] + [Procreate][procreate-ios]. Someday!
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [gs43vr-7re-phantom-pro]: https://www.msi.com/Laptop/GS43VR-7RE-Phantom-Pro/Specification "A 14 inch gaming laptop."
 [intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
@@ -63,8 +63,8 @@ I'd really love to have a mobile workstation so I can have more workdays in cafe
 [k70-rgb-mk.2]: https://www.corsair.com/us/en/k70-rgb-gaming-keyboard "A gaming keyboard."
 [m65-pro-rgb]: https://www.corsair.com/us/en/m65pro "A gaming mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[quest]: https://www.oculus.com/quest/ "An all-in-one VR headset."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[quest]: https://www.oculus.com/quest-2/ "An all-in-one VR headset."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [tilt-brush]: https://www.tiltbrush.com/ "Software for painting in VR."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."

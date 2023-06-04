@@ -34,14 +34,14 @@ For comics scripts and screenplays I use [Final Draft][final-draft]. I created a
 
 For the most part I have my dream setup already. I spent ten years working out my tools and setup, and very little of what I do is dependent on technology or gear. However, I just moved to a new neighborhood and I'm still searching for my new writing coffee shop yet. The ideal is a place that makes a great "dainty" (heavy on the milk) iced latte and keeps a basket of slightly underripe bananas on the counter.
 
-[col-erase]: https://www.amazon.com/Prismacolor-Col-Erase-Erasable-Assorted-20517/dp/B000089DCH "Erasable coloured pencils."
-[drawing-ink-a]: https://www.pelikan.com/pulse/Pulsar/en_US.Store.displayStore.135680./the-drawing-ink-a-from-pelikan "A drawing ink."
-[expression-11000xl]: http://www.epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[col-erase]: http://web.archive.org/web/20160507173225/http://www.amazon.com:80/Prismacolor-Col-Erase-Erasable-Assorted-20517/dp/B000089DCH "Erasable coloured pencils."
+[drawing-ink-a]: https://www.pelikan.com/ "A drawing ink."
+[expression-11000xl]: https://epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
+[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[kolinsky-8404]: https://www.amazon.com/Raphael-Kolinsky-Sable-Brush-8404/dp/B005WJRLQK "An ink brush."
+[kolinsky-8404]: http://web.archive.org/web/20140626081419/http://www.amazon.com/Raphael-Kolinsky-Sable-Brush-8404/dp/B005WJRLQK "An ink brush."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [precise-v7]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Point/dp/B00006IEBL "A pen."

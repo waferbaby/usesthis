@@ -28,7 +28,7 @@ I love the social and collaborative aspect of going into the office, but there a
 
 Realistically though, what I should do with my setup at home is A) clean off the giant piles of tax paperwork from cluttering my desk and monitor risers, and B) set up nice speakers so I can properly enjoy the space without wearing headphones. Oh, and move my computer to be near a window. I really like looking out the window when doing creative work. My desk at the office was near a window that looked at the Mont Royal (the only hill in Montreal really), and seeing its trees change color or get covered in snow or wreathed in fog was one of the highlights of my professional life, every day.
 
-[g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
+[g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-forms]: https://www.google.com/forms/about/ "A service for creating surveys."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
@@ -36,4 +36,4 @@ Realistically though, what I should do with my setup at home is A) clean off the
 [miro]: https://miro.com/ "An online collaborative whiteboard service."
 [pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [tidal]: http://web.archive.org/web/20221225090000/https://tidal.com/ "A music streaming service."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."

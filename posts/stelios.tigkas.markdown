@@ -27,11 +27,11 @@ I use [MOC][] for playing music, [mpv][] for videos, [Audacity][] for sound edit
 I'd like to use only open-source hardware and software, without the need to authenticate anywhere, in a universe with [universal health coverage](https://www.uhc2030.org/ "A collaborative platform for working towards universal healthcare."), [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income "The Wikipedia entry for universal basic income.") and [meaningful universal connectivity](https://www.broadbandcommission.org/universal-connectivity/ "A commission helping to guide international broadband policy and development.").
 
 [3310]: http://web.archive.org/web/20221206050426/https://www.nokia.com/phones/en_int/nokia-3310 "A basic mobile phone."
-[anki]: http://www.ankisrs.net/ "A flash-card based learning tool."
+[anki]: https://apps.ankiweb.net/ "A flash-card based learning tool."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [brave]: https://brave.com/ "A web browser."
-[burp]: https://portswigger.net/burp/ "Software for vulnerability scanning and traffic interception."
-[jaxx]: https://jaxx.io/ "Blockchain wallet software."
+[burp]: https://portswigger.net/burp "Software for vulnerability scanning and traffic interception."
+[jaxx]: http://web.archive.org/web/20230219185523/https://jaxx.io/ "Blockchain wallet software."
 [moc]: http://moc.daper.net/ "A Linux command line audio player."
 [mpv]: https://mpv.io/ "A cross-platform media player."
 [revenio-1.0]: https://www.knowyourbike.com/raleigh/revenio/1-0 "A road bike."

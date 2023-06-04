@@ -34,11 +34,11 @@ My preferred methods above have emerged from being scrappy, trying things, and w
 I have tried drawing on digital tablets instead of the paper-then-scanner method, and I may want to go that way in the future, but it hasn't happened yet. I'm really liking having a huge secondary display though! Some change is overwhelmingly good!
 
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[doxie-go]: https://www.getdoxie.com/product/doxie-go/ "A portable wireless scanner."
-[hl-2280dw]: https://www.brother-usa.com/Printer/ModelDetail/1/HL2280DW/Overview "A laser printer and scanner."
+[doxie-go]: https://www.getdoxie.com/product/doxie-go "A portable wireless scanner."
+[hl-2280dw]: https://www.brother-usa.com/products/hl2280dw "A laser printer and scanner."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

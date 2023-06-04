@@ -44,7 +44,7 @@ If there was a gun to my head and cash on the table, I could easily throw a hund
 
 [b1]: http://studioprojects.com/b1.html "A condenser microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [metafilter]: https://www.metafilter.com/ "A community website."
 [natural-keyboard]: https://en.wikipedia.org/wiki/Microsoft_Natural_keyboard "An older ergonomic keyboard."

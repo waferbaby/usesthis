@@ -32,8 +32,8 @@ Honestly, I'm super happy with my current setup. I've been refining it over the 
 My office is pretty messy, but it's a place where I can focus and be productive.
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[craft]: https://www.invisionapp.com/craft/ "A collection of design plugins."
-[discord]: https://discordapp.com/ "A voice and text chat service."
+[craft]: https://www.invisionapp.com/product/craft "A collection of design plugins."
+[discord]: https://discord.com/ "A voice and text chat service."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [gowalla]: https://en.wikipedia.org/wiki/Gowalla "A location/story tracking service."
 [linear]: https://linear.app/ "An issue tracking service."

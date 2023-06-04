@@ -28,7 +28,7 @@ I build all of the CLI computer screens in Incredible Doom by just typing them o
 
 I often overcomplicate the process of researching those interfaces and text-art styles, but I find it so rewarding to try to get all of the little details right. Some material is inspired by or adapted from Jason Scott's [extraordinary USENET file archives](http://textfiles.com/ "An archive of files from Usenet."), as well as an ancient repository from Mike Jittlov called "Jittlov's NetWit" that I've managed to hold onto since the '90s when I downloaded it from an early Subgenius website. I also found the archives at [Defacto2](https://defacto2.net/ "An archive of PC hacking/warez history.") miraculous and _indispensable_ to some of the BBS scenes in Volume 2, especially the full session dumps.
 
-In rare cases I've had to actually build and run a CLI app like [PINE][] or connect to a legitimate BBS to make sure I got the UI correct for one of the screens in the book. For those situations I use [iTerm2][], or I'll pore over [original changelogs from the 1990s](https://web.archive.org/web/20051125141739/http://www.washington.edu/pine/changes.html "An archived version of Pine's changelogs.") to make sure the features and UI elements I want to include actually existed in the exact year an issue takes place. [TelnetBBSGuide](https://www.telnetbbsguide.com/ "A directory of Internet-accessible BBSes.") also lets you connect to quite a few terminal-accessible BBSes right from your browser via [HtmlTerm](https://www.digitaldial.us/fterm/Example_HtmlTerm.html "A web-based BBS terminal."), which has been a huge boon for learning how some of these platforms worked and how users interact(ed) with them. For our [promo videos](https://www.youtube.com/watch?v=KtNKxY6im1Y "A YouTube promotional video for Incredible Doom.") and [fun clips](https://www.youtube.com/c/MatthewBogart "Matthew's YouTube account."), the 'live' captured screens that we created were built in the Mac terminal emulator [Cathode][] by Secret Geometry - now sadly defunct, but still extremely gorgeous if you love that aesthetic as much as I do. 
+In rare cases I've had to actually build and run a CLI app like [PINE][] or connect to a legitimate BBS to make sure I got the UI correct for one of the screens in the book. For those situations I use [iTerm2][], or I'll pore over [original changelogs from the 1990s](https://web.archive.org/web/20051125141739/http://www.washington.edu/pine/changes.html "An archived version of Pine's changelogs.") to make sure the features and UI elements I want to include actually existed in the exact year an issue takes place. [TelnetBBSGuide](https://www.telnetbbsguide.com/ "A directory of Internet-accessible BBSes.") also lets you connect to quite a few terminal-accessible BBSes right from your browser via [HtmlTerm](https://www.digitaldial.us/fterm/Example_HtmlTerm.html "A web-based BBS terminal."), which has been a huge boon for learning how some of these platforms worked and how users interact(ed) with them. For our [promo videos](https://www.youtube.com/watch?v=KtNKxY6im1Y "A YouTube promotional video for Incredible Doom.") and [fun clips](https://www.youtube.com/c/MatthewBogart "Matthew's YouTube account."), the 'live' captured screens that we created were built in the Mac terminal emulator [Cathode][] by Secret Geometry - now sadly defunct, but still extremely gorgeous if you love that aesthetic as much as I do.
 
 (There's an easter egg associated with Volume 2 out there that I'm not allowed to talk about, but suffice it to say I built it with [Coda][], [Pixelmator][], and _copious_ usage of the [Wayback Machine][wayback-machine] and [GifCities][].)
 
@@ -41,26 +41,26 @@ With that being said, I continue to appreciate everything Apple does to make the
 
 Well, that and my [Playdate][], of course :)
 
-[a2-plus]: https://audioengineusa.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
+[a2-plus]: https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [cathode]: https://web.archive.org/web/20110124124039/http://www.secretgeometry.com:80/apps/cathode/ "An terminal app that mimicked old terminal screens."
-[clip-studio-paint-ios]: https://itunes.apple.com/us/app/clip-studio-paint-for-manga/id1262985592 "A drawing app focused on manga."
+[clip-studio-paint-ios]: https://apps.apple.com/us/app/clip-studio-paint-for-manga/id1262985592 "A drawing app focused on manga."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [explore]: https://cricut.com/en-us/cricut-explore "A die cutting machine."
 [gifcities]: https://gifcities.org/ "A GeoCities GIF search engine."
-[icloud-drive]: https://www.apple.com/icloud/icloud-drive/ "An online document storage service."
+[icloud-drive]: https://www.apple.com/icloud/ "An online document storage service."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [jave]: http://jave.de/ "An ASCII art editor."
-[m720-triathlon]: https://www.logitech.com/en-us/product/m720-triathlon?crid=7 "A wireless multi-device mouse."
+[m720-triathlon]: https://www.logitech.com/en-us/product/m720-triathlon.html?crid=7 "A wireless multi-device mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [patreon]: https://www.patreon.com/ "A service for offering patronage to people online."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
-[pine]: http://www.washington.edu/pine/ "A terminal email/news client."
-[pixelmator]: https://www.pixelmator.com/mac/ "An image editor for the Mac."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
+[pine]: http://web.archive.org/web/20190328145000/http://www.washington.edu/pine/ "A terminal email/news client."
+[pixelmator]: http://web.archive.org/web/20230419034642/https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [playdate]: https://play.date/ "A portable game console with a crank."
 [rexpaint]: https://www.gridsagegames.com/rexpaint/ "An ASCII art painting program."
-[sculpt-ergonomic-keyboard]: http://www.microsoft.com/hardware/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
+[sculpt-ergonomic-keyboard]: https://www.microsoft.com/accessories/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
 [signo-dx]: https://uniballco.com/products/signo-dx-gel-pens "A gel pen."
 [simpletext]: https://en.wikipedia.org/wiki/SimpleText "A text editor included with earlier versions of Mac OS."
 [smt750c]: https://www.apc.com/us/en/product/SMT750C/apc-smartups-line-interactive-750va-tower-120v-6x-nema-515r-outlets-smartconnect-port+smartslot-avr-lcd/ "A UPS."
@@ -68,4 +68,4 @@ Well, that and my [Playdate][], of course :)
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [u2419h]: https://www.dell.com/en-us/shop/cty/pdp/spd/dell-u2419h-monitor "A 24 inch monitor."
 [wayback-machine]: http://archive.org/web/web.php "A service for pulling up archived copies of websites."
-[yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[yeti]: https://bluemic.com/yeti/ "A USB microphone."

@@ -50,7 +50,7 @@ I dream of an impossible chimera: a MacBook Air 17" with a Retina display.
 
 The big jump I have pending in terms of tools is to start using [Github][]. It's suitable to share code with clients and colleagues, but what I really want to do is to publish and open my framework. It's not something I can do now, though, because it's not completely stable yet and lacks comments, documentation and examples. But I'll do it!
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [delicious]: http://web.archive.org/web/20221226101338/https://del.icio.us/ "A web service for storing and sharing bookmarks."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
@@ -59,9 +59,9 @@ The big jump I have pending in terms of tools is to start using [Github][]. It's
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [ibook]: https://en.wikipedia.org/wiki/IBook "A laptop."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[ipod-nano]: https://www.apple.com/ipod-nano/ "A small music player."
+[ipod-nano]: https://www.apple.com/services/ "A small music player."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
@@ -71,4 +71,4 @@ The big jump I have pending in terms of tools is to start using [Github][]. It's
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[studio-3]: http://www.aptana.com/products/studio3.html "A web development IDE."
+[studio-3]: https://www.axway.com/products/studio3.html "A web development IDE."

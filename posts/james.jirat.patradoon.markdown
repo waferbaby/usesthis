@@ -24,8 +24,8 @@ I use [Clip Studio Paint][clip-studio-paint] to draw and animate, and [Photoshop
 Something that would merge the power of the MacBook, the precision of the Wacom Cintiq, and the untethered wirelessness of the iPad Pro/Pencil - basically if a Wacom Companion could run macOS, but I don't think Apple will ever let that happen since they're pushing the Pencil so hard.
 
 [apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[clip-studio-paint]: http://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

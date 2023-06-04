@@ -32,7 +32,7 @@ All my music is digitized and stored in [iTunes][] for easy access. I currently 
 I'm doing pretty good with what I have right now. Maybe some better equipment to record music, and eventually a bigger music hard drive if I need it.
 
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [mainstage]: https://www.apple.com/mainstage/ "Mac software for live music playing."
 [maschine]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine/ "A tactile sequencer and sampler."
@@ -41,4 +41,4 @@ I'm doing pretty good with what I have right now. Maybe some better equipment to
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[yeti]: https://bluemic.com/yeti/ "A USB microphone."

@@ -42,7 +42,7 @@ Having all of the above in one place would not only make work more efficient (fr
 
 [canva]: http://web.archive.org/web/20221226232811/https://www.canva.com/ "Web-based design software."
 [chromebox]: https://en.wikipedia.org/wiki/Chromebox "A small form factor computer running Chrome OS."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

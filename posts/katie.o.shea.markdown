@@ -29,11 +29,11 @@ Bike software: Too many to easily list here, but the mains are: [Brooks saddles]
 
 My dream set-up would be a bike/coffee shop that offers fully-built frames, parts, & service for randonneur-style touring bikes as well as specialty coffee & home brewing equipment. No cream or sugar.
 
-[black-cat-classic]: http://www.intelligentsiacoffee.com/product/coffee/classic-espresso-black-cat-project/ "A blend of coffee."
+[black-cat-classic]: https://www.intelligentsia.com/product/coffee/classic-espresso-black-cat-project "A blend of coffee."
 [camano]: http://web.archive.org/web/20160403025653/http://www.redroostertradingcompany.com/shop/camano-coffee-mill-3/ "A hand-cranked coffee mill."
-[chemex-6-cup]: https://www.amazon.com/Chemex-6-Cup-Classic-Series-Coffee/dp/B0000YWF5E "A coffee maker."
-[hario-v60]: https://www.amazon.com/Hario-V60-Coffee-Server-14oz/dp/B003DAH9B2 "A coffee server."
-[hydra]: http://www.synesso.com/default.aspx?ID=8 "An espresso machine."
+[chemex-6-cup]: http://web.archive.org/web/20201124195525/https://www.amazon.com/Chemex-6-Cup-Classic-Series-Coffee/dp/B0000YWF5E/ "A coffee maker."
+[hario-v60]: http://web.archive.org/web/20140814021323/http://www.amazon.com:80/Hario-V60-Coffee-Server-14oz/dp/B003DAH9B2 "A coffee server."
+[hydra]: https://synesso.com/default.aspx?ID=8 "An espresso machine."
 [kone]: https://ablebrewing.com/products/kone-coffee-filter "A stainless steel coffee filter."
 [mirage]: http://web.archive.org/web/20220521154720/https://socalmtb.com/messages/road/messages/1083.htm "A bike frame from the 80's."
 [robur]: https://www.amazon.com/Mazzer-Robur-Electronic-Commercial-Grinder/dp/B004VUQJO6 "A coffee grinder."

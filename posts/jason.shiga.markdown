@@ -24,8 +24,8 @@ For printing, I use a [RISO RP3700 Risograph Duplicator][rp3700] that I bought o
 
 A drawing desk 3 feet deep that stretched 10 miles long and a pedal-powered chair that rolled along a track.
 
-[cotman-brush-series-222]: http://www.winsornewton.com/na/shop/brushes/for-water-colour/cotman-brushes/cotman-brush-series-222-designers-short-handle-size-0-brush-5302000 "An ink brush."
-[craigslist]: https://www.craigslist.org/ "A classifieds service."
+[cotman-brush-series-222]: https://www.winsornewton.com:443/na/shop/brushes/for-water-colour/cotman-brushes/cotman-brush-series-222-designers-short-handle-size-0-brush-5302000 "An ink brush."
+[craigslist]: https://geo.craigslist.org/ "A classifieds service."
 [flatten-pro]: https://peltmade.com/psplugins-flatting.html "A Photoshop plugin for colour flattening artwork used in comics."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."

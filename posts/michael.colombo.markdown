@@ -28,7 +28,7 @@ I'm content with my writing setup already, but I'd like a full workshop for wood
 
 Oh, and a bangin' recording studio with tons of instruments, amps, mics, and an old Neotek mixing desk.
 
-[arduino-ide]: https://www.arduino.cc/en/Main/Software "A development environment for Arduino hardware."
+[arduino-ide]: https://www.arduino.cc/en/software "A development environment for Arduino hardware."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [eb-0]: https://en.wikipedia.org/wiki/Gibson_EB-0 "A bass guitar."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
@@ -38,7 +38,7 @@ Oh, and a bangin' recording studio with tons of instruments, amps, mics, and an 
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [long-exposure-camera-android]: http://web.archive.org/web/20210307161214/https://play.google.com/store/apps/details?id=com.longexposure2 "An app for taking long exposure photos."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pr5-e]: http://www.epiphone.com/Products/Acoustic-Electric/PR-5E.aspx "An acoustic guitar."
+[pr5-e]: https://www.epiphone.com/Products/Acoustic-Electric/PR-5E.aspx "An acoustic guitar."
 [serato-dj]: https://serato.com/dj "DJing software."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
 [storyline-360]: https://articulate.com/360/storyline "Course publishing software."

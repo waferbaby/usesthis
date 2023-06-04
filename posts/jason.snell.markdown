@@ -38,7 +38,7 @@ I feel like I'm there! I'd like to have Ferrite Recording Studio on my Mac so I 
 
 I recently bought a new desk, the [Uplift V2][v2], with a reclaimed wood desktop, and I love it. I'd like to find a more permanent place to work on my iPad Pro while standing, because I find that using the iPad focuses me in a way that the Mac doesn't. I haven't gotten there yet.
 
-[1writer-ios]: https://itunes.apple.com/us/app/1writer/id680469088 "A text editor app."
+[1writer-ios]: https://apps.apple.com/us/app/1writer/id680469088 "A text editor app."
 [atr2100x-usb]: https://www.audio-technica.com/en-us/atr2100x-usb "A USB microphone."
 [audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
@@ -56,12 +56,12 @@ I recently bought a new desk, the [Uplift V2][v2], with a reclaimed wood desktop
 [magic-trackpad-2]: https://en.wikipedia.org/wiki/Magic_Trackpad_2 "A trackpad for desktop machines."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [mailplane]: https://mailplaneapp.com/ "A Mac desktop client for Gmail."
-[marsedit]: https://red-sweater.com/marsedit/ "A weblog editor for the Mac."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
-[race-3]: http://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=225&kind3=&kind4=1044 "A mechanical keyboard."
-[rx]: https://www.izotope.com/en/products/repair-and-edit/rx.html "Audio repair software."
-[slack]: https://slack.com/ "A collaboration service."
-[sm7b]: http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
-[twitterrific]: https://twitterrific.com/mac "A Twitter client for the Mac."
+[marsedit]: https://redsweater.com/marsedit/ "A weblog editor for the Mac."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
+[race-3]: https://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=225&kind3=&kind4=1044 "A mechanical keyboard."
+[rx]: https://www.izotope.com/en/products/rx.html "Audio repair software."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[sm7b]: https://www.shure.com:443/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[twitterrific]: https://twitterrific.com/beyond "A Twitter client for the Mac."
 [usbpre-2]: http://web.archive.org/web/20190331193725/http://www.sounddevices.com:80/products/portable-audio-tools/usbpre2 "A portable USB audio interface."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."

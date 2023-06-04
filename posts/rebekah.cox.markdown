@@ -27,10 +27,10 @@ If I were to configure a new setup, I'd probably go with a 13 inch 2.13GHz 256GB
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [expandrive]: https://www.expandrive.com/ "Software that makes remote servers appear as local disks."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

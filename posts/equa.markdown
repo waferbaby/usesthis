@@ -54,7 +54,7 @@ computers are made of blood and i hope to never buy a new one again. i'd also li
 [fennel]: https://fennel-lang.org/ "A Lisp variant that compiles to Lua."
 [fluidsynth]: https://github.com/FluidSynth/fluidsynth "A software synth."
 [game-boy]: https://en.wikipedia.org/wiki/Game_Boy "An 8-bit portable gaming device."
-[keystation-49]: http://www.m-audio.com/products/en_us/Keystation49New.html "A 49-key keyboard."
+[keystation-49]: https://m-audio.com/products/en_us/Keystation49New.html "A 49-key keyboard."
 [krita]: https://krita.org/ "An open-source image editor."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."

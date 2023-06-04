@@ -37,10 +37,10 @@ As a cartoonist who does the majority of his work in ink on paper, I don't need 
 
 The other cool thing would be if my giant scanner was wireless. I think it's about time we had that technology. It's hard enough to find a large-format scanner, though.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[expression-10000xl]: https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[expression-10000xl]: http://web.archive.org/web/20190506111944/https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
+[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."

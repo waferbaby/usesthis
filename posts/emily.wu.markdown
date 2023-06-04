@@ -40,7 +40,7 @@ Our founder Jimmy Lai believes that animation is the future of news. To keep up 
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [light-stage]: http://web.archive.org/web/20190506091053/http://gl.ict.usc.edu/LightStages/ "A hardware system for capturing and rendering people's faces."
 [motionbuilder]: http://web.archive.org/web/20221224070514/https://www.autodesk.com/products/motionbuilder/overview "Character animation/modelling software."
-[nuendo]: https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html "Audio workstation software."
+[nuendo]: https://www.steinberg.net/nuendo/ "Audio workstation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

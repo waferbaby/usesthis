@@ -40,17 +40,17 @@ The thing that gets in the way isn't a lack of *stuff* but rather a lack of *tim
 
 That said, I really wouldn't say no to a comfortable sunny room with a sea view, an endless stack of notebooks and a [Rotring 800][800] black 0.5mm mechanical pencil.
 
-[800]: https://www.amazon.com/rOtring-Retractable-Mechanical-Pencil-1854232/dp/B00AZWNS84 "A mechanical pencil."
+[800]: http://web.archive.org/web/20150430071043/http://www.amazon.com:80/rOtring-Retractable-Mechanical-Pencil-1854232/dp/B00AZWNS84 "A mechanical pencil."
 [double-pen-quiver]: http://web.archive.org/web/20140826192621/http://www.quiverglobal.com:80/categories/Double%252dPen-Quivers/ "A quiver for pens that attachs to a notebook."
-[e-p1]: http://www.olympusamerica.com/cpg_section/cpg_archived_product_details.asp?id=1461&fl=2 "A 12.3 megapixel Micro Four Thirds camera."
+[e-p1]: https://www.olympusamerica.com/cpg_section/cpg_archived_product_details.asp?fl=2&id=1461 "A 12.3 megapixel Micro Four Thirds camera."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[lumix-g-20mm-f1.7-asph]: http://panasonic.net/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
+[lumix-g-20mm-f1.7-asph]: https://panasonic.net/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
-[pebble]: https://getpebble.com/ "A smartwatch."
+[pebble]: https://www.fitbit.com:443/ "A smartwatch."
 [playing-cards]: http://web.archive.org/web/20190915032240/https://www.amazon.co.uk/Playing-cards-blank-both-sides/dp/B001E1E6UE "A set of blank playing cards."
 [rapidograph]: https://www.amazon.com/Rotring-Rapidograph-Technical-Drawing-S0203070/dp/B000KTD1WK/ "A pen."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."

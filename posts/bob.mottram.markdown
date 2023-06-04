@@ -46,7 +46,7 @@ In terms of hardware ideally I would be using open hardware designs with no prop
 My ideal laptop would have metal casing, a mechanical keyboard similar to some early machines from the 1990s (I don't care if that makes it physically thicker) and be similar to the EOMA68 concept in that the computing electronics would be swappable. Something like a pi-top, but better build quality.
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[arch-linux]: https://www.archlinux.org/ "A Linux distro."
+[arch-linux]: https://archlinux.org/ "A Linux distro."
 [armbian]: https://en.wikipedia.org/wiki/Armbian "A Linux distribution."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [beaglebone-black]: https://beagleboard.org/black "A tiny development computer."
@@ -60,7 +60,7 @@ My ideal laptop would have metal casing, a mechanical keyboard similar to some e
 [icecat]: https://www.gnu.org/software/gnuzilla/ "A GNU version of Firefox."
 [linux-libre]: https://en.wikipedia.org/wiki/Linux-libre "A Linux kernel."
 [lxde]: https://en.wikipedia.org/wiki/LXDE "A Linux desktop environment."
-[netbook-n140]: https://www.samsung.com/us/support/owners/product/n140 "A 10.1 inch netbook."
+[netbook-n140]: https://www.samsung.com/us/support/computing/windows-laptops/ "A 10.1 inch netbook."
 [odroid]: https://en.wikipedia.org/wiki/ODROID "A single board computer."
 [org-mode]: https://orgmode.org/ "An Emacs mode for notes and to-do items."
 [parabola]: https://en.wikipedia.org/wiki/Parabola_GNU/Linux-libre "A Linux distribution."

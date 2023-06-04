@@ -45,13 +45,13 @@ I also need a new a DSLR camera (hopefully a [Nikon D5300][d5300]) and a Horizon
 And I wish I had more arms, like an octopus, so I could work faster!
 
 [d5300]: https://www.nikonusa.com/en/Nikon-Products/Product/dslr-cameras/1519/D5300.html "A 24 megapixel DSLR."
-[explore-air-wireless]: https://www.amazon.com/Cricut-Explore-Wireless-Cutting-Machine/dp/B00TTESL18 "An electronic cutting machine."
+[explore-air-wireless]: http://web.archive.org/web/20221207155739/https://www.amazon.com/Cricut-Explore-Wireless-Cutting-Machine/dp/B00TTESL18 "An electronic cutting machine."
 [final-cut-express]: https://en.wikipedia.org/wiki/Final_Cut_Express "A consumer-level video editing suite for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
-[kindle]: https://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU "A digital book reader."
+[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [super-low-tech-apple-watch]: http://web.archive.org/web/20160401180905/http://www.hinemizushima.com:80/72050/6059931/felt-sculptures/(super-low-tech)-apple-watch "A felt watch."

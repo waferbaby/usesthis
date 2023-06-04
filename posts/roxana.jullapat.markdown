@@ -26,4 +26,4 @@ My dream set up would require a full remodel of my current bakery to include an 
 
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -61,16 +61,16 @@ Cody: I definitely don't want it to be like Ready Player One, where you just com
 
 Jody: I have issues with my Apple Pencil point sliding around too much on the glass. I cannot get a proper straight line. Like I don't want perfectly straight, I just want mortally straight. So I just need more of a matte or fibrous surface on the glass.
 
-[beepbox]: https://beepbox.co/ "A web-based musical creation toy."
+[beepbox]: https://www.beepbox.co/ "A web-based musical creation toy."
 [drift-w1]: https://store.segway.com/segway-drift-w1 "Self-balancing electric skates."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [k-jofol]: https://www.rarewares.org/rrw/k-jofol.php "An audio player."
-[magic-leap-1]: https://www.magicleap.com/en-us/magic-leap-1 "A wearable spatial computer."
+[magic-leap-1]: https://www.magicleap.com/magic-leap-1 "A wearable spatial computer."
 [minecraft-dungeons]: https://en.wikipedia.org/wiki/Minecraft_Dungeons "A dungeon crawler set in Minecraft."
-[nreal-light]: https://www.nreal.ai/light/ "Mixed reality glasses."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[nreal-light]: https://www.nreal.cn/light/ "Mixed reality glasses."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [remarkable]: https://remarkable.com/ "An e-ink tablet."
-[starcraft]: http://us.blizzard.com/en-us/games/sc/ "An immensely popular sci-fi RTS game."
+[starcraft]: https://starcraft.com "An immensely popular sci-fi RTS game."
 [tiddlywiki]: https://tiddlywiki.com/ "A wiki contained in a single HTML file."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

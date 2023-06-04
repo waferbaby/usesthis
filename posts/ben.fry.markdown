@@ -41,9 +41,9 @@ But mostly I hope it gets sorted out before my back gets too creaky from hunchin
 
 [carbon-emacs]: https://www.emacswiki.org/emacs/CarbonEmacsPackage "A Mac-friendly version of GNU Emacs."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[compass-597]: https://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6 "A USB device for EVDO access."
+[compass-597]: http://web.archive.org/web/20201121005857/http://www.amazon.com/Compass-597-EVDO-Modem-Sprint/dp/B001HYV6A6/ "A USB device for EVDO access."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
-[fontforge]: http://fontforge.github.io/ "An open-source font editor."
+[fontforge]: https://fontforge.org/ "An open-source font editor."
 [hex-fiend]: http://web.archive.org/web/20221220030540/http://ridiculousfish.com/hexfiend/ "An open-source hex editor for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

@@ -25,15 +25,15 @@ I also am a big proponent of keeping good documentation, and have done this in e
 
 A sit-stand studio space with lots of natural sunlight and a view of nature. It could be near a beach in Hawaii or a view of the Rocky Mountains with quick access to the outdoors so that breaks can include a walk on the beach or through the woods. The floor under the sweet-spot would be a motorized lift so that the positioning in the room doesn't move when standing or sitting. Instead, the height of the floor is adjustable so that it can be "flat" for sitting, or lowered for standing, retaining the listeners' heads in the sweet spot. Oh, and lots of good gear.
 
-[c2-compressor]: http://www.smartresearch.co.uk/#C2 "An audio compressor."
-[cubase]: https://www.steinberg.net/en/products/cubase/start.html "Music production software."
+[c2-compressor]: https://www.smartresearch.co.uk/ "An audio compressor."
+[cubase]: https://www.steinberg.net/cubase/ "Music production software."
 [destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[filemaker-pro]: https://www.filemaker.com/products/filemaker-pro/ "A database application."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
+[filemaker-pro]: https://www.claris.com/filemaker/pro/ "A database application."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
-[nuendo]: https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html "Audio workstation software."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[nuendo]: https://www.steinberg.net/nuendo/ "Audio workstation software."
+[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[rx]: https://www.izotope.com/en/products/repair-and-edit/rx.html "Audio repair software."
+[rx]: https://www.izotope.com/en/products/rx.html "Audio repair software."
 [soundtoys]: https://www.soundtoys.com/ "A collection of audio plugins."
-[stt-1-origin]: https://www.mil-media.com/STT-1%20Origin.html "A channel strip."
+[stt-1-origin]: https://mil-media.com/STT-1 Origin.html "A channel strip."

@@ -34,7 +34,7 @@ Answered a lot of this in the last one! But let's go down the line:
 My head in a jar, hooked up to a robot drawing arm. A separate tube to get me high (not sure how, science will have figured it out by then). A lot of paper near my robot drawing arm. Someone to take the drawn-on paper and scan it for online publication. A TV playing Tiny Toons over and over. And people generally leaving me alone.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
@@ -45,4 +45,4 @@ My head in a jar, hooked up to a robot drawing arm. A separate tube to get me hi
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
-[storyboard-pro]: https://www.toonboom.com/products/storyboardpro "Storyboarding software."
+[storyboard-pro]: https://www.toonboom.com/products/storyboard-pro "Storyboarding software."

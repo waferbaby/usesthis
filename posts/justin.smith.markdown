@@ -32,7 +32,7 @@ Also, Santa, I would like CS5 so I can make game art entirely by using context-a
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[enviro-bear-2010-ios]: http://www.enviro-bear.com/ "A game for the iPhone with a bear driving a car."
+[enviro-bear-2010-ios]: http://survey-smiles.com "A game for the iPhone with a bear driving a car."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
@@ -41,6 +41,6 @@ Also, Santa, I would like CS5 so I can make game art entirely by using context-a
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sfxr]: http://www.drpetter.se/project_sfxr.html "A sound generator for video games."
 [total-commander]: http://www.ghisler.com/ "A file explorer replacement for Windows."
-[visual-studio-express]: https://www.visualstudio.com/vs/visual-studio-express "An IDE for Windows."
+[visual-studio-express]: https://visualstudio.microsoft.com/vs/visual-studio-express "An IDE for Windows."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

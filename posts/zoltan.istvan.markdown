@@ -29,8 +29,8 @@ Regarding my phone, I'm pretty thrilled with the capabilities of my iPhone and i
 
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
+[office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [sitebuilder]: http://web.archive.org/web/20170318004221/http://webhosting.yahoo.com/ps/sb/index.php "A tool for easily building a website."
 [surface-pro-4]: https://en.wikipedia.org/wiki/Surface_Pro_4 "A Windows tablet."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

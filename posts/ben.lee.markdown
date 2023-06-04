@@ -23,6 +23,6 @@ Guitars. At the moment an old Guild I bought in 1996 and have never been able to
 
 Everyone wants more options, but I'm not sure that ultimately helps. The "dream" has always just been a guitar that feels good, that I connect with, and a voice-box that works. I've got those now. So I guess I'm living the dream.
 
-[duet]: https://www.apogeedigital.com/products/duet "An audio interface for the Mac."
+[duet]: https://apogeedigital.com/products/duet "An audio interface for the Mac."
 [egb808]: https://maton.com.au/product/ebg808 "An acoustic guitar."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."

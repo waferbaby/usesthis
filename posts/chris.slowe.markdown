@@ -43,7 +43,7 @@ By the same token, I can't seem to get enough screen real estate on my desk/lapt
 
 Honestly, though, I feel like the worst part of these days isn't the hardware but the size of the pipe. I think I'd contentedly keep my current rig (with my piddly two huge screens and small, almost full SSD) if I could get a no-cap GBit connection to the Internet on all of my devices. If the pipe is big enough, who cares that my local computer is a little hardware anemic?
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [coffeescript]: https://coffeescript.org/ "A language that compiles into Javascript."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
@@ -62,6 +62,6 @@ Honestly, though, I feel like the worst part of these days isn't the hardware bu
 [sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[tornado]: http://www.tornadoweb.org/en/stable/ "A fast web server."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[tornado]: https://www.tornadoweb.org/en/stable/ "A fast web server."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."

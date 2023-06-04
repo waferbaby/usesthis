@@ -28,8 +28,8 @@ When I'm being an analog guy I use a red Moleskine (yearly Xmas present from my 
 
 I really really REALLY wish there were a reliable transcription program for when I have to transcribe the interviews I do for The Believer. I also would like a disgusting, fart-trapping leather club chair and someone to pour me small glasses of wine when I work at night.
 
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
-[quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
+[quietcomfort-15]: https://www.bose.com/controller?url=%2Fshop_online%2Fheadphones%2Fnoise_cancelling_headphones%2Fquietcomfort_15%2Findex.jsp "Noise-cancelling headphones."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

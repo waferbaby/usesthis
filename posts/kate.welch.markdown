@@ -38,9 +38,9 @@ Every time Wacom releases a new Cintiq, I want it. That said, my dream setup wou
 
 As for audio-visual setups, the quality of the [Double Fine livestream](http://www.twitch.tv/doublefine/ "Double Fine's stream on Twitch.") usually blows me away, so maybe my dream setup is having [2 Player Productions](http://www.2playerproductions.com/ "The 2 Player Productions site.") run all my AV stuff. And while we're dreaming, maybe a Han Solo lookalike who leans rogueishly against the wall just behind the camera and winks at me every so often.
 
-[broadcaster]: https://www.xsplit.com//#broadcaster "Multimedia broadcasting software for Windows."
-[c015]: https://www.amazon.com/TeckNet%C2%AE-Webcam-Camera-MegaPixel-Microphone/dp/B00K11RI6W "A 5 megapixel webcam."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[broadcaster]: https://www.xsplit.com/ "Multimedia broadcasting software for Windows."
+[c015]: http://web.archive.org/web/20150926064049/http://www.amazon.com/TeckNet%C2%AE-Webcam-Camera-MegaPixel-Microphone/dp/B00K11RI6W "A 5 megapixel webcam."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-rebel-t1i]: https://en.wikipedia.org/wiki/Canon_EOS_500D "A 15.1 megapixel DSLR."
 [guild-wars-2]: http://web.archive.org/web/20221224025838/https://www.guildwars2.com/en/ "An online RPG."
@@ -49,8 +49,8 @@ As for audio-visual setups, the quality of the [Double Fine livestream](http://w
 [lumix-g-x-vario-12-35mm-f2.8-asph]: http://web.archive.org/web/20140720040449/http://shop.panasonic.com/shop/model/H-HS12035 "A lens."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mic]: https://www.apogeedigital.com/products/mic "A microphone for iPhones and iPads."
-[mpf-6]: https://www.amazon.com/gp/product/B0002CZW0Y/ "A clamp-on microphone pop filter."
+[mic]: https://apogeedigital.com/products/mic "A microphone for iPhones and iPads."
+[mpf-6]: http://web.archive.org/web/20201112013221/http://www.amazon.com/gp/product/B0002CZW0Y/ "A clamp-on microphone pop filter."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/ "A Super 16 digital video camera."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

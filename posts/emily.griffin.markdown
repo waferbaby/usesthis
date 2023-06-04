@@ -48,18 +48,18 @@ Ideally, a way bigger room - I feel like most people in Brooklyn would say that.
 
 If I could have the creative hustle and community of NYC combined with some sunshine and mountains outside my window, that would be my ultimate dream. I adore mountains. I'll have to keep exploring for a place like that!
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[hue]: https://www2.meethue.com/en-us/ "A wireless controllable LED light system."
+[hue]: https://www.philips-hue.com/en-us/ "A wireless controllable LED light system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [safari-ios]: https://en.wikipedia.org/wiki/Safari_(web_browser)#iOS-specific_features "A web browser included with iOS."
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [spark.2]: https://sparkmailapp.com "A Mac email client."
 [stitch-fix]: https://www.stitchfix.com/ "A personal clothes styling service."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

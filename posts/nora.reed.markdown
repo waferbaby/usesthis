@@ -27,9 +27,9 @@ I do most of my work from inside [Chrome][]; I code everything in [Tracery][]'s 
 
 I'm pretty happy with what I have, my only complaint is that the only laptop that I can use for both my art and gaming weighs approximately six thousand pounds. I could probably just get a lighter laptop to work on, but I am stubborn about using one machine to do everything. My dream setup is probably the same as what I'm already using, except with some kind of robot butler that carried it all around for me.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[g752vy-dh72]: https://www.asus.com/us/ROG-Republic-Of-Gamers/ROG-G752VY/ "A 17 inch PC gaming laptop."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
+[g752vy-dh72]: https://www.asus.com/us/SupportOnly/G752VY/HelpDesk_Knowledge/ "A 17 inch PC gaming laptop."
 [notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
-[overwatch]: https://playoverwatch.com/ "A team-based FPS game."
+[overwatch]: https://overwatch.blizzard.com:443/ "A team-based FPS game."
 [tracery]: http://tracery.io/ "A tool and language for generating text."
-[wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570 "A wireless trackball."
+[wireless-trackball-m570]: https://www.logitech.com/en-us/product/wireless-trackball-m570.html "A wireless trackball."

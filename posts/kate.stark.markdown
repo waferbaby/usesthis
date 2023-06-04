@@ -37,12 +37,12 @@ My backend alert system is run through [Layer One][layer-one]. It was developed 
 My dream set up is basically exactly what I have right now. In September 2016, streaming became my full-time job and since then I've found it very important to spend money on good equipment dedicated to improving the quality of my stream, because I want viewers to have the best possible quality and experience when watching.
 
 [arctis-5]: https://steelseries.com/gaming-headsets/arctis-5 "An over-the-ears gaming headset."
-[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920 "A webcam."
-[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[c920]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920.html "A webcam."
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [layer-one]: https://layerone.io/ "A service for aggregating tools and services for streamers."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [pretzel-rocks]: https://www.pretzel.rocks/ "A music player and service designed for streamers."
 [ryzen-7-1700]: http://web.archive.org/web/20201122220219/https://www.amd.com/en/products/cpu/amd-ryzen-7-1700 "A CPU."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
-[twitch]: https://www.twitch.tv/ "A video broadcasting service."
+[twitch]: http://web.archive.org/web/20230525093711/https://www.twitch.tv/ "A video broadcasting service."

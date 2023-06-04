@@ -29,14 +29,14 @@ I would love to have two monitors set up. That would make my life a whole lot ea
 
 If I had even more money on hand, I'd upgrade both my laptop and my PC. Both are due for an upgrade. Specifically, I'd custom build another PC, and I'd angle for an [Asus ROG Zephyrus G14][rog-zephyrus-g14] to replace my laptop.
 
-[acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[discord]: https://discordapp.com/ "A voice and text chat service."
+[acrobat]: https://www.adobe.com/acrobat.html "Software for creating and editing PDF documents."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
+[discord]: https://discord.com/ "A voice and text chat service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [emeet-c960]: http://www.emeet.ai/c960.html "An HD webcam."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
-[meteor-mic]: http://www.samsontech.com/samson/products/microphones/usb-microphones/meteormic/ "A USB condenser mic."
+[meteor-mic]: https://www.samsontech.com/samson/products/microphones/usb-microphones/meteormic/ "A USB condenser mic."
 [miro]: https://miro.com/ "An online collaborative whiteboard service."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
-[rog-zephyrus-g14]: https://rog.asus.com/us/Laptops/ROG-Zephyrus/ROG-Zephyrus-G14-Series/ "A 14 inch gaming laptop."
+[office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
+[rog-zephyrus-g14]: https://rog.asus.com/us/laptops/rog-zephyrus/rog-zephyrus-g14-series/ "A 14 inch gaming laptop."

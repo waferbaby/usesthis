@@ -26,7 +26,7 @@ I use [Photoshop][] (no longer pirated) to blacken blacks, whiten whites, satura
 
 My dream setup is pretty close to what I have. I'm very fortunate to have a room dedicated to my work. However, I could always use more windows and more wilderness. My dream is actually to need fewer pieces of equipment to make art so I could be more mobile and work while I travel. I would prefer to skip the whole digital side of my comic process so all I need is paper and ink and paint.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."

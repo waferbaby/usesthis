@@ -37,4 +37,4 @@ Once I get over that I'd love to build a shack in the lower fields here with a g
 [goodtime]: https://www.deeringbanjos.com/collections/goodtime-banjos "A banjo."
 [hd-audio-recorder-pro-android]: http://web.archive.org/web/20161128095509/https://play.google.com/store/apps/details?id=com.motivity.hqaudiorecorder.activities "An audio recording app."
 [twin]: https://en.wikipedia.org/wiki/Fender_Twin "A guitar amp."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

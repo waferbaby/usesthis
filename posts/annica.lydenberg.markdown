@@ -29,12 +29,12 @@ Got it! I couldn't ask for anything more - I have a studio where I can paint, dr
 
 Although I desperately need a new camera, laptop and iPhone if we're talking "dream setup"! I used a friend's [Canon9000 printer][canoscan-9000f] and it was excellent! I also used a friend's [Canon D600][eos-rebel-t3i] camera and it made me drool.
 
-[canoscan-9000f]: http://usa.canon.com/cusa/consumer/products/scanners/film_negative_scanners/canoscan_9000f "A film and negatives scanner."
-[cocoapotrace]: http://www.geocities.jp/applescriptdepot/iWeb/AppleScriptDepot/Cocoapotrace.html "A Mac frontend software the potrace raster to vector software."
+[canoscan-9000f]: https://www.usa.canon.com/cusa/consumer/products/scanners/film_negative_scanners/canoscan_9000f "A film and negatives scanner."
+[cocoapotrace]: https://info-geocities.yahoo.co.jp:443/applescriptdepot/iWeb/AppleScriptDepot/Cocoapotrace.html "A Mac frontend software the potrace raster to vector software."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
-[fontlab-studio]: https://old.fontlab.com/font-editor/fontlab-studio/ "Font creation software."
+[fontlab-studio]: https://www.fontlab.com/font-editor/fontlab-studio/ "Font creation software."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [image-capture]: https://en.wikipedia.org/wiki/Image_Capture "Software included with Mac OS X for capturing images from cameras and scanners."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

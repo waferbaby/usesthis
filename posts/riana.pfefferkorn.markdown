@@ -32,11 +32,11 @@ A carrier pigeon, toting telegrams from home and a copy of the Sunday _New York 
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
-[privacy-badger]: https://www.eff.org/privacybadger "A browser extension for blocking trackers and ads."
+[privacy-badger]: https://privacybadger.org "A browser extension for blocking trackers and ads."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [whatsapp]: https://www.whatsapp.com/ "A messaging service."

@@ -40,8 +40,8 @@ I would allow the setup to force me to carry a computer screen around, as long a
 
 [acme]: https://en.wikipedia.org/wiki/Acme_(text_editor) "A text editor and graphical shell for Plan 9."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[go]: https://golang.org/ "A compiled programming language."
+[go]: https://go.dev/ "A compiled programming language."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[plan-9-user-space]: https://swtch.com/plan9port/ "A port of Plan 9 programs to *nix."
+[plan-9-user-space]: https://swtch.com//9fans.github.io/plan9port/ "A port of Plan 9 programs to *nix."
 [plan-9]: https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs "A distributed operating system."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."

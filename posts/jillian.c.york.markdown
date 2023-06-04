@@ -43,7 +43,7 @@ I could (and probably should) integrate some ergonomics into the situation - a b
 But the pièce de résistance would be the teleportation device tucked into the corner that would allow me to meet with anyone whenever I want... and would allow me to avoid flying forevermore!
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[bear]: http://www.bear-writer.com "A note taking application for macOS."
+[bear]: https://bear.app/ "A note taking application for macOS."
 [earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [icloud]: https://www.apple.com/icloud/ "A cloud service."
@@ -54,7 +54,7 @@ But the pièce de résistance would be the teleportation device tucked into the 
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [soundsticks]: https://en.wikipedia.org/wiki/Harman_Kardon#SoundSticks "Swanky-looking computer speakers."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
-[tripit]: https://www.tripit.com/ "A travel planning web service."
-[vision-elite]: https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
-[wire]: https://wire.com/ "A secure messaging service."
+[tripit]: https://www.tripit.com/web "A travel planning web service."
+[vision-elite]: http://web.archive.org/web/20220113174728/https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
+[wire]: https://wire.com/en/ "A secure messaging service."
 [xperia-z1]: https://en.wikipedia.org/wiki/Sony_Xperia_Z1 "A 5 inch Android phone."

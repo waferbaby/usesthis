@@ -35,8 +35,8 @@ On one side of my studio, I would like to have a [Mac Pro][mac-pro] with a large
 On the other side of my studio, I would like to have all the equipment for doing traditional art. I'd like a big oak easel and shelves for all my art books all around the easel, so I could use them for reference very easily. A nice rolling wood taboret for my supplies with a palette in the top would also be a wonderful help.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[camtasia]: https://www.techsmith.com/camtasia.html "Screencasting software."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[camtasia]: https://www.techsmith.com/video-editor.html "Screencasting software."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
@@ -45,5 +45,5 @@ On the other side of my studio, I would like to have all the equipment for doing
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
-[snagit]: https://www.techsmith.com/snagit.html "Screen capturing software."
+[snagit]: https://www.techsmith.com/screen-capture.html "Screen capturing software."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

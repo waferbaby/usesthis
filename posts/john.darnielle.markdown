@@ -29,5 +29,5 @@ If I had ridiculous disposable income, I'd have a studio in the backyard equippe
 
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[microstreamer]: https://www.amazon.com/HRT-348-MicroStreamer/dp/B00B4YE5BG/ "A USB headphone amp."
-[re20]: https://www.electrovoice.com/product.php?id=91 "A broadcaster microphone."
+[microstreamer]: http://web.archive.org/web/20190506072336/https://www.amazon.com/HRT-348-MicroStreamer/dp/B00B4YE5BG/ "A USB headphone amp."
+[re20]: https://products.electrovoice.com/product.php?id=91 "A broadcaster microphone."

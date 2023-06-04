@@ -45,7 +45,7 @@ I would love to see a return to a longer turnaround between software packages. T
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [do]: http://web.archive.org/web/20200620060308/http://do.com/ "A project/task management service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[glyphs]: https://www.glyphsapp.com/ "A font editor for the Mac."
+[glyphs]: https://glyphsapp.com/ "A font editor for the Mac."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
 [gridset]: http://web.archive.org/web/20180626002059/https://gridsetapp.com/features/ "A service for creating grid designs."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

@@ -38,6 +38,6 @@ tyvm again for interviewing an avocado this was fun. If there's one thing to rem
 
 [callisto]: https://www.projectcallisto.org/ "A system for reporting sexual assault at university."
 [internet-archive]: https://archive.org/ "A non-profit Internet library."
-[mubi]: https://mubi.com/ "A subscription service for curated cult/classic movies."
+[mubi]: http://web.archive.org/web/20230521223653/https://mubi.com:443/ "A subscription service for curated cult/classic movies."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
 [wikipedia]: https://en.wikipedia.org/wiki/Main_Page "A free online encyclopedia."

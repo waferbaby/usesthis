@@ -42,4 +42,4 @@ Specifically our industry could use an app which combines time code with  better
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

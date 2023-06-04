@@ -42,7 +42,7 @@ Ideally I'd have some kind of mouse that isn't fundamentally awful; even more id
 I'd also like a very, very quiet room with good natural light. I prefer silence while I work. I envy people who can listen to music while working, but it's not for me.
 
 [chrome-os]: https://en.wikipedia.org/wiki/Chrome_OS "A Linux distribution for running web applications."
-[chromebook-pixel]: https://www.google.com/intl/en-US/chrome/devices/google-chromebook-pixel/ "A PC laptop with a Retina display."
+[chromebook-pixel]: https://www.google.com/intl/en-US/chromebook/ "A PC laptop with a Retina display."
 [corpora]: https://github.com/dariusk/corpora "A data corpus collection."
 [crouton]: https://github.com/dnschneid/crouton "A set of scripts to generate a chroot in Chrome OS."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
@@ -53,7 +53,7 @@ I'd also like a very, very quiet room with good natural light. I prefer silence 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vimium]: https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb "A Chrome extension that adds vim-like hotkeys."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."

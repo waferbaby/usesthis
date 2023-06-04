@@ -37,15 +37,15 @@ I use [Kontakt 5][kontakt] and I really love my Imperfect Samples Grand Piano sa
 
 My dream setup would be to have a person who sat in a corner of my studio and who could magically fix any tech problems that occur. I seem to spend at least 3 hours of my day trying to work out what's buzzing, why sound isn't outputting, why Logic is short on memory, why the beam on a certain crotchet is shorter than the rest... you know what I mean people! We could all do with that little genie in the closet I reckon.
 
-[8020a]: https://www.genelec.com/support-technology/previous-models/8020a-studio-monitor "Monitor speakers."
+[8020a]: https://www.genelec.com/previous-models "Monitor speakers."
 [albion]: https://www.spitfireaudio.com/shop/ranges/albion/albion-one/ "A set of audio samples."
-[dt-770-pro]: https://north-america.beyerdynamic.com/shop/hah/headphones-and-headsets/studio-and-stage/studio-headphones/dt-770-pro.html "Closed headphones."
+[dt-770-pro]: http://north-america.beyerdynamic.com/ "Closed headphones."
 [hpl-engine]: https://en.wikipedia.org/wiki/HPL_Engine "A 3D gaming engine."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-5/ "A large sound library."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
+[kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/ "A large sound library."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [rd-500]: http://web.archive.org/web/20190506092217/https://www.sweetwater.com/sweetcare/articles/roland-rd-500-technical-specifications/ "A MIDI keyboard."
-[rd-700nx]: https://www.roland.com/products/en/RD-700NX/ "A MIDI keyboard."
-[saffire-6-usb]: http://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
-[sibelius]: https://www.avid.com/US/products/sibelius "Music notation software."
+[rd-700nx]: http://www.roland.com/global/ "A MIDI keyboard."
+[saffire-6-usb]: https://us.focusrite.com/usb-audio-interfaces/saffire-6-usb "A USB audio interface."
+[sibelius]: https://www.avid.com/en/sibelius "Music notation software."

@@ -37,9 +37,9 @@ For writing I used to use [Microsoft Word][word], but for the book I'm working o
 Dream setup is a cabin outside of LA that serves as a death think tank, library, video studio, writer's retreat, etc.  "If I only had the perfect space, all procrastination would be over" I tell myself, falsely.
 
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[power-pak-ii-plus]: http://www.matthewscremation.com/products/cremation-equipment/human-cremators.html "A human cremation system."
+[power-pak-ii-plus]: http://web.archive.org/web/20160722050417/http://www.matthewscremation.com:80/products/cremation-equipment/human-cremators.html "A human cremation system."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

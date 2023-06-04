@@ -36,6 +36,6 @@ Having a tiny cozy studio is my absolute dream (which will happen in the future!
 
 I also love to do ceramics, so it would be very lovely to have a desk for jewellery work and wheels for ceramics to have my own creative space!
 
-[goodnotes-ios]: http://www.goodnotesapp.com "A handwritten note-taking app."
+[goodnotes-ios]: https://www.goodnotes.com/ "A handwritten note-taking app."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."

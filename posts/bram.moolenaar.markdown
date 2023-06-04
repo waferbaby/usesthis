@@ -44,11 +44,11 @@ Once in a while I play a game, mostly old ones. I'm a fan of the old Command & C
 
 Well, what I'm already running! I sometimes wonder what I can buy to make it work better, but I can't think of anything. Better speakers perhaps, when watching streaming TV or recordings the sound is a bit thin.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
-[geforce-gtx-1050-ti]: https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-1050-ti/specifications "A graphics card."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[geforce-gtx-1050-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
+[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
@@ -56,8 +56,8 @@ Well, what I'm already running! I sometimes wonder what I can buy to make it wor
 [portal]: https://store.steampowered.com/app/620/ "An awesome, groundbreaking game."
 [ryzen-7-2700x]: http://web.archive.org/web/20220905134444/https://www.amd.com/en/products/cpu/amd-ryzen-7-2700x "A computer processor."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[xps-13]: https://www.dell.com/us/p/xps-13-9333/pd "A 13 inch PC laptop."
+[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

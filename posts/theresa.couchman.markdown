@@ -29,14 +29,14 @@ Well, I'd love to have a proper home office. Right now, I do most of my typing w
 
 I'd need a ready supply of blank notebooks and fine-tipped pens so I could scribble down ideas, as well --I'm not too picky, but I like plain old Mead Five-Stars and Sharpie Pens. I'd also probably keep my little Asus around for sentimental value. It's served me well.
 
-[chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
-[createspace]: https://www.createspace.com/ "A self-publishing service."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[chromebook]: https://www.google.com/intl/en/chromebook/ "A laptop built for only running Web apps."
+[createspace]: https://kdp.amazon.com/createspace-transfer "A self-publishing service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
-[kindle-direct-publishing]: https://kdp.amazon.com/ "A service for self-publishing works onto the Kindle platform."
+[kindle-direct-publishing]: http://web.archive.org/web/20170518093449/https://kdp.amazon.com/ "A service for self-publishing works onto the Kindle platform."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [smashwords]: https://www.smashwords.com/ "A self-publishing service."
-[songza]: http://songza.com/ "A playlist-centric music service."
-[zenwriter]: https://www.beenokle.com/zenwriter.html "Distraction-free writing software for Windows."
+[songza]: https://play.google.com/music/listen?utm_source=songza&utm_medium=link&utm_campaign=songzacatchall&pcampaignid=PRD-sta-na-oo-link-mu-woodstock-20160420-songzacatchall "A playlist-centric music service."
+[zenwriter]: https://beenokle.com/zenwriter.html "Distraction-free writing software for Windows."

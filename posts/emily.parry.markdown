@@ -33,5 +33,5 @@ I would love something that turns a photo into a properly detailed stitch patter
 
 [buildkite]: https://buildkite.com/ "A continuous integration developer service."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[sketch]: https://www.sketchapp.com/ "A vector drawing application for Mac OS X."
+[sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
 [stitch-fiddle]: https://www.stitchfiddle.com/en "A web-based cross-stitch pattern generator."

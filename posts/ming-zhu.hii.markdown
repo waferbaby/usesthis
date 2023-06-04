@@ -38,13 +38,13 @@ Honestly, I'd really love someone else to look after both post and pretty much t
 
 And of course I'm looking forward to working on shoots where I can get in some really decent cinema cameras and glass; a slightly bigger crew would be great - not huge, but just slightly more easefully bigger. I want to iterate slowly at this stage. Find out what happens if I work with a crew of five instead of three. Incremental shifts towards bigger storytelling. It is an exciting time in the development of my practice. It freaks me out every day - I am enormously anxious about it, but also incredibly exhilarated. There's no denying that.
 
-[alpha-slt-a99v]: https://www.amazon.com/Sony-SLT-A99V-Full-Frame-Digital-Camera/dp/B0096W1P6G "A 24 megapixel DSLR."
-[celtx]: https://www.celtx.com/index.html "A pre-production/script writing software suite."
+[alpha-slt-a99v]: http://web.archive.org/web/20230521010942/http://www.amazon.com/Sony-SLT-A99V-Full-Frame-Digital-Camera/dp/B0096W1P6G "A 24 megapixel DSLR."
+[celtx]: https://www.celtx.com/ "A pre-production/script writing software suite."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
-[lavalier]: http://www.rodemic.com/microphones/lavalier/ "A lapel microphone."
+[lavalier]: http://www.rode.com/microphones/lavalier/ "A lapel microphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [movieslate-ios]: http://www.movie-slate.com/ "A digital film slate app."
-[ntg2]: http://www.rodemic.com/microphones/ntg-2 "A condenser shotgun microphone."
+[ntg2]: http://www.rode.com/microphones/ntg-2 "A condenser shotgun microphone."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."

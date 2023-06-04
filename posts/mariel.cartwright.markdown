@@ -40,7 +40,7 @@ I mean... I'd also just like to be able to work in bed, and have my monitors mou
 
 [apple-watch]: https://www.apple.com/watch/ "A smartwatch."
 [basecamp]: https://basecamp.com/ "Web-based project management."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [indivisible]: https://indivisiblegame.com/ "An action role playing game."
@@ -52,5 +52,5 @@ I mean... I'd also just like to be able to work in bed, and have my monitors mou
 [scott-pilgrim-vs-the-world-the-game]: https://en.wikipedia.org/wiki/Scott_Pilgrim_vs._the_World:_The_Game "A side scrolling fighting game."
 [skullgirls-encore]: https://en.wikipedia.org/wiki/Skullgirls "A 2D fighting game."
 [skullgirls]: https://en.wikipedia.org/wiki/Skullgirls "A 2D fighting game."
-[slack]: https://slack.com/ "A collaboration service."
-[textpad]: https://www.textpad.com/ "A text editor for Windows."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[textpad]: https://www.textpad.com/home "A text editor for Windows."

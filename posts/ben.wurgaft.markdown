@@ -40,15 +40,15 @@ My modest dream is that my current gear lasts me a few more years, because perso
  
 But overall, the most important tools for my work are intangible and, in a sense, intimate: a reasonably good mood, minimal emotional distraction, energy, and a rested and exercised body. And, of course, coffee.
 
-[dr-05]: https://tascam.com/product/dr-05/ "A handheld audio recorder."
+[dr-05]: http://tascam.com/jp/product/dr-05/ "A handheld audio recorder."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[icurve]: https://www.amazon.com/Griffin-Technology-iCurve-Laptop-Stand/dp/B00007L6IA "A laptop stand."
+[icurve]: http://web.archive.org/web/20210301065940/http://www.amazon.com/Griffin-Technology-iCurve-Laptop-Stand/dp/B00007L6IA "A laptop stand."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
-[merlin-bird-id-ios]: https://itunes.apple.com/us/app/merlin-bird-id-by-cornell/id773457673 "An app for identifying North American birds."
+[merlin-bird-id-ios]: https://apps.apple.com/us/app/merlin-bird-id-by-cornell/id773457673 "An app for identifying North American birds."
 [super-pro]: https://baileyworks.com/shop/professional/super-pro.html "A messenger bag."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

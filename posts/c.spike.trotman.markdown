@@ -29,8 +29,8 @@ Sometimes there's no getting around Photoshop, though. I'm still on Photoshop 2,
 
 I pretty much have it!
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [manga-studio-ex]: http://web.archive.org/web/20180424074240/https://my.smithmicro.com/manga-studio-ex-5.html "Comic and manga creation software."
 [manga-studio]: http://web.archive.org/web/20171203004018/http://my.smithmicro.com:80/manga-studio-5.html "Comic and manga creation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

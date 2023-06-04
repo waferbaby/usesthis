@@ -32,5 +32,5 @@ But more pragmatically, I'd just settle for having my own studio space in a smal
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[skeletool]: https://www.leatherman.com/18.html "A stainless steel multi-tool."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[skeletool]: https://www.leatherman.com/skeletool-18.html "A stainless steel multi-tool."

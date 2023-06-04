@@ -33,14 +33,14 @@ My usual web browser is [Chrome][], and I use two extensions: [Ghostery][] to bl
 
 Honestly the setup I have is already more powerful than I need to make Twine games. I suppose if I had infinite money I could get a whole host of different mobile and tablet devices so I could make sure my games worked well on all of them, but my work setup is how I like it.
 
-[aurora-r6]: https://www.dell.com/support/home/au/en/aubsdt1/product-support/product/alienware-aurora-r6-desktop/diagnose "A desktop PC."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[aurora-r6]: https://www.dell.com/support/home/en-au/product-support/product/alienware-aurora-r6-desktop/diagnose "A desktop PC."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [inspiron-3552]: http://web.archive.org/web/20190506063340/https://www.cnet.com/products/dell-inspiron-3552-15-6-pentium-n3700-4-gb-ram-500-gb-hdd-english/ "A 15 inch PC laptop."
-[lastpass]: https://lastpass.com/ "A password manager."
+[lastpass]: https://www.lastpass.com/ "A password manager."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [seedship]: https://www.johnayliff.com/games/seedship/ "A game about settling the survivors of humanity."
 [sugarcube]: https://www.motoslave.net/sugarcube/2/ "A story mode for Twine."
 [sync]: https://www.sync.com/ "Online syncing and storage."

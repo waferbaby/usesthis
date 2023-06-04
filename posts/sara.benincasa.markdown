@@ -24,7 +24,7 @@ I use [Final Draft][final-draft] and [Microsoft Word][word] and [Safari][].
 
 I suppose I'd have access to nature quite easily right outside my door. I'd then ignore it at a comfortable desk with an ergonomic chair that was very comfortable.
 
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -62,8 +62,8 @@ I would enjoy continuing to use the various strange wooden built by my partner t
 
 Perhaps my ultimate workspace would be an entirely wooden one. I could pretend I was some kind of tree.
 
-[atom]: https://atom.io/ "A text editor based on web technology."
-[cobi]: https://www.steelcase.com/products/office-chairs/cobi/#features_collaborative "An office chair."
+[atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
+[cobi]: https://www.steelcase.com/products/classroom-chairs/cobi/ "An office chair."
 [fade-in]: https://www.fadeinpro.com/ "Screenwriting software."
 [g600]: https://www.logitechg.com/en-us/products/gaming-mice/g600-mmo-gaming-mouse.910-002864.html "A gaming mouse with 20 customisable buttons."
 [geforce-gtx-960]: http://web.archive.org/web/20190520155820/https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-960 "A graphics card."
@@ -75,5 +75,5 @@ Perhaps my ultimate workspace would be an entirely wooden one. I could pretend I
 [pathologic-2]: https://en.wikipedia.org/wiki/Pathologic_2 "An adventure game."
 [saber-68]: https://www.originativeco.com/products/saber-68 "A mechanical keyboard."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."
 [where-the-water-tastes-like-wine]: https://en.wikipedia.org/wiki/Where_the_Water_Tastes_Like_Wine "An adventure game."

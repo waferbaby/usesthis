@@ -35,7 +35,7 @@ Mainly, the "big three" from Adobe. [Illustrator][], [Photoshop][] and [Indesign
 
 My next set up will have three monitors. The middle monitor will be the artboard. The right monitor will be palettes, iTunes and Calendar. The far left monitor will be for email. Getting ready to settle a new machine, if I can get a couple free days. New machines are cool and all, but damn, you lose a couple days with the set up, so I always hesitate. I'm due for a new machine, so I'm pretty excited for some new muscle.
 
-[acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
+[acrobat]: https://www.adobe.com/acrobat.html "Software for creating and editing PDF documents."
 [champ]: https://en.wikipedia.org/wiki/Fender_Champ "A guitar amp."
 [classic-30-112]: https://peavey.com/products/index.cfm/item/801/118120/Classic&reg;&nbsp;30&nbsp;112 "A guitar amp."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
@@ -45,9 +45,9 @@ My next set up will have three monitors. The middle monitor will be the artboard
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[lumix-dmc-gf1]: https://www.amazon.com/Panasonic-DMC-GF1-Four-Thirds-Interchangeable-Aspherical/dp/B002MUAEX4 "A 12.1 megapixel digital camera."
-[lumix-g-20mm-f1.7-asph]: http://panasonic.net/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
+[keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
+[lumix-dmc-gf1]: http://web.archive.org/web/20230407212651/http://www.amazon.com/Panasonic-DMC-GF1-Four-Thirds-Interchangeable-Aspherical/dp/B002MUAEX4/ "A 12.1 megapixel digital camera."
+[lumix-g-20mm-f1.7-asph]: https://panasonic.net/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [martin-d-35]: https://www.google.com/shopping/product/10197645858217739365 "An acoustic guitar."

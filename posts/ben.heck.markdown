@@ -41,12 +41,12 @@ I don't necessarily need more space - just better utilization of it; something t
 
 That being said, a better break room -- or a break room in general -- wouldn't hurt!
 
-[123d-design]: http://www.123dapp.com/design "3D creation software."
+[123d-design]: http://www.123dapp.com/login.request.do?service=/design "3D creation software."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[cube]: https://www.3dsystems.com/3d-printers/personal/cube "A 3D printer."
+[cube]: https://www.3dsystems.com/3d-printers/plastic "A 3D printer."
 [eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [replicator]: https://store.makerbot.com/replicator "A 3D printer."
-[wesd51]: https://www.amazon.com/Weller-WESD51-Digital-Soldering-Station/dp/B000ARU9PO "A digital soldering station."
+[wesd51]: http://web.archive.org/web/20230210100751/http://www.amazon.com/Weller-WESD51-Digital-Soldering-Station/dp/B000ARU9PO "A digital soldering station."

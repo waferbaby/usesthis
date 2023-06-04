@@ -24,5 +24,5 @@ As far as software, I would be majorly lost without [Photoshop][]. I use it for 
 
 I would love to have a massive studio that is open air in the summer and closed and warm in the winter, where I didn't have to worry about getting paint on EVERYTHING. I dream of fire extinguishers filled of paint, being let off inside brand new white interiors and it being totally cool!
 
-[instagram-ios]: https://itunes.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
+[instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

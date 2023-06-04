@@ -47,14 +47,14 @@ I'd love to have more smart appliances with hackable or open operating systems. 
 
 The "Open Source Kitchen" is a dream of mine since forever. For this to happen we have to develop apps and tools (hard- and software) that aren't guarded by jealous, closed, technologies and providers. We'll get there but it's slow.
 
-[arch-linux]: https://www.archlinux.org/ "A Linux distro."
+[arch-linux]: https://archlinux.org/ "A Linux distro."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
+[chromebook]: https://www.google.com/intl/en/chromebook/ "A laptop built for only running Web apps."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [edge-inspect]: https://creative.adobe.com/products/inspect "A cross-browser testing service"
-[edge]: https://www.amazon.com/Chef-Pak-Fully-Loaded-9-Piece/dp/B003WAFJEM "A backpack for chefs."
-[eee-pad-transformer-tf101]: https://www.pcmag.com/article2/0,2817,2383976,00.asp "An Android-based tablet/laptop."
-[g-suite]: https://gsuite.google.com/ "A hosted solution for email, calendaring and more."
+[edge]: http://web.archive.org/web/20160508235311/http://www.amazon.com/Chef-Pak-Fully-Loaded-9-Piece/dp/B003WAFJEM "A backpack for chefs."
+[eee-pad-transformer-tf101]: https://www.pcmag.com/archive/asus-eee-pad-transformer-tf101-263518 "An Android-based tablet/laptop."
+[g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [galaxy-s-iii]: http://web.archive.org/web/20160303220825/http://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
@@ -62,7 +62,7 @@ The "Open Source Kitchen" is a dream of mine since forever. For this to happen w
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [jekyll]: https://jekyllrb.com/ "A static site generator."
 [nexus-7]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android tablet."
-[p3-pico]: http://www.aaxatech.com/products/p3_pico_projector.htm "A portable, battery-powered projector."
+[p3-pico]: https://www.aaxatech.com/products/p3_pico_projector.htm "A portable, battery-powered projector."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [redis]: https://redis.io/ "A key-value data store and more."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

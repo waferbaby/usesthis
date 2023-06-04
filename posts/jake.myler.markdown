@@ -29,4 +29,4 @@ I think after many years and a year and a half of working exclusively from home 
 [geforce-rtx-3070]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3070-3070ti/ "A graphics card."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

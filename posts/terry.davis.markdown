@@ -36,4 +36,4 @@ I would like Windows to abolish Secure-Boot, so I can run [Win8][windows-8] dual
 [templeos]: http://web.archive.org/web/20221225225202/https://templeos.org/ "An operating system."
 [vmware-workstation]: http://web.archive.org/web/20170924212803/https://www.vmware.com/products/workstation.html "Virtualisation software for Windows."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[windows-8]: https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
+[windows-8]: http://web.archive.org/web/20230522122523/https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."

@@ -23,4 +23,4 @@ I use [Procreate][procreate-ios], which I highly recommend! I find it super intu
 Nothing fancy, but I would love to have my own studio one day! I imagine this as a space where I have a digital setup and plenty of room for my traditional tools, as well as a storage area for all the products I sell on my [Etsy](https://www.etsy.com/shop/SaturndayArt "Samantha's Etsy store.") and website. And of course, having a space to entirely decorate with art (both my own and that of my friends and other artists I admire) is a dream, and sounds like a lovely place to pass the time.
 
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

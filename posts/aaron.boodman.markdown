@@ -73,14 +73,14 @@ If we're willing to throw that out, I'd love to be able to work on Chrome for Wi
  
 And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](http://chris.wanstrath.usesthis.com/ "Our interview with Chris Wanstrath."), too, please.
 
-[cr-48]: http://en.wikipedia.org/wiki/Chromebook#Cr-48_prototype "Google's first Chrome OS netbook."
+[cr-48]: https://en.wikipedia.org/wiki/Chromebook "Google's first Chrome OS netbook."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [git]: https://git-scm.com/ "A version control system."
 [greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
-[thinkpad-t61]: https://www.cnet.com/products/lenovo-t61/ "A 14 inch PC laptop."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[thinkpad-t61]: https://www.cnet.com/reviews/lenovo-t61-review/ "A 14 inch PC laptop."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."
 [z600]: https://www.amazon.com/HP-Z600-Workstation-Quad-2-13GHz/dp/B003H0KZ6E "A powerful PC workstation."

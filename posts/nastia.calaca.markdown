@@ -49,14 +49,14 @@ If I occasionally discover some buried pirate's treasure in my backyard, I will 
 
 Most importantly, I would like to find a new spacious studio with separate rooms: for storage, firing and a glazing zone, a dust-free clean space for photo shoots, doing the tax reports, and sipping some wine with customers and friends. On top of it all, a small cozy showroom would be a great addition and a real jackpot.
 
-[fujinon-xf-56mm-f1.2]: https://fujifilm-x.com/global/products/lenses/xf56mmf12-r/ "A camera lens."
+[fujinon-xf-56mm-f1.2]: https://fujifilm-x.com/products/lenses/ "A camera lens."
 [fujinon-xf-60mm-f2.4]: https://www.kenrockwell.com/fuji/x-mount-lenses/60mm-f24.htm "A macro lens."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [iphone-11-pro]: https://en.wikipedia.org/wiki/IPhone_11_Pro "A 5.8 inch iOS phone."
 [photos]: https://www.apple.com/macos/photos/ "A photo editor for Mac OS X."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[x-t20]: https://fujifilm-x.com/global/products/cameras/x-t20/ "A 24 megapixel digital camera."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[x-t20]: https://fujifilm-x.com/products/cameras/ "A 24 megapixel digital camera."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."
-[zv-1]: https://electronics.sony.com/imaging/compact-cameras/all-compact-cameras/p/dczv1-w "A 20.1 megapixel digital camera."
+[zv-1]: https://electronics.sony.com/imaging/compact-cameras/all-vlog-compact-cameras/p/dczv1-w "A 20.1 megapixel digital camera."

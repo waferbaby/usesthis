@@ -30,4 +30,4 @@ Home recording booths get hot and stuffy very quickly, so in a perfect world, I'
 [mkh-416]: https://en-us.sennheiser.com/short-shotgun-tube-microphone-camera-films-mkh-416-p48u3 "A shotgun microphone."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
 [ssl-2]: https://www.solidstatelogic.com/products/ssl2 "An audio interface."
-[tlm-103]: http://www.neumann.com/?lang=en&id=current_microphones&cid=tlm103_description "A studio microphone."
+[tlm-103]: https://www.neumann.com/?cid=tlm103_description&id=current_microphones&lang=en "A studio microphone."

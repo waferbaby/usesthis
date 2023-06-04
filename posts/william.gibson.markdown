@@ -27,10 +27,10 @@ Good interface design is as transparent as possible, because I don't want to hav
 
 I don't have a dream setup. I'm always reluctant to get a new computer. The current MacBook is the only computer I've ever bought when it was the latest model, and the iPad was freakish purchase for me because they'd only been on the market for a month or so. I wanted it because I was about to tour Zero History and I didn't want to lug the MacBook, which is two pounds as opposed to the iPad's one. It proved absolutely great for that, and for most everything else. It's the WiFi, no cellular to worry about when abroad.
 
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
 [iic]: https://en.wikipedia.org/wiki/Apple_IIc "A desktop computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pages-ios]: https://itunes.apple.com/us/app/pages/id361309726 "A word processor for iOS."
-[twitterrific-ios]: https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284540316&mt=8 "A Twitter client."
-[word]: https://products.office.com/en-us/word "A document editor."
+[pages-ios]: https://apps.apple.com/us/app/pages/id361309726 "A word processor for iOS."
+[twitterrific-ios]: https://apps.apple.com/app/id284540316 "A Twitter client."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

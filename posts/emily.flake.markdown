@@ -29,4 +29,4 @@ I also have my own mic (fifty dollar Shure), which feels like it'll come in hand
 If I could have all of this in either a well-appointed shed in the backyard (we would also need a backyard, but we live in Brooklyn so fat chance) or a small apartment nearby I could escape to to work, that would be the dream. Any wealthy patrons out there wanna buy us a backyard?
 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

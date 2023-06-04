@@ -30,6 +30,6 @@ I transfer a story to [WorkFlowy][] when I have it mostly worked out, drilling d
 A room where the walls, floor and ceiling were all whiteboard. Maybe not the ceiling.
 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[magic-whiteboard]: https://www.amazon.com/Magic-Whiteboard-Feet-Erase-Sheets/dp/B005MQPL3S "Rolled sheets of whiteboard paper."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[magic-whiteboard]: http://web.archive.org/web/20190508181144/https://www.amazon.com/Magic-Whiteboard-Feet-Erase-Sheets/dp/B005MQPL3S "Rolled sheets of whiteboard paper."
+[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
 [workflowy]: https://workflowy.com/ "A task/to-do service."

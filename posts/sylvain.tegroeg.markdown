@@ -27,12 +27,12 @@ This is a tough question! I never really project myself into the future, even th
 
 I might like to set myself up a bit away from the dense city life, have my own studio space/gallery or a pop-up shop to show off my earlier and upcoming projects.
 
-[hidden-folks]: http://hiddenfolks.com "A video game where you have to search for people in a landscape."
+[hidden-folks]: https://hiddenfolks.com/ "A video game where you have to search for people in a landscape."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."
-[slack]: https://slack.com/ "A collaboration service."
-[solidworks]: https://www.3ds.com/products-services/solidworks/ "Modelling/CAD software."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[solidworks]: https://www.3ds.com/products/solidworks "Modelling/CAD software."
 [trello]: https://trello.com/ "A project management service."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."

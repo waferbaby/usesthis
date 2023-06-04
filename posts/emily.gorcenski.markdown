@@ -33,12 +33,12 @@ My dream setup is to have a nice big, open, minimalist desk, where I can easily 
 But the one thing I really need in my dream setup? Enough space for the cats to sleep on my desk so they can be close to me without having to disrupt my work 😉.
 
 [airflow]: https://en.wikipedia.org/wiki/Apache_Airflow "A workflow management platform."
-[brio]: https://www.logitech.com/en-us/product/brio "A webcam."
+[brio]: https://www.logitech.com/en-us/product/brio.html "A webcam."
 [jupyter]: https://jupyter.org/ "Web-based live document software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
-[windows-subsystem-for-linux]: https://msdn.microsoft.com/en-us/commandline/wsl/about "A Linux environment for Windows."
-[yeti]: http://bluemic.com/yeti/ "A USB microphone."
+[windows-subsystem-for-linux]: https://learn.microsoft.com/windows/wsl/about "A Linux environment for Windows."
+[yeti]: https://bluemic.com/yeti/ "A USB microphone."

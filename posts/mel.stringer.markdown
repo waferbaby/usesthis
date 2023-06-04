@@ -44,18 +44,18 @@ At the end of the day, I think having more space to work in and be creative in i
 
 I could always upgrade but I feel like so much can be done with what I already have.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [eos-600d]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
 [h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-8-plus]: https://en.wikipedia.org/wiki/IPhone_8 "A 5.5 inch smartphone."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [lumafusion-ios]: http://web.archive.org/web/20221225072448/https://apps.apple.com/us/app/lumafusion/id1062022008 "A video editor app."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powershot-g5-x]: https://shop.usa.canon.com/shop/en/catalog/powershot-g5-x "A 20.2 megapixel camera."
+[powershot-g5-x]: https://www.usa.canon.com/shop/p/powershot-g5-x "A 20.2 megapixel camera."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [vsco-ios]: http://web.archive.org/web/20221211024023/https://apps.apple.com/app/vsco-cam/id588013838 "A camera app."

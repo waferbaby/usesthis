@@ -28,4 +28,4 @@ My dream setup would be what I'm currently working on, but outdoors with fresh a
 
 [colortrack]: https://www.coffeelabequipment.com/COLORTRACK.html "A laser reflectometer for coffee beans."
 [roast]: https://www.cropster.com/products/roast/ "Coffee roasting and analysis software."
-[ug22]: http://www.shpfoodmachinery.co.uk/machine_summary.php?mid=1070 "A coffee roaster."
+[ug22]: https://www.shpfoodmachinery.co.uk/machine_summary.php?mid=1070 "A coffee roaster."

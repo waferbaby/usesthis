@@ -27,10 +27,10 @@ Also, [Terminal][], [GitX][], [Backblaze][], [Google Docs][google-docs], [Hibari
 With the ridiculous back and wrist issues I've been having, I've been fantasizing about plugging my brain into a computer to work fully in the digital realm. More seriously, I'd be really excited about bringing my current setup with me to live/work for months at a time in other countries.
 
 [backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
-[chrome-devtools]: https://developer.chrome.com/devtools "Web developer tools built into Chrome."
-[day-one]: https://itunes.apple.com/us/app/day-one/id422304217 "Personal journal software."
+[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[day-one]: https://apps.apple.com/us/app/day-one/id422304217 "Personal journal software."
 [fireworks]: https://creative.adobe.com/products/fireworks "A graphics and work tool for the Mac."
-[gitx]: http://gitx.frim.nl/ "A git GUI for Mac OS X."
+[gitx]: https://gitx.frim.nl/ "A git GUI for Mac OS X."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [graphire]: https://www.amazon.com/s/?field-keywords=wacom+graphire "An older pen tablet."
 [hibari]: http://hibariapp.com/ "A Mac Twitter client."
@@ -38,7 +38,7 @@ With the ridiculous back and wrist issues I've been having, I've been fantasizin
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [neocities]: https://neocities.org "A free website building service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[slack]: https://slack.com/ "A collaboration service."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

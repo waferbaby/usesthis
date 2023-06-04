@@ -31,14 +31,14 @@ Second, I would like a mobile way to get work done. I was very interested in the
 
 Basically... I want to be able to lay on the couch and paint in Photoshop until my heart is content.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[eee-slate-ep121]: https://www.amazon.com/ASUS-Slate-EP121-1A011M-12-1-Inch-Tablet/dp/B004HKIIF8 "A PC tablet computer."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[eee-slate-ep121]: http://web.archive.org/web/20230202225433/http://www.amazon.com/ASUS-Slate-EP121-1A011M-12-1-Inch-Tablet/dp/B004HKIIF8 "A PC tablet computer."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [modbook-pro]: https://en.wikipedia.org/wiki/Axiotron_Modbook_Pro "A modified MacBook Pro with a tablet screen."
-[painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
+[painter]: http://www.painterartist.com/en/product/painter/ "Digital art software."
 [perfection-v30]: https://www.amazon.com/Epson-B11B193141-Perfection-Photo-Scanner/dp/B001P3PSVC "A scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

@@ -32,11 +32,11 @@ On my iPad Pro I use [Procreate][procreate-ios] for drawing - I've never used di
 Ideally, I'd have a convertible standing desk in a shared studio space with friends... walking distance from my house please. I love the 22" Cintiq that I've already got but maybe I'll splurge on a new 16" [MacBook Pro][macbook-pro] just for some workspace mobility and less risk of rainbow wheel. I'd also love a big communal art table where we could all do our traditional work together. The studio MUST have proper heating and cooling and double-glazed windows... I've worked in too many places that don't and drawing with cold fingers is too hard! Add my dog in her bed and it's the perfect space.
 
 [animate]: https://en.wikipedia.org/wiki/Adobe_Animate "A vector animation suite."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

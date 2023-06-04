@@ -30,4 +30,4 @@ Good speakers so I can listen to shitty pop music and someone to shame me out of
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

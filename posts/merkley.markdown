@@ -75,4 +75,4 @@ Everything needs to work from the comfort of my bed. That's the main thing.
 [shapeways]: https://www.shapeways.com/ "A service for printing 3D objects."
 [shrook]: https://www.utsire.com/shrook/ "An RSS feed reader for the Mac."
 [sketchup]: https://www.sketchup.com/ "3D modeling software."
-[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."

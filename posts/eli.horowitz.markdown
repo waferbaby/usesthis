@@ -26,10 +26,10 @@ I don't really care about the hardware or the software, to be honest - the work 
 
 (A big barn might also be nice, where I could leave all my tools in place.)
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

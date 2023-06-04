@@ -29,7 +29,7 @@ I tweak the comics on my MacBook in [Preview][], the application that comes with
 
 A wooden desk in a bright room with nice windows looking out onto something natural -- trees, sky, maybe a birdfeeder? There would be plenty of shelves and lots of empty space. It would be quiet, warmish, and close to a source of coffee. It would also be where I keep all my yarn (I love to knit), so maybe there wouldn't be so much empty space after all...
 
-[canoscan-lide-220]: https://www.usa.canon.com/internet/portal/us/home/products/details/scanners/photo-scanner/canoscan-lide-220 "A flatbed scanner."
+[canoscan-lide-220]: https://www.usa.canon.com/shop/office/scanners "A flatbed scanner."
 [ergosoft]: https://www.staedtler.com/intl/en/products/products-for-colouring/coloured-pencils/ergosoft-157-coloured-pencil-157-sb24/ "Coloured pencils."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

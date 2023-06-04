@@ -41,15 +41,15 @@ Also, my Timberlands, because you never know when the road is gonna get rocky.
 
 A drawing table, or just a space designated to inking my cartoon would be neat, and I think one of these days I'll invest in a [Thunderbolt display][thunderbolt-display]. Otherwise, I'm content.
 
-[control-v2]: https://www.amazon.com/Eskuche-Control-v2-ORG-Headphone/dp/B00BL2D35U "Headphones."
+[control-v2]: http://web.archive.org/web/20190506112143/https://www.amazon.com/Eskuche-Control-v2-ORG-Headphone/dp/B00BL2D35U "Headphones."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mars-plastic-526-50]: https://www.staedtler.com/en/products/pencils-accessories/erasers/mars-plastic-526-50-premium-quality-eraser/ "An eraser."
+[mars-plastic-526-50]: https://www.staedtler.com/intl/en/products/pencils-and-accessories/erasers/mars-plastic-526-50-eraser-in-premium-quality-526-50/ "An eraser."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."

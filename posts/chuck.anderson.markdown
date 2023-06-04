@@ -30,8 +30,8 @@ I'll be honest, this is a pretty new iMac and it's not really pulling its weight
 
 [cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

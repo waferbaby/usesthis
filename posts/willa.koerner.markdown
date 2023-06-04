@@ -29,7 +29,7 @@ One day, I want to work out of a temperature-controlled greenhouse at a giant er
 
 [are.na]: https://www.are.na/ "A service for collecting ideas."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-hangouts]: https://hangouts.google.com/ "A voice, video and text chat service."
+[google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [hype]: https://tumult.com/hype/ "A GUI for HTML5 web animations."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
@@ -38,6 +38,6 @@ One day, I want to work out of a temperature-controlled greenhouse at a giant er
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[slack]: https://slack.com/ "A collaboration service."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

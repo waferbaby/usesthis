@@ -34,7 +34,7 @@ The script for the game was written in [Fade In][fade-in] -- previously I'd used
 My needs are simple. What I've got, but with more memory and more hard-drive space. (My insistence of trying to dev off my Macbook saw me juggling several external hard-drives, one of which would insist on failing from time to time which helped keep things interesting.) To be honest, my dream setup would be more people -- grabbing a couple of coders to help me out when things get too technical would be worth any number of gadgets! Maybe a better coffee machine too :)
 
 [aisle]: https://en.wikipedia.org/wiki/Aisle_(video_game) "A text adventure game with a single move."
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [fade-in]: https://www.fadeinpro.com/ "Screenwriting software."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [freesound]: https://freesound.org/ "An archive of Creative Commons audio."
@@ -42,11 +42,11 @@ My needs are simple. What I've got, but with more memory and more hard-drive spa
 [h1]: http://web.archive.org/web/20150516203209/http://www.zoom.co.jp:80/products/h1 "A digital recorder."
 [her-story]: http://www.herstorygame.com/ "A novel video game about a woman speaking to the police."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[movie-magic-screenwriter]: http://www.screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."
+[movie-magic-screenwriter]: https://screenplay.com/catalog/product/view/id/30/category/8 "Screenwriting software."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [pc-vga-to-tv-composite-video-rgb-converter]: http://www.amazon.co.uk/Proxima-Direct®-Composite-Converter-satisfied/dp/B004TCXING "A VGA to composite video converter device."
 [silent-hill-shattered-memories]: https://en.wikipedia.org/wiki/Silent_Hill%3A_Shattered_Memories "A survival horror game for the Wii."
 [trello]: https://trello.com/ "A project management service."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."
 [vidbox-mac]: http://web.archive.org/web/20190506091611/https://honestech.com/main/VIDBOXforMac.asp "A USB video conversion device."
-[wii]: https://www.nintendo.com/wii "A unique gaming console."
+[wii]: https://www.nintendo.com/wii/ "A unique gaming console."

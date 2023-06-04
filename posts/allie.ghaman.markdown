@@ -31,15 +31,15 @@ I'm on Adobe Creative Suite ([CS3][creative-suite]) for my design-intensive work
 
 Ideally, being able to run solely on my Mac would be nice, but it's not ideal with our software. But hypothetically speaking, I've had one of the 27" [iMacs][imac] in the past and really liked it. I'd also like to upgrade to CS6. (I'll just say, at risk of sounding like a curmudgeon or dinosaur, I do quite like CS3 as a suite. I have the same familiar affection for it that I do for my brother's N64 or my mother's minivan; it may be outdated, but it's a damn good product.) I'm also looking into getting another small laptop or netbook for home, just for blogging and toting about for writing.
 
-[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [lp2475w]: http://web.archive.org/web/20140419021437/http://h10010.www1.hp.com:80/wwpc/us/en/sm/WF10a/382087-382087-64283-72270-3884471-3648442.html "A 24 inch LCD monitor."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[methode]: https://www.eidosmedia.com/platform/ "A content management system used by newspapers."
-[optiplex-755]: https://www.dell.com/us/dfb/p/optiplex-755/pd "A tower PC."
+[methode]: https://www.eidosmedia.com/platforms "A content management system used by newspapers."
+[optiplex-755]: https://outlet.us.dell.com/ARBOnlineSales/Online/InventorySearch.aspx?brandid=2802&c=us&cs=28&l=en&s=dfb&frid=204 "A tower PC."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -27,16 +27,16 @@ I use [Adobe Premiere][premiere] to edit our documentaries. I've worked in both 
 
 I'm in the fortunate position of basically having everything I need to do our work. I think we could do with upgrading our main camera to a [C300][eos-c300] but anything larger would create more problems than it would solve. There is a universe in which I love the idea of filming on RED Digital Cinema camera but the ingestion process is so hands-on, and the cameras so unwieldy that it would negatively impact our work. I edit off of a [MacBook][macbook.2] while on the road which I think I'll probably swap for a PC when it's time for an upgrade. Apart from that, I'm always on the lookout for new lenses. A good lens can make an average camera shine. They don't have to cost the world either. My favorite lens is a [Helios 44-2 58mm][44-2-58mm-f2] which cost me under $100.
 
-[44-2-58mm-f2]: http://vintage-camera-lenses.com/helios-44-2-58mm-f2/ "A camera lens."
-[a7s-ii]: https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7sm2 "A 12.2 megapixel mirrorless camera."
+[44-2-58mm-f2]: https://vintage-camera-lenses.com/helios-44-2-58mm-f2/ "A camera lens."
+[a7s-ii]: https://electronics.sony.com/imaging/interchangeable-lens-cameras/c/all-interchangeable-lens-cameras "A 12.2 megapixel mirrorless camera."
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[core-i9-7900x]: https://www.intel.com/content/www/us/en/products/processors/core/x-series/i9-7900x.html "A computer processor."
-[eos-c100]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/cinema-eos/eos-c100 "A digital video camera."
+[core-i9-7900x]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/processors/core/x-series/i9-7900x.html "A computer processor."
+[eos-c100]: https://www.usa.canon.com/shop/cameras/view-all-cameras "A digital video camera."
 [eos-c300]: http://web.archive.org/web/20151012154859/http://www.usa.canon.com:80/cusa/professional/products/professional_cameras/cinema_eos_cameras/eos_c300 "A 35mm digital video camera."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[game-capture-hd]: https://www.elgato.com/en/gaming/game-capture-hd "A device for recording video game console gameplay."
-[geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080/ "A graphics card."
+[game-capture-hd]: https://www.elgato.com/us/en/p/game-capture-hd60-x "A device for recording video game console gameplay."
+[geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
-[ninja]: https://www.atomos.com/ninja/ "A digital video device for DSLR cameras."
+[ninja]: https://www.atomos.com/ninja "A digital video device for DSLR cameras."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
