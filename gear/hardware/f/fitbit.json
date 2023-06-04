@@ -1,5 +1,5 @@
 {
   "name": "Fitbit",
   "description": "A personal fitness tracking device.",
-  "url": "http://www.fitbit.com/"
+  "url": "https://www.fitbit.com:443/"
 }

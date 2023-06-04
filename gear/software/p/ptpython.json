@@ -1,5 +1,5 @@
 {
   "name": "ptpython",
   "description": "A Python REPL.",
-  "url": "https://github.com/jonathanslenders/ptpython"
+  "url": "https://github.com/prompt-toolkit/ptpython"
 }

@@ -1,5 +1,5 @@
 {
   "name": "Puppeteer",
   "description": "A Node library for automating Chrome.",
-  "url": "https://github.com/GoogleChrome/puppeteer"
+  "url": "https://github.com/puppeteer/puppeteer"
 }

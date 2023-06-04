@@ -1,5 +1,5 @@
 {
   "name": "HardwareGrowler",
   "description": "A Growl-based utility for notifying you when devices are connected/disconnected.",
-  "url": "http://growl.info/documentation/hardwaregrowler.php"
+  "url": "https://growl.github.io/growl/documentation/hardwaregrowler.php"
 }

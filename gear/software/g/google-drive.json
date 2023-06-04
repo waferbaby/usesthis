@@ -1,5 +1,5 @@
 {
   "name": "Google Drive",
   "description": "A cloud storage service.",
-  "url": "https://drive.google.com/"
+  "url": "https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1"
 }
