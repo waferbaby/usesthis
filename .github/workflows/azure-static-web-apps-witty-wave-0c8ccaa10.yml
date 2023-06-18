@@ -22,6 +22,7 @@ jobs:
         run: |
           bundle exec dimples build
           cp build/interviews/index.html build/index.html
+          cp staticwebapp.config.json build/
       - name: Deploy to Azure
         id: builddeploy
         uses: azure/static-web-apps-deploy@v1
