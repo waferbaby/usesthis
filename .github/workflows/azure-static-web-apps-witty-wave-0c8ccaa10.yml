@@ -16,7 +16,7 @@ jobs:
           submodules: true
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0'
+          ruby-version: '3.1'
           bundler-cache: true
       - name: Build the site
         run: |
@@ -24,7 +24,7 @@ jobs:
           cp build/interviews/index.html build/index.html
           cp staticwebapp.config.json build/
       - name: Deploy to Azure
-        id: builddeploy
+        id: build-and-deploy
         uses: azure/static-web-apps-deploy@v1
         with:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_WITTY_WAVE_0C8CCAA10 }}
