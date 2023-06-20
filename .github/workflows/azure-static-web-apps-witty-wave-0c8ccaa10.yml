@@ -20,7 +20,7 @@ jobs:
           bundler-cache: true
       - name: Build the site
         run: |
-          bundle exec dimples build
+          bundle exec tasks/publish
           cp build/interviews/index.html build/index.html
           cp staticwebapp.config.json build/
       - name: Deploy to Azure
@@ -34,3 +34,4 @@ jobs:
           api_location: ""
           output_location: ""
           skip_app_build: true
+          skip_api_build: true
