@@ -1,4 +1,7 @@
 {
+  "platform": {
+    "apiRuntime": "node:16"
+  },
   "globalHeaders": {
     "X-Clacks-Overhead": "GNU Terry Pratchett"
   },
