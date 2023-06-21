@@ -2,12 +2,12 @@
   "rewrites": [
     { "source": "/", "destination": "/interviews/index.html" },
     { "source": "/api/:path*",
-      "has": [
+      "has": [{
         "type": "query",
         "key": "page",
         "value": "(?page\d+)"
-      ],
-      "destination": "/api/:path/page_:page.json"
+      }],
+      "destination": "/api/:path*/page_:page.json"
     }
   ]
 }
