@@ -7,5 +7,7 @@ $LOAD_PATH.unshift(source_path)
 require "dimples"
 require "lib/usesthis/api"
 
-Dimples::Site.generate(File.join(source_path, "site"))
-UsesThis::API.generate(File.join(source_path, "api"))
+build_path = File.join(source_path, "build")
+
+Dimples::Site.generate(build_path)
+UsesThis::API.generate(build_path)
