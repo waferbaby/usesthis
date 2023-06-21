@@ -10,7 +10,7 @@
         {
           "type": "query",
           "key": "page",
-          "value": "(?:page)"
+          "value": "(?<:page>\d+)"
         }
       ],
       "destination": "/api/:path*/page_:page.json"
