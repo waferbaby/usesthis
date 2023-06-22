@@ -13,7 +13,7 @@
           "value": "(?<page>\\d+)"
         }
       ],
-      "destination": "/api/:path*/page_:page.json"
+      "destination": "/api/:path/page_:page.json"
     }
   ]
 }
