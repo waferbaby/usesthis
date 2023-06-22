@@ -20,7 +20,7 @@ jobs:
           bundler-cache: true
       - name: Build the site
         run: |
-          bundle exec dimples build
+          bundle exec dimples
           cp site/interviews/index.html site/index.html
           cp staticwebapp.config.json site/
       - name: Deploy to Azure
