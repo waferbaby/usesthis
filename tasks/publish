@@ -7,7 +7,7 @@ $LOAD_PATH.unshift(source_path)
 require "dimples"
 require "lib/usesthis/api"
 
-build_path = File.join(source_path, "build")
+build_path = (ARGV[0] ? ARGV[0] : File.join(source_path, "build"))
 
 Dimples::Site.generate(build_path)
 UsesThis::API.generate(build_path)
