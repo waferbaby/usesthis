@@ -9,7 +9,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-My name is Jim Merullo. By day I do application support at a hospital. It's not a bad job, it pays the bills, but it provides very little in the way of personal satisfaction and it is very much NOT who I am. Who I actually am is a lot of things but I think primarily I'm a maker of things, these days mostly things made out of wood. You can find more of my work at [my website](https://www.jimmerullo.com/ "Jim's website.") or [on Instagram](https://instagram.com/@merulloshop/ "Jim's Instagram account.").
+My name is Jim Merullo. By day I do application support at a hospital. It's not a bad job, it pays the bills, but it provides very little in the way of personal satisfaction and it is very much NOT who I am. Who I actually am is a lot of things but I think primarily I'm a maker of things, these days mostly things made out of wood. You can find more of my work at [my website](https://www.jimmerullo.com/ "Jim's website.") or [on Instagram](https://instagram.com/merulloshop/ "Jim's Instagram account.").
 
 ### What hardware do you use?
 
