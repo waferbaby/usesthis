@@ -21,7 +21,6 @@ jobs:
       - name: Build the API
         run: |
           bundle exec tasks/build_api
-          cp staticwebapp.config.json site/
           echo hello > site/index.html
       - name: Deploy to Azure
         id: deploy
