@@ -22,7 +22,7 @@ jobs:
         run: |
           bundle exec tasks/build_api
           cp staticwebapp.config.json site/
-          touch site/index.html
+          echo hello > site/index.html
       - name: Deploy to Azure
         id: deploy
         uses: Azure/static-web-apps-deploy@v1
