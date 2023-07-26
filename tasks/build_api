@@ -6,4 +6,4 @@ $LOAD_PATH.unshift(source_path)
 
 require "lib/usesthis/api"
 
-UsesThis::API.generate(File.join(source_path, "build"))
+UsesThis::API.generate(File.join(source_path, "site"))
