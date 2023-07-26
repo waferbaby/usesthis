@@ -20,7 +20,7 @@ module UsesThis
     def initialize(destination_path)
       @paths = {
         source: Dir.pwd,
-        destination: File.join(destination_path, 'api')
+        destination: File.join(destination_path)
       }
 
       @gear = { hardware: {}, software: {} }
