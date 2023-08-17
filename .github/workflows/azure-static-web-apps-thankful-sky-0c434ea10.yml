@@ -21,7 +21,7 @@ jobs:
       - name: Build the API
         run: |
           bundle exec tasks/build_api
-          touch index.html
+          touch site/index.html
       - name: Deploy to Azure
         id: deploy
         uses: Azure/static-web-apps-deploy@v1
