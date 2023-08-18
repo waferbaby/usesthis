@@ -31,7 +31,7 @@ I also feel it is of import to mention that I'm still using [Final Cut 7][final-
 I would like a bungalow on a studio lot I could smoke cigarettes inside. I'd keep everything else the same.
 
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [government-pen]: http://web.archive.org/web/20221016080020/https://www.amazon.com/Skilcraft-Government-Retractable-Point-7520-00-935-7135/dp/B0055KSNYK "A ballpoint pen."
 [hl-2170w]: https://www.brother-usa.com/products/hl2170w "A laser printer."

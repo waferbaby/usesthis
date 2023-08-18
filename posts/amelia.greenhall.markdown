@@ -69,7 +69,7 @@ I can imagine that going back to having an iMac-style monitor is in my future at
 [ipython-notebook]: https://ipython.org/notebook.html "A web-based Python environment."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magical]: http://www.charcoaldesign.co.uk/magical "An alternate date/time menubar item for Mac OS X."
-[mailbox]: https://www.mailboxapp.com/ "A email client."
+[mailbox]: http://web.archive.org/web/20171224163851/http://www.mailboxapp.com:80/? "A email client."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mathematica]: https://www.wolfram.com/mathematica/ "Computation and simulation software."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."

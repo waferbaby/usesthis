@@ -42,7 +42,7 @@ I dunno, a beach with a piña colada maker and a convenient pile of rocks to las
 [buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
 [dsco-ios]: https://apps.apple.com/us/app/dsco-by-vsco/id1038318658 "A photo and GIF app."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[giphy-cam-ios]: https://apps.apple.com/us/app/giphy-cam-the-gif-camera/id1017480918 "A GIF capturing app."
+[giphy-cam-ios]: http://web.archive.org/web/20200408091013/https://apps.apple.com/us/app/giphy-cam-the-gif-camera/id1017480918 "A GIF capturing app."
 [giphy]: https://giphy.com/ "A GIF searching service."
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."

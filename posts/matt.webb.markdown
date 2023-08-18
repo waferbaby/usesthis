@@ -81,7 +81,7 @@ So is that okay? My dream setup is an alternate global technical paradigm? There
 [python]: https://www.python.org/ "An interpreted scripting language."
 [runkeeper-ios]: https://runkeeper.com/cms/ "Software for tracking workouts."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
-[taskpaper]: https://www.hogbaysoftware.com/products/taskpaper "A simple task/to do list application for the Mac."
+[taskpaper]: http://web.archive.org/web/20230810041745/https://www.hogbaysoftware.com/products/taskpaper/ "A simple task/to do list application for the Mac."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [xero]: https://www.xero.com/us/ "Online accounting software."

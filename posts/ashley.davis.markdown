@@ -37,5 +37,5 @@ My current setup is actually pretty close to my dream! All I'd want to add is a 
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
-[painter]: http://www.painterartist.com/en/product/painter/ "Digital art software."
+[painter]: http://web.archive.org/web/20230727020252/https://www.painterartist.com/en/product/painter/ "Digital art software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

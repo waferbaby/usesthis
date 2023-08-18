@@ -49,7 +49,7 @@ My ideal laptop would have metal casing, a mechanical keyboard similar to some e
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [armbian]: https://en.wikipedia.org/wiki/Armbian "A Linux distribution."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
-[beaglebone-black]: https://beagleboard.org/black "A tiny development computer."
+[beaglebone-black]: http://web.archive.org/web/20230724132433/https://beagleboard.org/black "A tiny development computer."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chestscan]: https://code.freedombone.net/bashrc/chestscan "Software for extracting ribcage images from chest x-rays."
 [cubieboard]: https://en.wikipedia.org/wiki/Cubieboard "A single board computer."

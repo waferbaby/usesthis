@@ -70,7 +70,7 @@ Some of those changes stick, most don't, but since every tool switch involves a 
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [galaxy-s]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S "A 4 inch Android-based smartphone."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [kindle-paperwhite]: http://web.archive.org/web/20230502144520/https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."

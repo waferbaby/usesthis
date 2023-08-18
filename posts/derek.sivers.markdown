@@ -61,7 +61,7 @@ I wish I could piece together laptops like I can desktops. I'll take this shell,
 
 [anki]: https://apps.ankiweb.net/ "A flash-card based learning tool."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
-[ath-anc7b]: http://www.audio-technica.com/en-us/ath-anc7b "Noise-cancelling headphones."
+[ath-anc7b]: http://web.archive.org/web/20230502141622/https://www.audio-technica.com/en-us/ath-anc7b "Noise-cancelling headphones."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
 [imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."

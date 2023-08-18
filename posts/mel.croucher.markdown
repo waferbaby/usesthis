@@ -34,5 +34,5 @@ Thank you for reading this. Now go and do something wonderful.
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[paper-ios]: http://wetransfer.com/paper "A notebook/drawing app."
+[paper-ios]: http://web.archive.org/web/20230815030158/https://wetransfer.com/paper "A notebook/drawing app."
 [screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."

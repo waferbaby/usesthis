@@ -89,7 +89,7 @@ On the coffee front, I'd love to upgrade to a [La Marzocco Linea Mini][linea-min
 [iphone-12-mini]: https://en.wikipedia.org/wiki/IPhone_12 "A 5.42 inch smartphone."
 [iphone-13-pro]: https://en.wikipedia.org/wiki/IPhone_13_Pro "A 6.1 inch iOS smartphone."
 [iphone-leather-wallet-with-magsafe]: https://www.apple.com/shop/product/MM0T3ZM/A/iphone-leather-wallet-with-magsafe-dark-cherry "An iPhone wallet."
-[jarvis-bamboo]: https://fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[jarvis-bamboo]: http://web.archive.org/web/20230420184717/https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
 [kubectx]: https://github.com/ahmetb/kubectx "A tool for switching between Kubernetes clusters."
 [kubens]: https://github.com/ahmetb/kubectx "A tool for switching between Kubernetes namespaces."

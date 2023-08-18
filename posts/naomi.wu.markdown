@@ -37,10 +37,10 @@ The [Grammarly][] plug-in has been an amazing help with all my online communicat
 
 Something like a loft space? A laser cutter, small CNC machine, 3D printers, sewing machine. I'll sleep on a cot, I don't care! I'd love to have an [Airbnb][] for makers and hardware developers coming to visit Shenzhen, a place with all the tools and equipment they need, on-site translation and ordering assistance to help them get anything they came here for. I'd use this to support classes teaching local women coding and fabrication skills.
 
-[360]: https://www.lg.com/us/mobile-accessories/lg-LGR105AVRZTS-360-cam "A 13 megapixel 360° camera."
-[airbnb]: https://www.airbnb.com/ "An accommodation service."
+[360]: http://web.archive.org/web/20230706193444/https://www.lg.com/us/mobile-accessories/lg-lgr105avrzts-360-cam "A 13 megapixel 360° camera."
+[airbnb]: http://web.archive.org/web/20230816183121/https://www.airbnb.com/ "An accommodation service."
 [creator-pro]: http://web.archive.org/web/20230522030224/http://www.amazon.com/FlashForge-Structure-Optimized-Platform-Extruder/dp/B00I8NM6JO/ "A 3D printer."
-[d5100]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5100.html "A 16.2 megapixel DSLR."
+[d5100]: http://web.archive.org/web/20140825020832/http://www.nikonusa.com:80/en/Nikon-Products/Product/dslr-cameras/D5100.html "A 16.2 megapixel DSLR."
 [dual-flexion]: http://web.archive.org/web/20220707130502/https://flexionextruder.com/shop/dual/ "A filament extruder for dual extruder 3D printers."
 [fusion-360]: http://web.archive.org/web/20221224070522/https://www.autodesk.com/products/fusion-360/overview "Cloud-based CAD/CAM software."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
@@ -54,6 +54,6 @@ Something like a loft space? A laser cutter, small CNC machine, 3D printers, sew
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [openscad]: http://openscad.org/ "Open-source 3D CAD software."
-[osmo-mobile]: https://www.dji.com/cn/osmo-mobile "A hand-held dock for turning a smart phone into a motion camera."
+[osmo-mobile]: http://web.archive.org/web/20171119192005/http://www.dji.com:80/cn/osmo-mobile "A hand-held dock for turning a smart phone into a motion camera."
 [simplify3d]: https://www.simplify3d.com/ "3D printing software."
 [tinkercad]: https://www.tinkercad.com/ "Web-based CAD software."

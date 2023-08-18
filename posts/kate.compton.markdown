@@ -31,7 +31,7 @@ I think I have my dream setup! Lots of oddball toys at home, plus my lightweight
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [kinect]: http://web.archive.org/web/20141020163539/http://www.xbox.com:80/en-US/Kinect "An adapter for the Xbox that uses your body as a controller."
-[leap-motion-controller]: https://www.ultraleap.com/product "A spatial motion-sensing device."
+[leap-motion-controller]: http://web.archive.org/web/20230721124442/https://www.ultraleap.com/product/ "A spatial motion-sensing device."
 [lightpaper]: http://lightpaper.42squares.in "A Markdown editor for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."

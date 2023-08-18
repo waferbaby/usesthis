@@ -48,7 +48,7 @@ But that's kind of a big, far-off dream. So more realistically, um... maybe a ph
 
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [anki]: https://apps.ankiweb.net/ "A flash-card based learning tool."
-[ath-anc7b]: http://www.audio-technica.com/en-us/ath-anc7b "Noise-cancelling headphones."
+[ath-anc7b]: http://web.archive.org/web/20230502141622/https://www.audio-technica.com/en-us/ath-anc7b "Noise-cancelling headphones."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [bundler]: https://bundler.io/ "Software for managing Ruby gem dependencies."
@@ -75,6 +75,6 @@ But that's kind of a big, far-off dream. So more realistically, um... maybe a ph
 [sequel]: http://sequel.jeremyevans.net/ "A Ruby database ORM."
 [sinatra]: https://sinatrarb.com/ "A lightweight Ruby web framework."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
-[tetryon-ios]: http://www.boomslanggames.com/tetryon "A puzzle game."
+[tetryon-ios]: http://web.archive.org/web/20211019235445/http://www.boomslanggames.com/tetryon "A puzzle game."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [vim]: https://www.vim.org/ "A command-line text editor."

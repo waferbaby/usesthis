@@ -67,6 +67,6 @@ I'm waiting patiently for cheap, flexible displays that feel just like paper, in
 [pullman]: http://web.archive.org/web/20150905143029/http://www.filson.com/products/pullman.70243.html "A bag."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [rsync]: https://rsync.samba.org/ "An open-source file transfer/syncing tool."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [textmate]: https://macromates.com/ "A text editor for the Mac."

@@ -52,6 +52,6 @@ Sean Boots of the Canadian Digital Service has created [isthisblockedinmydepartm
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [tableau]: https://www.tableau.com/ "A data analytics platform."
 [the-noun-project]: https://thenounproject.com/ "A collection of icons representing nouns."
-[windows-10-enterprise]: https://docs.microsoft.com/en-us/windows/resources "An enterprise version of Windows 10."
+[windows-10-enterprise]: http://web.archive.org/web/20220908125814/https://docs.microsoft.com/en-us/windows/resources/ "An enterprise version of Windows 10."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [zoom.2]: https://zoom.us "Video conferencing software."

@@ -33,7 +33,7 @@ And a new iPhone with case.
 [Support our journey](https://www.indiegogo.com/projects/we-are-sluttalk-feminism "Alicia's Indiegogo project.") & follow @wearesluttalk on [Instagram](https://www.instagram.com/wearesluttalk/ "Alicia's SlutTalk Instagram account.") & [Twitter](https://twitter.com/wearesluttalk "Alicia's SlutTalk Twitter account.").
 
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[beta-58a]: https://www.shure.com:443/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
+[beta-58a]: http://web.archive.org/web/20190406084632/http://www.shure.com:80/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
 [c214]: https://www.akg.com/Microphones/Condenser%20Microphones/C214.html? "A condenser microphone."
 [dr-40]: http://tascam.com/jp/product/dr-40/ "A portable digital recorder."
 [facebook]: https://www.facebook.com/ "A social networking site."

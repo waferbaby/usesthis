@@ -72,7 +72,7 @@ I would like a 13" MacBook Pro with a working keyboard. When I'm dreaming, I'll 
 [macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
 [mast-ios]: https://apps.apple.com/us/app/mast/id1437429129 "A Mastodon client."
 [moom]: https://manytricks.com/moom/ "A Mac tool for taking control of window sizing/moving."
-[numi]: http://numi.app/ "A calendar for macOS."
+[numi]: http://web.archive.org/web/20230706213322/https://numi.app/ "A calendar for macOS."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."

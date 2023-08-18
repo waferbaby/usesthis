@@ -26,6 +26,6 @@ The main social media outlets I use are my [Tumblr](http://withapencilinhand.tum
 
 The ideal dream setup would be to become an illustrator/drawing tutor and teach abroad, maybe in Germany or a Scandinavian country. The obvious answer would be to make as much work as I can and enjoy it, but I do that now anyway.
 
-[p200]: https://www.pentel.co.uk/products.asp?group=3&pid=142&type=37 "A mechanical pencil."
+[p200]: http://web.archive.org/web/20201111192336/https://www.pentel.co.uk/products.asp?group=3 "A mechanical pencil."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[scanjet-200]: https://support.hp.com/us-en/product/hp-scanjet-200-scanner/5251697/model/5251698/drivers/ "A flatbed scanner."
+[scanjet-200]: http://web.archive.org/web/20161119001602/http://support.hp.com:80/us-en/product/HP-Scanjet-200-Scanner/5251697/model/5251698/drivers "A flatbed scanner."

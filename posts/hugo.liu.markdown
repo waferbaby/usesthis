@@ -49,7 +49,7 @@ A wearable, one-touch recorder that captures conversations and todo items. It sy
 [camera-plus-ios]: https://camera.plus/ "A pro photo app for the iPhone."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[er4-micropro]: https://www.etymotic.com/ephp/er4.html "In-ear headphones."
+[er4-micropro]: http://web.archive.org/web/20190414162300/http://www.etymotic.com/ephp/er4.html "In-ear headphones."
 [exit-strategy-nyc-ios]: https://web.archive.org/web/20210522103229/exitstrategynyc.com// "A New York navigation app."
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."

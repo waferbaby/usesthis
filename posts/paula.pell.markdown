@@ -36,10 +36,10 @@ We are fairly simple folk when it comes to our computers but my laptop is an ext
  
 I'm a little rough on my laptops but I'm getting better at not throwing it around. Maybe by age fifty I'll carry it in a nice padded bag instead of under my arm like a biology textbook.
 
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
-[le-pen]: https://uchida.com/p-63-le-pen.aspx "A pen."
+[le-pen]: http://web.archive.org/web/20170710043714/http://www.uchida.com:80/p-63-le-pen.aspx "A pen."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

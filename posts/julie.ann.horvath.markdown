@@ -44,7 +44,7 @@ I used to use the [Mac OS][macos] [sticky notes][stickies] for jotting things do
 
 I'm dying for a MacBook Air with more memory and a Retina screen. At GitHub, so many of us work remotely and on the go. We've built a company around being able to do that. So, I'm just waiting for the right tech to come along to compliment that mobility, or at least one that would play nicely with the software I use. :fingers_crossed:
 
-[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[chrome-devtools]: http://web.archive.org/web/20210321161703/https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cloudapp]: https://zight.com/ "A cloud-based file sharing menubar app for Mac OS X."
 [colorsnapper]: https://colorsnapper.com/ "A colour picker for the Mac."

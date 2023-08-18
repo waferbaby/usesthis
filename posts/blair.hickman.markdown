@@ -32,7 +32,7 @@ A world in which everything I have to read on a screen can be in print. I have r
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [feedly]: https://feedly.com/ "A feed reader."
 [google-analytics]: https://marketingplatform.google.com/about/analytics/ "Web analytics."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [lightroom-ios]: https://apps.apple.com/gb/app/adobe-photoshop-lightroom/id804177739 "A photo editing and management app."

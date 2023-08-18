@@ -39,7 +39,7 @@ I use [Final Cut][final-cut-pro] to edit the web series, GarageBand to edit musi
 
 An actual recording, filming, and editing studio. Really just a pile of money would be cool. I do so many DIY/low budget things and it'll be really neat to see and hear what I can do once I get really great equipment. I'm excited for that.
 
-[beta-58a]: https://www.shure.com:443/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
+[beta-58a]: http://web.archive.org/web/20190406084632/http://www.shure.com:80/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
 [big-muff]: https://en.wikipedia.org/wiki/Big_Muff "A guitar distortion pedal."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."

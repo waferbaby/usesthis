@@ -41,9 +41,9 @@ Today an ultrabook or [MacBook Air][macbook-air] but with a touch screen are the
 
 The need will continue - just look at how painful it is to use [Rails][] on a Mac. That's why I have Ubuntu in VirtualBox. Similarly Windows Phone development is a pleasure but you need Windows in place. I find [PhoneGap][] most fun on a Mac. I want it all in one, with all my data wherever I am with an unreasonably long battery life, a touch screen and a pony.
 
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[focus]: http://www.samsung.com/us/support/owners/product/SGH-I917ZKAATT "A Windows Phone smartphone."
+[focus]: http://web.archive.org/web/20161126103039/http://www.samsung.com:80/us/support/owners/product/SGH-I917ZKAATT "A Windows Phone smartphone."
 [instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
@@ -54,9 +54,9 @@ The need will continue - just look at how painful it is to use [Rails][] on a Ma
 [mathematica]: https://www.wolfram.com/mathematica/ "Computation and simulation software."
 [odesk]: https://en.wikipedia.org/wiki/Upwork "A service for hiring contractors."
 [openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
-[phonegap]: https://phonegap.com/ "A framework for building native mobile apps with web technology."
+[phonegap]: http://web.archive.org/web/20230815070234/http://phonegap.com/ "A framework for building native mobile apps with web technology."
 [rails]: https://rubyonrails.org/ "A Ruby-based web framework."
-[series-7-slate]: http://www.samsung.com/us/computer/tablet-pcs/XE700T1A-A01US/ "A tablet PC."
+[series-7-slate]: http://web.archive.org/web/20160325183220/http://www.samsung.com/us/computer/tablet-pcs/XE700T1A-A01US "A tablet PC."
 [thinkpad-x201]: http://web.archive.org/web/20160511173457/http://shop.lenovo.com:80/us/notebooks/thinkpad/x-series/x201 "A 12.1 inch lightweight laptop."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."

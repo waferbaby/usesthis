@@ -56,4 +56,4 @@ I'm also very nearly ready to buy a [Rebel T2i][eos-rebel-t2i] to replace my DSL
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [tf2]: https://www.teamfortress.com/ "A team FPS game."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[writeroom]: https://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."
+[writeroom]: http://web.archive.org/web/20230717210502/https://www.hogbaysoftware.com/products/writeroom/ "Full-screen writing software."

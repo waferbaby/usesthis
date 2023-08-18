@@ -87,7 +87,7 @@ This is also the case within platforms when it comes to developer tooling. Why c
 [nexus-5]: http://web.archive.org/web/20150928131701/http://www.google.com:80/nexus/5/ "An Android smartphone."
 [pixel-c]: https://en.wikipedia.org/wiki/Pixel_C "A 10.2 inch Android tablet."
 [pixel]: https://store.google.com/product/pixel_phone?hl=ja "A 5 inch Android smartphone."
-[quietcomfort-20]: https://www.bose.com/controller?url=%2Fshop_online%2Fheadphones%2Fnoise_cancelling_headphones%2Fquietcomfort_20%2Findex.jsp "Noise-cancelling in-ear headphones."
+[quietcomfort-20]: http://web.archive.org/web/20150710184510/http://www.bose.com:80/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_20/index.jsp "Noise-cancelling in-ear headphones."
 [rookie-cam-ios]: https://apps.apple.com/gb/app/rookie-cam-photo-editor-filter/id799406905 "A filter-rich photo editing app."
 [show-and-hide-ios]: https://apps.apple.com/us/app/show-hide/id950349795 "A photo filter app."
 [simplenote-android]: https://play.google.com/store/apps/details?id=com.automattic.simplenote "A note app with cloud syncing."

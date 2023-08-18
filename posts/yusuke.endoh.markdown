@@ -74,7 +74,7 @@ A world where everyone enjoys programming.
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
 [kate]: https://kate-editor.org/ "A text editor for KDE."
-[kubuntu]: https://www.kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
+[kubuntu]: http://web.archive.org/web/20230804191842/https://kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mlterm]: https://mlterm.sourceforge.net/ "A multi-lingual terminal for X11."
 [ocaml]: https://caml.inria.fr/ocaml/index.en.html "An object-oriented version of the Caml programming language."

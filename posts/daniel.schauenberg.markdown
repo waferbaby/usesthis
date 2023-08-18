@@ -86,5 +86,5 @@ I basically have my dream set up in a lot of ways. It would be awesome if I didn
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [working-copy-ios]: https://workingcopyapp.com/ "A Git client."
-[yubikey-neo]: https://www.yubico.com/product/yubikey-5-nfc/ "A USB-based tool for generating one-time passwords."
+[yubikey-neo]: http://web.archive.org/web/20230531095826/https://www.yubico.com/product/yubikey-5-nfc/ "A USB-based tool for generating one-time passwords."
 [yubikey]: https://www.yubico.com/setup/ "A USB-based tool for generating one-time passwords."

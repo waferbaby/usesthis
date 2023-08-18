@@ -31,5 +31,5 @@ I think I already have my dream set-up! I am not fussy and the main thing I love
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigment-liner-308]: https://www.staedtler.com/intl/en/products/fineliners/pigment-liner-308-fineliner-m308/ "A pen."
+[pigment-liner-308]: http://web.archive.org/web/20190203013853/https://www.staedtler.com/intl/en/products/fineliners/pigment-liner-308-fineliner-m308/ "A pen."
 [pin-fine-line]: https://uniball.co.uk/all-products/brands/pin/ "A drawing pen."

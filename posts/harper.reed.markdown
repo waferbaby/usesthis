@@ -81,7 +81,7 @@ My dream setup from when I was in high school is more interesting. I spent hours
 [powercurl]: http://web.archive.org/web/20150529080405/http://www.quirky.com:80/shop/624-powercurl-macbook-power-cord-wrap "A cord wrap for the MagSafe power adapters."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
-[scrollz]: http://scrollz.com "A command-line IRC client."
+[scrollz]: http://web.archive.org/web/20230815040930/https://scrollz.com/ "A command-line IRC client."
 [se115m]: http://web.archive.org/web/20160407034019/http://www.amazon.com/Shure-SE115M-K-Earphones-Dynamic-MicroSpeaker/dp/B003NVM89Y "In-ear headphones."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [slackware]: http://www.slackware.com/ "A Linux distribution."

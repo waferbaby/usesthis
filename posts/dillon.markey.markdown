@@ -54,7 +54,7 @@ Anyways, that's my ideal setup. Basically a hive for play and creativity with ev
 [d810]: https://www.nikonusa.com/en/nikon-products/product-archive/dslr-cameras/d810.html "A 36.3 megapixel DSLR."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
 [dragonframe]: https://www.dragonframe.com/ "Stop-motion animation software."
-[eos-60d]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
+[eos-60d]: http://web.archive.org/web/20151103110651/http://www.usa.canon.com:80/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."

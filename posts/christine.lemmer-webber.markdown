@@ -91,7 +91,7 @@ Speaking of that, the stuff I work on is myself pretty hard to fund. You can sup
 [savant-elite2]: https://kinesis-ergo.com/shop/savant-elite2-triple-pedal/ "A computer foot medal."
 [scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."
-[statusnet]: http://www.gnu.org/software/social/merge.html "A free, open-source micro-blogging software platform."
+[statusnet]: http://web.archive.org/web/20230601175541/http://www.gnu.org/software/social/merge.html "A free, open-source micro-blogging software platform."
 [stumpwm]: https://stumpwm.github.io/ "A window manager for X."
 [thinkpad-x200]: http://web.archive.org/web/20161130223116/http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x200 "A 12.1 inch PC laptop."
 [thinkpad-x220]: http://web.archive.org/web/20170206231919/http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."

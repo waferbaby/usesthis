@@ -95,7 +95,7 @@ Or, more realistically: a slightly better version of what I currently have.
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
 [reddit]: https://www.reddit.com/?rdt=46296 "A messageboard service."
 [remote-mouse]: http://web.archive.org/web/20221213181052/https://www.remotemouse.net/ "Software to use your iPhone as a mouse for your Mac."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [stackedit]: https://stackedit.io/ "A browser-based Markdown editor."
 [substack]: https://substack.com/ "A paid newsletter service."

@@ -52,7 +52,7 @@ It's also likely I'd throw a few other random devices around, which I'd already 
 [sentry]: https://github.com/dcramer/sentry "A realtime event logging tool for developers."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
-[starcraft-2]: https://starcraft2.com/ "A sci-fi RTS game."
+[starcraft-2]: http://web.archive.org/web/20150912043344/http://www.starcraft2.com/ "A sci-fi RTS game."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [surface-rt]: http://web.archive.org/web/20230407222156/http://www.amazon.com/Microsoft-Surface-32GB-RT/dp/B009XNBFJK "A tablet device."

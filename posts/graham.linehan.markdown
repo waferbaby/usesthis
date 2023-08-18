@@ -31,5 +31,5 @@ A room where the walls, floor and ceiling were all whiteboard. Maybe not the cei
 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magic-whiteboard]: http://web.archive.org/web/20190508181144/https://www.amazon.com/Magic-Whiteboard-Feet-Erase-Sheets/dp/B005MQPL3S "Rolled sheets of whiteboard paper."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [workflowy]: https://workflowy.com/ "A task/to-do service."

@@ -35,14 +35,14 @@ When it comes to system setup, I'd love to have everything in my home decked out
 - Keyboard: [CODE][] keyboard
 - Desk: [Uplift 120 Degree][v2] standing desk
 
-[27ul500-w]: https://www.lg.com/us/monitors/lg-27UL500-W "A 27 inch 4K monitor."
+[27ul500-w]: http://web.archive.org/web/20230208195340/https://www.lg.com/us/monitors/lg-27UL500-W "A 27 inch 4K monitor."
 [code]: https://codekeyboards.com/ "A mechanical keyboard."
 [core-i5-3570k]: https://ark.intel.com/content/www/us/en/ark/products/65520/intel-core-i53570k-processor-6m-cache-up-to-3-80-ghz.html "A CPU."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [galago-pro]: https://system76.com/laptops/galago "A 14 inch PC laptop."
 [glitch.3]: https://glitch.com/ "A web-based IDE."
 [kde]: https://kde.org/ "A graphical environment for *nix operating systems."
-[kubuntu]: https://www.kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
+[kubuntu]: http://web.archive.org/web/20230804191842/https://kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."
 [neovim]: https://neovim.io/ "A refactored vim."
 [thelio]: https://system76.com/desktops "A desktop PC."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."
@@ -50,4 +50,4 @@ When it comes to system setup, I'd love to have everything in my home decked out
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [windows-subsystem-for-linux]: https://learn.microsoft.com/windows/wsl/about "A Linux environment for Windows."
-[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

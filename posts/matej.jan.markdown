@@ -53,7 +53,7 @@ Before I quit my day job to become an indie developer I had a 27" [iMac][] at wo
 [penultimate-ios]: https://apps.apple.com/us/app/penultimate/id354098826 "A digital sketchbook app."
 [pixaki-ios]: https://apps.apple.com/us/app/pixaki-pixel-art-studio/id1130919277 "A pixel art tool."
 [pixel-art-academy]: https://pixelart.academy/ "A game in which you're an art student."
-[quicktime-pro]: https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
+[quicktime-pro]: http://web.archive.org/web/20230706193331/https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
 [star-citizen]: https://en.wikipedia.org/wiki/Star_Citizen "A multiplayer space trading/combat game."
 [textexpander]: https://textexpander.com/ "A Mac app for adding custom abbreviations for often-used text."
 [wd-elements-portable]: https://www.westerndigital.com/products/portable-drives/wd-elements-portable-usb-3-0-hdd "An external hard drive."

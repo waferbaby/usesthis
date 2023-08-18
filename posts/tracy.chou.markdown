@@ -36,7 +36,7 @@ Other applications I use frequently: [1Password][], [Slack][], [PureVPN][], [Pho
 I'd replace my MacBook Pro with a [MacBook Air][macbook-air]. Long live the MacBook Air!
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
@@ -53,7 +53,7 @@ I'd replace my MacBook Pro with a [MacBook Air][macbook-air]. Long live the MacB
 [medium]: https://medium.com/ "A writing/blogging service."
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [purevpn]: https://www.purevpn.com/ "A VPN service."
 [quora]: https://www.quora.com/ "A Q&A web service."
 [react-native]: http://reactnative.dev/ "A framework for building native mobile apps with React."

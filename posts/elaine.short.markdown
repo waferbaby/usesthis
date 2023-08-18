@@ -49,7 +49,7 @@ A drawing table, or just a space designated to inking my cartoon would be neat, 
 [mars-plastic-526-50]: https://www.staedtler.com/intl/en/products/pencils-and-accessories/erasers/mars-plastic-526-50-eraser-in-premium-quality-526-50/ "An eraser."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
+[pitt-artist]: http://web.archive.org/web/20221127174236/https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO/ "A pen."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."

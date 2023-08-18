@@ -46,7 +46,7 @@ In my terms, the dream setup is a highly motivated group of people, each being a
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [bus-pirate]: http://dangerousprototypes.com/docs/Bus_Pirate "An open source multi-tool."
 [github]: https://github.com/ "A Git code repository service."
-[koruza]: http://www.koruza.net/index.html "An open source infrared-based networking device."
+[koruza]: http://web.archive.org/web/20161203013720/http://koruza.net:80/index.html "An open source infrared-based networking device."
 [openscad]: http://openscad.org/ "Open-source 3D CAD software."
 [rocket.chat]: https://www.rocket.chat/ "An open source web-based group chat system."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."

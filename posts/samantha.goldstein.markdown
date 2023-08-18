@@ -45,7 +45,7 @@ After seeing Claire Dane's [Met Gala dress](https://www.vanityfair.com/style/201
 [bes870xl]: http://web.archive.org/web/20230520174641/https://www.amazon.com/Breville-BES870XL-Barista-Express-Espresso/dp/B00CH9QWOU "An espresso machine."
 [cortina]: http://web.archive.org/web/20210918164041/https://www.bianchiusa.com/bikes/city-sport/turismo/cortina/ "A bicycle."
 [ec155]: https://www.amazon.com/DeLonghi-EC155-Espresso-Cappuccino-Maker/dp/B000F49XXG/ref=sr_1_13?s=kitchen&ie=UTF8&qid=1514874164&sr=1-13&keywords=espresso+maker "An espresso machine."
-[fusion-m2]: https://www.epiloglaser.com/laser-machines/fusion-laser-series.htm "A laser engraver."
+[fusion-m2]: http://web.archive.org/web/20220129073253/https://www.epiloglaser.com/laser-machines/fusion-laser-series.htm "A laser engraver."
 [gmk-mondrian]: https://drop.com/talk/1409/gmk-mondrian-blank-set-for-ortholinears?mode=guest_open "Keycaps for a mechanical keyboard."
 [karabiner]: https://karabiner-elements.pqrs.org/ "Mac software for remapping the keys of your laptop."
 [keepcup-brew-cork]: https://au.keepcup.com/keepcup-series/tasting-notes-brew-cork-series/thyme.html?country=Australia# "A reusable coffee cup."

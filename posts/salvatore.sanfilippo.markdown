@@ -63,7 +63,7 @@ I would love the ability to transfer all the context of a computer I'm using int
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[precision-t3500]: https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-t3500 "A tower desktop PC."
+[precision-t3500]: http://web.archive.org/web/20220528234835/https://www.dell.com/en-us/work/shop/cty/pdp/spd/precision-t3500 "A tower desktop PC."
 [redis]: https://redis.io/ "A key-value data store and more."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."

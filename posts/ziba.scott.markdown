@@ -79,5 +79,5 @@ Debian all day, everyday. All open source. No monitors, just a VR helmet with pe
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

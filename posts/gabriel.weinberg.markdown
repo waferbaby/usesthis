@@ -68,7 +68,7 @@ I need better music as well. I'm tired of Pandora -- hopeful for Spotify, but I 
 [pidgin]: https://www.pidgin.im/ "An open-source multi-protocol chat client."
 [putty]: https://www.chiark.greenend.org.uk/~sgtatham/putty/ "A free Telnet/SSH client for Windows."
 [quickbooks]: http://web.archive.org/web/20230524094339/https://quickbooks.intuit.com/ "Business accounting software for Windows."
-[quickcam-orbit-mp]: https://www.amazon.com/Logitech-QuickCam-Orbit-Webcam-961422-0403/dp/B000BBAKSA "A webcam."
+[quickcam-orbit-mp]: http://web.archive.org/web/20230706211530/https://www.amazon.com/Logitech-QuickCam-Orbit-Webcam-961422-0403/dp/B000BBAKSA "A webcam."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."

@@ -24,10 +24,10 @@ I use [Adobe Photoshop CC][photoshop] pretty much every day, and have some exper
 
 I don't need anything crazy computer-wise, the ASUS plays [Overwatch][] and can handle Ableton/Photoshop so I'm pretty happy. It would be cool to have a nice sound system (surround sound, speaker, monitors, etc), maybe after I set up a real desk and office. I work on my kitchen table and on the piano. I want to buy a trumpet, a flute, an accordion, and a harp. And if I can't get that, I would get the [Emperor][] and put it in a mech suit.
 
-[ath-m50x]: http://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
 [c700]: http://picopicose.com/software.html "An audio plugin that emulates a SPC700 processor."
 [earpods]: https://en.wikipedia.org/wiki/Apple_earbuds "The white headphones included with iPhones."
-[emperor]: https://mwelab.com/en/emperor.html "A futuristic sci-fi-esque workstation."
+[emperor]: http://web.archive.org/web/20210512115933/https://mwelab.com/en/emperor.html "A futuristic sci-fi-esque workstation."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [midi-fighter-3d]: https://store.djtechtools.com/products/midi-fighter-3d "A music controller."
 [overwatch]: https://overwatch.blizzard.com:443/ "A team-based FPS game."

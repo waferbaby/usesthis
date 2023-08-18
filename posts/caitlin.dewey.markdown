@@ -40,7 +40,7 @@ Honestly, when the construction debris clears, I think the attic is going to be 
 [morning-ios]: https://apps.apple.com/app/morning-gratitude-journal/id1455594587 "A gratitude journal app."
 [otter]: https://otter.ai "A transcribing service."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
-[pixelbook]: https://store.google.com/us/product/google_pixelbook?hl=en-US "A 12.3 inch Chromebook."
+[pixelbook]: http://web.archive.org/web/20201111203427/https://store.google.com/us/product/google_pixelbook?hl=en-US "A 12.3 inch Chromebook."
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
 [teams]: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software "A team collaboration service."
 [todoist]: https://todoist.com/ "A to-do service."

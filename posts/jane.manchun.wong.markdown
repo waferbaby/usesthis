@@ -67,7 +67,7 @@ My favorite light color scheme is GitHub Theme, and my favorite dark color schem
 
 A replacement to my aging 2017 MacBook Pro is long overdue. One with a keyboard that works would be neat. Though I am looking forward to using an ARM MacBook Pro when it is available in the future.
 
-[27uk850-w]: https://www.lg.com/us/monitors/lg-27UK850-W-4k-uhd-led-monitor "A 27 inch monitor."
+[27uk850-w]: http://web.archive.org/web/20230706220459/https://www.lg.com/us/monitors/lg-27uk850-w-4k-uhd-led-monitor "A 27 inch monitor."
 [airpods-pro]: https://www.apple.com/airpods-pro/ "In-ear headphones."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [calendar]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."

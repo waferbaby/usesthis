@@ -62,5 +62,5 @@ Other than that, my dreams are mostly in what I'll make, rather than what I'll h
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [synergy]: https://symless.com/ "Software to share a single keyboard and mouse between multiple computers."
-[thinkpad-x1-carbon]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
-[videomic-me]: https://www.rode.com:443/microphones/videomicme "A directional mic for smartphones."
+[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
+[videomic-me]: http://web.archive.org/web/20220320205628/https://www.rode.com/microphones/videomicme "A directional mic for smartphones."

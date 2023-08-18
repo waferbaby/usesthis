@@ -41,7 +41,7 @@ There are a few things I'd upgrade given unlimited funds. Based on reviews, I'd 
 
 Honestly, though, I'm pretty happy with my relatively low-tech setup. The nice thing about primarily dealing in words is that all you really need is a device with a keyboard. Everything else is just gravy.
 
-[galaxy-s21-ultra-5g]: https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
+[galaxy-s21-ultra-5g]: http://web.archive.org/web/20230419003149/https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-fi]: https://en.wikipedia.org/wiki/Google_Fi "A cellular/wifi networking service."

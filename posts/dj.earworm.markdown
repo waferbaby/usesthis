@@ -41,7 +41,7 @@ I'm actually pretty happy with my setup! In a perfect world maybe I'd build a so
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nanokontrol2]: https://www.korg.com/us/products/computergear/nanokontrol2/ "A USB MIDI controller."
 [phonicmind]: https://phonicmind.com/ "A service for separating vocals and instruments in audio tracks."
-[rokit-8]: https://www.amazon.com/KRK-RP8G3-NA-Generation-Powered-Monitor/dp/B00FXBIG1G/ "A pair of powered speakers."
+[rokit-8]: http://web.archive.org/web/20230706191530/https://www.amazon.com/KRK-RP8G3-NA-Generation-Powered-Monitor/dp/B00FXBIG1G "A pair of powered speakers."
 [spleeter]: https://github.com/deezer/spleeter "A tool to separate voice and instruments from audio tracks."
 [workfit-c]: https://www.ergotron.com/en-us/404-error-page "A sit-stand desk."
 [xone-k2]: https://www.allen-heath.com/ahproducts/xonek2/ "A MIDI controller."

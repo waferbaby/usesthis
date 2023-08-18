@@ -38,5 +38,5 @@ I don't really have a dream setup - the process I have now feels pretty ideal. I
 [ogmo-editor]: https://ogmo-editor-3.github.io "A level editor for game developers."
 [se2416h]: https://www.dell.com/en-us/shop/accessories?showMessage=1 "A 24 inch LCD monitor."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[unreal-engine]: https://www.unrealengine.com/en-US/what-is-unreal-engine-4 "A 3D game engine."
+[unreal-engine]: http://web.archive.org/web/20200128005753/https://www.unrealengine.com/en-US/what-is-unreal-engine-4 "A 3D game engine."
 [vim]: https://www.vim.org/ "A command-line text editor."

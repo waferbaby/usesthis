@@ -50,7 +50,7 @@ Softwarewise, I'd love to see natural media simulation improve in drawing softwa
 Also, where's my Holodeck?
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[2-across-ios]: https://instantcocoa.com/products/2across/ "A crossword puzzle game for the iPhone"
+[2-across-ios]: http://web.archive.org/web/20210509050910/http://www.instantcocoa.com/products/2across/ "A crossword puzzle game for the iPhone"
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [byline-ios]: http://www.phantomfish.com/byline.html "A Google Reader app for the iPhone"
 [camerabag-ios]: https://www.nevercenter.com/camerabag/ "An iPhone app for taking photos with various filters."
@@ -84,12 +84,12 @@ Also, where's my Holodeck?
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [ps3]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[studio-display]: https://www.everymac.com/monitors/apple/studio_cinema/specs/apple_studio_display_17_fp.html "A line of LCD/CRT screens."
+[studio-display]: http://web.archive.org/web/20230706193100/https://everymac.com/monitors/apple/studio_cinema/specs/apple_studio_display_17_fp.html "A line of LCD/CRT screens."
 [stylus-photo-1280]: https://epson.com/cgi-bin/Store/consumer/consDetail.jsp?infoType=Overview&modeloid=14387&oid=28907797 "A printer supporting up to 13 inch prints."
 [time-capsule]: https://www.apple.com/mac/ "A WiFi access point and backup system."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [tweetie-ios]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
-[wii]: https://www.nintendo.com/wii/ "A unique gaming console."
+[wii]: http://web.archive.org/web/20140513065105/http://www.nintendo.com:80/wii "A unique gaming console."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

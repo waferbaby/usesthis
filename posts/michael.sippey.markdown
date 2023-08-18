@@ -35,7 +35,7 @@ But the dream setup isn't really about hardware or software -- they're both evol
 A boy can dream, right?
 
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
-[angry-birds-ios]: https://apps.apple.com/us/app/angry-birds/id343200656 "A game involving slingshots, birds and pigs."
+[angry-birds-ios]: http://web.archive.org/web/20190615074416/https://apps.apple.com/us/app/angry-birds/id343200656 "A game involving slingshots, birds and pigs."
 [captio-ios]: https://captio.co/ "An iPhone app for quickly capturing notes/ideas."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

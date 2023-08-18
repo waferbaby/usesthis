@@ -30,7 +30,7 @@ The real dream would be a tablet with the power of the MobileStudio (it runs Win
 
 [among-us]: https://en.wikipedia.org/wiki/Among_Us "A social deduction game."
 [animate]: https://en.wikipedia.org/wiki/Adobe_Animate "A vector animation suite."
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [mobilestudio-pro]: https://www.wacom.com/en-cl/products/pen-computers/wacom-mobilestudio-pro-overview "A drawing tablet."

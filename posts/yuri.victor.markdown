@@ -80,7 +80,7 @@ Also, you're a star and I love you. Follow me on twitter maybe: [@yurivictor](ht
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[mailbox]: https://www.mailboxapp.com/ "A email client."
+[mailbox]: http://web.archive.org/web/20171224163851/http://www.mailboxapp.com:80/? "A email client."
 [nocturne]: https://nocturne.en.softonic.com/mac "A Mac app for adjusting the screen's hue."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pico]: http://www.supertalent.com/products/stt_usb_detail.php?type=Pico "A physically tiny USB drive."

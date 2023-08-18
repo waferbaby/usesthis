@@ -36,7 +36,7 @@ And if we're going total dream setup, a [Canon 5D Mk IV][eos-5d-mark-iv] and [EF
 
 If I could go as far as having anything, I suppose I'd happily ask for a full-time video editor as well! Haha.
 
-[17-70mm-f2.8-4-dc-macro-os-hsm]: https://www.sigmaphoto.com/../ "A macro camera lens."
+[17-70mm-f2.8-4-dc-macro-os-hsm]: http://web.archive.org/web/20230609134519/https://www.sigmaphoto.com/../ "A macro camera lens."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [ef-100mm-f2.8l-is-usm]: http://web.archive.org/web/20151008110016/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8l_macro_is_usm "A macro lens."
 [eos-5d-mark-iv]: http://web.archive.org/web/20170828020903/https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-5d-mark-iv "A 30.4 megapixel DSLR."
@@ -46,9 +46,9 @@ If I could go as far as having anything, I suppose I'd happily ask for a full-ti
 [h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
-[mr-turn-table]: https://www.amiami.com/detail/?gcode=TOL-0604 "A turntable."
+[mr-turn-table]: http://web.archive.org/web/20220810143153/https://www.amiami.com/detail/?gcode=TOL-0604 "A turntable."
 [r-300]: http://web.archive.org/web/20180228002040/https://www.fvlighting.com/store/lighting/led/r300.html "An LED ring light."
-[the-pop]: https://www.bluemic.com/accessories/ "A microphone windscreen."
+[the-pop]: http://web.archive.org/web/20171030013222/http://www.bluemic.com:80/accessories/ "A microphone windscreen."
 [vegas-pro]: https://en.wikipedia.org/wiki/Sony_Vegas_Pro "A non-linear video editing suite."
 [wix]: https://www.wix.com/ "A service for building and hosting website."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."

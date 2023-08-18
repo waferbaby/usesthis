@@ -66,5 +66,5 @@ I'd love to be left alone with my cat and boyfriend on top of a mountain. We'd h
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
-[wunderlist-ios]: https://apps.apple.com/us/app/wunderlist-to-do-list-tasks/id406644151 "A client for the todo service."
-[ynab]: https://www.youneedabudget.com/ "A service for helping people save money."
+[wunderlist-ios]: http://web.archive.org/web/20200428231142/https://apps.apple.com/us/app/wunderlist-to-do-list-tasks/id406644151 "A client for the todo service."
+[ynab]: http://web.archive.org/web/20230308132507/https://www.youneedabudget.com/ "A service for helping people save money."

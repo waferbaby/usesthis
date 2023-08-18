@@ -97,7 +97,7 @@ I'd do it, but it seems like a lot of work and I've got too many emoji and popup
 [tasker-android]: https://tasker.joaoapps.com/ "An automation app."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [termux-android]: https://termux.com "A terminal emulator and Linux environment app."
-[thinkpad-t420]: https://support.lenovo.com/us/en/solutions/pd015734 "A 14 inch PC laptop."
+[thinkpad-t420]: http://web.archive.org/web/20210506094630/https://support.lenovo.com/us/en/solutions/pd015734 "A 14 inch PC laptop."
 [trello]: https://trello.com/ "A project management service."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

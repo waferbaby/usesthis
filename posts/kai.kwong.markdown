@@ -40,6 +40,6 @@ My dream printing setup would involve actually going through with fixing my pres
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pixma-pro-100]: https://www.usa.canon.com/shop/p/pixma-pro-200 "A printer."
+[pixma-pro-100]: http://web.archive.org/web/20230706191806/https://www.usa.canon.com/shop/p/pixma-pro-200 "A printer."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [vaio-s-series-13p]: https://www.sony.com/electronics/support/laptop-pc-svs-series/svs13a190x/downloads "A 13 inch PC laptop."

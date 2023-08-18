@@ -32,5 +32,5 @@ Much of what I do is done by hand. The software that helps me the most in these 
 
 My dream setup is Tony Stark's basement workshop in the Ironman movies. Since it's still not available, I'd be happy with a 5-axis CNC mill, a high-resolution 3D printer big enough to crank out a motorcycle helmet, and a staff of five or six people to do my 3D modelling, moldmaking, sewing, and rough painting. That, and a climate-controlled building big enough to park six cars inside.
 
-[pepakura]: https://tamasoft.co.jp/pepakura-en/ "Software for turning 3D models into flat paper craft models."
+[pepakura]: http://web.archive.org/web/20230706211514/https://tamasoft.co.jp/pepakura-en/ "Software for turning 3D models into flat paper craft models."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

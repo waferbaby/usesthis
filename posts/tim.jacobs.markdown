@@ -50,6 +50,8 @@ I can heartily endorse [OpenSCAD][], which is a very unique 3D modelling program
 
 An enourmous workshop, with infinite storage space, and an infinitely long desk for leaving half-finished projects on. A big milling machine and lathe for rough work, a tiny watchmaker's lathe for precision stuff. A waterjet cutter and a press-brake. A metallurgical microscope. An AC TIG welder and an acetylene torch. A kiln. A forge. A supercomputer that can render and encode video in an instant. Oh, and a foosball table.
 
+[keystep]: index.php?option=com_content&view=article&id=4&Itemid=1214 "A MIDI keyboard."
+
 [af-micro-nikkor-60mm-f2.8d]: https://www.nikonusa.com/en/nikon-products/product-archive/camera-lenses/af-micro-nikkor-60mm-f%252f2.8d.html "A macro lens."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
@@ -62,7 +64,7 @@ An enourmous workshop, with infinite storage space, and an infinitely long desk 
 [h2n]: https://en.wikipedia.org/wiki/Zoom_H2n_Handy_Recorder "A portable audio recorder."
 [i3]: https://i3wm.org/ "An X window manager."
 [k702]: http://web.archive.org/web/20190508113810/https://www.amazon.com/AKG-K702-Headphones/dp/B001RCD2DW "Headphones."
-[keystep]: index.php?option=com_content&view=article&id=4&Itemid=1214 "A MIDI keyboard."
+[keystep]: https://www.arturia.com/products/keystep/overview "A MIDI keyboard."
 [kicad]: http://web.archive.org/web/20220324205847/https://kicad-pcb.org/ "Open-source CAD software."
 [krita]: https://krita.org/ "An open-source image editor."
 [kx-5]: https://en.wikipedia.org/wiki/Yamaha_KX-5 "A MIDI keyboard."
@@ -70,7 +72,7 @@ An enourmous workshop, with infinite storage space, and an infinitely long desk 
 [neovim]: https://neovim.io/ "A refactored vim."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [openscad]: http://openscad.org/ "Open-source 3D CAD software."
-[se400-z]: https://amscope.com/stereo-microscopes/10x-20x-led-binocular-stereo-microscope-boom-arm-with-gooseneck-light.html "A stereo microscope."
+[se400-z]: http://web.archive.org/web/20190506062734/https://www.amscope.com/stereo-microscopes/10x-20x-led-binocular-stereo-microscope-boom-arm-with-gooseneck-light.html "A stereo microscope."
 [sumatra-pdf]: https://www.sumatrapdfreader.org/free-pdf-reader "A PDF reader for Windows."
 [ts100]: https://www.getfpv.com/ts100-digital-oled-programmable-interface-mini-soldering-iron.html "A hackable soldering iron."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."

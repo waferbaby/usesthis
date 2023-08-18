@@ -25,4 +25,4 @@ Everyone wants more options, but I'm not sure that ultimately helps. The "dream"
 
 [duet]: https://apogeedigital.com/products/duet "An audio interface for the Mac."
 [egb808]: https://maton.com.au/product/ebg808 "An acoustic guitar."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."

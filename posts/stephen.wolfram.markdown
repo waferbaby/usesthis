@@ -54,7 +54,7 @@ Mathematica + Wolfram\|Alpha everywhere! Laptops that switch on and get connecte
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mathematica]: https://www.wolfram.com/mathematica/ "Computation and simulation software."
 [mifi]: https://en.wikipedia.org/wiki/MiFi "A portable mobile hotspot."
-[shoretel]: https://www.mitel.com/ "All-in-one VoIP phone system."
+[shoretel]: http://web.archive.org/web/20230808191416/https://www.mitel.com/ "All-in-one VoIP phone system."
 [thinkpad-x301]: http://web.archive.org/web/20161006112805/http://shop.lenovo.com/us/notebooks/thinkpad/x-series/x301 "A 13.3 inch PC laptop."
 [webmathematica]: https://www.wolfram.com/products/webmathematica/ "Dynamic Mathematica web content."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

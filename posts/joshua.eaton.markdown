@@ -112,7 +112,7 @@ What I'd really, really, really love is my own little home office, complete with
 [powerwave-stand]: http://web.archive.org/web/20211203105840/https://us.anker.com/collections/wireless-equipment/products/a2524 "A wireless charging stand."
 [privacy-badger]: https://privacybadger.org "A browser extension for blocking trackers and ads."
 [protonmail]: https://proton.me/mail "A secure email provider."
-[quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
+[quietcomfort-35]: http://web.archive.org/web/20220309113434/https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
 [rev]: https://www.rev.com/ "A service providing transcription and captioning."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

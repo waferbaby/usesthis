@@ -50,7 +50,7 @@ Enhancing my virtual self, I've wanted to improve my video. I've looking into us
 I already have a pretty incredible setup that lets me get the job done. Improving my virtual self would have the biggest bang for buck when it comes to investing more into myself.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[a2-plus]: https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
+[a2-plus]: http://web.archive.org/web/20230725062210/https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [a6400]: https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b "A 24.2 megapixel mirrorless camera."
 [airpods-pro]: https://www.apple.com/airpods-pro/ "In-ear headphones."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
@@ -65,7 +65,7 @@ I already have a pretty incredible setup that lets me get the job done. Improvin
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."
 [k6]: https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard "A wireless mechanical keyboard."
 [key-light]: https://www.elgato.com/us/en/p/key-light "A light."
-[m720-triathlon]: https://www.logitech.com/en-us/product/m720-triathlon.html?crid=7 "A wireless multi-device mouse."
+[m720-triathlon]: http://web.archive.org/web/20200717024534/https://www.logitech.com/en-us/product/m720-triathlon.html?crid=7 "A wireless multi-device mouse."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
 [snowball-ice]: https://www.logitechg.com/en-us/products/streaming-gear/snowball-ice-usb-microphone.988-000067.html "A USB microphone."

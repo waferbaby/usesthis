@@ -39,7 +39,7 @@ We'll have a workshop suitable for working on electronics and machines. We'll ha
 
 I probably will not have written the history book though.
 
-[ath-m50x]: http://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
 [chicken]: https://call-cc.org/ "A Scheme compiler."
 [find]: https://en.wikipedia.org/wiki/Find_%28command%29 "A command-line tool for searching for specific text in files."
 [fuchsia]: https://en.wikipedia.org/wiki/Google_Fuchsia "An operating system."

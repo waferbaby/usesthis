@@ -58,7 +58,7 @@ I'd say I want less local storage and more things to move into the "cloud," but 
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [centos]: https://www.centos.org/ "A Linux distribution."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[expansion-portable]: https://www.seagate.com/jp/ja/external-hard-drives/portable-hard-drives/standard/expansion-portable/ "An external hard drive."
+[expansion-portable]: http://web.archive.org/web/20160708160551/http://www.seagate.com:80/jp/ja/external-hard-drives/portable-hard-drives/standard/expansion-portable/ "An external hard drive."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
 [git]: https://git-scm.com/ "A version control system."
 [go]: https://go.dev/ "A compiled programming language."

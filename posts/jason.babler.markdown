@@ -40,7 +40,7 @@ That'll do it :)
 
 [324i]: http://web.archive.org/web/20151126215225/http://www.amazon.com:80/LaCie-Monitor-P-IPS-Panel-AdobeRGB/dp/B00452TLAE? "A 24 inch LCD screen."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[clay-shapers]: https://www.sculpt.com/catalog_98/CLAYTOOLS/clayshapers.htm "Silicone-tipped tools for sculpting and modelling."
+[clay-shapers]: http://web.archive.org/web/20200224084257/http://www.sculpt.com:80/catalog_98/CLAYTOOLS/clayshapers.htm "Silicone-tipped tools for sculpting and modelling."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-rebel-t2i]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."
 [hp-c-plus]: http://www.iwata-airbrush.com/products/iwata-airbrushes/high-performance-plus/hp-c-plus/ "An airbrush."
@@ -54,7 +54,7 @@ That'll do it :)
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [replicator]: https://store.makerbot.com/replicator "A 3D printer."
-[super-sculpey]: https://www.sculpey.com/product/super-sculpey/ "A polymer modelling clay."
+[super-sculpey]: http://web.archive.org/web/20161122100423/http://www.sculpey.com:80/product/super-sculpey/ "A polymer modelling clay."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [yojimbo]: http://www.barebones.com/products/Yojimbo/ "Data 'bucket' software for the Mac."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

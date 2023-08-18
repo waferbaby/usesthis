@@ -46,7 +46,7 @@ My dream setup would be to have someone else take care of all of the infrastruct
 [pixijs]: https://pixijs.com/ "A 2D WebGL framework."
 [processing]: https://processing.org/ "A programming language/environment."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[react]: http://reactjs.org/ "A JavaScript UI framework."
+[react]: http://web.archive.org/web/20230316153459/https://reactjs.org/ "A JavaScript UI framework."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [vega.2]: https://vega.github.io/ "A JSON-based visualisation format."
 [vision-elite]: http://web.archive.org/web/20220113174728/https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."

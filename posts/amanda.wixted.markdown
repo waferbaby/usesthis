@@ -47,7 +47,7 @@ I want a robot assistant that would do things for me like go to the bank, pick u
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [kindle-ios]: https://apps.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[minecraft]: https://www.minecraft.net/ "A digging and building game."
+[minecraft]: http://web.archive.org/web/20200217201457/https://www.minecraft.net/ "A digging and building game."
 [mx-518]: http://web.archive.org/web/20220628213631/https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
 [objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
 [orbital-ios]: https://www.orbital-game.com/ "An orb-destroying game for iOS."

@@ -32,7 +32,7 @@ Things that are running in the background, which I never seem to think about are
 I really want the fastest machine possible, with lots of options for disk space. So if I could have a 13" MacBook Air which had the processing power of the fastest desktop machine, super big and super fast SSD's, and Thunderbolt ports which connected to my backup volumes and big displays (27" HighDPI monitors please!), I think I'd be in heaven. And while I'm at it - city wide gigabit wifi please. Then I could just take that machine to work or on the road, and not worry about having multiple machines. Some day, it'll happen.
 
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
@@ -40,7 +40,7 @@ I really want the fastest machine possible, with lots of options for disk space.
 [colloquy]: https://colloquy.app/ "An IRC client for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flysketch]: https://flyingmeat.com/flysketch/ "A Mac illustration tool for sketching and annotating."
-[geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
+[geekdesk]: http://web.archive.org/web/20230601102958/https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."

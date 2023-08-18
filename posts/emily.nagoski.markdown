@@ -57,4 +57,4 @@ Ideally, I'd have every medical provider in the country chained to chairs in a m
 [thatsit-balans]: https://www.varierfurniture.com/en/en_us/Movement-Chairs/Thatsit-balans-R/Variations-Thatsit/Thatsit_Balans_Black_FA0999-Black_lacquered_Ash "An ergonomic chair."
 [threes-ios]: https://apps.apple.com/us/app/threes/id779157948 "A number-matching puzzle game."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."

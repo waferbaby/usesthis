@@ -34,6 +34,6 @@ Realistically though, what I should do with my setup at home is A) clean off the
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [krita]: https://krita.org/ "An open-source image editor."
 [miro]: https://miro.com/ "An online collaborative whiteboard service."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [tidal]: http://web.archive.org/web/20221225090000/https://tidal.com/ "A music streaming service."
 [unity]: https://unity.com/products "A cross-platform game development tool."

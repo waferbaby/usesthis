@@ -37,7 +37,7 @@ Also, I need one of those stand-up, commercial-grade coffee makers beside me - S
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [git]: https://git-scm.com/ "A version control system."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."

@@ -75,7 +75,7 @@ I'm pretty happy with my setup. I'd love a renderfarm to speed up Lightwave: glo
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
-[lightwave]: https://www.lightwave3d.com "3D rendering, modelling and animation software."
+[lightwave]: http://web.archive.org/web/20230813092714/https://lightwave3d.com/ "3D rendering, modelling and animation software."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

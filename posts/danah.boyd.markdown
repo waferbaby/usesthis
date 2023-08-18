@@ -46,6 +46,8 @@ And I want some basic wearables. Think: a real working version of Pranav Mistry'
 
 More than anything, I want a world with ubiquitous high bandwidth wifi. I hate that the carriers make it prohibitively expensive for me to lookup information when I'm traveling outside of the US. I hate that I can't easily connect my laptop to the internet when I'm out and about or, when I do, it's so bloody slow as to be useless. I want connectivity everywhere. And I want it to be understood as infrastructure. We can't even talk about life in the cloud until we have blanketed connectivity.
 
+[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [aroundme-ios]: http://www.aroundmeapp.com/ "An iPhone app to give you information on your current surroundings."
@@ -67,7 +69,7 @@ More than anything, I want a world with ubiquitous high bandwidth wifi. I hate t
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+[mamp]: https://www.mamp.info/en/mamp/mac/ "A one-click Mac solution for Apache, MySQL, PHP."
 [messages-ios]: https://support.apple.com/messages "A messaging app."
 [nytimes-ios]: https://apps.apple.com/us/app/nytimes/id284862083 "An iPhone app to grab the latest news from the newspaper."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
@@ -75,14 +77,14 @@ More than anything, I want a world with ubiquitous high bandwidth wifi. I hate t
 [ps2]: https://en.wikipedia.org/wiki/PS_2 "A gaming console."
 [safari-ios]: https://en.wikipedia.org/wiki/Safari_(web_browser)#iOS-specific_features "A web browser included with iOS."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[sidekick]: https://www.t-mobile.com/brand/sidekick "A line of smartphones."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[sidekick]: http://web.archive.org/web/20230208143654/https://www.t-mobile.com/brand/sidekick "A line of smartphones."
 [snak]: http://www.snak.com/ "An IRC client for the Mac."
 [summizer-ios]: https://apps.apple.com/us/app/summizer-realtime-search-for/id376197635 "A Twitter search/trend app for the iPhone."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
-[tivo]: https://business.tivo.com/jp "A digital TV recording system."
-[tripit-ios]: https://www.tripit.com/web/download "An iPhone client for the trip sharing service."
+[tivo]: http://web.archive.org/web/20230706210923/https://business.tivo.com/jp/ "A digital TV recording system."
+[tripit-ios]: http://web.archive.org/web/20230706191117/https://www.tripit.com/web/download "An iPhone client for the trip sharing service."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [tweetie-ios]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client."
 [voodoopad]: http://web.archive.org/web/20190128001214/https://plausible.coop/voodoopad "Personal wiki software for the Mac."

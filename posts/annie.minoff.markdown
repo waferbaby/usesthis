@@ -41,7 +41,7 @@ Hm. Pro Tools never crashing would be my dream setup. More immediately, I'm real
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mdr-7506]: http://web.archive.org/web/20230522193817/https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [rev]: https://www.rev.com/ "A service providing transcription and captioning."
 [tlm-102]: http://web.archive.org/web/20221127191551/https://www.neumann.com/homestudio/en/tlm-102 "A microphone."
 [trint]: https://trint.com/ "A speech-to-text transcribing service."

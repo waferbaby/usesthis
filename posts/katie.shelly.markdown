@@ -39,7 +39,7 @@ I just can't let go of [FCP 7][final-cut-pro]... [FCP X][final-cut-pro] has chan
 I would love a more kick-ass video camera, the XF105 is OK but sometimes the footage looks grainy or dullish in less than perfect light conditions. I'm also eyeing the new Mac Pro and wondering just how much faster it will be for video rendering and exporting and tasks like that. Other than that... I'd say I'm already livin' the dream!
 
 [2707wfp]: http://web.archive.org/web/20150410155429/http://www.amazon.com/Dell-UltraSharp-2707WFP-Widescreen-Adjustable/dp/B000YGEKFQ "A 27 inch LCD screen."
-[a2-plus]: https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
+[a2-plus]: http://web.archive.org/web/20230725062210/https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [airfoil]: https://www.rogueamoeba.com/airfoil/mac/ "Send audio wherever you want it."
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."

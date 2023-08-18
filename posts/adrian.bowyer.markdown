@@ -61,4 +61,4 @@ All the above running 30-times faster in a much bigger set of rooms :-)
 [printrun]: https://github.com/kliment/Printrun "A 3D printer driver."
 [reprap]: https://reprap.org/wiki/Main_Page "A self-replicating manufacturing machine."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[thunderbird]: https://www.thunderbird.net/ "An open-source cross-platform mail client."
+[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."

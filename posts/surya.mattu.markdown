@@ -40,7 +40,7 @@ My current setup works pretty well for pretty much everything I need to use it f
 [notable]: https://notable.app/ "A note taking app."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[thinkpad-x1-carbon]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
+[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
 [ubertooth-one]: https://greatscottgadgets.com/ubertoothone/ "An open source Bluetooth development dongle."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

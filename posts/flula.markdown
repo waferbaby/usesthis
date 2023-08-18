@@ -40,7 +40,7 @@ For Editing of [strange Fotos and Images](https://www.instagram.com/p/7V_ckdgpYU
 In my Dream Setup of Life, I would have 5 friendly Robots filming me 25 Hours in the Day. Also, one of these Robots is a Chef who is feeding me delishus Purèe of Broccoli and Yogurt and Pasta. Also one of the Robots is sleeping for me, so I do not need sleep, and one of the Robots does hug me all Day so am feeling enough Affection for the Day.
 
 [2880]: https://www.ehx.com/products/2880/ "A multi-track looper."
-[dl4]: https://line6.com/stompbox-modelers/dl4-delay-stompbox-modeling-pedal "An effects pedal."
+[dl4]: http://web.archive.org/web/20211130124333/https://line6.com/stompbox-modelers/dl4-delay-stompbox-modeling-pedal "An effects pedal."
 [ef-s-18-135mm-f3.5-5.6-is-stm]: http://web.archive.org/web/20220707143739/https://www.usa.canon.com/internet/portal/us/home/products/details/lenses/ef/standard-zoom/ef-s-18-135mm-f-3-5-5-6-is-stm/ "A zoom lens."
 [ejay]: https://en.wikipedia.org/wiki/EJay "Audio editing software."
 [eos-650d]: https://en.wikipedia.org/wiki/Canon_EOS_650D "An 18 megapixel DSLR camera."
@@ -52,10 +52,10 @@ In my Dream Setup of Life, I would have 5 friendly Robots filming me 25 Hours in
 [hero4-black]: http://web.archive.org/web/20230130020829/http://www.amazon.com/GoPro-HERO4-BLACK-Action-Camera/dp/B00NIYNUF2/ "A 4K video camera."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[launchpad-ios]: https://global.novationmusic.com/launch/launchpad-app "A remixing and recording app."
-[launchpad-mini]: https://us.novationmusic.com/launchpad-mini "A mini controller for Ableton Live."
+[launchpad-ios]: http://web.archive.org/web/20180302111637/http://global.novationmusic.com:80/launch/launchpad-app "A remixing and recording app."
+[launchpad-mini]: http://web.archive.org/web/20160204130829/http://us.novationmusic.com:80/launchpad-mini "A mini controller for Ableton Live."
 [logic]: https://www.saleae.com/ "A hardware debugger."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sm58]: https://www.shure.com:443/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[sm58]: http://web.archive.org/web/20190411150950/https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."

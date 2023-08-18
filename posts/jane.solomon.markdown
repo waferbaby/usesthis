@@ -43,4 +43,4 @@ Rose gold MacBook Pro.
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
-[verticalmouse]: http://evoluent.com/products/vm4rw/ "A unique wireless mouse."
+[verticalmouse]: http://web.archive.org/web/20230815233516/https://evoluent.com/products/vm4rw/ "A unique wireless mouse."

@@ -49,7 +49,7 @@ It always seems like I'm running out of space for photos and videos on my phone 
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
-[kegel-camp-ios]: https://apps.apple.com/us/app/kegel-camp/id425190605 "An app for helping with kegel exercises."
+[kegel-camp-ios]: http://web.archive.org/web/20191030232635/https://apps.apple.com/us/app/kegel-camp/id425190605 "An app for helping with kegel exercises."
 [libsyn]: https://libsyn.com/ "A web service for distributing DIY podcasts."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

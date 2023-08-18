@@ -31,5 +31,5 @@ I'd love to take everything from my current setup and plunk it into a larger ded
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
-[pixma-ix6820]: https://www.usa.canon.com/shop/printers "An inkjet printer."
+[pixma-ix6820]: http://web.archive.org/web/20230706202419/https://www.usa.canon.com/shop/printers "An inkjet printer."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

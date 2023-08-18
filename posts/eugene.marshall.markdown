@@ -34,7 +34,7 @@ For word processing, I use [Word][]. My spouse does the bulk of the layout, but 
 
 I am incredibly privileged, so I am actually pretty close to my dream setup for my work applications. I'd welcome a really nice, expensive chair, like a [Herman Miller Aeron][aeron], with a keyboard mount and mouse tray at hand, both adjustable to reduce ergonomic stress on my wrists. I wish my area had gigabit internet, even though I know I don't need anything faster than I have (400 Mbps). Otherwise, I'm pretty happy with what I have!
 
-[27ud58-b]: https://www.lg.com/us/monitors/lg-27UD58-B-4k-uhd-led-monitor "A 27 inch LED monitor."
+[27ud58-b]: http://web.archive.org/web/20230706214709/https://www.lg.com/us/monitors/lg-27ud58-b-4k-uhd-led-monitor "A 27 inch LED monitor."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [ascend]: https://us.targus.com/products/ascend-16-inch-laptop-backpack-black-tsb710us "A laptop backpack."
 [bettersnaptool]: https://apps.apple.com/us/app/bettersnaptool/id417375580 "Window management software for the Mac."
@@ -57,5 +57,5 @@ I am incredibly privileged, so I am actually pretty close to my dream setup for 
 [time-out]: https://www.dejal.com/timeout/ "A Mac break reminder tool."
 [v60]: http://web.archive.org/web/20200413053744/https://www.hario.jp/sp_v60series.html "A coffee dripper."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."
 [zoom]: http://web.archive.org/web/20200914231305/http://www.logicalshift.demon.co.uk/mac/zoom.html "A Mac app to play interactive fiction."

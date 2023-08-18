@@ -44,7 +44,7 @@ I don't think I'd change anything about my hardware/software setup to make it a 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spine]: http://esotericsoftware.com/ "2D animation software."
 [tearaway-unfolded]: https://en.wikipedia.org/wiki/Tearaway_Unfolded "https://en.wikipedia.org/wiki/Tearaway_Unfolded"

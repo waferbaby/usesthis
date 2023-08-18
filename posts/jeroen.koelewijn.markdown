@@ -38,5 +38,5 @@ Aside from that I'm pretty happy with what I've got going on.
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [radeon-rx-5600-xt]: http://web.archive.org/web/20220620084709/https://www.amd.com/en/products/graphics/amd-radeon-rx-5600-xt "A graphics card."
-[tvpaint-animation]: https://tvpaint.com/ "A 2D animation suite."
+[tvpaint-animation]: http://web.archive.org/web/20230815125720/https://www.tvpaint.com/ "A 2D animation suite."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

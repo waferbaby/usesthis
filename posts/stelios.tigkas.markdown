@@ -30,7 +30,7 @@ I'd like to use only open-source hardware and software, without the need to auth
 [anki]: https://apps.ankiweb.net/ "A flash-card based learning tool."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [brave]: https://brave.com/ "A web browser."
-[burp]: https://portswigger.net/burp "Software for vulnerability scanning and traffic interception."
+[burp]: http://web.archive.org/web/20230806201203/https://portswigger.net/burp "Software for vulnerability scanning and traffic interception."
 [jaxx]: http://web.archive.org/web/20230219185523/https://jaxx.io/ "Blockchain wallet software."
 [moc]: http://moc.daper.net/ "A Linux command line audio player."
 [mpv]: https://mpv.io/ "A cross-platform media player."

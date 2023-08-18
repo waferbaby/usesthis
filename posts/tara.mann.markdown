@@ -42,7 +42,7 @@ Honestly, probably more minimal than what I have now. Just an iPad with the Appl
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
-[quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
+[quietcomfort-35]: http://web.archive.org/web/20220309113434/https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
 [smart-keyboard]: http://web.archive.org/web/20200310060157/https://www.apple.com/smart-keyboard/ "A keyboard and cover for the iPad Pro."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

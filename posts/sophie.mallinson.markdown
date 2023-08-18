@@ -39,7 +39,7 @@ I listen to podcasts via [Overcast][overcast-ios] every single day, and use [Tre
 Besides the cabin in the mountains, my dream setup involves a comfy chair and [an obnoxious custom-made desk like Danielle Steel's](https://www.vanityfair.com/style/2017/09/danielle-steels-desk-is-unlike-anything-youve-ever-see "A Vanity Fair article about Danielle Steel's desk.").
 
 [bitsy]: https://ledoux.itch.io/bitsy "A web-based game development tool."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [graphite-series-380t]: https://www.corsair.com/ca/en/Categories/Products/Cases/Graphite-Series™-380T-Yellow-Portable-Mini-ITX-Case/p/CC-9011065-WW "A mini PC case."
 [ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
 [iphone-xr]: https://en.wikipedia.org/wiki/IPhone_XR "A 6 inch smartphone."

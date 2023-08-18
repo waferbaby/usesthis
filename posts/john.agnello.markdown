@@ -48,10 +48,10 @@ For efx, I still use tape delays and plates for reverb. I love all the Eventide 
 My dream setup, which hopefully I'll have in my basement someday soon, is an [API 1608][1608] console. Small but effective. All the UAD plugins. All the Eventide plugins. Some Buerle A to D converters. It's kind of impossible practicality wise, but I'd love an Ampex ATR 1/2" tape machine for mixdown. But I'm not a tech so it doesn't really make sense. Would love one rack of hardware listed above and a foot massager.
 
 [1608]: https://apiaudio.com/product.php?id=130&p=146 "A recording console."
-[33609]: https://www.ams-neve.com/33609-2/ "An audio compressor."
+[33609]: http://web.archive.org/web/20190506112332/https://ams-neve.com/33609-2/ "An audio compressor."
 [big-muff-pi]: https://www.ehx.com/products/big-muff-pi/ "A guitar fuzzbox."
 [holy-grail]: https://www.ehx.com/products/holy-grail/ "A reverb pedal."
 [la-2a.2]: https://en.wikipedia.org/wiki/LA-2A_Leveling_Amplifier "An audio compressor."
 [pog]: https://www.ehx.com/products/pog/ "A polyphonic octave generator."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [sub-buzz]: https://www.uniontone.com/shop/union-tube-transistor-sub-buzz-bass-pedal "A fuzz pedal."

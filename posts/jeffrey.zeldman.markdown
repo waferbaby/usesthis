@@ -62,7 +62,7 @@ I want for nothing -- except someone to cook for besides my daughter. ;)
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mobile-me]: https://en.wikipedia.org/wiki/MobileMe "An online 'cloud' service (mail, calendar, etc)."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[pagespinner]: https://www.optima-system.com/pagespinner/ "An HTML editor for the Mac."
+[pagespinner]: http://web.archive.org/web/20181105151452/http://www.optima-system.com:80/pagespinner/ "An HTML editor for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [snapz-pro-x]: http://web.archive.org/web/20190718133514/https://www.ambrosiasw.com/utilities/snapzprox/ "A screenshot and screencast tool for Mac OS X."
 [superduper]: https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."

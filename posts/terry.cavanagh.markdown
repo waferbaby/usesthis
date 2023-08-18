@@ -40,7 +40,7 @@ Hardware wise, I think I pretty much have it. This laptop is awesome.
 Software wise, I feel like the programs I use to make graphics and music could all be much better. If I ever get the time, I'd really love to make my own programs from scratch and use those. I love that Jason Rohrer uses his own music tools, and Eskil Steenberg makes his own 3D tools. I think it's a big part of why their work is so distinctive.
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[dark-room]: https://jjafuller.com/dark-room/ "A full screen text editor for Windows."
+[dark-room]: http://web.archive.org/web/20201109075926/http://jjafuller.com/dark-room "A full screen text editor for Windows."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [fl-studio]: https://www.image-line.com/ "An audio editor for Windows."
 [flashdevelop]: https://www.flashdevelop.org/ "A free, open source ActionScript/Flex IDE."

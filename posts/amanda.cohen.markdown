@@ -29,7 +29,7 @@ I use [Gmail][] for email, [Webhook][] for the restaurant's website, [Shopify][]
 
 The biggest piece of hardware I use is my restaurant, and this one is so much bigger than the original Dirt Candy (60 seats as opposed to 18) that I can't imagine having anything better. I just wish I had more room for recipe testing, but prep is so intense it takes up every nook and cranny of my kitchen all day long. The main software I use is my staff, and that can be overwhelming, especially because at the original Dirt Candy I had six employees and now I have around 30. They're great, but taking care of them, keeping them motivated, training them, and supervising them is a huge job. It's worth it, but I would be lying if I didn't confess there were moments when [I just want to resort to monkeys](https://youtu.be/KeSQ5Rv7eH8 "A YouTube video about monkeys as waiters in a restaurant in Japan.").
 
-[color-laserjet-professional-cp5225n]: http://www.hp.com/us-en/shop/pdp/business-solutions/hp-color-laserjet-pro-cp5225n-printer-ce711a-bgj "A printer."
+[color-laserjet-professional-cp5225n]: http://web.archive.org/web/20230706202024/https://www.hp.com/us-en/shop/pdp/business-solutions/hp-color-laserjet-pro-cp5225n-printer-ce711a-bgj "A printer."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."

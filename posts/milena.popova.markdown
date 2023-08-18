@@ -44,7 +44,7 @@ One of the things I'd like to get into at some point is video, for which I'd pro
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [galaxy-s8]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S8 "A 5.8 inch Android smartphone."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[handshoe]: https://handshoemouse.store/ "An ergonomic mouse."
+[handshoe]: http://web.archive.org/web/20230721005448/https://www.handshoemouse.store/ "An ergonomic mouse."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [linux-mint]: https://www.linuxmint.com/ "A Linux distribution."

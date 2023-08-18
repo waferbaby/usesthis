@@ -58,7 +58,7 @@ A bigger screen and faster compilation is always the goal... so how about an iMa
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [ultraedit]: https://www.ultraedit.com/ "A popular text editor."
 [versions]: https://www.versionsapp.com/ "A Subversion client for the Mac."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [weatherpro-ios]: http://www.weatherpro.eu/iphone/weatherpro.html "A weather app for iOS."
 [whatsapp-ios]: https://apps.apple.com/app/whatsapp-messenger/id310633997 "A cross-platform chat client for iOS."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

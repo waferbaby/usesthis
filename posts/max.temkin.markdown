@@ -52,6 +52,8 @@ My favorite website is [Tumblr][]. I think the constraints of the platform make 
 
 Some days I think my dream setup would be a fully-upgraded [Mac Pro][mac-pro] that costs more than my car. I imagine myself riding it out of an airplane like Slim Pickens in Dr. Strangelove, 30" monitors flapping wildly behind me in the wind. But then I remember that my constraints come from within, and also I'll never be able to afford the airplane part anyway, so fuck it.
 
+[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+
 [960-grid-system]: https://960.gs/ "A design system for streamlining web design and prototyping."
 [battleheart-ios]: https://apps.apple.com/us/app/battleheart/id394057299 "An RPG/action hero game."
 [bit-pilot-ios]: http://bitpilotgame.com/ "A spaceship game."
@@ -64,7 +66,7 @@ Some days I think my dream setup would be a fully-upgraded [Mac Pro][mac-pro] th
 [colorbind-ios]: https://apps.apple.com/us/app/colorbind/id356126423 "A puzzle game."
 [downcast-ios]: http://www.downcastapp.com/ "An app for downloading podcasts."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[dungeon-raid-ios]: https://apps.apple.com/us/app/dungeon-raid/id403090531 "A strategy/RPG matching game."
+[dungeon-raid-ios]: http://web.archive.org/web/20201112030253/https://apps.apple.com/us/app/dungeon-raid/id403090531 "A strategy/RPG matching game."
 [electric-sheep]: https://electricsheep.org/ "An abstract collaborative screen saver."
 [eliss-ios]: https://apps.apple.com/us/app/eliss/id306950009 "A clever little game for the iPhone."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
@@ -88,16 +90,16 @@ Some days I think my dream setup would be a fully-upgraded [Mac Pro][mac-pro] th
 [listary-ios]: https://listaryapp.com/ "A list app that supports Simplenote."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
-[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+[mamp]: https://www.mamp.info/en/mamp/mac/ "A one-click Mac solution for Apache, MySQL, PHP."
 [mockups]: https://balsamiq.com/wireframes/ "Drawing-like mockup software."
 [neon]: http://web.archive.org/web/20170805010610/http://expomarkers.com:80/markers/neon "Neon markers."
 [notational-velocity]: https://notational.net/ "A clever note-taking app for the Mac."
 [osmos-ios]: https://apps.apple.com/us/app/osmos/id382991304 "A physics-based game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pivotal-tracker]: https://www.pivotaltracker.com/ "A project management service."
-[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
+[precise-v5]: http://web.archive.org/web/20230607220948/http://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI/ "A pen."
 [prompt-ios]: https://apps.apple.com/us/app/prompt/id421507115 "An SSH client for iOS."
-[puzzlejuice-ios]: https://apps.apple.com/us/app/puzzlejuice/id457273926 "A puzzlegame that will hurt your brain."
+[puzzlejuice-ios]: http://web.archive.org/web/20191020063454/https://apps.apple.com/us/app/puzzlejuice/id457273926 "A puzzlegame that will hurt your brain."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [super-crate-box-ios]: https://apps.apple.com/us/app/super-crate-box/id483025428 "A retro-inspired platformer."
 [sword-and-sworcery-ios]: http://www.swordandsworcery.com/ "A pixelated adventure game for iOS."

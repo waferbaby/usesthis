@@ -62,5 +62,5 @@ Clearly I wasn't the only one with that particular dream.
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
-[rugged-mini]: https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM/ "A small rugged portable hard drive."
+[rugged-mini]: http://web.archive.org/web/20190508143155/https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM "A small rugged portable hard drive."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

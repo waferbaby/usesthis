@@ -40,7 +40,7 @@ I have this fantasy in which I am a minimalist, but real life always proves othe
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [draft]: http://web.archive.org/web/20230308033335/https://draftin.com/ "A version-controlled distraction-free writing service."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

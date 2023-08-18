@@ -29,7 +29,7 @@ Honestly, my current setup is my dream setup, in that for a long time it didn't 
 If we're talking my dream, like no-limits pie-in-the-sky dream, my dream setup is one like Matt Groening's, where I don't have to draw ever again and there are hundreds of people in an office somewhere that do it for me, because art is the bane of my life. But failing that, I'll settle for slightly nicer brushes.
 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [files-ios]: https://en.wikipedia.org/wiki/Files_(Apple) "Apple's file organising app."
 [ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

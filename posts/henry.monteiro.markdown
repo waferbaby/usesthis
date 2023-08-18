@@ -41,4 +41,4 @@ I'm doing pretty good with what I have right now. Maybe some better equipment to
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."

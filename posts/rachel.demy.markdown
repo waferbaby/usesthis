@@ -38,7 +38,7 @@ Honestly, I couldn't want for anything else at the moment. I am not a huge gear 
 [m-monochrom]: https://leica-camera.com/ja-JP/30x/us/Photography/Leica-M/Leica-M-Monochrom "An 18 megapixel black and white digital camera."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mp]: https://en.wikipedia.org/wiki/Leica_MP "A 35mm film camera."
-[perfection-v600]: https://www.amazon.com/Epson-B11B198011-Perfection-Photo-Scanner/dp/B002OEBMRU "A photo scanner."
+[perfection-v600]: http://web.archive.org/web/20230407224546/http://www.amazon.com/Epson-B11B198011-Perfection-Photo-Scanner/dp/B002OEBMRU/ "A photo scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rf645]: https://camerapedia.fandom.com/wiki/Bronica_RF645 "A medium format film camera."
 [summicron-75mm-f2.4]: https://en.wikipedia.org/wiki/Summarit#List_of_Summarit_lenses "A cameral lens."

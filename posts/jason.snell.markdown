@@ -61,7 +61,7 @@ I recently bought a new desk, the [Uplift V2][v2], with a reclaimed wood desktop
 [race-3]: https://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=225&kind3=&kind4=1044 "A mechanical keyboard."
 [rx]: https://www.izotope.com/en/products/rx.html "Audio repair software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[sm7b]: https://www.shure.com:443/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[sm7b]: http://web.archive.org/web/20190411150954/http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [twitterrific]: https://twitterrific.com/beyond "A Twitter client for the Mac."
 [usbpre-2]: http://web.archive.org/web/20190331193725/http://www.sounddevices.com:80/products/portable-audio-tools/usbpre2 "A portable USB audio interface."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."

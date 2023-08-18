@@ -38,7 +38,7 @@ My dream set up would be fully compatible and integrated hardware and software t
 [g-2]: https://penbase.fandom.com/wiki/Pilot_G2 "A pen."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-maps-ios]: https://apps.apple.com/us/app/id585027354 "An app for the map service."
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."
 [guthook-guides-ios]: https://apps.apple.com/au/app/guthook-guides-hike-offline/id605447532 "A hiking guide app."

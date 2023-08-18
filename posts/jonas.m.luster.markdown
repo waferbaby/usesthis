@@ -49,7 +49,7 @@ The "Open Source Kitchen" is a dream of mine since forever. For this to happen w
 
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[chromebook]: https://www.google.com/intl/en/chromebook/ "A laptop built for only running Web apps."
+[chromebook]: http://web.archive.org/web/20120421052503/http://www.google.com:80/intl/en/chromebook/ "A laptop built for only running Web apps."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
 [edge-inspect]: https://creative.adobe.com/products/inspect "A cross-browser testing service"
 [edge]: http://web.archive.org/web/20160508235311/http://www.amazon.com/Chef-Pak-Fully-Loaded-9-Piece/dp/B003WAFJEM "A backpack for chefs."

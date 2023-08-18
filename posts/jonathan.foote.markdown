@@ -51,7 +51,7 @@ Probably something like dual Apple [Cinema Displays][cinema-display], or even 42
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
-[beagleboard]: https://beagleboard.org/ "An open development hardware board."
+[beagleboard]: http://web.archive.org/web/20230812104124/https://www.beagleboard.org/ "An open development hardware board."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [brainfuck]: https://en.wikipedia.org/wiki/Brainfuck "A minimalist programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."

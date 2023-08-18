@@ -43,7 +43,7 @@ Aside from the stuck pixel and the bits of plastic falling off my MacBook, I thi
 [dragthing]: https://dragthing.com/ "A popular dock application for the Mac."
 [dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
 [fieldrunners-ios]: https://apps.apple.com/us/app/fieldrunners/id292421271 "A very popular tower defense-style game for the iPhone."
-[filemaker-pro]: https://www.claris.com/filemaker/pro/ "A database application."
+[filemaker-pro]: http://web.archive.org/web/20230317135854/https://www.claris.com/filemaker/pro/ "A database application."
 [interarchy]: https://nolobe.com/interarchy/ "A FTP/SFTP client for the Mac."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."

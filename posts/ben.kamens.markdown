@@ -40,7 +40,7 @@ Silent room. Like, Silent silent. It'd be about 65°F with a tree and a babbling
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [gtmetrix]: https://gtmetrix.com/ "Online-based web performance analysis."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
-[kiln]: https://manuscript.com/features/version-control "A hosted Mercurial version control system."
+[kiln]: http://web.archive.org/web/20181116182914/https://manuscript.com/features/version-control "A hosted Mercurial version control system."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."

@@ -53,5 +53,5 @@ I wouldn't waste money on a crazy camera package for shooting video - no RED's o
 [quartz-composer]: https://en.wikipedia.org/wiki/Quartz_Composer "A visual programming environment."
 [toon-boom-studio]: https://www.toonboom.com/ "A 2D animation software package."
 [vdmx]: https://vidvox.net/ "Real-time video studio software for the Mac."
-[wii]: https://www.nintendo.com/wii/ "A unique gaming console."
+[wii]: http://web.archive.org/web/20140513065105/http://www.nintendo.com:80/wii "A unique gaming console."
 [zwoptex]: http://web.archive.org/web/20200919130507/https://zwopple.com/zwoptex/ "A 2D sprite-packing tool."

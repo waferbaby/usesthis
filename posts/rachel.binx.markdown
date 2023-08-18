@@ -32,7 +32,7 @@ My dream hardware setup would be a [30" Thunderbolt Monitor][thunderbolt-display
 
 My dream life setup, however, would be to relocate myself and my trusty MacBook to a tropical beach, and work on my projects out there. Because, hey, I can make websites anywhere!
 
-[advantage]: https://kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: http://web.archive.org/web/20170120131549/http://www.kinesis-ergo.com:80/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
@@ -46,7 +46,7 @@ My dream life setup, however, would be to relocate myself and my trusty MacBook 
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
-[le-pen]: https://uchida.com/p-63-le-pen.aspx "A pen."
+[le-pen]: http://web.archive.org/web/20170710043714/http://www.uchida.com:80/p-63-le-pen.aspx "A pen."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."

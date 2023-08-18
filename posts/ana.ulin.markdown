@@ -70,6 +70,6 @@ I also dream of a good solution to let me transfer my handwritten notes seamless
 [pixel]: https://store.google.com/product/pixel_phone?hl=ja "A 5 inch Android smartphone."
 [remarkable]: https://remarkable.com/ "An e-ink tablet."
 [rocket]: https://matthewpalmer.net/rocket/ "An emoji finder tool for the Mac."
-[ulysses]: https://www.ulyssesapp.com/ "A writing/text editor for the Mac."
+[ulysses]: http://web.archive.org/web/20180624003752/https://ulyssesapp.com/ "A writing/text editor for the Mac."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

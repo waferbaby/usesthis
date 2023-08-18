@@ -41,6 +41,6 @@ I would love to own a home with a finished basement, if only to have a place to 
 [intersteller-overdriver]: http://web.archive.org/web/20160408000426/http://www.killerrockandroll.com:80/deathbyaudio/interstellaroverdriver.html "An overdrive pedal."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [olympic]: http://web.archive.org/web/20170316084956/http://epiphonewiki.com/index.php/Olympic "An electric guitar."
-[precise-v5-rt]: https://www.amazon.com/Pilot-Precise-Retractable-Rolling-Extra/dp/B001E6A9M8/ "A retractable ball point pen."
+[precise-v5-rt]: http://web.archive.org/web/20190506100355/https://www.amazon.com/Pilot-Precise-Retractable-Rolling-Extra/dp/B001E6A9M8/ "A retractable ball point pen."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
-[shaker-vibrato]: https://www.tcelectronic.com/shaker-vibrato/ "A vibrato effect pedal."
+[shaker-vibrato]: http://web.archive.org/web/20180118074447/http://www.tcelectronic.com:80/shaker-vibrato/ "A vibrato effect pedal."

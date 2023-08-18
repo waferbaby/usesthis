@@ -36,7 +36,7 @@ Right now I work from home, which is great and not great in ways. I would love m
 [a6000]: https://en.wikipedia.org/wiki/Sony_%CE%B16000 "A 24.3 megapixel mirrorless camera."
 [afterlight-ios]: https://en.wikipedia.org/wiki/Afterlight "A photo editing app."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."

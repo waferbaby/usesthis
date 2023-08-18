@@ -53,10 +53,10 @@ I like moving around, zooming in and out, drawing on whiteboards, and making not
 I have an ambiguous relationship with cloud computing. I don't benefit much from cloud storage in personal data management, thanks to my one-computer setup with automatic backups. I'm also aware that cloud services can lose my data and leak it to third parties. But I could benefit from better collaboration enabled by cloud apps, so long as the workflows are thought out. Moreover, I'd love never having to install and update software on my computer again. My dream cloud solution might thus be a sort of reverse of the usual design: apps in the cloud, but with local data.
 
 [3in1-luggage-scooter]: https://www.micro-scooters.co.uk/luggage-scooters "A luggage scooter."
-[adblock]: https://getadblock.com/en/ "A browser extension for blocking ads."
+[adblock]: http://web.archive.org/web/20230813081746/https://getadblock.com/en/ "A browser extension for blocking ads."
 [ath-ckm50a]: https://www.audio-technica.com/world_map/cms/headphones/515b593287bd3c0f/ "In-ear headphones."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[crowdflower]: https://www.figure-eight.com/ "A data crowdsourcing service."
+[crowdflower]: http://web.archive.org/web/20200415213330/https://www.figure-eight.com/ "A data crowdsourcing service."
 [cvs]: http://www.nongnu.org/cvs/ "A version control system."
 [dedoose]: https://www.dedoose.com/ "A web-based qualitative research service."
 [dosbox]: http://www.dosbox.com/ "An x86/DOS emulator."
@@ -92,5 +92,5 @@ I have an ambiguous relationship with cloud computing. I don't benefit much from
 [website-blocker]: https://chrome.google.com/webstore/detail/website-blocker-beta/hclgegipaehbigmbhdpfapmjadbaldib?hl=en "A Chrome extension for preventing you from visiting selected sites."
 [whatsapp-ios]: https://apps.apple.com/app/whatsapp-messenger/id310633997 "A cross-platform chat client for iOS."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[writeroom]: https://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."
+[writeroom]: http://web.archive.org/web/20230717210502/https://www.hogbaysoftware.com/products/writeroom/ "Full-screen writing software."
 [zotero]: https://www.zotero.org/ "A research tool."

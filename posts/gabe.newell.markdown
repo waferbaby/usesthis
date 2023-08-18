@@ -31,5 +31,5 @@ The main thing is to have a process more than a single particular setup. I've tr
 [oa-f1]: https://www.anandtech.com/show/1750 "An aluminium desk."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

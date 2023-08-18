@@ -28,7 +28,7 @@ A light-filled, high-ceilinged, wood-and-glass writing studio, on a beach with a
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notational-velocity]: https://notational.net/ "A clever note-taking app for the Mac."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [sente]: http://web.archive.org/web/20221008200402/http://en.wikipedia.org/wiki/Sente_(software) "Reference management software for macOS and iOS."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

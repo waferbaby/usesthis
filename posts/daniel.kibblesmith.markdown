@@ -27,5 +27,5 @@ I think this is it, I'm good. But I did stay in a hotel over my honeymoon where 
 
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
-[scripto]: https://scripto.computer:443/ "A tool for collaboratively writing TV scripts."
+[precise-v5]: http://web.archive.org/web/20230607220948/http://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI/ "A pen."
+[scripto]: http://web.archive.org/web/20190725231337/https://scripto.computer/ "A tool for collaboratively writing TV scripts."

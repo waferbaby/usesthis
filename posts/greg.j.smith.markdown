@@ -39,7 +39,7 @@ However, so as to not be a spoil sport, here is some related speculation: the on
 
 [agenda-ios]: http://web.archive.org/web/20171115202706/https://savvyapps.com/agenda "A calendar app."
 [basecamp]: https://basecamp.com/ "Web-based project management."
-[clear]: https://www.realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
+[clear]: http://web.archive.org/web/20230318023909/http://realmacsoftware.com/clear/ "A to do list app for the Mac and iOS."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [devonthink]: https://www.devontechnologies.com/apps/devonthink/ "Software for storing all your documents, scans etc."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

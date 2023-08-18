@@ -41,7 +41,7 @@ I don't necessarily need more space - just better utilization of it; something t
 
 That being said, a better break room -- or a break room in general -- wouldn't hurt!
 
-[123d-design]: http://www.123dapp.com/login.request.do?service=/design "3D creation software."
+[123d-design]: http://web.archive.org/web/20230530023750/http://www.123dapp.com/login.request.do?service=/design "3D creation software."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [cube]: https://www.3dsystems.com/3d-printers/plastic "A 3D printer."
 [eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."

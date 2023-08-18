@@ -44,7 +44,7 @@ It sounds strange, but I think that I'm working with the best setup I can imagin
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[quadra-hybrid]: https://www.amazon.com/Elinchrom-Ranger-Quadra-Hybrid-10405-1/dp/B00B10CS30 "A set of camera lights."
+[quadra-hybrid]: http://web.archive.org/web/20150104165215/http://www.amazon.com:80/Elinchrom-Ranger-Quadra-Hybrid-10405-1/dp/B00B10CS30 "A set of camera lights."
 [rz67]: https://en.wikipedia.org/wiki/RZ67 "A medium format analog camera."
 [super-coolscan-9000-ed]: https://www.nikonusa.com/en/nikon-products/product/film-scanners/super-coolscan-9000-ed.html "A multi-format film scanner."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

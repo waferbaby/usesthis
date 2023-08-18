@@ -47,6 +47,6 @@ For my stereo, my dream set-up would be a nice NAD integrated amp, a good D/A co
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[porta-pro]: https://koss.com/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone "On-ear headphones."
+[porta-pro]: http://web.archive.org/web/20151022133436/http://www.koss.com:80/en/products/headphones/on-ear-headphones/PortaPro__Porta_Pro_On_Ear_Headphone "On-ear headphones."
 [sl-1200]: https://en.wikipedia.org/wiki/Technics_SL-1200 "A turntable."
 [wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."

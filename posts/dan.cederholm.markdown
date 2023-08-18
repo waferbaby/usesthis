@@ -45,7 +45,7 @@ Also, maybe the dream setup is simply an iPhone that's powerful enough to run ev
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [d90]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/D90.html "A 12.3 megapixel digital SLR camera."
-[dribbble]: https://dribbble.com/ "A web community for sharing screenshots of your work."
+[dribbble]: http://web.archive.org/web/20230711125129/https://dribbble.com/ "A web community for sharing screenshots of your work."
 [ego-ios]: https://www.ego-app.com/ "An iPhone application for checking web statistics."
 [gitx]: https://gitx.frim.nl/ "A git GUI for Mac OS X."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."

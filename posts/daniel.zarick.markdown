@@ -44,7 +44,7 @@ But here I am, so I guess a new lightweight MacBook Pro with an amazing battery.
 [messages]: https://en.wikipedia.org/wiki/Messages_(application) "A chat client for Mac."
 [miro-video-converter]: http://web.archive.org/web/20170119135906/http://ftp.osuosl.org:80/pub/pculture.org/mirovideoconverter/ "Open-source video conversion software."
 [mp01]: https://www.punkt.ch/en/products/mp01-mobile-phone/ "A mobile phone just for calls and texting."
-[q.2]: https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
+[q.2]: http://web.archive.org/web/20190508144504/https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [shortwave.2]: https://www.shortwave.xyz/ "A collaborative music platform for live events."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."

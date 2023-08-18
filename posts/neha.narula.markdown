@@ -52,7 +52,7 @@ I wish that apps worked better together on my iPad. I like the Android way that 
 
 I also want a non-crippled home media system that is clean, simple, and beautiful. The idea that hardware providers have to make deals with services that I order and pay for is ridiculous (it's even worse when they try to charge me for the pleasure; [Xbox Live][xbox-live] I'm looking at you). If I have a [Netflix][] account, it should just work on everything.
 
-[advantage]: https://kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[advantage]: http://web.archive.org/web/20170120131549/http://www.kinesis-ergo.com:80/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
 [aspire-revo]: https://en.wikipedia.org/wiki/Acer_Aspire_Revo "A 'nettop' PC."
 [blobstore]: https://cloud.google.com/appengine/docs/legacy/standard/java/blobstore "An API for uploading and controlling large objects to Google App Engine."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
@@ -81,7 +81,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."
 [mysql]: https://www.mysql.com/ "A relational database server."
-[native-client]: https://developer.chrome.com/docs/native-client "A developer tool for running native OS code in a browser."
+[native-client]: http://web.archive.org/web/20230815184742/https://developer.chrome.com/docs/native-client/ "A developer tool for running native OS code in a browser."
 [netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
 [nexus-s]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
 [numpy]: https://numpy.org/ "A Python package for scientific computing."

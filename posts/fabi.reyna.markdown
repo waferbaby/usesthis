@@ -42,6 +42,6 @@ I'd really just like to figure out a setup where I can easily control the instru
 
 [hot-rod-deluxe]: https://en.wikipedia.org/wiki/Fender_Hot_Rod_Deluxe "A guitar amp."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
-[organizer]: https://www.earthquakerdevices.com/shop/organizer/ "An organ effects pedal."
+[organizer]: http://web.archive.org/web/20160908204908/http://earthquakerdevices.com:80/shop/organizer "An organ effects pedal."
 [rc-300]: https://www.boss.info/us/products/rc-300/ "A musical loop station."
 [st-vincent]: https://www.music-man.com/instruments/guitars/st-vincent "An electric guitar."

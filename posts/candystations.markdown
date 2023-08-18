@@ -37,9 +37,9 @@ To make the 'stable', pre-edited compositions, I use [Adobe After Effects][after
 I'd like to know more about more practical effects and construction. A big space that could house lights, mirrors, oils, projectors, smoke machines, LEDs --- the ability to experiment with physical materials just as much as the digital.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[ai]: https://www.avolites.com/ai-features "A media server."
+[ai]: http://web.archive.org/web/20210122085906/https://www.avolites.com/ai-features "A media server."
 [aud-rca-xlr]: https://www.markertek.com/product/ses-aud-rca-xlr/sescom-aud-rca-xlr-1-channel-rca-to-xlr-unbalanced-to-balanced-audio-converter "An audio converter device."
-[catalyst-media-server]: https://www.tdc.com.au/media-servers/catalyst-v4 "A media server."
+[catalyst-media-server]: http://web.archive.org/web/20200419015623/http://www.tdc.com.au//media-servers/catalyst-v4 "A media server."
 [director]: https://en.wikipedia.org/wiki/Adobe_Director "Multimedia authoring software."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

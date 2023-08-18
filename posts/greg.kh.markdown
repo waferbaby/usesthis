@@ -53,7 +53,7 @@ On a portability front, if my Nexus 7 had 4g connectivity, I'd drop my cell phon
 [i3]: https://i3wm.org/ "An X window manager."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[msmtp]: https://msmtp.sourceforge.net/ "An SMTP client."
+[msmtp]: http://web.archive.org/web/20180526185518/http://msmtp.sourceforge.net:80/ "An SMTP client."
 [mutt]: http://www.mutt.org/ "A command-line email client."
 [nexus-7]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android tablet."
 [offlineimap]: https://www.offlineimap.org/ "A tool for syncing mail from an IMAP server."

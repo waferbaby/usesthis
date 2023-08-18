@@ -32,7 +32,7 @@ My ideal set-up is more or less what I have now, because I'm very lucky to be ab
 [duolingo-ios]: https://apps.apple.com/app/duolingo-learn-spanish-french/id570060128 "An app for learning languages."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [filmstruck]: https://www.tcm.com/ "A streaming service for classic and cult movies."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [frame.io]: https://frame.io/ "A hosted collaboration service for video editors."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."

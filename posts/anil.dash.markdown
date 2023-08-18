@@ -54,7 +54,7 @@ I do wish I had easier access to a Windows partition around; I like staying curr
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mlkshk]: http://www.mlkshk.com/ "A service for saving and sharing images."
+[mlkshk]: http://web.archive.org/web/20230713215602/http://www.mlkshk.com/ "A service for saving and sharing images."
 [movable-type]: https://movabletype.org/ "Weblog publishing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."

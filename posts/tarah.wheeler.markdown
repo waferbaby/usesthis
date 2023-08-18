@@ -36,8 +36,8 @@ I wish I could change languages on all my setups seamlessly. I speak French and 
 I have an extra ancient [Android][] tablet around here somewhere and I want to make it up into a kitchen tablet that just does a couple of things, like pull up recipes on AllRecipes or GoodEats, shows a freezer inventory, and maybe plays podcasts or can handle multiple alarms for cooking timing and so forth. Maybe I could use some temperature sensors to also turn it into an IoT monitor for my fridge and freezer remotely and maybe to run a sous-vide app. I'm at home like everyone else, so I'm going through bins of old hardware and PCBs and making Frankenboards to see what happens.
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[awus036nh]: https://www.alfa.com.tw/collections/kali_linux_compatible "A wifi network adapter."
-[g1000]: https://www.garmin.com/en-US/p/6420 "A flight deck."
+[awus036nh]: http://web.archive.org/web/20210621062355/https://www.alfa.com.tw/collections/kali_linux_compatible "A wifi network adapter."
+[g1000]: http://web.archive.org/web/20230706213844/https://www.garmin.com/en-US/p/6420 "A flight deck."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."

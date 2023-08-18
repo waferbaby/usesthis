@@ -38,5 +38,5 @@ Oh, and I make podcasts in my closet (as ya do) so if I could have like... a she
 [iphone-12-mini]: https://en.wikipedia.org/wiki/IPhone_12 "A 5.42 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[sm58]: https://www.shure.com:443/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[sm58]: http://web.archive.org/web/20190411150950/https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
 [vintage-baritone]: http://web.archive.org/web/20210106063550/https://www.sweetwater.com/store/detail/VBTDA--danelectro-vintage-baritone-dark-aqua "An electric guitar."

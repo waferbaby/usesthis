@@ -39,7 +39,7 @@ My dream setup is an idyllic, remote cabin in a forest with a gentle creek that 
 [5203]: https://www.adafruit.com/product/147 "A wire cutter/stripper."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."

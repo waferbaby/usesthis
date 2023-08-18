@@ -31,7 +31,7 @@ Figma is great for wireframes, prototyping, and visual design but not made for o
 Honestly, my current setups are pretty great! A higher cost doesn't always translate into clear returns, but I'm sure there are minor productivity gains from the more expensive work setup. For example, one giant monitor requires less window management effort. That being said, I don't notice a major difference between my work and home configurations. I suppose in an ideal world, I'd have a newer version of my home laptop and a Bluetooth ergonomic mouse.
 
 [asana]: https://asana.com/ "A project management service."
-[ath-ws990bt]: http://www.audio-technica.com/en-us/ath-ws990bt "Wireless over-the-ear headphones."
+[ath-ws990bt]: http://web.archive.org/web/20221203225736/https://www.audio-technica.com/en-us/ath-ws990bt "Wireless over-the-ear headphones."
 [breakup-squad]: https://brooklyn-gamery.itch.io/breakup-squad "A game about running into your ex at a party."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [ergonomic-wireless-vertical-mouse]: http://web.archive.org/web/20210306115801/https://www.anker.com/products/variant/Ergonomic-Wireless-Vertical-Mouse/A7809012 "An ergonomic wireless vertical mouse."
@@ -40,7 +40,7 @@ Honestly, my current setups are pretty great! A higher cost doesn't always trans
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [github]: https://github.com/ "A Git code repository service."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

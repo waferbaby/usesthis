@@ -60,7 +60,7 @@ I probably need a better chair and desk, since the ones I used were just picked 
 [renjs]: https://renjs.net/ "A framework for building visual novels."
 [shotcut]: https://en.wikipedia.org/wiki/Shotcut "Video editing software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[snowball]: https://bluemic.com/snowball/ "A USB microphone."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
 [strike]: https://amorphous.itch.io/strike "A 1-bit drawing tool."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."

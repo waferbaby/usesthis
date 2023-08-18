@@ -66,4 +66,4 @@ Oh, and in this dream, my laptop would have a functioning USB drive.
 [mstand]: https://www.raindesigninc.com/mstand.html "A laptop stand."
 [node.js]: https://nodejs.org/en "A Javascript application platform."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[woebot]: https://woebothealth.com// "A mental health support bot."
+[woebot]: http://web.archive.org/web/20230804133717/https://woebothealth.com/ "A mental health support bot."

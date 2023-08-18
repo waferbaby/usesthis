@@ -62,7 +62,7 @@ Wigwam Ice Sock - Warm feet. Always.
 
 Most of my expeditions are long suffer-fests where gear and comfort are at a minimum, so my dream is always to have a comfortable base camp set up. The MSR Hubba tent with Therm-A-Rest treo chairs, a table... in some remote area of the Himalayas, Baffin Island or Svalabard. Each day we'd take off on another adventure - skis, snowshoes, fat bike, climbing gear and A LOT of camera gear!
 
-[farley-9.8]: https://www.trekbikes.com/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/farley/farley-9-8/p/1066000-2016/ "A mountain bike."
+[farley-9.8]: http://web.archive.org/web/20161013123656/http://www.trekbikes.com:80/us/en_US/bikes/mountain-bikes/trail-mountain-bikes/farley/farley-9-8/p/1066000-2016/ "A mountain bike."
 [fdr-x1000v]: https://electronics.sony.com/imaging/camcorders/c/all-camcorders "A 4K video camera."
 [glittertind]: https://madshus.com:443/nordic-skis/glittertind-ski "A pair of skis."
 [inreach-explorer]: http://web.archive.org/web/20210321002926/http://www.inreachdelorme.com/product-info/inreach-explorer.php "A GPS and SOS device."
@@ -71,5 +71,5 @@ Most of my expeditions are long suffer-fests where gear and comfort are at a min
 [lightning-ascent]: https://www.cascadedesigns.com/on/demandware.store/Sites-cdi-us-Site/default/msr "A pair of nowshoes."
 [lutsen-55]: https://www.granitegear.com/ "A backpack."
 [promaster-altichron]: https://www.citizenwatch.com/us/en/ "A light-powered watch with an altimeter and electronic compass."
-[stormproof-matches]: https://www.ucogear.com/stormproof-matches.html "Matches that work in any weather."
-[xgk-ex]: https://www.cascadedesigns.com/msr/stoves/rapid-cooking/xgk-ex/product "A multi-fuel portable stove."
+[stormproof-matches]: http://web.archive.org/web/20170508151710/http://ucogear.com:80/stormproof-matches.html "Matches that work in any weather."
+[xgk-ex]: http://web.archive.org/web/20170107142128/http://www.cascadedesigns.com/msr/stoves/rapid-cooking/xgk-ex/product "A multi-fuel portable stove."

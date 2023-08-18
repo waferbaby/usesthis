@@ -58,7 +58,7 @@ Unfortunately this would set us back around $15k, so I'll just keep dreaming for
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [github]: https://github.com/ "A Git code repository service."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

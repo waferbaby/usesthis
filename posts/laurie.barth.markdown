@@ -30,13 +30,13 @@ I'm also currently using [IntelliJ][intellij-idea] for situations where I'm work
 To be honest, I feel like I'm pretty close to my dream setup! I'm debating another monitor but I'd rather focus on ergonomics, so probably looking at a different keyboard/mouse in that respect.
 
 [alt]: https://drop.com/buy/drop-alt-mechanical-keyboard "A mechanical keyboard."
-[beta-87a]: https://www.shure.com:443/americas/products/microphones/beta/beta-87a-vocal-microphone "A condenser microphone."
+[beta-87a]: http://web.archive.org/web/20190414174748/http://www.shure.com:80/americas/products/microphones/beta/beta-87A-vocal-microphone "A condenser microphone."
 [clockwise]: https://actproductions.net/clockwise/ "An alerts and triggers status bar application for macOS."
 [ergochair-pro]: https://www.autonomous.ai/office-chairs/ergonomic-chair "An ergonomic desk chair."
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."
 [intellij-idea]: https://www.jetbrains.com/idea/ "A developer's IDE."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
-[jarvis-bamboo]: https://fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
+[jarvis-bamboo]: http://web.archive.org/web/20230420184717/https://www.fully.com/standing-desks/jarvis/jarvis-adjustable-height-desk-bamboo.html "A standing desk."
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [key-light]: https://www.elgato.com/us/en/p/key-light "A light."

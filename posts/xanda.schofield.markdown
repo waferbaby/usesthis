@@ -68,7 +68,7 @@ Honestly, I'm pretty happy with the setup I have: Windows tablet for travel/lect
 [sharelatex]: https://www.sharelatex.com/ "A web-based collaborative LaTeX editor."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
-[surface-book]: https://www.microsoft.com/en-us/p/surface-book-2/8mcpzjjcc98c "A 13.5 inch laptop/tablet device."
+[surface-book]: http://web.archive.org/web/20210329040026/https://www.microsoft.com/en-us/p/surface-book-2/8mcpzjjcc98c "A 13.5 inch laptop/tablet device."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

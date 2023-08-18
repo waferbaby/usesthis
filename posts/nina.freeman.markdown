@@ -35,7 +35,7 @@ Outside of Flash and Unity, I have dabbled in [Twine][] and [Ruby][]/[Rails][].
 My dream set up would be a new [MacBook Pro][macbook-pro] and a new custom built PC. It's always been pretty important for me to develop and test simultaneously on both platforms, so being up to date with the hardware is important. I also think, perhaps even more important than the hardware, is the desk and chair. I don't have a very comfortable place to sit and work at home, and I find myself getting sore a lot. Whereas, at the Fullbright office, my setup is very comfortable. As someone who makes games all day every day, having a comfortable place to do it is really important. So, some kind of comfy desk and chair situation with new Mac and PC hardware would be my dream setup.
 
 [actionscript]: https://en.wikipedia.org/wiki/ActionScript "An object-oriented programming language."
-[air.2]: https://blog.adobe.com/en/publish/2019/05/30/the-future-of-adobe-air.html "A development runtime."
+[air.2]: http://web.archive.org/web/20211107024949/https://blog.adobe.com/en/publish/2019/05/30/the-future-of-adobe-air.html "A development runtime."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [cibele]: http://ninasays.so/cibele/ "A video game about love, sex and the Internet."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."

@@ -63,5 +63,5 @@ I'm pretty happy with this setup, but I always wish I had more time for drawing 
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [tangram-es]: https://github.com/tangrams/tangram-es "A C++ library for rendering maps with OpenGL ES."
-[tangram-play]: https://www.mapzen.com/tangram/play/ "A YAML editor for Tangram's map data."
+[tangram-play]: http://web.archive.org/web/20180102202840/https://mapzen.com/tangram/play/ "A YAML editor for Tangram's map data."
 [tangram]: https://github.com/tangrams/tangram "A JavaScript library for rendering maps with WebGL."

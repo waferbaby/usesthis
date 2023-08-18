@@ -61,9 +61,9 @@ My dream setup is pretty much where I am at... large enough property you don't h
 Dream setup? True food abundance 12 months a year; to decouple myself from the industrial system as much as possible and focus on feeding people in the community. Imagine 11 acres of food producing system engineered with as many passive systems integrated as possible; to work with the natural systems at hand to exist with as low of a footprint as possible. Net zero waste for the food supply company, for our home, our community. To never buy another crappy vegetable wrapped in plastic from someplace else. Decouple. Opt out. Off grid. Beyond organic, permaculture, biodynamic. To slowly walk the food forests as an old man and have the next generation feed me the fruits when I can no longer climb the fig tree. There are moments in my life that begin to approach this future; moments of complete zen flow state immersed in the natural environment deep in the deafening silence only wilderness can provide, Jedi forest ninja moments of mossy introspection, where I see the forest through the trees. Profound primal experiences that touch something deep in the genome, from a time before we all became slaves to the machine and forgot about the basics like clean air, water and food from the land.
 
 [avenza-maps-ios]: https://apps.apple.com/au/app/avenza-maps/id388424049<Paste> "An offline maps app."
-[bigboy]: https://www.silkysaws.com/search.php?search_query=bigboy "A folding hand saw."
+[bigboy]: http://web.archive.org/web/20230706193752/https://silkysaws.com/search.php?search_query=bigboy "A folding hand saw."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[felco-9]: https://felco.com/us_en/felco-9.html "Pruning shears."
+[felco-9]: http://web.archive.org/web/20210413041543/https://www.felco.com/us_en/felco-9.html "Pruning shears."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

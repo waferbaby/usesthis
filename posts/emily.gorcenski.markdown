@@ -41,4 +41,4 @@ But the one thing I really need in my dream setup? Enough space for the cats to 
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [windows-subsystem-for-linux]: https://learn.microsoft.com/windows/wsl/about "A Linux environment for Windows."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."

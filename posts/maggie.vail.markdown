@@ -36,7 +36,7 @@ Computer-wise I'd like a HUGE monitor and a shit-ton of memory. I want this to m
 I almost have my dream set up music equipment wise. I'd like to not share a hi-hat stand with my bandmate Kathy so I have it set up at all times. I need a better crash cymbal but I haven't found it yet. Other than that I have the drums I've always wanted. My guitar is a fucking dream. I miss my old Sunn bass amp, it's a solid state [Coliseum 300][coliseum-300] that seems to have a ghost in it. I've tried to have it repaired but the problem remains. I used to have to hit it in my old band, sort of like Fonzie, to get it to stop rumbling.
 
 [370]: http://web.archive.org/web/20160829111144/https://www.amazon.com/Acoustic-370-Bass-Amplifier-Cabinet/dp/B00DH05L54 "A guitar amp."
-[blues-custom-30]: https://www.epiphone.com/News-Features/News/2006/The-Blues-Custom-30--Great-Tone-Killer-Looks-And-S.aspx "A guitar amp."
+[blues-custom-30]: http://web.archive.org/web/20220814152635/https://www.epiphone.com/News-Features/News/2006/The-Blues-Custom-30--Great-Tone-Killer-Looks-And-S.aspx "A guitar amp."
 [cash-music]: https://cashmusic.org/ "An open source platform for musicians."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [coliseum-300]: http://johnkvintageguitars.homestead.com/SunnColiseum.html "A bass amp."

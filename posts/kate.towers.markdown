@@ -33,9 +33,9 @@ Also, my fabrics: mostly natural fiber blends, cotton, silk, linen, denim, rayon
 
 I'd love to have my own showroom, or perhaps a shared showroom and studio combo, something off the beaten path but centrally located with an abundance of natural light and industrial features, a great wall for photo shoots, a corner for messy art projects and a sink for hand dying fabrics, in-house production set up and a personal assistant :)
 
-[ddl-8300n]: https://www.sewman.com/product.php?id=5 "A lockstitch sewing machine."
+[ddl-8300n]: http://web.archive.org/web/20170314001216/http://www.sewman.com/product.php?id=5 "A lockstitch sewing machine."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[imagine]: http://babylock.com/machines/serger/imagine/ "An overlock stitch sewing machine."
+[imagine]: http://web.archive.org/web/20230706220307/https://babylock.com/machines/serger/imagine "An overlock stitch sewing machine."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

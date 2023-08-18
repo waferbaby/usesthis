@@ -25,7 +25,7 @@ I write everything on [Google Docs][google-docs] and I use [Chrome][] to sync my
 I've been a digital nomad, I guess you'd call it, for a while now. And I love the flexibility and the fact that I can move around easily, but I have begun to fantasize about a real studio space with more and more frequency. I sort of hate having to dig stuff out of a bag when I need to do something. So I think it might be time to really invest into a space to just make stuff, but I keep putting it off. I watch a lot of YouTube videos and really just kind of stare at the different spaces people are vlogging from. But I also know that if I did set up some kind of studio, I'd probably just get itchy to go leave and do something else. It's a real catch-22!
 
 [a6400]: https://electronics.sony.com/imaging/interchangeable-lens-cameras/aps-c/p/ilce6400-b "A 24.2 megapixel mirrorless camera."
-[ath-m50x]: http://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
 [beatmaker-ios]: http://web.archive.org/web/20170626054043/http://intua.net:80/products/beatmaker2/ "An audio workstation app."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [discord]: https://discord.com/ "A voice and text chat service."
@@ -34,8 +34,8 @@ I've been a digital nomad, I guess you'd call it, for a while now. And I love th
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-12-pro]: https://en.wikipedia.org/wiki/IPhone_12_Pro "A 6.06 inch iOS smartphone."
-[launch-control-xl]: https://novationmusic.com/en/launch/launch-control-xl "A hardware controller for Ableton Live."
-[launchpad-pro]: https://novationmusic.com/en/launch/launchpad-pro "A MIDI controller for Ableton Live."
+[launch-control-xl]: http://web.archive.org/web/20230531164444/https://novationmusic.com/en/launch/launch-control-xl "A hardware controller for Ableton Live."
+[launchpad-pro]: http://web.archive.org/web/20230406232519/https://novationmusic.com/en/launch/launchpad-pro "A MIDI controller for Ableton Live."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mother-lode]: https://www.ebags.com/block.html?url=L2JhY2twYWNrcy1iYWdzL3RyYXZlbC1iYWNrcGFja3MvbW90aGVyLWxvZGUtdHJhdmVsLWJhY2twYWNrLzExNzc1NFhYWFguaHRtbD8=&uuid=c7488e04-fad4-11ed-937e-645163457248&vid= "A travel backpack."
@@ -45,6 +45,6 @@ I've been a digital nomad, I guess you'd call it, for a while now. And I love th
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
 [reddit]: https://www.reddit.com/?rdt=46296 "A messageboard service."
 [rover-pack]: https://topodesigns.com/products/rover-pack/ "A backpack."
-[scarlett-solo]: https://focusrite.com/en/audio-interface/scarlett/scarlett-solo "A USB audio interface."
-[sm7b]: https://www.shure.com:443/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[scarlett-solo]: http://web.archive.org/web/20230703171239/https://focusrite.com/en/audio-interface/scarlett/scarlett-solo "A USB audio interface."
+[sm7b]: http://web.archive.org/web/20190411150954/http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

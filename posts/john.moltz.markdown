@@ -38,5 +38,5 @@ I wouldn't use any other machine than the 11-inch Air, so maybe just a faster on
 [macintosh-plus]: https://en.wikipedia.org/wiki/Macintosh_Plus "The third Macintosh computer."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[ulysses]: https://www.ulyssesapp.com/ "A writing/text editor for the Mac."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[ulysses]: http://web.archive.org/web/20180624003752/https://ulyssesapp.com/ "A writing/text editor for the Mac."

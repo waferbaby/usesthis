@@ -45,6 +45,6 @@ My wife and I are patching up an office in the attic, and as soon as it's done, 
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [pagemaker]: https://www.adobe.com/products/indesign.html "Desktop publishing software."
-[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[precise-v5]: http://web.archive.org/web/20230607220948/http://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI/ "A pen."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

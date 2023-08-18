@@ -38,7 +38,7 @@ I'm pretty sure I have it already. I do wish there were more options for ergonom
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
-[perfect-chair]: https://www.humantouch.com/perfect-chairs "A zero-gravity recliner."
+[perfect-chair]: http://web.archive.org/web/20230706211602/https://www.humantouch.com/perfect-chairs/ "A zero-gravity recliner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixelmator]: http://web.archive.org/web/20230419034642/https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [reeder-ios]: https://reederapp.com "A Google Reader client for iOS."

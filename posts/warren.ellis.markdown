@@ -75,7 +75,7 @@ And then, see, I want that app to live on an eighty-inch wall-mounted screen. In
 [eee-pc-701]: https://en.wikipedia.org/wiki/Asus_Eee_PC "A 7 inch netbook."
 [evernote-ios]: https://apps.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [feedly]: https://feedly.com/ "A feed reader."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [guardian-ios]: https://apps.apple.com/gb/app/the-guardian/id409128287 "A news app."

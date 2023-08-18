@@ -40,7 +40,7 @@ Honestly the setup I have is already more powerful than I need to make Twine gam
 [inspiron-3552]: http://web.archive.org/web/20190506063340/https://www.cnet.com/products/dell-inspiron-3552-15-6-pentium-n3700-4-gb-ram-500-gb-hdd-english/ "A 15 inch PC laptop."
 [lastpass]: https://www.lastpass.com/ "A password manager."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [seedship]: https://www.johnayliff.com/games/seedship/ "A game about settling the survivors of humanity."
 [sugarcube]: https://www.motoslave.net/sugarcube/2/ "A story mode for Twine."
 [sync]: https://www.sync.com/ "Online syncing and storage."

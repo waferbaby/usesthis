@@ -64,7 +64,7 @@ I'd like all of us to have time to farm and land to farm on.
 [ourgoods]: https://ourgoods.org/ "A creative barter network service."
 [riseup]: https://help.riseup.net/ "A collection of online communcation services."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."
-[thunderbird]: https://www.thunderbird.net/ "An open-source cross-platform mail client."
+[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."
 [trello]: https://trello.com/ "A project management service."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

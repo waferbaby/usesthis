@@ -40,7 +40,7 @@ More robots! An [Iron Man 2-like setup](http://motionographer.com/features/prolo
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."
 [lebistro-pet-feeder]: http://web.archive.org/web/20210309122346/http://www.amazon.com/Petmate-LeBistro-Portion-Control-Automatic-Feeder/dp/B000BVWVUA "A device for automatically feeding your pet."
-[littlesnapper]: https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
+[littlesnapper]: http://web.archive.org/web/20230529193441/https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mifi]: https://en.wikipedia.org/wiki/MiFi "A portable mobile hotspot."
 [nabaztag]: https://en.wikipedia.org/wiki/Nabaztag "A rabbit-shaped WiFi-enabled 'smart device'."

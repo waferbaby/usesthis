@@ -60,11 +60,11 @@ I'd also like for my next-door neighbors to trim their trees so that I could see
 
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[filemaker-pro]: https://www.claris.com/filemaker/pro/ "A database application."
+[filemaker-pro]: http://web.archive.org/web/20230317135854/https://www.claris.com/filemaker/pro/ "A database application."
 [freehand]: https://en.wikipedia.org/wiki/Macromedia_FreeHand "Vector illustration software."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[my-passport-ultra]: https://www.wd.com/en/products/products.aspx?id=1000 "A portable external hard drive."
+[my-passport-ultra]: http://web.archive.org/web/20140304074723/http://www.wd.com:80/en/products/products.aspx?id=1000 "A portable external hard drive."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -42,13 +42,13 @@ For non-mobile development I usually write things in [Ruby][].
 
 I'm pretty close to it with the newer MacBook Air's battery life, light weight, low heat, and silent fans. I suppose a higher-density screen would be nice, but I don't dream about it.
 
-[4r]: https://www.westoneaudio.com/index.php/products/w-series/w-series-product-archive/westone-4r.html "In-ear headphones."
+[4r]: http://web.archive.org/web/20160306092246/http://www.westoneaudio.com:80/index.php/products/w-series/w-series-product-archive/westone-4r.html "In-ear headphones."
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [certificate-patrol]: http://web.archive.org/web/20181103001828/https://addons.mozilla.org/en-US/firefox/addon/certificate-patrol/ "A Firefox extension for revealing changes to a site's certifications."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[geekdesk]: https://www.geekdesk.com/ "An electronic, height-adjustable desk."
+[geekdesk]: http://web.archive.org/web/20230601102958/https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."
 [ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
@@ -68,7 +68,7 @@ I'm pretty close to it with the newer MacBook Air's battery life, light weight, 
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [sbd]: https://github.com/cespare/vim-sbd/ "A smart buffer plugin for Vim."
 [self-destructing-cookies]: http://web.archive.org/web/20181125071651/https://addons.mozilla.org/en-US/firefox/addon/self-destructing-cookies/ "A Firefox extension for nuking cookies when you close a site's tab."
-[sidecar]: https://www.venostech.com/products/sidecar "An attachment for hooking a mobile device onto the side of a laptop screen."
+[sidecar]: http://web.archive.org/web/20161220174038/http://www.venostech.com:80/products/sidecar "An attachment for hooking a mobile device onto the side of a laptop screen."
 [soundpoint-ip-500]: http://web.archive.org/web/20171203071921/http://www.support.polycom.com:80/PolycomService/support/us/support/voice/soundpoint_ip/soundpoint_ip500.html "A VoIP desk phone."
 [tamper-data]: http://web.archive.org/web/20181103000207/https://addons.mozilla.org/en-US/firefox/addon/tamper-data/ "A Firefox extension for viewing and changing HTTP/HTTPS requests."
 [the-nerd-tree]: https://github.com/preservim/nerdtree "A vim plugin for browsing files and directories."

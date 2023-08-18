@@ -88,7 +88,7 @@ Other than that, I think I'm really happy with these things.
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [pro-tools-m-powered]: https://www.avid.com/en/products/Pro-Tools-M-Powered "A version of Pro Tools LE designed to work with M-Audio products."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[sm7b]: https://www.shure.com:443/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[sm7b]: http://web.archive.org/web/20190411150954/http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [sound-studio]: https://en.wikipedia.org/wiki/Sound_Studio "A sound editor for the Mac."
 [superduper]: https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

@@ -71,7 +71,7 @@ Other than that, I have my dream setup right now. I have a tiny keyboard on my p
 [netdraw]: http://www.analytictech.com/Netdraw/netdraw.htm "A Windows tool for visualising social network data."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powershot-elph-300-hs]: https://www.usa.canon.com/cusa/consumer/products/cameras/digital_cameras/powershot_elph_300_hs "A 12.1 megapixel digital camera."
+[powershot-elph-300-hs]: http://web.archive.org/web/20220212194349/https://www.usa.canon.com/cusa/consumer/products/cameras/digital_cameras/powershot_elph_300_hs "A 12.1 megapixel digital camera."
 [skitch]: https://evernote.com/products/skitch "An always-on image editor for the Mac."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [u3011]: http://web.archive.org/web/20230507075658/https://www.amazon.com/Dell-UltraSharp-30-Inch-PremierColor-Monitor/dp/B00C2RPW8O/ "A 30 inch LCD screen."

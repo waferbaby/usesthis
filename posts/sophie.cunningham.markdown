@@ -46,6 +46,6 @@ I confess I have a partner who thinks about these things on my behalf a lot, so 
 [paprika-ios]: https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868 "A recipe manager app."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [saasu]: https://www.saasu.com/ "Online accounting software."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

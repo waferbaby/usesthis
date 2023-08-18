@@ -35,7 +35,7 @@ I spend 80% of my iPad time in [Kindle][kindle-ios], [Instapaper][instapaper-ios
 
 I think pico-projectors are going to get really good soon - I've seen impressive demos from [Microvision][showwx] using an iPad as a source. And just like everyone else I'd love a more powerful Mac. However I'm hooked on portability and I'd use an 11" MacBook Air if I could suffer the performance drop. So I'd like the power of a Mac Pro in a 13" package, please.
 
-[ath-m50]: http://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
+[ath-m50]: http://web.archive.org/web/20230409072021/https://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -71,4 +71,4 @@ I think pico-projectors are going to get really good soon - I've seen impressive
 [vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [virtualbox]: https://www.virtualbox.org/ "Open-source virtualisation software."
-[yorufukurou]: https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."
+[yorufukurou]: http://web.archive.org/web/20230503120602/https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."

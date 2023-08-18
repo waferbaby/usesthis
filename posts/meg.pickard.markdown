@@ -71,7 +71,7 @@ And I'd also like a pony. And some icecream.
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[pearl-8100]: https://www.amazon.com/BlackBerry-8100-Quad-Band-Camcorder-compatible/dp/B001V7RK8G/ "A smartphone."
+[pearl-8100]: http://web.archive.org/web/20230706205328/https://www.amazon.com/BlackBerry-8100-Quad-Band-Camcorder-compatible/dp/B001V7RK8G "A smartphone."
 [picasa]: http://picasa.google.com/ "A photo client and web service."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

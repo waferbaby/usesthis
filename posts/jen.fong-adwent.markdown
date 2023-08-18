@@ -52,7 +52,7 @@ I would love to have an external monitor like an [Apple Thunderbolt display][thu
 [firefox-beta-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox_beta "A beta build of the Firefox browser."
 [firefox-marketplace]: http://web.archive.org/web/20180328190029/https://marketplace.firefox.com/ "A service for installing Firefox-based web apps."
 [firefox-nightly]: https://www.mozilla.org/firefox/channel/#nightly "Nightly builds of the Firefox browser."
-[forerunner-210]: https://buy.garmin.com/en-US/US/p/83280 "A GPS-based sports watch."
+[forerunner-210]: http://web.archive.org/web/20210607044635/https://buy.garmin.com/en-US/US/p/83280 "A GPS-based sports watch."
 [galaxy-s-iii]: http://web.archive.org/web/20160303220825/http://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indexeddb]: https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API "An API for working with client-side web stored data."

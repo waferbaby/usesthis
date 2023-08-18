@@ -72,7 +72,7 @@ Of course, the ideal setup would be if I were independently wealthy so I could s
 [opensolaris]: https://www.oracle.com/solaris/technologies/solaris11-overview.html "A free operating system based on Solaris."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [parallels-desktop]: https://www.parallels.com/products/desktop/ "A PC emulator for the Mac."
-[perfection-1660]: https://www.amazon.com/Epson-Perfection-1660-Photo-Scanner/dp/B00006AMSF "A photo scanner."
+[perfection-1660]: http://web.archive.org/web/20230706193811/https://www.amazon.com/Epson-Perfection-1660-Photo-Scanner/dp/B00006AMSF "A photo scanner."
 [perl]: https://www.perl.org/ "An interpreted scripting language."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [red-hat-enterprise-desktop]: https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux "A Linux distribution."

@@ -53,5 +53,5 @@ Someday perhaps I will go around carrying only a book, a change of clothes, a pe
 [sed]: http://www.gnu.org/software/sed/ "Text filtering software."
 [solarized]: https://ethanschoonover.com/solarized/ "A colour theme for text editors."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
-[verticalmouse]: http://evoluent.com/products/vm4rw/ "A unique wireless mouse."
+[verticalmouse]: http://web.archive.org/web/20230815233516/https://evoluent.com/products/vm4rw/ "A unique wireless mouse."
 [vim]: https://www.vim.org/ "A command-line text editor."

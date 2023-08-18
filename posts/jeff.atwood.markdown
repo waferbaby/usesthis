@@ -51,7 +51,7 @@ I guess I want everything I have now, but with 8k OLED high DPI screens. I also 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [core-i7-7700k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."
 [discourse]: https://www.discourse.org/ "An open-source discussion platform."
-[edge.2]: https://www.microsoft.com/en-us/edge "A web browser."
+[edge.2]: http://web.archive.org/web/20230522022746/https://www.microsoft.com/en-us/edge "A web browser."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."

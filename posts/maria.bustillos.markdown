@@ -39,7 +39,7 @@ My dream setup? I would like to have the Minority Report computer with the wonde
 [icd-sx750]: http://web.archive.org/web/20210609213854/http://www.amazon.com/Sony-ICD-SX750-Memory-Digital-Recorder/dp/B00387E5D0 "A digital voice recorder."
 [natural-ergonomic-keyboard-4000]: https://www.microsoft.com/accessories/en-us/p/natural-ergonomic-keyboard-4000 "An ergonomic USB-based keyboard."
 [replay-telecorder]: https://applian.com/notfound "Windows software to record Skype calls."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-98]: https://en.wikipedia.org/wiki/Windows_98 "A PC operating system."

@@ -28,9 +28,9 @@ As for sound, I would love to have an [AT 4000 series microphone][4000-series] w
 
 Oh and I'd love to have a bigger TV. Because, uh, I guess that's work, right? Yeah. Of course it is. Definitely for only work-related reasons.
 
-[4000-series]: http://www.audio-technica.com/en-us/4000-series "A wireless microphone system."
+[4000-series]: http://web.archive.org/web/20220707070145/https://www.audio-technica.com/en-us/4000-series "A wireless microphone system."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
-[at2020]: http://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
+[at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
@@ -40,6 +40,6 @@ Oh and I'd love to have a bigger TV. Because, uh, I guess that's work, right? Ye
 [multimix-8]: http://web.archive.org/web/20151027001614/http://www.alesis.com:80/multimix8usb "A USB audio interface/mixer."
 [ozone]: https://www.izotope.com/en/products/ozone.html "A mastering system plugin."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."

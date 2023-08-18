@@ -44,7 +44,7 @@ I've never found an e-reader that I liked. I want a device with a large-enough s
 
 And most of all, I'd like more and more academic work in history and the humanities to be released online (in pre-prints like [arXiv](http://arxiv.org/ "Cornell's open library of educational resources."), or in final versions) in open formats and hopefully under open-access licenses.
 
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [caffeine]: https://www.lightheadsw.com/caffeine/ "A Mac menubar application to keep your computer awake."
 [command]: http://web.archive.org/web/20201122135505/http://www.amazon.com/Timbuk2-Command-Laptop-TSA-Friendly-Messenger/dp/B0068DTASQ/ "A TSA-friendly bag for laptops."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
@@ -70,13 +70,13 @@ And most of all, I'd like more and more academic work in history and the humanit
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [pandoc]: https://pandoc.org/ "A Markdown document converter."
 [qgis]: https://qgis.org/en/site/ "An open-source GIS mapping tool."
-[r-markdown]: https://support.posit.co/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R "A version of Markdown that supports R embedding."
+[r-markdown]: http://web.archive.org/web/20230610115547/https://support.posit.co/hc/en-us/articles/205368677-R-Markdown-Dynamic-Documents-for-R "A version of Markdown that supports R embedding."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [rstudio]: https://posit.co/ "An IDE for the R language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [spectacle]: https://www.spectacleapp.com/ "A Mac tool for moving and resizing windows."
 [textexpander]: https://textexpander.com/ "A Mac app for adding custom abbreviations for often-used text."
-[thinkpad-t430]: https://www.lenovo.com/us/en/laptops/thinkpad/t-series/t430/ "A 14 inch PC laptop."
+[thinkpad-t430]: http://web.archive.org/web/20210513092657/https://www.lenovo.com/us/en/laptops/thinkpad/t-series/t430/ "A 14 inch PC laptop."
 [tidyr]: https://github.com/tidyverse/tidyr "An R library for tidying data."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."

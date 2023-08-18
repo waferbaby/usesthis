@@ -50,7 +50,7 @@ I'm starting to feel like my smartphone, a two-year old [myTouch Slide][mytouch-
 [python]: https://www.python.org/ "An interpreted scripting language."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
-[sqlite]: http://www.sqlite.org/index.html "A self-contained database engine."
+[sqlite]: http://web.archive.org/web/20230815162335/https://www.sqlite.org/index.html "A self-contained database engine."
 [thinkpad-x220]: http://web.archive.org/web/20170206231919/http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [unity.2]: http://web.archive.org/web/20170905064051/http://unity.ubuntu.com:80/projects/unity "A desktop and notebook environment."

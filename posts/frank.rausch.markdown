@@ -54,7 +54,7 @@ If I had one wish, I would love a powerful MacBook Air with low-profile mechanic
 
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [camingocode]: https://janfromm.de/typefaces/camingocode/ "A font designed for source code."
-[fantastical-ios]: http://flexibits.com/fantastical "An alternative calendar app."
+[fantastical-ios]: http://web.archive.org/web/20230816150357/https://flexibits.com/fantastical "An alternative calendar app."
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [gel-ink-ballpoint]: https://www.muji.us/collections/pen-pencils "A ball-point pen."
 [gitup]: https://gitup.co/ "A Git client."

@@ -29,10 +29,10 @@ I use [Glyphs Mini][glyphs-mini] for making fonts, and [Skala][skala-preview] fo
 Pretty psyched on my office nook, though I have been considering getting a mini water dispenser so I don't have to walk the 20 feet to my kitchen.
 
 [bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
-[canoscan-lide-120]: https://www.usa.canon.com/shop/office/scanners "A scanner."
+[canoscan-lide-120]: http://web.archive.org/web/20230706200500/https://www.usa.canon.com/shop/office/scanners "A scanner."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[fineliner]: http://pilotpen.us/brands/razor-point/fineliner/ "A marker pen."
+[fineliner]: http://web.archive.org/web/20230706212145/https://pilotpen.us/brands/razor-point/fineliner/ "A marker pen."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [glyphs-mini]: http://web.archive.org/web/20201112021326/https://glyphsapp.com/glyphs-mini "A lightweight font editor for the Mac."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
@@ -40,7 +40,7 @@ Pretty psyched on my office nook, though I have been considering getting a mini 
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pixma-ix6820]: https://www.usa.canon.com/shop/printers "An inkjet printer."
+[pixma-ix6820]: http://web.archive.org/web/20230706202419/https://www.usa.canon.com/shop/printers "An inkjet printer."
 [skala-preview]: https://bjango.com/mac/skalapreview/ "Design preview software."
 [the-hype-machine]: https://hypem.com/ "A music site that pools reviewed music for you."
 [typeform]: https://www.typeform.com/about/ "A forms and survey service."

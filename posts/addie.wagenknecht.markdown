@@ -31,5 +31,5 @@ I really have dreams about having unlimited space and materials to experiment wi
 [inkscape]: https://inkscape.org/ "An open-source vector graphics program."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [pixel-2]: https://en.wikipedia.org/wiki/Pixel_2 "A 5 inch Android smartphone."
-[thinkpad-x1-carbon]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
+[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."

@@ -41,7 +41,7 @@ My work over the last year hasn't been healthy by any means, but it has allowed 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [pinboard]: http://pinboard.in/ "A bookmarking web service."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [sculpt-ergonomic-keyboard]: https://www.microsoft.com/accessories/en-us/b/sculpt-ergonomic-keyboard-for-business/5KV-00001 "An ergonomic keyboard."
 [smartglove]: https://www.amazon.com/gp/product/B005THDUE2/ "A wrist wrap."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

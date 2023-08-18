@@ -51,5 +51,5 @@ I also plan to invest in some better lighting. At the moment as I'm a beginner w
 [newplast]: http://web.archive.org/web/20150626220234/http://www.newclay.co.uk:80/Newplast.htm "Animation clay."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[quicktime-pro]: https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
+[quicktime-pro]: http://web.archive.org/web/20230706193331/https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
 [windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

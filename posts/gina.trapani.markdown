@@ -46,7 +46,7 @@ Think we can arrange that?
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
-[geektool]: https://projects.tynsoe.org/en/geektool/ "A Mac prefpane to show logs, scripts or images right on the desktop."
+[geektool]: http://web.archive.org/web/20160716010514/http://projects.tynsoe.org:80/en/geektool/ "A Mac prefpane to show logs, scripts or images right on the desktop."
 [git]: https://git-scm.com/ "A version control system."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."

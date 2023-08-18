@@ -47,7 +47,7 @@ I think I have it already! My collection of small, modular, purpose-built comput
 [honeycomb-lx2]: https://www.solid-run.com/arm-servers-networking-platforms/honeycomb-servers-workstation/#overview "A mini Arm computer."
 [honeycomb]: https://www.honeycomb.io/ "A rich data analytics tool."
 [nano]: https://www.nano-editor.org/ "A command-line text editor."
-[pixelbook]: https://store.google.com/us/product/google_pixelbook?hl=en-US "A 12.3 inch Chromebook."
+[pixelbook]: http://web.archive.org/web/20201111203427/https://store.google.com/us/product/google_pixelbook?hl=en-US "A 12.3 inch Chromebook."
 [powerline-shell]: https://github.com/b-ryan/powerline-shell "A smart shell prompt for various terminal shells."
 [radeon-rx-6800]: http://web.archive.org/web/20221205223951/https://www.amd.com/en/products/graphics/amd-radeon-rx-6800 "A GPU."
 [ryzen-5-5600x]: http://web.archive.org/web/20220804184305/https://www.amd.com/en/products/cpu/amd-ryzen-5-5600x "A CPU."

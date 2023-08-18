@@ -52,7 +52,7 @@ And [Fantastical 2][fantastical] keeps my schedule organized!
 I wish my NAS could run [Plex][] adequately, I had an external thunderbolt GPU for my laptop, and someone would come over with a magic box that would compile my Xcode builds faster.
 
 [5n2]: https://www.drobo.com/storage-products/5n2/ "A five-bay NAS."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [colorsnapper]: https://colorsnapper.com/ "A colour picker for the Mac."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
@@ -78,6 +78,6 @@ I wish my NAS could run [Plex][] adequately, I had an external thunderbolt GPU f
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."
 [ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [zippi]: http://web.archive.org/web/20201119103442/https://www.amazon.com/Vornado-Zippi-Personal-Fan-Black/dp/B000E19MQ8 "A personal fan."

@@ -43,4 +43,4 @@ My main dream is faster internet connection (everywhere, but mainly at home). A 
 [syncmaster-s23b550v]: http://web.archive.org/web/20151230103830/http://www.amazon.com:80/Samsung-S23B550V-23-Inch-LED-Lit-Monitor/dp/B007TO3EK8? "A 23 inch LCD screen."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[zenbook-ux305]: https://www.amazon.com/UX305-13-Inch-Laptop-PREVIOUS-MODEL/dp/B00SGS7ZH4 "A 13.3 inch PC laptop."
+[zenbook-ux305]: http://web.archive.org/web/20230125145851/https://www.amazon.com/UX305-13-Inch-Laptop-PREVIOUS-MODEL/dp/B00SGS7ZH4 "A 13.3 inch PC laptop."

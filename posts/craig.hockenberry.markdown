@@ -73,7 +73,7 @@ After having an SSD in the MacBook air, I'm going to start upgrading to flash dr
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [extended-keyboard-ii]: https://lowendmac.com/2006/apples-extended-keyboard-ii-sequel-to-a-legend/ "An ADB-based keyboard."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
-[icon-udac]: https://billstclair.com/udac/ "A USB digital audio converter."
+[icon-udac]: http://web.archive.org/web/20230706201408/https://billstclair.com/udac/ "A USB digital audio converter."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."

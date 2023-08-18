@@ -55,7 +55,7 @@ I would absolutely love a high end cinema camera and a set of Cine lenses. Yep..
 [d800]: http://web.archive.org/web/20230312080814/https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [d850]: https://en.wikipedia.org/wiki/Nikon_D850 "A 45.4 megapixel DSLR."
 [denoise-ai]: https://www.topazlabs.com/denoise-ai "A tool for removing noise from images."
-[galaxy-s21-ultra-5g]: https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
+[galaxy-s21-ultra-5g]: http://web.archive.org/web/20230419003149/https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
 [geforce-rtx-2080]: https://www.nvidia.com/en-us/geforce/20-series/ "A graphics card."
 [gigapixel-ai]: https://www.topazlabs.com/gigapixel-ai "A tool for scaling up images without losing quality."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

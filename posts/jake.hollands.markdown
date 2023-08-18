@@ -58,4 +58,4 @@ A simple MacBook Pro & Magic Mouse inside a large working space which discourage
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[vive]: https://vibeapp.one/ "A SteamVR headset."
+[vive]: http://web.archive.org/web/20221001014755/https://vibeapp.one/ "A SteamVR headset."

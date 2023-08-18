@@ -49,12 +49,12 @@ Infinite storage, both digital and physical. Someone who comes by once a week, a
 If you mean, like, actual computery stuff, then one of my colleagues has a [reMarkable tablet][remarkable] and I kind of want to steal it, but that would probably get me fired from my job.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[amaroq-ios]: https://apps.apple.com/us/app/amaroq-for-mastodon/id1214116200 "A Mastodon client"
+[amaroq-ios]: http://web.archive.org/web/20220116183601/https://apps.apple.com/us/app/amaroq-for-mastodon/id1214116200 "A Mastodon client"
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [clojure]: https://en.wikipedia.org/wiki/Clojure "A dynamic programming language using the Java Virtual Machine."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[eleksdraw]: https://eleksmaker.com/nav/eleksdraw/ "A pen plotter."
+[eleksdraw]: http://web.archive.org/web/20190613054417/http://eleksmaker.com:80/nav/eleksdraw/ "A pen plotter."
 [galaxy-a8]: http://web.archive.org/web/20220504124534/https://www.samsung.com/global/galaxy/galaxy-a8/ "An Android phone."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
@@ -82,7 +82,7 @@ If you mean, like, actual computery stuff, then one of my colleagues has a [reMa
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [tmux]: https://sourceforge.net/projects/tmux.mirror/ "A terminal multiplexer, similar to screen."
 [toot-ios]: https://apps.apple.com/us/app/toot/id1229021451 "A Mastodon client."
-[tootdon-ios]: https://apps.apple.com/us/app/tootdon-for-mastodon/id1282283934 "A Mastodon client."
+[tootdon-ios]: http://web.archive.org/web/20190612053643/https://apps.apple.com/us/app/tootdon-for-mastodon/id1282283934 "A Mastodon client."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

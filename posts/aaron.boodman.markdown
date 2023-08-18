@@ -83,4 +83,4 @@ And if we're talking super crazy, I'll take the [thought-controlled software and
 [thinkpad-t61]: https://www.cnet.com/reviews/lenovo-t61-review/ "A 14 inch PC laptop."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."
-[z600]: https://www.amazon.com/HP-Z600-Workstation-Quad-2-13GHz/dp/B003H0KZ6E "A powerful PC workstation."
+[z600]: http://web.archive.org/web/20160331212353/http://www.amazon.com/HP-Z600-Workstation-Quad-2-13GHz/dp/B003H0KZ6E "A powerful PC workstation."

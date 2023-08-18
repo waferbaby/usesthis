@@ -41,7 +41,7 @@ Glad you asked! [The Writers' Room of Boston](http://www.writersroomofboston.org
 
 I've been eyeing this [Punkt dumb phone][mp01] for years, but what I want is this phone with a mapping function. And then I'd want all that to live in a wallet that had a perfect pen-holder down the inner fold. I'd keep my iPhone for all the scanning and photos and other conveniences, but I'd use the dumb phone more often and consolidate my internet browsing in my laptop or desktop. In the meantime, my car commute is getting whittled down to 1-2 days per week, so I'll be using [Stitcher][] less often. But what I really want is to see services like [Audm][] or [SpokenLayer][] go fully mainstream, so I can easily line up written content online to consume as audio instead.
 
-[audm]: https://www.audm.com/ "An audio story service."
+[audm]: http://web.archive.org/web/20230627030759/https://www.audm.com/ "An audio story service."
 [bullet-journal]: https://bulletjournal.com/ "An organisational notebook."
 [instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
@@ -53,7 +53,7 @@ I've been eyeing this [Punkt dumb phone][mp01] for years, but what I want is thi
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
 [reading]: http://web.archive.org/web/20220701003848/https://www.reading.am/ "A service to keep track of what you're reading online."
 [reeder-ios]: https://reederapp.com "A Google Reader client for iOS."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [spokenlayer]: https://www.spokenlayer.com/ "An audio distribution and analytics platform."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."

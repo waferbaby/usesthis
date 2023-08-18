@@ -32,7 +32,7 @@ For tracking my hours, I use [Clockify][]. For communicating with others, I use 
 I'd love to have a dedicated studio space for working on larger-scale installations, and lots of space for storage! We've accumulated a vast collection of equipment and tools over the years, and would love to have it all meticulously organised, clearly labelled, and easily accessible on shelves. A dedicated spot near my desk for our velcro kitty to sleep in would be lovely. Oh, and a bigger bookshelf to store all our books. :)
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[arduino-ide]: https://www.arduino.cc/en/software "A development environment for Arduino hardware."
+[arduino-ide]: http://web.archive.org/web/20230816193740/https://www.arduino.cc/en/software/ "A development environment for Arduino hardware."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [c270-hd]: https://www.logitech.com/en-us/product/hd-webcam-c270.html "A webcam."
 [clockify]: https://clockify.me/ "A web-based time tracker."

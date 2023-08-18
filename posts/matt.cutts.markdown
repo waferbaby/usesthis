@@ -94,7 +94,7 @@ I'm still trying to decide whether email would be illegal in my dream setup. On 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-casts-android]: https://play.google.com/store/apps/details?id=au.com.shiftyjelly.pocketcasts&hl=en "A podcast app."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[quietcomfort-20]: https://www.bose.com/controller?url=%2Fshop_online%2Fheadphones%2Fnoise_cancelling_headphones%2Fquietcomfort_20%2Findex.jsp "Noise-cancelling in-ear headphones."
+[quietcomfort-20]: http://web.archive.org/web/20150710184510/http://www.bose.com:80/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_20/index.jsp "Noise-cancelling in-ear headphones."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [revolt-c2]: https://www.scosche.com/ "A dual-plug USB car charger."
 [strava]: https://www.strava.com/ "A running/cycling tracking and performance service."

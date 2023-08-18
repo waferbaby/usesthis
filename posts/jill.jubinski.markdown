@@ -62,7 +62,7 @@ Final touches would include two dog beds so I could bounce ideas off the girls, 
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[soundtrue-headphones-ii]: https://www.bose.com/en_us/products/headphones/sports_headphones.html "Around-the-ear headphones."
+[soundtrue-headphones-ii]: http://web.archive.org/web/20230706204320/https://www.bose.com/en_us/products/headphones/sports_headphones.html "Around-the-ear headphones."
 [twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

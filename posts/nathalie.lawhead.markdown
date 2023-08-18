@@ -64,7 +64,7 @@ Although, what I have now is pretty good too. :)
 
 [actionscript]: https://en.wikipedia.org/wiki/ActionScript "An object-oriented programming language."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[air.2]: https://blog.adobe.com/en/publish/2019/05/30/the-future-of-adobe-air.html "A development runtime."
+[air.2]: http://web.archive.org/web/20211107024949/https://blog.adobe.com/en/publish/2019/05/30/the-future-of-adobe-air.html "A development runtime."
 [caffe]: http://caffe.berkeleyvision.org/ "A deep learning framework."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [fl-studio]: https://www.image-line.com/ "An audio editor for Windows."

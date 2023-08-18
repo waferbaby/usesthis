@@ -75,7 +75,7 @@ My dream setup is any arrangement which removes an entity without sacrificing fu
 [reeder]: http://madeatgloria.com/brewery/silvio/reeder "A feed client for the Mac."
 [rstudio]: https://posit.co/ "An IDE for the R language."
 [scala]: https://www.scala-lang.org/ "A compiled programming language."
-[soulver]: https://acqualia.com/soulver/ "A Mac application that's a cross between a spreadsheet and a calculator."
+[soulver]: http://web.archive.org/web/20210803200243/https://www.acqualia.com/soulver/ "A Mac application that's a cross between a spreadsheet and a calculator."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [stay]: https://cordlessdog.com/stay/ "A Mac tool for keeping windows in the same place."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

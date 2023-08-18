@@ -49,6 +49,6 @@ The dream is a kitchen studio with cameras in the fridge; really good track ligh
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [precision-cooker]: https://anovaculinary.com/pages/find-your-anova-precision-cooker "A sous vide circulator."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [timepage-ios]: https://apps.apple.com/app/apple-store/id989178902 "A calendar app."
 [todoist-ios]: https://apps.apple.com/us/app/todoist-organize-your-life/id572688855 "An app for the todo service."

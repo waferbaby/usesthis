@@ -65,7 +65,7 @@ I dream of owning a [plumbutter2][] and will never be able to justify actually b
 [po-20]: https://teenage.engineering/products/po "A tiny electronic music device."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [samplr-ios]: https://apps.apple.com/us/app/samplr-touch-the-music/id560756420 "A touch-based music creation app."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [septavox]: http://web.archive.org/web/20150921143157/http://www.critterandguitari.com:80/products/septavox "A 41 key synth."
 [shbobo]: https://www.synthmall.com/shbobo/index.html "A computer music device."
 [soundcloud]: https://soundcloud.com/ "An audio creation and sharing service."

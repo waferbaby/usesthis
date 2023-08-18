@@ -37,7 +37,7 @@ I think my current setup is the best I've ever had. It's much quieter than liste
 [1password]: https://1password.com "Password management software for Mac OS X."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
-[c03u]: https://www.samsontech.com/samson/products/microphones/usb-microphones/c03u/ "A USB condenser microphone."
+[c03u]: http://web.archive.org/web/20230327003955/http://www.samsontech.com/samson/products/microphones/usb-microphones/c03u/ "A USB condenser microphone."
 [campfire]: https://basecamp.com/ "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."

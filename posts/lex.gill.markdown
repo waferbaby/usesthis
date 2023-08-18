@@ -45,8 +45,8 @@ Finally, most people don't realize that a lot of important legal sources are tot
 
 [apple-watch-series-2]: https://en.wikipedia.org/wiki/Apple_Watch_Series_2 "A smartwatch."
 [bear]: https://bear.app/ "A note taking application for macOS."
-[double-ended-hybrid-hexagonal-pen]: https://www.muji.us/store/double-ended-hybrid-hexagonal-pen-black4549337389779.html "A pen."
-[draft-lite]: https://www.sebikes.com/archive/2012/draft-lite- "A fixed gear bike."
+[double-ended-hybrid-hexagonal-pen]: http://web.archive.org/web/20190506070246/https://www.muji.us/store/double-ended-hybrid-hexagonal-pen-black4549337389779.html "A pen."
+[draft-lite]: http://web.archive.org/web/20190506070251/http://www.sebikes.com/archive/2012/draft-lite- "A fixed gear bike."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
 [jitsi]: https://jitsi.org "Open source video conferencing software."
 [latex]: https://www.latex-project.org/ "Typesetting software."

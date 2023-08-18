@@ -52,4 +52,4 @@ May I please have a faster MacBook Air with a fuel cell, always on 3G or 4G and 
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [solo]: http://web.archive.org/web/20210502035705/http://www.amazon.com/Fireproof-Waterproof-External-Recovery-SL1000GBUSB20/dp/B001TNR8EI "A fireproof, waterproof external hard drive."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[verticalmouse]: http://evoluent.com/products/vm4rw/ "A unique wireless mouse."
+[verticalmouse]: http://web.archive.org/web/20230815233516/https://evoluent.com/products/vm4rw/ "A unique wireless mouse."

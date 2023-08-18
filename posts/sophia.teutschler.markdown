@@ -41,7 +41,7 @@ I'm pretty happy with my current configuration. A nice to have would be some sor
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipod]: https://support.apple.com/ipod-touch "A music player."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
-[littlesnapper]: https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
+[littlesnapper]: http://web.archive.org/web/20230529193441/https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mighty-mouse]: https://en.wikipedia.org/wiki/Apple_Mighty_Mouse "A wireless mouse."

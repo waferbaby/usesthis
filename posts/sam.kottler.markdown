@@ -52,7 +52,7 @@ Also, software that never crashes or has problems during runtime execution would
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [onenote]: https://www.onenote.com/signin?wdorigin=ondc "Synced notes software (part of Office)."
-[quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
+[quietcomfort-35]: http://web.archive.org/web/20220309113434/https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [venmo]: https://venmo.com/ "A payment service."

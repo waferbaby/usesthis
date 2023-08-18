@@ -42,4 +42,4 @@ And as long as I'm dreaming, the rest of the video game industry ignores how muc
 [subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [trac]: https://trac.edgewall.org/ "An issue tracker and wiki package for software development."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."

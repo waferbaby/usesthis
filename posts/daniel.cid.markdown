@@ -50,7 +50,7 @@ I don't have much of a dream setup as long as everything works. But I would cert
 [mercurial]: https://www.mercurial-scm.org/ "A version control system."
 [nginx]: http://nginx.org/ "A very fast web/mail server."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
-[ossec]: http://www.ossec.net/ "An open-source intrusion detection system."
+[ossec]: http://web.archive.org/web/20230808141055/https://www.ossec.net/ "An open-source intrusion detection system."
 [php]: https://www.php.net/ "An interpreted scripting language."
 [qmail]: http://web.archive.org/web/20220803223549/http://qmail.org/top.html "An SMTP server."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."

@@ -33,8 +33,8 @@ I like to treat the local machine as a dumb terminal. It makes it easier to deal
 
 Anything with low latency and a decent keyboard, really. Honestly the only thing stopping me from editing the spec on my smaller devices is that on-screen keyboards are just unusable.
 
-[advantage]: https://kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
-[chromebook]: https://www.google.com/intl/en/chromebook/ "A laptop built for only running Web apps."
+[advantage]: http://web.archive.org/web/20170120131549/http://www.kinesis-ergo.com:80/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[chromebook]: http://web.archive.org/web/20120421052503/http://www.google.com:80/intl/en/chromebook/ "A laptop built for only running Web apps."
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

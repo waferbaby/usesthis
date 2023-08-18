@@ -48,7 +48,7 @@ The exact same setup but with a version of myself that knows how to use Vim bett
 [nvalt]: https://brettterpstra.com/projects/nvalt/ "A fork of Notational Velocity with extra features."
 [p5.js]: https://p5js.org/ "A Javascript library based on Processing."
 [patent-generator]: https://github.com/antiboredom/patent-generator/ "Software for transforming philosophical text into patent applications."
-[pattern.en]: https://www.clips.ua.ac.be/pages/pattern-en "A Python module for working with natural language."
+[pattern.en]: http://web.archive.org/web/20170807211052/http://www.clips.ua.ac.be:80/pages/pattern-en "A Python module for working with natural language."
 [processing]: https://processing.org/ "A programming language/environment."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."

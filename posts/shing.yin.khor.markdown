@@ -49,5 +49,5 @@ Most of the tools on the hardware list, none of the ones on the software list, a
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [stop-motion-studio-ios]: https://apps.apple.com/us/app/stop-motion-studio/id441651297 "A stop motion movie making app."

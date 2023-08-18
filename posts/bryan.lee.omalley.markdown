@@ -39,7 +39,7 @@ The other cool thing would be if my giant scanner was wireless. I think it's abo
 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [expression-10000xl]: http://web.archive.org/web/20190506111944/https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

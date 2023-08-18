@@ -38,7 +38,7 @@ My dream space would bring me the feeling of cooking in the kitchen when I'm wor
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [op-z]: https://teenage.engineering/products/op-z "A 16 track synth."
 [patatap]: https://works.jonobr1.com/Patatap "An animation and audio playground."
-[quest]: https://www.oculus.com/quest-2/ "An all-in-one VR headset."
+[quest]: http://web.archive.org/web/20230127074328/https://www.oculus.com/Quest-2/ "An all-in-one VR headset."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."
 [seaboard-block-studio-edition]: https://roli.com/products/seaboard/rise2 "A musical keyboard."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."

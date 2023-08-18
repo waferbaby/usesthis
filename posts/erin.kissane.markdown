@@ -42,12 +42,12 @@ Our medicine cabinet has fever reducers and asthma medications that are basicall
 
 Sticking to technology, I want a sauna, an internet that isn't destroying democracy and society, and a cure for pain.
 
-[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [clue-ios]: https://apps.apple.com/us/app/clue-health-period-tracker/id657189652 "A period and health tracking app."
 [github]: https://github.com/ "A Git code repository service."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [pandoc]: https://pandoc.org/ "A Markdown document converter."
 [premium-quilted-heated-mattress-pad]: https://www.sunbeam.com/heated-bedding/mattress-pads/sunbeam-premium-quilted-heated-mattress-pad/MRU5S-MASTER+PMP.html "A heated mattress pad."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [trackman-marble]: https://www.logitech.com/en-us/product/trackman-marble.html "A trackball."
 [zotero]: https://www.zotero.org/ "A research tool."

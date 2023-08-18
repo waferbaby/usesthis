@@ -47,7 +47,7 @@ In the more near future, I'd like to be able to develop iPhone apps directly on 
 [convore-ios]: https://apps.apple.com/us/app/convore/id424470699 "An iOS client for the group chat service."
 [convore]: https://en.wikipedia.org/wiki/Convore "A web service for group conversations."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[echofon-ios]: https://apps.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
+[echofon-ios]: http://web.archive.org/web/20230120201805/https://apps.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."

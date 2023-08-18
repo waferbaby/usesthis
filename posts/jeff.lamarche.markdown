@@ -46,7 +46,7 @@ I think I pretty much already have it. I really like Apple's 17" laptops, especi
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."
-[ishowu-hd]: https://store.shinywhitebox.com/ishowu-hd-pro "Screen recording software."
+[ishowu-hd]: http://web.archive.org/web/20170928214124/http://store.shinywhitebox.com/ishowu-hd-pro "Screen recording software."
 [laserjet-1300]: http://web.archive.org/web/20151014045117/http://h10010.www1.hp.com:80/wwpc/us/en/sm/WF10a/18972-18972-3328059-14638-3328066-238320.html "A black and white laser printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [marsedit]: https://redsweater.com/marsedit/ "A weblog editor for the Mac."

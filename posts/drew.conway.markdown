@@ -35,7 +35,7 @@ In the meantime, however, I would settle for an upgrade to 8GM of RAM in my curr
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[echofon]: https://echofon.com:443/twitter/mac/ "A Twitter client for the Mac."
+[echofon]: http://web.archive.org/web/20190829052222/http://www.echofon.com:80/twitter/mac/ "A Twitter client for the Mac."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [ipython]: https://ipython.org/ "An interactive shell for Python."
 [latex]: https://www.latex-project.org/ "Typesetting software."

@@ -28,7 +28,7 @@ I'm 6'2", so I like having big hardware. I think if I had my choice I'd keep a b
 Anything else? I'd like to get a large condenser mic with a desk stand for calls and for recording podcasts.
 
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
-[beaglebone-black]: https://beagleboard.org/black "A tiny development computer."
+[beaglebone-black]: http://web.archive.org/web/20230724132433/https://beagleboard.org/black "A tiny development computer."
 [breather]: http://web.archive.org/web/20221224135733/https://breather.com/ "A service for finding a space to temporarily rent."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [docker-compose]: https://docs.docker.com/compose/ "A tool for controlling multiple Docker containers."
@@ -47,10 +47,10 @@ Anything else? I'd like to get a large condenser mic with a desk stand for calls
 [pine.2]: https://en.wikipedia.org/wiki/Neptune_Pine "An Android-based smartwatch."
 [pipedrive]: https://www.pipedrive.com/ja "A customer relations service."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[react]: http://reactjs.org/ "A JavaScript UI framework."
+[react]: http://web.archive.org/web/20230316153459/https://reactjs.org/ "A JavaScript UI framework."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [thinkpad-x220]: http://web.archive.org/web/20170206231919/http://shop.lenovo.com/us/laptops/thinkpad/x-series/x220 "A 12.5 inch PC laptop."
-[thunderbird]: https://www.thunderbird.net/ "An open-source cross-platform mail client."
+[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."
 [uberconference]: http://web.archive.org/web/20210627060539/https://www.uberconference.com/ "A video and audio conferencing service."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
-[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

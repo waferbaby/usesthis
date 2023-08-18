@@ -57,7 +57,7 @@ For example I mentioned above I have 3 AirTunes units, so in theory I could writ
 [cmake]: https://cmake.org/ "An open-source cross-platform build tool."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [finder]: https://en.wikipedia.org/wiki/Finder_(software) "A file manager included with Mac OS X."
-[geektool]: https://projects.tynsoe.org/en/geektool/ "A Mac prefpane to show logs, scripts or images right on the desktop."
+[geektool]: http://web.archive.org/web/20160716010514/http://projects.tynsoe.org:80/en/geektool/ "A Mac prefpane to show logs, scripts or images right on the desktop."
 [git]: https://git-scm.com/ "A version control system."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."

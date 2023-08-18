@@ -33,5 +33,5 @@ I feel pretty content, but I also always strive for sort of a barebones type thi
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [picsart-ios]: https://apps.apple.com/us/app/picsart-photo-studio/id587366035 "An photo editor and collage app."
 [roost]: https://www.therooststand.com/ "A foldable laptop stand."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [vidstitch-pro-ios]: https://apps.apple.com/us/app/vidstitch-pro-for-instagram/id716816651 "An app for stitching images and videos together."

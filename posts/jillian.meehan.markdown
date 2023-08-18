@@ -47,7 +47,7 @@ I feel like I'm just about there, but if there was a way to magically prevent my
 [linear]: https://linear.app/ "An issue tracking service."
 [live-gamer-mini]: https://www.avermedia.com/us/product-detail/GC311 "A video capture device."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[magic-girl]: https://thekey.company/products/dsa-magic-girl-keycaps-round-2 "Keycaps for mechanical keyboards."
+[magic-girl]: http://web.archive.org/web/20230401051309/https://thekey.company/products/dsa-magic-girl-keycaps-round-2 "Keycaps for mechanical keyboards."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [obs.live]: https://streamelements.com/obslive "A plugin for OBS Studio."

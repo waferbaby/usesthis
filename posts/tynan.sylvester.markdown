@@ -35,4 +35,4 @@ RimWorld's been pretty successful, so if I needed something else I'd definitely 
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[xps-15]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-15-9530 "A 15.6 inch PC laptop."
+[xps-15]: http://web.archive.org/web/20190913000816/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-15-9530 "A 15.6 inch PC laptop."

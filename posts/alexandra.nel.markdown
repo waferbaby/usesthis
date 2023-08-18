@@ -50,7 +50,7 @@ I love my Wacom Cintiq, but I have actually found it to be kind of glitchy. I ha
 [geforce-rtx-3070]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3070-3070ti/ "A graphics card."
 [geforce-rtx-3090]: https://en.wikipedia.org/wiki/GeForce_30_series#Details "A graphics card."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [lottie]: https://airbnb.design/lottie/ "A library for rendering After Effects animations."

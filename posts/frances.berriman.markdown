@@ -37,7 +37,7 @@ Maybe a teleporter to more easily pop back to London?
 
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
-[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[chrome-devtools]: http://web.archive.org/web/20210321161703/https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [chromebook-pixel]: https://www.google.com/intl/en-US/chromebook/ "A PC laptop with a Retina display."
 [dock]: https://en.wikipedia.org/wiki/Dock_(macOS) "The macOS application launcher."
@@ -53,7 +53,7 @@ Maybe a teleporter to more easily pop back to London?
 [nyanboard-nyanbo-mobile-battery]: https://www.japantrendshop.com/nyanboard-nyanbo-mobile-battery-p-3758.html "A mobile phone battery pack."
 [pebble-time-round]: https://www.fitbit.com:443/pebble-time-round-smartwatch-features "A smartwatch."
 [pixel]: https://store.google.com/product/pixel_phone?hl=ja "A 5 inch Android smartphone."
-[quietcomfort-20i]: https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
+[quietcomfort-20i]: http://web.archive.org/web/20190506062554/https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."

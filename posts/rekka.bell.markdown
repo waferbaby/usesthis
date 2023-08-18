@@ -30,15 +30,15 @@ I'd like to move away from MacBooks, on to a device that is modular and that dra
 
 Our studio Hundredrabbits produces tools that are open-source, and we have our own ecosystem, which includes writing, vector and music tools. One day I'd like to have a drawing tool so that in turn I can stop using Photoshop/Clip Studio entirely. I want to lessen my dependence on expensive and closed-source tools. My ideal computer would be modular, something that is easy to upgrade or fix. I believe in the right to repair, in the spirit of curiosity and to reduce my carbon footprint.
 
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [github]: https://github.com/ "A Git code repository service."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [left]: http://web.archive.org/web/20190611040350/https://100r.co/pages/left.html "A minimalist text editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [markl]: https://kokorobot.ca/#markl "A fighting game."
-[oquonie]: https://oquonie.100r.co/ "An adventure game."
+[oquonie]: http://web.archive.org/web/20230706220145/https://oquonie.100r.co/ "An adventure game."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
-[sketchbook-pro-ios]: http://www.sketchbook.com/apps "A drawing app."
-[tada68]: https://candykeys.com/product-not-found "A mechanical keyboard."
+[sketchbook-pro-ios]: http://web.archive.org/web/20230720145325/https://www.sketchbook.com/apps "A drawing app."
+[tada68]: http://web.archive.org/web/20201128195343/https://candykeys.com/product-not-found "A mechanical keyboard."

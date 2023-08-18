@@ -32,7 +32,7 @@ Honestly, I've got everything that I need to make the art I want to make right n
 [ekko-616-mkii]: https://malekkoheavyindustry.com/product/ekko-616-mkii/ "A delay pedal."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [firebox]: https://legacy.presonus.com/products/FireBox "A FireWire recording interface."
-[fuzz-war]: https://deathbyaudio.com/fuzzwar.html "A fuzz pedal."
+[fuzz-war]: http://web.archive.org/web/20171223074249/http://www.deathbyaudio.com:80/fuzzwar.html "A fuzz pedal."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [mustang]: https://en.wikipedia.org/wiki/Fender_Mustang "An electric guitar."
 [quad-reverb]: https://www.vintageguitarandbass.com/fender/amplifier/Quad_Reverb.php "A guitar amp."

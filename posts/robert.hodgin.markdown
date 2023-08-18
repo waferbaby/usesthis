@@ -55,5 +55,5 @@ Then again, maybe just a cabin in the woods and no electronics might be just wha
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [twitter-mac]: https://apps.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
 [vonage]: https://www.vonagebusiness.jp/ "A VoIP service."
-[xbox-360]: https://www.xbox.com/en-US/Xbox360 "A gaming console."
+[xbox-360]: http://web.archive.org/web/20131008213618/http://www.xbox.com/en-US/xbox360 "A gaming console."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

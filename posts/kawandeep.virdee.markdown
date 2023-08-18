@@ -56,7 +56,7 @@ A shared space with lots of synthesizers, instruments, wall space to post up ide
 [medium]: https://medium.com/ "A writing/blogging service."
 [monomachine-sfx-60]: https://en.wikipedia.org/wiki/Elektron_Monomachine "A synth."
 [p5.js]: https://p5js.org/ "A Javascript library based on Processing."
-[pigma-graphic]: https://sakuraofamerica.com/pen-archival-ink "A pen."
+[pigma-graphic]: http://web.archive.org/web/20190506094120/http://sakuraofamerica.com/pen-archival-ink "A pen."
 [pixelmator]: http://web.archive.org/web/20230419034642/https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [sign-pen]: https://www.pentel.com/products/sign-pen "A pen."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

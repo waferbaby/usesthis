@@ -27,9 +27,9 @@ Right now, we have a little [Airbnb](https://www.airbnb.com.au/rooms/2532650 "La
 
 [18v-one-plus-lithium-ion-starter-drill-kit]: http://web.archive.org/web/20210621041106/https://www.ryobitools.com/power-tools/products/details/18v-one-plus-lithium-ion-starter-drill-kit "A drill."
 [emerald-118]: https://www.husqvarnaviking.com/en-US/Machines/EMERALD-trade;-118 "A straight stitch sewing machine."
-[excel-ne]: https://sun-mar.com "A composting toilet."
+[excel-ne]: http://web.archive.org/web/20230307113834/https://sun-mar.com/ "A composting toilet."
 [gt-400]: http://web.archive.org/web/20190506110602/https://www.amazon.com/Pacifica-GT-400-Pottery-Wheel/dp/B001MYHQ14/ "A pottery wheel."
-[h-class-200s]: https://www.husqvarnaviking.com/en-US/Machines/H-CLASS-200S "A serger sewing machine."
+[h-class-200s]: http://web.archive.org/web/20180416024356/http://www.husqvarnaviking.com:80/en-US/Machines/H-CLASS-200S "A serger sewing machine."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mindbody]: https://www.mindbodyonline.com/ "A business service for managing online bookings."
 [mini-might-ii-table-roller]: http://web.archive.org/web/20190506110602/https://www.baileypottery.com/Bailey-Pottery/Product-Details/%2022ch-Mini-Might-II-Table-Roller-M400001 "A clay slab roller."

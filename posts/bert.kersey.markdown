@@ -52,7 +52,7 @@ In 1982, I was interviewed by Softalk Magazine and I was asked what a dream setu
 
 So I'm happy with my setup, but a more rugged MacBook Pro case would be much appreciated.
 
-[at2020]: http://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
+[at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [g-raid]: https://shop.westerndigital.com/products "A dual-drive RAID storage system."

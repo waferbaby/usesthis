@@ -48,11 +48,11 @@ A couple of good 8K monitors and an accurate color calibration setup. The big Ca
 A vintage [Telecaster][] would be nice to have. I have a good tube amp for listening to music, but can always use more NOS tubes - some more (multiple of 2) Bendix 5992/6V6GTs would be great, but I think I got the last two on the planet.
 
 [acrobat-pro]: https://www.adobe.com/acrobat/acrobat-pro.html "PDF software."
-[black-beauty]: https://www.epiphone.com/Products/Les-Paul/Les-Paul-Black-Beauty-3.aspx "An electric guitar."
-[boogie-mark-iv]: https://www.mesaboogie.com/support/out-of-production/mark-iv.html "An guitar amp."
+[black-beauty]: http://web.archive.org/web/20191227175853/http://www.epiphone.com:80/Products/Les-Paul/Les-Paul-Black-Beauty-3.aspx "An electric guitar."
+[boogie-mark-iv]: http://web.archive.org/web/20220119171506/https://mesaboogie.com/support/out-of-production/mark-iv.html "An guitar amp."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[eos-5d-mark-iii]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "A 22.3 megapixel DSLR."
+[eos-5d-mark-iii]: http://web.archive.org/web/20151103132744/http://www.usa.canon.com:80/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "A 22.3 megapixel DSLR."
 [es-335]: https://en.wikipedia.org/wiki/Gibson_ES-335 "An electric guitar."
 [expert-mouse]: http://web.archive.org/web/20210508225247/http://www.amazon.com/Kensington-Expert-Mouse-Optical-Trackball/dp/B00009KH63 "A 4 button trackball."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

@@ -36,6 +36,6 @@ I wish my MacBook Pro would fold up somehow. Also, I think it should have a touc
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [maglus-stylus]: https://maglusstylus.com/product.php/2/Maglus_Stylus_with_Removable_Tip_System "A stylus for mobile devices."
 [mathematica]: https://www.wolfram.com/mathematica/ "Computation and simulation software."
-[quietcomfort-20i]: https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
+[quietcomfort-20i]: http://web.archive.org/web/20190506062554/https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
 [sugarsync]: https://www1.sugarsync.com "A syncing and backup service."
-[vanishing-point]: https://www.namiki.com/collections/pilotVanishingPoint_RA.php "A very fancy pen."
+[vanishing-point]: http://web.archive.org/web/20150212003159/http://www.namiki.com:80/collections/pilotVanishingPoint_RA.php "A very fancy pen."

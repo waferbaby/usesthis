@@ -36,4 +36,4 @@ The dream setup would probably start with a bigger desk so I have more room. Oth
 [media-encoder]: https://creative.adobe.com/products/media-encoder "Software for encoding video for broadcast and the web."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[z170-pro]: https://www.asus.com/us/SupportOnly/Z170PRO/HelpDesk_Knowledge/ "A motherboard."
+[z170-pro]: http://web.archive.org/web/20230706204616/https://www.asus.com/us/supportonly/z170pro/helpdesk_knowledge/ "A motherboard."

@@ -29,8 +29,8 @@ I write/record all my music in [Logic X][logic-pro]. My favorite visual program 
 A recording studio that's also a dance studio. I'm not really particular with the hardware or software. I just want an awesome studio that's connected to a room with hardwood floors and wall to wall mirrors so I can choreograph and compose simultaneously. I would love a grand piano in that room, too. For both posing on and playing.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[at2020]: http://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
-[ax-synth]: http://www.roland.com/global/products/ax-synth/ "A keytar."
+[at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
+[ax-synth]: http://web.archive.org/web/20230706205124/https://www.roland.com/global/products/ax-synth/ "A keytar."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
@@ -45,8 +45,8 @@ A recording studio that's also a dance studio. I'm not really particular with th
 [quartet]: https://apogeedigital.com/products/quartet "An audio interface for the Mac and iPad."
 [s08]: https://usa.yamaha.com/products/music_production/synthesizers/s08/ "An 88-key synthesizer."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[snowball]: https://bluemic.com/snowball/ "A USB microphone."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
 [sonicare-essence]: http://web.archive.org/web/20230131080654/http://www.amazon.com/Philips-Sonicare-Essence-Power-Toothbrush/dp/B000AMRII0/ "An electric toothbrush."
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
-[td-6]: http://www.roland.com/global/ "An electric drum module."
+[td-6]: http://web.archive.org/web/20230815171639/https://www.roland.com/global/ "An electric drum module."
 [ultimate-ears-pro]: https://www.ultimateears.com/en-us/pro.html "Custom-made in-ear headphones."

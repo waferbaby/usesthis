@@ -74,7 +74,7 @@ Always wanted to have a design studio inside a matt black ice-cream truck too...
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[labelwriter-4xl]: https://www.dymo.com/en-US/labelwriter-4xl-label-printer "A label printer."
+[labelwriter-4xl]: http://web.archive.org/web/20210116031318/https://www.dymo.com/en-US/labelwriter-4xl-label-printer "A label printer."
 [line]: https://line.me/en/ "A messaging service."
 [lumix-dmc-gf2]: http://web.archive.org/web/20230204233534/http://www.amazon.com/Panasonic-Four-Thirds-Interchangeable-3-0-Inch-Touch-Screen/dp/B004A8ZQJS/ "A 12 megapixel digital camera with changeable lens."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

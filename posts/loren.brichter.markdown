@@ -59,5 +59,5 @@ original aluminum enclosure. Plastic gets slimy. And a pony.
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."
-[wii]: https://www.nintendo.com/wii/ "A unique gaming console."
+[wii]: http://web.archive.org/web/20140513065105/http://www.nintendo.com:80/wii "A unique gaming console."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

@@ -30,7 +30,7 @@ One of the things I love about working in tech is that my coworkers are always t
 
 I'm still looking for an efficient and intuitive way to catalogue design inspiration. Right now I'm rotating between [Evernote][], [Dropbox][], a collection of desktop folders, and even a bit of [Pinterest][] to help me reference things I like, but nothing seems quite right. If I could have anything, it would be the perfect visual bookmarking mashup.
 
-[cloudbi]: https://magento.com/products/business-intelligence "A business data modelling and analytics service."
+[cloudbi]: http://web.archive.org/web/20211214183449/https://magento.com/products/business-intelligence "A business data modelling and analytics service."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [essentio-cm6830]: http://web.archive.org/web/20200815202048/https://www.asus.com/us/Tower-PCs/Essentio_CM6830/ "A desktop tower PC."
@@ -40,7 +40,7 @@ I'm still looking for an efficient and intuitive way to catalogue design inspira
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [optimizely]: https://www.optimizely.com/ "An A/B testing service."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [principle]: https://principleformac.com/ "A design and animation tool."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."

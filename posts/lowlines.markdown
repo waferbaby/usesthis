@@ -28,20 +28,22 @@ My website has been built with a combination of [PHP][], [Less][less.2] and [Ang
 
 My dream setup would be a dedicated office space with large secondary monitors to ease developing for larger screens. I would also have a dedicated PC able to run Windows and for playing games. Extracting game assets currently involves loading up a virtual machine on a [Mac Mini][mac-mini] via screen share since there are specific tools I need that are not built with Mac users in mind.
 
+[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+
 [angularjs]: https://angularjs.org/ "A JavaScript framework."
 [animate]: https://en.wikipedia.org/wiki/Adobe_Animate "A vector animation suite."
 [bootstrap]: https://getbootstrap.com/ "A front-end web framework."
-[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[chrome-devtools]: http://web.archive.org/web/20210321161703/https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
 [dim]: https://destinyitemmanager.com/ "A tool for managing gear within Destiny 2."
 [discord]: https://discord.com/ "A voice and text chat service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [less.2]: https://lesscss.org/ "A CSS framework."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+[mamp]: https://www.mamp.info/en/mamp/mac/ "A one-click Mac solution for Apache, MySQL, PHP."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [php]: https://www.php.net/ "An interpreted scripting language."
-[react]: http://reactjs.org/ "A JavaScript UI framework."
+[react]: http://web.archive.org/web/20230316153459/https://reactjs.org/ "A JavaScript UI framework."
 [sass]: https://sass-lang.com/ "A syntax wrapper for CSS."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [sourcetree]: https://www.sourcetreeapp.com/ "A Mac GUI client for Git, Subversion and Mercurial."

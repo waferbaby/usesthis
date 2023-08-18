@@ -35,8 +35,8 @@ I use a combination of Adobe [Lightroom][] (for cataloging and organising, as we
 My dream setup? I'd like to upgrade to the DJI [Inspire 2 Premium][inspire-2-premium], with all the available lenses to go with it. If I was going really big, though, the ultimate setup for me would be to have my own shot over camera and an aircraft/helicopter to attach to it.
 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[inspire-2-premium]: https://www.dji.com/cn/inspire-2 "A drone."
+[inspire-2-premium]: http://web.archive.org/web/20171124022154/http://www.dji.com:80/cn/inspire-2 "A drone."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [mavic-2-pro]: https://www.dji.com/cn/mavic-2 "A drone."
-[phantom-4-pro]: https://www.dji.com/cn/phantom-4-pro "A drone."
+[phantom-4-pro]: http://web.archive.org/web/20171116034220/http://www.dji.com:80/cn/phantom-4-pro "A drone."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

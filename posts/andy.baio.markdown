@@ -63,7 +63,7 @@ But more than anything, my dream setup would be one where I can continue to work
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
@@ -80,7 +80,7 @@ But more than anything, my dream setup would be one where I can continue to work
 [iphone-11]: https://en.wikipedia.org/wiki/IPhone_11 "A 6.06 inch iOS smartphone."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
 [kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
-[kite]: https://www.kite.com/ "An IDE plugin to perform Python code completion with machine learning."
+[kite]: http://web.archive.org/web/20221105203105/https://www.kite.com/ "An IDE plugin to perform Python code completion with machine learning."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [medium]: https://medium.com/ "A writing/blogging service."

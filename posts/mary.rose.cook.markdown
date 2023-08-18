@@ -64,7 +64,7 @@ My dream setup would be some sort of crazy laptop that was small enough to keep 
 [prompt-ios]: https://apps.apple.com/us/app/prompt/id421507115 "An SSH client for iOS."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
-[sm58]: https://www.shure.com:443/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[sm58]: http://web.archive.org/web/20190411150950/https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."

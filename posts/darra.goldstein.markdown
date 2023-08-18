@@ -49,6 +49,6 @@ My dream setup wouldn't be too different from what I have now, though I probably
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
-[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
-[quietcomfort-20i]: https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
+[precise-v5]: http://web.archive.org/web/20230607220948/http://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI/ "A pen."
+[quietcomfort-20i]: http://web.archive.org/web/20190506062554/https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

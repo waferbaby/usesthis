@@ -40,6 +40,6 @@ Ideally, being able to run solely on my Mac would be nice, but it's not ideal wi
 [lp2475w]: http://web.archive.org/web/20140419021437/http://h10010.www1.hp.com:80/wwpc/us/en/sm/WF10a/382087-382087-64283-72270-3884471-3648442.html "A 24 inch LCD monitor."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[methode]: https://www.eidosmedia.com/platforms "A content management system used by newspapers."
+[methode]: http://web.archive.org/web/20230706202049/https://www.eidosmedia.com/platforms/ "A content management system used by newspapers."
 [optiplex-755]: https://outlet.us.dell.com/ARBOnlineSales/Online/InventorySearch.aspx?brandid=2802&c=us&cs=28&l=en&s=dfb&frid=204 "A tower PC."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

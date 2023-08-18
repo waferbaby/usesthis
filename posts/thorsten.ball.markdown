@@ -101,7 +101,7 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [1password]: https://1password.com "Password management software for Mac OS X."
 [1writer-ios]: https://apps.apple.com/us/app/1writer/id680469088 "A text editor app."
 [alacritty]: https://github.com/alacritty/alacritty "A fast terminal emulator."
-[annotate]: https://apps.apple.com/us/app/annotate-capture-and-share/id918207447 "Mac software for capturing and annotating screenshots."
+[annotate]: http://web.archive.org/web/20201109034003/https://apps.apple.com/us/app/annotate-capture-and-share/id918207447 "Mac software for capturing and annotating screenshots."
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."
 [automator]: https://en.wikipedia.org/wiki/Automator_(software) "Software included with Mac OS X for creating script-based workflows."

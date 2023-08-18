@@ -39,7 +39,7 @@ I do 90% of my drawing and designing in [Procreate][procreate-ios] for the iPad.
 I'm darn lucky to be working in my dream studio and to have a beautiful work space in my own bedroom. If I could improve it at all, I'd love to have a more ergonomic setup to help with my back. I'd also love to be able to update my smartphone every year, just so I can keep up with advances in phone camera technology.
 
 [animelab]: http://web.archive.org/web/20211201175228/https://www.animelab.com/ "A Japanese animation streaming service."
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [discord]: https://discord.com/ "A voice and text chat service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

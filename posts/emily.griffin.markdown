@@ -50,7 +50,7 @@ If I could have the creative hustle and community of NYC combined with some suns
 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[hue]: https://www.philips-hue.com/en-us/ "A wireless controllable LED light system."
+[hue]: http://web.archive.org/web/20230815071430/https://www.philips-hue.com/en-us "A wireless controllable LED light system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

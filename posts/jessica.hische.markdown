@@ -32,7 +32,7 @@ I'm actually quite happy with my hardware setup at the moment. Really the only t
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[fontlab-studio]: https://www.fontlab.com/font-editor/fontlab-studio/ "Font creation software."
+[fontlab-studio]: http://web.archive.org/web/20191206011251/https://www.fontlab.com/font-editor/fontlab-studio/ "Font creation software."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."

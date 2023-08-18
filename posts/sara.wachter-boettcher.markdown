@@ -38,7 +38,7 @@ You know, I don't hang out thinking about my setup much, to be honest. The first
 
 Even now, I'll work sitting up in bed with a lap desk from Target, or at the kitchen counter. I love working in a field where my setup can be minimal, and I can still get to work.
 
-[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [catalina-30x60-desk]: https://www.copelandfurniture.com/home-office/desks/catalina-30x60-desk-with-keyboard-tray.html "A desk with a keyboard tray."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."

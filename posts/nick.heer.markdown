@@ -46,7 +46,7 @@ I'd like to have something faster and more capable for handling the very large R
 
 Truth be told, though, I'm still very happy with what I have. I replaced my last computer -- a 2007 MacBook Pro -- after five years, and it felt like it was on its last legs by that time. This MacBook Air still feels very fast most of the time, and does everything I ask of it. And the Thunderbolt Display is something I like so much that I [wrote an obituary for it](https://pxlnv.com/blog/requiem-thunderbolt-display/ "Nick's post about the Thunderbolt Display.") after Apple announced that they would no longer be making displays. They have since reversed that position -- thankfully.
 
-[161]: https://www.bose.com/en_us/products/speakers/stereo_speakers.html "Speakers."
+[161]: http://web.archive.org/web/20230706194754/https://www.bose.com/en_us/products/speakers/stereo_speakers.html "Speakers."
 [849]: https://www.carandache.com/us/en/849-s-1070.htm "A pen."
 [aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
 [canonet-ql19]: https://global.canon/en/c-museum/product/film81.html "A film camera."
@@ -61,7 +61,7 @@ Truth be told, though, I'm still very happy with what I have. I replaced my last
 [marsedit]: https://redsweater.com/marsedit/ "A weblog editor for the Mac."
 [ministation-thunderbolt]: https://www.buffalotech.com/products/ministation-thunderbolt "An external Thunderbolt hard drive."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[q.2]: https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
+[q.2]: http://web.archive.org/web/20190508144504/https://www.amazon.com/Leica-Typ-116-black-anodized/dp/B00ZTIHIJY/ "A 24.2 megapixel full-frame camera."
 [reeder-ios]: https://reederapp.com "A Google Reader client for iOS."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."

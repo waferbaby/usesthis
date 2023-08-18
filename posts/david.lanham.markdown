@@ -25,10 +25,10 @@ Most of my software time is spent in [Adobe Illustrator][illustrator] with [Phot
 I don't have too many unfulfilled needs right now, an extra 30" would of course be fantastic, but mainly I just want my software to be intuitive and responsive. It still seems like I'm waiting around a lot for drawings to render out or tasks and filters to do their job. I don't know exactly how much of that is software and how much is hardware, but I suspect the majority is software based. I'd like to think that an 8-core Mac Pro could handle just about anything you throw at it if the software is taking full advantage of the processors. Otherwise my ultimate setup would have hardware and software that can read my mind and throw down the drawings I have in my head without me lifting a finger. It's not too much to ask, right?
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[candybar]: https://panic.com/blog/candybar-mountain-lion-and-beyond/ "Software for changing the default icons in Mac OS X."
+[candybar]: http://web.archive.org/web/20230720135243/https://panic.com/blog/candybar-mountain-lion-and-beyond/ "Software for changing the default icons in Mac OS X."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
-[iconbuilder]: https://iconfactoryapps.com "An icon creation plugin for Photoshop."
+[iconbuilder]: http://web.archive.org/web/20230109000807/https://iconfactoryapps.com/ "An icon creation plugin for Photoshop."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

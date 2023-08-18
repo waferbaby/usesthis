@@ -41,7 +41,7 @@ For development:
 
 My dream setup is simple!! I have an adjustable standing / sitting desk. My office has AC and heat. The office has really high ceilings, there's a sky painted on the ceiling. The floor is fake grass. Outdoor ambience plays, and there's windchimes. The lighting makes it look like you're outside, and matches the time of day. There is a running stream for gentle thoughts, and a grotto for serious ideas!!
 
-[ath-m50]: http://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
+[ath-m50]: http://web.archive.org/web/20230409072021/https://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [blackwidow-chroma]: http://web.archive.org/web/20230517103549/http://www.amazon.com/Razer-BlackWidow-Chroma-Mechanical-Keyboard/dp/B00MTWV0II "A mechanical gaming keyboard."
 [donut-country]: http://www.donutcounty.com/ "A video game where you play an ever-growing hole in the ground."
@@ -54,4 +54,4 @@ My dream setup is simple!! I have an adjustable standing / sitting desk. My offi
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sculpt-ergonomic-mouse]: https://www.microsoft.com/en-us/p/microsoft-sculpt-ergonomic-mouse/8vq1d8qsvt22 "An ergonomic mouse."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[xamarin-studio]: https://dotnet.microsoft.com/apps/xamarin "A development IDE."
+[xamarin-studio]: http://web.archive.org/web/20211207090404/https://dotnet.microsoft.com/apps/xamarin "A development IDE."

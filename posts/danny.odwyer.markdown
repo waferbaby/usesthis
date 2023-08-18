@@ -38,5 +38,5 @@ I'm in the fortunate position of basically having everything I need to do our wo
 [geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
-[ninja]: https://www.atomos.com/ninja "A digital video device for DSLR cameras."
+[ninja]: http://web.archive.org/web/20220522033241/https://www.atomos.com/Ninja "A digital video device for DSLR cameras."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

@@ -67,6 +67,6 @@ Looking way-out, I'd like a 32" iPad: one that basically looks like an iMac toda
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spaces]: https://en.wikipedia.org/wiki/Spaces_(software) "Virtual desktop software included with Mac OS X."
-[status-board-ios]: https://panic.com/blog/the-future-of-status-board/ "A customisable dashboard app."
+[status-board-ios]: http://web.archive.org/web/20230706195135/https://panic.com/blog/the-future-of-status-board/ "A customisable dashboard app."
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

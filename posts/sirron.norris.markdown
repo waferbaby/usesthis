@@ -40,7 +40,7 @@ Other then that, I'm pretty lucky to have what I have.
 [pagemaker]: https://www.adobe.com/products/indesign.html "Desktop publishing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
-[sketchbook-pro-ios]: http://www.sketchbook.com/apps "A drawing app."
+[sketchbook-pro-ios]: http://web.archive.org/web/20230720145325/https://www.sketchbook.com/apps "A drawing app."
 [toon-boom-studio]: https://www.toonboom.com/ "A 2D animation software package."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

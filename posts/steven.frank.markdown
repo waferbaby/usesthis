@@ -57,6 +57,6 @@ I think this is actually probably pretty close to it. They just need to keep mak
 [subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
-[wow]: https://worldofwarcraft.com/en-us/ "A fantasy MMORPG."
+[wow]: http://web.archive.org/web/20230215153957/https://worldofwarcraft.com/en-us/ "A fantasy MMORPG."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
 [yojimbo]: http://www.barebones.com/products/Yojimbo/ "Data 'bucket' software for the Mac."

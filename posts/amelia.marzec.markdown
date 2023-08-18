@@ -30,7 +30,7 @@ These days I'm thinking a lot about space and archiving, what to have online / o
 [fmst-100]: http://web.archive.org/web/20200225024225/http://rainbowkits.com:80/kits/fmst-100p.html "An FM transmitter."
 [google-analytics]: https://marketingplatform.google.com/about/analytics/ "Web analytics."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [processing]: https://processing.org/ "A programming language/environment."
 [selfcontrol]: https://selfcontrolapp.com/ "Mac software to keep you away from distracting websites."

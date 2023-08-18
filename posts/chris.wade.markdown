@@ -59,4 +59,4 @@ I'm really happy with my standing desk desktop and laptop setup, but it would be
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [vacation-simulator]: https://vacationsimulatorgame.com/ "A VR game about vacationing."
 [visual-assist]: https://en.wikipedia.org/wiki/Visual_Assist "A code suggestion plugin for Visual Studio."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."

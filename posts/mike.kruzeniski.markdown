@@ -40,8 +40,8 @@ I read books on my Nokia Lumia and my iPad using [Kindle][kindle-ios].
 If I could, I would have one computer for everything. It would be a tablet that ran all the software I've mentioned above, and worked with a pen, for sketching in an app like [Paper][paper-ios]. I like to be mobile when I work, especially for sketching and writing down notes. The more I could treat it like a sketchbook, the better. But, it would wirelessly connect to a keyboard, mouse, and a large display - let's say 30" - at my desk, for getting the kind of stuff done that's hard to get done with just a finger on a touch screen.
 
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[d7000]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d7000.html "A 16.2 megapixel DSLR."
-[elements-desktop]: https://www.wd.com/en/products/products.aspx?id=260 "An external hard drive."
+[d7000]: http://web.archive.org/web/20150902003342/http://www.nikonusa.com:80/en/Nikon-Products/Product/dslr-cameras/D7000.html "A 16.2 megapixel DSLR."
+[elements-desktop]: http://web.archive.org/web/20151225213013/http://wd.com:80/en/products/products.aspx?id=260 "An external hard drive."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
@@ -54,7 +54,7 @@ If I could, I would have one computer for everything. It would be a tablet that 
 [minohd]: http://web.archive.org/web/20221209033451/https://www.amazon.com/Flip-MinoHD-Video-Camera-Generation/dp/B0040702I4/ "An HD video recorder."
 [nex-5n]: http://web.archive.org/web/20230518023817/http://www.amazon.com/Sony-NEX-5N-Compact-Interchangeable-Touchscreen/dp/B005IHAIMA "A 16.1 megapixel camera."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
-[paper-ios]: http://wetransfer.com/paper "A notebook/drawing app."
+[paper-ios]: http://web.archive.org/web/20230815030158/https://wetransfer.com/paper "A notebook/drawing app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [safari]: https://www.apple.com/safari/ "A fast web browser."

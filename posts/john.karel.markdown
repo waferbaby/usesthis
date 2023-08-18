@@ -33,7 +33,7 @@ My dream set-up would be a large room with large windows. A dual monitor set-up 
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [motion]: https://www.apple.com/final-cut-pro/motion/ "A 3D motion graphics suite."
-[mx-master]: https://support.logitech.com/en_us/product/mx-master/ "A wireless mouse."
+[mx-master]: http://web.archive.org/web/20190506074433/https://support.logitech.com/en_us/product/mx-master "A wireless mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [surface-pro-4]: https://en.wikipedia.org/wiki/Surface_Pro_4 "A Windows tablet."

@@ -40,7 +40,7 @@ I would like to build my own green screen stage. A large green stage with a setu
 [cosmo]: https://www.maxon.net/en/red-giant "A skin tone and blemish plugin for After Effects."
 [element.2]: https://www.videocopilot.net/products/element2/ "A 3D rendering engine for After Effects."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

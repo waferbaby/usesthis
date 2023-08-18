@@ -38,7 +38,7 @@ I think I have it already. I'll replace my camera one day with a modern Nikon eq
 [locoscript]: https://en.wikipedia.org/wiki/LocoScript "A word processor."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pixma-ts5151]: https://www.canon.co.uk/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts5151.html?type=setup "An all-in-one scanner/printer."
+[pixma-ts5151]: http://web.archive.org/web/20220120174251/https://www.canon.co.uk/support/consumer_products/products/fax__multifunctionals/inkjet/pixma_ts_series/pixma-ts5151.html?type=setup "An all-in-one scanner/printer."
 [wesendit]: http://web.archive.org/web/20230517205217/https://www.wesendit.com/ "A service for sending files."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

@@ -48,5 +48,5 @@ I wish learning management systems weren't so terrible, but otherwise I'm pretty
 [papers]: https://www.papersapp.com/ "iTunes-like software for organising articles."
 [processing]: https://processing.org/ "A programming language/environment."
 [reveal.js]: https://revealjs.com/ "An HTML-based presentation tool."
-[skim]: https://skim-app.sourceforge.net/ "PDF reader/note-taker software for the Mac."
+[skim]: http://web.archive.org/web/20180215153733/http://skim-app.sourceforge.net/ "PDF reader/note-taker software for the Mac."
 [textmate]: https://macromates.com/ "A text editor for the Mac."

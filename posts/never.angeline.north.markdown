@@ -35,5 +35,5 @@ I'd love to get a [Surface Book 2][surface-book-2] or some other kind of laptop/
 [latitude-e6230]: http://web.archive.org/web/20150426013431/http://www.amazon.com:80/Dell-Latitude-i7-3520M-Backlit-Keyboard/dp/B00B8TO4CW? "A 12.5 inch PC laptop."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [surface-book-2]: https://en.wikipedia.org/wiki/Surface_Book_2 "A 2-in-1 laptop/tablet device."

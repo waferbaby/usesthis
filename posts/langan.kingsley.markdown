@@ -43,7 +43,7 @@ I paid for a [Freedom][] subscription and I have never looked back. 100% the sof
 
 Honestly, at this point, my dream setup would be to have my desk outside my bedroom. But for now? The girl with the pink computer can only dream.
 
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
@@ -51,6 +51,6 @@ Honestly, at this point, my dream setup would be to have my desk outside my bedr
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[snowball]: https://bluemic.com/snowball/ "A USB microphone."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [writerduet]: https://www.writerduet.com "A collaborative screenwriting service."

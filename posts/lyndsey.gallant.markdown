@@ -64,7 +64,7 @@ I'd really love to have a mobile workstation so I can have more workdays in cafe
 [m65-pro-rgb]: https://www.corsair.com/us/en/m65pro "A gaming mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[quest]: https://www.oculus.com/quest-2/ "An all-in-one VR headset."
+[quest]: http://web.archive.org/web/20230127074328/https://www.oculus.com/Quest-2/ "An all-in-one VR headset."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [tilt-brush]: https://www.tiltbrush.com/ "Software for painting in VR."
 [unity]: https://unity.com/products "A cross-platform game development tool."

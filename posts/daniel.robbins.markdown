@@ -54,7 +54,7 @@ If anything can be learned from this, there is power in actually articulating yo
 [jquery]: https://jquery.com/ "A Javascript framework."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[openvz]: https://openvz.org/Main_Page "Virtualisation software for *nix."
+[openvz]: http://web.archive.org/web/20180624003430/https://openvz.org/Main_Page "Virtualisation software for *nix."
 [poweredge-r710]: https://www.dell.com/en-us/work/shop/cty/pdp/spd/poweredge-r710 "A rack-mounted PC server."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raphael]: https://dmitrybaranovskiy.github.io/raphael/ "A Javascript library for working with vector graphics."

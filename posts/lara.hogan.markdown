@@ -51,7 +51,7 @@ At both work and home I listen to [Pandora][] and [Rdio][]. Both are tuned to so
 
 Free, public, fast WiFi everywhere. Better battery life on everything. My own [Jarvis](http://ironman.wikia.com/wiki/J.A.R.V.I.S. "The Ironman Wikia entry on J.A.R.V.I.S."). A way to write the book on my laptop while on a beach (visible screen, sand prevention). Donut delivery service with no minimums.
 
-[adblock]: https://getadblock.com/en/ "A browser extension for blocking ads."
+[adblock]: http://web.archive.org/web/20230813081746/https://getadblock.com/en/ "A browser extension for blocking ads."
 [airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [amazonbasics-4-inch-lightning-cable]: http://web.archive.org/web/20211116145226/https://www.amazon.com/AmazonBasics-Apple-Certified-Lightning-Cable/dp/B00NH138F8 "A 4-inch Lightning cable."
 [aqua-notes]: http://web.archive.org/web/20221206125243/http://www.amazon.com/Aqua-Notes-Waterproof-Notepad-Mountable/dp/B003W09LTQ "Waterproof notepads."
@@ -60,7 +60,7 @@ Free, public, fast WiFi everywhere. Better battery life on everything. My own [J
 [ath-m50s]: http://web.archive.org/web/20200117094958/https://www.amazon.com/Audio-Technica-ATH-M50S-Professional-Monitor-Headphones/dp/B004ZG9TMA "Over-the-ear headphones."
 [back-ups-xs]: https://www.apc.com/template/country_selection.cfm?ref_url=/resource/include/techspec_index.cfm?base_sku=BX1000G "A UPS unit."
 [bitly]: http://web.archive.org/web/20221225151420/https://bitly.com/ "A link shortening and tracking service."
-[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[chrome-devtools]: http://web.archive.org/web/20210321161703/https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [conserve-socket-energy-saving-outlet]: http://web.archive.org/web/20201217161100/https://www.amazon.com/Belkin-Conserve-Socket-Energy-Saving/dp/B003P2UMQ2 "A power strip that turns off peripherals when you turn off your TV."
@@ -71,7 +71,7 @@ Free, public, fast WiFi everywhere. Better battery life on everything. My own [J
 [dropbox-ios]: https://www.dropbox.com/mobile?trigger=on "An iOS version of the syncing software."
 [e2009w]: http://web.archive.org/web/20160509182224/http://www.amazon.com/Dell-UltraSharp-E2009W-WideScreen-LCD/dp/B003TU9V0S "A 20 inch LCD monitor."
 [ecoextreme]: http://web.archive.org/web/20190828075332/https://gracedigital.com/shop/ecoextreme/ "A waterproof housing for speakers or smartphones."
-[elements-desktop]: https://www.wd.com/en/products/products.aspx?id=260 "An external hard drive."
+[elements-desktop]: http://web.archive.org/web/20151225213013/http://wd.com:80/en/products/products.aspx?id=260 "An external hard drive."
 [etsy-ios]: https://apps.apple.com/us/app/etsy/id477128284 "A client for the Etsy service."
 [etsy]: https://www.etsy.com/ "A doily deployment system."
 [evernote]: https://evernote.com/ "Online software for capturing notes."

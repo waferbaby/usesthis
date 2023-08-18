@@ -56,7 +56,7 @@ I really want a better desk; I have an old IKEA desk that still works Fine, but 
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [among-us]: https://en.wikipedia.org/wiki/Among_Us "A social deduction game."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [canva]: http://web.archive.org/web/20221226232811/https://www.canva.com/ "Web-based design software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [discord]: https://discord.com/ "A voice and text chat service."
@@ -82,7 +82,7 @@ I really want a better desk; I have an old IKEA desk that still works Fine, but 
 [overwatch]: https://overwatch.blizzard.com:443/ "A team-based FPS game."
 [round-stic-xtra-life]: https://us.bic.com/en_us/bic-round-stic-xtra-life-ball-point-pen-blue-60-pack.html "A ballpoint pen."
 [save-to-pocket]: https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj "A Chrome extension for saving links in Pocket."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [skitch]: https://evernote.com/products/skitch "An always-on image editor for the Mac."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
@@ -91,4 +91,4 @@ I really want a better desk; I have an old IKEA desk that still works Fine, but 
 [wh-1000xm4]: http://web.archive.org/web/20221101165527/https://electronics.sony.com/audio/headphones/headband/p/wh1000xm4-w "On-ear wireless headphones."
 [x-s10]: https://fujifilm-x.com/global/products/cameras/x-s10/ "A 26.1 megapixel mirrorless camera."
 [yeti-nano]: https://www.logitechg.com/en-us/products/streaming-gear/yeti-nano-usb-microphone.988-000088.html "A USB microphone."
-[yeti]: https://bluemic.com/yeti/ "A USB microphone."
+[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."

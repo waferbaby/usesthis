@@ -38,6 +38,6 @@ My dream set-up is not so much about specific gear or equipment, though I love 6
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sd-1]: https://www.boss.info/us/products/sd-1/ "A guitar pedal."
-[svt-cl]: https://ampeg.com/products/classic/svtcl/ "A bass amp."
+[svt-cl]: http://web.archive.org/web/20230328204030/https://ampeg.com/products/classic/svtcl/ "A bass amp."
 [telecaster]: https://en.wikipedia.org/wiki/Fender_Telecaster "An electric guitar."
 [tube-screamer]: https://en.wikipedia.org/wiki/Ibanez_Tube_Screamer "A guitar pedal."

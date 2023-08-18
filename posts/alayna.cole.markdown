@@ -30,15 +30,15 @@ I do a lot of quick image edits, and have always leaned on [PhotoFiltre 7][photo
 
 You can tell from how little I knew about my PC before answering these questions that I am not very fussy! So long as I have enough processing power to play some videogames (I'm addicted to [Final Fantasy XIV][final-fantasy-xiv] at the moment) and access to the Internet so I can use the Google Suite, I'm content! So I guess I'm living my dream already.
 
-[ath-m50x]: http://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
-[core-i5-4690]: https://ark.intel.com/content/www/us/en/ark/products/80810/intel-core-i5-4690-processor-6m-cache-up-to-3-90-ghz.html "A computer CPU."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
+[core-i5-4690]: http://web.archive.org/web/20210821050425/https://ark.intel.com/content/www/us/en/ark/products/80810/intel-core-i5-4690-processor-6m-cache-up-to-3-90-ghz.html "A computer CPU."
 [discord]: https://discord.com/ "A voice and text chat service."
 [final-fantasy-xiv]: https://en.wikipedia.org/wiki/Final_Fantasy_XIV "A fantasy MMO."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."

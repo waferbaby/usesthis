@@ -40,7 +40,7 @@ A Sonos [Sub][] and [Connect][connect.2] (so I can play my records through the s
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [connect.2]: https://www.sonos.com/en-us/sonos-shop/products/connect "An audio streaming system."
-[dl4]: https://line6.com/stompbox-modelers/dl4-delay-stompbox-modeling-pedal "An effects pedal."
+[dl4]: http://web.archive.org/web/20211130124333/https://line6.com/stompbox-modelers/dl4-delay-stompbox-modeling-pedal "An effects pedal."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."

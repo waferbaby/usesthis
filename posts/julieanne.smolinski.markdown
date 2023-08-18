@@ -35,5 +35,5 @@ I'm breaking down and buying a [Macbook][], but dream wise, I would like a grown
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
 [paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
-[snowball]: https://bluemic.com/snowball/ "A USB microphone."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

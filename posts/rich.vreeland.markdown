@@ -36,9 +36,9 @@ For two-track audio editing I use [Sound Studio][sound-studio] (for quick simple
 My dream setup is to work in a supremely comfortable, quiet, minimal space with great lighting that is a short walk from where I live. An AR interface for working with software is something that appeals to me too. One day..
 
 [embody]: https://www.hermanmiller.com/products/seating/office-chairs/embody-chairs/ "An ergonomic work chair."
-[espresso]: http://espressoapp.com/ "A single-window HTML/web tool for the Mac."
+[espresso]: http://web.archive.org/web/20230706191100/https://espressoapp.com/ "A single-window HTML/web tool for the Mac."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gitbox]: http://gitboxapp.com/ "A Git client for macOS."
+[gitbox]: http://web.archive.org/web/20230529220625/http://www.gitboxapp.com/ "A Git client for macOS."
 [hd-600]: http://web.archive.org/web/20230429204111/http://www.amazon.com/Sennheiser-Dynamic-Professional-Stereo-Headphones/dp/B00004SY4H "Over the ear headphones."
 [kaleidoscope]: https://kaleidoscope.app/ "A file and image diff app for the Mac."
 [keyboard-maestro]: http://www.keyboardmaestro.com/main/ "A macro application for the Mac."
@@ -47,8 +47,8 @@ My dream setup is to work in a supremely comfortable, quiet, minimal space with 
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [max]: https://cycling74.com/products/max "A visual programming environment."
 [myriad]: http://web.archive.org/web/20170512045958/http://www.audiofile-engineering.com:80/myriad/index.html "A batch audio processor."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
-[reason]: https://www.reasonstudios.com/ "A virtual studio rack for creating music."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[reason]: http://web.archive.org/web/20230718002423/https://reasonstudios.com/ "A virtual studio rack for creating music."
 [rx]: https://www.izotope.com/en/products/rx.html "Audio repair software."
 [sound-studio]: https://en.wikipedia.org/wiki/Sound_Studio "A sound editor for the Mac."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."

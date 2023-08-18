@@ -49,7 +49,7 @@ For me, the ideal set-up is much less about the hardware or software I am using.
 
 When I first started working as a tech journalist, I would try out almost any kind of new software that came out. But I've been burned several times by startups that went away, by software that locked me in. So I really don't use a lot of different software tools. Ideally, the software and hardware we all use would protect our privacy, be strongly encrypted, and be easily interoperable so that we could move it from program to program, from system to system. I don't want anything fancy or fantastical. But damn, I do want to use tools that don't suck.
 
-[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [github-desktop]: https://desktop.github.com/ "A client for the versioning control service."
@@ -62,7 +62,7 @@ When I first started working as a tech journalist, I would try out almost any ki
 [jekyll]: https://jekyllrb.com/ "A static site generator."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

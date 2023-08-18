@@ -49,7 +49,7 @@ To sift through all my accumulated files by theme, by episode in my life, by mul
 
 I want a kind of choice and automation to make up for the fact that I didn't think to set things up that way myself to being with. Emotional directories? For me it's not so much a system I can adhere to as a better way to go about managing my own memories.
 
-[55sh]: https://www.shure.com:443/americas/products/microphones/classic/55sh-series-ii-iconic-unidyne-vocal-microphone "A vocals micrphone."
+[55sh]: http://web.archive.org/web/20190331211531/http://www.shure.com:80/americas/products/microphones/classic/55sh-Series-ii-iconic-unidyne-vocal-microphone "A vocals micrphone."
 [big-cartel]: https://www.bigcartel.com/ "A shopping cart service for artists."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
 [g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
@@ -64,9 +64,9 @@ I want a kind of choice and automation to make up for the fact that I didn't thi
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [mdr-7506]: http://web.archive.org/web/20230522193817/https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
-[pulley]: http://pulleyapp.com "A service for selling art, books and music."
+[pulley]: http://web.archive.org/web/20230807062813/https://pulleyapp.com/ "A service for selling art, books and music."
 [rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [sigil]: https://github.com/Sigil-Ebook/Sigil "An EPUB editor."
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [snapseed-ios]: https://apps.apple.com/us/app/snapseed/id439438619 "A photo app."
@@ -75,6 +75,6 @@ I want a kind of choice and automation to make up for the fact that I didn't thi
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [the-print-shop]: https://archive.org/details/a2_Print_Shop_The_1984_Broderbund "Desktop publishing software."
 [tinyletter]: https://tinyletter.com/ "An email newsletter service."
-[tornado.2]: https://retro51.com/fwi_tor_classiclacquers.html "A pen."
+[tornado.2]: http://web.archive.org/web/20220122170446/http://www.retro51.com/fwi_tor_classiclacquers.html "A pen."
 [wikipedia]: https://en.wikipedia.org/wiki/Main_Page "A free online encyclopedia."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

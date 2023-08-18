@@ -34,7 +34,7 @@ My dream setup would be having my studio at The Philip Johnson Glass House. Surr
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

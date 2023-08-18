@@ -62,7 +62,7 @@ I'm probably stretching the scope of this question, but if you're going to dream
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [localtunnel]: https://github.com/progrium/localtunnel "A tool for easily exposing a local server to the world."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[netcat]: https://nc110.sourceforge.net/ "A tool for network debugging/exploring."
+[netcat]: http://web.archive.org/web/20190825184938/http://nc110.sourceforge.net/ "A tool for network debugging/exploring."
 [notify-io]: https://github.com/progrium/notify-io "A service for desktop notifications via web apps."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."

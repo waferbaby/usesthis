@@ -62,7 +62,7 @@ All of this is quite a bit of dreaming and budget, but who knows what the future
 
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [aplt4]: http://ravelliphoto.com/ravelli-aplt4.html "A tripod."
-[arduino-ide]: https://www.arduino.cc/en/software "A development environment for Arduino hardware."
+[arduino-ide]: http://web.archive.org/web/20230816193740/https://www.arduino.cc/en/software/ "A development environment for Arduino hardware."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
 [artgram-ios]: https://apps.apple.com/sa/app/artgram/id1251985477 "An experimental image app."
 [avrfuses]: https://vonnieda.org/software/avrfuses "A programmer for microcontrollers from Atmel."
@@ -72,7 +72,7 @@ All of this is quite a bit of dreaming and budget, but who knows what the future
 [coolterm]: https://freeware.the-meiers.org/ "Serial port terminal software."
 [eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
-[ef-50mm-f1.8-ii]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_8_ii "A standard and medium telephoto camera lens."
+[ef-50mm-f1.8-ii]: http://web.archive.org/web/20151104043247/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_8_ii "A standard and medium telephoto camera lens."
 [emate-3000]: https://en.wikipedia.org/wiki/EMate_300 "A PDA."
 [eos-550d]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."

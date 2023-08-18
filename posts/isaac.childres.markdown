@@ -29,9 +29,9 @@ Honestly, I don't really think much about improving my setup. It is functional, 
 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
-[forge-war]: https://cephalofair.com/forge-war "A resource management board game."
+[forge-war]: http://web.archive.org/web/20201028191944/https://www.cephalofair.com/forge-war "A resource management board game."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gloomhaven]: https://cephalofair.com/gloomhaven "A tactical combat board game."
+[gloomhaven]: http://web.archive.org/web/20201118030010/https://www.cephalofair.com/gloomhaven "A tactical combat board game."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."

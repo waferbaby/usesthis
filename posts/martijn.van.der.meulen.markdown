@@ -59,7 +59,7 @@ In general I'm very content with the setup that I currently have actually.
 [game-dev-story-android]: https://play.google.com/store/apps/details?id=net.kairosoft.android.gamedev3en "A game developer studio simulator."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
-[hansoft]: https://www.perforce.com/products/hansoft/ "A global collaboration/software development tool."
+[hansoft]: http://web.archive.org/web/20230812200606/https://www.perforce.com/products/hansoft "A global collaboration/software development tool."
 [human-japanese-android]: https://play.google.com/store/apps/details?id=com.braksoftware.HumanJapanese "An Android app for learning the Japanese language."
 [inspiron-mini-9]: https://outlet.us.dell.com/ARBOnlineSales/Online/InventorySearch.aspx?brandid=2201&c=us&cs=22&l=en&s=dfh&frid=127 "A 9 inch netbook."
 [nexus-s]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."

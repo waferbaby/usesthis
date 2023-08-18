@@ -31,7 +31,7 @@ I would love it if everything were always ready to go so that, when inspirations
 
 [abbeyroad]: https://www.native-instruments.com/en/products/komplete/drums/abbey-road-60s-drummer/ "A digital drum kit."
 [animoog-ios]: https://www.moogmusic.com/products/apps/animoog "A synthesizer for iOS."
-[dm1-ios]: https://fingerlab.net/portfolio/dm1 "A drum machine app."
+[dm1-ios]: http://web.archive.org/web/20230706192803/https://www.fingerlab.net/portfolio/dm1 "A drum machine app."
 [duet]: https://apogeedigital.com/products/duet "An audio interface for the Mac."
 [gadget-ios]: https://www.korg.com/us/products/software/korg_gadget/ "A synth studio app."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
@@ -44,7 +44,7 @@ I would love it if everything were always ready to go so that, when inspirations
 [minimoog-voyager-performer]: https://www.moogmusic.com/products/minimoog-voyagers/minimoog-voyager-performer-edition "An analog synth."
 [monotron-delay]: https://www.korg.com/us/products/dj/monotron_delay/ "An analog synth."
 [nostalgia-70s-ride]: http://web.archive.org/web/20141118040804/http://www.amazon.com:80/Istanbul-Mehmet-Nostalgia-70s-Ride/dp/B00A8MKJC4 "Drum cymbals."
-[pocket-piano]: https://www.critterandguitari.com/products/pocket-piano "A little synth."
+[pocket-piano]: http://web.archive.org/web/20180218153346/https://www.critterandguitari.com/products/pocket-piano "A little synth."
 [rokit-6]: https://www.krkmusic.com/krk-studio-monitor-speakers/rokit/rokit-6.html "Studio speakers."
 [seekbeats-ios]: https://apps.apple.com/us/app/seekbeats/id681672176 "A drum loop app."
 [tweakybeat-ios]: https://apps.apple.com/us/app/tweakybeat/id330051410 "A drum machine app."

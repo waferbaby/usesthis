@@ -30,7 +30,7 @@ Honestly I'm pretty happy with my current setup and job but if was living in my 
 
 I'd have both work and home near the beach. I'd like to be able to walk my son to school on the way to work and get to sneak in a lunchtime swim. All publicly and privately held ecological and environmental data would be open access. Governments and Industrial Complexes would fund high quality objective research so we could balance growing population needs and the environment. My ecological modelling company would be able to support a large team of environmental scientists, ML researchers and engineers and have a large bank of [Google TPUs](https://en.wikipedia.org/wiki/Tensor_processing_unit "The Wikipedia entry for Tensor processing units.") or [AWS 16xlarge GPUs](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/ "An Amazon article about their NVIDIA Tesla V100 instances.").
 
-[answer-bot]: https://www.zendesk.co.jp/answer-bot/#georedirect "A Zendesk machine learning bot to help customers help themselves."
+[answer-bot]: http://web.archive.org/web/20210126154403/https://www.zendesk.co.jp/answer-bot/ "A Zendesk machine learning bot to help customers help themselves."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [jupyter]: https://jupyter.org/ "Web-based live document software."

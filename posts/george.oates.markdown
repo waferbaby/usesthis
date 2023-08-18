@@ -33,7 +33,7 @@ I'm pretty close to it, I think, or at least I'm enough of a luddite not to care
 [citymapper-ios]: https://apps.apple.com/gb/app/citymapper-london-public-transport/id469463298 "A city transport app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [github]: https://github.com/ "A Git code repository service."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

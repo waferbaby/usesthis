@@ -33,7 +33,7 @@ The perfect pool-side laptop and never having to email again. Being somewhat obs
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[autopano-pro]: https://www.kolor.com/autopano/ "Panorama stitching software."
+[autopano-pro]: http://web.archive.org/web/20211204011130/https://www.kolor.com/autopano "Panorama stitching software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [digital-timer-remote]: http://web.archive.org/web/20190506101156/https://www.amazon.com/Aputure-Control-Shutter-Powershot-Replaces/dp/B003Y35VJA "A remote timer control for digital cameras."

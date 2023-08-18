@@ -65,6 +65,6 @@ I'd like a bigger desk, although I think It would still end up covered in stuff 
 [macvim]: https://github.com/macvim-dev/macvim "A Mac GUI port of vim."
 [mx-518]: http://web.archive.org/web/20220628213631/https://www.amazon.com/Logitech-Performance-Optical-Gaming-Mouse/dp/B0007Z1M50 "An optical gaming mouse."
 [realforce-105uk]: https://www.keyboardco.com/keyboard_details.asp?PRODUCT=790?PRODUCT=790 "A capacitive keyboard."
-[starcraft-2]: https://starcraft2.com/ "A sci-fi RTS game."
+[starcraft-2]: http://web.archive.org/web/20150912043344/http://www.starcraft2.com/ "A sci-fi RTS game."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."

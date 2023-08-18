@@ -81,6 +81,6 @@ Software-wise, it would be great if the internet browsing experience was better.
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
-[webkit]: https://webkit.org/build-archives "A nightly build of Webkit."
+[webkit]: http://web.archive.org/web/20230803223214/https://webkit.org/build-archives/ "A nightly build of Webkit."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

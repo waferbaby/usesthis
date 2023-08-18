@@ -49,7 +49,7 @@ To be honest, I'm pretty happy with my setup. As I said before, I'm thinking of 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
-[olav-and-the-lute]: https://www.olavandthelute.com/ "A point and click adventure game."
+[olav-and-the-lute]: http://web.archive.org/web/20230707213401/https://olavandthelute.com/ "A point and click adventure game."
 [partyrs]: http://www.partyrsgame.com "A mobile game where you have to make party guests happy."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."

@@ -42,7 +42,7 @@ Also it's located inside a huge contemporary art centre, which has a club in the
 
 I guess if I had to make it better, better sound treatment of the studio... and maybe a bar fridge.
 
-[5060]: https://www.tlaudio.co.uk/docs/products/5060.shtml "An audio compressor."
+[5060]: http://web.archive.org/web/20190506063434/http://www.tlaudio.co.uk/docs/products/5060.shtml "An audio compressor."
 [access-virus-c]: https://en.wikipedia.org/wiki/Access_Virus "An analog synth."
 [access-virus-snow]: http://web.archive.org/web/20190508114432/https://www.amazon.com/Access-Virus-Snow-Portable-Synthesizer/dp/B00188894M "A portable synth."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
@@ -51,8 +51,8 @@ I guess if I had to make it better, better sound treatment of the studio... and 
 [digi-002]: http://web.archive.org/web/20190508114412/https://www.amazon.com/Digidesign-Digi-002-LE-Rackmount/dp/B0002H0GU0 "Multitrack studio hardware."
 [ef-100mm-f2.8-macro-usm]: http://web.archive.org/web/20151026021406/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8_macro_usm "A macro lens."
 [ef-16-35mm-f2.8l-ii-usm]: http://web.archive.org/web/20151103123732/http://usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_16_35mm_f_2_8l_ii_usm "A wide zoom lens for DSLRs."
-[ef-24-70mm-f2.8l-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_24_70mm_f_2_8l_usm "A zoom lens for cameras."
-[eos-5d-mark-iii]: https://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "A 22.3 megapixel DSLR."
+[ef-24-70mm-f2.8l-usm]: http://web.archive.org/web/20211014093500/https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_24_70mm_f_2_8l_usm "A zoom lens for cameras."
+[eos-5d-mark-iii]: http://web.archive.org/web/20151103132744/http://www.usa.canon.com:80/cusa/consumer/products/cameras/slr_cameras/eos_5d_mark_iii "A 22.3 megapixel DSLR."
 [eos-7d]: http://web.archive.org/web/20151105102657/http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [h4]: https://en.wikipedia.org/wiki/Zoom_H4_Handy_Recorder "A digital audio recorder."
@@ -72,7 +72,7 @@ I guess if I had to make it better, better sound treatment of the studio... and 
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
 [q]: https://www.vintagesynth.com/waldorf/waldorf_q.php "An analog synth."
 [quartz-composer]: https://en.wikipedia.org/wiki/Quartz_Composer "A visual programming environment."
-[reason]: https://www.reasonstudios.com/ "A virtual studio rack for creating music."
+[reason]: http://web.archive.org/web/20230718002423/https://reasonstudios.com/ "A virtual studio rack for creating music."
 [sh-101]: https://en.wikipedia.org/wiki/Roland_SH-101 "A bass synth."
 [sl-1210]: https://en.wikipedia.org/wiki/Technics_SL-1200 "A turntable."
 [slim-phatty]: https://www.moogmusic.com/products/phattys/slim-phatty "An analog synth."

@@ -45,10 +45,10 @@ I read a lot of RSS feeds and some email newsletters, all of which live in [Feed
 A slightly bigger, better display would be quite nice but I don't have enough room on my desk, so everything's fine for the moment.
 
 [2410]: http://web.archive.org/web/20230223073508/https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
-[a2-plus]: https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
+[a2-plus]: http://web.archive.org/web/20230725062210/https://audioengine.com/shop/factory-refurbished/a2-powered-speakers-refurbished/ "Desktop speakers."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [apple-watch-series-4]: https://en.wikipedia.org/wiki/Apple_Watch#Fourth_generation "A smart watch."
-[ath-m50]: http://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
+[ath-m50]: http://web.archive.org/web/20230409072021/https://www.audio-technica.com/en-us/ath-m50 "Studio headphones."
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
 [e10c]: https://soundmagicheadphones.com/products/soundmagic-e10c-in-ear-isolating-earphones-with-mic-silver "In-ear headphones."
 [evoke-flow]: https://www.cnet.com/reviews/pure-evoke-flow-review/ "A digital radio."

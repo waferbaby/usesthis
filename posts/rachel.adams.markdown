@@ -75,7 +75,7 @@ Double Wall Ovens are how I will know I am a successful food person. When they a
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [french-hermetic-glass-terrines]: https://www.containerstore.com/blocked.html?url=L3Mva2l0Y2hlbi9mb29kLXN0b3JhZ2UvamFycy10ZXJyaW5lcy8xMjM/cHJvZHVjdElkPTEwMDA1NTYw&uuid=8be42588-fad1-11ed-97c1-694378615067&vid= "A canning jar."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [original-swiss-peeler]: https://kuhnrikon.com/us/product/original-swiss-peeler-red "A peeler."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."

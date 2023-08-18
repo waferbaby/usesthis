@@ -52,4 +52,4 @@ I don't really get excited about hardware specs these days, but I do look forwar
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-community]: https://visualstudio.microsoft.com/en-us/products/visual-studio-community-vs "A software development IDE."
 [windows-8]: http://web.archive.org/web/20230522122523/https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."
-[xbox-360]: https://www.xbox.com/en-US/Xbox360 "A gaming console."
+[xbox-360]: http://web.archive.org/web/20131008213618/http://www.xbox.com/en-US/xbox360 "A gaming console."

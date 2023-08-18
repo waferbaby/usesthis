@@ -41,7 +41,7 @@ Mostly, I wish there was better options for voice/video calling software. Slack 
 [ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[sportsfriends]: http://gutefabrik.com/sportsfriends/ "A collection of local multiplayer games."
+[sportsfriends]: http://web.archive.org/web/20230706214622/https://gutefabrik.com/sportsfriends/ "A collection of local multiplayer games."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [where-is-my-heart]: http://whereismyheartgame.com/ "A platform game."
 [winamp]: https://www.winamp.com/home-static.html "A media player."

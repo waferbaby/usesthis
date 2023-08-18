@@ -33,14 +33,14 @@ I still keep my calendar in a book made of paper. I like the tactile experience 
 
 Preferably a well-paid assistant would come to my home at 10am 7 days a week and get me out of bed. I need help with that the most. By noon I'd be writing. In my fantasy, my computer is a lot faster, the autocorrect a lot better, and I always know what I want to say. At some point, there is a burrito. I never have to clean up my own messes. Email answers itself.
 
-[adblock]: https://getadblock.com/en/ "A browser extension for blocking ads."
+[adblock]: http://web.archive.org/web/20230813081746/https://getadblock.com/en/ "A browser extension for blocking ads."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [endnote]: https://endnote.com/ "Reference and bibliography software."
 [galaxy-s-iii]: http://web.archive.org/web/20160303220825/http://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [lightshot]: https://addons.mozilla.org/en-US/firefox/addon/lightshot/ "A browser extension for taking screenshots."
 [nook]: https://en.wikipedia.org/wiki/Barnes_%26_Noble_Nook_1st_Edition "An ereader tablet."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [slideshare]: https://www.slideshare.net/ "A slide sharing service."
 [tr800-dt5]: http://web.archive.org/web/20140705131446/http://www.lifespanfitness.com/tr800-dt5-treadmill-desk.html "A treadmill desk."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."

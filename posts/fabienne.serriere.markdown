@@ -33,7 +33,7 @@ In a datacenter not far from my home, I dream of building a nice big [Ceph][] cl
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [arduino]: https://www.arduino.cc/ "Open-source prototyping hardware."
-[black]: https://beagleboard.org/black "Open-source prototyping hardware."
+[black]: http://web.archive.org/web/20230724132433/https://beagleboard.org/black "Open-source prototyping hardware."
 [ceph]: http://web.archive.org/web/20190719001813/https://ceph.com/ "A distributed object storage and file system."
 [chumby]: http://www.chumby.com/ "A little device that runs Flash applications."
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
@@ -52,7 +52,7 @@ In a datacenter not far from my home, I dream of building a nice big [Ceph][] cl
 [newton-messagepad-110]: https://en.wikipedia.org/wiki/MessagePad "A handheld computer."
 [one.2]: http://web.archive.org/web/20171213064403/https://oneplus.net/one "A 5.5 inch Android-based smartphone."
 [openstreetmap]: https://www.openstreetmap.org/ "A crowdsourced map."
-[osmosdr]: https://sdr.osmocom.org/trac/ "An open source software radio project."
+[osmosdr]: http://web.archive.org/web/20191129020834/http://sdr.osmocom.org:80/trac "An open source software radio project."
 [otr]: https://otr.cypherpunks.ca "A messaging encryption library and plugin."
 [plume-android]: http://web.archive.org/web/20230207224251/https://play.google.com/store/apps/details?id=com.levelup.touiteur "A Twitter client for Android."
 [processing]: https://processing.org/ "A programming language/environment."

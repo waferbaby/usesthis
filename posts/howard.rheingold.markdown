@@ -49,7 +49,7 @@ I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upg
 [personalbrain]: https://www.softwarecasa.com "Mind mapping software."
 [powerbook-duo]: https://en.wikipedia.org/wiki/PowerBook_Duo "An old line of Mac laptops."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [skitch]: https://evernote.com/products/skitch "An always-on image editor for the Mac."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

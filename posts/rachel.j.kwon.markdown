@@ -42,7 +42,7 @@ I really like my current setup! I suppose I should get an ergonomic chair. I'd a
 [airpods-pro]: https://www.apple.com/airpods-pro/ "In-ear headphones."
 [alt]: https://drop.com/buy/drop-alt-mechanical-keyboard "A mechanical keyboard."
 [brave]: https://brave.com/ "A web browser."
-[byword]: https://bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dashlane]: https://www.dashlane.com/ "A password managment system."
 [deployhq]: https://www.deployhq.com/ "A service for deploying websites."

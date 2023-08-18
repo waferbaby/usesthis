@@ -33,7 +33,7 @@ For music I use Pro Tools. My every day plug-ins are [Native Instruments Kontakt
 I spend a fair amount of time online digging up odd instruments like the [Hohner Guitaret][guitaret], the [glass xylophone](https://www.youtube.com/watch?v=op6ee3ubnjM "A YouTube video of a glass xylophone.") or the [aquaphone](https://en.wikipedia.org/wiki/Waterphone "The Wikipedia entry for the Waterphone."). I also love the sound and the innocence of old keyboards, particularly the ones that were considered toys, or "home organs", So I guess my dream setup would probably look a lot like a flea market that was well mic'ed up, plugged in, batteries fresh, ready to record.
 
 [casiotone-mt-70]: http://weltenschule.de/TableHooters/Casio_MT-70.html "A musical keyboard."
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [guitar-rig-pro]: https://www.native-instruments.com/en/products/komplete/guitar/guitar-rig-6-pro/ "Guitar and bass audio software."
 [guitaret]: https://en.wikipedia.org/wiki/Guitaret "An electric lamellophone."
 [kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/ "A large sound library."
@@ -42,6 +42,6 @@ I spend a fair amount of time online digging up odd instruments like the [Hohner
 [phoenixverb-stereo]: https://www.izotope.com/en/products/exponential-audio.html "A reverb audio plugin."
 [pro-l]: http://web.archive.org/web/20170312044112/http://www.fabfilter.com:80/products/pro-l.php "A limiter audio plugin."
 [pro-q-2]: http://web.archive.org/web/20161125085235/http://www.fabfilter.com:80/products/pro-q.php "An equaliser audio plugin."
-[pro-tools]: https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [sk-5]: https://en.wikipedia.org/wiki/Casio_SK-5 "A musical keyboard."
 [soundtoys]: https://www.soundtoys.com/ "A collection of audio plugins."

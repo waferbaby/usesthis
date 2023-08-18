@@ -63,7 +63,7 @@ And finally, all of this should have open protocols, and be controllable both th
 
 [ansible]: https://www.ansible.com/ "An IT automation service."
 [apu2]: https://www.pcengines.ch/apu2.htm "A networking router."
-[bip.2]: https://us.amazfit.com/pages/amazfit-bip?variant=336750 "A smartwatch."
+[bip.2]: http://web.archive.org/web/20201109025003/https://us.amazfit.com/pages/amazfit-bip?variant=336750 "A smartwatch."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [common-lisp]: https://common-lisp.net/ "A programming language."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
@@ -92,4 +92,4 @@ And finally, all of this should have open protocols, and be controllable both th
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [unifi-switch]: https://www.ui.com/ "A networking switch."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
-[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

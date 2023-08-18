@@ -28,7 +28,7 @@ Just a bigger office space, honestly. Something with room for a drafting table, 
 
 [cintiq-pro]: https://www.wacom.com/en-us/products/pen-displays/wacom-cintiq-pro-overview "A display you can draw on."
 [core-i7-7820x]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/processors/core/x-series/i7-7820x.html "A computer CPU."
-[firecuda]: https://www.seagate.com/jp/ja/internal-hard-drives/hdd/firecuda/ "A combined solid state/moving platters hard drive."
+[firecuda]: http://web.archive.org/web/20200608105504/https://www.seagate.com/jp/ja/internal-hard-drives/hdd/firecuda/ "A combined solid state/moving platters hard drive."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [magicavoxel]: http://web.archive.org/web/20230511013801/https://www.voxelmade.com/magicavoxel/ "A voxel image editor."
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."

@@ -40,7 +40,7 @@ My ideal setup would be one where I [rely a lot less on screens](https://www.ted
 
 I'm not sure exactly what that world will look like, but I hope to devote some energy over the next few years to do more experiments around sound and physical computing to learn more. I'll be publishing and open-sourcing those on my website as I go, so stay tuned.
 
-[at4050]: http://www.audio-technica.com/en-us/at4050 "A condenser mic."
+[at4050]: http://web.archive.org/web/20230629102958/https://www.audio-technica.com/en-us/at4050 "A condenser mic."
 [blues-junior]: https://en.m.wikipedia.org/wiki/Fender_Blues_Junior "A guitar amp."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -53,8 +53,8 @@ I'm not sure exactly what that world will look like, but I hope to devote some e
 [pixel-4]: https://en.wikipedia.org/wiki/Pixel_4 "A 5.7 inch Android phone."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
-[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
-[sm7b]: https://www.shure.com:443/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
+[scarlett-2i2]: http://web.archive.org/web/20230528064506/https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
+[sm7b]: http://web.archive.org/web/20190411150954/http://www.shure.com/americas/products/microphones/sm/sm7b-vocal-microphone "A dynamic microphone."
 [surface-laptop]: https://en.wikipedia.org/wiki/Surface_Laptop "A 13.5 inch PC laptop."
 [tokyo-tote]: https://bellroy.com/products/tokyo-tote "A tote bag."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

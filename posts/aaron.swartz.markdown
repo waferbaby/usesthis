@@ -73,7 +73,7 @@ I wish that I could lift up the screen on my laptop so that it would be closer t
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [mailplane]: https://mailplaneapp.com/ "A Mac desktop client for Gmail."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
-[ml-1630]: http://www.samsung.com/us/ "A black and white laser printer."
+[ml-1630]: http://web.archive.org/web/20230816172010/https://www.samsung.com/us/ "A black and white laser printer."
 [omnioutliner]: https://www.omnigroup.com/omnioutliner/ "To-do/task management software for Mac OS X."
 [postgresql]: https://www.postgresql.org/ "A relational database server."
 [python]: https://www.python.org/ "An interpreted scripting language."

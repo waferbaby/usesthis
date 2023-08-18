@@ -40,14 +40,14 @@ There's lots of peripherals that I'd love but can't quite justify having - I'm j
  
 Oh, and the rubber on my mouse wheel has disintegrated, so I should probably replace that too!
 
-[adventure-game-studio]: https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
-[at2020]: http://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
+[adventure-game-studio]: http://web.archive.org/web/20230814183945/https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
+[at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
 [bfxr]: https://www.bfxr.net/ "An audio generator tool, often used for games."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[crawl]: http://www.powerhoof.com/crawl/ "A dungeon crawler game with a difference."
+[crawl]: http://web.archive.org/web/20230722103435/http://www.powerhoof.com/crawl/ "A dungeon crawler game with a difference."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[ex2d]: http://assetstore.unity.com/ "A sprite engine for Unity."
-[hansoft]: https://www.perforce.com/products/hansoft/ "A global collaboration/software development tool."
+[ex2d]: http://web.archive.org/web/20230817031210/https://assetstore.unity.com/ "A sprite engine for Unity."
+[hansoft]: http://web.archive.org/web/20230812200606/https://www.perforce.com/products/hansoft "A global collaboration/software development tool."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
@@ -58,7 +58,7 @@ Oh, and the rubber on my mouse wheel has disintegrated, so I should probably rep
 [td-9]: https://www.roland.com/us/products/td-9/ "A drumkit."
 [tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
 [unity]: https://unity.com/products "A cross-platform game development tool."
-[usb-dual-pre]: https://artproaudio.com/art_products/signal_processing/usb_audio_devices/product/usb_dual_pre_ps/ "A portable amp."
+[usb-dual-pre]: http://web.archive.org/web/20160104214939/http://artproaudio.com:80/art_products/signal_processing/usb_audio_devices/product/usb_dual_pre_ps "A portable amp."
 [w650eh]: https://www.notebookcheck.net/Review-Nexoc-M512-Clevo-W650EH-Notebook.93332.0.html "A 15.6 inch PC laptop."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-8]: http://web.archive.org/web/20230522122523/https://en.wikipedia.org/wiki/Windows_8 "An operating system for PC and tablet computers."

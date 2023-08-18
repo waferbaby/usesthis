@@ -60,5 +60,5 @@ Adjustable standing desk in a room with many windows with a climbing wall close 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[quicktime-pro]: https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
+[quicktime-pro]: http://web.archive.org/web/20230706193331/https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
 [snapseed-ios]: https://apps.apple.com/us/app/snapseed/id439438619 "A photo app."

@@ -52,7 +52,7 @@ For me, the main limiting factor in my work is always memory: either RAM or hard
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
-[jags]: https://mcmc-jags.sourceforge.net/ "A tool for analysing Bayesian hierarchical models."
+[jags]: http://web.archive.org/web/20210115120613/http://mcmc-jags.sourceforge.net/ "A tool for analysing Bayesian hierarchical models."
 [julia]: https://julialang.org/ "A dynamic programming language."
 [kindle-ios]: https://apps.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [lda]: http://cran.r-project.org/web/packages/lda/ "An R implementation of the latent Dirichlet allocation."

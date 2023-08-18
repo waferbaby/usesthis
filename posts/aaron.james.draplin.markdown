@@ -47,7 +47,7 @@ My next set up will have three monitors. The middle monitor will be the artboard
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [lumix-dmc-gf1]: http://web.archive.org/web/20230407212651/http://www.amazon.com/Panasonic-DMC-GF1-Four-Thirds-Interchangeable-Aspherical/dp/B002MUAEX4/ "A 12.1 megapixel digital camera."
-[lumix-g-20mm-f1.7-asph]: https://panasonic.net/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
+[lumix-g-20mm-f1.7-asph]: http://web.archive.org/web/20160329110905/http://panasonic.net:80/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [martin-d-35]: https://www.google.com/shopping/product/10197645858217739365 "An acoustic guitar."

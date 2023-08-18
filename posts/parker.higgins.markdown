@@ -59,7 +59,7 @@ Honestly I feel like I'm close! I'd maybe get a nicer keyboard and I could alway
 [puppeteer]: https://github.com/puppeteer/puppeteer "A Node library for automating Chrome."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [s3]: https://aws.amazon.com/s3/ "Cloud-based Internet storage magic."
-[thinkpad-t460s]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T460s/p/22TP2TT460S "A 14 inch PC laptop."
+[thinkpad-t460s]: http://web.archive.org/web/20210731163113/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T460s/p/22TP2TT460S "A 14 inch PC laptop."
 [tmux]: https://sourceforge.net/projects/tmux.mirror/ "A terminal multiplexer, similar to screen."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."

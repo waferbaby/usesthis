@@ -29,5 +29,5 @@ In the field, I depend heavily on an iPhone App called [MotionX][motionx-gps-ios
 
 Hmmmm, my dream set up for field work? I don't know if there is anything that would enhance what I do. Maybe a quad runner, so I don't have to walk miles and miles on the beach.
 
-[gen3]: https://www.findmespot.com/en-us/products-services/spot-gen3 "A satellite tracker for sharing your location."
-[motionx-gps-ios]: https://apps.apple.com/us/app/motionx-gps/id299949744 "A position tracking app."
+[gen3]: http://web.archive.org/web/20200816150027/https://www.findmespot.com/en-us/products-services/spot-gen3 "A satellite tracker for sharing your location."
+[motionx-gps-ios]: http://web.archive.org/web/20200107040319/https://apps.apple.com/us/app/motionx-gps/id299949744 "A position tracking app."

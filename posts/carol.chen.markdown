@@ -43,7 +43,7 @@ I don't think I have any goals beyond what I've mentioned above! It would probab
 [fish]: https://fishshell.com/ "A command-line shell."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
 [go]: https://go.dev/ "A compiled programming language."
-[google-home]: https://store.google.com/product/google_home?hl=ja "A voice assistant device."
+[google-home]: http://web.archive.org/web/20190618004708/https://store.google.com/product/google_home?hl=ja "A voice assistant device."
 [google-inbox]: https://www.google.com/gmail/about/ "A Gmail client app."
 [hey]: https://www.hey.com/ "An email service."
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."

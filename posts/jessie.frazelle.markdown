@@ -52,5 +52,5 @@ A mainframe. Something so powerful I could just laugh mwahhahahahaha and stroke 
 [runc]: https://github.com/opencontainers/runc "A command line tool for running containers."
 [secure-shell]: https://chrome.google.com/webstore/detail/deprecated-secure-shell-a/pnhechapfaindjhompbnflcldabbghjo "A terminal Chrome extension."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
 [yubikey]: https://www.yubico.com/setup/ "A USB-based tool for generating one-time passwords."

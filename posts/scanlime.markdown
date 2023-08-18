@@ -72,7 +72,7 @@ Really I'd love to work from a cafe/warehouse/beach/desert, on battery power, wi
 [bs100u]: http://www.brilldea.com/product_BS100U.html "A USB oscilloscope."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[custom-citizen]: https://chromeindustries.com/us/en/customs "A bike bag."
+[custom-citizen]: http://web.archive.org/web/20151011150735/http://www.chromeindustries.com/us/en/customs "A bike bag."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [gimp]: https://www.gimp.org/ "An open-source image editor."

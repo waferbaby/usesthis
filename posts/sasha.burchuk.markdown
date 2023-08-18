@@ -44,5 +44,5 @@ In my dream setup I actually have time and money to build out my studio and all 
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."

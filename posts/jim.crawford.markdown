@@ -47,7 +47,7 @@ This is such an open-ended question. I love it. Okay, in the short term, somethi
 In the long term, well, let's just say if *I'm* not software within the next 30 years, we've screwed up as a species.
 
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[bladeenc]: https://sourceforge.net/directory/development/development/ "An MP3 encoder."
+[bladeenc]: http://web.archive.org/web/20221213144832/https://sourceforge.net/directory/development/development/ "An MP3 encoder."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [commodore-128]: https://en.wikipedia.org/wiki/Commodore_128 "An 8-bit computer."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -66,6 +66,6 @@ In the long term, well, let's just say if *I'm* not software within the next 30 
 [syncmaster-2333hd]: http://web.archive.org/web/20230521141251/https://www.amazon.com/Samsung-SyncMaster-2333HD-Widescreen-Monitor/dp/B00213QXFA "A 23 inch monitor/TV."
 [tortoisesvn]: https://tortoisesvn.net/ "A Subversion client for Windows."
 [turbo-assembler]: https://en.wikipedia.org/wiki/Turbo_Assembler "An assembly code tool."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."

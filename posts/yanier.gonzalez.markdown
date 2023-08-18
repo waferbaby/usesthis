@@ -53,4 +53,4 @@ My ideal game console is limitless in power and invisible in my home: a cloud fa
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [vaio-eb46fx-wi]: http://web.archive.org/web/20150506225105/http://www.cnet.com:80/products/sony-vaio-eb-series-vpc-eb46fx-wi-15-5-core-i5-480m-windows-7-home-premium-64-bit-4-gb-ram-640-gb-hdd/ "A 15.5 inch PC laptop."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[z-5500]: https://www.amazon.com/Logitech-THX-Certified-Digital-Surround-Speaker/dp/B0002WPSBC "5.1 digital speakers."
+[z-5500]: http://web.archive.org/web/20230706194423/https://www.amazon.com/Logitech-THX-Certified-Digital-Surround-Speaker/dp/B0002WPSBC "5.1 digital speakers."

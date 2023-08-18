@@ -62,7 +62,7 @@ However. In the summer of 2016 my husband and I had to move out of the flat we'd
 [at897]: https://www.audio-technica.com/world_map/cms/wired_mics/9aeff7bd1ee954dc/index.html/ "A line and gradient condenser micrphone."
 [audio-hijack]: https://www.rogueamoeba.com/audiohijack/ "Software for recording any audio source on a Mac."
 [call-recorder]: https://www.ecamm.com/mac/callrecorder/ "Software for recording Skype conversations."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
 [hd-662-f]: http://web.archive.org/web/20210829162316/https://www.amazon.com/Superlux-HD-662-Closed-Studio-Headphones/dp/B007IV7OBM "Over-the-ear headphones."
 [ipad-mini-3]: https://en.wikipedia.org/wiki/IPad_Mini_3 "A 7.9 inch tablet device with a Retina screen."

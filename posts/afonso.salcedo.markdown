@@ -36,7 +36,7 @@ My dream setup would be to be able to invest in a higher end professional camera
 
 When you work in film and photography, the gear and equipment needs are pretty intense, and it can easily be a never ending list so it's important to be wise about the investments and choose accordingly.
 
-[alpha-7r]: http://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7r "A 36.4 megapixel full-frame digital camera."
+[alpha-7r]: http://web.archive.org/web/20210425070818/https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7r "A 36.4 megapixel full-frame digital camera."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
 [f55-cinealta-4k]: https://pro.sony/ue_US/?sonyref=pro.sony.com/bbsc/ssr/show-highend/resource.solutions.bbsccms-assets-show-highend-F55.shtml "A high-end digital video camera."

@@ -29,7 +29,7 @@ When I was working on my self-published book, I also used [Adobe Acrobat Pro][ac
 
 I'd love to have a real standing desk with more space, and the thing I'd most like for software would be real support for the tab-set organizing scheme. I never want to get all of my Slack messages in one place, for example, so I use it only in-browser as part of my tab-sets. I want to be able to be logged in to multiple Google (or Office 365) accounts, and keep my work separated by project. and I'd love the rest of my tech to work more in concert with my hearing tech - if my computer could stream to the HAs and have seamless handoff with the phone, that would be amazing.
 
-[27ul650-w]: https://www.lg.com/us/monitors/lg-27UL650-W-4k-uhd-led-monitor "A 27 inch LED monitor."
+[27ul650-w]: http://web.archive.org/web/20230706211344/https://www.lg.com/us/monitors/lg-27ul650-w-4k-uhd-led-monitor "A 27 inch LED monitor."
 [acrobat-pro]: https://www.adobe.com/acrobat/acrobat-pro.html "PDF software."
 [calibre]: https://calibre-ebook.com/ "An ebook library management tool."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
@@ -49,7 +49,7 @@ I'd love to have a real standing desk with more space, and the thing I'd most li
 [plattan]: https://www.urbanears.com/notfound.html "Colourful over-the-ear headphones."
 [shp9500-00]: https://www.usa.philips.com/c-p/SHP9500_00/hifi-stereo-headphones "On-ear open back headphones."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[snowball]: https://bluemic.com/snowball/ "A USB microphone."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
 [teams]: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software "A team collaboration service."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [whereby]: https://whereby.com/ "A group video service."

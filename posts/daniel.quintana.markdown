@@ -51,7 +51,7 @@ The two USB ports on my MacBook Pro are not enough for podcasting, so I'd love t
 
 [airpods]: https://en.wikipedia.org/wiki/AirPods "Wireless in-ear headphones."
 [auphonic]: https://auphonic.com/ "A service for analysing and optimising audio."
-[beta-87a]: https://www.shure.com:443/americas/products/microphones/beta/beta-87a-vocal-microphone "A condenser microphone."
+[beta-87a]: http://web.archive.org/web/20190414174748/http://www.shure.com:80/americas/products/microphones/beta/beta-87A-vocal-microphone "A condenser microphone."
 [binder]: http://web.archive.org/web/20221225164940/https://mybinder.org/ "A service for sharing Jupyter notebooks online."
 [biorender]: https://www.biorender.com/ "A scientific diagram tool."
 [c920s]: https://www.logitech.com/en-us/product/hd-pro-webcam-c920s.html "A webcam."

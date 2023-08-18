@@ -36,7 +36,7 @@ All I ever want is more time spent on interesting, energizing work and less time
 
 [airtable]: https://www.airtable.com/ "A service for organising data."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [bettersnaptool]: https://apps.apple.com/us/app/bettersnaptool/id417375580 "Window management software for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."

@@ -57,4 +57,4 @@ Actually, despite everything, that's not a great deal more realistic than the cy
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
-[writeroom]: https://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."
+[writeroom]: http://web.archive.org/web/20230717210502/https://www.hogbaysoftware.com/products/writeroom/ "Full-screen writing software."

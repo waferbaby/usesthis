@@ -26,8 +26,8 @@ Also, [Terminal][], [GitX][], [Backblaze][], [Google Docs][google-docs], [Hibari
 
 With the ridiculous back and wrist issues I've been having, I've been fantasizing about plugging my brain into a computer to work fully in the digital realm. More seriously, I'd be really excited about bringing my current setup with me to live/work for months at a time in other countries.
 
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
-[chrome-devtools]: https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
+[chrome-devtools]: http://web.archive.org/web/20210321161703/https://developers.google.com/web/tools/chrome-devtools "Web developer tools built into Chrome."
 [day-one]: https://apps.apple.com/us/app/day-one/id422304217 "Personal journal software."
 [fireworks]: https://creative.adobe.com/products/fireworks "A graphics and work tool for the Mac."
 [gitx]: https://gitx.frim.nl/ "A git GUI for Mac OS X."

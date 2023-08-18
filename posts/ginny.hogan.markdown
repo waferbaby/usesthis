@@ -24,7 +24,7 @@ As a writer, I do almost everything out of [Google Docs][google-docs]. I find it
 
 To not have a computer, honestly. I'm not sure how I'd share my writing - maybe photos of pages written in a notebook? I hate technology.
 
-[final-draft]: https://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -40,6 +40,6 @@ The Greek island where Lawrence Durrell wrote, or the imaginary island where I i
 [python]: https://www.python.org/ "An interpreted scripting language."
 [takeone]: https://www.microsoft.com/en-us/research/project/takeone-screen-recording-and-presentation/ "Screen recording software."
 [vgn-z690]: http://web.archive.org/web/20150821091842/http://www.cnet.com:80/products/sony-vaio-z-series-vgn-z690-13-1-core-2-duo-p8700-vista-home-premium-64-bit-2-gb-ram-160-gb-hdd/ "A PC laptop with a 13.1 inch screen."
-[visual-studio]: https://www.visualstudio.com/ "A Windows development environment."
+[visual-studio]: http://web.archive.org/web/20180617165945/https://www.visualstudio.com/ "A Windows development environment."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

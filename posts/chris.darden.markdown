@@ -53,7 +53,7 @@ My dream setup would be a old red train caboose set up on a short section of rai
 [megamat]: http://web.archive.org/web/20200518162846/http://www.chessex.com:80/mats/Battlemats_MegamatsReversible.htm "A reversable vinyl mat."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [pandora]: http://www.pandora.com/restricted "A personalised Internet radio station."
-[powershot-s110]: https://www.amazon.com/Canon-PowerShot-Digital-Camera-3-Inch/dp/B009B0MYSQ "A 12.1 megapixel digital camera."
+[powershot-s110]: http://web.archive.org/web/20230706213732/https://www.amazon.com/Canon-PowerShot-Digital-Camera-3-Inch/dp/B009B0MYSQ "A 12.1 megapixel digital camera."
 [the-minimalist]: http://survey-smiles.com "A table designed for gaming."
 [the-noun-project]: https://thenounproject.com/ "A collection of icons representing nouns."
 [timehop-ios]: https://apps.apple.com/us/app/timehop/id569077959 "An app for reliving old moments from social networks."

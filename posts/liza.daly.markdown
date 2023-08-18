@@ -45,12 +45,12 @@ I listen to music 100% of my work time when I'm not actually on a voice call, an
 The most important part of my setup is my [dog](http://www.flickr.com/photos/lizadaly/2950779568/lightbox/ "Liza's dog."), since she guarantees that I'll get up and go outside once in awhile.
 
 [asciidoc]: http://www.methods.co.nz/asciidoc/ "A text file format and software that's easily translated to other formats."
-[chromebook]: https://www.google.com/intl/en/chromebook/ "A laptop built for only running Web apps."
+[chromebook]: http://web.archive.org/web/20120421052503/http://www.google.com:80/intl/en/chromebook/ "A laptop built for only running Web apps."
 [django]: https://www.djangoproject.com/ "A Python-based web framework."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [galaxy-tab]: http://web.archive.org/web/20160305022500/http://www.samsung.com/global/microsite/galaxytab/ "An Android-based tablet."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
-[ibis-reader]: http://www.gutenbergnews.org/20100927/ibis-reader/ "A web-based ePub reader."
+[ibis-reader]: http://web.archive.org/web/20230706214411/http://www.gutenbergnews.org/20100927/ibis-reader/ "A web-based ePub reader."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [inspiron-mini-9]: https://outlet.us.dell.com/ARBOnlineSales/Online/InventorySearch.aspx?brandid=2201&c=us&cs=22&l=en&s=dfh&frid=127 "A 9 inch netbook."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
@@ -70,4 +70,4 @@ The most important part of my setup is my [dog](http://www.flickr.com/photos/liz
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [subversion]: http://web.archive.org/web/20200706092702/http://subversion.tigris.org/ "A version control system."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[xo]: https://laptop.org/en/laptop/ "A laptop designed for children in developing countries."
+[xo]: http://web.archive.org/web/20211018202923/http://laptop.org/en/laptop/ "A laptop designed for children in developing countries."

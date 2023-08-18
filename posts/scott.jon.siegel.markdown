@@ -53,7 +53,7 @@ If I found myself tethered to a single office for a while, I'd love to have a fa
 Oh, and and whiteboards. I'd cover every surface with whiteboards. Whiteboards for days.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [command]: http://web.archive.org/web/20201122135505/http://www.amazon.com/Timbuk2-Command-Laptop-TSA-Friendly-Messenger/dp/B0068DTASQ/ "A TSA-friendly bag for laptops."
 [confluence]: https://www.atlassian.com/software/confluence "Collaborative wiki software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

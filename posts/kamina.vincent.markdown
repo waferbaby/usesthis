@@ -65,7 +65,7 @@ I’d love to have another monitor and more fairy lights everywhere but I’m pr
 [florence-ios]: https://apps.apple.com/us/app/florence/id1297430468 "A game about love."
 [forest]: https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk "A Chrome extension to manage distractions."
 [galaxy-s7]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S7 "A 5.1 inch smartphone."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google]: https://www.google.com/ "A search engine."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

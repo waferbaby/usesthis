@@ -47,7 +47,7 @@ Covered in puppies.
 [eab]: https://www.gerbergear.com/en-us/activity/work/work-collection/eab-22-41830 "A pocket knife."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
 [gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-maps-ios]: https://apps.apple.com/us/app/id585027354 "An app for the map service."
 [hulu]: https://www.hulu.com/welcome "A TV streaming service."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."

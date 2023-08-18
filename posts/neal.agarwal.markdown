@@ -51,7 +51,7 @@ I think I'm getting pretty close to that dream! My only pain point is that I thi
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
-[react]: http://reactjs.org/ "A JavaScript UI framework."
+[react]: http://web.archive.org/web/20230316153459/https://reactjs.org/ "A JavaScript UI framework."
 [rp-hje120]: http://web.archive.org/web/20211016084703/https://shop.panasonic.com/support-only/RP-HJE120.html "In-ear headphones."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

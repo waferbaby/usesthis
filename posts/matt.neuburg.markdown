@@ -54,4 +54,4 @@ I'm pretty happy with my setup. Of course one always needs more RAM, a faster ha
 [snapz-pro-x]: http://web.archive.org/web/20190718133514/https://www.ambrosiasw.com/utilities/snapzprox/ "A screenshot and screencast tool for Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [xcode]: https://en.wikipedia.org/wiki/Xcode "An IDE for Mac developers."
-[zr24w]: https://www.amazon.com/HP-ZR24w-24-inch-S-IPS-Monitor/dp/B003D1ADUU "A 24 inch LCD screen."
+[zr24w]: http://web.archive.org/web/20230530013907/https://www.amazon.com/HP-ZR24w-24-inch-S-IPS-Monitor/dp/B003D1ADUU/ "A 24 inch LCD screen."

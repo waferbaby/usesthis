@@ -46,7 +46,7 @@ I would also like a huge desktop monitor, because who wouldn't love a huge deskt
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [rescuetime]: https://www.rescuetime.com/ "A Web-based time tracking and productivity suite."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
 [textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tweetbot]: https://tapbots.com/tweetbot/mac/ "A Twitter client for the Mac."

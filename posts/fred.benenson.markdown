@@ -41,7 +41,7 @@ If it existed (and it probably won't, ever), a 30" external retina screen driven
 Other than that, I'm pretty happy with my current setup.
 
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[ef-50mm-f1.2l-usm]: https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_2l_usm "A standard and medium telephoto camera lens."
+[ef-50mm-f1.2l-usm]: http://web.archive.org/web/20151012041800/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_50mm_f_1_2l_usm "A standard and medium telephoto camera lens."
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [ggplot2]: http://web.archive.org/web/20180506153516/http://ggplot2.org:80/ "A plotting system for the R language."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

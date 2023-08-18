@@ -32,4 +32,4 @@ Ouuuu, I really want a table saw. A shiny new one, with a diamond dust blade... 
 [600p-crl]: http://web.archive.org/web/20150416083324/http://www.amazon.com/LAURENCE-Heavy-Duty-Oil-Type-Pattern-Cutting/dp/B006JFN2OG "A glass cutter."
 [8-inch-glass-cutter-pliers]: http://web.archive.org/web/20150512150122/http://www.amazon.com:80/Fletcher-terry-Glass-Cutter-Pliers-06-112/dp/B000VKWP3Y "Pliers for cutting glass."
 [cuticle-trimmer]: http://web.archive.org/web/20150410074543/http://www.amazon.com/I-on-Beauty-Cuticel-Trimmer/dp/B00FE8RVM8 "A cuticle trimmer."
-[the-diamond-star]: https://glastar.com/catalog/grinding/diamondstar.cfm "A glass grinder."
+[the-diamond-star]: http://web.archive.org/web/20200204065104/http://www.glastar.com:80/catalog/grinding/diamondstar.cfm "A glass grinder."

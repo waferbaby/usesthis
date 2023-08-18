@@ -24,7 +24,7 @@ The [Google Suite][g-suite] is my go-to for all the basics: emails, writing, edi
 
 I'd like to not feel encumbered by capitalism! A window and desk facing a lake would be nice, too.
 
-[buzzfeed-news-ios]: https://apps.apple.com/us/app/buzzfeed-news/id981609476 "A client for the news service."
+[buzzfeed-news-ios]: http://web.archive.org/web/20220328055657/https://apps.apple.com/us/app/buzzfeed-news/id981609476 "A client for the news service."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [guardian-ios]: https://apps.apple.com/gb/app/the-guardian/id409128287 "A news app."

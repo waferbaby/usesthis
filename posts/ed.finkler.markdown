@@ -109,7 +109,7 @@ Actually, I just realized what my dream is: current Apple hardware (including ph
 [pre-2]: https://en.wikipedia.org/wiki/Palm_Pre_2 "A webOS smartphone."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
-[spaz]: https://getspaz.com/ "A microblogging client for Twitter, Identi.ca and Laconica."
+[spaz]: http://web.archive.org/web/20230708133925/https://www.getspaz.com/ "A microblogging client for Twitter, Identi.ca and Laconica."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [thinkpad-x201]: http://web.archive.org/web/20160511173457/http://shop.lenovo.com:80/us/notebooks/thinkpad/x-series/x201 "A 12.1 inch lightweight laptop."

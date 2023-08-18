@@ -36,7 +36,7 @@ In my real life, I have just moved to a new place so I still have to work on my 
 [arctic-crystal]: https://www.janome.com/arctic-crystal "A sewing machine."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [clip-studio-paint-ios]: https://apps.apple.com/us/app/clip-studio-paint-for-manga/id1262985592 "A drawing app focused on manga."
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [expression-home-xp-4100]: https://epson.com/For-Home/Printers/Inkjet/Epson-Expression-Home-XP-4100-Small-in-One-Printer/p/C11CG33201 "An all-in-one printer."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

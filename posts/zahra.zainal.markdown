@@ -56,6 +56,6 @@ My cat sitting on my lap as I work, but by choice. This is the part of the dream
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-pack]: https://www.kathmandu.com.au/pocket-pack-v4.html "A foldable backpack."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
-[quietcomfort-15]: https://www.bose.com/controller?url=%2Fshop_online%2Fheadphones%2Fnoise_cancelling_headphones%2Fquietcomfort_15%2Findex.jsp "Noise-cancelling headphones."
-[safari-rollerball]: http://www.lamy.com/en/lamy-safari/ "A pen."
+[quietcomfort-15]: http://web.archive.org/web/20140826072529/http://www.bose.com:80/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
+[safari-rollerball]: http://web.archive.org/web/20230816083116/https://www.lamy.com/en/lamy-safari/ "A pen."
 [tayasui-sketches-pro-ios]: https://apps.apple.com/us/app/tayasui-sketches-pro/id671867510 "A drawing app."

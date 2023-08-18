@@ -47,7 +47,7 @@ I've also been eyeing an ultrawide lens like the Canon 14mm f/2.8 or 15mm fishey
 
 [actionsampler]: http://web.archive.org/web/20170201070839/https://microsites.lomography.com/actionsampler/main/ "A film camera that takes 4 photos per shot."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
-[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [diana-f-plus]: http://web.archive.org/web/20150623184349/http://microsites.lomography.com:80/diana/cameras/diana-f-clones "A film camera."
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."

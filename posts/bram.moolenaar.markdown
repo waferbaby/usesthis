@@ -60,4 +60,4 @@ Well, what I'm already running! I sometimes wonder what I can buy to make it wor
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
-[xps-13]: https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

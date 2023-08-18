@@ -28,13 +28,13 @@ I keep a small home altar with things like candles, crystals, palo santo, sage, 
 Somewhere tucked away in the folds of spacetime, there is a parallel dimension where my work can be conjured into existence via soothing activities such as wandering through otherworldly landscapes, taking extremely long showers, howling into the void, or allowing my cat to lie across my keyboard for as long as she pleases while I attend to my other needs.
 
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [graph-gear-500]: http://web.archive.org/web/20230115010856/https://www.amazon.com/Pentel-GraphGear-Automatic-Drafting-PG525A/dp/B0006HXQXA "A drafting pencil."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."
-[le-pen]: https://uchida.com/p-63-le-pen.aspx "A pen."
+[le-pen]: http://web.archive.org/web/20170710043714/http://www.uchida.com:80/p-63-le-pen.aspx "A pen."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [memrise-ios]: https://apps.apple.com/us/app/memrise-ultimate-memorisation/id635966718 "An app for learning languages."

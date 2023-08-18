@@ -70,7 +70,7 @@ I'd like a more flexible, faster all-in-one inbox for my digital detritus. For s
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
-[littlesnapper]: https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
+[littlesnapper]: http://web.archive.org/web/20230529193441/https://www.realmacsoftware.com/ember/ "A screen capture and collection tool for the Mac."
 [lumix-dmc-gf1]: http://web.archive.org/web/20230407212651/http://www.amazon.com/Panasonic-DMC-GF1-Four-Thirds-Interchangeable-Aspherical/dp/B002MUAEX4/ "A 12.1 megapixel digital camera."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."

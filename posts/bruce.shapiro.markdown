@@ -39,4 +39,4 @@ Pretty much what I have now -- shop spaces in multiple places, with enthusiastic
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."
-[zenbook-ux303ub]: https://www.asus.com/notebooks/asus-zenbook-ux303ub/ "A 13.3 inch PC laptop."
+[zenbook-ux303ub]: http://web.archive.org/web/20161218031603/http://www.asus.com:80/Notebooks/ASUS-ZenBook-UX303UB/ "A 13.3 inch PC laptop."

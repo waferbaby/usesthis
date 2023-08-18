@@ -34,7 +34,7 @@ If I was REALLY lucky I would add on an [Epson P6070][surecolor-p6070] 24" fine 
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
 [i1display-pro]: http://web.archive.org/web/20221120200832/https://www.xrite.com/categories/calibration-profiling/i1display-pro "A colour calibration device."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
-[perfection-v700]: https://www.amazon.com/Epson-B11B178011-Perfection-Photo-Scanner/dp/B000EZY19W "A photo scanner."
+[perfection-v700]: http://web.archive.org/web/20230706193536/https://www.amazon.com/Epson-B11B178011-Perfection-Photo-Scanner/dp/B000EZY19W "A photo scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [scanmaker-9800xl-plus]: https://microtek.com/products.php?ID=40&KindID=3 "An A3 graphic scanner."
 [silverfast]: https://www.silverfast.com/show/scanner-software/en.html "Scanning software."

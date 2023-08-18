@@ -34,6 +34,6 @@ As much as I value my co-working space, I would love to _also_ have a proper hom
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mdr-7506]: http://web.archive.org/web/20230522193817/https://www.amazon.com/Sony-MDR7506-Professional-Diaphragm-Headphone/dp/B000AJIF4E "Studio-quality headphones."
 [playdate]: https://play.date/ "A portable game console with a crank."
-[scrivener]: http://www.literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[untitled-goose-game]: http://goose.game/ "A horrible goose simulator game."
+[untitled-goose-game]: http://web.archive.org/web/20230810111238/https://goose.game/ "A horrible goose simulator game."

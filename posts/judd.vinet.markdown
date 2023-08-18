@@ -63,7 +63,7 @@ I hope wireless charging advances to ubiquity in the next few years. Cords suck.
 
 Oh, and more battery life in everything, please.
 
-[anywhere-mouse-mx]: https://support.logitech.com/en_us/product/anywhere-mouse-mx/ "A compact wireless mouse."
+[anywhere-mouse-mx]: http://web.archive.org/web/20190506070808/https://support.logitech.com/en_us/product/anywhere-mouse-mx "A compact wireless mouse."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
@@ -75,7 +75,7 @@ Oh, and more battery life in everything, please.
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [go]: https://go.dev/ "A compiled programming language."
-[hf5]: https://www.etymotic.com/ephp/hf5.html "High-fidelity in-ear headphones."
+[hf5]: http://web.archive.org/web/20190310190354/http://www.etymotic.com:80/ephp/hf5.html "High-fidelity in-ear headphones."
 [i3]: https://i3wm.org/ "An X window manager."
 [ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
@@ -96,7 +96,7 @@ Oh, and more battery life in everything, please.
 [ranger]: http://www.nongnu.org/ranger/ "A command-line file browser."
 [redis]: https://redis.io/ "A key-value data store and more."
 [rsync]: https://rsync.samba.org/ "An open-source file transfer/syncing tool."
-[sqlite]: http://www.sqlite.org/index.html "A self-contained database engine."
+[sqlite]: http://web.archive.org/web/20230815162335/https://www.sqlite.org/index.html "A self-contained database engine."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [tinc]: http://tinc-vpn.org/ "VPN software."
 [tmux]: https://sourceforge.net/projects/tmux.mirror/ "A terminal multiplexer, similar to screen."

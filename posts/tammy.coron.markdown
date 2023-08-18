@@ -52,7 +52,7 @@ I'm not sure that I have a "dream setup." I like what I have now, and I like bei
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
 [cartoon-animator]: https://www.reallusion.com/cartoon-animator/ "2D animation software."
 [clip-studio-paint-ios]: https://apps.apple.com/us/app/clip-studio-paint-for-manga/id1262985592 "A drawing app focused on manga."
-[clip-studio-paint]: https://www.clipstudio.net/en "A drawing program aimed at manga artists."
+[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [discord]: https://discord.com/ "A voice and text chat service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."

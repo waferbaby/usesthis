@@ -58,7 +58,7 @@ Outside of engineering specific software I like to use [ColorNote][colornote-and
 
 Space, first and foremost. If I had a real workshop then I'd want a [vacuum-former][formbox], [laser cutter][glowforge], [resin printer][form-2], [drill press][jdp-15b], plus a super solid workbench with a big ass vise and lots of storage compartments.
 
-[430-1]: http://dascopro.com/miscellaneous/ "A scratch awl."
+[430-1]: http://web.archive.org/web/20230708003531/https://dascopro.com/miscellaneous/ "A scratch awl."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [chineseskill-android]: https://play.google.com/store/apps/details?id=com.chineseskill&hl=en_US "An app for learning Chinese."
 [colornote-android]: https://play.google.com/store/apps/details?id=com.socialnmobile.dictapps.notepad.color.note&hl=en_US "A note taking app."
@@ -68,7 +68,7 @@ Space, first and foremost. If I had a real workshop then I'd want a [vacuum-form
 [formbox]: https://www.matterhackers.com/store/l/mayku-formbox-desktop-vacuum-former/sk/MLCH26RT "A deskop vacuum former."
 [gl503vd-db71]: https://www.newegg.com/rog-metallic-black-asus-gl503vd-db71-gaming-entertainment/p/N82E16834234750 "A 15.6 inch PC laptop."
 [glowforge]: https://glowforge.com/ "A 3D laser printer."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [i3-mk3s]: http://web.archive.org/web/20210924002725/https://www.prusa3d.com/original-prusa-i3-mk3/ "A 3D printer."
 [jdp-15b]: https://www.jettools.com/us/en/p/15-benchtop-drill-press/716200 "A drill press."
 [jimmy]: https://www.ifixit.com/products/jimmy "A pry knife."
@@ -78,8 +78,8 @@ Space, first and foremost. If I had a real workshop then I'd want a [vacuum-form
 [pixel-2-xl]: https://en.wikipedia.org/wiki/Pixel_2 "A 6 inch Android smartphone."
 [pixelmator]: http://web.archive.org/web/20230419034642/https://www.pixelmator.com/mac/ "An image editor for the Mac."
 [pleco-chinese-dictionary-android]: https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en_US "A Chinese dictionary app."
-[pro-tech-toolkit]: https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307 "A toolkit for repairing computer devices."
-[self-adjusting-wire-stripper]: https://www.irwin.com/tools/pliers-adjustable-wrenches/self-adjusting-wire-stripper "A wire stripping tool."
+[pro-tech-toolkit]: http://web.archive.org/web/20230814010520/https://www.ifixit.com/Store/Tools/Pro-Tech-Toolkit/IF145-307 "A toolkit for repairing computer devices."
+[self-adjusting-wire-stripper]: http://web.archive.org/web/20230324193848/https://www.irwin.com/tools/pliers-adjustable-wrenches/self-adjusting-wire-stripper "A wire stripping tool."
 [solidworks]: https://www.3ds.com/products/solidworks "Modelling/CAD software."
 [teamcenter]: https://plm.sw.siemens.com/en-US/teamcenter/ "Product lifecycle management software."
 [timesheet-android]: https://play.google.com/store/apps/details?id=com.rauscha.apps.timesheet "A time tracking app."

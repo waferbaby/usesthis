@@ -33,7 +33,7 @@ For browsing I use [Chrome][], for docs I use [Open Office][openoffice] or [Goog
 
 I'd love to get a high-end [MacBook Pro][macbook-pro] and have it run alongside my PC and be able to switch them back and forth into my setup. With SSDs all around. A couple of different sized [Cintiqs][cintiq] wouldn't hurt either! And while we're at it, Apple should partner with Wacom to make a stylus-based WacPad.
 
-[adventure-game-studio]: https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
+[adventure-game-studio]: http://web.archive.org/web/20230814183945/https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."

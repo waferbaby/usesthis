@@ -26,5 +26,5 @@ My dream setup would be a spacious color darkroom in my own house with a good so
 [645-pro-tl]: http://web.archive.org/web/20160113021937/http://www.amazon.com/Mamiya-645-Pro-TL-camera-medium/dp/B0001JZW8K "A 35mm film camera."
 [7ii]: http://olegnovikov.com/technical/mamiya7ii/mamiya7ii.shtml "A medium format film camera."
 [canoscan-8800f]: http://web.archive.org/web/20180904204934/https://www.amazon.com/Canon-2168B002-2168B002-CanoScan-8800F-Color-Image-Scanner/dp/B000V2QCQI "A film and negative scanner."
-[photostudio]: https://www.arcsoft.com/photostudio/ "An image editor for Windows."
+[photostudio]: http://web.archive.org/web/20161027015050/http://www.arcsoft.com:80/photostudio/ "An image editor for Windows."
 [xa]: https://en.wikipedia.org/wiki/Olympus_XA "A 35mm film camera."

@@ -35,11 +35,11 @@ I use this kinda rinky-dink iPhone app called [RhymeZone][rhymezone-ios] as my p
 
 The proverbial "room of one's own." Every writer has a fantasy of a long, long wooden desk where they can splay their papers about. I am no exception. Other than that, I appreciate the simplicity of my current setup. I can work anywhere, anytime.
 
-[5-every-day-ios]: https://apps.apple.com/us/app/5-every-day/id713778306 "An app that gives you 5 interesting things to do in LA every day."
+[5-every-day-ios]: http://web.archive.org/web/20200416183815/https://apps.apple.com/us/app/5-every-day/id713778306 "An app that gives you 5 interesting things to do in LA every day."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&osid=1&continue=https://drive.google.com/&followup=https://drive.google.com/&emr=1 "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."

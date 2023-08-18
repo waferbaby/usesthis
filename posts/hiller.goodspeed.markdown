@@ -42,6 +42,6 @@ I'm generally more comfortable in small spaces, though a larger room would be ni
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[premier-soft-core]: https://www.prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
+[premier-soft-core]: http://web.archive.org/web/20170917180149/http://prismacolor.com/products/colored-pencils/softcore-lead "Coloured pencils."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [x-acto]: https://en.wikipedia.org/wiki/X-Acto "A knife."

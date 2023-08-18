@@ -32,7 +32,7 @@ Honestly I'm pretty happy with what I've got! As we go forward I wouldn't mind u
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [perforce]: https://www.perforce.com/ "A software configuration and deploy suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[quietcomfort-15]: https://www.bose.com/controller?url=%2Fshop_online%2Fheadphones%2Fnoise_cancelling_headphones%2Fquietcomfort_15%2Findex.jsp "Noise-cancelling headphones."
+[quietcomfort-15]: http://web.archive.org/web/20140826072529/http://www.bose.com:80/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

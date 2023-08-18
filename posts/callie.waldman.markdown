@@ -36,7 +36,7 @@ I'd love to build a beautifully designed, shared kitchen/event space from the gr
 I envision the aesthetic to be a combination of more modern design with high ceilings, lofted open floor plan, exposed brick, cement and refurbished wood, while the public event space portion of its interior would feature a more Classic Victorian style look.
 
 [748-drink-machine]: http://web.archive.org/web/20190508142815/https://www.amazon.com/Vita-Mix-748-Machine-high-impact-container/dp/B005HN6SEC "A blender."
-[bandpage]: https://artists.youtube.com/ "A hosted website service for musicians."
+[bandpage]: http://web.archive.org/web/20220613104300/https://artists.youtube.com/ "A hosted website service for musicians."
 [gsf-46-3-inch]: http://web.archive.org/web/20190508142808/https://www.amazon.com/Global-GSF-46-inch-Paring-Knife/dp/B001QV2F9G "A knife."
 [ikon-blackwood-6-inch]: http://web.archive.org/web/20190508142936/https://www.amazon.com/Wusthof-8-Inch-Cooks-Blackwood-Handle/dp/B000Z1YQGS "A chef's knife."
 [kaizen-bread-9.5-inch]: http://web.archive.org/web/20220304061119/https://www.amazon.com/Miyabi-Kaizen-2-Inch-Bread-Knife/dp/B005K8QGUU "A bread knife."

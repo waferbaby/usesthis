@@ -51,7 +51,7 @@ My dream setup is all about comfort, endurance, and ease of use. With that being
 [g-tec-c4]: http://web.archive.org/web/20211121024507/https://www.amazon.com/Pilot-G-Tec-C-Rolling-3-Pack-35483/dp/B0058NNAG0 "A gel pen."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive-ios]: https://apps.apple.com/us/app/google-drive/id507874739 "A client for the file sharing service."
-[google-play-music-ios]: https://apps.apple.com/us/app/google-play-music/id691797987 "An app for the music service."
+[google-play-music-ios]: http://web.archive.org/web/20210429180834/https://apps.apple.com/us/app/google-play-music/id691797987 "An app for the music service."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."

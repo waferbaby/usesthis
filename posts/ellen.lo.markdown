@@ -57,7 +57,7 @@ A Sketch plugin that returns CSS code in viewport units. A physical notebook tha
 [p5.js]: https://p5js.org/ "A Javascript library based on Processing."
 [pixelpusher]: http://web.archive.org/web/20210225072214/http://www.heroicrobotics.com/products/pixelpusher "A computer board for controlling light strips and LEDs."
 [processing]: https://processing.org/ "A programming language/environment."
-[quicktime-pro]: https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
+[quicktime-pro]: http://web.archive.org/web/20230706193331/https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
 [raspberry-pi-3b-plus]: https://magpi.raspberrypi.org/r//raspberry-pi-3bplus-specs-benchmarks/ "A tiny computer."
 [safari-technology-preview]: https://developer.apple.com/safari/technology-preview/ "A bleeding edge version of the Safari web browser."
 [shadertoy]: https://www.shadertoy.com/ "A web-based 3D shader tool."
