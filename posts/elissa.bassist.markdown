@@ -14,7 +14,7 @@ Hi, I’m the editor of the “[Funny Women](https://therumpus.net/sections/blog
 
 As a founding contributor to The Rumpus, I’ve written cultural and personal criticism since the website launched in 2009. My [writing](https://www.elissabassist.com/writing "Elissa's writing.") has appeared in _The New York Times_, _Marie Claire_, _Creative Nonfiction_, and more, including the anthology _Not That Bad: Dispatches from Rape Culture_, edited by Roxane Gay.
 
-For 15 years I’ve worked as a freelance writer, editor, instructor, academic, performer, improviser (sorry), and critic. Now I [teach](https://www.elissabassist.com/teachingandworkshopsnotjustforbillmurray "Elissa's workshops and teaching info.") tragicomic writing at The New School, Catapult, [92nd Street Y](https://www.92ny.org/class/humor-writing-bassist "Elissa's writing class at the 92nd St Y."), [Pandemic University](https://pandemicuniversity.com/tragicomic-memoir/ "Elissa's writing class at Pandemic University."), Lighthouse Writers Workshop, and elsewhere, and I am probably my therapist’s favorite.
+For 15 years I’ve worked as a freelance writer, editor, instructor, academic, performer, improviser (sorry), and critic. Now I [teach](https://www.elissabassist.com/teachingandworkshopsnotjustforbillmurray "Elissa's workshops and teaching info.") tragicomic writing at The New School, [92nd Street Y](https://www.92ny.org/class/humor-writing-bassist "Elissa's writing class at the 92nd St Y."), [Pandemic University](https://pandemicuniversity.com/tragicomic-memoir/ "Elissa's writing class at Pandemic University."), Lighthouse Writers Workshop, and elsewhere, and I am probably my therapist’s favorite.
 
 Also, I have many, many matches on Hinge.
 
