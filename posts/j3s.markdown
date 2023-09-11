@@ -113,7 +113,7 @@ we smile & dance together & watch each others eyes flicker for eternity.
 [kanshi]: https://git.sr.ht/~emersion/kanshi/ "Wayland software for switching profiles when switching monitors."
 [keyd]: https://github.com/rvaiya/keyd "Keyremapping software for Linux."
 [leap]: https://www.steelcase.com/products/office-chairs/leap/ "A chair."
-[legit]: https://github.com/frostming/legit "A wrapper around git to make it easier to use."
+[legit]: https://github.com/icyphox/legit "A wrapper around git to make it easier to use."
 [mpv]: https://mpv.io/ "A cross-platform media player."
 [neovim]: https://neovim.io/ "A refactored vim."
 [nginx]: http://nginx.org/ "A very fast web/mail server."
