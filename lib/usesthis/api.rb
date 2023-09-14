@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require 'dimples'
-require 'json'
-require 'time'
+require "dimples"
+require "json"
+require "time"
 
 module UsesThis
   class API
@@ -18,10 +18,7 @@ module UsesThis
     end
 
     def initialize(destination_path)
-      @paths = {
-        source: Dir.pwd,
-        destination: File.join(destination_path)
-      }
+      @paths = { source: Dir.pwd, destination: File.join(destination_path) }
 
       @gear = { hardware: {}, software: {} }
       @interviews = []
@@ -45,13 +42,7 @@ module UsesThis
       %i[hardware software].each do |type|
         @stats[type] = { all: {} }
 
-        source_path = File.join(
-          @paths[:source],
-          'gear',
-          type.to_s,
-          '**',
-          '*.json'
-        )
+        source_path = File.join(@paths[:source], "gear", type.to_s, "**", "*.json")
 
         Dir[source_path].sort.each do |path|
           item = prepare_gear_item(path, type)
@@ -61,7 +52,7 @@ module UsesThis
     end
 
     def scan_interviews
-      source_path = File.join(@paths[:source], 'posts', '*.markdown')
+      source_path = File.join(@paths[:source], "posts", "*.markdown")
 
       Dir[source_path].each { |path| @interviews << prepare_interview(path) }
 
@@ -72,52 +63,45 @@ module UsesThis
       %i[hardware software].each do |type|
         gear_path = File.join(@paths[:destination], type.to_s)
 
-        pager = Dimples::Pager.new(
-          "#{URL}/#{type}/",
-          @gear[type].to_a,
-          pager_options
-        )
+        pager = Dimples::Pager.new("#{URL}/#{type}/", @gear[type].to_a, pager_options)
 
         pager.each do |index|
-          paged_gear = pager.posts_at(index).map do |_, item|
-            @stats[type][:all][item[:slug].to_sym] = item[:interviews].count
-            item.slice(*SLICE_KEYS)
-          end
+          paged_gear =
+            pager
+              .posts_at(index)
+              .map do |_, item|
+                @stats[type][:all][item[:slug].to_sym] = item[:interviews].count
+                item.slice(*SLICE_KEYS)
+              end
 
           output = { gear: paged_gear, links: pager.to_context[:urls] }
           generate_paged_json_file(gear_path, index, output)
         end
 
         @gear[type].each do |slug, item|
-          path = File.join(gear_path, slug.to_s, 'index.json')
+          path = File.join(gear_path, slug.to_s, "index.json")
           generate_json_file(path, item: item)
         end
       end
     end
 
     def generate_interview_endpoints
-      interviews_path = File.join(@paths[:destination], 'interviews')
+      interviews_path = File.join(@paths[:destination], "interviews")
 
-      generate_paginated_interview_endpoints(
-        interviews_path,
-        "#{URL}/interviews/",
-        @interviews
-      )
+      generate_paginated_interview_endpoints(interviews_path, "#{URL}/interviews/", @interviews)
 
       @interviews.each do |interview|
-        path = File.join(interviews_path, interview[:slug], 'index.json')
+        path = File.join(interviews_path, interview[:slug], "index.json")
         generate_json_file(path, interview: interview)
       end
     end
 
     def generate_category_endpoints
-      categories_path = File.join(@paths[:destination], 'categories')
+      categories_path = File.join(@paths[:destination], "categories")
 
-      categories = @categories.keys.sort.map do |slug|
-        @categories[slug].slice(*SLICE_KEYS)
-      end
+      categories = @categories.keys.sort.map { |slug| @categories[slug].slice(*SLICE_KEYS) }
 
-      path = File.join(categories_path, 'index.json')
+      path = File.join(categories_path, "index.json")
       generate_json_file(path, categories: categories)
 
       @categories.each do |slug, category|
@@ -132,7 +116,7 @@ module UsesThis
     end
 
     def generate_stat_endpoints
-      stats_path = File.join(@paths[:destination], 'stats')
+      stats_path = File.join(@paths[:destination], "stats")
 
       stats = {
         interviews: @interviews.count,
@@ -140,16 +124,17 @@ module UsesThis
         software: @gear[:software].count
       }
 
-      generate_json_file(File.join(stats_path, 'index.json'), stats: stats)
+      generate_json_file(File.join(stats_path, "index.json"), stats: stats)
 
       %i[hardware software].each do |type|
         @stats[type].each do |key, values|
-          time_period = key != :all ? key.to_s : ''
-          path = File.join(stats_path, type.to_s, time_period, 'index.json')
+          time_period = key != :all ? key.to_s : ""
+          path = File.join(stats_path, type.to_s, time_period, "index.json")
 
-          output = values.sort_by(&:last).reverse[0..49].map do |slug, count|
-            @gear[type][slug.to_sym].slice(*SLICE_KEYS).merge(count: count)
-          end
+          output =
+            values.sort_by(&:last).reverse[0..49].map do |slug, count|
+              @gear[type][slug.to_sym].slice(*SLICE_KEYS).merge(count: count)
+            end
 
           generate_json_file(path, stats: output)
         end
@@ -157,29 +142,20 @@ module UsesThis
     end
 
     def prepare_gear_item(path, type)
-      slug = File.basename(path, '.json')
+      slug = File.basename(path, ".json")
       data = File.read(path)
       item = JSON.parse(data, symbolize_names: true)
 
-      item.merge(
-        slug: slug,
-        api_url: "#{URL}/#{type}/#{slug}",
-        interviews: []
-      )
+      item.merge(slug: slug, api_url: "#{URL}/#{type}/#{slug}", interviews: [])
     end
 
     def generate_paginated_interview_endpoints(path, url, interviews)
       pager = Dimples::Pager.new(url, interviews, pager_options)
 
       pager.each do |index|
-        paged_interviews = pager.posts_at(index).map do |interview|
-          interview.slice(*SLICE_KEYS)
-        end
+        paged_interviews = pager.posts_at(index).map { |interview| interview.slice(*SLICE_KEYS) }
 
-        output = {
-          interviews: paged_interviews,
-          links: pager.to_context[:urls]
-        }
+        output = { interviews: paged_interviews, links: pager.to_context[:urls] }
 
         generate_paged_json_file(path, index, output)
       end
@@ -194,7 +170,7 @@ module UsesThis
         interview[:name] = metadata[:title]
         interview[:url] = "https://usesthis.com/interviews/#{slug}"
         interview[:api_url] = "#{URL}/interviews/#{slug}"
-        interview[:contents] = contents,
+        interview[:contents] = contents
         interview[:date] = metadata[:date].iso8601
         interview[:gear] = []
 
@@ -202,25 +178,29 @@ module UsesThis
           add_category_interview(category_slug, interview)
         end
 
-        contents.scan(LINK_PATTERN).flatten.map do |gear_slug|
-          add_gear_interview(gear_slug, interview)
-          interview[:gear] << find_gear(gear_slug)&.slice(*SLICE_KEYS)
-        end
+        contents
+          .scan(LINK_PATTERN)
+          .flatten
+          .map do |gear_slug|
+            add_gear_interview(gear_slug, interview)
+            interview[:gear] << find_gear(gear_slug)&.slice(*SLICE_KEYS)
+          end
       end
     end
 
     def generate_json_file(path, data)
       FileUtils.mkdir_p(File.dirname(path))
 
-      File.open(path, 'w') { |file_path| file_path.write(JSON.generate(data)) }
+      File.open(path, "w") { |file_path| file_path.write(JSON.generate(data)) }
     end
 
     def generate_paged_json_file(path, page_number, data)
-      filename = if page_number == 1
-                   'index.json'
-                 else
-                   "page_#{page_number}.json"
-                 end
+      filename =
+        if page_number == 1
+          "index.json"
+        else
+          "page_#{page_number}.json"
+        end
 
       generate_json_file(File.join(path, filename), data)
     end
@@ -265,10 +245,7 @@ module UsesThis
     end
 
     def pager_options
-      @pager_options ||= {
-        page_prefix: '?page=',
-        per_page: 50
-      }
+      @pager_options ||= { page_prefix: "?page=", per_page: 50 }
     end
   end
 end
