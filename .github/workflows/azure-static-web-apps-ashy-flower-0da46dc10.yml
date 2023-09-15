@@ -20,7 +20,7 @@ jobs:
           bundler-cache: true
       - name: Build the site
         run: |
-          bundle exec tasks/build_api
+          bundle exec tasks/build_api site
           touch site/index.html
           cp staticwebapp.config.json site/
       - name: Deploy to Azure
