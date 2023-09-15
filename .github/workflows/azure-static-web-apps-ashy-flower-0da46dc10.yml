@@ -34,4 +34,4 @@ jobs:
           api_location: ""
           output_location: ""
           skip_app_build: true
-          build_timeout_in_minutes: 30
+          skip_api_build: true
