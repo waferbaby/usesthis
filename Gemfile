@@ -2,5 +2,5 @@
 
 source 'https://rubygems.org'
 
-gem 'dimples', '~> 7.0'
+gem 'dimples'
 gem 'faraday'

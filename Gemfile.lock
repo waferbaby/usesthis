@@ -1,24 +1,26 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (7.0.5)
+    base64 (0.1.1)
+    dimples (8.0.0)
       erubi (~> 1.10)
       redcarpet (~> 3.5)
       tilt (~> 2.0)
     erubi (1.12.0)
-    faraday (2.7.4)
+    faraday (2.7.11)
+      base64
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
     redcarpet (3.6.0)
     ruby2_keywords (0.0.5)
-    tilt (2.1.0)
+    tilt (2.3.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  dimples (~> 7.0)
+  dimples
   faraday
 
 BUNDLED WITH
