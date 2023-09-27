@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     base64 (0.1.1)
-    dimples (8.0.0)
+    dimples (9.0.0)
       erubi (~> 1.10)
       redcarpet (~> 3.5)
       tilt (~> 2.0)
