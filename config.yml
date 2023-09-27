@@ -1,1 +1,5 @@
-overwrite_directory: true
+generation:
+  overwrite_directory: true
+
+paths:
+  posts: interviews
