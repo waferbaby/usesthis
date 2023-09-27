@@ -17,7 +17,7 @@ jobs:
       - run: |
           bundle exec dimples
           bundle exec tasks/build_api
-          ln -s interviews/index.html index.html
+          ln -s site/interviews/index.html site/index.html
       - uses: contention/rsync-deployments@v2.0.0
         with:
           FLAGS: -avzr --delete --links
