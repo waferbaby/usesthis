@@ -1,5 +1,6 @@
 .bundle/
 vendor/
 public/
+site/
 coverage/
 .DS_Store
