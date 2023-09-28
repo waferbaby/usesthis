@@ -1,9 +1,0 @@
-{
-  "globalHeaders": {
-    "X-Clacks-Overhead": "GNU Terry Pratchett"
-  },
-  "mimeTypes": {
-    ".json": "text/json",
-    ".atom": "application/atom+xml"
-  }
-}
