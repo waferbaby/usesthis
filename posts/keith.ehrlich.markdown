@@ -32,7 +32,7 @@ To divide my time working part of the year in Brooklyn in a home [something like
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [alexa]: https://www.arri.com/en/camera/alexa/cameras/camera_details.html?product=9 "A super high-quality HD video camera."
 [backpack]: https://en.wikipedia.org/wiki/37_signals#Backpack "An intra-company web service for sharing calendars, documents and files."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [eos-7d]: http://web.archive.org/web/20151105102657/http://www.usa.canon.com/cusa/consumer/products/cameras/slr_cameras/eos_7d "An 18 megapixel digital SLR."

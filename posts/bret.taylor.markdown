@@ -43,7 +43,7 @@ I use my Dropbox folder for everything so I can access my stuff anywhere, and I 
 
 My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I like minimalism and simplicity, and I like not having to deal with a bunch of different machines.
 
-[calendar-ios]: https://www.apple.com/ios/ios-16/ "A calendar app included with iOS."
+[calendar-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A calendar app included with iOS."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
@@ -52,14 +52,14 @@ My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I lik
 [facebook]: https://www.facebook.com/ "A social networking site."
 [friendfeed]: https://en.wikipedia.org/wiki/FriendFeed "Web-based social aggregation."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [hd-280-pro]: http://web.archive.org/web/20221206010356/https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB/ "Closed stereo headphones."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [kindle-ios]: https://apps.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
-[mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
+[mail-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [pandora-ios]: https://apps.apple.com/app/pandora-radio/id284035177 "An iPhone app for streaming your personal Pandora radio station."
 [pandora]: http://www.pandora.com/restricted "A personalised Internet radio station."

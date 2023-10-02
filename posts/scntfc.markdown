@@ -73,7 +73,7 @@ For video, it's another matter. I still rent a Canon [MP-E 65mm][mp-e-65mm-f2.8-
 [seq-315]: https://www.matrixsynth.com/2011/09/roland-seq-315-analog-stereo-graphic-eq.html "A graphic equaliser."
 [sketchbook-pro-ios]: http://web.archive.org/web/20230720145325/https://www.sketchbook.com/apps "A drawing app."
 [soundprism-ios]: http://web.archive.org/web/20230706192815/https://audanika.com/ "A unique music creation app."
-[system-9098]: https://www.amek.com/products/dma/index.html "A dual mic amp."
+[system-9098]: http://web.archive.org/web/20230706192811/https://www.amek.com/products/dma/index.html "A dual mic amp."
 [v8]: http://web.archive.org/web/20220816214820/https://www.mio.co.za/article/krk-v8-studio-monitor-2007-08-21 "Studio monitor speakers."
 [valve-junior]: https://en.wikipedia.org/wiki/Epiphone_Valve_Junior "A guitar amp."
 [vintage-warmer]: http://web.archive.org/web/20210306015350/https://www.pspaudioware.com/plugins/dynamic_processors/psp_vintagewarmer2/ "An analog-style compressor/limiter plugin."

@@ -40,7 +40,7 @@ It would be really great to trade my corner in the living room for a real study 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [intellij-idea]: https://www.jetbrains.com/idea/ "A developer's IDE."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [medieval-fantasy-city-generator]: https://watabou.itch.io/medieval-fantasy-city-generator "A medieval fantasy city generator."

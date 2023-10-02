@@ -38,7 +38,7 @@ I wouldn't mind upgrading my laptop to an Air, and eventually I will need to upg
 [diigo]: https://www.diigo.com/ "A bookmarking service."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [graphicconverter]: https://www.lemkesoft.de/en/products/graphicconverter/ "A Swiss Army Knife graphics tool for the Mac."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."

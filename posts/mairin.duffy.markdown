@@ -79,7 +79,7 @@ One final aspect I'd love in a dream setup is an always-on internet connection. 
 [gnote]: https://wiki.gnome.org/action/show/Apps/Gnote?action=show&redirect=Gnote "A note-taking application for GNOME."
 [gobby]: https://gobby.github.io "An open-source, cross-platform collaborative text editor."
 [gwibber]: https://launchpad.net/gwibber "A micro-blogging client for GNOME."
-[hd70]: https://www.optomausa.com/Product_detail.asp?product_id=294 "720p HD projector."
+[hd70]: http://web.archive.org/web/20230706202445/https://www.optomausa.com/Product_detail.asp?product_id=294 "720p HD projector."
 [identi.ca]: https://identi.ca/ "An online micro-blogging platform."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [inkscape]: https://inkscape.org/ "An open-source vector graphics program."

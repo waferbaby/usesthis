@@ -63,7 +63,7 @@ In near-term reality, I've been considering a Lenovo X-series, and switching bac
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hd-280-pro]: http://web.archive.org/web/20221206010356/https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB/ "Closed stereo headphones."
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."

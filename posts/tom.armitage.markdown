@@ -75,7 +75,7 @@ But, short of crazy future-tech, I'm hitting the point where I have everything I
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."

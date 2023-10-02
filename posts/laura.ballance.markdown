@@ -48,7 +48,7 @@ I have an old [LC-A][] camera and wish there were other lenses I could put on it
 [diana-f-plus]: http://web.archive.org/web/20150623184349/http://microsites.lomography.com:80/diana/cameras/diana-f-clones "A film camera."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [lc-a]: https://en.wikipedia.org/wiki/Lomo_LC-A "A very popular film camera."
 [lumix-dmc-fx01]: http://web.archive.org/web/20230407201514/http://www.amazon.com/Panasonic-DMC-FX01-Compact-Digital-Stabilized/dp/B000EBOC9U "A 6 megapixel digital camera."
 [precision-bass]: http://www.fender.com/products/search.php?section=basses&bodyShape=Precision+Bass® "A bass guitar."

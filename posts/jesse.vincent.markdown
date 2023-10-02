@@ -122,7 +122,7 @@ More realistically, I've been looking longingly at the various efforts to run a 
 [fusion-360]: http://web.archive.org/web/20221224070522/https://www.autodesk.com/products/fusion-360/overview "Cloud-based CAD/CAM software."
 [geekdesk]: http://web.archive.org/web/20230601102958/https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [glacier]: http://web.archive.org/web/20211127153953/https://aws.amazon.com/s3/glacier/ "A data archiving service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

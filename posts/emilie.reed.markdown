@@ -46,7 +46,7 @@ I probably need a better chair and desk, since the ones I used were just picked 
 [flappy-bird-ios]: https://en.wikipedia.org/wiki/Flappy_Bird "A game about a bird avoiding pipes."
 [flying-colors]: https://obscuritory.com/software/flying-colors-free/ "An image editor for Windows."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hexchat]: https://hexchat.github.io/ "An IRC client for Windows and Linux."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."

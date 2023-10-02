@@ -60,7 +60,7 @@ The two USB ports on my MacBook Pro are not enough for podcasting, so I'd love t
 [git]: https://git-scm.com/ "A version control system."
 [h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
 [hindenburg]: https://hindenburg.com/ "A suite of tools for editing radio and podcasts."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-11]: https://en.wikipedia.org/wiki/IPhone_11 "A 6.06 inch iOS smartphone."
 [jamovi]: https://www.jamovi.org/ "Statistical spreadsheet software."
 [jasp]: https://jasp-stats.org/ "Statistical analysis software."

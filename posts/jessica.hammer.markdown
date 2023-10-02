@@ -71,7 +71,7 @@ My dream office has a standing desk, for intensive work; a comfortable armchair,
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flash-builder]: http://web.archive.org/web/20180623141517/https://helpx.adobe.com/creative-cloud/kb/creative-cloud-apps-download.html "A tool for generating Flash apps via the Flex framework."
 [fogbugz]: http://web.archive.org/web/20210126050156/https://www.manuscript.com/ "Bug/issue tracking software."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [ibeat-ios]: https://apps.apple.com/us/app/ibeat-the-metronome/id398984403 "A metronome app."

@@ -32,7 +32,7 @@ I'm using it! I love the setup that I'm currently using. If I had to change anyt
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [basilisk]: http://web.archive.org/web/20220606173946/https://www.razer.com/gaming-mice/razer-basilisk/RZ01-02330200-R3M1 "A gaming mouse."
 [core-i7-7700k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [discord]: https://discord.com/ "A voice and text chat service."
 [g910]: https://www.logitechg.com/en-us/product/rgb-gaming-keyboard-g910.html "A gaming keyboard."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."

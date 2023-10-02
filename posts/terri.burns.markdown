@@ -25,7 +25,7 @@ I mostly use every product on the [G Suite][g-suite] a ton, except for [Google P
 
 It'd be cool to have a 27-inch Retina display [iMac][], to use as a monitor. But other than that my dream is just to have enough space for a really, really large desk to hold my monitor, laptops, a stack of notebooks/books, and other miscellaneous stuff. I think it's an attainable dream!
 
-[dark-sky-ios]: https://support.apple.com:443/en-us/HT213526 "A weather app."
+[dark-sky-ios]: http://web.archive.org/web/20230829071258/https://support.apple.com/en-us/HT213526 "A weather app."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
 [google-sites]: https://en.wikipedia.org/wiki/Google_Sites "A website creation tool."

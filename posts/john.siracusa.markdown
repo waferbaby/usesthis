@@ -71,7 +71,7 @@ On the software side, I have [so many complaints](http://arstechnica.com/staff/f
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [ape]: https://en.wikipedia.org/wiki/Application_Enhancer "A Mac OS X framework and system daemon for loading haxies."
-[asm]: https://download.cnet.com/ASM/3000-2094_4-10058963.html "A menu-based application switcher for Mac OS X."
+[asm]: http://web.archive.org/web/20230706215550/https://download.cnet.com/ASM/3000-2094_4-10058963.html "A menu-based application switcher for Mac OS X."
 [backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [boot-camp]: https://en.wikipedia.org/wiki/Boot_Camp_(software) "Software to allow Macs to run Windows natively."

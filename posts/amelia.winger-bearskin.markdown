@@ -81,7 +81,7 @@ I also wish the Dell gaming tower I used to develop on wasn't broken; it didn't 
 [gatsby]: http://web.archive.org/web/20200811220912/https://www.gatsbyjs.org/ "A framework for building websites."
 [gear-vr]: https://www.oculus.com/gear-vr/ "A VR headset."
 [geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [houseparty]: http://web.archive.org/web/20220121094258/https://houseparty.com/ "A video-based social network."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."

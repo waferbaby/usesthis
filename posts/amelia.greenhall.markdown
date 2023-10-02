@@ -54,7 +54,7 @@ I can imagine that going back to having an iMac-style monitor is in my future at
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [blink1]: https://blink1.thingm.com/ "A programmable USB LED indicator light."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
-[dark-sky-ios]: https://support.apple.com:443/en-us/HT213526 "A weather app."
+[dark-sky-ios]: http://web.archive.org/web/20230829071258/https://support.apple.com/en-us/HT213526 "A weather app."
 [disk-inventory-x]: http://www.derlien.com "An application for Mac OS X that shows a breakdown of disk usage."
 [dogecoin]: https://github.com/dogecoin/dogecoin "A client for the virtual currency."
 [dropbox-ios]: https://www.dropbox.com/mobile?trigger=on "An iOS version of the syncing software."

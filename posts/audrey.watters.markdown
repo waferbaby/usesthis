@@ -55,7 +55,7 @@ When I first started working as a tech journalist, I would try out almost any ki
 [github-desktop]: https://desktop.github.com/ "A client for the versioning control service."
 [github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."

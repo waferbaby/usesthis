@@ -60,5 +60,5 @@ I'd love to have a dedicated studio space for working on larger-scale installati
 [vimeo]: https://vimeo.com/ "A video sharing service."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."
-[z200]: https://www.logitech.com/en-au/products/speakers/z200-multimedia-stereo-speakers.980-000850.html "A pair of speakers."
+[z200]: http://web.archive.org/web/20230706213228/https://www.logitech.com/en-au/products/speakers/z200-multimedia-stereo-speakers.980-000850.html "A pair of speakers."
 [zoom.2]: https://zoom.us "Video conferencing software."

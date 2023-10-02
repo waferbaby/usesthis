@@ -51,7 +51,7 @@ I'm dying for a MacBook Air with more memory and a Retina screen. At GitHub, so 
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

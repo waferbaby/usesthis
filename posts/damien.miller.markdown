@@ -62,7 +62,7 @@ For photo editing, I'm mostly limited by my imagination and skills. That being s
 [d800]: http://web.archive.org/web/20230312080814/https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flowd]: https://code.google.com/archive/p/flowd "A NetFlow collector."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome-terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal "A terminal application."
 [goobuntu]: https://en.wikipedia.org/wiki/Goobuntu "Google's own version of Ubuntu."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."

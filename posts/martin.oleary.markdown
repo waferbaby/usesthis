@@ -56,7 +56,7 @@ If you mean, like, actual computery stuff, then one of my colleagues has a [reMa
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eleksdraw]: http://web.archive.org/web/20190613054417/http://eleksmaker.com:80/nav/eleksdraw/ "A pen plotter."
 [galaxy-a8]: http://web.archive.org/web/20220504124534/https://www.samsung.com/global/galaxy/galaxy-a8/ "An Android phone."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."

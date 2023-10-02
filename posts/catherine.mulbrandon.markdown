@@ -56,7 +56,7 @@ I can see just a hint of this future with high-end software like Tableau or open
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [feedly-ios]: https://apps.apple.com/us/app/feedly/id396069556 "An app for the feed reading service."
 [geopandas]: http://web.archive.org/web/20211102052243/https://geopandas.org/ "A Python library for working with map data."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-maps-ios]: https://apps.apple.com/us/app/id585027354 "An app for the map service."
 [harvest]: https://www.getharvest.com/ "A time-tracking and invoice web service."

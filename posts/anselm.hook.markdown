@@ -55,7 +55,7 @@ As far as actual development of new software - the tools are getting much better
 [colloquy]: https://colloquy.app/ "An IRC client for the Mac."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
 [lua]: http://www.lua.org/ "An interpreted scripting language."

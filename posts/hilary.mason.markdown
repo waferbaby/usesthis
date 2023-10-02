@@ -44,7 +44,7 @@ If I have to choose something that exists today, I'd probably use just my 11" Ma
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

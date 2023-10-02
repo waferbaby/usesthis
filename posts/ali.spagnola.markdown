@@ -34,7 +34,7 @@ A recording studio that's also a dance studio. I'm not really particular with th
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [eos-rebel-t3i]: https://en.wikipedia.org/wiki/Canon_EOS_600D "An 18 megapixel DSLR."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gpcpa4]: https://www.martinguitar.com/series-all-series.html "An acoustic guitar."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [lucina-ax-09]: https://www.roland.com/us/products/lucina_ax-09/ "A keytar."

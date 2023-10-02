@@ -37,7 +37,7 @@ And a new iPhone with case.
 [c214]: https://www.akg.com/Microphones/Condenser%20Microphones/C214.html? "A condenser microphone."
 [dr-40]: http://tascam.com/jp/product/dr-40/ "A portable digital recorder."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

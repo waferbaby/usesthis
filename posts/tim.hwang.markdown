@@ -37,7 +37,7 @@ Though, [having one of these](http://www.cantstopthemovies.com/wp-content/upload
 [energel-nv]: https://www.pentel.com/products/energel-nv-gel-pen "A liquid gel pen."
 [eph-100]: https://usa.yamaha.com/products/audio_visual/headphones/eph-100/index.html "In-ear headphones."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."

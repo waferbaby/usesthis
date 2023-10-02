@@ -31,7 +31,7 @@ Some of my favorite apps right now are [Flow][flow-ios] for Pomodoro timing, [St
 
 I feel like I'm just about there, but if there was a way to magically prevent my desk and keyboard from constantly being covered in cat hair, that would really make it perfect. Also, I could really use some better cable management.
 
-[astrolokeys]: http://astrolokeys.com/ "Astrology-themed keycaps."
+[astrolokeys]: http://web.archive.org/web/20230819101702/http://astrolokeys.com/ "Astrology-themed keycaps."
 [discord]: https://discord.com/ "A voice and text chat service."
 [duolingo-ios]: https://apps.apple.com/app/duolingo-learn-spanish-french/id570060128 "An app for learning languages."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."

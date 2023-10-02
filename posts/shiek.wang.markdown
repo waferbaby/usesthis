@@ -27,7 +27,7 @@ Feels like WFH has changed my perspective on what this is. I used to want a gian
 [bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [confluence]: https://www.atlassian.com/software/confluence "Collaborative wiki software."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [shotgrid]: https://en.wikipedia.org/wiki/ShotGrid "A project management tool for movie and game development."

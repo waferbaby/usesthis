@@ -55,7 +55,7 @@ But that isn't a dream, it is next year. Taking a broader look, I'd argue hardwa
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome-terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal "A terminal application."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [goobuntu]: https://en.wikipedia.org/wiki/Goobuntu "Google's own version of Ubuntu."

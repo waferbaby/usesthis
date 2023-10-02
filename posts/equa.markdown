@@ -59,7 +59,7 @@ computers are made of blood and i hope to never buy a new one again. i'd also li
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
 [little-sound-dj]: https://www.littlesounddj.com/lsd/ "A music sequencer and sampler in a Game Boy cartridge."
-[lpd8]: https://www.akaipro.com/lpd8-lpd8 "An audio pad controller."
+[lpd8]: http://web.archive.org/web/20230706203147/https://www.akaipro.com/lpd8-lpd8 "An audio pad controller."
 [lua]: http://www.lua.org/ "An interpreted scripting language."
 [pandoc]: https://pandoc.org/ "A Markdown document converter."
 [pure-data]: http://puredata.info/ "A visual programming language."

@@ -35,7 +35,7 @@ My ideal set-up is more or less what I have now, because I'm very lucky to be ab
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [frame.io]: https://frame.io/ "A hosted collaboration service for video editors."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hbo-go]: https://en.wikipedia.org/wiki/HBO#HBO_Go "A streaming service for the HBO network."

@@ -81,7 +81,7 @@ Sequence to make time-lapses. [Dark Sky][dark-sky-ios] for weather. [Mint][mint-
 [coolpix-s10]: https://imaging.nikon.com/imaging/lineup/coolpix/s/s10/ "A 6 megapixel camera."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [ct314]: http://web.archive.org/web/20211124224616/https://www.adorama.com/indct314.html "A camera tripod."
-[dark-sky-ios]: https://support.apple.com:443/en-us/HT213526 "A weather app."
+[dark-sky-ios]: http://web.archive.org/web/20230829071258/https://support.apple.com/en-us/HT213526 "A weather app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [ds1818-plus]: https://www.synology.com/en-global/support/download/DS1815+ "An 8-bay NAS device."
 [dslr-pro-pack]: http://web.archive.org/web/20230706192104/https://goincase.com.au/products/incase-dslr-pro-pack "A camera bag."

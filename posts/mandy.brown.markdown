@@ -48,7 +48,7 @@ I'm pretty happy with what I have, though I'm looking forward to eventually trad
 [1password]: https://1password.com "Password management software for Mac OS X."
 [backpack]: https://en.wikipedia.org/wiki/37_signals#Backpack "An intra-company web service for sharing calendars, documents and files."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

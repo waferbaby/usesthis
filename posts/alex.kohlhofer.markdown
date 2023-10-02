@@ -48,7 +48,7 @@ Additionally I want the current [iPhone][] but without the total knee jerk 24 mo
 [friendfeed]: https://en.wikipedia.org/wiki/FriendFeed "Web-based social aggregation."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."

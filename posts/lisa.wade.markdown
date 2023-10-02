@@ -35,7 +35,7 @@ Preferably a well-paid assistant would come to my home at 10am 7 days a week and
 
 [adblock]: http://web.archive.org/web/20230813081746/https://getadblock.com/en/ "A browser extension for blocking ads."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[endnote]: https://endnote.com/ "Reference and bibliography software."
+[endnote]: http://web.archive.org/web/20230822160017/https://endnote.com/ "Reference and bibliography software."
 [galaxy-s-iii]: http://web.archive.org/web/20160303220825/http://www.samsung.com/global/galaxys3/ "An Android-based smartphone."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [lightshot]: https://addons.mozilla.org/en-US/firefox/addon/lightshot/ "A browser extension for taking screenshots."

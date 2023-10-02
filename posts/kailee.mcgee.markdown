@@ -42,7 +42,7 @@ Right now I work from home, which is great and not great in ways. I would love m
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."

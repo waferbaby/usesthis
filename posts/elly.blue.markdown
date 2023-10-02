@@ -32,4 +32,4 @@ My favorite app is Libby, for reading books from the library - it made me love r
 Because we're constantly building out Working Lit to adjust to our needs as a growing company, I spend a lot of time thinking about how to automate various processes, save people hours, or make the software more intuitive. I suppose there's no ideal state out there where it's "done." So my dream state is one in which I have the patience and calm mind to really think through every aspect of what we're doing and make reasoned decisions and judgments, because whenever I act hastily is when things go really haywire.
 
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[truck-trike]: http://www.trucktrike.com/ "An electric bike with a built-in cargo trailer."
+[truck-trike]: http://web.archive.org/web/20230903232927/http://www.trucktrike.com/ "An electric bike with a built-in cargo trailer."

@@ -54,7 +54,7 @@ I guess I want everything I have now, but with 8k OLED high DPI screens. I also 
 [edge.2]: http://web.archive.org/web/20230522022746/https://www.microsoft.com/en-us/edge "A web browser."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."

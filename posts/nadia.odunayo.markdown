@@ -45,7 +45,7 @@ I work from home. I used to have a Mac [Thunderbolt Display][thunderbolt-display
 [dt-770-pro]: http://web.archive.org/web/20230811124931/https://north-america.beyerdynamic.com/ "Closed headphones."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [freenas]: https://www.truenas.com/ "Network Attached Storage software."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [headspace-meditation-ios]: https://www.headspace.com/ "A guided meditation app for iOS."

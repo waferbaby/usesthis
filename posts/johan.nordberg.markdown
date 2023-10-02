@@ -83,7 +83,7 @@ Or if all that fails... the new line of [MacBooks][macbook.2] looks nice! One of
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [iloud]: http://web.archive.org/web/20230516222826/https://www.ikmultimedia.com/products/iloud/ "A portable Bluetooth speaker."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."

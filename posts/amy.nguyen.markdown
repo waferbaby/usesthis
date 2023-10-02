@@ -58,7 +58,7 @@ Some other miscellany:  I wish I had an ergonomic mouse that wasn't so tall. I k
 [google-calendar-ios]: https://apps.apple.com/us/app/google-calendar/id909319292 "An app for the calendar service."
 [hearthstone-ios]: https://apps.apple.com/us/app/hearthstone/id625257520 "A card battle game."
 [intellij-idea]: https://www.jetbrains.com/idea/ "A developer's IDE."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [kindle-ios]: https://apps.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."

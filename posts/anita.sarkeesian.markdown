@@ -51,7 +51,7 @@ I'm pretty happy with my setup but there are a few things I'd like to add such a
 [ck7500]: http://web.archive.org/web/20170406002233/https://www.amazon.com/Calumet-Convenient-Quick-Release-Split-Shaft-Low-Angle/dp/B000IZGV3W "A tripod."
 [cos-11d]: http://web.archive.org/web/20230706203409/https://sanken-mic.com/en/product/product.cfm/5.1105900 "A lavalier microphone."
 [d7000]: http://web.archive.org/web/20150902003342/http://www.nikonusa.com:80/en/Nikon-Products/Product/dslr-cameras/D7000.html "A 16.2 megapixel DSLR."
-[desk-rail]: http://deskrail.com/ "A desk organising dock."
+[desk-rail]: http://web.archive.org/web/20230706203402/http://deskrail.com/ "A desk organising dock."
 [diva-lite-200]: http://web.archive.org/web/20170406061513/https://www.amazon.com/Diva-Lite-200-120-volt/dp/B0089X7NEG "A lighting fixture for video recording."
 [donor-tools]: https://www.donortools.com/ "A service for accepting and organising donations."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."

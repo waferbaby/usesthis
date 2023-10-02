@@ -41,7 +41,7 @@ That, and a lint-resistant mouse wheel. How does one even clean that?
 [costume-quest-2]: https://en.wikipedia.org/wiki/Costume_Quest_2 "A role-playing video game."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [geforce-gtx-550-ti]: https://www.nvidia.com/en-us/page-not-found/ "A video card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."

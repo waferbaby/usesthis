@@ -53,7 +53,7 @@ Wow, I feel like this question is going to haunt me later because my immediate r
 [garageband-ios]: https://apps.apple.com/us/app/garageband/id408709785 "A music creation app."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
-[jot-touch]: https://www.adonit.net/jot/touch/ "A Bluetooth-powered iPad stylus."
+[jot-touch]: http://web.archive.org/web/20230706214607/https://www.adonit.net/jot/touch/ "A Bluetooth-powered iPad stylus."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

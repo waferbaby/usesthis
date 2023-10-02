@@ -36,7 +36,7 @@ I would also like a huge desktop monitor, because who wouldn't love a huge deskt
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."

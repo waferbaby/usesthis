@@ -56,7 +56,7 @@ Realistically, I just want a few nicer birdfeeders that I can see from my desk. 
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [fugu]: http://web.archive.org/web/20190408121159/http://rsug.itd.umich.edu:80/software/fugu/ "A file transfer (SFTP, SCP) app for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [greasemonkey]: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ "A Firefox add-on to inject Javascript into sites for customisation."
 [hl-2170w]: https://www.brother-usa.com/products/hl2170w "A laser printer."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

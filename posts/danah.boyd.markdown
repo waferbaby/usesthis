@@ -67,7 +67,7 @@ More than anything, I want a world with ubiquitous high bandwidth wifi. I hate t
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
+[mail-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mamp]: https://www.mamp.info/en/mamp/mac/ "A one-click Mac solution for Apache, MySQL, PHP."
 [messages-ios]: https://support.apple.com/messages "A messaging app."

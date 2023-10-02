@@ -69,7 +69,7 @@ With the memory bump on the Mac mini, I'm fairly close to an ideal situation com
 [mailsmith]: http://web.archive.org/web/20230706202030/https://www.mailsmith.org/ "A POP email client for the Mac."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mysql-workbench]: https://www.mysql.com/products/workbench/ "A GUI for the database server."
-[netbot-ios]: https://www.imore.com/netbot-iphone-and-ipad-review "An App.net client app."
+[netbot-ios]: http://web.archive.org/web/20230706202738/https://www.imore.com/netbot-iphone-and-ipad-review "An App.net client app."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [php]: https://www.php.net/ "An interpreted scripting language."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

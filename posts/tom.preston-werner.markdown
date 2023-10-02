@@ -40,7 +40,7 @@ Here's what I see when I close my eyes: A massive egg-shaped room. The topology 
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [istat-menus]: https://bjango.com/mac/istatmenus/ "A collection of Mac OS X menu items for monitoring your system."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

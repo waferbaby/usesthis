@@ -37,7 +37,7 @@ I'm a minimalist so my dream setup involves having fewer things. Apple products 
 [evernote-ios]: https://apps.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [flipboard-ios]: https://apps.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [hd-hero2]: https://gopro.com/ja/jp/support/hd-hero2-support "An HD video camera."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."

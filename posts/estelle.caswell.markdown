@@ -55,7 +55,7 @@ My dream set up would be to have my own open air loft style office with giant wi
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [eos-c100]: https://www.usa.canon.com/shop/cameras/view-all-cameras "A digital video camera."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[gs3]: https://home.lamarzoccousa.com/gs3/ "An espresso machine."
+[gs3]: http://web.archive.org/web/20230706200347/https://home.lamarzoccousa.com/gs3/ "An espresso machine."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [lumix-dmc-gh4]: http://web.archive.org/web/20230408170730/http://www.amazon.com/Panasonic-DMC-GH4KBODY-16-05MP-Mirrorless-Cinematic/dp/B00I9GYG8O "A 16.05 megapixel digital camera."

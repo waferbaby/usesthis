@@ -37,7 +37,7 @@ A corner condo unit overlooking the Potomac. I want to be a minimalist but my li
 [fire-tv-ios]: https://apps.apple.com/us/app/amazon-fire-tv/id947984433 "An app for controlling a Fire TV device."
 [fire-tv-stick]: http://web.archive.org/web/20230130044925/https://www.amazon.com/Amazon-Fire-TV-Stick-With-Alexa-Voice-Remote-Streaming-Media-Player/dp/B00ZV9RDKK/ "A device for streaming media to a TV."
 [gin-rummy-ios]: https://apps.apple.com/us/app/gin-rummy/id338402947 "A card game."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [grammarly]: http://web.archive.org/web/20221227052606/https://www.grammarly.com/ "A writing and grammar service."
 [h1n]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h1n-handy-recorder/ "A portable audio recorder."

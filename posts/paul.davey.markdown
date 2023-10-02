@@ -40,7 +40,7 @@ The Kangaroo Pro was me dipping my toe into the standing desk pool. Now that I'm
 [earthnight]: https://www.cleaversoft.com/ "An endless runner video game."
 [editorial-ios]: http://omz-software.com/editorial/ "A Markdown-powered text app."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [kangaroo-pro]: http://web.archive.org/web/20160316053435/http://www.ergodesktop.com:80/content/kangaroo-pro "An adjustable height desk."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."

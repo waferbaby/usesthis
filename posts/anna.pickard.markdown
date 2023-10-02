@@ -45,7 +45,7 @@ A lighter laptop to carry around the house one-handed with a baby on the other a
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [fuelband]: https://en.wikipedia.org/wiki/Nike%2B_FuelBand "A fitness wristband."
 [glitch.2]: https://www.glitchthegame.com/ "A web-based MMO."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ibaby-feed-timer-ios]: https://apps.apple.com/us/app/ibaby-feed-timer-breastfeeding/id395357581 "A feed timer app."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

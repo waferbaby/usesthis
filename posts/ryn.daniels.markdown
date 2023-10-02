@@ -43,7 +43,7 @@ I'd love to have a 13" MacBook Air with a Retina display. Of course a phone with
 [feedly]: https://feedly.com/ "A feed reader."
 [g500]: http://web.archive.org/web/20230504135303/https://www.amazon.com/Logitech-G500-Programmable-Gaming-Mouse/dp/B002J9GDXI "A gaming mouse."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [grid-it]: https://www.amazon.com/gp/product/B00GPGJXKQ/ "A case for organising your cables."

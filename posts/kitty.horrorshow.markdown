@@ -50,7 +50,7 @@ I've always wanted a killer PC with a huge, spacious desk for all of my music to
 [rain-house-eternity]: https://kittyhorrorshow.itch.io/rain-house-eternity "A video game."
 [rift]: https://en.wikipedia.org/wiki/Oculus_Rift "A virtual reality helmet."
 [sculptris]: http://web.archive.org/web/20220714173103/https://zbrushcore.com/mini/ "3D sculpting software."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [spacepilot-pro]: http://web.archive.org/web/20190506094029/https://www.3dconnexion.com/products/spacemouse/spacepilot-pro.html "A 3D mouse."
 [stem-system]: http://penumbrainc.com/wireless "A wireless motion tracking system."
 [sunset-spirit-steel]: https://kittyhorrorshow.itch.io/sunset "An exploration adventure game."

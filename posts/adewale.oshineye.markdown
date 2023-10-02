@@ -94,7 +94,7 @@ It would run in the background on all my machines and would unobtrusively point 
 [foursquare]: https://foursquare.com/ "A location service."
 [gel-ink-ballpoint]: https://www.muji.us/collections/pen-pencils "A ball-point pen."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-places]: https://www.google.com/business/ "A location service."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."

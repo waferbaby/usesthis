@@ -48,7 +48,7 @@ I look forward to the cochlea-radio, retina-projected future we've all been wait
 [cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicursaminipro "A digital film camera."
 [d16-cinema-camera]: http://web.archive.org/web/20200215003132/http://www.digitalbolex.com:80/shop/d16-cinema-camera-mft-mount/ "A digital film camera."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [impulse-tracker]: https://en.wikipedia.org/wiki/Impulse_Tracker "A DOS-based music sequencer."

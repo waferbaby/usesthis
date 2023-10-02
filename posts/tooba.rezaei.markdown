@@ -44,6 +44,6 @@ On the other side of my studio, I would like to have all the equipment for doing
 [mudbox]: http://web.archive.org/web/20221223233150/https://www.autodesk.com/products/mudbox/overview "3D digital sculpting and painting software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [snagit]: https://www.techsmith.com/screen-capture.html "Screen capturing software."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

@@ -35,7 +35,7 @@ I think I've got it pretty good, and have been blessed with having enough money 
 
 [celtx]: https://www.celtx.com/ "A pre-production/script writing software suite."
 [facebook-ios]: https://apps.apple.com/us/app/facebook/id284882215 "An iPhone app for accessing Facebook."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [golden-thread-tarot-ios]: http://web.archive.org/web/20230710123717/https://apps.apple.com/us/app/golden-thread-tarot/id1063058990 "A Tarot card app."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [huji-cam-ios]: https://apps.apple.com/us/app/huji-cam/id781383622 "A retro-style camera app."

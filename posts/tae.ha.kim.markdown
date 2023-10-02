@@ -46,6 +46,6 @@ Also can never have enough lighting and lenses. I would love to dive deeper into
 [qmk]: https://qmk.fm/ "Open source firmware for keyboards."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[ue-live]: https://custom.ultimateears.com:443/pages/custom-made "High-end in-ear headphones."
+[ue-live]: http://web.archive.org/web/20230831153317/https://custom.ultimateears.com/pages/custom-made "High-end in-ear headphones."
 [up3216q]: http://web.archive.org/web/20200708102608/https://www.dell.com/en-us/shop/dell-ultrasharp-32-ultra-hd-4k-monitor-with-premiercolor-up3216q/apd/210-afln/monitors-monitor-accessories "A 32 inch monitor."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."

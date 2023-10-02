@@ -95,7 +95,7 @@ That is what I want: more thoughtful, composable software; fewer monolithic behe
 [rush-hour-2008]: http://web.archive.org/web/20160502145117/http://archive.raleighusa.com:80/archive/2008-road/rush-hour-2008/ "A bike."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [scala]: https://www.scala-lang.org/ "A compiled programming language."
-[systrace]: http://www.citi.umich.edu/u/provos/systrace/ "Software for enforcing system call policies."
+[systrace]: http://web.archive.org/web/20230706195956/http://www.citi.umich.edu/u/provos/systrace/ "Software for enforcing system call policies."
 [twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."
 [twitter-mac]: https://apps.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

@@ -43,7 +43,7 @@ I've been thinking about buying a [MacBook Air][macbook-air] and a pony, for wri
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox "A web browser for Android."
 [galaxy-gio]: http://web.archive.org/web/20210908152947/https://www.samsung.com/galaxyace/gio_overview.html "A 3.2 inch Android smartphone."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [hd-429]: http://web.archive.org/web/20150913140037/http://en-us.sennheiser.com/over-ear-headphones-ambient-noise-isolation-hd-429 "Over the ear headphones."
 [katawa-shoujo]: http://www.katawa-shoujo.com/ "A bishoujo-style visual novel."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

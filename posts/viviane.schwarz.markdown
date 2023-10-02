@@ -44,7 +44,7 @@ A studio with brick walls and concrete floor, printing equipment, some work benc
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

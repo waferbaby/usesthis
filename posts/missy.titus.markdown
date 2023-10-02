@@ -44,7 +44,7 @@ My dream set up would also include a team of top notch UXers around me, to bounc
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dribbble]: http://web.archive.org/web/20230711125129/https://dribbble.com/ "A web community for sharing screenshots of your work."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."

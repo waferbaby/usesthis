@@ -59,7 +59,7 @@ I'd love to have some non-Apple hardware that was close to being as sleek and st
 
 [3007wfp]: http://web.archive.org/web/20230408060343/http://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
 [adblock]: http://web.archive.org/web/20230813081746/https://getadblock.com/en/ "A browser extension for blocking ads."
-[ario]: https://ario-player.sourceforge.net/ "A GTK2 client for MPD."
+[ario]: http://web.archive.org/web/20230716024904/https://ario-player.sourceforge.net/ "A GTK2 client for MPD."
 [bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [chef]: https://www.chef.io/products/chef-infra "Configuration management software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."

@@ -83,7 +83,7 @@ I'm still waiting for a simpler solution for syncing accounts and data between m
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [sr60i]: http://web.archive.org/web/20150219012856/http://www.amazon.com:80/Grado-Prestige-Headphones-Discontinued-Manufacturer/dp/B0006DPMU4 "Headphones."
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
-[tc-7520]: https://www.guru3d.com/articles_pages/beresford_tc_7520_dac_amplifier_review,1.html "A headphone DAC."
+[tc-7520]: http://web.archive.org/web/20230706201408/https://www.guru3d.com/articles_pages/beresford_tc_7520_dac_amplifier_review,1.html "A headphone DAC."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tower]: https://www.git-tower.com/ "A Mac GUI for Git."

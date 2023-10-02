@@ -62,7 +62,7 @@ I also miss having a desk in my apartment, so I'm going to try to get one of tho
 [fuzzyclock]: http://web.archive.org/web/20160323233710/http://osx.iusethis.com/app/fuzzyclock "A Mac menubar clock that shows the time in relative terms."
 [g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [goodreads]: https://www.goodreads.com/ "A service for tracking the book you've read."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."

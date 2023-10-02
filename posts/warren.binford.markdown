@@ -36,7 +36,7 @@ My dream set up would be fully compatible and integrated hardware and software t
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [g-2]: https://penbase.fandom.com/wiki/Pilot_G2 "A pen."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-maps-ios]: https://apps.apple.com/us/app/id585027354 "An app for the map service."

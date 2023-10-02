@@ -31,7 +31,7 @@ Honestly, when the construction debris clears, I think the attic is going to be 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [feedly]: https://feedly.com/ "A feed reader."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."

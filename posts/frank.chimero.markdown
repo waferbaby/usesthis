@@ -61,7 +61,7 @@ I'd like a more flexible, faster all-in-one inbox for my digital detritus. For s
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [flipboard-ios]: https://apps.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

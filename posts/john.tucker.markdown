@@ -31,7 +31,7 @@ If we're talking my dream, like no-limits pie-in-the-sky dream, my dream setup i
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [files-ios]: https://en.wikipedia.org/wiki/Files_(Apple) "Apple's file organising app."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

@@ -46,7 +46,7 @@ I wish all the software I used was open source.
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."
 [foldershare]: https://en.wikipedia.org/wiki/Windows_Live_Mesh#FolderShare_and_Windows_Live_Sync "File synchronisation software."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [spamassassin]: https://spamassassin.apache.org/ "Server-side spam-fighting software."
 [thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."

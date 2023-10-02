@@ -40,7 +40,7 @@ As long as I have my laptop, headphones, an internet connection and comfy seat, 
 [echofon]: http://web.archive.org/web/20190829052222/http://www.echofon.com:80/twitter/mac/ "A Twitter client for the Mac."
 [expensify]: https://www.expensify.com/ "An expense report service."
 [git]: https://git-scm.com/ "A version control system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-flights]: https://www.google.com/travel/unsupported?ucpp=Ch9odHRwczovL3d3dy5nb29nbGUuY29tL2ZsaWdodHMv "A service for looking up flights."
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

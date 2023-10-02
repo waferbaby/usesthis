@@ -40,7 +40,7 @@ If I'm dreaming big, I would also love to get a hydraulic press so I could easil
 [eos-60d]: http://web.archive.org/web/20151103110651/http://www.usa.canon.com:80/cusa/consumer/products/cameras/slr_cameras/eos_60d "A consumer-level DSLR camera."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."

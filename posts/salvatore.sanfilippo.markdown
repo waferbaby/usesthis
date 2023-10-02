@@ -58,7 +58,7 @@ I would love the ability to transfer all the context of a computer I'm using int
 [fvwm]: https://www.fvwm.org/ "A window manager for X."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [hping]: https://en.wikipedia.org/wiki/Hping "A command-line packet analyser."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

@@ -60,7 +60,7 @@ I'm pretty much "living my dream" already... my job gives me access to nearly ev
 [bejeweled-blitz-ios]: https://apps.apple.com/us/app/bejeweled-blitz/id469960709 "A jewel-matching puzzle game."
 [chromebook-14]: http://web.archive.org/web/20200925162134/https://www.amazon.com/HP-14-q070nr-14-Inch-Chromebook-T-Mobile/dp/B00FGOTBQO "A 14 inch laptop with 4G networking."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[endnote]: https://endnote.com/ "Reference and bibliography software."
+[endnote]: http://web.archive.org/web/20230822160017/https://endnote.com/ "Reference and bibliography software."
 [evernote-ios]: https://apps.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [evernote-mac]: https://evernote.com/ "A Mac client for the note/image service."
 [evernote-windows]: https://evernote.com/ "A Windows client for the note/image service."

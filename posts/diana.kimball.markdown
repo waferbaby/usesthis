@@ -38,7 +38,7 @@ I wish I could learn keyboard shortcuts effortlessly and bend timezones to my wi
 [drop7-ios]: https://apps.apple.com/us/app/drop7-by-zynga/id425245634 "An addictive puzzle game for the iPhone."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [fish]: https://fishshell.com/ "A command-line shell."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [iklear-travel-singles]: http://web.archive.org/web/20191130214431/https://www.amazon.com/iKlear-Travel-Singles-iPhone-MacBook/dp/B001W2UYYC "Screen cleaning wipes."

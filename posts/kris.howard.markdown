@@ -61,7 +61,7 @@ Beyond that I'm pretty happy, especially considering we just had an internationa
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freesewing]: https://github.com/freesewing/freesewing/ "A JavaScript library for working with sewing patterns."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-home-mini]: https://en.wikipedia.org/wiki/Google_Home#Home_Mini "A smart speaker."

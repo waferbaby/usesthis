@@ -35,7 +35,7 @@ You can tell from how little I knew about my PC before answering these questions
 [discord]: https://discord.com/ "A voice and text chat service."
 [final-fantasy-xiv]: https://en.wikipedia.org/wiki/Final_Fantasy_XIV "A fantasy MMO."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."

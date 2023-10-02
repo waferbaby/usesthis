@@ -58,7 +58,7 @@ Also keeping my eye on any desktop SLA or DLP 3D printers in the year ahead, and
 [hd-hero2]: https://gopro.com/ja/jp/support/hd-hero2-support "An HD video camera."
 [hero3-plus-silver]: http://web.archive.org/web/20230130230321/http://www.amazon.com/GoPro-CHDHN-302-HERO3-Silver-Edition/dp/B00F3F0EIU/ "A 4K video camera."
 [hero4-black]: http://web.archive.org/web/20230130020829/http://www.amazon.com/GoPro-HERO4-BLACK-Action-Camera/dp/B00NIYNUF2/ "A 4K video camera."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [lumix-dmc-gh2]: https://en.wikipedia.org/wiki/Panasonic_Lumix_DMC-GH2 "A Micro Four Thirds DSLR camera."
 [lumix-dmc-gh4]: http://web.archive.org/web/20230408170730/http://www.amazon.com/Panasonic-DMC-GH4KBODY-16-05MP-Mirrorless-Cinematic/dp/B00I9GYG8O "A 16.05 megapixel digital camera."
 [nexus-7]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android tablet."

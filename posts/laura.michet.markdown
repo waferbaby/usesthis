@@ -73,7 +73,7 @@ Perhaps my ultimate workspace would be an entirely wooden one. I could pretend I
 [ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [pathologic-2]: https://en.wikipedia.org/wiki/Pathologic_2 "An adventure game."
-[saber-68]: https://www.originativeco.com/products/saber-68 "A mechanical keyboard."
+[saber-68]: http://web.archive.org/web/20230706214619/https://www.originativeco.com/products/saber-68 "A mechanical keyboard."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [where-the-water-tastes-like-wine]: https://en.wikipedia.org/wiki/Where_the_Water_Tastes_Like_Wine "An adventure game."

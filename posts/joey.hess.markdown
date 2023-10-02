@@ -50,7 +50,7 @@ I dream of a ARM-based netbook with exceptionally good battery life, an E-ink di
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [etckeeper]: http://joeyh.name/code/etckeeper/ "A tool for managing /etc with git."
-[git-annex]: https://git-annex.branchable.com/ "A tool for tracking the details of large files in git."
+[git-annex]: http://web.archive.org/web/20230922030452/https://git-annex.branchable.com/ "A tool for tracking the details of large files in git."
 [git]: https://git-scm.com/ "A version control system."
 [haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
 [ikiwiki]: http://ikiwiki.info/ "A wiki tool based around a revision control system."

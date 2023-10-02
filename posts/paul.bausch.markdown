@@ -48,7 +48,7 @@ I feel like I'm living the dream already. If we could get wireless electricity g
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [galant]: http://web.archive.org/web/20150401122015/http://www.ikea.com/us/en/catalog/products/S29806818/ "An office desk."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [grunt]: https://gruntjs.com/ "A task runner."
 [inconsolata]: https://levien.com/type/myfonts/inconsolata.html "A monospace font."

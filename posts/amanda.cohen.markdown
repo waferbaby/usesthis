@@ -31,7 +31,7 @@ The biggest piece of hardware I use is my restaurant, and this one is so much bi
 
 [color-laserjet-professional-cp5225n]: http://web.archive.org/web/20230706202024/https://www.hp.com/us-en/shop/pdp/business-solutions/hp-color-laserjet-pro-cp5225n-printer-ce711a-bgj "A printer."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [opentable]: https://www.opentable.com/start/home "A restaurant reservation service."

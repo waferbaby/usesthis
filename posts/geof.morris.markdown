@@ -40,7 +40,7 @@ All of this stuff is useless if we don't share our stories with each other and e
 
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
 [ef-100mm-f2.8l-is-usm]: http://web.archive.org/web/20151008110016/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_100mm_f_2_8l_macro_is_usm "A macro lens."
 [ef-135mm-f2.8-softfocus]: http://web.archive.org/web/20151010024359/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_135mm_f_2_8_with_softfocus "A telephoto lens."

@@ -95,7 +95,7 @@ That said, in 2019, with all the clouds and cheap laptops, and Raspberry Pis, I 
 [github]: https://github.com/ "A Git code repository service."
 [gmail-android]: https://play.google.com/store/apps/details?id=com.google.android.gm "A Gmail client for Android."
 [gmail-ios]: https://apps.apple.com/us/app/gmail-email-from-google/id422689480 "A client for the email service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-meet]: https://apps.google.com/meet/ "An enterprise video chat service."

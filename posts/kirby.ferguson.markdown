@@ -31,7 +31,7 @@ I'm pretty much there. Of course, more cores would be better, but I've got a pre
 [chronosync]: https://www.econtechnologies.com/chronosync/overview.html "A synchronising and backup tool for the Mac."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [devonthink]: https://www.devontechnologies.com/apps/devonthink/ "Software for storing all your documents, scans etc."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-fiber]: http://web.archive.org/web/20230815004142/https://fiber.google.com/ "A fast Internet connection."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

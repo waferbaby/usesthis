@@ -39,6 +39,6 @@ Well, first off, a more powerful computer with a current video card would be nic
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [windows-10-pro]: https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro "A PC operating system."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

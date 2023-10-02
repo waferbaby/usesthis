@@ -46,7 +46,7 @@ Software-wise I really wish we'd done almost everything differently. The focus h
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fsc]: https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/compiler-options "The F# compiler."
 [gdb]: http://www.gnu.org/software/gdb/ "A code debugger."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [go]: https://go.dev/ "A compiled programming language."
 [google-meet]: https://apps.google.com/meet/ "An enterprise video chat service."
 [heaptrack]: https://github.com/KDE/heaptrack "A Linux memory profiler."

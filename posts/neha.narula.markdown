@@ -78,7 +78,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [kindle-ios]: https://apps.apple.com/gb/app/kindle/id302584613 "An iPhone app for accessing Kindle content from Amazon."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
+[mail-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [matplotlib]: https://matplotlib.org/ "A Python library for 2D plotting."
 [mysql]: https://www.mysql.com/ "A relational database server."
 [native-client]: http://web.archive.org/web/20230815184742/https://developer.chrome.com/docs/native-client/ "A developer tool for running native OS code in a browser."

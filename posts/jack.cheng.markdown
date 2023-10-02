@@ -64,7 +64,7 @@ But in reality, my ideal setup would produce a certain feeling, a feeling that a
 [folio-cherry]: http://web.archive.org/web/20140813095308/http://www.crateandbarrel.com:80/folio-cherry-bonded-leather-side-chair/s233021 "A chair."
 [generation]: https://www.knoll.com/product/generation-by-knoll "A chair."
 [github-mac]: https://desktop.github.com/ "A client for the versioning control service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [haml]: https://haml.info/ "A markup syntax that generates HTML."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."

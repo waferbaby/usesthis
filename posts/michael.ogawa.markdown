@@ -44,7 +44,7 @@ I hope that browsers get better at rendering the HTML5 canvas element and that e
 [evolines]: https://code.google.com/archive/p/evolines "Source code commits visualiser software."
 [gephi]: https://gephi.org/ "Open-source visualisation software."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."

@@ -53,7 +53,7 @@ I'm probably stretching the scope of this question, but if you're going to dream
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [growl]: https://growl.github.io/growl/ "A notification system for Mac OS X."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."

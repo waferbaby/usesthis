@@ -52,7 +52,7 @@ A wearable, one-touch recorder that captures conversations and todo items. It sy
 [er4-micropro]: http://web.archive.org/web/20190414162300/http://www.etymotic.com/ephp/er4.html "In-ear headphones."
 [exit-strategy-nyc-ios]: https://web.archive.org/web/20210522103229/exitstrategynyc.com// "A New York navigation app."
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [greplin-ios]: https://apps.apple.com/us/app/greplin/id424909109 "A client app for the Greplin service."

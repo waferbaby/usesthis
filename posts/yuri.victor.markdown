@@ -69,7 +69,7 @@ Also, you're a star and I love you. Follow me on twitter maybe: [@yurivictor](ht
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [circa-ios]: https://apps.apple.com/app/circa-news/id517114354 "A news app."
-[dark-sky-ios]: https://support.apple.com:443/en-us/HT213526 "A weather app."
+[dark-sky-ios]: http://web.archive.org/web/20230829071258/https://support.apple.com/en-us/HT213526 "A weather app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [glances]: https://github.com/nicolargo/glances "Command-line system monitoring."

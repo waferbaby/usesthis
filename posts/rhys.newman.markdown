@@ -33,7 +33,7 @@ My preference would be to start with a small studio, with a great big wall, a la
 
 [alias]: http://web.archive.org/web/20221223231621/https://www.autodesk.com/products/alias-products/overview "2D and 3D design software."
 [coolpix-aw100]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Compact-Digital-Cameras/COOLPIX-AW100.html "A 16 megapixel rugged digital camera."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [hi-tec-c]: http://web.archive.org/web/20190506063359/https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [lumia-900]: http://web.archive.org/web/20140925213822/https://www.nokia.com/us-en/phones/phone/lumia900/ "A Windows Phone smartphone."

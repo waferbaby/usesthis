@@ -64,7 +64,7 @@ As a citizen of a [fairly accent-full country](http://en.wikipedia.org/wiki/Fran
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
-[git-annex]: https://git-annex.branchable.com/ "A tool for tracking the details of large files in git."
+[git-annex]: http://web.archive.org/web/20230922030452/https://git-annex.branchable.com/ "A tool for tracking the details of large files in git."
 [git]: https://git-scm.com/ "A version control system."
 [gnome-shell]: https://wiki.gnome.org/Projects/GnomeShell "A graphical interface for the GNOME desktop environment."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."

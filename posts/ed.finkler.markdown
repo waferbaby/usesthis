@@ -86,7 +86,7 @@ Actually, I just realized what my dream is: current Apple hardware (including ph
 
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fake]: https://fakeapp.com/ "A web browser for the Mac designed for automation."
 [fireworks]: https://creative.adobe.com/products/fireworks "A graphics and work tool for the Mac."

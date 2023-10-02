@@ -32,7 +32,7 @@ I'd like a proper desktop [iMac][], too. And more [colored pencils][premier-soft
 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [go-travel]: https://www.goldtouch.com/travel-laptop-and-tablet-stand/ "A laptop and tablet stand."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."

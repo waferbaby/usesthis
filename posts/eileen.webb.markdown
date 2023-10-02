@@ -47,7 +47,7 @@ It's buggy here, so I would love a screen porch. I should probably have a more e
 [1034d]: https://www.brother-usa.com/products/1034d "A sewing machine."
 [brain-wave-ios]: https://apps.apple.com/us/app/brain-wave-32-advanced-binaural/id307219387 "A binaural app."
 [duomatic-80]: http://web.archive.org/web/20171110043941/http://passapcanada.com:80/dm-80-introdution.htm "A knitting machine."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

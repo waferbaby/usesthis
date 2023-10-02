@@ -52,7 +52,7 @@ Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I c
 [cloud-alpha]: https://hyperx.com/products/hyperx-cloud-alpha "Gaming headphones."
 [core-i7-8700k]: http://web.archive.org/web/20210806171904/https://ark.intel.com/content/www/us/en/ark/products/126684/intel-core-i7-8700k-processor-12m-cache-up-to-4-70-ghz.html "A computer processor."
 [define-7-xl]: https://www.fractal-design.com/products/cases/define/define-7-xl/black-tg-dark-tint/ "A PC tower case."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
 [ds1813-plus]: https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/13-year/DS1813+/enu/Synology_DS1813_Plus_Data_Sheet_enu.pdf "A NAS device."
 [dx513]: https://global.download.synology.com/download/Document/Hardware/UserGuide/ExpansionUnit/13-year/DX513/enu/Syno_UsersGuide_DX513_enu.pdf "A NAS storage expansion device."

@@ -61,7 +61,7 @@ My dream setup from when I was in high school is more interesting. I spent hours
 [gajim]: https://gajim.org/ "A Jabber client for *nix."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-play-music]: https://music.youtube.com/googleplaymusic "An online music player."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."

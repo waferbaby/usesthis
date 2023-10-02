@@ -48,7 +48,7 @@ Most of my current gear lust is related to mastering, as I'd like to have a few 
 [cubase]: https://www.steinberg.net/cubase/ "Music production software."
 [evolver]: http://web.archive.org/web/20160630002007/http://www.davesmithinstruments.com:80/products/med/ "A compact monophonic synthesizer."
 [express-xt]: http://web.archive.org/web/20230706205331/https://motu.com/products/midi/xpressxt_usb/ "A MIDI interface."
-[filechucker]: https://encodable.com/filechucker/ "A web-based file uploader."
+[filechucker]: http://web.archive.org/web/20230706205334/https://encodable.com/filechucker/ "A web-based file uploader."
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [kontakt]: https://www.native-instruments.com/en/products/komplete/samplers/kontakt-7/ "A large sound library."
 [magma-pci]: http://web.archive.org/web/20150508061332/http://www.magma.com:80/catalog/classic-pci-expansion "An expansion system for adding new PCI/PCI-X cards."

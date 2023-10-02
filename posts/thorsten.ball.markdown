@@ -116,7 +116,7 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [fzf]: https://github.com/junegunn/fzf "A fuzzy finder for the command line."
 [gesture]: http://web.archive.org/web/20190508113942/https://www.amazon.com/dp/B0141G9IHY/ "A desk chair."
 [git]: https://git-scm.com/ "A version control system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [homebrew]: https://brew.sh/ "Command-line package manager for Mac OS X."
 [ifttt]: https://ifttt.com/ "A web service for applying rules to items, not unlike how you might filter your email."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."

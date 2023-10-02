@@ -67,7 +67,7 @@ To be honest, my current computer setup is just fine for how I work. I love tiny
 [mx-ergo]: https://www.logitech.com/en-us/product/mx-ergo-wireless-trackball-mouse.html "A wireless trackball mouse"
 [nuc8i7hvk]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/boards-kits/nuc/kits/nuc8i7hvk.html "A small form factor computer kit."
 [photoshop-sketch-android]: http://web.archive.org/web/20210705055430/https://play.google.com/store/apps/details?id=com.adobe.creativeapps.sketch "A drawing and illustration app."
-[photoshop-sketch-ios]: https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
+[photoshop-sketch-ios]: http://web.archive.org/web/20220317062846/https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [radeon-rx-vega-m-gh]: https://www.intel.com/content/www/us/en/support/products/136866/graphics-drivers/graphics-for-8th-generation-intel-processors/radeon-rx-vega-m-gh-graphics.html "A integrated GPU."

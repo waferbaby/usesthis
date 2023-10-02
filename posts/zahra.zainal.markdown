@@ -52,7 +52,7 @@ My cat sitting on my lap as I work, but by choice. This is the part of the dream
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
-[photoshop-sketch-ios]: https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
+[photoshop-sketch-ios]: http://web.archive.org/web/20220317062846/https://apps.apple.com/us/app/adobe-photoshop-sketch/id839085644 "A drawing and illustration app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-pack]: https://www.kathmandu.com.au/pocket-pack-v4.html "A foldable backpack."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

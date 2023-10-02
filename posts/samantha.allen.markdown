@@ -42,7 +42,7 @@ One of those slightly bigger and square-edged iPad Pros - maybe a 12.9" - but th
 [bluetooth-easy-switch-keyboard-k811]: https://www.logitech.com/en-us/product/illuminated-keyboard-for-mac-ipad-iphone.html "A Bluetooth keyboard."
 [crusher]: http://web.archive.org/web/20230524231316/https://www.skullcandy.com/shop/headphones/bluetooth-headphones/crusher-wireless/ "Wireless over-the-ear headphones."
 [garageband-ios]: https://apps.apple.com/us/app/garageband/id408709785 "A music creation app."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [venue]: http://web.archive.org/web/20221031124121/https://www.skullcandy.com/shop/headphones/bluetooth-headphones/ "Wireless over-the-ear headphones."

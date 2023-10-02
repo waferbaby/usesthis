@@ -29,7 +29,7 @@ I hang out on Twitter all day long. I think the software I use the most, day-to-
 
 My dream setup? I would like to have the Minority Report computer with the wonderful gloves, and also one of those firehoses from the Matrix that you plug into the back of your skull for downloading ALL THE INFORMATION. Except I would be too scared of mind control. But if you could guarantee no mind control, that would be the ideal.
 
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [dr-web-windows]: https://products.drweb.com/win/security_space/ "Windows anti-virus software."
 [echo]: http://www.livescribe.com/site/echo/ "A smartpen."
 [facebook]: https://www.facebook.com/ "A social networking site."

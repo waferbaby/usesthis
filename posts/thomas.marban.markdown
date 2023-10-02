@@ -38,7 +38,7 @@ As soon as Macbooks ship with 2TB of Flash memory, I'll switch back to a one-mac
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [feedly]: https://feedly.com/ "A feed reader."
 [game-boy-light]: https://en.wikipedia.org/wiki/Game_Boy "A portable gaming device."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipod-classic]: https://support.apple.com/ipod-touch "A music player."

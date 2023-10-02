@@ -35,7 +35,7 @@ I'd like fewer machines. :-) But I should probably upgrade this crappy desktop. 
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [gearman]: http://gearman.org/ "Powerful software for sending tasks across to multiple computers at once."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [go]: https://go.dev/ "A compiled programming language."
 [kvm]: http://www.linux-kvm.org/page/Main_Page "Virtualisation software for Linux operating systems."
 [libvirt]: https://libvirt.org/ "A library for interacting with various OS' virtualisation capabilities."

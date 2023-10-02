@@ -42,7 +42,7 @@ I think I have it already! My collection of small, modular, purpose-built comput
 [circleci]: https://circleci.com/ "A continuous delivery service."
 [discord]: https://discord.com/ "A voice and text chat service."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome-terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal "A terminal application."
 [honeycomb-lx2]: https://www.solid-run.com/arm-servers-networking-platforms/honeycomb-servers-workstation/#overview "A mini Arm computer."
 [honeycomb]: https://www.honeycomb.io/ "A rich data analytics tool."

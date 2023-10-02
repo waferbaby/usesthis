@@ -77,7 +77,7 @@ Oh, and more battery life in everything, please.
 [go]: https://go.dev/ "A compiled programming language."
 [hf5]: http://web.archive.org/web/20190310190354/http://www.etymotic.com:80/ephp/hf5.html "High-fidelity in-ear headphones."
 [i3]: https://i3wm.org/ "An X window manager."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [lsyncd]: https://github.com/lsyncd/lsyncd "A tool for mirroring file changes."
 [lua]: http://www.lua.org/ "An interpreted scripting language."

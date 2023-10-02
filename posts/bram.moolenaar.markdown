@@ -48,7 +48,7 @@ Well, what I'm already running! I sometimes wonder what I can buy to make it wor
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
 [geforce-gtx-1050-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

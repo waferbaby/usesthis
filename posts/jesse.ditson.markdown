@@ -110,7 +110,7 @@ I've always fantasized about having an analog synth rig, and still may explore b
 [grafio-ios]: http://tentouchapps.com/grafio/ "A diagramming app."
 [hd-598]: https://en-us.sennheiser.com/audio-headphones-high-end-surround-sound-hd-598 "Over-the-ear headphones."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

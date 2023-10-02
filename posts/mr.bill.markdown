@@ -123,7 +123,7 @@ Dream setup would likely just be a fairly flat room with really nice speakers th
 [dust]: https://www.soundmorph.com/product/49/dust "An audio plugin."
 [elevate]: https://www.eventideaudio.com/plug-ins/elevate-mastering-bundle/ "An equaliser plugin."
 [endless-smile]: http://web.archive.org/web/20210801104509/https://www.dadalife.com/plugin/ "An effects audio plugin."
-[everything-bundle]: https://www.izotope.com/en/products/everything-bundle.html "A giant collection of audio plugins."
+[everything-bundle]: http://web.archive.org/web/20230706202410/https://www.izotope.com/en/products/everything-bundle.html "A giant collection of audio plugins."
 [everything]: https://en.wikipedia.org/wiki/Everything_(software) "Windows software for finding and opening files."
 [fireface-802]: https://www.rme-audio.de/fireface-802.html "A sixty channel USB/FireWire audio interface."
 [fracture-xt]: https://glitchmachines.com/products/fracturext/ "A glitch effects audio plugin."

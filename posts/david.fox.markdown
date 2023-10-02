@@ -54,7 +54,7 @@ I'd love a newer MacBook Pro... or maybe a [Mac Pro][mac-pro], but I haven't use
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [indiana-jones-and-the-last-crusade-the-graphic-adventure]: https://en.wikipedia.org/wiki/Indiana_Jones_and_the_Last_Crusade:_The_Graphic_Adventure "A point-and-click video game."
 [interarchy]: https://nolobe.com/interarchy/ "A FTP/SFTP client for the Mac."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."

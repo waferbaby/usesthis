@@ -33,6 +33,6 @@ Just a bigger office space, honestly. Something with room for a drafting table, 
 [magicavoxel]: http://web.archive.org/web/20230511013801/https://www.voxelmade.com/magicavoxel/ "A voxel image editor."
 [maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [stumpy-pencil]: http://stumpypencil.blogspot.com/2009/11/return-of-stumpy-pencil.html "A pencil brush set for Photoshop."
 [xl2411p]: https://zowie.benq.com/en-us/monitor/xl2411p.html "A 24 inch monitor."

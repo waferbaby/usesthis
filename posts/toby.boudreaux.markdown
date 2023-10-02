@@ -57,7 +57,7 @@ It is missing a [Leica M9][m9] and proper PrimeSense camera at the moment, thoug
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [feedler-ios]: https://apps.apple.com/us/app/feeddler-rss-reader-for-ipad/id364873582 "A feed reading app."
 [fitbit]: http://web.archive.org/web/20170330043244/http://www.fitbit.com/ "A personal fitness tracking device."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."

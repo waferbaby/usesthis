@@ -46,7 +46,7 @@ On the storage front, there are several things I'd love to see:
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
 [busycal]: http://www.busymac.com/busycal/ "Advanced calendar software for Mac OS X."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
 [fastscripts]: https://redsweater.com/fastscripts/ "System-wide access to Applescripts, for the Mac."
 [fish]: https://fishshell.com/ "A command-line shell."

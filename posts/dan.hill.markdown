@@ -138,7 +138,7 @@ I often end up working in all kinds of spaces - in fact cafes and trains are pro
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
-[typepad]: https://www.typepad.com/ "A weblog system."
+[typepad]: http://web.archive.org/web/20231001050514/https://www.typepad.com/ "A weblog system."
 [utorrent]: http://web.archive.org/web/20230524080606/https://www.utorrent.com/ "A BitTorrent client."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

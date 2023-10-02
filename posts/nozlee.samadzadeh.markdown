@@ -59,7 +59,7 @@ But this gets back to those two types of tech people. What do I need new hardwar
 [field-notes]: https://fieldnotesbrand.com/ "A brand of notebooks."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [free-menstrual-calendar-ios]: https://apps.apple.com/us/app/free-menstrual-calendar/id292760731 "Exactly what it says."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [gourmet-live-ios]: https://apps.apple.com/us/app/id391597058 "A cooking magazine app."

@@ -52,7 +52,7 @@ I guess most of what I'd like out of a dream setup is similar to what I have now
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [flixter-ios]: https://apps.apple.com/us/app/movies-by-flixster-rotten/id284235722 "An app for the social movie site."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."

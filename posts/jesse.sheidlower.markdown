@@ -51,7 +51,7 @@ I actually think I'm pretty much there. I always do want to play around with thi
 [snapcast]: https://mjaggard.github.io/snapcast/ "A client/server music player."
 [streamline]: https://web.archive.org/web/20130323174644/http://www.datamancer.net/keyboards/streamline/streamline.htm "An Art Deco-style keyboard."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
-[u2718q]: https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor "A 27 inch 4K monitor."
+[u2718q]: http://web.archive.org/web/20230706203751/https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor "A 27 inch 4K monitor."
 [vivaldi]: https://vivaldi.com/ "A web browser."
 [wd-red]: http://web.archive.org/web/20151031072220/http://wd.com:80/en/products/products.aspx?id=810 "A hard disk designed for NAS/RAID usage."
 [xfce4-terminal]: https://docs.xfce.org/apps/xfce4-terminal/start "A terminal emulator."

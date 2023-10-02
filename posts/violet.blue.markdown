@@ -54,7 +54,7 @@ I'm still in love with my MacBook, but for travel and when I lecture I'd love to
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."

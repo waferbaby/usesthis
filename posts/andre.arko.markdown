@@ -222,7 +222,7 @@ In my biggest dreams, all of that is happening in a world with open borders, gua
 [time-machine]: https://en.wikipedia.org/wiki/Time_Machine_(Mac_OS) "Backup software for the masses, included with Mac OS X 10.5."
 [tmux]: https://sourceforge.net/projects/tmux.mirror/ "A terminal multiplexer, similar to screen."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
-[tx-nr545]: https://www.intl.onkyo.com/products/av_components/av_receivers/tx-nr545/index.html "An A/V receiver."
+[tx-nr545]: http://web.archive.org/web/20230706211907/https://www.intl.onkyo.com/products/av_components/av_receivers/tx-nr545/index.html "An A/V receiver."
 [ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [ulysses]: http://web.archive.org/web/20180624003752/https://ulyssesapp.com/ "A writing/text editor for the Mac."
 [videomic-ntg]: http://web.archive.org/web/20220128185144/https://en.rode.com/microphones/videomicntg "A shotgun microphone."

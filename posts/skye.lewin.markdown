@@ -27,7 +27,7 @@ A sit-stand studio space with lots of natural sunlight and a view of nature. It 
 
 [c2-compressor]: https://www.smartresearch.co.uk/ "An audio compressor."
 [cubase]: https://www.steinberg.net/cubase/ "Music production software."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [filemaker-pro]: http://web.archive.org/web/20230317135854/https://www.claris.com/filemaker/pro/ "A database application."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

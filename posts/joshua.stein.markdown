@@ -51,7 +51,7 @@ I'm pretty close to it with the newer MacBook Air's battery life, light weight, 
 [geekdesk]: http://web.archive.org/web/20230601102958/https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [ipod]: https://support.apple.com/ipod-touch "A music player."

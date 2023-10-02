@@ -49,7 +49,7 @@ But I digress - all of this, with the benefit of hindsight, was an attempt to bu
 [openframeworks]: https://openframeworks.cc/ "A C++ library for creative projects."
 [opengl]: https://www.opengl.org/ "An industry standard/implementation for 2D/3D graphics."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[portaudio]: http://portaudio.com/ "A cross-platform audio I/O library."
+[portaudio]: http://web.archive.org/web/20230926033634/https://www.portaudio.com/ "A cross-platform audio I/O library."
 [ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
 [pure-data]: http://puredata.info/ "A visual programming language."
 [push]: https://www.ableton.com/en/push/ "Unique music-making hardware."

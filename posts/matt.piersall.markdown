@@ -38,7 +38,7 @@ Overall getting the setup to be slightly more "Hollywood" would be nice but not 
 [bm5a-mkii]: http://web.archive.org/web/20190508143149/https://www.amazon.com/Dynaudio-BM5A-mkII-Channel-Monitor/dp/B0050SNCPM "Studio speakers."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [ergoergo]: http://web.archive.org/web/20230707083121/https://ergoergo.com/ "A special chair."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [grm-tools-classic]: http://web.archive.org/web/20160426105729/http://www.sweetwater.com:80/store/detail/GRMToolsRTAS "A collection of audio plugins."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

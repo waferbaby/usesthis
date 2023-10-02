@@ -46,7 +46,7 @@ I'm a big fan of Apple hardware - I wish I could have a [MacBook][macbook.2] as 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [snapchat]: https://en.wikipedia.org/wiki/Snapchat "A messaging service."
-[spark-ar-studio]: https://sparkar.facebook.com/ar-studio/ "Augmented reality filter creation software."
+[spark-ar-studio]: http://web.archive.org/web/20230821073555/https://sparkar.facebook.com/ar-studio/ "Augmented reality filter creation software."
 [surface-mobile-mouse]: https://www.microsoft.com/en-us/p/surface-mobile-mouse/8XGT2SCLG6KG/?activetab=pivot%3aoverviewtab "A mouse."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

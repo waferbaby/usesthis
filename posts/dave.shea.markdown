@@ -70,7 +70,7 @@ But that would just be gravy. I'm quite happy with what I have.
 [ef-s-10-22mm-f3.5-4.5-usm]: http://web.archive.org/web/20151024005028/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_s_10_22mm_f_3_5_4_5_usm "A zoom lens for SLR cameras."
 [elevation]: http://web.archive.org/web/20191229071100/http://exnihilo.mezzoblue.com:80/elevation/ "A GPS route visualiser."
 [eos-rebel-xt]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

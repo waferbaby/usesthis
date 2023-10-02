@@ -41,7 +41,7 @@ I'd also like to use [OS X][macos] and [LibreOffice][] at work but you can alway
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [copathplus]: http://web.archive.org/web/20101211160220/https://store.cerner.com/items/311 "Pathology lab software."
 [digital-evidence-manager]: https://www.veripic.com/?go=demanager "A platform for managing evidence for law enforcement."
-[endnote]: https://endnote.com/ "Reference and bibliography software."
+[endnote]: http://web.archive.org/web/20230822160017/https://endnote.com/ "Reference and bibliography software."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [internet-explorer]: https://en.wikipedia.org/wiki/Internet_Explorer "A PC web browser."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."

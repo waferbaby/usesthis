@@ -45,7 +45,7 @@ The need will continue - just look at how painful it is to use [Rails][] on a Ma
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [focus]: http://web.archive.org/web/20161126103039/http://www.samsung.com:80/us/support/owners/product/SGH-I917ZKAATT "A Windows Phone smartphone."
 [instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

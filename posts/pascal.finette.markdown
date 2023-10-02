@@ -50,7 +50,7 @@ The one thing I want is a Retina MacBook in 12" - I can't stand the screen (and 
 [finepix-x100]: https://finepix-x100.com/ "A 12.3 megapixel digital camera."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

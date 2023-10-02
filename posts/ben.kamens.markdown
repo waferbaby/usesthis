@@ -37,7 +37,7 @@ Silent room. Like, Silent silent. It'd be about 65°F with a tree and a babbling
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gtmetrix]: https://gtmetrix.com/ "Online-based web performance analysis."
 [hipchat]: http://web.archive.org/web/20170905004635/https://www.hipchat.com/ "A hosted IM and file service."
 [kiln]: http://web.archive.org/web/20181116182914/https://manuscript.com/features/version-control "A hosted Mercurial version control system."

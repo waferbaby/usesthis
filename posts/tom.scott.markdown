@@ -49,7 +49,7 @@ A heads-up display. The "names and faces" part of my brain has never really work
 [avisynth]: http://avisynth.nl/index.php/Main_Page "A video editor and processor tool for Windows."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [latitude-d830]: http://web.archive.org/web/20160127152107/http://www.amazon.com:80/Dell-Latitude-16-Inch-processor-windows/dp/B001P9CZ9O "A 15 inch PC laptop."
 [mpeg-streamclip]: http://www.squared5.com/ "A video converter and editor."

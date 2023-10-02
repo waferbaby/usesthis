@@ -94,7 +94,7 @@ What I'd really, really, really love is my own little home office, complete with
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [gel-ink-ballpoint]: https://www.muji.us/collections/pen-pencils "A ball-point pen."
 [ghostery]: https://www.ghostery.com/ "A browser extension for blocking trackers."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [hl-l2350dw]: https://www.brother-usa.com/products/rhll2350dw "A mono laser printer."

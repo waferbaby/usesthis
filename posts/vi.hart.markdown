@@ -167,7 +167,7 @@ I want a good violin and a hot tub. Right now I'm using a standing desk, but I t
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [sweet-ride]: https://www.vater.com/ "Drumsticks."
 [the-book-seat]: http://thebookseat.com/ "A beanbag for books and tablets."
-[theta]: https://theta360.com/en/ "A camera that captures spherical images."
+[theta]: http://web.archive.org/web/20230910204518/https://theta360.com/en/ "A camera that captures spherical images."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [up3216q]: http://web.archive.org/web/20200708102608/https://www.dell.com/en-us/shop/dell-ultrasharp-32-ultra-hd-4k-monitor-with-premiercolor-up3216q/apd/210-afln/monitors-monitor-accessories "A 32 inch monitor."
 [videostitch]: http://web.archive.org/web/20220122094547/https://video-stitch.com/ "360° video editing and stitching software."

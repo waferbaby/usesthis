@@ -48,5 +48,5 @@ To be honest, I feel like I'm pretty close to my dream setup! I'm debating anoth
 [screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."
 [starship]: https://starship.rs/ "Software to generate a prompt for shells."
 [ts3-plus]: https://www.caldigit.com/ts3-plus/ "A Thunderbolt dock."
-[u2718q]: https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor "A 27 inch 4K monitor."
+[u2718q]: http://web.archive.org/web/20230706203751/https://www.dell.com/en-si/work/shop/cty/pdp/spd/dell-u2718q-monitor "A 27 inch 4K monitor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

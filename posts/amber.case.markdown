@@ -58,7 +58,7 @@ Other than that, I have my dream setup right now. I have a tiny keyboard on my p
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [geoloqi]: https://geoloqi.com/ "A geo-location service for smartphones."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."

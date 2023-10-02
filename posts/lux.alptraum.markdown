@@ -39,7 +39,7 @@ I have this fantasy in which I am a minimalist, but real life always proves othe
 [bjursta]: http://web.archive.org/web/20190506071850/https://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [draft]: http://web.archive.org/web/20230308033335/https://draftin.com/ "A version-controlled distraction-free writing service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."

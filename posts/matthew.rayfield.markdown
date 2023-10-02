@@ -79,7 +79,7 @@ I'd do it, but it seems like a lot of work and I've got too many emoji and popup
 [git]: https://git-scm.com/ "A version control system."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keepassxc]: https://keepassxc.org/ "An open source password manager."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

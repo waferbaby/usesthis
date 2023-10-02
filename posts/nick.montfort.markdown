@@ -56,7 +56,7 @@ While I'm dreaming, the situation with smartphones is much worse. How about a fu
 [galago-pro]: https://system76.com/laptops/galago "A 14 inch PC laptop."
 [grapheneos]: https://grapheneos.org/ "An open-source mobile OS compatible with Android."
 [iic]: https://en.wikipedia.org/wiki/Apple_IIc "A desktop computer."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [jitsi]: https://jitsi.org "Open source video conferencing software."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [nextcloud]: https://en.wikipedia.org/wiki/Nextcloud "A self-hosted file syncing service."

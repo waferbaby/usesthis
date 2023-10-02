@@ -83,7 +83,7 @@ Or, more realistically: a slightly better version of what I currently have.
 [feedly]: https://feedly.com/ "A feed reader."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [lastpass]: https://www.lastpass.com/ "A password manager."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

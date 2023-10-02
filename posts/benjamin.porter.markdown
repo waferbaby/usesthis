@@ -36,7 +36,7 @@ I don't really get excited about hardware specs these days, but I do look forwar
 [geforce-gtx-960]: http://web.archive.org/web/20190520155820/https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-960 "A graphics card."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [moonman]: http://web.archive.org/web/20180412034439/https://moonman.io/ "A procedurally generated space adventure game."
 [moto-g]: http://web.archive.org/web/20210623083205/https://www.motorola.com.au/consumers/Moto-G/moto-g-AU-EN,en_AU,pd.html "An Android-based smartphone."

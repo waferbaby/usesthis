@@ -66,7 +66,7 @@ And a one-touch off button, so I can toss those amazing gadgets in a drawer and 
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

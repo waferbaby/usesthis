@@ -58,7 +58,7 @@ My dream setup is all about comfort, endurance, and ease of use. With that being
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [kindle-paperwhite]: http://web.archive.org/web/20230502144520/https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
+[mail-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [over-ios]: https://apps.apple.com/us/app/over-creative-typography-graphic/id535811906 "A photo editor app."
 [photos-ios]: https://en.wikipedia.org/wiki/Photos_(Apple) "The built-in photo app."

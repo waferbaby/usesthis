@@ -110,7 +110,7 @@ I want every program to have clear and well documented source code available in 
 [ggplot2]: http://web.archive.org/web/20180506153516/http://ggplot2.org:80/ "A plotting system for the R language."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome-power-manager]: https://packages.debian.org/stable/gnome-power-manager "A power management daemon for GNOME."
 [gnome-settings-daemon]: https://packages.debian.org/stable/gnome-settings-daemon "A daemon for controlling settings in a GNOME session."
 [gnome-terminal]: https://en.wikipedia.org/wiki/GNOME_Terminal "A terminal application."

@@ -33,7 +33,7 @@ All of the above, plus an app that lets me add notes and comments to the photos 
 
 [ampprong-plus]: http://web.archive.org/web/20190506065324/https://mycharge.com/products/ampprong-1 "A portable phone battery charger."
 [echo.3]: https://en.wikipedia.org/wiki/Amazon_Echo "A smart speaker."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

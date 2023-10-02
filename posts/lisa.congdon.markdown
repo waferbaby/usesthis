@@ -25,7 +25,7 @@ I am pretty happy with my current setup. As someone who does detailed touch-ups 
 
 [bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [d5100]: http://web.archive.org/web/20140825020832/http://www.nikonusa.com:80/en/Nikon-Products/Product/dslr-cameras/D5100.html "A 16.2 megapixel DSLR."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

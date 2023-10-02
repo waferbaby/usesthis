@@ -48,7 +48,7 @@ Software wise, I feel like the programs I use to make graphics and music could a
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [modplug]: https://sourceforge.net/projects/modplug/ "An audio editor/tracker for Windows."
 [paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [vvvvvv]: https://thelettervsixtim.es/ "An indie platformer."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

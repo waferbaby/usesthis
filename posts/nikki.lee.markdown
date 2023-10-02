@@ -132,7 +132,7 @@ I'd love to have better collaborative whiteboarding and drawing software. People
 [google-slides]: https://www.google.com/slides/about/ "Web-based presentation software."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [hesh-2-wireless]: http://web.archive.org/web/20220125204655/https://www.skullcandy.com/shop/headphones/bluetooth-headphones/hesh-2 "Over the ear wireless headphones."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jquery]: https://jquery.com/ "A Javascript framework."

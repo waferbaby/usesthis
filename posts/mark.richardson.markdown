@@ -37,7 +37,7 @@ For my stereo, my dream set-up would be a nice NAD integrated amp, a good D/A co
 [airport-express]: https://en.wikipedia.org/wiki/AirPort_Express "A small wireless access point."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hd-280-pro]: http://web.archive.org/web/20221206010356/https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB/ "Closed stereo headphones."

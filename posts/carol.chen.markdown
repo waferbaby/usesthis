@@ -41,7 +41,7 @@ I don't think I have any goals beyond what I've mentioned above! It would probab
 [ax]: https://github.com/kipply/ax "A tool to play or pause music on Spotify when a process starts or ends."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fish]: https://fishshell.com/ "A command-line shell."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [go]: https://go.dev/ "A compiled programming language."
 [google-home]: http://web.archive.org/web/20190618004708/https://store.google.com/product/google_home?hl=ja "A voice assistant device."
 [google-inbox]: https://www.google.com/gmail/about/ "A Gmail client app."

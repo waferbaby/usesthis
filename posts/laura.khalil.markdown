@@ -50,7 +50,7 @@ I'd like a second 24-inch monitor. I'd also like a laptop with a 19-inch collaps
 [ddr]: https://en.wikipedia.org/wiki/Dance_Dance_Revolution "A ridiculous dancing game."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [galileoscope]: http://web.archive.org/web/20111007143418/https://www.galileoscope.org/gs/ "A self-assembled telescope kit."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."

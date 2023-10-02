@@ -46,7 +46,7 @@ A private shed (with a toilet and a wee kitchen in it maybe) with a big heavy wo
 [eye-ub-157]: https://uniball.co.uk/brands/eye/uni-ball-eye-ub-157/ "A rollerball pen."
 [geforce-rtx-2070]: https://www.nvidia.com/en-au/geforce/20-series/ "A graphics card."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-groups]: http://web.archive.org/web/20180704120224/https://groups.google.com/d/homeredir "A group forum service."

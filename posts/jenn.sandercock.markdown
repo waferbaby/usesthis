@@ -70,7 +70,7 @@ What I'd really love is an oven in the workplace!! That's super impossible to fi
 [good-grips-stainless-steel-food-scale-11lbs]: http://web.archive.org/web/20220412005657/http://www.amazon.com/gp/product/B000WJMTNA "A food scale."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

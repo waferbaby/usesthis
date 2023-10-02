@@ -55,7 +55,7 @@ Other than that, I don't really need much more than what I have today - my limit
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [git]: https://git-scm.com/ "A version control system."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [p2815q]: https://www.tomshardware.com/reviews/dell-p2815q-4k-monitor,3950.html "A 28 inch 4K monitor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

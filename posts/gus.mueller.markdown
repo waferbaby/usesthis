@@ -45,7 +45,7 @@ I really want the fastest machine possible, with lots of options for disk space.
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
-[jstalk]: https://www.jstalk.org/ "A Javascript-based Cocoa bridging language for Mac OS X."
+[jstalk]: http://web.archive.org/web/20230706195433/https://www.jstalk.org/ "A Javascript-based Cocoa bridging language for Mac OS X."
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."

@@ -71,7 +71,7 @@ The one I've got is cobbled together in a sloppy, mismatched fashion, but I don'
 [facebook]: https://www.facebook.com/ "A social networking site."
 [fretted-synth]: https://rekkerd.org/fretted-synth/ "A collection of synthesiser instruments."
 [galaxy-note-3]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_3 "A phone/tablet."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [grafx2]: http://pulkomandy.tk/projects/GrafX2 "A bitmap image editor."
 [h4n]: http://web.archive.org/web/20150212190215/http://www.zoom.co.jp/english/products/h4n/ "A digital audio recorder."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."

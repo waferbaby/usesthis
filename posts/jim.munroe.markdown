@@ -44,7 +44,7 @@ I'm not good on these "dreams" you speak of. For a sci-fi writer, I have a hard 
 [bittorrent]: http://web.archive.org/web/20230523075413/https://www.bittorrent.com/ "Distributed file sharing."
 [geforce-gt-220]: https://www.nvidia.com/en-us/geforce/graphics-cards/ "A desktop computer video game card."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [scribus]: https://wiki.scribus.net/canvas/Scribus "An open-source desktop publishing/page layout program."

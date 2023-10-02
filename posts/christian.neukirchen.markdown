@@ -93,7 +93,7 @@ I am pretty satisfied with my current setup, yet I'm continuously improving it. 
 [g2]: https://en.wikipedia.org/wiki/LG_G2 "An Android smartphone."
 [gdb]: http://www.gnu.org/software/gdb/ "A code debugger."
 [git]: https://git-scm.com/ "A version control system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gmane]: http://web.archive.org/web/20200220215640/http://gmane.org:80/ "A mailing list archive service."
 [gnus]: http://www.gnus.org/ "A mail and news reader for Emacs."
 [go]: https://go.dev/ "A compiled programming language."

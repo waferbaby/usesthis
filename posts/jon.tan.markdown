@@ -78,7 +78,7 @@ Most of all, I'd like to be able to somehow connect the physical and digital in 
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [gel-ink-ballpoint]: https://www.muji.us/collections/pen-pencils "A ball-point pen."
 [gimme-bar]: http://web.archive.org/web/20180518235129/https://gimmebar.com/ "A web service for storing collections of things from the web."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [grip-0.7mm]: http://web.archive.org/web/20190509025219/https://www.amazon.com/Faber-Castell-Grip-Black-0-7Mm-Pencil/dp/B000KJOJGC "A mechanical pencil."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."

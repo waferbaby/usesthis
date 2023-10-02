@@ -41,7 +41,7 @@ I like to work in comfort so my dream setup would be to work from bed. That's no
 [dynamodb]: https://aws.amazon.com/dynamodb/ "A NoSQL database service."
 [energypod]: http://web.archive.org/web/20230707154045/https://metronaps.com/ "A chair designed for napping at work."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-analytics]: https://marketingplatform.google.com/about/analytics/ "Web analytics."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

@@ -40,7 +40,7 @@ I also want a Marshall Stack and a 12 string Rickenbacker but noise restrictions
 [ef-600mm-f4l-is-usm]: http://web.archive.org/web/20210801045211/https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_600mm_f_4l_is_usm "A super telephoto lens for cameras."
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."

@@ -65,7 +65,7 @@ Finally, I'm looking forward to the day when laptops come with affordable multi-
 [facebook-ios]: https://apps.apple.com/us/app/facebook/id284882215 "An iPhone app for accessing Facebook."
 [fission]: https://www.rogueamoeba.com/fission/ "A lossless audio editor for the Mac."
 [gitx]: https://gitx.frim.nl/ "A git GUI for Mac OS X."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [hanging-with-friends-ios]: https://apps.apple.com/app/hanging-with-friends-free/id440786655 "A hangman-style game for iOS."
 [ipod-classic]: https://support.apple.com/ipod-touch "A music player."

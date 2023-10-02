@@ -63,7 +63,7 @@ My current desk chair is a blue leather relic from my university days, originall
 [kindle-oasis]: http://web.archive.org/web/20230201064729/https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
 [lastpass]: https://www.lastpass.com/ "A password manager."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[mark]: https://www.adonit.net/jot/mark/ "A stylus for touchscreens."
+[mark]: http://web.archive.org/web/20230819235224/https://www.adonit.net/jot/mark/ "A stylus for touchscreens."
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [piezo]: https://rogueamoeba.com/piezo/ "A recording app for the Mac."
 [qwerkywriter]: https://www.qwerkywriter.com/ "A typewriter-like mechanical keyboard."

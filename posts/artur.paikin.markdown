@@ -86,7 +86,7 @@ And, as for my bicycle, I'd love a relatively small and lightweight battery + 
 [ia-writer]: https://ia.net/topics/ia-writer-for-mac "A full-screen writing tool for the Mac."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [instapaper]: http://web.archive.org/web/20221226091924/https://www.instapaper.com/ "A web tool for saving pages to read later."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-mini-2]: https://en.wikipedia.org/wiki/IPad_Mini_(2nd_generation) "A 7.9 inch tablet device with a Retina screen."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

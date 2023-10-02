@@ -38,7 +38,7 @@ original aluminum enclosure. Plastic gets slimy. And a pony.
 [d700]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d700.html "A 12.1 megapixel DSLR."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [iphone-3gs]: https://en.wikipedia.org/wiki/IPhone_3GS "A 3 megapixel smartphone."

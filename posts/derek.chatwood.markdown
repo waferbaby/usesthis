@@ -50,7 +50,7 @@ That's it. My dreams are simple. Other than the Cintiq thing.
 [pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
 [potenza]: http://web.archive.org/web/20190506101631/https://www.maingear.com/custom/desktops/potenza/ "A gamer's desktop PC."
 [ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [source]: https://en.wikipedia.org/wiki/Source_(game_engine) "A game engine."
 [udk]: https://www.unrealengine.com/en-US/previous-versions "A free version of the Unreal Engine."
 [unreal-engine]: http://web.archive.org/web/20200128005753/https://www.unrealengine.com/en-US/what-is-unreal-engine-4 "A 3D game engine."

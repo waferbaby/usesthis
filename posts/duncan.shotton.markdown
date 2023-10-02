@@ -69,7 +69,7 @@ Always wanted to have a design studio inside a matt black ice-cream truck too...
 [cr-x]: https://en.wikipedia.org/wiki/Honda_CR-X "A car."
 [cyberduck]: https://cyberduck.io/ "An FTP/SFTP client."
 [form-3]: https://formlabs.com/3d-printers/form-3/ "A 3D printer."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

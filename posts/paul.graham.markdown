@@ -30,7 +30,7 @@ I'd like it if the HD display was bigger and much lighter and didn't have such a
 [etherpad]: https://en.wikipedia.org/wiki/Etherpad "Online collaborative text editing."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mzscheme]: http://web.archive.org/web/20230406091801/http://www.plt-scheme.org/software/mzscheme/ "A core virtual machine for the PLT Scheme language."

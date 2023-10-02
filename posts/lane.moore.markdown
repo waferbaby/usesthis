@@ -43,7 +43,7 @@ An actual recording, filming, and editing studio. Really just a pile of money wo
 [big-muff]: https://en.wikipedia.org/wiki/Big_Muff "A guitar distortion pedal."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [logic]: https://www.saleae.com/ "A hardware debugger."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

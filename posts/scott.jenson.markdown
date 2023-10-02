@@ -38,9 +38,9 @@ I don't want to get into the ridiculous mobile vs desktop discussion as it's not
 As I've played with so much hardware, what I dream about mostly is software and data more than the hardware itself. Ultimately I want most of my work to be available to all of my devices. We're getting there slowly, so I can use my phone on the go and the 50" 4K monitor at work. This applies not only to me, but my colleagues. Figma, for example, has revolutionized how we share designs. More of that please.
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[dynalist]: https://dynalist.io/ "An outliner service."
+[dynalist]: http://web.archive.org/web/20230831052006/https://dynalist.io/ "An outliner service."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

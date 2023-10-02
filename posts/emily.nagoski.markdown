@@ -44,7 +44,7 @@ Ideally, I'd have every medical provider in the country chained to chairs in a m
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-scholar]: http://web.archive.org/web/20221227014856/https://scholar.google.com/ "A search engine for scholarly literature."
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."

@@ -45,7 +45,7 @@ That said, I really wouldn't say no to a comfortable sunny room with a sea view,
 [e-p1]: https://www.olympusamerica.com/cpg_section/cpg_archived_product_details.asp?fl=2&id=1461 "A 12.3 megapixel Micro Four Thirds camera."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [lumix-g-20mm-f1.7-asph]: http://web.archive.org/web/20160329110905/http://panasonic.net:80/avc/lumix/systemcamera/gms/lens/g_20.html "A lens."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

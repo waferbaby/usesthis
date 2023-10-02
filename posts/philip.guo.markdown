@@ -43,7 +43,7 @@ More hardware redundancy and less software to manage :) I'm actually getting the
 [camtasia]: https://www.techsmith.com/video-editor.html "Screencasting software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."

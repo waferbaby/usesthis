@@ -75,7 +75,7 @@ It feels like the "I wish for world peace" of internet nerdery at this point, bu
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [flip-ultra-hd]: https://en.wikipedia.org/wiki/Flip_Video "A compact HD video recorder."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [ibooks-ios]: https://apps.apple.com/us/app/ibooks/id364709193 "A book reader for iOS."

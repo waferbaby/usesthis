@@ -38,7 +38,7 @@ Right now I use my mantle as a standing desk. So, maybe a real standing desk wit
 [expensify]: https://www.expensify.com/ "An expense report service."
 [feedly]: https://feedly.com/ "A feed reader."
 [flipboard-ios]: https://apps.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."

@@ -50,7 +50,7 @@ For the band, I have wanted a [Dave Smith Instruments Prophet 12][prophet-12] si
 [gaia-sh-01]: http://web.archive.org/web/20230814204920/https://www.roland.com/global/ "A synth."
 [galaxy-s5]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S5 "An Android smartphone."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [grooveshark]: https://en.wikipedia.org/wiki/Grooveshark "A music streaming service."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."

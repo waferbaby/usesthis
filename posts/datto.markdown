@@ -29,7 +29,7 @@ The dream setup would probably start with a bigger desk so I have more room. Oth
 [core-i7-6700k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/88195/Intel-Core-i7-6700K-Processor-8M-Cache-up-to-4_20-GHz "A computer processor."
 [core-i9-9900k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/processors/core/i9-processors/i9-9900k.html "A CPU."
 [core-i9-9980xe]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/processors/core/x-series/i9-9980xe.html "A CPU."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [geforce-rtx-2080-ti]: https://www.nvidia.com/en-us/geforce/20-series/ "A graphics card."

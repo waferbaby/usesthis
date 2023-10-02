@@ -29,7 +29,7 @@ My dream setup would be Hawaii, on a hill, on an open porch, with an endless Mai
 
 [expression-12000xl]: https://epson.com/For-Work/Scanners/Photo-and-Graphics/Epson-Expression-12000XL-Photo-Scanner/p/12000XL-PH "A photo scanner."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

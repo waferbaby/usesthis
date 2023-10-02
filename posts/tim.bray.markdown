@@ -63,7 +63,7 @@ I'd really like high-quality cyborg cameras integrated into my visual system so 
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [erlang]: https://www.erlang.org/ "A programming language invented by Ericsson."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [httpd]: https://httpd.apache.org/ "Web server software."
 [i9900]: http://web.archive.org/web/20210616231917/http://www.amazon.com/Canon-8580A001-I-9900-Photo-Printer/dp/B0001DBHNA/ "A large format printer."
 [java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."

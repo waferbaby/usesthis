@@ -71,7 +71,7 @@ A world where everyone enjoys programming.
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
 [kate]: https://kate-editor.org/ "A text editor for KDE."
 [kubuntu]: http://web.archive.org/web/20230804191842/https://kubuntu.org/ "A version of Ubuntu that uses KDE instead of GNOME."

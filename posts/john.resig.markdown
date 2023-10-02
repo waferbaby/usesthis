@@ -57,7 +57,7 @@ I'm very close to it now, although I do have a couple wishes. I wish my MacBook 
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gyazo]: https://gyazo.com/ "A screenshot capturing and sharing tool for the Mac."

@@ -81,7 +81,7 @@ I'd also be pretty excited about some sort of magic button I could press to get 
 Other than that, though, I'm pretty content with my current setup. Of course, it's very possible I'll be using an entirely different set of tools if you check back in a couple of years.
 
 [airtable]: https://www.airtable.com/ "A service for organising data."
-[astrolokeys]: http://astrolokeys.com/ "Astrology-themed keycaps."
+[astrolokeys]: http://web.archive.org/web/20230819101702/http://astrolokeys.com/ "Astrology-themed keycaps."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [cryptpad]: https://cryptpad.fr/ "An encrypted, open-source collaboration suite."
 [ergonomic-wired-vertical-mouse]: http://web.archive.org/web/20230202185033/https://www.anker.com/uk/products/a7851?variant=37339874853028 "A vertical mouse."

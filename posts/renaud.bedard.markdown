@@ -70,7 +70,7 @@ I'd like to get really good audiophile headphones, like the [Grado SR80i][sr80i]
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [fraps]: http://web.archive.org/web/20230804215038/https://fraps.com/ "Screen capturing software for Windows."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."

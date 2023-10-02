@@ -71,7 +71,7 @@ Outside there's a rack of bicycles that look like they could enter [L'Eroica](ht
 [gulp]: https://gulpjs.com/ "A build system."
 [haxe]: https://haxe.org/ "A cross-platform toolkit and language."
 [haxepunk]: http://haxepunk.com/ "A cross-platform game development framework."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [kazzo]: https://www.infiniteneslives.com/kazzo.php "A NES cartridge dumper and flasher."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

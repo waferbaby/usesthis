@@ -39,7 +39,7 @@ For music: A [Rickenbacker 4003][4003], [Aguilar Tone Hammer 500 head][tone-hamm
 
 I'd also like a pair of Urbanears Plattans in every color so that they would always match my outfit.
 
-[4003]: http://www.rickenbacker.com/model.asp?model=4003 "An electric bass."
+[4003]: http://web.archive.org/web/20230706201711/http://www.rickenbacker.com/model.asp?model=4003 "An electric bass."
 [agro]: http://web.archive.org/web/20171219100429/http://www.aguilaramp.com:80/products_agro.htm "A bass overdrive pedal."
 [atavist]: https://magazine.atavist.com/ "A web publishing system."
 [bg250-112]: http://web.archive.org/web/20180103092920/http://www.tcelectronic.com:80/bg250-112/ "A guitar amp."

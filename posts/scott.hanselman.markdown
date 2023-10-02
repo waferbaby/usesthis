@@ -32,7 +32,7 @@ If money was no object, I would probably buy a $5000 top of the line whatever is
 [edge.2]: http://web.archive.org/web/20230522022746/https://www.microsoft.com/en-us/edge "A web browser."
 [fedora]: https://fedoraproject.org/ "A Linux distribution."
 [geforce-rtx-3080]: https://www.nvidia.com/en-us/geforce/graphics-cards/30-series/rtx-3080-3080ti/ "A graphics card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
 [paint.net]: https://www.getpaint.net/index.html "An image editor for Windows."
 [surface-laptop-studio]: https://en.wikipedia.org/wiki/Surface_Laptop_Studio "A dual laptop/tablet device."

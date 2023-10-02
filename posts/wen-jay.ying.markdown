@@ -40,4 +40,4 @@ My dream setup is if someone were to build me a system where our Google Docs inv
 [reminders]: https://support.apple.com/guide/icloud/mmc0cd794a/ "A to-do list included with Mac OS X."
 [shopify]: https://www.shopify.com/ "A service for selling goods online."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[stitcher-ios]: https://apps.apple.com/us/app/stitcher-for-podcasts/id288087905 "A radio and podcast app."
+[stitcher-ios]: http://web.archive.org/web/20230809173043/https://apps.apple.com/us/app/stitcher-for-podcasts/id288087905 "A radio and podcast app."

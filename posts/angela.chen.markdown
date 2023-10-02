@@ -52,7 +52,7 @@ Even though I'm a freelancer, I actually love office environments, so I miss co-
 [evolve-75]: http://web.archive.org/web/20230815073823/https://www.jabra.com/business/office-headsets/jabra-evolve/jabra-evolve-75 "A wireless headset."
 [feedly]: https://feedly.com/ "A feed reader."
 [g-2]: https://penbase.fandom.com/wiki/Pilot_G2 "A pen."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [h1]: http://web.archive.org/web/20150516203209/http://www.zoom.co.jp:80/products/h1 "A digital recorder."

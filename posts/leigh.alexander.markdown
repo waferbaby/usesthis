@@ -43,7 +43,7 @@ But really, my ideal setup is pretty close to how it presently is: tiny little k
 
 [3ds]: https://www.nintendo.com/store/ "A portable gaming console with a 3D screen."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [hypercard]: https://en.wikipedia.org/wiki/HyperCard "A multimedia programming interface."
 [iie]: https://en.wikipedia.org/wiki/Apple_IIe "The desktop computer."

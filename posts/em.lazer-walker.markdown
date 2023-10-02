@@ -59,7 +59,7 @@ What's more frustrating to me is having to balance the interesting work with the
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
 [habitica]: https://habitica.com/ "A web-based productivity game."
 [instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-air-2]: http://web.archive.org/web/20170320213915/http://www.apple.com/ipad-air-2/ "A tablet device."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [iphone-6s-plus]: https://en.wikipedia.org/wiki/IPhone_6s_Plus "A large smartphone."

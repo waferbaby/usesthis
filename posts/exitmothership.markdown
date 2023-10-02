@@ -51,5 +51,5 @@ More realistically, I think a Cintique could boost my abilities. And I would lik
 [playstation]: https://en.wikipedia.org/wiki/PlayStation_(console) "A gaming console."
 [pureref]: https://www.pureref.com/ "Image reference software."
 [sculptris]: http://web.archive.org/web/20220714173103/https://zbrushcore.com/mini/ "3D sculpting software."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

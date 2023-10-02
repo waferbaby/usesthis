@@ -82,7 +82,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [meld]: http://meldmerge.org/ "A visual diff/merge tool."
-[opennx]: http://opennx.net/ "A remote X window connection tool."
+[opennx]: http://web.archive.org/web/20230706192437/http://opennx.net/ "A remote X window connection tool."
 [pap2t]: https://www.cisco.com/c/en/us/obsolete/unified-communications/cisco-pap2t-internet-phone-adapter-with-2-voip-ports.html "A VoIP phone adapter."
 [phabricator]: https://www.phacility.com/ "A suite of developer tools."
 [presario-sr1726nx]: http://h10025.www1.hp.com/ewfrf/wc/document?docname=c00576009&lc=en&cc=us&product=1818328&dlc=en "A PC tower."

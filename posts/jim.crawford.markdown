@@ -56,7 +56,7 @@ In the long term, well, let's just say if *I'm* not software within the next 30 
 [frog-fractions]: http://twinbeard.com/frog-fractions/ "A game about frogs and fractions."
 [frotz]: https://en.wikipedia.org/wiki/Z-machine#Frotz "A Z-Code interpreter."
 [git]: https://git-scm.com/ "A version control system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [h1]: http://web.archive.org/web/20150516203209/http://www.zoom.co.jp:80/products/h1 "A digital recorder."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

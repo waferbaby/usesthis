@@ -45,7 +45,7 @@ Honestly, at this point, my dream setup would be to have my desk outside my bedr
 
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."

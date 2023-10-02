@@ -55,7 +55,7 @@ I'm on the verge of buying a tablet since I spend a lot of time on the couch squ
 [expression-11000xl]: https://epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
 [fetch]: https://fetchsoftworks.com/ "An FTP/SFTP client for Mac OS X."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gocco]: https://en.wikipedia.org/wiki/Gocco "A screen printing system."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

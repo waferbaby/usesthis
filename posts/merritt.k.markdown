@@ -38,7 +38,7 @@ I'm not interested in a maximalist audio setup, and my machine still runs fine, 
 [backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [call-recorder]: https://www.ecamm.com/mac/callrecorder/ "Software for recording Skype conversations."
 [cold-turkey-writer]: https://getcoldturkey.com/writer/ "A distraction-free text editor."
-[crashplan]: https://www.crashplan.com/en-us/ "An online backup service."
+[crashplan]: http://web.archive.org/web/20230919121536/https://www.crashplan.com/en-us/ "An online backup service."
 [dropbox-paper]: https://www.dropbox.com/paper/start?no_redirect=1 "A document collaboration service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

@@ -62,7 +62,7 @@ I think MacBook Air is pretty much all I want in my primary computer. But I woul
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [gyazo]: https://gyazo.com/ "A screenshot capturing and sharing tool for the Mac."
 [html5-boilerplate]: https://html5boilerplate.com/ "A base HTML5, CSS and JS template."

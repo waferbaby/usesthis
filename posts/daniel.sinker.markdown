@@ -57,7 +57,7 @@ So yeah: A place to do awesome shit with awesome people, that's my dream setup.
 [colloquy]: https://colloquy.app/ "An IRC client for the Mac."
 [etherpad]: https://en.wikipedia.org/wiki/Etherpad "Online collaborative text editing."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-voice]: https://en.wikipedia.org/wiki/Google_Voice "A phone number and online voicemail system."

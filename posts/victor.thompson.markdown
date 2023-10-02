@@ -56,7 +56,7 @@ Alongside the things, applications, and processes I use, a huge part of what mak
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thunderbolt-display]: https://www.apple.com/displays/ "A Thunderbolt-powered monitor."

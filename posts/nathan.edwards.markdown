@@ -35,7 +35,7 @@ Pretty much the same thing except with a KVM switch built in to the monitor. May
 [fc660c]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=1323 "A mechanical keyboard."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [geforce-gtx-1070]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."
 [instagram-android]: https://play.google.com/store/apps/details?id=com.instagram.android "A photo taking/sharing app."

@@ -37,7 +37,7 @@ My dream setup would be a Thunderbolt display connected to a powerful 15 inch Ma
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [table-top-tripod-kit-209-492-long]: http://web.archive.org/web/20190506100723/https://www.amazon.com/Manfrotto-Table-Tripod-209-LONG/dp/B002VD8380 "A tripod kit."

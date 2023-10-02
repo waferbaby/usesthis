@@ -59,7 +59,7 @@ _Miscellaneous_: I'd love to be doing everything above on an [Apple Studio Displ
 [git]: https://git-scm.com/ "A version control system."
 [gittake]: https://github.com/jessicalevine/gittake "A prototype code refactoring tool."
 [glitch]: https://illformed.com/ "An effects sequencer."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."

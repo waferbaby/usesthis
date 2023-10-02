@@ -43,7 +43,7 @@ Maybe a teleporter to more easily pop back to London?
 [dock]: https://en.wikipedia.org/wiki/Dock_(macOS) "The macOS application launcher."
 [foldsack-no-1]: https://www.fjallraven.com/us/en-us/products/foldsack-no-1-backpack "A backpack."
 [glitch.3]: https://glitch.com/ "A web-based IDE."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [gqueues]: https://www.gqueues.com/ "A task manager for Google's web software."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

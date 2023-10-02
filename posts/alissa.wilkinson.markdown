@@ -47,7 +47,7 @@ I would love to have a [MacBook Air][macbook-air] instead of a MacBook Pro, beca
 [facebook]: https://www.facebook.com/ "A social networking site."
 [fantastical-ios]: http://web.archive.org/web/20230816150357/https://flexibits.com/fantastical "An alternative calendar app."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [goodreads]: https://www.goodreads.com/ "A service for tracking the book you've read."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

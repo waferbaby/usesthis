@@ -46,7 +46,7 @@ I always end up getting fairly inexpensive replacement computers and not really 
 [dwarf-fortress]: http://www.bay12games.com/dwarves/ "A fantasy adventure game in a randomly generated world."
 [filezilla]: https://filezilla-project.org/ "Open-source FTP software."
 [fmod]: https://en.wikipedia.org/wiki/FMOD "An audio engine and tool for game developers."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
 [itch.io]: https://itch.io/ "An indie game marketplace."
 [linode]: https://www.linode.com "A VPS hosting service."

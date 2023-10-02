@@ -62,7 +62,7 @@ Time. I have everything I need, really, and more to make music. I need time and 
 [digitakt]: https://www.elektron.se/digitakt-explorer "A drum machine and sampler."
 [digitone]: https://www.elektron.se/digitone-explorer "An FM synth."
 [geforce-gtx-970]: https://en.wikipedia.org/wiki/GeForce_900_series "A graphics card."
-[komplete-kontrol-s49]: https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/ "An audio keyboard."
+[komplete-kontrol-s49]: http://web.archive.org/web/20230825184507/https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/ "An audio keyboard."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [maschine]: https://www.native-instruments.com/en/products/maschine/production-systems/maschine/ "A tactile sequencer and sampler."
 [microfreak]: https://www.arturia.com/products/hardware-synths/microfreak/overview "A hybrid synth."

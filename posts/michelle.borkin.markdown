@@ -34,7 +34,7 @@ My dream set-up would definitely be some combo of the [AlloSphere](http://blog.t
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [ds9]: http://web.archive.org/web/20160817141123/http://ds9.si.edu/site/Home.html "Astronomical imaging and data visualisation software."
 [elevator]: http://web.archive.org/web/20170414133952/https://griffintechnology.com/us/products/stands-and-mounts/elevator "A laptop stand."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

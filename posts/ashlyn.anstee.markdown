@@ -36,7 +36,7 @@ If I could have all the power of the Cintiq Companion on something the size of t
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

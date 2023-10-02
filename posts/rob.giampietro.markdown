@@ -65,7 +65,7 @@ There seem to be more and more apps that take what you've already discovered and
 [g-drive-mini]: https://shop.westerndigital.com/products "A portable hard drive."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [glyphs]: https://glyphsapp.com/ "A font editor for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."

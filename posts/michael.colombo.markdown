@@ -40,7 +40,7 @@ Oh, and a bangin' recording studio with tons of instruments, amps, mics, and an 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pr5-e]: http://web.archive.org/web/20191229105409/http://www.epiphone.com:80/Products/Acoustic-Electric/PR-5E.aspx "An acoustic guitar."
 [serato-dj]: https://serato.com/dj "DJing software."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [storyline-360]: https://articulate.com/360/storyline "Course publishing software."
 [switch]: https://www.nch.com.au/switch/mp3.html "MP3 conversion software."
 [vs-1680]: https://www.roland.com/us/products/vs-1680/ "A 16-track audio workstation."

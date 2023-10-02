@@ -51,7 +51,7 @@ The setup I have right now does the trick. I used to have back problems from hun
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [gist]: https://gist.github.com/starred "A version controlled code snippets service."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [grapher]: https://en.wikipedia.org/wiki/Grapher "A 2D/3D graphing program included with Mac OS X."
 [ichat]: https://en.wikipedia.org/wiki/IChat "An AIM/Jabber client included with Mac OS X."
 [ideapad-v570]: http://web.archive.org/web/20150512151421/http://shop.lenovo.com:80/us/laptops/ideapad/v-series/v570 "A 15.6 inch PC laptop."

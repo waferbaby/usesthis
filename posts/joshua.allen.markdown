@@ -31,7 +31,7 @@ I'd like a secretarial pool available around the clock so I could just shout out
 
 [candybar]: http://web.archive.org/web/20230720135243/https://panic.com/blog/candybar-mountain-lion-and-beyond/ "Software for changing the default icons in Mac OS X."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."

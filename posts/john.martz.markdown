@@ -66,7 +66,7 @@ Also, where's my Holodeck?
 [expressionengine]: https://expressionengine.com/expressionengine "A web publishing/CMS system."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [fontexplorer-x]: https://www.fontexplorerx.com/ "Font management software."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

@@ -64,7 +64,7 @@ I want to carry as little as possible when I'm traveling, and reduce complicatio
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [galaxy-nexus]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [growl]: https://growl.github.io/growl/ "A notification system for Mac OS X."

@@ -38,7 +38,7 @@ Someday perhaps I will go around carrying only a book, a change of clothes, a pe
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [ipython]: https://ipython.org/ "An interactive shell for Python."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

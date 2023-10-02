@@ -81,7 +81,7 @@ Shooting for the stars now: let's design computers so that software engineering 
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fish]: https://fishshell.com/ "A command-line shell."
 [galaxy-nexus]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jshint]: https://jshint.com/ "A service for finding issues with your Javascript."

@@ -32,7 +32,7 @@ Oh and I'd love to have a bigger TV. Because, uh, I guess that's work, right? Ye
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ical]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [logic]: https://www.saleae.com/ "A hardware debugger."

@@ -78,7 +78,7 @@ Stopping to think about my dream setup just made me realise how achievable it is
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [float]: http://web.archive.org/web/20230204144312/https://www.humanscale.com/products/product.cfm?group=float "A standing desk."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-keep-ios]: https://apps.apple.com/us/app/google-keep/id1029207872 "A client for the note and list service."
 [ibooks-ios]: https://apps.apple.com/us/app/ibooks/id364709193 "A book reader for iOS."

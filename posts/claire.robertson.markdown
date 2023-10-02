@@ -57,7 +57,7 @@ And lots of Green & Blacks chocolate.
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [eos-350d]: https://en.wikipedia.org/wiki/Canon_EOS_350D "An 8 megapixel DSLR."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."

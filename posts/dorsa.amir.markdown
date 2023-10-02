@@ -30,7 +30,7 @@ I'm living the dream, folks, I wouldn't change much. I guess if I had to answer,
 [copyclip-2]: https://fiplab.com/apps/copyclip-for-mac "A clipboard manager for macOS."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [flow.2]: https://flowapp.info/ "A focus and timer tool."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."

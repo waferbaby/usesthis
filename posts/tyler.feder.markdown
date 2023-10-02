@@ -26,7 +26,7 @@ I'd love to take everything from my current setup and plunk it into a larger ded
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [craigslist]: https://geo.craigslist.org/ "A classifieds service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

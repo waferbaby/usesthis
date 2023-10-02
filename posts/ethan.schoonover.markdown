@@ -102,7 +102,7 @@ My future dream setup is a paper like display. E-ink or pixel-qi-like. Works as 
 [devonthink]: https://www.devontechnologies.com/apps/devonthink/ "Software for storing all your documents, scans etc."
 [dock-gone]: http://web.archive.org/web/20220127140909/https://gigaom.com/2009/07/07/dock-gone-say-goodbye-to-your-dock/ "Mac software to make the Dock never appear."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [happy-hacking-keyboard]: https://en.wikipedia.org/wiki/Happy_Hacking_Keyboard "A computer keyboard."

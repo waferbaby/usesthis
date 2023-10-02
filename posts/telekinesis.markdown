@@ -90,7 +90,7 @@ I have also had this crazy dream idea of creating a tiny little studio in a vint
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [melody-maker]: http://web.archive.org/web/20220815070946/https://www.gibson.com/Products/Electric-Guitars/Melody-Maker/Gibson-USA/Melody-Maker.aspx "An electric guitar."
 [mp-2nv]: http://web.archive.org/web/20140711080149/http://www.amazon.com/Great-River-MP-2NV-Channel-Preamp/dp/B003Y583H0 "A two channel mic preamp."
-[pro-eq]: https://www.uaudio.com:443/store/equalizers/pultec-pro.html "An audio plugin that emulates the MEQ-5 and EQP-1A equalizers."
+[pro-eq]: http://web.archive.org/web/20161013133416/http://www.uaudio.com:80/store/equalizers/pultec-pro.html "An audio plugin that emulates the MEQ-5 and EQP-1A equalizers."
 [pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [prompa-ii]: http://web.archive.org/web/20151221155451/http://artproaudio.com:80/art_products/signal_processing/multi_channel_tube_preamps/product/pro_mpa-ii "A two channel microphone preamp."
 [rnc1773]: http://web.archive.org/web/20230706205423/https://www.amazon.com/FMR-RNC-1773-Compressor-Unit/dp/B0006I935Y "A stereo compressor."

@@ -29,6 +29,6 @@ A beautiful big light and plant filled studio with lots of different shelves and
 
 [25mm-easy-cutter-paint-brush]: http://web.archive.org/web/20230319035447/https://www.bunnings.com.au/uni-pro-25mm-easy-cutter-paint-brush_p1662806 "A paint brush."
 [600ml-paint-pot]: http://web.archive.org/web/20220706110051/https://www.bunnings.com.au/uni-pro-600ml-paint-pot-with-handle-and-brush-holder_p1667605 "A paint pot."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

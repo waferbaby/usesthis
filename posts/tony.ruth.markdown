@@ -55,4 +55,4 @@ Basically I want what I have now but much simpler, in one thin screen, totally p
 [powermate]: http://web.archive.org/web/20150804025129/https://store.griffintechnology.com/powermate "A USB multimedia controller."
 [powershot-g10]: https://www.usa.canon.com/support/p/powershot-g10 "A 14.7 megapixel camera."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."

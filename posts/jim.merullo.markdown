@@ -36,4 +36,4 @@ Lately, as I transition from more of a general maker into a woodworker, I've bee
 [office-365]: https://en.wikipedia.org/wiki/Office_365 "A hosted office suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixelmator]: http://web.archive.org/web/20230419034642/https://www.pixelmator.com/mac/ "An image editor for the Mac."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."

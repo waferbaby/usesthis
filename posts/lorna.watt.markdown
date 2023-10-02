@@ -51,7 +51,7 @@ Oh, and of course 100% recycled acrylic yarn in every weight and color.
 [eos-100d]: https://en.wikipedia.org/wiki/Canon_EOS_100D "An 18 megapixel DSLR."
 [express]: http://web.archive.org/web/20190506110407/http://www.skacelknitting.com/s.nl/sc.2/category.27844/.f "A knitting machine."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-street-view]: https://en.wikipedia.org/wiki/Google_Street_View "A map service for seeing panoramic images of a given location."
 [hand-finger-tally-counter]: http://web.archive.org/web/20190506111541/https://www.amazon.com/BestDealUSA-Finger-Counter-Digital-Electronic/dp/B0098DWFC6/ "A digital knitting counter worn on the finger."

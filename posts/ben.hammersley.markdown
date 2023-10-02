@@ -40,7 +40,7 @@ Really, I want less of everything. I'd like all my stuff in the cloud somewhere,
 [byline-ios]: http://www.phantomfish.com/byline.html "A Google Reader app for the iPhone"
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ibook]: https://en.wikipedia.org/wiki/IBook "A laptop."
 [instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."

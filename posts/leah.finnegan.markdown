@@ -29,7 +29,7 @@ For six years I lived in a shoebox studio and basically did all my work on my la
 My apartment, but in a silent place, with a constantly replenishing supply of Diet Coke.
 
 [feedly]: https://feedly.com/ "A feed reader."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [go-cart]: http://web.archive.org/web/20230408034709/https://www.cb2.com/go-cart-white-metal-desk-on-wheels/s454133 "A rolling desk."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-6s]: https://en.wikipedia.org/wiki/IPhone_6S "A smartphone."

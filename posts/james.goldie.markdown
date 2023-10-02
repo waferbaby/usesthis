@@ -48,7 +48,7 @@ Otherwise, all I really want in my life is more gaudy RGB lighting on _everythin
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [apple-pencil]: https://www.apple.com/apple-pencil/ "A stylus for the iPad Pro."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [google-colab]: http://web.archive.org/web/20221206023109/https://colab.research.google.com/notebooks/welcome.ipynb "A hosted Jupyter notebook that runs online."
 [google-tasks]: http://web.archive.org/web/20221127175757/https://support.google.com/tasks/answer/7675772 "Task software."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."

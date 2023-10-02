@@ -43,7 +43,7 @@ I'm also looking forward to an iPhone with a larger screen. I'm pretty sure it w
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [highland]: http://web.archive.org/web/20230706195925/https://quoteunquoteapps.com/highland-2/ "Mac software for screenplay writing."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [justnotes]: https://www.lulubox.org/2019/12/top-note-taking-apps-for-mac-osx.html "Note-taking software for the Mac."

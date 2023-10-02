@@ -57,7 +57,7 @@ Music-wise, I'm pretty set for life. =)
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [makemkv]: http://web.archive.org/web/20230815134519/https://www.makemkv.com/ "Video conversion software."
 [paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."
-[passkey]: http://www.passkeysoftware.com/ "Windows software for making DVD and Blu-Ray discs region-free."
+[passkey]: http://web.archive.org/web/20230706192444/http://www.passkeysoftware.com/ "Windows software for making DVD and Blu-Ray discs region-free."
 [pdt-5000]: https://www.vinylengine.com/library/vestax/pdt-5000.shtml "A vinyl turntable."
 [perfection-v500]: http://web.archive.org/web/20190508134503/https://www.amazon.com/Epson-Perfection-Photo-Scanner-V550/dp/B00E1O74SW "A photo scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

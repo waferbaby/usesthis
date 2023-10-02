@@ -44,7 +44,7 @@ I don't have a lot of gear-lust left these days. But if you had a gun to my head
 [b4000-plus]: http://web.archive.org/web/20190930214406/https://ferrofish.com/en/products/b4000-2/ "An organ expander module."
 [convo]: https://www.convo.com/ "A team collaboration service."
 [gemini.2]: http://web.archive.org/web/20181023172414/http://www.planetcom.co.uk:80/ "A mobile device with a built-in keyboard."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [imac-pro]: https://en.wikipedia.org/wiki/IMac_Pro "An all-in-one workstation."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."

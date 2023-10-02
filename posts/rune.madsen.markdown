@@ -40,4 +40,4 @@ I do wish there was a piece of software for remote teams that wasn't 1) buggy as
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [tandem]: https://tandem.chat/ "A video and screen sharing collaboration service."
 [toggl]: https://toggl.com/ "A time tracking service."
-[u2720q]: https://www.dell.com/en-lt/work/shop/cty/pdp/spd/dell-u2720q-monitor "A 27 inch 4K monitor."
+[u2720q]: http://web.archive.org/web/20230706201640/https://www.dell.com/en-lt/work/shop/cty/pdp/spd/dell-u2720q-monitor "A 27 inch 4K monitor."

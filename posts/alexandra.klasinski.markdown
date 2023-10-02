@@ -45,7 +45,7 @@ Oh and a miniature film processing machine.
 [foursquare-android]: https://play.google.com/store/apps/details?id=com.joelapenna.foursquared "A Foursquare client for Android."
 [fun-machine]: https://ourpastimes.com/ "An old organ."
 [gamecube]: https://en.wikipedia.org/wiki/Nintendo_GameCube "A gaming console."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [google-voice]: https://en.wikipedia.org/wiki/Google_Voice "A phone number and online voicemail system."

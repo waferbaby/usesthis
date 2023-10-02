@@ -72,7 +72,7 @@ But I am very much not on fire - I’m simply working on a modestly-sized laptop
 [facebook]: https://www.facebook.com/ "A social networking site."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flex-4-15]: https://www.lenovo.com/us/en/p/88IP8FX0686 "A 15 inch 2-in-1 laptop/tablet."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [hd-380-pro]: https://en-au.sennheiser.com/monitoring-headphone-studio-headphone-professional-audio-hd-380-pro "Over the ear headphones."
 [jira]: https://www.atlassian.com/software/jira "Issue/project tracking software."

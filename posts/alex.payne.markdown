@@ -56,7 +56,7 @@ I want better software: more usable, more accessible, more open, more secure, mo
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [git]: https://git-scm.com/ "A version control system."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [growl]: https://growl.github.io/growl/ "A notification system for Mac OS X."

@@ -83,7 +83,7 @@ But hey, you asked for my dream setup. That's it: one computer for 20 years.
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [ido-mode]: https://www.emacswiki.org/emacs/InteractivelyDoThings "An Emacs tool for interacting with buffers and files."

@@ -50,7 +50,7 @@ My family and I would be Amish (we used to subscribe to the national edition of 
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [gittip]: https://gratipay.com/ "A personal funding service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-analytics]: https://marketingplatform.google.com/about/analytics/ "Web analytics."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."

@@ -73,7 +73,7 @@ Similarly, people you're playing against on one of the three or four different s
 [firebird]: https://www.cnet.com/reviews/hp-firebird-voodoodna-803-review/ "A fancy desktop PC."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [genesis]: https://en.wikipedia.org/wiki/Sega_genesis "A 16-bit video game console."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gn-twin]: http://web.archive.org/web/20160407171818/http://www.amazon.com:80/Twin-NES-Sega-Genesis-Game-System/dp/B0014421BW "A gaming console that plays Genesis and NES games."
 [google-reader]: https://en.wikipedia.org/wiki/Google_Reader "A web-based feed reader."
 [gp32]: https://en.wikipedia.org/wiki/Gp32 "A handheld gaming console."

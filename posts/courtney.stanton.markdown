@@ -49,7 +49,7 @@ I also eagerly await the day Apple actually gets the Watch to the place where it
 [e-835-s]: https://en-us.sennheiser.com/live-performance-microphone-vocal-stage-e-835 "A cardioid microphone."
 [e50u-d2]: http://web.archive.org/web/20160728074021/https://www.vizio.com/e50ud2.html "A 50 inch TV."
 [github]: https://github.com/ "A Git code repository service."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."

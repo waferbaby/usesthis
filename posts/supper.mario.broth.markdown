@@ -39,7 +39,7 @@ Ideally, I could have every Nintendo console connected to a capture card so I co
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [greenshot]: https://getgreenshot.org/ "Screen capture software for Windows."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
-[hd-graphics-4400]: https://www.intel.com/content/www/us/en/support/products/81497/graphics-drivers/graphics-for-4th-generation-intel-processors/intel-hd-graphics-4400.html "An integrated graphics card."
+[hd-graphics-4400]: http://web.archive.org/web/20210118202016/https://www.intel.com/content/www/us/en/support/products/81497/graphics-drivers/graphics-for-4th-generation-intel-processors/intel-hd-graphics-4400.html "An integrated graphics card."
 [imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."
 [inkscape]: https://inkscape.org/ "An open-source vector graphics program."
 [irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."

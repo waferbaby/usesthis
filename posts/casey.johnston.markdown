@@ -64,7 +64,7 @@ I really want a better desk; I have an old IKEA desk that still works Fine, but 
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-keep]: https://en.wikipedia.org/wiki/Google_Keep "A note-taking service."
 [google-meet]: https://apps.google.com/meet/ "An enterprise video chat service."

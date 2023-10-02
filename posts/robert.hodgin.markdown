@@ -44,7 +44,7 @@ Then again, maybe just a cabin in the woods and no electronics might be just wha
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinder]: https://libcinder.org/ "A C++ framework for visual and audio projects."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4]: https://en.wikipedia.org/wiki/IPhone_4 "A smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

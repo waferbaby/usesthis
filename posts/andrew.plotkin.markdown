@@ -95,7 +95,7 @@ Also, I want full-color e-ink displays that come on big rolls, like paper towels
 [power-mac-g4]: https://en.wikipedia.org/wiki/Power_Mac_G4 "An old PowerPC-powered Mac tower."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[sketchup]: https://www.sketchup.com/ "3D modeling software."
+[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
 [studio-display]: http://web.archive.org/web/20230706193100/https://everymac.com/monitors/apple/studio_cinema/specs/apple_studio_display_17_fp.html "A line of LCD/CRT screens."
 [tactile-pro]: http://www.matias.ca/tactilepro/ "A keyboard with keys like the Apple Extended keyboard."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."

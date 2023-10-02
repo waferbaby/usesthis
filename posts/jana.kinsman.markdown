@@ -44,7 +44,7 @@ The setup I have for my illustration freelance work is already a dream. I work w
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [g-drive-mini]: https://shop.westerndigital.com/products "A portable hard drive."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [honey-super]: https://en.wikipedia.org/wiki/Honey_super "A frame system used by beekeepers for collecting honey."
 [hundreds-ios]: http://web.archive.org/web/20230723100441/https://playhundreds.com/ "A puzzle game."

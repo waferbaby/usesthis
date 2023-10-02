@@ -167,7 +167,7 @@ Beyond that? More pens, probably. There's always room for more pens.
 [core-x]: https://www.razer.com/gaming-egpus/razer-core-x/ "An eGPU enclosure."
 [daylite]: https://www.marketcircle.com "Business productivity software."
 [deckset]: https://www.deckset.com/ "A Mac tool for turning Markdown files into slides."
-[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
 [fallout-76]: https://en.wikipedia.org/wiki/Fallout_76 "A Fallout MMO."
 [freestyle-edge]: https://gaming.kinesis-ergo.com/edge/ "A split gaming keyboard."
 [g-pro-keyboard]: https://www.logitechg.com/en-us/products/gaming-keyboards/pro-mechanical-gaming-keyboard.html "A gaming mechanical keyboard."

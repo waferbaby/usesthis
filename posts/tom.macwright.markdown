@@ -57,7 +57,7 @@ I'd like ThinkPad hardware but running [macOS][], or a variant of Linux that rea
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [k2.2]: https://www.keychron.com/products/keychron-k2-wireless-mechanical-keyboard "A wireless mechanical keyboard."
 [kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
-[lumix-g-25mm-f1.7-asph]: https://shop.panasonic.com/cameras-and-camcorders/lumix-camera-lenses/micro-four-thirds-lenses/h-h025k "A mirrorless camera lens."
+[lumix-g-25mm-f1.7-asph]: http://web.archive.org/web/20220612121833/https://shop.panasonic.com/cameras-and-camcorders/lumix-camera-lenses/micro-four-thirds-lenses/h-h025k "A mirrorless camera lens."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [mapbox]: https://www.mapbox.com/ "A developer's mapping platform."

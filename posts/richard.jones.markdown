@@ -53,7 +53,7 @@ I'd like a bigger desk, although I think It would still end up covered in stuff 
 [bettertouchtool]: https://www.boastr.net/ "Mac software to add custom multi-touch gestures."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [gfxcardstatus]: https://gfx.io/ "A Mac tool for switching between the integrated and dedicated GPUs in recent laptops."
-[gmail]: https://mail.google.com/mail/u/0/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [irccloud]: https://www.irccloud.com/ "A web-based IRC service."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

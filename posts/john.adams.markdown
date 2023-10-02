@@ -154,7 +154,7 @@ I'd also like to get a 100MBit or better line from my house to the Internet. My 
 [mopad.2]: http://web.archive.org/web/20221206013609/https://www.amazon.com/Auralex-Acoustics-Acoustic-Isolation-Charcoal/dp/B0002D0B4K/ "Acoustic isolating pads."
 [officejet-pro-x476dw]: http://web.archive.org/web/20230706204142/https://www.hp.com/us-en/shop/pdp/hp-officejet-pro-x476dw-multifunction-printer "A multi-function printer."
 [openocd]: https://openocd.org/ "Open-source software for on-chip debugging."
-[orion-32]: https://en.antelopeaudio.com/products/orion-32/ "A multi-Channel AD/DA converter."
+[orion-32]: http://web.archive.org/web/20230706204151/https://en.antelopeaudio.com/products/orion-32/ "A multi-Channel AD/DA converter."
 [ozone]: https://www.izotope.com/en/products/ozone.html "A mastering system plugin."
 [pegasus-r4]: http://web.archive.org/web/20230706204143/https://www.amazon.com/Promise-Technology-Enclosure-Product-PR401US/dp/B0055SE076 "A RAID enclosure."
 [pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."

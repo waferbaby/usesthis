@@ -74,7 +74,7 @@ I like Apple's combination of hardware and software the best. I just wish they w
 [gitx]: https://gitx.frim.nl/ "A git GUI for Mac OS X."
 [google-cardboard]: https://arvr.google.com/cardboard/ "A VR viewer for smartphones."
 [imageoptim]: https://imageoptim.com/api "A Mac GUI wrapper for image optimising tools."
-[ios]: https://www.apple.com/ios/ios-16/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [mac-app-store]: https://en.wikipedia.org/wiki/Mac_App_Store "An online store for Macintosh software."

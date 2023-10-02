@@ -41,7 +41,7 @@ Also, maybe the dream setup is simply an iPhone that's powerful enough to run ev
 
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
 [c-lux-1]: http://web.archive.org/web/20160412134824/http://www.amazon.com/Leica-Digital-Camera-Optical-Stabilized/dp/B000FAPQHM "A 6 megapixel digital compact camera."
-[cargo-bag]: https://www.sfbags.com/products/cargo-laptop-bag "A large laptop bag with many pockets."
+[cargo-bag]: http://web.archive.org/web/20230706194409/https://www.sfbags.com/products/cargo-laptop-bag "A large laptop bag with many pockets."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [d90]: https://www.nikonusa.com/en/Nikon-Products/Product-Archive/Digital-SLR-Cameras/D90.html "A 12.3 megapixel digital SLR camera."
