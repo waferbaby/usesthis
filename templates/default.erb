@@ -50,6 +50,8 @@
       <%= yield %>
     </main>
     <footer>
+      <p>If you've enjoyed reading these interviews, why not <a href="https://patreon.com/waferbaby/" title="The Patreon account for Daniel, who makes this.">sponsor the site on <strong>Patreon</strong></a>?</p>
+
       <form id="search" method="get" action="https://duckduckgo.com/">
         <label><strong>Search:</strong>
         <input type="search" name="q" placeholder="MacBook Pro">
@@ -58,7 +60,8 @@
         <input type="submit" value="Go">
       </form>
 
-      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence. Subscribe to the site via the <a href="/feed.atom" title="The Atom feed.">feed</a>, or build something cool with the <a href="/api/" title="The API documentation.">API</a>.</p>
+      <p>You can keep track of new interviews by <a href="/feed.atom" title="The Atom feed for the site.">subscribing to the feed</a>, or build yourself something cool <a href="/api/" title="The API documentation.">with the API</a>.</p>
+      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
       <p>Last updated <%= Time.now.strftime('%B %-d, %Y') %>.</p>
     </footer>
   </body>
