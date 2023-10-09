@@ -23,5 +23,5 @@ jobs:
           USER: deployer
           HOST: usesthis.com
           LOCALPATH: site/
-          REMOTEPATH: /usr/local/share/www/usesthis.com/public/
+          REMOTEPATH: /usr/local/share/www/usesthis.com/
           DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
