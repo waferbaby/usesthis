@@ -1,0 +1,5 @@
+{
+  "name": "fd",
+  "description": "Command line software for finding files.",
+  "url": "https://github.com/sharkdp/fd"
+}

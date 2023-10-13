@@ -1,0 +1,5 @@
+{
+  "name": "ShellCheck",
+  "description": "Shell script linting software.",
+  "url": "https://www.shellcheck.net/"
+}

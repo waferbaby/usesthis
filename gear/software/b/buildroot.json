@@ -1,0 +1,5 @@
+{
+  "name": "Buildroot",
+  "description": "A collection of tools for building Linux for embeddable systems.",
+  "url": "https://en.wikipedia.org/wiki/Buildroot"
+}
