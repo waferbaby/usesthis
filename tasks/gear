@@ -1,5 +1,5 @@
 #!/bin/sh
 
 cd gear/
-fzf -e --preview="cat {}" --preview-window=top:60%:wrap --bind "enter:execute-silent(basename {} | sed 's/.json//' | tr -d '\n' | pbcopy)"
+fzf -e --preview="cat {}" --preview-window=right:60%:wrap --bind "enter:execute-silent(basename {} | sed 's/.json//' | tr -d '\n' | pbcopy)"
 cd ../
