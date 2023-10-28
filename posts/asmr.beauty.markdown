@@ -9,7 +9,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-Hello! I’m Melissa and I run an ASMR channel on YouTube called [asmr beauty](https://youtube.com/@asmr_beauty "Melissa's YouTube account.")
+Hello! I’m Melissa and I run an ASMR channel on YouTube called [asmr beauty](https://youtube.com/@asmr_beauty "Melissa's YouTube account.").
 
 For any of you who haven’t heard of it, ASMR stands for Autonomous Sensory Meridian Response and is often described as a tingling sensation someone feels in certain situations or watching certain content. 
 
