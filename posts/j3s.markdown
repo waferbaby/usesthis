@@ -35,7 +35,7 @@ i live in a van rn and i travel around the usa. my current location is on my mas
 
 i'm pretty picky about my hardware.
 
-i use a [framework laptop][framework-laptop] as my main computer! when i'm at a desk, i have a [logitech g pro mouse][g-pro-mouse] & a [keychron q2 keyboard][q2], and they're both nice!!
+i use a [framework laptop][laptop-13-amd] as my main computer! when i'm at a desk, i have a [logitech g pro mouse][g-pro-mouse] & a [keychron q2 keyboard][q2], and they're both nice!!
 
 my headset is a razer blackshark - i like it because it fits nicely around my glasses, and pinched glasses give me a headache. i find i can wear it for a few hours!!
 
@@ -103,7 +103,6 @@ we smile & dance together & watch each others eyes flicker for eternity.
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [foot]: https://codeberg.org/dnkl/foot "A minimal terminal for Wayland."
 [forgejo]: https://forgejo.org/ "Self-hosted version control and project software."
-[framework-laptop]: https://frame.work/products/laptop-diy-13-gen-amd "A 13.5 inch PC laptop."
 [g-pro-mouse]: https://www.logitechg.com/en-us/products/gaming-mice/pro-wireless-mouse.html "A wireless gaming mouse."
 [gentoo]: https://www.gentoo.org/ "A Linux distribution."
 [go]: https://go.dev/ "A compiled programming language."
@@ -112,6 +111,7 @@ we smile & dance together & watch each others eyes flicker for eternity.
 [hyprland]: https://hyprland.org/ "A compositor for Wayland."
 [kanshi]: https://git.sr.ht/~emersion/kanshi/ "Wayland software for switching profiles when switching monitors."
 [keyd]: https://github.com/rvaiya/keyd "Keyremapping software for Linux."
+[laptop-13-amd]: https://frame.work/en/products/laptop-13-gen-amd "A 13.5 inch PC laptop."
 [leap]: https://www.steelcase.com/products/office-chairs/leap/ "A chair."
 [legit]: https://github.com/icyphox/legit "A wrapper around git to make it easier to use."
 [mpv]: https://mpv.io/ "A cross-platform media player."
