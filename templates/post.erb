@@ -21,7 +21,6 @@ layout: default
   </header>
   <div class="e-content">
     <%= yield %>
-    <p id="sponsorship">Uses This is supported by ZSA, makers of the <a href="https://www.zsa.io/moonlander/" title="The Moonlander mechanical keyboard.">Moonlander</a>, ErgoDox EZ and Planck EZ keyboards. They also publish an <a href="https://ergodox-ez.com/pages/uses-this" title="ZSA's awesome newsletter.">awesome newsletter</a>.</p>
     <% if @post.licence %><p id="licence"><strong>Note:</strong> This interview is available under the <a href="http://creativecommons.org/licenses/<%= @post.licence %>/4.0/" title="The <%= @post.licence.upcase %> Creative Commons licence."><%= @post.licence.upcase %> Creative Commons licence</a>.</p><% end %>
   </div>
 </article>
