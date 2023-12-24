@@ -3,4 +3,4 @@
 source 'https://rubygems.org'
 
 gem 'dimples'
-gem 'faraday'
+gem 'httpx'
