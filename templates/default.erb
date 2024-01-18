@@ -3,7 +3,7 @@
   <head>
     <title>Uses This<% if @page %> / <%= @page.title %><% elsif @post %> / <%= @post.title %><% end %><% if @pagination && @pagination[:current_page] > 1 %> (Page <%= @pagination[:current_page] %>)<% end %></title>
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="/feed.atom" rel="alternate" title="Main Atom feed" type="application/atom+xml">
+    <link href="/feed.atom" rel="alternate" title="Uses This" type="application/atom+xml">
     <link href="https://wafer.baby/@d" rel="me">
   <% if @pagination %>
     <% if @pagination[:urls][:previous_page] %><link rel="prev" href="<%= @pagination[:urls][:previous_page] %>"><% end %>
@@ -11,7 +11,7 @@
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <meta name="description" content="A nerdy interview site">
+    <meta name="description" content="A nerdy interview site asking a random selection of people all about the tools and techniques they're using to get things done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @post && @post.categories %>, <%= @post.categories.join(', ') %><% end %>">
   <% if @post %>
@@ -19,19 +19,13 @@
     <meta property="og:description" content="<%= @post.summary %>">
     <meta property="og:type" content="article">
     <meta property="article:published_time" content="<%= @post.date.iso8601 %>">
-  <% @post.categories.each do |category| %>
-    <meta property="article:tag" content="<%= category %>">
-  <% end %>
+    <% @post.categories.each do |category| %>
+      <meta property="article:tag" content="<%= category %>">
+    <% end %>
     <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= @post.slug %>/portrait.jpg">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="og:image:width" content="500">
     <meta property="og:image:height" content="335">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Uses This: <%= @post.title %>">
-    <meta name="twitter:description" content="<%= @post.summary %>">
-    <meta name="twitter:image" content="https://usesthis.com/images/interviews/<%= @post.slug %>/portrait.jpg">
-    <meta name="twitter:label1" content="Published">
-    <meta name="twitter:data1" content="<%= @post.date.strftime('%B %-d, %Y') %>">
   <% end %>
   </head>
   <body>
@@ -50,8 +44,6 @@
       <%= yield %>
     </main>
     <footer>
-      <p>If you've enjoyed reading these interviews, why not <a href="https://patreon.com/waferbaby/" title="The Patreon account for Daniel, who makes this.">sponsor the site on <strong>Patreon</strong></a>?</p>
-
       <form id="search" method="get" action="https://duckduckgo.com/">
         <label><strong>Search:</strong>
         <input type="search" name="q" placeholder="MacBook Pro">
