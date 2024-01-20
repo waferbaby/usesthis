@@ -3,7 +3,7 @@ title: John Calhoun
 summary: Programmer, woodworker
 date: 2023-12-24
 categories:
-- dev
+- developer
 - mac
 ---
 

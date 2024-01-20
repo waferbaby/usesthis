@@ -3,7 +3,7 @@ title: Stelios Tigkas
 summary: Infosec developer
 date: 2023-02-20
 categories:
-- dev
+- developer
 - linux
 - security
 ---
