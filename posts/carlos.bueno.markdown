@@ -34,7 +34,7 @@ I also designed a modern [Morse Code keyboard](http://carlos.bueno.org/dotdotdas
 
 The only parts of a computer that have not gotten a million times faster and smaller are the display and keyboard. They are the monkey I/O ports. We are the bottleneck. Whoever figures out how to speed up that interface will kick off the next revolution.
 
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [google-compute-engine]: https://cloud.google.com/compute/ "A virtual machine hosting service."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

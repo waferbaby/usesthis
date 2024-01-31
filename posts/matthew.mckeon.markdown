@@ -69,7 +69,7 @@ Actually, I'm pretty content with what I have. I wouldn't mind having an iPad an
 [colour-lovers]: https://www.colourlovers.com/ "A web community for colour palettes."
 [delicious]: http://web.archive.org/web/20221226101338/https://del.icio.us/ "A web service for storing and sharing bookmarks."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [firebug]: https://getfirebug.com/ "A Firefox addon for web development."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

@@ -45,7 +45,7 @@ I would love to have a multi-monitor setup running on high-end GPUs and GBs of R
 [colorsnapper]: https://colorsnapper.com/ "A colour picker for the Mac."
 [dropbox-ios]: https://www.dropbox.com/mobile?trigger=on "An iOS version of the syncing software."
 [duolingo-ios]: https://apps.apple.com/app/duolingo-learn-spanish-french/id570060128 "An app for learning languages."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [eyepiece-and-filter-kit-1.25in]: http://web.archive.org/web/20200606045004/https://www.celestron.com/products/125in-eyepiece-and-filter-kit "A collection of eyepieces and filters for a telescope."
 [fantastical-ios]: http://web.archive.org/web/20230816150357/https://flexibits.com/fantastical "An alternative calendar app."
 [fedora]: https://fedoraproject.org/ "A Linux distribution."

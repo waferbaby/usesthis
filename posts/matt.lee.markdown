@@ -42,7 +42,7 @@ I think one way to make free software tools better for artists is to get more ar
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox-os]: https://support.mozilla.org/products/firefox-os "An OS for smartphones."
 [fountain]: https://fountain.io/ "A plain text markup language for film and TV scripts."
 [gimp]: https://www.gimp.org/ "An open-source image editor."

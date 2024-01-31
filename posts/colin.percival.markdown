@@ -43,7 +43,7 @@ On the server side, aside from the lack of FreeBSD on EC2, I'm really quite sati
 [connectbot-android]: https://connectbot.org/ "A secure shell for Android devices."
 [djbdns]: http://cr.yp.to/djbdns.html "DNS server software."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ezmlm]: http://www.ezmlm.org/ "Mailing list management software."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."

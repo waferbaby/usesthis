@@ -84,7 +84,7 @@ I am pretty satisfied with my current setup, yet I'm continuously improving it. 
 [context.2]: https://wiki.contextgarden.net/Main_Page "A document processing system."
 [dovecot]: https://dovecot.org/ "A secure IMAP server."
 [ed]: https://en.wikipedia.org/wiki/Ed_(text_editor) "A line text editor for Unix."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ex-vi]: https://ex-vi.sourceforge.net/ "A build of the command-line text editor based on ex/vi."
 [fatrace]: https://launchpad.net/fatrace "A file access event debugger."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

@@ -37,7 +37,7 @@ Here's what I see when I close my eyes: A massive egg-shaped room. The topology 
 
 [campfire]: https://basecamp.com/ "Web-based chat."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."

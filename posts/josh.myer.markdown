@@ -64,7 +64,7 @@ For physical output, there are things like 3-D printers, laser cutters, and CNC 
 [bittorrent]: http://web.archive.org/web/20230523075413/https://www.bittorrent.com/ "Distributed file sharing."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [freerouting]: http://freerouting.net/ "Route tracing software for printed circuit board design."
 [gnumeric]: http://www.gnumeric.org "Spreadsheet software for GNOME."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

@@ -47,7 +47,7 @@ I want a laptop that could be ultra low-powered like the Raspberry Pi so I could
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [docbook]: https://docbook.org/ "A schema suited to writing books."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [git]: https://git-scm.com/ "A version control system."
 [ibook]: https://en.wikipedia.org/wiki/IBook "A laptop."
 [ipod]: https://support.apple.com/ipod-touch "A music player."

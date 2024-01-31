@@ -64,7 +64,7 @@ I think I'll cut it off there and avoid the temptation to talk about my ideal ke
 
 [1password]: https://1password.com "Password management software for Mac OS X."
 [arq]: https://www.arqbackup.com/ "S3-based backup for the Mac."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ergodox]: https://www.ergodox.io/ "A buildable split ergonomic keyboard."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."
 [inconsolata-g]: https://leonardo-m.livejournal.com/77079.html "A font."

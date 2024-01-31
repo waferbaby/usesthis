@@ -39,7 +39,7 @@ My dream setup, then, is a computing world where I don't have to carry at least 
 I would allow the setup to force me to carry a computer screen around, as long as it rolled up and fit inside something the size of a pen and had touch input when unrolled. As long as it had no local storage.
 
 [acme]: https://en.wikipedia.org/wiki/Acme_(text_editor) "A text editor and graphical shell for Plan 9."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [go]: https://go.dev/ "A compiled programming language."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [plan-9-user-space]: https://swtch.com//9fans.github.io/plan9port/ "A port of Plan 9 programs to *nix."

@@ -66,7 +66,7 @@ Homestead hardware wishlist:
 [cloudfront]: https://aws.amazon.com/cloudfront/ "A content delivery service."
 [common-lisp]: https://common-lisp.net/ "A programming language."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [farmall-cub]: https://en.wikipedia.org/wiki/Farmall_Cub "A small tractor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."

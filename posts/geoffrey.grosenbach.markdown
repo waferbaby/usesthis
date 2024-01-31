@@ -62,7 +62,7 @@ But I still wish Apple would make a laptop for video professionals. 2TB storage.
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [asr-5-c]: https://products.mtbr.com/product/bikes/xc-suspensio/yeti-cycles/as-r-5-carbon.html "A bike."
 [d7000]: http://web.archive.org/web/20150902003342/http://www.nikonusa.com:80/en/Nikon-Products/Product/dslr-cameras/D7000.html "A 16.2 megapixel DSLR."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ew-100-g3]: https://en-us.sennheiser.com/wireless-clip-on-lavalier-microphone-set-presentation-ew-100-eng-g3 "A wireless microphone system."
 [fit-console]: https://www.ergotron.com/en-us/anthro "A curved sitting/standing desk."
 [freedom.2]: http://web.archive.org/web/20150317234059/http://humanscale.com:80/products/product_detail.cfm?group=FreedomTaskChairWithHeadrest "A chair."

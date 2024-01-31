@@ -97,7 +97,7 @@ And finally, as long as we're dreaming, the [Breville Oracle Touch espresso mach
 [ds413]: https://www.synology.com/en-us/support/download/DS413 "A NAS device."
 [e-835]: https://en-us.sennheiser.com/live-performance-microphone-vocal-stage-e-835 "A microphone."
 [e-reading]: https://www.benq.com/en-us/lighting/e-reading-desk-lamp/e-reading.html "A desk lamp."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [five]: https://www.sonos.com/en-us/shop/five "A wireless speaker."
 [gfw-mic-0822]: http://web.archive.org/web/20220529000532/https://gatorframeworks.com/products/telescoping-boom-podcast-bass-drum-and-amp-mic-stand-gfw-mic-0822/ "A telescoping boom arm for microphones."
 [hacking-with-swift-plus]: https://www.hackingwithswift.com/plus "A Swift tutorial service."

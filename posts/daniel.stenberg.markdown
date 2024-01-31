@@ -53,7 +53,7 @@ I should also update my kids' computers to a set of modern computers. Probably l
 [debian]: https://www.debian.org/ "A Linux distribution."
 [desire-hd]: https://en.wikipedia.org/wiki/HTC_Desire_HD "A 4.3 inch Android smartphone."
 [eee-pc-s101]: http://web.archive.org/web/20150226154845/http://www.asus.com:80/Notebooks_Ultrabooks/Eee_PC_S101/ "A 10.2 inch PC laptop."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [f3ja]: http://web.archive.org/web/20150511205631/http://www.asus.com:80/Notebooks_Ultrabooks/F3Ja/ "A 15.4 inch PC laptop."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [kde]: https://kde.org/ "A graphical environment for *nix operating systems."

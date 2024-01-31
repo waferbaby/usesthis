@@ -53,7 +53,7 @@ Other than that, my dreams are mostly in what I'll make, rather than what I'll h
 [clojure]: https://en.wikipedia.org/wiki/Clojure "A dynamic programming language using the Java Virtual Machine."
 [common-lisp]: https://common-lisp.net/ "A programming language."
 [da-vinci-jr]: https://www.xyzprinting.com/en-US/product/da-vinci-jr-1-0 "A 3D printer."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gauche]: https://practical-scheme.net/gauche/ "A Scheme implementation."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [go]: https://go.dev/ "A compiled programming language."

@@ -65,7 +65,7 @@ Speaking of that, the stuff I work on is myself pretty hard to fund. You can sup
 [advantage2]: https://kinesis-ergo.com/shop/advantage2/ "A fancy ergonomic keyboard."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [diaspora]: https://joindiaspora.com/ "A distributed social network."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [fuchsia]: https://en.wikipedia.org/wiki/Google_Fuchsia "An operating system."
 [gimp]: https://www.gimp.org/ "An open-source image editor."

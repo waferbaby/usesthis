@@ -47,7 +47,7 @@ Ideally, the system, its hardware and its software would be open for modificatio
 [clojure]: https://en.wikipedia.org/wiki/Clojure "A dynamic programming language using the Java Virtual Machine."
 [clojurescript]: http://www.clojurescript.net/ "A Clojure to Javascript compiler."
 [delicious-library]: http://web.archive.org/web/20230520005224/http://delicious-monster.com/ "Mac software for cataloging your media."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [f-301]: http://web.archive.org/web/20150106211838/http://www.amazon.com:80/Zebra-F-301-Retractable-Ballpoint-Black/dp/B001JT1ADW "A pen."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [g2-pro]: http://web.archive.org/web/20230221210315/https://www.amazon.com/Pilot-Retractable-Roller-Barrel-31147/dp/B0013CIJSO "A pen."

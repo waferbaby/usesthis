@@ -47,7 +47,7 @@ And my role as an open source enthusiast, developer, and writer is to improve th
 
 [debian]: https://www.debian.org/ "A Linux distribution."
 [elfeed]: https://github.com/skeeto/elfeed "An Emacs feed reader."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [enchive]: https://github.com/skeeto/enchive "A tool for encrypting files."
 [endlessh]: https://github.com/skeeto/endlessh "An SSH tarpit."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

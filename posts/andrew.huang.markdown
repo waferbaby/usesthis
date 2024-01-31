@@ -85,7 +85,7 @@ Of course, I lust after very light, thin laptops, such as the Sony VAIO VPCX11. 
 [cyber-shot-dsct-10]: http://web.archive.org/web/20160507115214/http://www.amazon.com/Sony-Cybershot-DSC-T10-Digital-Optical/dp/B000H96C3S "A 7.2 megapixel digital camera."
 [cygwin]: http://www.cygwin.com/ "A Linux-like environment for Windows."
 [dsi]: https://en.wikipedia.org/wiki/Nintendo_DSi "A portable gaming console."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [eudora]: https://en.wikipedia.org/wiki/Eudora_(e-mail_client) "A popular old email client."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flash-voyager]: http://web.archive.org/web/20160729191239/https://www.amazon.com/Corsair-Flash-Voyager-Drive-CMFUSB2-0-16GB/dp/B000LXTUT8 "A pocket USB drive."

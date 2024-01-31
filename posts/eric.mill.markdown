@@ -77,7 +77,7 @@ It would also have documentation and an interface optimized for non-experts and 
 [debian]: https://www.debian.org/ "A Linux distribution."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [docker]: https://www.docker.com/ "A service and software for building and shipping distributed software."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
 [galaxy-nexus]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
 [github]: https://github.com/ "A Git code repository service."

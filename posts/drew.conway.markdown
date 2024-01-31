@@ -36,7 +36,7 @@ In the meantime, however, I would settle for an upgrade to 8GM of RAM in my curr
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
 [echofon]: http://web.archive.org/web/20190829052222/http://www.echofon.com:80/twitter/mac/ "A Twitter client for the Mac."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ipython]: https://ipython.org/ "An interactive shell for Python."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

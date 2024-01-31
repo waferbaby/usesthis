@@ -43,7 +43,7 @@ I do not have a big dream. I guess a screen with a higher resolution will make m
 [cranvas]: http://cranvas.org/ "A Qt interface for R."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
 [dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [formatr]: http://web.archive.org/web/20230714203551/https://yihui.org/formatr/ "A tool for formatting R code."
 [fun]: http://cran.r-project.org/web/packages/fun/ "A collection of fun R games."
 [gedit]: https://wiki.gnome.org/Apps/Gedit "A text editor for GNOME."

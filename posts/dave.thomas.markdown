@@ -31,7 +31,7 @@ I run my [online course](http://codestool.coding-gnome.com/ "Dave's programming 
 I like coding in my armchair, with the lake in the background. But it would be extra nice to have a decent high-res second monitor which magically popped up out of the floor or down from the ceiling. And a bottomless cup of tea. Obviously.
 
 [elixir]: https://elixir-lang.org/ "A functional programming language."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [github]: https://github.com/ "A Git code repository service."
 [google-fi]: https://en.wikipedia.org/wiki/Google_Fi "A cellular/wifi networking service."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."

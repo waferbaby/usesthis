@@ -1,5 +1,5 @@
 {
-  "name": "Emacs",
-  "description": "A free open-source text editor.",
+  "name": "GNU Emacs",
+  "description": "An extensible, customizable, free/libre text editor — and more.",
   "url": "http://www.gnu.org/software/emacs/"
 }

@@ -30,7 +30,7 @@ I develop my code inside [Emacs][] in [tmux][] via [SSH][]. On rare occasions I'
 I'm pretty sure I have it already.
 
 [apple-watch-series-3]: https://en.wikipedia.org/wiki/Apple_Watch_Series_3 "A smartwatch with optional cellular data."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [heroku]: https://www.heroku.com/ "A service for running and deploying Ruby, Node.js, Clojure, Java, Python, and Scala apps."
 [imvu]: https://secure.imvu.com/ "An avatar-based social network."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."

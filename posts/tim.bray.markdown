@@ -60,7 +60,7 @@ I'd really like high-quality cyborg cameras integrated into my visual system so 
 [debian]: https://www.debian.org/ "A Linux distribution."
 [doubletwist]: https://www.doubletwist.com/ "Jukebox and video software with support for multiple devices."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [erlang]: https://www.erlang.org/ "A programming language invented by Ericsson."
 [fluid]: https://fluidapp.com/ "A WebKit-based application for creating Site Specific Browsers."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."

@@ -45,7 +45,7 @@ It's the same nightmare I have once in a while when I'm asleep, where I'm moving
 [asterisk]: https://www.asterisk.org/ "An open source VoIP framework."
 [dd-wrt]: http://web.archive.org/web/20180521190036/https://www.dd-wrt.com/site/index "A alternative Linux-based firmware for routers."
 [duo]: https://duo.com/ "A two-factor authentication service."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [geekdesk]: http://web.archive.org/web/20230601102958/https://www.geekdesk.com/ "An electronic, height-adjustable desk."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [openvpn]: https://openvpn.net/community/ "Open source VPN software."

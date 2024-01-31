@@ -48,7 +48,7 @@ I need better music as well. I'm tired of Pandora -- hopeful for Spotify, but I 
 [decaf-android]: http://web.archive.org/web/20160326065108/https://play.google.com/store/apps/details?id=net.nineapps.monitor "An EC2 client for Android."
 [dub-h7]: http://us.dlink.com/home-solutions/connect/usb/dub-h7-7-port-usb-2-0-hub "A 7 port USB 2 hub."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [envy-13t-1000]: http://h10025.www1.hp.com/ewfrf/wc/product?cc=us&lc=en&dlc=en&product=3995930 "A 13.1 inch PC laptop."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."
 [g2]: https://en.wikipedia.org/wiki/LG_G2 "An Android smartphone."

@@ -42,7 +42,7 @@ Finally, I have yet to find a reference manager I can really operate. I'll usual
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [crostini]: https://chromium.googlesource.com/chromiumos/docs/+/master/containers_and_vms.md#Crostini "A VM environment for Chrome OS."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [flip]: https://www.getdoxie.com/product/flip "A mobile flatbed scanner."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [ipython]: https://ipython.org/ "An interactive shell for Python."

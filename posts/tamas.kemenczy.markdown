@@ -47,7 +47,7 @@ The setup I have right now does the trick. I used to have back problems from hun
 [c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [gist]: https://gist.github.com/starred "A version controlled code snippets service."
 [github]: https://github.com/ "A Git code repository service."

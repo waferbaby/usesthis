@@ -88,7 +88,7 @@ It would run in the background on all my machines and would unobtrusively point 
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [d700]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d700.html "A 12.1 megapixel DSLR."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [envelope-for-ipad]: http://web.archive.org/web/20190506111133/https://www.amazon.com/Belkin-Leather-Envelope-Sleeve-F8N377CW/dp/B003GAMD1K "An iPad case."
 [finepix-x100]: https://finepix-x100.com/ "A 12.3 megapixel digital camera."
 [foursquare]: https://foursquare.com/ "A location service."

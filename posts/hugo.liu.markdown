@@ -48,7 +48,7 @@ A wearable, one-touch recorder that captures conversations and todo items. It sy
 [buddha-machine-ios]: https://apps.apple.com/gb/app/buddha-machine-ipad-edition/id394619578 "An ambient noise generator app, based on real-world plastic devices."
 [camera-plus-ios]: https://camera.plus/ "A pro photo app for the iPhone."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [er4-micropro]: http://web.archive.org/web/20190414162300/http://www.etymotic.com/ephp/er4.html "In-ear headphones."
 [exit-strategy-nyc-ios]: https://web.archive.org/web/20210522103229/exitstrategynyc.com// "A New York navigation app."
 [foursquare-ios]: https://apps.apple.com/us/app/foursquare/id306934924 "An iPhone client for the social location game."

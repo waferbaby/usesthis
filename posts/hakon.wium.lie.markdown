@@ -49,7 +49,7 @@ Final wish: an electric car with a tow hitch.
 
 *Lie now keeps a [changelog of his latest setup](https://www.wiumlie.no/uses-this/changelog "Lie's setup changelog.").*
 
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [eos-6d]: https://en.wikipedia.org/wiki/Canon_EOS_6D "A 20.2 megapixel DSLR."
 [fastpack-250]: http://web.archive.org/web/20160417134653/http://store.lowepro.com/backpacks/fastpack-250 "A laptop/camera backpack."
 [frontier-580]: http://web.archive.org/web/20200615040303/https://www.argoadventure.com/ARGO-FRONTIER-6x6_p_12827.html "An amphibious vehicle."

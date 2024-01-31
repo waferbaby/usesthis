@@ -54,7 +54,7 @@ Honestly, [a small, clear lake, a hammock](http://copygr.am/danadanger/189774675
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [goodreads]: https://www.goodreads.com/ "A service for tracking the book you've read."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

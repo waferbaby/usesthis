@@ -68,7 +68,7 @@ A world where everyone enjoys programming.
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."

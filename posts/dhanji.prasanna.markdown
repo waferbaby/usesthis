@@ -50,7 +50,7 @@ I guess most of what I'd like out of a dream setup is similar to what I have now
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [flixter-ios]: https://apps.apple.com/us/app/movies-by-flixster-rotten/id284235722 "An app for the social movie site."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

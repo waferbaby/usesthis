@@ -42,7 +42,7 @@ More ambitiously, I'd love to replace my paper notebooks with a magical e-ink de
 [camp-keepalive]: http://web.archive.org/web/20180113164101/http://twofoldsecret.com:80/campkeepalive "A turn-based camp horror video game."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [ctrlp]: http://kien.github.io/ctrlp.vim/ "A vim plugin for fuzzy filename matching."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [ipad-air]: https://en.wikipedia.org/wiki/IPad_Air "A tablet device."

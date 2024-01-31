@@ -73,7 +73,7 @@ Also, I want full-color e-ink displays that come on big rolls, like paper towels
 [alpine]: http://web.archive.org/web/20190313001207/http://www.washington.edu/alpine/ "A terminal email client."
 [audio-hijack-pro]: https://www.rogueamoeba.com/audiohijackpro/ "Mac software for recording audio from any source."
 [clicktoflash]: http://web.archive.org/web/20230216215428/https://clicktoflash.com/ "A browser plugin to require clicking before Flash content loads."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [icab-ios]: http://web.archive.org/web/20210519003001/http://www.icab.de/mobile.html "A web browser for iOS."

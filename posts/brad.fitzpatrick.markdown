@@ -31,7 +31,7 @@ I'd like fewer machines. :-) But I should probably upgrade this crappy desktop. 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [debian]: https://www.debian.org/ "A Linux distribution."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [gearman]: http://gearman.org/ "Powerful software for sending tasks across to multiple computers at once."
 [gimp]: https://www.gimp.org/ "An open-source image editor."

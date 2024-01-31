@@ -36,7 +36,7 @@ Until I can have them both, freedom is my priority. I've campaigned for freedom 
 
 I do hope to switch soon to a newer model of Yeelong with a 10-inch display.
 
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gnewsense]: https://en.wikipedia.org/wiki/GNewSense "A completely free GNU/Linux distribution."
 [pmon]: http://web.archive.org/web/20221023121250/https://www.linux-mips.org/wiki/PMON "Freeware ROM firmware."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."

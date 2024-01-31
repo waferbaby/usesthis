@@ -64,7 +64,7 @@ I think I already have it.
 [debian]: https://www.debian.org/ "A Linux distribution."
 [discourse]: https://www.discourse.org/ "An open-source discussion platform."
 [drupal]: https://www.drupal.org/ "An open-source content management system."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [faderport]: http://web.archive.org/web/20230322193518/https://www.presonus.com/products/FaderPort "A audio control deck."
 [fcb1010]: http://web.archive.org/web/20211111012024/https://www.sweetwater.com/store/detail/FCB1010--behringer-midi-foot-controller-fcb1010 "A MIDI foot controller."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

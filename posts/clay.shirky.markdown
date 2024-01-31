@@ -67,7 +67,7 @@ Some of those changes stick, most don't, but since every tool switch involves a 
 [chromecast]: https://en.wikipedia.org/wiki/Chromecast "A digital media player for televisions."
 [digg-reader]: https://en.wikipedia.org/wiki/Digg_Reader "A feed reader service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [galaxy-s]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S "A 4 inch Android-based smartphone."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."

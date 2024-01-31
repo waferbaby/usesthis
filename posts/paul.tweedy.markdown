@@ -49,7 +49,7 @@ That said, I'd love a phone that lasts a week between charges, just like they di
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [dt-250]: http://web.archive.org/web/20230811124931/https://north-america.beyerdynamic.com/ "Over the ear headphones."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [enterprise-architect]: https://sparxsystems.com/products/ea/index.html "Visual modelling software for Windows."
 [ezdrummer]: https://en.wikipedia.org/wiki/EZdrummer "Drum sampler software."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

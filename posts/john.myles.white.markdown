@@ -41,7 +41,7 @@ And, for version control, I use [Git][]. I'm moving increasingly towards keeping
 For me, the main limiting factor in my work is always memory: either RAM or hard disk space. I'm working at [MSR](http://research.microsoft.com/en-us "Microsoft's Research center.") this summer and there's an urban legend that there's a machine with 2 TB of RAM here that some of the researchers have access to. Having a machine with that kind of power is really my ideal, although I could also benefit from more hard disk space. My other dream situation would be to have a small [Hadoop][] cluster running at home that's only for my own work.
 
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [ggplot2]: http://web.archive.org/web/20180506153516/http://ggplot2.org:80/ "A plotting system for the R language."
 [git]: https://git-scm.com/ "A version control system."

@@ -35,7 +35,7 @@ Keyboards are okay, but I'd rather have [electrodes](http://www.desicolours.com/
 [codeblocks]: http://web.archive.org/web/20230814003225/https://www.codeblocks.org/ "A C++ IDE."
 [cygwin]: http://www.cygwin.com/ "A Linux-like environment for Windows."
 [droid-2]: https://en.wikipedia.org/wiki/Droid_2 "An Android-based smartphone."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [eshell]: http://www.gnu.org/software/emacs/manual/html_node/eshell/ "A shell for emacs."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [git]: https://git-scm.com/ "A version control system."

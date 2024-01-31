@@ -35,7 +35,7 @@ It would be nice if I could use eye tracking in order to act as a mouse, but I w
 Computer science is a weird profession.
 
 [cursorless]: https://www.cursorless.org/ "A VS Code extension for working with Talon to write code with your voice."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [geforce-rtx-4080]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080-family/ "A GPU."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

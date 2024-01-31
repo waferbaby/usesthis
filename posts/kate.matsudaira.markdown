@@ -41,7 +41,7 @@ Everything listed above but located in Hawaii - and maybe a pair of Bose headpho
 [audible-ios]: https://apps.apple.com/us/app/audible/id379693831 "An app for the audio book service."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [eclipse]: https://www.eclipse.org/ "A flexible, open-source IDE."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

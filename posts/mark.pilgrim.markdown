@@ -81,7 +81,7 @@ But hey, you asked for my dream setup. That's it: one computer for 20 years.
 [cyanogenmod]: http://web.archive.org/web/20161225043707/https://www.cyanogenmod.org/ "A custom ROM for Android phones."
 [docbook]: https://docbook.org/ "A schema suited to writing books."
 [drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."

@@ -43,7 +43,7 @@ The real problem is finding the time. If I have an hour to spend on music I alwa
 I also spend a lot of time writing ideas and doing calculations in notebooks - pen and paper. Typing math is a lot slower than writing it, because there are all sorts of weird symbols, and I always using weird mixtures of equations and diagrams. It would be nice to computerize this, but drawing with a stylus feels clumsy, and converting hand-written equations into LaTeX hasn't been automated yet. So here again, there's a lot of room for improvement.
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [instiki]: https://github.com/parasew/instiki "Wiki software."
 [irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [latex]: https://www.latex-project.org/ "Typesetting software."

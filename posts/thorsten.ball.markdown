@@ -108,7 +108,7 @@ Maybe we need to get rid of plain text, this holy relic of Unix, in order to mak
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [curl]: https://curl.se/ "A command-line tool for transferring data from URLs."
 [ds716-plus-ii]: https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/16-year/DS716+II/enu/Synology_DS716_PlusII_Data_Sheet_enu.pdf "A NAS device."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [es-87]: http://web.archive.org/web/20190506063301/http://www.keyeduplabs.com/es-87.html "A mechanical keyboard."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."

@@ -43,7 +43,7 @@ I'll likely be upgrading my field system to the latest and greatest 15" [MacBook
 [d800]: http://web.archive.org/web/20230312080814/https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [designjet-z3200]: https://www.hp.com/us-en/large-format-printers/designjet-printers/z3200.html "A big printer."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [finepix-x100]: https://finepix-x100.com/ "A 12.3 megapixel digital camera."
 [flipboard-ios]: https://apps.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."

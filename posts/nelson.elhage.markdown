@@ -55,7 +55,7 @@ Even as everything moves to the cloud, I tend to stubbornly cling to wanting my 
 [docker-compose]: https://docs.docker.com/compose/ "A tool for controlling multiple Docker containers."
 [dropbox-paper]: https://www.dropbox.com/paper/start?no_redirect=1 "A document collaboration service."
 [elite-65t]: https://www.jabra.com.au/bluetooth-headsets/jabra-elite-65t#/#100-99000000-40 "In-ear wireless headphones."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [google-compute-engine]: https://cloud.google.com/compute/ "A virtual machine hosting service."
 [hd-280-pro]: http://web.archive.org/web/20221206010356/https://www.amazon.com/Sennheiser-HD-280-Pro-Headphones/dp/B000065BPB/ "Closed stereo headphones."
 [hugo]: https://gohugo.io/ "A static site generator."

@@ -47,7 +47,7 @@ In terms of hardware, I think I've got it barring things like head-mounted displ
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dmenu]: https://tools.suckless.org/dmenu/ "A dynamic menu for X11."
 [elim]: http://savannah.nongnu.org/projects/elim "An IM daemon for Emacs."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [epresent]: http://web.archive.org/web/20200927132910/https://github.com/technomancy/epresent "A presentation system for Emacs."
 [erc]: https://www.emacswiki.org/emacs/ERC "An IRC client for Emacs."
 [erythrina]: https://github.com/technomancy/erythrina "A tool for allowing quick selection from a list of options."

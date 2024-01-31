@@ -47,7 +47,7 @@ Since my initial answer, I was able to move my work location to a loft in downto
 If anything can be learned from this, there is power in actually articulating your dream setup, since once you know what it would look like, you may actually find that making it happen is easier than you think. So I do owe a big thank you to Daniel Bogan for asking me the question :)
 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [ext-js]: https://www.sencha.com/products/extjs/ "A Javascript framework."
 [funtoo]: https://www.funtoo.org/Welcome "A Linux distribution."
 [gentoo]: https://www.gentoo.org/ "A Linux distribution."

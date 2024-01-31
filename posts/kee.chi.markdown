@@ -39,7 +39,7 @@ That, and a lint-resistant mouse wheel. How does one even clean that?
 [brutal-legend]: https://en.wikipedia.org/wiki/Brutal_Legend "An action-adventure video game."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [costume-quest-2]: https://en.wikipedia.org/wiki/Costume_Quest_2 "A role-playing video game."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [geforce-gtx-550-ti]: https://www.nvidia.com/en-us/page-not-found/ "A video card."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."

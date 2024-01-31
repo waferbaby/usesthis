@@ -60,7 +60,7 @@ In near-term reality, I've been considering a Lenovo X-series, and switching bac
 [cpanminus]: https://github.com/miyagawa/cpanminus "A script for working with CPAN modules."
 [d40]: https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d40.html "A 6.1 megapixel digital SLR camera."
 [droid-3]: https://en.wikipedia.org/wiki/Droid_3 "An Android-based smartphone."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."

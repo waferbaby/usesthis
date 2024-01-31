@@ -59,7 +59,7 @@ My dream setup would be to have a working Adobe graphics program again, and a wo
 I'd also like for my next-door neighbors to trim their trees so that I could see a bit further from my window. It helps a screen worker to rest their eyeballs by looking out a window and focusing on a distant horizon several times a day.
 
 [bbedit]: http://www.barebones.com/products/bbedit/ "A text editor for the Mac."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [filemaker-pro]: http://web.archive.org/web/20230317135854/https://www.claris.com/filemaker/pro/ "A database application."
 [freehand]: https://en.wikipedia.org/wiki/Macromedia_FreeHand "Vector illustration software."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

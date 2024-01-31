@@ -57,7 +57,7 @@ Hardware wise, I'd like something that runs everything so quickly that I never h
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [echofon]: http://web.archive.org/web/20190829052222/http://www.echofon.com:80/twitter/mac/ "A Twitter client for the Mac."
 [ecto]: https://illumineX.com/ecto/ "Blogging software for Mac and Windows."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [entourage]: https://en.wikipedia.org/wiki/Microsoft_Entourage "A Mac email client included with Office."
 [evernote-ios]: https://apps.apple.com/us/app/evernote/id281796108 "An iPhone client for the Evernote web service."
 [evernote-mac]: https://evernote.com/ "A Mac client for the note/image service."

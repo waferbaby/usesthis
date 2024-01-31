@@ -54,7 +54,7 @@ My ideal laptop would have metal casing, a mechanical keyboard similar to some e
 [chestscan]: https://code.freedombone.net/bashrc/chestscan "Software for extracting ribcage images from chest x-rays."
 [cubieboard]: https://en.wikipedia.org/wiki/Cubieboard "A single board computer."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [freedombone]: http://web.archive.org/web/20220922130740/http://freedombone.net/ "Self-hosted Internet service software."
 [galaxy-s4]: http://web.archive.org/web/20160303195928/http://www.samsung.com/global/microsite/galaxys4/ "A 5 inch Android smartphone."
 [icecat]: https://www.gnu.org/software/gnuzilla/ "A GNU version of Firefox."

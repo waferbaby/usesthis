@@ -41,7 +41,7 @@ Software-wise I really wish we'd done almost everything differently. The focus h
 [clang]: https://clang.llvm.org/ "A C/C++ frontend for the LLVM compiler."
 [ctrld]: https://github.com/bjin/ctrld-font "A bitmap font."
 [dina]: https://www.dafont.com/dina.font "A bitmap font."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [fsc]: https://learn.microsoft.com/en-us/dotnet/fsharp/language-reference/compiler-options "The F# compiler."

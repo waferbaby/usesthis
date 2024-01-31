@@ -42,7 +42,7 @@ I am good with what I use right now. I used to be picky about CPU performance, t
 [cb35-b3340]: http://web.archive.org/web/20210514110839/https://www.toshiba.com/us/computers/laptops/chromebook/cb30/CB35-B3340 "A 13.3 inch Chromebook 2 laptop."
 [crouton]: https://github.com/dnschneid/crouton "A set of scripts to generate a chroot in Chrome OS."
 [ct15-a5]: http://web.archive.org/web/20190506100832/https://www.amazon.com/VIZIO-CT15-A5-15-6-Inch-Light-Ultrabook/dp/B009PJHE7O "A 15.6 inch PC laptop."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [gdb]: http://www.gnu.org/software/gdb/ "A code debugger."
 [git]: https://git-scm.com/ "A version control system."

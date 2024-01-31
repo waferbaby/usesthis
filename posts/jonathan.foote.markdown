@@ -59,7 +59,7 @@ Probably something like dual Apple [Cinema Displays][cinema-display], or even 42
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [cygwin]: http://www.cygwin.com/ "A Linux-like environment for Windows."
 [eagle]: http://web.archive.org/web/20221006162604/https://www.cadsoft.io/ "Software for designing printed circuit boards."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [inkscape]: https://inkscape.org/ "An open-source vector graphics program."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."

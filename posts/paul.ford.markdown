@@ -84,7 +84,7 @@ That said, in 2019, with all the clouds and cheap laptops, and Raspberry Pis, I 
 [datasette]: https://github.com/simonw/datasette "A tool for exploring and publishing any sort of data."
 [dosbox]: http://www.dosbox.com/ "An x86/DOS emulator."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [firefox-multi-account-containers]: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/ "A Firefox add-on to create separate data containers for websites."

@@ -47,7 +47,7 @@ The most important part of my setup is my [dog](http://www.flickr.com/photos/liz
 [asciidoc]: http://www.methods.co.nz/asciidoc/ "A text file format and software that's easily translated to other formats."
 [chromebook]: http://web.archive.org/web/20120421052503/http://www.google.com:80/intl/en/chromebook/ "A laptop built for only running Web apps."
 [django]: https://www.djangoproject.com/ "A Python-based web framework."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [galaxy-tab]: http://web.archive.org/web/20160305022500/http://www.samsung.com/global/microsite/galaxytab/ "An Android-based tablet."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
 [ibis-reader]: http://web.archive.org/web/20230706214411/http://www.gutenbergnews.org/20100927/ibis-reader/ "A web-based ePub reader."

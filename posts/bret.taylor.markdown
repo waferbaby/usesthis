@@ -46,7 +46,7 @@ My 13" MacBook Air and a 27" Thunderbolt Display everywhere I have a desk. I lik
 [calendar-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A calendar app included with iOS."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [facebook-ios]: https://apps.apple.com/us/app/facebook/id284882215 "An iPhone app for accessing Facebook."
 [facebook-messenger-ios]: https://apps.apple.com/us/app/facebook-messenger/id454638411 "A Facebook chat client app."
 [facebook]: https://www.facebook.com/ "A social networking site."

@@ -95,7 +95,7 @@ I'm trying to build some of these things - right now I'm still stuck on the firs
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [diskstation-ds411slim]: https://www.storagereview.com/review/synology-diskstation-ds411slim-review "A NAS device for 2.5 inch drives."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [erlang]: https://www.erlang.org/ "A programming language invented by Ericsson."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [git]: https://git-scm.com/ "A version control system."

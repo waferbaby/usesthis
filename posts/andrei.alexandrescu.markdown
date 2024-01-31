@@ -63,7 +63,7 @@ Finally, since you're asking about _dream_ setup, I'd love to try [Microsoft Vis
 [colloquy]: https://colloquy.app/ "An IRC client for the Mac."
 [concrete5]: http://web.archive.org/web/20220609011913/https://www.concrete5.org/ "A content management system."
 [d]: https://dlang.org/ "A programming language."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
 [git]: https://git-scm.com/ "A version control system."
 [github]: https://github.com/ "A Git code repository service."

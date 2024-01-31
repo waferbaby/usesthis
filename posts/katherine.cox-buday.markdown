@@ -68,7 +68,7 @@ And finally, all of this should have open protocols, and be controllable both th
 [common-lisp]: https://common-lisp.net/ "A programming language."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [diskstation-ds1819-plus]: https://www.synology.com/en-us/support/download/DS1819+ "An 8-bay NAS."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gadgetbridge]: http://gadgetbridge.org/ "Android software for using smartwatch devices."
 [gazelle]: https://system76.com/laptops/gazelle "A Linux laptop."

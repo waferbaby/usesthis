@@ -101,7 +101,7 @@ I want every program to have clear and well documented source code available in 
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dovecot]: https://dovecot.org/ "A secure IMAP server."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [enlightenment]: https://www.enlightenment.org/ "A window manager for X."
 [ess]: https://ess.r-project.org/ "An Emacs package for statistical analysis program support."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

@@ -34,7 +34,7 @@ I sort of hate desks. Especially the same desk everyday. I wish I had a "random"
 
 [collab-pro]: http://web.archive.org/web/20221219024525/https://colab.research.google.com/signup "A hosted Python service with GPU access."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [geforce-gtx-1080]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [ios]: https://www.apple.com/ios/ "A mobile operating system."

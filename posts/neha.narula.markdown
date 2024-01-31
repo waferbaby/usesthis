@@ -63,7 +63,7 @@ I also want a non-crippled home media system that is clean, simple, and beautifu
 [dac25.2]: https://www.stereophile.com/digitalprocessors/music_hall_dac252_da_processor "A DAC."
 [digg]: https://digg.com/ "A user-curated news site."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [evernote-web-clipper]: https://evernote.com/features/webclipper "A browser extension for adding content to Evernote."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."

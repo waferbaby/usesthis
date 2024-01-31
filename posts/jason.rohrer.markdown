@@ -47,7 +47,7 @@ On Windows, I've also made some of my games (my small, 1-week "sketches") using 
 
 Dream setup? This is it!
 
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gamemaker]: https://gamemaker.io:443/gamemaker "A cross-platform game creation tool."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."

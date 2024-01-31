@@ -55,7 +55,7 @@ I also dream about a modern replacement for LaTeX designed from the ground up to
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [debian]: https://www.debian.org/ "A Linux distribution."
 [duplicity]: http://duplicity.nongnu.org/ "An rsync-based backup program."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [evil-mode]: https://www.emacswiki.org/emacs/Evil "An extension for Emacs to bring it vim-like features."
 [ghc]: https://www.haskell.org/ghc/ "An open-source Haskell compiler and interactive environment."
 [git]: https://git-scm.com/ "A version control system."

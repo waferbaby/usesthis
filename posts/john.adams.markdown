@@ -130,7 +130,7 @@ I'd also like to get a 100MBit or better line from my house to the Internet. My 
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [ds1054z]: http://web.archive.org/web/20221208160808/https://www.amazon.com/Rigol-DS1054Z-Digital-Oscilloscope-Channels/dp/B012938E76/ "A digital oscilloscope."
 [ef-24-70mm-f2.8l-usm]: http://web.archive.org/web/20211014093500/https://www.usa.canon.com/cusa/consumer/products/cameras/ef_lens_lineup/ef_24_70mm_f_2_8l_usm "A zoom lens for cameras."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [fr-810]: http://web.archive.org/web/20160603044749/http://www.amazon.com:80/Hakko-FR-810-Hot-Rework-Station/dp/B00P6MLKEC "A hot air station."

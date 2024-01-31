@@ -61,7 +61,7 @@ As a citizen of a [fairly accent-full country](http://en.wikipedia.org/wiki/Fran
 
 [chromium]: https://www.chromium.org/ "Open-source builds of the Chrome web browser."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [git-annex]: http://web.archive.org/web/20230922030452/https://git-annex.branchable.com/ "A tool for tracking the details of large files in git."

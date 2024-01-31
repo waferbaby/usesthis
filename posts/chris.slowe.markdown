@@ -46,7 +46,7 @@ Honestly, though, I feel like the worst part of these days isn't the hardware bu
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [coffeescript]: https://coffeescript.org/ "A language that compiles into Javascript."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [haproxy]: http://www.haproxy.org/ "TCP/HTTP load balancer software."
 [hipmunk]: http://web.archive.org/web/20200531143901/http://hipmunk.com:80/ "A service for finding hotels and flights."

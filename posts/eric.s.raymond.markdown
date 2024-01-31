@@ -36,7 +36,7 @@ I'd also like to have an Android 4.0 phone, and expect to get one within a few m
 
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [g2]: https://en.wikipedia.org/wiki/LG_G2 "An Android smartphone."
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."

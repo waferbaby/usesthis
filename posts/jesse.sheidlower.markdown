@@ -34,7 +34,7 @@ I actually think I'm pretty much there. I always do want to play around with thi
 [c236-wsi]: https://www.asrockrack.com/general/productdetail.asp?Model=C236%20WSI#Specifications "A motherboard."
 [core-i3-6100]: https://ark.intel.com/content/www/us/en/ark/products/90729/intel-core-i36100-processor-3m-cache-3-70-ghz.html "A CPU."
 [debian]: https://www.debian.org/ "A Linux distribution."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [f-one]: https://www.genelec.com/f-one "A subwoofer."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [freebsd]: https://www.freebsd.org/ "An open source operating system."

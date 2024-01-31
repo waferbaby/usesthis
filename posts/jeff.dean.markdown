@@ -36,7 +36,7 @@ I pretty much have it. Mostly I enjoy doing research and writing software to sol
 [cecil]: https://en.wikipedia.org/wiki/Cecil_(programming_language) "An object-oriented programming language."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [chromebook-pixel]: https://www.google.com/intl/en-US/chromebook/ "A PC laptop with a Retina display."
-[emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
+[emacs]: http://www.gnu.org/software/emacs/ "An extensible, customizable, free/libre text editor — and more."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-search]: https://www.google.com/ "A search engine."
