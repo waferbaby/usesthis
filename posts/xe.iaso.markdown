@@ -16,7 +16,7 @@ I'm Xe Iaso, I'm a technical educator, [Twitch][] streamer, vtuber, and philosop
 
 ### What hardware do you use?
 
-For hardware, I use a [MacBook Pro][] (M2 Max), an [iPad Pro][ipad-pro] with a keyboard, a gaming desktop with a [Ryzen 5950X processor][ryzen-9-5950x] and a [4080][geforce-rtx-4080], two [ZSA Moonlander keyboards][moonlander] and some pretty professional audio equipment. I am an avid VR enthusiast and play a lot of video games.
+For hardware, I use a [MacBook Pro][macbook-pro] (M2 Max), an [iPad Pro][ipad-pro] with a keyboard, a gaming desktop with a [Ryzen 5950X processor][ryzen-9-5950x] and a [4080][geforce-rtx-4080], two [ZSA Moonlander keyboards][moonlander] and some pretty professional audio equipment. I am an avid VR enthusiast and play a lot of video games.
 
 ### And what software?
 
@@ -38,6 +38,7 @@ Computer science is a weird profession.
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [geforce-rtx-4080]: https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4080-family/ "A GPU."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
+[macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [moonlander]: https://www.zsa.io/moonlander/ "An ergonomic mechanical keyboard."
 [nixos]: https://nixos.org/ "A Linux distribution."
 [ryzen-9-5950x]: https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x "A CPU."
