@@ -1,5 +1,2 @@
-generation:
-  overwrite_directory: true
-
-paths:
-  posts: interviews
+output:
+  posts: './site/interviews'
