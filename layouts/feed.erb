@@ -14,12 +14,11 @@
 <entry>
   <id>https://usesthis.com/interviews/<%= post.slug %>/</id>
   <title><%= post.title %></title>
-  <summary><%== post.summary %></summary>
+  <summary><%= post.summary %></summary>
   <link href="https://usesthis.com/interviews/<%= post.slug %>/"/>
   <updated><%= post.date.strftime('%FT%T') %>Z</updated>
   <content type="html">
-    <%== "<p><img src=\"http://usesthis.com/images/interviews/#{post.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{post.title}\"></p>" %>
-    <%== post.rendered_contents %>
+    <%= ERB::Escape.html_escape("<p><img src=\"http://usesthis.com/images/interviews/#{post.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{post.title}\"></p>\n#{post.template.render}") %>
   </content>
 </entry>
 <% end %>
