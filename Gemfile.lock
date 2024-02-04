@@ -1,11 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    dimples (10.1.0)
-      erubi (~> 1.12)
+    cgi (0.4.1)
+    dimples (10.1.1)
+      erb (~> 4.0)
       redcarpet (~> 3.6)
       tilt (~> 2.3)
-    erubi (1.12.0)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
     http-2-next (1.0.3)
     httpx (1.2.2)
       http-2-next (>= 1.0.3)
