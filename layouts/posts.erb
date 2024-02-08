@@ -32,7 +32,7 @@ title: Interviews
 <% if @pagination.page_count > 1 %>
   <nav id="paginator">
     <p>Page <strong><%= @pagination.current_page %></strong> of <strong><%= @pagination.page_count %></strong></p>
-    <span id="previous"><% if @pagination.previous_page %><a href="<%= @pagination.urls[:previous_page] %>" title="Page <%= @pagination.previous_page %> of the interviews."><% end %>Previous<% if @pagination.previous_page %></a><% end %></span>
-    <span id="next"><% if @pagination.next_page %><a href="<%= @pagination.urls[:next_page] %>" title="Page <%= @pagination.next_page %> of the interviews."><% end %>Next<% if @pagination.next_page %></a><% end %></span>
+    <span id="previous"><% if @pagination.previous_page %><a href="<%= @pagination.urls.previous_page %>" title="Page <%= @pagination.previous_page %> of the interviews."><% end %>Previous<% if @pagination.previous_page %></a><% end %></span>
+    <span id="next"><% if @pagination.next_page %><a href="<%= @pagination.urls.next_page %>" title="Page <%= @pagination.next_page %> of the interviews."><% end %>Next<% if @pagination.next_page %></a><% end %></span>
   </nav>
 <% end %>
