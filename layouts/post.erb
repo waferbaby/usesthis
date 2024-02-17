@@ -14,7 +14,7 @@ layout: default
     <h2 class="p-name" itemprop="headline"><%= @page.title %></h2>
     <p class="summary p-job-title"><%= @page.summary %></p>
     <p class="details">
-    <time datetime="<%= @page.date.strftime('%Y-%m-%d') %>" class="dt-published" itemprop="datePublished"><%= @page.date.strftime('%B %d, %Y') %></time> in
+    <time datetime="<%= @page.date.strftime('%Y-%m-%d') %>" class="dt-published" itemprop="datePublished" content="<%= @page.date.strftime('%Y-%m-%d') %>"><%= @page.date.strftime('%B %d, %Y') %></time> in
     <% @page.categories.each do |slug| %>
       <a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews." class="p-category"><%= slug %></a><%= ', ' unless @page.categories.last == slug %>
   <% end %>
