@@ -5,7 +5,7 @@
     <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
     <link href="/feed.atom" rel="alternate" title="Uses This" type="application/atom+xml">
     <link href="https://wafer.baby/@d" rel="me">
-    <link href="https://usesthis.com<%= @page.url %>" rel="canonical">
+    <link href="https://usesthis.com<%= @page.url %>" rel="canonical" itemprop="url">
   <% if @pagination %>
     <% if @pagination.urls[:previous_page] %><link rel="prev" href="<%= @pagination.urls[:previous_page] %>"><% end %>
     <% if @pagination.urls[:next_page] %><link rel="next" href="<%= @pagination.urls[:next_page] %>"><% end %>
@@ -15,19 +15,23 @@
     <meta name="description" content="A nerdy interview site asking a random selection of people all about the tools and techniques they're using to get things done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @page.categories %>, <%= @page.categories.join(', ') %><% end %>">
-  <% if @page.slug %>
     <meta property="og:title" content="Uses This: <%= @page.title %>">
-    <meta property="og:description" content="<%= @page.summary %>">
-    <meta property="og:type" content="article">
-    <meta property="article:published_time" content="<%= @page.date.iso8601 %>">
-    <% @page.categories.each do |category| %>
-      <meta property="article:tag" content="<%= category %>">
+
+    <% if @page.slug %>
+      <meta property="og:description" content="<%= @page.summary %>">
+      <meta property="og:type" content="article">
+      <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg">
+      <meta property="og:image:type" content="image/jpeg">
+      <meta property="og:image:width" content="500">
+      <meta property="og:image:height" content="335">
+      <meta property="article:published_time" content="<%= @page.date.iso8601 %>">
+      <% @page.categories.each do |category| %>
+        <meta property="article:tag" content="<%= category %>">
+      <% end %>
+    <% else %>
+      <meta property="og:description" content="A nerdy interview site asking a random selection of people all about the tools and techniques they're using to get things done">
+      <meta property="og:type" content="website">
     <% end %>
-    <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg">
-    <meta property="og:image:type" content="image/jpeg">
-    <meta property="og:image:width" content="500">
-    <meta property="og:image:height" content="335">
-  <% end %>
   </head>
   <body>
     <header id="masthead">
