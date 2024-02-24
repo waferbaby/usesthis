@@ -58,5 +58,5 @@ Apart from that - looking around at the world today - I can't shake the feeling 
 [sh-101]: https://en.wikipedia.org/wiki/Roland_SH-101 "A bass synth."
 [tr-808]: https://en.wikipedia.org/wiki/Roland_TR-808 "A drum machine."
 [tr-909]: https://en.wikipedia.org/wiki/Roland_TR-909 "A drum machine."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."

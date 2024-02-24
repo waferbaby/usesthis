@@ -49,7 +49,7 @@ Part of the job I ask my gadgets to do is to be like Tom Sawyer. I want them to 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [comic-zeal-ios]: http://www.bitolithic.com/comic-zeal "A comic book reader app."
 [comixology-submit]: http://web.archive.org/web/20230530101359/https://support.comixology.com:443/hc/en-us/sections/360007296433-Comixology-Submit "An online tool for publishing comics on the ComiXology service."
-[comixology]: https://www.amazon.com:443/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top "A digital comic service."
+[comixology]: https://en.wikipedia.org/wiki/ComiXology "A digital comic service."
 [day-one]: https://apps.apple.com/us/app/day-one/id422304217 "Personal journal software."
 [dragondrop]: http://web.archive.org/web/20221205105740/https://twitter.com/dragondropapp "A Mac tool for simplifying drag and drop operations."
 [gumroad]: https://gumroad.com/ "A site for selling goods and services."

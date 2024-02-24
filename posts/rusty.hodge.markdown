@@ -122,7 +122,7 @@ That would all be pretty nice.
 [superduper]: https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html "An excellent Mac backup/cloning application."
 [system-6]: http://web.archive.org/web/20230408024416/http://www.amazon.com/Tamrac-5606-System-Camera-Black/dp/B00004X10C/ "A carry bag for DSLRs."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [twhirl]: http://web.archive.org/web/20230427235824/http://www.twhirl.org/ "An AIR-based Twitter client."
 [twitter-mac]: https://apps.apple.com/us/app/twitter/id409789998 "A Mac client for Twitter."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."

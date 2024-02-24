@@ -52,7 +52,7 @@ Overall getting the setup to be slightly more "Hollywood" would be nice but not 
 [soundtoys]: https://www.soundtoys.com/ "A collection of audio plugins."
 [tlm-103]: https://www.neumann.com/?cid=tlm103_description&id=current_microphones&lang=en "A studio microphone."
 [traktor-kontrol-s4]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s4/ "A hardware/software DJ system."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [unreal-engine]: http://web.archive.org/web/20200128005753/https://www.unrealengine.com/en-US/what-is-unreal-engine-4 "A 3D game engine."
 [vision]: https://en.wikipedia.org/wiki/Vision_(game_engine) "A video game engine."

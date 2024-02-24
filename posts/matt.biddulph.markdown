@@ -65,7 +65,7 @@ I think pico-projectors are going to get really good soon - I've seen impressive
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [time-capsule]: https://www.apple.com/mac/ "A WiFi access point and backup system."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [tuffmail]: http://web.archive.org/web/20211224031225/http://tuffmail.com/ "Email hosting."
 [twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."
 [vagrant]: https://www.vagrantup.com/ "Software for building and installing virtual dev environments."

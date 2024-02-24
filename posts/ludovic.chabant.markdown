@@ -125,7 +125,7 @@ On the software front, I'm also mostly OK, with the exception of iOS which alway
 [c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [clang]: https://clang.llvm.org/ "A C/C++ frontend for the LLVM compiler."
-[comixology]: https://www.amazon.com:443/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top "A digital comic service."
+[comixology]: https://en.wikipedia.org/wiki/ComiXology "A digital comic service."
 [day-pack]: http://web.archive.org/web/20230623142847/https://www.aersf.com/day-pack-black "A backpack."
 [deathadder-left-handed]: http://web.archive.org/web/20201113173432/https://www.razer.com/gaming-mice/razer-deathadder-left-hand-edition/ "A left-handed gaming mouse."
 [discord]: https://discord.com/ "A voice and text chat service."

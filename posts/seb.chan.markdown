@@ -79,7 +79,7 @@ Probably the best thing, though, would be a teleportation device - intercontinen
 [steam]: https://store.steampowered.com/ "A digital game distribution service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [tweetdeck-ios]: http://web.archive.org/web/20220210082641/https://apps.apple.com/gb/app/tweetdeck-by-twitter/id485812721 "A Twitter/Facebook client for iOS."
 [twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
 [vice]: http://web.archive.org/web/20230813115704/https://viceteam.org/ "Emulation software for old 8-bit computer systems (like the C64)."

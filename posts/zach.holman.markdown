@@ -78,5 +78,5 @@ Seriously, my main goal in everything in life is battery life. I bumped up to th
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [sinatra]: https://sinatrarb.com/ "A lightweight Ruby web framework."
 [traktor-kontrol-s4]: https://www.native-instruments.com/en/products/traktor/dj-controllers/traktor-kontrol-s4/ "A hardware/software DJ system."
-[traktor-pro]: http://web.archive.org/web/20190506071646/https://www.amazon.com/Native-Instruments-17642-TRAKTOR-PRO/dp/B001JD43Z0 "DJ software."
+[traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
 [x100s]: http://web.archive.org/web/20160225034951/http://www.fujifilm.com:80/products/digital_cameras/x/fujifilm_x100s/ "A 16 megapixel digital camera."

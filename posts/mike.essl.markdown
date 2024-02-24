@@ -60,7 +60,7 @@ To be honest this is my dream set up. I would love a newer iMac with a larger re
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [codekit]: https://codekitapp.com/ "A web developer toolkit for Mac OS X."
 [comicbooklover]: http://web.archive.org/web/20161125151158/http://www.bitcartel.com:80/comicbooklover/ "A Mac OS X comic reader."
-[comixology]: https://www.amazon.com:443/kindle-dbs/comics-store/home?_encoding=UTF8&merchant=&ref=nav_ya_signin&#nav-top "A digital comic service."
+[comixology]: https://en.wikipedia.org/wiki/ComiXology "A digital comic service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
 [finder]: https://en.wikipedia.org/wiki/Finder_(software) "A file manager included with Mac OS X."
