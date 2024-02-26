@@ -66,7 +66,7 @@ A car navigation system that alternated between the voice of Ira Glass and Morga
 [methode]: http://web.archive.org/web/20230706202049/https://www.eidosmedia.com/platforms/ "A content management system used by newspapers."
 [omnigraffle]: https://www.omnigroup.com/omnigraffle/ "Diagramming software for the Mac."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[slingbox-500]: http://web.archive.org/web/20230121100642/https://www.amazon.com/Sling-Media-SB500-100-Slingbox-500/dp/B009FU8BR0 "An Internet-connection set top box."
+[slingbox-500]: https://en.wikipedia.org/wiki/Sling_Media#SlingTV_and_the_Slingbox_500 "An Internet-connection set top box."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [zebra-number-2-mechanical-pencil-0.7mm]: http://web.archive.org/web/20190508180231/https://www.amazon.com/Zebras-Zebra-Mechanical-Pencil-51391/dp/B001BZ4RJS "A mechanical pencil."

@@ -34,7 +34,7 @@ Lots of floor space to spread out paper and draw with markers, lots of plants an
 
 [3ds]: https://www.nintendo.com/store/ "A portable gaming console with a 3D screen."
 [airbnb]: http://web.archive.org/web/20230816183121/https://www.airbnb.com/ "An accommodation service."
-[animal-crossing-new-leaf]: http://web.archive.org/web/20230723173437/https://www.amazon.com/Animal-Crossing-New-Leaf-Nintendo-3DS/dp/B0053BCML6 "A cute sim game for the 3DS."
+[animal-crossing-new-leaf]: https://en.wikipedia.org/wiki/Animal_Crossing%3A_New_Leaf "A cute sim game for the 3DS."
 [av-1]: https://en.wikipedia.org/wiki/Canon_AV-1 "A film camera."
 [ef-35mm-f2-is-usm]: http://web.archive.org/web/20151022043249/http://www.usa.canon.com:80/cusa/consumer/products/cameras/ef_lens_lineup/ef_35mm_f_2_is_usm "A wide-angle camera lens."
 [eos-rebel-t3]: https://en.wikipedia.org/wiki/Canon_EOS_1100D "A 12.2 megapixel DSLR."

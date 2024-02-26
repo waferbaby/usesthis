@@ -73,7 +73,7 @@ Maybe I'm really talking about a [Hackintosh](https://hackintosh.com/ "A site li
 [cloudflare]: http://web.archive.org/web/20230525002940/https://www.cloudflare.com/ "A security and content delivery service."
 [dd-wrt]: http://web.archive.org/web/20180521190036/https://www.dd-wrt.com/site/index "A alternative Linux-based firmware for routers."
 [elasticsearch]: http://web.archive.org/web/20230815140403/https://www.elastic.co/elasticsearch/ "Distributed search engine software."
-[fire-tv-stick]: http://web.archive.org/web/20230130044925/https://www.amazon.com/Amazon-Fire-TV-Stick-With-Alexa-Voice-Remote-Streaming-Media-Player/dp/B00ZV9RDKK/ "A device for streaming media to a TV."
+[fire-tv-stick]: https://en.m.wikipedia.org/wiki/Amazon_Fire_TV#Fire_TV_Stick "A device for streaming media to a TV."
 [flipboard-ios]: https://apps.apple.com/us/app/flipboard-your-social-news/id358801284 "A 'social magazine' for the iPad."
 [fortran]: https://en.wikipedia.org/wiki/Fortran "A compiled programming language."
 [gdal]: https://gdal.org/ "A library for translating geospatial data formats."
