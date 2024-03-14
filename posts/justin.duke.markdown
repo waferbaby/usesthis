@@ -3,7 +3,8 @@ title: Justin Duke
 summary: Founder/CEO (Buttondown)
 date: 2024-02-26
 categories:
-- developer 
+- developer
+- mac
 ---
 
 ### Who are you, and what do you do?
