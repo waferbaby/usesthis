@@ -141,6 +141,7 @@ img.detail, img.portrait {
 }
 
 input[type=search] {
+  width: 100%;
   background-color: var(--divider-colour);
 }
 
