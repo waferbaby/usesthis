@@ -8,7 +8,9 @@ categories:
 
 ### Who are you, and what do you do?
 
-My name is [Debra Broz](https://www.debrabroz.com/ "Debra's website.") and I'm an artist and ceramics restorer. I've been doing ceramics restoration since late 2005, and I mostly work with private clients (art and antiques collectors, people who have sentimental items that are damaged). Ceramics restoration is done with "cold" techniques so I don't use a kiln or any clay or traditional glazes. The process is sort of like _trompe l'oeil_ - I'm using epoxy clay, acrylic paints and mediums to make the restored areas look like the original ceramic. I had an art degree before I learned ceramics restoration and was already making art, but when I learned restoration that was when I started working with figurines to make sculptures. I use mostly mid-century kitsch animal figurines and combine them into reimagined versions of their former selves. The works are funny in sort of an uncanny valley, mad-science sort of way.
+My name is [Debra Broz](https://www.debrabroz.com/ "Debra's website.") and I'm an artist and ceramics restorer. I've been doing ceramics restoration since late 2005, and I mostly work with private clients (art and antiques collectors, people who have sentimental items that are damaged). Ceramics restoration is done with "cold" techniques so I don't use a kiln or any clay or traditional glazes. The process is sort of like _trompe l'oeil_ - I'm using epoxy clay, acrylic paints and mediums to make the restored areas look like the original ceramic.
+
+I had an art degree before I learned ceramics restoration and was already making art, but when I learned restoration that was when I started working with figurines to make sculptures. I use mostly mid-century kitsch animal figurines and combine them into reimagined versions of their former selves. The works are funny in sort of an uncanny valley, mad-science sort of way.
 
 ### What hardware do you use?
 
