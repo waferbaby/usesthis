@@ -1,0 +1,5 @@
+{
+  "name": "ClangSharpPInvokeGenerator",
+  "description": "Clang bindings in C#.",
+  "url": "https://www.nuget.org/packages/ClangSharpPInvokeGenerator"
+}
