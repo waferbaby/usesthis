@@ -12,25 +12,23 @@
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <meta name="description" content="A nerdy interview site asking a random selection of people all about the tools and techniques they're using to get things done">
+    <meta name="description" content="A nerdy collection of interviews asking a random selection of people all about the tools and techniques they're using to get things done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @page.categories %>, <%= @page.categories.join(', ') %><% end %>">
-    <meta property="og:title" content="Uses This: <%= @page.title %>">
 
     <% if @page.slug %>
-      <meta property="og:description" content="<%= @page.summary %>">
-      <meta property="og:type" content="article">
-      <meta property="og:image:url" content="https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg">
-      <meta property="og:image:type" content="image/jpeg">
-      <meta property="og:image:width" content="500">
-      <meta property="og:image:height" content="335">
-      <meta property="article:published_time" content="<%= @page.date.iso8601 %>">
-      <% @page.categories.each do |category| %>
-        <meta property="article:tag" content="<%= category %>">
-      <% end %>
+      <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "name": "Interview with <%= @page.title %>",
+        "description": "<%= @page.summary %>",
+        "datePublished": "<%= @page.date.strftime('%Y-%m-%dT%H%M%S%z') %>",
+        "author": "Daniel Bogan",
+        "image": ["https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg"]
+      }
+      </script>
     <% else %>
-      <meta property="og:description" content="A nerdy interview site asking a random selection of people all about the tools and techniques they're using to get things done">
-      <meta property="og:type" content="website">
     <% end %>
   </head>
   <body>
