@@ -1,6 +1,6 @@
 ---
 title: Robert W Gehl
-summary:
+summary: Professor (Communication and Media Studies)
 date: 2024-08-29
 categories:
 - linux
