@@ -29,7 +29,7 @@ All told, it's more than I need. But each tool came at a particular time, for a 
 
 Mostly [VS Code][visual-studio-code] and [iTerm2][] for coding. I've started using [Vivaldi][] as my primary browser, because I like to customize everything – and I didn't like where [Arc][arc.2] was headed. But I spend a lot of time in the Mozilla dev tools. How are they still the only ones with good flexbox and webfont inspectors? I've been using [the Alfred launcher][alfred] for years. I know there are more popular options now, but I haven't seen any reason to switch. [1Password][], [Bartender][], probably a few other utilities.
 
-I use Notion Calendar (née Cron) but I'm skeptical. I want something with a year view. I recently switched to [Obsidian][] for organizing my personal life, and that's working well. We use [Slack][] at OddBird, and [Coda][] for Grapefruit Lab. Files are all on [Dropbox][]. When I do graphic design, I'm most familiar with [the Adobe suite][creative-suite] – but I'm learning my way around [Figma][]. This paragraph gives me anxiety. Obsidian is the only tool I'm not renting. The rest can be ripped away from me, or destroyed by VCs, and I have to start from scratch. I hate modern software.
+I use [Notion Calendar][notion-calendar] (née Cron) but I'm skeptical. I want something with a year view. I recently switched to [Obsidian][] for organizing my personal life, and that's working well. We use [Slack][] at OddBird, and [Coda][] for Grapefruit Lab. Files are all on [Dropbox][]. When I do graphic design, I'm most familiar with [the Adobe suite][creative-suite] – but I'm learning my way around [Figma][]. This paragraph gives me anxiety. Obsidian is the only tool I'm not renting. The rest can be ripped away from me, or destroyed by VCs, and I have to start from scratch. I hate modern software.
 
 I run a [Mastodon][] server, using [Masto.host][]. At OddBird, the tool stack depends on the project. But most of my personal sites are built with [Eleventy][], because it's flexible and doesn't generate any output that I didn't ask for. I use [Sass][] for the same reasons. I don't like when my build tools generate code that I don't understand. I'm on my third or fourth iteration of self-built web-based presentation software – now using web components! HTML and CSS do what I need in a way that [PowerPoint][] & [Keynote][] will never understand. The web is pretty cool.
 
@@ -73,6 +73,7 @@ That ought to cover it. I don't need more hardware.
 [moonlander]: https://www.zsa.io/moonlander/ "An ergonomic mechanical keyboard."
 [mx-master-3]: http://web.archive.org/web/20200818170656/https://www.logitech.com/en-us/product/mx-master-3.910-005620.html "A wireless mouse."
 [mx-vertical]: https://www.logitech.com/en-us/product/mx-vertical-ergonomic-mouse.html "A vertical mouse."
+[notion-calendar]: https://www.notion.so/product/calendar/ "An online calendar service."
 [obsidian]: https://obsidian.md/ "Note-taking software."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [prompter]: https://www.elgato.com/ww/en/p/prompter "A teleprompter device."
