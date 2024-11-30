@@ -17,18 +17,11 @@
     <meta name="keywords" content="interview, setup<% if @page.categories %>, <%= @page.categories.join(', ') %><% end %>">
 
     <% if @page.slug %>
-      <script type="application/ld+json">
-      {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "name": "Interview with <%= @page.title %>",
-        "description": "<%= @page.summary %>",
-        "datePublished": "<%= @page.date.strftime('%Y-%m-%dT%H%M%S%z') %>",
-        "author": "Daniel Bogan",
-        "image": ["https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg"]
-      }
-      </script>
-    <% else %>
+      <meta property="og:url" content="https://usesthis.com/interviews/<%= @page.slug %>/">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Uses This / <%= @page.title %>">
+      <meta property="og:description" content="<%= @page.summary %>">
+      <meta property="og:image" content="https://usesthis.com/images/interviews/<%= @page.slug %>.jpg">
     <% end %>
   </head>
   <body>
