@@ -1,2 +1,3 @@
-output:
-  posts: './site/interviews'
+build: '/srv/http/usesthis/'
+pathnames:
+  posts: 'interviews'
