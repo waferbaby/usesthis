@@ -9,7 +9,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [Kathy Reid](https://blog.kathyreid.id.au/ "Kathy's website.), I'm currently finishing a PhD at [ANU's School of Cybernetics](https://cybernetics.anu.edu.au/ "The School of Cybernetics at the Australian National University."), where I've investigated voice dataset documentation - like metadata and datasheets, from various angles, as a way to help create speech technology that works better for more people. I do a lot of reading and annotation of PDF files - most academic papers, and do a lot of writing in platforms like [Overleaf][] - and I also use [VSCode][visual-studio-code] for writing. I do a lot of my analysis work in platforms like [Jupyter Notebooks][jupyter] and [Observable][].
+I'm [Kathy Reid](https://blog.kathyreid.id.au/ "Kathy's website."), I'm currently finishing a PhD at [ANU's School of Cybernetics](https://cybernetics.anu.edu.au/ "The School of Cybernetics at the Australian National University."), where I've investigated voice dataset documentation - like metadata and datasheets, from various angles, as a way to help create speech technology that works better for more people. I do a lot of reading and annotation of PDF files - most academic papers, and do a lot of writing in platforms like [Overleaf][] - and I also use [VSCode][visual-studio-code] for writing. I do a lot of my analysis work in platforms like [Jupyter Notebooks][jupyter] and [Observable][].
 
 In my spare time, I tinker a bit with technologies like wearable computing - so Lilypad and Arduino pieces, and yes, I have a [Flipper Zero][flipper-zero], although I haven't had time to explore it in any great detail.
 
