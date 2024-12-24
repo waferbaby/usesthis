@@ -44,7 +44,7 @@ If there was a gun to my head and cash on the table, I could easily throw a hund
 
 [b1]: http://studioprojects.com/b1.html "A condenser microphone."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [metafilter]: https://www.metafilter.com/ "A community website."
 [natural-keyboard]: https://en.wikipedia.org/wiki/Microsoft_Natural_keyboard "An older ergonomic keyboard."
@@ -53,5 +53,5 @@ If there was a gun to my head and cash on the table, I could easily throw a hund
 [pico-8]: https://www.lexaloffle.com/pico-8.php "A software gaming console."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [vi]: https://en.wikipedia.org/wiki/Vi "A command-line text editor."

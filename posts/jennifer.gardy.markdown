@@ -35,8 +35,8 @@ My dream setup is something that properly and seamlessly allows me to move betwe
 Although really, let's be honest - if I can reliably find great cat videos on it, it's a dream setup.
 
 [fasttree]: http://www.microbesonline.org/fasttree/ "Software for working with nucleotide and protein sequences."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
-[google-home]: https://store.google.com/product/google_home "A voice assistant device."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[google-home]: http://web.archive.org/web/20190618004708/https://store.google.com/product/google_home?hl=ja "A voice assistant device."
 [icloud]: https://www.apple.com/icloud/ "A cloud service."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

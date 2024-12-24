@@ -33,9 +33,9 @@ Recently, I've been using a program called Workrave to help me time work breaks,
 My current setup is actually pretty close to my dream! All I'd want to add is a better graphics card (and a better PSU so it'll work), maybe that new Cintiq 13HD, and a comfortable drafting chair for when I need to sit down. Maybe a plusher carpet for my feet when I'm standing too!
 
 [animation-shop]: https://www.softpedia.com/get/Multimedia/Graphic/Graphic-Editors/Animation-Shop.shtml "An old animation tool for Windows."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [ipad-3]: https://www.apple.com/ipad/ "A tablet device with a retina display."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
-[painter]: https://www.painterartist.com/en/product/paint-program/ "Digital art software."
+[painter]: http://web.archive.org/web/20230727020252/https://www.painterartist.com/en/product/painter/ "Digital art software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

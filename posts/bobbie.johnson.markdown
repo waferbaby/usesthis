@@ -47,14 +47,14 @@ Slightly more realistically, I'd like my setup to be even more portable than it 
 
 Actually, despite everything, that's not a great deal more realistic than the cybernetic thing. In which case, yeah, I'd also like the moon on a stick, please.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [teuxdeux]: https://teuxdeux.com/ "A simple, classy to-do web application."
-[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
-[writeroom]: http://www.hogbaysoftware.com/products/writeroom "Full-screen writing software."
+[writeroom]: http://web.archive.org/web/20230717210502/https://www.hogbaysoftware.com/products/writeroom/ "Full-screen writing software."

@@ -25,8 +25,8 @@ I'm pretty happy where I am at now. I would like to add more scenes, maybe even 
 
 The thing that I used to love about my laptop was that I could do these things whilst sitting on the couch. Whilst I love the iMac and it's the best purchase I have made in a while, I hate having to sit at a desk. Maybe I could get a cheap laptop just to stuff around, but I need more bookings to buy one, so BOOK ME.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
-[stream-deck]: https://www.elgato.com/en/gaming/stream-deck "A programmable keyboard with 15 LCD keys."
+[stream-deck]: https://www.elgato.com/us/en/p/stream-deck-mk2-black "A programmable keyboard with 15 LCD keys."
 [zoom.2]: https://zoom.us "Video conferencing software."

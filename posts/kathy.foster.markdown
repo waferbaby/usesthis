@@ -27,17 +27,17 @@ I haven't used much software lately, except [Photoshop][]. I used to work with [
 
 My dream set-up is not so much about specific gear or equipment, though I love 60's-70's vintage shit. My dream is to have the perfect, cozy space where everything is set up and ready to use all the time - guitar, bass, drums, pedals, mics, recording gear, etc. I'm working towards that now. I've had it in the past and it makes a world of difference to be able to act upon inspiration when it hits. It's been a long time since I've been able to set up a space like that. I'm looking forward to getting to that place again.
 
-[blues-junior-iii]: https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
+[blues-junior-iii]: http://web.archive.org/web/20210618204947/https://www.fender.com/guitar-amplifiers/contemporary/blues-junior-iii/product-2230500.html "A guitar amp."
 [dd-3]: https://www.boss.info/us/products/dd-3/ "A guitar delay pedal."
-[gemini]: https://www.guitarcenter.com/Used/Ampeg/Vintage-GEMINI-1-MODEL-G12-Tube-Guitar-Combo-Amp.gc "A guitar amp."
+[gemini]: http://web.archive.org/web/20190506094422/https://www.guitarcenter.com/Used/Ampeg/Vintage-GEMINI-1-MODEL-G12-Tube-Guitar-Combo-Amp.gc "A guitar amp."
 [gibson-sg]: https://en.wikipedia.org/wiki/Gibson_SG "An electric guitar."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [jazz-bass]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "An electric bass."
-[jet]: http://thestereoclub.blogspot.com.au/2009/07/alamo-jet-guitar-amp.html "A guitar amp."
+[jet]: http://thestereoclub.blogspot.com/2009/07/alamo-jet-guitar-amp.html "A guitar amp."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [sd-1]: https://www.boss.info/us/products/sd-1/ "A guitar pedal."
-[svt-cl]: http://www.ampeg.com/products/classic/svtcl/ "A bass amp."
+[svt-cl]: http://web.archive.org/web/20230328204030/https://ampeg.com/products/classic/svtcl/ "A bass amp."
 [telecaster]: https://en.wikipedia.org/wiki/Fender_Telecaster "An electric guitar."
 [tube-screamer]: https://en.wikipedia.org/wiki/Ibanez_Tube_Screamer "A guitar pedal."

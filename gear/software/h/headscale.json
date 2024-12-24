@@ -1,0 +1,5 @@
+{
+  "name": "Headscale",
+  "description": "An open source version of the Tailscale control server.",
+  "url": "https://github.com/juanfont/headscale"
+}

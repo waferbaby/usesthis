@@ -31,12 +31,12 @@ I also feel it is of import to mention that I'm still using [Final Cut 7][final-
 I would like a bungalow on a studio lot I could smoke cigarettes inside. I'd keep everything else the same.
 
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[government-pen]: https://www.amazon.com/Skilcraft-Government-Retractable-Point-7520-00-935-7135/dp/B0055KSNYK "A ballpoint pen."
-[hl-2170w]: https://www.brother-usa.com/Printer/ModelDetail/1/hl2170W/Overview "A laser printer."
+[government-pen]: http://web.archive.org/web/20221016080020/https://www.amazon.com/Skilcraft-Government-Retractable-Point-7520-00-935-7135/dp/B0055KSNYK "A ballpoint pen."
+[hl-2170w]: https://www.brother-usa.com/products/hl2170w "A laser printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mindmanager-mac]: https://www.mindjet.com/mindmanager/ "A mind mapping tool for the Mac."
-[sm-3]: http://mytypewriter.com/olympiasm3and4.aspx "A typewriter."
+[mindmanager-mac]: https://www.mindmanager.com/en/product/mindmanager/ "A mind mapping tool for the Mac."
+[sm-3]: http://web.archive.org/web/20230420133240/http://mytypewriter.com/olympiasm3and4.aspx "A typewriter."
 [stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
-[writerduet]: https://writerduet.com/ "A collaborative screenwriting service."
+[writerduet]: https://www.writerduet.com "A collaborative screenwriting service."

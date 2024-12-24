@@ -24,16 +24,16 @@ It's software that makes me want to be Apple-only. The apps I rely on tend to be
 
 A dream setup! I think about this all the time. I think it would be a 2 or 3 computer set up, which I know is ludicrous, but this is a dream setup, right? In an ideal world, I'd have a high end [27" 5K iMac][imac] on a very minimalist desk setup. Then for mobile, I'd love a 13" (or 14") [MacBook Pro][macbook-pro] for working in coffee shops etc. (when we can do things like that again), and also an [iPad Pro][ipad-pro] with a [Pencil][] to sketch out ideas and just write by hand when I felt like it. My actual computing needs as a writer are very basic - hence me mostly surviving on an old MacBook Air! - but it would be nice to just have really fast, responsive hardware to work on.
 
-[bear]: http://www.bear-writer.com "A note taking application for macOS."
-[day-one]: https://itunes.apple.com/us/app/day-one/id422304217 "Personal journal software."
+[bear]: https://bear.app/ "A note taking application for macOS."
+[day-one]: https://apps.apple.com/us/app/day-one/id422304217 "Personal journal software."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
-[onenote]: https://www.onenote.com/ "Synced notes software (part of Office)."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[onenote]: https://www.onenote.com/signin?wdorigin=ondc "Synced notes software (part of Office)."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [spark.2]: https://sparkmailapp.com "A Mac email client."
 [typora]: https://typora.io/ "A web-based Markdown editor."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

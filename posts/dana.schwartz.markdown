@@ -32,6 +32,6 @@ A giant, very neat, gorgeous desk with fresh flowers and a notebook and a black 
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[twitter-ios]: https://itunes.apple.com/app/twitter/id333903271 "A Twitter client."
-[word]: https://products.office.com/en-us/word "A document editor."
+[twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

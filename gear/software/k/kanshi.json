@@ -1,0 +1,5 @@
+{
+  "name": "kanshi",
+  "description": "Wayland software for switching profiles when switching monitors.",
+  "url": "https://git.sr.ht/~emersion/kanshi/"
+}

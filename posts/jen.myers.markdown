@@ -29,7 +29,7 @@ For coding, I rely on [Sublime Text][sublime-text] and [iTerm][iterm2]. Websites
 
 I think pretty much already have it. I like to keep things simple, modular and portable, with good but relatively inexpensive tools that can I can easily get more of when I need them. Maybe I'd like a fancy studio with lots of light and lots of tea. And a cat.
 
-[airmail]: http://airmailapp.com/ "A mail client for the Mac."
+[airmail]: https://airmailapp.com/ "A mail client for the Mac."
 [bullet-journal]: https://bulletjournal.com/ "An organisational notebook."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
@@ -40,4 +40,4 @@ I think pretty much already have it. I like to keep things simple, modular and p
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pluralsight]: https://www.pluralsight.com "An online tech training service."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[sunrise]: https://itunes.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."
+[sunrise]: https://apps.apple.com/app/sunrise-calendar/id886106985 "A Mac app for viewing your Google Calendar."

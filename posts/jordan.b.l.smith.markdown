@@ -61,8 +61,8 @@ I pretty much had my dream setup working in Japan at [AIST](https://www.aist.go.
 - In earshot of colleagues.
 - Cafe or convenience store a short walk away.
 
-[bibdesk]: http://bibdesk.sourceforge.net/ "A bibliography manager for Mac OS X."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[bibdesk]: http://web.archive.org/web/20171222143442/http://bibdesk.sourceforge.net:80/ "A bibliography manager for Mac OS X."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [github]: https://github.com/ "A Git code repository service."
@@ -73,12 +73,12 @@ I pretty much had my dream setup working in Japan at [AIST](https://www.aist.go.
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
-[my-passport]: https://www.amazon.com/Passport-Portable-External-Drive-Storage/dp/B006Y5UV4A "A portable hard drive."
-[nexus-5x]: https://www.google.com/nexus/5x/ "A 5.2 inch Android smartphone."
+[my-passport]: http://web.archive.org/web/20230207075708/https://www.amazon.com/Passport-Portable-External-Drive-Storage/dp/B006Y5UV4A "A portable hard drive."
+[nexus-5x]: http://web.archive.org/web/20210415003459/https://store.google.com/ "A 5.2 inch Android smartphone."
 [nutrimatic]: https://nutrimatic.org/ "A web tool for matching patterns against a dictionary of words."
 [onelook]: https://www.onelook.com/ "A dictionary lookup service."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[unmixer]: https://unmixer.ongaaccel.jp/ "A tool for extracting loops from songs."
+[unmixer]: http://web.archive.org/web/20220121225621/https://unmixer.ongaaccel.jp/ "A tool for extracting loops from songs."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

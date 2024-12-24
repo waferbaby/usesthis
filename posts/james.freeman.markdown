@@ -30,10 +30,10 @@ Since I was working at home most of the day, I made and drank pourovers of two s
 
 I feel fortunate that, in terms of hardware, my aspirations are beneath my accomplishments. I would have to think long and hard to change my current coffee gear one iota.
 
-[aws-scale]: https://bluebottlecoffee.com/products/aws-scale "A set of scales."
-[ceramic-dripper]: https://bluebottlecoffee.com/products/bonmac-ceramic-dripper "A coffee dripper."
+[aws-scale]: http://web.archive.org/web/20140804090040/http://www.bluebottlecoffee.com/products/aws-scale "A set of scales."
+[ceramic-dripper]: http://web.archive.org/web/20140804081729/http://www.bluebottlecoffee.com/products/bonmac-ceramic-dripper "A coffee dripper."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
-[kenaf-filters]: https://www.bluebottlecoffee.com/products/bonmac-4-filters "Coffee filters."
+[kenaf-filters]: http://web.archive.org/web/20140804065004/http://www.bluebottlecoffee.com/products/bonmac-4-filters "Coffee filters."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
-[porlex-mini]: https://www.bluebottlecoffee.com/products/porlex-mini-hand-grinder "A mini coffee grinder."
-[takahiro-kettle]: https://www.bluebottlecoffee.com/products/takahiro-kettle "A fancy kettle."
+[porlex-mini]: http://web.archive.org/web/20140804070221/http://www.bluebottlecoffee.com/products/porlex-mini-hand-grinder "A mini coffee grinder."
+[takahiro-kettle]: http://web.archive.org/web/20140804063657/http://www.bluebottlecoffee.com/products/takahiro-kettle "A fancy kettle."

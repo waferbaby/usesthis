@@ -30,5 +30,5 @@ I'm pretty vanilla - the most exciting software I use is probably [SelfControl][
 Desert island, soft breezes, lots of cultural institutions a short walk away... and probably what I have now in terms of double monitor, fast Mac and a big room to work in. Also, a standing desk. Very important.
 
 [loomo]: https://www.indiegogo.com/projects/loomo-mini-transporter-meets-robot-sidekick#/ "An AI-powered personal transport device."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
 [selfcontrol]: https://selfcontrolapp.com/ "Mac software to keep you away from distracting websites."

@@ -43,16 +43,16 @@ I'd be happy with the following magical machine: a 1.5lb 17" tablet with 10 hour
 
 Can you imagine carrying such a thing as your only machine? Alternatively when you get home, it seamlessly syncs with your 40" standing drafting desk whose surface is just another always connected window into your network of projects. I'm not as interested in augmented reality or virtual reality. Ultimately I want to be working with my hands manipulating physical objects.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [realm-of-the-mad-god]: https://www.realmofthemadgod.com/ "A co-op MMO shooter game."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[steambirds-survival]: http://spryfox.com/our-games/steambirds-survival/ "A turn-based aerial combat game."
-[thinkpad-t530]: http://shop.lenovo.com/us/en/laptops/thinkpad/t-series/t530/ "A 15.6 inch PC laptop."
-[triple-town]: http://spryfox.com/our-games/tripletown/ "A three-matching city-building puzzle game."
+[steambirds-survival]: http://web.archive.org/web/20210125064124/https://spryfox.com/our-games/steambirds-survival/ "A turn-based aerial combat game."
+[thinkpad-t530]: http://web.archive.org/web/20210622205307/https://www.lenovo.com/us/en/laptops/thinkpad/t-series/t530/ "A 15.6 inch PC laptop."
+[triple-town]: https://spryfox.com/our-games/tripletown/ "A three-matching city-building puzzle game."
 [tyrian]: https://en.wikipedia.org/wiki/Tyrian_(video_game) "A scrolling shooter game."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
-[word]: https://products.office.com/en-us/word "A document editor."
+[unity]: https://unity.com/products "A cross-platform game development tool."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

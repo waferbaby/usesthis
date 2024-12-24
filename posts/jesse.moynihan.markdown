@@ -30,7 +30,7 @@ My dream setup would just be more ergonomic than what I have going on in my livi
 
 I fantasize sometimes about having a lifestyle setup like [Osama Tezuka](https://www.youtube.com/watch?v=yULt_h3E_Ag "A YouTube video about Osama Tezuka.") (check it out at around the 1 minute mark), where he worked in a small studio and no one was allowed inside except for him. Ah! That would be bliss! Then, if I'm feeling stir-crazy, I could walk down to the local coffee shop and draw there, which is what I do at some point everyday in order to remind myself that I'm part of the world.
 
-[expression-11000xl]: http://www.epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
+[expression-11000xl]: https://epson.com/cgi-bin/Store/jsp/Product/Overview.do?BV_UseBVCookie=yes&sku=E11000XL-PH "A large-format scanner."
 [genesis.xgi]: http://grexusa.com/grexairbrush/products.php5?id=Genesis.XGi "A dual action airbrush."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

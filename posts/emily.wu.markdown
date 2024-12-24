@@ -34,13 +34,13 @@ We are working on a non-linear pipeline that will allow more collaboration and c
 
 Our founder Jimmy Lai believes that animation is the future of news. To keep up with each breaking news of the day, we need as much hardware, software, creativity and expertise as we can to make this possible. We have come a long way since NMA first began operation in 2009, as we are now seeing more television broadcasters utilizing this medium to explain news as part of their evening broadcast.
 
-[3ds-max]: https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
+[3ds-max]: http://web.archive.org/web/20221224201800/https://www.autodesk.com/products/3ds-max/overview "3D modelling and animation software."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[light-stage]: http://gl.ict.usc.edu/LightStages/ "A hardware system for capturing and rendering people's faces."
-[motionbuilder]: https://www.autodesk.com/products/motionbuilder/overview "Character animation/modelling software."
-[nuendo]: https://www.steinberg.net/en/products/nuendo_range/nuendo/start.html "Audio workstation software."
+[light-stage]: http://web.archive.org/web/20190506091053/http://gl.ict.usc.edu/LightStages/ "A hardware system for capturing and rendering people's faces."
+[motionbuilder]: http://web.archive.org/web/20221224070514/https://www.autodesk.com/products/motionbuilder/overview "Character animation/modelling software."
+[nuendo]: https://www.steinberg.net/nuendo/ "Audio workstation software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

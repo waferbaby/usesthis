@@ -32,16 +32,16 @@ Everything else: I use [Textmate][] to write code, [Day One][day-one-ios] on my 
 
 My dream set up is slightly unrealistic, but perhaps I'll realize it someday (this would be my _dream-dream_ set up, not like a _potentially-in-the-near-future-ish_ set up). Basically, I'd want an art store like Flax to provide an endless amount of art supplies. I'd have an entire wall serve as a chalkboard, another wall covered in blank canvases for painting, and a third covered in paper for sketching or pinning inspiration up on. The fourth would be a window. I'd also have my Cintiq and computers as is, and a gigantic plotter to print my art out on. There might be something in the corner like a hammock in the corner where I could take quick naps as well. That's important. :)
 
-[carousel.2]: https://carousel.dropbox.com/ "A photo sharing service from Dropbox."
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
-[day-one-ios]: https://itunes.apple.com/us/app/day-one-journal/id421706526 "A journal app."
+[carousel.2]: https://www.dropbox.com/ "A photo sharing service from Dropbox."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[day-one-ios]: https://apps.apple.com/us/app/day-one-journal/id421706526 "A journal app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mailbox]: http://www.mailboxapp.com/ "A email client."
+[mailbox]: http://web.archive.org/web/20171224163851/http://www.mailboxapp.com:80/? "A email client."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
 [venmo]: https://venmo.com/ "A payment service."

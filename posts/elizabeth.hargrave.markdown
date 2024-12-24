@@ -39,7 +39,7 @@ I'm still trying to figure that out. I got a big monitor to plug my laptop into 
 So dream setup? A laser cutter to help with prototyping. A desk setup for my laptop that's more ergonomic and inviting than the one I have now. While we're at it, a large-format laser printer, and some more RAM in my computer, because occasionally I'll do something in a giant spreadsheet and it takes longer than it seems like it should. All in a big office with a sunny view and cozy seating by a woodstove, with a good game table for playtesting. Throw in an unlimited supply of thoughtful human playtesters and I'd be in heaven. There are some things tech still can't do for us.
 
 [component-studio]: https://component.studio/ "A tool for prototyping and printing card games."
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-sheets]: https://www.google.com/sheets/about/ "Online spreadsheet software."

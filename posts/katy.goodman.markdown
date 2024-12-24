@@ -29,14 +29,16 @@ I code most stuff using [TextWrangler][]. I love [Terminal][]. I design iPhone a
 
 I would have a sweet desk that has like, 3 monitors, 2 of which are always streaming "The Matrix" (the movie, not just the falling numbers). My chair would be a cloud and my light source calm, indirect sunlight. Plants everywhere. Including a giant vine I would have to climb to ascend to my treehouse computer lab.
 
+[mamp]: windows/ "A one-click Mac solution for Apache, MySQL, PHP."
+
 [cash-music]: https://cashmusic.org/ "An open source platform for musicians."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[mamp]: https://www.mamp.info/en/ "A one-click Mac solution for Apache, MySQL, PHP."
+[mamp]: https://www.mamp.info/en/mamp/mac/ "A one-click Mac solution for Apache, MySQL, PHP."
 [musicmaster]: https://en.wikipedia.org/wiki/Fender_Musicmaster "An electric guitar."
-[php]: https://php.net/ "An interpreted scripting language."
+[php]: https://www.php.net/ "An interpreted scripting language."
 [sequel-pro]: http://www.sequelpro.com/ "A MySQL GUI for the Mac."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."

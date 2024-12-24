@@ -41,15 +41,15 @@ Other than that, I use [Google Docs][google-docs] for literally everything. I sh
 
 Truthfully, I used to just have a netbook that cost me like $150 and had no memory and I was equally happy. I probably wouldn't give up the shower speaker though. Or the two couches. Some day this two-couch theory is going to make me millions.
 
-[alexa]: https://www.arri.com/camera/alexa/cameras/camera_details.html?product=9 "A super high-quality HD video camera."
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[alexa]: https://www.arri.com/en/camera/alexa/cameras/camera_details.html?product=9 "A super high-quality HD video camera."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
+[kindle-paperwhite]: http://web.archive.org/web/20230502144520/https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[rp-hje120]: https://shop.panasonic.com/support-only/RP-HJE120.html#q=RP-HJE&start=1 "In-ear headphones."
-[scripto]: http://scripto.computer/ "A tool for collaboratively writing TV scripts."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[slack]: https://slack.com/ "A collaboration service."
-[yogibo-max]: https://www.yogibo.com/yogibo-max/ "A giant beanbag."
+[rp-hje120]: http://web.archive.org/web/20211016084703/https://shop.panasonic.com/support-only/RP-HJE120.html "In-ear headphones."
+[scripto]: http://web.archive.org/web/20190725231337/https://scripto.computer/ "A tool for collaboratively writing TV scripts."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[yogibo-max]: http://web.archive.org/web/20190726003302/https://www.yogibo.com/yogibo-max/ "A giant beanbag."

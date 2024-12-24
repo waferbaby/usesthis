@@ -28,4 +28,4 @@ I think I might be living the dream. O, sure, it'd be neat if everything, everyt
 [more]: http://outliners.scripting.com/more30.html "Outliner software."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [thinktank]: http://outliners.scripting.com/thinkTank2Pc.html "Outliner software."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

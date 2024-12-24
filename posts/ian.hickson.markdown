@@ -33,13 +33,13 @@ I like to treat the local machine as a dumb terminal. It makes it easier to deal
 
 Anything with low latency and a decent keyboard, really. Honestly the only thing stopping me from editing the spec on my smaller devices is that on-screen keyboards are just unusable.
 
-[advantage]: https://www.kinesis-ergo.com/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
-[chromebook]: http://www.google.com/intl/en/chrome/devices/features/ "A laptop built for only running Web apps."
-[drobo]: http://en.wikipedia.org/wiki/Drobo#Overview "A hardware-based backup system."
+[advantage]: http://web.archive.org/web/20170120131549/http://www.kinesis-ergo.com:80/shop/advantage-for-pc-mac/ "A fancy ergonomic keyboard."
+[chromebook]: http://web.archive.org/web/20120421052503/http://www.google.com:80/intl/en/chromebook/ "A laptop built for only running Web apps."
+[drobo]: https://en.wikipedia.org/wiki/Drobo "A hardware-based backup system."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [irssi]: https://irssi.org/ "A CLI irc client."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pine]: http://www.washington.edu/pine/ "A terminal email/news client."
+[pine]: http://web.archive.org/web/20190328145000/http://www.washington.edu/pine/ "A terminal email/news client."
 [screen]: http://www.gnu.org/software/screen/ "Think of it as tabs for your *nix terminal."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."

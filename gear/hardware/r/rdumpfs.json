@@ -1,5 +1,5 @@
 {
   "name": "rdumpfs",
   "description": "An rsync-based backup tool.",
-  "url": "https://github.com/chneukirchen/rdumpfs"
+  "url": "https://github.com/leahneukirchen/rdumpfs"
 }

@@ -1,5 +1,5 @@
 {
   "name": "Lsyncd",
   "description": "A tool for mirroring file changes.",
-  "url": "https://github.com/axkibe/lsyncd"
+  "url": "https://github.com/lsyncd/lsyncd"
 }

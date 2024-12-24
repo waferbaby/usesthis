@@ -1,0 +1,5 @@
+{
+  "name": "Ruff",
+  "description": "A linter and code formatter for Python.",
+  "url": "https://github.com/astral-sh/ruff"
+}

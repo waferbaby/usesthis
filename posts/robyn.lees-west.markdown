@@ -46,7 +46,7 @@ I think I have my dream setup, to be honest. We moved to Eltham, Victoria (in th
 I actually spend every day hand sewing on the sofa with my dog, with amazing views over trees with cockatoos, lorikeets, kookaburras and king parrots visiting. I can't think of a better setup than that.
 
 [cristal]: https://en.wikipedia.org/wiki/Bic_Cristal "A ballpoint pen."
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [iphone-11-pro]: https://en.wikipedia.org/wiki/IPhone_11_Pro "A 5.8 inch iOS phone."
 [my-excel-18w]: https://www.janomesewingcentre.com.au/shop/sewing-machines/mechanical-sewing-machines/janome-myexcel-3018/ "A sewing machine."

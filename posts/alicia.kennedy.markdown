@@ -39,5 +39,5 @@ A big wooden desk in my own book-lined office, where I don't have to edit my own
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mv88-plus-video-kit]: https://www.shure.com/en-US/products/microphones/mv88plus "A digital condenser microphone, tripod, phone clamp, mount and cables."
 [otter]: https://otter.ai "A transcribing service."
-[substack]: https://www.substack.com/ "A paid newsletter service."
+[substack]: https://substack.com/ "A paid newsletter service."
 [zencastr]: https://zencastr.com/ "A service for recording audio."

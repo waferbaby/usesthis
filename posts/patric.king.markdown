@@ -39,15 +39,15 @@ This is vague, but a system which dispenses with pixels as a measurement unit no
 
 I would love to see a return to a longer turnaround between software packages. There's an artificial churn happening in how quickly we need to re-learn tools, because companies are learning to move their software products to a subscription basis. I am seriously tempted to jump off that bandwagon, if I were confident I could find a workflow and OS that wouldn't be painful to re-learn on a bi-annual basis, rather than every six month.
 
-[cinema-4d]: https://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
-[do]: https://do.com/ "A project/task management service."
+[do]: http://web.archive.org/web/20200620060308/http://do.com/ "A project/task management service."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[glyphs]: https://www.glyphsapp.com/ "A font editor for the Mac."
+[glyphs]: https://glyphsapp.com/ "A font editor for the Mac."
 [google-plus]: https://en.wikipedia.org/wiki/Google%2B "A social network."
-[gridset]: https://gridsetapp.com/features/ "A service for creating grid designs."
+[gridset]: http://web.archive.org/web/20180626002059/https://gridsetapp.com/features/ "A service for creating grid designs."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

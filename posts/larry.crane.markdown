@@ -24,8 +24,8 @@ I use [Pro Tools 12 HD][pro-tools] as it's the most commonly used in music recor
 
 After 20 years of running a commercial studio I feel I have surrounded myself with amazing tools. I wouldn't mind a [Pro Tools HDX system][hdx] in order to cut out latency issues, but the cost is ridiculous and it also limits your system from running other DAW software, like [Logic][logic-pro]. Annoying. Buying and maintaining computer systems for a pro studio is frustrating and not very satisfying compared to buying and using quality analog gear, but it is how the marketplace works now.
 
-[5088]: https://rupertneve.com/products/high-voltage-discrete-mixer/ "A high voltage mixer."
+[5088]: http://web.archive.org/web/20211201090724/https://rupertneve.com/products/5088 "A high voltage mixer."
 [hdx]: https://www.avid.com/products/pro-tools-hdx "A digital audio workstation."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
-[rx]: https://www.izotope.com/en/products/repair-and-edit/rx.html "Audio repair software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
+[rx]: https://www.izotope.com/en/products/rx.html "Audio repair software."

@@ -1,0 +1,5 @@
+{
+  "name": "Sky Bridge",
+  "description": "A service for bridging Mastodon and Bluesky.",
+  "url": "https://skybridge.fly.dev/"
+}

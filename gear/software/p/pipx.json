@@ -1,0 +1,5 @@
+{
+  "name": "pipx",
+  "description": "Software for creating isolated Python environments",
+  "url": "https://github.com/pypa/pipx"
+}

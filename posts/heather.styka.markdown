@@ -37,10 +37,10 @@ I've been curious about [Spire][spire-studio] --- I know some friends who love t
 
 I do dream of having a setup to do more programming and synthesizer stuff with my laptop. The only thing holding me back is that there's a real learning curve with so much of that. And I'm a folk musician at heart; at the end of the day I'm always picking up my acoustic guitar and writing whatever feels right. I guess my dream set up would be able to put folks like Beehive Productions (and all their gear) in my pocket so I'd always have someone brilliant available to turn the knobs and capture the best recording.
 
-[00-18]: https://www.martinguitar.com/guitars/standard-series/00-18/ "An acoustic guitar."
+[00-18]: https://www.martinguitar.com/guitars/standard-series/00-18.html "An acoustic guitar."
 [aeropress]: https://aeropress.com/ "A pressure-based coffee/espresso maker."
-[casino-coupe]: http://www.epiphone.com/Products/Electrics/Archtop/Casino-Coupe.aspx "An electric guitar."
-[chordbank-ios]: https://itunes.apple.com/us/app/chordbank-how-to-play-guitar/id397602509 "A guitar cords app."
+[casino-coupe]: http://web.archive.org/web/20191004104038/http://www.epiphone.com:80/Products/Electrics/Archtop/Casino-Coupe.aspx "An electric guitar."
+[chordbank-ios]: https://apps.apple.com/us/app/chordbank-how-to-play-guitar/id397602509 "A guitar cords app."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
@@ -49,8 +49,8 @@ I do dream of having a setup to do more programming and synthesizer stuff with m
 [omnichord]: https://en.wikipedia.org/wiki/Omnichord "A unique electronic musical instrument."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [portastudio-414]: https://en.wikipedia.org/wiki/Portastudio "A 4-track recorder."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [rapidweaver]: https://www.realmacsoftware.com/rapidweaver/ "WYSIWYG web development software for the Mac."
-[rhymezone-ios]: https://itunes.apple.com/us/app/rhymezone/id493493802 "A rhyming dictionary and thesaurus app."
-[snowball]: http://bluemic.com/snowball/ "A USB microphone."
-[spire-studio]: https://www.spire.live/content/spire/en/spire-studio.html "A portable recording studio."
+[rhymezone-ios]: https://apps.apple.com/us/app/rhymezone/id493493802 "A rhyming dictionary and thesaurus app."
+[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
+[spire-studio]: http://web.archive.org/web/20210117210839/https://www.izotope.com/en/products/spire-studio.html "A portable recording studio."

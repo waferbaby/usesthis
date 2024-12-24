@@ -36,13 +36,13 @@ My dream setup would be to be able to invest in a higher end professional camera
 
 When you work in film and photography, the gear and equipment needs are pretty intense, and it can easily be a never ending list so it's important to be wise about the investments and choose accordingly.
 
-[alpha-7r]: http://store.sony.com/a7r-alpha-7r-interchangeable-lens-camera-zid27-ILCE7R/B/cat-27-catid-All-Alpha-NEX-Cameras "A 36.4 megapixel full-frame digital camera."
+[alpha-7r]: http://web.archive.org/web/20210425070818/https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7r "A 36.4 megapixel full-frame digital camera."
 [creative-cloud]: https://www.adobe.com/creativecloud.html "A subscription service for Adobe's creative suite."
 [davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
-[f55-cinealta-4k]: https://pro.sony.com/bbsc/ssr/show-highend/resource.solutions.bbsccms-assets-show-highend-F55.shtml "A high-end digital video camera."
+[f55-cinealta-4k]: https://pro.sony/ue_US/?sonyref=pro.sony.com/bbsc/ssr/show-highend/resource.solutions.bbsccms-assets-show-highend-F55.shtml "A high-end digital video camera."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[nex-fs700]: https://pro.sony.com/bbsc/ssr/product-NEXFS700UK/ "A 4k digital video camera."
+[nex-fs700]: https://pro.sony/ue_US/search "A 4k digital video camera."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pocket-cinema-camera]: https://www.blackmagicdesign.com/products/blackmagicpocketcinemacamera/ "A Super 16 digital video camera."

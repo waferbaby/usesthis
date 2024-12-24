@@ -24,9 +24,9 @@ As far as software goes I am about 98% digital with my process at the moment. De
 
 In my dream of dreams I'd love a cozy, quiet cabin in the woods. Right now I'd settle for my own studio space out of the house. In this scenario we could maybe throw in an extra monitor, one of those big-screen Cintiqs, and a bunch of cabinet space to organize my pins, patches, and comics for my online shop.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

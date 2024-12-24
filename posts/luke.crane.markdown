@@ -38,10 +38,10 @@ But I guess if we're dreaming, I'd love to have a super high-end scanner, an HP 
 
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
-[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
+[kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [power-mac-g5]: https://en.wikipedia.org/wiki/Power_Mac_G5 "A desktop Mac with an IBM PowerPC G5 CPU."

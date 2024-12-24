@@ -30,7 +30,7 @@ If I could ask for a marginal improvement in technology it would be to allow me 
 
 I could imagine some kind of device on my index finger where I can write words in air, even with my hands in my pockets, and the device figures out what i am writing and puts it in an email addressed to me.
 
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
@@ -39,4 +39,4 @@ I could imagine some kind of device on my index finger where I can write words i
 [python]: https://www.python.org/ "An interpreted scripting language."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [textmate]: https://macromates.com/ "A text editor for the Mac."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."

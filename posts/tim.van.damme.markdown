@@ -32,8 +32,8 @@ Honestly, I'm super happy with my current setup. I've been refining it over the 
 My office is pretty messy, but it's a place where I can focus and be productive.
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
-[craft]: https://www.invisionapp.com/craft/ "A collection of design plugins."
-[discord]: https://discordapp.com/ "A voice and text chat service."
+[craft]: https://www.invisionapp.com/product/craft "A collection of design plugins."
+[discord]: https://discord.com/ "A voice and text chat service."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
 [gowalla]: https://en.wikipedia.org/wiki/Gowalla "A location/story tracking service."
 [linear]: https://linear.app/ "An issue tracking service."
@@ -42,6 +42,6 @@ My office is pretty messy, but it's a place where I can focus and be productive.
 [mx-master-2]: https://support.logi.com/hc/en-us/articles/360023462393-MX-MASTER-2S-WIRELESS-MOUSE-Technical-Specifications "A wireless mouse."
 [netlify]: https://www.netlify.com/ "A service for hosting websites and web apps."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
-[quill]: https://quill.chat/ "A group messaging service."
-[ultrafine-5k]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
+[quill]: http://web.archive.org/web/20221005034759/https://quill.chat// "A group messaging service."
+[ultrafine-5k]: http://web.archive.org/web/20190711102445/https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display "A 27 inch monitor."
 [wob]: https://drop.com/buy/gmk-white-on-black-custom-keycap-set "Custom keycaps for mechanical keyboards."

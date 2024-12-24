@@ -36,4 +36,4 @@ Also, I subscribe to Robot Companion Quarterly and as soon as they invent an aff
 [airport-extreme]: https://en.wikipedia.org/wiki/AirPort_Extreme "A wireless access point."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [easyscript]: http://texteditors.org/cgi-bin/wiki.pl?EasyScript "A text editor for the Commodore 64 and 128."
-[fatmax-6-bit-ratcheting-screwdriver]: http://www.stanleytools.com/default.asp?CATEGORY=HT+PZDRV+AND+MULTI+SDRVRS&TYPE=PRODUCT&PARTNUMBER=69-189&SDesc=FATMAX%26%23174%3B+6+Bit+Ratcheting+Screwdriver "A screwdriver."
+[fatmax-6-bit-ratcheting-screwdriver]: https://www.stanleytools.com/default.asp?CATEGORY=HT+PZDRV+AND+MULTI+SDRVRS&PARTNUMBER=69-189&SDesc=FATMAX%26%23174%3B+6+Bit+Ratcheting+Screwdriver&TYPE=PRODUCT "A screwdriver."

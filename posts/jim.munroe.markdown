@@ -38,16 +38,16 @@ I use [BitTorrent][] to avail myself of the wealth of human artistry, and that's
 
 I'm not good on these "dreams" you speak of. For a sci-fi writer, I have a hard time thinking outside what is possible within my ethical/financial boundaries. I will be buying a new system this month with an eye towards value and being able to reuse all the feasible innards of my current gear -- much like the original digital natives, who used every part of the computers they obsoleted. But I may treat myself to an SSD. A small one.
 
-[32ld450]: https://www.amazon.com/LG-32LD450-32-Inch-1080p-Model/dp/B0039RRCJ8 "A 32 inch LCD TV/monitor."
+[32ld450]: http://web.archive.org/web/20211207014218/https://www.amazon.com/LG-32LD450-32-Inch-1080p-Model/dp/B0039RRCJ8 "A 32 inch LCD TV/monitor."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
-[avidemux]: http://avidemux.sourceforge.net "Open-source video editing software."
-[bittorrent]: https://www.bittorrent.com/ "Distributed file sharing."
-[geforce-gt-220]: https://www.geforce.com/hardware/desktop-gpus/geforce-gt-220 "A desktop computer video game card."
+[avidemux]: https://avidemux.sourceforge.net/ "Open-source video editing software."
+[bittorrent]: http://web.archive.org/web/20230523075413/https://www.bittorrent.com/ "Distributed file sharing."
+[geforce-gt-220]: https://www.nvidia.com/en-us/geforce/graphics-cards/ "A desktop computer video game card."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-calendar]: https://en.wikipedia.org/wiki/Google_Calendar "A web-based calendar client."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [scribus]: https://wiki.scribus.net/canvas/Scribus "An open-source desktop publishing/page layout program."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [unmanned]: http://unmanned.molleindustria.org/ "A video game about dreams and drones."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

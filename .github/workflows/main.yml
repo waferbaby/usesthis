@@ -1,0 +1,26 @@
+name: Publish usesthis.com
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4.1.0
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+          bundler-cache: true
+      - run: |
+          bundle exec dimples
+      - uses: contention/rsync-deployments@v2.0.0
+        with:
+          FLAGS: -avzr --delete --links
+          USER: deployer
+          HOST: usesthis.com
+          LOCALPATH: site/
+          REMOTEPATH: /usr/local/share/www/usesthis.com/
+          DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}

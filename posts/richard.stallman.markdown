@@ -38,6 +38,6 @@ I do hope to switch soon to a newer model of Yeelong with a 10-inch display.
 
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [gnewsense]: https://en.wikipedia.org/wiki/GNewSense "A completely free GNU/Linux distribution."
-[pmon]: https://www.linux-mips.org/wiki/PMON "Freeware ROM firmware."
+[pmon]: http://web.archive.org/web/20221023121250/https://www.linux-mips.org/wiki/PMON "Freeware ROM firmware."
 [xfree86]: http://www.xfree86.org/ "An open-source window system."
-[yeelong]: http://www.lemote.com/en/products/Notebook/2010/0310/112.html "A 9 inch laptop with 100% free software (BIOS, drivers, etc.)."
+[yeelong]: http://web.archive.org/web/20151220055337/http://www.lemote.com:80/en/products/Notebook/2010/0310/112.html "A 9 inch laptop with 100% free software (BIOS, drivers, etc.)."

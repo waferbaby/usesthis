@@ -30,7 +30,7 @@ I use this totally inadequate but free program called [Scribus][] to lay out tex
 Sometimes I think it would be an isolated old lighthouse, typing mystery novels on a loud old typewriter while the portrait of my late husband, lost at sea, solemnly looks on in the flickering candlelight. Other times it's a houseboat rocking on a gentle sea, charting sunken kingdoms on vellum scrolls with the feathers of ancient beasts for pens. I don't think my cat would be down for a life at sea though. So you can see I have trouble making up my mind.
 
 [graphicsgale]: https://graphicsgale.com/us/ "A pixel art editor for Windows."
-[hl-2240d]: https://www.brother-usa.com/Printer/ModelDetail/1/HL2240D/Overview "A laser printer."
+[hl-2240d]: https://www.brother-usa.com/products/hl2240d "A laser printer."
 [notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [paint-shop-pro]: https://en.wikipedia.org/wiki/Paint_Shop_Pro "A raster and vector image editor."

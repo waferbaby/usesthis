@@ -38,7 +38,7 @@ I like coding in my armchair, with the lake in the background. But it would be e
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pixel]: https://store.google.com/product/pixel_phone "A 5 inch Android smartphone."
+[pixel]: https://store.google.com/product/pixel_phone?hl=ja "A 5 inch Android smartphone."
 [reason.2]: https://reasonml.github.io/ "A flavour of OCaml targeted at JavaScript developers."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

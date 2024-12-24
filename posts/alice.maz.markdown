@@ -39,7 +39,7 @@ We'll have a workshop suitable for working on electronics and machines. We'll ha
 
 I probably will not have written the history book though.
 
-[ath-m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Over-the-ear headphones."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
 [chicken]: https://call-cc.org/ "A Scheme compiler."
 [find]: https://en.wikipedia.org/wiki/Find_%28command%29 "A command-line tool for searching for specific text in files."
 [fuchsia]: https://en.wikipedia.org/wiki/Google_Fuchsia "An operating system."
@@ -47,9 +47,9 @@ I probably will not have written the history book though.
 [glibc]: https://en.wikipedia.org/wiki/GNU_C_Library "A standard library for C."
 [grapheneos]: https://grapheneos.org/ "An open-source mobile OS compatible with Android."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
-[guix]: https://www.gnu.org/software/guix/manual/html_node/Package-Management.html "A package management system."
+[guix]: https://guix.gnu.org/manual/html_node/Package-Management.html "A package management system."
 [haskell]: https://wiki.haskell.org/Haskell "A functional programming language."
-[llvm]: http://llvm.org/ "A C/C++/Objective-C compiler."
+[llvm]: https://llvm.org/ "A C/C++/Objective-C compiler."
 [mosh]: https://mosh.org/ "A remote terminal shell system."
 [musl]: https://www.musl-libc.org/ "A standard C library."
 [pixel-3]: https://en.wikipedia.org/wiki/Pixel_3 "A 5.5 inch Android phone."
@@ -58,8 +58,8 @@ I probably will not have written the history book though.
 [scheme]: https://en.wikipedia.org/wiki/Scheme_(programming_language) "An alternative dialect of the Lisp programming language."
 [sed]: http://www.gnu.org/software/sed/ "Text filtering software."
 [spacemacs]: https://duckduckgo.com/?q=spacemacs&t=osx&ia=software "A distribution of emacs."
-[tcsh]: https://www.tcsh.org/Welcome "A command-line shell."
-[thinkpad-t480]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-t-series/ThinkPad-T480/p/22TP2TT4800 "A 14 inch PC laptop."
+[tcsh]: http://web.archive.org/web/20170618044928/http://www.tcsh.org:80/Welcome "A command-line shell."
+[thinkpad-t480]: https://www.lenovo.com/us/en/p/22TP2TT4800 "A 14 inch PC laptop."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [void]: https://voidlinux.org/ "A Linux distribution."
 [xargs]: https://en.wikipedia.org/wiki/Xargs "A command-line tool to execute commands from standard input."

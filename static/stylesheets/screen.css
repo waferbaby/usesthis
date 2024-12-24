@@ -56,8 +56,6 @@ body {
   padding: 30px;
 }
 
-
-
 dd {
   display: block;
   font-size: 80%;
@@ -84,7 +82,6 @@ footer {
   border-top: solid 1px var(--divider-colour);
   font-size: 70%;
   grid-row: 3;
-  margin-top: 20px;
 }
 
 form {
@@ -154,7 +151,7 @@ main {
   border-left: solid 1px var(--divider-colour);
   grid-row: 1/4;
   max-width: 800px;
-  padding: 0 50px; 
+  padding: 0 50px;
 }
 
 main > h2 + p {
@@ -190,7 +187,7 @@ nav#control {
 nav#paginator {
   display: grid;
   font-size: 90%;
-  margin-top: 20px;
+  margin: 20px 0;
   padding-top: 20px;
   text-align: center;
   border-top: solid 1px var(--divider-colour);
@@ -355,7 +352,7 @@ ul.months li:first-child:before {
   }
 
   nav li:before {
-    color: var(--divider-colour); 
+    color: var(--divider-colour);
     content: "/ ";
   }
 
@@ -369,7 +366,6 @@ ul.months li:first-child:before {
 
   nav#control ul {
     font-size: 100%;
-    text-align: center;
   }
 
   ul.categories {
@@ -378,9 +374,12 @@ ul.months li:first-child:before {
 }
 
 @media all and (max-width: 320px) {
-
   ul.categories {
     grid-template-columns: 1fr;
+  }
+
+  footer {
+    margin-top: 20px;
   }
 }
 

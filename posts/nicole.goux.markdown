@@ -30,12 +30,12 @@ I currently live and work in a studio apartment. My setup is pretty mobile, so I
 
 I also haven't had a desktop computer since I was in high school, so having one with a large retina monitor and lots of storage would make things much easier - I feel like I'm constantly running out of space on my laptop (baffling that's it's still functioning at all.)
 
-[acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
+[acrobat]: https://www.adobe.com/acrobat.html "Software for creating and editing PDF documents."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pencil]: https://www.fiftythree.com/pencil "An iPad stylus."
+[pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [workforce-wf-7610]: https://epson.com/Support/Printers/All-In-Ones/WorkForce-Series/Epson-WorkForce-WF-7610/s/SPT_C11CC98201 "An all-in-one printer."

@@ -27,8 +27,8 @@ I use [Photoshop CC 2019][photoshop] for design work, mostly to edit hand drawn 
 
 A beautiful big light and plant filled studio with lots of different shelves and storage spaces to keep various materials in order - paint tins and pots, brushes, canvas, paper - etc etc etc. I'd like a huge table in a naturally bright lit position that I could work on large canvases at. A space to the side with some big comfy armchairs, coffee table and kettle for tea breaks and emails. A good speaker system to play music and podcasts through. A bed for my dog Mirka too so she could hang out. I'd also love a van so I could cart my mural gear and canvases around better - right now my car is in perpetual chaos. All in good time!
 
-[25mm-easy-cutter-paint-brush]: https://www.bunnings.com.au/uni-pro-25mm-easy-cutter-paint-brush_p1662806 "A paint brush."
-[600ml-paint-pot]: https://www.bunnings.com.au/uni-pro-600ml-paint-pot-with-handle-and-brush-holder_p1667605 "A paint pot."
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[25mm-easy-cutter-paint-brush]: http://web.archive.org/web/20230319035447/https://www.bunnings.com.au/uni-pro-25mm-easy-cutter-paint-brush_p1662806 "A paint brush."
+[600ml-paint-pot]: http://web.archive.org/web/20220706110051/https://www.bunnings.com.au/uni-pro-600ml-paint-pot-with-handle-and-brush-holder_p1667605 "A paint pot."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."

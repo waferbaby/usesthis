@@ -33,10 +33,10 @@ So at first I was like "this is fine!" but in a dreamy dream world, I suppose I 
 
 Oh, and I make podcasts in my closet (as ya do) so if I could have like... a shelf for the Zoom (it currently lives on a haphazard pile of shorts), or a mic stand that isn't broken?? I would take that.
 
-[ergonomic-wireless-vertical-mouse]: https://www.anker.com/products/variant/Ergonomic-Wireless-Vertical-Mouse/A7809012 "An ergonomic wireless vertical mouse."
-[h6]: https://www.amazon.com/Zoom-H6-Six-Track-Portable-Recorder/dp/B00DFU9BRK "A portable six-track recorder."
+[ergonomic-wireless-vertical-mouse]: http://web.archive.org/web/20210306115801/https://www.anker.com/products/variant/Ergonomic-Wireless-Vertical-Mouse/A7809012 "An ergonomic wireless vertical mouse."
+[h6]: https://zoomcorp.com/en/us/handheld-recorders/handheld-recorders/h6-audio-recorder/ "A portable six-track recorder."
 [iphone-12-mini]: https://en.wikipedia.org/wiki/IPhone_12 "A 5.42 inch smartphone."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [reaper]: https://www.reaper.fm/ "A software digital audio workstation."
-[sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
-[vintage-baritone]: https://www.sweetwater.com/store/detail/VBTDA--danelectro-vintage-baritone-dark-aqua "An electric guitar."
+[sm58]: http://web.archive.org/web/20190411150950/https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[vintage-baritone]: http://web.archive.org/web/20210106063550/https://www.sweetwater.com/store/detail/VBTDA--danelectro-vintage-baritone-dark-aqua "An electric guitar."

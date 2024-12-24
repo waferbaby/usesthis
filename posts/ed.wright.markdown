@@ -33,13 +33,13 @@ I used [ImageJ][] to measure body measurements on gorillas and now and again I a
 I don't need anything too powerful. However, something that can withstand high humidity, temperature, dust and occasionally being dropped would be good. Also, something with a crazy huge battery life. Oh, and something small and light. Ah! And something that always has high speed internet even when I am in the middle of the jungle.
 
 [arcgis-pro]: https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview "Geospatial software."
-[d800]: https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
+[d800]: http://web.archive.org/web/20230312080814/https://www.amazon.com/Nikon-FX-Format-Digital-Camera-MODEL/dp/B0076AYNXM "A 36.3 megapixel DSLR."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [imagej]: https://imagej.nih.gov/ij/ "Image processing software."
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
+[office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
-[rstudio]: https://www.rstudio.com/ "An IDE for the R language."
+[rstudio]: https://posit.co/ "An IDE for the R language."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [teams]: https://www.microsoft.com/en-us/microsoft-teams/group-chat-software "A team collaboration service."
 [zoom.2]: https://zoom.us "Video conferencing software."

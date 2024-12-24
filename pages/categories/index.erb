@@ -4,7 +4,7 @@ title: Categories
 ---
 
 <h2>Categories</h2>
-<p>There are currently <%= @site.categories.count %> categories on the site.</p>
+<p>There are currently <%= @site.categories.keys.count %> categories on the site.</p>
 
 <% ('a'..'z').each do |letter| %>
   <% unless (slugs = @site.categories.keys.select { |key| key[0] == letter }.sort).empty? %>
@@ -13,7 +13,7 @@ title: Categories
       <% slugs.each do |slug| %>
         <li>
           <a href="/categories/<%= slug %>/" title="All the <%= slug %> interviews."><%= slug %></a><br>
-          <span class="summary"><%= @site.categories[slug].count %> interview<%= 's' unless @site.categories[slug].count == 1 %></span>
+          <span class="summary"><%= @site.categories.send(slug).count %> interview<%= 's' unless @site.categories.send(slug).count == 1 %></span>
         </li>
       <% end %>
     </ul>

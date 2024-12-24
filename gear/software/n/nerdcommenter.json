@@ -1,5 +1,5 @@
 {
   "name": "NERD_commenter",
   "description": "A code commenting plugin for vim.",
-  "url": "https://github.com/scrooloose/nerdcommenter"
+  "url": "https://github.com/preservim/nerdcommenter"
 }

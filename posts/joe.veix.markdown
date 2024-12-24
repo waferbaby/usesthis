@@ -26,7 +26,7 @@ I suppose I mainly want hardware/software I don't have to think about, that does
 
 [g2.2]: https://www.jetpens.com/Pilot-G2-Original-Gel-Pens/ct/610 "A pen."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-inbox]: http://www.google.com/inbox/ "A Gmail client app."
+[google-inbox]: https://www.google.com/gmail/about/ "A Gmail client app."
 [iphone-5s]: https://en.wikipedia.org/wiki/IPhone_5S "A smartphone."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."

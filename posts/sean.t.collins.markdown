@@ -35,13 +35,13 @@ I use [Twitter][] for linking and venting and keeping up with the Joneses. It's 
 
 Unlimited shelf space! Man, that is an easy, easy question to answer. I want to work in a vast cavernous hall lined floor to ceiling with my books so I never have to get rid of one again. I miss them when they go, and again, cleaning and sorting and pruning eats up valuable mental-emotional bandwidth. Last night I spent two hours going through a stack of unread minicomics about two feet high for which I have no room, and now I feel hung over.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[ipod-classic]: https://www.apple.com/ipodclassic/ "A music player."
+[ipod-classic]: https://support.apple.com/ipod-touch "A music player."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [movable-type]: https://movabletype.org/ "Weblog publishing software."
-[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
-[word]: https://products.office.com/en-us/word "A document editor."
+[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

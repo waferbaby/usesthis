@@ -47,6 +47,6 @@ I also spend a lot of time writing ideas and doing calculations in notebooks - p
 [instiki]: https://github.com/parasew/instiki "Wiki software."
 [irfanview]: https://www.irfanview.com/ "An image viewer/editor for Windows."
 [latex]: https://www.latex-project.org/ "Typesetting software."
-[quasimusic]: http://gregegan.customer.netspace.net.au/APPLETS/34/34.html "A Java app for mathematically generating music."
-[wolframtones]: http://tones.wolfram.com/ "An audio generating tool."
+[quasimusic]: http://www.gregegan.net/APPLETS/34/34.html "A Java app for mathematically generating music."
+[wolframtones]: https://tones.wolfram.com:443/ "An audio generating tool."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

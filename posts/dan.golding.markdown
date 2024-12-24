@@ -36,12 +36,12 @@ I can't wait to get my music-making stuff into a new room after I move house, wi
 I'll also be throwing a new audio interface into the mix there for recording my voice, along with that new vocal microphone, so creating new video essays (and there are more in the works) should be just as easy. I'll also be getting a wireless charging mat in there for my iPhone and wireless devices.
 
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
-[komplete-kontrol-s49]: https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/ "An audio keyboard."
+[komplete-kontrol-s49]: http://web.archive.org/web/20230825184507/https://www.native-instruments.com/en/products/komplete/keyboards/komplete-kontrol-s49-s61/ "An audio keyboard."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
 [push-me-pull-you]: http://pmpygame.com/ "A multiplayer sports hug game."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
-[strings]: http://www.cinematicstudioseries.com/strings.html "A string music samples library."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
+[strings]: http://web.archive.org/web/20230707215904/http://cinematicstudioseries.com/strings/ "A string music samples library."
 [zotero]: https://www.zotero.org/ "A research tool."

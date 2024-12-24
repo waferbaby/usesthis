@@ -41,18 +41,18 @@ I store every thing remotely and I use [sshfs][] (SSH file system) to access it 
 
 I don't have much of a dream setup as long as everything works. But I would certainly like to have a more lightweight laptop that I could still use Xubuntu in there. Something like the [MacBook Air][macbook-air], but without the Mac :)
 
-[apache]: http://www.apache.org/ "Web server software."
+[apache]: https://www.apache.org/ "Web server software."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [centos]: https://www.centos.org/ "A Linux distribution."
 [gcc]: http://gcc.gnu.org/ "Code compiler frontends."
-[keyboard]: https://www.apple.com/keyboard/ "The keyboard."
+[keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mercurial]: https://www.mercurial-scm.org/ "A version control system."
 [nginx]: http://nginx.org/ "A very fast web/mail server."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
-[ossec]: http://ossec.github.io "An open-source intrusion detection system."
-[php]: https://php.net/ "An interpreted scripting language."
-[qmail]: http://www.qmail.org/top.html "An SMTP server."
+[ossec]: http://web.archive.org/web/20230808141055/https://www.ossec.net/ "An open-source intrusion detection system."
+[php]: https://www.php.net/ "An interpreted scripting language."
+[qmail]: http://web.archive.org/web/20220803223549/http://qmail.org/top.html "An SMTP server."
 [ssh]: https://en.wikipedia.org/wiki/Secure_Shell "A command-line tool for secure remote connections."
 [sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."
 [vim]: https://www.vim.org/ "A command-line text editor."

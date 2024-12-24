@@ -30,13 +30,13 @@ I edit with [Final Cut Pro X][final-cut-pro-x] on both computers. If I'm drawing
 
 My dream setup is very boring. All I would really like to add to what I already have is a good record player (and the space in my office for said record player, the speakers and amp required to use it.) But if I'm going to dream real big, I would love a [Cintiq][]. Why not a 22HD Touch? I don't use tablets, but I'd love to be able to cut out the pen and paper from my art process. It's only like, $3,000 Canadian.
 
-[cintiq]: https://www.wacom.com/en/us/cintiq "A computer screen you can draw on."
+[cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [final-cut-pro-x]: https://en.wikipedia.org/wiki/Final_Cut_Pro_X "A nonlinear video editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[rdio]: http://www.rdio.com/home/en-us/ "A music streaming service."
-[rp-htx7]: https://www.amazon.com/Panasonic-RP-HTX7-Stereo-Headphones-Black/dp/B001BEAI4W "Headphones."
+[rdio]: http://web.archive.org/web/20151209115835/http://www.rdio.com:80/home/en-us/ "A music streaming service."
+[rp-htx7]: http://web.archive.org/web/20230606200216/http://www.amazon.com/Panasonic-RP-HTX7-Stereo-Headphones-Black/dp/B001BEAI4W/ "Headphones."

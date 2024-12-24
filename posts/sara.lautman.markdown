@@ -28,4 +28,4 @@ The room is near my home but not inside my home, private when I need it to be, a
 [creative-suite]: https://www.adobe.com/creativecloud.html "A collection of design tools."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

@@ -27,15 +27,15 @@ You might also call all my prototyping components for game designs "hardware" to
 
 Honestly, I don't really think much about improving my setup. It is functional, which is all I need. My computer could probably do with some upgrades, I guess. I could use more memory and processing power.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[excel]: https://products.office.com/en-us/excel "A spreadsheet application."
-[forge-war]: http://www.cephalofair.com/forge-war "A resource management board game."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
+[excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
+[forge-war]: http://web.archive.org/web/20201028191944/https://www.cephalofair.com/forge-war "A resource management board game."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[gloomhaven]: http://www.cephalofair.com/gloomhaven "A tactical combat board game."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[gloomhaven]: http://web.archive.org/web/20201118030010/https://www.cephalofair.com/gloomhaven "A tactical combat board game."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
-[kickstarter]: https://www.kickstarter.com/ "A service for crowdfunding projects."
+[kickstarter]: http://web.archive.org/web/20221227013734/https://www.kickstarter.com/ "A service for crowdfunding projects."
 [paint]: https://en.wikipedia.org/wiki/Paint_(software) "An image editor included with Windows."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
+[powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."

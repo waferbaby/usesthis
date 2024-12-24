@@ -33,11 +33,11 @@ And duh, I use [Slack][] 24/7.
 
 My dream setup is if someone were to build me a system where our Google Docs inventory sheet and customer sheets synced directly with [Shopify][], and to streamline some of the manual labor we do each week on our website. Please, someone help me out!
 
-[canva]: https://www.canva.com/ "Web-based design software."
+[canva]: http://web.archive.org/web/20221226232811/https://www.canva.com/ "Web-based design software."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
-[reminders]: https://support.apple.com/kb/PH12086?viewlocale=en_US&locale=en_US "A to-do list included with Mac OS X."
+[reminders]: https://support.apple.com/guide/icloud/mmc0cd794a/ "A to-do list included with Mac OS X."
 [shopify]: https://www.shopify.com/ "A service for selling goods online."
-[slack]: https://slack.com/ "A collaboration service."
-[stitcher-ios]: https://itunes.apple.com/us/app/stitcher-for-podcasts/id288087905 "A radio and podcast app."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[stitcher-ios]: http://web.archive.org/web/20230809173043/https://apps.apple.com/us/app/stitcher-for-podcasts/id288087905 "A radio and podcast app."

@@ -34,10 +34,10 @@ As for my own writing, I like to do it long hand because usually, if I'm typing 
 
 Like Truman Capote, [I love working in bed](http://www.theparisreview.org/interviews/4867/the-art-of-fiction-no-17-truman-capote "An interview with Truman Capote."). Here is a little secret: beds are not only comfortable for sleeping, they're comfortable when you're awake too! But a desk is crucial. You can't do all your work on a bed. And apparently, it's bad to mix your sleeping space with your mind space. So ideally, a beautiful office filled with all my favorite books and a desk with a nice laptop. The desk would look out of a window, and nearby there would be a day bed with a sleeping cat and a very warm blanket.
 
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-talk]: https://en.wikipedia.org/wiki/Google_Talk "Google's own audio/video/text chat system."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-3g]: https://en.wikipedia.org/wiki/IPhone_3G "A smartphone."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
@@ -46,5 +46,5 @@ Like Truman Capote, [I love working in bed](http://www.theparisreview.org/interv
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
 [tweetie]: https://en.wikipedia.org/wiki/Tweetie "A Twitter client for the Mac."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

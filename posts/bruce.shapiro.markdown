@@ -28,15 +28,15 @@ CAD/CAM: I've been using AutoCAD for so many years that it's become integral to 
 
 Pretty much what I have now -- shop spaces in multiple places, with enthusiastic and skilled makers at my side, using amazing motion control technology to create art that can find its way into both [museums](http://www.taomc.com/installations-and-showings-1 "A list of Bruce's museum displays.") and [people's homes](http://www.taomc.com/blog/ "Bruce's weblog.").
 
-[autocad]: https://www.autodesk.com/products/autocad/overview "CAD software."
+[autocad]: http://web.archive.org/web/20221226023918/https://www.autodesk.com/products/autocad/overview "CAD software."
 [basic]: https://en.wikipedia.org/wiki/BASIC "A programming language."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [grasshopper]: https://www.grasshopper3d.com/ "A graphical algorithm editor for Rhino."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[liberty-basic]: http://libertybasic.com/ "A Windows-based BASIC programming system."
+[liberty-basic]: https://www.libertybasic.com/ "A Windows-based BASIC programming system."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."
-[zenbook-ux303ub]: https://www.asus.com/Notebooks/ASUS-ZenBook-UX303UB/ "A 13.3 inch PC laptop."
+[zenbook-ux303ub]: http://web.archive.org/web/20161218031603/http://www.asus.com:80/Notebooks/ASUS-ZenBook-UX303UB/ "A 13.3 inch PC laptop."

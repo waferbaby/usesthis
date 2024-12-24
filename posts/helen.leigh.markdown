@@ -27,7 +27,7 @@ My favourite combo for making embedded instruments right now is probably a [Pock
 [circuit-playground-express]: https://www.adafruit.com/product/3333 "A maker board for fun experiments."
 [circuitpython]: https://circuitpython.org/ "A version of Python for working with microcontrollers."
 [crowd-supply]: https://www.crowdsupply.com/ "A crownfunding platform for open source hardware projects."
-[pocketbeagle]: https://beagleboard.org/pocket "A tiny microcontroller board."
+[pocketbeagle]: http://web.archive.org/web/20230706214158/https://beagleboard.org/pocket "A tiny microcontroller board."
 [purr-data]: https://agraef.github.io/purr-data-intro/Purr-Data-Intro.html "A music and multimedia programming environment."
 [teensy]: https://www.pjrc.com/teensy/ "A USB microcontroller board."
 [trill]: https://learn.bela.io/products/trill/about-trill/ "A touch sensor."

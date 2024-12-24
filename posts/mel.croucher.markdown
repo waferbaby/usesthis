@@ -31,8 +31,8 @@ When I'm not wandering the planet and working away, I work from my home base on 
 Thank you for reading this. Now go and do something wonderful.
 
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
-[paper-ios]: https://www.fiftythree.com/paper "A notebook/drawing app."
+[paper-ios]: http://web.archive.org/web/20230815030158/https://wetransfer.com/paper "A notebook/drawing app."
 [screenflow]: http://www.telestream.net/screenflow/overview.htm "A screencasting studio for the Mac."

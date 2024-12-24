@@ -44,7 +44,7 @@ While we're at it, I'd like to know that I'm not being tracked, stalked and hack
 
 I'd like all of us to have time to farm and land to farm on.
 
-[campstove]: http://www.biolitestove.com/products/biolite-campstove "A wood-burning stove that generates electricity."
+[campstove]: http://web.archive.org/web/20160215174925/http://www.biolitestove.com:80/products/biolite-campstove "A wood-burning stove that generates electricity."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [drupal]: https://www.drupal.org/ "An open-source content management system."
 [etsy]: https://www.etsy.com/ "A doily deployment system."
@@ -56,7 +56,7 @@ I'd like all of us to have time to farm and land to farm on.
 [internet-archive]: https://archive.org/ "A non-profit Internet library."
 [kelly-kettle]: https://www.kellykettle.com/ "A wood-powered kettle."
 [librarything]: https://www.librarything.com/ "A site for keeping track of your books."
-[loomio]: https://www.loomio.org/ "A collaborative decision-making service."
+[loomio]: https://www.loomio.com/ "A collaborative decision-making service."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
@@ -64,7 +64,7 @@ I'd like all of us to have time to farm and land to farm on.
 [ourgoods]: https://ourgoods.org/ "A creative barter network service."
 [riseup]: https://help.riseup.net/ "A collection of online communcation services."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."
-[thunderbird]: https://www.mozilla.org/en-US/thunderbird/ "An open-source cross-platform mail client."
+[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."
 [trello]: https://trello.com/ "A project management service."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

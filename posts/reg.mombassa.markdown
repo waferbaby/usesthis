@@ -28,10 +28,10 @@ My wife Martina works as my assistant and uses a PC with [Adobe Photoshop][photo
 I have no dream setup because my technical skills are non-existent. Basically I sit at the kitchen table with an acoustic guitar to write songs and record ideas on a cassette recorder or an [iPad][] using the [MicrophonePro app][microphone-pro-ios]. Most of the art is done sitting at a table in my studio and occasionally at an easel.
 
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
-[microphone-pro-ios]: https://itunes.apple.com/us/app/microphone-pro/id389797225 "A multi-function microphone app."
-[office]: https://products.office.com/en-us/home "An office productivity suite."
-[paramount]: https://shop.fender.com/en-US/paramount-series "An acoustic guitar."
+[microphone-pro-ios]: http://web.archive.org/web/20220920014459/https://apps.apple.com/us/app/microphone-pro/id389797225 "A multi-function microphone app."
+[office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
+[paramount]: http://web.archive.org/web/20190506094918/https://shop.fender.com/en-US/paramount-series "An acoustic guitar."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pro-tools]: https://www.avid.com/US/products/Pro-Tools-8-Software "Audio editing and processing software."
+[pro-tools]: http://web.archive.org/web/20210228001648/https://www.avid.com/en/pro-tools "Audio editing and processing software."
 [stratocaster]: https://en.wikipedia.org/wiki/Fender_Stratocaster "An electric guitar."
-[universal-music-interface]: https://sourceforge.net/projects/umi/ "A MIDI sequencer."
+[universal-music-interface]: http://web.archive.org/web/20221209044336/https://sourceforge.net/directory/audio-video/sound/analysis/ "A MIDI sequencer."

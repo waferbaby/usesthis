@@ -43,7 +43,7 @@ I want an operating system with the level of device support as Windows, the simp
 Also, software that never crashes or has problems during runtime execution would be pretty cool.
 
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [digitalocean]: https://www.digitalocean.com/ "An SSD-based web hosting service."
 [github]: https://github.com/ "A Git code repository service."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
@@ -51,10 +51,10 @@ Also, software that never crashes or has problems during runtime execution would
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[onenote]: https://www.onenote.com/ "Synced notes software (part of Office)."
-[quietcomfort-35]: https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless.html "Wireless over-the-ear headphones."
-[slack]: https://slack.com/ "A collaboration service."
-[spotify]: https://www.spotify.com/us/ "A music streaming service."
+[onenote]: https://www.onenote.com/signin?wdorigin=ondc "Synced notes software (part of Office)."
+[quietcomfort-35]: http://web.archive.org/web/20220309113434/https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html "Wireless over-the-ear headphones."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [venmo]: https://venmo.com/ "A payment service."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

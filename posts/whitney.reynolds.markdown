@@ -30,12 +30,12 @@ I do not have a traditional "desk" because I have nowhere in my apartment, where
 The above but with a more comfortable couch to sit on. I have had this couch for like 9 years and it is suffering from the weight of my ass. I've put a foam dog bed under the cushion. Actually two of them, and it only helps so much. Couches are so expensive.
 
 [better-tweetdeck]: https://better.tw/ "A browser extension for improving TweetDeck."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[discord]: https://discordapp.com/ "A voice and text chat service."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
+[discord]: https://discord.com/ "A voice and text chat service."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [galaxy-s20]: https://en.wikipedia.org/wiki/Samsung_Galaxy_S20 "A 6.2 inch Android phone."
 [paprika]: http://www.paprikaapp.com/ "Software for organising recipes."
-[slack]: https://slack.com/ "A collaboration service."
-[tuf-gaming-f17]: https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/2021-ASUS-TUF-Gaming-F17/ "A 17.3 inch PC laptop."
-[tweetdeck]: https://about.twitter.com/products/tweetdeck "A multi-column Twitter client."
+[slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
+[tuf-gaming-f17]: https://www.asus.com/laptops/for-gaming/tuf-gaming/2021-asus-tuf-gaming-f17/ "A 17.3 inch PC laptop."
+[tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."

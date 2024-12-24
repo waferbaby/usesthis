@@ -30,17 +30,17 @@ Honestly I'm pretty happy with my current setup and job but if was living in my 
 
 I'd have both work and home near the beach. I'd like to be able to walk my son to school on the way to work and get to sneak in a lunchtime swim. All publicly and privately held ecological and environmental data would be open access. Governments and Industrial Complexes would fund high quality objective research so we could balance growing population needs and the environment. My ecological modelling company would be able to support a large team of environmental scientists, ML researchers and engineers and have a large bank of [Google TPUs](https://en.wikipedia.org/wiki/Tensor_processing_unit "The Wikipedia entry for Tensor processing units.") or [AWS 16xlarge GPUs](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-with-up-to-8-nvidia-tesla-v100-gpus-p3/ "An Amazon article about their NVIDIA Tesla V100 instances.").
 
-[answer-bot]: https://www.zendesk.com/answer-bot/ "A Zendesk machine learning bot to help customers help themselves."
+[answer-bot]: http://web.archive.org/web/20210126154403/https://www.zendesk.co.jp/answer-bot/ "A Zendesk machine learning bot to help customers help themselves."
 [ec2]: https://aws.amazon.com/ec2/ "A web service for virtualised processing."
-[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [jupyter]: https://jupyter.org/ "Web-based live document software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
-[rstudio]: https://www.rstudio.com/ "An IDE for the R language."
+[rstudio]: https://posit.co/ "An IDE for the R language."
 [scikit-learn]: https://scikit-learn.org/stable/ "A machine learning library for Python."
-[studio-xps-9100]: https://www.dell.com/en-us/shop/cty/dell-studio-xps-9100-desktop/spd/studio-xps-9100 "A desktop PC tower."
+[studio-xps-9100]: https://www.dell.com/en-us/work/shop/business-desktops-all-in-one-computer-pcs-for-work/sc/desktops-n-workstations/xps-desktops "A desktop PC tower."
 [tensorflow]: https://www.tensorflow.org/ "An open souce machine learning library."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[zendesk]: https://www.zendesk.com/ "A customer service service."
+[zendesk]: https://www.zendesk.co.jp/#georedirect "A customer service service."

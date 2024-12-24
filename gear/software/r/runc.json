@@ -1,5 +1,5 @@
 {
   "name": "runC",
   "description": "A command line tool for running containers.",
-  "url": "https://runc.io/"
+  "url": "https://github.com/opencontainers/runc"
 }

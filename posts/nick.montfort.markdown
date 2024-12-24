@@ -28,7 +28,7 @@ I have used a variety of notebook computers in recent years. It's a bit wasteful
 
 ### And what software?
 
-On the older smartphone I use daily, I run [GrapheneOS][], a free/open-source operating system that is focused on privacy and runs most [Android][] apps. My phone does have any Google apps, or Google Play services, even the Google Play Store.
+On the older smartphone I use daily, I run [GrapheneOS][], a free/open-source operating system that is focused on privacy and runs most [Android][] apps. My phone does not have any Google apps, or Google Play services, even the Google Play Store.
 
 I run [Ubuntu][] on one of the notebook computers I use often, but even more often use [Pop_OS!][pop-os], a distribution from system76 that is based on Ubuntu and that I run on two other machines.
 
@@ -48,22 +48,22 @@ While I'm dreaming, the situation with smartphones is much worse. How about a fu
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [applesoft-basic]: https://en.wikipedia.org/wiki/Applesoft_BASIC "A version of BASIC included with Apple II computers."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
-[chromium]: http://www.chromium.org/ "Open-source builds of the Chrome web browser."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
+[chromium]: https://www.chromium.org/ "Open-source builds of the Chrome web browser."
 [commodore-64]: https://en.wikipedia.org/wiki/Commodore_64 "An 8-bit computer."
 [commodore-basic]: https://en.wikipedia.org/wiki/Commodore_BASIC "An interpreted programming language."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [galago-pro]: https://system76.com/laptops/galago "A 14 inch PC laptop."
 [grapheneos]: https://grapheneos.org/ "An open-source mobile OS compatible with Android."
 [iic]: https://en.wikipedia.org/wiki/Apple_IIc "A desktop computer."
-[ios]: https://www.apple.com/ios/ios-10/ "A mobile operating system."
+[ios]: https://www.apple.com/ios/ "A mobile operating system."
 [jitsi]: https://jitsi.org "Open source video conferencing software."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [nextcloud]: https://en.wikipedia.org/wiki/Nextcloud "A self-hosted file syncing service."
 [nextcube]: https://en.wikipedia.org/wiki/NeXTcube "An old workstation computer."
 [pinephone-pro]: https://www.pine64.org/pinephonepro/ "A 6 inch Linux smartphone."
 [pop-os]: https://pop.system76.com/ "A Linux-based operating system."
-[raspberry-pi-zero]: https://www.raspberrypi.org/blog/raspberry-pi-zero/ "A tiny hackable computer."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
-[ultimate64]: https://www.ultimate64.com/ "A modern take on the Commodore 64."
+[raspberry-pi-zero]: https://www.raspberrypi.com/news/raspberry-pi-zero/ "A tiny hackable computer."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
+[ultimate64]: http://web.archive.org/web/20221207174113/https://ultimate64.com/ "A modern take on the Commodore 64."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

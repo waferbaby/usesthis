@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Removed
-filename: removed
+filename: removed.html
 ---
 
 ### Sorry!

@@ -43,7 +43,7 @@ When it comes to work spaces I'm pretty sensitive to the aesthetics of it otherw
 And obviously my dream setup also includes a spot for my dog Rupert to sun bathe in as well.
 
 [depence2]: https://www.syncronorm.com/products/depence2/overview "Software for controlling lightning and waterfalls."
-[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080-ti/ "A graphics card."
+[geforce-gtx-1080-ti]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
 [grandma2]: https://www.malighting.com/downloads/products/grandMA2/ "A console for controlling lighting."
 [grandma3]: https://www.malighting.com/grandma3/ "A console for controlling lighting."
 [spotlight.2]: https://www.vectorworks.net/en-US/spotlight "Software for designing and producing lighting setups."

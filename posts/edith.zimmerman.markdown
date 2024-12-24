@@ -29,11 +29,11 @@ I tweak the comics on my MacBook in [Preview][], the application that comes with
 
 A wooden desk in a bright room with nice windows looking out onto something natural -- trees, sky, maybe a birdfeeder? There would be plenty of shelves and lots of empty space. It would be quiet, warmish, and close to a source of coffee. It would also be where I keep all my yarn (I love to knit), so maybe there wouldn't be so much empty space after all...
 
-[canoscan-lide-220]: https://www.usa.canon.com/internet/portal/us/home/products/details/scanners/photo-scanner/canoscan-lide-220 "A flatbed scanner."
+[canoscan-lide-220]: http://web.archive.org/web/20230706200500/https://www.usa.canon.com/shop/office/scanners "A flatbed scanner."
 [ergosoft]: https://www.staedtler.com/intl/en/products/products-for-colouring/coloured-pencils/ergosoft-157-coloured-pencil-157-sb24/ "Coloured pencils."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pigma-micron]: https://www.sakuraofamerica.com/Pen-Archival "A technical pen with archival pigmented ink."
-[pitt-artist]: https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO "A pen."
+[pigma-micron]: http://web.archive.org/web/20200719070910/http://sakuraofamerica.com:80/pen-archival "A technical pen with archival pigmented ink."
+[pitt-artist]: http://web.archive.org/web/20221127174236/https://www.amazon.com/Pitt-Artist-Pens-Wallet-Styles/dp/B000TKEZDO/ "A pen."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
 [ultralight-black-hole]: https://www.patagonia.com/product/ultralight-black-hole-tote-pack-27-liters/48809.html "A tote pack."

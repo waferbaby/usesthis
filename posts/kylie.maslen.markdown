@@ -35,10 +35,10 @@ I used to be obsessed with productivity apps and project management tools but no
 - Being able to afford a new laptop with more storage capacity, as well as a screen to go with it (my laptop is currently propped up on a stack of books with a keyboard and track pad nowhere near as ergonomically set up as they probably should be)
 - Going on a three-month sabbatical every winter in order to escape the cold weather, which destroys my health. I'd get more writing done too, I guess.
 
-[gmail]: https://mail.google.com/mail/ "Web-based email."
+[gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [otter]: https://otter.ai "A transcribing service."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

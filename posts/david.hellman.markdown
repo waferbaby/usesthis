@@ -45,15 +45,15 @@ On iPad I adore [Procreate][procreate-ios]. I've tried all the painting apps and
 
 Wow, I feel like this question is going to haunt me later because my immediate response is not particularly visionary. The technology we have today is already so great. I want an iPad that can handle really high resolution art work, and a pressure-sensitive stylus that feels great. And I want an evolution of Procreate that offers the editing flexibility of Photoshop, while retaining its elegance and simplicity.
 
-[alupen]: https://just-mobile.com/ipad/alupen.html "An iPad/iPhone stylus."
-[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[alupen]: http://web.archive.org/web/20130522093139/http://www.just-mobile.com:80/ipad/alupen.html "An iPad/iPhone stylus."
+[bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [braid]: http://braid-game.com "A clever puzzle/platformer game."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[g-301-gel]: https://www.jetpens.com/Zebra-G-301-Gel-Ink-Pen-0.7-mm-Blue-Grip-Blue-Ink/pd/8586 "A pen."
-[garageband-ios]: https://itunes.apple.com/us/app/garageband/id408709785 "A music creation app."
-[intuos]: https://www.wacom.com/en-us/products/pen-tablets/intuos "A pen tablet."
+[g-301-gel]: https://www.jetpens.com/Zebra-G-301-Gel-Pen-0.7-mm-Blue-Grip-Blue-Ink/pd/8586 "A pen."
+[garageband-ios]: https://apps.apple.com/us/app/garageband/id408709785 "A music creation app."
+[intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
-[jot-touch]: https://www.adonit.net/jot/touch/ "A Bluetooth-powered iPad stylus."
+[jot-touch]: http://web.archive.org/web/20230706214607/https://www.adonit.net/jot/touch/ "A Bluetooth-powered iPad stylus."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

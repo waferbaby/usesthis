@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>Uses This<% if @page %> / <%= @page.title %><% end %><% if @pagination && @pagination.current_page > 1 %> (Page <%= @pagination.current_page %>)<% end %></title>
+    <link href="/stylesheets/screen.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/feed.atom" rel="alternate" title="Uses This" type="application/atom+xml">
+    <link href="https://wafer.baby/@d" rel="me">
+    <link href="https://usesthis.com<%= @page.url %>" rel="canonical" itemprop="url">
+  <% if @pagination %>
+    <% if @pagination.urls[:previous_page] %><link rel="prev" href="<%= @pagination.urls[:previous_page] %>"><% end %>
+    <% if @pagination.urls[:next_page] %><link rel="next" href="<%= @pagination.urls[:next_page] %>"><% end %>
+  <% end %>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta name="description" content="A nerdy collection of interviews asking a random selection of people all about the tools and techniques they're using to get things done">
+    <meta name="author" content="Daniel Bogan">
+    <meta name="keywords" content="interview, setup<% if @page.categories %>, <%= @page.categories.join(', ') %><% end %>">
+
+    <% if @page.slug %>
+      <meta property="og:url" content="https://usesthis.com/interviews/<%= @page.slug %>/">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Uses This / <%= @page.title %>">
+      <meta property="og:description" content="<%= @page.summary %>">
+      <meta property="og:image" content="https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg">
+    <% end %>
+  </head>
+  <body>
+    <header id="masthead">
+      <h1><a href="/" title="The latest interviews.">Uses <span>This</span></a></h1>
+      <p id="description"><%= @site.posts.count %> interviews since 2009</p>
+    </header>
+    <nav id="control">
+      <ul>
+        <li><a href="/" title="The latest interviews.">Interviews</a></li>
+        <li><a href="/categories/" title="All of the interview categories.">Categories</a></li>
+        <li><a href="/about/" title="General site information and FAQ.">About</a></li>
+      </ul>
+    </nav>
+    <main>
+      <%= yield %>
+    </main>
+    <footer>
+      <form id="search" method="get" action="https://duckduckgo.com/">
+        <label><strong>Search:</strong>
+        <input type="search" name="q" placeholder="MacBook Pro">
+        </label>
+        <input type="hidden" name="sites" value="usesthis.com">
+        <input type="submit" value="Go">
+      </form>
+
+      <p>You can keep track of new interviews by <a href="/feed.atom" title="The Atom feed for the site.">subscribing to the feed</a>.</p>
+      <p>Unless otherwise noted, everything is available via the <a href="http://creativecommons.org/licenses/by-sa/4.0/" title="The BY-SA Creative Commons licence.">Attribution-Share Alike</a> licence.</p>
+      <p>Last updated <%= Time.now.strftime('%B %-d, %Y') %>.</p>
+    </footer>
+  </body>
+</html>

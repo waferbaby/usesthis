@@ -44,15 +44,15 @@ For writing:
 
 Adjustable standing desk in a room with many windows with a climbing wall close enough so I can think and climb in between coding milestones :)
 
-[a7s]: https://www.sony.com/electronics/interchangeable-lens-cameras/ilce-7s "A 12.2 megapixel mirrorless camera."
+[a7s]: https://electronics.sony.com/imaging/interchangeable-lens-cameras/c/all-interchangeable-lens-cameras "A 12.2 megapixel mirrorless camera."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[atom]: https://atom.io/ "A text editor based on web technology."
+[atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
 [bridge]: https://creative.adobe.com/products/bridge "A shared media manager for Adobe CS products."
 [d3.js]: https://d3js.org/ "A Javascript framework for manipulating data."
-[eos-5d-mark-ii]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
+[eos-5d-mark-ii]: http://web.archive.org/web/20151104220940/http://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_5d_mark_ii "A 21 megapixel DSLR."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [gyazo]: https://gyazo.com/ "A screenshot capturing and sharing tool for the Mac."
-[highcharts]: https://www.highcharts.com/ "A service for building interactive web-based charts."
+[highcharts]: http://web.archive.org/web/20230524122808/https://www.highcharts.com/ "A service for building interactive web-based charts."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [jupyter]: https://jupyter.org/ "Web-based live document software."
@@ -60,5 +60,5 @@ Adjustable standing desk in a room with many windows with a climbing wall close 
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[quicktime-pro]: https://support.apple.com/kb/HT201175 "A commercial version of QuickTime."
-[snapseed-ios]: https://itunes.apple.com/us/app/snapseed/id439438619 "A photo app."
+[quicktime-pro]: http://web.archive.org/web/20230706193331/https://support.apple.com/en-us/HT201175 "A commercial version of QuickTime."
+[snapseed-ios]: https://apps.apple.com/us/app/snapseed/id439438619 "A photo app."

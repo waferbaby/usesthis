@@ -41,14 +41,14 @@ I resisted the time suck of social media for years, but when I was in the [Russi
 
 My dream setup wouldn't be too different from what I have now, though I probably wouldn't have my kitchen and study at opposite ends of the house. The main thing I wish I had is somewhere nearby to find good food. Our small town doesn't even have a grocery store, and apart from summer, when we have our own garden, it's hard to find good produce. I don't like all the carbon miles that come with mail order and wish I had ready access to truly fresh fish and seafood. Not least, I'd have a fabulous [Scandinavian bakery](http://fabriquebakery.com/ "A Scandinavian bakery in London.") nearby where I could go out for [cardamom buns](http://www.swedishfood.com/swedish-food-recipes-biscuits-cakes/509-cardamom-buns "A recipe for cardamom buns.") whenever I crave them - which is nearly all the time.
 
-[acrobat]: https://acrobat.adobe.com/us/en/acrobat.html "Software for creating and editing PDF documents."
+[acrobat]: https://www.adobe.com/acrobat.html "Software for creating and editing PDF documents."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [iphone-x]: https://en.wikipedia.org/wiki/IPhone_X "A 5.8 inch smartphone."
 [librarything]: https://www.librarything.com/ "A site for keeping track of your books."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[powerpoint]: https://products.office.com/en-us/powerpoint "Presentation software."
-[precise-v5]: https://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI "A pen."
-[quietcomfort-20i]: http://worldwide.bose.com/productsupport/en_us/web/qc20i/page.html "Noise-cancelling in-ear headphones."
-[word]: https://products.office.com/en-us/word "A document editor."
+[powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
+[precise-v5]: http://web.archive.org/web/20230607220948/http://www.amazon.com/Pilot-Precise-Stick-Rolling-Extra/dp/B00006IEBI/ "A pen."
+[quietcomfort-20i]: http://web.archive.org/web/20190506062554/https://www.bose.com/en_us/support/products/earphones_support/qc20i.html "Noise-cancelling in-ear headphones."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

@@ -29,10 +29,10 @@ Something that's simple and intuitive. I probably should buy a dedicated soundca
 
 [anvil-studio]: https://en.wikipedia.org/wiki/Anvil_Studio "MIDI and audio editing software."
 [apc40]: https://www.akaipro.com/apc40 "A controller for Ableton Live."
-[ath-m50x]: https://www.audio-technica.com/cms/headphones/99aff89488ddd6b1/index.html "Over-the-ear headphones."
+[ath-m50x]: http://web.archive.org/web/20230724192127/https://www.audio-technica.com/en-us/ath-m50x "Over-the-ear headphones."
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
 [modplug]: https://sourceforge.net/projects/modplug/ "An audio editor/tracker for Windows."
 [obs-studio]: https://obsproject.com/ "Video recording and streaming software."
-[reason]: https://www.propellerheads.se/reason "A virtual studio rack for creating music."
-[sm58]: http://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."
+[reason]: http://web.archive.org/web/20230718002423/https://reasonstudios.com/ "A virtual studio rack for creating music."
+[sm58]: http://web.archive.org/web/20190411150950/https://www.shure.com/americas/products/microphones/sm/sm58-vocal-microphone "A vocal microphone."

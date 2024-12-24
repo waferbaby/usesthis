@@ -30,13 +30,13 @@ I use [Maya][], [V-Ray][], [ZBrush][], [Photoshop][], [Premiere][], [After Effec
 Oh golly, a better projector with higher lumens would really help me out a lot. Also a nice camera for shooting performance footage to meld in with my animation as well as better documentation. Dream world I'd also have a variety of colour lighting tools (1ks lighting with gels and LED strips) for the shoots, a fancy Wacom tablet, and better access to transportation with my big installations, hah.
 
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[bamboo]: https://www.wacom.com/en/us/bamboo "Smaller pen/multi-touch tablets."
+[bamboo]: https://www.wacom.com/en-us/us/bamboo "Smaller pen/multi-touch tablets."
 [flash]: https://en.wikipedia.org/wiki/Adobe_Flash "A software and animation editor."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[maya]: https://www.autodesk.com/products/maya/overview "3D animation software."
+[maya]: http://web.archive.org/web/20221224070508/https://www.autodesk.com/products/maya/overview "3D animation software."
 [openoffice]: http://www.openoffice.org/ "An open-source office suite."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[sketchbook-pro]: https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
+[sketchbook-pro]: http://web.archive.org/web/20170616043728/https://www.autodesk.com/products/sketchbook-pro/overview "A drawing/illustration tool."
 [v-ray]: https://en.wikipedia.org/wiki/V-Ray "A 3D rendering engine."
 [zbrush]: http://pixologic.com/zbrush/ "3D digital painting and sculpture software."

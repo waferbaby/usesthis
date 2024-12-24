@@ -40,4 +40,4 @@ I would love to live in the country somewhere in a large light-filled studio wit
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [polarr-ios]: https://apps.apple.com/us/app/polarr-photo-editor/id988173374 "A photo editing app."
-[procreate-ios]: https://itunes.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
+[procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

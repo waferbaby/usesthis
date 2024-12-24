@@ -35,5 +35,5 @@ There's also a lot of low-hanging fruit with combining speech and audio queues t
 [notepad-plus-plus-add-on-for-nvda]: https://github.com/derekriemer/nvda-notepadplusplus "An accessibility extension for Notepad++"
 [notepad-plusplus]: https://notepad-plus-plus.org/ "A free text/code editor for Windows."
 [python]: https://www.python.org/ "An interpreted scripting language."
-[rust]: https://www.rust-lang.org/en-US/ "A programming language."
+[rust]: https://www.rust-lang.org/ "A programming language."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

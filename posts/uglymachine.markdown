@@ -38,6 +38,6 @@ This is silly, but I'd also really love an [iPad for mobile working][ipad-pro]. 
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [nikkor-20mm-f4]: https://www.kenrockwell.com/nikon/20f4.htm "A camera lens."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[ps4]: http://us.playstation.com/ps4/index.htm "A shiny gaming console from Sony."
+[ps4]: https://www.playstation.com/en-us/ "A shiny gaming console from Sony."
 [sb-700-af-speedlight]: https://www.nikonusa.com/en/nikon-products/product/flashes/sb-700-af-speedlight.html "An external DSLR flash."
-[sx-70-sonar]: https://eu.impossible-project.com/products/polaroid-sx70-camera-sonar "A Polaroid camera."
+[sx-70-sonar]: https://www.impossible-project.com/products/polaroid-sx70-camera-sonar "A Polaroid camera."

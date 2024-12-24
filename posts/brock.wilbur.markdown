@@ -26,9 +26,9 @@ My 15" [MacBook Pro][macbook-pro] has survived four-ish years that it should not
 
 Most of what's sitting in front of me right now are Line 6 pedals that need to be tied to something and piles of synths that make me wish I remember what power cord went to what unit. My Gamechanger Audio [PLASMA PEDAL][plasma-pedal] High Voltage Distortion Unit is the latest feather in my audio cap, if only because I can see electricity making my sounds do louder, better sounds. But it is very pretty to watch lightning make my guitars go fuzzy. The Dream setup here is that at some point I would have the kind of PC that could handle everything I wanted, instead of depending on a slowly dying Mac laptop from a few years ago. Woof. Someone help. Hahah.
 
-[final-draft]: http://store.finaldraft.com/final-draft-10.html "Popular screenwriting software."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [incopy]: https://creative.adobe.com/products/incopy "A writing companion for InDesign."
-[league-of-legends]: https://na.leagueoflegends.com/ "An RTS/RPG game."
+[league-of-legends]: http://web.archive.org/web/20210826153938/https://na.leagueoflegends.com/en-us/ "An RTS/RPG game."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[plasma-pedal]: https://www.gamechangeraudio.com/plasma/ "A distortion pedal."
+[plasma-pedal]: https://gamechangeraudio.com/plasma/ "A distortion pedal."
 [trello]: https://trello.com/ "A project management service."

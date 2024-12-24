@@ -53,7 +53,7 @@ On phone, I'd love the Note 8 running a Linux desktop based on Plasma mobile. [L
 
 Then, I would love new open source software, notably to replace [Google Drive][google-drive] and [Google Maps][google-maps], which are probably the last 2 services I use from Google.
 
-[arch-linux]: https://www.archlinux.org/ "A Linux distro."
+[arch-linux]: https://archlinux.org/ "A Linux distro."
 [debian]: https://www.debian.org/ "A Linux distribution."
 [dolphin]: https://en.wikipedia.org/wiki/Dolphin_(file_manager) "A file manager included with KDE."
 [duckduckgo]: https://duckduckgo.com/ "A new search engine."
@@ -61,15 +61,15 @@ Then, I would love new open source software, notably to replace [Google Drive][g
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [galaxy-note-8]: https://en.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "A 6.3 inch Android phone."
 [gentoo]: https://www.gentoo.org/ "A Linux distribution."
-[google-drive]: https://drive.google.com/ "A cloud storage service."
+[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [google-maps]: https://www.google.com/maps/ "Web-based map tools."
 [iphone-xs]: https://en.wikipedia.org/wiki/IPhone_XS "A 5.8 inch iOS phone."
-[kde]: https://www.kde.org/ "A graphical environment for *nix operating systems."
+[kde]: https://kde.org/ "A graphical environment for *nix operating systems."
 [konsole]: https://konsole.kde.org/ "A terminal emulator for KDE."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mandrake]: https://en.wikipedia.org/wiki/Mandriva_Linux "A Linux distribution."
-[thinkpad-x1-carbon]: http://shop.lenovo.com/us/en/laptops/thinkpad/x-series/x1-carbon/ "A lightweight PC laptop with a 14 inch screen."
+[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."
-[xps-13]: https://www.dell.com/us/p/xps-13-9333/pd "A 13 inch PC laptop."
+[xps-13]: http://web.archive.org/web/20230706193216/https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9333 "A 13 inch PC laptop."

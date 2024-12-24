@@ -27,4 +27,4 @@ My ideal studio would be flooded with bright natural light so I can draw from du
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [instagram]: https://www.instagram.com/ "A photo sharing service."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."

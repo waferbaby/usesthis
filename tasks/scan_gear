@@ -1,0 +1,54 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+trap("SIGINT") { exit! }
+
+source_path = File.dirname(__dir__)
+$LOAD_PATH.unshift(source_path)
+
+require 'httpx'
+require 'json'
+
+Dir
+  .glob(File.join(source_path, "gear", "**", "*.json"))
+  .sort
+  .each do |path|
+    data = JSON.parse(File.read(path))
+    needs_lookup = false
+
+    print "- #{data["name"]}: "
+
+    response = HTTPX.head(data["url"])
+    source_url = URI.parse(data["url"])
+
+    if response.error
+      print "Connection failed - performing an archive lookup... "
+      needs_lookup = true
+    else
+      case response.status
+      when 200
+        puts "All good."
+      else
+        print "Performing an archive lookup (got a #{response.status})... "
+        needs_lookup = true
+      end
+    end
+
+    if needs_lookup
+      archive_request = HTTPX.get("https://archive.org/wayback/available?url=#{data["url"]}")
+
+      unless archive_request.nil?
+        archive_data = JSON.parse(archive_request.body)
+        archive_url = archive_data.dig("archived_snapshots", "closest", "url")
+
+        if archive_url.nil?
+          puts "No archive URL found!"
+        else
+          data["url"] = archive_url
+          puts "Updated (found archive URL)"
+        end
+      end
+    end
+
+    File.write(path, JSON.pretty_generate(data)) if data["url"] != source_url.to_s
+  end

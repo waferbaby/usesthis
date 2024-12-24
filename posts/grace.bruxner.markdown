@@ -27,10 +27,10 @@ I use [Photoshop][] and [Paint Tool SAI][paint-tool-sai] for concept art and mar
 Hmm... I'm quite happy with the setup I have, but it would be nice to have a laptop that didn't have ugly red LEDs in the keyboard. Something a bit girlier! And perhaps less heavy, too. Otherwise I like my setup a lot and don't have any additional needs.
 
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
-[inspiron-15-7000]: https://www.dell.com/en-us/shop/dell-laptops/inspiron-15-7000-laptop/spd/inspiron-15-7580-laptop "A 15 inch PC laptop."
-[maya-lt]: https://www.autodesk.com/products/maya-lt/overview "3D rendering software targeting game developers."
+[inspiron-15-7000]: https://www.dell.com//www.dell.com "A 15 inch PC laptop."
+[maya-lt]: http://web.archive.org/web/20221224004630/https://www.autodesk.com/products/maya-lt/overview "3D rendering software targeting game developers."
 [paint-tool-sai]: https://en.wikipedia.org/wiki/Paint_Tool_SAI "Image editing software for Windows."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [screentogif]: https://www.screentogif.com/ "A Windows tool for creating GIFs."
 [the-haunted-island]: https://frogdetective.net/ "A game about a frog who is a detective."
-[unity]: https://unity3d.com/unity/ "A cross-platform game development tool."
+[unity]: https://unity.com/products "A cross-platform game development tool."

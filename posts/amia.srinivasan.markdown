@@ -24,11 +24,11 @@ It's about as basic as it gets. I use [Microsoft Word][word] for all my writing;
 
 A light-filled, high-ceilinged, wood-and-glass writing studio, on a beach with a super-mellow wave to [surf](https://www.lrb.co.uk/the-paper/v40/n19/amia-srinivasan/sharky-waters "Amia's London Review of Books article about shark attacks."). A daybed for me to work on, and for my dog Goose to snooze on.
 
-[gel-ink-ballpoint]: https://www.muji.us/store/stationery/pen-pencils/capped-gel-ink.html "A ball-point pen."
-[imac]: https://www.apple.com/imac/ "An all-in-one computer."
+[gel-ink-ballpoint]: https://www.muji.us/collections/pen-pencils "A ball-point pen."
+[imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[notational-velocity]: http://notational.net/ "A clever note-taking app for the Mac."
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[sente]: https://en.wikipedia.org/wiki/Sente_(software) "Reference management software for macOS and iOS."
-[simplenote-ios]: https://itunes.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
-[word]: https://products.office.com/en-us/word "A document editor."
+[notational-velocity]: https://notational.net/ "A clever note-taking app for the Mac."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[sente]: http://web.archive.org/web/20221008200402/http://en.wikipedia.org/wiki/Sente_(software) "Reference management software for macOS and iOS."
+[simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

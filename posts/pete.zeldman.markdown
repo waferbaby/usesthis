@@ -35,10 +35,10 @@ I however, enjoy analysing unique rhythm for their use within specific rhythmic 
 
 This does not discount standard rhythm, it adds to it and allows new doors to be opened that one may pass through to arrive at a place they'd never been before or take them on a journey that could allow their own observations to take them to another world and possibly even time travel.
 
-[828mk3-hybrid]: https://www.amazon.com/MOTU-828mk3-Hybrid-Firewire-Interface/dp/B0014BOXZC "A FireWire/USB audio interface."
+[828mk3-hybrid]: http://web.archive.org/web/20181128202932/https://www.amazon.com/MOTU-828mk3-Hybrid-Firewire-Interface/dp/B0014BOXZC "A FireWire/USB audio interface."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
-[md-421]: http://mixonline.com/mixline/sennheiser_md421_turns50_2610/ "A microphone."
-[re20]: https://www.electrovoice.com/product.php?id=91 "A broadcaster microphone."
-[sm57]: http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone "An instrument microphone."
+[md-421]: http://web.archive.org/web/20140714053558/http://mixonline.com/mixline/sennheiser_md421_turns50_2610/ "A microphone."
+[re20]: https://products.electrovoice.com/product.php?id=91 "A broadcaster microphone."
+[sm57]: http://web.archive.org/web/20190406162705/http://www.shure.com/americas/products/microphones/sm/sm57-instrument-microphone "An instrument microphone."

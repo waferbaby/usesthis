@@ -4,19 +4,8 @@
 source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
 
-require 'dimples'
-require 'lib/usesthis/api'
+require "dimples"
 
-build_path = "/usr/local/www/usesthis.com/build/"
-public_path = "/usr/local/www/usesthis.com/public/"
-
-FileUtils.remove_dir(build_path, true)
-Dir.chdir(source_path)
-
-`git pull`
+build_path = (ARGV[0] ? ARGV[0] : File.join(source_path, "build"))
 
 Dimples::Site.generate(build_path)
-UsesThis::API.generate(build_path)
-
-`rsync -av --delete #{build_path} #{public_path}`
-`chown -R www-data:www-data #{public_path}`

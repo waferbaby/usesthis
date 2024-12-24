@@ -20,7 +20,7 @@ I have eight books in production for publication between now and late 2025 - fou
 
 ### What hardware do you use?
 
-I use a [Framework laptop][framework-laptop]. It's the [greatest laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different).
+I use a [Framework laptop][laptop-13-amd]. It's the [greatest laptop I've ever used](https://pluralistic.net/2021/09/21/monica-byrne/#think-different).
 
 I have [a home office](https://www.flickr.com/photos/doctorow/49469188441/ "A Flickr photo of Cory's home office.") that I used to only use about half of the time, pre-pandemic, when I traveled constantly. These days I'm in it nearly every day.
 
@@ -62,17 +62,17 @@ I'd like a one-button macro to dim my office lights and bring up my three-point 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [beyondpod-android]: https://play.google.com/store/apps/details?id=mobi.beyondpod "A podcast app."
 [brave]: https://brave.com/ "A web browser."
-[chrome]: https://www.google.com/intl/en/chrome/browser/ "A WebKit-based browser, where each tab runs in its own thread."
+[chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [easytag]: https://en.wikipedia.org/wiki/EasyTag "An MP3 tag editor."
 [firefox-android]: https://play.google.com/store/apps/details?id=org.mozilla.firefox "A web browser for Android."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flickr-android]: https://play.google.com/store/apps/details?id=com.flickr.android&hl=en_AU&gl=US "A client for the photo service."
-[framework-laptop]: https://frame.work/laptop "A 13.5 inch PC laptop."
 [gedit]: https://wiki.gnome.org/Apps/Gedit "A text editor for GNOME."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [k-9-mail-android]: https://play.google.com/store/apps/details?id=com.fsck.k9 "An email client."
-[leap]: https://www.steelcase.com/products/office-chairs/leap-2/ "A chair."
+[laptop-13-amd]: https://frame.work/en/products/laptop-13-gen-amd "A 13.5 inch PC laptop."
+[leap]: https://www.steelcase.com/products/office-chairs/leap/ "A chair."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [mastodon]: https://mastodon.social/about "A decentralised social network."
 [mattermost]: https://mattermost.com/ "An open-source corporate chat service."
@@ -82,6 +82,6 @@ I'd like a one-button macro to dim my office lights and bring up my three-point 
 [rhythmbox]: https://wiki.gnome.org/Apps/Rhythmbox "A music management app for GNOME."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[twitter]: https://twitter.com/ "An online micro-blogging platform."
-[ubuntu]: https://www.ubuntu.com/ "A Unix distribution."
+[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [veracrypt]: https://en.wikipedia.org/wiki/VeraCrypt "On-the-fly encryption software."

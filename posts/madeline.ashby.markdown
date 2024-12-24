@@ -29,5 +29,5 @@ My dream setup is less about hardware or software than just physical space. I’
 
 Beyond that, if we’re talking dream setups, I wish there were a door in my place in Toronto via which I could enter the Changeist offices in the Hague, where my colleagues are. I’m in Canada, and they’re in the Netherlands, and we’re separated by six time zones and hardening borders. But we’d get so much more done if I could just be there more often. Mostly because my colleagues are really hard-working people and my productivity improves when I match their schedule. Plus they keep my favourite chocolate pudding in the fridge for me.
 
-[scrivener]: http://literatureandlatte.com/scrivener.php "A Mac text editor aimed at writers."
-[word]: https://products.office.com/en-us/word "A document editor."
+[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

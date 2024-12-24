@@ -26,8 +26,8 @@ I have to have video games (and clonazepam) when I travel, I'm a super nervous f
 
 A heatproof laptop that I can place on the stove. And then instead of having to type everything I do, the stove would just enter the info for me. It's embarrassing how dirty my computer gets. Also, I long for the day when you can just project a recipe on the wall via your phone.
 
-[ds]: https://www.nintendo.com/ds/ "A portable gaming console."
-[eos-30d]: https://www.usa.canon.com/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_30d "An 8.2 megapixel digital SLR."
+[ds]: http://web.archive.org/web/20140510075212/http://www.nintendo.com/ds "A portable gaming console."
+[eos-30d]: http://web.archive.org/web/20151029072053/http://www.usa.canon.com:80/cusa/support/consumer/eos_slr_camera_systems/eos_digital_slr_cameras/eos_30d? "An 8.2 megapixel digital SLR."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [flickr]: https://www.flickr.com/ "A photo sharing website."
 [g1]: https://en.wikipedia.org/wiki/HTC_Dream "An Android smartphone."
@@ -38,11 +38,11 @@ A heatproof laptop that I can place on the stove. And then instead of having to 
 [ipod-mini]: https://en.wikipedia.org/wiki/IPod_Mini "A mid-range audio player."
 [itunes]: https://www.apple.com/itunes/ "A jukebox application and online store."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[pandora]: http://www.pandora.com/ "A personalised Internet radio station."
+[pandora]: http://www.pandora.com/restricted "A personalised Internet radio station."
 [photo-booth]: https://en.wikipedia.org/wiki/Photo_Booth "Software to take photos using the built-in camera of recent Macs."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [picsay-pro]: http://www.picsaypro.com/ "Photo editing software for Android."
-[powershot-g11]: https://www.usa.canon.com/cusa/consumer/products/cameras/digital_cameras/powershot_g11 "A 10 megapixel digital camera."
+[powershot-g11]: https://www.usa.canon.com/support/p/powershot-g11 "A 10 megapixel digital camera."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
-[word]: https://products.office.com/en-us/word "A document editor."
+[word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
