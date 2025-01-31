@@ -35,7 +35,7 @@ For managing general services, I am currently in the process migrating from Pulu
 
 ### What would be your dream setup?
 
-honestly don't know. I'm very close to what it is right now, at least ergonomically. 3 screens, an operating system where I can *drag the effing task bar to any side of the screen I want*, decent performing system, keyboard with clickity clackity switches, a decent weighted mouse, and a spacious desk. Ideally placed in an area with plenty of sunlight and a view of greenery, but not in a way where I'm getting a glare off the screens. I don't really *need* additional compute resources except for reducing toil in my daily life, and that's what I currently use these small processors and machines for anyhow.
+I honestly don't know. I'm very close to what it is right now, at least ergonomically. 3 screens, an operating system where I can *drag the effing task bar to any side of the screen I want*, decent performing system, keyboard with clickity clackity switches, a decent weighted mouse, and a spacious desk. Ideally placed in an area with plenty of sunlight and a view of greenery, but not in a way where I'm getting a glare off the screens. I don't really *need* additional compute resources except for reducing toil in my daily life, and that's what I currently use these small processors and machines for anyhow.
 
 [backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
 [blade]: https://www.razer.com/gaming-laptops/razer-blade-16 "A thin gaming PC laptop."
