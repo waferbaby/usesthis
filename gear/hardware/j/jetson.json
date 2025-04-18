@@ -1,0 +1,5 @@
+{
+  "name": "Jetson",
+  "description": "A small form factor module for running CUDA-X.",
+  "url": "https://developer.nvidia.com/embedded/jetson-modules"
+}
