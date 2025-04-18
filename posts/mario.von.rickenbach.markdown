@@ -6,6 +6,7 @@ categories:
 - designer
 - developer
 - game
+- mac
 ---
 
 ### Who are you, and what do you do?
