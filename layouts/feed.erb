@@ -18,7 +18,7 @@
   <link href="https://usesthis.com/interviews/<%= post.slug %>/"/>
   <updated><%= post.date.strftime('%FT%T') %>Z</updated>
   <content type="html">
-    <%= ERB::Escape.html_escape("<p><img src=\"http://usesthis.com/images/interviews/#{post.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{post.title}\"></p>\n#{post.template.render}") %>
+    <%= ERB::Escape.html_escape("<p><img src=\"http://usesthis.com/images/interviews/#{post.slug}/portrait.jpg\" width=\"500\" height=\"325\" alt=\"#{post.title}\"></p>\n#{post.template.render}<p><strong>☕️ Enjoying the feed?</strong> Why not <a href=\"https://ko-fi.com/waferbaby\" title=\"Support the site via ko-fi.com.\">buy me a coffee?</a></p>") %>
   </content>
 </entry>
 <% end %>
