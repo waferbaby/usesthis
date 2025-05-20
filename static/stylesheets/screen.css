@@ -32,10 +32,12 @@ article.interviewee:last-of-type p.details {
   border: 0;
 }
 
-aside#sponsorship {
-  border-top: solid 1px var(--divider-colour);
-  font-size: 80%;
-  padding-top: 15px;
+aside#support {
+  background-color: var(--gradient-start);
+  font-size: 68%;
+  order: -1;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
 body {
@@ -44,16 +46,14 @@ body {
   background-repeat: no-repeat;
   background-size: 100% 250px;
   color: var(--text-colour);
-  display: grid;
+  display: flex;
+  flex-flow: column;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   font-size: 1.2em;
-  grid-template-columns: 180px auto;
-  grid-template-rows: 60px 110px auto;
-  grid-column-gap: 25px;
   line-height: 1.4em;
   margin: auto;
-  max-width: 1000px;
-  padding: 30px;
+  max-width: 800px;
+  padding: 10px 30px;
 }
 
 dd {
@@ -81,7 +81,6 @@ figure {
 footer {
   border-top: solid 1px var(--divider-colour);
   font-size: 70%;
-  grid-row: 3;
 }
 
 form {
@@ -90,7 +89,7 @@ form {
 }
 
 h1 {
-  font-size: 150%;
+  font-size: 280%;
   line-height: 1em;
   margin: 0;
   padding: 0;
@@ -129,11 +128,6 @@ h4 {
   padding: 0;
 }
 
-header#masthead {
-  grid-column: 1;
-  grid-row: 1;
-}
-
 img.detail, img.portrait {
   border: solid 1px var(--image-border-colour);
   padding: 0;
@@ -145,13 +139,6 @@ input[type=search] {
 
 li {
   padding: 0;
-}
-
-main {
-  border-left: solid 1px var(--divider-colour);
-  grid-row: 1/4;
-  max-width: 800px;
-  padding: 0 50px;
 }
 
 main > h2 + p {
@@ -168,6 +155,21 @@ nav a {
   color: var(--link-nav-colour);
 }
 
+nav li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+nav li:before {
+  color: var(--divider-colour);
+  content: "/ ";
+}
+
+nav li:first-child:before {
+  content: none;
+}
+
 nav ul {
   list-style: none outside;
   margin: 0;
@@ -175,10 +177,9 @@ nav ul {
 }
 
 nav#control {
+  border-bottom: solid 1px var(--divider-colour);
   border-top: solid 1px var(--divider-colour);
-  font-size: 85%;
-  grid-column: 1;
-  grid-row: 2;
+  font-size: 110%;
   margin: 5px 0 25px 0;
   padding: 10px 0;
   text-transform: uppercase;
@@ -230,13 +231,6 @@ p#description {
 
 p#licence {
   font-size: 70%;
-}
-
-p#sponsorship {
-  border-top: solid 1px var(--divider-colour);
-  color: var(--details-colour);
-  font-size: 80%;
-  padding-top: 15px;
 }
 
 p.details {
@@ -306,11 +300,7 @@ ul.months li:first-child:before {
   content: none;
 }
 
-@media all and (max-width: 625px) {
-  body {
-    display: block;
-  }
-
+@media all and (max-width: 600px) {
   figure {
     height: 0;
     margin-bottom: 15px;
@@ -321,15 +311,6 @@ ul.months li:first-child:before {
   figcaption {
     float: left;
     margin-top: 10px;
-  }
-
-  h2 {
-    clear: left;
-  }
-
-  header#masthead, main {
-    border: 0;
-    padding: 0;
   }
 
   img.detail {
@@ -345,27 +326,8 @@ ul.months li:first-child:before {
     width: 100%;
   }
 
-  nav li {
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-  }
-
-  nav li:before {
-    color: var(--divider-colour);
-    content: "/ ";
-  }
-
-  nav li:first-child:before {
-    content: none;
-  }
-
-  nav#control {
-    border-bottom: solid 1px var(--divider-colour);
-  }
-
   nav#control ul {
-    font-size: 100%;
+    font-size: 80%;
   }
 
   ul.categories {
@@ -373,7 +335,7 @@ ul.months li:first-child:before {
   }
 }
 
-@media all and (max-width: 320px) {
+@media all and (max-width: 550px) {
   ul.categories {
     grid-template-columns: 1fr;
   }
