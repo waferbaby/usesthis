@@ -15,6 +15,19 @@
   --usesthis-pink: #fe2e9a;
 }
 
+
+p#support {
+  background: var(--usesthis-purple);
+  border-radius: 4px;
+  padding: 4px;
+}
+
+p#support>a {
+  font-weight: bold; 
+  color: #fff
+}
+
+
 a {
   color: var(--link-colour);
   text-decoration: underline;
@@ -403,4 +416,11 @@ ul.months li:first-child:before {
   dt, :not(a) > h3 {
     color: #fff;
   }
+}
+
+@media (prefers-color-scheme: light) {
+  p#support>a {
+    font-weight: bold; 
+    color: #000
+  } 
 }
