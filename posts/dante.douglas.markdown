@@ -23,7 +23,7 @@ My desktop computer is a sort of ship-of-theseus monstrosity that I've been main
 
 It's got a bunch of less-important things, but the important stuff is that I have a processor and video card able to handle most games at 1080p without too much issue. I'm not a graphics snob by any means, but a [recent video card upgrade][geforce-gtx-1060] means that I can now play all the fancy AAA games and be wowed by their various million-dollar graphical advances.
 
-For peripherals, I have a [Rosewill mechanical keyboard with Cherry MX Brown switches][rk-9000br] and a [G502 wired mouse][g502]. I like the keyboard because it's extremely basic, visually, and I love Cherry MX Brown switches for how squishy they are. The mouse is a bit gaudy for my tastes, but I do love the amount of available buttons and you can (mercifully) turn off the ridiculous Gamer Lights.
+For peripherals, I have a [Rosewill mechanical keyboard with Cherry MX Brown switches][rk-9000br] and a [G502 wired mouse][g502-hero]. I like the keyboard because it's extremely basic, visually, and I love Cherry MX Brown switches for how squishy they are. The mouse is a bit gaudy for my tastes, but I do love the amount of available buttons and you can (mercifully) turn off the ridiculous Gamer Lights.
 
 I also have a [G933 wireless headset][g933], which does the job fine. No complaints. It's also surprisingly comfortable. 
 
@@ -55,7 +55,7 @@ Basically, my dream setup is that we, writers/critics/artists, don't have to str
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
 [bitsy]: https://ledoux.itch.io/bitsy "A web-based game development tool."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[g502]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [g933]: https://support.logi.com/hc?mID=12016 "A gaming headset."
 [gamemaker]: https://gamemaker.io:443/gamemaker "A cross-platform game creation tool."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."

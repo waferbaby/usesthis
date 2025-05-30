@@ -25,7 +25,7 @@ When I'm at my other desk (where I do most of my personal writing) I connect to 
 
 To the right of that is my Windows gaming PC that I've built and upgraded over the years. Current specs are: an [Intel i7 8700K][core-i7-8700k] overclocked to 5GHz, 32GB of DDR4 RAM, [Asus Prime Z390-A motherboard][prime-z390-a], various NVMe and SATA SSDs to hold all the video games I barely have the time to play, an [EVGA Nvidia GeForce RTX 3090 FTW3][geforce-rtx-3090] that I bought at a local shop last year (and could never have guessed that paying MSRP for it would seem like such a bargain now), a [Corsair RM850x PSU][rm850x], a [Noctua NH-D15S CPU cooler][nh-d15s], all living in a [Fractal Design Define 7 XL case][define-7-xl] that was a dream to work with.
 
-When gaming, I use a [ASUS ROG Swift PG27UQ 27" 4K 144Hz G-SYNC monitor][rog-swift-pg27uq]. I switch between [HyperX Cloud Alpha headphones][cloud-alpha] and a [Corsair SP2500 2.1 speaker set][sp2500] I've had since 2011. I use a Leopold Tenkeyless keyboard with Cherry MX Blue switches and a [Logitech G502 wireless mouse][g502] running on a PowerPlay charging mat.
+When gaming, I use a [ASUS ROG Swift PG27UQ 27" 4K 144Hz G-SYNC monitor][rog-swift-pg27uq]. I switch between [HyperX Cloud Alpha headphones][cloud-alpha] and a [Corsair SP2500 2.1 speaker set][sp2500] I've had since 2011. I use a Leopold Tenkeyless keyboard with Cherry MX Blue switches and a [Logitech G502 wireless mouse][g502-hero] running on a PowerPlay charging mat.
 
 As for portable gaming, I have a [Nintendo Switch][switch.2] that I use around the house (we have a few docks) and a [Switch Lite][switch-lite] that I use on the go (because it is pink and it fits in my purse). The Nintendo Cloud syncing works a lot better than I expected.
 
@@ -57,7 +57,7 @@ Honestly, I'm pretty sure I have it. I've always wanted a single laptop that I c
 [ds1813-plus]: https://global.download.synology.com/download/Document/Hardware/DataSheet/DiskStation/13-year/DS1813+/enu/Synology_DS1813_Plus_Data_Sheet_enu.pdf "A NAS device."
 [dx513]: https://global.download.synology.com/download/Document/Hardware/UserGuide/ExpansionUnit/13-year/DX513/enu/Syno_UsersGuide_DX513_enu.pdf "A NAS storage expansion device."
 [final-fantasy-xiv]: https://en.wikipedia.org/wiki/Final_Fantasy_XIV "A fantasy MMO."
-[g502]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [geforce-rtx-3090]: https://en.wikipedia.org/wiki/GeForce_30_series#Details "A graphics card."
 [hadoop]: https://hadoop.apache.org/ "Open-source distributed data computing software."
 [homebridge]: https://homebridge.io/ "Software for connecting devices to HomeKit that don't support it."

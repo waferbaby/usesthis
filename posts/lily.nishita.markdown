@@ -15,7 +15,7 @@ I'm [Lily Nishita](http://lilynishita.com "Lily's website."), a graphic designer
 
 ### What hardware do you use?
 
-For my home setup I'm on a 2012 [MacBook Pro][macbook-pro], and I use a [Cintiq 22HD tablet][cintiq] to do a lot of my drawing on, and use it instead of a mouse for convenience. I also have a [Razer Nostromo][nostromo] gaming keypad with a few different sets of keyboard shortcuts mapped to it for whatever I happen to be working on. It doesn't replace the main keyboard, but the keypad speeds up my workflow immensely and saves me from bouncing all over a keyboard. I also have a [Logitech G502 gaming mouse][g502] for 3D that I love the feel of, since it's pretty hefty but still fits my hand. It's unfortunate I like it so much, since the software doesn't work on Macs so I can't turn off the flashing rainbow lights!
+For my home setup I'm on a 2012 [MacBook Pro][macbook-pro], and I use a [Cintiq 22HD tablet][cintiq] to do a lot of my drawing on, and use it instead of a mouse for convenience. I also have a [Razer Nostromo][nostromo] gaming keypad with a few different sets of keyboard shortcuts mapped to it for whatever I happen to be working on. It doesn't replace the main keyboard, but the keypad speeds up my workflow immensely and saves me from bouncing all over a keyboard. I also have a [Logitech G502 gaming mouse][g502-hero] for 3D that I love the feel of, since it's pretty hefty but still fits my hand. It's unfortunate I like it so much, since the software doesn't work on Macs so I can't turn off the flashing rainbow lights!
 
 I also keep a few sketchbooks stashed around and an assortment of pens for quick ideas. My favorites right now are the Kuretake Fude brush pen no. 55, [Pilot Pocket brush pens][pocket-brush-pen], [Pilot Hi-Tec-C][hi-tec-c] .3 pen and [Mildliners][mildliner]. The brush pens have a more rubbery tip, so I can get a lot of nice line variation with clean edges. For sketchbooks I usually have 2 or 3 going at once. Right now I keep a Moleskine blank notebook in my bag for notes and doodling when I'm out and about and a Cottonwood Arts sketchbook by my desk.
 
@@ -36,7 +36,7 @@ I'm really looking forward to getting a faster home computer - this one has serv
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fantastical]: https://flexibits.com/fantastical "A calendaring app for the Mac."
-[g502]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [hi-tec-c]: http://web.archive.org/web/20190506063359/https://www.amazon.com/Pilot-Hi-Tec-C-Gel-Basic-Colors/dp/B001GR4CQO "A pen."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."

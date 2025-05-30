@@ -17,7 +17,7 @@ In my spare time outside of work (and open source) I'm usually enjoying the outd
 
 ### What hardware do you use?
 
-At present, my main PC is a custom built machine from 2016 that I've not upgraded (save for the GPU after a hardware failure) partially out of spite, and partially out of curiosity to see just how long this machine can last under modern workloads. It has 64GB of RAM, an [Intel i7 6700K][core-i7-6700k], a [GeForce 3060][geforce-rtx-3060], and a few SATA SSDs. I'm also using 3 ViewSonic 27" 144hz monitors from 2016 that work extremely well, and an [RØDE  NT-USB mini microphone][nt-usb-mini]. For what is about 100 USD, it is hands down the best microphone I've ever owned for desktop usage. For peripherals, I'm using a [Keychron Q3][q3] keyboard with [NovelKeys Kailh Box Pinks][box.2], and a [Logitech G502 Lightspeed][g502]. These are both a recent upgrade and change up due to an unfortunate situation where a [Stream Deck Mini][stream-deck-mini] shorted out a USB hub and damaged every device that was attached to it.
+At present, my main PC is a custom built machine from 2016 that I've not upgraded (save for the GPU after a hardware failure) partially out of spite, and partially out of curiosity to see just how long this machine can last under modern workloads. It has 64GB of RAM, an [Intel i7 6700K][core-i7-6700k], a [GeForce 3060][geforce-rtx-3060], and a few SATA SSDs. I'm also using 3 ViewSonic 27" 144hz monitors from 2016 that work extremely well, and an [RØDE  NT-USB mini microphone][nt-usb-mini]. For what is about 100 USD, it is hands down the best microphone I've ever owned for desktop usage. For peripherals, I'm using a [Keychron Q3][q3] keyboard with [NovelKeys Kailh Box Pinks][box.2], and a [Logitech G502 Lightspeed][g502-hero]. These are both a recent upgrade and change up due to an unfortunate situation where a [Stream Deck Mini][stream-deck-mini] shorted out a USB hub and damaged every device that was attached to it.
 
 For general portable workloads, I have a [Lenovo ThinkPad X1 Carbon][thinkpad-x1-carbon] (6th Generation) that I've throw whatever Linux distro I fancy at the moment onto. This machine is old and intended more for general internet usage rather than software development at this point as it's extremely lightweight and holds a battery charge quite well despite its age. For computing, I turn to a Quartz [Razer Blade 16"][blade] that has a dedicated GPU in it and runs quite well, though it's slower than my desktop for some software workloads.
 
@@ -47,7 +47,7 @@ I honestly don't know. I'm very close to what it is right now, at least ergonomi
 [discord]: https://discord.com/ "A voice and text chat service."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [forgejo]: https://forgejo.org/ "Self-hosted version control and project software."
-[g502]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [geforce-rtx-3060]: https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3060-3060ti/ "A graphics card."
 [halloy]: https://github.com/squidowl/halloy/ "An open-source IRC client."
 [home-assistant-yellow]: https://yellow.home-assistant.io/ "A small computer dedicated to running Home Assistant."

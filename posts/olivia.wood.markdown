@@ -28,7 +28,7 @@ I drink cocktails; caipirinha, please.
 
 ### What hardware do you use?
 
-My home computer is a custom build gaming rig/workstation. I have two 26" monitors - I can't work on fewer. The mouse is [Logitech G502][g502] - I care more about having a nice mouse than a good keyboard. My keyboard is some old one with a leg gaffer-taped on. I'm still on [Windows 7][windows-7] because I'm not having any of the [Windows 10][windows-10] nonsense. At work the setup is similar, but less high powered. 
+My home computer is a custom build gaming rig/workstation. I have two 26" monitors - I can't work on fewer. The mouse is [Logitech G502][g502-hero] - I care more about having a nice mouse than a good keyboard. My keyboard is some old one with a leg gaffer-taped on. I'm still on [Windows 7][windows-7] because I'm not having any of the [Windows 10][windows-10] nonsense. At work the setup is similar, but less high powered. 
 
 My laptop is an [Acer Aspire S7 392][aspire-s7-392]; often mistaken for an Apple as it's gorgeous. It's almost perfect - the only problem is the battery, which insta-dies somewhere around 15%. I've tried all the fixes and now just save regularly and work with increased urgency as it fades. I only use it when working from cafes. I love cafe working - I can focus better with background noise and people to avoid talking to - but it gets expensive. 
 
@@ -60,7 +60,7 @@ I'm pretty pleased with what I've got already. A gentle wish would be for a more
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facetime]: https://en.wikipedia.org/wiki/FaceTime "Mac and iOS software for easy video chatting."
 [fallen-london]: http://fallenlondon.storynexus.com/ "A browser-based game."
-[g502]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
