@@ -35,7 +35,7 @@ Pretty much what I have now -- shop spaces in multiple places, with enthusiastic
 [grasshopper]: https://www.grasshopper3d.com/ "A graphical algorithm editor for Rhino."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [liberty-basic]: https://www.libertybasic.com/ "A Windows-based BASIC programming system."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [raspberry-pi]: https://en.wikipedia.org/wiki/Raspberry_Pi "A single-board hackable computer."
 [rhino]: https://www.rhino3d.com/ "3D modelling software."

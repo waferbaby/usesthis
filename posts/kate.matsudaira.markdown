@@ -54,7 +54,7 @@ Everything listed above but located in Hawaii - and maybe a pair of Bose headpho
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [mindmeister-ios]: https://apps.apple.com/us/app/mindmeister-mind-mapping/id291226775 "An app for the mind mapping service."
 [myhabit-ios]: https://apps.apple.com/us/app/myhabit/id435253220 "An app for the bargain designer clothes service."

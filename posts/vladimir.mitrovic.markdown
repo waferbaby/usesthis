@@ -16,7 +16,7 @@ I'm Vladimir Mitrović, a software engineer/computational designer/artist from B
 
 My home studio has quite a bit of hardware in it. I've recently shelled out a bag of cash on a 2019 [iMac Pro][imac-pro], and I have zero regrets – it's a beast. My eyes are also thankful, as I was looking at low-PPI monitors for decades.
 
-I'm a mechanical keyboard afficionado, although I try not to geek out as much as I'd want to. My main keyboard is a [tokyo60][], and I have a [HHKB Type-S][happy-hacking-keyboard-professional-type-s] as backup when I want to change things up a bit. Once you get accustomed to the HHKB keyboard layout (which both of them have), there's no going back. I also have an old Filco [Ninja TKL][ninja-majestouch-2] and a Vortex [Race 3][race-3] but I'm not using them all that much these days.
+I'm a mechanical keyboard afficionado, although I try not to geek out as much as I'd want to. My main keyboard is a [tokyo60][], and I have a [HHKB Type-S][happy-hacking-keyboard-professional-type-s] as backup when I want to change things up a bit. Once you get accustomed to the HHKB keyboard layout (which both of them have), there's no going back. I also have an old Filco [Ninja TKL][majestouch-ninja-2] and a Vortex [Race 3][race-3] but I'm not using them all that much these days.
 
 When I'm on the go, I'm still relying on my trusty 2013 [MacBook Pro][macbook-pro], which was pretty beefed up back in 2013 so it can still hold its ground. Since most of my work is GPU-heavy, I can't go for the lightweight options like the [MacBook Air][macbook-air] or Huawei [Matebook X Pro][matebook-x-pro], although I would certainly love to.
 
@@ -63,9 +63,9 @@ That said, in the coming months I would like to find a comfortable studio space 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
+[majestouch-ninja-2]: https://www.diatec.co.jp/en/det.php?prod_c=763 "A mechanical keyboard."
 [matebook-x-pro]: https://consumer.huawei.com/en/laptops.html "A 13.9 inch PC laptop."
 [ms-cube]: http://web.archive.org/web/20191001113834/http://www.cmy.com.my/shop-online/mission-ms-cube-200w-active-subwoofer/ "A subwoofer."
-[ninja-majestouch-2]: https://www.keyboardco.com/keyboard/usa-filco-ninja-majestouch-2-tenkeyless-nkr-tactile-action-keyboard.asp "A mechanical keyboard."
 [oh-my-zsh]: https://github.com/ohmyzsh/ohmyzsh "A framework of extensions and themes for the zsh shell."
 [openframeworks]: https://openframeworks.cc/ "A C++ library for creative projects."
 [race-3]: https://www.vortexgear.tw/vortex2_2.asp?kind=47&kind2=225&kind3=&kind4=1044 "A mechanical keyboard."

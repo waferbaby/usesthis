@@ -77,7 +77,7 @@ Speaking of that, the stuff I work on is myself pretty hard to fund. You can sup
 [hurd]: https://www.gnu.org/software/hurd/hurd.html "A replacement OS for UNIX."
 [krita]: https://krita.org/ "An open-source image editor."
 [libreboot]: https://libreboot.org/ "Open-source BIOS/UEFI replacement software."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [mastodon]: https://mastodon.social/about "A decentralised social network."
 [mediagoblin]: http://web.archive.org/web/20221224074359/https://mediagoblin.org/ "Open source digital media web sharing."
 [mu4e]: https://www.djcbsoftware.nl/code/mu/mu4e.html "A email client that sits on top of emacs."

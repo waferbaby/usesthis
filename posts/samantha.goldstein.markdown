@@ -16,7 +16,7 @@ categories:
 
 <img src="/images/interviews/samantha.goldstein/keyboard.jpg" width="500" height="430" alt="A photo of Samantha's pink keyboard on her desk." class="detail">
 
-I use an [Epilog Fusion laser cutter][fusion-m2] for cutting wood and acrylic for jewelry making. I really adore this little [baby blue soldering iron][wesd51], and my [headphones][rp-htx7-a1] that match. I just got this amazing [mechanical keyboard][majestouch-2] and have some [pastel keycaps][paradise] on the way. I'm can't wait to get some time to watch a movie and swap in my new keycaps. My keyboard Cherry MX Blue switches which are extra clacky and have a really satisfying tactile bump. I love the way it feels to type -- every keystroke a resounding clack and every line a manifesto! I have a lot of handmade work and jewelry -- it's meaningful to me to know that time and care went into the tools around me, and I think it helps remind me of what I want to put into my own work.
+I use an [Epilog Fusion laser cutter][fusion-m2] for cutting wood and acrylic for jewelry making. I really adore this little [baby blue soldering iron][wesd51], and my [headphones][rp-htx7-a1] that match. I just got this amazing [mechanical keyboard][majestouch-ninja-2] and have some [pastel keycaps][paradise] on the way. I'm can't wait to get some time to watch a movie and swap in my new keycaps. My keyboard Cherry MX Blue switches which are extra clacky and have a really satisfying tactile bump. I love the way it feels to type -- every keystroke a resounding clack and every line a manifesto! I have a lot of handmade work and jewelry -- it's meaningful to me to know that time and care went into the tools around me, and I think it helps remind me of what I want to put into my own work.
 
 I do, admittedly, have a bit of a zombie pit for hardware projects on pause. I once made a ceiling mounted light installation with an [Arduino Uno][arduino-uno] that responded to the audio levels in the room for a party. It was SO janky and potentially a bit dangerous, to be honest, but I was really on a _Halt and Catch Fire_ bender and I think the solder fumes were getting to my head.
 
@@ -49,7 +49,7 @@ After seeing Claire Dane's [Met Gala dress](https://www.vanityfair.com/style/201
 [gmk-mondrian]: https://drop.com/talk/1409/gmk-mondrian-blank-set-for-ortholinears?mode=guest_open "Keycaps for a mechanical keyboard."
 [karabiner]: https://karabiner-elements.pqrs.org/ "Mac software for remapping the keys of your laptop."
 [keepcup-brew-cork]: https://au.keepcup.com/keepcup-series/tasting-notes-brew-cork-series/thyme.html?country=Australia# "A reusable coffee cup."
-[majestouch-2]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2250 "A mechanical keyboard."
+[majestouch-ninja-2]: https://www.diatec.co.jp/en/det.php?prod_c=763 "A mechanical keyboard."
 [marble-style-artisan]: https://drop.com/buy/eve-sa-marble-style-artisan-keycaps-esc-backspace "Keycaps for a mechanical keyboard."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [paradise]: https://drop.com/buy/tai-hao-paradise-pbt-keycap-set-massdrop-debut?mode=guest_open "Keycaps for a mechanical keyboard."

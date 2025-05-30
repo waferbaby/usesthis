@@ -55,7 +55,7 @@ What I have. I could not imagine anything that would improve my work flow much. 
 [kornshell]: http://www.kornshell.org "A command-line shell."
 [latitude-e6410]: https://www.dell.com/en-mk/work/shop/cty/pdp/spd/latitude-e6410 "A 14.1 inch PC laptop."
 [lisp9]: http://t3x.org/lisp9/ "A dialect of Scheme based on LISP."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [m200]: http://web.archive.org/web/20090307115446/http://www.pelikan.com:80/ "A fountain pen."
 [make]: http://www.gnu.org/software/make/manual/make.html "Software to prepare code for compilation."
 [mutt]: http://www.mutt.org/ "A command-line email client."

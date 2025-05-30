@@ -77,7 +77,7 @@ I'm also blowing enough money on [AWS][] clusters these days that it might be co
 [irssi]: https://irssi.org/ "A CLI irc client."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [linode]: https://www.linode.com "A VPS hosting service."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [mutt]: http://www.mutt.org/ "A command-line email client."

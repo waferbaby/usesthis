@@ -78,7 +78,7 @@ The dream setup has to allow me to play Counter-Strike Gun Game when I'm on a hi
 [ipad-mini]: https://www.apple.com/ipad-mini/ "A 7.9 inch tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [irb]: https://en.wikipedia.org/wiki/Interactive_Ruby_Shell "An interactive Ruby shell."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."

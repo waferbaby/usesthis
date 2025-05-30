@@ -21,7 +21,7 @@ My main work device is a 13″ [MacBook Pro][macbook-pro], Late 2016 (3.1 GHz i5
 
 Laptop portability is important to me - I previously had a maxed-out [11″ MacBook Air][macbook-air] (Late 2014). I think it was my favorite computer to date. Not only because it  had a much, much, much better keyboard than all current Apple laptops, but because it was so incredibly small and lightweight.
 	
-Whenever I work at my desk, the MacBook Pro is tethered to an [LG UltraFine 5K][ultrafine-5k] monitor, a [Filco MajesTouch Ninja Tenkeyless][majestouch-ninja-tenkeyless] with Cherry MX Brown keys that I bought in 2013, and a [Logitech MX Master 2S][mx-master-2s]. For my left hand, I have an [Apple Magic Trackpad 2][magic-trackpad-2]. Yes, I use both pointing devices at the same time. Sounds weird, but I do my pointing with the right hand and my zooming and scrolling with my left hand. I highly recommend this setup. It feels super productive and professional and futuristic - and it puts less strain on the mousing hand.
+Whenever I work at my desk, the MacBook Pro is tethered to an [LG UltraFine 5K][ultrafine-5k] monitor, a [Filco MajesTouch Ninja Tenkeyless][majestouch-ninja] with Cherry MX Brown keys that I bought in 2013, and a [Logitech MX Master 2S][mx-master-2s]. For my left hand, I have an [Apple Magic Trackpad 2][magic-trackpad-2]. Yes, I use both pointing devices at the same time. Sounds weird, but I do my pointing with the right hand and my zooming and scrolling with my left hand. I highly recommend this setup. It feels super productive and professional and futuristic - and it puts less strain on the mousing hand.
 
 I have collected a few generations of iOS devices to test my apps. My main phone is an [iPhone X][iphone-x].
 
@@ -70,7 +70,7 @@ If I had one wish, I would love a powerful MacBook Air with low-profile mechanic
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [magic-trackpad-2]: https://en.wikipedia.org/wiki/Magic_Trackpad_2 "A trackpad for desktop machines."
-[majestouch-ninja-tenkeyless]: https://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
+[majestouch-ninja]: https://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
 [monokai-pro]: https://monokai.pro/ "A colour scheme for text editors."
 [mx-master-2s]: https://www.logitech.com/en-us/product/mx-master-2s-flow.html "A wireless mouse."
 [novel-mono]: http://www.atlasfonts.com/typefaces/novel-mono/ "A font."

@@ -105,7 +105,7 @@ I'm trying to build some of these things - right now I'm still stuck on the firs
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latitude-e6430]: http://web.archive.org/web/20190506065215/https://www.dell.com/en-us/work/shop/cty/pdp/spd/latitude-e6430 "A durable 14 inch PC laptop."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [lumix-dmc-g3]: http://web.archive.org/web/20230522005256/http://www.amazon.com/Panasonic-Four-Thirds-Interchangeable-Free-Angle-Touch-Screen/dp/B005058BTW "A 16 megapixel micro 4/3 digital camera."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

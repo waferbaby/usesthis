@@ -50,7 +50,7 @@ Also, if I could have one last wish, it would have a 1/4" headphone jack, and a 
 [elementary-os]: https://elementary.io/ "A Linux operating system."
 [fish]: https://fishshell.com/ "A command-line shell."
 [krita]: https://krita.org/ "An open-source image editor."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [micro]: https://micro-editor.github.io/ "A command-line text editor."
 [mini-vmac]: https://www.gryphel.com/c/minivmac/ "Mac emulation software."

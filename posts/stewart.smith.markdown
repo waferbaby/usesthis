@@ -38,7 +38,7 @@ I have some other far-fetched ideas about guilds and collectives but it's all a 
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [mavis-beacon]: https://www.broderbund.com/education "Popular typing tutoring software."
 [objective-c]: https://en.wikipedia.org/wiki/Objective-C "An object-oriented compiled language."
 [opengl]: https://www.opengl.org/ "An industry standard/implementation for 2D/3D graphics."

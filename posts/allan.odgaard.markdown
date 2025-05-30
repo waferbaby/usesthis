@@ -72,7 +72,7 @@ For example I mentioned above I have 3 AirTunes units, so in theory I could writ
 [omniweb]: https://en.wikipedia.org/wiki/OmniWeb "An alternative Mac browser based on WebKit."
 [perian]: https://www.perian.org/ "An open-source QuickTime componenet for the Mac."
 [quicksilver]: https://qsapp.com/ "A data manipulator and launcher for the Mac."
-[remind]: https://www.linuxjournal.com/article/3529 "A simple cross-platform, open source calendar app."
+[remind]: https://dianne.skoll.ca/projects/remind/ "A simple cross-platform, open source calendar app."
 [rsync]: https://rsync.samba.org/ "An open-source file transfer/syncing tool."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [textexpander]: https://textexpander.com/ "A Mac app for adding custom abbreviations for often-used text."

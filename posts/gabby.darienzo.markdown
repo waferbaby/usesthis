@@ -22,7 +22,7 @@ At Drinkbox’s office I use a Windows PC and a [Wacom Cintiq Pro 24][cintiq-pro
 
 At home I use Windows PC and a [Wacom Intuos Drawing Tablet][intuos] with a much more aesthetic mouse and keyboard setup:
 
-- Keyboard: [Pink Filco Majestouch 2][majestouch-2] with [Astrolokeys][] key caps
+- Keyboard: [Pink Filco Majestouch 2][majestouch-ninja-2] with [Astrolokeys][] key caps
 - Mouse: [Quartz Pink Razer Lancehead Tournament Edition][lancehead-tournament-edition]
 - Controller: [Xbox PowerA Enhanced Wired Controller][powera-enhanced] in “Pink Lemonade”
 - Headphones: Pink DEEBOX
@@ -64,7 +64,7 @@ Toronto rent/housing is absurdly expensive though, so this may end up being a li
 [lancehead-tournament-edition]: http://web.archive.org/web/20210326002445/https://www.razer.com/gaming-mice "A gaming mouse."
 [m08f]: https://phomemo.com/products/m08f-portable-printer "A portable thermal printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
-[majestouch-2]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2250 "A mechanical keyboard."
+[majestouch-ninja-2]: https://www.diatec.co.jp/en/det.php?prod_c=763 "A mechanical keyboard."
 [nobody-saves-the-world]: https://www.nobodysavestheworld.com/ "A game where you can transform into different creatures thanks to a magic wand."
 [parkitect]: https://www.themeparkitect.com/ "A theme park simulation game."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."

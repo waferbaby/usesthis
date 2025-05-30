@@ -37,7 +37,7 @@ I really don't need much more for the audio software/hardware set up. I've contr
 
 For video, it's another matter. I still rent a Canon [MP-E 65mm][mp-e-65mm-f2.8-1-5x] macro lens, so that would be the first realistic purchase. Further up the financial scale would be the new [Red Scarlet][scarlet], and the full-fledged dream purchase would be a [Vision Research Phantom Flex][phantom-flex]. If I'm springing for the Flex I might as well look into have some custom optics built, yeah? I'll call Zeiss. I'd also love to build a fully modular clean room, light table and camera rig that allows for all of the various lighting and camera setup scenarios I find myself needing.
 
-[10s]: https://www.krkmusic.com/KRK-Subwoofers "A subwoofer."
+[10s]: https://www.krkmusic.com/Powered-Subwoofer/s10 "A subwoofer."
 [12ay7]: https://www.ehx.com/dealer-locator/ "A mic preamp."
 [85m-p-85mm-f1.4]: http://web.archive.org/web/20230422131410/http://www.amazon.com/Rokinon-85M-P-Aspherical-Pentax-Black/dp/B0025F4AWW "A DSLR lens."
 [a-2340r]: https://vimeo.com/8220643 "A reel to reel machine."

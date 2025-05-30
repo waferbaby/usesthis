@@ -57,7 +57,7 @@ computers are made of blood and i hope to never buy a new one again. i'd also li
 [keystation-49]: http://web.archive.org/web/20140703223846/http://m-audio.com/products/en_us/Keystation49New.html "A 49-key keyboard."
 [krita]: https://krita.org/ "An open-source image editor."
 [latex]: https://www.latex-project.org/ "Typesetting software."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [little-sound-dj]: https://www.littlesounddj.com/lsd/ "A music sequencer and sampler in a Game Boy cartridge."
 [lpd8]: http://web.archive.org/web/20230706203147/https://www.akaipro.com/lpd8-lpd8 "An audio pad controller."
 [lua]: http://www.lua.org/ "An interpreted scripting language."

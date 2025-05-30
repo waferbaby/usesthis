@@ -63,7 +63,7 @@ A vintage [Telecaster][] would be nice to have. I have a good tube amp for liste
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lightroom]: https://www.adobe.com/products/photoshop-lightroom.html "Photo management and editing software."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [lispworks]: http://www.lispworks.com/products/lispworks.html "A Lisp IDE."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."

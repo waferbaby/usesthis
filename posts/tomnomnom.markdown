@@ -23,7 +23,7 @@ I do love having good hardware (see last question ;)), but the parts I interact 
 
 For sound I have a couple of [KRK ROKIT 5 active monitors][rokit-5] fed by a [Focusrite Scarlett 2i2][scarlett-2i2]. I listen to music a lot while I'm working, so I really appreciate having good quality sound.
 
-My mouse is a wired [Microsoft Comfort 6000][comfort-mouse-6000]; which seems to be discontinued. It's quite big, so it suits my hands well. My keyboard is a [Filco Majestouch 2 Tenkeyless][majestouch-2] with Cherry MX Brown switches. I'm quite a heavy typer so it makes a hell of a noise when I get going.
+My mouse is a wired [Microsoft Comfort 6000][comfort-mouse-6000]; which seems to be discontinued. It's quite big, so it suits my hands well. My keyboard is a [Filco Majestouch 2 Tenkeyless][majestouch-ninja-2] with Cherry MX Brown switches. I'm quite a heavy typer so it makes a hell of a noise when I get going.
 
 For when I attend [live hacking events](https://www.hackerone.com/blog/london-called-hackers-answered-recapping-h1-4420 "A post about a HackerOne hacking event in London, 2019.") I have a 2019 [Dell XPS 15][xps-15]. It's OK, but this year's model looks to have a much better screen and trackpad.
 
@@ -76,7 +76,7 @@ Otherwise I'd like a better mouse, and maybe a change to slightly quieter key-sw
 [go]: https://go.dev/ "A compiled programming language."
 [grep]: http://www.gnu.org/software/grep/ "A command-line tool for pattern matching in files."
 [lqd4500]: http://web.archive.org/web/20221129180026/https://www.liqid.com/products/liqid-elements/element-lqd4500-pcie-aic-ssd "A PCIe SSD drive."
-[majestouch-2]: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2250 "A mechanical keyboard."
+[majestouch-ninja-2]: https://www.diatec.co.jp/en/det.php?prod_c=763 "A mechanical keyboard."
 [oled55c9pua]: https://www.lg.com/us/tvs/lg-OLED55C9PUA-oled-4k-tv "A 55 inch 4K TV."
 [optane-ssd-900p]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://www.intel.com/content/www/us/en/products/memory-storage/solid-state-drives/consumer-ssds/optane-ssd-9-series/optane-ssd-900p-series.html "A PCIe SSD drive."
 [proton]: https://github.com/ValveSoftware/Proton "A Steam tool to help Windows games run on Linux."

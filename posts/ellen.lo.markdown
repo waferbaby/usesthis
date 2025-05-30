@@ -46,6 +46,7 @@ A Sketch plugin that returns CSS code in viewport units. A physical notebook tha
 [github-pages]: https://pages.github.com/ "A simple GitHub-based web publishing system."
 [hanzi-writer]: https://hanziwriter.org/ "A JavaScript framework for drawing and tracing Chinese characters."
 [huzzah32]: https://www.adafruit.com/product/3405 "A tiny hackable computer board."
+[huzzah32]: https://www.adafruit.com/product/3405 "A tiny single computer on a board."
 [ios]: https://www.apple.com/ios/ "A mobile operating system."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [kinect]: http://web.archive.org/web/20141020163539/http://www.xbox.com:80/en-US/Kinect "An adapter for the Xbox that uses your body as a controller."

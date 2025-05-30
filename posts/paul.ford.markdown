@@ -111,7 +111,7 @@ That said, in 2019, with all the clouds and cheap laptops, and Raspberry Pis, I 
 [kindle-paperwhite]: http://web.archive.org/web/20230502144520/https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [lieer]: https://github.com/gauteh/lieer "Software for syncing email between Gmail and notmuch."
-[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "An old programming language."
+[lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [matebook-x-pro]: https://consumer.huawei.com/en/laptops.html "A 13.9 inch PC laptop."
 [messages-are-flowing]: https://github.com/legoscia/messages-are-flowing "A script for making Emacs emails flow better."

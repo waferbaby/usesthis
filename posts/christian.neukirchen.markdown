@@ -26,7 +26,7 @@ At home, I mostly use a self-built PC named [`hecate`](http://vuxu.org/vuxi/heca
 
 `hecate` runs a triple screen setup consisting of a cheap 1920x1080 TFT panel to my left, where I watch movies or look at a few webcams, as well as two old 1600x1200 screens ([Lenovo L201p][thinkvision-l201p], [Samsung 214T][214t]) in front of me, on which I work. I have tweaked the configuration such that the movie panel runs its own X11 display, thus popups and dialog boxes never appear there accidentally. (I use a similar technique when giving presentations.)
 
-For typing, I use a [FILCO Majestouch NINJA Tenkeyless][majestouch-ninja-tenkeyless] with brown MX switches, but sometimes I grab one of the [IBM Model M][model-m] sitting on the cupboard and type on them. I have a very [modest collection of old keyboards](http://vuxu.org/vuxi/keyboards "Christian's wiki entry for his keyboards.").
+For typing, I use a [FILCO Majestouch NINJA Tenkeyless][majestouch-ninja] with brown MX switches, but sometimes I grab one of the [IBM Model M][model-m] sitting on the cupboard and type on them. I have a very [modest collection of old keyboards](http://vuxu.org/vuxi/keyboards "Christian's wiki entry for his keyboards.").
 
 I use an [IBM ScrollPoint mouse][scrollpoint] for pointing. It has three physical buttons, as well as a "nipple" for scrolling in two dimensions. I don't mind using a mouse this good.
 
@@ -107,7 +107,7 @@ I am pretty satisfied with my current setup, yet I'm continuously improving it. 
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [linux]: http://web.archive.org/web/20221224200715/https://linux.org/ "A free, open-source Unix-like operating system."
 [ltrace]: https://linux.die.net/man/1/ltrace "A library call debugger."
-[majestouch-ninja-tenkeyless]: https://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
+[majestouch-ninja]: https://www.diatec.co.jp/en/det.php?prod_c=775 "A mechanical keyboard."
 [markdown]: https://daringfireball.net/projects/markdown/ "An email-like format for marking up text."
 [model-m]: https://en.wikipedia.org/wiki/Model_M_keyboard "A keyboard."
 [mosh]: https://mosh.org/ "A remote terminal shell system."
