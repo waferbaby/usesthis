@@ -31,7 +31,7 @@ Our 3D printer is a [VORON 2.4][voron2].
 
 ### And what software?
 
-I spend most of my life in a mixture of [eMacs][], [Gmail][], [Google Calendar][google-calendar], and [Google Docs][google-docs]. My happiness on a daily basis is probably index to my % of time spent in eMacs and outside vs in Gmail/[Meet][google-meet].
+I spend most of my life in a mixture of [Emacs][], [Gmail][], [Google Calendar][google-calendar], and [Google Docs][google-docs]. My happiness on a daily basis is probably index to my % of time spent in Emacs and outside vs in Gmail/[Meet][google-meet].
 
 ### What would be your dream setup?
 
