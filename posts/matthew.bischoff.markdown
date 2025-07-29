@@ -1,5 +1,5 @@
 ---
-title: Matthew Bischoff
+title: mb bischoff
 summary: Software designer and developer
 date: 2021-03-28
 categories:
@@ -10,9 +10,9 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [Matthew Bischoff](https://matthewbischoff.com/ "Matthew's website.") ([they/them](https://mypronoun.is/they "The details of the 'they' pronoun.")), a software designer and developer in New York City. I co-founded and help to run [Lickability](https://lickability.com/ "Matthew's development studio."), a small studio where we craft delightful apps for our clients and ourselves. A few times a year, I'll give a [talk at a conference or appear on a podcast](https://matthewbischoff.com/about/#appearances "Matthew's talks and appearances.") about the work I do.
+I'm [mb bischoff](https://mbbischoff.com.com/ "mb's website."), a software designer and developer in New York City. I co-founded and help to run [Lickability](https://lickability.com/ "mb's development studio."), a small studio where we craft delightful apps for our clients and ourselves. A few times a year, I'll give a [talk at a conference or appear on a podcast](https://mbbischoff.com/about/#appearances "mb's talks and appearances.") about the work I do.
 
-In my spare time, I enjoy mixing [classic cocktails](https://www.instagram.com/p/CFAvu9XJfBc/ "A photo of a cocktail on Matthew's Instagram account."), going to the [theatre](https://www.instagram.com/p/B66KDr1puek/ "A photo of a theatre on Matthew's Instagram account."), reading and editing [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff "Matthew's Wikipedia account."), and volunteering with [Trans Lifeline](https://translifeline.org/ "A support service for the trans community."). I'm proudly bisexual, trans, and nonbinary. Oh yeah, and [one time I was on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342 "Details about the episode of Jeopardy! that Matthew appeared on.")
+In my spare time, I enjoy mixing [classic cocktails](https://www.instagram.com/p/CFAvu9XJfBc/ "A photo of a cocktail on mb’s's Instagram account."), going to the [theatre](https://www.instagram.com/p/B66KDr1puek/ "A photo of a theatre on mb's Instagram account."), reading and editing [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff "mb's Wikipedia account."), and volunteering with [Trans Lifeline](https://translifeline.org/ "A support service for the trans community."). I'm proudly bisexual, trans, and nonbinary. Oh yeah, and [one time I was on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342 "Details about the episode of Jeopardy! that mb appeared on.")
 
 ### What hardware do you use?
 
@@ -54,14 +54,14 @@ I have an often obsessive, [love-hate relationship](https://www.wired.com/story/
 
 **Consumption**
 
-* Browse the web in [Safari][] and bookmark the best stuff on [Pinboard](https://pinboard.in/u:mattb "Matthew's Pinboard account.")
+* Browse the web in [Safari][] and bookmark the best stuff on [Pinboard](https://pinboard.in/u:mattb "mb's Pinboard account.")
 * Block ads and trackers with [1Blocker][] and spam calls with [CallProtect][callprotect-ios]
 * Read news in [Brief][brief-ios], RSS feeds in [Reeder][reeder-ios], newsletters from [Substack][], and longer articles in [Instapaper][]
 * Watch videos on [YouTube](https://www.youtube.com) and [Apple TV](https://www.apple.com/tv/)
 * Listen to podcasts in [Overcast][overcast-ios] or via [PodcastMenu][] on the Mac
 * Support my favorite creators on [Patreon][]
 * Read books via [Kindle][kindle-ios] and review highlights in [Readwise][]
-* Socialize on [Twitter](https://twitter.com/mb "Matthew's Twitter account."), [Instagram](https://www.instagram.com/mattb/ "Matthew's Instagram account."), [Letterboxd](https://letterboxd.com/matthewbischoff/ "Matthew's Letterboxd account."), [Goodreads](https://www.goodreads.com/user/show/3162891-matthew-bischoff "Matthew's Goodreads account."), [Reddit](https://www.reddit.com/u/matthewbischoff "Matthew's Reddit account."), and (regrettably) [Facebook](https://facebook.com/matthewbischoff/ "Matthew's Facebook account.")
+* Socialize on [Twitter](https://twitter.com/mb "mb's Twitter account."), [Instagram](https://www.instagram.com/mb_bischoff/ "mb's Instagram account."), [Letterboxd](https://letterboxd.com/mbbischoff/ "mb's Letterboxd account."), [Goodreads](https://www.goodreads.com/user/show/3162891-matthew-bischoff "mb's Goodreads account."), [Reddit](https://www.reddit.com/u/matthewbischoff "mb's Reddit account."), and (regrettably) [Facebook](https://facebook.com/mbbischoff/ "mb's Facebook account.")
 
 **Miscellaneous**
 
