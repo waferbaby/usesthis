@@ -10,7 +10,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-I'm [mb bischoff](https://mbbischoff.com.com/ "mb's website."), a software designer and developer in New York City. I co-founded and help to run [Lickability](https://lickability.com/ "mb's development studio."), a small studio where we craft delightful apps for our clients and ourselves. A few times a year, I'll give a [talk at a conference or appear on a podcast](https://mbbischoff.com/about/#appearances "mb's talks and appearances.") about the work I do.
+I'm [mb bischoff](https://mbbischoff.com/ "mb's website."), a software designer and developer in New York City. I co-founded and help to run [Lickability](https://lickability.com/ "mb's development studio."), a small studio where we craft delightful apps for our clients and ourselves. A few times a year, I'll give a [talk at a conference or appear on a podcast](https://mbbischoff.com/about/#appearances "mb's talks and appearances.") about the work I do.
 
 In my spare time, I enjoy mixing [classic cocktails](https://www.instagram.com/p/CFAvu9XJfBc/ "A photo of a cocktail on mb’s's Instagram account."), going to the [theatre](https://www.instagram.com/p/B66KDr1puek/ "A photo of a theatre on mb's Instagram account."), reading and editing [Wikipedia](https://en.wikipedia.org/wiki/User:Matthewbischoff "mb's Wikipedia account."), and volunteering with [Trans Lifeline](https://translifeline.org/ "A support service for the trans community."). I'm proudly bisexual, trans, and nonbinary. Oh yeah, and [one time I was on Jeopardy!](https://www.j-archive.com/showgame.php?game_id=3342 "Details about the episode of Jeopardy! that mb appeared on.")
 
