@@ -14,9 +14,11 @@ title: Interviews
 <% @pagination.posts.each do |post| %>
   <article class="interviewee h-card">
     <a href="/interviews/<%= post.slug %>" title="An interview with <%= post.title %>." class="u-url">
-      <figure>
-        <img src="/images/interviews/<%= post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= post.title %>">
-      </figure>
+      <% unless post.portrait == false %>
+        <figure>
+          <img src="/images/interviews/<%= post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= post.title %>">
+        </figure>
+      <% end %>
       <h3><%= post.title %></h3>
     </a>
     <p class="summary p-job-title"><%= post.summary %></p>

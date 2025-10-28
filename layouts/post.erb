@@ -4,13 +4,14 @@ layout: default
 
 <article class="h-entry" itemscope itemtype="https://schema.org/Article">
   <header>
-    <figure>
-      <img src="/images/interviews/<%= @page.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= @page.title %>" itemprop="image">
-      <% if @page.credits %>
-        <figcaption>Image by <% if @page.credits.url %><a href="<%= @page.credits.url %>" title="More details about <%= @page.credits.name %>."><%= @page.credits.name %></a><% else %><%= @page.credits.name %><% end %><% if @page.credits.details %> (<%= @page.credits.details %>)<% end %><% if @page.credits.licence %> (<a href="http://creativecommons.org/licenses/<%= @page.credits.licence %>/4.0/" title="The <%= @page.credits.licence.upcase %> Creative Commons licence."><%= @page.credits.licence.upcase %></a>)<% end %>.</figcaption>
-     <% end %>
-   </figure>
-    </figure>
+    <% unless @page.portrait == false %>
+      <figure>
+        <img src="/images/interviews/<%= @page.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= @page.title %>" itemprop="image">
+        <% if @page.credits %>
+          <figcaption>Image by <% if @page.credits.url %><a href="<%= @page.credits.url %>" title="More details about <%= @page.credits.name %>."><%= @page.credits.name %></a><% else %><%= @page.credits.name %><% end %><% if @page.credits.details %> (<%= @page.credits.details %>)<% end %><% if @page.credits.licence %> (<a href="http://creativecommons.org/licenses/<%= @page.credits.licence %>/4.0/" title="The <%= @page.credits.licence.upcase %> Creative Commons licence."><%= @page.credits.licence.upcase %></a>)<% end %>.</figcaption>
+        <% end %>
+      </figure>
+    <% end %>
     <h2 class="p-name" itemprop="headline"><%= @page.title %></h2>
     <p class="summary p-job-title"><%= @page.summary %></p>
     <p class="details">
