@@ -2,6 +2,7 @@
 title: Carol Chen
 summary: Developer, circus artist 
 date: 2020-10-14
+portrait: false
 categories:
 - developer
 - mac 
