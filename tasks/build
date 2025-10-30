@@ -1,0 +1,5 @@
+#!/bin/sh
+
+bundle exec dimples
+rsync -r site/ /usr/local/share/www/usesthis.com
+rm -rf site/
