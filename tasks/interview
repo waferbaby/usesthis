@@ -31,15 +31,14 @@ output = <<OUTPUT
 title: #{name}
 summary:
 date: #{date}
+version: 2
 categories:
-- 
+-
 ---
 
 ### Who are you, and what do you do?
 
-### What hardware do you use?
-
-### And what software?
+### What do you use to get the job done?
 
 ### What would be your dream setup?
 
