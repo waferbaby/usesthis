@@ -1,2 +1,5 @@
 pathnames:
   posts: 'interviews'
+
+generation:
+  category_feeds: true
