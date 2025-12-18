@@ -11,7 +11,7 @@ title: Interviews
   <p>There's <%= @pagination.post_count %> interview<% if @pagination.post_count != 1 %>s<% end %><% if @category %> in this category<% end %>. Happy reading!</p>
 <% end %>
 
-<% @pagination.posts.each do |post| %>
+<% @posts.each do |post| %>
   <article class="interviewee h-card">
     <a href="/interviews/<%= post.slug %>" title="An interview with <%= post.title %>." class="u-url">
       <% unless post.portrait == false %>
