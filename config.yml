@@ -1,5 +1,8 @@
 pathnames:
   posts: 'interviews'
 
+pagination:
+  page_prefix: "?page="
+
 generation:
   category_feeds: true
