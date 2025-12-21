@@ -5,6 +5,7 @@ date: 2025-12-21
 version: 2
 categories:
 - game
+- horse
 - windows
 ---
 
