@@ -1,5 +1,9 @@
+site:
+  domain: "https://usesthis.com/"
+  summary: "A nerdy collection of interviews asking a random selection of people all about the tools and techniques they're using to get things done"
+
 pathnames:
-  posts: 'interviews'
+  posts: "interviews"
 
 pagination:
   page_prefix: "?page="
