@@ -17,5 +17,6 @@ jobs:
           bundler-cache: true
       - run: |
           bundle exec dimples
+          eval `ssh-agent -s`
           ssh-add - <<< "${{ secrets.DEPLOY_KEY }}"
           rsync -avzr --delete --links ./site/ deployer@usesthis.com:/usr/local/share/www/usesthis.com/
