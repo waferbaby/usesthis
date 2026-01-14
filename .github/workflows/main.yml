@@ -19,5 +19,5 @@ jobs:
         with:
           ssh-private-key: ${{ secrets.DEPLOY_KEY }}
       - run: |
-        bundle exec dimples
-        rsync -avzr --delete --links ./site/ deployer@usesthis.com:/usr/local/share/www/usesthis.com/
+          bundle exec dimples
+          rsync -avzr --delete --links ./site/ deployer@usesthis.com:/usr/local/share/www/usesthis.com/
