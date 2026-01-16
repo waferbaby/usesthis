@@ -15,9 +15,13 @@ jobs:
         with:
           ruby-version: 3.4
           bundler-cache: true
-      - uses: webfactory/ssh-agent@v0.9.0
-        with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
-      - run: |
-          bundle exec dimples
-          rsync -avzr --delete --links ./site/ deployer@usesthis.com:/usr/local/share/www/usesthis.com/
+      - name: Prepare SSH access
+        run: |
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          echo "usesthis.com" >> ~/.ssh/known_hosts
+          chmod 600 ~/.ssh/known_hosts
+      - name: Build site
+        run: bundle exec dimples
+      - name: Sync to production
+        run: rsync -avzr --delete --links ./site/ deployer@usesthis.com:/usr/local/share/www/usesthis.com/
