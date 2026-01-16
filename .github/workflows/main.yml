@@ -17,6 +17,8 @@ jobs:
           bundler-cache: true
       - name: Prepare SSH access
         run: |
+          mkdir ~/.ssh
+          touch ~/.ssh/id_ed25519
           echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_ed25519
           chmod 600 ~/.ssh/id_ed25519
           echo "usesthis.com" >> ~/.ssh/known_hosts
