@@ -11,12 +11,12 @@ title: Interviews
   <p>There's <%= @pagination.post_count %> interview<% if @pagination.post_count != 1 %>s<% end %><% if @category %> in this category<% end %>. Happy reading!</p>
 <% end %>
 
-<% @posts.each do |post| %>
+<% @posts.each_with_index do |post, index| %>
   <article class="interviewee h-card">
     <a href="/interviews/<%= post.slug %>" title="An interview with <%= post.title %>." class="u-url">
       <% unless post.portrait == false %>
         <figure>
-          <img src="/images/interviews/<%= post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= post.title %>">
+          <img src="/images/interviews/<%= post.slug %>/portrait.jpg" width="500" height="335" class="portrait u-photo" alt="A picture of <%= post.title %>"<% if index >= 1 %> loading="lazy"<% end %>>
         </figure>
       <% end %>
       <h3><%= post.title %></h3>
