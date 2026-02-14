@@ -1,5 +1,5 @@
 {
   "name": "msmtp",
   "description": "An SMTP client.",
-  "url": "http://msmtp.sourceforge.net:80/"
+  "url": "http://msmtp.sourceforge.net/"
 }
