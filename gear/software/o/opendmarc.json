@@ -1,0 +1,5 @@
+{
+  "name": "OpenDMARC",
+  "description": "A library that adds support for DMARC.",
+  "url": "https://github.com/trusteddomainproject/OpenDMARC"
+}

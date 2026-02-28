@@ -1,0 +1,5 @@
+{
+  "name": "Postgrey",
+  "description": "Greylisting software for Postfix.",
+  "url": "https://postgrey.schweikert.ch"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "OpenDKIM",
+  "description": "A library for working with DKIM authentication.",
+  "url": "https://github.com/trusteddomainproject/OpenDKIM"
+}
