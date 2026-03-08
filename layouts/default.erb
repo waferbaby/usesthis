@@ -7,19 +7,19 @@
     <link href="https://usesthis.com<%= @page.url %>" rel="canonical" itemprop="url">
     <link href="https://waferbaby.com/@d" rel="me">
   <% if @pagination %>
-    <% if @pagination.urls[:previous_page] %><link rel="prev" href="<%= @pagination.urls[:previous_page] %>"><% end %>
-    <% if @pagination.urls[:next_page] %><link rel="next" href="<%= @pagination.urls[:next_page] %>"><% end %>
+    <% if @pagination.urls.previous_page %><link rel="prev" href="<%= @pagination.urls.previous_page %>"><% end %>
+    <% if @pagination.urls.next_page %><link rel="next" href="<%= @pagination.urls.next_page %>"><% end %>
   <% end %>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <meta name="description" content="<%= @site.summary %>">
+    <meta name="description" content="A nerdy collection of interviews asking a random selection of people all about the tools and techniques they're using to get things done">
     <meta name="author" content="Daniel Bogan">
     <meta name="keywords" content="interview, setup<% if @page.categories %>, <%= @page.categories.join(', ') %><% end %>">
 
     <meta property="og:url" content="https://usesthis.com<%= @page.url %>">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Uses This / <%= @page.title %>">
-    <meta property="og:description" content="<%= @page.summary || @site.summary %>">
+    <meta property="og:description" content="<%= @page.summary || "Nerdy interviews" %>">
     <% if @page.slug %>
       <meta property="og:image" content="https://usesthis.com/images/interviews/<%= @page.slug %>/portrait.jpg">
     <% end %>
