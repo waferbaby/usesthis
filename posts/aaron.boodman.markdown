@@ -71,7 +71,7 @@ I'm pretty happy with what I have, within the constraints of reality.
  
 If we're willing to throw that out, I'd love to be able to work on Chrome for Windows, Mac, and Linux all from a lightweight netbook. The compiles would be happening on some remote cluster somewhere.
  
-And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](http://chris.wanstrath.usesthis.com/ "Our interview with Chris Wanstrath."), too, please.
+And if we're talking super crazy, I'll take the [thought-controlled software and wireless brain connection](https://usesthis.com/interviews/chris.wanstrath/ "Our interview with Chris Wanstrath."), too, please.
 
 [cr-48]: https://en.wikipedia.org/wiki/Chromebook "Google's first Chrome OS netbook."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."

@@ -25,7 +25,7 @@ Other things that I use on the daily. An [iPad Air, 32GB with cellular data][ipa
 
 I also have a beautifully beat up [iPhone 5S, 32GB][iphone-5s] that is my daily driver for directions, Twittering, basically all the things. For longer trips, conferences, or art openings, I bring along a [Mophie Juice Pack][juice-pack-air-iphone-5] to make sure I have enough juice to get through the day. An unlikely hero in my daily life is my [Pebble Watch][pebble]. I ride [my bike](https://dl.dropboxusercontent.com/u/28699243/Documents/Websites/James%20T.%20Green/Links/bike.jpg "A photo of James' bike.") all around the flat lands of Chicago and many times I'll forget how to get somewhere. Directions on my wrist is really helpful, including all the health tracking that I'm doing to keep healthy.
 
-Before I head out the house, I have my favorite, beat up [Herschel Little America backpack with a "Go By Train" patch](http://jamestgreen.tumblr.com/image/80672372695 "A photo of James' backpack and patch.") designed by friend [Brent Knepper](http://brent.knepper.usesthis.com/ "Brent's interview."). My [laptop and iPad have matching Herschel sleeves][cypress-sleeve-ipad] to protect on those longer, wet bike rides (and my general clumsiness).
+Before I head out the house, I have my favorite, beat up [Herschel Little America backpack with a "Go By Train" patch](http://jamestgreen.tumblr.com/image/80672372695 "A photo of James' backpack and patch.") designed by friend [Brent Knepper](https://usesthis.com/interviews/brent.knepper/ "Brent's interview."). My [laptop and iPad have matching Herschel sleeves][cypress-sleeve-ipad] to protect on those longer, wet bike rides (and my general clumsiness).
 
 ### And what software?
 

@@ -10,7 +10,7 @@ categories:
 
 ### Who are you, and what do you do?
 
-[I'm](http://lauraminer.com/ "Laura's website.") a tall lady living with [her husband](http://wilson.miner.usesthis.com/ "The Setup interview with Wilson.") and four-legged children in San Francisco. I love design, photography, storytelling, friendship, good food, and summer. I founded online photo documentary magazine [Pictory](http://pictorymag.com "The photo magazine site."), and creative retreats [Phoot Camp](http://phootcamp.com "A photography retreat/workshop.") and [Eat Retreat](http://eatretreat.net/ "A foodie's workshop."). Day to day, I do design, photo and text editing, event planning, writing, etc.
+[I'm](http://lauraminer.com/ "Laura's website.") a tall lady living with [her husband](https://usesthis.com/interviews/wilson.miner/ "The Setup interview with Wilson.") and four-legged children in San Francisco. I love design, photography, storytelling, friendship, good food, and summer. I founded online photo documentary magazine [Pictory](http://pictorymag.com "The photo magazine site."), and creative retreats [Phoot Camp](http://phootcamp.com "A photography retreat/workshop.") and [Eat Retreat](http://eatretreat.net/ "A foodie's workshop."). Day to day, I do design, photo and text editing, event planning, writing, etc.
 
 ### What hardware do you use?
 
