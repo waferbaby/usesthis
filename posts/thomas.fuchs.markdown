@@ -11,7 +11,7 @@ categories:
 
 I'm [Thomas Fuchs](http://mir.aculo.us/ "Thomas' website."). I'm the author of the [script.aculo.us][script.aculo.us] user interface [JavaScript][] library, a member of the [Prototype.js][prototype] core team and a [Ruby on Rails][rails] core alumnus.
 
-With my wife [Amy Hoy](http://amy.hoy.usesthis.com/ "Amy's Setup interview.") I develop and run web applications like [Freckle Time Tracking][freckle], teach JavaScript and sometimes consult for big companies you all know but that I can't name.
+With my wife [Amy Hoy](https://usesthis.com/interviews/amy.hoy/ "Amy's Setup interview.") I develop and run web applications like [Freckle Time Tracking][freckle], teach JavaScript and sometimes consult for big companies you all know but that I can't name.
 
 ### What hardware do you use?
 

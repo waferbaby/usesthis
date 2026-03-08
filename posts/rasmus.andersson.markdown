@@ -36,7 +36,7 @@ As I'm a man with a taste for programming, I spend a good amount of time writing
 
 The software I'm using tends to come and go as I believe in evaluating things and ideas before judging and thus are trying out most interesting things I encounter.
 
-Okay, I'll shut up about software in a few words, but just gotta list a few websites which IMHO are also "software": [GitHub][] is an amazing place, product and breeding ground for ideas revolving around software development, created by the ever so humble [Chris Wanstrath](http://chris.wanstrath.usesthis.com/ "Chris' interview.") (and Tom Preston-Werner). But I don't really use Twitter.com but rather the [Twitter desktop application][twitter-mac] although they have changed the icon three times in a month and it's still fugly.
+Okay, I'll shut up about software in a few words, but just gotta list a few websites which IMHO are also "software": [GitHub][] is an amazing place, product and breeding ground for ideas revolving around software development, created by the ever so humble [Chris Wanstrath](https://usesthis.com/interviews/chris.wanstrath/ "Chris' interview.") (and Tom Preston-Werner). But I don't really use Twitter.com but rather the [Twitter desktop application][twitter-mac] although they have changed the icon three times in a month and it's still fugly.
 
 ### What would be your dream setup?
 

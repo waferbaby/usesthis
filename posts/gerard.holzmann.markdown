@@ -23,7 +23,7 @@ My laptop is a small [Toshiba Portege Z930-S9301 Ultrabook][portege-z930-s9301] 
 
 ### And what software?
 
-I write most of my code in [C][], using the standard Unix development tools ([bash][], [make][], [grep][], [sed][], [awk][], etc.). I for instance wrote some digital darkroom software at Bell Labs in 1983 called [pico][pico.2]. For text editing I use [Rob Pike's](http://rob.pike.usesthis.com/ "Rob's interview.") [sam][] screen editor - an old-time favorite of the former [Center 1127](http://spinroot.com/gerard/img/5th_floor.gif "A map of the Center 1127 at Bell Labs.") gang from [Bell Labs](http://spinroot.com/gerard/1127_alumni.html "The alumni of Center 1127."). For presentations I admit to using [PowerPoint][], although I wish that the [OpenOffice][] tools would become good enough to surpass it. And then of course I use [Photoshop][] and [Adobe Bridge][bridge] for photography.
+I write most of my code in [C][], using the standard Unix development tools ([bash][], [make][], [grep][], [sed][], [awk][], etc.). I for instance wrote some digital darkroom software at Bell Labs in 1983 called [pico][pico.2]. For text editing I use [Rob Pike's](https://usesthis.com/interviews/rob.pike/ "Rob's interview.") [sam][] screen editor - an old-time favorite of the former [Center 1127](http://spinroot.com/gerard/img/5th_floor.gif "A map of the Center 1127 at Bell Labs.") gang from [Bell Labs](http://spinroot.com/gerard/1127_alumni.html "The alumni of Center 1127."). For presentations I admit to using [PowerPoint][], although I wish that the [OpenOffice][] tools would become good enough to surpass it. And then of course I use [Photoshop][] and [Adobe Bridge][bridge] for photography.
 
 ### What would be your dream setup?
 
