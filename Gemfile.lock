@@ -6,7 +6,7 @@ GEM
       erb (~> 4.0)
       redcarpet (~> 3.6)
       tilt (~> 2.3)
-    erb (4.0.4)
+    erb (4.0.4.1)
       cgi (>= 0.3.3)
     http-2 (1.1.3)
     httpx (1.7.3)
