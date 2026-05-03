@@ -6,9 +6,7 @@ $LOAD_PATH.unshift(source_path)
 
 editor = ENV['EDITOR'] || 'vi'
 
-unless ARGV[0].match?(/^(hardware|software)$/)
-  abort("You must supply a type ('hardware' or 'software').")
-end
+abort("You must supply a type ('hardware' or 'software').") unless ARGV[0].match?(/^(hardware|software)$/)
 
 abort('You must provide a name.') if ARGV[1].nil?
 
@@ -19,9 +17,7 @@ slug = name.downcase.tr(' ', '-')
 prefix = slug[0].match?(/[a-z]/) ? slug[0] : '0'
 path = File.join(source_path, 'gear', type, prefix, "#{slug}.json")
 
-unless Dir.glob(path.gsub(type, '**')).empty?
-  abort("Entry already exists for '#{slug}'.")
-end
+abort("Entry already exists for '#{slug}'.") unless Dir.glob(path.gsub(type, '**')).empty?
 
 name.gsub!(/(iOS|Android)$/, '(\1)')
 

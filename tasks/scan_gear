@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-trap("SIGINT") { exit! }
+trap('SIGINT') { exit! }
 
 source_path = File.dirname(__dir__)
 $LOAD_PATH.unshift(source_path)
@@ -24,7 +24,7 @@ Dir
 
     case response.status
     when 200
-      puts "All good."
+      puts 'All good.'
     when 301
       puts 'Updated to redirected URL.'
       data['url'] = response.headers['location']
@@ -45,9 +45,9 @@ Dir
       end
     end
 
-    if data['url'] != source_url.to_s
-      data['url'].gsub!(/^http\:\/\//, 'https://') unless data['url'].start_with?('https://')
+    next unless data['url'] != source_url.to_s
 
-      File.write(path, JSON.pretty_generate(data))
-    end
+    data['url'].gsub!(%r{^http://}, 'https://') unless data['url'].start_with?('https://')
+
+    File.write(path, JSON.pretty_generate(data))
   end
