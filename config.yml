@@ -6,3 +6,4 @@ pagination:
 
 generation:
   category_feeds: true
+  overwrite_existing_site: true
