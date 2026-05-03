@@ -313,6 +313,10 @@ ul.months li:first-child:before {
     margin-top: 10px;
   }
 
+  h2 {
+    clear: left;
+  }
+
   img.detail {
     height: auto;
     width: 100%;
