@@ -2,17 +2,15 @@ GEM
   remote: https://rubygems.org/
   specs:
     cgi (0.5.1)
-    dimples (10.7.2)
+    dimples (11.0.0)
       erb (~> 4.0)
       redcarpet (~> 3.6)
-      tilt (~> 2.3)
     erb (4.0.4.1)
       cgi (>= 0.3.3)
-    http-2 (1.1.3)
-    httpx (1.7.6)
-      http-2 (>= 1.1.3)
+    http-2 (1.2.0)
+    httpx (1.8.0)
+      http-2 (>= 1.2.0)
     redcarpet (3.6.1)
-    tilt (2.7.0)
 
 PLATFORMS
   ruby
