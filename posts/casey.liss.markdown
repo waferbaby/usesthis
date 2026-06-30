@@ -24,7 +24,7 @@ I have [a website](https://www.caseyliss.com/ "Casey's website.") as well; I usu
 
 My primary computer is a 14” M3 Max [MacBook Pro][macbook-pro], with 64GB of RAM and an 8TB SSD. I’ve had this computer since it debuted a couple years back, and it’s _incredible_. I have the power — more, actually! — of my retired [iMac Pro][imac-pro], but I can take it with me. The battery life is great, and it’s so nice to not feel neutered (outside of screen real estate) when I’m on the move.
 
-When I’m at home, that Mac is connected to three 5K screens: 2x [LG UltraFine 5Ks][ultrafine-5k], and an [Apple Studio Display][studio-display.2]. I bought the first LG secondhand from a friend, and then one was "bequeathed" to me by a different friend who just wanted it out of his house. I bought the Studio Display because the LGs are... really not very good. I never intended to go 2-up, much less 3-up, but since they’re already here, I figured why not? I’ve actually come to really love having all this real estate; I feel extremely claustrophobic, so to speak, when I’m working on just my MBP screen.
+When I’m at home, that Mac is connected to three 5K screens: 2× [LG UltraFine 5Ks][ultrafine-5k], and an [Apple Studio Display][studio-display.2]. I bought the first LG secondhand from a friend, and then one was "bequeathed" to me by a different friend who just wanted it out of his house. I bought the Studio Display because the LGs are... really not very good. I never intended to go 2-up, much less 3-up, but since they’re already here, I figured why not? I’ve actually come to really love having all this real estate; I feel extremely claustrophobic, so to speak, when I’m working on just my MBP screen.
 
 (The MacBook Pro sits closed, in a [12 South BookArc][bookarc-mac], when docked at home)
 
@@ -34,7 +34,7 @@ Also plugged into the CalDigit is a stereo pair of [Sonos Era 100s][era-100]; th
 
 For data storage, my NAS is [Synology DS1621+][ds1621-plus]. I was a Synology evangelist for the longest time, but I’m starting to fall out of love with them. Their insistence on using first-party drives is a real turn-off. I don’t plan to replace this anytime soon, but when I do, I’ll probably go a different direction.
 
-My networking stack was previously Eero, but I’ve recently moved into an all-Ubiquiti setup. My main router is a [Cloud Gateway Fiber][cloud-gateway-fiber]; I have 2x [U6-LRs][u6-long-range], as well as a [U6 Pro][u6-pro] for Wi-Fi. My main switch behind the CGF is a [USW Lite 8 PoE][lite-8-poe], with a [Flex Mini][flex-mini] in the bedroom and a second Lite 8 in the entertainment center. I also use a [G4 Doorbell Pro][g4-doorbell-pro] and a [G4 Instant][g4-instant] with Unifi Protect.
+My networking stack was previously Eero, but I’ve recently moved into an all-Ubiquiti setup. My main router is a [Cloud Gateway Fiber][cloud-gateway-fiber]; I have 2× [U6-LRs][u6-long-range], as well as a [U6 Pro][u6-pro] for Wi-Fi. My main switch behind the CGF is a [USW Lite 8 PoE][lite-8-poe], with a [Flex Mini][flex-mini] in the bedroom and a second Lite 8 in the entertainment center. I also use a [G4 Doorbell Pro][g4-doorbell-pro] and a [G4 Instant][g4-instant] with Unifi Protect.
 
 I use an [iPhone 16 Pro][iphone-16-pro] — my last-year’s iPhone — as a webcam using Continuity Camera.
 
