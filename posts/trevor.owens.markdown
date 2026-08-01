@@ -45,6 +45,6 @@ All that said, I think my real dream setup would be to get computing tools and s
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [outlook]: https://www.microsoft.com/en-us/microsoft-365/outlook/outlook-for-business "An email, calendar and contact software suite."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [zoom.2]: https://zoom.us "Video conferencing software."

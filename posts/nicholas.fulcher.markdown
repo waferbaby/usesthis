@@ -26,7 +26,7 @@ My dream setup would be everything I have now, but in a big big well lit studio!
 [ae-1]: https://en.wikipedia.org/wiki/Canon_AE-1 "A 35mm film camera."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [capture-ios]: https://apps.apple.com/us/app/adobe-capture/id1040200189 "A vector image app."
-[expression-10000xl]: http://web.archive.org/web/20190506111944/https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
+[expression-10000xl]: https://www.amazon.com/Epson-Expression-10000XL-Wide-Format-Graphic/dp/B0002LC9TC "A very powerful scanner."
 [illustrator-draw-ios]: https://apps.apple.com/au/app/adobe-illustrator-draw-scalable/id911156590 "A vector drawing app."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."

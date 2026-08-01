@@ -51,6 +51,6 @@ Honestly, at this point, my dream setup would be to have my desk outside my bedr
 [imovie]: https://www.apple.com/imovie/ "A Mac OS X video editor, included in iLife."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[snowball]: http://web.archive.org/web/20160414222318/http://www.bluemic.com:80/snowball/ "A USB microphone."
+[snowball]: http://www.bluemic.com/snowball/ "A USB microphone."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [writerduet]: https://www.writerduet.com "A collaborative screenwriting service."

@@ -50,15 +50,15 @@ For travel use, I still want a laptop with a full-sized keyboard and a big scree
 
 For mobile, either an iPhone with a European-quality carrier, or a mobile phone from another vendor with a great Web-browsing user experience. In [the user testing we have done](http://www.useit.com/alertbox/mobile-usability.html "Jakob's mobile usability tests."), most other phones had lousy Web-browsing support, even when they had nice, big touch screens.
 
-[3007wfp]: http://web.archive.org/web/20230408060343/http://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
-[acer-ferrari-5000]: http://web.archive.org/web/20190506111325/https://www.amazon.com/Acer-Ferrari-5000-5832-Processor-Ultimate/dp/B000LO8ZPM "A co-branded PC laptop."
+[3007wfp]: http://www.amazon.com/Dell-3007WFP-HC-30-Inch-Widescreen-Monitor/dp/B001AO2QLG "Dell's 30 inch widescreen LCD monitor."
+[acer-ferrari-5000]: https://www.amazon.com/Acer-Ferrari-5000-5832-Processor-Ultimate/dp/B000LO8ZPM "A co-branded PC laptop."
 [area-51]: https://www.pcmag.com/archive/alienware-area-51-core-i7-249478 "A souped-up gaming PC computer."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
 [ipod-touch]: https://support.apple.com/ipod-touch "It's like an iPhone, without the phone bit."
-[morae]: http://web.archive.org/web/20211027132144/https://www.techsmith.com/tutorial-morae-current.html "Software to record and monitor users during testing."
+[morae]: https://www.techsmith.com/tutorial-morae-current.html "Software to record and monitor users during testing."
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [photoshop-elements]: https://www.adobe.com/products/photoshop-elements.html "A lightweight image editor."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [snagit]: https://www.techsmith.com/screen-capture.html "Screen capturing software."
-[wii]: http://web.archive.org/web/20140513065105/http://www.nintendo.com:80/wii "A unique gaming console."
+[wii]: http://www.nintendo.com/wii "A unique gaming console."
 [windows-vista]: https://en.wikipedia.org/wiki/Windows_Vista "A desktop operating system."

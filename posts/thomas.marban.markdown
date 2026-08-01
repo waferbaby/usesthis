@@ -34,7 +34,7 @@ I consume tons of RSS feeds but even though I build stuff around it and other th
 As soon as Macbooks ship with 2TB of Flash memory, I'll switch back to a one-machine setup, but other than that I don't really worry about hardware decisions as long as they get the job done - dream setups are just always two years away.
 
 [cloudfront]: https://aws.amazon.com/cloudfront/ "A content delivery service."
-[cyber-shot-dsc-rx1]: http://web.archive.org/web/20230408154118/https://www.amazon.com/Sony-DSC-RX1-Cyber-shot-Full-frame-Digital/dp/B0097CXFCC/ "A 24 megapixel digital camera."
+[cyber-shot-dsc-rx1]: https://www.amazon.com/Sony-DSC-RX1-Cyber-shot-Full-frame-Digital/dp/B0097CXFCC/ "A 24 megapixel digital camera."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [feedly]: https://feedly.com/ "A feed reader."
 [game-boy-light]: https://en.wikipedia.org/wiki/Game_Boy "A portable gaming device."

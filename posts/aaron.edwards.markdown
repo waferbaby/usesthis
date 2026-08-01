@@ -24,7 +24,7 @@ The [Google Suite][g-suite] is my go-to for all the basics: emails, writing, edi
 
 I'd like to not feel encumbered by capitalism! A window and desk facing a lake would be nice, too.
 
-[buzzfeed-news-ios]: http://web.archive.org/web/20220328055657/https://apps.apple.com/us/app/buzzfeed-news/id981609476 "A client for the news service."
+[buzzfeed-news-ios]: https://apps.apple.com/us/app/buzzfeed-news/id981609476 "A client for the news service."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [g-suite]: https://workspace.google.com/ "A hosted solution for email, calendaring and more."
 [guardian-ios]: https://apps.apple.com/gb/app/the-guardian/id409128287 "A news app."
@@ -36,4 +36,4 @@ I'd like to not feel encumbered by capitalism! A window and desk facing a lake w
 [reminders]: https://support.apple.com/guide/icloud/mmc0cd794a/ "A to-do list included with Mac OS X."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
-[tidal]: http://web.archive.org/web/20221225090000/https://tidal.com/ "A music streaming service."
+[tidal]: https://tidal.com/ "A music streaming service."

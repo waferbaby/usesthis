@@ -37,7 +37,7 @@ I want the computer to spit out fresh-baked donuts and tell me I'm a good boy ev
 [garageband]: https://www.apple.com/mac/garageband/ "An audio recording and editing tool for the Mac."
 [ghost]: https://ghost.org/ "A web publishing service."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[scrivener]: http://www.literatureandlatte.com/scrivener.php? "A Mac text editor aimed at writers."
 [substack]: https://substack.com/ "A paid newsletter service."
 [trint]: https://trint.com/ "A speech-to-text transcribing service."
 [voice-memos-ios]: https://en.wikipedia.org/wiki/IPhone_OS_3#Voice_Memos "An app for recording voice memos."

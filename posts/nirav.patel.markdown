@@ -33,7 +33,7 @@ I'm fortunate to be in a position where it doesn't have to be a dream! We starte
 [google-workspace]: https://workspace.google.com/business/ "A collection of Google's productivity tools."
 [i3-mk3s-plus]: https://www.prusa3d.com/category/original-prusa-i3-mk3s/ "A 3D printer."
 [iphone-12]: https://en.wikipedia.org/wiki/IPhone_12 "A 6.1 inch smartphone."
-[kicad]: http://web.archive.org/web/20220324205847/https://kicad-pcb.org/ "Open-source CAD software."
+[kicad]: https://kicad-pcb.org/ "Open-source CAD software."
 [laptop-13-amd]: https://frame.work/en/products/laptop-13-gen-amd "A 13.5 inch PC laptop."
 [laptop-16-amd]: https://frame.work/en/products/laptop16-diy-amd-7040 "A 16 inch PC laptop."
 [nixos]: https://nixos.org/ "A Linux distribution."

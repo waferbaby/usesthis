@@ -60,5 +60,5 @@ I want a higher-PPI iPad and beefier software for it - again, a matter of time. 
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[simplifi]: http://web.archive.org/web/20190506112201/https://www.amazon.com/Griffin-Simplifi-Dock-iPod-iPhone/dp/B001DQNAK2 "An iOS device dock, card reader, and USB hub."
+[simplifi]: https://www.amazon.com/Griffin-Simplifi-Dock-iPod-iPhone/dp/B001DQNAK2 "An iOS device dock, card reader, and USB hub."
 [web-inspector]: https://trac.webkit.org/wiki/WebInspector "Developer tools included with WebKit."

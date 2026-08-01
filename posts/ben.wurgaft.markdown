@@ -42,7 +42,7 @@ But overall, the most important tools for my work are intangible and, in a sense
 
 [dr-05]: http://tascam.com/jp/product/dr-05/ "A handheld audio recorder."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
-[icurve]: http://web.archive.org/web/20210301065940/http://www.amazon.com/Griffin-Technology-iCurve-Laptop-Stand/dp/B00007L6IA "A laptop stand."
+[icurve]: http://www.amazon.com/Griffin-Technology-iCurve-Laptop-Stand/dp/B00007L6IA "A laptop stand."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-5]: https://en.wikipedia.org/wiki/IPhone_5 "A smartphone."
 [iphone-7-plus]: https://en.wikipedia.org/wiki/IPhone_7 "A 5.5 inch iOS smartphone."

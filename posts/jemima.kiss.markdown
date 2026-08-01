@@ -34,4 +34,4 @@ But actually I do, because I don't want to be shafted when I eventually leave my
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."

@@ -37,4 +37,4 @@ As soon as I find a quiet weekend, my goal is to partition my drive so I can cho
 [gnome]: https://www.gnome.org/ "A desktop system for *nix operating systems."
 [libreoffice]: https://www.libreoffice.org/ "A free, open-source productivity suit."
 [opensuse]: https://en.wikipedia.org/wiki/OpenSUSE "A Linux distribution."
-[ultralap-430]: http://web.archive.org/web/20161013065858/https://zareason.com/shop/UltraLap-430.html "A 14.1 inch laptop."
+[ultralap-430]: https://zareason.com/shop/UltraLap-430.html "A 14.1 inch laptop."

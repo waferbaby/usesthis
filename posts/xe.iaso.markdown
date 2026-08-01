@@ -44,5 +44,5 @@ Computer science is a weird profession.
 [ryzen-9-5950x]: https://www.amd.com/en/products/cpu/amd-ryzen-9-5950x "A CPU."
 [steam-deck]: https://en.wikipedia.org/wiki/Steam_Deck "A portable gaming machine."
 [talon]: https://talonvoice.com/ "Voice-control input software."
-[twitch]: http://web.archive.org/web/20230525093711/https://www.twitch.tv/ "A video broadcasting service."
+[twitch]: https://www.twitch.tv/ "A video broadcasting service."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."

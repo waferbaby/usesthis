@@ -29,9 +29,9 @@ I'm mostly happy with what I have right now. I'm planning to upgrade the RAM to 
 For my traditional media work, someday I'd like a studio with a high ceiling and a Hughes easel.
 
 [b9440ua]: https://www.asus.com/us/commercial-laptops/asuspro-b9440ua/ "A 14 inch PC laptop."
-[intuos-pro]: http://web.archive.org/web/20190506070316/https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
+[intuos-pro]: https://www.wacom.com/en-ca/products/pen-tablets/intuos-pro-medium "A drawing tablet with multi-touch support."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [precision-tower-5810]: https://www.dell.com/en-ag/work/shop/cty/pdp/spd/precision-t5810-workstation "A desktop PC."
-[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."

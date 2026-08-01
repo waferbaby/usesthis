@@ -45,7 +45,7 @@ I'm embarrassingly unqualified to answer this. Until very recently I'd never had
 
 Long story short, I don't know. Check back in a year and I'll tell you what it turned out to be. Just don't be surprised if I'm still happily playing Switch games on the couch. I have modest tastes in technology.
 
-[27mu88-w]: http://web.archive.org/web/20191007075437/https://www.amazon.com/LG-Electronics-27MU88-W-27-Inch-LED-lit/dp/B01LG5RY74 "A 27 inch LED monitor."
+[27mu88-w]: https://www.amazon.com/LG-Electronics-27MU88-W-27-Inch-LED-lit/dp/B01LG5RY74 "A 27 inch LED monitor."
 [caviar-android]: https://play.google.com/store/apps/details?id=com.trycaviar.customer "A food delivery app."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [freestyle2-mac]: https://kinesis-ergo.com/shop/freestyle2-mac/ "An ergonomic keyboard."
@@ -68,6 +68,6 @@ Long story short, I don't know. Check back in a year and I'll tell you what it t
 [tusky-android]: https://tusky.app/ "A Mastodon client."
 [vim]: https://www.vim.org/ "A command-line text editor."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
-[vmware-fusion]: http://web.archive.org/web/20221223060906/https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
+[vmware-fusion]: https://www.vmware.com/products/fusion.html "A PC emulator for the Mac."
 [weather-underground-android]: https://play.google.com/store/apps/details?id=com.wunderground.android.weather "A weather app."
 [wikipedia-android]: https://play.google.com/store/apps/details?id=org.wikipedia "A client for the online encyclopedia."

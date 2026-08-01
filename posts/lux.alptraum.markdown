@@ -36,11 +36,11 @@ And if I am on a computer, I am almost definitely on [Adium][]. As with email, c
 I have this fantasy in which I am a minimalist, but real life always proves otherwise. My dream set up would be a MacBook Air hooked up to a 27" monitor on a small, wall mounted standing desk, with absolutely no papers cluttering anything, and no mess anywhere to be seen. I dream of a paperless office -- one day I'll achieve it, right?
 
 [adium]: https://en.wikipedia.org/wiki/Adium "A multi-protocol chat application for the Mac."
-[bjursta]: http://web.archive.org/web/20190506071850/https://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
+[bjursta]: https://www.ikea.com/us/en/catalog/products/80217524/ "A wall-mounted table."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
-[draft]: http://web.archive.org/web/20230308033335/https://draftin.com/ "A version-controlled distraction-free writing service."
+[draft]: https://draftin.com/ "A version-controlled distraction-free writing service."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
-[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [imessage]: https://en.wikipedia.org/wiki/IMessage "A messaging platform."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."

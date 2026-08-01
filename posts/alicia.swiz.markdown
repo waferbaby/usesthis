@@ -33,7 +33,7 @@ And a new iPhone with case.
 [Support our journey](https://www.indiegogo.com/projects/we-are-sluttalk-feminism "Alicia's Indiegogo project.") & follow @wearesluttalk on [Instagram](https://www.instagram.com/wearesluttalk/ "Alicia's SlutTalk Instagram account.") & [Twitter](https://twitter.com/wearesluttalk "Alicia's SlutTalk Twitter account.").
 
 [audition]: https://creative.adobe.com/products/audition "An audio editing software suite."
-[beta-58a]: http://web.archive.org/web/20190406084632/http://www.shure.com:80/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
+[beta-58a]: http://www.shure.com/americas/products/microphones/beta/beta-58a-vocal-microphone "A vocal microphone."
 [c214]: https://www.akg.com/Microphones/Condenser%20Microphones/C214.html? "A condenser microphone."
 [dr-40]: http://tascam.com/jp/product/dr-40/ "A portable digital recorder."
 [facebook]: https://www.facebook.com/ "A social networking site."
@@ -45,5 +45,5 @@ And a new iPhone with case.
 [office]: https://www.microsoft.com/en-us/microsoft-365 "An office productivity suite."
 [scarlett-18i20]: https://focusrite.com/en/usb-audio-interfaces/scarlett-18i20 "A USB audio interface."
 [squarespace]: https://www.squarespace.com/ "A site hosting/creation service."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
-[x32]: http://web.archive.org/web/20171128093849/http://www.music-group.com:80/Categories/Behringer/Mixers/Digital-Mixers/X32/p/P0ASF "A digital mixer."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
+[x32]: http://www.music-group.com/Categories/Behringer/Mixers/Digital-Mixers/X32/p/P0ASF "A digital mixer."

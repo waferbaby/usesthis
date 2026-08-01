@@ -44,7 +44,7 @@ While we're at it, I'd like to know that I'm not being tracked, stalked and hack
 
 I'd like all of us to have time to farm and land to farm on.
 
-[campstove]: http://web.archive.org/web/20160215174925/http://www.biolitestove.com:80/products/biolite-campstove "A wood-burning stove that generates electricity."
+[campstove]: http://www.biolitestove.com/products/biolite-campstove "A wood-burning stove that generates electricity."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [drupal]: https://www.drupal.org/ "An open-source content management system."
 [etsy]: https://www.etsy.com/ "A doily deployment system."
@@ -64,7 +64,7 @@ I'd like all of us to have time to farm and land to farm on.
 [ourgoods]: https://ourgoods.org/ "A creative barter network service."
 [riseup]: https://help.riseup.net/ "A collection of online communcation services."
 [stitcher]: https://www.stitcher.com/ "An on-demand radio service."
-[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."
+[thunderbird]: http://www.thunderbird.net/ "An open-source cross-platform mail client."
 [trello]: https://trello.com/ "A project management service."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

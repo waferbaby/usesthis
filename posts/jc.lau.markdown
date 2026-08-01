@@ -39,7 +39,7 @@ I honestly don't know! I have a sit/stand desk with a foot hammock thing which I
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [surface-pro]: https://www.microsoft.com/en-us/surface "A tablet/laptop hybrid."
 [thunderbolt-dock]: https://eshop.macsales.com/shop/owc-thunderbolt-dock "A dock."
-[tm209g]: http://web.archive.org/web/20230321165436/https://office.iclever.com/products/TM209G-High-Precision-Optical-Wireless-Vertical-Mouse "A vertical mouse."
+[tm209g]: https://office.iclever.com/products/TM209G-High-Precision-Optical-Wireless-Vertical-Mouse "A vertical mouse."
 [u2722d]: https://www.dell.com/en-us/shop/dell-ultrasharp-27-monitor-u2722d/apd/210-ayze/monitors-monitor-accessories "A 27 inch monitor."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
 [xbox-wireless-controller]: https://www.xbox.com/en-US/accessories/controllers/xbox-wireless-controller "A wireless controller for an Xbox."

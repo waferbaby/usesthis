@@ -39,7 +39,7 @@ Dream setup would be whatever is going to keep my spine from turning into a C-sh
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
 [rz67]: https://en.wikipedia.org/wiki/RZ67 "A medium format analog camera."
-[scarlett-2i2]: http://web.archive.org/web/20230528064506/https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [stickies]: https://en.wikipedia.org/wiki/Stickies_(software) "Desktop note software for the Mac."
 [voice-memos-ios]: https://en.wikipedia.org/wiki/IPhone_OS_3#Voice_Memos "An app for recording voice memos."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

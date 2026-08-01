@@ -51,7 +51,7 @@ A stone tower, perfectly round and well exposed to the sun. My studio is on the 
 
 Additionally, a [Mac Pro][mac-pro] + Cintiq would be sick as hell, plus one of those chairs that fixes your back pain forever the moment you sit down.
 
-[affinity-designer-ios]: http://web.archive.org/web/20221108111933/https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
+[affinity-designer-ios]: https://apps.apple.com/us/app/affinity-designer/id1274090551 "A graphic design app for iOS."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [calligraphr]: https://www.calligraphr.com/en/ "A service to generate a font from handwriting."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
@@ -65,7 +65,7 @@ Additionally, a [Mac Pro][mac-pro] + Cintiq would be sick as hell, plus one of t
 [mac-pro]: https://www.apple.com/mac-pro/ "The Intel-based Mac tower computer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
-[perfection-v19]: http://web.archive.org/web/20190509072315/https://epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B231201 "A scanner."
+[perfection-v19]: https://epson.com/cgi-bin/Store/jsp/Product.do?sku=B11B231201 "A scanner."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

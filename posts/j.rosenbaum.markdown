@@ -27,7 +27,7 @@ I would love one of those automated chairs that supports my system in an ergonom
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [discord]: https://discord.com/ "A voice and text chat service."
-[google-colab]: http://web.archive.org/web/20221206023109/https://colab.research.google.com/notebooks/welcome.ipynb "A hosted Jupyter notebook that runs online."
+[google-colab]: https://colab.research.google.com/notebooks/welcome.ipynb "A hosted Jupyter notebook that runs online."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [keras]: https://en.wikipedia.org/wiki/Keras "A Python library for interacting with TensorFlow."

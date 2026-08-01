@@ -67,7 +67,7 @@ I'd also like either a notchless iPhone or an [Android][] with five years of gua
 [idensity-ios]: http://www.apesoft.it/idensity/ "An audio file generation app."
 [iphone-7]: https://en.wikipedia.org/wiki/IPhone_7 "A 4.7 inch iOS smartphone."
 [ipulsaret-ios]: http://www.apesoft.it/ipulsaret/ "A synth app."
-[kindle-paperwhite]: http://web.archive.org/web/20230502144520/https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
+[kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [omen-15-dc0003la]: https://support.hp.com/us-en/product/omen-by-hp-15-dc0000-laptop-pc-series/20329817/model/22399629/product-info<Paste> "A 15 inch PC laptop."
 [processing]: https://processing.org/ "A programming language/environment."

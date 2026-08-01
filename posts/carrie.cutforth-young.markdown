@@ -56,6 +56,6 @@ Of course I suffer from the Curse of the Indie Creator in which just because I c
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

@@ -56,7 +56,7 @@ My dream set up would be one that allows me to focus enough to have less than 47
 [p5.js]: https://p5js.org/ "A Javascript library based on Processing."
 [paste-to-download]: https://chrome.google.com/webstore/detail/paste-to-download/jghdppgkpdccfpobmilnnhgahhpjhbne "A Chrome extension to download linked files via pasting."
 [premiere]: https://www.adobe.com/products/premiere.html "A video editing suite."
-[sormonne]: http://web.archive.org/web/20210119111600/https://www.coteetciel.com/collections/work/products/sormonne-coated-canvas-black "A backpack."
+[sormonne]: https://www.coteetciel.com/collections/work/products/sormonne-coated-canvas-black "A backpack."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [visual-studio-code]: https://code.visualstudio.com/ "A development IDE."
 [wilson-fm-ios]: https://apps.apple.com/us/app/id1362807552 "A weekly podcast magazine app."

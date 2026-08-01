@@ -71,7 +71,7 @@ I know everyone is terrified of AI taking over, and I kind of am too, but I'd lo
 
 Or, more realistically: a slightly better version of what I currently have.
 
-[anylist]: http://web.archive.org/web/20230514203438/https://www.anylist.com/ "A shopping list service."
+[anylist]: https://www.anylist.com/ "A shopping list service."
 [atom]: https://github.blog/2022-06-08-sunsetting-atom/ "A text editor based on web technology."
 [aware]: https://apps.apple.com/us/app/aware/id1082170746 "A Mac app for timing your computer use."
 [bettertouchtool]: https://www.boastr.net/ "Mac software to add custom multi-touch gestures."
@@ -94,13 +94,13 @@ Or, more realistically: a slightly better version of what I currently have.
 [overcast-ios]: https://apps.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
 [reddit]: https://www.reddit.com/?rdt=46296 "A messageboard service."
-[remote-mouse]: http://web.archive.org/web/20221213181052/https://www.remotemouse.net/ "Software to use your iPhone as a mouse for your Mac."
-[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[remote-mouse]: https://www.remotemouse.net/ "Software to use your iPhone as a mouse for your Mac."
+[scrivener]: http://www.literatureandlatte.com/scrivener.php? "A Mac text editor aimed at writers."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [stackedit]: https://stackedit.io/ "A browser-based Markdown editor."
 [substack]: https://substack.com/ "A paid newsletter service."
-[tab-counter]: http://web.archive.org/web/20210621141933/https://chrome.google.com/webstore/detail/tab-counter/feeoiklfggbaibpdhkkngbpkppdmcjal?hl=en "A Chrome extension that shows how many tabs you have open."
+[tab-counter]: https://chrome.google.com/webstore/detail/tab-counter/feeoiklfggbaibpdhkkngbpkppdmcjal?hl=en "A Chrome extension that shows how many tabs you have open."
 [tma-2]: https://aiaiai.audio/headphones/tma-2 "Modular headphones."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [vesper-ios]: https://apps.apple.com/au/app/vesper/id655895325 "A note-taking app."

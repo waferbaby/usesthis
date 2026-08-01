@@ -33,7 +33,7 @@ My dream set-up would be a laptop/tablet hybrid with a detachable display and a 
 
 I'm looking into the [Bamboo Ink Plus][bamboo-ink-plus], which is a Wacom stylus that's compatible with Microsoft products. It remains to be seen if that resolves my issue with the cursor jitter when using the stylus (only an issue when using Photoshop CS2, but that's my main program and I'm unwilling to give it up). I'd also love this dream set-up to have a nice graphics card that would make streaming and video editing faster, as well as the ability to play some 3D games. I need something that travels well, too. I work in different places and I take my work to events etc, so I need that flexibility.
 
-[adventure-game-studio]: http://web.archive.org/web/20230814183945/https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
+[adventure-game-studio]: https://www.adventuregamestudio.co.uk/ "A GUI for creating point-and-click games."
 [aseprite]: https://www.aseprite.org/ "A pixel editor and animation tool."
 [bamboo-ink-plus]: https://www.wacom.com/en-us/products/stylus/bamboo-ink-plus "A digital stylus for Windows."
 [camstudio]: https://en.wikipedia.org/wiki/CamStudio "Streaming software for Windows."
@@ -48,6 +48,6 @@ I'm looking into the [Bamboo Ink Plus][bamboo-ink-plus], which is a Wacom stylus
 [surface-pro-3]: https://en.wikipedia.org/wiki/Microsoft_Surface_Pro_3 "A 12 inch Windows 8.1 Pro tablet."
 [surface-slim-pen]: https://www.microsoft.com/en-us/d/surface-slim-pen-2/8tb9xw8rwc14 "A stylus for Surface devices."
 [the-crimson-diamond]: https://www.thecrimsondiamond.com/ "A mystery adventure game."
-[twitch]: http://web.archive.org/web/20230525093711/https://www.twitch.tv/ "A video broadcasting service."
+[twitch]: https://www.twitch.tv/ "A video broadcasting service."
 [virtualdub]: https://www.virtualdub.org/ "A video capture and processing tool for Windows."
 [vlc]: http://www.videolan.org/vlc/ "An open-source media player."

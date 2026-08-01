@@ -35,13 +35,13 @@ My todo lists are all paper, and I need a new overengineered system every few mo
 A nice big studio at the top of the house with good light and plenty of desk space and a little coffee machine in the corner. A projector I can connect to without cables. Someone on retainer to come in every month and swap out my newly-broken phone screen for a top-quality replacement.
 
 [audacity]: https://sourceforge.net/projects/audacity/ "An open-source, cross-platform audio editor."
-[envy-4504]: http://web.archive.org/web/20230706220125/https://support.hp.com/us-en/product/hp-envy-4500-e-all-in-one-printer-series/5304875/model/5368526 "An all-in-one printer."
+[envy-4504]: https://support.hp.com/us-en/product/hp-envy-4500-e-all-in-one-printer-series/5304875/model/5368526 "An all-in-one printer."
 [freedom]: https://freedom.to/ "Productivity software that locks you away from the Internet."
 [haxe]: https://haxe.org/ "A cross-platform toolkit and language."
 [haxegon]: https://haxegon.com/ "A library for Haxe."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."
 [iphone-se]: https://en.wikipedia.org/wiki/IPhone_SE "A 4 inch smartphone."
-[kindle-oasis]: http://web.archive.org/web/20230201064729/https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
+[kindle-oasis]: https://www.amazon.com/Amazon-Kindle-Oasis-eReader-with-Leather-Charging-Cover/dp/B00REQKWGA "An ebook reader."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
 [phocus]: https://www.hasselblad.com/phocus/ "An image processor."

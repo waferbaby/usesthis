@@ -30,13 +30,13 @@ We use [Celtx][] to write the scripts and then to breakdown and create schedules
 
 In all honesty, I'm not very techy, but thankfully my team is. I could live only with my bed and my iPhone in my hand, and with my MacBook on the bed so I can watch Girls, Bored to Death and House of Cards... oh, and Bron!
 
-[alexa-mini]: http://web.archive.org/web/20160402000315/http://www.arri.com:80/alexamini/ "A digital video camera."
+[alexa-mini]: http://www.arri.com/alexamini/ "A digital video camera."
 [basecamp]: https://basecamp.com/ "Web-based project management."
 [celtx]: https://www.celtx.com/ "A pre-production/script writing software suite."
 [davinci-resolve]: https://www.blackmagicdesign.com/products/davinciresolve "Colour correction software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
-[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [handbrake]: https://handbrake.fr/ "Cross-platform, open source video encoding software."
 [highrise]: https://highrisehq.com/ "A web service for managing business contacts."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
@@ -46,6 +46,6 @@ In all honesty, I'm not very techy, but thankfully my team is. I could live only
 [prestashop]: https://prestashop.com/ "An online store service/software."
 [skype]: https://www.skype.com/en/ "Voice and video chat software."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [wetransfer]: https://wetransfer.com "A service for sending large files."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."

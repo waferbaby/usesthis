@@ -38,7 +38,7 @@ Well, like I said, I hope to own and use this MacBook Air for the rest of my lif
 [jupyter]: https://jupyter.org/ "Web-based live document software."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[nanokontrol]: http://web.archive.org/web/20190719121910/https://www.amazon.com/Korg-nanoKONTROL-USB-Controller-Black/dp/B001J8LJWK "A USB MIDI controller."
+[nanokontrol]: https://www.amazon.com/Korg-nanoKONTROL-USB-Controller-Black/dp/B001J8LJWK "A USB MIDI controller."
 [notational-velocity]: https://notational.net/ "A clever note-taking app for the Mac."
 [pico-8]: https://www.lexaloffle.com/pico-8.php "A software gaming console."
 [selfcontrol]: https://selfcontrolapp.com/ "Mac software to keep you away from distracting websites."

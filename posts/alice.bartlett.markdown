@@ -50,7 +50,7 @@ I'd like a better sewing machine. My E & R is a bit of a weakling, it can't sew 
 [iphone-5c]: https://en.wikipedia.org/wiki/IPhone_5C "An iOS smartphone."
 [ipod-classic]: https://support.apple.com/ipod-touch "A music player."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
-[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
+[kindle]: http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [ruby]: https://www.ruby-lang.org/en/ "An interpreted scripting language."

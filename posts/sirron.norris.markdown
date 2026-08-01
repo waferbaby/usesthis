@@ -30,7 +30,7 @@ I would love a 21X Cintiq and maybe a Power Mac tower and a 50 inch flat screen.
 Other then that, I'm pretty lucky to have what I have.
 
 [apple-tv]: https://en.wikipedia.org/wiki/Apple_TV "A device for viewing media on a TV."
-[cinema-4d]: http://web.archive.org/web/20160602174133/http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
+[cinema-4d]: http://www.maxon.net/en/products/cinema-4d-prime/who-should-use-it.html "3D rendering software."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
@@ -40,7 +40,7 @@ Other then that, I'm pretty lucky to have what I have.
 [pagemaker]: https://www.adobe.com/products/indesign.html "Desktop publishing software."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
-[sketchbook-pro-ios]: http://web.archive.org/web/20230720145325/https://www.sketchbook.com/apps "A drawing app."
+[sketchbook-pro-ios]: https://www.sketchbook.com/apps "A drawing app."
 [toon-boom-studio]: https://www.toonboom.com/ "A 2D animation software package."
 [unity]: https://unity.com/products "A cross-platform game development tool."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

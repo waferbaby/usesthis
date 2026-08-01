@@ -45,7 +45,7 @@ Yes, they are all bad. Here is my dream setup: Always having a mouse, and never 
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [firewatch]: http://www.firewatchgame.com/ "A fire lookout adventure game."
-[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [jazz-bass]: https://en.wikipedia.org/wiki/Fender_Jazz_Bass "An electric bass."
 [logic-pro]: https://www.apple.com/logic-pro/ "A professional audio application for the Mac."

@@ -54,11 +54,11 @@ I love working in real-time with other people, and I specifically love dynamic p
 On second thought, what I described is actually just our real office, which I haven't seen in over a year due to COVID protocols. I look forward to that changing soon, hopefully.
 
 [asana]: https://asana.com/ "A project management service."
-[at2020usb-plus]: http://web.archive.org/web/20230708083709/https://www.audio-technica.com/en-us/at2020usb "A USB condenser microphone."
+[at2020usb-plus]: https://www.audio-technica.com/en-us/at2020usb "A USB condenser microphone."
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [aws]: https://aws.amazon.com/ "Amazon's web service platforms."
 [bamtools]: https://github.com/pezmaster31/bamtools "Software for working with BAM files."
-[bibdesk]: http://web.archive.org/web/20171222143442/http://bibdesk.sourceforge.net:80/ "A bibliography manager for Mac OS X."
+[bibdesk]: http://bibdesk.sourceforge.net/ "A bibliography manager for Mac OS X."
 [c922-pro-stream-webcam]: https://www.logitech.com/en-us/product/c922-pro-stream-webcam.html "A webcam."
 [deseq2]: https://bioconductor.org/packages/release/bioc/html/DESeq2.html "An R package for working with differential gene expression analysis."
 [django]: https://www.djangoproject.com/ "A Python-based web framework."
@@ -84,5 +84,5 @@ On second thought, what I described is actually just our real office, which I ha
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [v2]: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/ "A standing desk."
-[vz-r]: http://web.archive.org/web/20220629124236/https://www.ipevo.com/products/vz-r "A document and book scanner."
+[vz-r]: https://www.ipevo.com/products/vz-r "A document and book scanner."
 [wgcna]: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559 "An R package for weighted correlation network analysis."

@@ -118,7 +118,7 @@ And so on, and so on...
 
 [800]: https://www.rotring.com/pens-pencils/mechanical-pencils/rotring-800/SAP_1904447.html "A mechanical pencil."
 [alttab]: https://alt-tab-macos.netlify.app/ "Software to mimick the Windows alt-tab functionality in macOS."
-[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [cuda]: https://en.wikipedia.org/wiki/CUDA "A programming platform for GPUs."
 [discord]: https://discord.com/ "A voice and text chat service."
 [f.lux]: https://justgetflux.com/ "A tool to make the colour of your screen adapt to the current time of day."
@@ -135,7 +135,7 @@ And so on, and so on...
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [mark-one]: https://www.studioneat.com/products/markone "A pen."
 [mono-graph]: https://www.tombow.com/en/products/mono_graph/ "A mechanical pencil."
-[mx-master-3]: http://web.archive.org/web/20200818170656/https://www.logitech.com/en-us/product/mx-master-3.910-005620.html "A wireless mouse."
+[mx-master-3]: https://www.logitech.com/en-us/product/mx-master-3.910-005620.html "A wireless mouse."
 [one-p]: https://www.unibrands.co/products/uniball-one-p-gel-pen-5mm-black-ink-yogurt-and-la-france-2-count "A gel pen."
 [q0-max-qmk]: https://www.keychron.com/products/keychron-q0-max-qmk-custom-number-pad "A number pad with mechanical keyboard keys."
 [qsv]: https://github.com/dathere/qsv "Command-line software for working with CSV files."

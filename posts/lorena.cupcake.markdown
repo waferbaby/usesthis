@@ -37,12 +37,12 @@ I download a lot of mixtapes off [Dat Piff](http://www.datpiff.com/ "A mixtape w
 
 I dunno, a beach with a piña colada maker and a convenient pile of rocks to lash to my body as I walk into the sea.
 
-[6000mah-ultra-slim-power-bank]: http://web.archive.org/web/20201026191341/https://www.easyacc.com/en/623-easyacc-6000mah-ultra-slim-power-bank-with-built-in-cable.html "An external phone battery."
-[aviary]: http://web.archive.org/web/20200505031914/http://aviary.com/ "A web-based image editor."
+[6000mah-ultra-slim-power-bank]: https://www.easyacc.com/en/623-easyacc-6000mah-ultra-slim-power-bank-with-built-in-cable.html "An external phone battery."
+[aviary]: http://aviary.com/ "A web-based image editor."
 [buffer]: https://buffer.com/ "A tool for sharing across multiple social networks."
 [dsco-ios]: https://apps.apple.com/us/app/dsco-by-vsco/id1038318658 "A photo and GIF app."
 [facebook]: https://www.facebook.com/ "A social networking site."
-[giphy-cam-ios]: http://web.archive.org/web/20200408091013/https://apps.apple.com/us/app/giphy-cam-the-gif-camera/id1017480918 "A GIF capturing app."
+[giphy-cam-ios]: https://apps.apple.com/us/app/giphy-cam-the-gif-camera/id1017480918 "A GIF capturing app."
 [giphy]: https://giphy.com/ "A GIF searching service."
 [hootsuite]: https://www.hootsuite.com/ "A social media management service."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
@@ -54,4 +54,4 @@ I dunno, a beach with a piña colada maker and a convenient pile of rocks to las
 [power-editor]: https://www.facebook.com/business/help/165119026899353 "Facebook's ad editor."
 [snapchat-ios]: https://apps.apple.com/us/app/snapchat/id447188370 "An image chatting app."
 [snapseed-ios]: https://apps.apple.com/us/app/snapseed/id439438619 "A photo app."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."

@@ -31,7 +31,7 @@ Software-wise, I want to begin incorporating [Blender][] for 3D modeling into my
 [c-sharp]: https://en.wikipedia.org/wiki/C_Sharp_(programming_language) "A compiled programming language."
 [extreme-meatpunks-forever]: https://hthr.itch.io/extreme-meatpunks-forever "A serial visual novel/mech brawler."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
-[glimpse]: http://web.archive.org/web/20210129111120/https://glimpse-editor.github.io/ "An image editor based on GIMP."
+[glimpse]: https://glimpse-editor.github.io/ "An image editor based on GIMP."
 [notepad]: https://en.wikipedia.org/wiki/Notepad_(software) "A simple text editor included with Windows."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thinkpad-p50]: https://en.wikipedia.org/wiki/ThinkPad_P_series#P50 "A 15 inch PC laptop."

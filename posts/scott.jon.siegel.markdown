@@ -53,8 +53,8 @@ If I found myself tethered to a single office for a while, I'd love to have a fa
 Oh, and and whiteboards. I'd cover every surface with whiteboards. Whiteboards for days.
 
 [1password]: https://1password.com "Password management software for Mac OS X."
-[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
-[command]: http://web.archive.org/web/20201122135505/http://www.amazon.com/Timbuk2-Command-Laptop-TSA-Friendly-Messenger/dp/B0068DTASQ/ "A TSA-friendly bag for laptops."
+[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
+[command]: http://www.amazon.com/Timbuk2-Command-Laptop-TSA-Friendly-Messenger/dp/B0068DTASQ/ "A TSA-friendly bag for laptops."
 [confluence]: https://www.atlassian.com/software/confluence "Collaborative wiki software."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
@@ -68,4 +68,4 @@ Oh, and and whiteboards. I'd cover every surface with whiteboards. Whiteboards f
 [simplenote]: https://simplenote.com/ "A note-taking/syncing service."
 [sketch-mirror-ios]: https://apps.apple.com/us/app/sketch-mirror/id677296955 "An app for previewing Sketch designs."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
-[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."

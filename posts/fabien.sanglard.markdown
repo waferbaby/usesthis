@@ -39,6 +39,6 @@ This is what I described above.
 [pro-display-xdr]: https://www.apple.com/pro-display-xdr/ "A 32 inch professional monitor."
 [sshfs]: https://code.google.com/archive/p/macfuse/wikis/MACFUSE_FS_SSHFS.wiki "An SSH file system for MacFUSE."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
+[thinkpad-x1-carbon]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [utm]: https://mac.getutm.app/ "Virtualisation software for macOS."

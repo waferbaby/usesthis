@@ -76,7 +76,7 @@ I suppose then, my dream setup are items that are fixable or have the ability to
 [magic-keyboard]: https://en.wikipedia.org/wiki/Magic_Keyboard "A wireless keyboard."
 [magic-mouse]: https://en.wikipedia.org/wiki/Magic_Mouse "A multi-touch mouse."
 [mail]: https://en.wikipedia.org/wiki/Mail_(application) "The default Mac OS X mail client."
-[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [netnewswire]: https://en.wikipedia.org/wiki/NetNewsWire "A popular feed reader for the Mac."
 [numbers]: https://www.apple.com/numbers/ "A spreadsheet application for the Mac."
 [obsidian]: https://obsidian.md/ "Note-taking software."

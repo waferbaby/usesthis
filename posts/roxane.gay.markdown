@@ -48,7 +48,7 @@ I pretty much have my dream set up but if I were to get really outrageous with m
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macbook.2]: https://en.wikipedia.org/wiki/MacBook_(2015_version) "A very thin 12 inch laptop."
 [pokemon-go-ios]: https://itunes.apple.com/us/app/Pokémon-go/id1094591345 "An AR game about catching monsters in small balls."
-[scrabble-ios]: http://web.archive.org/web/20200127121626/https://apps.apple.com/us/app/scrabble/id501724085 "A word tile game."
+[scrabble-ios]: https://apps.apple.com/us/app/scrabble/id501724085 "A word tile game."
 [snapchat-ios]: https://apps.apple.com/us/app/snapchat/id447188370 "An image chatting app."
 [tripadvisor-ios]: https://apps.apple.com/us/app/tripadvisor-hotels-restaurants/id284876795 "An app for the travel advice service."
 [twitter-ios]: https://apps.apple.com/app/twitter/id333903271 "A Twitter client."

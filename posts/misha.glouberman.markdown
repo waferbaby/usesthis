@@ -41,7 +41,7 @@ I wish email software was better. I like Thunderbird better than Outlook, but bo
 
 I wish all the software I used was open source.
 
-[autohotkey]: http://web.archive.org/web/20221226174824/https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
+[autohotkey]: https://www.autohotkey.com/ "A hotkey and keystroke program for Windows."
 [coldfusion]: https://www.adobe.com/products/coldfusion-family.html "A web application development system."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fastmail]: https://www.fastmail.com/ "An email hosting service."
@@ -49,6 +49,6 @@ I wish all the software I used was open source.
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [mailchimp]: https://mailchimp.com/ "A templated mailing list system."
 [spamassassin]: https://spamassassin.apache.org/ "Server-side spam-fighting software."
-[thunderbird]: http://web.archive.org/web/20070322094547/http://www.thunderbird.net:80/ "An open-source cross-platform mail client."
+[thunderbird]: http://www.thunderbird.net/ "An open-source cross-platform mail client."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [windows-xp]: https://en.wikipedia.org/wiki/Windows_XP "An operating system for x86 computers."

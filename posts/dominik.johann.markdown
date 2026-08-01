@@ -40,7 +40,7 @@ On my iPhone, I use [Tweetbot][tweetbot-ios] and [Headspace][headspace-meditatio
 
 Most days I dream of this: a standing desk, a neutral room with a smooth concrete floor, flooded with natural light, in an office with friends and collaborators doing the same sort of things I do. But I've been travelling a lot and I just wish your typical digital art setup could be more mobile, disconnected from any specific work space. No tower PC rig, laptops only, and I'd love to draw on the go, outside in the grass, maybe on an iPad? There should be lots of cool flora and bird ambience, and a cabin for cooking, music and contemplation.
 
-[accounting]: http://web.archive.org/web/20181103100041/http://accountingvr.com:80/? "An accounting VR game."
+[accounting]: http://accountingvr.com/? "An accounting VR game."
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [asana]: https://asana.com/ "A project management service."
 [aseprite]: https://www.aseprite.org/ "A pixel editor and animation tool."
@@ -48,8 +48,8 @@ Most days I dream of this: a standing desk, a neutral room with a smooth concret
 [discord]: https://discord.com/ "A voice and text chat service."
 [dr-langeskov-the-tiger-and-the-terribly-cursed-emerald-a-whirlwind-heist]: https://en.wikipedia.org/wiki/Dr._Langeskov%2C_The_Tiger%2C_and_The_Terribly_Cursed_Emerald%3A_A_Whirlwind_Heist "An exploration video game."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
-[dt-770-pro]: http://web.archive.org/web/20230811124931/https://north-america.beyerdynamic.com/ "Closed headphones."
-[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[dt-770-pro]: https://north-america.beyerdynamic.com/ "Closed headphones."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
 [headspace-meditation-ios]: https://www.headspace.com/ "A guided meditation app for iOS."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."
@@ -58,10 +58,10 @@ Most days I dream of this: a standing desk, a neutral room with a smooth concret
 [nt1-a]: https://www.rode.com:443/microphones/nt1-_a "A microphone."
 [overcast-ios]: https://apps.apple.com/us/app/overcast-podcast-player/id888422857 "A podcast app."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[scarlett-2i2]: http://web.archive.org/web/20230528064506/https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
+[scarlett-2i2]: https://focusrite.com/en/usb-audio-interface/scarlett/scarlett-2i2-studio "A USB audio interface."
 [sketch]: https://www.sketch.com/ "A vector drawing application for Mac OS X."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
-[substance-designer]: http://web.archive.org/web/20210622161908/https://www.substance3d.com/products/substance-designer/ "A 3D material authoring tool."
+[substance-designer]: https://www.substance3d.com/products/substance-designer/ "A 3D material authoring tool."
 [tower]: https://www.git-tower.com/ "A Mac GUI for Git."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [twine]: http://twinery.org/ "A tool for creating non-linear stories."

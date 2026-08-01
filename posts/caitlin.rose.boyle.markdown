@@ -23,7 +23,7 @@ For comics and my personal work, I draw in [Procreate][procreate-ios]. There's a
 Honestly I'm pretty happy with my setup! My one biggest gripe is how fast the iPad loses its battery charge - I feel like half the time I'm just getting into the groove of a drawing or a comic page when the 10% battery alert pops up. I can technically work plugged in, but the iPad gets really hot & it kinda defeats the purpose of working on a portable surface... in my wildest dreams, I have a drawing tablet with full Procreate functionality that lasts a full workday before I have to plug it in again.
 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
+[clip-studio-paint]: https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [lx-desk-monitor-arm]: https://www.ergotron.com/en-ca/products/product-details/45-241 "An ergonomic arm."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

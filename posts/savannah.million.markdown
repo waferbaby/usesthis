@@ -44,7 +44,7 @@ I feel incredibly lucky with my current home office set up. I have a dedicated r
 [google-meet]: https://apps.google.com/meet/ "An enterprise video chat service."
 [hyper]: https://hyper.is/ "A terminal emulator."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[kuru-toga]: http://web.archive.org/web/20230303000941/https://www.amazon.com/Uni-Roulette-Rotation-Mechanical-Pencil/dp/B004OHNTVC "A mechanical pencil with a rotating lead system."
+[kuru-toga]: https://www.amazon.com/Uni-Roulette-Rotation-Mechanical-Pencil/dp/B004OHNTVC "A mechanical pencil with a rotating lead system."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notion]: https://www.notion.so/ "A collaborative wiki service."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."

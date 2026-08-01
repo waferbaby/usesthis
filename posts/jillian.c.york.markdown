@@ -55,6 +55,6 @@ But the pièce de résistance would be the teleportation device tucked into the 
 [soundsticks]: https://en.wikipedia.org/wiki/Harman_Kardon#SoundSticks "Swanky-looking computer speakers."
 [tor]: https://www.torproject.org/ "A software and network package for protecting your anonymity."
 [tripit]: https://www.tripit.com/web "A travel planning web service."
-[vision-elite]: http://web.archive.org/web/20220113174728/https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
+[vision-elite]: https://www.amazon.com/Uni-Ball-Vision-Rollerball-Assorted-Airplane/dp/B001E6C9B2/ "A pen."
 [wire]: https://wire.com/en/ "A secure messaging service."
 [xperia-z1]: https://en.wikipedia.org/wiki/Sony_Xperia_Z1 "A 5 inch Android phone."

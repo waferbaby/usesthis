@@ -83,12 +83,12 @@ For when I travel, I would love to see the MacBook Air get a little more *iPadif
 
 Other than that, I think I might like a better keyboard. I've never thought anything bad about the slim Apple bluetooth keyboard I use, but recently I spent some time using my cousin's mechanical keyboard and there was a completely different feel to it. I've never been a keyboard snob, but considering my profession, perhaps the time to get snobby about keyboards has come.
 
-[byword]: http://web.archive.org/web/20230814051943/https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
+[byword]: https://www.bywordapp.com/ "A full-screen writing tool for the Mac."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [instagram-ios]: https://apps.apple.com/us/app/instagram/id389801252 "A photo taking/sharing app."
-[instapaper-ios]: http://web.archive.org/web/20221221083204/https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
+[instapaper-ios]: https://www.instapaper.com/iphone "An iPhone app for reading Instapaper saved pages."
 [ipad-2]: https://www.apple.com/ipad/ "A tablet device."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
@@ -97,7 +97,7 @@ Other than that, I think I might like a better keyboard. I've never thought anyt
 [launchbar]: https://www.obdev.at/products/launchbar/index.html "An application launcher and data manager for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [magic-trackpad]: https://en.wikipedia.org/wiki/Magic_Trackpad "A trackpad for desktop machines."
-[mail-ios]: http://web.archive.org/web/20230911115011/https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
+[mail-ios]: https://www.apple.com/ios/ios-16/ "A mail client included with iOS."
 [marsedit]: https://redsweater.com/marsedit/ "A weblog editor for the Mac."
 [omnifocus-ios]: https://apps.apple.com/us/app/omnifocus-2-for-iphone/id690305341 "Task management for the iPhone."
 [safari-ios]: https://en.wikipedia.org/wiki/Safari_(web_browser)#iOS-specific_features "A web browser included with iOS."
@@ -105,5 +105,5 @@ Other than that, I think I might like a better keyboard. I've never thought anyt
 [simplenote-ios]: https://apps.apple.com/us/app/simplenote/id289429962 "A note app with cloud syncing."
 [transmit]: https://panic.com/transmit/ "An FTP/SFTP client for the Mac."
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
-[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."
+[yeti]: http://www.bluemic.com/yeti/ "A USB microphone."
 [yojimbo]: http://www.barebones.com/products/Yojimbo/ "Data 'bucket' software for the Mac."

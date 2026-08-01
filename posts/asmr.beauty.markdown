@@ -58,5 +58,5 @@ Actually, for a dream setup, I think it would be pretty cool if [DaVinci Resolve
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [ts3-plus]: https://www.caldigit.com/ts3-plus/ "A Thunderbolt dock."
 [wireless-go-ii]: https://rode.com/en/microphones/wireless/wirelessgoii "A wireless microphone."
-[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."
+[yeti]: http://www.bluemic.com/yeti/ "A USB microphone."
 [zody]: https://store.haworth.com/products/zody-office-chair "An office chair."

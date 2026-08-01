@@ -31,5 +31,5 @@ I really really REALLY wish there were a reliable transcription program for when
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [model-s-professional]: https://www.daskeyboard.com/model-s-professional/ "A keyboard."
-[quietcomfort-15]: http://web.archive.org/web/20140826072529/http://www.bose.com:80/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
-[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[quietcomfort-15]: http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_15/index.jsp "Noise-cancelling headphones."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."

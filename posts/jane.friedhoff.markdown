@@ -52,7 +52,7 @@ Other than that, I have pretty much everything I need. Well, okay, my apartment 
 [itch.io]: https://itch.io/ "An indie game marketplace."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [monodevelop]: https://www.monodevelop.com/ "A cross-platform IDE."
-[my-passport-mac]: http://web.archive.org/web/20230326085103/http://www.amazon.com/Passport-Portable-External-Storage-WDBLUZ0010BSL-NESN/dp/B00CO1I2FS "A portable hard drive."
+[my-passport-mac]: http://www.amazon.com/Passport-Portable-External-Storage-WDBLUZ0010BSL-NESN/dp/B00CO1I2FS "A portable hard drive."
 [openframeworks]: https://openframeworks.cc/ "A C++ library for creative projects."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [processing]: https://processing.org/ "A programming language/environment."

@@ -59,4 +59,4 @@ Apart from that - looking around at the world today - I can't shake the feeling 
 [tr-808]: https://en.wikipedia.org/wiki/Roland_TR-808 "A drum machine."
 [tr-909]: https://en.wikipedia.org/wiki/Roland_TR-909 "A drum machine."
 [traktor-pro]: https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-3/ "DJ software."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."

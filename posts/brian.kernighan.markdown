@@ -35,7 +35,7 @@ I don't write as much code as I would like, and much of it is short examples for
 
 I'm so tired of wires running all over the place and little add-on gadgets that clutter the environment. Every day I have to be sure I've packed the charger for my otherwise lovely Air, and have remembered to take the VGA adapter so I can use it in class. Every room in the house that has a computer also has some kind of charger, and of course that's different from the chargers for phones. All of them have incompatible connectors. Printers need cables; scanners need cables and adapters. And don't get me started on the rat's nest of cables for the TV. One could dream of not having to put up with any of this, but it's likely to stay just a dream.
 
-[alpine]: http://web.archive.org/web/20190313001207/http://www.washington.edu/alpine/ "A terminal email client."
+[alpine]: http://www.washington.edu/alpine/ "A terminal email client."
 [awk]: https://en.wikipedia.org/wiki/AWK "Data formatting language/software."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
@@ -45,7 +45,7 @@ I'm so tired of wires running all over the place and little add-on gadgets that 
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
-[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
+[kindle]: http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."

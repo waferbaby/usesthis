@@ -51,7 +51,7 @@ Right now I live in a cozy one-bedroom attic apartment with my cat. I’d love t
 Toronto rent/housing is absurdly expensive though, so this may end up being a literal _dream_.
 
 [a-morticians-tale]: https://laundrybear.com/a-morticians-tale "A video game about being a mortician."
-[astrolokeys]: http://web.archive.org/web/20230819101702/http://astrolokeys.com/ "Astrology-themed keycaps."
+[astrolokeys]: http://astrolokeys.com/ "Astrology-themed keycaps."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [bugzilla]: https://www.bugzilla.org/ "An open-source bug tracking system."
 [celeste]: https://en.wikipedia.org/wiki/Celeste_(video_game) "A platforming game."
@@ -61,7 +61,7 @@ Toronto rent/housing is absurdly expensive though, so this may end up being a li
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
-[lancehead-tournament-edition]: http://web.archive.org/web/20210326002445/https://www.razer.com/gaming-mice "A gaming mouse."
+[lancehead-tournament-edition]: https://www.razer.com/gaming-mice "A gaming mouse."
 [m08f]: https://phomemo.com/products/m08f-portable-printer "A portable thermal printer."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [majestouch-ninja-2]: https://www.diatec.co.jp/en/det.php?prod_c=763 "A mechanical keyboard."
@@ -69,7 +69,7 @@ Toronto rent/housing is absurdly expensive though, so this may end up being a li
 [parkitect]: https://www.themeparkitect.com/ "A theme park simulation game."
 [pencil]: http://wetransfer.com/pencil "An iPad stylus."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[pinterest]: http://web.archive.org/web/20230817100738/https://www.pinterest.com/ "An online 'pinboard' service."
+[pinterest]: https://www.pinterest.com/ "An online 'pinboard' service."
 [powera-enhanced]: https://www.xbox.com/en-CA/accessories/controllers/enhanced-wired-controller-for-xbox#pink-lemonade "A wired controller for the Xbox."
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [substance-painter]: https://www.adobe.com/products/substance3d-painter.html "3D painting software."

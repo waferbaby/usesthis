@@ -30,7 +30,7 @@ Honestly there isn't too much about my actual setup that I would change at the m
 [affinity-designer]: https://en.wikipedia.org/wiki/Affinity_Designer "A vector graphics editor."
 [affinity-publisher]: https://affinity.serif.com/en-us/publisher/ "Page layout and design software."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[clip-studio-paint]: http://web.archive.org/web/20230816182254/https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
+[clip-studio-paint]: https://www.clipstudio.net/en/ "A drawing program aimed at manga artists."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."

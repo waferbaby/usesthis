@@ -37,12 +37,12 @@ I need a negative scanner, a better flat bed scanner, and would love to have my 
 My next immediate purchase is probably going to be a [Mamiya RB67][rb67] medium format film camera.
 
 [digital-rebel-xti]: https://en.wikipedia.org/wiki/Canon_EOS_400D "A 10 megapixel DSLR."
-[lumix-dmc-lx3]: http://web.archive.org/web/20230408001250/http://www.amazon.com/Panasonic-DMC-LX3-Digital-Stabilized-Black/dp/B001CCLBSA/ "A 10.1 megapixel digital camera."
+[lumix-dmc-lx3]: https://en.wikipedia.org/wiki/Panasonic_Lumix_DMC-LX3 "A 10.1 megapixel digital camera."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
 [photoshop-elements]: https://www.adobe.com/products/photoshop-elements.html "A lightweight image editor."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[photosmart-c4580]: http://web.archive.org/web/20230321145238/https://www.amazon.com/HP-Photosmart-C4580-All-in-One-Printer/dp/B00188K75Q "An all-in-one printer/scanner/copier."
+[photosmart-c4580]: https://www.amazon.com/HP-Photosmart-C4580-All-in-One-Printer/dp/B00188K75Q "An all-in-one printer/scanner/copier."
 [powershot-g15]: https://www.usa.canon.com/support/p/powershot-g15 "A 12.1 megapixel digital camera."
-[promaster-2500edf-canon]: http://web.archive.org/web/20190506101900/https://www.amazon.com/ProMaster-2500EDF-Canon-Electronic-Flash/dp/B002HWYDTS "A camera flash."
+[promaster-2500edf-canon]: https://www.amazon.com/ProMaster-2500EDF-Canon-Electronic-Flash/dp/B002HWYDTS "A camera flash."
 [rb67]: https://camerapedia.fandom.com/wiki/Mamiya_RB67 "A medium format film camera."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."

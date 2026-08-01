@@ -48,7 +48,7 @@ Clearly I wasn't the only one with that particular dream.
 
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[d2-quadra]: http://web.archive.org/web/20190508133515/https://www.amazon.com/LaCie-Quadra-Desktop-External-301500U/dp/B002KPUX2S "A hard drive."
+[d2-quadra]: https://www.amazon.com/LaCie-Quadra-Desktop-External-301500U/dp/B002KPUX2S "A hard drive."
 [downcast]: https://apps.apple.com/us/app/downcast/id668429425 "A tool for listening to podcasts."
 [dreamweaver]: https://www.adobe.com/products/dreamweaver.html "A WYSIWYG editor."
 [fetch]: https://fetchsoftworks.com/ "An FTP/SFTP client for Mac OS X."
@@ -62,5 +62,5 @@ Clearly I wasn't the only one with that particular dream.
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [powerpoint]: https://www.microsoft.com/en-us/microsoft-365/powerpoint "Presentation software."
 [preview]: https://en.wikipedia.org/wiki/Preview_(Mac_OS) "An image viewer included with Mac OS X."
-[rugged-mini]: http://web.archive.org/web/20190508143155/https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM "A small rugged portable hard drive."
+[rugged-mini]: https://www.amazon.com/LaCie-Rugged-Portable-Drive-301558/dp/B0058VIWTM "A small rugged portable hard drive."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

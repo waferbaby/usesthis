@@ -28,7 +28,7 @@ Most of what's sitting in front of me right now are Line 6 pedals that need to b
 
 [final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [incopy]: https://creative.adobe.com/products/incopy "A writing companion for InDesign."
-[league-of-legends]: http://web.archive.org/web/20210826153938/https://na.leagueoflegends.com/en-us/ "An RTS/RPG game."
+[league-of-legends]: https://na.leagueoflegends.com/en-us/ "An RTS/RPG game."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [plasma-pedal]: https://gamechangeraudio.com/plasma/ "A distortion pedal."
 [trello]: https://trello.com/ "A project management service."

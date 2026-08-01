@@ -62,7 +62,7 @@ OLED (where black is truly black) + HDR (where photographed lights appear as act
 
 I like Apple's combination of hardware and software the best. I just wish they weren't so forgetful about the existence of their Mac product lines. [macOS][] is still the most elegant and usable OS for me, but with every release (containing more and more restrictions, and [bash][] deliberately not updated since 2007) I'm finding it harder and harder to be a supporter of macOS and open-source at the same time. The [Mac App Store][mac-app-store] forbids all Free/Libre Software, so if they ever flip the switch to disable non-App-Store software, I'm out.
 
-[3008wfp]: http://web.archive.org/web/20190506064119/https://www.amazon.com/Dell-UltraSharp-3008WFP-widescreen-DisplayPort/dp/B002T3KCZ4 "A 30 inch LCD screen."
+[3008wfp]: https://www.amazon.com/Dell-UltraSharp-3008WFP-widescreen-DisplayPort/dp/B002T3KCZ4 "A 30 inch LCD screen."
 [android]: https://developers.google.com/android/?csw=1 "A mobile phone platform."
 [bash]: http://www.gnu.org/software/bash/ "A terminal shell."
 [c]: https://en.wikipedia.org/wiki/C_(programming_language) "A compiled programming language."
@@ -85,14 +85,14 @@ I like Apple's combination of hardware and software the best. I just wish they w
 [mirra]: https://www.hermanmiller.com/products/seating/office-chairs/mirra-2-chairs/ "An ergonomic work chair."
 [mozjpeg]: https://github.com/mozilla/mozjpeg "A JPEG compression tool."
 [omnifocus]: https://www.omnigroup.com/omnifocus/ "Task management software for the Mac."
-[opera]: http://web.archive.org/web/20221227050003/https://www.opera.com/ "A cross-platform web browser."
+[opera]: https://www.opera.com/ "A cross-platform web browser."
 [pebble-time]: https://en.wikipedia.org/wiki/Pebble_Time "A smartwatch."
-[pixel-xl]: http://web.archive.org/web/20201121192215/https://www.amazon.com/Google-Pixel-XL-Phone-32GB/dp/B01LY3OB8D "A 5.5 inch Android phone."
+[pixel-xl]: https://www.amazon.com/Google-Pixel-XL-Phone-32GB/dp/B01LY3OB8D "A 5.5 inch Android phone."
 [pngquant]: https://pngquant.org "A command-line tool for compression PNG images."
 [rust]: https://www.rust-lang.org/ "A programming language."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [sparkle]: https://sparkle-project.org/ "A framework for keeping macOS apps up to date."
-[superagent]: http://web.archive.org/web/20220614073248/https://visionmedia.github.io/superagent/ "A JavaScript API."
+[superagent]: https://visionmedia.github.io/superagent/ "A JavaScript API."
 [swarm-android]: https://play.google.com/store/apps/details?id=com.foursquare.robin "An app for checking into places."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [thunderbolt-2-express-dock-hd]: https://www.belkin.com/thunderbolt-2-express-dock-hd---dual-4k-10-gbps/P-F4U085.html "A Thunderbolt hub."

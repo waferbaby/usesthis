@@ -34,11 +34,11 @@ Well, first off, a more powerful computer with a current video card would be nic
 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
 [core-i7-7700k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."
-[eos-5d-mark-iv]: http://web.archive.org/web/20170828020903/https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-5d-mark-iv "A 30.4 megapixel DSLR."
+[eos-5d-mark-iv]: https://www.usa.canon.com/internet/portal/us/home/products/details/cameras/dslr/eos-5d-mark-iv "A 30.4 megapixel DSLR."
 [fdr-ax33]: https://electronics.sony.com/imaging/camcorders/p/fdrax33-b "A 4K video camera."
 [illustrator]: https://www.adobe.com/products/illustrator.html "A vector graphics editor."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
-[sketchup]: http://web.archive.org/web/20230930075242/https://www.sketchup.com/ "3D modeling software."
+[sketchup]: https://www.sketchup.com/ "3D modeling software."
 [windows-10-pro]: https://www.microsoft.com/en-us/windowsforbusiness/windows-10-pro "A PC operating system."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

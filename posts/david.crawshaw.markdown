@@ -52,8 +52,8 @@ Realistically: an iMac 5k with an M-series CPU.
 If I really wanted to dream: a hackable Unix system with an integrated 5k+ screen and X server, and the OS keeps up to date with improving hardware without moving things around on the screen or changing keyboard shortcuts. But that dream seems to be getting further away.
 
 [debian]: https://www.debian.org/ "A Linux distribution."
-[e301-9d-8cn4]: http://web.archive.org/web/20220603190641/https://www.supermicro.com/en/aplus/system/embedded/as-e301-9d-8cn4.cfm "An embedded computer system."
-[ebay]: http://web.archive.org/web/20211217002741/https://www.ebay.com/n/error "An auction service."
+[e301-9d-8cn4]: https://www.supermicro.com/en/aplus/system/embedded/as-e301-9d-8cn4.cfm "An embedded computer system."
+[ebay]: https://www.ebay.com/n/error "An auction service."
 [go]: https://go.dev/ "A compiled programming language."
 [google-hangouts]: https://mail.google.com/chat "A voice, video and text chat service."
 [imac]: https://www.apple.com/imac-24/ "An all-in-one computer."
@@ -62,8 +62,8 @@ If I really wanted to dream: a hackable Unix system with an integrated 5k+ scree
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [openbsd]: http://www.openbsd.org/ "An open-source operating system emphasising security and cryptography."
 [pf]: http://www.openbsd.org/faq/pf/filter.html "A TCP packet filter included with OpenBSD."
-[proxmox-ve]: http://web.archive.org/web/20230718111012/https://www.proxmox.com/en/proxmox-ve "Server management software for virtual machines."
-[ryzen-threadripper-1950x]: http://web.archive.org/web/20201118103346/https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-1950x "A CPU."
+[proxmox-ve]: https://www.proxmox.com/en/proxmox-ve "Server management software for virtual machines."
+[ryzen-threadripper-1950x]: https://www.amd.com/en/products/cpu/amd-ryzen-threadripper-1950x "A CPU."
 [tailscale]: https://tailscale.com/ "A VPN service."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim]: https://www.vim.org/ "A command-line text editor."

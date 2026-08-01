@@ -34,7 +34,7 @@ I'm pretty happy with what I have! I've been thinking about finding a scanner so
 [format]: https://www.format.com/ "A web portfolio service."
 [hyper]: https://hyper.is/ "A terminal emulator."
 [iphone-6]: https://en.wikipedia.org/wiki/IPhone_6 "A smartphone."
-[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
+[kindle]: http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."

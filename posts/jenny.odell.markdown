@@ -33,7 +33,7 @@ My friend and fellow artist Liat Berdugo recently observed that screens "ask the
 
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
-[draf-tec-retrac]: http://web.archive.org/web/20150323071548/http://www.amazon.com:80/Alvin-Draf-Tec-Retrac-Mechanical-Pencil/dp/B00PWUAXAA "A mechanical pencil."
+[draf-tec-retrac]: http://www.amazon.com/Alvin-Draf-Tec-Retrac-Mechanical-Pencil/dp/B00PWUAXAA "A mechanical pencil."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [facebook]: https://www.facebook.com/ "A social networking site."
 [indesign]: https://www.adobe.com/products/indesign.html "A desktop/web publishing application."

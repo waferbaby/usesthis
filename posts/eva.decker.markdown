@@ -48,7 +48,7 @@ Email does not exist. I am surrounded by trees and no screens. I “design” (p
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
 [fathom]: https://usefathom.com/ "A web analytics service."
 [figma]: https://www.figma.com/ "A collaborative design prototype service."
-[gesture]: http://web.archive.org/web/20190508113942/https://www.amazon.com/dp/B0141G9IHY/ "A desk chair."
+[gesture]: https://www.amazon.com/dp/B0141G9IHY/ "A desk chair."
 [github]: https://github.com/ "A Git code repository service."
 [halo65]: https://nuphy.com/products/halo65 "A wireless mechanical keyboard."
 [improvmx]: https://improvmx.com/ "An email forwarding service."

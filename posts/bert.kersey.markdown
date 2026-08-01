@@ -52,11 +52,11 @@ In 1982, I was interviewed by Softalk Magazine and I was asked what a dream setu
 
 So I'm happy with my setup, but a more rugged MacBook Pro case would be much appreciated.
 
-[at2020]: http://web.archive.org/web/20230328040440/https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
+[at2020]: https://www.audio-technica.com/en-us/at2020-usb "A USB digital microphone."
 [excel]: https://www.microsoft.com/en-us/microsoft-365/excel "A spreadsheet application."
 [final-cut-pro]: https://en.wikipedia.org/wiki/Final_Cut_Pro "A nonlinear video editor."
 [g-raid]: https://shop.westerndigital.com/products "A dual-drive RAID storage system."
-[hdr-fx7]: http://web.archive.org/web/20230408024630/http://www.amazon.com/Sony-HDR-FX7-High-Definition-Handycam-Camcorder/dp/B000IBDWNS/ "A high definition video camcorder."
+[hdr-fx7]: http://www.amazon.com/Sony-HDR-FX7-High-Definition-Handycam-Camcorder/dp/B000IBDWNS/ "A high definition video camcorder."
 [idvd]: https://en.wikipedia.org/wiki/IDVD "Mac software for creating your own DVDs."
 [iphoto]: https://en.wikipedia.org/wiki/IPhoto "Photo management software for the Mac."
 [ipod-photo]: https://en.wikipedia.org/wiki/IPod_Photo "An iPod that allowed photo viewing."
@@ -68,5 +68,5 @@ So I'm happy with my setup, but a more rugged MacBook Pro case would be much app
 [powerbook-g4]: https://en.wikipedia.org/wiki/PowerBook_G4 "A laptop."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [soundtrack-pro]: https://en.wikipedia.org/wiki/Soundtrack_Pro "A Mac audio editor tailored for movies."
-[textedit]: http://web.archive.org/web/20200525165141/https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
+[textedit]: https://support.apple.com/en-us/HT2523 "A text editor included with Mac OS X."
 [toast]: https://www.roxio.com/en/products/toast/ "Software for creating and burning optical media."

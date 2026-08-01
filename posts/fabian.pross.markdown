@@ -25,7 +25,7 @@ Our main production software is [Autodesk Softimage][softimage], which I use wit
 
 When you're dealing with 3D production, there is (and never will be) a setup that can handle your stuff as fast as you'd like it to. It's a vicious cycle: the more horsepower you have, the more you crank up settings and polycounts. No matter what hardware there will be in the future, I will always hope for something faster...
 
-[2410]: http://web.archive.org/web/20230223073508/https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
+[2410]: https://www.amazon.com/Dell-UltraSharp-Widescreen-Performance-DisplayPort/dp/B00302DNZ4 "A 24 inch LCD monitor."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
@@ -36,14 +36,14 @@ When you're dealing with 3D production, there is (and never will be) a setup tha
 [intuos]: https://www.wacom.com/en-us/products/pen-tablets/wacom-intuos "A pen tablet."
 [ipad]: https://www.apple.com/ipad/ "A tablet device."
 [iphone]: https://en.wikipedia.org/wiki/IPhone_(1st_generation) "A smartphone."
-[kackel-dackel]: http://web.archive.org/web/20200901105829/https://www.amazon.de/Goliath-Toys-30594-30591006-Kackel/dp/B003CJJE4Y "It's a toy dog that poops. Really."
+[kackel-dackel]: https://www.amazon.de/Goliath-Toys-30594-30591006-Kackel/dp/B003CJJE4Y "It's a toy dog that poops. Really."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [pixie-plus]: https://www.gsmarena.com/palm_pixi_plus-3250.php "A WebOS-based smartphone."
 [royal-render]: http://www.royalrender.de/index.php/startseite.html "Software for organising rendering jobs on rendering farms."
 [shooter-case]: https://www.burton.com/us/en/home "A camera bag."
-[softimage]: http://web.archive.org/web/20221215211647/https://www.autodesk.com/products/softimage/overview "3D character animation software."
+[softimage]: https://www.autodesk.com/products/softimage/overview "3D character animation software."
 [ubuntu-server]: https://ubuntu.com/server "A server version of Ubuntu."
 [verner]: https://www.thespruce.com/ikea-furniture-review-1391239 "An office chair."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."

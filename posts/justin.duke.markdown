@@ -66,4 +66,4 @@ The two things I wish I could wave a magic wand and change, though:
 [texts]: https://texts.com/ "A multi-platform messaging service."
 [things]: https://culturedcode.com/things/ "A task management application for the Mac."
 [u3415w]: https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/ca/NA-dell-ultrasharp-34-monitor-u3415w-product-brochure.pdf "A 34 inch screen."
-[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."
+[yeti]: http://www.bluemic.com/yeti/ "A USB microphone."

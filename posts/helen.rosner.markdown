@@ -31,7 +31,7 @@ I use [Wunderlist][] for basic to-dos, [Trello][] to organize my projects, and I
 
 All of the above, plus an app that lets me add notes and comments to the photos in my camera roll, plus a full-time human research assistant, who also reminds me to bring my headphones when I travel, so I don't end up dropping hundreds of dollars at an airport vending machine ever, ever again.
 
-[ampprong-plus]: http://web.archive.org/web/20190506065324/https://mycharge.com/products/ampprong-1 "A portable phone battery charger."
+[ampprong-plus]: https://mycharge.com/products/ampprong-1 "A portable phone battery charger."
 [echo.3]: https://en.wikipedia.org/wiki/Amazon_Echo "A smart speaker."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
@@ -42,13 +42,13 @@ All of the above, plus an app that lets me add notes and comments to the photos 
 [notes-ios]: https://en.wikipedia.org/wiki/Notes_(application) "A built-in note-taking app."
 [nytimes-crosswords-ios]: https://apps.apple.com/us/app/nytimes-crosswords/id307569751 "A crosswords app for iOS."
 [pocket]: https://getpocket.com/en/ "A service for storing links to look at later on."
-[premium-usb-c-hub]: http://web.archive.org/web/20201128052719/https://www.charjenpro.com/products/premium-hub "A USB-C hub."
-[razor-point]: http://web.archive.org/web/20150513010631/http://www.amazon.com:80/Pilot-Razor-Point-Marker-Stick/dp/B00006IFJN "A pen."
+[premium-usb-c-hub]: https://www.charjenpro.com/products/premium-hub "A USB-C hub."
+[razor-point]: http://www.amazon.com/Pilot-Razor-Point-Marker-Stick/dp/B00006IFJN "A pen."
 [rev]: https://www.rev.com/ "A service providing transcription and captioning."
 [smart-battery-case]: https://www.apple.com/shop/iphone/accessories/cases?rdt=redirectionFromProductPage "A battery case for the iPhone 6/6S."
 [switch.2]: https://www.nintendo.com/switch/ "A gaming console."
 [tapeacall-pro-ios]: https://apps.apple.com/us/app/tapeacall-pro-record-calls/id577499909 "An app for recording phone calls."
 [trello]: https://trello.com/ "A project management service."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [zoom.2]: https://zoom.us "Video conferencing software."

@@ -32,11 +32,11 @@ For social media, my Twitter life occurs in [YoruFukurou][] on my desktop and, s
 
 I'm pretty happy with what I have. But I do know that any setup I choose would not involve holding my hands out in front of me, like in [*Minority Report*](http://en.wikipedia.org/wiki/Minority_Report_(film) "A movie about precognition in the future."). This seems exhausting.
 
-[echofon-ios]: http://web.archive.org/web/20230120201805/https://apps.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
+[echofon-ios]: https://apps.apple.com/us/app/echofon-for-twitter/id286756410 "A Twitter client for iOS."
 [gephi]: https://gephi.org/ "Open-source visualisation software."
 [iphone-4s]: https://en.wikipedia.org/wiki/IPhone_4S "A smartphone."
 [keyboard]: https://www.apple.com/us/shop/goto/mac/accessories "The keyboard."
-[kindle]: http://web.archive.org/web/20230315012831/http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
+[kindle]: http://www.amazon.com/Kindle-Ereader-ebook-reader/dp/B007HCCNJU/ "A digital book reader."
 [latex]: https://www.latex-project.org/ "Typesetting software."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [macbook]: https://en.wikipedia.org/wiki/MacBook "A laptop."
@@ -50,10 +50,10 @@ I'm pretty happy with what I have. But I do know that any setup I choose would n
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [scipy]: https://scipy.org/ "A collection of scientific tools for Python."
-[scrivener]: http://web.archive.org/web/20190626125457/http://www.literatureandlatte.com:80/scrivener.php? "A Mac text editor aimed at writers."
+[scrivener]: http://www.literatureandlatte.com/scrivener.php? "A Mac text editor aimed at writers."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [terminal]: https://en.wikipedia.org/wiki/Terminal_(OS_X) "A console application included with Mac OS X."
 [texshop]: https://pages.uoregon.edu/koch/texshop/ "A TeX preview tool for the Mac."
 [textwrangler]: http://www.barebones.com/products/textwrangler/ "A free, powerful text editor for the Mac."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[yorufukurou]: http://web.archive.org/web/20230503120602/https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."
+[yorufukurou]: https://sites.google.com/site/yorufukurou/ "A Twitter client for the Mac."

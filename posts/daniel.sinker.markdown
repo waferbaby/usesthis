@@ -50,7 +50,7 @@ Honestly, I'm not wanting for a lot setup-wise. I love my machine, I like my pho
 So yeah: A place to do awesome shit with awesome people, that's my dream setup.
 
 [3hub]: https://s3browser.com/ "A Mac client for Amazon's S3."
-[5139]: http://web.archive.org/web/20150407071213/http://www.amazon.com:80/Klein-5139-2-Inch-Canvas-Zipper/dp/B000BQRCKY "A canvas zipper bag."
+[5139]: http://www.amazon.com/Klein-5139-2-Inch-Canvas-Zipper/dp/B000BQRCKY "A canvas zipper bag."
 [acorn]: https://flyingmeat.com/acorn/ "An image editor for the Mac."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [coda]: https://panic.com/coda/ "A single-window HTML/web tool for the Mac."
@@ -64,10 +64,10 @@ So yeah: A place to do awesome shit with awesome people, that's my dream setup.
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
 [nexus-one]: https://en.wikipedia.org/wiki/Nexus_One "An Android-based smartphone."
-[nexus-s]: http://web.archive.org/web/20210205175044/http://www.google.com/nexus/ "An Android-based smartphone."
+[nexus-s]: http://www.google.com/nexus/ "An Android-based smartphone."
 [picasa]: http://picasa.google.com/ "A photo client and web service."
-[se310]: http://web.archive.org/web/20151128133828/http://www.amazon.com:80/Shure-SE310-Sound-Isolating-Earphone/dp/B0013JH30M? "In-ear sound isolating headphones."
-[se315]: http://web.archive.org/web/20150712071341/http://www.shure.com:80/americas/products/earphones-headphones/se-models/se315-sound-isolating-earphones "In-ear sound isolating headphones."
+[se310]: http://www.amazon.com/Shure-SE310-Sound-Isolating-Earphone/dp/B0013JH30M? "In-ear sound isolating headphones."
+[se315]: http://www.shure.com/americas/products/earphones-headphones/se-models/se315-sound-isolating-earphones "In-ear sound isolating headphones."
 [sparrow]: http://www.gmail.com/intl/en/mail/help/sparrow.html "A mail client for the Mac with a funky UI."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."
 [the-hit-list]: http://www.karelia.com/products/the-hit-list/mac.html "A fancy task manager for the Mac."

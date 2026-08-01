@@ -44,7 +44,7 @@ And of course, [Chrome][], [Firefox][], [Safari][]. (It's hard to work on a webs
 
 My dream setup is exactly what I have now: A tremendous group of smart, funny, creative, good looking, talented people. I could always use a better lighting kit, a more expensive lens, more sensitive mics, etc, but all the hardware and software in the world is completely useless without a killer team of people to use it. Honestly, we could all be forced to share one crappy Gateway desktop computer from 1996, and I'm confident these guys (and gals) would still be able to rock out an amazing and hilarious site. I seriously could not ask for a better setup than I have right now. Except maybe, you know, better deodorant. My officemates have been giving me some weird glances lately, and I think it's because my "Showtime" scented Old Spice ain't cutting it. ;)
 
-[ag-hpx170]: http://web.archive.org/web/20221025004532/https://www.amazon.com/Panasonic-AG-HPX170-High-Definition-Camcorder-Optical/dp/B001E96LGI "An HD handheld camcorder."
+[ag-hpx170]: https://www.amazon.com/Panasonic-AG-HPX170-High-Definition-Camcorder-Optical/dp/B001E96LGI "An HD handheld camcorder."
 [chrome]: https://www.google.com/intl/en/chrome/ "A WebKit-based browser, where each tab runs in its own thread."
 [compressor]: https://www.apple.com/final-cut-pro/compressor/ "Video compression software for the Mac."
 [eos-rebel-t2i]: https://en.wikipedia.org/wiki/Canon_EOS_550D "An 18 megapixel camera."
@@ -57,7 +57,7 @@ My dream setup is exactly what I have now: A tremendous group of smart, funny, c
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
-[t2]: http://web.archive.org/web/20190714035120/https://www.caldigit.com/Thunderbolt/T1T2.html "A Thunderbolt RAID."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[t2]: https://www.caldigit.com/Thunderbolt/T1T2.html "A Thunderbolt RAID."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [urx-p2]: https://pro.sony/ue_US/?sonyref=pro.sony.com/bbsc/ssr/product-URXP2%2F4244/ "An portable tuner."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

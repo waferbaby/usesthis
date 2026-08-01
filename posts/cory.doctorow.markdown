@@ -82,6 +82,6 @@ I'd like a one-button macro to dim my office lights and bring up my three-point 
 [rhythmbox]: https://wiki.gnome.org/Apps/Rhythmbox "A music management app for GNOME."
 [signal]: https://en.wikipedia.org/wiki/Signal_%28software%29 "An encrypted messaging service."
 [tumblr]: https://www.tumblr.com/ "An online personal publishing platform."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [veracrypt]: https://en.wikipedia.org/wiki/VeraCrypt "On-the-fly encryption software."

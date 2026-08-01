@@ -99,7 +99,7 @@ When it comes down to it, my primary job is caring for my wife, and I can do tha
 [h2r-graphics]: https://h2r.graphics/ "A program for adding graphics to live video streams."
 [hugo]: https://gohugo.io/ "A static site generator."
 [ipad-pro]: https://en.wikipedia.org/wiki/IPad_Pro "An iOS tablet."
-[launchpad-x]: http://web.archive.org/web/20230528171814/https://novationmusic.com/en/launch/launchpad-x "A 64-pad grid controller for Live."
+[launchpad-x]: https://novationmusic.com/en/launch/launchpad-x "A 64-pad grid controller for Live."
 [linear-a]: https://shop.keyboard.io/products/linear-a-keycaps-m100 "Keycaps for the Model 100 keyboard."
 [lisp]: https://en.wikipedia.org/wiki/Lisp_(programming_language) "A programming language."
 [live]: https://www.ableton.com/en/live/ "Musical creation software."

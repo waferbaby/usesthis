@@ -43,7 +43,7 @@ My ideal set-up is more or less what I have now, because I'm very lucky to be ab
 [iphone-8]: https://en.wikipedia.org/wiki/IPhone_8 "A 4.7 inch smartphone."
 [keynote]: https://www.apple.com/keynote/ "Presentation software for the Mac."
 [macbook-air]: https://www.apple.com/macbook-air/ "A very thin laptop."
-[netflix]: http://web.archive.org/web/20221226033709/https://www.netflix.com/ "A movie rental and streaming service."
+[netflix]: https://www.netflix.com/ "A movie rental and streaming service."
 [nytimes-crosswords-ios]: https://apps.apple.com/us/app/nytimes-crosswords/id307569751 "A crosswords app for iOS."
 [slack]: https://slack.com/intl/ja-jp/ "A collaboration service."
 [spotify]: https://open.spotify.com/__noul__?pfhp=2c2ccb58-8a92-4713-a1c0-8b43b3090b49 "A music streaming service."

@@ -28,11 +28,11 @@ Software is pretty simple here, the Adobe Suite! I use [After Effects][after-eff
 
 I'm using it! I love the setup that I'm currently using. If I had to change anything I would probably just upgrade my computer hardware to fancier and faster hardware, but that's just impractical, haha. My hardware is fast enough for me. Realistically, I could use a Core i9 instead of a Core i7 because the i9 would render previews in AE faster, but again, I'm more than satisfied with what I have currently.
 
-[850-evo]: http://web.archive.org/web/20211124011027/https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/850evo/ "An SSD drive."
+[850-evo]: https://www.samsung.com/semiconductor/minisite/ssd/product/consumer/850evo/ "An SSD drive."
 [after-effects]: https://www.adobe.com/products/aftereffects.html "Motion graphics and video editing software."
-[basilisk]: http://web.archive.org/web/20220606173946/https://www.razer.com/gaming-mice/razer-basilisk/RZ01-02330200-R3M1 "A gaming mouse."
+[basilisk]: https://www.razer.com/gaming-mice/razer-basilisk/RZ01-02330200-R3M1 "A gaming mouse."
 [core-i7-7700k]: https://corpredirect.intel.com/Redirector/404Redirector.aspx?https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4_50-GHz "A computer processor."
-[destiny-2]: http://web.archive.org/web/20230822160446/https://www.destinythegame.com/ "A looter shooter MMO."
+[destiny-2]: https://www.destinythegame.com/ "A looter shooter MMO."
 [discord]: https://discord.com/ "A voice and text chat service."
 [g910]: https://www.logitechg.com/en-us/product/rgb-gaming-keyboard-g910.html "A gaming keyboard."
 [geforce-gtx-1060]: https://www.nvidia.com/en-us/geforce/10-series/ "A graphics card."
@@ -41,8 +41,8 @@ I'm using it! I love the setup that I'm currently using. If I had to change anyt
 [motion-bro]: https://motionbro.net/ "A video editor plugin for working with face presets."
 [photoshop]: https://www.adobe.com/products/photoshop.html "A bitmap image editor."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
-[quietcomfort-35-ii]: http://web.archive.org/web/20230706215644/https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html "On-ear headphones."
+[quietcomfort-35-ii]: https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html "On-ear headphones."
 [saber]: https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/ "A video editor plugin for creating laser and lightsabers."
 [twixtor]: https://revisionfx.com/products/twixtor/ "A video editor plugin for changing the speed of video."
-[yeti]: http://web.archive.org/web/20160413134343/http://www.bluemic.com:80/yeti/ "A USB microphone."
+[yeti]: http://www.bluemic.com/yeti/ "A USB microphone."
 [youtube]: https://www.youtube.com/ "A web site for watching 80's TV commercials and bad mashups."

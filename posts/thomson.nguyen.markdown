@@ -33,13 +33,13 @@ I really like [iTerm][iterm2] as my terminal emulator. I just converted to [tmux
 
 My dream setup is actually an unlimited supply of [Pimm's cup](http://en.wikipedia.org/wiki/Pimm%27s "A Wikipedia entry for Pimm's."), my backlog of papers and books to read, and all the time in the world.
 
-[2443bw]: http://web.archive.org/web/20230204183840/http://www.amazon.com/Samsung-2443BWT-1-24-Inch-Monitor-Black/dp/B0030CJBZU/ "A 24 inch widescreen LCD screen."
+[2443bw]: http://www.amazon.com/Samsung-2443BWT-1-24-Inch-Monitor-Black/dp/B0030CJBZU/ "A 24 inch widescreen LCD screen."
 [advantage-pro]: https://kinesis-ergo.com/shop/advantage-pro-for-mac-pc/ "A fancy ergonomic keyboard."
 [aeron]: https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/ "A work chair."
 [alfred]: https://www.alfredapp.com/ "A launcher app for the Mac."
-[bitchx]: http://web.archive.org/web/20200720181552/http://www.bitchx.com:80/ "A command-line IRC client."
-[bvu160]: http://web.archive.org/web/20170411132248/http://www.diamondmm.com:80/bvu1000-diamond-video-graphics-adapter.html "A USB display adapter."
-[clear-harmony]: http://web.archive.org/web/20190506063510/https://www.amazon.com/Clear-Harmony-Noise-Canceling-Discontinued-Manufacturer/dp/B000K41PH8 "Noise-cancelling headphones."
+[bitchx]: http://www.bitchx.com/ "A command-line IRC client."
+[bvu160]: http://www.diamondmm.com/bvu1000-diamond-video-graphics-adapter.html "A USB display adapter."
+[clear-harmony]: https://www.amazon.com/Clear-Harmony-Noise-Canceling-Discontinued-Manufacturer/dp/B000K41PH8 "Noise-cancelling headphones."
 [divvy]: https://mizage.com/divvy/ "Window management and arrangement for Mac OS X."
 [droid-bionic]: https://en.wikipedia.org/wiki/Droid_Bionic "An Android smartphone."
 [dropbox]: https://www.dropbox.com/ "Online syncing and storage."
@@ -65,4 +65,4 @@ My dream setup is actually an unlimited supply of [Pimm's cup](http://en.wikiped
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [vim-r]: https://www.vim.org/scripts/script.php?script_id=2628 "A plugin for R support in vim."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[wunderlist]: http://web.archive.org/web/20210128064548/https://www.wunderlist.com/ "A cloud-syncing to-do manager."
+[wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."

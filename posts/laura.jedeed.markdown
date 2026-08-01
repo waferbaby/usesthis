@@ -41,7 +41,7 @@ There are a few things I'd upgrade given unlimited funds. Based on reviews, I'd 
 
 Honestly, though, I'm pretty happy with my relatively low-tech setup. The nice thing about primarily dealing in words is that all you really need is a device with a keyboard. Everything else is just gravy.
 
-[galaxy-s21-ultra-5g]: http://web.archive.org/web/20230419003149/https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
+[galaxy-s21-ultra-5g]: https://www.samsung.com/us/smartphones/galaxy-s/ "A 6.8 inch Android smartphone."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [google-fi]: https://en.wikipedia.org/wiki/Google_Fi "A cellular/wifi networking service."
@@ -51,10 +51,10 @@ Honestly, though, I'm pretty happy with my relatively low-tech setup. The nice t
 [m50]: https://www.avon-protection.com/products/m50/5223 "A gas mask."
 [medium]: https://medium.com/ "A writing/blogging service."
 [pixel-3a-xl]: https://en.wikipedia.org/wiki/Pixel_3a "A 6 inch Android smartphone."
-[powercore-20100]: http://web.archive.org/web/20210306115847/https://www.anker.com/products/variant/PowerCore-20100/A1271012 "A portable battery/charger."
+[powercore-20100]: https://www.anker.com/products/variant/PowerCore-20100/A1271012 "A portable battery/charger."
 [premiere-pro]: https://en.wikipedia.org/wiki/Adobe_Premiere_Pro "A video editing suite."
 [thinkpad-yoga-730]: https://www.lenovo.com/us/en/p/88YG7000965 "A 15.6 inch 2-in-1 PC laptop."
-[twitter]: http://web.archive.org/web/20230525035323/https://twitter.com/ "An online micro-blogging platform."
+[twitter]: https://twitter.com/ "An online micro-blogging platform."
 [videostudio-ultimate]: https://www.videostudiopro.com/en/products/videostudio/ultimate/ "Video editing software."
 [wd-elements-desktop]: https://www.westerndigital.com/products/external-drives/wd-elements-desktop-usb-3-0-hdd "An external hard drive."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

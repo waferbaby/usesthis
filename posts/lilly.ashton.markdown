@@ -35,5 +35,5 @@ I'm thinking about getting a desktop at some point to do video editing with as w
 [procreate-ios]: https://apps.apple.com/us/app/procreate/id425073498 "A powerful illustration app."
 [shotcut]: https://en.wikipedia.org/wiki/Shotcut "Video editing software."
 [tayasui-sketches-ios]: https://apps.apple.com/us/app/tayasui-sketches/id641900855 "A drawing app."
-[thinkpad-x230]: http://web.archive.org/web/20151204194004/http://www.amazon.com:80/Thinkpad-Lenovo-Ultraportable-Notebook-x230/dp/B008A115NC "A 12.5 inch PC laptop."
+[thinkpad-x230]: http://www.amazon.com/Thinkpad-Lenovo-Ultraportable-Notebook-x230/dp/B008A115NC "A 12.5 inch PC laptop."
 [windows-movie-maker]: https://en.wikipedia.org/wiki/Windows_Movie_Maker "Movie creation software for Windows."

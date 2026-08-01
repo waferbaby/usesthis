@@ -67,7 +67,7 @@ My favorite light color scheme is GitHub Theme, and my favorite dark color schem
 
 A replacement to my aging 2017 MacBook Pro is long overdue. One with a keyboard that works would be neat. Though I am looking forward to using an ARM MacBook Pro when it is available in the future.
 
-[27uk850-w]: http://web.archive.org/web/20230706220459/https://www.lg.com/us/monitors/lg-27uk850-w-4k-uhd-led-monitor "A 27 inch monitor."
+[27uk850-w]: https://www.lg.com/us/monitors/lg-27uk850-w-4k-uhd-led-monitor "A 27 inch monitor."
 [airpods-pro]: https://www.apple.com/airpods-pro/ "In-ear headphones."
 [arch-linux]: https://archlinux.org/ "A Linux distro."
 [calendar]: https://en.wikipedia.org/wiki/Calendar_(Apple) "The calendar software included with macOS."
@@ -77,7 +77,7 @@ A replacement to my aging 2017 MacBook Pro is long overdue. One with a keyboard 
 [ffmpeg]: http://www.ffmpeg.org/ "Comprehensive audio/video software."
 [imagemagick]: http://www.imagemagick.org/script/index.php "Image editing and converting software."
 [iterm2]: https://iterm2.com/ "An alternative terminal application for Mac OS X."
-[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
+[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
 [kanken-no-2]: https://www.fjallraven.com/us/en-us/bags-gear/kanken/kanken-bags/kanken-no-2-black "A backpack."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."

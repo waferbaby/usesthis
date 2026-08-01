@@ -64,15 +64,15 @@ I'd love a laptop that's faster and has more pixels. Perhaps a [MacBook Pro][mac
 
 Really I'd love to work from a cafe/warehouse/beach/desert, on battery power, with a server elsewhere running my giant render or compile.
 
-[1621a]: http://web.archive.org/web/20220923142045/https://www.bkprecision.com/products/power-supplies/1621A-0-to-18v-0-to-5a-digital-display-dc-power-supply.html "A DC power supply."
+[1621a]: https://www.bkprecision.com/products/power-supplies/1621A-0-to-18v-0-to-5a-digital-display-dc-power-supply.html "A DC power supply."
 [179]: https://www.fluke.com/en-us/product/electrical-testing/digital-multimeters/fluke-179 "A digital multimeter."
-[850b]: http://web.archive.org/web/20190506101255/https://www.amazon.com/850B-SMT-REWORK-STATION-SOLDER/dp/B000E14FJW "A soldering station."
+[850b]: https://www.amazon.com/850B-SMT-REWORK-STATION-SOLDER/dp/B000E14FJW "A soldering station."
 [aperture]: https://en.wikipedia.org/wiki/Aperture_(software) "Photo editing and management software for Mac OS X."
 [blender]: https://www.blender.org/ "A free, open-source 3D renderer."
 [bs100u]: http://www.brilldea.com/product_BS100U.html "A USB oscilloscope."
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
 [cinema-display]: https://en.wikipedia.org/wiki/Apple_Cinema_Display "An LCD display."
-[custom-citizen]: http://web.archive.org/web/20151011150735/http://www.chromeindustries.com/us/en/customs "A bike bag."
+[custom-citizen]: http://www.chromeindustries.com/us/en/customs "A bike bag."
 [emacs]: http://www.gnu.org/software/emacs/ "A free open-source text editor."
 [evernote]: https://evernote.com/ "Online software for capturing notes."
 [gimp]: https://www.gimp.org/ "An open-source image editor."
@@ -91,6 +91,6 @@ Really I'd love to work from a cafe/warehouse/beach/desert, on battery power, wi
 [solidworks]: https://www.3ds.com/products/solidworks "Modelling/CAD software."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [thing-o-matic]: https://www.makerbot.com/stories/2010/09/25/announcing-makerbots-new-3d-printer-the-thing-o-matic/ "A 3D printer."
-[u2711]: http://web.archive.org/web/20221206090348/http://www.amazon.com/Dell-UltraSharp-U2711-27-inch-Widescreen/dp/B0039648BO "A 27 inch widescreen LCD monitor."
+[u2711]: http://www.amazon.com/Dell-UltraSharp-U2711-27-inch-Widescreen/dp/B0039648BO "A 27 inch widescreen LCD monitor."
 [vim]: https://www.vim.org/ "A command-line text editor."
-[wes51]: http://web.archive.org/web/20230315042353/https://www.amazon.com/Weller-WES51-Analog-Soldering-Station/dp/B000BRC2XU/ "A soldering station."
+[wes51]: https://www.amazon.com/Weller-WES51-Analog-Soldering-Station/dp/B000BRC2XU/ "A soldering station."

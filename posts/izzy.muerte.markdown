@@ -37,7 +37,7 @@ For managing general services, I am currently in the process migrating from Pulu
 
 I honestly don't know. I'm very close to what it is right now, at least ergonomically. 3 screens, an operating system where I can *drag the effing task bar to any side of the screen I want*, decent performing system, keyboard with clickity clackity switches, a decent weighted mouse, and a spacious desk. Ideally placed in an area with plenty of sunlight and a view of greenery, but not in a way where I'm getting a glare off the screens. I don't really *need* additional compute resources except for reducing toil in my daily life, and that's what I currently use these small processors and machines for anyhow.
 
-[backblaze]: http://web.archive.org/web/20230716083556/https://www.backblaze.com/cloud-backup.html "Online backup."
+[backblaze]: https://www.backblaze.com/cloud-backup.html "Online backup."
 [blade]: https://www.razer.com/gaming-laptops/razer-blade-16 "A thin gaming PC laptop."
 [box.2]: https://novelkeys.com/products/kailh-box-switches "A mechanical keyboard switch"
 [c-plusplus]: https://en.wikipedia.org/wiki/C%2B%2B "A compiled programming language."
@@ -47,7 +47,7 @@ I honestly don't know. I'm very close to what it is right now, at least ergonomi
 [discord]: https://discord.com/ "A voice and text chat service."
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [forgejo]: https://forgejo.org/ "Self-hosted version control and project software."
-[g502-hero]: http://web.archive.org/web/20190506063330/https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
+[g502-hero]: https://support.logitech.com/en_us/product/g502-proteus-core-tunable-gaming-mouse "A gaming mouse."
 [geforce-rtx-3060]: https://www.nvidia.com/en-au/geforce/graphics-cards/30-series/rtx-3060-3060ti/ "A graphics card."
 [halloy]: https://github.com/squidowl/halloy/ "An open-source IRC client."
 [home-assistant-yellow]: https://yellow.home-assistant.io/ "A small computer dedicated to running Home Assistant."
@@ -65,7 +65,7 @@ I honestly don't know. I'm very close to what it is right now, at least ergonomi
 [standard-notes]: https://standardnotes.com/ "A cross-platform encrypted note taking application."
 [stream-deck-mini]: https://www.elgato.com/ww/en/p/stream-deck-mini "A small programmable keyboard with 6 keys."
 [terraform]: https://www.terraform.io/ "A tool for managing computer infrastructure."
-[thinkpad-x1-carbon]: http://web.archive.org/web/20201225130617/https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
+[thinkpad-x1-carbon]: https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x/ThinkPad-X1-Carbon-5th-Generation/p/22TP2TXX15G "A lightweight PC laptop with a 14 inch screen."
 [todoist]: https://todoist.com/ "A to-do service."
-[twitch]: http://web.archive.org/web/20230525093711/https://www.twitch.tv/ "A video broadcasting service."
+[twitch]: https://www.twitch.tv/ "A video broadcasting service."
 [windows-powershell]: https://en.wikipedia.org/wiki/Windows_PowerShell "A shell and scripting language for Windows."
