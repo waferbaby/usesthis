@@ -18,7 +18,7 @@ Before making the break, I wrote numerous unpaid articles about surfing, women i
 
 Most of my writing is done on a [Mac Mini][mac-mini], circa 2011. If I'm out and about, I take notes on a newish [Sony Xperia Z tablet][xperia-z]. My [HTC One S][one-s] phone is getting a bit slow, but it's still useful for recording interviews. As a backup, if I ask nicely, my husband lets me use the PC he put together from parts several years ago.
 
-I have a Martian smart watch, although it doesn't get much use now that I'm not going to an office every day. Occasionally I go surfing with a [Panasonic Lumix TS4][lumix-ts4] to take photos and videos for [my blog](http://surfergrrrl.blogspot.com/ "Cynthia's weblog.").
+I have a Martian smart watch, although it doesn't get much use now that I'm not going to an office every day. Occasionally I go surfing with a [Panasonic Lumix TS4][lumix-dmc-ts4] to take photos and videos for [my blog](http://surfergrrrl.blogspot.com/ "Cynthia's weblog.").
 
 ### And what software?
 
@@ -39,15 +39,15 @@ Could I have the system from _Minority Report_? I'd love to be able to just talk
 [firefox]: https://www.mozilla.org/en-US/firefox/new/ "A cross-platform open-source web browser."
 [gmail]: https://en.wikipedia.org/wiki/Gmail "Web-based email."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
-[google-drive]: http://web.archive.org/web/20220127131904/https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
-[java]: http://web.archive.org/web/20221226094350/https://www.java.com/en/ "A cross-platform compiled programming language."
-[lumix-ts4]: http://web.archive.org/web/20230408064923/http://www.amazon.com/Panasonic-Waterproof-Digital-Camera-Optical/dp/B00728ZC1A "A 12.1 megapixel waterproof digital camera."
+[google-drive]: https://accounts.google.com/ServiceLogin?service=wise "A cloud storage service."
+[java]: https://www.java.com/en/ "A cross-platform compiled programming language."
+[lumix-dmc-ts4]: https://help.na.panasonic.com/camera-camcorder/lumix-point-and-shoot/dmc-ts4/ "A 12.1 megapixel waterproof digital camera."
 [mac-mini]: https://www.apple.com/mac-mini/ "A small desktop computer."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[one-s]: http://web.archive.org/web/20180930051326/https://www.htc.com/us/smartphones/htc-one-s/ "An 8 megapixel Android smartphone."
+[one-s]: https://www.htc.com/us/smartphones/htc-one-s/ "An 8 megapixel Android smartphone."
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [smart-voice-recorder-android]: https://play.google.com/store/apps/details?id=com.andrwq.recorder "A voice recorder app."
 [virtru]: https://www.virtru.com/ "Software for protecting online content."
 [windows-7]: https://en.wikipedia.org/wiki/Windows_7 "An operating system."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."
-[xperia-z]: http://web.archive.org/web/20170410051527/https://www.sonymobile.com/global-en/products/phones/xperia-z/ "An Android-based smartphone."
+[xperia-z]: https://www.sonymobile.com/global-en/products/phones/xperia-z/ "An Android-based smartphone."
