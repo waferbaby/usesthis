@@ -49,10 +49,10 @@ body {
   display: flex;
   flex-flow: column;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
-  font-size: 1.4em;
+  font-size: 1.2em;
   line-height: 1.4em;
   margin: auto;
-  max-width: 500px;
+  max-width: 600px;
   padding: 10px 30px;
 }
 
@@ -131,6 +131,8 @@ h4 {
 img.detail, img.portrait {
   border: solid 1px var(--image-border-colour);
   padding: 0;
+  height: auto;
+  width: 100%;
 }
 
 input[type=search] {
@@ -179,8 +181,8 @@ nav ul {
 nav#control {
   border-bottom: solid 1px var(--divider-colour);
   border-top: solid 1px var(--divider-colour);
-  font-size: 110%;
-  margin: 5px 0 25px 0;
+  font-size: 120%;
+  margin: 10px 0 25px 0;
   padding: 10px 0;
   text-transform: uppercase;
 }
@@ -224,8 +226,8 @@ ol {
 
 p#description {
   color: var(--details-colour);
-  font-size: 70%;
-  margin: 0;
+  font-size: 90%;
+  margin: 5px 0 0 0;
   padding: 0;
 }
 
@@ -315,11 +317,6 @@ ul.months li:first-child:before {
 
   h2 {
     clear: left;
-  }
-
-  img.detail {
-    height: auto;
-    width: 100%;
   }
 
   img.portrait  {
