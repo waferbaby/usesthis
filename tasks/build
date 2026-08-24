@@ -1,5 +1,9 @@
-#!/bin/sh
+#!/usr/bin/env ruby
+# frozen_string_literal: true
 
-bundle exec dimples
-rsync -r site/ /usr/local/share/www/usesthis.com
-rm -rf site/
+$LOAD_PATH.unshift(File.dirname(__dir__))
+
+require_relative '../lib/usesthis'
+
+config = YAML.safe_load_file('config.yml', symbolize_names: true)
+UsesThis.generate(config: config)
