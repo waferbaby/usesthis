@@ -1,5 +1,7 @@
 pathnames:
   posts: "interviews"
+  api:
+    posts: "interviews"
 
 pagination:
   page_prefix: "?page="
