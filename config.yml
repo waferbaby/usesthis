@@ -2,6 +2,10 @@ pathnames:
   posts: "interviews"
   api:
     posts: "interviews"
+    categories: "categories"
+    gear:
+      hardware: "hardware"
+      software: "software"
 
 pagination:
   page_prefix: "?page="
