@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     cgi (0.5.2)
-    dimples (12.0.0)
+    dimples (13.0.0)
       erb (~> 4.0)
       redcarpet (~> 3.6)
     erb (4.0.4.1)
