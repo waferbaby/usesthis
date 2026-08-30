@@ -3,5 +3,10 @@ filename: index.json
 ---
 
 {
-  "name": "<%= @this.post.title %>"
+  "name": "<%= @post.title %>",
+  "summary": "<%= @post.summary %>",
+  "categories": <%= @post.categories %>,
+  "api_url": "https://usesthis.com<%= @url %>",
+  "url: "https://usesthis.com/interviews/<%= @post.slug %>/",
+  "contents": "<%= @post.contents %>"
 }
