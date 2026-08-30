@@ -7,6 +7,6 @@ filename: index.json
   "summary": "<%= @post.summary %>",
   "categories": <%= @post.categories %>,
   "api_url": "https://usesthis.com<%= @url %>",
-  "url: "https://usesthis.com/interviews/<%= @post.slug %>/",
-  "contents": "<%= @post.contents %>"
+  "url": "https://usesthis.com/interviews/<%= @post.slug %>/",
+  "contents": <%= JSON.generate(@post.contents) %>
 }
