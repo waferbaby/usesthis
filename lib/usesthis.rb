@@ -1,20 +1,30 @@
 # frozen_string_literal: true
 
+require 'bundler/setup'
 require 'dimples'
+require 'json'
 
 # The main website's class.
 class UsesThis < Dimples::Site
-  def initialize(config: {})
+  def generate_post(post)
     super
 
-    @config.build_paths[:api] = File.join(@config.build_paths[:root], 'api')
+    templates[:api_post].generate(
+      output_path: File.join(@config.build_paths[:api][:posts], post.slug),
+      payload: { post: post }
+    )
   end
 
-  def prepare_output_directory
+  def generate_posts
     super
 
-    return if Dir.exist?(@config.build_paths[:api])
+    url = @config.build_paths[:api][:root].gsub(@config.build_paths[:root], '').concat('/interviews/')
 
-    Dir.mkdir(@config.build_paths[:api])
+    Dimples::Pager.paginate(url: url, posts: posts, options: @config.pagination) do |url, payload|
+      templates[:api_posts].generate(
+        output_path: File.join(@config.build_paths[:root], url),
+        payload: payload
+      )
+    end
   end
 end
