@@ -1,3 +1,23 @@
 ---
 filename: index.json
 ---
+
+{
+"interviews": [
+  <% @posts.each do |post| %>
+    {
+      "name": "<%= post.title %>",
+      "summary": "<%= post.summary %>",
+      "categories": <%= post.categories %>,
+      "api_url": "https://usesthis.com/api/interviews/<%= post.slug %>/",
+      "url": "https://usesthis.com/interviews/<%= post.slug %>/",
+    }
+  <% end %>
+  ],
+  "pagination": {
+    "current_page": <%= @pagination.current_page %>,
+    "total_pages": <%= @pagination.page_count %>,
+    "next_page_url": "https://usesthis.com<%= @pagination.urls.next_page %>",
+    "previous_page_url": "https://usesthis.com<%= @pagination.urls.previous_page %>"
+  }
+}
