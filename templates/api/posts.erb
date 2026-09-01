@@ -17,7 +17,7 @@ filename: index.json
   "pagination": {
     "current_page": <%= @pagination.current_page %>,
     "total_pages": <%= @pagination.page_count %>,
-    "next_page_url": "https://usesthis.com<%= @pagination.urls.next_page %>",
-    "previous_page_url": "https://usesthis.com<%= @pagination.urls.previous_page %>"
+    "next_page_url": "<%= "https://usesthis.com#{@pagination.urls.next_page}" if @pagination.urls.next_page %>",
+    "previous_page_url": "<%= "https://usesthis.com#{@pagination.urls.previous_page}" if @pagination.urls.previous_page %>"
   }
 }
