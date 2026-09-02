@@ -27,4 +27,19 @@ class UsesThis < Dimples::Site
       )
     end
   end
+
+  def generate_categories
+    super
+
+    categories.each do |category, posts|
+      url = "/api/categories/#{category}/"
+
+      Dimples::Pager.paginate(url: url, posts: posts, options: @config.pagination) do |url, payload|
+        templates[:api_posts].generate(
+          output_path: File.join(@config.build_paths[:root], url),
+          payload: payload.merge(category: category)
+        )
+      end
+    end
+  end
 end
