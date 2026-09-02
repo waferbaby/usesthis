@@ -4,14 +4,15 @@ filename: index.json
 
 {
 "interviews": [
-  <% @posts.each do |post| %>
+  <% @posts.each_with_index do |post, index| %>
     {
       "name": "<%= post.title %>",
       "summary": "<%= post.summary %>",
       "categories": <%= post.categories %>,
       "api_url": "https://usesthis.com/api/interviews/<%= post.slug %>/",
-      "url": "https://usesthis.com/interviews/<%= post.slug %>/",
+      "url": "https://usesthis.com/interviews/<%= post.slug %>/"
     }
+    <%= "," unless index == @posts.count - 1 %>
   <% end %>
   ],
   "pagination": {
