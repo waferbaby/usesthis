@@ -1,0 +1,15 @@
+---
+filename: index.json
+---
+
+{
+  "categories": {
+  <% @site.categories.keys.sort.each_with_index do |category, index| %>
+    "<%= category %>": {
+      "name": "<%= category.capitalize %>",
+      "url": "https://usesthis.com/categories/<%= category %>/",
+      "api_url": "https://usesthis.com/api/categories/<%= category %>/"
+    }<%= "," unless index == @site.categories.count - 1 %>
+  <% end %>
+  }
+}
