@@ -257,6 +257,15 @@ span.summary {
   font-size: 90%;
 }
 
+td {
+  font-size: 90%;
+  padding: 10px 0;
+}
+
+th {
+  text-align: left;
+}
+
 ul {
   font-size: 90%;
   list-style: square inside;
