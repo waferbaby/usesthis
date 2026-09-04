@@ -1,0 +1,44 @@
+---
+layout: default
+title: API
+---
+
+<h2>API</h2>
+<p>Uses This has a very tiny (and completely static!) API.</p>
+
+<h3>Endpoints</h3>
+<p>Every endpoint listed is availabe via a GET request. You can also view this list as <a href="/api/openapi.json" title="The OpenAPI spec for the Uses This API.">an OpenAPI spec</a>.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Action</th>
+      <th>Parameters</th>
+    </tr>
+  </thead>
+  <tbody>
+  <% @site.data[:openapi].paths.each_pair do |path, endpoint| %>
+    <tr>
+      <td>
+        <strong><%= endpoint.get.summary %></strong><br>
+      <span class="summary"><a href="<%= path %>" title="An API method that <%= endpoint.get.description.downcase %>">https://usesthis.com<%= path %></a></summary><br>
+        <%= endpoint.get.description %>.
+      </td>
+      <td>
+        <% if endpoint.get.parameters %>
+          <ul>
+            <% endpoint.get.parameters.each do |param| %>
+              <li>
+                <strong><%= param.name %></strong> / <%= param.schema.type %> <%= " (optional)" unless param.required %><br>
+                <span class="summary"><%= param.description %></span>
+              </li>
+            <% end %>
+          </ul>
+        <% else %>
+            None.
+        <% end %>
+      </td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>
