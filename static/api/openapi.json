@@ -42,13 +42,13 @@
           "interviews"
         ],
         "summary": "Fetch interview",
-        "description": "Returns a single post",
+        "description": "Returns a single interview in full",
         "parameters": [
           {
             "name": "slug",
             "in": "path",
             "required": true,
-            "description": "The slug for an interview",
+            "description": "The slug for a specific interview",
             "schema": {
               "type": "string"
             }
@@ -85,7 +85,7 @@
             "name": "slug",
             "in": "path",
             "required": true,
-            "description": "The slug for an interview",
+            "description": "The slug for a particular category",
             "schema": {
               "type": "string"
             }
