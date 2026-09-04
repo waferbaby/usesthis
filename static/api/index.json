@@ -1,6 +1,110 @@
----
-filename: index.json
----
-
 {
+  "openapi": "3.0.3",
+  "info": {
+    "title": "Uses This",
+    "version": "1.0.0",
+    "description": "The (static!) API for usesthis.com"
+  },
+  "servers": [
+    {
+      "url": "https://usesthis.com/",
+      "description": "The main site"
+    }
+  ],
+  "paths": {
+    "/api/interviews/": {
+      "get": {
+        "tags": [
+          "interviews"
+        ],
+        "summary": "List interviews",
+        "description": "Returns a paginated list of posts",
+        "parameters": [
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "description": "Page of items to fetch",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": { "description": "OK" },
+          "404": { "description": "Not found" }
+        }
+      }
+    },
+    "/api/interviews/{slug}/": {
+      "get": {
+        "tags": [
+          "interviews"
+        ],
+        "summary": "Fetch interview",
+        "description": "Returns a single post",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "description": "The slug for an interview",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": { "description": "OK" },
+          "404": { "description": "Not found" }
+        }
+      }
+    },
+    "/api/categories/": {
+      "get": {
+        "tags": [
+          "categories"
+        ],
+        "summary": "List categories",
+        "description": "Returns a list of categories",
+        "responses": {
+          "200": { "description": "OK" },
+          "404": { "description": "Not found" }
+        }
+      }
+    },
+    "/api/categories/{slug}/": {
+      "get": {
+        "tags": [
+          "categories"
+        ],
+        "summary": "Fetch all posts in a category",
+        "description": "Returns a paginated list of posts for the given category",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "description": "The slug for an interview",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "required": false,
+            "description": "Page of items to fetch",
+            "schema": {
+              "type": "integer"
+            }
+          }
+        ],
+        "responses": {
+          "200": { "description": "OK" },
+          "404": { "description": "Not found" }
+        }
+      }
+    }
+  }
 }
