@@ -6,6 +6,14 @@ require 'json'
 
 # The main website's class.
 class UsesThis < Dimples::Site
+  GEAR_PATTERN = /\[([^\[()]+)\]\[([a-z0-9.-]+)?\]/
+
+  attr_accessor :stats
+
+  def self.match_gear_slugs(contents)
+    contents.scan(GEAR_PATTERN).map { |link| link[1] || link[0].downcase }
+  end
+
   def generate_post(post)
     super
 
