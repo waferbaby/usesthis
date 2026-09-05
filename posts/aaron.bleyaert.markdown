@@ -59,5 +59,5 @@ My dream setup is exactly what I have now: A tremendous group of smart, funny, c
 [safari]: https://www.apple.com/safari/ "A fast web browser."
 [t2]: https://www.caldigit.com/Thunderbolt/T1T2.html "A Thunderbolt RAID."
 [twitter]: https://twitter.com/ "An online micro-blogging platform."
-[urx-p2]: https://pro.sony/ue_US/?sonyref=pro.sony.com/bbsc/ssr/product-URXP2%2F4244/ "An portable tuner."
+[urx-p2]: https://pro.sony/ue_US/?sonyref=pro.sony.com/bbsc/ssr/product-URXP2%2F4244/ "A portable tuner."
 [word]: https://www.microsoft.com/en-us/microsoft-365/word "A document editor."

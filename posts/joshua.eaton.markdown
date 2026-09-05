@@ -100,7 +100,7 @@ What I'd really, really, really love is my own little home office, complete with
 [hl-l2350dw]: https://www.brother-usa.com/products/rhll2350dw "A mono laser printer."
 [https-everywhere]: https://www.eff.org/https-everywhere/ "A browser extension for ensuring secure web browsing."
 [k6]: https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard "A wireless mechanical keyboard."
-[kiyo]: https://www.razer.com/gaming-broadcaster/razer-kiyo<Paste> "A webcam."
+[kiyo]: https://www.razer.com/gaming-broadcaster/razer-kiyo "A webcam."
 [lets-encrypt]: https://letsencrypt.org/ "An SSL certificate service provider."
 [m001]: https://walielectric.com/products/wali-single-lcd-monitor-desk-mount-stand-fully-adjustable-fits-one-screen-up-to-27-full-motion-tilt-swivel-rotate-22-lbs-capacity-c-clamp-base-and-optional-grommet-base-wl-m001 "A monitor stand."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."

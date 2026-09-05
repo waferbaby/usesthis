@@ -85,6 +85,6 @@ Homestead hardware wishlist:
 [slime]: https://slime.common-lisp.dev/ "An emacs mode for working with Common Lisp."
 [sly]: https://github.com/joaotavora/sly "A Common Lisp IDE in Emacs."
 [to-do]: https://www.microsoft.com/en-au/microsoft-365/microsoft-to-do-list-app "A to-do application."
-[v-4000]: https://www.fransgard.dk/all-products/forest/v-winch<Paste> "A tractor winch."
+[v-4000]: https://www.fransgard.dk/all-products/forest/v-winch "A tractor winch."
 [wunderlist]: https://www.wunderlist.com/ "A cloud-syncing to-do manager."
 [xterm]: https://en.wikipedia.org/wiki/Xterm "Terminal software for the X Window System."

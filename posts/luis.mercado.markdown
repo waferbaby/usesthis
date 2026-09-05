@@ -19,7 +19,7 @@ Sometimes, I do slow and boring [ambient music](https://worshipambient.bandcamp.
 
 I am very hardware agnostic and something from almost every ecosystem can be found in our home.
 
-My main work machine is a maxed out [HP Omen 15-dc0003la][omen-15-dc0003la]. I've never been a huge fan of HP and I'm certainly not enamored by this one, but I found it at a great price for a mobile machine with a desktop-class processor and in 2020 it's a small miracle I can replace some components, at least until it's illegal to do so (but more on that later).
+My main work machine is a maxed out [HP OMEN 15][omen-15]. I've never been a huge fan of HP and I'm certainly not enamored by this one, but I found it at a great price for a mobile machine with a desktop-class processor and in 2020 it's a small miracle I can replace some components, at least until it's illegal to do so (but more on that later).
 
 I also have a pile of small old laptops, mainly ThinkPads and Intel Classmates for demoing media art installations. The older and slower the better, because if something runs on them, it will run on anything.
 
@@ -69,10 +69,10 @@ I'd also like either a notchless iPhone or an [Android][] with five years of gua
 [ipulsaret-ios]: http://www.apesoft.it/ipulsaret/ "A synth app."
 [kindle-paperwhite]: https://www.amazon.com/Kindle-Paperwhite-Touch-light/dp/B007OZNZG0 "An e-book reader with a book-like screen."
 [macos]: https://en.wikipedia.org/wiki/MacOS "An operating system for Mac hardware."
-[omen-15-dc0003la]: https://support.hp.com/us-en/product/omen-by-hp-15-dc0000-laptop-pc-series/20329817/model/22399629/product-info<Paste> "A 15 inch PC laptop."
+[omen-15]: https://support.hp.com/us-en/product/omen-by-hp-15-dc0000-laptop-pc-series/20329817/model/22399629/product-info "A 15 inch PC laptop."
 [processing]: https://processing.org/ "A programming language/environment."
 [sublime-text]: http://www.sublimetext.com/ "A coder's text editor."
 [supercollider]: https://supercollider.github.io/ "An audio synthesis program."
 [ubuntu]: https://ubuntu.com/ "A Unix distribution."
 [windows-10]: https://en.wikipedia.org/wiki/Windows_10 "An operating system."
-[xf10]: https://fujifilm-x.com/global/products/cameras/xf10/<Paste> "A 24 megapixel compact camera."
+[xf10]: https://fujifilm-x.com/global/products/cameras/xf10/ "A 24 megapixel compact camera."

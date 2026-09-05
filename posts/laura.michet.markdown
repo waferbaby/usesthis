@@ -69,7 +69,7 @@ Perhaps my ultimate workspace would be an entirely wooden one. I could pretend I
 [geforce-gtx-960]: https://www.geforce.com/hardware/desktop-gpus/geforce-gtx-960 "A graphics card."
 [google-docs]: https://en.wikipedia.org/wiki/Google_Docs "A web-based office suite."
 [guild-wars-2]: https://www.guildwars2.com/en/ "An online RPG."
-[industries-of-titan]: https://braceyourselfgames.com/industries-of-titan/<Paste> "A sci-fi city building game."
+[industries-of-titan]: https://braceyourselfgames.com/industries-of-titan/ "A sci-fi city building game."
 [ink]: https://www.inklestudios.com/ink/ "An interactive fiction scripting language."
 [javascript]: https://en.wikipedia.org/wiki/JavaScript "An interpreted scripting language."
 [pathologic-2]: https://en.wikipedia.org/wiki/Pathologic_2 "An adventure game."

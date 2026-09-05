@@ -101,7 +101,7 @@ Beyond that I'm pretty happy, especially considering we just had an internationa
 [tweetbot-ios]: https://tapbots.com/tweetbot/ "A Twitter client for iOS."
 [tweetdeck]: https://about.twitter.com/en/products/tweetdeck "A multi-column Twitter client."
 [twitch]: https://www.twitch.tv/ "A video broadcasting service."
-[usb-microphone-kit]: https://neewer.com/products/neewer-usb-microphone-kit-40096609<Paste> "A USB microphone kit."
+[usb-microphone-kit]: https://neewer.com/products/neewer-usb-microphone-kit-40096609 "A USB microphone kit."
 [wordpress]: https://wordpress.com/ "Weblog publishing software."
 [ybw-a]: https://www.stanwoodimports.com/stanwood-needlecraft-compact-yarn-ball-winder-hand-operated-ybw-a/ "A yarn ball winder."
 [ynab]: https://www.youneedabudget.com/ "A service for helping people save money."

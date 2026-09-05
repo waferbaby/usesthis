@@ -114,6 +114,8 @@ In my bigger dreams, all computers have error correction, and preserve human-ent
 
 In my biggest dreams, all of that is happening in a world with open borders, guaranteed housing, gay marriage, free public healthcare, trans rights, and universal income. We're not particularly close to that world, and I'm honestly pretty worried about whether the world as a whole is even moving in that direction, but I'm doing what I can to help things along.
 
+[macntouch]: www.fingerworks.com/MacNTouch_product.html "An ergonomic keyboard."
+
 [1blocker]: https://1blocker.com/ "An ad blocker for Safari."
 [1password]: https://1password.com "Password management software for Mac OS X."
 [27gn950-b]: https://www.lg.com/us/monitors/lg-27gn950-b-gaming-monitor "A 27 inch gaming monitor."

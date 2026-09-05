@@ -94,7 +94,7 @@ And, I'll always want an Atari [Falcon][falcon030] but [eBay][] prices are alway
 [oneplus-6]: https://en.wikipedia.org/wiki/OnePlus_6 "A 6.28 inch Android smartphone."
 [overleaf]: https://www.overleaf.com/ "A web-based LaTeX editor."
 [proliant-microserver-n40l]: https://n40l.fandom.com/wiki/HP_MicroServer_N40L_Wiki "A small computer."
-[pw-sh0201b]: http://www.pwaytek.com/en/product/products-0-20.html<Paste> "An HDMI KVM."
+[pw-sh0201b]: http://www.pwaytek.com/en/product/products-0-20.html "An HDMI KVM."
 [python]: https://www.python.org/ "An interpreted scripting language."
 [r]: http://www.r-project.org/ "Software for statistical computing and graphics."
 [sayl]: https://www.hermanmiller.com/products/seating/office-chairs/sayl-chairs/ "A work chair."
