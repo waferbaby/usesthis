@@ -11,7 +11,7 @@ require 'json'
 require 'uri'
 
 Dir
-  .glob(File.join(source_path, 'gear', '**', '*.json'))
+  .glob(File.join(source_path, 'data', 'gear', '**', '*.json'))
   .sort
   .each do |path|
     data = JSON.parse(File.read(path))
