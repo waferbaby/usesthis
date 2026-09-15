@@ -2,13 +2,13 @@ GEM
   remote: https://rubygems.org/
   specs:
     cgi (0.5.2)
-    dimples (13.0.2)
+    dimples (13.1.2)
       erb (~> 4.0)
       redcarpet (~> 3.6)
     erb (4.0.4.1)
       cgi (>= 0.3.3)
-    http-2 (1.2.2)
-    httpx (1.8.3)
+    http-2 (1.2.3)
+    httpx (1.8.4)
       http-2 (>= 1.2.0)
     redcarpet (3.6.1)
 
