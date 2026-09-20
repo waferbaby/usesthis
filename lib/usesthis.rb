@@ -28,7 +28,7 @@ class UsesThis < Dimples::Site
 
     url = @config.build_paths[:api][:root].gsub(@config.build_paths[:root], '').concat('/interviews/')
 
-    Dimples::Pager.paginate(url: url, posts: posts, options: @config.pagination) do |url, payload|
+    Dimples::Pager.paginate(url: url, items: posts, options: @config.pagination) do |url, payload|
       templates[:api_posts].generate(
         output_path: File.join(@config.build_paths[:root], url),
         payload: payload
@@ -42,7 +42,7 @@ class UsesThis < Dimples::Site
     categories.each do |category, posts|
       url = "/api/categories/#{category}/"
 
-      Dimples::Pager.paginate(url: url, posts: posts, options: @config.pagination) do |url, payload|
+      Dimples::Pager.paginate(url: url, items: posts, options: @config.pagination) do |url, payload|
         templates[:api_posts].generate(
           output_path: File.join(@config.build_paths[:root], url),
           payload: payload.merge(category: category)
