@@ -5,6 +5,7 @@ date: 2026-10-24
 version: 2
 categories:
 - developer
+- mac
 - writer
 ---
 
