@@ -8,7 +8,7 @@ title: Interviews
   <p>Uses This is a collection of nerdy interviews asking people from all walks of life what they use to get the job done.</p>
 <% else %>
   <h2><% if @category %><%= @category.capitalize %><% else %>Interviews<% end %><% if @pagination.current_page > 1 %> (Page <%= @pagination.current_page %>)<% end %></h2>
-  <p>There's <%= @pagination.post_count %> interview<% if @pagination.post_count != 1 %>s<% end %><% if @category %> in this category<% end %>. Happy reading!</p>
+  <p>There's <%= @pagination.item_count %> interview<% if @pagination.item_count != 1 %>s<% end %><% if @category %> in this category<% end %>. Happy reading!</p>
 <% end %>
 
 <% @pagination.items.each_with_index do |post, index| %>
