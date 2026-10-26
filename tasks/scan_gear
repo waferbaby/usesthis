@@ -17,7 +17,7 @@ Dir
     data = JSON.parse(File.read(path))
     needs_lookup = false
 
-    print "- #{data['name']} (#{data['url']}): "
+    print "#{data['name']} (#{data['url']}): "
 
     response = HTTPX.head(data['url'])
     source_url = URI.parse(data['url'])
@@ -27,21 +27,22 @@ Dir
       puts 'All good.'
     when 301
       puts 'Updated to redirected URL.'
+
       data['url'] = response.headers['location']
+      data['url'] = "#{source_url.scheme}://#{source_url.host}#{data['url']}" if data['url'].start_with?('/')
     when (400...499)
-      print "Performing an archive lookup (got a #{response.status})... "
       needs_lookup = true
     end
 
     if needs_lookup
-      print "Connection failed - performing an archive lookup (#{data['url']})... "
+      print "\n + Connection failed - performing an archive lookup... "
 
       archive_request = HTTPX.get("https://archive.org/wayback/available?url=#{URI.encode_www_form_component(data['url'])}")
       if archive_request.nil? || archive_request.headers['memento-location'].nil?
-        data['url'] = archive_request.headers['memento-location']
-        puts 'Updated (found archive URL)'
+        print "No archived version found!\n"
       else
-        puts 'No archived version found!'
+        data['url'] = archive_request.headers['memento-location']
+        print "Updated (found archive URL)\n"
       end
     end
 
