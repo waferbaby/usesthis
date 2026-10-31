@@ -22,7 +22,7 @@ But again, please see _The Inventor_ and if you like it leave a review / tell fr
 
 ### What do you use to get the job done?
 
-For writing screenplays I use [Final Draft][] and for writing children’s books [Scrivener][] on a [MacBook Pro][macbook-pro]. I also use [Pages][] and the [Notes][] app to work out outlines/ideas and whatever. 
+For writing screenplays I use [Final Draft][final-draft] and for writing children’s books [Scrivener][] on a [MacBook Pro][macbook-pro]. I also use [Pages][] and the [Notes][] app to work out outlines/ideas and whatever.
 
 For drawing, pencils, pens, paper. I color in my work with coloured pencils and also watercolour. I have a small old Winsor Newton travel watercolour set that was my mom's and a water pen. Typically I like Blackwing pencils but I’ll use whatever. Same for pens, but often I use Microns from Japan. Before switching to all digital at Pixar we used Tombo pens and drew on pads made from the same bond as animation paper. I had a big hand in switching the story teams to an all digital pipeline on Ratatouille. Drawing the storyboards in [Photoshop][] using [Cintiq tablets][cintiq] and then placing the drawings into a propitiatory timeline/editing program called Pitch Docter. ( Docter is spelled correctly, as it is named after Pixar director Pete Docter. ). I regret in some ways of helping to create the digital process, but I suppose they would have gotten there anyway by now.
 
@@ -33,6 +33,7 @@ I still draw into Photoshop using a Cintiq. I currently have a 22 inch one on a 
 Hmm. I’m so haphazard in my approach to my artistic endeavours I don’t really know. Would I even stick to one if I had a dream setup? Ideally, I think I’d like a setup that didn’t distract me with email, social media and all the rest.
 
 [cintiq]: https://www.wacom.com/en-us/us/cintiq "A computer screen you can draw on."
+[final-draft]: https://www.finaldraft.com/ "Popular screenwriting software."
 [macbook-pro]: https://www.apple.com/macbook-pro/ "A laptop."
 [notes]: https://en.wikipedia.org/wiki/Notes_(Apple) "A note-taking application included with Mac OS X."
 [pages]: https://www.apple.com/pages/ "A Mac word processor and layout tool from Apple."
